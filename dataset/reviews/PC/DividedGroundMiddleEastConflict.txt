@@ -1,0 +1,143 @@
+-------------------------------------------------
+:::Game Name::: Divided Ground: Middle East Conflict
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/dividedgroundmiddleec/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug 13, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.2
+Critic Score: 6.5, 8 Review (s)
+User Score: 7.2, 18 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Take-Two Interactive
+Developer: TalonSoft
+Genre: Historic Turn-Based...
+Date:     Jul 26, 2001 &raquo;  
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+If you're desperate for a wargame that covers the Arab-Israeli wars, you don't have any place else 
+ to go. 
+
+ Middle East Conflict 1948-1973 is a wargame that stands out for both its originality and its relevance. 
+ It is the latest entry in a genre that has focused almost exclusively on a few high-profile wars, 
+ and it has a sense of immediacy typically missing from wargames. Unfortunately, this doesn't quite 
+ sustain what is otherwise a relatively limp adaptation of TalonSoft's wargaming engine.        
+    Divided Ground focuses on the Arab-Israeli conflict.    
+
+  Most wargames visit World War II or the American Civil War. But Divided Ground centers on the brief 
+ flurries of combat between Israel and its Arab neighbors. These battles have made guest appearances 
+ in other games (there were a few scenarios in TalonSoft's 1998 Operational Art of War) , but until 
+ now, they've never had a starring role in their own game. This is partly because the Arab-Israeli 
+ conflict is small potatoes compared with the usual fare in wargames. But while these may be relatively 
+ minor chapters in the history of warfare, the tensions that fueled them are still in effect. In 
+ fact, with the situation in Israel being what it is, Divided Ground has an unsettling real-world 
+ significance you don't get when you're replaying Pickett's charge at Gettysburg or the 1944 Omaha 
+ Beach landing.   
+
+  When Israel announced its statehood in 1948, it fought back local Arabs to carve out a slice of 
+ territory in Palestine. In 1956, the Israelis crossed the Suez Canal and seized the Sinai Peninsula 
+ from Egypt. In 1967, Israel initiated the Six Day War when it launched a brilliantly executed preemptive 
+ strike against Egypt, Syria, and Jordan, which were plotting their own attacks. And finally, in 
+ 1973, the same three Arab nations were joined by Iraq for a surprise attack against Israel during 
+ the religious holiday of Yom Kippur. The attack was handily repulsed, and the war was over in three 
+ weeks.   
+
+  Divided Ground is a collection of scenarios from these four instances of the Arab-Israeli conflict. 
+ You can play the scenarios singly or as part of a campaign of linked scenarios in which casualties 
+ carry over from battle to battle. You can play as either side in a campaign covering Jordan and 
+ Israel fighting on the West Bank in 1967 or in a campaign covering Syria and Israel fighting over 
+ the Golan Heights in 1973. The maps tend to be in the 10km-by-10km range, and the battles represent 
+ an hour or two of fighting, divided into six-minute turns. The scenarios are played on a tactical 
+ scale, with each unit's strength points representing individual vehicles or squads of soldiers. 
+ Each unit uses action points to move, fire, and return opportunity fire during the opponent's turn. 
+           Longer-range weapons make line of sight very important.    
+
+  Divided Ground uses the same engine from TalonSoft's East Front, West Front, and Rising Sun games, 
+ collectively called the Campaign Series. But unlike the fairly extensive updates we've seen in 
+ each of those successive titles, there's very little that's new in Divided Ground. This is particularly 
+ disappointing -- after all, Rising Sun had brought to life the unique aspects of ground combat in 
+ the Pacific Theater of World War II. There were new rules for night combat, entrenched positions, 
+ and the almost indomitable spirit of Japanese infantry. But Divided Ground has only a few new features 
+ that amount to small twists.   
+
+  For instance, some of the later scenarios successfully convey a sense that the face of war is changing. 
+ Historically, tank battles have revolved around ballistics factors such as armor penetration and 
+ range. But with increasingly lethal weaponry, modern warfare has shifted to a game of detection. 
+ If you can see it, it's dead. Divided Ground introduces the early days of this shift with antitank 
+ guided missiles (ATGMs) such as the TOW and AT-3 Sagger. With these tank killers, armor is suddenly 
+ frail, and range isn't as important a factor as line of sight.   
+
+  Similarly, some of the later scenarios portray the introduction of helicopters. However, these 
+ aren't the deadly gunships that prowl today's battlefields. Early on, helicopters were mainly airborne 
+ troop transports that afforded infantry unprecedented mobility. With helicopters, you can quickly 
+ waltz right over an otherwise invulnerable line of defenders. New antiair units are provided to 
+ trump the helicopters.    
+
+ However, ATGMs and helicopters are a minor part of Divided Ground. Most of the game plays like World 
+ War II on a desert palette. This isn't necessarily inaccurate, but there's little sign of the effort 
+ that went into making Rising Sun, the previous game in the series, look and feel like a new game 
+ in a new place. Part of the problem is that the actual battles are the least interesting part of 
+ the situation in the Middle East. Whether it's 1948 or 1973, the pattern is consistent -- the Israeli 
+ Defense Force marshals its superior training and equipment and beats up on surprised Arab armies. 
+ It doesn't make for a very compelling wargame, and it doesn't accurately reflect the complexity 
+ of the situation (for a far more interesting take on events, you'll have to revisit SSI's 1992 
+ port of the board game Line in the Sand, which is all about the delicate, shifting geopolitical 
+ balance in the Middle East) .           The enemy AI in Divided Ground can be problematic.    
+
+ 
+  But having said that, Divided Ground does what it can to make an interesting wargame out of a 
+ lopsided situation. There were some significant military moments in these wars, and you'll find 
+ some of them here. There's the triumphant taking of Jerusalem in 1948. There's the bloody fighting 
+ against Syria in the hotly contested rough terrain of the Golan Heights. There is Israel's opening 
+ move in Gaza at the start of the Six Day War. One of the most fascinating scenarios details current 
+ Prime Minister Ariel Sharon's insubordinate attack on Mitla Pass in the 1956 campaign in Sinai. 
+   
+
+  Most of the scenarios are played from the Israeli side. To temper Israel's military advantage, 
+ a lot of them rely on cheap handicapping tricks, like limited visibility or narrow time limits. 
+ One epic battle to root Syrians out of the Golan Heights plays like a frustrating puzzle mission 
+ in which you have to navigate a maze of minefields and hard-to-see escarpments. It's like a guessing 
+ game -- "Is that an embankment or an escarpment?" -- in which you try to guess which hex sides a tank 
+ can drive over. And there are some scenarios that feel like filler. Who wants to mop up a force 
+ of Palestinian militia hunkered down in a coastal town? Who wants to control a group of disorganized 
+ Egyptians behind some hastily erected defenses?   
+
+  One of the most puzzling missions is a nighttime Egyptian commando raid -- here, the minimum range 
+ of the commando's weapons is three hexes, but the maximum visibility is two hexes. The result is 
+ a bunch of troops traipsing around on the beach with absolutely no way to shoot at anything. Were 
+ the Egyptians really that incompetent, or did someone at TalonSoft just forget to play-test the 
+ scenario? Unlike in the rest of the games in the series, there's a conspicuous shortage of hypothetical 
+ scenarios, as well as scenarios balanced for two humans to play against each other. Likewise, the 
+ random mission generator and dynamic campaigns that gave Rising Sun almost unlimited hard-drive 
+ life are each notably absent from Divided Ground.           Some of the scenarios are much more 
+ interesting than others.    
+
+  The manual is abysmal beyond belief -- important information is instead shoved onto PDFs and help 
+ files on the CD. Because the Middle East is so brown, the graphics in the 3D view are pretty muddled. 
+ And for some reason, Divided Ground won't save its display settings. The engine still doesn't play 
+ nice with Windows, bleeding into your desktop colors if you Alt+Tab out of the program. In some 
+ scenarios, the AI is horribly scripted. You can watch units dither back and forth, eating up CPU 
+ cycles for no apparent reason. Plus, the computer will dribble its forces piecemeal into killing 
+ zones. Sometimes it will simply march units in the wrong direction like a quarterback running toward 
+ the wrong end zone.   
+
+  In the end, problems like these manage to unseat TalonSoft's admirable intentions to address a 
+ chapter of war seldom visited, but with an unsettling relevance to current events. The Campaign 
+ engine has been around far too long to be simply rehashed with so few changes. More importantly, 
+ it's sad to see some of the engine's same old problems still in effect. If you're desperate for 
+ a wargame that covers the Arab-Israeli wars, you don't have any place else to go. But if you're 
+ just looking for a solidly built wargame, your best bet is to stick with Rising Sun for the time 
+ being.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

@@ -1,0 +1,357 @@
+-------------------------------------------------
+:::Game Name::: Combat Mission 3: Afrika Korps
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/afrikakorps/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jan 29, 2004
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.4
+Critic Score: 7.9, 10 Review (s)
+User Score: 8.2, 131 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: cdv Software
+Developer: Big Time Software
+Genre: Real-Time Wargame
+Date:     Dec 3, 2003 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Afrika Korps is the third installment of the acclaimed Combat Mission series, and like its predecessors, 
+ it represents the absolute state-of-the-art in tactical wargames. 
+
+  Afrika Korps is the third installment of the acclaimed Combat Mission series, and like its predecessors, 
+ it represents the absolute state-of-the-art in tactical wargames. While it substantially uses the 
+ same engine as the last Combat Mission game, Barbarossa to Berlin, it provides dozens of new scenarios 
+ set in theaters uniquely suited to emphasize the strengths of the engine. It's a bit disappointing 
+ that the engine wasn't further refined to address its relatively few weaknesses, but Afrika Korps 
+ is still an excellent tactical wargame and a great addition to the series.  
+
+          The new dust cloud effects reveal unit movements but can also shield you from attacks, 
+ since you still can't blindly fire into areas that are obscured by smoke or dust.     
+
+  Like the other Combat Mission games, Afrika Korps is a turn-based, hardcore WWII wargame that eschews 
+ traditional hex-based gameplay in favor of more visceral 3D environments. Units are individual 
+ vehicles or infantry squads, and after each side sequentially delivers orders for a turn, the combat 
+ results are displayed in replayable 60-second movies. The movies are consistently engaging, since 
+ you can't directly control you units while the action unfolds -- although the AI will automatically 
+ alter unit commands in response to battlefield developments. Unit morale and fatigue, experience, 
+ command, suppression, cover and concealment are all comprehensibly modeled, and the armor and armaments 
+ of hundreds of included vehicles and guns are appropriately rated. Battles can involve a handful 
+ of units that skirmish on a map as small as a single monitor screen, or they can scale up to massive 
+ confrontations between dozens of tanks that battle through expansive landscapes. Buildings, trees, 
+ and other terrain features are physically represented in the 3D environments, thus allowing you 
+ to intuitively gauge the most promising attack routes and defensive positions. The Combat Mission 
+ series does an unprecedented job in presenting a complex combat simulation in an incredibly accessible, 
+ rewarding fashion.  
+
+  However, the series is also showing its age. When the first Combat Mission game came out in 2000, 
+ its 3D graphics were a huge improvement over the rudimentary or highly abstracted graphics in previous 
+ wargames. 2002's CM: Barbarossa to Berlin retained the same core engine but also featured numerous 
+ gameplay tweaks and improvements. There are a couple of notable gameplay modifications introduced 
+ by Afrika Korps -- including desert dust clouds and a greater tendency for brush to catch fire -- but 
+ otherwise the engine is identical to the one used by Barbarossa to Berlin. As a result, Afrika 
+ Korps feels like a stand-alone expansion pack with somewhat dated graphics.  
+
+          M3 Grants have a puny 37mm turreted gun, but they do feature a more powerful 75mm gun in 
+ the hull. This means that you should definitely avoid hull-down positions.     
+
+  Even though Afrika Korps doesn't feel as innovative as previous installments in the series, it 
+ still offers a tremendous amount of gameplay. Its battles are set in Africa, Italy and Crete, and 
+ they commence with the Italian-African offensive in late 1940 and end with the April 1945 skirmishes 
+ in Italy. While the Combat Mission engine does a capable job of simulating infantry battles, its 
+ real strength has always been rendering tank and armored vehicle clashes. Since the open African 
+ terrain offered little cover for infantry in WWII, tanks enjoyed unparalleled prominence on the 
+ theater's battlefields, and the Combat Mission engine is ideally suited for depicting the resulting 
+ armored duels. Virtually every series of vehicle from every nation that fought in Africa or Italy 
+ is available for use, including the multigunned American M3 Grants and the "Tinkertoy" Italian 
+ tankettes. Forces from 10 different nations are represented, including Canada, Poland, and Australia, 
+ and almost 70 historical (or historically inspired) battles and operations are included, thus allowing 
+ you to re-create any key confrontation set in these theaters.  
+
+  The new terrain and unit graphics aren't exactly representative of the bleeding edge in 3D graphics, 
+ but they're appropriately detailed and do a more than serviceable job at drawing you into the action. 
+ The dust cloud effects not only make the desert battles unfold in a more realistic manner, but 
+ they present novel tactical challenges. The distinctive settings also effectively vary gameplay, 
+ as desert battlefields that only offer dunes for cover play out considerably differently than do 
+ showdowns in the forested or urban landscapes of Italy. There's no music, but sound effects are 
+ generally great, since each gun and weapon type is represented distinctively. Units mutter phrases 
+ using their own native languages and accents, which is a great touch, even though the voice acting 
+ is pretty wooden and repetitive.  
+
+  There's no single- or multiplayer campaign to wade through, but there are a few operations that 
+ string together multiple battles with the same pool of units. In addition to the prepackaged battles 
+ and operations, you can also create your own quick battles by randomizing or selecting the available 
+ forces, the setting, and the size of the battle. Given the scale of these tactical battles, it 
+ would be artificial to offer an encompassing Panzer General-style campaign. Still, the developers 
+ should have at least collated the battles in chronological order, or they could have collected 
+ related battles to give you some sense of accomplishment for fighting through major campaigns. 
+ While the stand-alone, discrete battles work fine in multiplayer games, they aren't packaged into 
+ a very compelling single-player game.  
+
+  The biggest problem with the single-player game, however, remains the unchallenging AI. The AI 
+ is completely incapable of mounting any sort of large scale offensive or managing a mobile defense. 
+ While you can handicap yourself by giving the computer AI additional or more experienced units -- or, 
+ alternatively, by weakening your own forces -- doing so isn't particularly satisfying since the AI 
+ is still strategically inept. The tactical AI does a more capable job of adjusting unit commands 
+ in response to battlefield developments, but it still often makes inexplicable decisions. For instance, 
+ armored units consistently retreat under fire and haphazardly expose their flanks or trek across 
+ open terrain instead of taking advantage of available cover. The AI is unable to use suppressing 
+ fire, to initiate smoke bombardments, to use feints, or to lay ambushes, and as a result, it's 
+ a very poor opponent. Even modestly experienced Combat Mission players will get decisive victories 
+ over AI opponents in virtually every battle. The AI also does a poor job of pathfinding units between 
+ waypoints, thus forcing you to micromanage units around obstacles. The AI in Afrika Korps isn't 
+ any worse than it was in prior Combat Mission games, but it's disappointing that it hasn't improved 
+ either, since the poor AI strips any longevity from the single-player game. Fortunately, Afrika 
+ Korps is a fantastic multiplayer game, and players can establish a direct TCP/IP connection, use 
+ a single computer in hotseat mode, or play by e-mail.  
+
+          You can view the battlefield from virtually any angle, including this top-down perspective, 
+ so the information displayed can be heavily customized.     
+
+  While the other Combat Mission games were eventually packaged for retail release, Afrika Korps 
+ is currently only available by directly ordering it from www. battlefront. com. Despite being produced 
+ by a small developer, Afrika Korps is generally more feature-rich and polished than its more commercial 
+ wargame peers. There are, however, a few minor technical quirks and features that make evident 
+ its presumably modest production budget. There's still no way to conveniently adjust the game's 
+ resolution, so it will naturally default to your desktop setting. Fogging effects don't work with 
+ ATI video cards, and certain Nvidia and ATI drivers create additional problems, most of which are 
+ well documented in the game's reference guide. The 30-page printed QuickStart guide is certainly 
+ adequate for experienced players, but the more comprehensive manual is only provided as a PDF. 
+
+  While it's a bit disappointing that Afrika Korps doesn't address any of the weaknesses of Barbarossa 
+ to Berlin, it's still a great wargame, and its tank-friendly and diverse environments make it the 
+ best installment in the series. Like its predecessors, Combat Mission: Afrika Korps manages to 
+ offer an incredibly complex tactical wargame in an accessible package.     
+-------------------------------------------------
+:::User Reviews::: (6 Reviews)
+::::::
+UserName: Michael_Dorosh
+Rating: 8.5
+Date: Oct 4, 2008 6:48 pm PT
+Review:  The heyday of turn-based, squad-based, company-level tactical wargaming set in the Second World 
+ War on the PC may have come and gone. Combat Mission was probably the ultimate expression of this 
+ genre; Steel Panthers never graduated beyond alternating turns and the 2D map, and Close Combat 
+ is still with us after more than half a dozen titles, but never broke successfully into 3D successfully 
+ despite 2 or 3 tries (including the ill-fated G. I. Combat) . Panzer Command is slowly gaining traction, 
+ however, and Combat Mission: Shock Force, the sequel to the original trilogy of Combat Mission 
+ titles of which this game was the final entry, has arguably turned into more of a "platoon shooter" 
+ than a serious tactical level game.
+  
+  Despite the fact this review is being written 5 years after release (an eternity in the PC world) , 
+ CM: AK still occupies the high ground in this niche, from the perspective of serious, sim-minded 
+ games. That's not a contradiction in terms. CM: AK has a lot of physics under the hood - tank shells 
+ are tracked in flight, even get pushed by the wind, and such things as armour slope and the angle 
+ the tank is sitting on terrain will have an effect on survivability and vehicle damage. But these 
+ calculations stay under the hood, and a unique game interface keeps the player informed and up 
+ to speed and makes this a fun game first and foremost.
+  
+  There are too many positive attributes to be able to effectively catalogue them all. The game is 
+ open ended in that it has a fully user-friendly map editor. The downside is that you can only use 
+ the terrain elements the game ships with - no importing of 3D models, and you can only vary the 
+ elevations in 2.5, 5, or 8 metres increments up to 20 different levels - which is still a lot. 
+ The graphics are dated, sometimes horribly so - no moving water, but the wind does rustle the leaves 
+ on the trees. Nonetheless, you can build a map from scratch, or, amazingly, have the computer build 
+ a pretty decent one for you at random, in either North Africa or Italy (which will pass for Northwest 
+ Europe, too) . In the latter case, you can fully mod the terrain with new skins simply by dropping 
+ new .bmp files into the appropriate folder (no in-game utilities are present, but it's simple to 
+ do) . The scenario editor is a breeze to use, unlike, say, Operation Flashpoint, which required 
+ a Ph. D in mathematics and a working knowledge of the Czech language.
+  
+  Gameplay is simple; victory conditions are either territorial (capturing flags, either static or 
+ "dynamic", meaning you don't know for sure which one the enemy is going for) , casualty based, or 
+ exit based, or a combination of the above. Single missions ("battles") can be either premade by 
+ scenario designers (many are included on the release disc, more are abundant out in the online 
+ community) or created on the fly by the "Quick Battle" system which will do them at random, either 
+ on a map of your choosing, or on a random map, using any parameters you choose. If that isn't enough 
+ flexibility, you can also play premade "Operations", a form of campaign that consists of several 
+ "battles" fought over the same map, either to represent an advance over several hundred metres 
+ of terrain, or a defence of a key position. The redrawing of the front line between battles was 
+ a weakness that never really got ironed out in CMX1 - and unfortunately, Battlefront never figured 
+ out how to do it, and dropped the idea from the new game engine. Too bad. Many gamers have used 
+ CM: AK and its Eastern Front twin, CM: Barbarossa to Berlin, to create "meta-campaigns" which do 
+ the same thing, only with the details tracked manually, on spreadsheets. They're a rewarding experience 
+ in and of themself.
+  
+  The units in the game also speak to the enormous wealth of detail and flexibility included on the 
+ disc; well-researched order of battle for German, British, Canadian, Polish, Australian, New Zealand, 
+ South African, Italian, American and Free French forces in North Africa, Crete and Italy are included; 
+ every major infantry battalion type, armoured fighting vehicle, ordnance type, light anti-tank 
+ weapon, and a handful of representative soft-skin vehicles and aircraft are all included to portray 
+ just about any action that took place from 1940 to 1945 in the Mediterranean theatre of war. And 
+ they all speak their own language.
+  
+  Play is turn based, using simultaneous (WEGO) turns, either solo play, 2 player PBEM or TCP/IP. 
+ Can you learn to play quickly? Yes. But you can't master it in an afternoon. There are hundreds 
+ of different kinds of units, and mastering the complexities of such things as tank vs. anti-tank 
+ weapons is just one facet. As an example of one of the thousands of things to learn, German units 
+ after 1943 bristle with short-ranged weapons, though they won't fire them if suppressed by small 
+ arms fire or high explosive, and if they fire them from inside a house run the risk of injury... and 
+ that's just one detail of one facet of the game. Luckily there are decent info screens accessible 
+ by a single command, and coloured bars showing things as armour penetration, without being obtrusive 
+ in a FPS way. You have vital information at your command, without being hand-held. The game also 
+ has a tutorial mission in the manual (not a walkthrough as in, say, Medal of Honor) and if you're 
+ really stuck, the official forums can help you out and the CM: BB Strategy Guide is still for sale 
+ and will be applicable in large part to this product though the unit-specific data in it will not. 
+ 
+  
+  There are some disappointments; BFC abandoned support to the game after a small number of official 
+ patches citing the need to move on to the new game engine, and support on their forums was sometimes 
+ openly hostile. And there are a few things that never got fixed; most importantly, the much-touted 
+ "multi-turreted tanks" included in the game don't actually fire their guns at independent targets. 
+ There are other minor bugs discussed on the official forums but none that should turn away a potential 
+ customer, and the game is stable. The dated graphics include such things as 3-man squads substituting 
+ for 10-man units on the battlefield - much like a counter o boardgame map - but the action is best 
+ observed from above and play is fast and addictive, best enjoyed against another human. 
+  
+  A unique, fun, and realistic game that helped set a high standard which other games - including 
+ it's own sequel - are still struggling to meet.
+  
+  
+::::::
+
+::::::
+UserName: hsedai
+Rating: 10
+Date: Jul 23, 2008 9:54 am PT
+Review:  CMAK was the perfect and final sequal to this series of games. Finally, I was able to play with 
+ the most realistic and dangerous tanks in WWII. I loved my huge tigers on the landscape made for 
+ tanks... the desert.
+  
+  Now, we have the most realistic gameplay made for armor. The armor wars were just spectacular and 
+ I could create my own scnarios using all of the armor in WWIi from the 1939 British Cromwell to 
+ the 1945 Sturm Tiger. Obviously, the game is an armor enthusiast's dream and it actually helped 
+ me with some of my model building. 
+  
+  Did you know they measured armor thickness vs round velocity and armor piercing capabilities (tungsten 
+ vs HE) on every shot made?
+  
+  
+  The music is limited to the start of the game and will make you laugh but other than that, there 
+ is no real music to speak of. The sound is quite good and realistic which lends to the immersion 
+ factor ten fold. This game plus surround sound can lead to a very loud and funky good time.
+  
+  The gameplay was a bit more intuitive than its predecessors imho. I found it to be easier since 
+ the pathing worked much better and this incarnation actually had emotions of the tank commanders. 
+ A tank crew could actually panic if they were green or under constant fire. 
+  
+  Yes, they still continued their perfect realism with infantry, artillery, mortar, and sharpshooter 
+ behavior, but I found the most fun to be found in the armor battles. 
+  
+  I would definitely recommend that you purchase and install this game if you enjoy WWII games. This 
+ game will put so many others to shame since the developers did not sacrifice a single remnant of 
+ realism to deliver a fast paced game. 
+::::::
+
+::::::
+UserName: Ovrman
+Rating: 8.9
+Date: Jun 5, 2006 12:05 am PT
+Review:  Strengths:
+  -Continues the excellent 'wego' system of combat developed by Big Time. 
+  
+  -New features like sand and dust trails which obscure LOS
+  
+  -Huge maps that effectively portray 
+ the historical accuracy of artillery and high-velocity guns.
+  
+  -Meticulously researched OOBs and vehicle models.
+  
+  Weaknesses:
+  -Some may not be as interested 
+ int he North Africa & Italy scenarios from WW2... as opposed to Northwestern Europe or Russia.
+ 
+  
+  -The open desert may not always be an enjoyable scenario for the CM engine. Extensive LOS may present 
+ some game balancing issues.
+  
+  Bottom Line:
+  If you have any interest in historically accurate, turn-based, tactical WW2 combat simulations, 
+ then this is a MUST HAVE!!! 
+::::::
+
+::::::
+UserName: SSS383
+Rating: 9.2
+Date: Mar 8, 2005 2:42 am PT
+Review:  If you have any love for WWII action and wargaming this game is for you. If you are expecting awesome 
+ graphics and flashy animations please go buy one of the boiled down WWII wargames. This game makes 
+ up for its lackluster graphics by including a bewildering array of accurately depicted WWII units, 
+ unit AI and some awesome armor penetration algorithms. Don't get me wrong the game does look pretty 
+ good, its just not the top notch stuff we are use to these days.
+  When playing this game you take on the role of the commander of as much as a few battalions with 
+ hundreds of troops or down to a single guy in WWII theatres mostly concentrated around the African 
+ and Italian campaings, however, with the mission designer you can create scenarios that are suppose 
+ to be in other areas. The way the battles take place is a really cool feature of the game. You 
+ plan out what you will do before you start your turn then you start your turn. This turn lasts 
+ 60 seconds and during this time you sit back and watch your plans go into action. Its pretty neat 
+ watching your well laid plans go great or watch everything go incredibly wrong then reacting to 
+ it next turn. These battles can actually become very tense and many unexpected variables will come 
+ into play. I mostly use the great mission designer to create my own scenarios, but there are a 
+ load of great scenarios that ship with the game.
+  The sound in this game is pretty good, the only music is a short spiel at the begining of the game 
+ when you start it so it isn't a big variable here, however the sound in-game is pretty good. From 
+ the sounds of machine guns to people screaming and tanks rolling around they are all believable 
+ and add to the games atmosphere alot. The ambient battle and weather noises are great to and they 
+ change with the weather also. Sound also plays a role in unit detection, the ability to detect 
+ a unit by the sound it makes will change with weather conditions. An example of this is if its 
+ raining or really windy its just harder to hear some guys running through the woods or a distant 
+ gunshot.
+  Overall this game is a well made recreation of WWII small unit actions and is the most enjoyable, 
+ serious WWII wargame I have ever played.
+  
+::::::
+
+::::::
+UserName: Lovegreen
+Rating: 9
+Date: Dec 3, 2004 11:08 am PT
+Review:  The Combat Mission series is a must for any fan of realistic wargaming. With the last installment 
+ in the serie it gets even better. By todays (2004) standards the graphics are dated, by the core 
+ gameplay has never been surpassed. 
+  
+  The CM series utilise a so-called "WE-GO" approach to turn based strategy, meaning that each player 
+ programs his moves, and the result is the calculated by the game. You can then view the result 
+ "movie", which runs for one minute, without being able to interfere in the action. After this minute 
+ you can give new orders to your troops. This can be quite nerve wrecing, to see your troops trying 
+ to carry out your ordes, but being stopped in thier progress by your enemy, in all sorts of ways. 
+ Morale, leadership and experience of the troops play heavily into the equation, and without proper 
+ tactics and knowledge of the equipment/tanks etc. you will not stand much of a chance.
+  
+  A huge number of WWII fighting vehicles, tanks etc. are described in great detail, such as armor 
+ thickness on each side, the curvature of the armor, turret speed, ground presure (dont get bogged 
+ with heavy vehicles!) , armament, penetration values with different projectiles at different angles 
+ and distances. An equal amount of detail has gone into the troops.
+  
+  I can not recommend this game enough to any WWII strategy gamer.
+  
+  
+::::::
+
+::::::
+UserName: staticelf
+Rating: 9.2
+Date: Sep 3, 2004 7:53 am PT
+Review:  I have played Combat Mission since i first discovered it as Combat Mission: beyond overlord... 
+ I have always apprecieated the hard work and refinements than come along with each new installment... This 
+ game is always playable in that you can never run out of new battles to try... I'll watch a good 
+ war movie then set it up on Combat Mission to play it out myself! Graphics are very good and you 
+ wont find more vehicle paint schemes or variants... and these can easily be modded (By the way i 
+ would really love to see a WH40k mod come out for this) the sound is good considering there is 
+ no music but effects are clean and can also be modded. If you are a WWII enthusiast just being 
+ able to see the forces in action is awsome.. the only improvement i would like to see would be a 
+ total playback feature so that at the end of a battle one could watch the whole battle play through 
+ and save these battles to be viewed again later.
+  Difficulty can be changed but i would suggest playing with friends as the computer becomes predictable 
+ after a few hundred games. 
+::::::
+
+-------------------------------------------------

@@ -1,0 +1,217 @@
+-------------------------------------------------
+:::Game Name::: Falcon 4.0
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/falcon/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jan 11, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.9
+Critic Score: 8.4, 14 Review (s)
+User Score: 8.5, 262 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Atari
+Genre: Jet Sim
+Date:     Nov 30, 1998
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+So is Falcon 4.0 the second coming of flight simulation or a buggy mess? Alas, it's a bit of both. 
+ 
+
+ Nearly five years in development, the Falcon 4.0 that finally hit shelves in December is a bit of 
+ a dichotomy. At times, it's arguably the most detailed, ambitious, and realistic depiction of modern 
+ air war ever attempted. It's a sim that's so full of details you'll spend weeks making awed discoveries 
+ of new capabilities, of minute aspects of war never before re-created in a flight sim. At other 
+ times, Falcon 4.0 feels like it's more potential, more promise, than anything else. Bugs, glitches, 
+ and performance problems pop up all too often in some areas of the sim, a clear indication that 
+ even after all that time, the sim was slipped out the door without enough testing.  
+
+ So is Falcon 4.0 the second coming of flight simulation or a buggy mess? Alas, it's a bit of both. 
+ Sim pilots willing to explore the plethora of options in Falcon 4.0 that do work fairly well, while 
+ awaiting the inevitable patches, are likely to find dozens of hours of play here. But gamers who 
+ want to be able to try any feature and be assured that it will work properly will want to wait 
+ and be sure that MicroProse comes through with its promised patches.  
+
+ The promise of the sim is evident when you first open Falcon 4.0's package and are greeted by a 
+ monster manual packing approximately 600 pages. The more methodical players will want to start 
+ with the excellent tutorial section, which features 31 missions designed by F-16 pilot Pete Bonanni. 
+ These missions will take you step-by-step through learning to handle the plane and its weapons 
+ systems properly.  
+
+ Of course, if you're more the instant-gratification type, you can skim the concise Cadet's Guide 
+ booklet, jump into the setup section, activate the easy flight model, simplified avionics, and 
+ exaggerated weapons effects, and dive right into the instant-action mode. With a variety of realism 
+ options, Falcon 4.0 is one of those magic designs that can ease a gamer from novice to expert, 
+ little by little. (Contrast this to Jane's F-15, which had arcade and expert modes, with little 
+ in the way of intermediate settings.)  
+
+ Along with training and instant-action modes, you'll find dogfight mode, which lets you set up aerial 
+ encounters between up to four flights of aircraft. There's also a mission builder for creating 
+ your own missions. The heart of the sim, however, is the dynamic campaign. It's here that you may 
+ find one of the most engrossing, immersive simulated combat experiences ever. Unfortunately, it's 
+ in the campaign that you'll run across most of the sim's current problems.  
+
+ Falcon 4.0's campaign is set in Korea, with three scenarios that start you with your forces ahead, 
+ at a stalemate, or in danger of defeat. The missions here aren't scripted but rather are generated 
+ on the fly by the dynamic-campaign engine. This tracks not only the entire air war, but the ground 
+ war as well. You'll see (and hear, on the radio) combat in the skies and on the ground around you. 
+ That's a big part of the sense of immersion - as you head towards your own target, ground battles 
+ are going on around you, contrails are above you, and air defenses are firing at flights miles 
+ away. Your actions do affect the outcome of the campaign, but not to an inappropriate degree. Overall, 
+ this is easily the most comprehensive dynamic campaign yet attempted, and the missions come across 
+ in a very realistic way. Much of what you'll see here will blow you away: surface-to-air missile 
+ sites unleashing volleys of SA-6s at attacking F-4 Phantoms, MiG-29s engaging F-15s in realistic 
+ air-combat maneuvering, and artillery shelling distant ground forces. Unfortunately, even with 
+ the latest patch, you'll also see wingmen returning to base immediately after takeoff, AWACS controllers 
+ sending you to intercept enemy planes hundreds of miles off your course, inaccurate post-mission 
+ success ratings, and the rare but annoying crash back to the Windows desktop. In fact, if you're 
+ going to be playing the single-player campaign, you're better off not installing the initial patch, 
+ as the program is more stable and the AI more intelligent without it.  
+
+ Where the patch does help is in multiplayer mode. In the initial release, it was difficult to make 
+ a successful multiplayer connection. With the patch, you're treated to a peek at what has the potential 
+ be an amazing multiplayer experience - once the sim is tweaked. Not only can you set up multiplayer 
+ single missions and melee dogfights, but you can also have multiple human players take part in 
+ the campaign. Players can enter and leave the simulation at will, so those with permanent Net connections 
+ can leave the sim up and running as a continuous sever. Unfortunately, there's no matchmaking server 
+ available for finding other Falcon players.  
+
+ The sim does excel in flight and systems modeling. The plane handles in an extremely authentic manner, 
+ from the realms of basic maneuvering through the deadly F-16 deep stall. Be warned that with all 
+ realism options on, Falcon 4.0 should pose some new challenges for even experienced PC pilots. 
+ In fact, despite 15-plus years of sim experience, I broke the landing gear off my F-16 on seven 
+ of my first eight landings. All pertinent cockpit systems and switches are modeled, with a full 
+ suite of air-to-air and air-to-ground radar modes. The 2D cockpit is "active," so instead of memorizing 
+ dozens of keypresses, you can actually manipulate the controls on the panel. Situational awareness 
+ is aided in flight by multiple padlock views, as well as fixed snap views. The "check six" view 
+ is a bit slow to come up, but if my experience in the backseat of an F-15 is any indication, twisting 
+ to look directly behind you while strapped into an ejection seat wearing bulky flight gear is rather 
+ difficult, so this may not be inaccurate.  
+
+ Falcon 4.0 features detailed and convincing graphics, sounds, and special effects. The Korean terrain 
+ isn't flashy or vibrant in color, but if you compare the somewhat hazy look with what you see out 
+ the window on your next civilian aircraft flight, you'll find the effect is very accurate. Details 
+ such as explosions and burning targets (especially impressive during night missions) , contrails 
+ at altitude, and smoke from factories flesh out the environment. Only the occasional appearance 
+ of obviously polygonal fragments or bizarre purple sparks detract from the environment.  
+
+ Be warned that Falcon 4.0 has sent many gamers scurrying to their local computer stores to buy souped-up 
+ hardware. The single and training missions and instant action and dogfight modes will run fairly 
+ smoothly on a fast Pentium with 64MB of RAM. But the campaign mode is capable of bringing the fastest 
+ system to its knees when visual details and simulation modeling are cranked up. My P2/400 system 
+ ranged between 10 and 21 frames per second in campaign mode, compared with 25 to 41fps in dogfight 
+ mode. With less than 128MB of RAM, you're likely to see slight pauses during campaign missions 
+ as data is swapped to the hard drive.  
+
+ So is Falcon 4.0 for you? Despite the bugs and broken features, I've been game-locked on this simulation 
+ since the day I booted it, forsaking even the WWII sims I'd waited so long for. No other sim has 
+ come so close to re-creating the feel of my one flight in a jet fighter. If you stick to the sections 
+ that are fairly solid - the training missions, instant action, and dogfights - you'll keep yourself 
+ busy for quite a while. And hopefully, by the time you master the plane's systems there, the next 
+ patch will be out, and the campaign glitches will be ironed out. (MicroProse's Gilman Louie has 
+ committed not only to patching all the major bugs, but also to keeping a team working on the program 
+ for up to six months after release to add user-requested enhancements.) But if you're the type 
+ of gamer who gets really frustrated when things don't work as they should, you'll want to wait 
+ until the bugs are ironed out.    
+-------------------------------------------------
+:::User Reviews::: (4 Reviews)
+::::::
+UserName: dkluempers
+Rating: 9.5
+Date: Jun 19, 2008 12:10 pm PT
+Review:  This is being written many years after I first got the game and I have not played it in some time. 
+ I am still amazed at the realism and accuracy that the simulation brings to the PC. If you are 
+ interested in getting a feel for what is like to fly a real fighter then you should try this. The 
+ best thing about this sim is the fact that you really need to plan before you fly. While you could 
+ jump in and just shoot aircraft for fun it is much more challenging and rewarding to play a campaign. 
+ One of the best improvements was the more accurate modeling of the SAM missiles. Unlike Falcon 
+ 3 the SA7 shoulder fired missiles won't follow you for 20 miles at Mach 1.5.
+  
+  I only wish there was game out there today that felt match up to it. Only one other game came close 
+ and that was Tornado. I will keep buying flight simulators in the hope that one will match up Falcon 
+ 4's legacy. 
+::::::
+
+::::::
+UserName: DSJamPot
+Rating: 7.3
+Date: Feb 23, 2007 12:51 pm PT
+Review:  Here is a game well worth the time for all you flight types.
+  
+  Unfreindly to those not used to sim games, although in a way this is good since Falcon 4.0 displays 
+ the absolute flight realism possible for a computer. Saying that, it is a spiky, harsh reality 
+ of what flying a fighter jet would be like. But has immense detail and depth, I've played this 
+ on and off for as long as its been out and still I dont fully understand it. However this is time 
+ well spent, once you tire of the stage of crudely attempting to dogfight and/or attempt at grinding 
+ your hindquarters along a runway and actually sit down and learn how to play, you will find where 
+ the real game is hidden beneath its confusing exterior.
+  
+  Personally I prefer the bombing, in this you will see the graphics at their best with very impressive 
+ explosions that make you feel youve actually done something rather then some statistic health decrease 
+ on an object.
+  
+  The targeting systems are beautifully composed with such gadgets laser guided bombs that actually 
+ show you a bombs eye view of the target inside your cockpit.
+  
+  But once you make a bang, although tempting, avoid flying through that smoke at all costs; on a 
+ fast computer made at the time of the games release, particles made the computer very choppy down 
+ to about 1fps.
+  
+  Dominates well over simpler flight sims such as Microsoft's Combat flight simulator but takes a 
+ massive hit in usability. 
+::::::
+
+::::::
+UserName: nala2624
+Rating: 8.4
+Date: Mar 13, 2006 5:32 pm PT
+Review:  This game seems like it is for those who actually know how to fly a F-14. I am not complaining, 
+ I do know how. But this game is too hard and they expect you to just drop into the play of it. 
+ They need a toutorial or something to help newplayers along. One good thing is that the AI really 
+ know how to fly, and they might actually be a chalenge. The realism is awsome and the graphics 
+ could be better, but take my wod for it, practice and you will find a great game insind of the 
+ box. The only other problem is that not al computers have a Joystick port. And not all people have 
+ a joystick. They need to make it to where you can play with a mouse. 
+::::::
+
+::::::
+UserName: c_hodges
+Rating: 9.7
+Date: Feb 28, 2005 4:12 pm PT
+Review:  Warning this "sim" is really designed for the hardcore flight simmers and/or people with actual 
+ flight experience. But it can be dumbed down for the casual flyers. Update this sim with Falcon 
+ 4 Superpak 4 and it's virtually a whole new game.
+  
+  Gameplay is complex and deep. The dynamic campaign engine is one of it's kind, constantly giving 
+ you new missions- not like most flight sims that give you a set number of missions. This dynamic 
+ engine sets F4 far apart and above many other combat flight sims. The menus are rather intuitive 
+ and easy to follow along. Campaigns can be set from eas y to hard and you can play on either side 
+ in the Superpak 4 mod.
+  
+  Graphically, with the settings maxed this game is magnificent. Flying low and fast along the mountainous 
+ Korean terrain is a huge rush. And try it at night and your heart will be thumping and perhaps 
+ skipping. There is so much detail in this sim it's just great candy for the eyes. Superpak4 adds 
+ updates to support modern videocards. 
+  
+  The sound, more notable cockpit sounds, are the real deal. From the afterburner (crank up the deep 
+ bass if you have it) to the b! tchin' betty warning system, you're strapped into the Electric Jet 
+ that talks to you.
+  
+  Overall, you're going to be spending alot of time reading the manual. Superpak 4 mod's manual is 
+ basically the original F4 manual rewritten and expanded. This is as close to flying the F-16 as 
+ the DoD will probably let you. Anything closer, and you're probably flying the real deal or at 
+ least their full motion sim. Anyone who is anyone in the hardcore flight sim community knows F4 
+ is the modern benchmark for any future flight sim. Go buy your copy of F4 and update it with Superpak4. 
+ http://f4ut. frugalsworld. com/ 
+::::::
+
+-------------------------------------------------

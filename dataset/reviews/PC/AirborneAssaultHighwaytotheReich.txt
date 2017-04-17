@@ -1,0 +1,333 @@
+-------------------------------------------------
+:::Game Name::: Airborne Assault: Highway to the Reich
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/aahighwaytothereich/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Dec 18, 2003
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.1
+Critic Score: 7.7, 12 Review (s)
+User Score: 6.9, 59 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Matrix Games
+Developer: Panther Games
+Genre: Real-Time Wargame
+Date:     Dec 10, 2003
+
+-------------------------------------------------
+:::Review:::
+Highway to the Reich is a rich, rewarding game and a great example of how the designers are using 
+ the PC to push wargaming into new and exciting directions. 
+
+  Panther Games delivered an innovative new kind of wargame last year with Airborne Assault: Red 
+ Devils Over Arnhem. Doing away with the conventional hex-based, turn-based paradigm prevalent in 
+ most computer wargames, Panther Games created an exciting new gameplay system that's the closest 
+ we've come to experiencing what it's like to be a real general. As much as we liked it, though, 
+ the game was a bit thin on content. Highway to the Reich doesn't have that problem -- it's an expanded 
+ and improved Red Devils Over Arnhem, so much so that it's an entirely new product.  
+
+          The 101st Airborne is stretched thin in order to defend key bridges against German counterattacks. 
+     
+
+  Whereas Red Devils Over Arnhem focused only on the experience of the British 1st Airborne during 
+ Operation Market Garden, Highway to the Reich covers the entire campaign from start to finish. 
+ Immortalized in the film  A Bridge Too Far , Market Garden was Field Marshal Bernard Montgomery's 
+ daring attempt to open a route into Germany's industrial heartland. The Allies dropped three airborne 
+ divisions into Nazi-held Holland to seize a series of strategically vital bridges. At the same 
+ time, armored divisions began rolling up the highway that linked the bridges in order to relieve 
+ the airborne troops. Unfortunately, due to stiffer-than-expected German resistance and the unexpected 
+ presence of two crack SS Panzer divisions, the Allies were stopped short of the final bridge at 
+ Arnhem. As a result, the British 1st Airborne, tasked with seizing the last bridge, was decimated. 
+ Only a quarter of the division's 10,000 men made it back to Allied lines, and Market Garden was 
+ a dismal failure.  
+
+  Highway to the Reich features more than 30 scenarios, split into the four distinct theaters of 
+ the operation: the British 1st Airborne at Arnhem, the 101st at Eindhoven, the 82nd at Nijmegen, 
+ and XXX Corps' drive up the highway. All the scenarios can be played as either the Allies or the 
+ Axis, though some are designed to be played from a certain side. Given that Market Garden involved 
+ both lightly armed paratroop units and heavily mechanized armored divisions, there's a challenging 
+ mix of scenarios. In the airborne campaigns, you'll spread your paratroops desperately thin as 
+ you try to seize and then hold your bridges against waves of German counterattacks. In XXX Corps' 
+ scenarios, you have the challenge of trying to funnel two tank divisions up a long, narrow highway 
+ with Germans constantly nipping at your flanks. Even though you have an overwhelming advantage 
+ in artillery and armor, you'll find it hard slogging to keep up with the almost insane timetable. 
+ In real life, the Allies expected XXX Corps to reach its first objective in three hours. It ended 
+ up taking three days, and the airborne troops waiting for reinforcements found themselves holding 
+ out for far longer than expected. The innovative and elegant gameplay system that debuted in Red 
+ Devils Over Arnhem remains pretty much intact. It's a real-time system that can be paused to give 
+ orders and accelerated to speed the lulls between battles. But the beauty of the system is that 
+ it features a historically accurate order of battle that re-creates the chain of command; in other 
+ words, if you want something done, all you have to do is tell a unit to do it, and that unit will 
+ run with the task, issuing orders to its subordinate units to get the job done.  
+
+          The 82nd Airborne breaks out of its landing zone, but a battalion of Germans holds the 
+ town of Groesbeek nearby.     
+
+  It may sound a bit confusing, so for an example we'll use Easy Company, which was featured in  
+ Band of Brothers  and is an actual unit in the game. Easy is part of the 2nd Battalion, 506th Parachute 
+ Infantry Regiment. There are two other companies in 2nd Battalion, Dog and Fox, and two other battalions 
+ in the regiment. That means Easy is one of nine airborne companies that make up the 506th. Now 
+ let's say that there's a town that needs to be seized. If you know the town is undefended, you 
+ can order Easy Company to do the job, and Easy will organize a company-sized attack. If the town 
+ is lightly defended, you can give the order to 2nd Battalion headquarters, and it will organize 
+ a battalion-sized attack using all three companies under its command: Dog, Easy, and Fox. If the 
+ town is heavily defended, you can give the order to 506th headquarters, and it will organize a 
+ regimental-sized attack using all three battalions, and all nine airborne companies, under its 
+ command.     
+
+  It's hard to convey just how cool this system is, because not only does it eliminate the massive 
+ amount of micromanagement inherent in most wargames, but it does so in a way that makes it feel 
+ like you're really commanding forces in the field. The AI does a marvelous job of interpreting 
+ and carrying out your orders. Tell a battalion to seize a bridge five kilometers away, and the 
+ battalion will utilize proper tactics and doctrine; companies will march in road formation before 
+ stopping short of the objective to organize into attack formation. Mortar platoons stay back to 
+ provide fire support, and companies advance in line to the objective. You have the option to micromanage 
+ all the details, but it's usually better to let the AI do all the dirty work. And while the AI 
+ can make mistakes from time to time, humans do as well, so it's all part of the fortunes of war. 
+ The AI also does a competent job as your adversary, but there is the ability to play against a 
+ fellow human being over a TCP/IP connection. However, the game lacks a server browser, so you need 
+ to know someone who has a copy of the game and is willing to invest the time in a match.  
+
+          XXX Corps drives up the highway, but the narrow road limits maneuver options, and the Germans 
+ nip at the flanks.     
+
+  There's also an option to delay orders in the game to realistically model the lag between when 
+ an order is issued and when it is actually carried out. It can take quite a while for orders to 
+ filter down to units in the field; when a unit receives an order, it has to organize a plan and 
+ then pass instructions down to lower-level units. The more levels an order has to pass through, 
+ the more time is required to execute the order. Tell a division to shift locations, and it could 
+ take hours before the first units start to move out. This makes it all the more important to plan 
+ wisely. While your subordinates are busy carrying out your orders, you have time to analyze the 
+ battlefield, devise a plan, and then adjust the plan in reaction to developments.  
+
+  Highway to the Reich does an excellent job of taking a staggering amount of data and presenting 
+ it in a way that's virtually transparent to the player. Each unit is modeled to historically accurate 
+ detail. The airborne divisions dropped into Holland are elite troops, better trained and equipped 
+ than the garrison units they first encounter. However, unit performance is based on a number of 
+ factors, including morale, cohesion, fatigue, and supply. So the longer your parachute units are 
+ in action and the more losses they incur, the less combat effective they become. The game even 
+ keeps track of the number of bullets in the game, so when a unit runs out of a certain type of 
+ ammunition, its combat capability drops accordingly.  
+
+  Keeping in mind that the graphics consist of nothing more than unit counters on a map, Highway 
+ to the Reich is a beautiful game and a marked upgrade from Red Devils Over Arnhem. Maps now have 
+ a hand-drawn look, along with better textures and an antialiasing option that sharpens the lines 
+ and text. Zoomed out, it feels like you're looking at the same sort of high-quality paper maps 
+ used by the military. Panther Games also included map and scenario editors, along with detailed 
+ PDF documentation on how to use them, so you can create your own settings and campaigns.  
+
+          The Germans launch a counterattack against the 82nd Airborne, which holds the high ground. 
+     
+
+  The game has a somewhat steep learning curve, and it takes an hour or two to pick up the basics. 
+ Thankfully, there's an informative 122-page manual that features a comprehensive two-step tutorial, 
+ along with tables, charts, and a glossary. We only wish that the text weren't so small, because 
+ you really have to squint to read it.  
+
+  Highway to the Reich is a rich, rewarding game and a great example of how the designers are using 
+ the PC to push wargaming into new and exciting directions. The elegant gameplay system makes it 
+ one of the most accessible operational-level wargames we've ever played, and it's worth your time 
+ if you're a veteran wargame fan or if you've been thinking about jumping into wargaming.     
+-------------------------------------------------
+:::User Reviews::: (4 Reviews)
+::::::
+UserName: wiggywiz
+Rating: 7.5
+Date: Jun 21, 2006 8:51 am PT
+Review:  HTTR is for wargamers, not ADD kiddies that like Age of Empires 3. Gen_Rommel who posted a worthless 
+ review below and slanted the games manual is a perfect indication of who this game is NOT meant 
+ for
+  
+  It uses a brand new type of gameplay to take the player OUT of the HEXAGON age and into a more 
+ fluid combat situation environment
+  
+  The HTTR mini-guides are now available in offline format (PDF) for download. http://www. matrixgames. com/forums/tm. asp? m=554121
+ 
+  
+  Panther has introduced a flexible multi-level chain of command structure into the game. The player 
+ may interact with units/sub-units at any level within the chain of command. Thus, it is very adaptable 
+ to individual style and needs. One can both micro/macro manage within even a single gaming session. 
+ A critical road block can be created by tasking individual companies while some place else an entire 
+ brigade can be given very open ended orders to make an attack. 
+  
+  Some games have a natural level at which the player should interact with the game. As long as scenarios 
+ and forces are constructed around that natural limit, they play very well. Panther's engine is 
+ much more open ended. The ability to command at any level makes the game highly scalable. In many 
+ games, if you double the forces, the complexity for the player will quadruple (exponential scaling) . 
+ In Panther's engine, the scaling is more of a logarithmic function. So, doubling the forces may 
+ increase the complexity for the player by a factor of 1.2 or so.
+  
+::::::
+
+::::::
+UserName: dwilson
+Rating: 8.8
+Date: Aug 16, 2005 10:11 pm PT
+Review:  Most wargames are either the grand-strategic type (like World at War - G. Grigsby) or company sized 
+ (like Combat Mission) . This game allows you to command your troops in battles of Battalion size 
+ and larger in Operation Market Garden. You'll manage infantry, armor, artillery and air strikes. 
+ This includes factors such as quality of units, weapons, range, moral, fatigue, terrain, time of 
+ day, weather, command structure, reinforcements, ammo, attrition, and much more. It comes with 
+ many scenarios from small. This scenarios are based on the historical battles and are well balanced.
+ 
+  
+  An excellent tutorial is included. If you don't complete the tutorial you probably won't be able 
+ to understand the game. The tutorial is quick and easy and The games is very easy to understand 
+ and play once you've completed the tutorial.
+  
+  I don't consider myself to be an outstanding writer and don't normally write reviews of games here. 
+ I was surprised to see the low average of reviews here. I felt the low score listed here by the 
+ members was undeserved for such a great game. After looking at the breakdown I discovered that 
+ approx. 85% gave a good rating score and 15% of the readers rated the game with a really bad score. 
+ This 15% low scores really hurt the average. I suspect these users who gave low ratings did not 
+ complete the tutorial and were completely lost and frustrated. Therefore, I don't feel this average 
+ of the member ratings accurately represents the high quality of this game.
+  
+  Bottom line, if you're a wargammer or enjoy strategy games then get this game. It's fun!
+  
+ 
+  
+::::::
+
+::::::
+UserName: tanker
+Rating: 8.8
+Date: Mar 7, 2005 3:04 am PT
+Review:  Airborne Assault: Highway to the Reich (AA: HttR) is the follow-up game to AA: Red Devils Over Arnhem 
+ (AA: RDOA) . I only played the demo of AA: RDOA so I cannot comment on the similarities or differences 
+ to that game but those who played that game will certainly find AA: HttR a quick learn. Those who 
+ passed on AA: RDOA will find AA: HttR to have a much grander scale as the game now covers all of 
+ Operation Market-Garden. Thus the replay value is vastly greater.
+  
+  AA: Highway to the Reich is a historical conflict simulation (aka a wargame) in all respects. If 
+ you are new to wargames AA: HttR is not an impossible place to begin but, as with all wargames, 
+ it requires a few hours of work to learn before one can truly enjoy the game (knowledge of the 
+ historical situation and military operations helps as well) . The reward for the effort is a rich, 
+ intellectually challenging and historically accurate game with considerable replay value. Traditional 
+ board wargamers will find much familiar and much to appreciate. There are two tutorials with an 
+ 88 page guide (mostly screen shots) and a well done 120 page manual. Playing through the two tutorials 
+ is almost mandatory (unless you are an AA: RDOA veteran) to learn the game and will take at least 
+ a couple of hours. 
+  
+  AA: HttR covers Operation Market-Garden from bottom to top (with 34 scenarios) . Unit scale is from 
+ platoon to battalion with company being the most common. The game uses a realistic TO&E and unit 
+ subordination is key to the game. The map has six levels of zoom and, at the highest video resolution 
+ (of three) of 1280x1024, an area of 4 sq/km up to more than 45 sq/km is viewable on screen. The 
+ map is vector art and thus looks good at all resolutions and zoom levels. The map is easily manipulated 
+ with the mouse including dragging the map around, zooming, selecting units/objectives as well as 
+ right-clicking to see the terrain type at a particular spot. In may respects AA: HttR is closer 
+ to a traditional miniatures game than a board wargame except for its operational scale. One could 
+ say it is the best of both worlds. There is also a small strategic-scale map with the units shown 
+ as dots. The map even gets darker as night falls. The map and unit art could certainly be more 
+ attractive but they are nice and very functional.
+  
+  The game interface is extremely well done with the majority of the screen being taken up with the 
+ map and a small left hand border containing various information and control panels. There is an 
+ immense amount of information and control provided in the panels in a very easy-to-read format 
+ (it even provides historical info on the various units and commanders) but there is a fair amount 
+ to learn to use them effectively.
+  
+  The unit icons contain a lot of information. No matter what zoom level you are in the units remain 
+ the same size. This is good and bad and one wish is that there was an option to have the units 
+ scale with the zoom. The advantage to having them not scale is that they remain readable at all 
+ times. There is a lot of information packed on them and at max video resolution some may have a 
+ hard time reading them easily. One can choose between NATO style unit symbols and icons but these 
+ take up only the small upper left corner of the unit. The upper right of the unit is a dynamic 
+ spot that uses various colors and icons to display all kinds of various bits of information such 
+ as fatigue, morale, facing, strength, and more. This is a wonderful interface idea but, for some 
+ of the options, the area is a bit small for some of the icons and thus a tad hard to read (again, 
+ at high resolution) .
+  
+  The display of the units has been wonderfully thought out. As soon as you click on any unit its 
+ facing indicator appears along with command lines to its immediate superior and/or subordinate 
+ units. Hitting the arrow keys cycles you through the senior/subordinate formations. This all makes 
+ it very easy to see unit organizations and deployments. In addition, drag selecting units gives 
+ you some overall stats as well as displaying the facing of all the selected units, great for quickly 
+ checking unit deployments. Once you see this display method youll wonder why no one has done it 
+ before.
+  
+  Sound and animation is minimal at best. There are some good combat sounds but animations are 
+ limited to small explosions and colored lines shooting back and forth representing gunfire. This 
+ is all functional for sure but underwhelming at best. There is no music or background noise.
+  
+  Game play is real-time but the action can be paused at any moment (and sped up) and orders 
+ given at any time. In this respect it is similar to TacOps or the Combat Mission games (although 
+ without the 'turns' of those games) . The game can also be minimized so you can easily view the 
+ PDF manual or do other things while playing.
+  
+  Play proceeds simply with giving orders to units and then hitting go and watching the action unfold. 
+ You can give orders to units in real-time or pause the action and give orders and check out other 
+ things. There is an almost bewildering array of order options including various actions, formation 
+ types, aggressiveness, fire frequency and a whole lot more. You can also speed-up play if you are 
+ just moving to contact. Note that you are not playing with turns with a planning phase and then 
+ an actions phase. You can stop time but it always moves forward. You cannot rewind to watch other 
+ events unfold. This is one of my few quibbles with the game. With larger scenarios it is hard to 
+ see all the action that is going on. You can rely on your AI but this also takes some of the fun 
+ out of the game as you may miss some great fights occurring on the other side of the map while 
+ you are otherwise occupied. There are alerts and unit logs so if you find your force ravaged you 
+ can decipher what happened but this is a poor substitute for seeing the action first hand.
+  
+  The line-of-site tool is a thing of beauty and deserves comment. You can check LOS between 
+ any two points on the map. With a simple click and drag you get not only the LOS between the two 
+ end points but to every point in between including dead zones AND elevations! You have to see it 
+ to really appreciate it and again one wonders why we have never seen such a thing before. You can 
+ also instantly see all of the enemy units in LOS of a selected unit.
+  
+  While you can micro-manage every unit if you wish, the design intent, and real beauty, of the game 
+ is to use proper military chain-of-command. Thus you can just give orders to higher level units 
+ (say at division level) and the AI will take care of handling all of the subordinate units. You 
+ can mix and match this and have the AI worry about less important attacks/defenses while you apply 
+ a more hands-on approach to more important areas. The AI is certainly respectable in this regard 
+ but of course, as with any computer wargame, the AI can always use some improvement. On the other 
+ hand, times when I thought the AI was making a poor choice it in fact was not or was reacting in 
+ accordance with unit settings I had made. This is a very elegant system and combined with the concept 
+ of orders delay probably presents the most realistic portrayal of WW2 operational combat seen 
+ in any wargame (board or computer) to date. It is far from perfect but as close as anyone has come 
+ yet.
+  
+  Overall Airborne Assault: Highway to the Reich is a fantastic operational level wargame that puts 
+ you in the seat of an operational-level commander better than any other wargame to date. It DOES 
+ take some time and effort to learn the game -- and you will not appreciate it as much until you 
+ do because you will find all kinds of goodies as you learn  but it rewards your efforts in spades 
+ with a rich wargaming experience.
+  
+  Quibbles I hope to see addressed in the future: Ability for units to scale with zoom; ability to 
+ rewind to watch (although perhaps not intervene) other events; ability to see a regular TO&E diagram 
+ view for formations (both ideal and as currently implemented) ; better graphics, sounds, and animation; 
+ improved AI.
+  
+::::::
+
+::::::
+UserName: Gen_Rommel
+Rating: 3.9
+Date: Jan 9, 2004 3:49 pm PT
+Review:  Let me start with tutorial there is no jumping into the game you have to do the tutorial to understand 
+ one problem though its in the manual! And the size of this thing could break somebodys toe if you 
+ dropped it on it the tutorial is LONG! REALLY LONG and CONFUSING you just really wanna skip it 
+ just move on to the action instead they pos your troops all over the place first and then you attack 
+ which is about and hour after you set evertything up like it said this game just isnt fun because 
+ if you send 5 units against two and you blitz them and attack they arent gonna stand a chance but 
+ in this game its horrible units are routed QUICKLY! and gameplay is just isnt fun with pixilated 
+ bullets going by on screen this game was most definatly not worth 50.00 dollars more like 20.00 
+ the game is just so time consuming and boring that you might not even keep the game for a day I 
+ keep mine just to see if I can somehow make the game fun one by actually winning a battle as the 
+ AI is a camper if you like people who camp this is the game for you because all it is is camp getting 
+ shot well lets run where no one can hit you! this game is just a dullard I played the tutorial 
+ and figured well the game is better Im shore tried to over run pos no chance! the enemy was loading 
+ caps into my units before 45 sec into the game most of the time if you want to be germany you start 
+ in the middle of open while allies start in well covered trees now how do you suppose they land 
+ airborne troops in to a small circle in the middle of a fricken swamp and forest and where talking 
+ battlations here not squads this game is only for those hardcore map strategy gamers who just enjoy 
+ planning there action than exucuting it. 
+::::::
+
+-------------------------------------------------

@@ -1,0 +1,332 @@
+-------------------------------------------------
+:::Game Name::: Kohan II: Kings of War
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/kingsofwar/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Sep 21, 2004
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.5
+Critic Score: 8.1, 36 Review (s)
+User Score: 8.3, 353 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Global Star Software
+Developer: TimeGate Studios
+Genre: Real-Time Strategy
+Date:     Sep 20, 2004 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Kohan II retains its predecessor's unique gameplay while also making key changes that distinguish 
+ it both from the original and from any other real-time strategy games in the intervening years. 
+ 
+
+  Kohan: Immortal Sovereigns was released in 2001, and though it wasn't a blockbuster success, many 
+ of those who actually played it loved it. Its particular take on real-time strategy focused on 
+ the strategic control of companies of troops and on eliminating much of the tedious micromanagement 
+ often associated with the genre. As such, the game proved to be an innovative change of pace from 
+ the conventions of real-time strategy. The sequel, Kohan II: Kings of War, retains its predecessor's 
+ unique gameplay while also making key changes that distinguish it both from the original and from 
+ any other RTS games in the intervening years. And while some of the changes streamline a slickly 
+ designed RTS model even further, they don't detract from this great game's own winning formula. 
+
+          Kohan heroes round up followers to save the world.     
+
+  Kohan II's fantasy setting takes place long after the events of the first Kohan game. Naava Daishan 
+ is chasing after the remains of the Ceyah faction, who were the aggressors and losers of the first 
+ game. Led by Sebak, the Ceyah survivors escape from Naava's grasp and unleash a dark power upon 
+ Khaldun. The forces of humanity are on the brink of annihilation, and it's up to Naava and Jonas 
+ Teramun, a recently awakened Kohan with no memories, to unite the races of the land. The storyline 
+ is a little unoriginal for a fantasy setting, but it is enjoyable nonetheless, thanks to a few 
+ well-placed plot twists. The last mission is also quite fun and suitably climactic, although the 
+ game's ending is rather dull and disappointing. The single-player campaign spans 25 missions and 
+ should take anywhere from 15 hours to twice that long to complete, depending on your strategies 
+ and if you complete optional secondary objectives. At any rate, like its predecessor, the campaign 
+ in Kohan II is too scripted and suffers from weak artificial intelligence. Also, it'll be an absolute 
+ breeze for experienced RTS players at the default difficulty, and even hard difficulty won't be 
+ much of a challenge for the first half of the game. The missions are varied, though, and you'll 
+ get to play as each of the game's races at various parts in the campaign. You may or may not enjoy 
+ this aspect, because even though this lends some variety to the gameplay, you don't really get 
+ attached to any particular characters or their causes.  
+
+  Kohan II features six playable races: human, haroun, drauga, gauri, undead, and shadow. Each race 
+ has its own unique units, buildings, and economic factors, such as reliances on particular types 
+ of resources over other types. These economic twists turn out to be what most differentiates the 
+ races from each other, because the respective military units are basically functional equivalents 
+ despite their aesthetic differences. Each race can also belong to a particular faction. There are 
+ five factions total (although not every race can choose from all of the factions) and each of these 
+ confers certain benefits. For example, the council faction reduces the cost of buildings by 10 
+ percent. These factions allow you to further tailor the game to your play style, although the factions 
+ mainly come into play in skirmish or multiplayer matches since you can't choose your faction in 
+ the campaign. Overall, though the game's races and factions don't have a ton of personality to 
+ them, the various combinations can make for significant and interesting gameplay differences.  
+ 
+
+          Former enemies join your cause for their own reasons.     
+
+  The Kohan series differs from traditional RTS games in both economic and military terms, and Kohan 
+ II continues this tradition. For one thing, you don't gather resources in Kohan II. Instead, buildings 
+ and mines will provide an income rate for the resources. Gold is the only resource that you actually 
+ accumulate. The other resources -- stone, wood, iron, and mana crystals -- are quantified only by a 
+ positive or negative flow. Gold is the bottom line, so if you have a negative flow of the latter 
+ resources, you can still recruit units requiring these resources by paying an additional cost in 
+ gold. A positive flow of these other resources won't automatically grant you more gold, but some 
+ of your structures (or all of them, depending on your race) can be upgraded into exporters where 
+ you can exchange surplus resource income for gold. This rather elegant system actually still requires 
+ you to spend just as much of your attention on resource management as you would in a traditional 
+ RTS game. You can easily find yourself overspending and bringing your gold income down to a trickle. 
+ And since gold is required to buy units, buildings, and upgrades, you won't get very far without 
+ it. You'll have to carefully manage your income flows by converting buildings to exporters or producers, 
+ depending on your needs, in order to maximize your gold.     
+
+  In Kohan II, military units are handled differently from other real-time strategy games. Units 
+ are organized into companies, and you directly control these companies rather than all the individual 
+ forces that comprise the companies. Companies have three formation options -- combat, skirmish, and 
+ column -- which bestow certain effects on the company. For example, combat formation decreases the 
+ company's movement rate but offers complete combat effectiveness, while column formation gives 
+ a boost to speed but cuts combat effectiveness in half. When to switch between different formations 
+ tends to be pretty obvious. One issue with the game is that units in combat formation are too eager 
+ to fight  anything , and they tend to stick to a target once engaged unless they are ordered to 
+ run. As such, in larger battles, it's common to see members of your companies automatically attacking 
+ buildings, walls, or other low-priority targets when there are more immediate threats in the area. 
+ You'll need to micromanage them more than you might expect in a game that alleviates a lot of other 
+ micromanagement issues.  
+
+          Walls of wood won't stop this invading army.     
+
+  A company is destroyed only if every last member of the company is destroyed, but if you manage 
+ to keep just one member alive, you can retreat back to a town or fort. These installations have 
+ a supply zone where your members will be automatically healed and replenished. It's hard to wipe 
+ out a company in Kohan II. Retreating companies will automatically move at their highest speed, 
+ so you will have to chase down your opponents to permanently get rid of them. In fact, you'll usually 
+ have to spend a lot of time chasing retreating companies, so you have to decide if it's worthwhile 
+ to press the attack or to focus your energies elsewhere. Be wary if you let your enemy live to 
+ fight another day -- companies replenish their health much more quickly in Kohan II than in the previous 
+ game, which quickens the pace and has a way of making battles quite interesting. We fought battle 
+ after battle over just one city in a multiplayer game because both sides were able to quickly replenish 
+ their forces.  
+
+  Companies in Kohan II include four frontline units, two flanking units, two support units, and 
+ one captain. You can mix and match any of your available units, and you're encouraged to do so. 
+ An example of this would be a frontline of four swordsmen, a flank of two archers, and a healer 
+ and mage as your two support units. Your swordsmen would engage the enemy melee combatants, your 
+ archers and mage would shoot from afar, and your healer would keep your swordsmen at full health. 
+ However, in practice, it's not necessarily this neat -- you may viably swarm your opponent with greater 
+ numbers for good results. We finished the campaign by simply recruiting companies with the strongest 
+ infantry in the frontline and flank, and using the healers as support. With a couple of pure archer 
+ companies in the mix, we were able to mow through any opposition. This is rather unfortunate for 
+ the campaign, because it means about half the units in the game are either optional or useless, 
+ depending on how you look at it. Of course, multiplayer games do require you to be more careful 
+ in your company composition, especially when you factor in heroes and experienced companies.  
+
+ 
+  The immortal Kohan heroes of Khaldun return in Kohan II. Like companies, the heroes gain experience 
+ and level up to become stronger. They provide extra bonuses to the company, such as protective 
+ shields or healing. Unlike its predecessor, dead heroes in Kohan II do not require gold to revive. 
+ Instead, they will automatically revive inside a city's supply zone like an ordinary unit; however, 
+ they will lose all experience and start from ground zero -- so there's a big incentive to keep your 
+ hero-led companies from getting wiped out. Heroes seem more powerful in the sequel. A veteran company 
+ with a Kohan hero and a healer can trample multiple foes at once. Our three swordsmen companies, 
+ along with Kohan heroes, held off a force three times its size due to their veteran status. We 
+ experienced similar results in a multiplayer game, so you definitely want to keep your experienced 
+ units alive.  
+
+          Spells are as devastating as they look.     
+
+  The cities in Kohan II are also handled differently from the first game, and they represent the 
+ key locations on each map. First of all, you can only build cities in predetermined settlement 
+ spots, which has several impacts on the gameplay. The limited cities, along with the resource mines 
+ scattered across the map, cap the income you can generate. Resource generators become much more 
+ valuable. You don't have to worry about defenseless or unproductive mines, though; they no longer 
+ need to be in a supply zone to generate income, and you can build forts to protect mines and other 
+ key points on the map. Forts, like cities, have garrisons of militia that will automatically run 
+ out and attack anyone who ventures too close to the strongpoint. They are a welcome addition to 
+ the Kohan series, because they buy you time so you can get to a besieged city before it falls. 
+ The limited cities also let you know where points of contention will be for the entire game, and 
+ it also stops players from building cities to postpone an inevitable defeat at the end of a game. 
+ In spite of the fixed settlement spots, you still need to scout the map. Not only can your opponents 
+ build on settlement spots, but they also can build forts to block your movement. A few well-placed 
+ forts can delay and wound your reinforcements from getting to a besieged city, for example.    
+  
+-------------------------------------------------
+:::User Reviews::: (6 Reviews)
+::::::
+UserName: jeroenvdl
+Rating: 8.5
+Date: Mar 11, 2008 2:13 pm PT
+Review:  When writing your review, remember to keep the language clean. Reviews must be 100 words minimum. 
+ We encourage you to try to get your review right the first time - you may choose to edit it later 
+ on, but by doing so, you will lose any positive feedback associated with the review. We encourage 
+ you to write your review in a word processor or text editor, save it to your local disk, then copy 
+ and paste it into the posting box below. When writing your review, remember to keep the language 
+ clean. Reviews must be 100 words minimum. We encourage you to try to get your review right the 
+ first time - you may choose to edit it later on, but by doing so, you will lose any positive feedback 
+ associated with the review. We encourage you to write your review in a word processor or text editor, 
+ save it to your local disk, then copy and paste it into the posting box below. 
+::::::
+
+::::::
+UserName: Chilly
+Rating: 9.6
+Date: Aug 3, 2006 8:54 pm PT
+Review:  OK game till you get past the learning curve, then it really takes off! This is one of the best, 
+ in my opinion. Lots of detail but not overwhelming. The art, and sounds are amazing! Lot's of options 
+ from the start. I like to play the undead mostly for the way they look. I have learned that the 
+ best way to win is to scout out most of the map at start, while building up your town. Then build 
+ an army with about 3 or 4 mixed units ( like archers, and infantry units) , then take as much as 
+ you can till you acquire 300 gold to raise your town to the next level. Watch your resources. When 
+ they go into the red, you lose gold, and gold is what is what you need! 
+  
+  This is the kind of game you will want to play over, and over again. I really can't think of anything 
+ bad to say about this game. It is done really well. Definitely a labor of love! 
+::::::
+
+::::::
+UserName: sponny1
+Rating: 8
+Date: Oct 22, 2006 2:42 am PT
+Review:  Kohan is by far one of the best RTS games that i have played Grameplay: its addictive gameplay are 
+ nice and sweet cause of its unique features to each race has Royalist, Councilst and ect. Though 
+ my favourite race is the Haroun cause it has a nice special feature plus each race has its own 
+ special featuers for example the Drauga has strong attack points but weak defence
+  and the Haroun arent really needed to build thier building cause it would build themselve While 
+ the The units arent much but each has a some thing great to it The Battles are really nice as you 
+ have to create a team, teams are usually built by instant or custom but while its good if one were 
+ to choose custom cause there are special troops that you cna place in there and you could actually 
+ attach a hero but each hero has weakpoint to it but if there isnt any hero thats available there 
+ would be a captain Titans are like catapult, juggernaut and ect but there are only three units to 
+ this, The titan as the leading group itself and two support units
+  
+  if your wondering how i played my game hapily well try checking some of the game vedios cause that 
+ is actually how played the game cause my Graphics engine and Mega byte are very high The Campain 
+ is very nice and tuotorials are able to be remmembered while the cutscene and challeging mission 
+ is what that make the game good the game also has a some slight errors and unrealistic scenes
+ 
+  
+  Some independent enemies are great, suitable for the battlefield and ech will give gold, extra units 
+ and ect
+  
+  Graphics: The Grahpics are very impressice and very great for a depts of a RTS game that has a great 
+ environment and great lighting effects While Charecters and units are nicely done htey seem more 
+ impressice than Batlle For Middle Earth 2
+  
+  The environments are nice and openfield are always a great place to go for a full scale war
+  
+ 
+  Water detaild arent as bright nor do they seem to really impress me
+  
+  Sound: The music are well done and sounds of sword fights, explosion, animal hounding, magic sonds 
+ environment sounds and voice acting are absoloutly impressive
+  
+  some voice are very fitting to the units and charecters like for example the sound for shouting 
+ of the nighmare are very fitting
+  
+  Value: The game used to be very expensive but eversince i got it yesterday i was shock to see that 
+ it was only 20 bucks and it was original too!!!!
+  
+  while it used to be 40 bucks the money was worth 40bucks but buying for 20 bucks well......
+  
+ 
+  it just felt wierd Reviews tilt: The game is one of the most entertaining RTS at its finnest
+  
+ 
+  the game will truly be in the so called gamespot's one of the most greatest games of all time in 
+ 5 or 6 years from now 
+::::::
+
+::::::
+UserName: obrent
+Rating: 8.7
+Date: Jan 3, 2006 12:07 pm PT
+Review:  Kohan 2 - Kings of War, is overall a good game that can be enjoyed by anyone whos is good or likes 
+ playing RTS games. With the company system, having to manage unit by unit is over! A company has 
+ 5 - 9 units in it. It always has a leader and a frontline (4) but can also have a flank and up 
+ to 2 support units.
+  
+  Graphics: Very Good (for RTS Game)
+  Sound: Above Average
+  Time Spendable: Hundreds of hours, either out of frustration or fun.
+  Overall: A good game with 
+ only the bit every now and then that could be better. 
+::::::
+
+::::::
+UserName: Aniaml4890
+Rating: 7.8
+Date: Oct 31, 2005 10:31 pm PT
+Review:  If you are looking to play this game, don't expect an immersive single-player campaign. The single-player 
+ side of this game is rather quick and uneventful. It's too bad too, since the storyline had good 
+ potential. Therefore, the single-player campaign is more of a beginner's tutorial for the multiplayer 
+ arena.
+  
+  Gamespy hosts the multiplayer community for Kohan2. It's nice that Kohan2 had a multiplayer option, 
+ but it would have been better to use anyone but Gamespy. The Gamespy interface is clunky and appears 
+ to have been slapped together at the lowest cost possible. Aside from the dissapointing Gamespy 
+ software, the multiplayer aspect of Kohan2 is quite good. Battles are normally very balanced, minus 
+ a few overly-powerful units. 
+  
+  To play effectively at all in multiplayer you to finish the single-player campaign. To play well 
+ in multiplayer you need lots of experience. The competition is stiff and team coordination is a 
+ key to victory.
+  
+  The gameplay in Kohan2 multiplayer is basically a battle over settlement sites. On these sites 
+ you your fortresses that house your unit producing and unit enhancing buildings. Your settlements 
+ also gain you invaluable resources to fund your army. In addition to that you can construct gold, 
+ iron ore, mana, and wood mines on those deposits. The darker races rely more on mana (which is 
+ harder to come by) where the lighter forces rely more on gold and wood.
+  
+  Victory is achieved by a mixture of good communication, speed, good tactics, and overall strategy. 
+ Overall strategy depends much on one's economy. Large and strong armies are very expensive. The 
+ more units you have to pay for the slower your economy will grow and the weaker it will be later 
+ on. There's a balance of unit production to economic growth. People tend to lean one way or the 
+ other based off the rest of their strategy.
+  
+  Overall, Kohan2 is a fun and fairly solid game. The multiplayer has a loyal, if small, community. 
+ If you enjoy fantasy-rts then you'll undoubtedly enjoy this. Otherwise, you might look elsewhere 
+ since there are currently lots of other good RTS games out atm. 
+::::::
+
+::::::
+UserName: Alec-Eiffel
+Rating: 7.9
+Date: Sep 27, 2004 8:06 pm PT
+Review:  In an age of hassle and dissillusionment, gamers don't want to sit down to a strategy game that 
+ will take them upwards of two or three hours to get used to, they want quick and simple fun. Kohan 
+ II: Kings of War developed by TimeGate Studios (who is currently making another real time strategy 
+ game, Axis & Allies) is the absolute definition of simple. In fact, I'll go on to say it's one 
+ of the most streamlined strategy games ever made, while that's not always a good thing, it is in 
+ this case. This sequel to the excellent 2001 RTS, Kohan: Immortal Kings, is more intuitive and 
+ innovative than its predecessor. The building scheme is swift, there's no need to worry about where 
+ you're going to place your next structure, because once you click the "build [insert building name 
+ here] ", the AI controlled peasants do that without error. But the twist to construction is, that 
+ as opposed to teching up your town center with whatever resources you have, you must be in control 
+ of however many buildings that tier calls for. The first tier town center needs three structures 
+ for example. This allows for quick and easy management, allowing you to concentrate more on battles. 
+ Which brings us to the single-player portion of the game, and as many people will disagree with 
+ me, I feel as if this aspect was more of an afterthought compared to the multi-player. It's very 
+ easy, and it relies on the standard rock, paper, scissor rules of most real time strategy games, 
+ but it's kind of unnerving that in absolutely every case, size matters. For instance, if your enemy 
+ has a group of units that counter your units, but you still have about 10 or 12 more than he does, 
+ there's not a chance that he has a sufficient battle tactic to overcome your numbers. Depending 
+ on which mode of play you plan to beat the campaign on (even though both are very easy) , the single-player 
+ should take you about 10-15 hours to complete.
+  
+  The multi-player aspect of the game, for lack of a better term, is "where it's at". Using the Gamespy 
+ network, it's pretty easy to pick a game to start you battles. The network code runs a decent clip, 
+ and rarely gets laggy, which is to be expected. But in terms of gameplay, the simple base building 
+ management makes for enormously fun possibilities, and while it doesn't give you a lot of leeway 
+ to construct, it still makes the battles all the more interesting knowing that your opponent is 
+ up against the same management. More developers need to make a streamlined system like that in 
+ Kohan II, but it needs to offer more, but as it is, it sets up the groundwork for many good multi-player 
+ RTS's to come. 
+::::::
+
+-------------------------------------------------

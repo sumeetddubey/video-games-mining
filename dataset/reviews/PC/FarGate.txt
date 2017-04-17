@@ -1,0 +1,214 @@
+-------------------------------------------------
+:::Game Name::: Far Gate
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/fargate/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Sep 12, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.3
+Critic Score: 6.6, 11 Review (s)
+User Score: 6.5, 18 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Microids
+Developer: Super X Studios
+Genre: Strategy
+Date:     Sep 10, 2001
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+In spite of the game's original qualities, there are just too many other, better choices available 
+ to make it worthwhile for most real-time strategy game players. 
+
+ "Venture into oblivion." That unfortunate tagline has been applied to Far Gate, a new 3D real-time 
+ strategy title set in space from neophyte Seattle development house Super X Studios. The phrase 
+ inadvertently sums up the experience of playing Far Gate -- the game's difficult interface, unmanageable 
+ camera angles, and many technical problems all but overshadow Far Gate's various original qualities. 
+           Far Gate features fully 3D battles, but unwieldy controls.    
+
+  As with all strategy games featuring fully three-dimensional playing fields, Far Gate's success 
+ or failure hinges on the usability of its interface. Letting the player quickly and effectively 
+ maneuver ships in a 3D environment portrayed on a flat 2D monitor is a serious challenge for any 
+ developer to overcome. Unfortunately, while Far Gate's interface seems both attractive and functional 
+ at first glance -- courtesy of foldaway panels that keep track of current orders and handle the control 
+ of individual units, squadrons, and special commands -- extended play uncovers a great many shortcomings 
+ in its design. The panels, for instance, line all sides of the screen, making it easy to open them 
+ up when you're actually just trying to scroll the camera. Locking them in an open position eliminates 
+ the problem, though doing this obscures a good portion of the screen. (Freezing them in their folded-back 
+ position would likely be a better option, were it available, as you can still read the information 
+ on them in this state, and they don't get in the way as much.) Turning the interface off completely 
+ and making do with hotkeys and the mouse is really the only way to proceed.   
+
+  The camera perspective is equally tricky to operate. Zooming in and out with the mousewheel seems 
+ to change the viewing plane, so attempting to get up close and personal with a vessel or structure 
+ requires some additional fiddling, which isn't exactly conducive to guiding ships into the heat 
+ of battle. Right-clicking on a unit or a squadron for a close-up is even more frustrating. One 
+ click takes you in so tight that you can't see anything else (which is effective if you want to 
+ watch a battle from the chase-mode camera) , and two clicks don't move you far enough back to get 
+ a good look at the situation. Hitting the Tab key provides a tactical overview of the entire system, 
+ but even this is relatively useless since you're placed so far away from everything that it's impossible 
+ to see what's going on. Moving the cursor over individual units and obstacles such as planets and 
+ asteroids brings up an telescope-like circle that reveals more of the map, though these bubbles 
+ appear right on top of your vessels and thus cover more than they reveal. At any rate, most ships 
+ are so tiny that you won't know that they're present at all unless you search for them with the 
+ cursor. Maneuvering squadrons on this tactical screen is also trying because the left mouse button 
+ both selects units and assigns them orders to move. As a result, you'll often select a new unit 
+ by mistake when actually trying to move one.           The battles are waged between three rather 
+ distinct races.    
+
+  Frustrations caused by the interface will be worsened by Far Gate's general lack of technical polish. 
+ Load times are extremely long when starting a mission, lasting a full minute or more, even on a 
+ system that's well above the recommended minimum. This wouldn't be quite as bad if the game actually 
+ loaded, as it frequently doesn't. While loading saved games in the solo campaign, the game regularly 
+ crashes to the desktop without so much as an error message. Starting a new mission routinely required 
+ two or more attempts, the first one almost always resulting in a crash to the Windows desktop. 
+ Far Gate also crashes during regular gameplay. These bugs can crop up at any time, sending you 
+ abruptly back to Windows with only a beta tester's log report to show for it.   
+
+  That these issues are so troublesome is a real shame, since some of the core concepts behind Far 
+ Gate are solid. The story is well told and there are three distinct playable factions in the game 
+ that employ wholly disparate units and structures. In the 17 missions of the brief solo campaign, 
+ you play as Jacob Viscero, a black marketeering space captain blackmailed into assisting with the 
+ human colonization of the Proxima Centauri star system. No sooner are these efforts underway than 
+ you're presented with some strange inconsistencies regarding why you're in the star system at all 
+ and the trustworthiness of your own military. Making matters worse, a wormhole opens and you're 
+ promptly under attack by the nue-guyen, squidlike creatures that treat deep space like an ocean. 
+ The standard real-time strategy triumvirate of races is soon filled out by the entrodii, crystalline 
+ beings that specialize in a sort of biokinetic energy weaponry. Over the course of the game, you 
+ travel to different systems through wormholes in an effort to defeat the enemy and find a peaceful 
+ home for the human colonists.    
+
+ Each of the three races uses diversified technology, units, and structures that set it apart from 
+ its rivals. Mechanically inclined terrans have diverse hardware that makes them jacks-of-all-trades. 
+ Their ships balance speed, armor, and firepower in nearly every way. There is nothing surprising 
+ in the human arsenal, which is made up of light fighters and gunboats at first and more powerful 
+ ships such as carriers and bombers in the later stages. The same can't be said for the nue-guyen. 
+ These rather disgusting aliens organically mimic technology with living "ships" such as the blood 
+ worm, which sprays digestive acid onto enemies; the drakken, which can spit flammable gel; and 
+ the sirocco, which breathes corrosive clouds of bacteria. All the nue-guyen are symbiotic, so their 
+ individual attacks are more powerful when they're gathered in significant numbers. Eels, for example, 
+ produce stronger electrical discharges when in packs. Nue-guyen are also generally quite agile 
+ and tough, and concentrated fire is often required to take them out. Entrodii are stronger offensively 
+ than the other two races, due to their use of potent energy weapons. Vessels like the shardikru 
+ and the shrike are little more than plasma cannons capable of devastating foes with a single blast. 
+ The drawback to this is a lack of maneuverability that makes them vulnerable.           The camera 
+ angles are awkward, and get in the way of the combat.    
+
+  All factions build bases in space that can be expanded with the addition of attached structures 
+ designed for the construction or hatching of specific unit types. The terran prefab kit turns itself 
+ into a destiny-class station hub that is the center of other buildings, such as pod bays, shipyards, 
+ and hangars. Nue-guyen and entrodii bases are constructed in the same way, although they aren't 
+ so much built as they are grown. Nue-guyen facilities revolve around a "heart," and they include 
+ additions such as hives and hatcheries, while the entrodii start with an energy-producing spire 
+ that can power the creation of offshoots like the precipitator and crystallizer. In all cases, 
+ if the central hub unit is destroyed, everything attached to it goes up in flames. All three civilizations 
+ gather the same resources from asteroids floating through the game's many planetary systems. This 
+ is largely automated, so micromanagement isn't a concern. With the terrans, for example, all you 
+ have to do is build a station hub and pod bay near an asteroid field. From there, pods automatically 
+ collect the resources for you. Entrodii resource gathering is even more basic, as the collector 
+ beams the material gathered directly to the race's spire.   
+
+  These differences don't have as much of an effect on the solo game as you might expect. All sides 
+ move at a sluggish pace. Ships move slowly and time cannot be accelerated, so you'll often wait 
+ for minutes while vessels go about their patrolling or move to engage the enemy. Computer opponent 
+ artificial intelligence is quite poor, as both the nue-guyen and the entrodii will often lack the 
+ ability to properly react to your movements. As a result, the solo campaign missions are fully 
+ scripted and laid out like puzzles that need to be solved. Many of the situations simply can't 
+ be handled the first time through a mission. You'll need to replay most missions three or four 
+ times in order to learn how to counter what the enemy is going to do. Learning what is about to 
+ happen is really the only way to succeed in many of the assignments, especially after the first 
+ third of the campaign.   
+
+  It's easy to suspect that this deficient artificial intelligence was behind the unfortunate decision 
+ to ship Far Gate without a skirmish mode. Although you can engage in single missions against the 
+ computer, the only missions available are the ones that you've already completed in the course 
+ of the campaign, and you can only play them on the terran side. Replayability is bolstered somewhat 
+ by a campaign editor, six multiplayer-only maps, and matching service support through GameSpy and 
+ Mplayer, but it's hard to imagine too many players going online without the initial enticement 
+ provided by skirmishing against the computer.           At least the aliens are memorable.    
+
+ 
+  Far Gate's inconsistent quality extends to its graphics and sound, although these elements are 
+ generally quite good. Graphically, the game has a unique appearance that is both contemporary and 
+ retro. Some aspects of the artwork are spectacular. Ship designs are fully evocative of the races 
+ that use them. Terran vessels feature moving mechanical parts like recoiling cannons and rotating 
+ sensor dishes, nue-guyen look like various octopi swimming through space, and the entrodii ships 
+ glisten and radiate a powerful glow. Other components aren't quite so attractive. The background 
+ is ablaze with hues that seem out of place. Colorful nebulae overwhelm both the blackness of space 
+ and the stars, as do asteroids that shine like nuggets of gold and silver. Characters are represented 
+ by cartoonish head-and-shoulder pictures that seem out of place.   
+
+  The quality of the audio is also inconsistent. Atmospheric sounds include nice touches like the 
+ thump of a terran cannon, the crackle of radio transmissions when you get close to a human hub, 
+ and the dolphinlike squeal of a nue-guyen. Unfortunately, all this is weighed down with a musical 
+ score that is absolutely bizarre. It's reminiscent of an old-school progressive rock instrumental, 
+ filled with chiming bells, out-of-place horns, and lots of faux spooky notes from a recorder. It 
+ deserves points for originality, though the overall effect is so jarring that it can distract you 
+ from the actual game.   
+
+  Judging Far Gate as the first effort from an independent developer, it can be seen as a successful 
+ first step -- it features many promising elements that the developer can improve and expand on in 
+ future endeavors. But judging Far Gate as a commercial product in the fiercely competitive real-time 
+ strategy market doesn't give nearly as favorable of an impression. Ultimately, in spite of the 
+ game's original qualities, there are just too many other, better choices available to make it worthwhile 
+ for most real-time strategy game players to settle for Far Gate and its many problems.    
+-------------------------------------------------
+:::User Reviews::: (2 Reviews)
+::::::
+UserName: hirogen
+Rating: 7.5
+Date: Jul 9, 2006 3:33 pm PT
+Review:  I agree with the previous reader review. This game, though lacking polish, has a wide variety of 
+ fun to use units, balanced gameplay, and an interesting premise. Though old, it still has some 
+ pretty visuals. Highly recommended.
+  
+  It has a relativly long campaign, and some pretty backgrounds and a sound presentation.
+  
+  
+ Visuals are easy to look at. The game features 3 fully realized races, which is a real plus here. 
+ Each one plays noticeably different from the other, as well as having a different art scheme and 
+ general philosophy. The units are fun to use, functional, and have interesting qualities.
+  
+  The multiplayer is functional at best. Don't expect any complex multiplayer game types here; 
+ as it seems to be designed mostly as a single player expierience. The multiplayer does play well 
+ though, and offers a medium paced game.
+  
+  The space looks really nice in this game. For a game of 2001, the celestial spheres and planets 
+ still look pretty, and nice colorful effects add to the fun.
+  
+  Controls will take around an hour to get fully used to. Once past that hour, you can expect decent 
+ and effective control of your units and bases.
+  
+  Since this game is most likely not in production, its a good idea to download it wherever you can. 
+ 
+::::::
+
+::::::
+UserName: andrew_ribbons
+Rating: 7
+Date: Jun 8, 2006 5:27 pm PT
+Review:  I haven't seen this game anywhere in the shops for years now. Its very sad, because this game, 
+ despite its glitchyness, despite its horrendous soundtrack, is actually VERY original and VERY 
+ fun, once you get it to load that is.
+  
+  The graphics are actually very good for their time. I think that they deserve some credit for putting 
+ in the effort there. The sound is awful though, i often turn it off, the console woman is ghastly. 
+ The story is superb and the unit design and variance is very VERY VERY good and i think that overall 
+ this game should have been recognised more in its time. The game was orgininally discredited terribly 
+ because of its horrendous glitches. Hardly anyone could get it to run at all, and those that did, 
+ found it bad.
+  
+  Its a real shame, i'm the only person who knows what a "diamond in the rough" this game really 
+ is. I also doubt anyone interested in giving it a go would be able to find it. Though Ebay might 
+ be worth a shot, or just type it into google and see what comes up. 
+::::::
+
+-------------------------------------------------

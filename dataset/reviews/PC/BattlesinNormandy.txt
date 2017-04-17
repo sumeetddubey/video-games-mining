@@ -1,0 +1,183 @@
+-------------------------------------------------
+:::Game Name::: Battles in Normandy
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/battlesinnormandy/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct  8, 2004
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.4
+Critic Score: 8.9, 3 Review (s)
+User Score: 8.0, 59 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Matrix Games
+Developer: Strategic Studies
+Genre: Wargame
+Date:     Sep 13, 2004
+
+-------------------------------------------------
+:::Review:::
+If you like wargames and can stomach the price, Battles in Normandy definitely provides enough entertainment 
+ to earn its keep 
+
+  Take one of the best operational-level World War II wargame engines ever devised, improve it, and 
+ cross it with one of the most compelling campaigns in military history, and you get Battles in 
+ Normandy, the latest entry in SSG's Decisive Battles series. The new game has the same basic engine 
+ and gameplay as The Ardennes Offensive and Korsun Pocket, but it incorporates several improvements, 
+ including a deadlier computer opponent, a streamlined interface, and much better in-game support, 
+ which can be relied on to present answers to most questions with simple mouse-overs.  
+
+          There's nothing better than a hex-based wargame that doesn't rely on generic terrain tiles. 
+     
+
+  This turn-based wargame lets players invade (or defend) Normandy in multiple campaigns and scenarios, 
+ and many enhancements to the combat engine were made to handle the unique aspects of this epic 
+ clash. Naval units can now bombard the coast, which dovetails nicely with a new amphibious operation 
+ component that was added to handle the D-Day beach assaults. Fail to clear a path with the US Navy 
+ and the boys on the ground are hit hard when they disembark from their landing crafts. The system 
+ is specifically devised so that infantry units are more likely to survive an initial assault than 
+ are artillery or antitank gun units, which forces players to make realistic decisions regarding 
+ the order in which units land.  
+
+  Aircraft were vital components in the Normandy war machines, and their importance is reflected 
+ in this game through interdiction and carpet bombing capabilities. Interdiction existed in previous 
+ editions of this series, letting players commit aircraft to disrupting the enemy's supply lines, 
+ and here the interdiction model is improved because of changes in the antiaircraft system. The 
+ Allies have overwhelming air support, but the Germans can somewhat diminish its effects by committing 
+ antiaircraft assets to areas affected by interdiction strikes. This causes some tough decisions 
+ for the German player, who needs to decide whether antiaircraft assets are needed more in the rear 
+ (to blunt interdiction strikes) or on the front lines (where they were historically used to blast 
+ Allied tanks) . Carpet bombing is only available at certain times during certain scenarios, and 
+ it's tremendously useful for softening up large groups of units. You just have to be careful not 
+ to hit your own troops in the process.  
+
+  This is obviously a complex game, requiring players to make tough decisions at every turn, but 
+ the excellent interface makes things much less complicated than they could be. Combat is driven 
+ by underlying CRTs (Combat Result Tables) , which are spreadsheets that show the battle odds for 
+ various types of terrain. A little luck is added by incorporating dice rolls during combat to spice 
+ things up. However, as the game progresses, players always have enough information to know if they 
+ are making well-informed decisions, taking calculated risks, or gambling wildly.  
+
+          Combat result tables may look complex, but they are very easy to read with a little practice. 
+     
+
+  If looking up combat odds sounds tedious, don't worry. The combat advisor feature that made previous 
+ entries in this series so manageable is back. With one click, players can instantly see the overall 
+ odds for all possible combat, which are overlaid directly on the game's map. This reduces reams 
+ of data to single, meaningful points that are easy to understand but challenging to act upon. For 
+ example, seeing good initial odds in several areas along the front doesn't necessarily mean that 
+ you can punch through all of those areas on a single turn, because if you commit enough resources 
+ to a single attack to put the odds in your favor, it takes those resources away from some of the 
+ other areas and shifts the overall odds in further attacks. Also, taking advantage of high-odds 
+ attack situations isn't always the best choice, because it can leave the attacker exposed, or it 
+ can cause a breach in your lines, which is never a good thing. The real challenge in this game 
+ comes from collecting enough units in one spot to successfully attack a weak spot in the enemy's 
+ line -- but without spreading your forces too thin elsewhere. And here the combat advisor helps you 
+ to avoid costly mistakes.     
+
+  An excellent set of tutorial scenarios is included, but veterans of previous editions can get an 
+ immediate feel for some of the changes by jumping into a smaller scenario, like the amphibious 
+ assault on Omaha Beach. This is a 10-turn assault that takes an hour or less to play but provides 
+ an excellent overview of how the system works. We played from the American perspective, so we bombarded 
+ both shore and inland strongpoints with tremendous barrages from offshore destroyers, cruisers, 
+ and battleships before bringing the ground forces across the English Channel. Our initial wave 
+ of infantry, tanks, recon vehicles, artillery, and antiaircraft guns made it ashore with surprisingly 
+ little difficulty, quickly carving out a beachhead and clearing a path for the inevitable reinforcements. 
+ Things went very well, until we decided to intentionally create a small gap in our lines to see 
+ what the AI would do.  
+
+          The combat advisor tells you the odds for all possible combat situations and dramatically 
+ simplifies gameplay.     
+
+  The results were immediate and dramatic. When it became the German team's move, German units poured 
+ through the gap and into our rear echelon, where they wreaked havoc among our helpless artillery 
+ and antiaircraft units. They quickly brought tanks up to apply pressure on our front-line troops, 
+ and although we managed to push ahead somewhat and established a modicum of cohesiveness in our 
+ main line, the damage was already done. A few of the units on our extreme right and left flanks 
+ were encircled, and with their vital supply line severed, they quickly exhausted their ammunition 
+ and died miserably. Moreover, our main force had forged ahead too far in the center and was also 
+ cut off from the supply line as German units swarmed toward the beach. It's nice to see a system 
+ where real-world weaknesses, like the one we created, are not only exploited by the AI, but also 
+ are available for human players to exploit.  
+
+  Graduates of the smaller scenarios can take on larger challenges, like the full, 32-turn Operation 
+ Overlord scenario, which plays out on an enormous map of northern France that extends from Cherbourg 
+ in the northwest to Argentan (and a bit farther south) in the southeast.  
+
+  The graphics are excellent for a wargame. The topographical maps have a pseudo-3D look and are 
+ detailed enough that you can easily tell what type of terrain you are about to move into. If there 
+ is any doubt at all, you can simply right-click a hex to see a pop-up window that contains the 
+ terrain type, roads and rivers that affect the hex, and other information. The nicest aspect of 
+ the map is that the entire thing is handcrafted, so instead of using generic terrain hexes that 
+ would give the game the look of an old-school board game, each hex flows together to create more-organic-looking 
+ graphics. The game doesn't run in a window, which is actually a boon, because it scales to fit 
+ any size monitor (using either 1024x768 or 1280x1024 resolution) and looks great even on the 21-inch 
+ display we used during most of our testing.  
+
+  Unit graphics are sharp and legible and contain a great deal of information, despite their small 
+ sizes. Players should get familiar with standard NATO unit symbols to get the most out of the game, 
+ but mousing-over, clicking, or right-clicking on a unit brings up enough information that anyone 
+ can keep their troops sorted out. Sounds effects are limited to typical wargame battle and movement 
+ sound bites, and the score consists of some decent period music.  
+
+          The included scenario is very powerful, and some people in the community have already released 
+ monster, 72-turn campaigns.     
+
+  The developer was nice enough to include an updated version of The Ardennes Offensive in this package, 
+ which takes full advantage of the new rules and tweaks. Only the main, 28-turn battle is included -- there 
+ are no smaller scenarios -- but it comes with its own map and adds a great deal of value to this 
+ package. If that's not enough, any of the included scenarios can be completely customized in the 
+ included battle editor.  
+
+  Despite all of the content that is included, the game's relatively steep price is its main drawback. 
+ It is sold only through Matrix Games, so price drops are unexpected. Additionally, for the money, 
+ it's a shame that the game doesn't come with any printed documentation, because the full-color 
+ PDF versions of the manual and the tutorial handbooks look terrific. If you like wargames and can 
+ stomach the cost, however, Battles in Normandy definitely provides enough entertainment to earn 
+ its keep.     
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: Prophet1980
+Rating: 9.2
+Date: Aug 21, 2006 10:36 am PT
+Review:  This is one of the best wargames of 2004 and should not be missed by anyone with a vauge interest 
+ in WW2 Turn Based strategy games.
+  
+  It beats bigger named titles like Hearts Of Iron and Axis and Allies into the ground.
+  
+  Such 
+ a shame then that this game has been overlooked by the majority. Why? Because smaller developers 
+ simply cannot afford to market their games as widely as they would like. Publishers Matrix Games 
+ are partly to blame for this however.
+  
+  Once you get past the tutorial which to be fair, is rather heavy going, you will find this game 
+ to be absoloutely fantastic. You wont be able to put it down. You will find a simple to play, difficult 
+ to master game under the hood, where every battle outcome is decided by an odds table dice roll. 
+ This makes for some tense stand offs.
+  
+  Never before has a hex based WW2 game looked so pretty. The graphics are a joy to behold in their 
+ own way. My only niggle with the DB series is the sound. Authentic sounding WW2 music really isnt 
+ my thing and the sound effects arnt anything to write home about. But you can tun the music off 
+ anyway so its no real problem. Not only is this a game, its also a history lesson. Every division 
+ that was there in normandy is here in this game.
+  
+  The computer AI when turned up slightly is a very cunning opponent and is a worthy adversary in 
+ single player.
+  
+  The fun really kicks in when you discover the RUN5 community and start playing against other human 
+ opponents via PBEM games.
+  
+  The community is really thriving at the minute and with the custom scenarios like market garden 
+ and operation typhoon, the DB series really is something you shouldnt be missing. Do yourself a 
+ favour, go check the DB series out over at http://www. ssg. com. au you wont be dissapointed. 
+::::::
+
+-------------------------------------------------

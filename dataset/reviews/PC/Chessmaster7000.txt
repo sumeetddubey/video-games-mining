@@ -1,0 +1,175 @@
+-------------------------------------------------
+:::Game Name::: Chessmaster 7000
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/puzzle/chessmaster7000/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov  2, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.1
+Critic Score: 8.2, 10 Review (s)
+User Score: 8.1, 63 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Mindscape
+Genre: Action
+Date:     Aug 31, 1999
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+It's little more than a cosmetic overhaul to an already classic product. 
+
+ Over the years, rival software publishers have tried to steal the thunder from Mindscape's Chessmaster 
+ series in a lot of inventive ways. Electronic Arts turned to the hugely popular Garry Kasparov 
+ (Kasparov's Gambit) ; now-defunct Capstone focused on "neural network technology" and an AI that 
+ was supposed to learn from mistakes (Grandmaster Chess) ; Interplay tried everything from animated 
+ fantasy figures (Battle Chess) to getting the endorsement of the United States Chess Federation 
+ (USCF Chess) ; and even using the name of the most famous figure of modern chess didn't help Mission 
+ Studios (Bobby Fischer Teaches Chess) .  
+
+ But the Chessmaster shrugged off these parries and thrusts as easily as a grandmaster humbles an 
+ A-class player, until finally there was only one last opponent: himself. Once you've crammed everything 
+ you can think of into an interactive chess program and then wrapped it all in a clean, elegant 
+ interface, there just aren't too many ways to make the next version more attractive to the target 
+ market: chess players ranging from rank novices all the way up to low-level national masters.  
+ 
+
+ Mindscape's answer to this dilemma wasn't simply to add more games to the program's already immense 
+ database (which it did) or create a better method for evaluating players' approximate ratings (which 
+ it also did) . Instead, it chose to give the game a face-lift - and the results are at once satisfying 
+ and disquieting.  
+
+ At first glance, it looks as though the cosmetic changes were pretty drastic. In place of the spartan 
+ pull-down menus of previous Chessmaster games is a "frames" interface featuring readily available 
+ icons along the left side of the screen that take you to the program's seven main components. At 
+ any point during play, you can immediately access the game room (for unrated games) , the classroom 
+ (tutorials, drills, puzzles, ratings exam, and Josh Waitzkin's games) , the tournament hall (rated 
+ games against computer and human opponents) , the library (classic games, openings database, and 
+ chess glossary) , kids room (with features for younger players) , database (a mind-boggling array 
+ of move variations) , and Chessmaster Live (for multiplayer games) . Click on one of these icons, 
+ and in addition to the main window featuring a chessboard for play or a database for study, you 
+ also get a "shortcuts" menu to make it easier to access features within that particular component 
+ of the game.  
+
+ Mindscape is clearly trying to get users into the online mindset with this new interface, but I 
+ actually found it less efficient than before: The shortcuts window takes up space that could have 
+ been used for more important windows such as chess clocks or captured pieces. Besides, you can 
+ still access all the functions from the old pull-down menus at the top of the screen. And the backgrounds 
+ that someone apparently thought would liven up the presentation - blue-tinged montages of chess-related 
+ photos - just make things look ugly. Even the chessboards and pieces, impeccable in all previous 
+ incarnations, look worse because of the addition of this extra glitz.  
+
+ The only other big change is the beefed-up emphasis on children's chess. Josh Waitzkin (subject 
+ of the book and movie Searching for Bobby Fischer) is the host, and his easygoing demeanor is sure 
+ to make the sometimes-intimidating world of chess seem a lot more inviting for younger players. 
+ But beyond that, about the only substantive things that differentiate the kids room from the standard 
+ classroom are the kid-friendly boards and pieces and the allotment of "Master Class" points. The 
+ manuals says these are "similar to gold stars that you often get in school when you do well on 
+ a test, or when you help the teacher clean the white board after class."  
+
+ Chessmaster 7000 now features a full suite of multiplayer options - LAN, modem, and TCP/IP - along 
+ with Mplayer support, but unfortunately no sort of matching service is provided for players to 
+ exchange TCP/IP addresses for Net play or phone numbers for modem connections. That wouldn't be 
+ a problem if Mplayer had a more active Chessmaster 7000 community, but when I logged in three nights 
+ in a row, four was the maximum number of players I found - and none of them seemed to be in the 
+ mood for playing or chatting.  
+
+ The big questions are these: Should you buy Chessmaster 7000 if you don't have a chess program? 
+ And should 6000 owners spend the $19.95 to upgrade? If you already have Chessmaster 6000 and don't 
+ have a kid who wants to learn the intricate game of chess using dinosaur pieces, I can't really 
+ recommend spending money for what's little more than a cosmetic overhaul to an already classic 
+ product. And you may even find that you prefer Chessmaster 6000's clean and simple interface to 
+ this update.    
+-------------------------------------------------
+:::User Reviews::: (3 Reviews)
+::::::
+UserName: LeChuckieDK
+Rating: 5.3
+Date: Mar 11, 2006 12:06 pm PT
+Review:  Chessmaster 3000 is yet another chess game for the pc, we all know chess and we have all tried 
+ to play chess at some point.
+  The good thing in chessmaster 3000 is the tutorial. it will teach chess in such a way that everyone 
+ will understand it (but who dosnt already know chess?)
+  
+  The game has not only the normal chess peices, you can choose whatever you want as your peices, 
+ should it be dinosours? metal? just choose :) but it dosnt do anything special to the game though.
+ 
+  
+  also, the board can also be changed... 3d or 2d overview
+  
+  What about the enemies then?
+  well... chess noobies should try to beat the monkey. he just understands 
+ how the peices move around. but thats it. if your a chess master try to beat the chessmaster... 
+ he is very hard.
+  
+  overall:
+  get it if you love chess or would like to learn it.
+  
+  DO NOT GET IT if you never really liked chess... you will get more from just throwing money out 
+ of the window 
+::::::
+
+::::::
+UserName: joetd
+Rating: 6.8
+Date: Aug 9, 2005 9:19 pm PT
+Review:  ChessMaster is simply the best game of chess, you can buy. It offers all levels of competition 
+ for everyone, from beginner to Expert.
+  
+  Its not just a matter of picking your skill level (easy, medium, hard) . No, you actually get to 
+ pick an artifical person to play against. You can play against an average 10 year old child, named 
+ Billy. Or you can play against one of the best players in the world. Each Computer player has their 
+ own style and schemes. Some players are aggressive, some are prone to make the same mistake over 
+ and over, they act like real people (including mistakes) .
+  
+  The developers really have created a good set of artifical personalities to play against. And you 
+ can play against them in a single match, or in tournaments. In additions, the game keeps score. 
+ Every players has a score (example: 750 is average) . Winning a match will increase your score, 
+ and losing a match will decrease your score. So you always have a ranking to judge your skill by. 
+ And your oppenents are also listed by skill level, so you will know which players you should be 
+ playing against. (beating a much weaker oppenent will not help your score. You have to move up 
+ to harder opponents, if you want to continue increasing your skill ranking) .
+  
+  The computer will help you (if you need it) with hints and training.
+  
+  So, Chessmaster 7000 
+ offers a good game of chess. The AI is just fine. The problem with the game is the presentation. 
+ Your choice of 3D and 2D chess boards is very limited. And none of them seems to give the feel 
+ of a real chess board. And many of the chess pieces are vague, and you might confuse your pieces 
+ (with some of the sets) . You can not adjust the angle that you view the board from, so if you dont 
+ like the default viewing angle... TOUGH!
+  
+  And on a technical note: The game frequently crashed, back to the desktop. 
+::::::
+
+::::::
+UserName: Everclearules
+Rating: 7.1
+Date: Apr 26, 2005 6:10 pm PT
+Review:  Chessmaster 7000 is, as is obvious, a chess game. The learning curve will first depend on whether 
+ you know how to play chess, then how much you know. The game offers an extensive tutorial from 
+ the most basic starting lessons to advanced strategies and theroies that even an expert can learn 
+ from.
+  
+  That is really the selling point of the game, the amount of information packed in. Everything else 
+ is just allright. Graphics are all right. There are a few different boards and pieces to use but 
+ none of them are really spectacular. Sound is also the same. There are a few different game types 
+ to play, from just a single game to tournaments, all of which keep track of your stats.
+  
+  As I said, there is alot of information provided. There's a whole help index of chess definintions, 
+ opening moves, general strategies, you name it. There's also a huge database of legendary games, 
+ wether just interesting or proving a point, that you can watch the computer play out. There's also 
+ numerous challenges, such as finding the check mate in one move or two, that you can undertake 
+ to see how your skills are improving.
+  
+  If information is what you like, this is the chess game to get. 
+::::::
+
+-------------------------------------------------

@@ -1,0 +1,1224 @@
+-------------------------------------------------
+:::Game Name::: Star Wars Jedi Knight: Dark Forces II
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/action/jediknightdarkforces2/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct  9, 1997
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.9
+Critic Score: 8.7, 15 Review (s)
+User Score: 8.7, 2,042 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: LucasArts
+Genre: Sci-Fi First-Person...
+Date:     Sep 30, 1997
+
+-------------------------------------------------
+:::Review:::
+Arguably the best single-player first-person shooter since Doom. 
+
+ Designing a game set in the Star Wars universe seems like a no-brainer. The look and sounds of the 
+ game - from the Imperial gray of walls, to the elephantine squeal of a TIE Fighter engine, to the 
+ squeaky "pew, pew" of a blaster shot - are already set in stone, so designers just need to think 
+ of a genre and use the existing elements to build a game. This formula has been both successful 
+ (as with X-Wing, TIE Fighter, and Dark Forces) and not so successful (see Yoda Stories or Shadows 
+ of the Empire) . Jedi Knight falls squarely into the former category, and is LucasArts' first truly 
+ great Star Wars game since TIE Fighter. The designers have done a commendable job of creating an 
+ immersive environment and have come up with what is arguably the best single-player first-person 
+ shooter since Doom.  
+
+ Jedi Knight dispenses with many of the negative traits of its predecessor, Dark Forces. The game 
+ is longer (though it still feels a bit on the short side) , you can save your game at any point 
+ and not just in predetermined areas, and LucasArts has corrected the single most criticized aspect 
+ of Dark Forces by adding multiplayer options to the sequel. But the gameplay in Jedi Knight is 
+ very similar to Dark Forces and borrows heavily from console games. Jumping from one small platform 
+ to the next is as important as blowing away Stormtroopers and Imperial Guards, and there are plenty 
+ of bosses to fight along the way.   
+
+ The bosses in this case are Dark Jedi, a group of diverse baddies trying to help a super-evil Jedi 
+ named Jerec (who, conveniently, also happens to be responsible for the murder of your father) find 
+ a place called the Valley of the Jedi, where he will be bestowed with unlimited power. You once 
+ again take on the role of Kyle Katarn, who has now learned that he is a Jedi. As Katarn you must 
+ follow Jerec and his henchmen across a good deal of territory, from Imperial bases to your father's 
+ house and, ultimately, to the Valley of the Jedi itself. Along the way, you'll encounter the regular 
+ collection of Star Wars creeps, including Stormtroopers, Imperial Guards, Bounty Hunters, and the 
+ like. The decisions you make during the course of each level help determine your fate, and a point 
+ comes late in the game where you become aligned with the Dark or the Light side of the Force, and 
+ the storyline unfolds from there.  
+
+ The branching between Light and Dark isn't as significant as early reports promised, and the storyline 
+ is a little cliched, but it does a fine job of providing links between the levels - and that's 
+ where Jedi Knight really excels. The majority of the levels are massive, both in size and scope. 
+ They contain enormous environments and some truly dazzling feats you must perform. For instance, 
+ at one point you must run across the top level of a huge space station, avoiding TIE Fighters trying 
+ to take you out with bombing runs. You make your way to the top of a large beam, where the only 
+ apparent exits are huge gaping air shafts that lead down hundreds of feet into nothingness. In 
+ one of these shafts, you can barely make out a small ledge. You must slide down to that ledge, 
+ then make your way through air ducts into the station itself. Another level has you trying to run 
+ through a falling cargo ship to the docking bay and escape, all the while trying to keep your balance 
+ in the unsteady environment and avoid the huge crates sliding around the hull. The game is full 
+ of these exhilarating moments where you think to yourself, "I can't believe I have to do that." 
+
+ The level design makes you feel as if you are in a real environment, and the game is given an even 
+ more realistic sense by the incredible sensation of control you have over the character and the 
+ intelligent behavior of your foes. For example, when you jump, you actually feel like you are jumping 
+ (and not the sort of wimpy, twelve-inches-in-the-air jump of Quake or Hexen II) and when you walk 
+ backwards, the rate of movement changes to a slower, more cautious gait. Together, the level design 
+ and excellent control combine to give you the feeling that you can go pretty much anywhere you 
+ want in a level without artificial constraints. Enemy behavior also adds to the suspension of disbelief. 
+ While it doesn't necessarily make them any harder to kill, enemies will gang up on you and run 
+ for cover as you fire at them. The Tusken Raiders even do a little victory dance when they kill 
+ you, throwing their arms in the air and roaring with glee.  
+
+ But not everything is new in Jedi Knight. The weapons selection doesn't vary much from Dark Forces. 
+ You have the basic blaster and the Stormtrooper rifle, as well as more powerful weapons such as 
+ the rail gun and the concussion rifle. But the introduction of the Jedi elements, which bestow 
+ a host of new abilities on your character, makes it a very different game. You have the assortment 
+ of various Jedi powers at your disposal, which become stronger and more numerous as you gain experience. 
+ There are twelve powers in all, four basic, four advanced for the Light Jedi, and four advanced 
+ for the Dark. The basic powers add to your movement, allowing you to jump higher or run faster. 
+ Advanced powers give you various offensive and defensive abilities, depending on the road you choose. 
+ Light Jedi powers include healing and protection, while the Dark powers allow you to strangle opponents, 
+ throw objects, or fire lighting bolts. Then there's the Lightsaber. It's amazing that a melee weapon 
+ can be so useful in an action game. Once you gain experience and become more proficient at blocking 
+ enemy shots with your saber, it will likely become your weapon of choice.  
+
+ There are some elements that will inevitably put some off, mostly in the aesthetic arena. The choice 
+ for full-motion video cutscenes is perhaps the most obvious complaint and seems like a misguided 
+ decision. While the rendered aspects of these scenes are great, the acting is typically mediocre 
+ and often just plain, old-fashioned bad. The actor who plays Katarn, with his beauty parlor blow-dried 
+ hair and too-neatly-shaved beard, looks less like a Jedi Master than the Marketing Director for 
+ The Force (tm) . The wall textures range from bland (the gray walls of the Empire, hardly the designers' 
+ fault) to downright ugly (the grass textures in level three are the most notable example) . The 
+ 3D accelerated version looks fine (Jedi Knight is Direct3D compatible) , but the unaccelerated version 
+ can't compete with Hexen II or even Quake.  
+
+ Many will also be disappointed to learn that the distinction between the Light and Dark sides, once 
+ the choice has been made, is not as striking as one would hope. Which side you take is determined 
+ by your actions, with the rampant killing of non-enemies being the quickest route to the Dark Side. 
+ The Light Side is obviously the path you are supposed to take - you get more cutscenes and more 
+ narration throughout the last few levels. But apart from this and the different Force powers at 
+ your disposal, choosing the Dark Side only leads to one really shocking plot element, a slightly 
+ altered level, and a completely different ending (which is, in many ways, far more satisfying) . 
+
+ On the graphical upside, the character animations are great, and provide a great deal more than 
+ in other first-person shooters. The game can be played from a third-person or first-person point 
+ of view (and switched on the fly) . With the external camera, Katarn's movements match the action, 
+ and it's a nice touch when he reaches out to push buttons or actually appears to be swimming underwater. 
+ The sound effects are equally appropriate, and a remixed version of John Williams' Star Wars score 
+ provides a suitably epic backdrop for the action.  
+
+ The only other notable complaint is the somewhat mediocre multiplayer implementation. Early reports 
+ have declared the game virtually lag-free, but the combination of Force powers and high-powered 
+ range weapons often make for a strong imbalance (though this can be fixed by limiting the available 
+ weapons in the set-up screen) . More frustrating is the limited number of multiplayer levels and 
+ the inability to use the single-player levels for multiplayer games.   
+
+ But harping on these flaws is a little unfair because, as a single-player game, Jedi Knight simply 
+ can't be beat. The level design is great and the sense of control is unparalleled. From the third-person 
+ perspective, it plays like a more action-oriented Tomb Raider, and from the first-person view, 
+ it's a more puzzle-oriented Quake. And either way, it's an amazing experience.    
+-------------------------------------------------
+:::User Reviews::: (38 Reviews)
+::::::
+UserName: Gammit10
+Rating: 7.5
+Date: Mar 7, 2009 6:45 pm PT
+Review:  The first fps game that I truly dug myself into was Jedi Knight II: Jedi Outcast. After hearing 
+ so many people scream about the awesomeissity of Jedi Knight, I decided to give it a go.
+  
+  Meh.
+  
+  I'm sure this game was amazing when it came out. The modified Quake engine ran well, 
+ though I had major troubles playing on WinXP Home until I turned off my antivirus. Until then, 
+ I was scrambling with compatability mode just to keep this game from crashing. Unfortunately, saving 
+ a game (not quicksaving) still caused frequent crashes. I couldn't even use hardware accelerated 
+ graphics.
+  
+  In terms of gameplay, I'm also sure this was astounding at release. It featured force powers and 
+ realistic-looking lightsaber combat. 
+  
+  But after playing the more refined sequal, I threw this puppy on "easy" and cruised through - playing 
+ just to soak in the story.
+  
+  Play it for the story, play it to experience a part of PC gaming history, but definitely don't 
+ play it for a good time: not now anyway. 
+::::::
+
+::::::
+UserName: suomalainen_66
+Rating: 10
+Date: Oct 22, 2008 5:35 pm PT
+Review:  After playing Dark Forces II when it first was released, I was stunned by how amazing of a game 
+ it was. Even after 10 years and several hours of playing the game, I still feel that this game 
+ is amazing. Lucas Arts made a game that had everything hardcore Star Wars fan could want. The story 
+ was far superior than any of the movies. The short movie clips were a nice addition.
+  
+  One of the main things that made the game amazing was that you didn't have to play the game mainly 
+ using your lightsaber. There were several cool weapons, each with alternate fires. Killing several 
+ Gammorean pigs with your blaster rifle can be even more gratifying than using a light saber.
+  
+  The force powers in the game were quite good for an early game, which helped pave the way for 
+ newer games like Academy, and Unleashed.
+  
+  Boss battles were a very important factor in the greatness of the game. From fighting the padawan 
+ sith to the Sith Lord Jerec. All the battles were epic.
+  
+  Gameplay: 10 
+  Great combination of first person lightsabers, force powers, and guns. Non-stop action.
+  Graphics: 
+ 9.5 
+  Great graphics for its time.
+  Story: 10
+  being able to be choose your path from the light side to dark side was very cool. Movie clips were 
+ a fine addition.
+  Sound: 9.5
+  Tusken Raiders roaring, and great sounds from lightsabers and guns.
+  Characters: 10
+  Kyle Katarn, 
+ a floating Sith, and two freak twin sith.
+  Overall: 10
+  Amazing overall. Katarn is by far the greatest Jedi ever. 
+::::::
+
+::::::
+UserName: masterb5
+Rating: 9.5
+Date: Sep 11, 2008 3:11 pm PT
+Review:  Fists
+  Effectiveness: 3
+  Cajones Factor: 10
+  Ammo Used: N/A
+  A long time ago, in a galaxy far, far away, people only had their fists to defend themselves with 
+ - that is, before they invented the Lightsaber and blasters. You too might find yourself facing 
+ foes with nothing but your bare knuckles to protect yourself, and believe it or not, you can take 
+ out a few enemies with them. But if you find yourself pounding Stormtrooper armor or the tough 
+ hide of a Gran, you'll end up hurting yourself more than your opponent. To be used only as a last 
+ resort.
+  
+  Modified Bryar Pistol
+  Effectiveness: 6
+  Cajones Factor: 7
+  Ammo Used: Energy Cells
+  This pistol is actually a Bryar rifle with the end chopped off. You'll 
+ find it will serve you well when all your other weapons have been spent. It's accurate and uses 
+ common energy cells, but it doesn't have a secondary fire mode and is not very fast. Over long 
+ distances this weapon will serve you better than a Stormtrooper rifle but loses a bit of its punch. 
+ If you want to take someone out without wasting a lot of ammo, this is the weapon of choice.
+  
+  Stormtrooper Rifle
+  Effectiveness: 5
+  Cajones Factor: 6
+  Ammo Used: Energy Cells
+  After 
+ you get your hands on one of these, you'll begin to realize why Stormtroopers have such a hard 
+ time hitting unprotected members of the Rebel Alliance. This weapon is woefully inaccurate, and 
+ if you're firing from more than a few steps from your opponent, you'll waste plenty of ammo trying 
+ to take him out. But it does come in handy for close-up firefights, as it can spit out about four 
+ shots per second.
+  
+  Thermal Detonators
+  
+  Effectiveness: 7
+  Cajones Factor: 7
+  Ammo Used: N/A
+  They may be tough to master, but the wallop they pack makes it well worth the 
+ practice. This is one of the better long-range weapons, since they don't have to be right on target 
+ to take care of business. However, if you plan to use them up close, you better find something 
+ to duck behind, as you may do yourself more damage than your opponent. It takes some strength to 
+ use one, so it's a good idea to hold the fire key down a little extra long to avoid underthrowing. 
+ Thermal detonators are also great for getting through doors or weakened gates. They have two modes: 
+ One makes them explode on impact and the other makes them go off after three seconds.
+  
+  Tusken Bowcaster
+  Effectiveness: 6
+  Cajones Factor: 5
+  Ammo Used: Power Cells
+  This favorite 
+ among Wookies features two modes of fire. The primary mode fires a single shot, which you can build 
+ up to fire three or five bursts in a horizontal spread (a nice way to clear a room) by holding 
+ down the fire button. The secondary mode fires a reflective burst that bounces off the first surface 
+ it strikes, making it great for taking out enemies around corners. Avoid using this at close range, 
+ as it explodes when it hits an enemy.
+  
+  Imperial Repeater
+  Effectiveness: 7
+  Cajones Factor: 5
+  Ammo Used: Power Cells
+  This weapon is great because it's accurate over 
+ long distances and very fast. With its rapid-fire primary mode, you can clear a room by sweeping 
+ the area. Just be sure to watch your ammo level as this weapon eats ammo like popcorn.
+  
+  Rail Detonator
+  Effectiveness: 8
+  Cajones Factor: 4
+  Ammo Used: Rail Charges This Assault 
+ Cannon replacement fires off rail charges that either explode on impact or (better yet) stick to 
+ an opponent for three seconds before detonation. The enemy takes damage not only from the initial 
+ hit but from the explosion as well. Naturally you don't want to be standing too close with this 
+ kind of weapon, unless you have an escape route. You don't need to be too accurate over long distances 
+ with the rail detonator, just be sure you have plenty of space around your shot path.
+  
+  Sequencer Charges
+  Effectiveness: 7
+  Cajones Factor: 6
+  Ammo Used: N/A
+  Sequencer charges 
+ are great ambush weapons. The primary setting explodes after two seconds, and the secondary setting 
+ allows you to plant the charge on a wall, a door, or on the floor with an activated proximity sensor. 
+ One warning: These things are pretty touchy and can go off even from a nearby explosion or the 
+ smallest movement. If you see a flashing red light, it's best to stay away. Set it off with another 
+ mine or a long-distance rail charge and the concussion rifle (primary mode) .
+  
+  Concussion Rifle
+  Effectiveness: 8
+  Cajones Factor: 7
+  Ammo Used: Power Cells
+  The concussion 
+ rifle fires a bullet of compressed air that explodes upon impact or at 50 meters (whichever comes 
+ first) . While deadly at long range, it can be equally hazardous up close, unless you're going to 
+ use its secondary mode.
+  
+  Lightsaber
+  Effectiveness: 8
+  Cajones Factor: 9
+  Ammo Used: N/A
+  What can be said that hasn't been said before? There are those who will play 
+ the entire game armed only with a Lightsaber. While it is primarily a defensive weapon, adept at 
+ taking out opponents at close range, you can also use it to cut through grates and walls. Once 
+ you have it, it really should become your primary tool, as the name of the game is Jedi Knight. 
+ Just keep in mind that when it comes to the Lightsaber, practice makes perfect. 
+::::::
+
+::::::
+UserName: jeffboardin
+Rating: 9.5
+Date: Apr 8, 2008 3:33 pm PT
+Review:  As the years have gone by the graphics have gotten outdated and maybe the sounds aren't as sharp 
+ as they seemed all those years ago but the things that made this a great game are still very much 
+ intact.
+  When this game first came out I was amazed at the scope, the game just feels big. Well more than 
+ ten years after this game was released I still get that feeling of granger everytime I pop it in. 
+ The levels are big, even by today's standards, there are plenty of hours of game play here. If 
+ you just play through without taking your time to take in your surroundings it will probably take 
+ you ten to twelve hours. But you'll really want to take you time and get a good look at the world 
+ around you. Even with the technical efficients of great next gen games such as Halo or Call of 
+ Duty 4 this game still stands above them in the immersive feel that you get from it.
+  
+  The story is pretty stock but the two available endings, which you see is determined by whether 
+ you are on the dark side or the light, give you a good sense of closure and you will definitely 
+ want to play through at least twice to see both endings. 
+  
+  There is also a good deal of replay value to this game. The single player game is immersive enough 
+ that you'll want to play through it several times to see the different endings or just to see everything 
+ again. There is also a great multi player mode. While not as grand in scale as the single player 
+ game it is still very entertaining. You have all the standard modes: Free for all, Capture the 
+ flag, Team Free For All, etc. And while you get all the same weapons that you do in the single 
+ player game you'll probably spend most of you time dueling it out with light sabers. 
+  Even though this game is pretty old by now the last time I was on I still had no trouble getting 
+ into a game with several people in it.
+  
+  In conclusion, this is a great game. If you've never played Jedi Knight: Dark Forces II or if you're 
+ a seasoned vetrine you will find a great deal to occupy your time with. And if you can look past 
+ the out dated graphics then this is a refreshing break from modern FPS games. 
+::::::
+
+::::::
+UserName: Gamebender
+Rating: 10
+Date: Jan 11, 2008 3:27 pm PT
+Review:  Lucasarts broke the boring mold that the fps genre had become at the time.
+  This game was the first that allowed you to choose your path, the light or dark side. It also opened 
+ up the Star Wars expanded universe like never before. You play as Kyle Katarn, several years after 
+ the events of Dark Forces, as you embark on a journey on the path of the Jedi. You will battle 
+ 9 dark Jedi, finally leading up your final confrontation with Jerec, their ruthless leader who 
+ is bent on galactic conquest. Every movie sequence is done in live action, with actors, and amazing 
+ special effects.
+  This game is a break-through title that revolutionized fps's, video games, and Star Wars itself.
+ 
+  This game, in many ways, laid the ground-work for KOTOR, and of course, all of it's sequels. Jedi 
+ Knight beat out quake in so many ways that it's hard to name them all.
+  To wrap this up, if you haven't played this yet, do so asap!
+  
+  
+  Graphics: 9, great graphics 
+ and effects for the time (better than Quake)
+  
+  Sound: 10, the sound sfx are so amazing, they're movie-quality, and the voice acting is outstanding!
+ 
+  
+  Gameplay: 9.5, the game is downright fun! It's a great shooter, not to mention the lightsaber combat, 
+ and the various force powers. Along with the ability to choose your path, the live movie sequences, 
+ and the alternate endings that come from choosing your path.
+  
+  Replayability: It's hard to get tired of this game, play it as long as you like. 
+::::::
+
+::::::
+UserName: MartinWinthrop
+Rating: 9
+Date: Sep 27, 2007 10:57 am PT
+Review:  I have to say that I played this game more probably than any other game I ever played. It was great 
+ for a couple of reasons. Not to mention the fact that the graphics were great for there time, the 
+ music and sound effects were all great. What made this game so great was the fact that the single 
+ player was worth while in lenght. It has a great star wars story playing out where you leveled 
+ up in force powers as the game progressed and then you had to fight the bosses in the end. I lost 
+ at the very end and was just not a good enough gamer to beat the guy at the end but I accepted 
+ it and just let that be the outcome of the game. Then I turned to why the second reason why the 
+ game was so great. It was the multiplayer death match. You had this one level called Oasis and 
+ then another that I can't really remember but I spent more hours playing people online than I did 
+ the actual single player game. So here is why this game was great. It had a great single player 
+ that was not real short. And a great multiplayer for deathmatches if you like that sort of thing. 
+ It was worth the time and the play in its day. Its a 9, 
+::::::
+
+::::::
+UserName: RobertBowen
+Rating: 9.5
+Date: Aug 16, 2007 8:20 am PT
+Review:  This game is the sequel to Dark Forces, although it was built on a different engine. There is a 
+ fantastic storyline where the main character, Kyle Katarn, has to follow the path of the Jedi to 
+ discover what happened to his father, and will choose whether he will serve the Light side or the 
+ Dark side of the Force.
+  
+  With the inclusion of lightsaber combat, force powers, moral choices and everything Star Wars, 
+ this is quite simply an excellent single-player game and definitely a classic.
+  
+  While some of the acting in the FMV cut scenes is a bit cheesy, the production values are high 
+ and the game overall oozes quality. The graphics may look dated today (particularly character models) , 
+ but this should not detract too much from the excellent gameplay on offer.
+  
+  The choice of becoming a Light or Dark Jedi by killing or protecting the NPCs adds a great challenge 
+ to the game play  and a great moral dilemma. In how many other games have you felt guilty for 
+ accidentally slicing that woman in half? This was one of only a few games at the time that included 
+ passive NPCs, i. e., bystanders whom you could chose to protect or destroy, and that choice would 
+ determine which path of the Force you would follow.
+  
+  The levels are all very well designed, and include many secret areas. Uncovering all of the secrets 
+ in a level will award you extra points to spend on upgrading your Force powers, so there is a good 
+ reason for exploring every nook and cranny. In a way, Force power choice and progression is an 
+ RPG-lite element of the game that gives it a bit more depth.
+  
+  At the time, the AI of the enemies was well done, with Stormtroopers reacting to hearing you by 
+ asking Did you hear something? and creeping forward to find out who is there. They also run away 
+ to fetch help. Of course the AI in this game is not as advanced as that in Half-Life or Unreal 
+ Tournament, but Jedi Knight was released a year before those two games.
+  
+  The ability to easily switch between first and third person perspective views, the selection of 
+ weapons, inclusion of lightsaber combat and the ability to use an extensive range of Force powers 
+ all contribute to making the game very replayable. I certainly replayed it many times, even once 
+ simply using fists to box opponents. The animation of the character in third-person perspective 
+ was far better than anything out of the Quake or Unreal stables at the time.
+  
+  With enemies as diverse as Dark Jedi, AT-ST Walkers, Stormtroopers, the flying Mailocs and droids, 
+ the game always seems to present new and fresh challenges. The range of weapons mostly conforms 
+ to the usual FPS lineup (you have your pistol, your machine gun, your rocket launcher) but the 
+ inclusion of the lightsaber, wookie bowcaster and thermal detonators give it a unique Star Wars 
+ flavour.
+  
+  The only things that seem to be missing are dynamic shadows/lighting, or coloured lighting (which 
+ had been used effectively in Quake 2) , and not enough aliens considering this is the Star Wars 
+ universe.
+  
+  The lack of a crosshair in third person mode also makes aiming a bit more difficult (though not 
+ impossible) . When it was released, the game was very stable out of the box, and when I finally 
+ got a 3D graphics card the game looked far superior to what it had been in software only mode.
+ 
+  
+  The sound is excellent throughout (the game supported Aureal 3D at the time) ; the weapon sounds 
+ are authentic to the movies, and the voice acting is also very well done. The Star Wars music playing 
+ in the background also lends an air of authenticity to the proceedings.
+  
+  Needless to say, this remains one of my favourite games of all time, and that's not bad for a game 
+ that is 10 years old.
+  
+  *Design - 9 out of 10
+  Sound - 10 out of 10
+  Gameplay - 10 out of 10
+  Replayability - 9 out of 10
+  Value - 9 out of 10
+  
+  *note - design 
+ includes not only graphics, but level/environmental design and puzzles. 
+::::::
+
+::::::
+UserName: slimblimp
+Rating: 9.5
+Date: Mar 25, 2008 2:08 am PT
+Review:  Despite games like Jedi Outcast, Jedi Academy, KOTOR I and II being readily available to me at 
+ any given time, I will always come back to Dark Forces II. Time has not hindered it's ability to 
+ recapture within me that spark of pure joy as I run through the Gran-filled corridors of Nar Shadaa 
+ or wipe the valley floor with Jerec's blind ass. It's in moments like these when you realize, no 
+ video game to date has captured that sense of power and beauty in such a revolutionary way. I still 
+ can't wrap my mind around just what it might be that makes this game so awesome. The first thing 
+ that comes to mind however, are the cut scenes. I laughed, I cried, I was transfixed and to an 
+ extent transported into the very emotional core of each and every character within the game, despite 
+ the often cheesy acting and rather dated graphics. Then again, it could be the magnitude of the 
+ levels. The fear instilled in me by those flying talon equipped bastards in various levels has 
+ remained unmatched to this day by any other game I've ever played. Regardless, everyone on the 
+ face of this planet owes it to themselves to allow their own personal transportation to that galaxy 
+ far, far away in what may very well be the best video game of all time. 
+::::::
+
+::::::
+UserName: whiteninjaz88
+Rating: 9.9
+Date: May 14, 2007 5:14 am PT
+Review:  I bought this game back in 2001 and from the moment i saw the first cutscene ( tell me what it 
+ is so these gentlemen won't have to expose their darker side ) ( the dark side? I've been there. 
+ Do your worst! ) i knew this game was something special and that i would have no more free time 
+ left on my hands till i finished this true masterpiece. I Know it can be hard to go back and play 
+ old games with graphics like these when the glam and glory of next-gen visuals is within our grasp. 
+ But hear what i say, since playing this game i have probably played 8-10 newer star wars games 
+ with perhapse better graphics but NONE of them can come even close to how great the gameplay is 
+ in this game. The graphics at the time of release were some of the best around however, and even 
+ today get the job done. the cutscenes being live actors was both awesome and hilarious, lets just 
+ leave it at that :) Playing through both Jedi outcast and jedi academy as well as KotoR 1 and 2 
+ i realized something was missing from them that was permeating and drenching every stormtrooper, 
+ every pixilated tileset, every glow as you use the force in jedi knight: dark forces 2. that something 
+ is called fun. and this game is so full of fun to be had i have officially deemed it my second 
+ favorite game of all time. It took me somewhere between 20 and 30 hrs to beat it and a couple puzzles 
+ can be pretty hard (it's not some lame-@$$ move this block over this panel on the floor type of 
+ puzzles) with these you actually have to use your head. The greatest things about this game is 
+ the lightsaber combat, force powers, and story. the guns are pretty fun too but didn't stand out 
+ compared to the other stuff. I'm still mad at myself for losing my copy of this game... so later 
+ on today i will go buy it again. thats how good it is! If you have a Hastings entertainment store 
+ nearby that's great, because they're the only place i've seen this game in the past 6 years or 
+ so. if not then you'll have to order it online i suppose. It is worth the effort to track down 
+ a copy trust me! 
+::::::
+
+::::::
+UserName: dmxbox
+Rating: 9.9
+Date: Apr 17, 2007 1:22 pm PT
+Review:  this star wars game is the best ever i bought it for my 6th birthday and i was mesmerized by the 
+ great graphics and gameplay but seeing as i ws young and didnt have much game experiance i found 
+ it hard however i managed to complete it, anyway i know that this is the best star wars game ever 
+ the depth in it is great with 2 alternate ending and the choice to be on the dark or light side 
+ and was extermly long the only thing is that now it looks quite dated. but still it remains as 
+ one of my favouret games and i hope that it may be remade one day with extra levels and emproved 
+ graphics 
+::::::
+
+::::::
+UserName: kgb1234
+Rating: 9.3
+Date: Feb 25, 2007 4:08 pm PT
+Review:  This game is hard to review since it came out so long ago, but when it did it had a definite impact 
+ on the gaming industry. This was a follow-up to Star Wars: Dark Forces which was heralded as one 
+ of the best first person shooters of its time so expections were high for the next installment.
+ 
+  
+  Luckily, Star Wars: Jedi Knight: DarkForces II came out and brought not only a solid first person 
+ shooter, but more importantly a third person (or first-person, however not as good) perspective 
+ on a lightsaber wielding Jedi! The lightsaber is only half of the pie when it comes to Star Wars 
+ though, with the other half belonging to the force. Luckily, this game lets you use force powers, 
+ but also allows you to choose whether you wanted to be a Sith OR a Jedi, leaving it open ended 
+ where things you did during the course of the game would change depending on the way you acted 
+ (and who you used your lightsaber to slice through) . This strengthened the replay value of the 
+ game as you would want to play through it as a Jedi and also as a Sith. Multiplayer was also very 
+ fun, with people who preferred laser guns over lightsabers still being able to feel involved in 
+ a big brawl.
+  
+  All in all, this gave Lucasarts a permanent stamp on the gaming market as serious game makers that 
+ could deliver the goods, and gave us the first look into what it could be like to play as a Jedi 
+ for the first time, making it seem as fun as it looked in the movies. 
+::::::
+
+::::::
+UserName: ninjagaijin10k
+Rating: 9.7
+Date: Dec 25, 2006 11:14 pm PT
+Review:  Everything I loved in the first Dark Forces is better this time around. In addition to being able 
+ to be IN Star Wars, I get to be a Jedi.
+  
+  I'm also a sucker for full motion video games. I love the characters. I love the world. I love 
+ the music and the places. It's just brilliant to be in Star Wars. I've played this game again and 
+ again. As the newer trilogy of movies has let me down, this is one of the things I go back to to 
+ make myself remember what I DO love about Star Wars.
+  
+  As I recall, this was one of the first first person shooters to give you options other than shoot 
+ at stuff . The force powers were rudimentary and lightsaber combat wasn't that deep. These things 
+ would be perfected later, but they were new and exciting here. In many ways, I think they still 
+ achieved perfection in this game, because nothing later had the same mood and feeling that this 
+ one did. Nothing can recapture the sense of wonder I had when I first played this game, and when 
+ I still play it again and again. 
+::::::
+
+::::::
+UserName: Jedi_Sentinel11
+Rating: 9
+Date: Jul 24, 2006 10:26 am PT
+Review:  There you go. The first Star Wars game where you become a true Jedi Knight ---- and master the skills 
+ of the Force. Jedi Knight offers you the perfect choice between the the light and the dark. Which 
+ is one of the reasons why this game can make to your top 15 even to this day. Well, okay , the 
+ graphics may not be THAT good (this was the 97!) , but still, a good game is judged not by its graphics 
+ anyway.
+  
+  In Jedi Knight, you once again play as Kyle Katarn, a grumpy, middle-aged mercenary, who , throughout 
+ the game, learns to use the Force, and the lightsaber (take that, Doom & Quake!) . The storyline 
+ is..... well there's no other way to describe it ---- SUPER COOL! And movies....... they just makes 
+ you feel like Episode 7 is here. Believe me, I've played Jedi Outcast and all those, but those 
+ are nothing compared to the storyline and gameplay in this one. 
+  
+  Overall, the graphics and ganeplay all meshes together to make one of the coolest Star Wars games 
+ in this galaxy. 
+::::::
+
+::::::
+UserName: Yarcofin
+Rating: 9.1
+Date: Jul 18, 2006 11:30 am PT
+Review:  Graphics (12.5%) - 7
+  Controls (15%) - 10
+  Variety (25%) - 10
+  Replay (25%) - 10
+  Sound (7.5%) - 7
+  Depth (15%) - 8
+  
+  OVERALL - 9.1
+  
+  Graphics - 7
+  For their time, 
+ the graphics for Jedi Knight were okay. It was nothing great though.
+  
+  Controls - 10
+  The controls are somewhat complex, but you get used to them pretty quickly. There are about five 
+ controls you definately want to change, so that it's much easier to fight.
+  
+  Variety - 10
+  There are so many great weapons and levels in this game. And SO MANY mods and player-made 
+ levels online. It also includes a level editor to make some yourself. There are mods out there 
+ from snowboarding to ghostbusters.
+  
+  Replay - 10
+  I played this game online for over a year and didn't tire of it.
+  
+  Sound - 7
+  The game features 
+ all the Star Wars sound effects you remember from the movie, such as the lightsaber and pistol 
+ fire noises. Most of the other sounds are just average, though.
+  
+  Depth - 8
+  I really only played this game online. The single player wasn't that great in my opinion. But the 
+ game features lots of characters from the movie, and a good story.
+  
+  OVERALL - 9.1
+  This game is worth picking up just to play online. Although now that JK: Outcast is out, nobody 
+ really plays the original JK much any more. If you and a friend can find a few copies for $5 (or 
+ buy one and burn one) , you will have a blast. 
+::::::
+
+::::::
+UserName: Knight-Blade
+Rating: 10
+Date: Jun 1, 2006 1:16 pm PT
+Review:  Okay this game, is just too brillant to not give a perfect score too, its addictive, its got the 
+ best storyline for Kyle Katarn than any of the others, its got that Old Schoolness of Live Action 
+ Actors playing the characters for the game. Its just too cool.
+  
+  You got the Moral Choice to make which had never been done before Choosing to Save Jan Ors and 
+ defeat the Dark Jedi Jerec and the other 7, or choose to kill everysingle one of the people you 
+ see, good or evil. Back then, nothing like this had ever been done before, espeically in a Star 
+ Wars game. though we see it all the time now. 
+  
+  JK is classical, and once again I'll judge the graphics as if it were brand new and if we were 
+ living 10 years earlier. This game is a Masterpeice, Basically its The Empire Strikes Back game 
+ for all the Kyle Katarn, Dark Forces and Jedi Knight series of games. Its "The Standard" for a 
+ good Kyle Katarn Game. nothing in this series has come close to beating it except for Mysteries 
+ of the Sith. 
+  
+  Jedi Knight Dark Forces II is buggy and choppy in some video cut scenes but like in its expansion 
+ pack it can be forgiven. and demissed like they never even happened, If you played this game back 
+ i nthe glory days of it, you will find that everyone loved it, everyone. 
+  
+  This game has the best storyline of them all. it has revolutionary saber combat for its day. it 
+ had everything you could want back then in a game. 
+  
+  Even by todays standards I love this game, and will forever be a classic masterpeice. 
+::::::
+
+::::::
+UserName: WildWorlds
+Rating: 9.1
+Date: Apr 21, 2006 7:54 pm PT
+Review:  Yes, I know this is an old game and i have played it for years but now i am finnaly reviewing it. 
+ Star Wars Jedi Knight: Dark Forces 2 was a great improvement over the first game. Graphics, sound, 
+ story, gameplay are all much better, and the awesome online battles will keep you busy for a long 
+ time. The 1 player story mode is very well done, and nicely challenging. Creating you own multiplayer 
+ character and giving him the force powers of your choice is extremely fun. The online mode was 
+ very glitchy at times, but when it stays smooth, the game becomes an intense, addicting, awesome 
+ playing star wars game. 
+::::::
+
+::::::
+UserName: ResidentGamer4
+Rating: 9
+Date: Jul 6, 2007 12:32 pm PT
+Review:  Star Wars was a great movie because of its action, and great story. But could there be a Star Wars 
+ game with a different story, yet just as good as the movie's? YES! This is the game. Although the 
+ graphics may not seem great, the perfect gameplay and excellent story make the game completely 
+ worth it.
+  
+  Jedi Knight: Dark Forces 2, is the sequel to Dark Forces. In this game you play the role of returning 
+ character Kyle Katarn. In this game Kyle tries to avenge the death of his father by finding the 
+ murder, plus doing something much more.... Many of the past characters from Dark Forces return 
+ as well as Kyle, some, even who are holding grudges from the previous game.....
+  
+  What is unique about this game is how it can turn out. Depending on how you make choices in the 
+ game will affect the future. For instance, if you kill everything you see, and are very vicious 
+ throughout the game, then you will become a dark jedi, with a sithlord's power's. Plus, the story 
+ changes around, and the scenarios are different, including new objectives. If you are calm and 
+ patient, you will receive light jedi powers, and the game will turn out in a nice peaceful way....
+ 
+  As for the dark side ending........
+  
+  Battle through many long, and hard levels with a huge variety of weapons, including the lightsaber, 
+ which you will achieve on your fourth mission. The weapons are very great too, and there are many 
+ different moves with the lightsaber which can be preformed. Detailed cut scenes feature real actors, 
+ which bring the story to life. But really, and truly, the story is amazing. It almost makes the 
+ game. The sound is great too. Featuring detailed weapon sounds, slashes, voices, and most of all, 
+ the classic Star Wars music. The game overall is very long, and the puzzles are very hard. So don't 
+ expect a run, hac-and-slash run through of the entire game, which may seem what it's like in the 
+ beginning of the game, because if you do so, you are in for a rude awakening, because more strategy 
+ is required later than meets the eye. Play in a first person or third person view with any weapon. 
+ What most prefer is guns/grenades/etc. in first person, and the lightsaber in third. But either 
+ way, any way, is perfect. It really has good gameplay.
+  
+  Plus, you can play online, by duels, training, and many other types of games. Also, there are great 
+ cheats with which you can mess around with, and have a little less-serious fun. The levels in the 
+ game are all different, and the environments are unique and various. But I say that all Star Wars 
+ fans must play this game. The replay value in this game is perfect, you will play it over and over, 
+ and this game is very addictive. You will have so much fun youll forget what time it is. Although 
+ it may seem old, and the graphics are average (they aren't that bad, they are actually pretty good) , 
+ if you look past the misfortunes of this game, you will be pleased and enjoy one of the most exciting 
+ and fun Star Wars games ever invented.
+  
+  Thank you George Lucas, and LucasArts Entertainment for making such a wonderful game! 
+::::::
+
+::::::
+UserName: worshyr
+Rating: 8.8
+Date: Mar 18, 2006 7:14 pm PT
+Review:  I know I am going old school here, 1997 was the year of JK: Dark Forces ii and by far the best in 
+ series. 
+  
+  The game continues to follow the adventures of Jedi Knight and rogue Kyle Katarn as he searches 
+ for the map to the valley of the Jedi whist he fights the evil Dark Lord Jerec and his six dark 
+ Jedi acolytes Boc, Gorc, Pic, Sariss, Yun and Maw, whom are all looking for the valley as well.
+ 
+  
+  Jerec already has a jump on the situation. After killing Kyle's father Morgan, Jerec, with the 
+ help of the information selling droid 8t88 find the valley of the Jedi. To make a long story short, 
+ Kyle kills all the dark Jedi and manages to finish off Jerec, thus saving the galaxy etc.
+  
+  Now for the particulars of the game. The graphics vintage 1997 suck nuts. For instance the 
+ outlines of all the enemies including stormtroopers and friendly NPC's are jagged and motley. The 
+ skin color of the poor folks that you run into throughout the game have the same color of creamed 
+ corn and dog crap. And the clothes they wear look like they were spark welded to their skin. On 
+ another note all of the cut scenes were done in live action, which at the time was pretty innovative 
+ considering it has never been done again in most of the SW games.
+  
+  The environments are huge and for the time well animated, In the first missions when you are making 
+ your way through the dark vertical cities of Nar Shadda you actually feel like your there as you 
+ walk, jump and crawl through the dark alley ways of the kilometer high skyscrapers and old refueling 
+ towers. The city of Barons Hed on Sulon looks rustic and fits the part of a dried up backwater.
+ 
+  
+  The gameplay is great from the weapons and the semi-puzzle solving. However lightsaber combat is 
+ about as fun as drinking mouth wash and hot wing sauce at the same time. Its something you don't 
+ want to do but are at times forced. The auto camera does not really help more than hinder.
+  
+  Go and buy this game, regardless of how bad my review is. 
+::::::
+
+::::::
+UserName: smbius
+Rating: 9.7
+Date: Mar 14, 2006 3:19 am PT
+Review:  The game doesn't have the best graphics. The game has many elevators but no ladders. The game does 
+ not have very good cutscenes but the girl who plays Jan Ors is pretty hot. 
+  
+  Despite these minor shortcomings, Jedi Knight is an extremely fun game to play. Even in 2006. JK 
+ comes at a time when flat green textures were enough to let you know, "Hey, I'm stepping on grass".
+ 
+  
+  The graphics, although simplistic, still work very well in the game. During a time when FPS was 
+ dominated by the outrageous violence of Duke Nukem and Quake, Jedi Knight (JK) gave the player 
+ the ability to feel what it's like to have the powers of the Force - dark or light. Even better, 
+ you get to do what most Star Wars fans have always dreamed of doing - handling a lightsaber. JK 
+ was less about body count and more about bringing a personal single player experience. 
+  
+  JK was a very long game that brought so much to the table. It concentrated on story and gameplay. 
+ The graphics weren't the best when you were indoors but when you were outdoors it was enough to 
+ make you feel like you're in a vast world you can explore in. The game gives you an attachment 
+ to the main character through building his force powers and uncovering cutscenes. In some ways, 
+ the game has some RPG elements that make upgrading your force powers very satisfying. As you build 
+ up force points, you realize that there more than one ways to solve a puzzle or situation and when 
+ you find a solution, it is very rewarding. There are even parts of the game where you are encouraged 
+ to find secret areas in each of the levels by performing creative feats of the force or by simplying 
+ thinking "outside the box". The use of force powers and the lightsaber are a huge part of the game. 
+ It really puts you in the shoes and the game makes you feel what it's like to deflect blaster fire 
+ and harness the power of the Jedi. Add branching storylines for replyability, a really memorable 
+ soundtrack and all of a sudden... you have the makings of a very playable classic.
+  
+  Despite JK's engine limitations, JK has some of the most creative levels you will ever explore 
+ in the Star Wars universe. Each of the levels have purpose and are plausible parts of the story. 
+ You don't just have these random switches you turn on and off and there is no reason to make the 
+ level extremely vast just because it can. The level designers went out of their way to make everything 
+ sensible and believable in the levels. You don't end up at a boiler room for nothing and somehow 
+ find yourself connected to a senator's palace. The puzzles are also very creative and make alot 
+ of sense. They were not simply "added" on to the level. The other wonderful thing is that you always 
+ seem to know what to do. I'm not sure how the developers accomplish this but through sensible little 
+ hints, you'll know what to do. There are even levels where you are in a ship that has lost control 
+ and the level starts to twist and turn in the game.
+  
+  The other thing that JK does so well is make use of grand fights with the bosses of the game such 
+ as the Dark Jedi or Sith, etc. Each of the bosses have a unique background and fighting style. 
+ The fights are so enjoyable that you'll want to mark a save game slot before meeting the boss. 
+ You will enjoy force jumping above your enemy and slashing from above. The other beauty is that 
+ you can actually switch to third person mode so that you can enjoy some of the animation in beating 
+ those bosses to the pulp while keeping the FPS side of the game fresh and usable. 
+  
+  Despite JK's old age, I really recommend this to those who want to try something different. It 
+ is part FPS, part-adventure, and part-fighting game. It is a huge cry compared to FPS games of 
+ today. It is a great experience that shouldn't be missed and it is satisfying all the way down 
+ to the last level and cutscene.
+  
+  On the multiplayer side, it is pretty fun too. Each player can differ greatly on playing each other 
+ simply by allocating points to different force powers. You can even be different characters and 
+ have different lightsaber colors. Some of the most satisfying experiences in multiplayer is force 
+ jumping over another player, "force pulling" the weapon from his hands and firing back with the 
+ same weapon you stripped from him... or even better... use your lightsaber.
+  
+  JK was a very revolutionary for its time and continues to be a very classic example of a game that 
+ can stand the test of time. If you're a real PC gamer and/or a Star Wars fan, you must have this 
+ game in your collection. Nothing beats playing a game in super high resolution with no slowdown. 
+ The game is old but the game is so compelling to play over again.
+  
+  radcastro. com 
+::::::
+
+::::::
+UserName: Advocate
+Rating: 8.8
+Date: Mar 8, 2006 3:00 pm PT
+Review:  What can be said that hasn't already been said about this classic? The game was simply one of the 
+ best games of 1997. I can still remember playing it for the first time and saying to myself, "wow, 
+ this is one ugly looking game. What in the helk were they thinking.. LIVE ACTION?" But what can 
+ I say, I kept playing and it was a wonderful experience. I loved Dark Forces, it was the only reason 
+ I bought a computer. So having DF II was a no brainer. Sure the graphics sucked, but hey, the game 
+ play more than made up for them. The expansion pack was a great thrill as well. Over all this game 
+ was an instant classic and still is even by todays standards, say for the graphics, one of the 
+ best games ever made. 
+::::::
+
+::::::
+UserName: Talonfire
+Rating: 9.1
+Date: Mar 7, 2006 12:17 pm PT
+Review:  When most people think of Kyle Katarn they think of the Jedi Knight series, and often forget or 
+ just plain don't realize that the original Jedi Knight is a sequel to Dark Forces which had nothing 
+ to do with the Force, or the Jedi. Kyle Katarn's first romp as a Jedi is arguably his best yet.
+ 
+  
+  Dark Forces II: Jedi Knight is set several years after Return of the Jedi, and before the New Republic 
+ is finished establishing itself. With the death of Palpatine one of his followers, Jerec, and his 
+ six loyal Dark Jedi turn their attention to finding the Valley of the Jedi so they can restore 
+ the Empire as its new rulers. After prying some vital information from one of the last Jedi of 
+ the Old Republic Jerec sets out to find the Valley. Standing between Jerec and the Valley, however; 
+ is Kyle Katarn, a force sensitive son of a man that Jerec murdered. The plot is rather simplistic 
+ like the one found in Dark Forces, but it still manages to be entertaining.
+  
+  In JK the gameplay is a lot like most first person shooters with one exception. You get a lightsaber, 
+ and can learn and use Force Powers. While mowing down Bounty Hunters and Stormtroopers with your 
+ large assortment of weapons, you can choke your enemies, or even protect yourself from projectile 
+ weaponry. The system works quite well, but more often or less the Force Powers are unnecessary 
+ unless you need to reach a high place with Force Jump. The game could have worked fine without 
+ them.
+  
+  The graphics are outdated obviously, but even for their time they were... interesting. The characters 
+ are all extremely blocky, and Kyle seemed to shave after every FMV sequence which made little sense 
+ in terms of continuity, and some of the textures (particularly grass and sand) are quite bizarre. 
+ Still the levels are large and have excellent architecture.
+  
+  The sound is okay. The voice acting is decent, and the sound effects are mostly from the Star Wars 
+ sound library. The entire game uses the classic John Williams score that is in CD audio format 
+ on both of the JK discs, so the music isn't interactive and doesn't really pick up when you enter 
+ battle like in Dark Forces and JK's sequels.
+  
+  Dark Forces II: Jedi Knight is the best in the JK saga and second best in the Dark Forces series 
+ as a whole. If you liked Jedi Outcast and\or Jedi Academy then you owe it to yourself to play Jedi 
+ Knight. It's long, has impressive level design, and like Dark Forces an impressive amount of atmosphere. 
+ 
+::::::
+
+::::::
+UserName: sniperpenguin53
+Rating: 10
+Date: Feb 26, 2006 6:17 pm PT
+Review:  Well i haven't played the first one this one great. So in this game you basically shoot slash blow 
+ stuff up... great! the enemies are some sort of tuskens, greedo species, droids , sith and more 
+ ( i can't remember their names.) They have cheats. the weapons range from blasters, mines, grenades, 
+ and light saber. you play as klye katan or somthingat one piont in the game you end up as good 
+ or bad from how many people (who aren't evil) you kill. The more you leave alone the more good 
+ you are. the more you kill the eviler you are. the environment changes the places you go from a 
+ space port to the lush green grass of Dantoine. Theirs also a online games i think. so buy this 
+ game when you find it! 
+::::::
+
+::::::
+UserName: SZeroC
+Rating: 9
+Date: Jan 3, 2006 2:27 am PT
+Review:  Jedi Knight's armor shines brightly in the heavily crowded field of first-person shooters. By giving 
+ you the ability to use Force powers and to direct your actions towards either the Dark or Light 
+ side, JK offers gameplay diversity that just doesn't exist with any other first-person shooter. 
+ Add to this, the option to play in the 3rd person and LucasArts has taken action gaming to the 
+ next level.
+  
+  Besides unique gameplay elements, the other area that deserves major kudos is the level design. 
+ The immense size and detail that make up the majority of the levels are every gamer's dream. The 
+ ones that really stand out are the "Fuel Station Launch" and "The Falling Ship". The "Fuel Station 
+ Launch" is unbelievable in its size and scope. "The Falling Ship" is also exceptional in its ability 
+ to simulate the instability of a crippled ship that's about to blow. Too bad the element of racing 
+ against a countdown (before the ship blows) wasn't included in more levels - it definitely picks 
+ up the pace and helps to keep the game fresh.
+  
+  Onto weaponry, which is not all that much different than the first Dark Forces with the major exceptions 
+ being the light saber and the rail detonator. Major indeed - the addition of the light saber is 
+ worth the price of the game alone. One can really master this weapon and with the help of increasing 
+ force powers, it gives you an uncanny ability to ward off lightsaber blows from your Dark Jedi 
+ enemies. You can even deflect enemy fire back at the source. Touche! If you'd rather put the big 
+ hurt on your enemy with a pyrotechnic touch then the rail detonator is guaranteed to meet your 
+ needs, especially when using the secondary fire key. Nothing is more satisfying than watching a 
+ Stormtrooper run around with a rail charge stuck to him before he meets his maker.
+  
+  The one area that is subject to mixed opinion is the quality of the graphics. Overall, the graphics 
+ are on an "expected" level but you get a feeling that certain areas such as some of the characters 
+ will soon look dated. Let's face it, Kyle looks like a blockhead and you can't help but notice 
+ it. The other area that is somewhat bothersome is the clipping of Kyle's head and arms into surrounding 
+ objects such as walls and boxes, when he gets near them. These aren't show-stoppers but they lend 
+ themselves to scrutiny since Quake II and Unreal are now the points of reference when it comes 
+ to graphics quality.
+  
+  But in the grand scheme of things, these are minor quibbles when you consider the overall gameplay. 
+ LucasArts has made the first-person shooter fresh and innovative with its incorporation of morality 
+ and force powers. These elements help to make Jedi Knight an instant classic and will hopefully 
+ set a new standard for the future of action gaming.
+  
+::::::
+
+::::::
+UserName: grarap
+Rating: 9.4
+Date: Dec 23, 2005 6:49 am PT
+Review:  I can natter on when writing reviews, so I'll keep this one short and to the point:
+  
+  GAMEPLAY: A lovely mix between arcade shooting and control over your actions. The keys defaulted 
+ are nicely placed, but can be changed. Unfortunately, although lightsaber combat is a skilled process, 
+ moves are very limited. Still great fun though!
+  
+  GRAPHICS: I honestly can't see the fuss about JKs graphics. The textures look great for an 8 year 
+ old game, although it can seem like everything has very sharp edges. The water looks dodgy, but 
+ apart from that it's all retro eye-candy. The real-action cutscenes are something you don't see 
+ often either. Modern computers can easily play everything on high, although my only qualm is a 
+ glitch that makes small grey gots appear on my screen when the crosshair is turned on.
+  
+  SOUND: This is Star Wars. Awsome sound effects are guarenteed!
+  
+  VALUE: I'm not too sure yet, 
+ but it seems like a game that'll keep you coming back for both the single and multi games. You 
+ can chose the light or dark side too, so I suppose that there are really 2 games in 1.
+  
+  REVIEWS TILT: This is THE classic Star Wars shooter. Shame that it's not set in a more familliar 
+ time (JK plays after episode 6) , but you can't help but love it to bits. For around $5 dollars, 
+ you honestly can't go wrong.
+  
+  
+::::::
+
+::::::
+UserName: moffe12
+Rating: 8.7
+Date: Dec 16, 2005 9:09 am PT
+Review:  This was my first computer game ever and i still like it today. Ive played this game a lot of times 
+ and it is after my opinion one of the best star wars games ever. I dug it out of the shelf not 
+ long ago, mainly because i got a feeling of nostalgia. But when i played it i had just as much 
+ fun as with any new game. This game is one of the few games i think i will never stop playing. 
+ The music is all from the star wars movies wich is great and the storm troopers will say lots of 
+ fun things to give you a in-movie feel. Okay the graphics is by todays standards terrible, and 
+ the gameplay is wery simple, (no headshots, Ai, well it really dont exists) but this is a classiacal 
+ game, if you can stand old games, try this one. 
+::::::
+
+::::::
+UserName: Jabbawocky04
+Rating: 8.3
+Date: Dec 11, 2005 9:18 am PT
+Review:  Star Wars is the most valuable franchise in all films history so it is certain to make loads in 
+ the video game industry this game proved that theory once and for all. That game takes place after 
+ Star Wars Episode VI but turns away from the Skywalker story and follows young Kyle Katarn a former 
+ Imperial and Rebel soldier who is now trying to find his fathers murderer. Upon finding out that 
+ his father's killer is a Dark Jedi he sets out to learn how to use the force and confront the band 
+ of Dark Jedi responsible. This story is not very original but is does well with this game. Learning 
+ the force in this game can have one of two consequences depending on which powers you learn (basically 
+ you can be good or evil) , but very rarely did I ever need to use them. The variety of weapons are 
+ good and you can have fun using the different types. The game play is a little difficult to do 
+ compared to todays standards and the graphic are a little warn out (but the live-action video are 
+ great) . The Star Wars sound are all there but sound off since its original release. The value is 
+ alright for a game like this as there are two different ending that can be viewed plus there is 
+ a worth while multi player in there. The originality of this game cannot be beaten by any of its 
+ descendants. 
+::::::
+
+::::::
+UserName: Celery_Man
+Rating: 9.7
+Date: Nov 26, 2005 8:44 am PT
+Review:  It's been 8 years since the release of Jedi Knight: Dark Forces 2, but that doesn't stop the Jedi 
+ Knight community from playing it. There are stil many people who play and many games are organized 
+ and played each day.
+  We use the mIRC chat client that can be found at www. mirc. com. The server is irc. holonet. org and 
+ the channels that the players can be found at are #jk and #nar. So if you miss playing Jedi Knight 
+ and want to get back into the community, there's how. Also if you're new and don't even own Jedi 
+ Knight visit http://www. nkm-xtreme. com/ for some helpful information that will allow you to play!
+ 
+  
+  Don't be afraid to try the 1997 game of the year!
+  
+  
+::::::
+
+::::::
+UserName: J0nGalt
+Rating: 10
+Date: Nov 17, 2005 12:24 pm PT
+Review:  Well then play this game.
+  
+  AND THEN... go play ever other one in the series. YOu get to use teh force to pick people up and 
+ throw them off cloud cities! you can strangle scumbags... blow up driods. Oh and instead of dressing 
+ up and feeling like a jedi all you have to do is click the icon on yoru desk. Now isnt that easier?! 
+ 
+  
+  You can wield a lightsaber to deflect blaster bolt! All teh while playing a 3d first person shooter!
+ 
+  
+  Did I mention you can push thinsg with the force?
+  
+  You get little portable turrets to put down so if your in a jam and dont think u have teh firpower 
+ to take out everything at once set a couple down and let the enemy come to you. All the while you 
+ blast, slice and explode yoru way through teh entire game. 
+  
+  If you like the books. Want a good story from lucas as usual. THEN PLAY THIS. And every one in 
+ the series! 
+::::::
+
+::::::
+UserName: treep78
+Rating: 9.1
+Date: Nov 16, 2005 10:29 am PT
+Review:  The game departs from the classic FPS and allows for more variation in the gameplay. The addition 
+ of the lightsaber, 3d graphics, force powers, third person camera, and multiplayer support give 
+ the game an almost compete upgrade. The guns, however, take a blow. The game focuses toward the 
+ lightsaber a little to much for a game with it's mechanics. I forget what the old weapons were 
+ called, but weapon 9, 0, and th one with all the pipes are sorely missed. The darkside ending made 
+ me feel so guilty that I started over, skipped all the levels, and wached the lightside ending 
+ to make me feel better. All said and done, the game offers more than the origonal and any gamer 
+ without it in thier collection is lost. 
+::::::
+
+::::::
+UserName: Port5
+Rating: 9.1
+Date: Nov 11, 2005 7:52 pm PT
+Review:  Star Wars: Jedi Knight: Dark Forces II is an excellent game, or, was, in the '90s. Now, you can 
+ play it for fun because it's a classic. Holding it up to up-to-date standards, it would not get 
+ a good score, so I'll hold it up to "Classic" standards. It was a very advanced game for it's time, 
+ you must know this. In the '90s, this game had amazing graphics, gameplay, AI, everything. I actually 
+ only played this a few times in the '90s, I bought it recently. But the game was the most addicting 
+ game that I had ever played. So if some of you disagree, think of this as "Classic" rating. 
+::::::
+
+::::::
+UserName: jacardin
+Rating: 9
+Date: Nov 3, 2005 2:36 pm PT
+Review:  Why else would the games in this series drop the Dark Forces title and use the Jedi Knight title 
+ instead?
+  
+  Dark Forces was a great FPS back in 1995, I upgraded my computer just to play it. It blew Doom, 
+ Duke, and Heretic away. But in 1997, Jedi Knight was released, and yes, you could now swing a lightsaber. 
+ And, it used a full 3D environment with acceleration.
+  
+  On the surface, it was like any other FPS, only now, you got a lightsaber. Lightsaber combat by 
+ today's standards (8 and a half years later) , was very simple. But then, you had three basic types 
+ of attacks. Your primary, standing still attack had a full range and light damage. Your primary, 
+ while moving, had a condensed range with light damage. Or, you could "Z" attack and do quad-damage 
+ with two swings (only one swing can hit though, if the first hits, the second misses) .
+  
+  The single player game was good, but it was the multiplayer aspect, the thought of real Jedi dueling 
+ real Jedi, that spawned thousands of JK clans all over the internet. And I still play, every week. 
+ ^_^ 
+::::::
+
+::::::
+UserName: Harvester_0009
+Rating: 4.7
+Date: Oct 29, 2005 7:20 am PT
+Review:  I had hoped for a good shooter but it was terrible. The game story isn't that followable during 
+ game play. And there is stuff in there that was never in star wars. Like in mission 5 you can find 
+ this BUNNY called Max. Since when are bunnys with guns that are invulnerble and can fry everything 
+ in their path in star wars. And there is just too much jumping around and trying to get onto boxes 
+ to cross a place. And there is too much swimming. The weapons are good and are easy to use. But 
+ the lightsaber is too hard to use. I think this game needs much better configuring. This is a horrible 
+ game. 
+::::::
+
+::::::
+UserName: bob_rulz
+Rating: 9.1
+Date: Apr 14, 2006 12:48 am PT
+Review:  GOOD: Great level design; immersive sound; addictive combat; smooth controls and interface
+  BAD: Cliched story; bad graphics (even for its day)
+  
+  Excellent game! This game was released 
+ in 1997 and is still extremely fun. The gamplay is excellent, even revolutionary for its day in 
+ age. Although the graphics suck, even for 1997, everything else about the game is awesome. The 
+ sound is excellent, even for today, although the voice acting is terrible. The game is just plain 
+ fun to play.
+  
+  The best part of the game, however, is the excellent single player campaign. Although the AI isn't 
+ very good (look, it's 1997) , and the voice acting is terrible, the levels are immersive, realistic, 
+ clever, and just plain BIG. Even for today the levels are huge and clever. You just don't get a 
+ great mix of combat and puzzle-solving like this anymore. It is beginning to show its age, however. 
+ Besides the graphics, such simple, automatic things like shooting someone in the head don't give 
+ benefits anymore (shooting someone in the head is the same as shooting someone in the foot... yes, 
+ it's that old) . This is a genre that has died with the passing of time. The game is a classic, 
+ and anybody who likes old-school shooter/puzzle games and haven't tried this out should definitely 
+ give it a try. You could probably buy it for $10 bucks or less now. 
+::::::
+
+::::::
+UserName: morbidgamer
+Rating: 4.8
+Date: Oct 10, 2005 5:48 pm PT
+Review:  Don't get me wrong I'm a huge Star Wars Expanded Universe freak, but this game is not that great. 
+ For one thing the controls are really annoying. The graphics aren't great, even for then, but I'm 
+ not complaining about that. They gameplay is extremely repetative and frankly, quite boring. It 
+ feels kind of like the same level over and over again. One of the only redeaming factor is the 
+ awsome, live action cutscenes, they were great. I might have liked this game more if I wasn't expecting 
+ so much. It was very disappointing. It's one of those games that aren't all that people say they 
+ are. I give it a 4.9. 
+::::::
+
+::::::
+UserName: RocketMasterH2F
+Rating: 9.4
+Date: Apr 2, 2005 8:36 pm PT
+Review:  This game is the first game where kyle gets a lightsaber and faces seven dark jedi. The graphics 
+ are ok for the time it came out but now since it is the 21st century, the graphics are old, really 
+ old. In the game you come across 4 major dark jedi and 3 minor ones. The main dark jedi whose name 
+ is Jerec, tries to get the power of the Valley of the Jedi. You start out without a lightsaber for 
+ the first three levels. You start out on Nar Shadda-Vertical City. You meet a character named 8t88 
+ who so happens to have your fathers disk the one disk you want and need. You get 8t88 mad and he 
+ sends his weird looking goons after you. Some of the games levels will make you fell like your in 
+ the game, take level 15-The Falling Ship for instance, your trying to make it back to your ship which 
+ is captured in the hangar bay. the gravity is busted and it is super hard to move, but you need to 
+ move as fast as possible before time runs out. when you try to move, the player would be thinking 
+ "oh no!"The game is highly recommended for star wars fans and action fans. 
+::::::
+
+::::::
+UserName: chosen_frozen
+Rating: 9
+Date: Mar 16, 2005 5:03 am PT
+Review:  Ive had this game for several years. I finally played through to the end. While the graphics engine 
+ shows its age, it is still very playable. I played at the second hardest difficulty level and only 
+ cheated (jediwannabe on) in the boss battles. It just wasnt satisfying enough to die again and 
+ again while trying to wear them down. I loved the cutscenes and the music. Light saber play and 
+ moves are not as responsive and both the Outcast and Academy games. 
+  The key to enjoying all these games, old and new, is to have the system that can handle it. Part 
+ of my reason for never finishing until now, was a low end system. This time, DF2 played flawlessly 
+ on a xp2600 and Radeon 9800.
+  I also love searching for secrets. There are lots in the game. A good walkthrough can help in the 
+ tough spots. 
+  Overall, one of the best fps Ive played, not counting Half-Life 1 or 2.
+  
+::::::
+
+::::::
+UserName: Katarn07
+Rating: 9.6
+Date: Dec 8, 2004 10:18 pm PT
+Review:  Gameplay - Unlike the original Dark Forces, Jedi Knight allows you to use the mouse to aim your 
+ crosshair over an enemy and let loose on him without any hassel. It also gives you the option to 
+ have the 'auto aim' of Dark Forces enabled just incase you want to play with just the keyboard 
+ if you want to play it like that.
+  
+  The multiplayer is quite fun, but the single player campaign is where this game truly shines. Its 
+ 15 mission campaign plus 6 lightsaber battles will provide countless hours of gameplay. The lightsaber 
+ is amazing and the weapons seem alot more useful than the original game's. You'll find yourself 
+ utilizing every weapon in your arsenal at least once throughout the game. Force powers are aquired 
+ ala RPG style where you spend points earned at key points of the game to get the powers you want.
+ 
+  
+  Graphics - While not as nauseating as Dark Forces, Jedi Knight's graphics are by no means pretty. 
+ With the resolution maxed out, there will be no problem with getting sick with rough textures and 
+ the like, but everything is still way too boxy compared to today's games. Still, they're not bad 
+ and the lighting effects are spectacular.
+  
+  Sound - No complaints here at all. The sound quality on everything is top notch. All the voice 
+ acting is excellent. Jason Court is the best actor to have potrayed Kyle Katarn and it's obvious 
+ that the actor who potrays him in Jedi Outcast and Jedi Academy tried their best to imitate him.
+ 
+  
+  Value - The single player campaign's excellent and all the options you have in tactics (Force powers 
+ can't all be aquired to their full extent so you can replay it with several different combos of 
+ powers) . There are two endings to the game, lightside and darkside, that while don't really alter 
+ any of the levels in any way (save for one of the duels in which your opponent will change) , the 
+ cutscenes do and they're worth playing through the game twice.
+  
+  Multiplayer is quite fun, but most people probably would rather play Jedi Outcast or Jedi Academy. 
+ I personally enjoyed this alot more, but I won't bother convincing you all why. The numerous hackers 
+ I ran into while online turned me off eventually and it was hard to find mod-free games. MP was 
+ a bonus for me, not this game's shining point.
+  
+  Excellent game worth playing! It's only $10 or so today so go out and buy it! If you can snag its 
+ expansion, Mysteries of the Sith, with it, do so! That's also a great game. 
+::::::
+
+::::::
+UserName: DieHardTWB
+Rating: 8.7
+Date: Aug 22, 2003 9:39 am PT
+Review:  This is the first Lucasarts game that allows you to wield a lightsaber and use powers of the force. 
+ To put a tilt on that, the storyline and your actions in the game, will sway your relationship 
+ with the force between the light, or dark side. 
+  
+  The graphics for the era are realtively good. The sounds are what are to be expected from any Star 
+ Wars game, as is the music score. The story begins as Kyle Katarn, the very one who aided in the 
+ battle against the evil empire in Star Wars Dark Forces. 
+  
+  During the course of the game, something very tragic happens that leads Kyle to take up a lightsaber 
+ and seek out help to learn the ways of the force. As such, your decisions will determine whether 
+ you get the light side or dark side of force powers.
+  
+  The mulitplayer mode is also fairly good. From memory, I don't think it has a matchmaking service, 
+ but I do know that you can play it for free on Microsofts Internet Gaming Zone. 
+  
+  This is a solid, fairly bug free, well rounded product. It's a definate classic now. 
+::::::
+
+-------------------------------------------------

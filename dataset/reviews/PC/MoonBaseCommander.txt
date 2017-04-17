@@ -1,0 +1,126 @@
+-------------------------------------------------
+:::Game Name::: MoonBase Commander
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/moonbasecommander/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug 14, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.3
+Critic Score: 7.7, 11 Review (s)
+User Score: 8.1, 104 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Atari
+Developer: Humongous Ent.
+Genre: Sci-Fi Real-Time Strategy
+Date:     Aug 13, 2002
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+It's one of the most accessible and uniquely addictive strategy games this year. 
+
+ MoonBase Commander is a budget-priced game whose almost nonexistent advertising positions it somewhere 
+ between a cute product for young kids and a strategy game for dummies. It's hard to imagine a marketing 
+ campaign more likely to ensure that MoonBase Commander is ignored by virtually everyone. That's 
+ a shame, because it's one of the most accessible and uniquely addictive strategy games this year. 
+           This unusual game combines real-time strategy with puzzle game elements.    
+
+  At its core, MoonBase Commander is a turn-based wargame. However, it also combines the base building, 
+ resource management, and heightened pace of a real-time strategy game with the aiming and precise 
+ positioning mechanics of a puzzle shooter such as Bust-A-Move. It's an unusual combination that 
+ the developers at Humongous Entertainment managed to pull off with aplomb.   
+
+  Each player starts with a single hub. Drawing points from an energy reserve, hubs can create any 
+ of the game's 18 units, including new hubs. These 18 units are split into three groups of six, 
+ and each group involves a different production cost. Most of the units are either one-shot weapons 
+ or stationary buildings. All the units are launched from a hub by first indicating the direction 
+ for the launch and then setting the force of the launch using a power meter like the one usually 
+ used in golf games. After being launched, permanent units are tethered by a cord to the hub that 
+ created them. Since these cords can't cross each other, a single hub can accommodate only eight 
+ structures. When a hub is destroyed, any unit created by that hub is destroyed as well, meaning 
+ that the destruction of the initial hub results in a hugely satisfying chain reaction that levels 
+ a player's entire base, knocking him or her out of the game.   
+
+  Each turn, players alternate launching a single unit. When you're out of energy, you're done for 
+ the round. When all players are out of energy, the round ends and everyone's energy pool is replenished 
+ with bonuses added for each energy collection structure you have. You can also opt out of a round 
+ early, in which case any remaining energy in your pool carries over into the next round. The last 
+ surviving player wins the game.   
+
+  With only 18 items to build, no tech tree, and no individually controllable units other than the 
+ launching capability of hubs, MoonBase Commander might appear to be too simple to work. But through 
+ a small miracle of tight design, boy, does it work. The 18 units are strongly differentiated, and 
+ they're all useful. Many of them can be utilized in multiple and surprising ways. For instance, 
+ the energy collector is primarily a utility structure that provides extra energy each round. However, 
+ when destroyed, it's also the most powerful explosive in the game. Landing an energy collector 
+ near enemy equipment and then blowing it up yourself is a great offensive tactic.   
+
+  The lack of a tech tree eliminates most of the initial build-up grind common to real-time strategy 
+ games. Players are able to build meaningful units and start scouting for the enemy right away. 
+ It also helps keep games from becoming completely one-sided. You'll never be stuck in the Stone 
+ Age while your opponent is flying around in rocket ships. As long as you have your initial hub, 
+ you're still in the game.           MoonBase Commander is lots of fun in multiplayer.    
+
+  The create-one-item alternating turn structure, combined with the lack of mobile, directly controllable 
+ units, eliminates the other scourge of production games: the rush. You might even say that MoonBase 
+ Commander is the ultimate base-building game -- the only way to win is to place your structures carefully 
+ and expand into enemy territory. The game's turn structure also eliminates the tedium often associated 
+ with playing turn-based games in multiplayer, since you never have to wait very long to make a 
+ move. You can even set a clock to force players to take their turns quickly.   
+
+  MoonBase Commander's 2D graphics aren't exactly state of the art, but they're clean and colorful 
+ without being too cutesy. There are four different teams in the game. Though each one has the same 
+ units, they all have different graphics, HUDs, and voice samples accompanying various actions. 
+ The acting is top-notch -- the Japanese-sounding robot girl who provides color commentary for one 
+ of the sides is especially good.   
+
+  The game has two single-player modes. In challenge mode, you play through 16 battles of escalating 
+ difficulty. There's also a skirmish mode that lets you set up games on any of 47 maps against up 
+ to three computer-controlled players. There are 10 different AI opponents available, and the toughest 
+ ones are legitimately hard to beat.   
+
+  From the standpoint of playing the game, MoonBase Commander's multiplayer mode is its strongest 
+ point. Unfortunately, from an interface perspective, it's also its weakest feature. No built-in 
+ server browser is available, which is annoying, though you can find games using third-party utilities, 
+ and there's apparently a fan-created direct IP link-up feature available as well. Although you 
+ can set up two-on-two team matches, the undocumented team chat feature is somewhat cumbersome to 
+ use, making secret communications with your partner difficult. On the bright side, MoonBase Commander 
+ can be played in a window (a feature that should be standard in all turn-based games) , so you and 
+ your teammate can chat using any instant messaging program.   
+
+  There's a fine line between elegant and merely simple. Contrary to what you might expect of it, 
+ MoonBase Commander falls squarely into the elegant category. It's lean, fast-paced, and surprisingly 
+ deep. Infogrames' official site calls it "the strategy game for everyone," and for once you can 
+ believe the company line. It's hard to imagine anyone not enjoying MoonBase Commander.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: LeerRosh
+Rating: 9.2
+Date: Aug 8, 2006 8:43 am PT
+Review:  Few people know that this game exists, but it is the essence of strategic gameplay. There are many 
+ ways to win, plenty of ways to set up defenses, and half the game is good timing, while the other 
+ half is skill of how you set up your base.
+  
+  You have to collect energy, that is key. You then set up a base. Some of the things you can set 
+ out are useless in some conditions, while others are useless because you can buy something better 
+ at the same price. 
+  
+  You have a main hub, and your base is connected to it like a spider. If the main hub is destroyed, 
+ you lose. If anything is destroyed, anything connected to it is also destroyed. The element of 
+ fun is that you have to time it right, as it shoots out your next expansion according to your aim, 
+ and it could go astray.
+  
+  The only weakness in this game is that you shouldn't ally yourself with computers, as all they 
+ do is leech off of your defenses... 
+::::::
+
+-------------------------------------------------

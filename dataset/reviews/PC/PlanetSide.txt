@@ -1,0 +1,2455 @@
+-------------------------------------------------
+:::Game Name::: PlanetSide
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/planetside/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jun  2, 2003
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.9
+Critic Score: 8.0, 50 Review (s)
+User Score: 8.0, 804 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Sony Online Entertainment
+Genre: Sci-Fi Online...
+Date:     May 20, 2003 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+PlanetSide was clearly the result of a lot of ambitious planning, but much of the game experience 
+ depends on technical stability and the performance of other players. 
+
+  When PlanetSide was first announced, some people figured that the bigwigs at Sony Online Entertainment 
+ had finally gone crazy. Since so many other first-person shooters can be played online for free, 
+ who would be willing pay a monthly subscription fee to play a massively multiplayer shooter, even 
+ if it had been developed by some of the same designers responsible for the team-based shooter Tribes 
+ 2? But PlanetSide has a lot going for it: It has a persistent world with persistent goals that 
+ give players real incentives to work in teams, and it has an extremely strict system for dealing 
+ with "grief" players -- unruly players who shoot up their own teammates just to spoil their fun. 
+ And when you have everything set up ideally -- when you're on a good squad with skilled teammates 
+ who are focused on the mission -- PlanetSide offers an experience unlike any other. However, the 
+ game currently has a lot of issues that can get in the way of that ideal scenario, so that the 
+ game can sometimes end up being less interesting and more tedious than it should be.  
+
+          PlanetSide lets you choose from a variety of different skills, weapons, and vehicles.  
+    
+
+  PlanetSide is a futuristic online shooter that lets you play as a soldier in one of three powerful 
+ factions: the Terran Republic, the New Conglomerate, and the Vanu Sovereignty. The three factions 
+ are involved in a worldwide struggle for power that involves capturing as many bases as possible 
+ across the world's many continents. In order to capture a base, you generally need to take it by 
+ force with a squad of teammates who have various skills, including hacking (to unlock enemy doors 
+ and eventually capture an enemy base's control center) , medical training (to heal and revive wounded 
+ allies) , and vehicle certification (to pilot vehicles for scouting, head-to-head combat, or squad 
+ transport) . You face tough decisions when developing your character's skills. In fact, PlanetSide 
+ is easily the most complicated shooter ever released -- you'll likely spend most if not all of your 
+ first few sessions in the game trying to figure out its many interface features for certifications, 
+ squad and outfit options, inventory, and chat. By gunning down enemies, capturing bases, and successfully 
+ performing other tasks, you're awarded experience points and battle ranks (PlanetSide's version 
+ of character levels) that let you purchase certifications to use new weapons, armor types, support 
+ gadgets, and vehicles. But once you get used to the game's interface, you'll be able to quickly 
+ and easily outfit yourself with whichever weapons, armor, and vehicles you like, since the game 
+ lets you save your own personalized settings.  
+
+  These different weapons, vehicles, and armor all look and sound fairly good. PlanetSide's graphics 
+ are generally decent, and in some cases they're quite good, especially in its dynamic skies and 
+ sweeping outdoor landscapes. However, neither the landscapes nor the game's character, weapon, 
+ or vehicle designs are particularly inspired. They all look decent enough, but you, your teammates, 
+ and your enemies all look like futuristic soldiers wearing futuristic heavy armor, driving futuristic 
+ vehicles, and using conventional weapons, kind of like what you might expect from just about any 
+ sci-fi themed game. PlanetSide's music is sparse, and its sound effects for weapon fire are decent 
+ enough, though they're not spectacular. The game also features support for real-time voice chat 
+ to help you coordinate with your teammates, though this feature doesn't work particularly well. 
+ The voice chat often ends up being garbled, drowned out by static, or cut off.  
+
+          The game's real variety comes from the different certifications that you, your teammates, 
+ and your enemies can choose.     
+
+  Though the game's different factions have slight differences among their high-end weapons and armor, 
+ they're functionally identical -- it's less important to choose one side over another than it is 
+ to make sure you and your buddies all play on the same side and the same server. As you might expect 
+ from a game developed by Sony Online Entertainment (the creator of the group-focused online RPG 
+ EverQuest) , PlanetSide puts a tremendous emphasis on teamwork. The game takes place in a persistent 
+ world, and you play as a character who gains experience points that can be used to buy the above-mentioned 
+ certifications, but in order to have any chance at all of really advancing your character, you 
+ need to make sure you're in a good squad at all times.  
+
+  This is because solo players really don't stand much of a chance in PlanetSide, since most of the 
+ action takes place in and around bases guarded by, or attacked by, groups of enemy players -- and 
+ no single character can stand against concentrated enemy fire for very long. PlanetSide does offer 
+ an "instant action" option that lets you immediately jump to a hot spot where players from your 
+ faction are currently fighting with enemy players, but even if you do manage to get a few kills, 
+ you'll receive far less experience than you would if you were in a good squad of players, so you'll 
+ want to try to be in a group at all times.     
+
+  Unfortunately, putting together a good group and actually coordinating a successful assault can 
+ take a lot of time. Essentially, you'll stand around doing nothing, or next to nothing, and shouting 
+ on the broadcast channel to get invited into a squad. Then you'll wait as the rest of your squad 
+ forms, wait for transportation to your destination if you yourself can't pilot a vehicle, wait 
+ to actually arrive at your destination, and wait for everyone else to arrive. In the worst possible 
+ case, with no vehicles available, you may end up waiting for your teammates, or your own character, 
+ to finish walking all the way to your meeting point. You have the option of using a universal transport 
+ known as the High Altitude Rapid Transport (HART) to travel directly to your destination, but unless 
+ everyone in your squad takes it, your group may end up divided on arrival. Basically, you'll encounter 
+ a surprising amount of inactivity -- especially for a game that's supposed to be a fast-paced first-person 
+ shooter -- as you wait for everyone to assemble. You can join an outfit, PlanetSide's version of 
+ a persistent player "guild," and while chatting with your fellow outfit members can help get you 
+ into a squad faster than randomly shouting for a group, it won't make coordinating an operation 
+ any less time-consuming if no one has their act together.  
+
+          There's nothing like joining a good squad and launching a coordinated attack.     
+
+ 
+  But if you can put together a good squad of skilled players, PlanetSide can offer an exciting 
+ and highly distinctive first-person shooter experience. You may have played other multiplayer shooters 
+ with team-based objectives such as attacking or defending certain positions, but you've probably 
+ never played one in which your character's next permanent experience level (and his next set of 
+ certifications) is on the line. PlanetSide makes a few feeble attempts to get you interested in 
+ the story of the war between the three playable sides, and you can actually help your faction take 
+ over entire continents, but this control really only means you can travel through those territories 
+ safely -- there aren't any really meaningful incentives to continue to defend a particular territory, 
+ and you'll often find that control of various territories changes hands between the three factions 
+ regularly. However, you'll find well-organized battles to be exciting enough on their own. Successfully 
+ surviving heavy fire, putting down your enemies, and hacking their base can net you an extra battle 
+ rank and new certification points, while getting shot down often means a long walk back from your 
+ last spawn point. Better still, if you're the leader of a squad, you also stand to earn command 
+ points that can be used to increase your rank as a commander within your faction. Increased rank 
+ currently earns you perks like the ability to set in-game waypoints and even send broadcast messages 
+ to an entire continent, though the command rank feature itself will likely become more important 
+ as the game (and its players) mature, and as Sony Online Entertainment expands on it.  
+
+  It's these potential rewards and losses that really help distinguish PlanetSide's battles from 
+ what would otherwise be standard sci-fi first-person shooter firefights. Depending on which certifications 
+ you choose, you'll be able to use assault rifles, grenade launchers, miniguns, sniper rifles, and 
+ others, and these weapons behave much like they do in any other first-person shooter. In addition, 
+ you, your teammates, and your enemies may acquire certifications to wear heavy combat armor or 
+ stealth armor and to lay traps for your enemies in the form of mines and grenades.  
+
+  PlanetSide uses the same sort of lenient physics used in arcade-style first-person shooters, so 
+ any skills you may have developed in other games should transfer over to PlanetSide intact, as 
+ should any team-based skills you may have developed as a medic, pilot, or driver in other team-based 
+ games. The different armor types, weapons, and vehicles collectively add a good deal of variety 
+ to PlanetSide's battles, which are, at their best, at least as interesting as those in other popular 
+ team-based games such as Battlefield 1942 and Counter-Strike.  
+
+          Despite its technical and gameplay issues, PlanetSide offers a unique challenge.     
+
+ 
+  Unfortunately, it can sometimes be difficult to truly enjoy PlanetSide's battles because of the 
+ game's occasional but exceedingly annoying stability problems. The game currently suffers from 
+ periodic bouts of lag that can at best break up the action and at worst get you killed by enemy 
+ fire while you remain rooted to the spot. PlanetSide also currently has some problems with crashes 
+ and disconnects (or "going linkdead") , which can break up a squad and, in rare cases, thwart a 
+ last-minute attempt to recover from a failing attack or defense effort -- if you're on the verge 
+ of losing a campaign, having some or all of your squad get disconnected can very well mean certain 
+ defeat, despite your best efforts.  
+
+  PlanetSide was clearly the result of a lot of ambitious planning on the part of some very talented 
+ designers, but as it stands, much of the game experience depends on technical stability and the 
+ performance and skill of other players. In terms of stability, PlanetSide isn't where it needs 
+ to be yet -- the game still suffers from annoying lag and disconnect problems that need to be fixed. 
+ In terms of player skill, you'll find that although the game's strict handling of "grief" play 
+ helps encourage players to work as a team, your enjoyment of the game will largely depend on how 
+ experienced, skilled, and focused your teammates are. The less organized your team is, the longer 
+ you may have to wait for it to assemble, deploy, and formulate a plan of attack at your destination. 
+ However, if you think you can surmount the game's learning curve and whip a squad of like-minded 
+ recruits into shape, you'll find that PlanetSide offers a unique and potentially very enjoyable 
+ challenge.     
+-------------------------------------------------
+:::User Reviews::: (60 Reviews)
+::::::
+UserName: Cerebris
+Rating: 8
+Date: Oct 12, 2008 8:59 am PT
+Review:  Planetside was a jewel among games... 
+  
+  I can say that I am honestly majorly disappointed with the future that SoE decided to take this 
+ game.
+  
+  The initial release was spectacular, and the calling of the CR5's was superb, as they were true 
+ team leaders, and had true tactics and skills... unfortunately several outfits (the equivalent 
+ of guilds or clans) that were not very... well the best word I can think of is "honorable" started 
+ to become very popular and began to detract from the skill of other outfits, and of course the 
+ content and intellectual value of the players in the games. With the balance of control being taken 
+ by new factions such as Sturmgrenadier, outfits such as SEPH, and others were slowly or quickly 
+ taken out of the picture, and thus a large degree of CR5's decided to no longer play, or to take 
+ up new characters or even a new server. 
+  
+  These events, as well as the patches and updates, and the immature behavior that is the generally 
+ accepted norm in mmo's these days (and it seems online play as a whole) started to... break apart 
+ the maturity of the game community, the intelligence, the tactical apparatus's, and of course the 
+ skill of other players.
+  
+  However, this game lacked cheats, hacks, or really any such vibrant form of hurting others in the 
+ game, and so still remained solid, though many complained of "Newbhammers" and "Lashers", and other 
+ insults for the weapon users of the factions Republic, Sovereignty, and Conglomerate... (you'll 
+ have to forgive me for not remembering them all, as I haven't played for a while) and thus still 
+ remained a solid form of entertainment... unlike good games like C&C Renegade, and other such multi 
+ fps's (though this was in a different breed of its own) .
+  
+  However the problems started the most when the community wanted a big CHANGE, and so Core Combat 
+ was made... and though it had great potential, the story wasn't fleshed out enough unfortunately, 
+ and it just added new outposts, and a few new clever, but simple weapons and cheap vehicles (such 
+ as the flail) .
+  
+  The underground portion was widely underused aside from some module runners, and new players enjoying 
+ the area (though in reality new players didn't have the necessarily tech to really survive or enjoy 
+ it to the most) , and with the lack of bugs or glitches in the whole game, as well as such an underground 
+ level... well things were still stable, but with the lack of use, many people didn't even decide 
+ to buy Core Combat.
+  
+  But that was just the schism... the real destruction game when the literal schism did occur. "Aftershock" 
+ brought "Battle-frame Robotics" or to most immature people "Big f-ing robots" that were individualized 
+ but balanced for each faction, and basically destroyed many of the tactics and skill required to 
+ play the game.
+  
+  I haven't touched this game for a very long time, as now they've made it near free... and they 
+ are trying their best to get people back into it, but when they made a new "appealing site" in 
+ place for their intelligent, gathered, and VASTLY SUPERIOR one, it was obvious that the focus was 
+ changing, and they didn't want to spend that MANY resources on an uncertain product, which is only 
+ uncertain because of their changes.
+  
+  In total the game was grand, but it is now nothing more than a 4.5, in my eyes.
+  
+  I suggest 
+ anyone willing to try it, do so however, as the touch of the past can still be seen, and it is 
+ still a fun game I hear... but with a much less mature and involved community.
+  
+  - Cere. 
+::::::
+
+::::::
+UserName: Nephallim
+Rating: 7.4
+Date: Mar 7, 2008 12:47 pm PT
+Review:  You've never seen my name on any Top charts and I'm not anyone that was well-known in any communities. 
+ Of course, if Ostekake was the name he went by in PS, I never heard of the dude, so there's a few 
+ grains of salt to take there.
+  
+  I received a copy of Planetside for free at GenCon in '03 or maybe '04. To this day, I'm not sure 
+ if the cute booth-girl was giving me the game or if I was supposed to have walked to a nearby register 
+ to pay for it. I walked away with it, so the outcome is easy.
+  
+  It was probably 6 months or more before I had a computer, though, and it was a late night with 
+ my brand new laptop whenever I decided to see if the free trial was still valid. It was. I remember 
+ that was a Wednesday and I probably played until 3 or 4 in the morning. Work the next day sucked. 
+ Second wind had kicked in by the time I got home and I starting playing immediately, stopping only 
+ to make some instant noodles and line up some sodas next to me. I think I fed my cat that night. 
+ Maybe. I called in sick to work the next day, having not slept yet. I think I napped whenever the 
+ servers went down for maintenance but was anxiously trying to reconnect as soon as they were supposed 
+ to have been back up.
+  
+  So, in that first 96 hours of having Planetside, I think I slept 8 to 10 of them.
+  
+  The irony? 
+ I hate... hate hate hate hate HATE first person shooters. I suck at them. All these little kids 
+ who do nothing else but play and whose reflexes are SO much sharper than mine. And, in the beginning, 
+ time spent playing mattered a lot... no matter what anyone tells you. At that time, you started 
+ with enough Certifications to start in a single direction with a character and you needed to level 
+ a bit to earn the few more Certs to get that build solid. Then you needed even more to balance 
+ yourself out so that you had options outside of your specialization when needed.
+  
+  But it was innovative and ambitious... and, while horribly unstable and unbalanced, it was a great 
+ concept.
+  
+  Some of my fondest gaming moments and oft-told stories are from Planetside. From a guy named Byrd 
+ who was the best enemy I ever had and who made taking a horrible beating entertaining to finally 
+ getting an Outfit who would follow my orders instead of zerging like the teenagers on "Command 
+ Chat" insisted on calling strategy. I will always smile whenever I think about me, a pitiable Command 
+ Rank 2, leading a wing of air cavalry and dropships to salvage a poorly planned assault by those 
+ "Commanders" only to have them question why so many people were following a CR2. I will smile broader 
+ when I remember the reply from someone I didn't know... "At least he knows what the hell he's doing. 
+ So go call in an orbital strike somewhere and get out of our way."
+  
+  I miss the silly kids in the Vanu Mafia, who would regularly go play on some remote continent just 
+ to see how long it would take people to come see what we were up to. I miss being so annoyed with 
+ DireWolf (or however he l33t spelled his name) , that I picked up a bolt driver and followed him 
+ around for a whole night, Griefing him until I couldn't shoot any more (and was then offered $20 
+ to switch to another character to keep doing it, because his whining was amusing some people) . 
+ I miss being at the apex of a dozen-strong wing of Reavers and watching a carpet of rockets blanket 
+ a target. I miss ANTs being viable weapons when dropped from a Galaxy.
+  
+  I went back for a while, some time ago. The BFRs just make the vehicle-centric play that had formed 
+ before I first left so much worse. It was more frustrating than it ever was and, with but a fraction 
+ of the playerbase left, the battles were not varied enough to let me enjoy finding a niche to play 
+ within.
+  
+  I will miss Planetside. It held my attention for a very long time and for all of its flaws, it 
+ was an innovative and noteworthy game. Maybe I'll pick up a Pulsar again and have a giggle as attacking 
+ snipers find auto-turrets popping up behind them... that's so much more fun than detonating mines 
+ under their squating hindquarters any day. 
+::::::
+
+::::::
+UserName: Ultragamer2005
+Rating: 9.5
+Date: Dec 20, 2007 6:41 pm PT
+Review:  After playing World of Warcraft a year ago, I hated it. So I tried Guild Wars. Hated it. Then Anarchy. 
+ Guess what? I hated it. I hated Everquest. I hated Hellgate. This game fixes all the problems I 
+ had with them.
+  
+  One of the main problems was grinding. A lot of companies use grinding as a cheap way to get the 
+ players to play the game. What it really does is bore them to tears and make them quit the game. 
+ I don't know why the put it in, and I also wonder why so many people like World of Warcraft, but 
+ it certainly needs to be replaced.
+  
+  This game takes a ton of the grinding away and only leaves some remains. Sure, you have to gain 
+ experience for Command Rank and Battle Rank, but you'll get that without even noticing it. Plus, 
+ you don't need it. Certifications only give you new things. They don't make you instantly better 
+ at anything (another reason I hated World of Warcraft) . I found myself actually playing the game 
+ for fun; not for leveling up.
+  
+  Another problem was repetitiveness and lame combat. In most MMOs, you found yourself doing the 
+ same tedious combat, clicking and watching, clicking and watching, clicking and watching. It gets 
+ boring! This game still has some repetitiveness, but pays back with top-of-the-line combat and 
+ better gameplay. Even when almost every battle had the same objective, it was hard for me to get 
+ bored. It was different enemies, different tactics, and different methods. No battle was the same.
+ 
+  
+  Overall, this game is one of the best MMOs ever. It still has some flaws (such as the graphics 
+ being outdated and combat isn't really a revolution in the FPS genre) , but overall it's great. 
+ If you're looking for an MMO that has more action and is not just a way to pass time, look no further.
+ 
+  
+  
+  
+  
+::::::
+
+::::::
+UserName: ObjectiveTruth
+Rating: 9.5
+Date: Nov 4, 2007 7:02 pm PT
+Review:  This game is by far the best game ever created. Of course it does have its pitfalls
+  
+  Unfortunately, the pitfalls are all due to technical issues.
+  
+  The game itself, if you can 
+ get past all the bad programming is one of incredible ingenuity and just pure fun.
+  
+  This is the kind of game where leadership really matters. A war is waged based on real people's 
+ reactions. The art of war is real in this game. When you make a decision you make it within your 
+ rank. Everyone has a purpose.
+  
+  In the game you attain Command Ranks which is a different kind of experience you get for leading 
+ a squad to do objectives. Every time you go up a rank, you can speak to those of similar rank in 
+ your area. This creates a real command hierarchy where the lower squad leaders are called on by 
+ the higher commanders to do objectives. In my experience, we were in a clan that specialized in 
+ special operations. Going behind enemy lines and disrupting supply lines. Our leader was often 
+ called upon by the cr5s (the highest rank) to destroy a generator as they were getting ready to 
+ orchestrate a way to attack a new base on a new front.
+  
+  No game will ever immerse you as much as this game will.
+  
+  If you like teamwork then this 
+ is the game to play.
+  having said that the other problem is population, something that is seriously lacking. :- ( 
+::::::
+
+::::::
+UserName: sexyneo
+Rating: 8
+Date: Oct 3, 2007 7:47 am PT
+Review:  Well planet side was one of the best mmofps out there back in the days, but with recent new fps 
+ online and BF 2 and 2142 ET and so on planet side with years took a fall down but with 2 expension 
+ pack and a lot of work form SOE the game became more stable i won; t say there no more lags or bugs 
+ but the game like ive said is pretty stable all the way most of the time or so. But the prob are 
+ no big deals . Anyway the game play is fun having 2 different ennemy at the time can be challenging 
+ lol but quite amuzing and of course the music is particually right and good for the game i would 
+ say that if you like a fps online with a lot of friends and foes well go try it out you won; t regret 
+ it . 
+::::::
+
+::::::
+UserName: Grantelicious
+Rating: 6
+Date: Sep 7, 2007 7:32 am PT
+Review:  I used to be in Planetside beta back in early 2003 and i thought the bases would be placeholder 
+ ones until more dynamic and better looking unique ones came in, nope SOE just released the game 
+ in May of that year. At the time Planetside was a game with some things missing but still ALOT 
+ of fun because it was the gimmick of having large scale FPS battles that you've never seen before 
+ of i think it was upto like 1000 back then but i know it was cut down to 600 (200 a side) which 
+ might have changed again now.
+  
+  So at the time i just finished college and spent my whole summer not getting a job and playing 
+ Planetside non stop, it was THAT much fun. The battles were sooo intense and great fun with all 
+ the vehicles and weapon loadouts that you could spend all day on it. Also Planetside has levels 
+ BR (battle rank) and CR (command rank) and basically they don't make you anymore powerful in battle 
+ like giving you more health. All levels are there for is to give you you more options on what you 
+ can use, basically you get 1 SP per level to spend and you start off with a few too. CR however 
+ will give you more commanding skills like writing on the map or palcing way points or even obital 
+ strikes to kill mass people quickly with a very long cool down.
+  
+  So the weapons/armor and vehicles you'll be buying with these skill points some in certs which 
+ at the time you had to buy each item on their own. Now vehicles come in little groups or upgrades 
+ so buy one item and you'll be allowed to buy the next. It really makes Planetside still lightyears 
+ ahead of everyother FPS because it has sooo many weapons and vehicles and combinations + armor 
+ too. They come in common pool (most of the equipment and vehicles are these) this means every faction 
+ can use it. Faction specific which means only your faction can use that weapon. Also Stolen so 
+ if your a adv hacker then you can hack another factions stuff even if it's not common pool and 
+ use it.
+  
+  The three factions which are terran Republic, vanu sovereignty and new conglomerate. The Terran 
+ are in red and they have fast firering weapons which do lower dmg but because they fire fast your 
+ more likely to hit more often. Vanu (my fave) are in alien technology and their vehicles float 
+ above ground also their weapons can change from armor pericing to normal rounds without having 
+ to cary the seperate ammo for it. The Vanu's lasher also can do splash damage which is very effective 
+ in coriddors + lasher 2.0 ftw. NC have one shot LOTS of power but a longer cool down till next 
+ shot as they use alot of shotgun type things. Their Tank was the most powerful but the slowest 
+ too but everyone feared it.
+  
+  The problem with Planetside is because the way they designed it the game was always going to get 
+ boring fast. Theres only a few types of bases and they all really look the same so your fighting 
+ in the same bases across boring continents all the time and noone ever wins. Sure you can win the 
+ island but then you all leave to fight for another island and by that time they'd be hacking it 
+ again.
+  
+  What i wanted for Planetside was original bases and little cities. One of the developers i spoke 
+ to said they wanted all that too but SOE made them make a expansion from launch to be ready with 
+ little testing 3 months later. the expansion was released in Sept 03 and was callec Core Combat. 
+ Basically it added some new weapons you could only get from going down into the caves and hacking 
+ it connecting it to your bases above ground. The caverns were really poorly designed and while 
+ they gave the city type gameplay we wanted, it was in the wrong place. The world was already big 
+ enough and it just added more space, they should have put them above ground in city form and not 
+ aload of rocks underground that looked ugly.
+  
+  So after that expansion many people quit because they were hoping it would get rid of their boredom. 
+ Later on in 2004 SOE decided to do the bending and BFR's which just totally ruined the game and 
+ most people quit to the horrible population we have today. Basically in short BFR's were some overpowered 
+ walking tank that made all other vehicles useless. Then bending got rid of Oshur island and replaced 
+ it with a horrible map and 4 smaller islands which sucked.
+  
+  Now with the small population Planetside is showing it's age with most new additions to the game 
+ if it has any at all being for veterans and not new players. It's a slowly dying mmo and forever 
+ hard to find a battle specially on the Euro server so if your from there your screwed. It's such 
+ a shame because Planetside lost alot of the original developers due to SOE's ways of rushing everything. 
+ It could have been a amazing game but instead it's a slowly dying one.
+  
+  However i had ALOT of fun with Planetside and was sooo amazing before it got ruined to no hope. 
+ Yes Beta 2003 till sept 2003 was the most perfect time with Planetside and thats when we saw the 
+ biggest battles and was just amazing.
+  
+  So my pre Sept 2003 score: 9/10
+  
+  My now score....... 
+::::::
+
+::::::
+UserName: Ostekake2
+Rating: 7.3
+Date: Apr 28, 2007 5:30 pm PT
+Review:  I started out as everybody else back in 2003 but quickly advanced in command rankings and by the 
+ end of 2004 i was ranked #2 in the world all servers all empires. Only beaten by my good friend 
+ JeffBeefJaw :)
+  
+  So as an experienced Planetside player i figured, why not write up something when looking back 
+ at what Planetside was.
+  Planetside is different. Planetside is in my opinion the best mmorpg.
+  Yes, RPG ! You dont agree 
+ ? read on...
+  
+  Planetside did (and still do) provide players with the first chance to truly take team gameplay 
+ to the next level. By providing a game platform that would bring together up to 366 players in 
+ a playfield about twice the size of the average unreal tournament or counter strike map.
+  The carnage and high octane action fps you could get from 300+ twitchy and highly trained multilevel 
+ teams clashing every time all three empires would converge on a base of strategic importance is 
+ unsurpassed by any other game.
+  
+  So why RPG ?
+  Well, when you start out your first character you are imidiatly give every opportunity to be whatever 
+ you want to be. From transport pilot, medic, heavy weapons specialist or whatever floats your boat.
+ 
+  Outfits (as clans are called in PS) always have certain roles that needs filling so as soon as 
+ you get into one you can actually do something you like that means something for other players 
+ around you.
+  It kinda gave me a huge kick knowing that when we decided to launch an attack on our enemies, readied 
+ and loaded up 100+ players in air transports (galaxies) , there was nothing else that would ensue 
+ massive panic and complete readiness amongst our enemies awaiting our onslaught.
+  Often i would get reports back Holy (rears end) its an Ostekake galaxy raid ! ! ! - those where 
+ the days :)
+  
+  The only way you can coordinate that many players towards common goals in a game is if these players, 
+ understand, respect and profesionally execute their own role and the role of others in their team.
+ 
+  In this way, Planetside, was the best RPG i have ever played !
+  
+  So what does other games have to learn from Planetside ?
+  Well, first of all - the amount of 
+ online gamers clashing in a small and confined area without utterly and completely lagging out.
+ 
+  Second, it was'nt any grinding, as soon as you logged in you could be anything you wanted to be. 
+ You could even create a new character just because your outfit needed you to fulfill a certain 
+ role for the night - that made the team play very easy.
+  Last but not least, the every single tactical and strategical, both local and global actions or 
+ objectives, had a meaning. From the single solo playing guy who saved the day for hundreds of other 
+ players - actually making a REAL difference for others, to global command of hundreds and hundreds 
+ of players towards common strategical goals.
+  
+  World of Warcraft tried and utterly failed, they had to resort to tiny play fields with their battlegrounds 
+ and they had to totaly nerf players ability to lead across guilds by using global chat.
+  Why ?
+  Well, Blizzard ignored the fact that with power comes responsibility to treat your fellow 
+ players respectfully and as human beings and not as your personal cartoony rag dolls you can bash 
+ and throw around as you please. In Planetside they let the community evolve and only those players 
+ with the right abilities would in the end get the job done with leading and sharing responsibilities 
+ for the unbelievable task of actualy coordinating that many players at one time, trust me its NOT 
+ a one man gig. Mix this with cultural, ethical and political differences among the hard core of 
+ 20-30 regular commanders per server and you got issues to solve. Mostly we could resolved our differences, 
+ because we where trusted by the game administrators to do so - and in the end we did. So yes, we 
+ had our arguments in command chat, TRUST ME we did ;)
+  If this was the intentions of SOE or just plain ignorance doesnt matter.
+  The end result was 
+ good, simply because SOE unleashed the community and let it evolve. Thus history was made and Planetside 
+ will forever stand in history for me as the best Fantasy first person shooter role playing game, 
+ EVER !
+  
+  In short, if you have not tried planetside yet... You should !
+  Because it represents something realy special when it comes to game mechanics.
+  
+  Now i'm looking 
+ forward to Funcom's Age of Conan and truly hope they can learn from both their community experience 
+ in Anarcy Online and look at what other games have done. Then maybe, just maybe, we can get to 
+ see something truly unique in gaming history.
+  
+  To put it in planetside lingo...
+  Think Xbox instant action spawn in a galaxy seat, millions of online Xbox players just itching 
+ to enjoy being cannonfodder, combined with real deep - in depth - lore and a massive MMORPG, building 
+ on all the mistakes of former MMOs. Then mix that with thousands of guilds across hundreds of servers 
+ in one seamless gigantic pvp battlefield set in a violent and grotesq world where individuals and 
+ groups of players battle it out for fame and glory. Its truly a I have a dream vision.
+  Might be worth to mention that all this comes in a FullHD 60 frames per second presentation and 
+ if this comes to pass then Hollywood realy needs to start looking for something else to do..
+  
+  We can only hope :)
+  
+  Thank you for reading my ramblings and please forgive my none native 
+ english, i hope it wasnt to bad... 
+::::::
+
+::::::
+UserName: boku14
+Rating: 10
+Date: Jan 5, 2007 3:43 pm PT
+Review:  so, you are looking around the web, to figure out if you should buy this game. well maybe you should 
+ know some stuff first. like, this game is an FPSMMORPG (yea, long title huh?) . once you buy the 
+ game, and install it. you will have to update it. which can take up to 3 hours. now hold on, don't 
+ leave! after it updates you will go to a main menu, and pick a server. which, is split up into 
+ three time zones (EST, PST, and EURO) . then you have to pick a faction. there are a total of three 
+ factions in the game. 1st you have the Vanu (no not the car....) , who likes to put the color purple 
+ on EVERYTHING they own. the Vanu like using super Tech (even if it is not that good...) , lasers, 
+ energy weapons, shields, ect... they want to take over the world through cool looking tech *cough* 
+ attack of the Geeks *cough*. 2nd you have the Terran Republic, who likes to put the color red on 
+ everything they own (starting to see a pattern here?) . the TR (nickname for Terran Republic) like 
+ to show that they are badass by having super-rapid-fire weapons, chain-guns, gattling-guns, rapid-fire 
+ pistols, ect... they want to take over the world using there rapid-fire weapons, and there coolness 
+ *cough* Rambo wanna-bes *cough*. last you have the New Con (hmm...) , they use the color blue on 
+ there stuff. and they like the power weapons , shotguns, missiles, magno-rifles, ect... lets just 
+ say if you like to nuke the crap out of an enemy, you might just like this faction. they are simple 
+ people, who take up arms to kick the living daylights out of anything that comes near them.
+  
+  all of this, + countless weapons, tanks, jets, water-tanks, mechs, and even hover-craft are 
+ in this game. there is also a command part of the game, where you can lead from Squads, to whole 
+ armys. though, most of the players who can lead whole armys, are dumb 12-years olds who would not 
+ know a tactic if it bit them in the butt!
+  
+  so, in short, if you feel like spending hours and hours blowing away people online, without all 
+ that you must save the king! crap in RPGs, GET THIS GAME!! 
+::::::
+
+::::::
+UserName: GenTom
+Rating: 8.4
+Date: Dec 24, 2006 2:10 am PT
+Review:  I'll just tell you right here and now that I'm thoroughly impressed. I have spent the last month 
+ entrenched in one of Sony's latest online offerings, which goes by the name Planetside. Before 
+ you ask, NO! I have never played Everquest. I don't know why. It just never appealed to me but 
+ Planetside does. I'm not sure if the reason is that the game takes place in a futuristic technology-driven 
+ society or if it's because the game is a first-person shooter which encourages team-based play. 
+ Whatever the reason, I'm hooked. Planetside basically boils down to a massive online game of Risk. 
+ You have the choice to play as a member of one of the game's 3 factions -- the Terran Republic, the 
+ New Conglomerate, or the Vanu Sovereignty. Each faction has its own strengths and weaknesses and 
+ each is trying to take over the planet. Depending on which faction you choose, weapons, vehicles, 
+ and armor will vary. Now, I know some of you out there are reading this and saying to yourself, 
+ Great, Another #$!@*% online multiplayer game. But believe me when I tell you that this one's different. 
+ You can jump in and play right out of the box. Unlike Everquest, all players are equally vulnerable 
+ on the battlefield. Also, unlike many other online multiplayer games, a veteran's rank will not 
+ protect him from a newbie. If you've got a gun and can get a jump on or seek up behind a Planetside 
+ veteran, you have the upper hand. High-powered weapons and better armor can be acquired by using 
+ what the game refers to as certification points. Through battle experience you can acquire new 
+ ranks. For each new rank, you receive one certification point, which can then be used to unlock 
+ new weapons, armor, vehicles, etc. Also, you are given grief points if you wound or kill someone 
+ on your team. Accumulated grief points can result in penalties ranging from warnings to losing 
+ weapon privileges. You can make your character specialize in a specific area or be a jack of all 
+ trades. For example, if you're not the greatest shot in the world, you can buy a certification 
+ which gives you the ability to become a medic, an engineer, a hacker, a pilot, or a host of other 
+ professions, all with the ability to excel in that area. This makes for an amazingly diverse player 
+ population. When you first log into the game you're on your own. And let me tell you, if you expect 
+ to log in and wreak havoc alone, you can forget it. Progressing in Planetside, as a single player, 
+ is near on impossible. The easiest way to play the game is to find a group of people to play with. 
+ These groups are known as squads. A squad is, basically, a group of people who travel within the 
+ game together. The advantage to this is that each squad contains players with different abilities. 
+ One player may be able to fly a transport ship while another may have expertise is driving an assault 
+ tank. Make no mistake. Planetside is, at its heart, a squad-based shooter. Depending on which faction 
+ you choose to play for, your goal during the game is to take over as many enemy structures (i. e. 
+ bases, labs, guard towers, etc.) as possible. Not only do you have to deal with the resistance 
+ that you encounter, but you also have to enter the structure and hack a computer. This may seem 
+ like a simple feat, but hacking a computer takes no less than 15 minutes in real time. During which 
+ time, the person hacking the main control console can not move and the structure goes into complete 
+ lock-down. Other squad members have to watch his/her back. Also, medical consoles, equipment terminals, 
+ etc. will not work. As good as the squad system works in the game, it has its problems. For example, 
+ if you're in a squad and you log out of the game, you're dropped from the squad. If you try to 
+ reenter the game, you have to find your squad again, start your own squad, or join a new squad. 
+ This is probably not a game flaw. It was probably built this way to encourage players to meet new 
+ people. However, it's an annoyance if you've found five or ten guys that you really enjoy playing 
+ with and want to play with them all the time. The game allows you to find people you've played 
+ with before by the use of a friends list. Any name that you put on the friends list will stay there. 
+ The next time you log into the game, it will tell you if that person is online or not. This feature 
+ is great, but it has one minor problem. Although you can see if they're online, you can't tell 
+ where in the game-world they are. You can try and find them using Broadcast Chat but if they have 
+ deactivated Broadcast Chat, they won't see your message. The addition of the ability to private 
+ message a friend would easily fix this problem. Another option is to join an Outfit. An Outfit 
+ is a squad of 10 or more people with added benefits. In a stroke of genius, the developers of Planetside 
+ decided to incorporate voice-chat, which makes working with your squad much easier. How does it 
+ look? I can honestly say that Planetside is one of the best-looking games Ive ever played, online 
+ or otherwise. The game takes place over ten continents with varying terrain, atmosphere, and weather 
+ conditions. Whatever type of realistic environment you can imagine, it's in the game trees, lakes, 
+ fields, deserts, mountains, etc. With all of its graphical splendor, you might expect severe lag-time. 
+ While the game has its fair share of lag-time, there have not been many times when my gameplay 
+ experience was affected by it. I give the net team at Sony credit for that. The sound in the game 
+ is what you would expect in a war zone. Transports moving overhead and tanks rolling by are common 
+ occurrences in Planetside. It really adds to the immersivness of the game. So what's the final 
+ verdict? Well, this is a great game with only a few minor problems. There are tons of online first-person 
+ shooters out there but none can quite reach this level. I'm very excited to see how the developers 
+ tweak and change this game in the future. Can you say industrial espionage?
+  
+  Graphics: 9
+  
+  This game looks fantastic. I don't care how long you've been playing games or 
+ how jaded you are. This game will drop your jaw. The environments are believable and the planet 
+ has a day and night cycle that makes me want to cry. It doesn't get any prettier than this. Sound: 
+ 9
+  
+  Everything that you would expect in a wartime environment is here. Heavy tanks, fighter planes, 
+ machine guns -- you name it, it's here. Everything sounds absolutely incredible. Of course depending 
+ on the sound setup on your PC, the experience may vary but those with 4 or 5 piece sound systems 
+ will be glad they have them. All-in-all the sound adds to a game and makes you believe you're in 
+ a wartime environment. Gameplay: 9
+  
+  This game is flat-out fun. It takes the first-person action that we all know and love and places 
+ it in an online world that will keep you coming back for more. Switching from play mode to the 
+ chat screen and back again is a bit cumbersome but you get used to it. The interface could be simplified 
+ a bit but all-in-all it works. Replayability: 9
+  
+  There really is no end to the game. I could concievably see myself getting bored with this game, 
+ but not anytime soon. The fact that the game never really ends keeps it fresh. The ability of the 
+ developers to add new wrinkles into the game will keep you coming back for more. The manual is 
+ by no means small. It spans 52 pages and contains everything you'll need to know to get started 
+ in the game and become an effective player. The games website also contains FAQs, technical support, 
+ and anything else you might need. Summary: 8.4/10
+  
+  This is a great game. Yes! It will suck your life away but it's worth it. Buy it now! You know 
+ you want it. 
+::::::
+
+::::::
+UserName: MrTWiggy
+Rating: 9.4
+Date: Dec 9, 2006 12:17 pm PT
+Review:  Wow.... where do I start? Ok. For one thing, this game was made back waaaaaaay back in the days 
+ of 2003. Now everyone knows that 2003 had some pretty crappy games ever made that year. Well this 
+ game was made from that year and surprisingly, its really freakin' cool!!!! If you watch shows 
+ like Firefly, Stargate, or Battle Star Galactica, and you have a vivid imagination of mass war 
+ between 3 nations then you have PlanetSide!
+  
+  Gameplay - Basically, this is your typical 1st/3rd person shooter set in the future. Heres what 
+ your going to do: Get to know your weapons and vehicles, build strategies, join squads (basically 
+ grinding parties) , then on to outfits (your typical guild) , and enjoy the game! The game is great 
+ at making you feel like a very small contribution to a very big war. Every kill counts and helps 
+ you gain your next Battle Rank which allow you to gain implants (abilities) and Certificate points 
+ which can be used to acquire new weapon classes and vehicles. There are the 3 armies ranging from 
+ the Terran Republic, the New Conglomerate, and the Vanu Sovereignty each with their own pros and 
+ cons. The game is very deep on gameplay and strategy, especially if your a squad commander, You 
+ didnt think ordering new recruits around could be so much fun!
+  
+  Graphics - For a game from 2003 it is surprising that it can look so good! If you have ever played 
+ Unreal Tournament 2004 then the graphics from that resemble PlanetSide a great deal. The planets 
+ are colorful, and the textures are quite solid. Since it is an older game it does lack the little 
+ Glints and Glimmers of now-a-days graphically improved games. Nonetheless, its not going to gross 
+ you out. ;)
+  
+  Sound - HOLY CRAP TAKE COVER!!!! This game excels in sound, every gun you fire has a different 
+ sound effect all with their uniqueness and they all sound like they fit the weapon from which you 
+ fire from. When bombs are being dropped on you above you can hear the beautiful sound of bombs 
+ dropping and killing people ;) . Ahhh the memories of WWII!
+  
+  Value - This game will go a long ways with value. It can be worth starting from ground zero again 
+ and getting the certificates that match what you need to do. There is almost never a dull moment 
+ in the game and seeing as how their are so many freakin patches (what? A FIVE HOUR DOWNLOAD FOR 
+ PATCHES?!?!?!) that it is worth it because most of them fix the bugs of the game from 2003 and 
+ adds more to the gameplay than what was originally there. Overall, I will be playing this game 
+ for quite a while.
+  
+  Tilt - Everything seems to be in place... the only thing that I can note is the physics and the 
+ collision damage are a little off in the game. It doesnt take anything down from the gameplay, 
+ but it can be annoying at times. The grief system is a little weird too. (TeamKill System)
+  
+  If you have gotten bored of everything else then I strongly recommend PlanetSide. Its an easy 
+ Recommendation to Scifi and FPS fans alike. As far as the MMO part plays, this ain't know Medieval 
+ hack/slash game so the kills can be pretty freakin' hard to get. But, like every other game, theres 
+ always an easy way to level up =P. See ya Around the BattleField! 
+::::::
+
+::::::
+UserName: d0a0n0i0
+Rating: 8.6
+Date: Nov 5, 2006 10:28 am PT
+Review:  Ok, there you are, behind a tree. There are 30 enemy troops heading your way. There's at least 
+ 6 bombers flying above your head. Your team's been scattered by the opposing force. What do you 
+ do? You low on suppressor ammo so you can't fight them, and anyways you'd probably die. If you 
+ run one of them's bound to see you. You could call for backup, but what if no one replies? Make 
+ the right choice, or it may be the last choice you ever make. Thats just one of the intense moments 
+ you can encounter in Planetside. This game is just amazing. It ain't like any other game you've 
+ played son. This isn't one of those team death-match game where it just run, duck ,peak, shoot, 
+ run. This is a game where you have to strategies. Not by your self but with your team. In most 
+ other games you can run around the map by yourself and be fine. But this game, you must stay together 
+ or you're history. Oh and the maps... Those ain't maps those are PLANETS!!! Thats right you fight 
+ on a planet not a map! ANd the vehicles really help in large scale battle (we're talking 100 vs 
+ 100) This ain't PvP this is EvE (empire s empire)
+  Just try planetside reserves to get a taste of it o and the only downside is the monthly fees which 
+ is $13 bucks a month so play planetside reserves! 
+::::::
+
+::::::
+UserName: CheeseGuardian
+Rating: 8.9
+Date: Aug 6, 2006 6:31 pm PT
+Review:  If it works, and you get organized into a squad / outfit / platoon or whatever... this game is 
+ really amazing. Tons of vehicles and different armor / weapon options and different gameplay roles 
+ make this game one of the best FPS's I've ever played. It's VERY addicting.......
+  
+  But then again.............. there's always the camping and idlers you can expect from every FPS...... 
+ and it's never any fun to travel for a half-hour just for a BFR (Battle Frame Robotics, A. K. A "Big 
+ Friggin' Robot") to wipe you out. But believe me, the good FAR outweighs the bad, it's just a matter 
+ of getting set up to play 
+  
+  The three teams are balanced fairly well, so the course of the battle is usually determined by 
+ the skill of a commander. The game is all about getting organized enough to strategically take 
+ continents.
+  
+  (BTW, the game has some serious crash issues, but most of these can be eliminated by simply putting 
+ your video settings to 'low'.) 
+::::::
+
+::::::
+UserName: JimLad800
+Rating: 9.8
+Date: Aug 1, 2006 9:40 am PT
+Review:  I can't even remember why I picked this game up in summer of 2003. I had just got a new PC and 
+ decided to buy a good looking online game to test it.
+  
+  but OH... MY... GOD...
+  No game has ever consumed me over as much time as this one.
+  I say over as much time because 
+ I've taken breaks from it on numerous occasions as I'm sure most have. But I just keep coming back 
+ to it over and over. 
+  You think Star Wars Galaxies will make you quit, and it doesn't. 
+  You think World of Warcraft will make you quit, and it doesn't.
+  
+  The thing is, if you like 
+ PvP in MMO games, NOTHING out there does it better than this. Of course it doesn't have all the 
+ role playing elements and adventuring of a MMORPG, it's just 100% player on player puree, no levels, 
+ no rares, no fixed choices. (minus your faction choice)
+  
+  There are some MINOR performance issues in regards to lag, I think you can get round this by having 
+ an ultra top-end PC, but even without one it's still hella fun.
+  IMO the only people who have a problem with this game are whiners and cry-babies. They don't seem 
+ to realise this isn't Everquest with guns or Unreal with just more people. This is war, savage, 
+ brutal and many a times unfair. But that's how it goes, you either learn from your mistakes and 
+ play smarter next time, or throw your toys out the pram and piss off back to whatever run of the 
+ mill **** you were playing before.
+  
+  So, what is Planetside?
+  I won't go into detail because there is just SO much in this game, you'll have to read up or better 
+ still, try it out.
+  The idea is pretty simple really...
+  It's an online FPS. You pick one of 3 warring factions for your character and then go fight with 
+ several hundred other players at a time for control of bases. There are loads of unique weapons, 
+ armours and vehicles which you can learn to use. (and unlearn to get the skillpoints back for something 
+ else) You fight on huge battle continents of all kinds of terrain, deserts, snow, swamps, coastlines, 
+ bridges, mountains, cliffs, as well as giant caverns with numerous hieght levels.
+  
+  One of its defineing features is there's just so many ways you can play it. 
+  
+  Infantry, artillery, 
+ defence technician, support, medic, heavy armoured, cloaker, convoy assault, vehicle gunner, mobile 
+ scout, hit and run, gunship pilot, fighter pilot, dropship pilot, mech pilot, bomber...
+  Then you can go solo, join a squad/platoon (or outfit guild) or just follow the empire zerg across 
+ open ground, over hills, through trees, over bridges, down coridoors, up staircases, in store rooms, 
+ on rooftops...
+  
+  Imagine any kind of first person shooter scenario and Planetside will have it in some form if not 
+ better. They've added so much content, and they still are adding more. And because there are no 
+ NPCs or pre-determined numbering factors, it never gets old with different enemies every day. It's 
+ also free until BR6 now.
+  
+  In the end this is just a war game, and while it is of sci-fi breeding, it's more realistic than 
+ anything else out there. 
+::::::
+
+::::::
+UserName: Solaris222002
+Rating: 9.4
+Date: Jun 28, 2006 4:26 pm PT
+Review:  PlanetSide is so addicting, I have spent so many hours trying to level my character instead of 
+ doing school work. It takes a while to learn everything there is to know about it but once you 
+ have everything down its very easy to get into battle and start killing people. There are 3 empires 
+ to choose from with there own distinct characteristics, Terran Republic, New Conglomerate and Vanu 
+ Sovereignty. I cant tell you everything this game has to offer but if you liike Tribes, this is 
+ Tribes on steroids with ninjas throwing flaming monkeys. All I can tell you is you'll love this 
+ game if you take the time and join a good outfit (PlanetSides guilds) . 
+::::::
+
+::::::
+UserName: Frunku
+Rating: 9.4
+Date: May 28, 2006 7:32 pm PT
+Review:  When you get good at this game, it cannot be compared to any other. It combines FPS gameplay with 
+ RPG elements which provides more tangible and long-term goals than just winning a BF2 round.
+  
+  The learning curve is steep as you will be facing only players, most of which are veterans. 
+ What you will find interesting is that character level isn't the determining factor in combat, 
+ player skill is. As you get better, you will become hopelessly addicted and you will start to be 
+ able to beat even higher level players in better gear.
+  
+  Gameplay and replay value are perfect. Graphics are dated but you still need a fairly good computer 
+ because of the scale. Sound is great.
+  
+  Go pick it up right now for free at www. planetside. com, it's free up to br6 for 12 months. It's 
+ really not worth skipping. 
+::::::
+
+::::::
+UserName: Greatwasabi
+Rating: 9.1
+Date: Apr 5, 2006 7:24 pm PT
+Review:  Population problems only real flaw in this game!! Give it a chance! Join the reserves, do a ten 
+ day trial, something!!
+  
+  Gameplay 9/10::
+  Different approach from what I can tell. Everything seems very very balanced and forces you to 
+ use strategy with your other team mates. MAX armor was really cool, new BFR additions kick *ss 
+ also (Huuge robots that walk around and wreak havok if used properly) Again though it shows how 
+ it's balanced, if the driver is being stupid and throwing himself into on coming fire a well trained 
+ squad of footsoldiers can bring him down with the appropriate weapons. The game is a little hard 
+ to aim though, cone effect can sometimes be frusturating but thats okay, you get used to if after 
+ a while.
+  
+  Graphics 8/10::
+  Nothing to gawk at, seem a little dated by now but if you can play it on the highest settings it 
+ looks pretty good. Explosions of vehicles etc. look very fake though.. but that isnt a huge huge 
+ problem.
+  
+  Sound 7/10::
+  Soundtrack is good but everything else is a little blah. Guns dont sound that amazing, neither 
+ do explosions or anything else. Could have been more inspired but doesnt really detract from the 
+ gaming experience like a Single Player Fps would.
+  
+  Value 10/10::
+  Wow.. you get this game and you WILL lose alot of sleep. You die pretty quickly but get back into 
+ the action very fast also so youre always on your toes. Sieging bases can take up to two or three 
+ hours sometimes. It is a pay per month game though so if you slack off and dont play for a few 
+ weeks you will feel pretty bad about yourself.
+  
+  9.1- Awesome.. just give it a chance, if you love it you will not be able to go on without it. 
+ Population problems arent really huge, a few thousand people still play but sometimes battles are 
+ hard to find. Get it, NOW.
+  
+  
+::::::
+
+::::::
+UserName: zlinko
+Rating: 7.9
+Date: Feb 22, 2006 8:55 am PT
+Review:  So lets start with the good. I have played PlanetSide off and on for a while now and what always 
+ gets me coming back are the PVP battles. There Great! 100's of people battling on an island for 
+ bases. You not only have to fight your way thru the massive amounts of people but you have to hold 
+ a base for a certain amount of time to over take it. One thing that I recommend is that you get 
+ with some type of guild. This brings the game to a whole new level. You become a part in an important 
+ team with a single mission. Each person has there role and is needed. Also I would get on TeamSpeak.. 
+ this is a must have... it is very diffcult to be shooting at people and then try to type "HELP!" 
+ or "Theres someone behind you!". 
+  
+  Ok so now the bad. There are tons of choices in the game. Lots of equipment, classes, lots of vehicles 
+ which can lead to problems. If your going to go solo how do you pick what to be? Its diffcult, 
+ there may be one attack and people really need repairers or even hackers but no one has it. All 
+ this leads up to that PlanetSide is a player guild game. You have to team if you plan to be successful 
+ in the game, and even get the most enjoyment out of the game. 
+::::::
+
+::::::
+UserName: geldonyetich
+Rating: 7.3
+Date: Feb 16, 2006 11:48 am PT
+Review:  Planetside was released May of 2003 as the first massively multiplayer first person shooter. Along 
+ these lines, there are few other games that even come close. Huxley is long from release, and games 
+ such as Endless Ages and Gun Online are something else entirely.
+  
+  The overall flow of Planetside is simple. Choose one of three factions and join them in battle, 
+ overpowering and capturing facilities from other factions in first person shooter combat. The execution 
+ is the complicated part. Planetside is a game of combined arms strategy, and only the faction that 
+ employs the right mixture of vehicles and infantry will have a chance at success. Of course, numbers 
+ also play a major role in deciding victory, as is the case in any unrestricted online PvP environment.
+ 
+  
+  Planetside is fun on the very individual level, as a first person shooter should be. After choosing 
+ your certifications, you are given access to a wide variety of weapons and vehicles. Then it's 
+ just a matter of suiting up and blasting the bad guys. Each weapon has a varying amount of accuracy, 
+ and Planetside uses a Cone of Fire (CoF) system that determines your likelihood that you'll hit 
+ what you're aiming at. The CoF has been scaled back a bit from release, so in general the odds 
+ of your hitting are more up to you (the player) rather than the cone of fire. Still, I think the 
+ CoF makes things interesting. Appropriately certified characters are able to heal themselves between 
+ fights, although this renders them vulnerable to an ambush. Lone guns are generally taken down 
+ in short order, and those who take the time to organize their attacks are rewarded with greater 
+ success.
+  
+  My main gripe against Planetside is that the rate of change has been abysmal. It has changed, as 
+ any massively multiplayer subscription-based game should, but not nearly often enough to justify 
+ $15/mo. In the nearly three years the game has been released, there's only been a about half-dozen 
+ new vehicles and four new weapons added. There has been some enriching in the gameplay in that 
+ capitols (bases that require bases around them be taken in order for them to become vulnerable) 
+ and capture the flag-like capturing has been added. Aside from that, however, there's only been 
+ hundreds of nearly imperceivable changes. I'm ticked that there hasn't been a single combat-engineer 
+ toy added since beta. Medics have been left equally neglected, with only a map indicator for downed 
+ faction members. They've even dumbed down the game a bit from its roots, by reducing the size of 
+ the Cone of Fire to the point where effective accuracy at comparatively obscene ranges has long 
+ been possible and using cover nearly useless compared to the levels back in beta. They've even 
+ largely ditched the idea of armor-piercing ammunition to the point where few both to carry it anymore. 
+ Bah!
+  
+  Regardless of this veteran player's complaints, Planetside is a genuinely entertaining experience. 
+ Everybody should try it out at least once, and in a little while Sony Online Entertainment is going 
+ to give everybody that chance. They're working on a "Fodderside" project where anybody can download 
+ a client and play up to Battle Rank 6 for free for a year. Also, they've announced they're going 
+ to implement a number of cool changes that may actually include more engineer toys, MAX armor variants, 
+ and more. Perhaps it's too early to write Planetside off entirely, it may yet have a future as 
+ worthy as the fun it can generate. 
+::::::
+
+::::::
+UserName: C0deZer0
+Rating: 8.3
+Date: Jan 9, 2006 9:39 am PT
+Review:  In 2003 Sony released this ambitious MMO that puts you in the thick of futuristic warfare. Planetside 
+ puts a fully functional FPS game that has a lot of elements of an RPG, and surprisingly enough 
+ manages to pull it off well. The objective is a simple one, total global domination. Choose from 
+ three different factions that have their own arsenal of weaponry, and head into the battle.
+  
+  Getting into Planetside is extremely simple. Starting out, you will get to choose three factions, 
+ the Vanu Sovereignty, Terran Republic, and New Conglomerate. Each faction has a wide variety of 
+ weapons at your disposal. After you have chosen your faction, you will be able to create your character, 
+ which is rather plain and simple, you just pick a face and a name and your good to go. Once you 
+ are in the game, you will start out at your faction's home island, and will have the choice to 
+ take some training or jump right into battle by catching a drop ship. The game has an instant action 
+ option as the name says, will drop you into the heart of combat. When you start you will have the 
+ option to only your your starting battle rifle, and will need to earn what the game calls battle 
+ ranks. You can achieve this buy doing things such as killing enemies, repairing items, hacking 
+ terminals and so on. As you do this, you will also get Certification points. These points are used 
+ to buy the ability to use new weapons, armor and vehicles. One of the great things about PS, is 
+ the fact that you will want to look at your points and strategically pick out your certifications 
+ for what you are good at. If you are good at sneaking, you can buy a suit that will let you cloak, 
+ but keep light weapons on you. If you like to use brute force you can buy what is called the MAX 
+ armor, and you are pretty much a walking tank. You can be a hacker and sneak into an enemy complex 
+ and try to take it over. There are many roles to play, and each has a certain fun factor to it. 
+ Planetside consists of nothing but actual players, so any person you see (excluding the dummy characters 
+ in training) are actual players. When you play, you are in a full war and with how many vehicles 
+ and weapons there are, it truly feels like it. Most of the vehicles will vary from chaingun mounted 
+ ATVs to huge transports. Most of the vehicles will require more than one person, one person as 
+ the driver and others as gunners. At times when defending a base or attacking it, there can be 
+ a lot going on all at once and can bog down your system, but if you have a high end system, shouldn't 
+ be much of a problem. One nice little feature to the game is a penalty if you shoot people on your 
+ team. Any team killer out there will end up with Grieve points, which will hurt your development 
+ in the long run. While this is a nice feature, it can get a little bothersome when there are a 
+ group of people who get in your way while you are gunning down an enemy, you will gain some of 
+ those points.
+  
+  Everything is layed out to be user friendly, and the HUD is in fact very easy to use and utilize. 
+ A lot of games use a very cumbersome HUD that requires a lot of use of the mouse pointer during 
+ combat, PS is not one of those games. Getting to where you need to go is very simplistic, and can 
+ be all accessed by a convenient map. You will have 2 different ways of getting to your goal area... 
+ First off is by using the dropship, or by huge warpgates. When viewing the map, you will be shown 
+ by colors what islands are your faction's, and which aren't. You can easily find a battle on the 
+ map by a blinking explosion mark, so finding some combat is never hard. The graphics in the game 
+ a dated, and that is to be expected seeing as the game is 3 years old. The characters animate like 
+ running soldiers, and you will see planes fly overhead and tank turrets move like they are supposed 
+ to. As a FPSMMO game, the graphics could have been a lot worse, and are rather good for a game 
+ like this. 
+  
+  In Planetside, you will be treated to a variety of rich sounds and orchestrated music. Every sound 
+ that is needed to make this game that much more intense is there, and loud. There are a medley 
+ of gunshots and explosions that are constantly happening that will make you that much more tense. 
+ You will hear tanks roll by, bullets whiz past, teammates yelling, and planes screech overhead. 
+ This is just the type of game that you want full surround sound for, not to mention LOUD! The music 
+ surprisingly fits the game really well. All the music in PS is all orchestra. When hitting a new 
+ island you will be treated to some music that makes things feel a little eery, and almost makes 
+ you feel on edge and want to look around every tree to make sure you aren't about to be sniped.
+ 
+  
+  There is a lot to draw a person to Planetside. This is one of the biggest, most intense MMOs out 
+ there. While the battles are big and loud, eventually the battles start to feel repetitive and 
+ you will start to Gage if you are going to win a battle or not early on in that fight. For $20 
+ the game is a good bargain though. When you buy the game you are given a month free, so in reality 
+ you are buying the game for $5. My recommendation is to give this game a try. It is a lot of fun 
+ and gives you a true challenge, while the new lasts. And even though the game eventually starts 
+ to go stale, you might just find that you go back to it a few months later. 
+::::::
+
+::::::
+UserName: DiabeticDude
+Rating: 8.1
+Date: Dec 15, 2005 7:21 am PT
+Review:  Planetside is too date the only massively multiplayer first person shooter, or MMOFPS for short 
+ (gotta love these abbreviations eh?) . The game is based around a complex storyline that I never 
+ truely understood, as it involves a complex time and space 'bending'. Basically the storyline consists 
+ of three powerful human factions fighting over the various planets in the Auraxis system. Then 
+ again, who cares about the games storyline? I mean, this game is about massively multiplayer war, 
+ we don't need no god damned story! 
+  
+  At the games start the player must select a name and gender for his/her character and then choose 
+ from one of three factions (the Terran Republic, New Conglomerate, or Vanu Sovereignty) . Once the 
+ player has created their character they are then dropped into the 'Sanctuary', the home planet 
+ of their chosen empire. From here the player can participate in virtual reality training, select 
+ 'certifications' (the clearance to use certain weapons and vehicles) , and communicate with fellow 
+ soldiers. The Sanctuary is where most attacks upon a planet start and so it is often common to 
+ see masses of people in H. A. R. T (high altitude re-entry transport) buildings, awaiting the 'go 
+ code' from a commander to begin an invasion. This leads me onto the whole point of Planetside: 
+ complete online warfare. Planetside is all about fighting alongside your 'buddies' in an attempt 
+ to conquer territory (military bases) for your empire, this game truely is 'massively multiplayer' 
+ with every single character under the control of a human, no AI in sight. This lack of AI also 
+ means that empires are led not by some nameless computer, but by intelligent (well, semi intelligent) 
+ human commanders. No order you receive will ever be from a computer, everything in this game is 
+ player controlled. Planetside's game engine whilst not great makes it more than possible for fights 
+ over a certain planet to be more than three hundred soldiers per side, which as you can imagine, 
+ leads to some AMAZING battles. 
+  
+  The atmosphere in Planetside is simply astounding, I mean, no one can deny that their first full 
+ scale battle in Planetside doesn't make them exclaim Woh! rather loudly (I know I did!) . Tanks 
+ rumble across the battlefield, whilst infantry surge forward guns 'ablaze, all the whilst aircraft 
+ fill the skies with their roaring engines and deadly bullets. Sadly Planetside is not the prettiest 
+ game out there, sure the graphics are good enough, but no where near Half Life 2 or Doom 3 standards 
+ which is a shame, as breathtaking graphics would have made this game nigh on unbeatable. Another 
+ sad thing is that the developers of the game (SOE) feel the need to constantly release poor and 
+ unbalancing new content, such as the game ruining Battle Frame Robotics (imagine a giant jumping 
+ robot with the power of a tank and the nimbleness of a dancer) and 'health incentives' (bonuses 
+ that grant the empire with the fewest number of troops a health boost to allow them to take that 
+ little bit extra damage) . Luckily though not even Sony Online Entertainment can ruin a game as 
+ good as this and they do occasionally release new content that people like (shocking isn't it!) . 
+ 
+  
+  Planetside truely does portray what war could be like in the not so distant future with its numerous 
+ tactics such as 'gen dropping' (the act of destroying a base generator to disable the automated 
+ turrets, lighting, medical facilities, etc.) , co-ordinated massive 'blitzkrieg' (lightning war) 
+ attacks and rapid troop deployment via land, air and space! The only limiting factor in your empires 
+ success is tactics (or lack of) . 
+  
+  I strongly advise any first person shooter fans or 'arm chair generals' out there to buy this game 
+ and become yet another part of the great Planetside war machine! Also, if you don't fancy shelling 
+ out the money for the game then their is soon to be a 'basic' version of the game that will be 
+ downloadable for free from: www. planetside. com, and will allow players to participate in the war, 
+ just with a limit on the type of weapons and vehicles they can utilize (and the inability to be 
+ promoted to 'commander' status) . Get fighting soldier! For land, for power, for ever!
+  
+  - Diabetic Dude of the New Conglomerate signing off. 
+::::::
+
+::::::
+UserName: TheSniperSteve
+Rating: 9.1
+Date: Oct 24, 2005 8:31 pm PT
+Review:  PlanetSide is a MMOFPS, one of the first of **** kind and by far the best.
+  
+  Planetside has the winning combination of massive battles, hard core action, strategy, teamwork, 
+ and the best character persistancy of any other FPS developed and published by Soney Online Entertainment.
+ 
+  
+  PlanetSide takes place on the world of Auraxis where three empires duke it our for the control 
+ of large land masses called continents. (To give you an idea of the scale of these Continents, 
+ it would take 15-20 minuites to walk from one end to another on some of the larget ones.) The three 
+ empires, The VS, NC, and TR all have unique empire specific weapons and vehicles. The VS weaponry 
+ uses laser and electic orbs, The NC weapons pack the most per per punch, but limited range. The 
+ TR weapons are fast firing full auto machine guns. In adition to the empire specific weaponry there 
+ is also common pool weaponry wich any empire can use. There are different classes of armor you 
+ can use, each having more invintory room and armor, but reducing the movement speed. The heaviest 
+ armor is called MAX armor which has guns mounted on it for AA, AV, and AI. All of them empire specific. 
+ 
+  
+  To give you a quick taste of the vehicles available.
+  ATV: Fast transportation, with 3 models to chose from. One fitted with a machine gun, another with 
+ a rocket launcher, and another one that has claking abilities.
+  Lightning: Basic tank with light armor, light weaonry and only room for the driver.
+  Mossie: 
+ Light scout aircraft, fited with radar and machine gun.
+  Reaver: Assault Aircraft, fitted with rockets and machine guns.
+  Ground Transport: There are 
+ 2 basic ground transport vehicles, One fited with machine guns holding 5 passangers, another larger 
+ one fited with light tank cannons holding 8 passanges, the driver, and 2 MAX's In addition to the 
+ 2 common pool transport vehicles there is a varient for each empire.
+  Main Battle Tank: Each empire has thir own MBT which is the backbone of the Armor. Carring 1 driver 
+ and up to 2 gunners these are very deadly.
+  BFR: The recent addition to PlanatSide has caused some conterversy among PS players, but the BFR 
+ now finds its place in the battlefield as the heaviest armor unit, packing the most firepower, 
+ and again is empire specific.
+  Air Support: Air Support include a Vehicle Transport Aircraft, A troop transport, and a bomber.
+ 
+  Ground Suppot: Ground Support Includes a Teleportation Device, and a Mobile Spawn Point Vehicle. 
+ 
+  
+  PlanetSide focuses on team play much more than other games. Being a new player you won't get very 
+ far without your squad. You start off with around 7 cert points and battle rank 1. Vising the in 
+ game virtual training areas and doing the training missions can get you to battle rank 4. This 
+ gives you enough certs to learn the certifications you will need to fight among the ever incresing 
+ population of very skilled veteren players. You will spend your certifications on weapons, vehicels, 
+ armor, and support equiptment. Once you spend your certs on that item, you will have access to 
+ it forever, or untill you unlearn it and try something new. 
+  
+  One of the key elements to this game is the Outfits, (AKA Clans/Guilds) The game has support for 
+ in game outfits, somewhat like World of Warcraft. Being its on a persistant word, and the 3 servers 
+ can each hold a large number of people this aproach is possible. Once you start playing planetside 
+ join a squad, and ask around for a good outfit. Most outfits are willing to train new members, 
+ so it should be easy to find one. Once in an outfit you will start playing planetside the way its 
+ ment to be played. When looking for an outfit, choose it carefully, many are no good. Some good 
+ signs is: A website, Active forums, Active players, and the use of teamspeak or ventrillo. Outfits 
+ will sometimes ally with outher outfits and join an out of game alliance with large voice chat 
+ servers for coordination between the outfits.
+  
+  Once you advance through the ranks you may want to considder learning some support equiptment such 
+ as Medic, Engeneer, or Hacker.
+  To each role there are 2 levels, basic and advanced. 
+  Basic med gives you the ability to heal yourself and other friendly troops, advanced gives you 
+ the ability to revive friendly troops. And simmilar benefits for the Hacker and Engeneer.
+  
+  Unlike Other games like BF2 you can preform all 3 roles if you are willing to spend your precious 
+ certifications on it. You can also customize your inventory to have whatever you want in it. For 
+ example my certifications include Advanced Medic, Engeneer, Heavy Assault, Renforced Armor, Special 
+ Assault, And Air Cavalry. My squad members always know im there for them when they are wounded 
+ or near death, and i know they are there for me when enemy armor comes, or we need to roll ground 
+ vehicles. 
+  
+  The Servers are company owned, which means they are just about always up, and players hacking is 
+ not a problem. The servers are seperate from eachother, meaning of you make a character on Emerald, 
+ you cant go and use him on Werner. Each player has a sort of attachment to their server and empire. 
+ Playing day and night on such a massive scale, its easy to forget that you really do have a life 
+ other than planetside. 
+  
+  The players in planetside range from the uncommen very unskilled to the more commen ub3r 1773 pwnz0rz 
+ players who are at the highest rank and will easily own you when you first log in. 
+  
+  Lag is an issue, but with the Client side hit detection, unless you have 300+ your not going to 
+ have much of a problem. There are some players that intentionaly make themsleves lag to increase 
+ thier random movements which in known as warping. 
+  
+  The Graphics are decent. For a game that is no older the graphics are great. However they do not 
+ compare to BF2, FEAR, Doom3 or Quake4. Many users are forced to turn their graphics settings on 
+ low or medium low as PlanetSide is a system hog. I reccomend no less than 2.8 P4 1 GIG of ram, 
+ and a AGP 8X video card with 128+ DDR memory. DSL or Cable is also a must. 
+  
+  Once you really get intot he game there will be people complaining about this empire being too 
+ easy, and that empire weapon is bad, etc.. this does make it less enjoyable while playing, and 
+ has made me log off the game for a few minuites with a burning hatred towards my enemies. The quick 
+ rule of thumb is that if you have a poor system play VS/NC as they seem easier, and it will help 
+ balance out the fact that your FPS stinks. If you have a decent PC and want to play hard core join 
+ the TR, where its harder, and without your squad you arnt living long unless you very skilled. 
+ The rest of the gameplay is balenced perfectly, with the great teamplay and outfit organization, 
+ and battles that blow away anything on the market, and even in development its really a sight to 
+ behold. With a maximum of 400 players fighting over a base it can be very intense and a littile 
+ laggy. if your do get lag, there are always smaller battles that are just as important, or even 
+ more important than the large ones. Whatever your taste, there will be a battle to fit it.
+  
+  The sound effects are good, but like the Graphics they dont compare to the new games. The music 
+ is also very good, but can slow down preformance, and many players turn it off.
+  
+  The bigest downfall of this game in my opinion is the steep monthly fee. For somone who has bought 
+ the game, and the expansion pack, and the $13 a month montly fee for over a year, i can tell you, 
+ it adds up. Unlike most FPS games where you buy the game then forget about it, every month you 
+ have to pay your cash. However they do continue to develop the game, so its not all to waste. But 
+ to the normal FPS player, this makes the game a no buyer. However there are 7-10-30 day trials 
+ you can get, and after giving that a try chances are you will be hooked on it. 
+  
+  Overall I rate the game 9.1 for its unique gameplay, its massive battles, wonderfull teamwork elemnts, 
+ and being downright good fun. Its graphics and sound take a back seat, where the value doesnt appear 
+ to be good to a onlooker, but once you like the game your willing to pay it. 
+  
+  I rated the dificulty hard due to the ammount of veteren players that know the game inside out, 
+ but if you stick with your squad you can make out. 
+  The learning curve should read 'never ending'. After playing over a year im still far from the 
+ best, and being totaly PvP you never know what the eney will think up next. learning the basic 
+ parts of the game will take you 4-10+ hours depending on whether you join an Outfit, and after 
+ months of playing you will still attend your outfits traning operations and sit there saying. "I 
+ never knew that." 
+  personally i have spent a few thousand hours playing PlanetSide, and its all been well worth it. 
+ 
+  Being a totaly PvP online game the Classification is obviously a Great Multiplayer. 
+  
+  -TheSniperSteve
+  The Black Widow Company TR Emerald
+  
+  Here is some extra information that 
+ you may find usefull.
+  
+  
+  
+  PlanetSide 7 day Trial
+  
+  The 7 day free trial has been opened up again for anyone who 
+ wants to sample the game, or if you're an ex player and want to see the changes that have been 
+ made. You will need to make a new SOE station name - you cant use this offer with old characters 
+ if you've played PlanetSide before.
+  
+  What's PlanetSide? Watch this video: http://www. marcopolo. me. uk/PSMovies/PS_AD_LARGE. wmv.
+  
+ 
+  Next, get hold of a free 7 day trial CD key from: http://cmt. ubisoft. fr/planetside_pcgamer/.
+ 
+  
+  And a complete download (1.6gb!!) using this installer: http://www. marcopolo. me. uk/psinstall. exe. 
+ 
+  
+  You'll find an great FAQ about this trial and PlanetSide here: http://www. marcopolo. me. uk/PSFAQ. html.
+ 
+  
+  PlanetSide seems to have turned a corner over the past few months - it's become a whole lot of 
+ fun again!
+  
+  Enjoy.
+  
+  
+  
+  
+::::::
+
+::::::
+UserName: AtomicEdge
+Rating: 8.5
+Date: Jun 21, 2005 12:04 pm PT
+Review:  I have only recently discovered Planetside, my computer only got up to speed in the past few months. 
+ What a ride it is, its like an ongoing never ending, huge player counted deathmatch with capture 
+ the flag and territories combined.
+  
+  You choose one of three empires and attempt to lead them to victory by capturing all the continents, 
+ which may sound easy, but when you and a hundred allies walk into a base defended by a hundred 
+ and fifty enemies, you realise what a huge task faces you.
+  
+  You can choose to be anything. A medic, a driver, a pilot, a heavy weapons expert, a sniper or 
+ any other army type you can think of. Its all about teamplay, you mash in by yourself, your going 
+ to hit the ground. But if you join a squad with a sniper covering you, a medic healing you, an 
+ engineer fixing your armor and a you covering a hacker while he breaks into the bases command console, 
+ you can be truly efficient.
+  
+  I say give it a go, it wont be to everyone's taste, but its only $20 to download (and it comes 
+ with a months play) and its also covered by SoE's all covering gamer pass. If you have dreamed 
+ of true war in a computer game, this is the place to be.
+  
+  Long live the Vanu. 
+::::::
+
+::::::
+UserName: sakko
+Rating: 7.8
+Date: Jun 7, 2005 4:58 pm PT
+Review:  Okay one thing you should know about Planetside. It contains some of the largest battles known 
+ to any computing platform ever. High tech weapons and vehicles duke it out against one another 
+ in sometimes absolutely horrific battles against one another, numbering sometimes 100+ per side. 
+ If this at all sounds intriguing to you, you owe it to yourself to try planetside at least once. 
+ Borrow it from a friend, get in on their free deal promotions, something. But check it out, you 
+ just might get hooked.
+  
+  With that out of the way, one word that sums up Planetside quite well is "ambition". Planetside 
+ to me, is a very ambitious game. They have done something noone has ever done and that is make 
+ an MMO First Person Shooter that contains HUGE amounts of players all duking it out.
+  
+  As a result, there is a proportionate amount of lag, but it is controlled in a such a way, that 
+ you kind of adapt to it. An example:
+  
+  Let's say you're running around a battlefield with a bunch of other players and you find a tower 
+ that is enemy and move in with your buddies to take it over for your side. You round a corner and 
+ see some bad guys, who begin to open fire on you. You jump back behind the corner for some cover 
+ but for the next second or so you are still taking damage from their fire. Why is this? Lag my 
+ friend, lag.
+  
+  Instead of having chopping and stuttering type lag, you have this persistent 1000 or so ping overhead 
+ that is always affecting you. This sounds absolutely horrible, but it is quite preferrable and 
+ for most circumstances does not affect you that much. In fact you find your self sort of adapting 
+ your play to it in one way or another. I will give a couple examples:
+  
+  You are flying an aircraft doing missile runs on a heavily defended base. There are multiple lock 
+ on style weapons aiming at you as you begin your run. One might think that the moment you hear 
+ the lock on signal, they have just acquired you and are about to fire. In actuality they have already 
+ fired and the projectile is closing in on you already. There are no "one shot one kill" anti air 
+ weapons, so it's important to turn away immediately the moment you hear the lock signal and afterburn 
+ out of there.
+  
+  From the other perspective you might be in a tower as a trooper, standing behind a corner, with 
+ third person view activated so you can see around that corner. You see someone coming your way 
+ so you pop around the corner and open fire. This person won't see you for about a full second, 
+ but you have already begun to open fire.
+  
+  Planetside calculates hits based on the client, so you are in effect hitting him for a moment before 
+ he can see you.
+  
+  I didn't mean to spend so much time talking about lag properties but it is important to know what 
+ you're getting into. With that aside Planetside is a pretty fun game. You've got 3 factions battling 
+ for territory constantly. There is usually a main hotspot or "zerg" as it's called by players which 
+ you will find the big battles at, and also some small satellite battles as the factions begin to 
+ try to take over continents completely owned by another side.
+  
+  Each faction has it's own specific weaponry and vehicles as well as a common pool category which 
+ everyone has access to. There's something for everyone from the rate-of-fire centric projectile 
+ weapons of the Terran Republic to the quick hitting energy technologies of the Vanu Sovereignity.
+ 
+  
+  Ultimately though, Planetside is a numbers game. It's a factor of having an FPS with so many people 
+ in it. If it's 10 vs. 20, the larger side is going to win every time. It's just a simple fact. 
+ You can have lots of fun in the mean time killing as many people as you can. But how much fun? 
+ I've had some people complain that it's just the same thing over and over again. I've had some 
+ people praise how it's the only truly MMO FPS, and you really can't get anything like it anywhere 
+ else.
+  
+  Let's go over the vitals:
+  
+  Gameplay - PS is very fun and addictive, with huge continents to wage war over.
+  
+  Graphics 
+ - Very nice. Seeing a 100+ battle really makes you say WOW!
+  
+  Sound - Not bad, not stellar. Some of the music is cool, some terribly bad.
+  
+  Value - You 
+ get good value with PS, depending on if it's your bag or not. You won't know until you try but 
+ they have alot of free deals to try out the game all the time, which is nice.
+  
+  Reviewer's Tilt - I like PS. I always play a couple months then take a break for some other games, 
+ coming back to play another month or so. 
+::::::
+
+::::::
+UserName: PNXPNX
+Rating: 10
+Date: Jun 1, 2005 9:08 pm PT
+Review:  This is one of the most intense games ive played in a while. Good graphics, lots of actions and 
+ a lot of weapons & vehicles to choose from. 3 different empires gives it more fighting than two 
+ teams always fighting each other on the same map, but in this game you can fight one or two empires 
+ on the same map or fight one empire at a time. If your looking for an intense, lots of actions, 
+ coordinated attacks, strategy, teamwork and go anywhere freely. The game is updated frequently 
+ and there is a lot of different things to do in this game such as, finding monoliths, joining an 
+ outfit and making ANT runs & Drop ship drops on bases. Give this game a try you wont be disappointed.. 
+ 
+::::::
+
+::::::
+UserName: L33tBudDha
+Rating: 9.2
+Date: Apr 23, 2006 3:51 pm PT
+Review:  The good:
+  
+  1) Challenge: Since the game is based souly on player vs. player combat with not even so much as 
+ one NPC in the game the challenge is of a very high and adaptive level. The players are constantly 
+ changing their strategies when new features are added to the game and you can clearly see the impacts 
+ of these strategic modifications. With the global map being just the right size Planetside rates 
+ among the best games for challenge.
+  
+  2) Gameplay: You will find Planetside easy to pick up and survive but offers a very difficult challenge 
+ when you try to become a master at this game. Planetside tries to provide enjoyment for both the 
+ soloist and the team player but make no mistake about it Planetside is designed for team oriented 
+ gameplay. Also, Planetside is not just built for team play it's built for teams (squads) working 
+ with other teams (forming a platoon) who in turn are working with those teams of teams (the empire 
+ as a whole) . Also like most MMO's there are outfits (guilds) that one can join and to really enjoy 
+ Planetside they should join.
+  
+  3) Lack of grind: This is possibly the one reason why Planetside contiunues to thrive. The game 
+ gives you "certification points" that you use to purchase skills such as different weapon types, 
+ vehicles, support certs like medical or engineering, so on and so on. You are fully capable of 
+ involving yourself in the greatest battles Planetside offers even as a new player. The XP you gain 
+ allows you to gain more cert points but they only make you a more versitle player not a better 
+ one or give you the ability to be involved. So there's no "XPing" in Planetside.
+  
+  4) Dev team: Planetside is constantly updated and problems addressed. Though Planetside does not 
+ have a history of being the most problem free MMO it certainly has player involvement in the bug 
+ identification and many of the ideas that are now in the game have had strong player input associated 
+ with them. The dev team responds to the reaction players have to their updates. This is a good 
+ thing.
+  
+  5) Combat: The combat is high-end. If you are a FPS fan and you also enjoy the perminant world 
+ characteristics of an MMO Planetside is for you. I am a member of a very prominant Outfit in Planetside 
+ and gaming with them is beyond anything I have experienced before in an MMO. The variety of weapons 
+ and vehicles is just impressive. What's better is that it's always growing. You have very specific 
+ targets and objectives in the game if you are trying to control a continent. Think Tribes meets 
+ Joint Ops and then throw that into an MMO. Minus the jetpacks.
+  
+  6) Free trial offers: SOE is constantly offering free 7 day trials of Planetside. Download their 
+ software and play for free. Can't go wrong here!
+  
+  The bad:
+  
+  1) The graphics are not elite by any means. The graphics are not the attraction to Planetside nor 
+ is it marketed as such so it's not a knock on the game. The graphics are late 90's quality.
+  
+  2) Cost: The cost of Planetside is higher than I think it should be. Guild Wars have proven 
+ that the MMO's that charge $10+ a month are unjustifiably making too high a profit off it's players.
+ 
+  
+  3) Performance: Planetside is a memory hog and it's not understandable. Even running a high-end 
+ machine you can find yourself seeing a 20% or more drop in FPS than from other online games you 
+ have played and the reason can only be linked to the host. With the graphics not being among todays 
+ best it doesn't set right with this gamer that the game demands today's best hardware to run very 
+ well. Don't get me wrong you can still play Planetside with even as little as nVidia TNT2 64mb 
+ but to see Planetside at its best which isn't all that impressive you will need at least a gig 
+ of ram running a nVidia 6800 or better.
+  
+  The Ugly:
+  
+  1) The only ugly moment in Planetside came with it's release of Core Combat. This expansion was 
+ the worst thing to hit the MMO world as far as percormance since SOE released Luclin for EQ. Remember 
+ Luclin, kiddies? If you had an AMD I bet you do! Thankfully I run Intel but none-the-less that 
+ was horrid and so was Core Combat. However, Core Combat is a different review! Bwa ha!
+  
+  Overall:
+  
+  Folks, I love FPS like Tribes, Joint-Ops, CS, MOHAA, Unereal Tourney... and I like 
+ to group up with the same players but I also love MMO's like EQ, UO, and GW. Combine some of the 
+ best elements of these two genres and you get Planetside. I really don't have to say more than 
+ that. Planetside simply is a MUST PLAY for any gamer of either/both of these genres. There's no 
+ excuse not to try it since they offer free trials! 
+::::::
+
+::::::
+UserName: chaoseternite
+Rating: 10
+Date: Mar 22, 2005 8:29 am PT
+Review:  OMG - Planetside is by far the BEST gaming experience I have enjoyed in my 31 years of gaming. 
+ You will become immersed in the never ending struggle in the Galaxy of Auraxis. The storyline even 
+ has some bizzar twists in that the Galaxy has a hidden ancient alien "concienseness". Planetside 
+ is a dream come true for anyone who has ever wanted to play a largescale futuristic war. Pick your 
+ empire and prepare for war. Many, many battles await.
+  
+  Vehicles, guns, Air war - it's got it all!! You you will enjoy playing a variety of playstyles 
+ as they all come together in Planetside. 2 years of play here and still learning something new 
+ everyday!! 
+::::::
+
+::::::
+UserName: -Unreal-
+Rating: 7.8
+Date: Feb 6, 2005 10:40 am PT
+Review:  "For land. For power. Forever". The moto of Planetside is a good description of both the story 
+ and the core gameplay of one the very first MMOFPS games ever created.
+  As you may already know, 'MMO' stands for 'Massively Multiplayer Online'. There are quite a lot 
+ of MMORPG's out today, but Planetside brought the MMO game to the thrill and adrenaline pumping 
+ action of the FPS genre.
+  The game is completely player versus player (PVP) and there is absolutely no AI soldiers in the 
+ game. There is three empires or armies, each boasting unique and powerful weapons. The Vanu Sovereignty 
+ (the purple colored army) are the more technologically advanced team. The New Conglomerate are 
+ the blue colored team who make use of slow, but powerful weaponry. And finally, the Terran Republic. 
+ These are the red team and they fight using high rate of fire weaponry.
+  
+  Gameplay
+  As mentioned above, Planetside's gameplay is the seemingly never ending fight between players of 
+ each faction. Each team has a 'Sanctuary', which is their own island which cannot be entered or 
+ assaulted by any enemy. The rest of the world (Auraxis) map is made up from several continents. 
+ These continents are linked to each other by warpgates which have large force field type domes 
+ over them which allow players to move through them. Once these domes are entered however, enemies 
+ cannot fire their weapons, and so no fighting can occur.
+  The goal of Planetside is simple; to capture as many bases on as many continents as possible. Enemy 
+ or nuetral bases are hacked by a single player (ideally with back up) using a hacking tool called 
+ an 'REK'. There are several bases dotted around each of the unique continents, each of which give 
+ the owning team certain upgrades or access to different technologies. There are medical facilities, 
+ technology facilities, dropship facilities and more, although admitedly, they all look alike in 
+ design inside and out. Every base is also defended by wall turrets in each corner of it's walls. 
+ These turrets can be entered by a player, or if an enemy which is detectable by radar enters the 
+ turrets feld of vision, it will auto fire on that enemy.
+  All of the continents are pretty well designed, offering some really great battles at times, although 
+ these aren't as frequent as we'd have liked. These battles are particularly exciting when enemies 
+ find themselves fighting over a bridge with bases or towers at either end. These can be some very 
+ strategic battles, where the bridge will become a valuable asset to the team who has managed to 
+ push the enemy back from it.
+  
+  You start of Planetside with some Battle Points which are used to purchase certifications at a 
+ CERT terminal in either a medical facility, or a base in your teams sanctuary. You do start off 
+ with some basic skills, allowing access to the standard assault rifle, grenades and pistols, but 
+ no vehicles. Certifications include heavy assualt, medic, engineer, hacker and infiltration.
+  Each teams heavy assault weaponry, anti armour weaponry, heavy tanks and more are different and 
+ unique to their empire, we will go into this later. The medic and engineer certs speak for themselves, 
+ they allow you to heal yourself and others (provided you carry a medic device) and the engineer 
+ can repair vehicles and the armour of you and your comrades. Hacking is another cert in this area, 
+ and simply upgrades your hacking speed for hacking bases and towers. You can also take these certs 
+ a step further by upgrading them to their advanced counterparts. Advanced meid allows you to revive 
+ dead soldiers, combat engineer lets you place small gun turrets, mines and motion detectors, and 
+ the adv. hacker lets you not only hack bases faster, but hack enemy equipments/vehicle terminals 
+ and their vehicles too.
+  
+  Each empire has their own set of weapons, as well as the 'Common Pool' weapons which are available 
+ to all three teams. The Terran Republic (TR) have the fast firing chaingun and cycler, the New 
+ Conglomerate (NC) has the automatic shotgun (devastating at close range) and the gauss rilfe, and 
+ the Vanu Sovereignty (VS) have the electric orb shooting lasher and a laser gun called the pulsar.
+ 
+  Heavy tanks are also different for the empires. The TR have a Prowler, the NC a slower moving 
+ Vanguard, and the VS have a floating, strafing Magrider.
+  You can also get heavy armoured battle suits called 'MAX'. These suits are slightly larger than 
+ standard soldiers armour and are slow moving but carry awesome firepower and a lot of armour. They 
+ are however weak against anti armour weapons like the VS Lancer, the TR Striker and the NC Pheonix.
+ 
+  There's also several aircraft to pilot, including a fast and light craft with a chaingun, a slower 
+ rocket carrying craft, and also a dropship called a 'Galaxy' which can carry one small vehicle 
+ and a squad full of people and drop them over a base.
+  
+  The vehicles handle quite well and all have their own feel to them. ATV's are fast and maneuverable, 
+ and the aircraft are great for swooping past enemies and taking them out.
+  
+  Graphics
+  The world of Auraxis is fairly well done, but doesn't offer as much detail as other shooters on 
+ the PC. The textures, character models, vehicles, weapons etc all look very detailed, it's just 
+ the actual design of the maps that could have been better. Bases also all look the same, and this 
+ does make every base you go into seem the same as the last. These are minor niggles though becuase 
+ you're constantly on the move accross continents and through bases.
+  The continents look unique though, and there are snowy, grassy, swamped and rocky lava continents 
+ throughout the world. There is also some quite impressive weather effects which kick in randomly 
+ including rain, sandstorms and thunderstorms. These actually do add to the battle very very well, 
+ particularly the sandstorms. These can really reduce sight in battles and will effect your gameplay. 
+ Thunder crashes are also really loud and look good too.
+  Particle effects are good too, especially when you see a Vanu lasher bolt scream past your ear 
+ with a bright purple/blue glow and ripping sound.
+  All in all, Planetside is a pretty good looking game with some fantastic looking models, it's just 
+ the bases could have been a little different from each other.
+  
+  Sound
+  Sound is great in Planetside, and all the weapons sound very heavy and brutal. The Jackhammer shotgun 
+ is a good example of this, as it strikes fear in any enemy who hears it blasting through the walls 
+ of their base. 
+  Vehicles sounds are pretty good, but not as good as the weapon sounds. 
+  There are also quite a lot of macro's in the game too for you to use and all sound clear and perfect 
+ for taunting your opponents corpse after you pumped him full of lead, or for warning of incomming 
+ enemy aircraft. They come in to great use when in need of a medic, or for telling allies (or any 
+ enemy that hears you) what your plan is.
+  The theme tune to Planetside is also worth a mention, as it sounds quite epic. There is music which 
+ kicks in when you are fighting, and music for the various continents too. You can turn these off, 
+ which might help you in the game becuase sound in Planetside is crucial.
+  
+  Controls
+  As this is an MMO game, you can expect to have an initially daunting array of keys to swat up. 
+ There are a lot, it's true, but they are all layed out well and quite typical for most FPS gamers. 
+ You have the standard WASD for movement, F1-F12 for quickslots and the number keys for weapon selection.
+ 
+  All the keys can be configured to your liking, but what you have straight away should please most 
+ FPS players.
+  
+  Conclusion
+  Planetside is not for everyone. It also comes with a monthly fee which can be payed by credit card 
+ or by a pre-paid gamecard. It is a game that you need to sit down and get stuck into becuase it 
+ is a deep game with a lot to learn. If you like the sound of having huge scale battles over land, 
+ sea and air all at once and you are able to spend the time to get into the game, then this could 
+ be one for you. It also requires a pretty fast PC to run the game, and although they reccomend 
+ 512mb of RAM, we say 1024mb will help you a lot more. You will also need a fast internet connection 
+ becuase this game deals with a lot of players and a lot of action. There's regular auto downloaded 
+ patches too, which are needed to play the game and these can be very large in size.
+  You can find regular trials on the Planetside website, so you could try the game before you buy 
+ it. 
+::::::
+
+::::::
+UserName: jmann3001
+Rating: 9.4
+Date: Jan 1, 2005 1:41 am PT
+Review:  Inovative... right off the bat this game diservs credit for being the first and only game in a 
+ genre I hope to see pickup. Its much better and different than games like BF1942, UT2004, etc. U 
+ dont choose a map to play on the game is one huge map, where players wage a consistant online war. 
+ Anyone who bashes the game obviously doesn't belong to a good outfit b/c unfourchinitly playing 
+ with good people is what turns the game from average to superb. It takes a while to get into it 
+ but when you do you'll be happy you stuck with it. Another great feature is the online updates. 
+ The devs are always adding and improving the game. Like a couple of months ago new giant robots 
+ were added to the game. 
+  
+  The last thing is www. planetsidemovies. com I encourage people to check out this site and if you 
+ own the game make your own movies its another exciting fun thing to do with your buddies in the 
+ game.
+  
+  To rap it up beside from the monthly payment (I suggest buying game card.) And the fact you need 
+ a very powerful machine to play with no lag PS is an amazing game. 
+::::::
+
+::::::
+UserName: spasnof
+Rating: 8
+Date: Aug 29, 2004 10:14 am PT
+Review:  This game can go from great to tedious at times but mostly it seems to stay consistently entertaining. 
+ Like most massive online games the community and the people you choose to join largely affect the 
+ gameplay experience. Planetside does seem to suffer from the usual crowd of folks who, no matter 
+ how much you try, do their own thing. This detracts from the teamplay aspect. For example when 
+ you join a squad only to have it break into chaos as soon as you hit the battlefields. But if you 
+ do happen to find a good organized squad/outfit to join, then the gameplay experience is unmatched. 
+ With people taking point on entrances and covering you with everything from air support to mobile 
+ artillery.
+  
+  The sheer size and complexity of the game is what I appreciate most. It is what sets this game 
+ apart from its counterparts such as BF1942 or Halo. When playing other multiplayer fps's you just 
+ can't help but notice how much smaller they are than what is available in Planetside. In larger 
+ battles it can seem overwhelming with the huge amounts of people fighting, while strategy takes 
+ a back seat. But in those smaller battles where small groups skirmish for territory, I find the 
+ game to be the most satisfying. (personal preference, most people like to find large fights.)
+ 
+  
+  The dev's have done a great job at keeping things fresh and new. For example I have played this 
+ game from release on and off and in its current build it is unrecognizable from the first. The 
+ devs are a bit sluggish with most patches and updates. They listen to community requests and have 
+ done a good job of balancing the factions out. (Although higher population counts usually mean 
+ victory) Bugs have always seemed to plague this game. Although none I have experienced were particularly 
+ game stopping.
+  
+  Graphics are ok as well as the sound. Im too afraid of boosting my settings for fear of slower 
+ fpss. I should have mentioned this game is a hog and requires a beefy system to run it. I have 
+ a p4 1.4, ti4200, 1gig ram, and it seems to run fine around middle quality settings.
+  
+  The game does have one fairly major fault that shows up later in your game experience and that 
+ is repetition. There are no real long-term benefits from the bases/towers/whatever you capture. 
+ Everything you gain is usually lost in the 24-hour cycles of war. And the levels cap off at 20. 
+ For me that does not faze me much but for others it can wear thin after a while. There is an option 
+ those of you who wish to take on the challenge of leading others into battle. You can gain command 
+ ranks from capturing enemy facilities, which allow you to higher and higher channels of communications 
+ and abilities. (Think Orbital Strikes, Global Announcments)
+  
+  Overall I would say this is a good game to look into if you are in the least bit interested. Its 
+ an ambitious project and I cant wait to see what the future of this genre and Planetside will 
+ be.
+  
+::::::
+
+::::::
+UserName: ShadowDrop
+Rating: 5.8
+Date: May 5, 2004 10:57 pm PT
+Review:  I liked this game for the most part, but my comp just couldn't handle it (I was well above the 
+ minimum specs listed on the box, but I barely made it out of the tutorial before I started experiencing 
+ the worst lag imaginable. Other than that it was an ok game (not $50 ok but wth, you win some and 
+ you lose some) Oh yeah, it also neglected to tell me that should I forget (or just flat out ignore) 
+ to renew my membership... IT DOES IT FOR YOU! That was some money down the drain before I realized 
+ what was happening... anyways like I said... an ok game. 
+::::::
+
+::::::
+UserName: Phishin3321
+Rating: 1
+Date: Mar 15, 2004 9:50 am PT
+Review:  I played this game since it was released 10 months ago. 10 months ago I would have given this game 
+ a 10 across the board. It was great despite a few bugs and small imbalances.
+  
+  Since then, it has evolved into a battle of population. Do not be fooled by the adverti****t of 
+ "Squad based strategy" and "Massive scale battles". The battles are won purely by the highest populated 
+ empire on the continent.
+  
+  The developers are still trying to balance weapons that were released when the game was released. 
+ This is pathetic to say the least... especially for a game you have to pay a monthly fee to play.
+ 
+  
+  Also, if you are still bent on buying it, do not pay attention to the specs on the box. With the 
+ minimum requirements, you'll be lucky to log in for more than 10 minutes without your computer 
+ completely crashing. With the suggested requirements you'll be lucky to run 15 frames per second 
+ in a large fight. You need a top of the line PC to play this game effectively. By top of the line 
+ I'm talking 3.0 speed processor, 128 mb video card, and ATLEAST 1 gig of GOOD memory. Even with 
+ that (Which is what I run) you'll drop to 30 frames per second at times.
+  
+  On top of all of this, the developers have no direction. They rely solely on a community made of 
+ new players. Every patch takes away motivation to develop skill, and pushes to just "Zerg" (Overpopulate) 
+ a battle. It gets very repetitive, and very, very old. EVERY battle will be won by either blowing 
+ up spawn tubes or generators. There is no strategy involved.
+  
+  Many of the weapons are 1 shot kills. Shotguns, tanks, morters... get used to staring at the respawn 
+ screen. There are times that you will spend the majority of an hour looking at the map waiting 
+ for your respawn timer rather than playing the actual game.
+  
+  It was a great game a long time ago. Lots of great ideas and a promising future. The lack of confidance 
+ from the developers, as well as their lack of direction and motivation have destroyed what this 
+ game has become. Stick with the proven greats like BF:1942 and Half Life and wait for the next 
+ MMOFPS. 10 months ago I was happy to spend $30 on this game. It has turned into a game that I wouldn't 
+ have even looked at, let alone spent money on. 
+::::::
+
+::::::
+UserName: Gen_Rommel
+Rating: 7.2
+Date: Dec 18, 2003 7:35 am PT
+Review:  Let me start off by saying if you didnt buy this game when it came out your screwed low level people 
+ are conquered I remember hearing much about this game and I went and bought it played the tutorial 
+ to gain two levels of rank couldnt because it messed up on the last mission and I have over what 
+ is required for the game so it was NOT my computer. So I say ok so what it wont matter that much 
+ I go to play I cant do crap! I drop right into a hot zone guns flaring lots of enemys to pick from 
+ I lay rounds beyond rounds into the person according to my aiming system and the starter weapons 
+ blow! I played this game for 3 days got 1 kill and it was because he had low life. I played and 
+ played but kept getting killed by people in cloaking devices and Heavy Armor suits there just was 
+ no fun in the game because my charecter sucked and I couldnt gain rank because I couldnt kill any 
+ one or anything to get my rank up I did energy runs for the base and ranked up once but of course 
+ my charecter still blew! This game at the moment is not worth buying not because of the gameplay 
+ or the way its setup just because of higher level people youll never enjoy it because youll die 
+ every 10 sec in battle. I am not saying anything bad about the game just simply that its too late 
+ to buy because of this reason other than that this game is great if you manage to get pass the 
+ whole level problem youll be fine. 
+::::::
+
+::::::
+UserName: russlc
+Rating: 9.3
+Date: Oct 15, 2003 6:36 am PT
+Review:  I just started playing PS about three weeks ago and it is a marvelous, fantasic game. The fact 
+ that you can play for minutes or hours makes it great for people who can't invest tons of time 
+ in a MMO. You also do not have to be a first person shooter expert to have fun. It does take sometime 
+ to learn. You will die often when you first start out  light reading and squads will fix that. 
+ Second, the graphics are great but I had to turn them down to get better performance. Most bugs 
+ since launch are gone. 
+::::::
+
+::::::
+UserName: tmarkelz
+Rating: 9.2
+Date: Sep 11, 2003 12:23 pm PT
+Review:  Back when I was younger, maybe junior high, I remember sitting around with my computer buddies 
+ discussing what we thought would be the ultimate computer game. In our minds it would have to be 
+ a persistent 24 hour world where the battle was always raging. You could choose to be anything 
+ you wanted... fly aircraft, drive tanks, be a foot soldier, a medic, a transport driver, etc. It 
+ would be hundreds of people fighting hundreds of other people from all over the world. That is 
+ what PlanetSide is. It is the realization of a childhood dream and my first step into Massive Multiplayer 
+ Online First Person Shooters (MMOFPS) . It is, in one word, amazing.
+  
+::::::
+
+::::::
+UserName: Sys14
+Rating: 9.8
+Date: Aug 19, 2003 9:53 pm PT
+Review:  This is a great game, is the type of the game i was dreaming years ago. And, even there are many 
+ faults in this game, the great intense gameplay still made this game my favorite! (I haven't played 
+ Battlefield 1942 since i bought Planetside :S ) .
+  
+  First of all, i want to say, there is no game fits everybody. My mom likes play a very interesting 
+ ball game. Yes, i think that's the game can almost fits everybody. But planetside is not, this 
+ game is only for:
+  1. FPS lovers.
+  2. People who wants to feel the rear "War" likes.
+  3. People can spend time on it.
+  
+  Many game players ONLY like shot period battle, like CounterStrike, 
+ Medal of Honor, they don't even like Battlefield 1942. I think Planetside is not designed for these 
+ players. But that doesn't means it's not a great game. In Planetside, there is skirmish, battle, 
+ campaign, and WAR! someone wrote in his review: when you climb up onto a mountain, suddenly, you 
+ see hundreds of soldiers, tanks, turrets, air crafts. Dense laser beams, rockets, missiles flying, 
+ exploding... Yes, this kind of scene made me cry~~ :D
+  
+  The gameplay of planetside is also wonderful. If you are good at FPS game, you will be very useful 
+ in a squad, but there are so much more things need you to do in Planetside than in other FPS game. 
+ I like the whole RPG setting of this game, the perfect Certification system, and a lot of different 
+ accessories, you need cert and equipment to be a hacker or a engineer. There are a lot of fun to 
+ play these roles.
+  
+  This is a great game, i think all players above battle rank 6 (the level system in planetside) 
+ in planetside think the same as me.
+  
+  Don't use the different expectation to judge this game. Don't be like my mom!
+  
+  
+  
+  
+::::::
+
+::::::
+UserName: kaemon
+Rating: 9.4
+Date: Aug 12, 2003 9:48 pm PT
+Review:  Great FPS! Even Better RPG!!! 
+  
+  It's a great FPS because you are constantly running and gunning, be it from a hand-held rocket 
+ launcher, a fighter jet, or a tank turret. It's also a great RPG because the game design begs for 
+ cooperative play. A squad that works together can GREATLY outperform a squad that doesn't. 
+  
+  Attacking or defending a tower or base requires the combined effort of many different skills 
+ - Someone to fly the transport ship, a scout, a sniper, tank and air assault pilots, heavy assualt 
+ soldiers (big weapons and high armor) , medics, an engineer to repair vehicles and soldiers' armor, 
+ a hacker to get in doors and take control of towers or bases, and the most important role - the 
+ squad leader, who organizes his squad consisting of all these roles into a cohesive and effective 
+ fighting unit. 
+  
+  Each role offers a different game experience and each one is a blast to play. Planetside's unique 
+ certification system works brilliantly! Players earn points for experience which they use to certify 
+ in specific skills, armor, weapons or vehicles. The certs they choose determine the role they'll 
+ play. They can change certs (and their role) but not on a whim so players 
+  tend to choose a role and get good at it before switching. 
+  
+  Playing with a good squad leader 
+ makes all of the difference in the world between an OK game and a great game. Without a good leader, 
+ players play independently and ineffectively. It can be hard to find a good squad each time you 
+ log on which is why the game has "outfits", large groups of players that are dedicated to playing 
+ together as a team. Outfits typically have experienced squad leaders and players, you are always 
+ welcome in their squads and you get to know players by continuously playing with the same people.
+ 
+  
+  You can chat to your team by typing but voice chat really brings out the RPG aspect of the game. 
+ (The Planetside Voice chat module works pretty well but not everyone can host it. Everyone in our 
+ outfit uses TeamSpeak which I highly recommend!!)
+  
+  You will truly experience the wonder and brilliance of Planetside when you are in a vicious drawn 
+ out battle to attack or defend a location and your team is working together and communicating effectively 
+ to excecute one strategy after another until victory is achived. 
+  
+  Planetside is an excellent game that breaks new ground. Excellent, Excellent! Excellent!
+  
+ 
+  
+  
+  
+::::::
+
+::::::
+UserName: Signal_Jam
+Rating: 8.8
+Date: Jul 8, 2003 7:28 am PT
+Review:  The Black Hole of gameing? It may never escape the gravity of itself. With no real feeling of victory, 
+ and no fulfilling goals, this game fails. You can max out your character fairly rapidly, and it 
+ the player often feels cheated. How can a super powerful missle blow up a tank and barely scratch 
+ a trooper? Alas, the feeling of superiority an Unreal Tournament Victor feels is no where in sight. 
+ The idiotic, self obsessive players don't help either. Where are the Destroyers and submarines? 
+ On the bright side, this game may instill a feeling that no other can-the feeling of an individual 
+ player deciding the near future for hundreds of other players. As it stands, it's a very solid 
+ shooter. With some effort and love from the developers it could be made into the next Half-Life 
+ or Doom. I think, (a bit of a stretch here) with the addition of Ocean battles, with Destroyers, 
+ Submarines, Space Stations which can decide actual victories if certain peramiters were met, and 
+ some more interesting locals, like deep canyons, High Mountains, Airship bases, this game could 
+ own. I mean like Eq X 10. Think about it. 
+::::::
+
+::::::
+UserName: Nortbot
+Rating: 9.6
+Date: Jul 1, 2003 6:00 am PT
+Review:  Planetside is the Game of the Year. This game is completely addicting and outrageously fun. When 
+ you experience your first massive battle of 100 vs. 100 you will realize that your $12.95 for that 
+ month was well spent on that battle alone, let alone battles like it for the remainder of the month. 
+ If you're not sure about the monthly fee, spend another night searching gamespy for crappy, laggy 
+ servers with your favorite FPS, enjoy getting kicked and enduring cheaters of every form. You got 
+ all that for free! 
+  
+  Conversely, login to Planetside, sign in the character you've been building for weeks, if not months, 
+ join a stable server supported by a team of the industry's finest developers, and take part in 
+ daily battles for bases, towers, or maybe just a bridge. Regardless, you're sure to have a blast. 
+ And realize, your monthly fee will help pay for regular server maintenance, bug fixing, and content 
+ additions like new battle objectives, new vehicles and new weapons.
+  
+  I recommend this game to any avid FPS'er who is tired of the same old maps, cheaters, and laggy 
+ servers. If you do join, come to the Konried server and fight for the New Conglomerate!
+  
+  Nortbot [New Conglomerate] Konried 
+::::::
+
+::::::
+UserName: Tyrael
+Rating: 7.6
+Date: Jun 7, 2003 11:22 pm PT
+Review:  This game is great, at first. It's addictive for a while. Then you realize youre playing musical 
+ bases, and using the exact same tactics every time you capture a base. This game's engine and potiental 
+ is one of the best I have ever seen, but the game ends up falling short of it's potential. The 
+ XP system needs to be totally redesigned, and a number of other improvments are critical before 
+ buying this game, but hey seeing as how it's an MMOFPS changes happen fast, and by next week it 
+ might be worth it. (note this was posted on 6-7-03, so it may be better already) 
+::::::
+
+::::::
+UserName: jake22222007
+Rating: 6.7
+Date: Jun 7, 2003 4:14 pm PT
+Review:  I like first person shooter games and I like role playing games, so great I should like this game, 
+ and I did, but please why could not sony try to balance it a little more.
+  
+  Perhaps for a game like this as well as having servers for a jurisdiction there should be servers 
+ for difficulty levels. I love first person shooters, BUT I AM A CASUAL GAME PLAYER AND ONLY PLAY 
+ A FEW HOURS EACH WEEK. For many players who would like to have the experience of this game it is 
+ a pain just to keep dying all the time at the hands of players who are so obviously so much more 
+ advanced. 
+::::::
+
+::::::
+UserName: ShadeZ
+Rating: 8.4
+Date: Jun 3, 2003 1:41 pm PT
+Review:  Planetside is a great game to play if you like team play. It doesn't hold up so well if you go 
+ it alone. The graphics are fairly good as can be expected from an MMPOG. The Music get pretty annoying 
+ at times, you can't use your own MP3s which is a minor downfall. The controls can be annoying but 
+ can be setup though keybindinns eg Counterstrike. 
+  
+  Its totally pointless really, but is fun so who cares... It reminds me that its like Multiplayer 
+ Halo will be. 
+  
+  In a few months the lag should be lessened with SoE adding more servers. You can't really judge 
+ this game since it is an MMPOG, and updates are coming out all the time. 
+  
+  If you have anything below a top notch computer you'll probaly want to skip this game though. 
+::::::
+
+::::::
+UserName: BMWGamer
+Rating: 9.3
+Date: Jun 3, 2003 1:31 pm PT
+Review:  Planetside is the best Massive Multiplayer Online Game to come out in a long time. The only constant 
+ battlefield like Planetside was WWII Online, which was a miserable failure. Planetside has it all. 
+ The graphics are great, the gameplay is exellent, and it handles like any typical FPS. Lag is nearly 
+ non-existant and teamplay is the order of the day. A lonewolf will get nothing accomplished, you 
+ must have a squad to accomplish anything. One thing I was pleasently surprised with was how easy 
+ it was to create or join a squad of ten guys and get right into battle relatively quickly. If you 
+ broadcast "Im looking for a squad" you will immediately recieve offers from squadleaders wanting 
+ to recruit you. You can play the game the way you want to play it. There are so many jobs, everyone 
+ will find something they enjoy. 
+  
+  All I can say is buy planetside you will love it. You will quickly make friends and will take pleasure 
+ and pride in advancing your character. Look me up on the server Emerald on the New Conglomerate 
+ forces, my name is Deficit, hope to see you on! 
+::::::
+
+::::::
+UserName: Malovech
+Rating: 2.3
+Date: Jun 3, 2003 8:25 am PT
+Review:  What a total pile of dog crap this game is! You might as well play Tribes 2 or Battlefield because 
+ they are more fun and don't cost nearly as much. I hate when a company gets this ambitious with 
+ a game, then totally screws up the delivery. There is absolutely no real reason to fight in this 
+ game, no real consequences to your actions. Yes you can take bases and continents but in the end 
+ it effects nothing, causes the other team no real grief and is just another in an endless series 
+ of wins and losses that in the grand scheme of the game mean very little. That is just fine for 
+ a free multiplayer FPS, but for one in which I am asked to pay $12.95 a month I want a lot frickin' 
+ more! 
+  
+  I want my guild to be able to completely obliterate an installation- blow it to smitherenes, then 
+ setup camp and custom build our own installation. Then after that it is up to us to make sure it 
+ doesn't get destroyed. Yes I want Planetside crossed with Shadowbane! That is the bar to which 
+ MMORPG and massively multiplayer games of any kind should be aspiring too, anything else is a waste 
+ of time and energy. 
+::::::
+
+::::::
+UserName: VeXeN
+Rating: 7.7
+Date: Jun 3, 2003 8:21 am PT
+Review:  A true score, I have to agree with the gamespot review, at first when I got this game I really 
+ did have fun with it. Later on I found some problems I really didn't like for example how the aiming 
+ works, this game takes no skill to play. You can't get a head shot or anything like that, if I 
+ hit you in the toe it does the same amount of damage as hitting you in the eye.. Lame.. The graphics 
+ are pretty good, but really could use some bump mapping and specula lighting. I have a Monster 
+ Box so it would be nice if I could see some of this cool stuff. I really don't care about the people 
+ with a crappy computer.. play Xbox or get a job.. nuff said.
+  
+  I just built me a AMD 3000+ Barton, 2X CORSAIR MEMORY XMS 512MB 64MX64 PC-3200C2PT , A7N8X ASUS 
+ mobo. All for 570 bucks. And I over paid.. :-)
+  
+  To the noob with the 1.0 ghz I hate to tell you bud but that's an ancient system really anything 
+ under a 2.0 ghz (2000xp+) is, deal with it. 
+  
+  
+  P. S. I bet you couldn't program your way out of a four loop. 
+::::::
+
+::::::
+UserName: Jack_Tripper
+Rating: 9
+Date: May 31, 2003 2:12 pm PT
+Review:  If you dont already know, Planetside is a Massively Multiplayer On-line First Person Shooter (or 
+ MMOFPS for those of you in love with acronyms) . The basic premise is that you start out as a general 
+ grunt, and through kills and base captures (the meat of experience building) , you earn certificates 
+ that you can use to buy new abilities (whether that be Piloting a vehicle, earning new armor classes 
+ with more room for weapons and ammo, or class changes-to s****er from grunt for example) . The players 
+ are split up into three different factions of a warring society, and dropped onto the World, 
+ where they duke it out for continental supremacy and dominance. This is achieved by capturing and 
+ holding key points on the individual continents the world is broken into. These capture points 
+ are bases, that are governed by a control point that must be hacked (a process by which you capture 
+ that point, and hold it for 15 min, against all odds) . Once that is completed, you are rewarded 
+ experience points based on; how long you were involved in the capture of the base, how many times 
+ you died trying to capture the base, etc. All of this takes place in a persistent world with areas 
+ (continents, are the subdivision of the world) that are so huge, they dwarf some of the biggest 
+ levels in Tribes 2. The size of these levels makes travel by foot none to desirable, as it takes 
+ forever to walk (especially if your wearing one of the heavier classes of armor) from base to base. 
+ To remedy this, there are vehicles that can be obtained for transport, offense, defense, or just 
+ plain old Sunday driving.
+  
+  Few things have interested my as much as the concept for Planetside. The very idea of a persistent 
+ world first person shooter is one thing, but to be able to travel throughout that world in a squad/outfit 
+ in vehicles, nonetheless, really had me excited from the get-go! I was a huge Tribes/Tribes 2 fan, 
+ and the idea that I could keep a running profile of my victories and tribulations was very appealing. 
+ The other big draw for me, was the idea of having 50 on 50 battles, with Tanks and Aircraft all 
+ doing their thing I have to say, some of these fights can take on epic proportions and have to 
+ be seen to be believed.
+  
+  Lets fast forward to the (almost) official release of the game, some months ago I was asked to 
+ be part of the first public beta. So I went fourth to the internet, got the beta, downloaded itand 
+ it was good! There were problems here and there, but overallexactly what I expected! Over the 
+ months, things went from good to fair, occasionally skating with mediocrebut then back to good 
+ again. By the time the beta had ended, I was still relatively sure the launch would go off without 
+ a hitch. That was kind of true, I dont think that the launch was handled badly by any means, but 
+ there were some problems (but more on that later) .
+  
+  The game lived up to all my expectations, there really is a lot of ground to cover here, and its 
+ about as open ended as you can get. Want to pilot a Reaver (light armor, well equipped, air assault 
+ vehicle) ? No problem, pop over to a certification terminal, and its as easy as clicking two buttons. 
+ Decide that you want to drive tanks now? Great, either go earn more certificates, or choose to 
+ unlearn another skill and apply those toward your tank certification. You can choose to play the 
+ whole game as a grunt the whole time and never once pilot a vehicle, or you can choose only to 
+ pilot and never fire one round with an assault rifle if you dont want to (though, I promise as 
+ good as you may think you areyou will get shot down at some point, and it makes it much easier 
+ to get back to a vehicle re-spawn terminal with a gun.)
+  
+  There are a couple of downsides to the experience however. First and foremost, minimum system requirements 
+ are pretty steep. I warn you that running with a rig listed in the min sys req. on the side of 
+ the box will not get you a pretty looking game. I run a 3GHZ + processor and a Radeon 9800 and 
+ I still usually only play at 1280x1024 and keep AA/Aniso at about medium settings. To be perfectly 
+ honest, this isnt a beautiful game. Some of the texture work is nice and all, but the draw distance 
+ is miserable, fogging is used to help cover this, but that gets annoying too. As one would expect 
+ of a game of this size, poly count was kept down on most everything in the game (to keep everything 
+ working smooth) so dont expect anything breathtaking out of the models/bases. Also, Im not sure 
+ if its just me or not, but AA/Aniso algorithms dont get all of the edges and I wind up with a 
+ lot of blurred gray lines, where I normally expect to see clear black lines. The game is still 
+ in its infancy though, and I expect graphics updates to appear regularly.
+  
+  Also, lag is a concern right now, though I will tell you that if you dont play on the most populated 
+ servers from the start (Emerald, at the offset the only East Coast server) , you will have a much 
+ better overall time with the game (I started on Emeraldwhat seems to be the most populated serverand 
+ built up a characternow that its hugely overcrowded. I really dont want to start over againso 
+ I deal with the LAG) . It was much touted a few weeks ago that Lag was bad, and the devs were not 
+ doing anything about it. I have to say for the record, the worst I have ever seen it was over Memorial 
+ Day weekend where the servers were crunched day and night-it was badIll give you that (but what 
+ do you expect, it was the first two weeks of release on a holiday weekendhell the whole internet 
+ was slow) . After that weekend, another East Coast server was put into place. Id expect no less, 
+ as currently Im paying $13 a month for the right to play this gamekeep it smooth Sony, were paying 
+ big bucks for this.
+  
+  Those things considered I still feel like this is one of the best games Ive played this year. 
+ Despite the performance problems, this game still delivers exactly what it promisedand thats 
+ a good thing. I cant wait for some of the newer vehicles to be put into place (a bomber is so 
+ desperately needed its scary) , and hope to see them add new islands/bases to the existing continents. 
+ Finding a fight is never a problem, as there are literally thousands of players on each of the 
+ servers (usually and hopefully not ever all at once) . I can sign on at 4AM and still expect to 
+ find the same amount of people on as I could at 8PM! Its a fantastic feeling to be at base, get 
+ in an aerial transport vehicle (GAL or GALAXY) and be flown to the target to be hot dropped right 
+ into the fray, and then capture that base. I cant quite put into words why this game is so great, 
+ so Ill tell you to go find someone with it, and get their buddy key that lets you play a free 
+ 7-day trial. I hope that at the end of those 7 days, Ill see you singing on to your own account. happy 
+ hunting!
+  
+::::::
+
+::::::
+UserName: VISent
+Rating: 3.9
+Date: May 30, 2003 5:35 am PT
+Review:  A sub-par first person shooter plagued with unresolved technical issues - that's how i'd sum up 
+ Planetside so far. Even with a very powerful PC/laptop you'll likely encounter horrendous lag and 
+ slowdown, even in relatively quite areas of the game. For example, whenever entering or leaving 
+ a building expect a 1-3 second lock-up as the shoddy game engine tries to stream textures from 
+ your hardrive. The same goes for battles - lag and stuttering can render game completely unplayable. 
+ 
+  
+  Technical frustrations and lack of support from the Planetside developers aside, what you're left 
+ with is an ill-conceived game that basically wants to be the first fps to include mmog elements, 
+ despite the obvious flaws with this concept. There's very little point to capturing bases as they'll 
+ simply be recaptured a few moments later, and the slow character progression just makes the game 
+ feel restricting as you move from vehicle to vehicle only to discover you don't have the appropriate 
+ skills to use them. 
+::::::
+
+::::::
+UserName: Krush_Groove
+Rating: 6.8
+Date: May 28, 2003 11:11 pm PT
+Review:  An epic battle fought by thousands of armchair warriors in a persistent world. Such is the premise 
+ of PlanetSide, which publisher Sony Online has dubbed the worlds first Massively Multiplayer Online 
+ First Person Shooter (or MMOFPS, as the kids say) . The concept is good, and it was a noble effort 
+ by Sony to spend years developing this game. Then again, Prohibition was considered by some historians 
+ a noble effort as well, and most of us know how that worked out. 
+  PlanetSide was shipped out last Tuesday (5/20) , and the Gamespot editors have yet to upload a review 
+ for the game. Maybe its because of the fact they dont review games that appear to be still in 
+ beta. Server shutdowns still appear daily to correct various bugs (such as XP exploits and voice 
+ chat screwups) . Also, there still seems to be a slight imbalance between the weapons of each empire, 
+ with the Terran Republic having the good fortune of owning the most powerful weapons of the three. 
+ Of course, the Terrans also attract the most n00bs, whereas the Vanu Republic (with the weakest 
+ weapons) tends to attract seasoned veterans of other team-based first-person shooters. If you havent 
+ figured it out by now, the New Conglomerate is well-rounded in weapon capabilities and attracts 
+ the intermediate crowd.
+  If PlanetSide was released a couple years ago, the graphics would have been considered outstanding. 
+ However, several games out now (and a few more on the horizon) have left this game in the dust, 
+ in terms of visuals. This could partly be due to the fact that enhanced visuals would cut into 
+ critical frames per second (FPS) needed for one to be competitive in battle. Nevertheless, it is 
+ a shame that Sony Online didnt pay attention to how their competitions products were turning 
+ out. If PlanetSide is meant to be played on a high-end computer, the developers should have put 
+ a little effort into pushing the hardware to create the best visual experience possible.
+  As of right now, there isnt much in terms of content. Apparently, the warriors of Auraxis only 
+ need constant war and medipacks to survive. There are bases, sanctuaries, and gun towers. Thats 
+ it. Nowhere to pick up a decent meal or gas up your Reaver, Gal, Vanguard, or whatever youre cruising 
+ around in. Im not asking for a Sims war expansion or anything, but there should be a semblance 
+ of a city structure within the game. 
+  Also missing is a mission plan to make available to squads and outfits. Basically, the game currently 
+ boils down to an eternal base color swap amongst the three empires. Getting in a game of Graffiti 
+ is fine and dandy if youre playing Tony Hawk 4, but for a game that is supposed to be of Spartacus-esque 
+ scale, something more is needed. The developers could have programmed Geo-Mod coding into the game, 
+ so that bombers and tanks could blow holes into bases as an additional alternative to having infantry 
+ rush into one of the two openings and get mowed down at the gate (Hot-dropping is a viable option 
+ as well, if you can dance around bullets in midair) .
+  The music, while not of John Williams quality, is tastefully done and does an excellent job of 
+ matching the mood of the situation. The logout music gives one the idea that the game is depressed 
+ that the player is leaving the game, trying to lure him back into the game for just a few more 
+ minutes (before the inevitable server shutdown, anyway) . The firing effects for the weapons are 
+ well done, but there arent enough loud explosions in the game. Hopefully this will be remedied 
+ if the developers can program in the ability to destroy and rebuild bases.
+  In conclusion, PlanetSide has a good concept and wonderful long-term potential on its side. However, 
+ if there arent any good expansions or mods in the near future, I wouldnt suggest paying $13 a 
+ month for it (not right now anyway) . If you want instant, constant, and gratuitous violence at 
+ a better value, keep Counter-Strike and Battlefield 1942 on your hard drive. 
+  
+::::::
+
+::::::
+UserName: SnugBall
+Rating: 9.3
+Date: May 27, 2003 1:57 pm PT
+Review:  After reading the reviews of this game, you might be a bit torn tward buying it. Well, let me clearify 
+ why this game might just be up your alley. If you've ever been part of a Clan, or other gamers 
+ group of like minded individuals, and you had good experiences in that group, your allready half 
+ way to loving PlanetSide. The other reason you might like PS is the fact that it is a first pearson 
+ shooter with combat in real time... no locking on target and queing up attacks and moves; most 
+ massive online games play in this fashion, and I for one find such games really boring.
+  
+  PlanetSide would apeal to most enthusiasts of first pearson shooters, but, only gamers that enjoy 
+ playing in a team are going to find indefinate replay value in this game. You may have read that 
+ this game is slow, or boring, the battles aren't so big, or whatever... these are the words of 
+ players that have not either known of, or, not taken the time to find a serious squad with a decent 
+ squad leader... they don't really know how to get the fun out of PlanetSide. Good leaders can tell 
+ where the action is, they listen to other players that sound off about large battles, and they 
+ target those locations accordingly always keeping you in the thick of it, having fun and gaining 
+ massive experience points. The number of good squads is growing, and hence the number of good outfits (another 
+ word for 'Clan') are growing as well. 
+  
+  PlanetSide is great fun but, you're not going to really know that unless you 
+  give it a go. 
+ Just remember, its a "TEAM GAME", if you like to make friends and play awesome PC games with those 
+ people... your going to enjoy PlanetSide.
+  
+  I would like to make one note: PlanetSide requires a large amount of RAM to play. Recommended system 
+ requirements call for no less than 512mb... I started playing this game in Beta with 256mb... it 
+ played well in most areas, but 512 makes a HUGE and wonderful difference. Check the sys requirements 
+ and make sure you have at least 512mb.
+  
+  
+::::::
+
+::::::
+UserName: AngelArms
+Rating: 6.5
+Date: May 26, 2003 5:02 pm PT
+Review:  Played beta for a month up until release, and this is a clear example of how great server stability 
+ and lots of "features" can still add up to one boring-azz game. It was kind of fun for awhile, 
+ until you realize that you're just doing the same thing over and over again. Go capture a base 
+ that looked exactly like the last one, get the xp, and move on to the next place. This repetition 
+ wouldn't be a problem (see de_dust) except for the fact that you're paying a monthly fee to do 
+ so. If you want vehicular combat, play BF1942 and download the Desert Combat mod... I guarantee 
+ you'll have 10x more fun with 100x more replay value, and none of the monthly fees to pay.
+  
+  Don't get me wrong, I came into this game with really high hopes - I was following it for over 
+ a year before I got into beta because I thought it was going to be the best game of the year... 
+ but there's just nothing really at stake here. And yeah there's a couple thousand people on at 
+ once, but there's so many continents and bases in the world that you'll rarely find more than 70 
+ people at one battle at one time... which ends up not feeling too much different than 16 on 16 
+ in any other online FPS. Overall, it's probably worth the free month of play, but only if you're 
+ DYING for a game like this would I say to even spend those 50 bucks on it. 
+::::::
+
+::::::
+UserName: chrisbrooke
+Rating: 9.2
+Date: May 26, 2003 8:07 am PT
+Review:  I would say although certainly not the most graphically immpressive. They attempt and to a large 
+ part succeed at many things. First getting 100's of complete strangers to work in unison is cool. 
+ They rules force players to engage in squads and outfits. The concept of teamwork was in the past 
+ a group of people running around trying to be the person who "gets the kill first" for the XP's. 
+ Now you have squads acting like real teams. The concept of voice chat works periodically and disrupts 
+ the sound but a worthwhile feature that I am sure will be improved on. 
+::::::
+
+::::::
+UserName: Resplendent_Elk
+Rating: 8.5
+Date: May 26, 2003 5:38 am PT
+Review:  Apart from being a solid online FPS with well-implemented action, tactics, factions, vehicles, 
+ bases, etc, Planetside makes a recommendable job of finding its own niche in the crowded arena 
+ of online games. It's not as deep as most RPGs, but it doesn't require players to invest the same 
+ energy or time to get a good experiece. You can have a rewarding experience in just 30 minutes, 
+ which MMORPGs generally don't allow, but there's also room for the gamers who like to waste all 
+ their waking time to advance their character, get involved in communities and further the game. 
+ The only real downside is the monthly fee, which is too high for a game that ultimately doesn't 
+ offer the depth of MMORPGs (for good and bad) . 
+::::::
+
+::::::
+UserName: connor
+Rating: 9.2
+Date: May 22, 2003 12:42 pm PT
+Review:  This is a really cool game. I knew it was goin to be good just buy looking at it. The way the game 
+ is makes it alot of fun which i know the fun wont die out. The cetafication system is really well 
+ made as along with the way the fighting takes place. The idea of taking over bases on continents 
+ is really neat. The graphics in this game are good in some places and sometimes the r really awsome. The 
+ sound isnt anything great even with a 400 watt 6.1 speaker system. The fact that squads can be formed 
+ and that it is all online shows that the game will never die out cause there will always be updates. This 
+ game is really good u should get it. 
+::::::
+
+::::::
+UserName: desanvium
+Rating: 8.2
+Date: May 21, 2003 2:02 pm PT
+Review:  After Beta testing this game for about 3 weeks, I can honestly say that SOE covered most of the 
+ bases in so far as creating a well balanced FPS/RPG hybrid in an MMOL environment. Yes... it's not 
+ perfect, and yes the dev team is going to have to come up with more stuff to fill the world with 
+ in order to keep people paying for playing... to not give this game it's due credit would be to 
+ deny how much time and effort went into a game that, for sheer size alone, rivals any other large 
+ scale war game that I've played (including Battlefield 1942) . Forget about Halo on the PC... Planetside 
+ is here to stay! 
+::::::
+
+::::::
+UserName: weirjf
+Rating: 4
+Date: May 21, 2003 10:19 am PT
+Review:  Here's the deal; play it for 3 weeks before you review it. Me? I was a beta tester, I'll give you 
+ what you have to look forward to in the coming weeks:
+  
+  Graphics are interesting, but not great. Every base and tower looks the same. We complain about 
+ cookie-cutter developers in our neighborhoods, why shouldn't we do the same in our games.
+  
+  Sound is ok, but weak. The ambient sound is pretty cool, but the weapon sounds are pathetic 
+ and unbelievable.
+  
+  Gameplay; what a blast; for a couple of weeks. Then you realize that you paid $50 for the game 
+ plus a monthly fee to trade the same identical-looking bases over and over again... it starts to 
+ annoy you. How many times can you cap the same 2 bases before the term "pointless" comes to mind? 
+ The big-battle feel is great, until the novelty wears off. Gaining levels is also pointless, by 
+ BR12, I have all the skills I want and find myself buying more vehicle certs just because I can, 
+ but never actually using them.
+  
+  There are so many games out there that do what PS does, only better and you don't need to pay a 
+ monthly fee. "you're paying for the servers and the big battles"... let me clue you in on something... 
+ even on a server with 3500-5000 people on it, you will rarely find yourself in a battle bigger 
+ than 35 vs 35 because there are so many continents, and so many bases, and so many towers, and 
+ people hanging out in sanctuary.... blah blah blah that even if the battles DO happen to get bigger, 
+ then it becomes impossible to live more than a few minutes, which then cause the respawn time penalties 
+ to start to kick in. The big battles become a cycle of attackers sitting on the base perimeter 
+ firing on people on the wall, and defenders respawning in the base, firing back. *yawn*
+  
+  Buy it if you want, I'm saving my money for something that is fun for more than a few weeks. 
+::::::
+
+::::::
+UserName: TalonX
+Rating: 8.8
+Date: May 21, 2003 5:13 am PT
+Review:  In my opinion Planetside is one of the coolest games ever created. They took ideas from MMORPGs 
+ (Massivly Multiplayer Online Role Playing Game) and made an MMOFPS (Massivly Multiplayer Online 
+ First Person Shooter) . This was published by SOE so we can expect plenty of expansion packs ala 
+ EverQuest.
+  
+  After you create a character by choosing one of three empires to fight for, a face, voice, and 
+ name for your character you can get started. The core of Planetside consists of getting into a 
+ squad of other people from your empire and capturing bases on one of the 10 continents that are 
+ on the planet. You do this by using a device called the REK to hack into the control consle for 
+ the base. Once the hack is finished you have to hold the base for 15 minutes until the hack transfers 
+ control over to your empire. This can create some intense fun. Don't be afraid of being a newbie, 
+ SOE was nice enough to put in a set of offline training tutorials and a practice shooting range 
+ to use to learn your way around the game.
+  
+  In PlanetSide you gain levels like an RPG, this is called your Battle Rank, as you kill enemies 
+ or capture bases you gain experience towards gaining a new Battle Rank. In a sense PlanetSide is 
+ a leveling treadmill. Each battle rank gives you a certification point to spend on different vehicles, 
+ weapons, or non-combat abilities such as being a Medic. Once you have a certification you can use 
+ that peice of equipment anytime.
+  
+  As for the visual look of PlanetSide it is quite impressive. Now it isn't an Unreal Tournament, 
+ but it is very nice in it's own sense. For example, one nice touch is that the ground isn't flat, 
+ there is flora, such as flowers, grass, and weeds all over to add a nice look to the world. All 
+ the models are nicely done as well. PlanetSide should run a moderate to high gaming system just 
+ fine.
+  
+  PlanetSide has a nice assortment of music as well, different music for every ocassion that seems 
+ to seamlessly fade in as whats going on in game changes. This is very cool and adds intensity to 
+ the game. The guns and vehicles all sound decent as well. Don't expect the ultra realistic gun 
+ sounds that you might see in a Rainbow Six game though.
+  
+  The inerface in PlanetSide isn't the greatest in the world, but it is out of the way and non intrusive. 
+ On the top you will see your squad members names, health, and armor. You get a radar, a chat box, 
+ and your own character status as well. Overall it isn't a bad inerface. Along with the chatbox 
+ is a built in voice communication system you can use to communicate with your squad members with.
+ 
+  
+  Now it's time to talk about the downsides of PlanetSide. It has in a way a basic concept of capturing, 
+ defending, and recapturing bases that may get old to some people, other people it may not. That 
+ is the core of PlanetSide, although they will be adding new content to the game via downloadable 
+ patchs and expansion packs, this is the state of the game now. I still recommend the game to anyone 
+ that wants to play a great online FPS, PlanetSide is a fun game, hands down. 
+::::::
+
+::::::
+UserName: zanetanos
+Rating: 9.1
+Date: May 20, 2003 8:43 pm PT
+Review:  Overall I really enjoy this game and plan on keeping my subscription. This is one game that no 
+ FPS or MMOG fan should be without. There have been quite a few new MMOGs in the past couple of 
+ years, but this one truly is unique. It is the first game to integrate RPG, FPS, and MMO into one 
+ game. Truly amazing.
+  
+  Gameplay:
+  Great replay value. Think Tribes II, except MMO style. How does that sound? Pretty good I bet, 
+ especially when you see those massive battles raging throughout the whole of an entire continent 
+ or perhaps the entire planet. This game has great gameplay value.
+  
+  Graphics: 
+  Best I have seen in a MMO game. Absolutely amazing. Considering this is an MMO game, makes the 
+ graphics even more jaw dropping than they already are. The detail is amazing. I haven't seen one 
+ glitch the ENTIRE time I have played in terms of graphics.
+  
+  Sound:
+  5.1 Surround Sound + realistic Sounds for gunfire and other effects... need I say more?
+  
+  
+ Value:
+  I am gonna have to give this game a 6 on this due to the fact you have to pay a monthly fee. Don't 
+ get me wrong I am glad to pay it... I am just not so sure about many other people, which means 
+ less people to play with online.
+  
+  Tilt:
+  Great game, loved it. Just buy this game. 
+::::::
+
+::::::
+UserName: Wiggles
+Rating: 7
+Date: May 20, 2003 6:45 pm PT
+Review:  Planetside is an overpriced, boring, first person shooter with slow paced combat that requires 
+ little, if any, skill. The vehicle physics are below sub par, and the air vehicles are even worse 
+ off; however, after playing the beta test, I have to admit, im hooked. This mediocre lagfest has 
+ a hold on me, and I dont know why. Even though I could waste my days playing technically superior 
+ games, e. g. Halo (or the less succesful, but equally, if not more entertaining, Mobile Forces) 
+ for its intense vehicle combat; Quake III, Raven Shield or Counter Strike for their superior speed 
+ and twitch oriented combat; and Soldier of Fortune II or Tribes II for their squad based combat, 
+ I always came back to Planetside. You may be wondering why this insurmountable waste of time and 
+ money has such a hold on me, and I can tell you with a straight face, that I really dont know. 
+ But, I do have two theories, the first of which is freedom. In game, you can really do whatever 
+ you want, whenever you want, wherever you want. Even though you are rewarded for working in a squad, 
+ it isnt a neccesity. If you want to join a squad, wait around for 20 minutes while they debate 
+ over exactly where in the massive world they want to go , listening to ridiculous remarks like 
+ "I dont want to go to Hossin, its too cold" or "HOW BOUT DEM' BENGALS!!!" from your idiot squadmates 
+ with names like BuzzLightBeer and BigTexas (By the way, you can usually find me on Johari under 
+ the name BigTexas :P) . Or, if you dont feel like working with your teammates, you could just as 
+ easily hop in any of a variety of one man vehicles and venture forth on your own. My second theory 
+ is by far the more plausible, Sony Online Entertainment is EVIL!!!. Yes thats right, SOE is evil. 
+ Planetside is an attempt to ensnare the first person shooter community, made up of casual gamers 
+ for the most part, and swallow their souls in the same manner as the role playing folk were devoured 
+ alive by Everquest. Well, maybe Sony doesnt want to absord our souls ala Chucky but they are after 
+ our money... dear god, our money, $50 plus $13 a month is excessive to say the least. And one addiction 
+ leads to another, before you know it, you will be up at 4 am playing Planetside, and need a caffeine 
+ fix, so you'll drink a Mountain Dew, or a Red Bull, you know, just one to keep you up. But before 
+ you know it, this will be every night, and you will be broke and unfulfilled. So listen to me and 
+ listen good, they already got me, dont make my mistake. Stay clean. DONT buy Planetside, DONT do 
+ the Dew... dear god dont do the dew... 
+::::::
+
+::::::
+UserName: dvader76
+Rating: 1.8
+Date: May 20, 2003 4:01 pm PT
+Review:  After playing this game I was extremely dissappointed. This game brings nothing new to the FPS 
+ other than the fact that you can have over 2000 people on a server at one time. Does this mean 
+ you will actually see all 2000 people at once?... Not from what I see. The battles revolve around 
+ caputuring bases and you may have 100 people or so at once defending/attacking. The bases all look 
+ alike as do the character models. The gameplay is severely lacking in that you have the same objective 
+ to just capture bases over and over and over for little, if any, decent rewards at all. The exp 
+ system is not really that exciting due to the very few things you can actually specialize in that 
+ are worthwhile/fun. The vehicle physics are anything but subpar and the "cone of fire" system of 
+ shooting is basically just a spray and pray type of fighting with very little actual gaming "skill" 
+ needed. Planetside brings nothing new or revolutionary to the FPS front, and to have to shell out 
+ $50 bones up front and $13 a month is a little steep for the same kind of action you can have on 
+ countless other "free" FPS that are already out and have been out for awhile. For the monthly cost 
+ and the lack of good content and gamplay I would advise steering clear of this one. 
+::::::
+
+::::::
+UserName: Mikemcl
+Rating: 9.4
+Date: May 20, 2003 3:26 pm PT
+Review:  Just got it today. Great game!
+  
+  GAMEPLAY: 10/10. Awesome! Complete with upgradable skills, abilities and licences. Gamesplay is 
+ smooth and nice on high end PCs. Slightrly slow paced, really depends on what vehicle/suit you 
+ are using. Teams are quite well balanced and here's a brief description to help you choose:
+  
+  New Conglomerate: Heavy weapons, large variety.
+  Vanu Sovereignty: Alien Technology, hovering 
+ vehicles, laser/plasma weapons.
+  Terran Republic (me) : Heavy Armor, strong tanks (and my personal favorite weapon: the Mini/Chaingun)
+ 
+  
+  GRAPHICS: Very good. Not amazing, but for the better. Good enough that it wasn't limited in the 
+ terrain/modeling aspect, but not too good that it laggs out on sub-par configurations.
+  
+  SOUND: Uhm... Great. Nothing in the game is modeled on real counterpartss, but quality is high, 
+ and crisp. Great with 5/6.1 surround sound.
+  
+  VALUE: Pretty good. You have to pay a monthly fee, have not figured out what it is, but this helps 
+ the game get updated and new features and weapons will come out to fuel the games blazing fire. 
+ Cool because it's llike your army is researching.
+  
+  REVIEWER'S TILT: I don't know what that is. 
+::::::
+
+::::::
+UserName: Zellk
+Rating: 10
+Date: May 20, 2003 3:03 pm PT
+Review:  Planetside, a much needed twist in the MMO game community. PlanetSide delivers a fun and unique 
+ gaming experience. I know of very few games that have tried to make a MMOFPS. However, each game 
+ was weak in one aspect or another. PlanetSide shines in every attribute.
+  Everything about PlanetSide runs smoothly, from server logins and updates, to taking over a base 
+ in a tropical jungle. I am very impressed with the user-friendly interface. It is very easy for 
+ a new player to learn PlanetSide, which makes it an excellent game for MMO new comers. PlanetSide 
+ lets you try stuff out in a VR simulation before spending certification points on them.
+  Ever wanted to feel like your making a difference in the world? I know I got tired of playing team 
+ based games of 64 players. For a while I thought it was great, taking over a base in Tribes 2 and 
+ winning the game. I couldn't help wonder, what if the game didn't change or restart the map. PlanetSide 
+ is an on going world of hundreds of bases and towers scattered over 10 unique continents. Believe 
+ me, it is the greatest feeling when you take over a base after a large battle. You changed the 
+ map of the world for thousands of people.
+  Another key aspect about PlanetSide is Battle Points and Leadership Points, better known as experience 
+ points. You gain BP from fighting and taking over bases. After collecting 10 BP you gain a level 
+ and a Certification Point. With CPs you can learn new abilities, like piloting and using new weapons. 
+ Leadership Points are gained by being a squad leader. Gaining levels with Leadership Points gives 
+ you abilities like placing Waypoint's on your squad's map. Leadership points make you a great squad 
+ leader.
+  PlanetSide is a great game to play with friends. Friends you know in real life or friends you meet 
+ in game. PlanetSide has an awesome in game "clan" like system. Clans in PlanetSide are called Outfits. 
+ There is a giant ranking system, which allows you view your Outfit's rank with other Outfits. Outfit 
+ leader's can post announcements in their outfit info page. Outfit info pages show other various 
+ information about your group, such as a member list. The Outfit leader can assign rankings to its 
+ members.
+  PlanetSide is WELL worth the monthly fee. If you have ever been skeptical about paying monthly 
+ for a game (I know I have) no need to worry, PlanetSide is worth every penny. I know your money 
+ will go to great use into future development of PlanetSide.
+  
+  I hope this review was helpful. SEE YOU IN PLANETSIDE!
+  
+  Want more info!? www. planetside. com 
+ 
+::::::
+
+-------------------------------------------------

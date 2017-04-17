@@ -1,0 +1,1730 @@
+-------------------------------------------------
+:::Game Name::: Microsoft Flight Simulator 2004: A Century of Flight
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/microsoftflightsacof/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jul 28, 2003
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.8
+Critic Score: 8.7, 27 Review (s)
+User Score: 8.9, 1,803 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Microsoft Game Studios
+Genre: Flight Simulation
+Date:     Jul 29, 2003 &raquo;  
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+You could say that Flight Simulator 2004 is still a straightforward simulation, but if you have 
+ even a passing interest in flying, you'll definitely get your money's worth from it. 
+
+  For more than a century, human beings have used engines to pull, push, or lift themselves into 
+ the air, and for the past two decades, Microsoft Flight Simulator has let armchair pilots explore 
+ the exciting world of aviation on their PCs. Microsoft Flight Simulator 2004: A Century of Flight 
+ commemorates this double anniversary by offering more planes, better graphics, and more options 
+ than ever before right out of the box, but the game will likely reach its full potential only if 
+ it receives great support from its player community.  
+
+          These clouds aren't just for show. A violent thunderstorm brews within.     
+
+  Fans 
+ of the previous games in the series will be up and running in no time thanks to the new game's 
+ familiar interface, but Flight Simulator 2004 also happens to be the most beginner-friendly game 
+ in the series. It's easier to access game options, and each option is actually explained by the 
+ game. There's also an excellent interactive flight school hosted by aviation veteran Rod Machado 
+ that serves as a surprisingly deep training tool.  
+
+  There is enough written material included about the planes, the history of flight, and flying tips 
+ to fill an encyclopedia. As such, Flight Simulator 2004 represents one of the rare instances in 
+ which online documentation is wholly superior to a printed manual. The documentation includes articles 
+ that are supplemented with Web-page-style hyperlinks, which lead to more detailed information about 
+ a particular topic. Some even whisk you directly into the cockpit so you can actually re-create 
+ the particular flight (or series of flights) discussed in the article. While the fascinating historical 
+ articles by  Flying  magazine's Lane Wallace were commissioned by Microsoft, many of the other 
+ articles included are reprints from magazines like  AOPA Pilot , and it is amazing to see how the 
+ real-world tips provided in these stories can be directly applied in the simulator.  
+
+  And you'll need all the information you can get, because most of the new planes in Flight Simulator 
+ 2004 are cranky old antiques that require your undivided attention. The entire history of civilian 
+ flight is represented in the game, from the original Wright Flyer that can't even struggle its 
+ way out of ground effect to a Boeing 747-400 that can haul hundreds of people higher than 40,000 
+ feet at Mach .85. You can retrace Lindbergh's steps across the Atlantic in a re-creation of the 
+ Ryan NYP "Spirit of St. Louis," see what Amelia Earhart's trip across that same ocean was like 
+ in a Lockheed Vega, and haul freight over the mountains in a Douglas DC-3, among other things. 
+ The Sopwith Camel was not brought over from the previous game into the new game -- this is strictly 
+ a civilian flight simulator, without any military prop planes or jets, but it still offers plenty 
+ of different aircraft to fly.  
+
+  If you plan to fly any of the vintage aircraft, be sure to invest in some good controller peripherals, 
+ specifically rudder pedals or a joystick with a twist handle. It's impossible to take off and land 
+ in taildraggers like the Piper J3 Cub and Curtiss Jenny without a lot of dancing on the rudders. 
+ And once they're airborne, ponderous antiques like the Vickers Vimy biplane can barely turn unless 
+ you stomp on the pedals. Rudder controls also are a must for flying the two helicopters modeled 
+ in the game, which include the familiar Bell JetRanger and the new Robison R22 Beta. The Beta is 
+ a skittish little chopper that is hypersensitive to controller input and offers a wholly different 
+ flying experience from that of the heavier and more stable JetRanger.  
+
+  The overall flight model feels very similar to that of Flight Simulator 2002 and is well suited 
+ to capturing the nuances of the game's slow and underpowered historical planes. For example, when 
+ landing a taildragger, you should be able to float in slowly at a steep angle for a traditional 
+ three-point landing or come in more quickly at a shallow angle to land on the main wheels, keeping 
+ forward pressure on the stick until the tail gradually loses lift and the tailwheel gently settles 
+ on the runway. The latter option is essential for landing a small plane like the Piper Cub in high 
+ crosswinds, and the new game models it perfectly.  
+
+          Flight Simulator 2004's virtual cockpits are interactive, so most of these switches can 
+ be adjusted with your mouse.     
+
+  Aside from the historical aircraft, Flight Simulator 2004's big news this time around is its weather 
+ effects. You can set up in-flight weather any way you like or go for the ultimate in realism by 
+ having the game automatically download real-world weather reports from the Jeppesen database every 
+ 15 minutes. We tested this feature in a variety of weather conditions flying out of a hometown 
+ airport, and sure enough, the conditions depicted onscreen corresponded with what we saw from the 
+ window, for the most part.  
+
+  Even if you don't choose to use the real-world weather option, the game can dynamically change 
+ its weather conditions so that a flight that begins in clear blue skies might end up in pure instrument 
+ conditions as you try to feel your way down to the runway in a violent thunderstorm. The addition 
+ of true 3D clouds that drift through the sky and merge into one another as weather conditions change 
+ adds a realistic touch to the game that static screenshots simply can't convey.     
+
+  Flight Simulator 2004's graphics are improved over those in the previous game, but they're not 
+ exactly photo-realistic just yet. Buildings still use low-resolution textures, and the ground looks 
+ much better from a high altitude than it does when you're flying low and slow. The game's interactive 
+ virtual cockpits are a great new feature, since the ability to control most switches, knobs, and 
+ dials with the mouse when the 3D cockpit is enabled adds some much-needed functionality to that 
+ view. Unfortunately, the textures used in the virtual cockpits are low resolution and very ugly -- hopefully 
+ this is something that inventive computer artists among the Flight Simulator fan community will 
+ address. On the outside, the planes look beautiful, with vastly more-complex models adorned with 
+ gorgeous high-res textures that sparkle in the sun, and the game also sounds impressively realistic, 
+ since the developer recorded engine noises from actual planes for use in the game.         The 
+ planes might not look great on the inside, but they're beautiful on the outside.     
+
+  Of course, whether you can enable all of these fancy new effects and maintain a reasonably smooth 
+ frame rate depends entirely on your computer. At 1600x1200 resolution with all the graphics settings 
+ cranked at their highest, our 2.66GHz test system with a Radeon 9700 Pro video card and 1GB RAM 
+ tended to slow down in thick cloud cover. Things smoothed out considerably as the fluff cleared 
+ from the sky and the buildings in dense cities faded into the background, but if you've got a computer 
+ that just barely meets the game's minimum system requirements, don't expect to run the game smoothly 
+ with all the graphical settings turned all the way up, unless you actually prefer to watch a slideshow. 
+
+  Almost a thousand new airports have been added to the game's world database, providing more than 
+ 24,000 places to land ranging from quaint grass strips to bustling international airports complete 
+ with signage. The game also features an improved air traffic control (ATC) that works well for 
+ the most part. At controlled airports, ground control provides taxi clearances and instructions, 
+ and it is possible to follow the taxiway signs to your destination or turn on a handy overlay that 
+ visually displays your assigned route.  
+
+  Once in position, you can tune the tower frequency with a single keystroke to ask for clearance 
+ for takeoff, and the air traffic controllers then answer air space transition requests, provide 
+ directions to the airport, and provide other information when you are airborne. It's also possible 
+ to request clearance to land, and the air traffic controllers respond with instructions for entering 
+ the landing pattern or simply tell you to come straight in to a specified runway. If you screw 
+ up, the controller will tell you to go around for another try. The system works well thanks to 
+ an improved ATC menu, but it's still far from perfect. For instance, when we tried landing a small 
+ Cessna at a large international airport in exact accordance with the provided instructions, an 
+ AI-controlled DC-10 jumbo jet thundered overhead with only a few feet of separation since it was 
+ landing on the same runway. Still, ATC works much better than it did in the past, and casual players 
+ can just as easily ignore it completely.  
+
+  Another new feature in the game is the use of modeled Garmin GPS products -- these can be helpful 
+ when interacting with ATC and planning approaches. They aren't easy for beginners to grasp, because 
+ they use the same buttons and knobs as their real-world counterparts, but a training video is included, 
+ and once you get the hang of it, the GPS becomes an indispensable tool for finding your way around 
+ Flight Simulator's vast world.  
+
+          Historical markers are included for the Wright brothers' historic first powered flight. 
+     
+
+  Despite the addition of all the new planes and the excellent library of information in Flight Simulator 
+ 2004, longtime fans of the series will find it to be a rather conservative addition to the series. 
+ The core flight model and terrain graphics engine remain more or less untouched, and on the whole, 
+ the new game seems very similar to its predecessor. The new game's multiplayer is still rudimentary 
+ and allows only for basic formation flights and air races, though you can't expect much more from 
+ a noncombat sim.  
+
+  Still, longtime Flight Simulator fans should definitely upgrade to the latest version. And the 
+ new game's flight school and interface changes may be just what's needed to bring in newcomers -- especially 
+ those who were intimidated by the series' traditionally steep learning curve. You could say that 
+ Flight Simulator 2004 is still a straightforward simulation, but if you have even a passing interest 
+ in flying, you'll definitely get your money's worth from it.     
+-------------------------------------------------
+:::User Reviews::: (65 Reviews)
+::::::
+UserName: Dylmiester
+Rating: 9.5
+Date: Apr 3, 2009 5:22 am PT
+Review:  Brakes off, FULL THROTTLE! Flight Simulator 2004 is your basic "learn how to fly" game, but more 
+ in-depth. Hover along the ground at 15 mph in the Wright Brother's plane, or fly from LA to Miami 
+ with a Boeing 777. If you're a beginner, take a flying lesson or watch tutorials. If keys aren't 
+ realistic enough, go buy a joystick. Just don't hit that high-rise when you get to Miami Intl!
+ 
+  
+  A neat thing about FS is that there's no real objective, just flying every plane you own. The best 
+ thing is that you can download more planes and jets off of the Internet if you're unsatisfied with 
+ your current squadron. You can also use the settings to make engine failures, aileron malfunctions, 
+ gauge quits. and much more for that OMGwe'regonnacrash fear. Use the ATC to guide you when you're 
+ lost. Set the weights of your passengers on board. Set your jet to autopilot when you have to sleep. 
+ Just have fun by flying past landmarks like the Eiffel Tower, CN Tower, and even the Arj-e-Milad 
+ Tower in Iran.
+  
+  The performance is all coordinated by your quality preference. If you want the full monty of quality, 
+ expect a loading bar for 2 minutes. But you're best to stick with medium quality. But other than 
+ that, get your Extra 300s stunt plane, take off from Berlin, and don't look down!
+  
+  Dylmiester 
+::::::
+
+::::::
+UserName: arthursiew
+Rating: 9
+Date: Feb 19, 2009 3:34 pm PT
+Review:  This flight simulator is no doubt one of the best ones out in the market. I think that this would 
+ be the best for those who don't have a computer that meets Flight Simulator X's requirements. 
+ 
+  Flight Simulator 2004 offers a great selection of planes. You can fly commercial planes such as 
+ Boeing 747s, 777s, 737, etc. or older planes such as the Wright Brother's plane. You can also download 
+ third party aircraft for free on websites such as simviation. com. 
+  Creating a Flight is a fun, yet simple way of releasing boredom. You can fly to many different 
+ places. I tried flying from San Francisco to Shanghai and it took about 30 minutes, but you will 
+ have to raise the Simulation Speed otherwise it would take as long as it would take to fly there 
+ which would be thirteen hours. 
+  There are also a great selection of airports. There are lots of them in the United States as well 
+ as ones outside of the country. 
+  Flight Simulator 2004 is a very realistic flight simulator and anybody with a computer that can't 
+ run Flight Simulator X should get a copy. 
+::::::
+
+::::::
+UserName: Colezatharvey
+Rating: 7.5
+Date: Jan 25, 2009 10:49 am PT
+Review:  Overall, FS2004 is a good game. You can fly any where in th world, land at at any airport in the 
+ world.......... but after a while, it starts to get boring. There should be more planes, the current 
+ ones are slow and boring, better scenery, the ground is flat!, and when you hit a building or the 
+ ground, you should crash, but you don't, you just go straight through it, bounce off the ground 
+ and continue flying unharmed!
+  
+  On the plus side, the planes are easy enough to fly when you get used to it (apart from helicopters, 
+ they are ridiculously hard to fly) . You can also go sightseeing around the world, statue of liberty, 
+ london eye, eiffel tower, etc.
+  
+  Sadly, I can't get FSX because I need to upgrade my PC, but I have heard it is good, apparently 
+ it has missions to complete, unlike FS2004, and many more planes.
+  
+  I really like the feature which allows you to capture photos and videos, and the many different 
+ veiws that you can play from. 
+::::::
+
+::::::
+UserName: Human_Flaw
+Rating: 8.5
+Date: Aug 25, 2008 9:02 am PT
+Review:  Microsoft Flight Simulator 2004: A Century of Flight was released in July of 2003, but is still 
+ one of the most enjoyable and comprehensive flight simulator packages around... And one of Microsoft's 
+ best Flight Simulator products to date.
+  
+  Ironically, FS2004's main strength is it is (now) five years old. Most modern computers that are 
+ configured for gaming and equipped with a fast CPU and mid-to-high-end standalone graphics card 
+ will have no problem running this game at high resolutions with all the graphical details and effects 
+ set to near maximum. This alone makes FS2004 a more viable alternative to casual gamers who want 
+ to fly, but don't have top-of-the-line gaming PCs required to run the latest edition of Flight 
+ Simulator, MS Flight Simulator X (10) , released in 2006. 
+  
+  Also, FS2004's installed disk space is just over three Gigabytes. In contrast, MS Flight Simulator 
+ X is 15 Gigabytes when installed. This means FS2004's overall system footprint is much smaller 
+ and less taxing on systems as a whole. 
+  
+  In addition to FS2004 not being very resource intensive, it's other main strength lies in the virtual 
+ flight model and the open-ended world pilots can fly in compared to previous versions of the series. 
+ There are approximately 24,000 airports, big and small, modeled in a virtual world that spans the 
+ entire globe. This "sand box" approach has been a staple of the MS Flight series since the beginning, 
+ and FS2004 expands and improves on it compared to its predecessors, MS Flight Simulator 2002, and 
+ 2000. No longer are virtual pilots limited to just a few airports on various continents. They now 
+ have the entire Earth to fly around in and explore at their leisure. 
+  
+  FS2004's main content celebrates 100 years of civilian flight. This includes historic milestones 
+ in aviation like the Wright Brothers first flight at Kitty Hawk, Charles Lindberg crossing the 
+ Atlantic Ocean, and other historical flights and scenarios from the 20th century. Not only can 
+ you read about these historic flights, but you can also experience them by flying the actual aircraft 
+ and following the documented routes their real life counter-parts used when they accomplished these 
+ history making flights. If you favor the Golden Age of aviation, before jet engines and modern 
+ avionics, then FS2004 is definitely a game for you because its attention to detail and focus on 
+ this era is unprecedented.
+  
+  Conversely, most of FS2004's modern aircraft offerings is pretty standard. Included are single 
+ engine GA (General Aviation) planes like Cessnas, twin engine jet planes like Lear jets and of 
+ course, large commercial jetliners like 747s and 737s. Two helicopters are also included, the Bell 
+ Jet Ranger and a light German Helicopter, but like in previous MS Flight Simulator games these 
+ are more of an afterthought to try and vary the number of available aircraft that can be flown. 
+ The aerodynamics of the helos are not accurate and as a result, almost impossible to fly. Thankfully, 
+ this is where third-party addons, freeware and payware, play a significant role in expanding FS2004's 
+ replayability and functionality. There are thousands of aircraft available for download from various 
+ websites and this is where FS2004 and most of the MS Flight series true potential is unleashed.
+ 
+  
+  Microsoft Flight Simulator 2004: A Century of Flight is an excellent addition to the MS Flight 
+ Simulator lineup of games and a very comprehensive flight simulator package overall. Even though 
+ it is aging and has slightly below average graphics, it still has a a lot to offer flight simulation 
+ fans both new and old. Its celebration of the first 100 years of civilian flight is unique and 
+ unparalleled in any flight simulator to date. The ability to fly almost anywhere in the world has 
+ been improved on the most in this edition compared to previous versions. Many flight sim communities 
+ are still supporting FS2004 after five years with various addons, so this simulator's future still 
+ looks bright and beaming with possibilities for years to come. 
+::::::
+
+::::::
+UserName: Destructabom
+Rating: 9.5
+Date: Nov 12, 2008 8:02 am PT
+Review:  I first bought flight unlimited 3 for my computer, went on it and it was rubbish graphics rubbish 
+ gameplay rubbish overall rubbish. Then i was looking around shops for a new flight sim and i found 
+ this and what a game it is. 
+  
+  I first went on it not knowing anything about flying a plane but after taking the lessons i now 
+ know how to do lots of things. It teaches you over many different lessons each one expanding your 
+ knowledge of flight. 
+  
+  I then went in search of extra downloads and found a number of great websites specialising in this 
+ game. for example www. flightsimworld. com this has lots of aircraft for download. 
+  
+  I love the way this game uses real satellite images for the world even though you cant really see 
+ it clearly until you are around 7,000 feet. 
+  
+  The buildings in the game is one let down for me though they are not detailed enough. It looks 
+ like no attention has been paid to them at all. 
+  
+  The aircraft are amazing there is a lot of detail in the panels and the actual aircraft. 
+  
+ 
+  Good:
+  . Aircraft
+  . Graphics
+  . AI
+  . Game play
+  . Lessons
+  .
+  Bad:
+  . Not enough time spent on the buildings 
+  . No multiplayer anymore
+  
+  Overall i rated this 
+ game 9.5 because i believe that this game is brilliant 
+::::::
+
+::::::
+UserName: maybe137
+Rating: 7.5
+Date: Jun 8, 2008 2:00 pm PT
+Review:  this is the best flysimulation game the cotpitt is real and real pilots train with this game and 
+ students that is on univercitys well i got to tell you that it's not easy like an real airplane 
+ the best choice when you first time play the game is to go to the training center and complete 
+ all the lessons then you can sturt the funnest fly from airport to airport and from country to 
+ country
+  well i was really surprises when i was flying over las vegas in the night at the game it looked 
+ exactly like lasvegas all the happy lights and over alska to the snowwy landscapes well it's hard 
+ at first you maybe not like the game but later you will just say yippi you can choose if the flight 
+ time is like real x1 or x2 and more but the highest is x64 i mean how fast the time will go and 
+ you will loose fuel lke real airplane like you cant fly from exampel from newyork to london with 
+ boeing 737-800 its small and cant have the required fuel. but exampel boeing 747 from newyork to 
+ london is the right size and the right capacity 
+::::::
+
+::::::
+UserName: pret1
+Rating: 8.5
+Date: Mar 30, 2008 9:56 am PT
+Review:  Forget about Flight Simulator X because this is THE Flight Simulator game. When I got this game 
+ I found out just how much fun flying actually is. To tell the truth I got this instead of Flight 
+ Simulator X because i know it wouldn't work so I don't really know how good X is. I would've got 
+ this game even if X did work on my PC because there's more detail about historical flights and 
+ planes and stuff. Better than the previous Flight Simulator games too. A Century of Flight is great 
+ for people who want to fly and people who just want fun flying like me. It was well worth 15.00 
+ for me. Bought it from GAME. It's good that you can fly from and to nearly any airport in the world. 
+ You can also choose if you want unlimited fuel or not. Kind of a cheat really but I don't care. 
+ And you can adjust how realistic your flight is too. You can fly the 1903 Wright Flyer to the new 
+ Boeing 777-300. My personal favourite plane is the Mooney 'Bravo'. 
+::::::
+
+::::::
+UserName: savetehhaloz
+Rating: 8
+Date: Feb 17, 2008 1:20 pm PT
+Review:  When most people think of a flight simulator, many people think of Microsoft's Flight Simulator 
+ series. FS2004 improves upon FS2002 but doesnt really change all that much except offer a bit more 
+ eye-candy and historical airplanes. This however doesnt take away the fun of flying a 747 through 
+ areas you aren't supposed to. However, if you want to be authentic as possible you can set up your 
+ own flight using the flight planner. FS2004 offers and in game real time GPS and fully working 
+ dials. It also offers an interactive virtual cockpit (you can change your view of the aircraft) . 
+ The game however doesn't offer all that much except for add-on aircraft and some missions. This 
+ however will bore many people unless you are a real airplane afficionado. 
+  It is recommended to rent this game first before buying but if you really like airplanes it is 
+ recommended for its realism and add-on aircraft. 
+  
+  Reccomended over FSX. 
+::::::
+
+::::::
+UserName: stanger277
+Rating: 8.5
+Date: Dec 21, 2007 2:54 pm PT
+Review:  This is a very solid flight simulator that is very realistic. The airports are nicely designed 
+ and the planes are realistic. But they could look a bit better. The default crash scene is very 
+ bad but with the right add-on that can be fixed. There are some problems with the flight physics 
+ at high altitudes, but only with certain planes. Everything else is as real as it can get , such 
+ as the instruments or the failures. One major problem I have to point out is that sometimes your 
+ plane sinks into the runway and you crash. Everything else is great. 
+::::::
+
+::::::
+UserName: ClassySloth
+Rating: 8.5
+Date: Nov 8, 2007 8:24 am PT
+Review:  This game right here is the best bet you have in the Flight Simulator series so far. To be honest, 
+ Flight Simulator X cannot even compare. I mean sure, it has fancy next-gen graphics not yet paralelled 
+ by any other PC Flight Sim, but you need a killer computer to run it, and alot of patience. This 
+ game meets everyone halfway, while not compromising ANYTHING. Exceptional graphics, a wide variety 
+ of add-ons, and enough airports to make even the most decisive person go nuts trying to settle 
+ on a destination. I think they've done extremely well with this game, and the add-ons only enrich 
+ the game. Ever try to land a Cessna 172P on a moving carrier? I can say I virtually have. Ever 
+ launch a Boeing 747 off a carrier deck and make it? Yup, that too, thanks to a great program called 
+ 3wire. You can make endless scenarios. You can choose from a pre-made Microsoft flight, such as 
+ Lindbergh's flight across the Atlantic, or the first flight at Kitty Hawk. If you have a really 
+ creative mind, you can make up some strange scenarios of your own. I flew a 747 from Alaska to 
+ somewhere in Mongolia, and landed with 1% of my fuel supply left, and.. umm... heheh, I crashed on 
+ landing. But in all seriousness, if you want to make a scenario/fly to a local airport, I'll be 
+ you it's in here.
+  My only pet peeve with this game was that it took awhile to load if you slewed to another location, 
+ or if you went to a high altitude, and I'd like a bit of space activity in this (c'mon!! the X-15 
+ can go past 100k feet!) , but other than that, this game was good. Definitely worth checking your 
+ local game retailer for (you could probably pick it up at $19.99, as opposed to Wal*Mart's rip-off 
+ price of $29.99) 
+::::::
+
+::::::
+UserName: Lukemaneiro
+Rating: 8.5
+Date: Oct 12, 2007 6:15 pm PT
+Review:  I have to say, I never had a big interest in flying... but once I put my hands on Microsoft: Flight 
+ Simulator 2004, I knew it had something different. All the things you can do, all the things you 
+ can learn from this game.
+  
+  The gameplay is amazing. Just amazing. Airplane panels have many, many functions, though the controls 
+ can be really confusing, since you should be overloaded with them.
+  
+  It has good graphics, though some places are REALLY different from reality... such as S&atilde; o 
+ Paulo, a big... REALLY big city in Brazil. It was, basically, a desert with a few houses. Though 
+ you can't have a whole world in 4 CD-ROM's, as I would say.
+  
+  The sounds are great, gameplay is terrific, but you the game feels a lot different when played 
+ on a joystick, so if you're going to buy this, you should get one.
+  
+  Basically, Flight Simulator 2004 has done its job. It's a realistic, fun simulator. A MUST buy 
+ for every person who enjoys flying... and also the ones that have a passive interest on it as well. 
+ 
+::::::
+
+::::::
+UserName: SMR-Venom
+Rating: 9.8
+Date: Jun 21, 2007 9:23 am PT
+Review:  Flight Simulator 2004 celebrates a century of man made flight ever since the Wright Brothers flew 
+ in 1903. This game exceeds its predecessors in all ways. Great graphics, sound, gameplay, multiplayer, 
+ and just great fun. FS2004 has many airplanes from a small Cessna to a huge Boeing 747. Not to 
+ mention all the add-on airplanes on the web. There are so many add-ons for this game, it is just 
+ amazing and always makes you coming back for more. There are 24,000 airports so you will not be 
+ putting this game down soon. Multiplayer is great. There is nothing like the feel of accomplishment 
+ when you complete a stunt maneuver with your friend online. All in all, Flight Simulator 2004 is 
+ a superb addition to the FS series and the best flight sim on the market. Any flight sim fan or 
+ just a person looking for something new should definitely buy this game. 
+::::::
+
+::::::
+UserName: Dark_scrolls
+Rating: 9.4
+Date: Jun 16, 2007 1:34 am PT
+Review:  Flight Simulator 2004 is by far the best Simulator to date. It comes with beautiful and realistic 
+ landcape, oceans, clouds, rain etc and it has all the airports in the world! You can take the well 
+ made tutorials on how to fly different aircrafts or you can venture into the skies on your own. 
+ There are also third party websites that provide addons that will further enhance your experience 
+ with flight simulator 2004. The downside of this game is that it has very limited aircraft when 
+ you install it. However you can add all your favourite airlines and aircraft by downloading them 
+ from third party designers. I highly recommend playing this game with a joystick as it makes it 
+ even more realistic. You can also play with your keyboard but it will be harder and less fun. 
+::::::
+
+::::::
+UserName: AirborneAce
+Rating: 9.5
+Date: Apr 8, 2007 10:32 am PT
+Review:  Ive been around airplanes my whole life, and have been flying in planes since I was 3 or 4 years 
+ old. That said, flying is unfortunately an expensive hobby and not everyone can pursue it or fly 
+ as much as they'd like. That's where flight simulator comes in.
+  
+  At first I was considering Flight Simulator X, Microsoft's latest version, but after trying the 
+ Demo and talking to some flight sim fans, I decided against it. X really taxes your system and 
+ lags a lot. (If you saw the commercials on TV, they even showed a bit of lag) . FS 2004 is the next-to-latest 
+ version an d boy does it deliver. Not only does it have your usual mix of props and jets, it also 
+ throws in a handful of classic and historical aircraft to try your hand at. There's a whole section 
+ of the game devoted to these planes and their history. You can read articles about each of them 
+ and the game has dozens and dozens of real-world flights these planes made. Want to try your hand 
+ at Lindberg's flight across the Atlantic in 2-hour bursts? You can do it! Want to see how the mail 
+ was flown from New York to Chicago in the 1920s? They have that too. You can even try your hand 
+ at the Wright Flyer to see where it all began.
+  
+  Besides the historical flights, there's also a hefty bit of flight lesson content in the game. 
+ Articles complete with mini-videos cover almost all the aspects of flight. Everything from landings 
+ to navigation to airspace are covered in easy to read articles with plenty of graphics to accompany 
+ them. There's also a full set of flight lessons you can take which are fully narrated and are a 
+ great teaching tool. I found them particularly helpful since Im starting flight school soon.
+  
+  The only downside to FS 2004 is that the graphics aren't the best. Of course, imagine how bad 
+ the game would chug if it did have life-like graphics. They do the job, however, and you can easily 
+ load up your local airport and fly around and recognize the area. Things like railroads, highways, 
+ radio towers, lakes and mountains are all there and bigger cities include multistory buildings 
+ to add to the atmosphere. Keep in mind though, that flying at 5,000+ feet you can't really notice 
+ all the buildings on the ground (even in real life) so its not that big of a deal.
+  
+  This sim sells for about 20 bucks at your local WallyWorld, so there's no reason not to pick up 
+ this great sim if you're a fan of aviation. 
+::::::
+
+::::::
+UserName: ACESandElGHTS
+Rating: 8.4
+Date: Feb 6, 2007 7:42 pm PT
+Review:  I bought Microsoft's first flight simulator back in 1984. Yeah, I'm old, so what. Thing is, I loved 
+ that game above all else. Sure, I put it away to play Epyx Summer Games and GI Joe and Electronic 
+ Arts' Racing Destruction Set and Skate or Die!, but that didn't mean I loved the game any less.
+ 
+  From the drone of the propeller of your single engine plane to the view from the side window as 
+ you guide it off the ground and look over Lake Michigan to the view of a fully-lit LaGuardia Airport 
+ with New York in the background, the game was total magic.
+  If it was that cool in 1984, imagine what 2004 must look and feel like. Still pure bliss to jump 
+ in and start flying. In fact, consider this an endorsement for every version of Flight Simulator, 
+ though I particularly liked this one for its inclusion of historic milestones in flight, starting 
+ with the Wright Flyer.
+  I never thought flying with a group of other nerdy characters would be fun, but you'd be surprised 
+ how cool it is to get online and pick an airport and go fly planes with... people you've never 
+ met. Good times. 
+::::::
+
+::::::
+UserName: CloudedFuture
+Rating: 8.9
+Date: Jan 30, 2007 12:09 pm PT
+Review:  This is A fantastic game. Howver, If you wish to fly without hitting the ground every 15 seconds 
+ you'll be best getting a Joystick. It makes it alot easier to keep your plane steady.
+  
+  This game has alot of Aircraft to choose from and you can Literaly Fly all over the world. This 
+ will keep you occupied for A long time. You can also choose from several Famous Historic flights, 
+ Such as the wright brothers flight at Kittyhawk or any others.
+  
+  If you want A game to make yourself feel like A Pilot then this is the game for you. I definately 
+ Reccomend it to anyone. 
+::::::
+
+::::::
+UserName: Corrosion
+Rating: 8
+Date: Jan 15, 2007 6:53 am PT
+Review:  I opted for Microsoft Flight Simulator: 2004 when I found out (like hundreds of others) that I 
+ could not be able to run MS: FSX (the new one currently out) on decent frame rates, as my computer 
+ hardware consists of low end junk. Fortunately, I could crank up the settings for this game on 
+ high with absolutely no problems.
+  
+  MS: FS 2004 is a superb game, even if it is (as of this writing) outdated , though by not too much. 
+ That shouldn't really turn you off if you could not play FSX, as playing this game is essentially 
+ the same as playing the new one. The only difference being the graphics. FS 2004 is fantastic with 
+ the environments and sound. Flying over numerous airports can be a great experience even if you 
+ aren't a real pilot but a virtual one. Not to mention the planes and other aircraft are well done.
+ 
+  
+  Apart from some crappy, old textures close up and weird physics (plane crashes look so fake; some 
+ unrealistic plane movements) , there are several beautiful scenarios that are to found throughout 
+ this virtual world. Flying over Hong Kong at dusk is my favorite. Dozens of single player missions 
+ should keep you busy before moving on to your own custom scenarios. Best yet is the sheer amount 
+ of user-made items/planes etc that can be found online to download. My only complaint is that doing 
+ the same thing over and over again, that is flying, gets tiresome.
+  
+  I'd recommend this for play if you have tons of free time to kill or interested in planes or even 
+ interested in getting up in the air virtually. The learning curve is tough to master. Note: Get 
+ a joystick (or controller) ; you'll need it. 
+::::::
+
+::::::
+UserName: driver64
+Rating: 8.9
+Date: Jan 1, 2007 1:59 pm PT
+Review:  Microsoft Flight Simulator 2004
+  
+  I have a lot of fun playing FS2004; it has great graphics when your high above the ground; the 
+ outside of the planes are amazingly nice but the cockpit could look a lot better. The game play 
+ is great fun and I have a lot of fun flying!
+  
+  I think there should be at least six or seven passenger jet liners- [ (some from Bombardier and 
+ Airbus and more from Boeing) ] -even though the game is about the history of flight.
+  
+  This game is definitely worth your money if you enjoy simulators like and realisim!
+  
+  (I am)
+ 
+  9.0 SUPERB! 
+::::::
+
+::::::
+UserName: rbish1
+Rating: 8.4
+Date: Dec 6, 2006 4:25 pm PT
+Review:  I had not tried a simulation before. Ten minutes into my intro flight, I had felt as though I had 
+ landed an airplane on my own, Perhaps even more so ; I felt confident that I could do the real 
+ thing if I had to. Between flight instructions, I would take off in an historical aircraft, do 
+ a big circle and touch down on the landing strip. I had flown the Wright brothers craft, the first 
+ airmail flight, The one that Lindy flew to Paris. Does it sound as though I am talking about the 
+ REAL thing? Well,,,, one gets that feeling. 
+::::::
+
+::::::
+UserName: thelibertyjap
+Rating: 8.7
+Date: Oct 7, 2006 12:21 pm PT
+Review:  Flight Simulator 2004 was not a ground breaking title. Instead, it built upon the new features 
+ added in 2002. This series has been known to produce on a cycle of 4 years. Starting with FS 98, 
+ this game was revolutionary for its time. When FS2000 was released, it felt similar to 98 with 
+ some added enhancements. With the release of FS2002 there were a load of new features including 
+ ATC, among other things. Every other title released in the series is a addon, if you will, from 
+ the previous version. The title following the addon tends to feel like a completely reworked game 
+ with many new features that change the feel of the game. Sadly 2004 feel on the off year where 
+ a addon feeling game was produced.
+  
+  FS2004, although not earth shattering, reinforced the new features from 2002. The atc options have 
+ become much more thorough with smarter ai traffic and controllers. Graphics have improved slightly 
+ along with detail within airports. In the end, the only reason to buy this game is just to stay 
+ current with the community. There hasn't been much of a change since the previous version and the 
+ new planes featured, mostly vintage, are only worth noting. 
+::::::
+
+::::::
+UserName: steven141
+Rating: 8.8
+Date: Aug 20, 2006 5:26 pm PT
+Review:  This game has been out for a few years now but nevertheless it is still a great game to play. The 
+ graphics are good considering it came out in 2003 and there are lots to do.
+  
+  This simulator is used by some trainees that want to be pilots in the future due to the amount 
+ of detail in this game also.
+  
+  You have a variety of aircraft to choose from and ones you can download too. There are thousands 
+ of airports to choose from ranging from dirt runways to international airports such as heathrow. 
+ If you happened to get bored during a long haul flight you could always put autopilot on and go 
+ do something else for a while by setting the altitude etc. However if you are manually flying you 
+ could use the gps to navigate where to go which does help (trust me) . Again the amount of detail 
+ there is, is terrific, near all the buttons and levers in the cockpit are useable and also your 
+ aircraft could have failures of some sort and you may need to try to restart your engines etc. 
+ 
+  
+  To start you could take the flying lessons to find out how to operate the plane which is highly 
+ advisable and useful ( although iv never done them except 1) because at first it is very hard (especially 
+ landing which is most difficult) and also lets you try out each stage.
+  
+  There is an option of online play too although i have no idea how to use it since it just wont 
+ work. I am told it is great and obviously there would be other people there waiting to take off, 
+ taxi etc so you cant que jump or if you do i think you would most probably be kicked from that 
+ server.
+  
+  I recommend this game to anyone interested in flying in real life or just likes flight sims. Also 
+ i highly recommend purchasing a joystick too. I personally favor the saitek evo which is absolutely 
+ astounding and is not too expensive.
+  
+  Thank you for reading. 
+::::::
+
+::::::
+UserName: Tyronecarr2
+Rating: 9.6
+Date: Aug 15, 2006 9:39 am PT
+Review:  Microsoft's Flight Simulator 2004 is truely an Excellent work of art visually and in concept. With 
+ the right hardware FS2004 is a stunning vision of the world of flight on your Monitor. I, personally, 
+ have played numerous Flight Sims and this one literally takes the cake. From every aspect of the 
+ game it is "As real as it gets." The weather of FS2004, with the 'Real World Weather" feature makes 
+ flying a more exciting experience. The new planes and the thousands of airports give the player 
+ more to be immersed in. If anyone is really an enthusist or even has the slightest interest in 
+ Aviation then this is the game for you. This game is well worth the cost but look out because a 
+ new addition to the Flight Simulator Series is on it's way this October, Flight Simulator X. Check 
+ it out as well. 
+::::::
+
+::::::
+UserName: ripstamk
+Rating: 8.9
+Date: Aug 9, 2006 12:51 pm PT
+Review:  Lots to do and see for the experienced and new simmer. 
+  
+  It looks dated now but gameplay wise is still great and there is nothing more satisfying than flying 
+ a full proc landing into a busy international airport with real world weather especially when you 
+ nail it dead centre while crabbing into land.
+  Loads of free and payware addons to download or buy in the shops.
+  
+  great to pick up and just 
+ have a blast buzzin around one of the many detailed cities as a new flyer but put in the time to 
+ learn about the fine arts of pcpiloting and you will get so much more out of this than just your 
+ usual gaming experience.
+  
+  Easy to learn but it can take a lot of time and commitment to master it.
+  
+  sooooo looking 
+ forward to fsx! 
+::::::
+
+::::::
+UserName: gapd0rmen132
+Rating: 9.7
+Date: Aug 11, 2006 10:36 am PT
+Review:  When it comes to feeling like you're piloting a small plane over the Grand Canyon, only to find 
+ yourself sitting in front of a computer monitor well Microsoft Flight Simulator 2004 does just 
+ that. In other words... this game is very immersive. 
+  The graphics are great, small details like trees, boats, clouds, and A. I. planes sharing the skies 
+ with you really brings the Flight Simulator world to life. When connencted to the internet you 
+ can also download real world weather so for example if its cloudy and drizzling lightly around 
+ the area you live when you download the real world weather into flight simulator it's cloudy and 
+ drizzling lightly in the simulation talk about immersive.
+  The sound is really where this game lacks in although enviromental sounds like rain, thunder, etc 
+ sound realistic and just like the real thing the jets (only the jets not the props, turboprops, 
+ or piston planes) sound like over sized vaccum cleaners, for example, if you accelerate the engines 
+ on the 737-400 they dont emit a loud roar but more like a low windy sound which is hard to describe. 
+ Although some of the jet sounds don't sound like they should you can always download new ones from 
+ the internet for free.
+  Although there are very few defualt aircraft to choose from there are hundreds free to download 
+ from the internet. Not only can you download new aircraft but new textures and effects, from new 
+ water textures all the way to new enviromental lighting effects all these add ons and mods improve 
+ and make the game look and feel even more realistic. 
+  One of the greatest things about this game is its replay value. This game will last you about the 
+ ammount of time until the next version of flight simulator comes out.
+  Overall this is a great game and I highly recommend it to people who always wanted to fly an actual 
+ plane, an interest in aviation, or looking for something new. 
+::::::
+
+::::::
+UserName: spymaster2301
+Rating: 7.5
+Date: Aug 9, 2006 10:08 am PT
+Review:  This simulator is very realistic with clouds suns and shadows and even rain. There is even a option 
+ to use real time weather which is updated ever 15 minutes or so. You will have more fun if you 
+ have a joy stick because flying will become more easy and the more control you have over you r 
+ aircraft. Before I had this I had another flight simulator it was called X-PLANE. The bad thing 
+ is that I lost it some time ago. So I bought this one. I found it better then X-PLANE because it 
+ had better options, how ever I hated to see the not much variety of planes in this. There was no 
+ military planes or even space ship like the other one. So this lowered the score. Other than this 
+ bad it is all good. 
+::::::
+
+::::::
+UserName: tp640871
+Rating: 9.6
+Date: Aug 9, 2006 3:36 am PT
+Review:  At least, until FS X comes out.
+  
+  The sound is realistic, the graphics are nice but a bit dated as of now, but when it was released 
+ it was very nice, especially if compared to earlier versions. The virtual (3D) cockpit is really 
+ nice, though a bit ugly with the throttles and buttons you can't use since they are blurred.
+  
+  The historical planes and flights are of course nice to have but don't really interest me that 
+ much. The historical value and what you learn is of course good but as for deciding to fly the 
+ Wright brother's plane or Learjet... there is no question for me, Learjet all the way.
+  
+  The third party content is enormous and there are thousands of planes for download on the web, 
+ both freeware and payware. Not speaking of which, the ATC functions are cool too.
+  
+  The only let-down is the multiplayer support, I tried it once but was disappointed, though I've 
+ heard this will be fixed in the new version.
+  
+  It covers the entire globe and has more than 24,000 airports. But if you should buy it now, no, 
+ don't. Flight Simulator X will be released in a few months and it seems a LOT better. 
+::::::
+
+::::::
+UserName: matthewlux
+Rating: 10
+Date: Aug 1, 2006 8:43 am PT
+Review:  This game is OK on it's own but you should look on the web for free downloads that addon to your 
+ game and make it much better. For example for realistic AI traffic go to: www. projectai. com (Make 
+ sure you have TTools on your PC [just look for TTools on Google] ) This makes realistic AI traffic 
+ and more planes for you to fly. The graphics and sound are excellent and the gameplay is excellent. 
+ Buy this game if you can't wait but know that the next FS game (Flight Simulator X) is coming out 
+ on Wiindows Vista at the end of 2006. 
+::::::
+
+::::::
+UserName: halofreak3487
+Rating: 9.6
+Date: Aug 13, 2006 9:48 pm PT
+Review:  Picked this game up for $30 and it was worth it, hours and hours of Flight training.
+  
+  --Graphics --
+  I was a little dissapointed when i played the game, because from the screenshots 
+ on the box and Gamespot, the game had awesome graphics, i turned everything on High, still wasn't 
+ clear, but for a standard simulation game, this game is the one to pick up. I don't notice that 
+ much frame rate issues. and the graphics are decent from a far view.
+  
+  --Sound --
+  The sound in this game is excellent, the people in the control tower sound real, and plus the flight 
+ instructor actually knows what he's talking about.
+  
+  --Gameplay --
+  Extremly difficult for me to master, but yet none the less had to do all the tutorials and still 
+ i only know the basics (take off - flight - landing) but theres much more then that, when you take 
+ off you have to wait for clearance (which i don't do) , in flight you have to talk to control tower 
+ (which i just push random stuff) , landing... i land... but very sloppy.
+  
+  --Value --
+  A should have game for every pilot.
+  
+  --Overall --
+  If your going to be a future pilot pick 
+ this game up, flight instructor already there, historical flights for you to try out, in other 
+ terms --- Realistic. 
+::::::
+
+::::::
+UserName: usmc123456
+Rating: 9.4
+Date: Jul 18, 2006 4:01 pm PT
+Review:  Microsoft Flight Simulator 2004 is an exellent game, the graphic are shabby but fail to push any 
+ boundaries like the ground is not very well detailed and the trees are just green spots and when 
+ you get close theyre 3D and slightly blocky but onto the gmeplay. The gamplay is exellent although 
+ the controls are tricky, there's alot of controls, and it get's confusing. One your in the air 
+ it all changes you can fly look at any landmarks and get to your destination. There is tons of 
+ places to go, anywhere in the world, and theres ton of areas like one city or town could have 8 
+ places to land. This game is fun and Immersive a 9.5 
+::::::
+
+::::::
+UserName: Nalanji
+Rating: 9.6
+Date: Jun 25, 2006 7:11 am PT
+Review:  I am an addict to desktop flying. I fly for a virtual airline, they suggest use of Flight Simulator 
+ 2004 because it is so GOOD! www. vacanada. org is my personal airline. 
+  
+  Gameplay 10/10 ~ You can't get any more real then this, it is so real, and if you do somthing wrong, 
+ the concequences are pretty harsh...
+  
+  Audio 10/10 ~ FS 2004 has amazing sound. The engines revving up and finally at full blast in the 
+ air. The control tower, the gear and flap movements, all just amazing.
+  
+  Graphics 9/10 ~ The game is SO BIG, so it is hard to make everywhere look amazing, but it isnt 
+ perfect in this dept. But they did try their best and it looks pretty good just the same!
+  
+  So please get this one! You'll have a blast! 
+::::::
+
+::::::
+UserName: thebrainiac
+Rating: 10
+Date: Jun 24, 2006 12:29 am PT
+Review:  This is an amazing flight sim game. In the first 2 days i had it i spent 12 hours playing the intro 
+ levels!!! its got loads of addons you can get and some freeware too. the graphics are good and 
+ the sounds are quite realistic apart from the ATC voices, but this can easily be fixed if you get 
+ an ATC addon because they come with better voices. Flying with the keyboard is a real pain, if 
+ you get this game make sure that you buy a good joystick too. Dont get a wireless joystick because 
+ they can have slower reaction times, so you would be more liable to crash (if you find a good wireless 
+ joystick, please message me because i HATE cables, yet i want a good performance) . You can easily 
+ spend hundreds of pounds on addons for this game, but i treccomend that you buy from a reccomended 
+ dealer. 
+  
+  Overall this is an amazing game and you'd have to be nuts not to get it if you like flight sims. 
+ Even if you only think you might like a flight sim you should get this.
+  
+  regards,
+  
+  thebrainiac 
+::::::
+
+::::::
+UserName: J-mE_16
+Rating: 8.8
+Date: Jun 18, 2006 5:52 pm PT
+Review:  are you wanting to be a future pilot... or simply just want to fly planes or just want to own a 
+ plane and just want to fly around. well this is the game foir you. it does get a bit boring, just 
+ flying a plane around all day, to me it gets quite boring but its still a great game. with great 
+ graphics and a real simulator youll feel like your flying the real thing. if you want to start off 
+ and youve never played before than theres the tetorial that teaches you everything. from taking 
+ off to flying to the last stage landing. its a great game for all you airplane guys. even me. there 
+ are also more highly advanced aircraft games like x- plane but this is still a good game to start 
+ off with, learn with, and to just fly around and test your skills. if you want a air game you can 
+ go buy this one no problem 
+::::::
+
+::::::
+UserName: souldier_man
+Rating: 9.6
+Date: Jun 4, 2006 11:23 am PT
+Review:  this game i mean sim is great. the atc usaly gets it right occasionaly i will almost hit a boeing 
+ during landing. you must have a joystick or a yoke and pedals. also if you get board of the planes 
+ ,there are thousands of the on the internet. this game is realistic and enjoyable. ut if you want 
+ combat don't geet this sim. the online is fun. on a 200 player server it is fun if every one is 
+ in the same genral area. i recommend this game to any sim fan or any one that flys real planes. even 
+ people who are just getting interested in flight. i didn't know anyything about flying but the learning 
+ center helped me alot. also the community around this gameis very friendly. and when you fly you 
+ feel like you have been somewhere. 
+::::::
+
+::::::
+UserName: fireball2888
+Rating: 9.3
+Date: May 15, 2006 3:36 pm PT
+Review:  This game is nothing less than great. To start, it's just so massive- you''ve got the ENTIRE planet 
+ to fly ANYWHERE! from N. Y. C. to the Pyramids to the Himalayas and beyond! and even that is nothing- 
+ The game has a MASSIVE online Addon database, form military, Scenery, civil, effects, and on and 
+ on. Flying online is even more fun, although the connection isn't that fast, so other peoples planes 
+ tend to lag, and also, if the other person has an aircraft you don't have, they just show up as 
+ a Cessna. but that's probably the only weakness. learnign the basics only takes about 30 minutes, 
+ but the more complicated stuff takes a long time/
+  
+  Gameplay- From takeoff, to the climb to cruise speed and flying altitude, to the landing and shut 
+ down, this game keeps you addicted. while many say that you won't enjoy it as much if your not 
+ into Aviation- that's wrong. there's plenty of scenery to explore, you can do great tricks, even 
+ change realism settings to your liking. Multiplayer makes it even more fun, because you can fly 
+ formation, and do long hops from 1 airport to another. the only reason i didn't give it a 10 is 
+ because after doing long flights, you tend to get bored, and flying in singleplayer is very boring 
+ in long flights, because you pretty much just put on autopilot and go get a drink and a snack or 
+ watch TV, because you'll be bored out of your mind when your just sitting there. But overall, this 
+ game is just fun, but you have to at least like aviation a tiny bit to enjoy it for long periods.
+ 
+  
+  Graphics- Well, the graphics are overall great. the default FS aircraft are very highly detailed, 
+ from the cockpit to Virtual cockpit to outside. this game has good lighting as well. the effects 
+ are, well, alright. the smoke effects are good, but other than that the default effects are alright. 
+ the other thing i didn't like about it, is this- when your 50,00 feet , the scenery is great, th 
+ clouds look good, not excellent, but when your 300 feet of so off the ground, the scenery isn't 
+ good. it's boring, and the trees are 2d. the buildings look crappy, and have undetailed textures. 
+ when your real close, the ground texture is real blurry. as a side note, 50% of the world is undetailed, 
+ and has randomly generated scenery. that's really the only thing bad about the graphics. but, thank 
+ god for the online comunity! online, you'll find thousands of scenery add ons, and some aircraft 
+ are INCREDIBLY detailed. there is pretty much no limit to how detailed aircraft producers can make 
+ there planes. i give graphics an 8/10.
+  
+  Sound- OUTSTANDING! the sound folllows the percent of throttle you have up, from gear sounds to 
+ flaps to start up to shut down to door opens... so many different sounds, and the quality is great 
+ too. there is absolutely NO flaws in the dound, i thought it was excellent.
+  
+  Value- the game's value is still very high, as the community has grown so huge, and th gameplay 
+ is great. but since at the end of this year the new Flight Sim will come out, i didn't give is 
+ a 10, but i still highly reccomend buying it. 
+  
+  Well, there you have it. Every day, i get into Teamspeak with my friend. and we go flying for hours, 
+ on an online server. there's times when i'll stop playing for a bit, but i lways quickly come back. 
+ this game is even better than World of Warcraft in many aspects. well, i hope more people will 
+ get FS, and i hope you enjoyed this review.
+  
+  Sorry for the typos :P 
+::::::
+
+::::::
+UserName: mkiritici
+Rating: 8.8
+Date: May 12, 2006 3:16 am PT
+Review:  When I first heard about this game, I really felt that I should have it. For years I have been 
+ searching it to buy, but unfortunately in our country it is so difficult to find original games. Then 
+ one day I found it and paid a lot of money. I have been playing snce, and I can say that this game 
+ extremely helped me. I am now a virtual pilot on a legal Virtual Flying site. I bought lots of equipments 
+ and made my own cockpit, It gave me a lot, So I can say everybody must have it. First of all, it 
+ is so difficult, so you can never fed up with playing, everyday you learn something else. Searcing 
+ for updates, new planes, new tactics. The game is renewing itself. 
+::::::
+
+::::::
+UserName: girik9
+Rating: 9.3
+Date: Apr 15, 2006 5:40 am PT
+Review:  GOOD:
+  
+  Over 24,000 airports to fly to all around the world
+  Vast expansive landscapes
+  Wide range of planes to choose from
+  Very intutive controls; easy 
+ to control
+  Highly addictive
+  Very replayable, this will keep you engaged for months
+  Graphics are great; good draw distance
+  Good range of missions to choose from
+  
+  BAD:
+  
+ 
+  Steep learning curve
+  Slightly buggy
+  Need a powerful PC to run well
+  No dynamic airports/ no passengers actually get into the planes
+  Multiplayer is not really good
+ 
+  
+  OVERALL: 
+  
+  Flight sim 2004; you love it or you hate it. If you are a fan of flight sims and have some degree 
+ of a passion for flying, you should invest in this immediately, even if the next version (FSX) 
+ is coming out by the end of the year. However, if you are not a fan of sims and are not patient, 
+ you will probably hate this game. But for the others, Flight sim provides a much-needed alternative 
+ to the first person shooters and can keep you engaged for months.
+  
+::::::
+
+::::::
+UserName: unclejr
+Rating: 9.3
+Date: Mar 30, 2006 8:13 pm PT
+Review:  I have stayed up until 3 in the morning playing this game. I have played many other Flight Simulators 
+ and this one is by far the best. The aircraft controls are very easily accessible and communicating 
+ with air traffic control is now a cinch. I highly recommend flying the Bombadier Learjet, I think 
+ that is one of the easier planes to handle. Don't waste your time trying to fly the Wright Brothers 
+ first plane, because if you try to take of with more than a 5 degree angle up, you will stall. 
+ This game is a definite must buy for anybody with a love for Airplanes. 
+::::::
+
+::::::
+UserName: SWTTVGfreak
+Rating: 9.6
+Date: Mar 25, 2006 4:27 pm PT
+Review:  Microsoft Flight Simulator 2004 puts you behing the yoke of tons of airplanes. Ranging from the 
+ 1903 Wright Flyer, to the 777-300. The game world is the biggest game world I've ever played. You 
+ can fly anywere anytime. Then you can go onto sites like avsim ( http://www. avsim. com/ ) surclaro 
+ ( http://www. surclaro. com/ ) and Project Open Sky ( http://www. projectopensky. com/ ) and add on 
+ tons of airplanes, scenery etc. But be careful there are things I reccomend before you rush out 
+ and get this game. 1st GET A JOYSTICK, it makes flying much easier. 2. Make sure your computer 
+ can handle it. Check out the minimum specs. Make sure your computer is well above before you consider 
+ to have a fun reliable experience. 
+::::::
+
+::::::
+UserName: jacobderosenoir
+Rating: 9.6
+Date: Mar 10, 2006 7:09 am PT
+Review:  Here's a review from a newcomer to the Flight simulator realm. Big plus for this title is the lessons 
+ you can take. A "real" virtual instructor will take your hands and bring you from a simple paper 
+ plane builder to an airliner pilot. For me it was a revelation. YOU HAVE TO GO THROUGH those lessons 
+ if you are new and quite frankly, this part of the game is not like most of the tutorial you've 
+ try and wanted to finish so that you could enjoy the real game. The lessons are very gratifying 
+ and fun to play (the instructor is somewhat funny too) . The satisfaction you get when you come 
+ out of the coulds in the "flight by instrument" lessons and find the landing road perfecly aligned 
+ in front of you is unbielievable. Learning how to fly with VOR, ILS and other instruments is a 
+ great challenge and you can wait to get your hand on more notions. Passing the final test on each 
+ steps are not that easy and when you do pass them, you get a real sense of accomplishment. You 
+ have to put the practice time but the great thing is that you're not required to pass those test 
+ in order to progress. I couldn't get the Commercial pilot test because I didn't had time to practice 
+ and also because i believe that you must have a plane stearing in order to get that far. My poor 
+ joystick wasn't precise enough to hold the required speed-altitude-bearing need to pass the test. 
+ But I was able to continue in the lessons on Airliner piloting and could get sense of why airliner 
+ captains are paid that much. 
+  
+  Now I can read an airfield chart, I know what every indicators in a planes means (the fact that 
+ you can directly activate everyone knob, button and levers in the virtual cockpit helps get in 
+ you the experience) . Keyboard shortcut still exist but you might want to get Voice commander or 
+ even the free PIlot assistant MOD on the web which will help you give verbal command to a virtual 
+ co-pilot. 
+  
+  The number of Mods you can find on the web is astounishing (planes, scenary, cockpits even boats) . 
+ This adds to the already impressive assortment of planes you get in this edition. Try to fly the 
+ Wright Flyer (first plane ever) and if you can repeat the exploit of the Wright Brother on your 
+ first flight (full realism setting of course) , you're either a reincarnation of one of them or 
+ a cheater. 
+  v 
+::::::
+
+::::::
+UserName: travis120000
+Rating: 10
+Date: Mar 10, 2006 5:22 am PT
+Review:  this is a great game if you like planes the graphics are the best if you have the right stuff for 
+ your computer wich is about 600 dollors worth of extra eqitment buts its all worth it because the 
+ flights simulators only get better every 2 years dont forget to get flight simulator x coming soon 
+ this game will alos have beter graphics than 2004 and it will also have a completly diffrent multiplayer 
+ wich will be way beter becouse the old one has lots of problems but hopefully this one will be 
+ 10 times better than the 2004 version whcih will help out alot in many ways but 2004 is still good 
+ and it does deserve some credit 
+::::::
+
+::::::
+UserName: nick41388
+Rating: 9.4
+Date: Feb 18, 2006 7:38 pm PT
+Review:  This game is easily the best flight sim on the market. You can take off/land at basically any airport 
+ in the world. If you are a beginner, then I strongly recommend NOT to just jump in and start flying. 
+ The tutorial mode teaches you everything you need to know. The ability to land on oil rigs and 
+ aircraft carriers is amazing. There are planes and helicopters such as the Wright Flyer, Spirit 
+ of St. Louis, and the Bell Ranger helicopter. If you even have the slightest itch to become a pilot, 
+ you HAVE to get this game. The joystick I recommend for this game is the Logitech Wingman. GREAT 
+ GAME 
+::::::
+
+::::::
+UserName: nivag
+Rating: 10
+Date: Feb 13, 2006 12:02 pm PT
+Review:  To be able to fly practically any plane real and imagined (I refer to the many download add-ons 
+ here) at practically any airport in the world in practically any weather and do it realistically 
+ defines this program. I can only look forward to all future developments of this program which 
+ coupled with technical advances in the hardware can only make it even better. Yes we all have our 
+ own preferences, but really, if you like flying, this is the program. To go from an all out rookie 
+ pilot to a commercial jumbo flyer takes a lot of hours and even then there is always more to learn.
+ 
+  
+  Bring on the next version! 
+::::::
+
+::::::
+UserName: Flighttester
+Rating: 9.7
+Date: Feb 12, 2006 6:12 pm PT
+Review:  Microsoft Flight Simulator has always been one of the most realistic Flight SImulation programs 
+ available for the PC. It is often called a 'game' but it's no more a 'game' than the real flight 
+ simulators are. I know, I've been working with the real thing for over 36 years and I'm both a 
+ simulation engineer and a pilot. This is as real as it gets without adding very expensive powered 
+ controls and a realistic panes separate from the 'simulated' one on the display. Adding hardware 
+ like that is even possible with FS-9 but, it is rather expensive and it really isn't needed to 
+ get plenty of value out of this program. It not only has a fairly good (certainly not perfect) 
+ flight model (the modeling of the aerodynamics for the specific airframe) but, it plenty good enough 
+ to teach the rudiments of aircraft handling, especially learning proper panel scan and instrument 
+ flying techniques. Even way back in the Commodore 64 days, the version of Flight Simulator available 
+ then (this one is definetly from the same family tree) was good enough for me to teach a (then 
+ nine-year-old) friend to understand flight instruments and procedures for him to be able to to 
+ take a real Cessna 152 (with me along) on a cross country flight of over 100 miles and find the 
+ airport exactly like he did when flying the computer. If you can remember all the 'key-codes' actually 
+ performing those same tasks in a real aircraft are a piece of cake. It's been proven good enough 
+ that the US Navy used MS Flight Simulator for new cadets to learn proper procedures and scan. If 
+ you can get some 'dual' with a real instructor who knows both the aircraft and how to fly MS Flight 
+ Sim, you will have an easier time but, it has plenty of built-in training flights so that you can 
+ self-teach yourself if you want or need to do that.
+  
+  This isn't really a 'shoot-em-up' video game. If that's what you are looking for, you better look 
+ elsewhere. This one, like all previous MS Flight Sims, is a real tool for learning to fly or just 
+ keeping your skills sharp. 
+  
+  Like flying real aircraft, you can never stop learning. And the program never stops teaching.
+ 
+  
+  But, if you want to walk away from your computer having actually learned something, then MS Flight 
+ Sim is what you really need. 
+  
+  If you don't want to take the considerable time needed to learn about flying, leave it on the shelf. 
+ 
+::::::
+
+::::::
+UserName: intoxicado
+Rating: 9.9
+Date: Feb 4, 2006 11:08 am PT
+Review:  If you have no experience in flight simulator, dont try this, is only for Flight sim fans. Its 
+ the best of flight simulators, the scenary is the best, you cand find ever city, find all airports, 
+ nothing better. if you need info about the planes or technical support only check the data base 
+ and you can find all information. Realy this game is the best flight sim. Buy it!!!!! if you need 
+ to learn how to fly a cessna or piper or a boeing. You cand made your own flight plans and save 
+ it. well i am going to play it!!!, a can stop flying, good look pilots! 
+::::::
+
+::::::
+UserName: Obeva04
+Rating: 9.6
+Date: Feb 1, 2006 5:30 pm PT
+Review:  Flight simulator 2004 greets you with the most compassionist plane simulator ever. From ILS approaches, 
+ to VOR clearences, to go around patterns, to ATC info and ATIS, you know it cannot get any better 
+ then this. 
+  This game is only for those who have a background on planes, or flying or an interest. There is 
+ a in flight shcool that teaches you from flying a Cessna 172 on a winter day to landing ILS frequency 
+ 111.10 25R approach at Los Angeles in a Beoing 747-400, in a furious storm. The planes are well 
+ done, graphics are high tech and landmarks are clearly an out statment. 
+  Overall this game deserves a 9.6, for people like me who are brainiacs about aircraft. GET IT!!! 
+ 
+::::::
+
+::::::
+UserName: jamesking1
+Rating: 9.8
+Date: Jan 23, 2006 7:38 am PT
+Review:  i bought this game last week and and i havent slept for more than 5 hours since. its a superb game 
+ that is constantly feeling fresh, mostly because there are more add ons than you can imagine, so 
+ many that you will never be bored again!!!!!. the graphics are superb especially the concorde add 
+ on. it normally takes me a while to get the hang of games, and was expecting this to be the same, 
+ the early planes are difficult but as soon as you get to the modern planes the game takes a new 
+ more fantastic turn. i seriously recommend buying this game, and to all flight simulator fans i 
+ cannot wait for the new one to come out. 
+::::::
+
+::::::
+UserName: Natdadanator
+Rating: 9.8
+Date: Apr 16, 2006 10:15 am PT
+Review:  you dont need to be a rocket scientist to play this flight simulator all you have to know is how 
+ to accelerate and how to move if you start off using the num pad you wont want a joystick if you 
+ dont have a joystick to save money but still have good value get a logitech wingman attack 3 joystick 
+ the really nice thing about it is you can always check the controls or resart your flight or change 
+ your plane there is only one unrealistck thing about it, i dont think your going to get a boeing 
+ 747-400 blown about by the wind the bad thing about its graphics is the terrain yes they do make 
+ chickens the size of streets and houses the size of an estate the fuzzy blur you see on the ground 
+ are roads and trees and stuff its like a google earth picture unless its taken by an aeroplane 
+ its rubbish if theres one thing you cant do in real life but you can do on this is go out into 
+ space in a wright flyer you just increase the time scale whoosh your in space. 
+  
+  all in all its a great game (apart from your objective is to just fly about pointlessly) . 
+::::::
+
+::::::
+UserName: p232
+Rating: 8.8
+Date: Jan 20, 2006 1:07 pm PT
+Review:  An exelent game, i was very suprised the first time a tried it. A have tried many other flight 
+ game, like x-plane, and i must say that this is the best. You don't yust have the freedom to explore, 
+ who is the only thing you can do in x-plane, but you can do "missions" which can be realstic fun. 
+ I would say that this is also the most realistic flight simulator game i have ever played. And 
+ its a very good way to learn have to control a flight, which is mostly on video, and couldent be 
+ much better. Im very supriesed have good that is. So this game i really recommend that you buy 
+ it if you like flight simulator games, or just want to learn have to fly. The only thing that is 
+ negative about this game, is the graffic. If that was better, it would give all the gameplay and 
+ value better charkter. But it's still the best simulator game i have ever played! 
+::::::
+
+::::::
+UserName: lukehu
+Rating: 9.4
+Date: Jan 3, 2006 9:18 pm PT
+Review:  This is quite a good Flight Simulator! It's got a LOT of kinds of plane u can fly with, including 
+ the wright bros plane! Of course, also includes the Boeing 747 and series! You can adjust weather, 
+ specific time of day/night, frequency of air traffic, ................ etc. The graphic is.... overall 
+ awesome... except, when you are in the air above "cities" , the looks of the "cities" are very disappointing... each 
+ "city" looks like they are burnt down... though they are not. Well.... cities are NOT the point of 
+ this game... lol. Everything else is........ u can say....... PERFECT! (except the fact that u cannot 
+ go check out ur passengers...^^) ALLL controls around you are functional... not just there for decoration! 
+ This game is BEST played with a game pad or... even better... JOYSTICK!!! NEVER NEVER EVER play with 
+ keyboard... messes things up. when u try to tilt ur plane left or right, u have to press the opposite 
+ direction key to stop it from tilting further..... completely messes u up...... gamepad and joysticks 
+ don't do that! 
+  In conclusion, this game rarely, if ever, leaves out ANYTHING u may think of that should appear 
+ in this game!... of course, includes more! A complex game for people with complex mind and interested 
+ in flying a plane! 
+::::::
+
+::::::
+UserName: one-ring
+Rating: 10
+Date: Dec 18, 2005 7:48 pm PT
+Review:  I played this game first in my aviation class at school and I didn't want to leave. This is a great 
+ game even for people who just think about flying a plane. For those who have flown planes in a 
+ game like Battlefield 1942 or Battlefield 2 or such and you just spin around endlessly or fly around 
+ laughing at a fake fuel gauge this is very unlike it. This game is HIGHLY realistic if you set 
+ the realism settings to full where slight winds can make you go off course and you can even have 
+ the game create some failure on your plane and you'll have to try to land at the nearest airport 
+ or make an emergency landing. You'll always half to monitor your instruments to make sure always 
+ flying right and to see if there are any problems. You can change to outside views but it's not 
+ to great to fly in if your being serious. You can also look around from inside the aircraft. The 
+ sounds are very realistic so dont expect some retarded sounding engine. The game itself only comes 
+ with a limited amount of planes but the Internet has many different sites where you can download 
+ more planes. The graphics are very beautiful but dont expect to find your own house while flying 
+ over your area because it doesn't get that detailed. All in all this game can go from very easy 
+ to insanely hard in seconds but is still great to play even if you're flying across huge oceans. 
+ As a side note, dont buy this game without having a working joystick becaue using a mouse or the 
+ keyboard for turning is extremely difficult seeing as how you should only be making gentil inputs 
+ to the plane. 
+::::::
+
+::::::
+UserName: AdNihilum
+Rating: 8.3
+Date: Dec 14, 2005 12:16 pm PT
+Review:  This game shrinks the world for me. A hour of "playing" in the sim leaves me feeling like I have 
+ been somewhere.
+  
+  Learning curve: The Flight Instruction classes are a must if you've never been in a flight sim 
+ before. Not only do you have to learn how planes and jets work, but you need to get a feel for 
+ the keyboard and joystick. Taking off isn't so hard... but the first time I tried landing at night 
+ at O'Hare (one of the standard flights) , I was very nervous and crashed dozens of times. Even after 
+ spending dozens of hours flying, I still have a lot to learn. A good joystick is a must; trying 
+ to play with the keyboard alone is futile.
+  
+  Graphics: The standard graphics are fine. The sim is very CPU intensive, though, moreso than other 
+ games. I found the scenery and terrain add-on packs offered by various vendors make an enormous 
+ improvement.
+  
+  Aircraft: The sim is stocked with a good selection of aircraft. Noteably missing are the fighter 
+ jets. I recommend the Abacus Fighter Jet collection.
+  
+  Sound: The sounds are okay. On a long transatlantic flight, the drone of the engine gets old, but 
+ it's realistic, at least.
+  
+  Altogether, this sim is excellent. I feel like I'm really flying, and really "visiting" different 
+ places. Every year brings better terrain and scenary maps with ever more realism and detail. 
+::::::
+
+::::::
+UserName: dvgeoster
+Rating: 9.7
+Date: Dec 10, 2005 11:58 am PT
+Review:  Now all though this is the 100 years of flight aviation game people have wanted to be able to take 
+ to the skies since we saw birds, just so you know. But Microsoft really has treated this game. 
+ now allowing you to have a world map (I flew over a countryside area and it looked exactly the 
+ same (well the mountains did and then the wide range of aircraft you are able to fly when you come 
+ to landing there is (in the major airports) great detail so thats why I decided to give it top 
+ marks for graphics. I also found the tutorials very helpful and the GPS is very good but my favorite 
+ part is how there is now "end of the game" to reach but a "let's go fly some where new" and when 
+ you have been in all the airplanes and mastered them you can find thousands of new planes to download 
+ by typing into a search engine. The Airplanes themselves are very well done nice graphics, rather 
+ accurate, and the 360 degree view is helpful for seeing everything. The engine sounds good but 
+ if you have a group of people on they make no noise. Now the prices have fallen its much better. 
+ All in all and amazing game and a must have. 
+::::::
+
+::::::
+UserName: bubba_83835
+Rating: 10
+Date: Dec 1, 2005 2:48 am PT
+Review:  I can not think of one thing that I can complain about for this game. Anyone who likes a good simulator 
+ will love FS9. The most fascinating thing about it is the ability to actually talk to the tower 
+ and request clearance for take off, landing, the possibilities are endless. One of my favorite 
+ highlights is the downloads for this game, I have about 10 gigs in my flight sim file all relating 
+ to new planes, and better scenery. Microsoft has outdone itself with this game. Its simple, if 
+ you enjoy flying, or even want to learn, this game also has an interactive teacher who will train 
+ you! Now, log off and go buy this game. You wont regret it. 
+::::::
+
+::::::
+UserName: rsalas8148
+Rating: 10
+Date: Nov 23, 2005 9:29 am PT
+Review:  This is by far my favorite title. If you are a interested in aviation or are a private or commercial 
+ pilot, this is the title for you. Flightsim 04 is an amazing tool to learn instrument scanning 
+ and aviation. Weather you want to have fun or seriously learn, this program will adapt to your 
+ needs. 
+  
+  The platform is very open, so there are alot of freeware and payware add-ons that enhance this 
+ software tenfold. There are also many hardware manufacturers that make add-ons to increase the 
+ ease of use and realism of flight.
+  
+  If you buy this product or already have it, go to www. flightsim. com where you can find an endless 
+ supply of add-on scenery, aircraft and utilities.
+  
+  For serious flyers you can go on-line with VATSIM and have real people give you live air traffic 
+ control. Combine that with real aircraft panels from www. precisionmanuals. com, www. wilcopub. com, 
+ www. phoenix-simulation. co. uk or www. leveld. com and you are one step closer to being a real world 
+ pilot. 
+  
+  Standing ovation to Microsoft on this one. 
+::::::
+
+::::::
+UserName: ahmed8520
+Rating: 8.8
+Date: Nov 6, 2005 12:01 pm PT
+Review:  great game and u will have fun while u playing the game but it hard to learn but when u will learn 
+ it u will enjoy it very much also u cant play this game on ur laptop cuz there are a problem when 
+ using the num board u know the keyboard of pc is defferent than laptop .. anyway if u have a laptop 
+ or pc i recommended u to buy a joystick to have the full pleasure and there are flight creator 
+ that can allow u to creat your own plane and do your favorite flights to your favorite cities finally 
+ u will own thw world 
+::::::
+
+::::::
+UserName: Gaudreault1978
+Rating: 10
+Date: Dec 16, 2005 8:49 pm PT
+Review:  y'a rien a dire de mal a propos de cd jeu la, c'est de loin le meilleur jeu de simulation qui existe 
+ jusqu'a present, faut prendre son temps!! une seule chose, c'est facile de reussir chaque lecon mais 
+ le test final est difficile!! sans reussir le test sa veux pas dire que vous etes nul au contraire!! vous 
+ en verrez la preuve! bcp d'avions a essayer, c'est assez long de se rendre d'une place a l'autre, mais 
+ c'est bien! sa ne prends pas un gros ordinateur pour sa, il's auraient du avoir mis plus de perfection, comme 
+ prendre un 3ghz.... sa seraient encore mieux... n'essayez pas avec une manette de jeu ordinaire ce 
+ n'est pas fort, essayez avec un joystick et le throttle vous verrez!:) 
+::::::
+
+::::::
+UserName: captainryan
+Rating: 10
+Date: Oct 25, 2005 5:38 pm PT
+Review:  Gosh, you can't start to appreciate what this game has to offer! What kind of plane do you like? 
+ do you like jets, props, doubleprops? Whatever you like this game has it! boeings 747 777 737! The 
+ most amazing feature in this game is it has every single airport known to man in every city state 
+ country continent hemisphere world YOU GET THE POINT! do you live in a dinky city where the only 
+ thing that is close to an airport is a dirt runway? its got those too! I cant even begin to tell 
+ you about the scenery! its truely beatifull im crakin up here while im writing this its so beautifull! 
+ I love going to the grand canyon! But my personall favorite is NASA it has the launch pads complete 
+ with a shuttle on one of them! and yes it even has the assembley building! But what i found most 
+ amazing about NASA is when i went there last summer and i could find the dirt road i followed to 
+ get to the assembely building amazing! You can even land on the 2 mile long runway!!! But do note 
+ that this game takes practice learning about all of the little buttons but ther are plenty tutorials 
+ to help you there! And once you get bored of it witch i doubt you ever will you can buy add-on 
+ packs! With new planes and scenery and stuff! you can also down load add-ons online! BUY BUY BUY 
+ THIS GAME!!!!! why am i typing this? I gonna go play FS right now bye! 
+::::::
+
+::::::
+UserName: Kitch88
+Rating: 9.2
+Date: Oct 12, 2005 1:11 pm PT
+Review:  Wow wow wow is all I can say, it's acurate, fun, easy to play, if new to flying, challenging to 
+ play if an experienced pilot. Having flown in real life, and even been solo, FS2004 COF really 
+ captures what it is like to be a pilot. Changing weather, active airports and skies, talkative 
+ ATC... its like real, but not.
+  
+  Whats also great is you can download or buy any aircraft / helicopter you want... the web is full 
+ of them. www. simviation. com is the best and most user friendly for searching and downloading. So 
+ theres no excuse for disagreeing with me ;-)
+  
+  The downside, no guns, no bombs and due to 9/11 no explosions and realistic crashes... but with 
+ a simple download some of the above can be fixed.
+  
+  Good Work Microsoft, you can make something right! 
+::::::
+
+::::::
+UserName: asyouwish
+Rating: 7.7
+Date: Sep 19, 2005 4:48 pm PT
+Review:  This is the first MS-Flightsimulator I have flown. Thus I am NOT measuring the 2004-version against 
+ older versions.
+  The great/superb things about MS-Flightsim. 2004:
+  When one has started the game, one is greeted with several welcome-videos of a flight-school in 
+ the U. S. of A. which explain the basic features of MS-Flightsim. 2004 and REAL flight-lessons 
+ follow thereafter! 
+  In these flight-lessons one sits in the airplane together with a flight-teacher (just like in driving-school) . 
+ The flight-teacher shows and explains, what he wants one to do  not only with text on the screen 
+ (text is added additionally) , but with his own voice; which appears as real, that one almost does 
+ not notice, that his voice had to be recorded (obviously) , to use it in this flightsim. 
+  The flight-teacher will indeed assist in between all the various flight-exercises, which one gives 
+ a real feeling of Listen, Watch & Learn.
+  {If you use a proper (at best force-feedback) flight-stick, at least proper stereo-speakers (better 
+ surround-speakers) , far a part for far greater sound-immersion, than it really feels almost like 
+ sitting in the real flight-school-airplane.}
+  I have counted 5 learn-chapters in that flight-school, which include seven to eight flight-lessons 
+ each, which in turn last all ca. 5  15 minutes. (This gives oneself a great  
+ if one has not much time at hand at once; e. g. 15 minutes every day) .
+  If you, for example, want to fly factually (like myself) , want to join a Soaring (glide-plane) 
+ Club or fly a (factual) motor-air-plane, than you can save yourself loads and loads of money for 
+ theoretical AND practical flight-lessons.
+  It is still of course a huge difference between a flight-simulator and the factual airplane, when 
+ one experiences the sensation of acceleration, accent/descent, roll/pitch, etc. and the knowledge, 
+ that doing a mistake could actually cost your and other peoples lives, but one has than already 
+ all necessary knowledge and some experience, which saves oneself easily a minimum of several hundred 
+ uro.
+  MS-Flightsimulator 2004 is as real to factual flying as a flight-simulator at ones own Home-PC 
+ can be. The video-graphics can be improved of course further over the coming years, which depends 
+ mainly on ones computer hardware-power; where Microsoft has (of course) to draw a line of compromise.
+ 
+  
+  The cloud-system, Microsoft has developed for this flightsim., is truly extraordinarily impressive. 
+ It ads a true sense of flying below, above or through clouds (not like in older flight-sims. where 
+ the clouds were usually just a static image on the sky-plane. {The weather-system can be, by 
+ the way, connected to the real weather-forecasts around the globe; but you can read all these information 
+ on the info.-page about MS-Flightsim 2004 (A Century of Flight) here at Gamespot, Microsofts website, 
+ etc.}
+  ALSO: All instruments can be used with point and click, which saves oneself from having to learn 
+ tens and tens of keyboard-commands (Although it is certainly useful to assign some of the most-used 
+ commands, such as gear up/ -down, flaps up/ -down, etc. to some of your flightstick-buttons.) . 
+ The lighting in your cockpit is factually influenced by the natural light-conditions around you, 
+ with respective shadow-casts on cockpit-instruments, etc, which is a very nice feature and also 
+ ads further to the realism of this flightsim. 
+  
+  The radio-traffic-control-system plays real voices and one can and needs to learn to use this system 
+ appropriately to avoid accidents at airports (during landing/ lift-off) and on the air-streets/ 
+ -routes. 
+  The multi-player-feature is also truly magnificent, as it ads further to the realism of this flight-sim. 
+ Also it encourages oneself to fly particularly well, as the other flight-sim.-pilots will obviously 
+ not appreciate it, if one has an accident with them at an airport or in the air {e. g. it not a 
+ good idea to taxi on a major run-way (unless instructed to do so by the air-port-watch-tower) , 
+ where flight-sim.-pilots start off and land with Airbuses and Boeings  guess what I did yesterday 
+ evening?}
+  This flight-sim. is practically limitless in its capacity of using ANY airplane, designed to be 
+ used with this simulation. There are factually at least hundreds of additional airplanes available, 
+ to be used with MS-Flightsim. 2004  even Space Shuttles, if you like.
+  One can also add further, more detailed satellite-photographic scenery to this flightsimulator 
+ (e. g. from the area where you live) .
+  
+  The things, which are not so good in this flightsim:
+  In the so called Virtual Cockpit View 
+ one can NOT pan around with ones mouse, as one is used to do so in other flightsimulators, such 
+ is IL2-Sturmovik (Forgotten Battles) , Comanche 4 and others. The only way is by using either the 
+ hat-switch on your flightstick or the numeric-pad on your keyboard. Using the hat-switch is awkward, 
+ as  evidently - one can move the cockpit-view only at one predefined speed. This is very un-natural, 
+ as one does not move ones own head like a robot! Using the keypad on your keyboard just gives one 
+ the usual forward-, side-, back-, etc.-view in only 8 directions.
+  {One could buy a head-tracker to solve this problem, but that is markedly very pricy.}
+  {In Virtual 
+ Cockpit View one can also use point and click to press buttons, etc.; the insignias on instrument-buttons 
+ are still recognisable, but are, however, somewhat blured.}
+  Microsofts programmers managed as well to reduce scrolling of texts in windows within MS-flightsimulator 
+ 2004 to snail-speed (on an AMD 3000+ machine!) , which is rather unpleasant.
+  Further: Twist-handle-flight-sticks range (like my own) is to short and hence creates too much 
+ rudder-movement per millimetre of handle-twisting (this is not Microsofts fault) . Thus it is recommendable 
+ to buy proper rudder-foot-pedals  if they were only not as expensive as they are ( let 
+ me know, if someone sells them to a low price; I live in the UK.) .
+  I have seen photos from flight-simulator-pilots, who use two or three monitors with MS-flight-simulator, 
+ but I have not found the feature to click-on in MS-flightsim. yet.
+  (How does one do it, does anybody know?)
+  
+  That is it so far from me.
+  Perhaps I will add 
+ some further experiences with it, when I have finished the flying-school-lessons of MS-Flightsim. 
+ 2004.
+  
+::::::
+
+::::::
+UserName: BlackFlower9
+Rating: 8.6
+Date: May 7, 2005 2:08 pm PT
+Review:  Seit 20 Jahren gibt es den Flight Simulator, damals, 1983, war es der Flight Simulator 1, der mit 
+ ganzen zwei Farben ber die Monitore lief. Nun hat der Redmonder Riese seine Palette um eine weitere 
+ Version des erfolgreichsten und besten Simulators berhaupt erweitert; um den Flight Simulator 
+ 2004. Microsoft verspricht eine bessere Grafik und mehr Realismus; wir wollten wissen, ob das stimmt. 
+ 
+  
+  
+  
+  
+  Beim Auspacken der CDs hielt ich ganze vier Stck in der Hand. Man kann also schon ahnen, was da 
+ auf einen bei der Installation zukommt. Und so war es: 2727MB sollten von meiner Festplatte belegt 
+ werden - egal, bei 120GB macht das nicht viel aus. Nach ca. 15 Minuten war alles erfolgreich abgeschlossen 
+ und ich konnte das Spiel starten. Was einem sofort auffallen wird ist das ausfhrliche und bersichtliche 
+ Hauptmen. Um zu testen, ob Microsoft seinem Namen wieder alle Ehre gemacht hat, nicht auf die 
+ Hardwarerecourcen zu achten, habe ich das Einstellungs-Men ausgewhlt. Dort habe ich Auflsung, 
+ Farbtiefe, Details und Schwirigkeit verndert. Die neuen Settings lauten: 1024x768, 32bit, Maximale 
+ Dateils und realistischer Schwirigkeitsgrad. Nun kann es losgehen. Als aller erstes gilt es, ein 
+ Flugzeug auszuwhlen. Da ich groe Maschienen bevorzuge, hab ich eine Boeing 747 ausgewhlt Das 
+ nchste, was einzustellen war, war der Startflughafen. Frankfurt am Main sollte dafr gro genug 
+ sein. Die Letzten kleinen Sachen waren Wetter, Uhrzeit, Flugroute und Datum. Nachdem dies erledigt 
+ war, folgte der Klick auf "Flight Now!". Nach ca. 15 Sekunden Ladezeit erblickte ich das Cockpit 
+ dieser 747. Doch ich wollte noch nicht starten, denn ich konnte es mir nicht entgehen lassen, mir 
+ erst einmal die Grafik anzusehen und muss sagen, ich habe nicht schlecht gestaunt. Die Huser sehen 
+ zwar immer noch klotzig aus, aber die Bume haben schon wesentlich mehr Schnheit und sehen sehr 
+ realistisch aus. Das gleiche auch mit Brcken, Bergen, usw.
+  
+  Endlich kanns losgehen, die Bremsen werden gelst, Klappen werden herausgefahren und der Schub 
+ wird erhht. Aber kaum in der Luft fngt es an, das, was bei vielen Simulationen von Microsoft 
+ auftritt: Es ruckelt - und wie! Der Framecounter, der nebenher luft ging nur kurzzeitig ber 15 
+ Bilder/s, im Cockpit ist das wenigsten noch etwas besser, hier kann man noch gut fliegen. 
+  
+  Ein Herabsetzen der auf das Maximum gesetzten Details schafft jedoch Abhilfe, nun habe ich 
+ endlich 20 Bilder. Nun fiel mir endlich auch auf, wie viel Mhe sich Microsoft's Programmierer 
+ gemacht haben, die Wolken sind sehr aufwendig gemacht und sehen beraus echt aus - Kompliment! 
+ Nach ca. einer halben Stunde herumtesten ging es an's Landen. Nur wo? Sehr hilfreich ist bei dieser 
+ Frage das GPS und ATC-System. Nach der Auswhl eines Flugplatzes konnte es "losgehen". Doch kurz 
+ vor der Landebahn, die nicht sonderlich lang war, fiel mir eine sehr negative Sache auf. Nur ein 
+ paar Meter vor dem Anfang der Bahn stehen viele Bume und Huser, was bei einem niedrigen Landeanflug 
+ dazu frt, dass man entweder in den Sachen hngenbleibt oder sehr spt aufsetzen kann. Dadurch 
+ bin ich sehr weit ber die Landbahn hinausgeglitten, bis ich endlich Bodenkontakt hatte - zu spt, 
+ das Ende war schon in Reichweite. Obwohl ich alles versuchte, das Flugzeug zu stoppen, raste die 
+ Boeing in einen Wald, der hinter dem Flugplatz war. Hierbei kam etwas zum Vorschein, was meine 
+ bisher gute Meinung ber das Spiel minderte: Obwohl die Maschiene mit einer hohen Wucht in dieses 
+ bewaldete Stck "rein ist", waren am Flugzeug keinerlei Schden zu erkennen. Schlimmer noch, die 
+ Simulation wurde gestoppt und der Flug wurde neu gestartet. Beim Extremtest, bei dem ich das Flugzeug 
+ aus 1000 Metern auf den Boden strzen lie passierte das gleiche. Die Nase verschwand im Boden, 
+ das Spiel wurde gestoppt und dann neu gestartet. Offensichtlich hat das MS wegen den Geschehnissen 
+ am 11. September absichtlich so gemacht - schade !
+  
+  Wem das nichts ausmacht, wir den Flight Simulator schnell als seinen neuen Zeitvertreiber nehmen, 
+ denn Langeweile gibt es hier nicht. Ganze 25 fliegbare Flugzeuge, ber 24000 Flughfen, verschiedene 
+ Wettersituationen und viele Missionen sorgen fr Abwechslung. Sollte es jedoch mal irgendwann vorkommen, 
+ dass man jede einzelne Maschine schon bis zum "Geht nicht mehr" gesteuert hat und sich nach etwas 
+ Neuem sehnt, kann man auf einigen Seiten viele weitere Sachen herunterladen. Dies ist kostenlos 
+ und setzt lediglich die Standardversion des Simulators voraus. 
+  
+  Features im berblick: 
+  
+  =  Learningcenter incl. Flugstunden, welche sehr verstndlich zeigen, 
+ wie man erfolgreich ein Flugzeug steuert. 
+  =  Newscenter
+  =  Geschichtscenter
+  =  Multiplayer-Funktion
+  =  25 Fliegbare Flugzeuge - u. a. die Boeing 747, Douglas DC-3 und Learjet 
+ 45. 
+  =  ber 24000 auswhlbare Flughfen.
+  =  Echtzeitwetter (incl. 15 mintigem Update aus dem Internet!)
+  =  ATC und GPS-System 
+  
+ 
+  Um die Frage zu klren, was der Simulator wirklich an Hardware braucht, habe ich mit meinen zwei 
+ recht neuen Rechner einen Test gemacht, das Ergebnis war erschreckend. Mit meinem normalen Computer 
+ (Athlon XP 2200+ @ 2400+, 512MB DDR, GeForce4 Ti 4200, Nforce2) hat es ja schon ziemlich geruckelt, 
+ aber bei der zweiten "Kiste" (XP 1500+, 256MB DDR, GeForce4 Ti 4200, KT333) war das Spielen in 
+ hheren Auflsungen berhaupt nicht mehr mglich. In den nchsten Tagen steht bei mir eine Systemaufrstung 
+ an; ein Barton 2500+ und eine Radeon 9800 sollen mir zeigen, ob Microsoft wirklich will, dass die 
+ Spiele nur auf den schnellsten Rechnern flieend laufen - hoffen wir es nicht !
+  In der abschlieenden Gesammtwertung kann ich trotz der Sachen, die nicht fr den Flight Simulator 
+ sprechen, sagen, dass er eine klare Kaufempfehlung ist. Allein die gute Grafik und die vielen Flugzeuge/Flughfen 
+ reichen bei mir als Kaufargument. Besitzern lterer Rechner (bis 2000Mhz, 2000+) , die gerne mit 
+ vielen Details und auf hheren Auflsungen spielen wollen, bleibt leider nur das Aufrsten oder 
+ Umsteigen auf den Flight Simulator 2002. 
+  
+  Systemvoraussetzungen:
+  Minimum (Quelle: Microsoft) :
+  - AMD K6 450Mhz / Intel Pentium 2/3 450Mhz
+  - 128MB SD-RAM
+ 
+  - 8MB DirectX 7.0 Grafikkarte
+  - ca. 1800MB freier Festplattenspeicher
+  
+  Empfohlen:
+  - AMD Athon XP 2000+ / Intel Pentium 4 2000Mhz
+  - 256MB DDR-RAM
+  - Nvidia GeForce4 MX / GeForce 
+ FX 5200 (Ultra) / ATI Radeon 8500, 9000 (Pro) , 9200 (Pro)
+  - ca. 2500MB freier Festplattenspeicher
+  
+  Optimal:
+  - AMD Athlon XP 2400+ / Intel Pentium 
+ 4 2400Mhz, oder mehr
+  - 512MB DDR-RAM, oder mehr
+  - Nvidia GeForce 4 Ti/ GeForce FX 5600 (Ultra) , 5800 (Ultra) , 5900 (Ultra) / ATI Radeon 9500 (Pro) , 
+ 9600 (Pro) , 9700 (Pro) , 9800 (Pro) 
+  - ca. 2500MB freier Festplattenspeicher
+  
+  UPDATE: Ich habe endlich eine gute Methode gefunden, um die Schden beim Flug Simulator zu aktivieren; 
+ nhere Infos gibt es hier. Eine weitere Neuerung gab es in meinem Gehuse; die neuen Teile sind 
+ eingebaut und ich kann endlich auch ruckelfrei spielen! Die Benchmarks wird es zusammen mit dem 
+ Test der Radeon 9800 von Sapphire geben!
+  
+  Bewertung:
+  Endnote: 2
+  Kaufempfehlung: JA 
+  
+  Fazit:
+  + Sehr gute Grafik 
+  + Viele Flugzeuge/Flughfen
+  - Nur 
+ fr schnelle Rechner geeignet.
+  - Fehlende Flugzeugschden. 
+::::::
+
+::::::
+UserName: Loosenut
+Rating: 9
+Date: Dec 18, 2004 11:44 pm PT
+Review:  I have been a fan of the Flight Simulator series for years now. It was great when 2002 came standard 
+ with ATC communication (I had previously bought an add on for the prior series) . I have put my 
+ learning curve sort of high because if you fly most of the training lessons it is a couple of hours 
+ before Rod lets you solo. I rate this game at a 9.1. The 2002 FS got a 9.3 from Gamespot and I 
+ am curious why this version lost .4 points. I drop the score .2 because I do not think that we 
+ should have to go to different web sites to get more planes. Yes, I realize that 2004 has many 
+ of the historical planes but they have dropped some 'current' planes (Like the V tail Bonanza) . 
+ I have rated my value at 10 because it would take a lifetime to fly the world. I am always coming 
+ up with new places that I want to check out, and different routes to fly.
+  
+  This is my first review.
+  P4 3.2MHz 1.0GB RAM GeForce 5700 GO with 128MB 
+::::::
+
+::::::
+UserName: TheShelobMan
+Rating: 8.9
+Date: Nov 17, 2004 1:21 am PT
+Review:  If there is a game that has a greater scope than this one - I haven't heard of it. The fact is 
+ that if you have a decent computer you can see the Las Vegas strip from up to 25,000 feet above 
+ ground. Even the little details like the erupting volcano at The Mirage. That alone is what sold 
+ me on this one. There are of course many other things this game has to offer.
+  
+  Gameplay: This is a simulation. A lot of sims hve tried passing themselves off as sims, but this 
+ one is really a true simulator. Every single one of the 24 aircraft flies differently from the 
+ next. In this game you can tell the difference between a 747 and 777. The historical Planes are 
+ challenging, but definetly worth the time in trying to learn how to fly them. In fact, that is 
+ true for all the planes in the game - modern and historical. "How do I learn?", you ask? Easy: 
+ The Learning Center. This is like an encyclopedia for airplanes. It tells you why, how, when, and 
+ where it is best to fly each airplane. Plus there is a lot more, like the navigational topics including 
+ the ATC and GPS topics. The GPS is a real world GPS, used in real world airplanes. How's that? 
+ The Real World weather adds a big challenge to the realistic feel of the game. Overall the Gameplay 
+ is awesome, and it should be since this is a sim.
+  
+  Graphics: I know I spoke about them above, but I feel it should be talked about more. The instance 
+ with Las Vegas is not the only one like that. All the big landmarks in the world can be viewed 
+ from high above and from upclose even. The detail is amazing, especially if you consider all the 
+ structures that had to be designed. The enormous amount of attention to detail is so unbelievable 
+ that I have to bow down to the guys at Microsoft. This is a better achievement than the Windows 
+ OS. The clouds and weather effects in the game are the best ever seen in a sim. Bad part is, that 
+ only the planes and weather actually move. Everything else is at the same place all the time. Overalll 
+ the graphics stand out as one of the many puses in the game.
+  
+  Sound: Every plane has it's own unique sound. Objects other than the plane and ACT don't make any 
+ sounds at all. It is understandaable though. The sound is good.
+  
+  Value: One word: ADD-ONS. That is the thing that still keeps me playing. Airplanes, scenery, and 
+ traffic can be added on to make this a totally great experience. Airlines are also easily found 
+ all over the place on the internet. Don't worry this game will last until the next version comes 
+ out, which is now, less than a year away.
+  
+  Tilt: This is the type of game that people upgrade their PCs for. It comes out every two years 
+ and influences the whole gaming industry. I know that I am buying the next version, but before 
+ that I need to upgrade my PC again. 
+::::::
+
+::::::
+UserName: AngryFarmer
+Rating: 8.9
+Date: Jul 12, 2004 11:24 am PT
+Review:  This review is intended for those planning to upgrade from FS2002 to FS2004. The question most 
+ of you are probably asking is: should I upgrade? The answer to that question is not as simple as 
+ it may seem. The new incarnation of the popular flight simulator series offers, as usual, even 
+ more than its predecessors. A new weather system, improved ATC, new historic aircraft, even better 
+ scenery and a brand new Garmin GPS are all very well, however after you boot up your first flight 
+ and get into the air, you'll start asking yourself: what the hell is this? Did they stick FS2002 
+ in the box and just put a new title on it? It is very hard to try and justify what it was that 
+ you just spent 40/$50 of your money on. However, if you take your time and examine whats beneath 
+ the surface of this SIM, you'll see that there are hundreds of small improvements which you may 
+ not see at first, but which you do feel when you actually start flying. If you have nothing against 
+ spending 40/$50 on an expansion pack than go ahead and buy it, but many people will find that 
+ the improvements are too minor to motivate them on splashing out half a hundred dollars on a game 
+ they practically own already. 
+::::::
+
+::::::
+UserName: mulderite2002
+Rating: 8.6
+Date: Aug 1, 2003 10:18 am PT
+Review:  If youre new to flight simulations and want the best civilian aircraft simulator available, then 
+ buy this  it really is that good. If however you have Flight Simulator 2002 and are wondering 
+ whether or not to spend your hard earned cash on Microsofts latest release, I would have to say 
+ the this version is more of a polish of FS2002 rather than a full blown upgrade. The graphics 
+ are certainly a lot crisper and benefit from better textures, and the weather system has been completely 
+ overhauled to be more realistic, both in flight and in looks. There is a new selection of legendary 
+ prop aircraft added to the list of planes available, though I doubt these aircraft will be used 
+ much after their initial novelty has worn off. Since FS2000 this game has really been optimized 
+ well  on my Athlon 1.7Ghz PC with a GeForce 4 4400 I can run it with all graphics maxed and still 
+ maintain a decent smooth framerate. The key to running these kind of programs well is in the processor 
+ speed and the memory, so if youre running anything less than a 1Ghz and 256Mb of RAM it really 
+ is worth upgrading to make the most of this simulator.
+  
+  BOTTOM LINE: If youre a casual flight sim gamer and already own FS2002, save your money until 
+ FS2006 undoubtedly gets its release. However, if youre new to the genre or are a hard-core sim 
+ enthusiast then you owe it to yourself to get this wonderful piece of software.
+  
+::::::
+
+::::::
+UserName: Decker12
+Rating: 8.9
+Date: Jul 29, 2003 10:10 am PT
+Review:  Great addition to the series and I agree with everything in the review. I do wish there was more 
+ modern aircraft included - things like the Spirit of St Louis and the Wright Flyer were fun for 
+ me for about five minutes, mostly because they were too challenging and when you did get them airborne, 
+ not much fun to fly.
+  
+  My only complaint is the very frustrating flight school. The instructor is very impatient and often 
+ cancels the entire training flight if you don't follow his instructions in a very short time frame.. 
+ and then you have to start the whole lesson over. 
+  
+  Many of the lesson techniques are can be difficult to get right the first couple of times. Even 
+ though you're trying your best to say, perform a 20 degree turn maintaining 4000 feet, he only 
+ gives you a few seconds to get it right before saying "You're obviously distracted so we're ending 
+ the lesson now". Makes me want to scream at him to LOOSEN UP AND GIVE ME A CHANCE HERE! 
+  
+  It gets even more frustrating when you're training on a 747-300 and there's about 100 things going 
+ on at once - and you feel you're doing good 15 minutes into the lesson, until you realize you're 
+ 2 degrees off the heading he wants you to go in, and cancels the entire lesson.
+  
+  I had to read up on all the ground school items and make up my own training flights to "practice" 
+ before heading into 75% of the training lessons! 
+::::::
+
+-------------------------------------------------

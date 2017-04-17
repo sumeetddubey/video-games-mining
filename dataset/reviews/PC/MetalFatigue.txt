@@ -1,0 +1,318 @@
+-------------------------------------------------
+:::Game Name::: Metal Fatigue
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/metalfatigue/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug  3, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.9
+Critic Score: 7.3, 24 Review (s)
+User Score: 8.7, 253 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: TalonSoft
+Developer: Zono Inc.
+Genre: Strategy
+Date:     Jul 31, 2000
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Despite its problems, fans of anime or mech games should find that Metal Fatigue is a fun, fast-paced 
+ real-time strategy game. 
+
+ Many real-time strategy games center on massive battles between different types of tanks. Metal 
+ Fatigue takes this convention to the next level by focusing on "combots," giant robots reminiscent 
+ of those in various Japanese animated cartoon series. Metal Fatigue's concept is innovative both 
+ in its modular unit design and in its multilevel battlefields that take place in orbit, on the 
+ surface, and underground all at once; but the game's unbalanced units, as well as a few interface 
+ problems, cut it short of its potential.   
+
+  The game's story is similar to what you might expect from giant robot anime such as Macross and 
+ Gundam. In Metal Fatigue, three corporate factions, which coexist in an uneasy alliance, have discovered 
+ alien technology in the far-off Hedoth system. In an initial skirmish over the discovery, three 
+ brothers - Diego, Stephan, and the treacherous Jonas - find their loyalties split among separate 
+ factions, and soon, open war breaks out. A ten-mission campaign is devoted to telling the story 
+ of each of the three "CorpoNations": the balanced RimTech, the aggressive MilAgro, and the high-tech, 
+ stealthy Neuropa.   
+
+  Each CorpoNation has its own combot technologies, but during the course of a mission, it's possible 
+ to retrieve parts abandoned on the battlefield and research them for your own faction's use. What 
+ makes this possible is the modular construction of the combots themselves, as each is constructed 
+ from four components - torso, legs, and right and left arms. While the modular design somewhat 
+ reduces the visual distinctiveness of each side, it does make it fairly easy to eyeball the composition 
+ of your opponents. In fact, much of the game's strategic interest lies in adjusting your combot 
+ production to best oppose the combot designs you're facing. The array of available melee and ranged 
+ weapons can deal out either energy or kinetic damage, and the various defenses can defend against 
+ either type. In addition, torso and leg designs can provide extra armor or special abilities such 
+ as cloaking, increased hand-to-hand damage, and jump jets.   
+
+  In stark contrast with the complex modularity of combot production, there are only four conventional 
+ offensive units: a tank, a mobile surface-to-air missile launcher, a modest artillery piece, and 
+ a special combot-debilitating spell unit. The conventional units are rather simple and are functionally 
+ equivalent for the three sides. The primary use for conventional ground units is to go into the 
+ subterranean tunnels that are much too small and unstable for the giant combots. Yet, as support 
+ units for your main combot cavalry, they are often little more than expensive targets. A speedy 
+ melee-equipped combot can quickly turn a tank battalion into a gutted mass of metal. The primary 
+ base defenses also seem underpowered, considering their cost and build time, though the walls and 
+ gun emplacement have the atypical, yet convenient advantage of being mobile. Metal Fatigue doesn't 
+ aspire in any apparent way toward a rock-paper-scissors unit balance, and, in practice, it rewards 
+ you simply for throwing as many multipurpose combots at a target as possible.   
+
+  Furthermore, the mix of very large and very small units exacerbates the game's pathfinding issues, 
+ the chronic weak point for real-time strategy games. The game's 3D structures and units alternately 
+ seem capable of packing impossibly tightly together one minute; while in the next minute, they 
+ seem to get stuck on thin air. Though you might think that a militaristic bunch like the MilAgro 
+ could march lockstep in their sleep, its units refuse to follow movement orders sensibly with disproportionate 
+ frequency. The problem is compounded when a squad of large combots tries to walk in a tight-box 
+ formation, the only one available. Too often, a valuable combot will get stuck behind just a few 
+ tanks and will twist and turn uselessly, trying to find a way out. When a combot is under heavy 
+ fire in tight terrain, supporting tanks will without a doubt prove to be a deadly hindrance.   
+  
+
+ The concept of dividing the battlefield into three separate levels - orbital, surface, and underground 
+ - no doubt helps balance the game's otherwise combot-heavy combat. However, in practice, having 
+ the action spread across multiple levels puts undue stress on the most important resource in a 
+ real-time strategy game - a player's time - without easing the issue of multitasking. Orbital play 
+ and underground play add two basic infrastructure tasks: Carving out subterranean tunnels to connect 
+ resource-bearing lava caverns and building numerous small solar panels in orbit. Solar panels are 
+ very useful in large numbers, but they add a frustrating amount of micromanagement since they must 
+ be built as individual structures. A little more build automation or a centralized interface could 
+ have made this a much less cumbersome element in each mission.   
+
+  The game's single resource is energy, measured in megajoules. Energy harvesting is a rather painless 
+ process, since your hover vehicles transparently beam the thermal energy they collect from lava 
+ pools right back to your base. A diligent pack of harvesters can cool a lava pool in short order, 
+ so it's fortunate that solar panels, deployed on your orbital stations, can provide a slow but 
+ steady stream of energy while the lava flow gradually warms back up again. The last infrastructure 
+ elements are the drill trucks that can slowly bore tunnels for your underground empire, and the 
+ cryofarms where you can warm up cryogenically stored troops to provide manpower for structures 
+ and conventional units.   
+
+  The game's 3D graphics show their colors when a squad of combots engages in heated combat. The 
+ combots have quite a range of fluid melee animations, as they block, kick, and spin while wielding 
+ giant katanas, axes, and hammers to devastating effect. Moreover, edged weapons have a good chance 
+ of slicing off an enemy's arms, which can be retrieved for use with your own units. Even though 
+ the camera can be zoomed and spun around to get the best view of the action, fortunately the 3D 
+ terrain rarely obscures your vision - so it's often sufficient to simply scroll the 3D camera around, 
+ just as in a 2D real-time strategy game.   
+
+  Metal Fatigue won't win many points for its artistic design. The game's 3D maps often seem to share 
+ a common pool of uninspired textures, and they generally lack the little details that might have 
+ made Hedoth a more immersive environment. Though simple colors befit the game's overall anime-like 
+ appearance, the map textures greatly overuse metallics, blues, and, in the dreary subterranean 
+ layer, browns. Similarly, the in-game music reuses its riffs with abandon. At least there's even 
+ a rather simple attempt to match each campaign's music to the personality of the respective CorpoNation. 
+ You hear fairly subdued military marches playing as the RimTech, a funky rock mix as the violent 
+ MilAgro, and airy New Age as the mysterious Neuropa.   
+
+  Despite its problems, fans of anime or mech games should find that Metal Fatigue is a fun, fast-paced 
+ real-time strategy game. The missions that showcase the open-field strengths of the combots are 
+ particularly satisfying. If the game shipped last year, as originally scheduled, it might have 
+ led the current wave of 3D real-time strategy games. However, as it stands, Metal Fatigue will 
+ likely get lost beside a number of better-looking, more balanced games.    
+-------------------------------------------------
+:::User Reviews::: (9 Reviews)
+::::::
+UserName: Truecidation
+Rating: 8
+Date: Jun 13, 2008 10:25 pm PT
+Review:  I'm not really a hardcore RTS player despite starting out on the original warcraft (not wc2) and 
+ earlier, on turn-based games (Empire Deluxe, the grandaddy of them all, no less) ; I simply haven't 
+ played that many games after the wave of C&C clones in the early 2000s. That said, Metal Fatigue 
+ is a pretty darn good RTS albeit with several glaring flaws.
+  
+  Presentation-wise (sound, graphics, campaign, i. e. gameplay in general) I have little complaint, 
+ except that once again the AI has a huge leg-up over human players, being able to multitask between 
+ the 3 different terrain layers easily. Also, as mentioned in another review, the overly simplistic 
+ resource management (there's only 1 kind of resource, and it's pretty much infinite) means given 
+ a little time, any map can be dragged into a long drawn-out fight.
+  
+  It's a shame though; I haven't had major issues with pathfinding, other than units getting in each 
+ others' way, and the abovementioned resource issue. There's a freewheeling skirmish mode where 
+ you can replay with and against numerous AI opponents and allies, as well as a multiplayer mode 
+ (can't wait to convert some friends over) which means replayability is high. You can't save skirmish 
+ mode games though (and probably not multiplayer ones either) , which kinda sucks, because battles 
+ do tend to be of the long-drawn-out variety. Trust me: before mastering a game, most players tend 
+ to build up first, before attacking en mass, right? Problem is, building up also means the enemy 
+ has time to entrench himself as well, and in the case of AI opponents they'll also be sending steady 
+ streams of assault parties at you. It'll take a lot of time and luck to survive the unceasing onslaught 
+ and build a large enough force to bury the opposition.
+  
+  The game seems to not handle mutlitasking though, even despite being a windows game; when I alt-tabbed 
+ out, I couldn't get back in. The game apparently belongs to the old-school generation of early 
+ windows games which locked you in fullscreen mode and presumed they had the run of your machine. 
+ Personally I've come to detest fullscreen games, I guess I'm used to multitasking so much.
+  
+  We need more RTS games like this; the modular giant mecha aspect, that is. Even with all it's 
+ flaws, it's always a blast to watch the giant combots in action, even if grudgingly because it's 
+ the opposition tearing your base apart. 
+::::::
+
+::::::
+UserName: net_mugger
+Rating: 8.1
+Date: Jul 10, 2007 12:56 am PT
+Review:  This game is quite cool if you play it right. The missions are not 2hard though. The story is not 
+ 2 special but I like robots: P And well there are 3 factions in this game. It is Rimtech a faction 
+ of order and pace... they have robots good at all and units same. The next faction is Milagro, a 
+ faction that strives for power... a brutal faction that destroys anything in it's way to achive 
+ it's conquest for power. They have the type of robots that give a lot of damage. And also they 
+ have the best air force in the game; and the last faction Neuropa is the one I like the most. It 
+ is a force that fights for technology. It's robots are based on fast atacks and deadly at the same 
+ time. Their units are based on stealth. Once they are caught in an ambush this faction is the weakest. 
+ But when we talk about assault, there is nothing that can save u from destruction if u have to 
+ defend against this faction.
+  
+  Now about the function of the game. What is cool about this game is that you can't travel only 
+ on surface, you can dig through underground that is a good place for Neuropa bases, or on the orbit 
+ a place good for Milagro forces. And it's supercool that you can build ships on the orbit and from 
+ there you can launch an atack on surface that can be devastating. But a Neuropa base is the hardest 
+ to destroy if you know how to build it. So that makes Rimtech base the most vulnerable in theory. 
+ But it's not quite like that cause they have an excelent defensive system. The sound is not something 
+ I will remember, but most uncool is the graphic. Well if you play the game you'll get used and 
+ won't say much about it... but I have to confess that the graphic is not too good.
+  
+  Well if you play the game I wish you gl:) And remember Neuropa rules: P 
+::::::
+
+::::::
+UserName: JakeOfRavenclaw
+Rating: 8.3
+Date: Jan 27, 2007 3:33 pm PT
+Review:  When a friend first loaned Metal Fatigue to me, I was very surprised that I hadn't heard of it 
+ before. I was even more surprised to learn that practically no one has ever heard of it. And that's 
+ a shame, because Metal Fatigue is actually a very fun game. It's a sci-fi strategy game, of course, 
+ but there are a number of truly unique features. For one thing, combat mainly takes place between 
+ gigantic robots that you build and assemble piece by piece -- so you can build a wide variety of 
+ arms, for instance, them put them on robots as the need arises. The various pieces of weaponry -- laser 
+ swords, flying legs, guns, and others -- look cool and are fun to use, and you'll have to pick the 
+ right ones to win a battle. Melee weapons, such as the ever popular Giant Axe, and slice parts 
+ right off of enemy robots -- they you can pick up those parts and put them onto your own robots, 
+ giving them more powers and a deliciously junkyardish look. Unfortuantly, the non-robot units, 
+ such as tanks, are almost completely useless, except as expensive cannon foder. The game takes 
+ place on three level -- at, below, and hight above ground level -- which are easy to switch between. 
+ The asteroid in particular are useful, since you can build energy generating solar panels there, 
+ or take out enemy panels with jets. There's only one recourse in the game, and a variety of ways 
+ to get it, so you spend less time of economy and more time on building and destroying robots.
+ 
+  
+  It's sad that a game that's this enjoyable has faded almost completely into obscurity. I'd recommend 
+ that if you see it, you pick it up. For at least a little while, it's fun.
+  
+  (On a side note, Metal Fatigue has the best credits screen ever. I mean, you can actually take 
+ control and battle with robots while watching the credits. How awesome is that?) 
+::::::
+
+::::::
+UserName: Leon243
+Rating: 9.9
+Date: Oct 24, 2006 5:06 pm PT
+Review:  Metal Fatigue is the best game ever cuz the sounds are pretty good, the music is very cool and the 
+ best of all is the gameplay is long.
+  My Friends and I really like this game so much i like the most is skrimish but it's hard to make 
+ allies.
+  My Favorite character is that purple he is so good because they got the best weapons, robot construct 
+ and the best vheicles ever.
+  Some people thinks that this game sucks which means they do not have the best strategy.
+  All 
+ of my friends really like this game so much.
+  But the problem only tiny which is the sound is so full of bass that's it.
+  I hope every people 
+ of the world like this game so much. 
+::::::
+
+::::::
+UserName: Klyern
+Rating: 9.2
+Date: Oct 7, 2006 7:35 pm PT
+Review:  I was always wondering when they'd make the second edittion, my brother told me a while ago that 
+ it was already out with another game but i never got it
+  
+  this game was the best in its age, right now its still worth playing, but i dont think its worth 
+ buying it at these heights either.
+  
+  still suffices to say that the game speaks for itself. the dificulty is just right, there are 3 
+ campaigns, the last campaign is really hard but none are imposible. the overall game was.... amazing. 
+ it had some issues for wich i cant give it a straight 10 and the sound effects werent has good 
+ has the music
+  
+  GS requires me to write more if i want to make a review but thats about it, sorry for doing this 
+ but im gonna fill the blanks with any keys
+  
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+::::::
+
+::::::
+UserName: Igotit8675309
+Rating: 8.7
+Date: Jul 20, 2006 8:29 am PT
+Review:  This game got me into the whole genre of real time strategy, besides C&C, It had good graphics it 
+ seemed for the time, and robots that fought like uhh mechs? It seemed revolutionary in a way to me, with 
+ being able to battle on the ground, in orbit, and underground at the same time. This game was my friends 
+ who bought it from a bargain bin in a town south of us, he liked the game alout but he just didnt 
+ have time to play it, so he sold it to me. I loved the way you could customize your units, and being 
+ able to steal weapons off dead enemy mechs. this game got me pumped to get home from school and 
+ go on the computer. 
+::::::
+
+::::::
+UserName: wackys
+Rating: 9
+Date: Jun 20, 2006 2:48 am PT
+Review:  
+  
+  The Good: It has robots not many strategy games have robots, cool graphics, great gameplay, in air 
+ on ground underground combat.
+  
+  The Bad: If your enemy has 1 troop underground you must search it to kill it.
+  
+  Ok the ideea 
+ is very cool i mean build a robot then put on it weapons and armor and things i like that. The graphics 
+ are very well made and the sound sounds great. When you hit a robot it really sounds like it and 
+ things. The three races are unique and each one of them have their own styles one is balanced in 
+ strength and speed another focuses on strength and the other of stealh. In all the game is great 
+ and it is easy to recommend to everybody. 
+::::::
+
+::::::
+UserName: essjae
+Rating: 9.1
+Date: May 22, 2006 9:07 pm PT
+Review:  This is one of the best Mech games around! I've played this through several times and love it more 
+ each time. There are a few bugs, but nothing to serious. 
+  
+  Writing this review makes me want to play it again!
+  
+  I love the abillity to collect destroyed 
+ mech pieces and build them onto your own Mechs. 
+  
+  The AI tends to get a little lost towards the end of the campaign when there are a lot of vehicles 
+ on the screen. It's ok with me, because I can build more and more mechs in that time!
+  
+  The negatives of this game are that it requires the cd in the drive to play... sucks when you're 
+ traveling and that there was NO sequel.
+  
+::::::
+
+::::::
+UserName: dyoma
+Rating: 8.7
+Date: Mar 16, 2006 1:59 pm PT
+Review:  This is a pretty good game for its genre. The graphics in this game are way ahead of their time. 
+ The game play is fun but later gets a little bit boring. The campaign in the game is not really 
+ fun but the multi player and the single player are very cool. You have a choice between 3 different 
+ corporations in this game each one of them has their special technologies and units. Its fun when 
+ you capture your enemys parts of robots and bring put them on your own robot. I highly recommend 
+ this game for players that like strategies and robots at the same time. 
+::::::
+
+-------------------------------------------------

@@ -1,0 +1,170 @@
+-------------------------------------------------
+:::Game Name::: Squad Assault: West Front
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/squadassaultwestfront/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jan 28, 2004
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.4
+Critic Score: 6.8, 16 Review (s)
+User Score: 7.0, 50 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Matrix Games
+Developer: Freedom Games
+Genre: Real-Time Strategy
+Date:     Nov 2, 2003
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+It's an engaging and realistic tactical wargame that's hampered by lackluster graphics and a strong 
+ sense of dj vu. 
+
+  It's time to go back to Normandy again in Squad Assault: West Front, a real-time tactical wargame 
+ that bears more than a striking resemblance to the classic D-day-based wargame Close Combat. That's 
+ not too surprising since Squad Assault designer Eric Young worked on the Close Combat games. That 
+ also explains why, aside from the graphics engine, virtually nothing has changed. In fact, considering 
+ that Squad Assault covers the same ground that the first and fifth Close Combat games did, it might 
+ almost qualify as a remake of those games. While Squad Assault captures the intense and realistic 
+ feel of being a company-level commander in the heat of battle, it may also feel like familiar territory. 
+
+          The Yanks come ashore under withering fire.  Saving Private Ryan , anyone?     
+
+  You 
+ command Allied or Axis forces in a series of tactical engagements that represent the Normandy campaign, 
+ from the landing on the beaches on D-day to the eventual breakout by the Allies. There's a wide 
+ selection of battles available, from the brutal beach landings to close-quarters combat in the 
+ bocage, the thick-hedgerow country that made the campaign a nightmare for the Allies. The campaigns 
+ are dynamic: You start with a core group of units that you carry with you through the campaign, 
+ and if they're lost in combat, you can requisition new troops using a point-allocation system. 
+ In keeping with most wargames, there's an impressive amount of historical detail; squads are properly 
+ outfitted with the appropriate weapons, and vehicles are represented by the many different variants. 
+
+  The game mechanics and interface are pretty much lifted straight from Close Combat, including the 
+ simple and elegant point-and-click command system. All you have to do is select a squad or vehicle, 
+ pick an order from the menu, and then click on the map. You can pause whenever the action becomes 
+ overwhelming to issue orders. Your troops are usually smart enough to comprehend your commands; 
+ give them an order to assault a building, and they'll throw smoke grenades to cover their attack 
+ and then charge.  
+
+  Squad Assault also incorporates the morale model that Close Combat was so famous for; soldiers 
+ each have a detailed psychological model so that they behave like real human beings rather than 
+ mindless automatons. If a soldier sees all his buddies cut down around him, odds are he'll panic. 
+ Apply enough pressure, and he may snap and go berserk, launching himself at the enemy in a suicide-like 
+ charge. Give a soldier an order that will most likely result in certain death (for instance, an 
+ order to charge a German machine gun nest head-on) , and he may very well ignore you and cower behind 
+ cover. It's a great system because it forces you to recognize the limits of your men and to work 
+ around them, like a real commander. Unfortunately, sometimes it feels like your elite troops can 
+ break a bit too easily in Squad Assault, and you'll often see them trying to flee off the map in 
+ droves. Thankfully, there is an option to make your men follow your every command so they don't 
+ bolt.  
+
+  The key to success, like always, is to employ proper tactics. Squads should always travel in pairs, 
+ with one covering while the other bounds ahead. Suppression fire, mortars, air strikes, and naval 
+ gunfire should be used to disrupt enemy attacks and pound defensive positions. Armor should be 
+ used in support with plenty of infantry protecting their vulnerable flanks. If you're an avid wargamer, 
+ these concepts are second nature to you, but if you're new to the genre, they're painful lessons 
+ to learn, and if you don't learn them, the game will most likely be a frustrating experience. Squad 
+ Assault does introduce a new 3D graphics engine to the Close Combat formula, and there are a number 
+ of advantages to going to 3D. One of the longtime problems with Close Combat was that it was very 
+ difficult to read the terrain. You'd maneuver units only to discover they didn't have a line of 
+ sight on an objective. The 3D engine changes that, as now you can maneuver the camera anywhere. 
+ You can zoom down to get a grunt's-eye view of the action and see the terrain, or you can switch 
+ to the traditional top-down view, which is easier for issuing commands. The 3D engine also means 
+ that buildings can be destroyed and trees can burn, which gives you a much stronger sense of the 
+ battlefield.  
+
+  However, Squad Assault's 3D engine is also the game's biggest weakness. It's a very lackluster 
+ graphics engine. Ground textures are very low-res and blurry; units are a bit blocky and unit animations 
+ are jerky; and trees and buildings are very basic. There's also no attempt to hide the map's edge, 
+ so it's as if the battlefield exists in a vast, blurry plane. Obviously wargames don't have the 
+ budgets they used to (Microsoft was the publisher of the first three Close Combat games) , so production 
+ values across the genre have declined as a result. But there's still a lot of room for improvement 
+ in Squad Assault's graphics. Though they won't be a detriment for wargamers who are used to not 
+ having fancy 3D graphics, they will certainly be a turnoff for casual gamers and newcomers to the 
+ genre. The poor aesthetics also affect gameplay. Due to the sparse amount of detail, many maps 
+ are just wide-open kill zones with little cover on them. Because of this, units have considerable 
+ line of sight in most directions, allowing them to mow down opponents from hundreds of yards away. 
+ Even the bocage offers little cover and concealment at times. Also, buildings are only modeled 
+ with ground floors, so there's little point in occupying a three-story building for line-of-sight 
+ advantages, because the upper two floors don't exist. The sound effects vary in quality. Weapons 
+ and vehicles sound authentic (the MG-42 does indeed sound like cloth ripping) , and soldiers cry 
+ out when they're hit or panicking, but the voices sound like they were recorded by a couple of 
+ guys in a garage.  
+
+          A Sherman pummels a building where Germans are hiding.     
+
+  The AI is generally pretty solid on the defense, but it can seem a bit hesitant on the offense; 
+ sometimes it won't press the advantage and deliver the killing blow. There is support for two players 
+ in multiplay, and that can be a very rewarding experience, since there's no computer AI that can 
+ match the cunning and guile of a human opponent. Your soldiers perform pretty well, but they're 
+ also plagued with an inability to conserve ammunition. It's frustrating to watch an entire squad 
+ waste all its ammo on extremely low-percentage shots. Soldiers in the Close Combat games were smart 
+ enough to know when they were running low on ammunition and to reduce their rate of fire, but there's 
+ no sign of this kind of behavior at all in Squad Assault. And while Squad Assault borrows many 
+ of Close Combat's interface conventions, it also omits a few of the really useful ones. For instance, 
+ you can't click on a message to center on the unit it concerns. You'll be told a soldier is running 
+ out of ammo, but unless you happen to remember which squad he belongs to and where that squad is 
+ currently on the map, it's pretty much useless information.  
+
+  Squad Assault is an engaging, realistic tactical wargame, but it also doesn't stray far from the 
+ Close Combat formula. While there's nothing wrong with that, there is a definite sense that we've 
+ played this game before. It would be nice to see some innovation in the gameplay. Though the 3D 
+ engine does represent an advance, it's hampered by the poor presentation. There is certainly potential, 
+ though. Developer Freedom Games plans to turn Squad Assault into a series of games, like Close 
+ Combat. Hopefully, they can build on the groundwork they've laid down in Squad Assault.     
+-------------------------------------------------
+:::User Reviews::: (2 Reviews)
+::::::
+UserName: LVMPDawg
+Rating: 8.9
+Date: Dec 30, 2003 7:31 pm PT
+Review:  William Trotter's (a trusted Grognard) review of this game was dead-nuts on. It is a complete joy 
+ to play, and has taken much of my free time in the last week or so, since I had to wait 'till Christmas 
+ for this one. Being a fan of the Close Combat series, this was a must-have, as the developer Eric 
+ Young, was involved with that label. His last effort left something to be desired, so I was a little 
+ hesitant. Lay your worries to rest, as this game has brought back the flair of the origional and 
+ more! Obviously it is in 3D, meaning not only the terrain, but the character models as well. You 
+ can see incredible detail when zoomed in. Gameplay is frantic, exciting, and sometimes funny. On 
+ one map I had a sniper that I was concentrating on (I just wanted to get his stats up) , targeting 
+ a few straggling enemies etc, when he stumbled into a house where 2 Fallschirmjager were hiding. 
+ He went to melee, but panicked and ran. These Germans apparently went ape (fanatic) on him and 
+ chased him across the whole map until I could direct a squad nearby to stop them! The game is filled 
+ with moments like this, and you find yourself actually rooting for your guys, hoping your favorites 
+ will make it through the battles. The only niggles I have are trivial, such as: The British accents 
+ are hoaky at best. The routed soldiers stay on the map and hide in the open where they can be wiped 
+ out. Tanks sometimes sit with their rearends pointed toward the enemy. No popup bubbles to tell 
+ you what each button will do (of course I know what they do now!) . Those are my only complaints, 
+ other than the fact that I need to brush up on my tactics and stop getting my men killed! If you 
+ like stretegy games, you need this one! 
+::::::
+
+::::::
+UserName: Gen_Rommel
+Rating: 7.8
+Date: Dec 17, 2003 1:45 pm PT
+Review:  There are only a few problems with this game. Let me start off with mobility... sad.. indeed you 
+ start the game a level such as omaha if you barrage them like twice they sit and move there and 
+ sneak foward crawling slowly and yoiu cant even shoot at them your line of sight isnt good enough 
+ but I dont see how there on an open beach you got like 10 mgs and they cant seem them on a open 
+ beach yea right! Another thing firing it is pretty easy to kill somone but I mean this is kinda 
+ pushing it its realistic but still even though like on another beach level you have houses for 
+ beach heads not the tiny little sucky bunkers they give you so better for ya right.. wrong they 
+ shoot from the beach nailing your guy right in the eye killing him but what I dont understand is 
+ how your mg-42 cant nail a guy on an open beach when they can hit you with a fricken sub machine 
+ gun. Beside these small flaws this game is great its fun to play but if you get the slow levels 
+ where they creep to your pos which takes like 15 mins this game is worth buying if you are hard 
+ core wwii stradegy games because you could probably get pass all the little problems its not as 
+ bad is it really sounds but its pretty noticable all in all this game is good but not that good 
+ but probably worth buying if you love these time games like close combat. 
+::::::
+
+-------------------------------------------------

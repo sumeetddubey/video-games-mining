@@ -1,0 +1,1011 @@
+-------------------------------------------------
+:::Game Name::: Legend: Hand of God
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/action/legendhandofgod/review.html
+-------------------------------------------------
+:::The Good:::
+ Follows a comfortable action RPG formula.
+-------------------------------------------------
+:::The Bad:::
+ Bugs with PhysX make it hard to even start the game.
+ Generic story, monsters, and maps.
+ Spectacularly obnoxious voice acting.
+-------------------------------------------------
+:::Date::: Aug 19, 2008
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 4.5
+Critic Score: 5.1, 5 Review (s)
+User Score: 5.2, 489 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: ValuSoft
+Developer: Master Creating
+Genre: Role-Playing
+Date:     Aug 1, 2008 &raquo;  
+ESRB: Mature
+
+-------------------------------------------------
+:::Review:::
+Legend is just another uninspired action RPG. 
+
+  Action RPGs may be a ubiquitous these days, but there is always room for another one... if it brings 
+ something new to the table or nails that good old Diablo formula. Unfortunately, developer Master 
+ Creating's attempt to both innovate and satisfy tradition has been waylaid by flaws in Legend: 
+ Hand of God's design and execution. Repetitive battles, dull maps, no multiplayer, and some serious 
+ bugs make Legend a less than optimal choice to kill a couple dozen hours between now and the still 
+ depressingly far-off release of Diablo III.  
+
+           Generic spells are still effective at making goblin flamb.      
+
+  You might not be 
+ able to get the game running in the first place, as Legend has some serious bugs in its implementation 
+ of PhysX, Nvidia's separately-installed physics software. It constantly aborted during startup 
+ on our test machine, dropping back to the desktop with the error message that PhysX couldn't be 
+ initialized. Trying various Nvidia video and PhysX drivers did nothing to solve this problem. Only 
+ a last-ditch Google search hit pay dirt, coming up with the advice that you could work around the 
+ PhysX error by deleting the PhysXCore. dll file in the game directory. So, lots of fun. It's hard 
+ to tell if this is an Nvidia or a Legend issue, but the end result is a lot of unnecessary frustration. 
+
+  Going through so much hassle isn't exactly worthwhile, either, considering the cliched game design. 
+ Everything here is uninspired. You play Targon, a typical studly RPG hero, who's out to rid his 
+ medieval fantasy world of Aris of a nasty demon infestation. The key to shutting down a recently 
+ established demonic mass transit system is -- you guessed it -- the Hand of God. This mystical MacGuffin 
+ is the only thing that can seal the portal that the demons are using, but, of course, the artifact 
+ has been broken into three pieces and hidden throughout the land. Your mission is to track down 
+ these shards, reforge the Hand of God, and use it to chase the flaming guys with horns back down 
+ to hell. Sound familiar? The storytelling is straightforward, at least. Legend lays out the demon-horde 
+ angle from the moment the action begins and gets you started on the hunt for the Hand of God at 
+ the end of the first major quest, so at least there isn't any cheap attempt to make this derivative 
+ tale seem loftier than it really is.  
+
+  Gameplay mechanics are equally uncomplicated. Character development is certainly clear-cut, as 
+ you choose two skill paths from five total choices presented at the start of the game. This essentially 
+ allows you to mold Targon into a dual-class character, blending traits of the warrior, mage, cleric, 
+ thief, and ranger. Select the paths of wilderness and the warrior, for instance, and you create 
+ a ranger good with bows. Skills are doled out in trees based on these paths, and they can be purchased 
+ with points earned every time you level up. So warriors choose from the likes of battle tactics 
+ and weapon block, mages pick from abilities such as fireball and ice arrow, villains take feint 
+ and deadly blow, and so forth. There aren't a great deal of choices in these trees, though. Each 
+ features just 12 options, which leaves you without much ability to seriously customize your character. 
+ At any rate, you generally buff your take on Targon with most of the skills on offer, and take 
+ one or two special abilities that you'll lean on during combat throughout the entire adventure. 
+
+  Not that you could do much with a heavily customized character in the dreary levels of Legend. 
+ There isn't enough differentiation between character paths and skills to allow you to mix up fighting 
+ styles or get into even the rudimentary tactical thinking emphasized by some action-oriented RPGs. 
+ Battles are monotonous slogs that always come down to how fast you can click the left mouse button 
+ and suck down health potions, so it doesn't much matter whether you're a battlemage or a cleric 
+ or a thief. Monster types vary little, as well. You never have to think much about what you're 
+ battling, as all creatures in the game fight in pretty much the same fashion no matter what they 
+ look like. Altering your battle strategy isn't necessary whether you're taking on thieves or goblins 
+ or bears or giants. Random maps underline this monotony. Maps are created on the fly for each game, 
+ but this good idea backfires because such randomization breaks the terrain down to collections 
+ of anonymous grassy fields and rocks brought to life with a visual engine at least five years out 
+ of date. Static maps with interesting architecture would be a lot more compelling than this generic 
+ topography, which is so boring that it's impossible to tell one region from another.  
+
+  The only innovative twist in game design comes courtesy of Luna the Light Elf, a buddy of Targon's 
+ who inhabits the cursor. This is actually a nifty idea. Luna's existence explains the cursor's 
+ presence in the gameworld, which is certainly innovative. She lights the way ahead without forcing 
+ you to equip a cumbersome torch. And she also provides tips about the best weapons and armor to 
+ pick up and screams warnings to gulp down a health potion whenever you're in danger of shuffling 
+ off this mortal coil. So Luna is pretty helpful -- or at least she would've been if she hadn't been 
+ brought to life by an actress whose voice will make your ears bleed. Her screeching reminders are 
+ a constant presence throughout the game, making her commentary seem more like punishment than assistance. 
+ Voice acting in the rest of the game is equally horrific, especially the smarmy frat-boy take on 
+ Targon and the one-note monster sound effects such as the "Hah!" muttered by thieves, but at least 
+ that dialogue isn't as in your face -- er, in your ears as much as Luna.  
+
+           You want generic hacking and slashing, you'll find it here.      
+
+  As one last kick 
+ in the teeth, Legend doesn't even give you the option of skipping out on its lifeless single-player 
+ campaign for multiplayer mayhem, because there is no multiplayer option. It's hard to imagine such 
+ a perfunctory exercise in action RPG game design being any more enjoyable online than it is offline, 
+ although it would have at least been nice to have this as an option. Despite the above litany of 
+ complaints, Legend isn't so much an awful game as it is a dreary, cheerless one designed with a 
+ paint-by-numbers sense of artistry. Some action RPG fans may find it a reasonable way of passing 
+ the time, although more discerning players will quickly grow tired of its lack of imagination. 
+     
+-------------------------------------------------
+:::User Reviews::: (28 Reviews)
+::::::
+UserName: Gamer-1024
+Rating: 7
+Date: Feb 26, 2009 6:10 pm PT
+Review:  When the demo was released and we played it we realized that this title would be nothing to write 
+ home about, just another Diablo'esque clone.
+  
+  As far as I can tell, I don't see any great new features built into this game, my mind is set that 
+ if you are going to build a diablo clone type of game, then you'd better build a better clone then 
+ the last one. Developers have not been able to top Titans Quest to date and so Im often left with 
+ a puzzled look on my face when Im playing any of these new (er) clones. This title had me looking 
+ puzzled to.
+  
+  It's your basic Hack 'n Slash diablo clone with poorer controls then what is available in Titans 
+ Quest, and a extremely poor way OVERSIZED interface.
+  
+  To equip items you are shown your character screen, 12 inches of my monitor is dedicated to a 3D 
+ animated paper doll, and the other 12" of my monitor is dedicated to my toons stats and inventory.
+ 
+  
+  To equip an item you drag it from your inventory over to your paper doll like many games have you 
+ do, except since you don't have proper slots to drop the items into, you might find you are dropping 
+ that uber (not so much) sword on the ground, and can't pick it up unless you exit the character 
+ screen. It's akward at best as is all of the inventories over bloated size.
+  
+  Game World: Not so bad, a little dark at times, but in general there is enough lush landscape to 
+ keep my eyes googling for more. However level design is horrid. When the developer doesn't want 
+ you traveling in a certain area, they simply put in a hillside that you can't traverse, or a clump 
+ of trees that you can't walk through. It is in this way that Im often felt as I'f im bewing led 
+ around by the nose with a carrot dangling out in front of me in the form of my next encounter to 
+ try to get better loot.
+  
+  Quests, some pretty basic stuff here atleast in the beginning. Go fetch me a wheel for my horses 
+ carriage but you can't go the main road as there are bandits that will outmatch you and just kill 
+ you everytime you try, or how about a lady left in a town that was destroyed, somehow miracously 
+ she was spared as was her most annoying child who is now in a cave somewhere (TO THE NORTH) . You 
+ walk north but are stopped by that clump of trees.
+  
+  Last time I checked North was well... North, but in this case it seems I had to wander around to 
+ the east and west and somewhat south, before I came upon a cave where this annoying brat was at. 
+ He wouldn't even leave the cave until I killed the shaman. Most annoying part of this was that 
+ the Shaman and his guards were way over at the other side of the cave and were not even aware that 
+ I existed. I could have taken the boy and walked right back out (bad level designer) .
+  
+  Sound and Music: Not horrible, however I can already feel that I will turn off the music at some 
+ point in the near future.
+  
+  Gameplay: Simple hack n slash, click and hold left mouse button when on enemy to continue hacking 
+ away with your sword. But keep your mouse cursor at least somewhat close to your enemy to prevcent 
+ stopping the attack. Annoying that there are times that my toon absolutely fails to attack my enemy 
+ and I have to keep repositioning my fairy cursor over my enemy and click again. Oft times the enemy 
+ has already beaten quarter of my health out of me.
+  
+  Replayability: ABSOLUTELY A BIG FAT STINKING ZERO replayability. I'll be damned if Im interested 
+ in going through all of the same quests over again with the same exact character. I really don't 
+ think that the multiple choices of what you are going to be really dictates much difference in 
+ gameplay for me. It's still the basic hack and slash that this game is unfortunately made up of.
+ 
+  
+  If you can get this one on sale for $9.99 or less then it's going to be worth the trip down memory 
+ lane as you fondly remember Diablo II and soon enough exit Legends and reinstall D2 for another 
+ go. However anywhere above that 10.00 price point and it's pretty much a wast of money, you may 
+ as well just go buy a couple pack of ciggerettes and take up smoking instead.
+  
+  Game could have seriously needed a map editor like in Titans Quest who still has a huge community 
+ of player and map makers behind it even though the developers have long since moved on.
+  
+  When someone asked on the official forums about a new patch for Legends, one of the moderators 
+ basically told him, don't hold your breath, it's not likely at all that there will be another patch 
+ for Legends. Sad, they couldn't even get an active community going for the game before it was released 
+ and soon enough seem to have abandoned the game after release, seems about normal for the lower 
+ end developers that have yet to realize that community is everythig for their reputation and their 
+ games reputation.
+  
+::::::
+
+::::::
+UserName: asestar
+Rating: 7
+Date: Aug 28, 2008 5:27 pm PT
+Review:  I'll start by saying that this game is underrated. Really underrated if i might be so bold. 
+  
+  Sure the story is pretty generic "save-the-world" affair, voice-over quality is quite horrific 
+ in places and the performance isnt very optimized but its a fun game despite all that. 
+  
+  Lets start by the technical. Even on my pc which i consider pretty fast rig (19"lcd -  512mb 8800GT, 
+ 4gb ram, nforce750i, C2D E8500, WinXP SP3) it gets a bit choppy in places. And to actually start 
+ the game u have to delete a file in game folder, otherwise it just gives an error about physx. 
+ All i can say is that i was not expecting such game to tax my system to point where using AA was 
+ making game unplayable. The game launcher has ability to set wallpapers, and there's a few good 
+ wallpapers, one with a rather pretty lady ;) 
+  
+  Presentation: 3/10
+  
+  
+  Graphics are pretty decent. There are lush trees, grass, shiny water and the lot. Shaders are pretty 
+ well done. U notice small details as reflective metallic strips on barrels, shine and glow of torches, 
+ ground dust and so on. Although the level design is rather uninspired, its never a bother. 
+  
+  Graphics: 8/10
+  
+  
+  Audio is mixed bag. While i really like music and most sound effects, 
+ dialog is mediocre at best. 
+  But atleast they did put dialog in it rather than let you read bunch of text.. so thats commendable.
+ 
+  
+  Audio: 6/10
+  
+  
+  Gameplay is fun, fast and quite hectic. Story isnt much to keep u interested but it never really 
+ bothers you. What it lacks in motivation, it more than makes up with sheer amount of loot you encounter. 
+ Which is a motivation by itself. Its basically diablo 2 in modern coat. 
+  
+  Gameplay 7/10
+  
+  
+  The interface is something quite interesting. Namely the cursor has gotten 
+ special treatment, as it acts as your familiar (a little bright fairy) . She will illuminate the 
+ surroundings, click on things and give u feedback when u encounter a higher level gear. She also 
+ interacts a lot such as complaining if u pick up too much low-end gear, if your inventory gets 
+ full, warn u when you're low on health and so on. Its a really neat touch. Otherwise, the loading 
+ is fast and saving is faster. The main hotkey system is bit awkard, as u cant assign direct keys 
+ for spells. U can only cast spells/actions with 3 main mouse buttons. So each 'hotkey' just switches 
+ which mouse button will do what. I wish it had a normal hotbar with direct access to 1-9 keys.
+ 
+  
+  Interface: 7/10
+  
+  
+  Overall this game is fun. Its low budget, but they really put lot of effort into making it. And 
+ that should be commended. Too bad the quality control did a bad job and shipped game with a non-starter 
+ bug and some horrible performance. It could've been a real gem.
+  
+  Overall 7/10 
+::::::
+
+::::::
+UserName: chronos_ss2
+Rating: 7
+Date: Aug 24, 2008 9:52 am PT
+Review:  The Good:
+  You set out to find the Hand of God, which is suppose to save the world from being overrun from 
+ demons, while doing side quests and such. The game in part is very similar to any other RPG we've 
+ played specially Diablo I and Diablo II, specially the skills. You have plenty of skills to choose 
+ from and assigned them in what ever order you want to your character as you progress through the 
+ game and you gain levels, just as you would in Diiablo I and Diablo II (just as a side note, I the 
+ fact that I mention Diablo I and 2 here is just so that if you are reading this you have an idea 
+ of how the skills of this game are arranged. This game DOES NOT comes close not even by a millimeter 
+ to Diablo I and 2) . There a lot of items through out the game, lots of variety, different weapons 
+ with magic attributes which makes it fun to slay monsters with. The story of the game is nothing 
+ special, its simple really, you have to retreive the Hand of God and save the world, that's it, 
+ although I can't really say much about the story cause I really didn't play the entire game to 
+ the end. There are also this rune stones through out the game that lets you teleport between areas 
+ that you have already visit them that have them, that way ytou don't have to run all the way back (just 
+ like soul reaver or diablo2) . Graphics are ok, but nothing special even with everything in high. 
+ Monster variety is good, a good variety, but not as much as you would like it to be.
+  
+  The Bad:
+  moving on to the bad. Good luck trying to get this game to run, I had a lot of problems 
+ getting the Physx Software to even start, game tends to just crash for no reason without displaying 
+ any messages, it just poofs and your out. If your having problems getting this game to work, you 
+ can search the net for answers, you'll be surprise how many people had the same problems, or you 
+ can e-mail me :) . Anyways, other than that, the game is nothing you haven't seen before, the characters 
+ don't have real drama, there is no spark!. But if you play it, you might like it or you may not, 
+ you may be get bored out of your mind lol. 
+::::::
+
+::::::
+UserName: Matteus
+Rating: 5.5
+Date: Aug 23, 2008 3:46 am PT
+Review:  The games graphics is very nice and the animation
+  is smooth and lifelike.
+  The sound effects are very good.
+  But the fights are repetitive and boring.
+  As a player you 
+ must follow the roads and paths. As a player you are very controlled and tied up.
+  The skill-tree has too few skills to upgrade your character with and is not well balanced.
+  Over 
+ all the game is unbalanced and if you for example
+  plays with a character that is half part Mage and half part warrior all you have to do is upgrade 
+ your fireball
+  and fire spells and your armour skills in the warrior skill ladder. Buying a lot of healing and 
+ Mana flasks you will be able to kill all the monsters in the game with ease.
+  A couple of a bit harder monsters can be killed with ease as you can cast fireballs at them on 
+ a distance.
+  They will not even come at you at all they just stand there and dyes!
+  I do not agree with Gamespot of the poor voise acting
+  in the game I dont think its that bad. 
+ The ferry can be rather funny at times.
+  This is a game that the developers has forced through
+  and with some more planning and a more 
+ thrilling story could have ben so much better.
+  If you are planing to buy this type of game
+  buy Titan Quest instead! Or reinstall that old masterpiece 
+ Diablo II. 
+::::::
+
+::::::
+UserName: Arisiab
+Rating: 3
+Date: Aug 20, 2008 3:46 am PT
+Review:  i first though that this game would give me a similar experience as tq and diablo did. But once 
+ you start the game, the voice acting makes you imideately make you shut down your computer.. The 
+ story is uninteresting and the combat isnt very fun, even if you get to cut arms and cut off zombie 
+ heads. The sound effects are bad too. The graphics are kinda good, they look kinda like tq's graphics. The 
+ game generally doesnt create an atmosphere and it doesnt make you feel tha you are having fun in 
+ my opinion. The monsters also are kinda the same as you seen in most fantasy rpgs, goblins skeletons 
+ elfs golems and so on .Its just your typical rpg with nothing much too offer but too much to make 
+ you remove it from your pc in less than five hours... Please rent it first and dont install the 
+ physx because it will srew up the game. 
+::::::
+
+::::::
+UserName: madbombr
+Rating: 4
+Date: Aug 19, 2008 9:59 pm PT
+Review:  After it took almost 2 hours to get the game running, even with fixes posted on the developers 
+ site, I should have known this was not going to end well. Opening video showed promise then it went 
+ down hill fast. First thing I noticed was a very bad targeting system, even after clicking on the 
+ target you would run past it and have to click again. Graphics looked average, but the main thing 
+ in a RPG is a story that pulls you in, and it was not there at least for me. The environments were 
+ boring and dry. The level up and point system was almost pointless. If your mouse was too sensitive 
+ it became immpossible to change you weapons. On the bright side the inventory system worked well. 
+ Bottom line if you want a Diablo fix Go get Diablo 1 or 2 from the bargin bin and play, as for 
+ me I'll stick with Neverwinter Night 2 and Guild Wars 
+::::::
+
+::::::
+UserName: Neoplastic
+Rating: 5
+Date: Aug 19, 2008 7:12 am PT
+Review:  I'm bored of this game because it does very little to keep you going, the item drops for the heroe 
+ in this game leaevs allot more to wish for as well as the story. I would probably have just as 
+ much fun playing Tetris.
+  
+  If they had more time to work on this game or more ambition even I'm sure it would have been a 
+ better game than it is today. As it stands now I get the feeling they rushed through development 
+ leaving some bugs to go with it just to beat the launch of theupcoming Diablo 3.
+  
+  When I turn of this game I don't feel like I've accomplished anything. It is less than satisfying 
+ to stumble around a game map that looks and feels very repetetive. The layouts are all very basic, 
+ I'm not saying basic is bad but this is poorly executed. 
+  
+  Item drops in the world seems to be made to avoid catering to the player class. I usualyl get anything 
+ but what Iw ant for my hero as I play along. I rarely feel the need to exchange my gear, even for 
+ so calle drare items.
+  
+  The interface is decent but has some annoying "features" that just makes the character a little 
+ frustrating to controll.
+  
+  Over all, I would say this game is playable, but mostly a waste of time. So unless you have somethign 
+ better to do, by all means play. 
+::::::
+
+::::::
+UserName: RanceMiller
+Rating: 7.5
+Date: Aug 17, 2008 4:28 am PT
+Review:  Although it still suffers some minor bugs, such as a slow mouse and no way I have found to correct 
+ it, I found the game very playable and rather enjoyed it. Nope, not as good as Diablo II but a 
+ good try, engaging storyline and fair implementation left me satisfied. Being able to pick from 
+ 2 of 5 classes is a major plus; my character at least felt unique which is a major plus as far 
+ as I am concerned. I have played it from several different perspectives, from full melee to full 
+ mage and everything in between and enjoyed each game. Like all of Gas Powered Games entrees; it 
+ is a solid game well worth the money. You know, getting this damn thing to 800 characters in order 
+ to submit is hard, so I have to pad it a trifle, they should really reduce the requirements, they 
+ would get more submissions that way. 
+::::::
+
+::::::
+UserName: friskyolive
+Rating: 7
+Date: Aug 16, 2008 8:42 pm PT
+Review:  A good game, if you're into wasting a bit of time, and something you are accustomed to, in terms 
+ of hack n slash adventuring, which won't bore you, too much. The storyline is a little weak, though 
+ does offer a little twist during the climax of the story. The graphics are good, the replayability 
+ is there, with several options to choose from. Is it immersive, and does it offer a compelling 
+ reason to try all said dual classes? for sure, though, in the end, it's the same outcome. The sound 
+ quality is pretty good, though the voice acting is a little novice/amateur.
+  
+  I've played a few times, and the end result is to get the game over with, as soon as you start 
+ your next dual class and/or next difficulty level. From playing Diablo series and Titan quest (Original 
+ and Immortal Throne) I'd have to place it last of the heap, and Titan Quest, first. 
+::::::
+
+::::::
+UserName: Decon5
+Rating: 7.5
+Date: Aug 14, 2008 4:55 pm PT
+Review:  Now imagine that it's one of those really, really ugly babies that you can't stand to look at, 
+ but the parents are so proud of it you at least want to humor them, and before you know it you 
+ find the kid kind of cute; that is exactly what Legend - Hand of God is.
+  
+  The game is fairly straight forward, the story is well... sloppy to say the least. It's very predictable, 
+ but then again most of these style games are. It reminded me more of Dungeon Siege then it did 
+ Diablo 2, mainly because of how you run around and handle combat. It's no Neverwinter Nights in 
+ combat, but you can catch my drift.
+  
+  Overall, the games fun, but not worth 40 bucks.
+  
+  Sound: 15/20
+  Despite the horrible voice acting, combat sounds, music, etc. is really pleasant 
+ and fits the games atmosphere. 
+  
+  Gameplay: 12/20
+  Choppy at some parts, kind of slow at others, the games overall gameplay seems to twiddle down 
+ the longer you play, but as soon as you come back to the game after a break, its back to being 
+ fun. One cool addition that I liked is the fairy courser, I'll get into that in graphics.
+  
+  Story: 10/20
+  Really? Your home is destroyed? You need to go on an epic journey alone to 
+ find something? Where have I heard this before...
+  
+  Graphics: 14/20
+  They humored me. This game didn't come out claiming to have amazing graphics, but they are definitely 
+ sub-par to this generation of games. The cursor on the other hand is friggin' sweet. In dark dungeons 
+ you often find yourself using your mouse cursor (which is a Light Fairy, kind of like Tinkerbell) 
+ to see into dark corners or down blackened hallways.
+  
+  Controls: 15/20
+  Click... kill... click... click... cast a spell. Loot drops... it is like every other hack 'n' 
+ slash game in the market. You kill, you loot, you cheer if you find something cool, and then you 
+ continue.
+  
+  Final Verdict: 15/20
+  Congratulations to Legend - Hand of God for creating a half decent hold over for everyone anticipating 
+ Diablo III. If you liked Dungeon Siege, Diablo 2, and Titan Quest, this game is for you.
+  
+  If you didn't like those games, why are you reading this review? Go find a game you'll enjoy!
+ 
+  
+::::::
+
+::::::
+UserName: omega11
+Rating: 6
+Date: Aug 28, 2008 5:30 pm PT
+Review:  This game is basically a Diablo clone with updated graphics. The graphics are very well done with 
+ solid lighting and weather effects. I was actually quite impressed with the look and feel of this 
+ game. The game play is a simple hack'n'slash action rpg very much like Diablo. You might even think 
+ this is a revised version of Diablo. So, if you enjoyed Diablo, you'll enjoy this game. There's 
+ a simple storyline that's not worth getting into, but it's not at all bad because there's some 
+ seriously comical dialog in this game. Luckily, it's all done in a good way.
+  
+  The only negative remark that I can give this game is that the graphics engine stutters for a second 
+ or two periodically when a new map is being loaded. I'm running this on a relatively high end rig 
+ with a GTX 260 and 4 gig of RAM and it gets annoying sometimes, but it doesn't ruin the game for 
+ me. I wonder if it's because of Vista? Not sure. It's obviously loading the new maps from the hard 
+ drive and it stutters during the load. Other than that, the game has been running rock solid for 
+ a about a week for hours with no lockups. Not bad at all.
+  
+  In conclusion, this is definitely worth a look especially considering the price of admission. I 
+ would recommend this to anyone looking for a Diablo clone to hold them off until the release of 
+ Diablo 3. 
+::::::
+
+::::::
+UserName: Son_Jazrin
+Rating: 5
+Date: Aug 13, 2008 10:54 am PT
+Review:  Before I get started, I just have 1 question, does this game really need to have PhysX? IMHO it's 
+ just not visually impressive enough to require the extra drivers.
+  
+  Imagine if you will a darker and boring version of Titan's Quest and you have this waste of time.
+ 
+  
+  Music is the one thing that I give credit to in this game, I liked how as you battled more enemies, 
+ the music changed and if a boss type enemy was thrown into the mix, it would change even more.
+ 
+  
+  There has been quite the uproar on the net with problems this game has with Vista. I too have encountered 
+ one problem with the game shutting down for seemingly no reason, after checking on UBI's site and 
+ seeing that there is no help available, I decided to take this opportunity and just uninstall it.
+ 
+  
+  The only saving grace with this game is that I got it on a "Try it before you buy it" sort of plan. 
+ I would've been extremely pissed had I actually bought this piece of trash.
+  
+::::::
+
+::::::
+UserName: alistervk
+Rating: 8
+Date: Aug 13, 2008 3:44 am PT
+Review:  'Hey, To anyone having the ageia physics driver error crap what you have to do is uninstall the 
+ old aegia physics drivers and also you have to manually goto your registry editor and remove the 
+ folder Ageia Technologies (just goto the menu at the top and do a search for Ageia and eventually 
+ the folder will come up) .
+  
+  Then after that is deleted just install the new physx drivers system software off of nvidias website. 
+ I thinks whats happening is the game wants to see the nvidia drivers (since they own Ageia now) 
+ but most ppl still have the Ageia version.
+  
+  This really isn't that hard to fix. In fact if you never had Physx before now, it would take about 
+ 5 minutes, which is about the time it would probably take to install the game itself, giving you 
+ something to do while you wait.
+  
+  So after I did that the game runs . You like Diablo / Sacred buy this game . Its not as polished 
+ as Diablo 2 but its ok .
+  
+  Oh yes my mouse moves quite slow and there is no settings to make it go faster ? 
+  
+  Review 
+ 4 
+::::::
+
+::::::
+UserName: Mazoch
+Rating: 4.5
+Date: Aug 11, 2008 8:05 pm PT
+Review:  Like many others, the news of the upcoming Diablo3 have sent me looking for a Diablo fix until 
+ the next installment. Initially it looked like Legend might have helped fill the void. I'm sad 
+ to say that this is not the case.
+  
+  The game almost gets it right in a lot of ways but never actually succeed in providing a solid 
+ game experience. The problem is every aspect of the game feels buggy, half finished or rushed out 
+ the door.
+  
+  Literally every aspect of the game have details that reeks of bad choices, for example:
+  - You 
+ cant go back to the main menu from the character selection screen, once you click continue you 
+ HAVE to load in a character.
+  - The world persists when you make a new character. If you make a new level 1 character and play 
+ to level 6 (for example) , you'll need to restart the game if you want to try another type of character. 
+ If you don't all the mobs will be missing when you load in. As a result you wont get any xp / loot 
+ and well.. there isn't much of a game until you reach the point you level 6 character reached and 
+ get killed in one or two shots by mobs much stronger than you.
+  - In spite of having a full 3d engine that even sports physics support, it seems that arrows can 
+ only be drawn pointing in 9 directions. That usually means that arrows are points in a direction 
+ different from the direction they are moving. In addition arrows are fixed to fly slightly above 
+ ground level. Fire an arrow from an elevated point and the arrow will follow the contour of the 
+ ground instead of flying straight to the target.
+  - Combat seems to be a lot more about who hits first than anything. Once you are faced with multiple 
+ mobs you are likely to loose simply because your attacks will be constantly interrupted.
+  - There is no way to see what skills are offered by the different classes until after you make 
+ your selection.
+  - It's really hard to tell your characters apart on the selection screen. Since you have no option 
+ in naming or changing the appearance of your character they all look alike and carry the same name. 
+ The selection screen doesn't even tell you what class the character is.
+  
+  Those are just the first that springs to mind, the list continues. Bad inventory screen makes it 
+ a pain to select and deselect items, bad menu and dialog selection often makes it hard to target 
+ options, REALLY bad voice acting. Bad enough that you wish they'd just used onscreen text.. it's 
+ really bad, poor sluggish controls.
+  
+  In a lot of ways it looks like it could have been a good game. Graphics are pretty, fairly customizable 
+ character development. However in the end your much better off picking up a copy of Titans Quest 
+ if your looking for a solid Diablo like experience while waiting for the king to return for the 
+ third time. 
+::::::
+
+::::::
+UserName: zoltcsas
+Rating: 8
+Date: Aug 11, 2008 12:58 am PT
+Review:  It can seem to be mediocre at first, but the gameplay is fun and the game turns out to be surprisingly 
+ good.
+  
+  I was without expectations when I started to play Legend, I only knew that it is a Diablo-style 
+ game. The first few minutes of the game can be frightening, I must admit. The story is boring, 
+ the voice-acting is irritating, and the game looks dull. But it isn't. After playing a few hours 
+ I found that the game is really good in the sense that it is a very straightforward hack'n slash 
+ without trying to be anything more. 
+  
+  The more I played the more I started to like the game. The "living" cursor seems to be an annoyance 
+ first, mostly due to its high-pitched voice, but later in the game, especially in the dungeons 
+ or crypts, the living cursor serves as a light source and the whole thing starts to look fantastic 
+ as the shadows change while following the little fairy-cursor. 
+  
+  The graphics of the game seems to be average at first, then, again later in the game, it becomes 
+ vivid and full of well-designed little details. The animations of the fighting is again well-done.
+ 
+  
+  The skill tree of the character seems to be quite simple and it is, but it serves its purpose really 
+ well, I was able to build a character to my liking, and, which is quite a pleasant surprise, the 
+ skills my hero learned became very useful in the game.
+  
+  All in all, Legend isn't a great game, it brings nothing new to the genre, but the gameplay it 
+ offers is full of funny moments and due to its nice visuals and well-designed fights it is very 
+ enjoyable to play this game.
+  
+::::::
+
+::::::
+UserName: Shivers_GotGame
+Rating: 8
+Date: Aug 7, 2008 4:46 am PT
+Review:  I have not finished the game but am on my way and have played about 12 hrs of it. I am surprised 
+ by this game because it is made from Value Soft and I have been really disappointed with games 
+ made by them. I agree that this Genre is a Genre that is almost too easy to create but they did 
+ a nice job.
+  
+  The game play is similar to Diablo but with better graphics. Voice acting is ok and the fighting 
+ is typical button mash. I don't think there is much to set this game apart from others of its type 
+ but i will say that Coke and Pepsi have not changed the original formula, so why should a game 
+ maker? The hack and slash pickup loot works!
+  
+  Not to go on but I will say that I would recommend this game to anyone wanting something to play 
+ until the bigger named games come. the game is fun, engaging and set at 29.99 most places so it 
+ is hard not to pass up. If the game was priced anymore higher I would still recommend the game 
+ but would say wait till the price comes down or sell old software at GameStop or something to get 
+ it but its priced right and plays very well. 
+  
+::::::
+
+::::::
+UserName: shirazy
+Rating: 8.5
+Date: Aug 7, 2008 4:37 am PT
+Review:  The Good:
+  Nice Graphics, well designed enemy models (like the Orcs) .
+  Good AI, making you feel vulnerable by knocking you off your feet.
+  Very good combat system, 
+ feels very real ,Unlike other RPS games
+  it has good physics of movement .
+  Simple GUI, with easy character attributes.
+  Smart level designs like checkpoints and routes.
+ 
+  Good idea for the dual talent skill option. 
+  Nice Celtic Music.
+  
+  The Bad:
+  Lack of GORE.
+  Minor bugs and some DX9 crashes.
+  Lots of skills are boring and useless, for 
+ instance, making the warrior talent have more special moves and more points per level.
+  The variety of weapons and apparel is poor.
+  Not enough Secondary quests.
+  
+  Conclusion:
+ 
+  The game is Fun, Flowing, Dynamic. although It was unexpected , it's a surprisingly refreshing 
+ and fun game, Very Recommended to all.
+  
+  
+  
+::::::
+
+::::::
+UserName: duckduden
+Rating: 9.5
+Date: Aug 6, 2008 12:25 pm PT
+Review:  Best game i have played in ALONG time.
+  
+  
+  
+  When i first saw this i thought, "ah well just another diablo rip of" but after playing it for 
+ a while i must say that this is the most wonderful/funny Action rpg i have ever played. Yeah sure 
+ the voice acting is crap, but have anyone seen a game where every npc+the player has voices. 
+ 
+  
+  the pixie pointer is at the beginning but once you begin paying it attention you notice that it 
+ really got alot of usefull things to say (like when an amulet drops, wich is so small that you 
+ might not see it) Also all the funny comments are a must.
+  
+  But what in my opinion put the extra fun into the game, is that while having an conversation with 
+ a npc you can interupt the npc by pushing waht you are going to say (of course the npc does not 
+ react to this, but it makes for some good laughts) .
+  
+  That the game is so laughable easy to get into and learn just makes everything better.
+  
+  So 
+ in my opinion i must say that this game is, not perfect but a must have. I think people should 
+ stop comparing everything to diablo and see what the game actually is instead. What is really so 
+ bad in this game compared to diablo? The story? (kill diablo, the end, or in this get the amulet 
+ kill deamon and end) The graphics is a great improvement from diablo so stop comparing.
+  
+  If you diablo fans dont like this then, well GOOD less whiny people in the legend community. So 
+ all you who says diablo is better, go and play diablo then!!!!!!??!
+  
+  Duckdude. 
+::::::
+
+::::::
+UserName: Icxarus
+Rating: 6.5
+Date: Aug 5, 2008 10:02 pm PT
+Review:  Its obviously geared totally and completely towards the consumate hack & slash fan. While this 
+ one isn't going to win any awards or set the cash registers ringing it does have a certain appeal 
+ to it.
+  
+  The highs:
+  Great graphics and very smooth gameplay! People complaining about choppy gameplay - the problem 
+ is with your systems not the game. Character models and detailing also seemed to be quite good. 
+ The balrog look-alike demon for instance. Level designs vary from decent to near excellent. Some 
+ of the later dungeons are really quite cool.
+  Legend HOG also has a number of seemingly minor innovations that really up the enjoyability factor. 
+ The mouse pointer being an actual character for starters (not sure if its been done before but 
+ never encountered it personally) was very fresh and the fact that it kept speaking to you and dropping 
+ hints was new. The lighting effects created inside dungeons as a result of the light-elf (mouse 
+ pointer) are also quite nifty. The world is large enough (though sorely lacking in depth ... but 
+ more on that later) to immerse yourself in for a day or two mashing your mouse buttons to kingdom 
+ come in true Diablo style.
+  
+  The lows:
+  There are many and unfortunately they do detract significantly from what could have otherwise been 
+ an excellent game.
+  1. Voice-Acting & Dialogue: Absolutely terrible! In fact I think they set record lows in this regard. 
+ Really really annoying voices and stupid lines! 
+  2. Story & Quests: This story might have worked ten years ago but now its simply a case of been-there-done-that... a 
+ thousand times over. It doesn't even pretend to be interesting. Side quests also few and far between. 
+ the few that are there suffer from the same problems as the story. The significantly few NPCs and 
+ their appalling lack of depth in character actually works against having a large open-ended world.
+ 
+  3. Items & Loot: Don't think the developers spent much time on any of the items. Most of them 
+ are crap (many games suffer from this but this was worse than most) . There are barely any special 
+ weapons or armor that have the potential to make the player go "Cooool"! One of the best swords 
+ I had for the entire game was from one of the earliest quests and for almost the rest of the game 
+ I could not find a better weapon to upgrade to! Also all the merchants have the exactly the same 
+ inventory and prices. Really takes the joy out of the mercantile aspects of a good RPG. Question 
+ to the Game Designers - Is it really too much to ask that human, dwarven & elf merchants stock 
+ items of their own race instead of the elf blacksmith (encountered in the last leg of the game) offering 
+ to sell you a crappy 'human' axe that you encountered within the first 20 minutes of firing up 
+ the game???
+  4. Skill Tree: Can't really put my finger on it but something was (yet again) severely lacking. 
+ Just didn't have enough good options on it. Not if you wanted any of them to be of use that is. 
+ Killing virtually everything there is to kill in the game leaves you roughly around level 35 which 
+ means 35 talent points per skill tree. That simply is not enough to max out much more than 2 abilities/spell 
+ combinations per skill tree. Example in Path Of Magic, If you want the ice ray to really dish out 
+ some serious damage you have to invest 10 points (maximum allowed) in the ice ray (obviously) and 
+ a few more to increase its damage quotient. And if you want fireball to go along with that (since 
+ you don't want to become over dependant on frost damage) you've pretty much used up all your available 
+ points. The meteor storm spell becomes more a case of 'look but don't touch'.
+  
+  
+  Overall: Legend HOG looks like a game that was created released in a rush (who the hell decided 
+ the tutorial was expendable?? ... Ten minutes of my life I will never get back!) and secondly built 
+ by a team with very (very) disparate skills. Some aspects like basic gameplay, graphics etc are 
+ very much up there, while others like story, questing, dialogue etc are amateurish (and occassionally 
+ shocking) . You can chalk this one up to the 'Could-have-been-so-much-more' brigade.
+  
+  If you've run out of games like Oblivion & Never winter nights and are looking for a game to satiate 
+ your RPG cravings then definetely give Legend HOG a go. Its worth a play. Just set your expectations 
+ to above average.
+  
+::::::
+
+::::::
+UserName: profetaxxi
+Rating: 8
+Date: Aug 5, 2008 10:33 am PT
+Review:  I hear lots of people saying bad things about this game! please until you get it running (past 
+ the PhysX issue which really sucks) you will enjoy good hack'n slach action, I love the graphics 
+ (especially inside caves and dark ares) I would say this is a good step up form Titan Quest in 
+ terms of graphics! Great physics too, when running a lot of times you will kick into bones etc 
+ and send them flying away. audio could be better but then again these guys didn't have a budget 
+ as big as other hack'n slash titles out there! It deserves respect! and a chance to hit your collection. 
+ (again if you're a H'nS fan)
+  
+  PS. D3 still a long way to come so this is perfect to get into the spirit again!
+  
+  By the 
+ way I'm only 30 minutes into the game and I CAN say that it's worth the money. Go and get yourself 
+ a copy. 
+::::::
+
+::::::
+UserName: Blue_Tomato
+Rating: 7.5
+Date: Aug 4, 2008 7:32 pm PT
+Review:  The game is an action RPG, and its clear the developers was heavily inspired by Diablo. Many features, 
+ like the barrel smashing, is like a carbon copy of Diablo. Even many sound effects are suspiciously 
+ similar, you can even wonder if the developers just "borrowed" them from Diablo. This likeness 
+ is not a bad thing though, it can shorten the waiting time before Diablo 3 appears.
+  
+  The story is simple enough, you find yourself unconscious at the beach with a pixie flying around 
+ trying to wake you up. You learn your monastery has been attacked, and a demon gate opened. You 
+ need to seek out and find the powerful artifact Hand of God to destroy it.
+  
+  The very same pixie becomes your cursor, lightning up the landscape as you move her around. Giving 
+ you more or less useful hints as you proceed into the game, in a dreadful Mickey Mouse voice that 
+ pretty much evaporates the atmosphere of the game. In general the voice acting is really poor, 
+ in fact they would almost be better off using the text-to-voice narrator in Windows. The other 
+ sound is quite good though, like music and general sound effects, so after a while you will forget 
+ about it.
+  
+  At your own convenience you select not one, but two main classes for your character. Specializing 
+ in magic, figthing, bow and arrows, healing etc. Each class has its own skill tree where you can 
+ distribute skill points earned as you level up. The tree is quite feature rich, and you can customize 
+ your characters in many ways adding to the replayability to the game. I chose to play as a mage 
+ with healing abilities, and it worked out well. Focusing on fireballs on mana regeneration made 
+ my mage very powerful quickly, with the help of a lot of loot that is randomly distributed over 
+ the map. The game is quite easy to play, and its just a matter of patience to pass through the 
+ story.
+  
+  As in Diablo there is a rich amount of magic items to be found. You can add rings, amulets, shields 
+ etc to your character, boosting your stats in various ways. Some items can only be used by some 
+ classes though. One annoyance is you have quite limited storage space for loot, so you need to 
+ sell it off frequently. Luckily you can use some special magic transportation stones to quickly 
+ teleport to a set of rune stones spread across the country at important locations. So, teleporting 
+ back to a merchant to sell of your stuff is a painless effort, although you will spend a hard to 
+ find teleporting stone each time so it is wise to minimize this way of traveling.
+  
+  Fighting is easy and intuitive. You can assign the left, right and middle mousebutton to various 
+ spells or actions. Left mousebutton for close combat, right for long range combat like fireball 
+ and middle mousebutton for a healing spell for example. This configuration can be changed quickly 
+ at any time. I missed the ability to assign shortcut keys to spells though.
+  
+  The graphics is quite good. You can see the grass wave in the wind or move as you pass through 
+ it, and animations are great as well. The monsters are quite varied in looking, and need different 
+ tactics for being defeated. The pixie lighting effect looks truly awesome in some places, due to 
+ dynamic shadows and rich bumpmapping.
+  
+  One big drawback is the computer AI. The monsters are unbelievably stupid. You can kill off a guard 
+ next to another one with a long range weapon without any reaction from the remaining guard at all. 
+ And an encounter by a huge dragon that looks impressive and scary totally ruins the moment when 
+ it gets stuck due to poor pathfinding algorithms. Your enemies all behave like dumb cannon fodder 
+ just standing in line to be killed. So, after a while it becomes a bit repetitive. But, after all, 
+ mass murdering monsters and picking loot is what action RPGs are all about, so I'm not complaining.
+ 
+  
+  The story is interesting enough to encourage you to go forward, and there are new monsters and 
+ land to be discovered. Finding loot and improving your character is addictive and it is hard to 
+ stop playing once you have forgiven the games flaws. Its a pretty short game though without many 
+ side quests, and unlike Diablo there are no randomly generated dungeons, so you probably wont replay 
+ it for a while after you are done.
+  
+  All in all, it could have been much better, but as it stands it is an enjoyable and relaxing gaming 
+ experience.
+  
+  Finally a warning about some technical issues. The game crashed on me on a few occasions in 64 
+ bit Vista. It is forgivable usually until the first patch arrives, but two times the crash also 
+ killed my saved game, forcing me to start all over. This is really annoying, and I wish they had 
+ a game save system that was more secure. 
+  
+  Later I found the issue to be resolved by installing the latest nVidia drivers (177.79) , which 
+ are considered to be in a beta state at this point. 
+::::::
+
+::::::
+UserName: sysguru
+Rating: 8
+Date: Aug 3, 2008 1:32 pm PT
+Review:  First glace is very diablo to me. Looting chests and killing monsters is just like diablo. The 
+ weapons and gold flutter to the ground, I swear it is the same animation but better graphics. I 
+ wonder if they took the sounds also. The shamans even raise the goblins from the dead. Graphics 
+ are pretty snazzy, game play is pretty neat. I do like the different tree paths, which I am sure 
+ was stolen from somewhere else but can't remember (possibly diablo, but it has been a while) . Even 
+ the inventory of the items is very diablo. It shows different stats very similar to the old game. 
+ I am waiting to hear my character say "I can't carry anymore". Now other then the fact that the 
+ look and feel is like diablo, I do think the combat is very nice. It was very easy to figure out. 
+ It did take a while to figure out how to equip items on my character, but after trial and error 
+ it worked.
+  
+  This does not deserve an 8 mostly because it is not original enough to get a 10. I gave it an 7 
+ only because it did not deserve a 8. 
+::::::
+
+::::::
+UserName: Dark-Tool
+Rating: 7
+Date: Aug 3, 2008 12:57 pm PT
+Review:  Overall the game is NOT THAT BAD as everyone makes it seem... give it a shot it's definately fun. 
+ BUT there are a lot of flaws and bugs. The game does feel un-finished.
+  
+  I have a pretty nice cpu with a 8800 GTS 640MB vid card and the game runs choppy at points to where 
+ it sometimes will freeze for like a second or two.
+  
+  The game itself has fluid classic hack and slash gameplay... the skills are nothing to get to excited 
+ over though I find the skills were just copied from other games and they just made a Generic T 
+ chart skill tree.
+  
+  Boss battles can get tough but also repetitive.. The overall quests are nothing special just the 
+ same old thing as most RPGs... go here find this... bring it back or kill these and do this... still 
+ overall the quests have been fun so far and it's fun to level my character I'm at lvl 20 right 
+ now.
+  
+  Graphics remind me of titan's quest but a bit better in texture quality, I like how the attacks 
+ vary on the creatures though... they'll jump... step to the side... etc to avoid stuff.... sound is 
+ dull though voice acting like in most games is horrible and some of the sword/clashing sounds and 
+ such are very generic.
+  
+  Overall it's a mediocre game. But if your like me and can't get enough of the hack-n-slash diablo 
+ style games... this for sure is worth a look... I'm enjoying it far more than I did Titan's Quest. 
+ 
+::::::
+
+::::::
+UserName: openedge1
+Rating: 8
+Date: Aug 3, 2008 7:48 am PT
+Review:  Even though it has all the trappings of a Diablo clone, the game still proves to be fun.
+  Visually the game has some little tricks up it's sleeve with HDR and Motion capture animation for 
+ attacks.
+  Control of your skill trees is on par with Diablo. Before you start playing though you select paths. 
+ You either are a warrior, caster, healer, ranger, etc. Then as a bonus you select a second tree 
+ (for example I was a Wizard/Healer) , which gave me Fire attacks, yet I could heal myself without 
+ the annoying need for potions.
+  A really great equipment screen (zooms in to your character and allows you to mouse over various 
+ items to check their attributes) .. shows you all the items you equip as well.
+  Quests are straight forward and the map is ok, but nothing to write home about.
+  I enjoyed the 
+ fact that I could control rotation by mouse instead of arrow keys, not unlike WoW or Guild Wars.
+ 
+  
+  It is fun and a good interim release until Diablo 3. 
+::::::
+
+::::::
+UserName: michaelintampa
+Rating: 7.5
+Date: Aug 2, 2008 10:18 pm PT
+Review:  Great game seems every one has an opinion. I think the game has great graphics and if you liked 
+ diablo you will like this game. Voice overs are not too good sounds like they are reading from 
+ a cue card. but does not take away from the game. Do not let the negative opinions of others sway 
+ your decision just download the demo and play it for your self. For me it is a GREAT game and fun 
+ to play. The camera angle does not bother me it does not take away from the game. I bought this 
+ game and if I could do it over I would still by it. Judge for your self Download the demo. Every 
+ almost every P. C game that comes are going to need some patching.
+  
+  There is lots of different types of computers out home grown some not. all kind of different video 
+ cards motherboards some and have 2 gigs of ram some have 4 or less than one. It is almost impossible 
+ to bring out game today and have it work perfect on every ones P. C. For me I think these guys did 
+ a great job. Thank you Value soft and Master Creating for a great game. Do not let the nay sayer 
+ get you down. For me you guys did a great job, i can say that so far works perfect on mine. Game 
+ looks great runs smooth as butter and is lots of fun. Judge for your self 
+::::::
+
+::::::
+UserName: asmoddeuss
+Rating: 7.5
+Date: Aug 2, 2008 5:48 pm PT
+Review:  Ok , I just got this game , and I must tell the truth , I have read very bad reviews already , 
+ but don't listen too much to the people, this game have a lot of fun , and very nice graphics (at 
+ all settings high of course) , and instead of doing it cartoon-ish (like wow and diablo3 ) they 
+ made the characters with great details and great design , the monsters looks amazing ! If you liked 
+ Diablo and Diablo II you should try this one , for sure give it a try ! Of course the game have 
+ some minor bugs , but is playable at all . Another impression I had is with the illumination (your 
+ mouse cursor is a Fairy and she illuminate your path) they did it awesome and very original ! , 
+ at least playing with a high-end PC like the one I have (Intel quad , quad sli , vista x64 etc..) 
+ . Also my brother played a bit and he enjoyed as well , and my wife was impressed with the design. 
+ As I said give it a try , it worth playing ! . Cheers. 
+::::::
+
+::::::
+UserName: wforce
+Rating: 4.5
+Date: Aug 2, 2008 9:49 am PT
+Review:  I can't understand why it is that the developers seems to always put together all of these horrible 
+ games that get you so excited, but come with the big let down. This is another one of those games 
+ that just pushes the pc games further into the brink of oblivion. The camera is in need of improvements, 
+ the voice overs, and the games needs PATCHES since it seems to be a rushed products and is unfinished. 
+ With major patching it could probably be a decent game. I have a very good gaming pc, but the movements 
+ is still very choppy, even with me meeting the "recommended requirements.
+  
+  I can't understand why it is that the developers seems to always put together all of these horrible 
+ games that get you so excited, but come with the big let down. This is another one of those games 
+ that just pushes the pc games further into the brink of oblivion. The camera is in need of improvements, 
+ the voice overs, and the games needs PATCHES since it seems to be a rushed products and is unfinished. 
+ With major patching it could probably be a decent game. I have a very good gaming pc, but the movements 
+ is still very choppy, even with me meeting the "recommended requirements. 
+::::::
+
+::::::
+UserName: assembel
+Rating: 3
+Date: Aug 2, 2008 4:03 am PT
+Review:  This game is really really bad. I tries to be Diablo in so many ways they even mention Diablo on 
+ the official website of L: HoG.
+  
+  But they fail. They fail so bad it's almost embarrassing. Here are some situations where I just 
+ want to throw this game away:
+  
+  - The voice acting is SO bad. And the writing is even worse. It cannot be described how bad it 
+ is. The hero you control has a certain way of speaking the makes him sound like an immature child 
+ asking questions?
+  
+  - The controls. You have 3 mouse buttons to assign spells, walking, melee, melee/walk or camera 
+ rotation to. But remember, you cannot walk if you don't use one of them for walking or melee/walk.
+ 
+  It even mentions on the melee (with no walk) that it's good for archers, but if I choose that, 
+ I must either use another mouse button for walking or put one of the 10 spell keys (0-9) to switch 
+ between melee and walking.
+  
+  - I played as an archer, but with the camera's short view I was forced the take really small steps 
+ ahead. If I just walked to fast I was suddenly right next to an enemy and not in range to shoot 
+ arrows.
+  
+  - I'm running around with my camera rotated so I can see most of my path (meaning I run "up" on 
+ the screen) , then I go to my character screen/inventory and I close that again. Now the camera 
+ has rotated itself so north is "up". I have gone in the wrong direction so many times because of 
+ this.
+  
+  - If you for example meet a big wolf that you're not completely capable of killing because of your 
+ level, then just wait until it begins an animation. You could fx wait until it sits down and howls 
+ to shoot it with magic. It will not react before the howl-animation is complete and you could probably 
+ have killed it by then.
+  
+  - Then there is all the small bugs that make you think why they didn't wait with the release until 
+ the game was finished.
+  Take a look at this giant item I found. I thought I had to be level 10^4 to wear it, but it's simply 
+ just a bug:
+  http://img209. imagevenue. com/img. php? image=74926_lhogbug_122_173lo. JPG
+  
+::::::
+
+-------------------------------------------------

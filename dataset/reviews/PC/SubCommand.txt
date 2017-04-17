@@ -1,0 +1,183 @@
+-------------------------------------------------
+:::Game Name::: Sub Command
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/subcommand/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct  8, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.4
+Critic Score: 8.1, 6 Review (s)
+User Score: 8.3, 113 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Electronic Arts
+Developer: Sonalysts
+Genre: Submarine Sim
+Date:     Sep 12, 2001
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+It is a sophisticated simulation for people who like their sims sophisticated. 
+
+ Sub Command is the kind of game most publishers would be afraid to release. It is ambitious, complex, 
+ difficult to learn, and slavishly devoted to realism. You spend most of your time looking at control 
+ panels and wondering what's out there. There's a lot of waiting and guessing. The average gamer 
+ would hate it -- but Sub Command isn't for the average gamer. It is a sophisticated simulation for 
+ people who like their sims sophisticated. If you're a hard-core simmer -- the kind of person who 
+ revels in a meaty manual, who thinks relaxed realism settings just teach bad habits, and who scoffs 
+ at putting a 3D engine in Harpoon because you'll only be using NATO symbology anyway -- then Sub 
+ Command has your name written all over it.           A Seawolf releases a burst of chaff to foil 
+ an incoming torpedo.    
+
+  Sub Command was created by Sonalysts as a follow-up to its last submarine sim, Jane's 688 (I) Hunter/Killer. 
+ 688 (I) was easily the most realistic contemporary sub sim when it was released, but it was criticized 
+ for having canned scenarios and a linear campaign. Sub Command continues this trend, but there's 
+ more variability in the scenarios. Also, the campaign missions are interrelated, so your performance 
+ in one mission will have an effect on the setup of the next mission. It's not a dynamic campaign 
+ per se, but there's a sense of continuity. Since you can play the campaign and most of the scenarios 
+ from the US or the Russian side, there's more replayability than there was in 688 (I) . Furthermore, 
+ there's a comprehensive scenario editor, so expect to see plenty of player-made scenarios on the 
+ Internet.   
+
+  The most immediate difference from 688 (I) is that Sub Command lets you control your choice of four 
+ different subs: the 688 (I) improved Los Angeles class, the next-generation Seawolf, or one of two 
+ variants of Russia's bulbous Akula. The controls range from the Seawolf's sleek touch displays 
+ and the 688's smartly military panels to the Akula's clunky spread of tickers, switches, knobs, 
+ and cranks. From the inside, these subs have a tremendous amount of personality. There are also 
+ differences in their weapon loadouts and sonar suites. However, it's hard to tell how much they 
+ differ in capability. The Akula and Seawolf are light-years apart in terms of technology. The Seawolf 
+ should be so quiet that it can cruise at relatively high speeds with little risk of detection, 
+ and the Akula should be a noisy clunker in comparison. But there's no indication of these differences 
+ in the game or manual.           Your sonar offers clues as to who is out there and where they 
+ are.    
+
+  Sub Command's manual is a 208-page Adobe Acrobat file. Be sure you've got a printer with plenty 
+ of toner, or about 15 bucks to print it out at the local Kinko's. Even then, the manual is only 
+ slightly helpful. It does a good job of explaining  how  you do things, but doesn't offer a whit 
+ of advice for  why  you should do things. There's no information on avoiding detection, evading 
+ incoming torpedoes, or how to best use your sensors. It's as if Sonalysts expects you to already 
+ know what you're supposed to do once you're in charge of a nuclear submarine. This makes the game's 
+ steep learning curve even steeper. There are three short tutorials that offer only basic information 
+ before suddenly ending, leaving you with more questions than answers. It's insulting enough that 
+ EA doesn't offer a printed manual; it's just pouring salt in the wound that such a big manual contains 
+ so little helpful information.   
+
+  Once you get the hang of it, Sub Command is basically a hide-and-seek game with advanced electronics. 
+ In a contemporary sub, you're more of a high-tech detective than a warrior. Instead of fighting 
+ a battle, you're solving a mystery. Who's out there? Where exactly are they? Where are they going? 
+ Have they heard me? Should I shoot at them? You're putting together pieces of a puzzle, one shred 
+ of evidence at a time. Through patience and careful analysis, you draw conclusions and act accordingly. 
+    
+
+ For instance, it takes several steps to figure out that a Russian destroyer is five miles away, 
+ moving across your bow at 10 knots. First you hear the sound and match its frequency against a 
+ database of vessels. Then you figure out its speed by demodulating the sound of its propeller to 
+ count the number of blades and calculate how fast they're turning. Cross-reference that number 
+ with known data about that ship type and you can estimate its speed. Over time, you'll plot a series 
+ of bearings. Once you figure in the vessel's speed and compare it with these bearings, you can 
+ triangulate its range. This is how you eventually make an informed guess about where the ship is. 
+           The Akula enjoys a view of the sunset through her periscope.    
+
+  To many people, this will sound tedious. It is slow and it requires a lot of patience. But if you 
+ can appreciate the tension inherent in high-tech warfare -- and if you're willing to wade through 
+ a lot of trial and error to make up for the manual's shortcomings -- then Sub Command is a true delight. 
+ There's something uniquely gratifying about everything coming together just right when you successfully 
+ manage to put a torpedo on its target. This sim doesn't shy away from presenting the methodical 
+ business of submarine warfare in all its detailed glory. It takes work, but it pays off.   
+
+  Jane's 688 (I) had a full 3D view of the action. Sub Command offers this, but only as a representation 
+ of what you think is out there. For instance, if you pick up a sonar contact, it appears as a wireframe 
+ sphere at the estimated location. Perhaps you'll determine it's a surface contact, at which point 
+ it takes on the appearance of a generic ship. When you then determine the specific type of ship, 
+ it takes on the appearance of that vessel. But this model is only a representation of your best 
+ guess. In reality, it may not be the ship you think it is. It may not even be there. Sub Command 
+ uses its 3D engine as a visual supplement instead of a cheat. It adds a nice touch of eye candy 
+ to a game that would otherwise consist solely of control panels.   
+
+  Another nice touch is the use of voice commands to drive the sub and perform higher-level functions. 
+ You can turn over the sonar and weapon control stations to computer-controlled crewmen and use 
+ a microphone to coordinate everything. However, the voice recognition, supplied by Microsoft, isn't 
+ very fast or reliable.           A hapless destroyer falls prey to a Tomahawk missile launched 
+ from a sub.    
+
+  One thing conspicuously absent from the game is damage control. Just as any flight sim player revels 
+ in the prospect of landing a damaged bird, wrestling to keep a flooded sub from sinking should 
+ be part of any submarine sim. But modern-day weapons are more lethal than World War II-era depth 
+ charges. If the first hit from a torpedo doesn't kill you, you'll probably be rendered so blind 
+ and noisy by the damage that the coup de grace is a mere formality. Perhaps this is why Sub Command 
+ didn't bother to include damage control. Instead, your sub's "hit points" are represented by a 
+ health bar that looks like something from a first-person shooter. This is particularly silly considering 
+ the level of realism in the rest of Sub Command.   
+
+  On the whole, Sub Command is one of those rare and delicious projects that's 90 percent simulation 
+ and 10 percent game. Although it may be the last of a dying breed -- it's hard to imagine Sub Command 
+ being commercially successful -- it is heaven-sent. It's a latter-day throwback to the sort of sims 
+ released by MicroProse in its heyday. Electronic Arts should be applauded for releasing a product 
+ with such limited appeal without dumbing it down. If there's a next time, here's to hoping there's 
+ a better manual to go with it.    
+-------------------------------------------------
+:::User Reviews::: (3 Reviews)
+::::::
+UserName: xgmx
+Rating: 10
+Date: Mar 3, 2007 1:52 pm PT
+Review:  It is a great game, but is pretty hard. You have to get used to it before you can master it. Great 
+ multiplayer. Pretty good singleplayer. You can keep track of your missions and view replays of 
+ them. If you are going to get or already have this game here is what you'll need.
+  
+  http://www. gamespyarcade. com - Gamespy Arcade, for multiplayer, stat tracking, gameplay time tracking, 
+ chat, files, joining games, hosting games, and creating a server.
+  
+  http://www. comrade. gamespy. com - Gamespy Comrade, for multiplayer, stat tracking, gameplay time 
+ tracking, chat, and files.
+  
+  http://www. xfire. com - Xfire Incorporated, for multiplayer, stat tracking, gameplay time tracking, 
+ chat, files, and in-game messages.
+  
+  http://web. archive. org/web/19990424145410/http://www. xfire. com/ - Xfire, required for multiplayer 
+ with EA Matchmaker, equivelant browsers may also work.
+  
+  http://web. archive. org/web/20011211174541/http://www. ea. com/worlds/games/sub_command/home. jsp - 
+ MatchMaker, for multiplayer and chat.
+  
+  http://files. filefront. com/xfire_gamesini/;6694016;;/fileinfo. html - Xfire Games, required to play 
+ Sub Command on Xfire.
+  
+  http://www. hamachi. cc - Hamachi, for multiplayer, file transfers, and chat. 
+::::::
+
+::::::
+UserName: KillerX5187
+Rating: 9.4
+Date: Feb 6, 2007 5:59 pm PT
+Review:  Game is really great in all aspects except the controls. The chance to fight in a russian sub is 
+ really awesome and the gameplay is easy. The best part is a real sub sim since the Silent Service 
+ on pc platform the Amiga. I really like this game. And if you want this game buy it in the Naval 
+ Action Pack by Sonaylsts. Also try out Fleet Command and 688 (i) Killer/Hunter. Sonaylsts did a 
+ great job on bring this back from the stone age. Congrats to Sonaylsts systems and their fine work 
+ hopefully they will make some more Military sim games in the future. i will be happy. Maybe even 
+ do a PTO 4 on pc. 
+::::::
+
+::::::
+UserName: harden007
+Rating: 7.1
+Date: Aug 28, 2004 1:57 pm PT
+Review:  This game is much better on the eyes than its predicessor, which is a good thing. However, although 
+ the overall gameplay has been improved, the campaign aspect has suffered. The missions are too 
+ hard, and in many cases I have followed my directives perfectly and accomplished all my objectives, 
+ but am not given credit for it. For example, I need to take pictures of a missle launch in one 
+ mission, but despite doing this, I get yelled at for failing and my next mission is harder than 
+ had I succeeded. Fun to play, hard to do anything in campaign. It would be nice if they made the 
+ campaign easier, and added a medel and award feature to give you something to strive for. 
+::::::
+
+-------------------------------------------------

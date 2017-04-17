@@ -1,0 +1,90 @@
+-------------------------------------------------
+:::Game Name::: Semper Fi
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/semperfi/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Mar 31, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.8
+Critic Score: 6.8, 8.2 Review (s)
+User Score: 8.2, 9 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Interactive Magic
+Developer: Stanley Associates
+Genre: Strategy
+Date:     Jan 31, 1998
+
+-------------------------------------------------
+:::Review:::
+Semper Fi is basically a platoon-level, turn-based, hex-based wargame depicting modern land warfare. 
+ 
+
+ For over two hundred years the United States Marine Corps has had a number of duties, from functioning 
+ as a continental landing force and a deterrent against mutiny aboard United States Navy vessels 
+ to working as a wide-ranging global amphibious force meant to handle any mission thrown at it. 
+ Today's turbulent world may have a Marine Expeditionary Unit (MEU) conduct an amphibious landing 
+ in hostile waters, rescue downed military personnel behind enemy lines, airlift civilian personnel 
+ from a dangerous location, provide humanitarian support to those in need, or even provide security 
+ or ground forces for larger purposes. A Marine commander must reflect the flexibility that is required 
+ by his men - and it is this that developer Stanley Associates hopes to create with Semper Fi, published 
+ by Interactive Magic.  
+
+ Semper Fi is basically a platoon-level, turn-based, hex-based wargame depicting modern land warfare. 
+ Each turn is roughly the equivalent of seven minutes in real time, with a hex on the game map equaling 
+ about 300 meters in diameter. You take control of either the US Marine forces or the OPFOR, Opposing 
+ Forces. Instead of utilizing the basic "I go, you go" method of turn-based gameplay, the designers 
+ instead use an action phase system where initiative - based on morale, troop readiness, and so 
+ forth - determines when one side goes. Once you decide to end that phase, the next action phase 
+ begins, where initiative is determined again. In this case the same player may play several phases 
+ in a row. Since a combat unit can only be activated or used a certain number of times per turn 
+ - moving or firing typically - special care and thought to determine the best avenue of approach 
+ is required in most situations. Once each player cannot (or will not) take any more actions and 
+ hits the End Turn button, then the next turn begins, and the process starts all over again.  
+
+ 
+ Graphically, Semper Fi is unimpressive at best. Map and unit graphics are uninspiring and somewhat 
+ blocky, with Semper Fi mostly resembling a 640x480 SVGA rendition of Norm Koger's Tanks! more than 
+ anything else. Elevation is handled only by contour lines. The good news is that the interface 
+ is simple and easy to use with only a little practice. Unit health and hex stacking is displayed 
+ graphically on the icon, and everything else is shown as a series of tabbed menu bars on the right-hand 
+ side of the screen, reserving the rest of the screen for the map. Moving a unit simply involves 
+ clicking on it (if applicable during the action phase) , which activates a surrounding field of 
+ blue hexes the unit can move to. An overlaying field of red hexes indicates where the unit can 
+ fire. Every command in the game is accessible with the mouse.  
+
+ Combat, the heart of the wargame, works pretty well in Semper Fi. The game rewards concentration 
+ of fire, combined assault, coordinated movement, use of off-board assets like artillery and naval 
+ fire, artillery, hidden units, terrain, and proximity to the command units. Morale, unit firepower, 
+ ammunition, and leadership are all tracked and could mean the difference in a battle.  
+
+ Then there is the artificial intelligence. It works and does a nice job at times, but of course 
+ one could wish for something much better. One of the coolest things about Semper Fi is that you 
+ can have something better using the AI editor. This way you can alter how the AI behaves by altering 
+ how it perceives all of the varying game conditions like "victory hex value" or "anti-tank value." 
+
+ Another nice aspect of Semper Fi is the scenario editor, which allows you to create any number of 
+ different scenarios. This is particularly good since the scenario and campaign selection for Semper 
+ Fi (15 and three, respectively) is less than stellar. Scenario victories are based on casualty 
+ rates and mission objectives. The campaigns themselves are a series of linked scenarios that do 
+ have some unit crossover but offer little else. Unfortunately the instructions for the scenario 
+ and AI editors are on Adobe Acrobat format on the CD-ROM, but the rest of the 100-page manual (with 
+ some handy unit tables in the back) is more than adequate.  
+
+ So what is Semper Fi? For the wargame aficionado it has customizability and replayability along 
+ with a pretty usable user interface and a decent combat system. For the regular everyday player 
+ who may have an interest in the game, it doesn't offer much. The graphics and sound are poor, as 
+ is the immediate selection of scenarios. There is the feel that perhaps Semper Fi was trying to 
+ appeal to the mass market, but crashes in the attempt. The truth of the matter is, if you can take 
+ the "Semper Fi" slogan and the USMC logos and replace them with pretty much anything else, you'd 
+ still have hothing more than an OK game struggling to be something much better.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

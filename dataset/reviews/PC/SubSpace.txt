@@ -1,0 +1,170 @@
+-------------------------------------------------
+:::Game Name::: SubSpace
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/action/subspace/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jan  9, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.9
+Critic Score: 7.5, 1 Review (s)
+User Score: 9.1, 46 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Virgin Interactive
+Genre: Action
+Date:     Nov 30, 1997
+
+-------------------------------------------------
+:::Review:::
+If you're looking for a fun multiplayer action game, SubSpace is for you. 
+
+ It's not too often we review a newly released game that already has 150,000 regular players and 
+ two newsgroups, plus many dedicated fan sites and privately hosted servers. SubSpace achieved this 
+ level of popularity through a two-year beta testing process accompanied by minimal fanfare and 
+ media attention. Now, with this commercial release, SubSpace may finally garner the attention it 
+ deserves.  
+
+ SubSpace is a massively multiplayer, Internet-only, real-time action/strategy game. It began as 
+ a game developer's dream. Virgin Interactive Entertainment executives hired producer Rod Humble 
+ who had worked on the boxed version of Kesmai's arcade hit, Air Warrior. They asked him what kind 
+ of game he wanted to make. "Internet-only," was his reply and they said, "Sure, go ahead and here's 
+ the money." True story.  
+
+ Humble hired his programming buddy Jeff Petersen and they set out to make something like Air Warrior 
+ in space. But first they wanted to solidify their Internet technology. In one month Petersen created 
+ an Asteroids-style overhead 2D prototype engine that incorporated Newtonian physics - an object 
+ in directed motion tends to stay in that directed motion. That physical predictability helped overcome 
+ the Internet's notorious latency problems. Then they quietly put the game, code-named Sniper, on 
+ a test site and awaited comments. Their plan: incorporate what they learned into their much larger 
+ game.  
+
+ After about four months of tweaking and experimenting they announced they would close the site. 
+ The vitriol from perplexed and addicted beta testers floored Humble and Petersen. So instead of 
+ sticking to their original plan they began refining what they had.  
+
+ After two years of adding "cool things" on a nearly daily basis, Humble and crew have created an 
+ easy-to-play, difficult-to-master marvel. On a simplistic level, it's a nonstop, blast-every-enemy-in-sight 
+ shooter. But the gameplay subtleties mean it may take several months before a "newbie" can begin 
+ to control his destiny.  
+
+ You select one of seven spacecraft, each with strategic strengths and weaknesses, and use the arrow 
+ keys to control it, including the down arrow for reverse thrust. You enter a game by selecting 
+ a server based on its proximity and gameplay approach, from beginner and so-called Chaos shoot-em-up 
+ sites, to capture the flag (s) and hockey-like sites.  
+
+ You start each game with minimal capabilities and have to stay out of harm's way until you've collected 
+ sufficient items, weapons, and power-ups (killing a new arrival with a low "bounty" is considered 
+ bad form and will lower your overall rating) . Your weaponry includes guns, bombs, and mines each 
+ with several options and three strength levels. Plus you can use multiple defensive tools, like 
+ radar cloaking, invisibility, shields, decoys, walls, and warping portals.  
+
+ In a typical game the server automatically assigns you to a team. That means virtually nothing in 
+ a blast fest, but is very important in the capture the flag or hockey games. The gameplay takes 
+ place in customizable zones of varying sizes with a sort of Lode Runner-esque look and feel. Walls 
+ (some are pervious) , passageways, and randomly operated doors create many strategic opportunities. 
+ Your spacecraft (and some weapons) bounces off those walls with 80 percent of its original speed. 
+ That can be unnerving for a beginner, but experienced SubSpace gamers learn it's also a clever 
+ means to elude or subdue an opponent. A radar screen tracks nearby enemies. The pace is frenetic, 
+ fast, and furious, and death comes quickly and frequently. But not to worry, each time you will 
+ simply be resurrected in a random location and will have to gather power-ups again.  
+
+ Communication is also key, from taunts to congrats. Eventually you may come to know players and 
+ by using the many fan web sites, may be able to join a team. Statistics can be maintained on a 
+ site-by-site basis or uploaded to Virgin's dedicated site for what amounts to an international 
+ rating. As you play you can call up the stats screens and see just who you're up against. You can 
+ easily customize what appears on screen, even create your own player logo.  
+
+ The principal drawback is the lack of a clear goal other than increasing your skill level and moving 
+ up in rank. Those who succumb will play, play, and play. Even Rod Humble warns that "burnout" is 
+ common. The graphics and sound are less than exciting, the controls are very difficult to learn 
+ and master (Virgin does provide a much-needed keyboard template) , and newbies will get wastedand 
+ wasted. An informative and very helpful strategy guide comes with the game, but it was written 
+ for the beta version and does not cover all aspects of the current gameplay (it's missing one of 
+ the new spacecraft for instance) . Ping (latency) and packet loss (percentage of packets lost in 
+ transmission) sometimes lead to choppy action and disappearing bombs and bullets. You may "see" 
+ that you hit someone dead center, but if your bullets are lost in transmission your opponent will 
+ survive.  
+
+ Those who have used the beta version can continue to play with it, but they'll lose their "handles" 
+ ("demo" will appear before their onscreen name) . The retail version has new graphics, adds several 
+ ships, has an editor to customize the ships and add sound effects, plus lets you set up your own 
+ server. You'll need a PC with Windows NT, 64 to 128MB of RAM, 4GB of hard drive space, and a very 
+ clean Internet connection (28.8 will barely suffice) to accomplish that.  
+
+ While Virgin has made no official announcement, it appears it'll continue to operate three free 
+ SubSpace servers with five to ten zones apiece for at least the next six months. The timing depends 
+ largely on how many private zones crop up.  
+
+ If you're looking for a fun multiplayer action game, SubSpace is for you.    
+-------------------------------------------------
+:::User Reviews::: (3 Reviews)
+::::::
+UserName: shujikun07
+Rating: 9.5
+Date: Nov 28, 2007 9:22 pm PT
+Review:  This game has been out for how long now? Before it was released in stores, it went through a ton 
+ of different beta iterations released to the public to test. Unfortunately for VIE (Virgin Interactive 
+ Entertainment) the game didn't do too well in sales, but it's had a cult following since day one. 
+ VIE ended up releasing the game to the public and the community has kept this game going since. 
+ 
+  
+  If you're ever looking for a nice little game and don't mind out of date graphics, this game still 
+ has a lot to offer! One of those 90's gems that keeps on giving, thank you VIE and everyone who 
+ worked on it!
+  
+  
+::::::
+
+::::::
+UserName: AndyC84
+Rating: 10
+Date: Nov 17, 2007 7:15 pm PT
+Review:  This game has been in existence for over a decade, and has always held a consistent player base. 
+ The community is exceptional, and ever expanding, with new zones continually being added and enhanced.
+ 
+  
+  I have to give you a fair warning, in the beginning it might feel a bit difficult to become good 
+ at this game and the people you'll meet as first won't always be as helpful to newbies. However 
+ if you continue to play for a few weeks, you'll discover this game has a lot to offer, different 
+ events within the game, leagues, tournaments etc, more than you can imagine when you first enter.
+ 
+  What has kept me going for so many years are the leagues and a community full with interesting 
+ personalities. 
+  
+  Also this game is the only game out of all the games I've ever played where it doesn't get extremely 
+ redundant! You know which games I'm talking about, WoW, Everquest, etc. Those games with millions 
+ of people are all about how much time and money you can waste! Not this game, the beauty of this 
+ game lies within two things: It's community and the ease of play. 
+  
+  An important tip: When you first load up the your resolution will probably be on a low setting, 
+ so click the resolution tab on the load up screen and select the highest resolution your computer 
+ will go to. 
+  
+  Note: The game was rewritten to eliminate cheat programs and is now known as Continuum as a result 
+ 
+::::::
+
+::::::
+UserName: Hitcher812
+Rating: 8.2
+Date: May 19, 2006 6:44 am PT
+Review:  What a game I was introduced to this fine game while I was working for a large company in the US. 
+ Simple game plans good graphics and game play was fast even in the age of 33.6 modems. What a starter 
+ this game had become, while some may argue with me I do see it as part of the starters for the 
+ ongoing craze internet gaming pack.
+  While simplistic in its approach it hooked so many of us in to playing it night after night. The 
+ features of the programing were fluid and caused little or no lag at all. Graphics were smooth 
+ and small keeping the issues of lag low. While there were several different games that one could 
+ play. Though in the end the cost of running such a server based game was the downfall of this starter. 
+ It still has a loyal fan base that is playing the game after creating their own servers. If you 
+ have the time and want to try it out it can be found and your will enjoy, simple fun. 
+::::::
+
+-------------------------------------------------

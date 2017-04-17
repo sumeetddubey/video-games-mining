@@ -1,0 +1,404 @@
+-------------------------------------------------
+:::Game Name::: Global Operations
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/action/globaloperations/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Apr  3, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.1
+Critic Score: 7.8, 20 Review (s)
+User Score: 8.3, 341 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Crave
+Developer: Barking Dog
+Genre: Modern Tactical Shooter
+Date:     Mar 25, 2002 &raquo;  
+ESRB: Mature
+
+-------------------------------------------------
+:::Review:::
+If you don't care about the single-player game, if you have a high-speed Internet connection, and 
+ if you can find a good server, then Global Operations is great. 
+
+ Global Operations, a putative Counter-Strike killer by Barking Dog Studios, is kind of like having 
+ to eat a banana split with your hands -- just because it's a little sloppy doesn't mean it isn't 
+ still good. The game is primarily a team-based tactical shooter, combining Counter-Strike's system 
+ for cash rewards and equipment purchases, Rogue Spear's real-world settings and large weapon selection, 
+ and Return to Castle Wolfenstein's character classes and objective-based maps. For good measure, 
+ the developers have added some innovative ideas of their own to this mix. The game did ship in 
+ an unpolished state and suffers from demanding bandwidth requirements and a severe lack of servers. 
+ However, these problems are generally overshadowed by the simple fact that when everything comes 
+ together, Global Operations is one of the deepest and most satisfying multiplayer tactical shooters 
+ currently available.           Global Ops is a team-based shooter with a few key innovations.  
+   
+
+  To one-up its arch-nemesis, Counter-Strike, Barking Dog promised Global Ops would include a single-player 
+ game along with the expected multiplayer mode. The best that can be said about what resulted from 
+ that promise is that Barking Dog didn't lie: Global Ops does indeed include a single-player game. 
+ It's a linear progression through the 13 multiplayer missions with each of the 15 other players 
+ controlled by a bot. The bots have their moments, but for the most part they're not especially 
+ helpful when they're on your team, nor are they particularly dangerous when they're on the other 
+ side. Every instance where they appear to have some idea of what's going on is eclipsed by an episode 
+ in which they fail to use the equipment of their character class, ignore your commands, make crazy 
+ choices while pursuing a map's objectives, or simply get stuck on something, at which point the 
+ game helpfully warps them into the clear. The bots aren't completely ineffectual. But the single-player 
+ game is more of a slightly enhanced training mode than a full-fledged campaign. Anyone thinking 
+ about purchasing Global Ops primarily for its single-player experience is strongly advised to stay 
+ away.   
+
+  Like in Counter-Strike, each round in Global Operations begins with you purchasing equipment. However, 
+ you must also pick a character class, like in Wolfenstein. The seven classes include commando, 
+ heavy gunner, recon, medic, sniper, demoman, and intelligence officer. Each one varies in its starting 
+ cash, access to items, carrying capacity, and proficiency with the different types of weapons. 
+ Most of the classes are pretty self-explanatory. The commando is an all-around grunt who can use 
+ a wide range of weapons, the heavy gunner carries the big machine guns useful for laying down suppressing 
+ fire, the demoman can plant and defuse explosives, the medic can heal wounded teammates, and the 
+ sniper is pretty much just that. The intelligence officer is a noncombat role. He has an overhead 
+ view of the mission area from which he can set waypoints. He can also access first-person views 
+ from anyone on his team and access views from cameras placed throughout each level. It's a lot 
+ like the commander role in Tribes 2. And like with the commander in Tribes 2, nobody appears to 
+ be interested in playing that role.           Your recon unit can help you tell friends from foes. 
+    
+
+  The recon unit, however, is possibly the game's most successful innovation and has turned out to 
+ be very popular thus far. A player on recon is automatically equipped with a life-signs detector. 
+ When the detector is activated, every enemy unit, friendly unit, and moveable object within a wide 
+ range appears onscreen as a symbol whose size and position represent its relative distance from 
+ the recon player. This is regardless of how many intervening walls there may be. The great part 
+ is that teammates in the vicinity of the recon unit receive this information as well. This has 
+ the dual effect of inspiring teamwork and reducing the viability of lone-wolf camping. A squad 
+ consisting of a recon unit, a medic, and a couple of gunners is a formidable force. A complementary 
+ little innovation is that large-caliber guns can fire through thin walls. It's incredibly satisfying 
+ to shoot an opponent hidden behind a flimsy barrier after your recon unit paints him for you.  
+
+  Rather than the short three- or four-minute rounds and one-death-and-you're-out system of Counter-Strike, 
+ Global Operations employs longer 10- to 30-minute rounds with dead players respawning as a group 
+ every 90 seconds or so, as in Wolfenstein. This works well with the equipment-purchasing feature. 
+ When you die, you collect money for kills, assisted kills, the length of time you managed to stay 
+ alive, and various other class-oriented actions. You also drop your weapons wherever you were shot. 
+ This sets up some interesting decisions -- mainly, should you spend money now or save it and try 
+ to pick up some dropped equipment in the level?    
+
+ The 13 levels included in Global Operations are all excellent. The objectives include hostage rescue, 
+ item retrieval, object destruction, and assassination, with many of the levels incorporating multiple 
+ goals. Each level is big, features well-placed choke points, and usually includes multiple paths 
+ to any given point, including shortcuts that can be opened up through the use of explosives.   
+         The game sports some impressive audio and visual effects.    
+
+  Global Ops uses the LithTech engine, and though the environments are a little blocky, they're more 
+ than serviceable. The game also has some really well executed visual effects, some of which actually 
+ enhance the gameplay. For instance, tear gas causes your view to smear and periodically go black, 
+ simulating how your character is trying to blink the irritant out of his eyes. The character models 
+ and animations are also well done. Shooting someone in the head will cause him to clutch his face 
+ as he drops, while shooting him in the back will knock him forward as he reaches around behind 
+ him. This only occurs on killing shots, however -- a nonlethal hit unfortunately doesn't provide 
+ much visual feedback. This can be frustrating when combined with the game's sometimes-unpredictable 
+ damage model. Sometimes an enemy will go down after just one or two hits, as you'd expect. At other 
+ times, you'll seemingly have to unload entire clips of ammunition to get someone to drop.   
+
+  The sound effects are outstanding. Each of the game's 33 real-world weapons has a specific and 
+ often immediately recognizable sound. Levels all feature a lot of subtle ambient noise that really 
+ picks up any slack in the details of the environmental graphics. There are also a huge number of 
+ different footstep effects corresponding to different floor materials. As with some of the visual 
+ effects, the clever use of sound actually affects gameplay. The best example of this is that nearby 
+ explosions briefly cause a ringing in your ears and a general muting of sound that can impact your 
+ ability to hear enemies approaching.   
+
+  Global Operations does have a few considerable flaws. First among them is a dire lack of servers. 
+ This can be partially attributed to the game's newness, but some of the blame needs to be placed 
+ on the design of the game itself. Server requirements are steep: According to the scant information 
+ in the readme file, a full T1 line is needed to host a 16-player game. Servers must also be dedicated, 
+ and only one server instance can be run on a given machine. There's also no Linux server port at 
+ this point, though one is promised. Even when registering a good ping, the game is virtually unplayable 
+ when connected to an underpowered server, and even on decent servers, in our experience, it's incredibly 
+ choppy if the client has anything less than a DSL or Cable connection. There are currently only 
+ about 50 servers running at any given time, of which maybe six or seven were playable for us. On 
+ those, though, everything ran perfectly smoothly. LAN play is also smooth, but every player needs 
+ a unique CD key to join in.           The core gameplay of Global Ops is fun and interesting.  
+   
+
+  In spite of the attention to detail apparent in the game's many neat little touches -- for instance, 
+ defusing a bomb involves actually figuring out which wire to cut, meaning if you're in a hurry, 
+ you can cross your fingers and take a guess -- it seems as if a few elements were either glossed 
+ over or simply not included. There's no voting system, for example -- if someone on your team decides 
+ to concentrate on peppering your respawn spot with tear gas, there's not much recourse. There's 
+ not a lot of detailed information about the characteristics of the many weapons, either, nor any 
+ place to test-fire them at your leisure. A shooting range of some sort would have been great, considering 
+ all the different hardware available. And short of starting your own dedicated server on a separate 
+ machine, there's no easy way to explore the levels without opposition in order to learn them.  
+
+  So here's a recap of the requirements: If you don't care about the single-player game, if you have 
+ a high-speed Internet connection, and if you can find a good server, then Global Operations is 
+ great. It'll be a shame if not enough people meet these requirements, because Global Ops is an 
+ innovative team-based shooter that deserves an audience.    
+-------------------------------------------------
+:::User Reviews::: (7 Reviews)
+::::::
+UserName: quaycomputer
+Rating: 10
+Date: May 13, 2008 1:01 pm PT
+Review:  Caution!!! after reading this, you may throw your counter strikes in the recycle bin, so please 
+ be aware...
+  
+  I would like to think one is one of the best fps game i've ever played. in comparison to counter 
+ strikes, this one hits the roof, as cs hits the root. there are variety of guns with preview. each 
+ character has its own specialty, which can carry different kind of weapons. Plus, they have different 
+ moving speed as well, such as sniper are moving faster than heavy gunner. in single player mod, 
+ you can call medic or command your team such as "follow me", "hold this position", "move quiet".... 
+ Not to mention the location, backgrounds - they are much more details and original than counter 
+ strike. One good thing i prefer, no cheat for this game, unless someone creates a non-official 
+ trainer. Great for online multiplayer mod. However, sometimes the shot detection in sniper is a 
+ little off and little glitches in reloading your weapons can piss you off. Well, it rarely happen, 
+ so I don't think it would be a big deal. I recommend this game.
+  
+  perfect score 
+::::::
+
+::::::
+UserName: Roby_Oprea
+Rating: 9
+Date: Nov 23, 2007 1:14 pm PT
+Review:  First of all, Global Operations is a team based FPS. But, the game differs from Counter Strike. ln 
+ CS, when you get killed, you would have to wait until your team wins or your teammates, which is quite 
+ annoying, while in Global Operations, when you get killed, you can call a medic to heal you or just 
+ simply get in the transporter, giving you enough time to buy your weapons. Another difference between 
+ the two games is that in Global Operations, you have 2 campaigns, counter-terrorist and terrorist 
+ campaign, and there is no skirmish type of game, while in Counter Strike you can set win limits or 
+ time limits before playing in a level and have the chance to choose between counter-terrorist forces 
+ or terrorist forces. And the last difference between these two games is that in Global Operations 
+ you can choose a class out of five classes (medic, commando, heavy gunner, sniper, recon) which you 
+ can change while playing. Each class could buy only some weapons (e. g. as a sniper, you can only buy 
+ sniper rifles) . In CS you can choose a soldier out of four, but each class can buy the same weapons. I 
+ say that Global Operations is worth playing. 
+::::::
+
+::::::
+UserName: Jedo
+Rating: 7.3
+Date: Sep 22, 2006 11:29 am PT
+Review:  Note* I haven't got much time so this one will be short
+  
+  At this time someone who chooses to play Global Operations has picked it while looking back in 
+ the past at the games that he/she has perhaps forgot to play a couple of years back. Global Operations 
+ attracts the eye of an action-fan with a picture of several armed operatives on the box. Aiming, 
+ perhaps, at repeating the success of Counter Strike, a mod for Half Life, it looks promising. However, 
+ does it hold its own as a stand-alone game? GAMEPLAY
+  
+  Global Operations tries to improve the old concept with new features. One such feature is the various 
+ missions. They vary from blowing stuff up to assassinations to rescues. Another feature is the 
+ character variety. The game features many armies and many sorts of terrorists. Weapons are also 
+ pletiful. Each weapon has to be bought when the player isn't on the map (either before the match 
+ or when dead) with the cash mostly received for killing and completing objectives.
+  
+  There are two modes: single player and multi-player. After completing the optional training mode 
+ where you aknowledge yourselves with controls, you can play the campaign where you to play the 
+ availible maps as part of the good guys, with each succesful mission unlocking the next one. You 
+ play together with a team of bots against a team of bots. Once the player dies, he respawns at 
+ the insertion zone after a while. The poor AI intelligence contributes to you getting tired of 
+ this mode quite quickly. Sometimes the AI surprises you as both your teammates and the enemy do 
+ succeed in completing the objectives after a while, but it's not helping the single player much. 
+ There isn't a general storyline or anything else to bring life to the single player and it becomes 
+ what it was probably originally meant to be: training for the multi-player.
+  
+  The multi-player allows you to play the single-player maps with a team of real players. It's identical 
+ to the single-player in every other way. It's simple and fun.
+  
+  GRAPHICS AND SOUND
+  
+  Graphics in the game are rather dated (even by the 2002 standards) and do remind the original Counter 
+ Strike. The guns look well, but there isn't much else to say about the quality of the visuals. 
+ The game does feature various environments and player skins and that's nice.
+  
+  There are a lot of sounds in Global Operations. There are many voice commands for the game. The 
+ plentiful guns have to have their distinct sounds. There are many minor noticable points like the 
+ ringing in the ears when a grenade explodes nearby. There's isn't much in-game music, except for 
+ the main menu soundtrack, but for this particular game the music would be rather pointless. Most 
+ professional Counter Strike fans usually play their own music if any.
+  
+  VERDICT
+  
+  For whatever reason, this game failed to repeat the magic of Counter Strike and currently only 
+ has 3 or 4 servers operating on-line. The original Counter Strike has more. With its single player 
+ being rather boring and its graphics average, the game doesn't come very far and somewhere between 
+ has now become quite absolite. 
+::::::
+
+::::::
+UserName: TheLazySouth
+Rating: 8.6
+Date: Jul 6, 2006 9:08 am PT
+Review:  The game itself has crappy sounds, hit & miss AI, often onesided maps (especially the canadian map) 
+ and... I'm sorry, I can't finish this review, "The Caveman's Valentine" is on and... I can't... 
+ I can't turn away. I can't turn away from Samuel Jackson. I have absolutely no idea whats going 
+ on, but apparently Samuel is inclined to stay "nasty" on some "mothers" which can't be a good thing.
+ 
+  
+  Dude! A guy is getting tortured to opera! Not like Reservoir Dogs like he's being tortured to disco, 
+ at least you can groove with the pain, man!
+  
+  Wow, this is pretty arty. Jackson looks like the lead singer of Bad Brains.
+  
+  Anyway, this 
+ is a pretty good game that suffers from movement and low quality sound effects. It tries to be 
+ super realistic, and kinda decreases it's fun value by doing so. I got this game from a wholesale 
+ place in Jersey for ten bucks, not a bad deal but not worth the effort Rockstar Toronto, er I mean 
+ Barking Dog Games put into it. Horrible online play, and by horrible - I mean awful! You can't 
+ move two feet without reverting to the same place you spawned. This is a great game for a rainy 
+ day or just scratching that tactical sim itch, Global Ops is great. 
+  
+  Favorite Maps:
+  Sri Lanka
+  Mexico
+  Columbia
+  North Africa
+  Uganda
+  
+  *A little tip, when VIP's are 
+ about to be ushered via plane or helicopter - shoot the aircraft to delay pickup. 
+::::::
+
+::::::
+UserName: kuipstoel
+Rating: 7.8
+Date: May 13, 2006 2:20 pm PT
+Review:  A good shooter with much characters and weapons but you don't got much missions. The weapons are 
+ amazing and you can almost make your own weapon. Take a AK-47 and put a scope on it, or take Spas 
+ 12 Shotgun and a light on it if you got to shoot in the dark. Like more a pistol or a Bazooka no 
+ problem buy it and use it. Te place where the missions are played are not bad to. Morocco, Antarctica, 
+ Peru, Sri Lanka and you got much and much more. Got olso nice teams. S. W. A. T Arentinia army, Sea 
+ Army and much more. What you must do in the missions is different. In some missions you must safe 
+ the hostages, m in some missions you must kill somebody special and in a another mission you must 
+ take somebody to a Extraction point. A good game but its too short, you can finish this game in 
+ less than 10 hours. If you are a GOOD PLAYER. 
+::::::
+
+::::::
+UserName: UndaFiya
+Rating: 8.3
+Date: Feb 24, 2006 8:47 am PT
+Review:  the missions in the game are great, and you have alot of fun replaying them different ways with 
+ different weapons. The bots are smart enough to be fun and realistic, and online is pretty good 
+ too. the graphics arent really good, and the sound is generally lazily put together, but if you 
+ find this game for a cheap price, you'd probably have alot of fun with it. if you are a fan of 
+ R6, or CS, you'll probably have a blast.
+  
+  anyways i recommend it to anyone who wants to play a good squad or tactics shooter, and can also 
+ be confident in an enjoyable offline experience. 
+::::::
+
+::::::
+UserName: Red_Jester
+Rating: 8.2
+Date: Aug 11, 2004 5:58 pm PT
+Review:  This Review is with the latest patch.
+  
+  Barking Dog Studios developed Global Operations with the same vibe of Counter-Strike and other 
+ similar games. Barking Dog studios has actually worked on previous versions of Counter-Strike. 
+ Global Operations is a squad based military shooter that focuses mainly on the online play and 
+ there is a variety of real world weapons and equipment found throughout the game. There are currently 
+ up to 15 multiplayer maps set in real life locations. You can go online and duke it out with up 
+ 23 other players. There are 7 soldier classes to choose from with specific weapons/equipment and 
+ some other minor differences.
+  
+  There are similar game types to Counter-Strike but they usually involve more than just running 
+ into a room and planting a bomb or rescuing hostages. You usually have a list of objectives that 
+ you must complete before the primary objective. An example of this is that in the Chechnya mission 
+ where the Russian Army must raid a rebel compound and eliminate the rebel leader. They cant do 
+ that because the area is barricaded and only an air-strike could clear the path but they cant 
+ call in an air-strike because there are two anti-aircraft vehicles in the area. The Russian Army 
+ must first blow the anti-aircraft vehicles up so that the air-strike can clear the barricade and 
+ give access to the rebel base for the main objective. Most of the maps in Global Operations are 
+ good and they believably make you think you are in that part of the world. The bomb diffusing sequence 
+ is very interactive and interesting. You can either wait for this device to find which wire to 
+ cut or you can simply guess which wire it is. This is useful if there is only a few seconds left 
+ or if someone killed your backup and is coming for you.
+  
+  The weapons and equipment throughout the game are based on real world weapons and all of them are 
+ worth using depending on the funds you have available. You gain funds by completing an objective, 
+ killing enemies and other pro-teamwork things. None of the weapons are way overpowered or useless 
+ but paying for a very expensive gun will get you your moneys worth. You have to wait to spawn in 
+ after you die and that can take from 1  40 seconds depending on the server settings. You can select 
+ your weapons and equipment here while you wait or spectator your teammates or camera points. You 
+ also have the choice to risk running to where you or you teammate died to retrieve the dropped 
+ weapon. There are always weapons on the ground but you are practically target practice if you only 
+ have a pistol and the weapon was dropped in the open. Almost all the weapons can be upgraded by 
+ adding attachments like scopes, double clips, silencers, extended clips, drum barrels and attachable 
+ flashlights. Just about all the guns are very useless if you spray the gun fully automatic. Even 
+ at close range spraying is difficult so you should learn shooting in precise bursts. You can switch 
+ your fire mode to single or three round burst for most guns if you are having trouble shooting 
+ accurately. It doesnt take many shots to kill someone with rifles and powerful pistols so learning 
+ to shoot precisely will definitely give you an edge. Also, moving while shooting makes your shots 
+ very inaccurate. There are multiple kinds of armor going from light to heavy but some are limited 
+ to different classes. The equipment is pretty standard stuff ranging from multiple grenades to 
+ night vision goggles. 
+  
+  You will be able to choose from 7 different soldier classes in the game. The demolitions expert, 
+ heavy gunner, commando, recon, medic, sniper and intelligence officer classes are available for 
+ choosing. The medic is a very important class for the team. They can heal themselves and teammates 
+ by injecting them with some green substance using a med-kit. You can also revive fallen soldiers 
+ much like Return to Castle Wolfenstein. You should try to heal your teammates and yourself as fast 
+ as possible because the longer you stay injured, the less amount of health you can heal. The recon 
+ class is extremely useful and hasnt been done in other games. The recon soldier can use some sort 
+ of device which lets you see teammates and enemies through walls. He cant keep the device detecting 
+ enemies forever but it is a huge advantage to a team. The disadvantage of being a recon soldier 
+ is that your weapons are limited to light-machine guns. The sniper is a valuable team asset depending 
+ what kind of map you are playing. The sniper can only buy sniper rifles as his primary weapon and 
+ that should make you choose wisely upon using a sniper. The three classes I explained move exceptionally 
+ faster than the other classes but they are limited to light and medium armor. The commando is an 
+ all around killer. He has access to many weapons including the devastating L. A. W. anti-armor weapon. 
+ This weapon eliminates everything around the blast. The heavy machine gunner has access to heavy 
+ machine guns like the SAW and shotguns. The demolitions expert has access to an M-79 grenade launcher 
+ and different types of explosive like remote charges and timed C4 that can be used to set a trap 
+ around the corner. The last three classes are a bit slower than the first three but they do have 
+ access to the heaviest armor. The final class, the intelligence officer, is rather useless and 
+ unused. I cant say much because I was so incredibly bored within the first minute that I went 
+ back to fighting. You see an overhead map, your teammates and remote cameras, which are the same 
+ things you can watch as a spectator. You can give waypoints but I wouldnt expect anyone to go 
+ there. All fighting classes have access to the four different types of grenades and equipment like 
+ night vision goggles and thermal heat sensor goggles.
+  
+  The graphics are just good. They dont have anything special to describe them as anything but good. 
+ Although the environments are good looking, they are really square. I mean that everything seems 
+ straight and it is blocky. This wont interfere with game play but it is something you notice. 
+ I think it is a great feature that each level takes place in a different location and all of the 
+ player models have a different look corresponding to that location. The explosions are standard 
+ stuff but they dont give you a feeling that a blast just went off near you. The smoke grenade 
+ does its job well with no slowdown as you run through it. The tear gas grenade gives a blurry effect 
+ that makes you close your eyes repeatedly and cough. The flash bang gives off the same effect you 
+ see in counter-strike. The guns all look authentic and they are used as they would be in real life. 
+ 
+  
+  The sound is used well in thinking that a small battle is going on around you. The guns sound realistic 
+ when they are fired which is great. Unfortunately, the radio commands keep the same language throughout 
+ each mission. If a grenade or flash bang goes off near you, it will cause your ears to deafen for 
+ a short time. I kind of wish that the explosions were a bit louder but I cant say from experience 
+ what they sound like in real life. Aside from the radio commands, the only other voice in the game 
+ is from the tutorial. The game has an option for voice over IP but I have never heard anyone use 
+ it and I dont know if they hear me. There are some nice effects like wind blowing while you are 
+ in the mountains and other ambient noises that make the maps feel more real. The sound overall 
+ is very well done and should do better in immersing you in the game.
+  
+  The servers are a bit lacking though. There are currently 30 servers running and only 11 have players 
+ playing in them. Team-killing is still the same as anywhere else but you can vote him out if everyone 
+ binds vote to a key. Cheating is another problem. The servers that dont actively have administrators 
+ playing are probably going to have cheaters in them. Even the official EA servers have cheaters. 
+ You can vote them out but most people on their team vote no because they are raking in money. That 
+ and some people havent bind vote to a key. The game is great if you find a good server though. 
+ Even the servers in a separate country from my own played with no lag. It is also worth mentioning 
+ that there is a single player mode but it isnt worth checking out. It is only the multiplayer 
+ maps with bots that you can play in succession. If you were planning to get this game for single 
+ player then you should cancel those plans now. You can have a fun time if you find a good server 
+ with a good number of people playing. The game did not quite get an audience as large as Counter-Strike 
+ but is a good game that is worth checking out.
+  
+::::::
+
+-------------------------------------------------

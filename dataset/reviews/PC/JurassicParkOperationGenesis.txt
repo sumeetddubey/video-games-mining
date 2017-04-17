@@ -1,0 +1,955 @@
+-------------------------------------------------
+:::Game Name::: Jurassic Park: Operation Genesis
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/jurassicparkoperationgenesis/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Mar 20, 2003
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.2
+Critic Score: 7.3, 15 Review (s)
+User Score: 8.5, 861 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: VU Games
+Developer: Blue Tongue
+Genre: Business Strategy
+Date:     Mar 10, 2003 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Jurassic Park: Operation Genesis is an enjoyable game that should appeal to dinosaur buffs and park 
+ simulation fans alike, thanks to its attractive graphics engine, unique features, and surprising 
+ gameplay depth. 
+
+  Amusement park simulations are among the best-selling games on the PC market today. Their popularity 
+ should come as no surprise, because these simulations can appeal to such a broad audience -- men, 
+ women, and children alike. What is surprising is that almost all games based on the Jurassic Park 
+ license to date have been action games, while the premise of the original movie was the creation 
+ of the world's greatest zoological park. Universal Interactive has finally taken the logical step 
+ with Jurassic Park: Operation Genesis, a strategy game that lets players create and manage a dinosaur 
+ zoo. Jurassic Park: Operation Genesis is an enjoyable game that should appeal to dinosaur buffs 
+ and park simulation fans alike, thanks to its attractive graphics engine, unique features, and 
+ surprising gameplay depth.           The game allows a very wide field of view.    
+
+  Operation Genesis' 3D graphics engine does an excellent job of rendering the lush terrain of a 
+ tropical island. The dinosaur models are very detailed, allowing players who have even a passing 
+ knowledge of paleontology to immediately spot the differences between similar-looking dinosaurs 
+ such as the brachiosaurus and the camarasaurus (also known as the brontosaurus) . The models are 
+ also scaled accurately -- small velociraptors are dwarfed by the much larger tyrannosaurs, for instance. 
+ Weather effects like rain, wind, lightning, and tornadoes add to the overall effect. The engine 
+ lets you rotate your view in any direction and also has a wide range of zoom, so you can get in 
+ close to examine individual dinosaurs, or get a much wider view to manage your park comfortably. 
+ Though Operation Genesis also has special effects like reflective water, we found that the game 
+ had a tendency to lock up with the more advanced graphics settings turned on. Fortunately, the 
+ game still looks good even at a medium level of detail, though the game's dinosaur animations still 
+ aren't particularly smooth.   
+
+  Operation Genesis sounds almost as good as it looks. Each of the game's dinosaurs lets out different 
+ types of noises, depending on whether it's playing, hunting, sick, or frightened. Your park advisors 
+ provide some audio cues, and they even visually resemble the actors from the original movie (though 
+ their voices are provided by stand-ins) . The in-game music is the very same score written by John 
+ Williams for the original Jurassic Park film. Williams' songs do contribute to the game's atmosphere, 
+ but die-hard fans of Mr. Williams' music may be disappointed to find that the game doesn't use 
+ CD-quality recordings of the tracks.   
+
+  Operation Genesis' interface is probably its weakest aspect. The game's mouse control is imprecise, 
+ so you'll sometimes click on the wrong button. Also, the game provides no way to cycle between 
+ the different dinosaurs in your zoo, which can make trying to keep track of them more annoying 
+ than it should be. Picking out larger dinosaurs is easy because they're so large, but some of the 
+ smaller ones like velociraptors can be hard to spot from a zoomed-out view. Thankfully, you can 
+ see the location of all your dinosaurs on the game's minimap, but the game probably could've benefited 
+ from a "cycle to next dinosaur" button. The game's interface also has no quick buttons to bring 
+ up your park map, so if you spend most of your time controlling the game with your mouse, you'll 
+ have to reach back to your keyboard and hit the Tab key to bring up this important screen.   
+
+ 
+  The gameplay in Operation Genesis revolves around creating a park full of dinosaurs for your visitors. 
+ The game provides several different kinds of challenges. First, you'll need to create secure enclosures 
+ that provide a safe environment for both dinosaurs and park visitors. To keep your park secure, 
+ you'll need to build electric fences of varying strength, security cameras, ranger stations, and 
+ even sentry guns. Tornadoes and rampaging dinosaurs can cause breaches in the fencing and also 
+ damage buildings, but thankfully, the game's map interface makes it easy to spot any holes in your 
+ defenses.           Using the viewing towers from the first-person mode is a great tool.    
+
+  Secondly, you'll need some dinosaurs -- unlike games such as Zoo Tycoon, in which you simply purchase 
+ animals, Operation Genesis requires you to literally build your menagerie from scratch. You'll 
+ hire fossil-hunting teams in various parts of the world and then place them at dig sites to seek 
+ out dinosaur bones or amber. You'll then send the artifacts to your genetics lab, where you'll 
+ extract DNA until you have enough of one species' genome to create a dinosaur from a hatchery. 
+ Though it's possible to create a dinosaur with only a 50-percent-completed genome, he won't live 
+ long -- the more complete a genome you have, the longer your dinosaur will live. This contributes 
+ to the game's strategy, because it costs you time (and money, if you choose to buy fossils and 
+ amber from the fossil market) to find more pieces for a particular species of dinosaur. However, 
+ the time you put into completing a genome results in a longer-lived investment, since hatching 
+ a dinosaur costs a lot of money as well.     
+
+  There are 25 different dinosaurs in Operation Genesis, each with its own unique behavior patterns 
+ and popularity rating among visitors. Keeping your dinosaurs happy is a complicated process. You'll 
+ be able to build feeding stations where herbivores can get bales of plant feed, while carnivores 
+ are fed live cows or goats. Watching a carnivore hunt hapless livestock is one of the more amusing 
+ parts of the game. However, your herbivores become unhappy if they don't have enough trees around 
+ them or enough nearby dinosaur friends to socialize with. Likewise, your carnivores have an innate 
+ desire to hunt other dinosaurs, so even a constant stream of cows isn't going to keep them happy. 
+ Thankfully, the game comes with a detailed "dinopedia" that tells you which other species your 
+ herbivores can be friends with, and which dinosaurs your carnivores prefer to hunt. Keeping all 
+ these details in mind is part of the fun and strategy of building a successful park. Aside from 
+ keeping your dinosaurs fed and happy, you'll need to worry about six different possible diseases. 
+ Vaccines for these dinosaur diseases are part of your research tree, and since the diseases are 
+ often contagious, it's useful to keep a small pen as a quarantine area to move sick dinosaurs to 
+ while you research a cure.           Some missions require you to take photographs of dangerous 
+ dinosaurs.    
+
+  Making park visitors happy is the other half of the equation in running a successful dinosaur zoo. 
+ There are four primary types of visitors: mainstream consumers, who are easily amused; thrill seekers, 
+ who enjoy seeing carnivores hunt; fun lovers, who like seeing herbivores play in large herds; and 
+ dino nerds, who are the most demanding and become upset if dinosaurs from different eras are kept 
+ in the same pen (this obscure information is also kept in the dinopedia) . The visitors also have 
+ standard needs, so you'll want to build basic amenities like restaurants and benches.   
+
+  The most challenging aspect of Operation Genesis is creating your park in such a way that your 
+ dinosaurs can be seen by the visitors. There are only a few types of structures you can build for 
+ visitors to see dinosaurs. These include viewing vents, which are built into the fences; viewing 
+ towers; and viewing domes, which are built into the ground inside of dinosaur pens and accessed 
+ by tunnels. One of the most impressive features in the game is the ability to get into a viewing 
+ vent or dome yourself and see what your visitors can see. Sometimes a tree may be blocking a vent, 
+ or you may have placed a tower too far away from centers of dinosaur activity -- getting into these 
+ structures in the first-person mode can give you clues as to why specific vents and domes are popular 
+ or unpopular.   
+
+  The most unique features in Operation Genesis are the ranger helicopter, the land-cruiser safari 
+ tour, and the hot-air balloon tour. Every ranger station you build in the game comes with a helicopter 
+ that you can control. In a helicopter, you have the ability to perform a number of tasks, such 
+ as lowering a rescue winch to pick up lost visitors, using a herding device to herd wayward packs 
+ of dinosaurs, and shooting dinosaurs in the first-person mode. You're not always shooting to kill -- sometimes 
+ you'll need to vaccinate your animals, and this is done by firing darts from a helicopter. But 
+ once in a while, you'll find a pack of carnivores on a rampage, and that leaves you no choice but 
+ to kill them all by sniping them from the ranger helicopter. And if you don't want to get your 
+ hands dirty, the game lets you assign ranger helicopter tasks to the AI, which does a competent 
+ job of hunting and shooting.   
+
+  The safari tour and balloon rides are similar to the viewing structures because they feature a 
+ first-person perspective that lets you get closer looks at the dinosaurs. In the case of the safari 
+ tour, you have control over the vehicle and where you drive, though you need to be careful, because 
+ angry dinosaurs can smash the car. The balloon is a safer ride, and it's even possible to snap 
+ photographs while on a balloon tour. Each photo is assigned a score depending on composition and 
+ the number of species in the photo. From time to time, your park's public relations manager will 
+ sell the photographs to a magazine, which is another revenue stream for the park.   
+
+  Operation Genesis has three modes of play. One of these is a set of a dozen action-oriented missions 
+ in which you sit in the land rover or the helicopter and kill rampaging carnivores, rescue park 
+ patrons, or herd loose herbivores into a pen within a specific time limit. These missions are extremely 
+ easy and can be beaten in a matter of minutes. There are also "exercises" that offer more open-ended 
+ play, like building a park with a set of specific goals that must be achieved, such as displaying 
+ specific species or achieving high popularity scores on certain rides. Finally, the game includes 
+ a sandbox mode, which allows you to create your own island to build on.           When dinosaurs 
+ go on a rampage, you're forced to kill them.    
+
+  Even though children will be attracted to Operation Genesis because it has dinosaurs, parents should 
+ take note of the ESRB "T for Teen" rating on the box. There's some blood in the game -- carnivores 
+ can kill livestock, other dinosaurs, or park visitors if they get loose. You'll also need to put 
+ down rogue dinosaurs from time to time by shooting them. The violence is never gratuitous, but 
+ parents may want to consider these facts before getting this game for a young child. For dinosaur 
+ fans who are mature enough, Jurassic Park: Operation Genesis provides an enjoyable experience, 
+ with attractive graphics, strategic gameplay, and unique features that provide up-close looks at 
+ the dinosaurs in action.     
+-------------------------------------------------
+:::User Reviews::: (27 Reviews)
+::::::
+UserName: Fighterpiliot
+Rating: 9
+Date: Apr 12, 2009 4:12 pm PT
+Review:  
+  I got this game with high expectations, I was not at all disappointed. The game allows you to create 
+ your own version of Jurassic Park. I feel that it stays pretty true to the movies, however some 
+ dinosaurs in the game have never been featured in the movies. If you really want the Dino's to 
+ look exactly the same as the movie, I suggest going to www. jplegacy. org, they have created a "film 
+ cannon" which, when installed properly will give the dinosaurs the exact same movie color pattern. 
+ The game graphics are very good, especially considering that it is from 2002! I would not have 
+ known it was that old if the trailer hadn't shown it. The dinosaurs all act and sound realistic, 
+ as well as showing behavior like pack hunting in the case of velociraptors and dilophasaurus. However 
+ the latter aren't very smart and rarely spit poison. The only things that I don't like about the 
+ game are tornadoes and the fact that you can't get an island that is the same shape as the one 
+ from the books or movie.
+  Tornadoes are part of the game but are still really, really bad. All in all this is a good game, 
+ and the only thing that prevented it from having a higher score (9.5) is that it is an old game 
+ and as such is not quite up to par with recent technology. However it could give any new game a 
+ run for its money. 
+::::::
+
+::::::
+UserName: cynicoren
+Rating: 6.5
+Date: Dec 28, 2008 9:24 am PT
+Review:  This dino game is somewhat exciting. As in the JP movie, you breed dinos genetically, and run your 
+ theme park. Problem is - It's all to easy.
+  Yes, the graphics look good, and with the sound and camera options the dinosaurs look quite lively 
+ and full of (pixeled) life.
+  But the theme park campaign is very easy. I won the game on 1st attempt, without any use of saved 
+ games ! Just built a park, added 3 wired habitats and a few Kiosks and shops, raised prices all 
+ over the park to dino-bubble level , and that it. Carnis with carnis, herbis with herbis, and let 
+ time pass.
+  
+  The other playing options are the "mission campaign" that holds some very very easy missions (finished 
+ it all in less than 1.5 hours) and a weird, limited sandbox mode, that only let you create dino's, 
+ without all the fuss of running the theme park.
+  
+  So i gave it 6.5 because I liked the (dinosaurs) acting, its like an ancient Sims game - the initial 
+ idea sounds nice, but it can get boring quite quickly. 
+::::::
+
+::::::
+UserName: picklessmulan
+Rating: 6.5
+Date: Oct 7, 2008 2:06 pm PT
+Review:  Jurassic Park is a game were you should build your own Theme park just like the Movie. There are 
+ many different Dinosaurs and there are also missions were you can photo Dinosaurs from the Jeep 
+ and Shoot them from a helicopter.
+  
+  Graphics: The graphics in the game is good. The dinosaurs looks good as the nature and buildings 
+ and so on.
+  
+  Sound: The sound is marvelous. Its the Voices from the Movie and the Music as well. The only minus 
+ in the sound is that its not enough talking.
+  
+  Control: The control is overall bad and its the mouse fault. The moving with the mouse is irretating. 
+ and doesnt move as you want. 
+  
+  Value: The value of the game is fantastic if you are a fan of the game. There is much to to with 
+ the building the park from scratch. Beside that you got a lot of exercises and also 12 missions 
+ with driving car, flying helicopter, taking photos and shooting dinosaurs and so on.
+  
+  Tilt: I dont think the game is funny. ok its funfor a short while, but it gets very reptive after 
+ a short while and everything take a long time. 
+  
+  + The Voices, The Music, The Value
+  
+  - Moving the mouse, Repitive, Boring 
+  
+  Graphics 7
+  Sound 8
+  Control 5
+  Value 8
+ 
+  Tilt 4
+  
+  
+  
+::::::
+
+::::::
+UserName: lv46
+Rating: 7.5
+Date: Jul 24, 2008 9:35 am PT
+Review:  A theme park game based around arguably the most famous fictional theme park in the world. What 
+ could be a better idea, except maybe putting bacon and brie in a toasted sandwich. Wouldn't that 
+ just be the best, especially with brown sauce. But I digress.........
+  
+  After starting, I first tried out the exercises. the first half of these being tutorials and the 
+ second half being scenarios, based around building a safari ride, rebuilding the original Jurassic 
+ Park, rebuilding site B from the second film, creating a park of super carnivores and building 
+ a park on an island with worse weather than the Scottish Highlands. These scenarios are all fairly 
+ easy once you know how to play, with the exception of the last one, as adverse weather hits every 
+ other month and effectively closes the park down.
+  
+  The other set of scenarios are the missions, in which you play a park ranger tasked with either 
+ ending rampages, taking photographs or herding herbivores. These are all very easy, and can be 
+ finished in 1-2 hours. The herding levels and, to a lesser extent, the photographer levels are 
+ quite boring, but the ending rampage missions, based around you, a rifle and a lot of velociraptors, 
+ are good fun and a great way of relieving stress. Completing the missions unlocks the Site B mode, 
+ in which you build hatcheries and food dispensers and watch how the dinosaurs cope. this is not 
+ as good as it could have been, as if you accidentally fill up the dinosaur limit (60) , and have 
+ not put in any carnivores, the only way to get space to add different dinosaurs is to wait until 
+ they start to die of old age, up to 5 in game years. Although there is an ability to kill off the 
+ dinosaurs with the 'lethal gene', this cannot be used. Also, watching T-Rex hunt smaller dinosaurs 
+ is fun for a while, it quickly becomes boring.
+  
+  The other mode of play is the titular 'Operation Genesis'. In this, you choose an island by altering 
+ the amount of mountains, rivers and trees, and then build a park from the ground up. you start 
+ with one fossil dig site unlocked and enough DNA to create 2 species of dinosaur, usually a herbivore 
+ and a carnivore. As you build up, you will find new fossils to both breed new species of dinosaur 
+ and increase their longevity. An increased number of dinosaur species will draw more people to 
+ your park and increasing its fame. This allows you to find fossils in new locations, and further 
+ diversify. 
+  In order to make the park successful, you must also research new technologies to help it run. Thinking 
+ of breeding a T-Rex to draw in thrill seekers? Then research high security fences to keep it in. 
+ Does rain make all your visitors leave? then research umbrellas to keep them happy. I only really 
+ have two criticisms. 1. That the starting amount of money is barely sufficient to build one enclosure 
+ and the infrastructure needed to support visitors, and 2. That you have no choice as to what your 
+ starting dinosaur species are, or where your initial dig site is. I believe that adding player 
+ control in these areas would make the game more enjoyable.
+  
+  The game is good looking, considering it runs on Direct X 8, and sounds incredible. All the 25 
+ species have their own calls, the voice acting sounds like it is done by the original actors and 
+ the musical score is very suitable. Also, the John Williams theme is played in the opening menu 
+ screens. As I consider that to be one of the best pieces of music ever written, this is just the 
+ icing on the soundtrack cake.
+  
+  I do have a major complaint with the game AI, due to the fact that it is clinically retarded. I 
+ have created perfect enclosures, with food, water, shelter, everything a dinosaur could ever want, 
+ and they still manage to starve to death. How does anything starve to death when surrounded by 
+ food? Anyone who knows, please tell me.
+  
+  To sum up, the game play is good, if a little over-responsive at times, the graphics are good, 
+ the sound is incredible, and it is a very enjoyable game.
+  I do, however, think that an expansion pack bringing some more species in would have been good, 
+ especially some of the ones from the films.
+  All in all though, I recommend this game. Its not perfect, but then no game is, except Red Alert. 
+ 
+::::::
+
+::::::
+UserName: ninn1000
+Rating: 8.5
+Date: Jun 25, 2008 5:08 pm PT
+Review:  In Operation Genesis you get to create your own Jurassic Park, and I know, 'there is no way this 
+ could be done in a video game.' But this game, hits the bell, if a little softly...
+  
+  Its graphic are just one of its great feats. They might not look so interesting now but for a game 
+ that cameout 7 years ago, the graphics are amazing. Each dino looks different and although the 
+ plant life is sorta repeditive it is interesting in its own way. Colors, as you can see from the 
+ photos, are all vivid and bright and really brings the world to life but doesn't make the game look 
+ like it was made for babies.
+  
+  From the point of view of a scientist: ... I'm not one, skipping!
+  
+  The gamplay normally isn't 
+ too hard, in the manual it makes it sound like dino breakouts are really common, but really aren't 
+ at all if you know what your doing making this game sorta easy. But other times people may get 
+ stuck in the cages, then you need to go rescue them using the helecopter which also isn't too hard, 
+ but still feels real.
+  
+  Of coarse this is a theme park/ zoo game so like in games like Zoo Tycoon you'll need to build 
+ fences around your dinos to keep them away from visitors (whose needs you will need to satisfy- 
+ still easy) . But people can still see the dinos without having to look through all of the bars 
+ in the cages. You can add "Attractions" which bring the people and the dinos closer. The types 
+ I can recall are the following:
+  
+  Car Ride: Draw a trail for a car to follow, or drive around the cage yourself.
+  
+  Tower: A 
+ view from above the bars.
+  
+  Peep-hole: A place where visitors can take a tunnel under the cage into a dome where they can look 
+ out.
+  
+  Balloon Ride: It's like the car ride but can tour the whole island, but sadly you can't control 
+ it.
+  
+  Cage Lookout: Lets visitors look out into the cage from the wall.
+  
+  To get dinos you have to get a escavtion team to dig up fossiles and when you have enough of that 
+ type you can "Clone" that dino. Then you need to put a hatury in the cage and wait for the eggs 
+ to hatch.
+  
+  Besides the freeform I've been explaining there is also a relitivly harder part to the game where 
+ you do missions such as taking photos, shooting down dinos and saving people from being eaten. 
+ These mini missions are quite a bit funner than they sound. Cheesy as they are, they are fun.
+ 
+  
+  By completing all these missions (or using a cheat- I've done both) you unlock an island where 
+ you can do anything you want with no visitors or cages. And this is a great way to see was Mr. 
+ Rex would enjoy having for tomarrows lunch. It's really fun but doesn't give you all the fun you 
+ get from Freeform.
+  
+  All-in-all this game is enjoyable and suggestable for newbies to Theme-park games because there 
+ is so much to do, but isn't very hard.
+  
+  
+  888888 555555
+  88 88 55
+  88 88 55
+  888888 55555
+  88 88 55
+  88 88 :::::: 55 
+  888888 :::::: 555555 
+::::::
+
+::::::
+UserName: gamespotmarioGM
+Rating: 10
+Date: Feb 16, 2008 8:36 am PT
+Review:  What Operation Genesis is about is that jurassic park needs to have a new park manager that is 
+ you, from opening the park with atractions to get at least $5 per minute!
+  Game Features include; Dinosaurs, Visitors, Fun Gameplay, Security Cameras, Gun Turrets, Low Security 
+ Fences/Medium Security Fences/High Security Fences, And Lots more
+  my final word
+  
+  
+  
+  
+  BUY THE GAME!!!!!!!!!! !!!!!!! !!!!!!!!!!! !!!!!!!!!!!! ! !!!!! !!!! !!!!!! !!!! !! !!!!! 
+ !!!! ! !!!! !!!! !!! !!!! !! !!! !!!!! !!!!!!! !!!!!!!!!!!!! !!!!!!! ! !!!!!! !!!! !!!! !!!!! !!!!! 
+ !!!!!!!!!!!! !! !!!! !! !!!!! !!!!!!!!! !!!! !!!!!! !!!!!!!! !!!!!!!!!!!!!!!!!!! !!!!!!! !!!!!!!!! 
+ !!!!!!!!!!! !!!!!! !!!!!!!!!!!!!!!! !!!!!!!! !!!!!!!!!! !!!!!! !!!!!!! !!!! !! !!! !! !!!! !!!! 
+ !!!!! !!!!!!!! !!!!! !!!!!!!!!!!!! !!!!!! !!! !!!!! !!!!! !!!! !!!!!! !!! !!!!!! !!!! !!!! !!! 
+ 
+  
+  
+  by gamespotmarioGM 
+::::::
+
+::::::
+UserName: Nitronic12
+Rating: 9.5
+Date: Jan 23, 2008 9:48 pm PT
+Review:  Now how do I start writing a fair review to a game to which I am biasedly into love with? It's 
+ not going to be simple, but I'll do it.
+  
+  Firstly JPOG (as it's commonly abbreviated) is a game that offers something that many games do 
+ not. The chance to make dinosaurs! Who wouldn't love that? Now maybe there will be a few people 
+ who don't love this game, but that's a given.
+  This game gives players the chance to relieve the Jurassic Park experience, to create a park on 
+ your own island and to take care of it. Exactly how you saw it in the movie, only they've added 
+ more for the game. Rides shops etc, all these little details tie in to the game to create a more 
+ impressive environment.
+  
+  Normally with games that give the freedom of construction option, there are catches, glitches, 
+ problems. With this game there isn't. It's simple and it works. The level of freedom that is given 
+ is quite expansive for such a game the whole Island is yours to build on, and if you have the money, 
+ you could cover the entire island in buildings, roads and whatnot. You can even expand the dinosaur 
+ paddocks into the ocean.
+  The gameplay mechanics have been balanced out to give the most stable and enjoyable time while 
+ playing this game. Everything from taking care of the animals by supplying them food or giving 
+ them vaccines to feeding the visitors is all made simple through the menus that are easy to access 
+ and understand.
+  When things go wrong in the park the good thing is that you're alerted, even if you haven't gone 
+ through training you could still understand what to do and take that step ensuring that the park 
+ stays safe and everyone has fun.
+  You also have the ability to research, for a price and a certain amount of time, you could improve 
+ your park. Whether that be umbrellas for the visitors or faster dinosaur growth it still helps.
+ 
+  There are just so many things that you could do in the game to achieve a working park. It's your 
+ island and you're literally God. You can create pools, mountains, plant trees all sorts of things. 
+ Theres just so much put into the game its hard to get bored.
+  
+  The visuals and sounds are one of the most memorable parts of the game. If you're a fan of the 
+ movies, then the game will appease you. The dinosaurs all have the same look as those from the 
+ movies. As well as the sounds. Terrifying and terrific roars fill the landscape creating the perfect 
+ Jurassic Park atmosphere. But wait theres even Jurassic Park music that will bring back even the 
+ most nostalgic memories of when you were younger.
+  Even so if you're not happy with the current skins you could always join the JPOG community and 
+ get some after market modifications that change certain aspects of the game.
+  
+  
+  Jurassic Park Operation Genesis is an underappreciated game that is fun no matter who you are. 
+ 
+::::::
+
+::::::
+UserName: GodzillaRocks
+Rating: 10
+Date: Dec 27, 2007 8:04 pm PT
+Review:  Now is your chance to full fill Dr. John Hammond's dream by successfully designing and managing 
+ the ultimate dinosaur theme park. Jurassic Park: Operation Genesis allows gamers to create the 
+ most amazing theme park the world has ever seen. As the first ever fully 3D action-sim, Operation 
+ Genesis gives players two games in one. Either build the ultimate dinosaur theme park or engage 
+ in 12 action-packed missions that will truly test your gaming skills. Dream it. Build it. Survive 
+ it. This truly is Jurassic Park... your way! I have rented this game a gazillion times because 
+ its so much fun!!! You will enjoy this game if you buy it!!!!!
+  
+::::::
+
+::::::
+UserName: Av0011
+Rating: 9.8
+Date: Jun 26, 2007 1:47 am PT
+Review:  JP: Operation Genisis is one of the best, if not the best, Simulation (park) building game i have 
+ played on. there is just so much you can do on it, and one other major thing about it is that the 
+ picture quality is amazing on it for its time, considering how much we have advanced in Tech.
+ 
+  
+  If anyone has been put off park building games or simulations then you should defintely try this 
+ out, this game will change your mind about them.
+  
+  This game has been underappreciated by a lot of gamers but theese people that say it isnt worth 
+ it are the ones who think that you should go on websites and use the cheats for the game. this 
+ is one thing that i do not recommend, using the cheats because it just takes all of the fun out 
+ of the game and makes the game too easy to finnish or play.
+  
+  Overall i would rate this game a big fat 10 but because the game's graphics and sound was a little 
+ less for me since i played on it recently and comparing it to games like supreme commander the 
+ graphics are a let down for me but in all the game is woth while buying and most importantly, in 
+ my opinion, keeping. 
+::::::
+
+::::::
+UserName: aqwa
+Rating: 9.3
+Date: Jun 19, 2007 9:00 am PT
+Review:  this is a very cool so cool game but its missing something an expansion pack new dinosaurs needs 
+ to remake so players wont get bored from the same dinosaurs am i right ? and im saying that this 
+ thing is cool not wrong or anything it just needs to reload i cant find that renew it or something 
+ thats all so i guess thats all bye bye (o_-) it and somebody please make the text a little shorter 
+ then 100 texts !!!!!! so im gonna write something like blah blab blab blab bla blah blah blah blah 
+ blah blah blah 
+::::::
+
+::::::
+UserName: Mackan52
+Rating: 8.3
+Date: Jun 8, 2007 4:20 am PT
+Review:  As a Jurassic Park fan i enjoy the idea of building my own Dinosaur Park and make what John Hammond 
+ couldn't.
+  
+  The game is very simplistic in terms of building and maintaining and once you built the basic aspects 
+ the park pretty much runs itself. As you wait on the cash starting rolling in you can use the time 
+ to inspect your park, check the fences, maybe swing around in the Ranger Helicopter and shoot tranquilizer 
+ darts on the dinosaurs (this is good practice in case it happens ) or just watch what happens in 
+ the park in general.
+  
+  The game rolls on, it has good graphics, easy playing when you get bored, interesting AI for the 
+ dinosaurs. It's a Theme Park game with dinosaurs putting it simply.
+  
+  If you like simulations like Theme Park or Zoo Tyccon this is a game for you since it's a hybrid 
+ of them both, if you like Jurassic Park in general then you will like the game because of the topic 
+ for the most part.
+  
+  The only problem with the game is that it has a specific target group and is not suited for everyone. 
+ 
+::::::
+
+::::::
+UserName: reevesy314
+Rating: 8.7
+Date: Mar 12, 2007 1:33 pm PT
+Review:  I always loved theme park so imagine my pleasure when i had two weeks off a few years ago now and 
+ i found this game I was stoked to say the least.
+  The best way to look at ths game would be take theme park and even hospital where you try and get 
+ the balance what happens when you get bored you take out chunks of coaster or destroy the rooms 
+ the patient needs and you watch em die, what if you could just tear down a load of fences and buildings 
+ and watch your creations have at your guest of honour how cool is that?!.
+  Seriously though my biggest thing about this game is not its huge amount of playing options and 
+ the pretty graphics and animations no for me it is the chance to actually relax listening to the 
+ music clicking on one of my little 'pets' and just watching i can't think of anything more relaxing 
+ todo with my time.
+  My biggest hang up with this game is the caps it give you for everything like not being able to 
+ breed all species of dinosaur at the same time, a maximum number of path tiles I can lay, wtf? 
+ If i have a powerful computer should it really matter? i don't think so.
+  still over all i would give this game a resounding thumbs up to jurrasic park fans and dino buffs 
+ alike. I loved it so should you even if you do find the novelty factor fairly short lived. 
+::::::
+
+::::::
+UserName: Louge_
+Rating: 9.6
+Date: Feb 22, 2007 8:46 am PT
+Review:  Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No 
+ More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, 
+ No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very 
+ Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, 
+ Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God 
+ Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is 
+ A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More 
+ Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No 
+ More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, 
+ No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very 
+ Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, 
+ Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God 
+ Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is 
+ A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More 
+ Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No 
+ More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, 
+ No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very 
+ Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, 
+ Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God 
+ Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is 
+ A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More 
+ Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No 
+ More Is A God Game, Very Cool, No More Is A God Game, Very Cool, No More Is A God Game, Very Cool, 
+ No More Is A God Game, Very Cool, No More 
+::::::
+
+::::::
+UserName: samad_cool
+Rating: 9.6
+Date: Dec 29, 2006 8:50 am PT
+Review:  I like this game to discover a park where all dinosaurs are roaming in that place and visitors 
+ visit the park. Some researchers come to researches in the park. Scientist also visit along with 
+ them. This is the time pass game. When the carnivores dinosaurs try to distroy the park then we 
+ can take photos from the car &amp; shoot from the helicopter in the mission level. We can either 
+ shoot or click a photos. It depend upon us that we can select any one option. In the first level, 
+ we can select an exercise level to move our computer keyboard cursor. The third level Site B , 
+ we can create own park. 
+::::::
+
+::::::
+UserName: masterfo
+Rating: 8
+Date: Oct 22, 2006 4:04 pm PT
+Review:  I loved the game, I've been playing it off and on now for 4 years. It might get boring, but then 
+ you find that little something that amazes you how nice the game was actually put together. The 
+ game is like the movie, scary and thrilling, with your park to build, dinosaurs to clone, and people 
+ to entertain, this game is a solid park builder. One thing I could change if there was going to 
+ be a sequal would be the ability to clone more dinosaurs in a park, and more dinosaurs in general. 
+ But overall, this game is very nice. The dinosaur AI is excellent, just like a real one would be. 
+ 8/10 
+::::::
+
+::::::
+UserName: kjsimon1
+Rating: 9.6
+Date: Jun 6, 2006 9:27 am PT
+Review:  This game is amazing. With site B, you can remake scenes from the Jurassic park movies like the 
+ part with the T-rex and the Gallimimus chase, T-rex vs Spinosaurs, etc...... Also, you can make 
+ the Jurassic park you wanted ever since you saw the movie and you can decide to let the dino's 
+ hang around in their exibets or realese them and let the carnivours taste something else beside 
+ goats and cows. Also the one thing cool about this game is that people will act like people, because 
+ if a dinosaur escapes they'll run and scream until one of their lungs pops, also if a huge carnivour 
+ escapes, it will grab a person and sometimes it will hold the person in it's mouth and shake's 
+ them up and swollow's them and you can zoom up and see them going down it's throat. But some people 
+ think this game suck just because they can't get all the "cool" dinosaurs, but I just extract the 
+ amber until I have at least 100% of a dinosaur's DNA then I just sell the amber I get. But the 
+ one thing I want to know is how to take screenshots. Well that's it for my review, for those of 
+ you who are reading this, I hope you enjoyed it, but if you know how to take a screenshot can you 
+ let me know how to take one, please?! 
+::::::
+
+::::::
+UserName: Archrivel
+Rating: 3.8
+Date: Mar 26, 2006 12:55 pm PT
+Review:  This game, isn't going to win the big-time awards any time soon. The graphics sux, the game atmosphere 
+ sux and the only thing that saves the game is there are featured people from the first jurassic 
+ park speaking inside the game.
+  
+  The game isn't friendly to anyone who hasn't a clue of whats going on or how to start building 
+ the theme parks. The menus although coloful do nothing to help you out. In fact you could be pushing 
+ the button to let all the T-Rex loose and you wouldn't know it.
+  
+  The training excerises and most of the instructions is kind of a let down, too much reading, not 
+ enough of voice menus. Perhaps it could of been done better if they had some one speaking the instructions 
+ instead of you having to read everything. 
+  
+  There so much science shoved into this game you would think it was published by open university 
+ or something. The game had me turning the game off after only the 3rd training mission. I just 
+ couldn't care less and the game left me frustrated and bored to tears almost.
+  
+  This game would only appeal to die hard fans of dinasours or Theme parks otherwise this game should 
+ come with a Gamers beware warning sign. You have your brains blown out and having the game make 
+ you feel a small person. They put in these big long scientif words and names of Dinosaurs and expect 
+ you to know what they mean or how to say them. They assume everyone playing is going to be an Archeologist 
+ or some scientifc expert on Dinosaurs.
+  
+  This game could be played in schools I dunno about this being a game for fun. Just .... eeerrr! 
+ you know what I mean?
+  
+  I advise just to stay away from it. Theres much better games out there like games such as theme 
+ park and others. This game looks nice and great but its a Shark. 
+::::::
+
+::::::
+UserName: psplord980
+Rating: 8
+Date: Feb 18, 2006 10:27 am PT
+Review:  Grade
+  B (8.0)
+  
+  Good
+  Realistic Dinos! They eat, drink, sleep, and crap.
+  Plenty of Dinos to choose from
+  Nice Dino fatalities
+  challenging Story mode
+  Very nice Site 
+ B mode.
+  
+  Bad
+  Dinos gltich sometimes
+  Get's fustrating when not enough customers come
+  Dino's sometimes act like they had drugs...
+ 
+  Some realistic creaturs is a bad thing.
+  very very long, painful, dreadfull load times...
+  
+  Closing Comments: This is a very nice Sime them Park simulator...
+  I; ve always been a fan 
+ of the JP movies... Now i can manage my own JP!
+  Able to see a T-rex do a vicous never before seen fatality on a Spino is my dream.
+  
+::::::
+
+::::::
+UserName: sponny1
+Rating: 7.8
+Date: Feb 11, 2006 11:22 pm PT
+Review:  The Graphics are totaly awesome on the PC if you have the latest. You should really buy this awesome 
+ games and its even better than zoo tychoon or Dino Island i mean Dino Island sucks like hell since 
+ the dinosour look more like mono in dino island and their teeth sinks but jurrasic park is better 
+ i mean 20 times better than dino island and in jurrasic park its also hard to get visitors to come 
+ to your park youve got to entertain them and bla bla bla but the best part is how realistic the 
+ dinosour acts and what it does thats why i still cant keep my eyes away from this game because 
+ its so great i mean well you just cant get it off you 
+::::::
+
+::::::
+UserName: rabbit_pie
+Rating: 9
+Date: Feb 5, 2006 8:27 am PT
+Review:  this is a good game dont get me wrong, but iv played both pc and ps2 version and found the ps2 
+ version, much better. The zoom option is a nice effect allowing you to zoom right in2 the blades 
+ of grass, but the general controls i found annoying, trying not to scroll off the screen was a 
+ game in itself. All in all this is a really good game, tThe graphics are nice as is the sound. And 
+ being able to build a chopper station and go around in a chopper shooting your dinosaurs is an 
+ extra bonus. I would recomend this game to anyoe, but i would recomend it on the ps2 rather than 
+ the pc. If you have any questions about this game, or any other games i have reviewed please feel 
+ free to send me a message and ill get back to you ASAP 
+::::::
+
+::::::
+UserName: insectus
+Rating: 8.4
+Date: Feb 1, 2006 10:50 am PT
+Review:  I am a great Jurassic Park fan, it is a guilty pleasure, so I HAD to get this game. I'm glad it 
+ was worth it.
+  
+  The game runs just like a regular park management, game, particullarly like Zoo Tycoon. You build 
+ facilities, fences, put some dinossaurs on them and watch the cash flown in. This is the basics, 
+ but there's so much more to the game.
+  
+  Graphics are beautifull specially the dinossaurs, sound is in great part taken from the movies 
+ (I just love that T-Rex seismic roar!) .
+  
+  You have to keep visitors happy by building all the facilities they need, setting adequate prices, 
+ keeping the park clean, and, of extreme importance, keeping them safe!
+  
+  There several security options, from dinossaur repelents to auto-turrets that kill rampaging dinossaurs. 
+ Of course the best solution is, if possible, immediately tranquilizing the beast and getting it 
+ back to its fence unarmed.
+  
+  You don't just generate dinossaurs from nothingness, you must dig throughout the world for fossiles 
+ and then extract DNA from them. Once you 50% DNA you can breed the dinossaur, but the more complete 
+ it is, the longer the dinossaur will live.
+  
+  There many more gameplay complexities waiting for you, I would loose a day here trying to get them 
+ all out.
+  
+  Just one thing bothers me, occasionally a twister will hit the island, destroying and killing everything 
+ in its path. I think the catastrophous effects of this are exagerated. If you don't have a lot 
+ of funds on hand, you won't be able to repair you're park, repairing the park is very hard gameplay-wise, 
+ you have to go through all of the damage reports one-by-one and order every single repair. If three 
+ buildings are damaged its OK. Once there are 60 things get complicated!!!
+  
+  Nevertheless, the game is an exccelent and soothing experience. Sometimes its fun just too watch 
+ the dinossaurs, their AI is amazing for the most part.
+  
+  Play it! 
+::::::
+
+::::::
+UserName: SZeroC
+Rating: 7.4
+Date: Jan 3, 2006 2:49 am PT
+Review:  urassic Park is one of the biggest and highest grossing blockbuster movies ever released, and it 
+ was quickly followed up with two more action oriented sequels. In case you missed it, the original 
+ was all about a dinosaur theme park gone awry, and now you have your chance to try your luck with 
+ a Jurassic park of your own.
+  
+  Operation Genesis takes the theme park genre and injects it with a little dino-fever, and while 
+ that may seem like a publisher is trying to pump out a crapware title to milk the last few drops 
+ from this cash cow, the end result is surprisingly entertaining.
+  
+  While there arent a plethora of different modes to play, the depth of gameplay easily makes up 
+ for it. Depth of gameplay you ask? Yes, I wasnt expecting it myself.
+  
+  The intelligent thing to do is to take a run through the nine detailed tutorials in the game, which 
+ are a tremendous help with easing you into the game mechanics.
+  
+  However, you will immediately notice my only major complaint once you begin playing. The interface 
+ is clunky, and thats putting it mildly. I often found myself clicking on one button when I was 
+ aiming for another, and constantly reaching for the keyboard, which this game is far too dependant 
+ on.
+  
+  The next game mode is called missions, and it actually eliminates all park building aspects, and 
+ has you accomplishing tasks such as putting down rampaging dinos and snapping photos of dinosaur 
+ behavior for research purposes. This mode is useful for a quick diversion and nothing more.
+  
+  The last is operation genesis, which is basically a sandbox mode. You configure the shape, 
+ river system, mountains, and tree density of an island, and then build a park as you see fit.
+ 
+  
+  None of this seems overwhelming, but as I stated before, the gameplay is what shines here.
+  
+ 
+  Dinos simply dont fall from the sky, you first need to hire archeological teams and send them 
+ to various dig sites around the world to find fossils and amber that contain dino DNA. Once youve 
+ uncovered these, you must have your scientists extract the DNA.
+  
+  The production of dinosaurs in your hatcheries requires at least 50% of a specific dinos genome. 
+ As there are 25 dino breeds in the game, this alone is enough to keep you busy for a very long 
+ time. And while you are able to hatch dinosaurs with only 50% of its genome, its a wise investment 
+ to bring each up to 100% as they will live longer and be a more satisfactory experience for visitors.
+ 
+  
+  Once you have a stable of dinos in your park, you will find that caring for them is quite demanding. 
+ Rampaging dinos can wreak havoc on your park, and if a visitor is killed then your park rating 
+ and popularity will suffer greatly. Its this balance of dino and visitor happiness that drives 
+ this game.
+  
+  Developing vaccines for your dinos is possibly the most important thing you can do, since diseases 
+ in the game are contagious. Once a dino becomes sick, its probably a good idea to sedate the animal 
+ and move him into a pen all on his own to prevent him from infecting the rest.
+  
+  Dinos also cant survive on air alone. There are herbivore feeders that eject bales of plant feed, 
+ and carnivore feeders that release cows and goats into an enclosure. Herbivores will also munch 
+ on vegetation in its enclosure, so keeping its surrounding lush is a necessity. Carnivores are 
+ also not happy with only cow and goat for lunch. Seeing as how they are predators by nature, they 
+ like to hunt, and providing them with the occasional herbivore will quickly satisfy them.
+  
+  On the other hand, there are visitors to tend to. They need to have all the amenities for a 
+ good time, and you need to keep them feeling safe. Ranger stations (complete with flyable helicopters) , 
+ visitor shelters, sentry turrets, security cameras, and avoidance beacons are all at your disposal. 
+ Buildings are all nicely detailed, however there just doesnt seem to be enough variety between 
+ them.
+  
+  As you can tell, there is rarely a dull moment in the game since so much is constantly going on. 
+ And while the game keeps you busy, you never feel overwhelmed or burdened by it all.
+  
+  The graphics engine is amazing at creating very lush looking environments and this game features 
+ the most amazing water effects I have ever witnessed, with realistic and natural looking reflections 
+ and movement. Storms, tornadoes, and sunsets look great, the dinosaur models are surprisingly detailed, 
+ and with the ability to zoom in painfully close youre able to get a great view of every part of 
+ your park.
+  
+  Each dino has its own unique calls, and you can hear the booming footsteps of the larger or the 
+ scurrying of the smaller dinos. The game also includes the remarkable score of the original movie 
+ that adds a fantastic cinematic feel to the title.
+  
+  It may appear shallow at first, though once you begin playing Operation Genesis you realize that 
+ there is more than meets the eye. With such deep and busy gameplay, and an amazing graphics engine 
+ to boot this is a title that offers up more than its fair share of entertainment.
+  
+::::::
+
+::::::
+UserName: Shane_F
+Rating: 7.7
+Date: Dec 18, 2005 11:21 pm PT
+Review:  The "Review" deck is pretty much sums up the game on my end.
+  
+  What happens in this game. First you start off with very little money, then you need to create 
+ something. But long an behold, by the time you create your first dinosaur you are already close 
+ to zero, and if you forget to up the entrance fee to an "extreme price" (I have it in quotes because 
+ $2,000 to see dinosaurs in real life would be a bargain) for the start of the game, you will not 
+ get any money back. This makes the game really hard in the start.
+  
+  Tip given.
+  
+  Gameplay is fine. Other that the placement of objects is based off a grid pretty much helps you 
+ decide where to place things. Graphics for this game and date, are pretty decent. Compare to a 
+ newer game like.. The Movies, this game is basic. Sound very good. I love that you hear the actors 
+ voices. Most games just get recordings from the the actual movie. Value, cost way to much for when 
+ I bought it. Wait for it to go down. 
+::::::
+
+::::::
+UserName: ScarPredator200
+Rating: 9.8
+Date: Nov 20, 2005 3:40 am PT
+Review:  Jurassic Park: Operation Genesis is the coolest game I have play in my life the dinosaurs are total 
+ great and you can make your own park! And most of all you can jump onto the helicorpter and a car! Well 
+ I am not a teen and I just 10 years old and I know how to play it very well and its worth playing 
+ it.
+  because you can play as long as you like its a ever ending game. The best part playing in Jurassic 
+ Park: Operation Genesis is that I can watch Spinosaurs fighting T-rex in the game and their fighting 
+ style looks a bit like the movie Jurassic Park 3. 
+::::::
+
+::::::
+UserName: Leprechaun9
+Rating: 8.7
+Date: Sep 21, 2005 1:06 am PT
+Review:  This game is fun. It is one of those sleeper games that have a big fanbase that you never hear 
+ about. If you like park builders you should like this, but most importantly if you like dinosaurs 
+ or just animals in general you'll love this. The AI is amazing and something you have to see to 
+ belive. There's not much in the form of missions, but you can freely build parks which is fun. 
+ Also once you complete the little amount of missions there are you can play site B which lets you 
+ just build dinos and watch them roam free. Plus, if you get boared of it, it is a good game for 
+ modding, there's a website devoted to it at http://diehard. ath. cx/~moddinggenesis. There's also 
+ a community expansion in development. 
+::::::
+
+::::::
+UserName: TROAB
+Rating: 7.3
+Date: Mar 6, 2006 7:42 am PT
+Review:  I thought this was a fantastic concept for a game, but upon playing it I was frustrated. The mouse 
+ controls are odd and I have trouble controlling the cursor for some reason. The game feels stripped 
+ down, it doesn't seem like i have enough options. The guest and dinosaur limitation really hurt 
+ the game too, as mentioned in other user reviews. After playing for awhile I came to the conclusion 
+ that this game must have been designed for console systems initially and then ported to PC, because 
+ that's what I felt like I was playing.
+  
+  In addition it would have been nice if the camera had a pitch control because I never felt like 
+ I could see everything I wanted to see. When I zoomed out I ended up with a top down view which 
+ meant I still had a very limited field of vision.
+  
+  I would like to rate this game highly, if only so that they might make a sequel and fix all the 
+ problems. 
+::::::
+
+::::::
+UserName: joesmokey
+Rating: 7
+Date: Jun 27, 2003 5:29 pm PT
+Review:  Jurassic Park: Operation Genesis has a very attractive premise and slick audiovisual effects. The 
+ dinosaurs in their enclosures are really something to behold (even my wife, a staunch anti-computer 
+ game vigilante, "doesn't mind so much" this particular game) . However, while the game is quite 
+ enjoyable initially, players will quickly discover that there is very little action and the replayability 
+ could be much stronger.
+  
+  The Gamespot reviewer has covered much of the game basics. I will add a few notes about shortcomings 
+ that reveal themselves as you progress through the game. First, the economic model is particularly 
+ weak. You can easily set your park entrance fee quite high, upwards of $1,500 or more. You'll be 
+ surprised that it hardly makes a dent in your attendance at that level and you'll need the money. 
+ All the way at $3,000 there is some effect, so taper it down accordingly to the $1,500-$2,000 range 
+ until your park has enough stars. After you have say, 3 1/2 stars, set it to the max. With the 
+ gate fees as such, and with the exorbitant costs of dinosaurs, park fencing, and foliage, you'll 
+ soon discover that the fees for soda stands, restrooms, attraction fees, souvenir stands, etc., 
+ are such a small part of your park's economy ($5 here and there) that they never really merit your 
+ attention. Just set them all to low prices to keep your visitors happy and never think about them 
+ again. These economic imbalances are disheartening and a major flaw when compared to the models 
+ in the premier park series, Rollercoaster Tycoon.
+  
+  There are inexplicable limitations on some park features. For example, when building out larger 
+ parks, you'll suddenly learn that you can't build any more fences or any more feeders! Why not?! 
+ Also, the number of guests in your park will never exceed 100 people for more than a few seconds 
+ if ever. You can have miles of pathways and gobs of dinosaurs with an entrance price of $0 and 
+ you still won't have more than 100 visitors. I'm still not sure why. With such a small number of 
+ visitors, you can see why $5 at the burger stand isn't going to make a dent in your finances when 
+ visitors are paying $1,500 at the door.
+  
+  Jurassic Park has a lot of cool defensive features that will spring to life should any dinosaurs 
+ (especially the large, drooling carnivorous kind) escape their enclosures. There are machine gun 
+ turrets that you can switch to manual, there are ranger helicopters with lethal weapons, special 
+ security cameras to alert you when breakouts occur, and lethal genes you can pay big dollars to 
+ incorporate into dino DNA. Sounds exciting, doesn't it? I thought so, too. Too bad you'll almost 
+ never get to use any of them. The game includes exactly one type of disaster, a twister. When a 
+ twister comes through you'll be thankful you built the special visitor shelters to protect your 
+ guests from the funnel cloud or the dinosaurs whose enclosures have been damaged. However, you'll 
+ get one twister here or there, not nearly enough to really make it exciting. After hours of working 
+ on a park, you could expect maybe one or two in that time. Sound the alarm, the visitors run to 
+ the shelters, and you repair the fences and make sure no dinosaurs get out. What about my machine 
+ gun turrets and all the security gear I invested in? Having won all the built-in missions and made 
+ lots of parks in sandbox mode with carnivores galore, I've still never used them. Supposedly dinosaurs 
+ can attack your safari ride and strand a visitor in an enclosure, but even if this happened it 
+ doesn't sound all that thrilling. This game needs a LOT more disasters or other problems that will 
+ result in dinosaur dangers. Perhaps a "disaster-on-demand" feature, such as that in the Sim City 
+ series could be incorporated.
+  
+  In summary, the game is intriguing and touts realistic dinosaurs reminiscent of the Carnivores 
+ series. Unfortunately, the park size restrictions, low number of guests, poor economic model, and 
+ lack of any real disaster scenarios come together to present a game with little or no challenge. 
+ You'll build a nice park and look at your dinosaurs and then wait for something interesting to 
+ happen... like a patch to make it more exciting.
+  
+  
+::::::
+
+-------------------------------------------------

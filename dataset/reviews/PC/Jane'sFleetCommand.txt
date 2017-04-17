@@ -1,0 +1,105 @@
+-------------------------------------------------
+:::Game Name::: Jane's Fleet Command
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/janesfleetcommand/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jun  1, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.5
+Critic Score: 7.2, 14 Review (s)
+User Score: 8.1, 160 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Electronic Arts
+Developer: Sonalysts
+Genre: Strategy
+Date:     1999 &raquo;  
+
+-------------------------------------------------
+:::Review:::
+Fleet Command takes the Harpoon model of real-time naval combat, strips it tothe bone, and wraps 
+ it in a simple and visually dynamic package. 
+
+ Naval warfare simulations are a daunting prospect for most gamers. Images of inch-thick manuals 
+ and esoteric strategies have kept this niche limited to the two Harpoon games and a few other titles. 
+ Sonalysts, creator of the 688 (i) submarine sim, has taken on this vast and complex subject matter 
+ with a graphical flourish and a determination to render the complex nuances of modern naval warfare 
+ fun and accessible. Aside from a few interface and control glitches, it has succeeded admirably. 
+
+ Fleet Command takes the Harpoon model of real-time naval combat, strips it to the bone, and wraps 
+ it in a simple and visually dynamic package without sacrificing the core sense of depth and realism. 
+ Missions run the gamut of modern naval actions: massive carrier operations, smaller patrol-boat 
+ encounters, escort, transit, land strikes, and so on. Almost 40 single missions are offered, each 
+ with a difficulty rating of one to four stars. A four-part globe-spanning campaign game utilizes 
+ many of the more difficult single missions, tying them together in a scripted campaign with persistent 
+ losses and damage. Each mission has set goals and victory requirements, with varying degrees of 
+ success depending upon accomplishing the mission, keeping your own ships from being damaged, and 
+ avoiding collateral civilian casualties. The seas are full of unidentified contacts, some friendly, 
+ some enemy, some neutral. Picking your way through this target-rich environment to find and target 
+ the key assets of the enemy while protecting your own fleet is the core of the game.  
+
+ Gameplay is handled on one screen with a mix of maps and real-time hardware-accelerated 3D graphics. 
+ A large main window can display either a zoomable map of the scenario or a moveable camera view 
+ of any object in the current mission. Below this are three smaller windows. One has a thumbnail 
+ overview of the entire region, another has detailed information (such as speed, heading, weapons 
+ loadout, and damage) on the currently selected weapon platform, and a third may be swapped with 
+ the main window to show either the map or the 3D camera view.   
+
+ All commands are handled from this simple and elegant screen layout. Using a combination of mouse 
+ and hotkeys you can give orders to any ship, aircraft, or submarine under your control. Some orders 
+ are simple mouse-driven commands, such as move to a location, identify an unidentified target, 
+ and destroy an enemy target. Using pop-up menus and hotkeys, you can also give more precise commands. 
+ Antisubmarine teams can be given patrol boxes to search for threats. Individual weapons can be 
+ selected from a menu, allowing you to order an aircraft to close use its AIM-9s rather than its 
+ AIM-120s. Subs can be ordered to submerge and surface at intervals, placing them out of radio contact 
+ while they execute their orders. Some important commands, however, have been assigned to hotkeys 
+ only and can be hard to manage. Speed and altitude, for instance, may be set to low, medium, or 
+ high settings, but the info box never tells you what the current order is, and any subsequent command 
+ (such as a change in direction) cancels the last speed and/or altitude order and forces the unit 
+ to go to its default setting. This is awkward.  
+
+ Other interface quirks and problems keep Fleet Command from sailing smoothly. Some of the huge encounters 
+ can involve hundreds of assets once you get all your aircraft launched, yet there are only ten 
+ slots for storing groups, which is woefully insufficient. This means you can't effectively create 
+ flight formations. Aircraft assigned to take out a target may wind up flying at different speeds 
+ and altitudes. You also can't give complex group orders - only transit, attack, and identify. If 
+ you want every unit to attack with a particular weapon, you have to select and change each individually. 
+ Sensors are a major headache to control. There is a vaguely described global EMCON setting that 
+ turns some sensors on or off for everyone. But not every sensor can be activated, and it's hard 
+ to figure out just which sensors are going hot. Some sensors aren't controlled by global settings 
+ at all: If you want them on, you have to select and activate each ship's and plane's sensors individually, 
+ sometimes four per ship. Since EMCON is one of the most essential elements in naval strategy, this 
+ is a poor solution.  
+
+ It's a shame that control is so iffy in Fleet Command, since the missions are quite good and entertaining. 
+ The graphics are finely detailed and provide an exciting window to the unfolding action. With a 
+ mission editor and good online support, there is also plenty of gameplay value. AI is generally 
+ very good for enemies and adequate for friendlies, though I do wish pilots would take more aggressive 
+ evasive actions when being attacked. The many strong points tilt the scale in Fleet Command's favor 
+ and overcome many of its interface problems. Once you get used to the flaky controls, there is 
+ a lot to like here.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: herodotus2006
+Rating: 8.9
+Date: Nov 3, 2006 9:40 pm PT
+Review:  In a day where sims have diminished to becoming action or arcade games, this one still stands high 
+ above the chaff. For many of us who, with P4's or PD's running XP, the days of Harpoon are over 
+ (in boxed, retail form) . I loved this game when it first came out. As a EB Store Manager (poor, 
+ poor me) , I would go to work early just play a few scenarios before opening the doors. It was Harpoon 
+ lite, but who cares? Its' not a sim, but its damn fine fun. The graphics are serviceable, the sound 
+ excellent given its' age, and there are a miriad of hours to be lost in playing this sim/game. 
+ If you expect nothing more than it offers, than you will be delighted. Boot it up, don your Captain's 
+ cap and brace the mainsails (?) . This is what gaming is all about. An acceptable attention to detail 
+ wrapped up in a colourful package. Have fun! 
+::::::
+
+-------------------------------------------------

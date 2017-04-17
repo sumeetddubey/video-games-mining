@@ -1,0 +1,668 @@
+-------------------------------------------------
+:::Game Name::: Delta Force
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/action/deltaforce/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov 11, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 9.1
+Critic Score: 8.1, 15 Review (s)
+User Score: 8.5, 977 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: NovaLogic
+Genre: Modern Tactical Shooter
+Date:     Sep 30, 1998 &raquo;  
+
+-------------------------------------------------
+:::Review:::
+If ever there was a game that proved the value of gameplay over graphics, it's Delta Force. 
+
+ 
+ At first glance, NovaLogic's Delta Force doesn't look like the sort of action game you might expect 
+ to see here at the tail end of 1998. After all, a game in this genre has to be 3D accelerated to 
+ be good, right? Not necessarily. If ever there was a game that proved the value of gameplay over 
+ graphics, it's Delta Force.  
+
+ Delta Force is a game of special forces combat against terrorist and insurgent forces. You can play 
+ the game from either a first- or third-person viewpoint. You can even do both at the same time, 
+ thanks to the picture-in-picture feature that lets you see your first-person view in a small window 
+ while playing the game from a third-person POV.  
+
+ While comparisons to Rainbow Six are inevitable, Delta Force bears only a passing similarity to 
+ Red Storm's tactical shooter. For starters, you do not plan your own operations in Delta Force; 
+ they are assigned to you. You also do not have the luxury of working with seven squad mates. You 
+ will typically have two to four other soldiers in the field with you, but they make up separate 
+ assault teams that you cannot control (and which often have separate, specific mission goals) . 
+ Finally, each of the game's 40 missions takes place in the great outdoors. The only real similarity 
+ between the two games is the special forces angle and the semirealistic action where one shot translates 
+ into one kill.  
+
+ Delta Force includes five single-player campaigns, each against a different foe in a different theater: 
+ a drug lord in Peru, terrorists in Chad, terrorists in Indonesia, insurgents in Uzbekistan, and 
+ more terrorists on the Russian island of Novaya Zemlya. The foliage (which is universally sparse) , 
+ the buildings, and the bad guys all vary from region to region, though the landscapes are all pretty 
+ much the same except for color changes (green for jungle, tan for the desert, white for the snowy 
+ arctic circle, and so on) . Rolling hills and plains pitted by deep, smooth canyons are pretty much 
+ the standard terrain type here.  
+
+ Most of your missions involve finding and eliminating an enemy base, but these are well varied because 
+ of differences between the many bases you attack. At the beginning of the game, for example, you'll 
+ encounter enemy strongholds that are typically guarded by foot soldiers, a few roving patrols, 
+ and maybe a guard tower or two. Later on, these bases become much more formidable, with bunkers, 
+ razor wire fences, increased patrols, and even a few enemy helicopters.  
+
+ The attack-and-destroy missions are interspersed with a healthy number of other scenarios. For example, 
+ there are a few missions where you will have to infiltrate a base to steal a laptop or some other 
+ source of intelligence data. Others include rescue missions, convoy ambushes, and (in one of my 
+ favorites) laser-designating targets for naval bombardment. Overall, the mission design in Delta 
+ Force is very strong. Another positive note is the fact that you have a lot of control over the 
+ order in which these missions are completed. You can even skip around from theater to theater, 
+ if you like. And even though the basic goal is pretty much the same throughout (kill all the bad 
+ guys and make it to your extraction point alive) , the mission specifics are varied enough to keep 
+ things exciting, challenging, and reasonably fresh.  
+
+ One point where Delta Force could stand some improvement, however, is in the mission-planning phase. 
+ As mentioned earlier, you have no say in the mission plan itself. You can alter your starting equipment 
+ and weaponry, but the mission waypoints are fixed - and suicidal. Nearly every mission is planned 
+ out so that your first dozen or so steps will take you straight into the heart of heavy, concentrated 
+ enemy fire. The best way to complete most missions is to ignore the waypoints entirely and make 
+ your way slowly around the objective, sniping all visible bad guys from extreme range before moving 
+ in to mop up the survivors. Unfortunately, the movements of your fellow soldiers seem to be triggered 
+ by the waypoints, so they will not always move if you don't walk over a particular spot on the 
+ map. This was especially evident on the last mission in Novaya Zemlya, where my pals in Charlie 
+ Team stayed safely hunkered down in a ditch - about 10 feet from a group of four terrorists - throughout 
+ the entire mission.  
+
+ Then again, the computer-controlled good guys aren't often much help anyway (particularly Charlie 
+ Team, which was about as useful as red shirts in Star Trek) . For some reason, these poor fools 
+ got wiped out early in almost every single mission, often before I could even make it to my first 
+ few waypoints (maybe that's why they wouldn't leave their hole on the last mission) . The 
+ AI for enemy troops, on the other hand, is quite good. Unlike in Rainbow Six, a bad guy in Delta 
+ Force will most certainly respond when you blow away his buddy - and so will a dozen or so of his 
+ comrades. Opening up with an automatic weapon from an unprotected spot is sheer suicide, as the 
+ bad guys will quickly home in on your stream of fire and wipe you out. Also, a few shots in the 
+ wrong place or at the wrong time will bring in hordes of reinforcements to make your job more difficult. 
+ Still, for the sake of playability and game balance, the bad guys generally present you with a 
+ good target and pause enough between shots to give you ample time to react to an attack.  
+
+ Your ability to locate and kill your enemy, however, is directly proportional to the speed and power 
+ of your PC. Based on NovaLogic's highly tweaked Voxel Space 3 engine, the unaccelerated graphics 
+ in Delta Force are functional, with even an occasional hint of brilliance - but only on a well-equipped 
+ Pentium II machine. The game's minimum spec calls for a Pentium 166 with 32MB RAM, but on a Pentium 
+ 233 with 64MB RAM and a 12MB Voodoo 2 card, the game crawled along at any resolution higher than 
+ 512x384 at 256 colors and looked just plain ugly at any of the lower settings. Unless you have 
+ at least a Pentium II 300 with 64MB RAM and an 8MB video card, you will have a hard time picking 
+ out enemy troops from the multicolored chunks that make up the landscape. NovaLogic is reportedly 
+ working on a 3Dfx patch that will accelerate the character animations and the building rendering 
+ (all of which is polygonal) , but no release date has been set for that patch.  
+
+ Still, the tepid graphics engine does not ruin this game. So long as you have the hardware to run 
+ it at 640x480 with 16 million colors (the aforementioned Pentium II 300 can do this just fine) , 
+ Delta Force can actually be quite impressive from a visual standpoint. The maps are all very well 
+ designed, as are the various bases, airfields, and other objectives you'll encounter. The player 
+ and enemy animations are excellent and realistic. The death animations even vary depending on where 
+ a character is shot. And the rolling terrain makes sniping a real challenge, as you often have 
+ to wait for a bad guy to pop up from behind a rise before pulling the trigger. The idea was to 
+ create believable outdoor environments where combat could take place at extreme ranges (we're talking 
+ about distances of up to a kilometer here) , and Delta Force truly delivers in that respect.  
+
+ 
+ The game's Dolby Pro Logic 3D positional sound and excellent sound effects make the battlefield 
+ even more realistic and immersive. The sound of bullets whizzing by is often the only indicator 
+ you have that you're under fire. When you hear slugs hitting the ground all around you, you know 
+ that it's time to move and move fast. Also, the shouts of your enemies (which come complete in 
+ a language native to the theater) will let you know whether or not you've been spotted. Once, after 
+ shooting a Peruvian at point-blank range, I heard him yell "Medico! Medico!" before crumpling to 
+ the ground.  
+
+ The weapon sound effects, from the suppressed H&amp; K MP5 to the mighty M249 SAW, are utterly fantastic 
+ - possibly the best I've ever heard. In multiplayer games, the weapon sounds of 32 players combine 
+ into an unforgettable din. When you enter a multiplayer game of Delta Force on NovaWorld, NovaLogic's 
+ free gaming service, you will feel like you're entering a real combat zone.  
+
+ In general, multiplayer games of Delta Force are incredibly fun - when they work. NovaWorld is very 
+ obviously lacking in the bandwidth department, and reports are flying all over the Net about difficulties 
+ getting this game to work well over modem and generic Internet links. Still, if you catch NovaWorld 
+ on a good day and at a good time, you're in for a treat. Delta Force online is one of the most 
+ enjoyable and thrilling multiplayer experiences I've ever had. Game variants like capture the flag, 
+ king of the hill, and team deathmatch are a real blast no matter how many players are in a game. 
+ While the game has several flaws, such as horrific warping, questionable stability, and bizarre 
+ scoring glitches, it's still a lot of fun. Hopefully, NovaLogic will address the game's problems 
+ in a patch or two. One feature it should add is the ability for players to start their own games 
+ on NovaWorld (currently, you are limited to a set number of games already in progress) . And for 
+ all you deathmatch purists out there, forget all that crap about the evils of camping. Sniping 
+ is the key to victory in Delta Force. If your CTF team does not have a sniper or two in the hills, 
+ for example, you simply will not win.  
+
+ Delta Force is a very impressive game overall, despite the limitations of the graphics engine and 
+ the multiplayer flaws. The excellent single-player gameplay, the solid multiplayer component, and 
+ the incredibly immersive battlefield environment make for a truly impressive game. Any action fan 
+ who is open-minded enough to look past the graphics engine will see a game that easily ranks with 
+ Rainbow Six as one of the year's best "alternative shooters." Just make sure you have a powerful 
+ system, otherwise you'll waste all of your ammo firing at pixels you could almost swear had just 
+ been moving.    
+-------------------------------------------------
+:::User Reviews::: (16 Reviews)
+::::::
+UserName: Acurate_Bob
+Rating: 9
+Date: Dec 6, 2008 12:37 pm PT
+Review:  For me this game WAS the best FPS going, its environments were massive and the viewing distance 
+ was extremely far, and so is the drawing distance (how far you can see them on the screen) . 
+  
+  And the distance is not like i t is today, in GRAW a good shot with a sniper rifle is around 
+ 500 meters or so, a CLASS shot on this reaches into the kilometers, I saved a screen of my longest 
+ kll on Delta Force, 2314 meters! get that on GRAW!
+  
+  So packing a sniper rifle usually worked for me, and from this game i LOVE being the sniper, and 
+ still do.
+  
+  This class caried on through the whole series, i was always the sniper.
+  
+  But, its only a small but too, the graphics arent that good, but to be honest, from 1999, what 
+ DID look good in games???
+  
+  aside from Rainbow Six, there was nothing...
+  
+  I reccomend any FPS fan should get this game, cause these new games like Raindow 6: Vegas, GRAW2, 
+ HALO 3, Gears Of War2, all of them great, but also very liniear, always follow this path to get 
+ here, then kill this blah blah blah.
+  
+  Delta Force series right the way through, except Urban Warfare, follows the You must do this, but 
+ do it in your own way style.
+  
+  Its just a shame hat you HAD to follow the checkpoints to actually finish the missions, still, 
+ its open for literally MILES! 
+::::::
+
+::::::
+UserName: rohitmitra5752
+Rating: 4.5
+Date: Oct 3, 2008 8:57 pm PT
+Review:  Delta Force has got to be the most overrated and most disastrous game I have ever played. There 
+ are far too many glitches to rate it properly.
+  
+  First, the graphics. If you want to see the worst graphics of 1998, then go buy Delta Force. Compared 
+ to modern games (like FarCry, Crysis, Halo) it seems like an ape. The texture quality might make you 
+ think that you are in some alien world.
+  
+  Second, the gameplay. In spite of having a good theme of a special commando, the gameplay was more 
+ than disastrous, it was catastrophic. When you shoot an enemy in the leg, he dies murmuring something 
+ in a foreign language (I thought it was Arabic) . Even if you shoot him in the head from the front, 
+ he will still keep murmuring it. If you shoot from a silenced pistol in the head, he will take 
+ two shots to die while one shot from a normal pistol in the hands will kill him. The commando can 
+ jump like a kangaroo and yet is carrying a large variety of weapons including pistols, assault 
+ rifles, SMG, bazookas, grenades, mines, C4 charges and a laser designator (even Arnold Schwarzenegger 
+ can't do that) . A poor array of weapons to choose from and hopeless sound effect makes the game 
+ even more intolerable.
+  
+  Third, the game's campaigns are disastrously small. I finished of all the campaigns in 18 hours 
+ in the max. difficulty mode. Just for fun I tried playing it with cheat codes in easiest mode and 
+ it took me less than an hour.
+  
+  Lastly, I HATE THE HOSTAGES. The hostages seems to have an affinity of getting themselves killed. 
+ If I lead them in one direction, 9 out of 10 times, they will wander of into enemy fire and get 
+ themselves killed (At one point I got so irritated with them that I blew up all the hostages with 
+ a bazooka and happily failed my mission) .
+  
+  FINAL VERDICT: Don't buy it. Wait for someone to gift it to you if you at all want to check it out. 
+ However if your computer is around 10 to 15 years old, then I waiver that is the best buy you got. 
+ Either you buy Delta Force or get a high-end PC and believe me getting a PC will help you. 
+::::::
+
+::::::
+UserName: El_Justiciero
+Rating: 9
+Date: Jan 20, 2008 2:41 am PT
+Review:  I played this game only until i finished it offline. It was great fun. 40 missions with so different 
+ locations and enemies. I would like them to be 400 missions. So i replayed it a couple of times.
+ 
+  
+  Later i played online through Novalogic and it was really fantastic. 100% action and some tactics 
+ to stay alive. I played capture the flag and was almost always the first in points (no one went 
+ to take flags, i don't know why) . And other funny game i didn't played before: sniper only. Yes, 
+ only your rifle (no authomatic) and your silece to try to catch the others before you receive a 
+ headshot.
+  
+  The maps were huge and you can take the missions as you wish. They are scripted to run around your 
+ waypoints but you can forget your designed way and go on your own. The buildings and huts, the 
+ vehicles, the towers, the fences, all makes each mission different. And you can make your own with 
+ the editor, there are great users maps around. The weapons' sounds, the shouts, haha, i am spanish 
+ and it was hilarious hearing the southamerican voices. The night missions and the stealth missions 
+ really well done, not Metal Gear but this is a action oriented game, not like Hidden & Dangerous.
+ 
+  
+  
+::::::
+
+::::::
+UserName: Paintballman97
+Rating: 10
+Date: Nov 6, 2007 5:46 pm PT
+Review:  Well ive been playing this game for a long time now. The first thing I wanna note is that it counts 
+ up ur kills which is awesome. The graphics arent the best but who cares? It was made it 1998 people! The 
+ game play is very fun, adding different objectives almost on all the 40 missions. Yeah i said it,40 
+ missions! Playing 40 missions is very fun. The sound is very accurate. You can hear sniper rifles 
+ going off in the distance! So the question is, why buy this game.1. Its fun 2. Its fun and 3. Well its 
+ fun, nothing much else to say! Buy it, you know you want to. Cause if you dont buy it, your missing 
+ one heck of a game!!! 
+::::::
+
+::::::
+UserName: GibboViper
+Rating: 9
+Date: May 6, 2007 3:29 am PT
+Review:  Delta Force
+  
+  Ok, for Delta force first thing we have to do is remember that this game was released in 1998. 
+ SO we are talking almost a decade here. Yes a decade! Time has passed us all by!
+  Once again you are Special Forces against terrorist forces. You have to work your way through various 
+ undercover operations with occasionally 3 or 4 additional soldiers helping you in the field. You 
+ have approximately 40 missions to work your way through each one a varying difficultly. Theres 
+ plenty to do in Delta force from recovering items at the end of missions, rescue missions and search 
+ and destroy. All of which are pretty fun to play through. The AI enemy is pretty good in Delta 
+ force with a good barrage of bullets coming your way as soon as you show yourself. Your AI buddys 
+ seem to give you away on coming up to mission waypoints and trying to keep them alive proves difficult 
+ most of the time. Sometimes they even prove to be a hindrance in certain missions. The graphics 
+ arent 3 D accelerated and run using a voxel space 3 engine. Your basic pc back then would play 
+ this game just fine. The graphics, still look just fine and really do give you the feel of being 
+ in an outdoor environment. The scenarios are wide and spacious and you feel you have the ability 
+ to roam far and calculate exactly where your going to execute your attack from. Again the sound 
+ effects are spot on and you can calculate exactly where an enemy is shooting at you from by the 
+ sound of the bullets whizzing by or even that tell tail bang of that 50 cal going off 200 meters 
+ to the right!, yes its that precise. The weapons and environment really draw you in making it a 
+ pleasurable experience to play. The multiplayer feature is fantastic and hooking up onto one of 
+ novaworlds servers is always going to be hugely fun and no doubt you will make numerous friends 
+ there. All in all Delta force set the trend for one of nova logics biggest success stories and 
+ give millions of fans years of gaming fun on servers for years to come! A true classic!. 
+::::::
+
+::::::
+UserName: Rysing_Furi
+Rating: 7.5
+Date: Sep 28, 2006 12:02 am PT
+Review:  From a distance, DF doesn't look that great. That's true, but the gameplay is pretty good though. 
+ You start off by making an ID, and even choosing your country which is kind of neat. Throughout 
+ the game you'll be doing a bit of globe hoping, indonesia, a few african and south american countries 
+ etc, but there's nothing distinguising them other than the fact that the missions are different. 
+ You have a selection of weapons including pistols, machine guns, rifles etc, but you also have 
+ other inventory necessary for mission objectives (claymores for example) . Gameplay wise the game 
+ is... kind of stupid, but you get over it pretty quick. The one thing it does right though is putting 
+ you in the shoes of a DF member, you'll feel pretty cool with your trusty sniper rifle shooting 
+ the crap out of drug lords etc. Which leads me to another little tidbit. Shooting. Basically, if 
+ you shoot someone in the foot, they're dead, same goes with the hand etc. Even if you use the pistol 
+ (which is craptacular by the way) , you'll still killing them left right and centre. But don't think 
+ your invincible, one shot is all they need to know where you are. They must have hearing like bats 
+ I tell you! They will then procede to shoot you wherever you are and they won't stop. In the real 
+ world it would translate to wasting bucket loads of ammunition, but howsoever. AI is pathetic, 
+ but again, they can still kill you, and will. My tactic in most of the games was just to get a 
+ sniper rifle and shoot everybody from a hill. Kind of chicken of course, but you can't do that 
+ all the time. Sound is sub-par, there's no music, and the guns sound tame and feel like cap-guns 
+ really. The radio chatter with your squad mates is ok though. I mean, they won't be discussing 
+ their fear of chickens or anything like that, they'll just give you the basics Charlie one is down. 
+ Get to the pick up point etc etc. The other gripe is running speed, its a little bit slow for my 
+ taste, I think its going for realism or something like that. Which is funny seeing as apparently 
+ being shot in the foot is a death sentence.
+  
+  All in all, its an ok game, but not one I could say its a MUST play. 
+::::::
+
+::::::
+UserName: GU-Trooper92
+Rating: 9.4
+Date: Sep 2, 2006 2:48 pm PT
+Review:  Well here is my little review on DELTA FORCE and it basically covers everything that I want you 
+ to know:
+  
+  Gameplay:
+  9/10 because it features dozens of realistic stuff that make you wanna play more and really see 
+ te action.
+  
+  Graphics:
+  8/10 not the best but hey we all played mario with choppy graphics and graphics dont always matter 
+ when it comes to gameplay.
+  
+  Sound:
+  9/10 because it resembles lots of machine gun firing and pistol shots. Very realistic sounds that 
+ always are in this game
+  
+  Value:
+  10/10 this game proves that only gameplay matters not the graphics
+  
+  I would recommend this 
+ game to everyone who has a PC because it doesnt need a powerfull PC to play. The rest is up to 
+ you!! 
+::::::
+
+::::::
+UserName: ReuF-San
+Rating: 8.9
+Date: Apr 18, 2006 10:23 am PT
+Review:  Although this game is already 8 years old at the moment I am writing this. It still gives me a 
+ lot of good memories. It was my first encounter with a tactical shooter and a relief after playing 
+ shoot-em-ups like Wolfenstein or Doom. It was also the first shooter I played on a (small) LAN 
+ party. Both death-matches and co-ops were a large succes. At this moment the graphics are outdated 
+ of course and the AI could be better. But it is sometimes just a lot of fun playing this kinf of 
+ oldschool games. So check out the bargain bin and see if you can still find this game. It is still 
+ a lot better than its successors DF2, Land Warrior and Task Force Dagger. 
+::::::
+
+::::::
+UserName: nightharvest
+Rating: 7.8
+Date: Apr 15, 2006 6:32 pm PT
+Review:  I put Delta Force on with absolutely no expectations. Released in 1998, it wasn't until April 2006 
+ that I played this. And while it looks very dated compared to more recent releases, it still has 
+ a decent game at its core.
+  
+  Essentially, you play the 'Bravo' component of one of the military's elite crew - Delta Force. 
+ Just short of saving the world, you are sent to different locations in the world to neutralise 
+ a hostile force. Spanning five campaigns and forty missions, the action ranges from eliminating 
+ all hostile forces, to eliminating infrastructure, to securing important items and protecting or 
+ destroying a convoy.
+  
+  While the mission briefings are detailed and informative, they are specifically structured. You 
+ need to go from way point to way point before reaching an objective and then moving to an extraction 
+ point. The briefing will advise of the type of hostilities to expect and where / when you team 
+ mates will be situated and move. While you can deviate from the mission path, generally you do 
+ need to go from way point to way point to trigger an action in the mission, and I found myself 
+ backtracking 500 metres or so on some occasions just to tick that box.
+  
+  While you do have others working with you, they cannot really by relied on. They will take out 
+ one or two of the enemies for you before being knocked over themselves and most of the time you 
+ are entering the objective site with no backup. 
+  
+  The AI is certainly dated, I've seen enemies run straight past me, and I've also stood in a room 
+ with an enemy looking the other way for ten seconds before deciding to put him out of his misery. 
+ The enemy does flank reasonably well, and can take some form of cover, but they are also sitting 
+ ducks on some instances as well. Having said that, they did knock me over on quite a few occasions.
+ 
+  
+  The graphics and sound also show their age, the voxel engine is certainly one for the time machine. 
+ However, the outdoor environments are very large and very well designed, with plenty of useful 
+ locations to bunker in or launch and offensive, and there is a clear view of a fairly long way 
+ through the scope of one's weapon.
+  
+  Delta Force's strength is in the gameplay and the variety of missions. While the first campaign 
+ is quite easy, by the time you get to the fourth it is quite challenging. There are a number of 
+ missions in a variety of settings and with a variety of objectives. A couple of personal favourites 
+ include guarding a convoy and sneaking into camps and securing important items. There are more 
+ defensive units (bunkers, wire, towers) as you progress through the campaigns - and it is usually 
+ one or two hits and you're finished. There are no magic medical packs and no save points. You learn 
+ to value your life. While some probably could go into the missions all guns blazing, some caution 
+ and planning is needed to keep yourself alive.
+  
+  There is a good variety of weapons available, but you will find yourself sticking with one or two 
+ of them only. There are also useful maps and a variety of viewpoints you can refer to during the 
+ missions. The enemies speak in their native languages - which is a good idea. I liked hearing one 
+ of them saying in their language 'I'm confused!' when I was picking them off from a difference.
+ 
+  
+  After 40 missions you have seen it all, but in the end it's an enjoyable ride getting there.
+ 
+  
+  I am glad I've played Delta Force. I have some other more recent and no doubt more attractive titles 
+ in the cupboard that I am yet to play, but I am waiting to upgrade a bit before playing those. 
+ Instead I am going through some of the older titles and it is worth it. I picked this up for $AUD6.78 
+ (which also included Alien vs Predator and Hidden & Dangerous + Expansion) on Ebay, so value for 
+ money is pretty good.
+  
+  If you don't expect the next big thing, you'll probably enjoy Delta Force. 
+::::::
+
+::::::
+UserName: sudantha8527
+Rating: 8.2
+Date: Mar 25, 2006 4:26 am PT
+Review:  One of the good shooters to come out I mean the talk was Delta Force at that time, the game is 
+ pretty good except that the AI is pretty dumb and you end up shooting a whole army of enemies all 
+ by your self, not that much of a hard game..
+  
+  The graphics are prtty lame and not so good the sounds in the other hand are not so bad. But does 
+ not give the expected feeling that you are in a real war, I mean that's dumb you have to shoot 
+ a whole enemy army with a small group of soldiers.. 
+::::::
+
+::::::
+UserName: Doom1327
+Rating: 7
+Date: Jan 12, 2006 6:49 pm PT
+Review:  Delta Force offers around 45 single-player missions, including 25 sorties split between two campaigns 
+ and 20 stand-alone scenarios, in which you must prove yourself against large and heavily armed 
+ terrorist armies. In most cases, you'll work alone or with a handful of computer-controlled support 
+ teams. Most scenarios involve a clandestine attack-and-destroy mission against enemy bases, though 
+ many also include hostage rescue, recovery of stolen assets, and other commando-style objectives. 
+ The game also contains a powerful mission editor that lets you craft complex scenarios with relative 
+ ease and even provides thorough documentation for it.
+  
+  The mission design in Delta Force is generally excellent. Not only are most scenarios more difficult 
+ than the missions in the original, but they also seem realistic and believable. Although some are 
+ definitely influenced by Hollywood (one stand-alone mission conjured memories of the train attack 
+ scene in Lawrence of Arabia, for example) , even these are a lot of fun from beginning to end. 
+::::::
+
+::::::
+UserName: mtdewtag
+Rating: 7.7
+Date: Jan 4, 2006 5:41 am PT
+Review:  Delta Force is your basic first person shooter. You are a solider in the Delta Force sent off on 
+ a series of missions.
+  
+  Gameplay is your standard first person shooter. You will equip your solider with your choice of 
+ weapon and gear and off you go. The number keys are used to access an item quickly. Like most first 
+ person shooters you just move around the screen and attempt to take out all the bad guys.
+  
+  Gameplay is also set so as you will need to use some stealth and patience to get through most 
+ levels. However on many levels of this game you can use the run and gun technique.
+  
+  Graphics even on a game this old the graphics are good. When you switch to your rifle scope it 
+ allows you to examine stuff more closely. Some of the backgrounds are not quite up to today's standards. 
+ Overall though the graphics for this game does rival some of the newer games out today.
+  
+  Sound is okay. Not much here mainly you will just hear your weapons and the occasional enemy shouting 
+ out to warn others of your attack.
+  
+  Value: If you are into the Delta Force series this a good game for your collection. A straight 
+ forward single player first person shooter. It does have some replay value as you can add some 
+ user created maps to extend the life of the game. But overall the included maps will make you want 
+ to play the game a couple of times through.
+  
+  Tilt: When I first got to play this game it was at a friend's house. When I saw it I my reaction 
+ was here we go again yet another Doom clone. However after playing the first level I knew I needed 
+ this game for my collection. The gameplay is good and you will find yourself trying all the weapons 
+ and seeing how good you are with some. Imagine sniping with a M60. This game is about stealth and 
+ sniping is a huge part of that type of missions. Some close quarters combat is added in but expect 
+ to be stealthy most of the time. 
+::::::
+
+::::::
+UserName: differentiation
+Rating: 5.7
+Date: Dec 25, 2005 10:41 pm PT
+Review:  Ah, the game that started off the whole Delta series. There's a lot of sniping, very little up 
+ close and personal confrontations, which reflect how you'd fight across open terrain realistically. 
+ The damage system is realistic as well, however the graphics are bad. Very bad. The vistas and 
+ enemy soliders are poorly rendered when they are out of your proximity. They blend in together 
+ and it takes a while to figure out that the slightly lighter shade of green on that hill is actually 
+ an enemy soldier. I guess you can refer to that as real combat, to think of the enemy as wearing 
+ camos. However this is a game after all so if you have to squint, it's not fun. Enemies are sometimes 
+ little specks on the map, even after zooming in with your .50 cal rifle. You'll constantly be engaged 
+ in zoom or scope mode because if you see an enemy without seeing him through your scope, chances 
+ are game's over. Everything is blocky, but this was released in '98 after all and Novalogic does 
+ address the above issues in later Delta games. 
+::::::
+
+::::::
+UserName: _Burly_
+Rating: 9
+Date: Dec 1, 2005 9:06 pm PT
+Review:  As I stepped into the realm of what Delta Force had to offer, I was set into a show that instantly 
+ hooked me. Right from the first level, Delta force displayed some of the elements that showed me 
+ why war games are fun. The atmosphere is the first element I noticed, though the graphics are not 
+ as smooth as they could be, and from only about 20 feet away from an enemy, their face blurs into 
+ a pixilated mess. What did bring the atmosphere out was the size of the parameter, and what the 
+ designers did to make that huge space seem realistic, other than just a move to make each level 
+ seem longer. The terrain itself is what creates this; it feels like each level flows naturally, 
+ each crevice, hill, mountain, valley, every part of the terrain looks completely different, and 
+ unsymmetrical. While the terrain also does this, it acts as the guiding point for each mission. 
+ In order to pass missions, the most important thing is to utilize your surroundings to your advantage. 
+ By taking cover, ambushing or what ever the situation may call for, the terrain is always there 
+ to guide you. Not only does the terrain work well, but each mission is so different from the next, 
+ the game really keeps you going from one type of game plan to another, one minute you'll be walking 
+ along in a convoy while swarms of enemies come from either side of the valley your walking in, 
+ and the next minute you could be sneaking up on a terrorist drug lord's mansion. The other element 
+ that comes together somewhat nicely in Delta Force is the team mates that assist you in your mission. 
+ Though they mean well, and sometimes can be a big help on missions, their movements are a little 
+ to calculated, and they will go their exact same route, every time you do that certain mission. 
+ After their route is done, they will crouch in one spot and never move again.
+  
+  Replay value is one thing that Delta Force gets right. One of the main factors for this is that 
+ here is no certain way to complete each objective; actually, sometimes the planned objective isn't 
+ the best way. The most common example of this is when you fire at enemies from a distance and miss; 
+ they will run towards, or away from your location, depending on how far away you shoot from. Even 
+ if you don't shoot at them, they will still be able to hear your gun fire and will quickly locate 
+ you and light you up like a Christmas tree like there's no tomorrow. The other replay supporting 
+ factor is the amount of missions that the game has, which is over 40. These aren't any half assed 
+ missions. As you play on, more missions will be available, depending on which missions you complete, 
+ which is a fairly daunting task. There also is online with Delta Force, which was very popular 
+ at one time, but it has since then been deceased for a good few years now, considering the game 
+ has been out for 7 years now, it's not a surprise.
+  
+  
+  Among the presentation of the game, lies not all too impressive graphics as I stated earlier, there 
+ still is a level of detail that supports the game's look. As when guns fire, their blue and red 
+ streaks across the sky might not be the most realistic, but each gun's bullets do travel in parabolic 
+ paths, allowing for a level of realism that makes you think twice before just aiming and shooting. 
+ Even the inside of buildings, huts, and hutches are dressed up with little things like boxes, beds, 
+ tables, chairs, radios, and other little things. Though it's nothing special, it's nice to see 
+ that they put a little effort into buildings that you're only in for about like 5% of the game. 
+ Other details include being able to shoot up trees and cacti, until they explode, or being able 
+ to shoot down birds in the sky. Those are small things to care about indeed, but the sound is what 
+ really plays a huge part in the game. As guns go a blaze'n, enemies talk and shout, helicopters 
+ attack, and convoys of tanks, hum-v, and trucks ride along, the sound is a very important tool 
+ in the game to let you know what's going on in your surroundings. Teammates even talk to you as 
+ you complete your objectives, with a sense of competence too, they will let you know if they've 
+ been hit, if they've secured a "package" (hostage, or whatever is trying to be obtained) ; they 
+ also let you know when you need to go to your extraction point (when you finish a mission, a helicopter 
+ will pick you up at this point on the map) . Overall the teammates, as well as the sound in general, 
+ picks up exactly what the graphics are lacking, and adds to the game play while it's at it.
+  
+  As Delta Force is a FPS at heart, its controls aren't too much of a surprise. Though, there 
+ is numerous camera angles, the 3rd person camera is almost useless and just seems like something 
+ that's just for fun. But the controls work quite well, and are fully customizable as like most 
+ PC FPS' controls are customizable. Each gun has different modes and such it can go into at the 
+ touch of a button, like the grenade/sniper rifle/semi automatic machine gun. And if you don't feel 
+ like going on the intended path, at the touch of a button, you can skip past intended check points 
+ shown on the map. There really isn't much to complain about with the controls here, everything 
+ just flows together, and rarely will a death result from a control problem.
+  
+  I loved every minute of Delta Force, from its huge landscapes, to it's in your face gorilla war 
+ fare action; it was amazing and still is today. Though many might take it to be outdated, if your 
+ looking for a less realistic war game, with a realistic feel to the action, this game is a must 
+ have for your PC collection.
+  
+::::::
+
+::::::
+UserName: ufopuller
+Rating: 9.5
+Date: Aug 26, 2005 8:42 pm PT
+Review:  If you like FPS, this has to be part of your collection. The author found this game in a bargain 
+ bin at Shopko. It said First Person Shooter and the screen shots always had a weapon showing (real 
+ clue that this is truly FPS) . There are a number of scenarios (8-10) to a series of campaigns. 
+ Therefore, this can turn out to be a lengthy game, until the player finishes all the possible sorties.
+ 
+  
+  Weapons range from handguns to hand grenades. Usually there is a secondary weapon, like a light, 
+ silenced submachine gun. The terrain varies greatly from snow in the arctic, to the desert, and 
+ even a swamp scenario. The game play is exceptional for the cost of the game. Sound is great, mimicking 
+ that of the weapons fired. Graphics are reflective of the time (1998) .
+  
+  Overall, the author though this was excellent game. Apparently, so did the rest of the gaming community, 
+ since there are vast proliferations of sequels to expansion packs. The author thought the most 
+ challenging part of this game was - NO SAVE features. If you got to the end and there was one enemy 
+ there to kill you, the player started over.
+  
+::::::
+
+::::::
+UserName: maximummaker
+Rating: 9
+Date: Feb 6, 2005 11:43 pm PT
+Review:  As I stepped into the realm of what Delta Force had to offer, I was set into a show that instantly 
+ hooked me. Right from the first level, Delta force displayed some of the elements that showed me 
+ why war games are fun. The atmosphere is the first element I noticed, though the graphics are not 
+ as smooth as they could be, and from only about 20 feet away from an enemy, their face blurs into 
+ a pixilated mess. What did bring the atmosphere out was the size of the parameter, and what the 
+ designers did to make that huge space seem realistic, other than just a move to make each level 
+ seem longer. The terrain itself is what creates this; it feels like each level flows naturally, 
+ each crevice, hill, mountain, valley, every part of the terrain looks completely different, and 
+ unsymmetrical. While the terrain also does this, it acts as the guiding point for each mission. 
+ In order to pass missions, the most important thing is to utilize your surroundings to your advantage. 
+ By taking cover, ambushing or what ever the situation may call for, the terrain is always there 
+ to guide you. Not only does the terrain work well, but each mission is so different from the next, 
+ the game really keeps you going from one type of game plan to another, one minute you'll be walking 
+ along in a convoy while swarms of enemies come from either side of the valley your walking in, 
+ and the next minute you could be sneaking up on a terrorist drug lord's mansion. The other element 
+ that comes together somewhat nicely in Delta Force is the team mates that assist you in your mission. 
+ Though they mean well, and sometimes can be a big help on missions, their movements are a little 
+ to calculated, and they will go their exact same route, every time you do that certain mission. 
+ After their route is done, they will crouch in one spot and never move again.
+  
+  Replay value is one thing that Delta Force gets right. One of the main factors for this is that 
+ here is no certain way to complete each objective; actually, sometimes the planned objective isn't 
+ the best way. The most common example of this is when you fire at enemies from a distance and miss; 
+ they will run towards, or away from your location, depending on how far away you shoot from. Even 
+ if you don't shoot at them, they will still be able to hear your gun fire and will quickly locate 
+ you and light you up like a Christmas tree like there's no tomorrow. The other replay supporting 
+ factor is the amount of missions that the game has, which is over 40. These aren't any half assed 
+ missions. As you play on, more missions will be available, depending on which missions you complete, 
+ which is a fairly daunting task. There also is online with Delta Force, which was very popular 
+ at one time, but it has since then been deceased for a good few years now, considering the game 
+ has been out for 7 years now, it's not a surprise.
+  
+  
+  
+  Among the presentation of the game, lies not all too impressive graphics as I stated earlier, there 
+ still is a level of detail that supports the game's look. As when guns fire, their blue and red 
+ streaks across the sky might not be the most realistic, but each gun's bullets do travel in parabolic 
+ paths, allowing for a level of realism that makes you think twice before just aiming and shooting. 
+ Even the inside of buildings, huts, and hutches are dressed up with little things like boxes, beds, 
+ tables, chairs, radios, and other little things. Though it's nothing special, it's nice to see 
+ that they put a little effort into buildings that you're only in for about like 5% of the game. 
+ Other details include being able to shoot up trees and cacti, until they explode, or being able 
+ to shoot down birds in the sky. Those are small things to care about indeed, but the sound is what 
+ really plays a huge part in the game. As guns go a blaze'n, enemies talk and shout, helicopters 
+ attack, and convoys of tanks, hum-v, and trucks ride along, the sound is a very important tool 
+ in the game to let you know what's going on in your surroundings. Teammates even talk to you as 
+ you complete your objectives, with a sense of competence too, they will let you know if they've 
+ been hit, if they've secured a "package" (hostage, or whatever is trying to be obtained) ; they 
+ also let you know when you need to go to your extraction point (when you finish a mission, a helicopter 
+ will pick you up at this point on the map) . Overall the teammates, as well as the sound in general, 
+ picks up exactly what the graphics are lacking, and adds to the game play while it's at it.
+  
+  As Delta Force is a FPS at heart, its controls aren't too much of a surprise. Though, there 
+ is numerous camera angles, the 3rd person camera is almost useless and just seems like something 
+ that's just for fun. But the controls work quite well, and are fully customizable as like most 
+ PC FPS' controls are customizable. Each gun has different modes and such it can go into at the 
+ touch of a button, like the grenade/sniper rifle/semi automatic machine gun. And if you don't feel 
+ like going on the intended path, at the touch of a button, you can skip past intended check points 
+ shown on the map. There really isn't much to complain about with the controls here, everything 
+ just flows together, and rarely will a death result from a control problem.
+  
+  I loved every minute of Delta Force, from its huge landscapes, to it's in your face gorilla war 
+ fare action; it was amazing and still is today. Though many might take it to be outdated, if your 
+ looking for a less realistic war game, with a realistic feel to the action, this game is a must 
+ have for your PC collection.
+  
+::::::
+
+-------------------------------------------------

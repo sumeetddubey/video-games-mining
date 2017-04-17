@@ -1,0 +1,169 @@
+-------------------------------------------------
+:::Game Name::: Highland Warriors
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/highlandwarriors/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jan 29, 2003
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.9
+Critic Score: 6.2, 20 Review (s)
+User Score: 6.6, 42 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Data Becker
+Developer: Soft Enterprises
+Genre: Historic Real-Time...
+Date:     Jan 20, 2003
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Unfortunately, Highland Warriors' historical accuracy doesn't compensate for the deficiencies in 
+ its gameplay and graphics. 
+
+ You may remember Data Becker's previous game, America. It was a 2D real-time strategy game styled 
+ after the Age of Empires series, and it was, not surprisingly, set in America. Data Becker's newest 
+ game, Highland Warriors, takes place in a different era on a different continent. The game does 
+ a good job of portraying the units and landscapes that you'd expect to see in a game that takes 
+ place in medieval Scotland, but unfortunately, Highland Warriors' historical accuracy doesn't compensate 
+ for the deficiencies in its gameplay and graphics.           Highland Warriors has a few good ideas, 
+ but these mostly seem like gimmicks.    
+
+  In Highland Warriors, you play as various factions that guided the history of the nation through 
+ several centuries. You unite the country's clans under a single king, play as the English in their 
+ conquest of Scotland, rebel against the English as William Wallace, and finally reunite the clans 
+ and claim independence with Robert the Bruce. Highland Warriors offers plenty of single-player 
+ gameplay to keep you occupied for some time. The game has four campaigns that consist of 10 missions 
+ each, and it has a skirmish mode against the computer AI. Highland Warriors also has a multiplayer 
+ mode that lets you take your highlanders online against a human opponent.   
+
+  It's too bad, then, that the core gameplay doesn't quite hold up. Highland Warriors' gameplay resembles 
+ the same sort of formula you've probably seen in other real-time strategy games: gather resources, 
+ build a base, build an army, and attack. Peasants construct buildings and gather the game's five 
+ resources: wood, food, stone, iron ore, and gold. The game takes an interesting approach to resource 
+ gathering. Workers gain experience points as they gather a certain type of resource, and after 
+ a while, they can obtain a master-craftsman award that lets them gather that specific resource 
+ more quickly, at the expense of being more inefficient at gathering other kinds of resources. It's 
+ not a new concept, but it's rarely been implemented well in a real-time strategy game. Highland 
+ Warriors seems to take a step in the right direction in this regard, but the system ends up seeming 
+ like a gimmick. Workers achieve mastery very quickly, so creating specialized workers isn't really 
+ a challenge or much of an achievement.   
+
+  Highland Warriors has variable weather -- seasons change in the game every 20 minutes or so, and 
+ the change in weather affects the way you collect the food resource. You can't cultivate fields 
+ in winter, so you must have either enough stored food or alternative food sources. It's another 
+ interesting idea, but this, too, ends up being more of an annoying gimmick than anything else. 
+ While many strategy games have moved away from micromanagement of individual units and instead 
+ use intelligent peon units to help players gather resources and build bases, Highland Warriors' 
+ approach to resources sticks out like a sore thumb. You can have fields automatically replant themselves, 
+ but if you don't have enough wood (which happens frequently, since fields are quite expensive) , 
+ the option becomes unchecked, and you'll have to manually reenable it. Otherwise, your peasants 
+ just sit idle in the barren field without finding something to do on their own. Then again, you 
+ often don't even need to bother with this complex system, since you can pick berries, hunt animals, 
+ and "build" cattle for a very cheap price in gold. Just sticking to cattle is usually sufficient 
+ for single-player games, because you'll rarely find yourself running out of gold before you finish 
+ a mission.   
+
+  In fact, the game doesn't even begin to get challenging until you get fairly fair into the campaigns. 
+ Most real-time strategy fans should be able to breeze through the first campaign without having 
+ to restart a single mission. Certain missions will start you out with an initial force of troops, 
+ and in some cases, you can just take these soldiers and rush your enemy's base, finishing the mission 
+ in just a few minutes. At least the campaigns don't get too monotonous, because each side has different 
+ units. There are infantry, cavalry, ranged, and siege units in the game, and some of the game's 
+ playable factions even have magic-using units, such as druids, mages, and rangers. Unfortunately, 
+ Highland Warriors doesn't let you know how well a unit performs -- when you select a unit, you will 
+ get no indication of its strengths or combat abilities. You can only make an educated guess based 
+ on the cost. You can upgrade each unit type, but similarly, the game doesn't tell you how much 
+ the unit will improve.   
+
+  There isn't much to combat itself in Highland Warriors. There aren't too many tactical options 
+ beyond setting a few formations and behaviors, though the game does have one rather notable behavior: 
+ the blood frenzy. When you use this ability, your units will disperse and attack the nearest threat 
+ automatically. The downside is that you lose control of those units and can't give them direct 
+ orders, though you can reset their behavior to normal to regain control. It's an interesting option, 
+ but you'll generally use it only when you know you'll overwhelm your opponent.   
+
+  Highland Warriors' AI on the whole is pretty average. The computer is intelligent enough to continually 
+ attack you with mixed forces and actually has pretty good pathfinding -- units won't have problems 
+ getting to their destinations unless there's a big mountain blocking their way. However, sometimes 
+ your computer-controlled opponents make stupid tactical decisions. For instance, if your enemies 
+ are attacking your defense towers and you send a peasant to repair your towers, the enemy won't 
+ attack the peasant to stop the repairs. This is another flaw in the game: A single peasant can 
+ repair a building faster than five units can damage it. Irrationally, you'll find yourself constantly 
+ ordering your units to kill off the large numbers of peasants that your computer-controlled opponents 
+ will send to repair their structures.           The unit animations are bad, and everyone sounds 
+ exhausted, for some reason.    
+
+  Highland Warriors looks pretty good, at a glance. If you play the game from a zoomed-out view, 
+ you can see some good environmental effects like real-time shadows and trees swaying in the wind. 
+ When you zoom in, you'll also see that every unit has a good amount of detail. Unfortunately, every 
+ unit looks the same. In a game that features so much detail that individual objects begin to look 
+ like true individuals, it's disturbing to see dozens of identical-looking units running around. 
+ The problem is further compounded by the horrible unit animations. When they're killed, units go 
+ as stiff as a board and fall over, and in many cases, the game lacks animations for moving from 
+ location to location so that some units will freeze in place and seem to "skate" back and forth, 
+ as though they were on ice. In addition, if you were expecting to play Highland Warriors and find 
+ reenactments of the gory, dramatic battles of Mel Gibson's award-winning film  Braveheart , you'll 
+ be disappointed to find that the game has no bloodshed at all. The game itself uses a rather bland 
+ and dreary color scheme, though at least it's fully 3D and has good camera controls. Highland Warriors 
+ also doesn't sound like much; its background music consists of Scottish tunes that are easily ignored. 
+ Many units in the game sound exhausted or extremely demoralized when they fight -- rather than shouting 
+ out battle cries, they'll moan and groan as they head out to battle.   
+
+  Highland Warriors has some good ideas, but it lacks polish, and it's difficult to recommend, especially 
+ considering some of the other amazing real-time strategy games we've seen in the past year or so. 
+ Even so, it does have some strong points, and at least it offers plenty of missions to keep you 
+ busy, so you could certainly do worse.    
+-------------------------------------------------
+:::User Reviews::: (2 Reviews)
+::::::
+UserName: probot6
+Rating: 3.7
+Date: Oct 30, 2005 3:08 pm PT
+Review:  This was probably one of my biggest dissapointments in games. I saw the game's cover before it 
+ came out, the picture depicted around 100 celts rushing towards 100 english, which led me to believe 
+ a lot of fast paced gameplay and action. Think again, you can never manage to stay awake long enough 
+ to make 100 units, and the AI is just horrible. It sounded like a good idea, but it just didn't 
+ work out. I don't believe that you would be able to find this game in a sote anywhere anymore, 
+ but even if you could get it for $1, i would still tell you to just save your $1, the game was 
+ that bad. 
+::::::
+
+::::::
+UserName: Canadiancowboy2
+Rating: 8
+Date: May 6, 2005 11:46 pm PT
+Review:  Gameplay- well it's not bad you can Zoom in and out and zoom in to see the guys face and stuff 
+ and rotate 350 degrees. The consept of the game is simple you gather food and minerals and build 
+ up your base upgrade stuff amd build up your army. You get four fractions, the english and three 
+ scottish clans. In Highland Warriors, you play as various factions that guided the history of the 
+ nation through several centuries. You unite the country's clans under a single king, play as the 
+ English in their conquest of Scotland, rebel against the English as William Wallace, and finally 
+ reunite the clans and claim independence with Robert the Bruce. Highland Warriors offers plenty 
+ of single-player gameplay to keep you occupied for some time. The game has four campaigns that 
+ consist of 10 missions each, and it has a skirmish mode against the computer AI. Highland Warriors 
+ also has a multiplayer mode that lets you take your highlanders online against a human opponent. 
+ This game is rich with scottish history.
+  
+  Graphics- they are good but not the best but good weather effects, there are the four season rotation 
+ and it does effect how fast your troops move.
+  
+  Sound-The sound is ok could of had more veriety but I loved how the producers put in scottish Galic (one 
+ of the celtic lanauges) in to the game.
+  
+  Value- it's a keeper to add to you game collection
+  
+  Overall- I think that it's a pretty fun 
+ game that is full of scottish history like a said before and will keep you busy for a while.
+  
+  i give this 7-8 out of 10 
+::::::
+
+-------------------------------------------------

@@ -1,0 +1,104 @@
+-------------------------------------------------
+:::Game Name::: Campaign Gettysburg
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/campaigngettysburg/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct 19, 2004
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.5
+Critic Score: 7.5, 6.9 Review (s)
+User Score: 6.9, 15 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: HPS Simulations
+Genre: Historic Turn-Based...
+Date:     Aug 6, 2004
+
+-------------------------------------------------
+:::Review:::
+If you're a fan of the period and can find a willing foe, Campaign Gettysburg gives you everything 
+ you need to reenact one of the most epic campaigns of all time. 
+
+  Gettysburg is among the few battles in history that needs no introduction. If only the Rebs hadn't 
+ needed shoes, this decisive battle likely would have been fought elsewhere, and the South may have 
+ held on to its chance, however slender, of forcing the North out of the war. HPS Simulations' wargame 
+ Campaign Gettysburg covers not only the eponymous battle, but also the entire campaign leading 
+ up to it, using a combination of an elegant strategic layer and an excellent tactical combat system. 
+
+          This is just a small portion of the enormous Gettysburg map, which isn't even the largest 
+ map featured in the game.     
+
+  Most games in this genre welcome players with a campaign map, letting them shuffle units around, 
+ partake in politics, and see how the war is playing out on a grand scale. The campaign engine used 
+ here sticks to the combat, putting players in the boots of a general and giving them options that 
+ play out like a Choose Your Own Adventure book. For example, playing as Robert E. Lee, your cavalry 
+ may or may not obtain important reconnaissance information at Brandy Station during the opening 
+ stages of the complete Gettysburg campaign. If they don't you must blindly choose whether you want 
+ to risk surging north quickly (leaving your 3rd Corps trailing behind) , or advance more slowly 
+ to consolidate your forces. If you meet the enemy as a result of your decision, a battle is fought 
+ using the tactical engine, and the outcome determines the menu of choices that will appear in the 
+ campaign interface.  
+
+  If you are interested in the period but don't want to commit the time it takes to fight an entire 
+ campaign or even a single monster battle like Gettysburg, this package has you covered. The designer 
+ created more than 300 scenarios covering every aspect of the campaign, including historical and 
+ hypothetical engagements, and a complete scenario editor also is included for the "what if" junkies. 
+ You can learn the system playing a little four-turn scenario re-creating the opening shots of Gettysburg 
+ or the seven-turn fight for Little Round Top, and then take on larger and longer scenarios as you 
+ absorb the mechanics.  
+
+  The gameplay is easy to grasp, and it does a good job of capturing the essence of combat during 
+ this period without burying players in minutiae. Infantry units do the bulk of the fighting and 
+ can deploy skirmishers to harass the enemy and probe for weaknesses. Cavalry units are used in 
+ their historical role as the "eyes" of the army and are terrific for harassing weakened infantry 
+ units or artillery units but are awful in direct combat with infantry. Artillery dominates the 
+ battlefields in which it is used, and learning how to advance in the face of withering cannon fire 
+ is one of the first skills players must develop.  
+
+  As in the real war, you don't necessarily have to annihilate the enemy to win a battle. You just 
+ have to shake them up enough that they flee in disarray. This is modeled in the game by tracking 
+ unit fatigue, ammunition levels, and disruption, and it is vital to keep an eye on these stats 
+ so you know when a unit is about to break. Since routing is so common it also is important to keep 
+ a reserve in place whenever possible, and to put the best commanders in places where they will 
+ do the most good, since they can push their troops to fight harder and inspire disrupted units 
+ to rally. Players who can juggle all this while reading the terrain to find the best avenues of 
+ attack and the best perches for artillery will find that the game's turn-based combat system is 
+ very rewarding.  
+
+  The graphical interface powering this game was used in several previous releases from HPS and is 
+ showing its age. Graphics for the strategic layer are crisp and legible, but amount to only still 
+ images and text. The tactical engine has colorful but plain maps, rudimentary 2D unit graphics, 
+ and blocky fixed-perspective 3D unit graphics that are not very appealing. Sound effects are limited 
+ to gunfire, and in fact everything is utilitarian, which is fine, considering the game's turn-based 
+ nature and accurate combat model.  
+
+          The strategic layer presents you with choices based on your performance in the tactical 
+ battles, offering historical and "what if" options.     
+
+  The sheer scope of some of the battles included in this package demands that the graphics be clean 
+ and crisp instead of flashy, or players would soon lose track of everything. The monster 205-turn 
+ hypothetical Collision in Maryland scenario, for example, uses a map that is 242 hexes high by 
+ 436 hexes wide. It takes forever to scroll around this huge environment, and scrollbars on the 
+ side and bottom of the screen would be invaluable but unfortunately are not included. A jump map 
+ providing an overview of the entire battle is available, but it must be manually activated each 
+ time a user wants to quickly view another area of the map.  
+
+  This sounds like heaven for Civil War buffs, but Campaign Gettysburg has an unfortunate Achilles' 
+ heel in an AI that simply doesn't know what to do with all the freedom this game affords. The computer 
+ puts up a decent fight in the smaller scenarios but falls flat on its face in the larger battles 
+ that play out over dozens or hundreds of turns. This isn't necessarily the fault of the designer, 
+ as no turn-based AI we've ever seen has been able to handle battles this massive -- so if you want 
+ to enjoy the larger battles in this package, then finding a friend who wants to take you on is 
+ practically a requirement. Direct play, play-by-e-mail, and hotseat multiplayer modes are supported, 
+ so if you're a fan of the period and can find a willing foe, Campaign Gettysburg gives you everything 
+ you need to reenact one of the most epic campaigns of all time.     
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

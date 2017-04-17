@@ -1,0 +1,492 @@
+-------------------------------------------------
+:::Game Name::: BattleForge
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/battleforge/review.html
+-------------------------------------------------
+:::The Good:::
+ RTS/CCG genres harmoniously merged.
+ Competitive multiplayer rewards quick thinking.
+ Designing different decks is fun.
+ No class or faction restraints.
+-------------------------------------------------
+:::The Bad:::
+ Story is a bother to read.
+ Only 19 campaign missions.
+ Auction house interface is flawed.
+-------------------------------------------------
+:::Date::: Apr  3, 2009
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8
+Critic Score: 7.3, 14 Review (s)
+User Score: 7.3, 166 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Electronic Arts
+Developer: EA Phenomic
+Genre: Real-Time Strategy
+Date:     Mar 23, 2009 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+This fascinating hybrid of real-time strategy and collectible card battling offers a unique and 
+ enjoyable take on both genres. 
+
+  Hybridization in PC games has rarely been as ambitious and as well executed as in BattleForge, 
+ which expertly merges real-time strategy play with a collectible card game, thereby spawning its 
+ own genre, the RTS card game. The result is an innovative RTS game that rewards thinking on your 
+ feet, and a card game that puts thousands of opponents at your fingertips and brings your fantastic 
+ minions to life. Despite a few imperfections, BattleForge has the potential to captivate fans of 
+ both of its component genres.  
+
+           Who needs a barracks? Summon reinforcements wherever you have ground forces.      
+
+ 
+  At its core, BattleForge is a real-time strategy game with a seamlessly integrated card game mechanic. 
+ You control an army of fantasy creatures, ranging in size from tiny to gargantuan, and undertake 
+ missions, which are resolved through real-time battles with standard point-and-click controls and 
+ an excellent drag-and-drop control group interface. Instead of building structures to produce units, 
+ you summon your forces directly onto the battlefield by playing cards from your onscreen deck. 
+ Likewise, you can summon defensive towers and cast healing, damage, and crowd-control spells in 
+ the same manner. Each card has a power cost, so you need to seize resource buildings called power 
+ wells to fund your war, as well as monuments, at which you build orbs that allow you to use increasingly 
+ powerful cards. For instance, you start each match with one orb and can play only level 1 cards, 
+ but when you build your second orb, you'll be able to play level 1 and 2 cards. This makes capturing 
+ and defending monuments and power wells central to your strategy. As for tactics, one important 
+ technique is matching the attack type of your units to the armor class of enemy units. Another 
+ tactical consideration is deciding between summoning your forces anywhere you have a ground unit 
+ or tower, causing the new troops to suffer a temporary health and ability loss, or summoning them 
+ at one of your power wells or monuments for instant full effectiveness.  
+
+  Playing RTS matches in BattleForge is a blast, but you can also derive hours of enjoyment outside 
+ the battlefield by planning, designing, and tweaking your virtual decks. There's no limit to the 
+ number of different decks you can make, so there's no limit to the number of classes or "specs" 
+ you can play with the same character. Each deck can have up to 20 cards, and each card belongs 
+ to one of four schools of magic -- fire, frost, nature, or shadow -- and is color-coded red, blue, 
+ green, or purple, respectively. Similarly, the crucial orbs you control on the battlefield are 
+ color-coded, and you need to decide what color orb to build when you capture a monument. To play 
+ a shadow card, for instance, you must have a purple orb, and so on. Figuring out how many orbs 
+ and what colors you need may sound complicated, but it's executed with a simple and intuitive dot 
+ system.  
+
+  Like in certain physical card games, your decks will be most effective when they stick to either 
+ one or two colors, but the game doesn't restrict your design freedom in any way. You start the 
+ game with four premade decks and 3,000 BattleForge points, the game's main currency, which you 
+ can spend to buy cards from other players or directly from the game, in the form of boosters (eight 
+ mystery cards for 250 BF points) or tomes (six boosters for 1,250) . Each booster contains one rare 
+ or ultra-rare card, which you can often sell to other players for enough points to buy a whole 
+ new booster. In short, the game starts you off with plenty of cards and points to keep you entertained 
+ for a long time, but if you want more, you can buy points at the rate of $6.62 for 500 or $26.56 
+ for 2,250. While you won't get free cards for beating missions, you will receive upgrades to improve 
+ the cards you already own, which will make your decks more powerful.  
+
+           Building a Better Werebeast: You can upgrade your cards to improve their attributes.  
+     
+
+  In contrast to the idyllic synergy among BattleForge's various gameplay elements is the dysfunctional 
+ relationship between gameplay and storyline. You'll find only the barest details of a story and 
+ minimal character development within the missions themselves, and in all likelihood you'll feel 
+ closer to your decks than to any of the game's non-player characters. Although the game has a thorough 
+ and lengthy story to explain why you're hovering over the battlefield throwing lightning bolts 
+ at giant purple crustaceans, it is primarily told through a virtual book, which you can either 
+ read or skip. Frustratingly, the book doesn't save your place between viewings, so you have to 
+ click through dozens of pages to get to sections that you haven't read yet. Here's the basic story: 
+ Many years ago, the gods made you a Skylord for your valiant contribution to their war against 
+ the giants. In the intervening years, you spent your time using the Forge of Creation to summon 
+ up fantastic creatures (and apparently playing cards with other Skylords) , but now you must use 
+ your powers to help humankind, because the gods have disappeared in their hour of need. However, 
+ you can simply choose to ignore humankind and challenge other Skylords to competitive matches until 
+ the end of time, if that's what makes you happy.     
+
+  Of course, tackling the story-driven campaign means that you must show mercy and help the humans, 
+ even though they can be rather incompetent allies and do annoying things like send out convoys 
+ before you are ready to escort them. The campaign consists of 19 unique missions, requiring varying 
+ numbers of players, from 1 to 12. Finding enough players for the big missions is usually pretty 
+ painless, but a few other aspects of the campaign can be troublesome, like dealing with teammates 
+ who take more than their share of the resources and racing the clock to complete timed objectives. 
+ The biggest problem with the campaign in BattleForge, though, is simply that it's over too quickly. 
+ And though you can lengthen the experience by playing most of the missions on standard, advanced, 
+ and expert difficulties, this option is a poor replacement for more content.  
+
+           Unsatisfied with the monstrosities in your deck? Buy new ones at the auction house.   
+    
+
+  Competitive multiplayer is a staple of RTS and card games, and BattleForge nails it. On 12 bare-bones 
+ maps designed for either one-vs.-one or two-vs.-two combat, you'll face opponents matched to your 
+ PVP experience level. While powerful cards can swing the advantage, these battles are essentially 
+ tests of skill, first in designing effective decks, second in tailoring your offensive strategy 
+ to fit your opponent, and third in choosing quick and effective counters for your enemy's attacks. 
+ Even though there is no fog of war and you can see everything on the battlefield, you'll never 
+ know exactly what your opponent is going to throw at you, since he can summon units anywhere he 
+ has a ground presence, including the middle of your base. As a result, it's important to always 
+ keep enough power on hand to summon an effective counter and, likewise, you should try to estimate 
+ when your opponent is low on power so you can ensure that his weak spot will stay weak. These are 
+ just a few of the tactical options that result from instant unit-summoning, which makes multiplayer 
+ battles exciting, fast-paced, and constantly evolving.  
+
+  BattleForge's community interaction is functional but unrefined. One example is the auction house, 
+ where you can buy and sell cards for BattleForge points. Although it's convenient to search for 
+ cards by color, orb level (1, 2, 3, or 4) , rarity, and type (unit, spell, or tower) , you can't 
+ sort the search results by price or time remaining. As well, searches return only the first 50 
+ results and display only five results at a time. Another feature that could be improved is the 
+ chat. Adding the ability to link cards into trade chat would not only make life easier for potential 
+ buyers and sellers, but would also help bridge the gap between BattleForge's American and European 
+ players by enabling easy trade communication among different language speakers.  
+
+  The environments in BattleForge at first bear a striking resemblance to the RTS classic Warcraft 
+ III, but the game quickly differentiates itself with a menagerie of creatures great and small. 
+ Werewolves, insects, skeletons, dragons, giant worms, and bulbous monstrosities represent only 
+ a few of the creatures at your disposal, and they give the game a larger-than-life aesthetic. Additionally, 
+ you'll notice fun visual flourishes, like how the flying frost battleship shoots confetti when 
+ you summon reinforcements and how the Fathom Lord does a shuffling lobster-man dance when inactive. 
+ The graphics and sound aren't groundbreaking, but the visual effects don't disappoint, the unit 
+ voice-acting is solid, and the score is beautifully orchestrated and dynamic.  
+
+           After beating this boss, the players still have some gigantic units on hand. Attack on 
+ Toyko, anyone?      
+
+  BattleForge is remarkable not only because its component genres are integrated together so well, 
+ or because it's unique, playable, and fun, but also because it can make an RTS fan enjoy a collectible 
+ card game. You'd do well to check it out if you're even remotely interested in either genre, and 
+ provided the player community sticks around there's no reason why you shouldn't still be enjoying 
+ BattleForge many months from now.     
+-------------------------------------------------
+:::User Reviews::: (5 Reviews)
+::::::
+UserName: magicquebec
+Rating: 10
+Date: Apr 14, 2009 11:52 am PT
+Review:  So far, i must say i'm really addicted to Battleforge, i'm not a huge PVP fan, for me PVP is not 
+ what i look for in a game, i really love coop multiplayer and Battleforge offers just that !
+  
+  Battleforge is like playing Warcraft 3, but instead of playing Orcs, you play.. what you want!
+ 
+  
+  You can use 20 cards in your deck, cards are: spells, units and building. So you make your own 
+ army with your own combination of units and spell, backed up by your some towers !
+  
+  The game is also going to improve a lot since they will be releasing expansions, so new maps, new 
+ cards, new units, new spells, new buildings.
+  
+  Sure all this makes the game very hard to balance some cards will not see play because theres just 
+ a superior version of it, but if you're fans of any TCG, you should know about that.
+  
+  And the real fun part of the game is trying to get all the upgrades you need for your deck, they 
+ are rewards for your victories in PVE and PVP. You can enhance some cards you own with a second 
+ copy of the card, this is the way to improve your favorite deck!
+  
+  Graphics are good, Music is great! Some minor bugs at release.. but hey !... how many patches did 
+ your favorite MMO gone through already? :P
+  
+  
+  There is some minor design flaws also, IMO they should improve the chat and trade system, but i'm 
+ sure they are working on something.
+  
+  I'm giving Battleforge a 10, it's not worth a 10, but i just want to improve it's rating, for me, 
+ a game i play and enjoy is a 10, a game i don't play is a 0.. simple as that, it's a yes or no 
+ question.
+  
+  So join now if you feel like playing something new! 
+::::::
+
+::::::
+UserName: kokonut1971
+Rating: 10
+Date: Apr 7, 2009 8:28 am PT
+Review:  Once in a while comes a game comes out that just sinks you in. Battleforge is one of those games.
+ 
+  It is everything magic the gathering should have been on a PC and more. Its game play mechanics 
+ are similar to magic but the concept is taken light years further by actually letting you play 
+ and see the actions of your card in real time in the game thru a RTS style of gameplay.
+  
+  The game is an hybrid of many games but it is done extremely well. It has the cartoony look of 
+ WOW and the game play of many RTS game with dazzling super special effects thrown in the mix. At 
+ first glance you will think that it is a game for kids but it is not entirely the case. If you 
+ get pass by the cartoony graphics you will see that it is based on magic the gathering which usually 
+ pleases different range of ages from kids to mature people but done better and much smarter.
+  
+  
+  Highest possible recommendation. Because of the idea and how it is done.
+  
+  
+  
+ 
+  
+  
+  Pros: 
+  
+  Fantastic graphics 
+  
+  Well designed UI
+  
+  Easy to play.
+  
+  Wide variety of units to play with as well as wide range of cards.
+  
+  Very in depth game with 
+ many intricate systems to help you play and have fun.
+  
+  Super visual effects.
+  
+  Highly addictive
+  
+  Good start up tutorial
+  
+  Highly detailed units and environments.
+ 
+  
+  Huge amounts of different video settings so that you can play on almost any machine.
+  
+  God rays!!!! 
+  
+  Cloud shadows!!!
+  
+  
+  
+  Cons: 
+  
+  Can become a money sink 
+ because you have to buy booster packs to have different parts of the game or units or spells. You 
+ do not have to buy and play with the basic cards that you receive with the game.
+  
+  Success of the game will depend on how committed the developers are in pushing updates to the game 
+ and providing cards and maps for the game or content.
+  
+  Price gauging might and will happen in auction house. ( see auctions )
+  
+  No single player 
+ campaign
+  
+  Have to be online to play.
+  
+  Matchmaking can be a pain.
+  
+::::::
+
+::::::
+UserName: allinchrist7
+Rating: 10
+Date: Mar 30, 2009 12:46 pm PT
+Review:  What is the deal with the critics? 6.7? Come on folks thats just unrealistic. They only thing that 
+ people have had a problem with in this game is the price/content ratio of the game, and the fact 
+ that you are required to spend actual money to buy extra virtual cards. Its not that big of a deal 
+ if you start off with ONE deck that you want to master and spend your points wisely. Dont just 
+ use all of your 3000 battlforge points on boosters. Buy cards that you want off the AH or from 
+ face to face trade. You can easily get a great deck without having to spend extra money. 
+  
+  On another note. The gameplay rocks. This game is innovative, extreemly fun, insanely addictive 
+ and certainly NOT worth passing up. I'm not critic in the general sense of the term, but Im a big 
+ fan of all types of video games. Rts games being a favored type, and if any of you are like me 
+ you know when a game sucks hardcore, when a game is decent, and when you play a game that keeps 
+ you ungodly addicted to the monitor hours after you promised yourself you would turn it off.. well 
+ this is that type of game.. It a great addition to the rts genre. 
+  
+  I have to say that i havent been very impressed lately with EA games but this has taken me totally 
+ by suprise. Great job on this one EA! The only thing that they didnt do well with this game was 
+ advertisement. I didnt even hear of the game until the day it came out. But maybe they wanted it 
+ that way to take us all by suprise.... who knows.... in any case, for what its worth, i recommend 
+ this game to anyone looking for some great online rts gameplay becuase this game WILL deliver that 
+ and much more . Hope you try it out. :) 
+::::::
+
+::::::
+UserName: Robertski
+Rating: 10
+Date: Mar 27, 2009 7:04 am PT
+Review:  If you have even a passing interest in games like Magic The Gathering and/or you are a fan of fantasy 
+ of RTS games, this game is for you. In a nutshell you initialy start the game with a couple dozen 
+ cards and 3000 Battleforge points. You trade these points for booster packs, each with 8 cards 
+ in each. So you have a total of 96 cards out of the current total of 200. You can buy more if you 
+ want, but to be honest its going to take you some time to get to know your cards.
+  The game play is really quiet simple, create a deck of 20 cards and then start a game, this can 
+ be PvE, PvP or my favourite Co-Op P v E. You use your cards to cast spells, summon creatures and 
+ buildings. Its all very simple to play but very hard to master. You need power points to cast your 
+ cards and Elemental shrines of the same colour as your deck. Then you kick the **ap out of each 
+ other using sneaky tactics and summoning better card tactics then you opponent. The Graphics are 
+ colourfull and in my opinion brilliant. 
+  
+  This game is so addictive and i absolutley love it!!! 
+::::::
+
+::::::
+UserName: candoitagain
+Rating: 7
+Date: Apr 14, 2009 3:44 pm PT
+Review:  PROS
+  
+  - Very nice art. A lot of varied, different monsters and spells.
+  - Great 3D graphics. The spell effects especially : Blizzard, meteor rain, etc all look great.
+ 
+  - A lot of variety in gameplay. You can swap decks and cards combinations for different strategies.
+ 
+  - You start with 64 cards and 3000 "points" you could use to buy another RANDOM 96 cards (60common, 
+ 24uncommon, and 12 rare to ultra rare) for a total of 160 starting cards.
+  - Decent (but regrettably short) PvE (player versus environment) campaign you can play solo or 
+ with your friends in 2, 4, and 12 players maps.
+  - Sucks you in. Gameplay is fresh and fun, and collecting cards and upgrading them can be addictive.
+ 
+  
+  CONS
+  
+  - Breaks the bank. 50-60$ for retail box, and you WILL feel the need to spend more money on cards.
+ 
+  - Flawed PvP. Balance issues mainly.
+  - Absence of AI for skirmishes. It is also not possible to play this game offline, not even the 
+ campaign.
+  - LEGION of technical problems, some of them very annoying.
+  
+  GAMEPLAY
+  
+  Gameplay reminds you of an RTS, but instead of having to harvest gold and make unit-producing buildings. 
+ You will secure "magic orbs" and "energy generators" that will let you cast the "cards" like you 
+ would cast a spell using mana. Cards can be monsters, buildings (like towers) , or spells. Most 
+ spells are damage oriented, but there are others like freeze, heal, frenzy, teleport, and so on.
+ 
+  
+  The more energy generators you secure, the more energy (and thus troops) you can bring to the battlefield, 
+ and the more "orbs" you secure the more advanced cards you can cast. Orbs are the equivalent of 
+ tech levels in any RTS game. And once you hit around 4 orbs, you can cast the most advanced cards 
+ like Dragons and Titans which are the equivalent of your own mini bosses.
+  
+  I thought the system was very interesting, as it is more aggressive and instant than any RTS. You 
+ can cast cards and units right on the battlefield instead of having to produce them at your base 
+ and transport them. The spells also give you more control (as a player) on the battlefield, since 
+ you can do as much with them if not more than your units. If you want a huge army, you can. If 
+ you want a small army and blast your way using fireballs and blizzard storms, you can too. If I 
+ had to rate this on the gameplay only, it would get at least a 8.5/10.
+  
+  The problem with BattleForge is not the gameplay, but actually where you get to use it. 
+  
+ 
+  CAMPAIGN - story mode
+  
+  You can play the campaign solo or with allies (on 2, 4 or 12 player maps) to accomplish bigger 
+ missions with different card rewards too. There are 15 maps (some solo others coop) which represent 
+ around a full day worth of play in the standard difficulty level. Around 12 hours worth of gameplay. 
+ 
+  
+  The same 15 maps are available on advanced and expert difficulty, and 3 new maps are only available 
+ on those advanced difficulty levels bringing the total number of different missions to 18. Expect 
+ to spend another 20 hours to finish advanced. Expert difficulty will need a lot of time and possibly 
+ money as a lot of expert maps are not finishable without having some specific rare or expensive 
+ cards.
+  
+  From my experience the campaign missions are decent in that they are challenging, and let you win 
+ card upgrades. But once you finish the missions, and/or reach the PvE level cap, all you are left 
+ with is the flawed PvP. 
+  
+  PVP
+  
+  A couple of PvP matches make you realize that the system is far from complete or well rounded. 
+ There are quite a few balances issues, the matches right now are just a quick race to secure resources 
+ and use the few known most powerful cards and combinations. The first one to secure the most resources 
+ and has the right deck with the hardly stoppable cards wins, and so you can generally guess the 
+ winner only a few minutes into the game. 
+  
+  There is little diversity of strategy or tactics you can see in similarly competitive multiplayer 
+ games, and a lot of work has to be done to balance things out and make more tactics viable. Most 
+ other players I spoke to feel the same way, and definitely think that buying the game for PvP is 
+ a waste as it gets tedious pretty fast. Having to buy cards on the long term with cash to stay 
+ competitive does not help either.
+  
+  As stated earlier, PvP is plagued with bad balance, bad matching system, and the potential to run 
+ into players who have far more advanced decks because they bought additional cards. This makes 
+ PvP the weakest aspect of BattleForge... Which is a big problem seeing as PvP is where the long 
+ term appeal of BattleForge is supposed to be. It is the most important aspect of the game, yet 
+ it is where the game falls on its face.
+  
+  This review takes into account casual to normal gamers. Please note that PvP could be interesting 
+ for players dedicated to the game on the long run, who will buy all the rarest cards in order to 
+ stay competitive and be able to counter most strategies. Games between players who have all the 
+ cards they need or want are still interesting, since that is where skill starts to show and make 
+ the difference in determining the winner. But most players will not spend that kind of cash (40$+) 
+ or hundreds of hours trading to get to that stage and stay there.
+  
+  GAME COST, MICRO TRANSACTIONS, AND THE "EA" EFFECT
+  
+  Reading the official forums, you can 
+ see that barely 2 weeks after game launch, some people have already spent up to 200$ on boosters. 
+ Most will agree that spending an extra 40$ is a minimum.
+  
+  This game can be expensive for dedicated and even not so dedicated players. To buy additional cards, 
+ you have to pay real money. Around 20$ for 2000 BF points, which represent around 64 random new 
+ cards (40common, 16uncommon, 8 rare to ultra rare) . Future updates will constantly add new cards, 
+ forcing players who want to stay competitive to keep spending cash on a regular basis to get the 
+ new cards.
+  
+  There is no way to win cards or BF points in game (BF points are the ones you use to buy new cards) . 
+ And EA has done its homework to ensure you can't make money or BF points in the game in any way 
+ other that paying them directly for it. For example you can get upgrades from playing missions 
+ or PvP, but you can't exchange or sell those upgrades for BF points with other players. Auction 
+ house is currently extremely slow, and it can take up to 30 seconds for each click to validate 
+ (bidding, posting an auction, browsing cards, etc) . Everything is done to force players to spend 
+ real cash, and all alternatives are neutralised. (This is an EA game all right!) 
+  
+  You can in theory make a decent deck without buying boosters. But both trading cards and selling/buying 
+ (interface is poorly made, and again the auction house is EXTREMELY laggy) are both tedious and 
+ time consuming. I took this approach personally and I was able to make a decent deck (two colors) 
+ from trading, but I had to spend as much time if not more chatting and monitoring the auction house 
+ than actually playing.
+  
+  Also worthy of mention is the fact that you don't own your cards. You have no right to sell them 
+ for real money for example, even if you do buy them with real money in the first place. Which means 
+ if you spend a lot of time and energy (and cash) on this game, and decide one day to quit and get 
+ some of your investment back on ebay like with MTG and other similar card collector games... well, 
+ you can't. EA is also being very aggressive against people trying to sell cards or accounts, so 
+ don't even think of it.
+  
+  QUALITY OF THE GAME
+  
+  Currently, 3 weeks after launch there are still numerous grave technical issues plaguing the game. 
+ Crash issues, some bugs with objectives that makes maps unfinishable sometimes, random and frequent 
+ disconnects problems, and a mysterious 10-15 seconds game freezes even on high speed, high performance 
+ systems. Suffice to say that the technical support official forum is extremely active and some 
+ players are very frustrated and angry at this game.
+  
+  The disconnect and freeze problems are especially annoying. Most maps are cooperative and need 
+ multiple players, and it can take up to 20-30 minutes to find enough players for the 12 player 
+ maps (especially in the more advanced difficulty levels) . And so it is very frustrating to players 
+ when the game finally starts and people disconnect and drop out of the game, or when they finish 
+ an especially long and hard mission but they do not get victory or reward because of an objective-stopping 
+ bug.
+  
+  BOTTOM LINE
+  
+  A mix between RTS and card collector games, BattleForge should in theory appeal to a wide audience. 
+ But a series of shortcomings insure that it has something to displease everyone. RTS fans looking 
+ for competitive multiplayer will find a broken PvP and most will dislike having to buy cards to 
+ stay competitive. Card collectors will dislike not owning the cards even if they pay cash for it. 
+ And players just looking for a great solo campaign will be turned away by the little bang for the 
+ buck it offers, the game being too short and overpriced just for that aspect.
+  
+  WORTH BUYING?
+  
+  Last but not least, there is the price which probably will be the deciding 
+ factor for many of us. Will a semi-decent campaign, some new game mechanics, and a few hours of 
+ broken PvP really be worth 50-60$ if not a lot more?
+  
+  Let me see what I could get right now at 50$... Dawn of war II (great tactical campaign, sound 
+ RTS multiplayer) , Empire Total war (amazing value) , Left 4 Dead, Call of duty, Fallout 3. Even 
+ a few great deals on Steam : Mass effect at 19$, Zeno clash 14$, Drakensang at 29$, Far Cry II 
+ 29$, and so many more.
+  
+  For me personally, this game is interesting, but it is certainly not worth 50$. There are just 
+ too many better investments out there.
+  
+  Unless you are really a BIG fan of cards collecting games and have the patience to wait for PvP 
+ balancing that might or might not happen (this is EA we are talking about after all) , my advice 
+ is to wait a few months for this game to hit the bargain bin. (Giving time to the developers to 
+ fix the legion of technical problems would not hurt either.)
+  
+  The game is overpriced right now at 50$, especially considering all the technical problems. But 
+ at around 20-30$ it would be worth checking out as the innovative gameplay is still interesting 
+ to experience.
+  
+  EDIT : I finally found my cheap copy of this game on Ebay for 20$. I was able to play it more in 
+ depth (clocking an additional 60+ hours of gameplay) and I updated this review accordingly. I still 
+ think this game is not worth 50$, especially considering all the technical problems. So try to 
+ grab a cheap copy from somewhere. 
+::::::
+
+-------------------------------------------------

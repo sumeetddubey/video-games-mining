@@ -1,0 +1,152 @@
+-------------------------------------------------
+:::Game Name::: Force 21
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/force21/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug 19, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.7
+Critic Score: 6.6, 18 Review (s)
+User Score: 7.2, 33 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Red Storm Entertainment
+Genre: Strategy
+Date:     Jul 31, 1999
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Force 21 isn't a realistic wargame depicted in lifelike 3D, but rather just a game about war.
+
+ Unless you're seriously into modern conventional warfare and are hungry for a 3D strategy game depicting 
+ it, you may not immediately warm up to Red Storm's Force 21. The game doesn't make the best first 
+ impression, thanks to its horrendous unit pathfinding and formation AI, confusing missions, and 
+ generally frustrating gameplay. However, if you stick with it long enough and learn to live with 
+ its quirks, Force 21 can grow on you. If nothing else, it's a decent real-time strategy game that 
+ doesn't force you to build a barracks.  
+
+ The game begins in 2015 when the Chinese, having grown bold and restless after decades of economic 
+ growth, invade Kazakhstan. The United States and Russia move in to help the Kazakhs, and a computer 
+ game ensues, complete with a dramatic intro movie explaining how everything came to pass. You can 
+ attempt the single-player campaign as either a United States or Chinese commander, and although 
+ each side gets a slightly different campaign to play, all the missions are 100-percent scripted 
+ and linear, which proves extremely disappointing. Unit losses have no impact on the game beyond 
+ that particular mission, and if you lose a mission, you have to keep trying it until you win. Similarly, 
+ if you win a mission, but lose almost every unit in the process, that's OK: You'll get a fresh 
+ supply for the next mission.  
+
+ In case you haven't guessed by now, Force 21 isn't a realistic wargame depicted in lifelike 3D, 
+ but rather just a game about war. It's action-oriented real-time strategy involving realistic units, 
+ like Bungie's Myth with T-72 tanks and Apache attack choppers. You don't build any bases, and there 
+ is no resource management - you simply take command of a fresh group of units for each mission 
+ and do your best to accomplish the objectives. What's more, your mission objectives tend to boil 
+ down to just having to kill everything. The only way to win most scenarios is to eliminate every 
+ single enemy unit on the map. No capturing key installations or choke points or anything of the 
+ sort.  
+
+ As you fight, you'll find that your platoon leaders are the sole incentive for minding the health 
+ of your troops. If a platoon is wiped out, you lose that platoon's leader, which can affect your 
+ chances for success down the road. These leaders, who recall the operatives in Rainbow Six, each 
+ have a specialty and are individually rated for movement speed, combat skill, and enemy detection. 
+ The better the leader, the more effective a platoon will be. So just as you don't ever want to 
+ lose Chavez in Rainbow Six, you need to keep your best leaders alive in Force 21 in order to succeed. 
+ The game can be won using the no-name default platoon leaders, but it's easier when you have better 
+ guys in those roles. Interestingly, there are no female platoon leaders in the game; you'd think 
+ the battlefield of 2015 would be more progressive than that, especially since several of the operatives 
+ in Rainbow Six were women.  
+
+ Although Force 21's gameplay is essentially similar to Myth's, the overall quality of the game is 
+ not. For each mission, you typically command a group of five or six platoons. For the United States, 
+ these can include groups of Bradley fighting vehicles, M1A3 tanks, and even Apaches and bridge-laying 
+ units. Chinese and Russian forces (the latter being routinely attached to the United States commander's 
+ group) offer equivalent hardware. You move and direct the fire of your platoons by selecting them 
+ and clicking on a destination or target. You can order waypoint movement on the game's strategic 
+ map, but your unit begins moving before you assign all the waypoints, and that's a problem when 
+ you're trying to coordinate the movement of numerous platoons. It would have been better if you 
+ could assign a complete set of waypoints and then issue the move command.  
+
+ Movement and unit formations (there are four: line, wedge, reverse wedge, column) are hampered by 
+ the game's inadequate pathfinding and self-defense AI. Not only do platoons routinely spin in circles 
+ when you issue a movement command that takes them near an obstacle, but they also line up in their 
+ formations in a slipshod, unrealistic fashion. For example, if you order a platoon of tanks to 
+ face a new direction, they will typically turn only their turrets, oftentimes leaving their rear 
+ and sides exposed to direct enemy fire. This flies directly in the face of real-world doctrine, 
+ as main battle tanks tend to be very heavily armored in the front and not very heavily armored 
+ elsewhere. Also, even though the game's 3D engine depicts nicely rendered scenery complete with 
+ small forests, you can't move through or even near these trees, since your units tend to stay as 
+ far away from obstacles as possible. If you try to move in a line formation too close to a copse 
+ of trees, your formation will crumble into a messy column. And no, it will not reform once the 
+ obstacle is left behind.  
+
+ Another problem: Unlike Myth, which plops those helpful little yellow and red destination markers 
+ on the map when you order units to move, Force 21 gives no visual cue for where your units are 
+ headed. This makes it difficult to move units efficiently, especially when they tend to stop 50 
+ to 100 feet from the spot you thought you had clicked. Fine-tuning a defensive position is a nightmare 
+ in this game, as there is no simple move-forward/move-back command (which any fan of the original 
+ M1 Tank Platoon learned to love) .  
+
+ And even when you think you have the movement system mastered, you had better pray that your platoons 
+ don't move near or past any enemy units. Though your units will return fire when attacked, they 
+ will also continue moving to their destination. Again, this leads to disastrous results, as they 
+ will move past an enemy, exposing themselves to attack from the rear without the ability to return 
+ fire. You'd expect a real-world platoon would stop or at least maneuver itself into some sort of 
+ defensive footing if it runs smack into an enemy. Expecting the game to at least turn the platoon 
+ to face the enemy until one side or the other is dispatched seems reasonable enough. After all, 
+ what good are those platoon leaders if you have to micromanage every single engagement?  
+
+ Of course, such surprise encounters would not occur so frequently if the game provided decent mission 
+ briefings. Not only are the briefings generally inaccurate, but they also lack any useful intelligence 
+ data whatsoever. At the beginning of the game, this is masked by the fact that both sides have 
+ limited intelligence on the enemy's movements and unit strengths. But later, when you're told in 
+ a briefing that satellite photos indicate a large group of Chinese armor to the south, I bet you'd 
+ like to know where those damn photos were taken and where you can expect to meet this imposing 
+ force.  
+
+ Instead, you can expect vague and even confusing directions pretty much every time. For example, 
+ on one mission you are instructed to escort a personnel carrier to the southern highway. You then 
+ begin the mission in the southeast corner of the map, and your goal, as you'll discover after much 
+ wandering, is in fact to move west. Even worse, the second United States mission in the campaign 
+ is introduced as a defensive stand in which you must seek out good defensive positions and repel 
+ the Chinese onslaught, but only a single Chinese vehicle comes toward you. As for the rest, they 
+ are all stationary and scattered all over the map, so instead of a defensive scenario you must 
+ undertake a blind search-and-destroy effort in order to win. Yet another mission challenges you 
+ to reach and defend the northernmost sector of the map and prevent Chinese forces from moving into 
+ and through it. Why, then, do the Chinese begin this mission with two heavy tank platoons in that 
+ very sector? It's not as though the game is horribly difficult, it's just that it's tougher than 
+ it should be because you are not given adequate or even accurate information to work with.  
+
+ Incidentally, the game offers no difficulty setting, which is surprising since Rainbow Six had 
+ three difficulty levels (a fact that certainly contributed to its broad appeal both to casual and 
+ hard-core gamers) . Force 21 does include a mission editor, however, and it is pretty powerful. 
+ The editor is unsupported and isn't easy to use, but you can do an awful lot with it. The game 
+ also includes a decent multiplayer component for up to four players over LAN and Internet. You 
+ can also play the game over MSN Gaming Zone and Mplayer.  
+
+ Force 21 is not a bad game, but it can be extremely frustrating. Other problems, such as the highly 
+ unintuitive unit-facing control, are apparent, but the poor mission briefings and the mindless 
+ pathfinding AI are the two biggest flaws in a game that could have been much, much better.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: hitmandes
+Rating: 6.5
+Date: Jan 19, 2007 4:30 pm PT
+Review:  Controlling the large number of platoons in later end is a real problem, especially with the AI 
+ pathfinding is a major headache. One will often find vehicle being stuck in a mess at a junction. 
+ In fact it maybe even easier for a player to control his forces on the straegtic view rather than 
+ from the tactical view which could be very disorientating to an unfamliar player. The array of 
+ vehicle is interesting, the vulnerability of the vehicle often shock me, most of the vehicle in 
+ the game will easily be destroy within a hit or two by an opposing force. Therefore, the trick 
+ is hardly to attack your enemy from an angle, preferable for the side or back, where there is a 
+ relative lack of returning firepower from your enemy. 
+::::::
+
+-------------------------------------------------

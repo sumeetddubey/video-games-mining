@@ -1,0 +1,142 @@
+-------------------------------------------------
+:::Game Name::: Age of Sail II: Privateer's Bounty
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/ageofsail2privateersbounty/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug 22, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.7
+Critic Score: 7.1, 6 Review (s)
+User Score: 6.7, 65 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Global Star Software
+Developer: Akella
+Genre: Historic Real-Time...
+Date:     Aug 13, 2002
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+It's the game that Age of Sail II should have been. 
+
+ Russian development house Akella's first attempt at creating a sequel to TalonSoft's venerable Age 
+ of Sail managed to bring that ancient title out of the wargame ghetto while simultaneously giving 
+ it so many bugs that the release version was essentially unplayable. Privateer's Bounty was originally 
+ going to be an expansion pack for Age of Sail II, but it has instead been released as a stand-alone 
+ game that could probably just as easily be called Age of Sail 2.5. Whatever fancy Napoleonic-era 
+ name you give it, it's essentially a "fixed" version of Age of Sail II, with a slightly improved 
+ interface, tweaked game mechanics, new campaigns, and almost no bugs. It's the game that Age of 
+ Sail II should have been. For those of you who already bought Age of Sail II, you get to buy it 
+ again. Fortunately, it's worth it.           Sinking ships are nicely done, and show good battle 
+ damage.    
+
+  Privateer's Bounty covers the same ground that Age of Sail II did, which is to say that it's a 
+ pausable real-time strategy game covering naval combat during the golden age of 18th- and 19th-century 
+ naval combat from roughly the American Revolutionary War to the wars of Napoleon Bonaparte. Ships 
+ are represented by beautiful 3D models that display details down to the current state of your sails 
+ (furled, battle, or full) , depict battle damage like fallen masts, torn sails, and fires, and even 
+ show individual crewmen on the decks -- although this last effect makes it look like the ships are 
+ full of spinning children's tops and could have been left out. Otherwise, the presentation does 
+ a wonderful job of creating an atmosphere of preindustrial warfare, along with some really neat 
+ weather effects. Amazingly, this engine runs decently even on midrange computers, unless you try 
+ to play one of the really big scenarios.   
+
+  The authentic 19th-century atmosphere that the expansion's great graphics create is broken only 
+ by the sound, which is functional enough when it comes to sound effects like explosions and breaking 
+ masts but completely over the top with its order acknowledgements. In large scenarios like Trafalgar, 
+ the proliferation of voice alerts can turn the game into an audio parody of a sea battle. Turning 
+ speech off in this case is highly recommended.   
+
+  True to the form established by the 6-year-old original, the gameplay is of a similarly high quality. 
+ Despite the real-time engine, constant, fast clicking and scrolling are the antithesis of good 
+ play. One of the brilliant things about the Age of Sail series is how tense the games are, and 
+ this tension is inversely proportional to the speed of the game. In small-to-medium-sized battles, 
+ you'll often find yourself watching a particular ship, trying to anticipate an enemy move while 
+ simultaneously trying maximize your rate of turn, your speed, or some combination of the two. Because 
+ firing arcs are highlighted in blue, you can immediately tell whether a ship is vulnerable to your 
+ cannons, or whether you're about to be subjected to a broadside yourself. Because of the long time 
+ it takes to reload some types of weapons, tension can build to truly gut-wrenching levels when 
+ you're trying to keep a ship in your firing arc long enough to deliver the broadside of double 
+ shot you're preparing, or as you watch your ship try to outturn an enemy that has you outgunned. 
+ In situations like this, you sometimes wish the game would move even more slowly so you could pick 
+ the exact moment to make a course change. Just like its predecessors, the game does a nice job 
+ of incorporating damage to the rigging, hull, and crew and modeling the effects of round shot, 
+ chain shot, grape shot, and double shot. The damage model seems to have been adjusted to provide 
+ more realistic results, and the simulation aspect is quite satisfying. Privateer's Bounty demonstrates 
+ that historical accuracy does not require a compromise in visual quality.   
+
+  In small battles, the game is all about precise seamanship. In large battles like Trafalgar, the 
+ focus changes to fleet management -- and again, Privateer's Bounty delivers, mostly because the completely 
+ broken fleet formations from the original Age of Sail II have finally been fixed. If you tell a 
+ line of ships to move somewhere, they actually do it. In the previous game, replicating Nelson's 
+ famous double-line strategy was impossible, because the mechanisms for grouping and ordering two 
+ different formations just didn't work. Now, you can reliably give your hotkeyed groups individual 
+ orders and be confident that they'll carry them out, although the need to issue new waypoints in 
+ order to change ship spacing is inconvenient. In addition, some battles can end prematurely when 
+ the game mysteriously tells you that your victory conditions have been met, even when they haven't. 
+           Good weather and fire effects make a great graphics engine even better.    
+
+  This kind of annoyance is repeated over and over in little oversights that are forgivable individually, 
+ but add up to a distinct lack of polish. Ships can be set to fire automatically (which is indispensable 
+ in large battles) , but there is no way to direct them to ignore forts or towns, so in actions with 
+ a land component, you'll find yourself having to keep your ships on manual fire to avoid wasting 
+ broadsides on land batteries. You also can't set automatic fire for one broadside while controlling 
+ the other one manually, which, when combined with the ability to only reload one broadside at a 
+ time, can lead to premature discharge and an uncomfortable wait for a reload.    
+
+ The notoriously bad AI of the previous game has been replaced by a functional computer opponent 
+ that acquits itself well in battles on the open sea. But when land is introduced, a number of problems 
+ show up, such as ships running themselves aground, which gives the graphics engine a chance to 
+ show off its clipping prowess. Fortunately, Age of Sail II is outstanding in multiplayer, with 
+ a small but fanatical following, despite the fact that the game currently doesn't work with third-party 
+ multiplayer clients. If it eventually does, multiplayer Privateer's Bounty will be the ultimate 
+ way to take advantage of what is the best real-time naval combat system available on a computer. 
+           When land is involved, the AI can demonstrate numerous failings, like shooting its own 
+ ships while aground and stuck in a mountain.    
+
+  Having gotten the strategy part down so well, Akella unfortunately couldn't seem to resist the 
+ urge to try to inject some role-playing into what is otherwise a perfectly good wargame. It's as 
+ though the developer thought that, since it created the pirate-themed role-playing game Sea Dogs, 
+ it would have to keep forcing you to pretend you're a pirate. The campaigns all feature multiple-page 
+ mission briefings full of inane text that tries to create an atmosphere of swashbuckling adventure 
+ but ends up sounding like a fantasy novel that substitutes pirates for elves instead. The real 
+ problem is that some of the briefings fail to adequately define your objectives, so you'll end 
+ up playing certain missions over and over until you figure out what all that high-seas fiction 
+ was trying to say. The premise is sound -- win battles, capture ships and refit them, buy more ships, 
+ fight new battles. The execution is less so, especially because the campaigns all incorporate some 
+ version of the "puzzle mission," which often involves land and thus triggers the awful AI. Privateer's 
+ Bounty incorporates some new units like submarines, fire ships, paddleboats, bomb vessels, and 
+ even balloons, but other than when they're brought to the forefront by scripted scenarios, they're 
+ generally ancillary units. Even worse, the scripts can't even keep their stories straight -- while 
+ there are supposed to be separate campaigns for the English, French, and Americans, the French 
+ campaign briefing text clearly states that you're in the British "Special Boat Service." And you 
+ go  fight  the French.           Based on this description, who is the elf?    
+
+  Despite the fact that this is really a "fix 'em up" update of a previous game, Privateer's Bounty 
+ still has some bugs. For example, ships on automatic fire are not supposed to shoot when friendly 
+ ships are blocking them, but they do anyway (with painful consequences) . Possibly the most irritating 
+ bug, however, is the inability to load campaign games that were saved in mid-mission. Doing so 
+ causes a crash to the desktop with the same "internal program error" dialogue box that appeared 
+ in the original Age of Sail II but was finally fixed with patch 1.56. It now makes a reappearance. 
+ This means that campaign games can be only played from the beginning of a mission. This makes little 
+ difference in some missions, but in the aforementioned puzzle missions, it can get quite frustrating. 
+ Furthermore, some of the scripted events that are supposed to take place in some missions fail 
+ to come about.   
+
+  Despite these problems, Privateer's Bounty is a strategy game that offers something for anyone 
+ interested in commanding a fleet -- except perhaps fans of role-playing a pirate. Since Age of Sail 
+ II is so appealing in multiplayer, it makes sense for fans of the game to buy the latest version, 
+ especially since it features improvements that make for a markedly better game. For everyone else, 
+ thanks to this update, you can now go to the store and buy an excellent strategy game about the 
+ age of fighting sail that generally works right out of the box. It's definitely worth it.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

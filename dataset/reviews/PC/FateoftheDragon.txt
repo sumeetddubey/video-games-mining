@@ -1,0 +1,279 @@
+-------------------------------------------------
+:::Game Name::: Fate of the Dragon
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/fateofthedragon/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Apr  3, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.4
+Critic Score: 7.1, 25 Review (s)
+User Score: 7.9, 158 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Eidos Interactive
+Developer: Object
+Genre: Real-Time Strategy
+Date:     Mar 14, 2001 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Unless the historical Chinese context interests you, you'll find that Fate of the Dragon is just 
+ another real-time strategy game with nothing really outstanding to recommend it. 
+
+ In the early '90s, when turn-based strategy games were more popular, a Japanese developer called 
+ Koei was well known for creating complex turn-based strategy games based on the epic Chinese work 
+ of literature,  Romance of the Three Kingdoms , which detailed a key historical period in China, 
+ nearly two millennia ago. However, as real-time strategy games became more prominent, the popularity 
+ of Koei's Three Kingdoms games waned, and with it, so did interest in games based on the political 
+ intrigue and heroic warfare of that particular setting. It's taken a while, but at last a developer 
+ has revisited Three Kingdoms' themes and settings to make a real-time strategy game. The result 
+ is Eidos and Overmax's Fate of the Dragon, a game that's reminiscent of Microsoft and Ensemble's 
+ Age of Empires II but set during Three Kingdoms' historical period.           The buildings are 
+ depicted to relatively accurate scale with the units    
+
+ The Three Kingdoms period in China began around A. D. 220 when the Han Dynasty fell into ruin, giving 
+ rise to a short but tumultuous period of warring kingdoms. After much fighting, the dozens of warlords 
+ vying for power settled into three kingdoms: Shu, Wei, and Wu, led by the warlords Liu Bei, Cao 
+ Cao, and Sun Quan, respectively. Although this time period lasted less than one hundred years, 
+ it was so charged with chivalry and epic conflict that it remains the most celebrated era in Chinese 
+ history.   
+
+  Fate of the Dragon lets you play as any of the three warlords. In each of the three campaigns, 
+ you control one of the warlord's armies and invariably end up fighting your two rivals, as well 
+ as minor warlords and rebels. While the setting itself is rich with history, characters, and intrigue, 
+ it only comes across in the scrolling text briefings and the bios of the various heroes you can 
+ recruit in the game. There is so much to digest in the briefings that it is easy to become overwhelmed 
+ by all the names and events -- and thus easy to ignore or miss the historical background. This is 
+ a shame because it's the setting that gives this game its distinct appeal. A far better place to 
+ inject the history lessons would have been in the game itself, with in-engine cutscenes and voice-overs, 
+ but these are rare and even then aren't very well executed. The inconsistent voice acting is also 
+ disappointing -- at times, it's annoying and too over the top. The missions themselves during the 
+ campaigns are very straightforward for the most part. They mostly boil down to attacking a city 
+ or killing a warlord. The computer opponent in the single-player game also doesn't appear to be 
+ that creative, as it attacks with mostly frontal assaults.   
+
+  The game supports multiplayer combat for up to eight players, as well as a skirmish mode against 
+ the computer, though there is no random map feature. The maps also get monotonous and have little 
+ variety because there's only one uniform look to all the maps. The graphics bear a passing resemblance 
+ to those of Age of Empires II, with one noticeable difference. The buildings are huge in relation 
+ to the units (even bigger than in Age of Empires II) , and they convey an even more convincing sense 
+ of scale. Otherwise, the 2D graphics are adequate, if a bit familiar, despite the Chinese buildings 
+ and units.           Your hero units are good in combat, and also have politcal power    
+
+ Beyond the graphics and the basic game design, Fate of the Dragon makes a few departures from real-time 
+ strategy conventions. For one thing, the two gameplay styles of combat and city management are 
+ clearly delineated and distinct. The game has two map layers: the city level and the territory 
+ level. In the bottom left corner of the screen is the minimap for your city, and in the bottom 
+ right corner of the screen is the minimap for the territory level, where your city and opposing 
+ warlords' cities lie. You can readily switch back and forth between the two. Inside your city view, 
+ you do the same sort of base building as you do in any typical real-time strategy game. After you 
+ amass your army, you have to send it out across the territory map to find neutral settlements and 
+ enemy cities, which are represented on the territory map as great castles. Battles can take place 
+ on the territory map, but invariably, you'll enter your enemy's city level and try to storm his 
+ walls and lay waste to his buildings.   
+
+  Combat itself is incredibly simple and at times dull. There are only three types of troops to build 
+ in the game: pikemen, swordsmen, and archers. You can upgrade them and make them stronger, but 
+ throughout the game, these are the only troop types you can command. There are more siege engines 
+ than troop types, and they include catapults, a ballista, a portable ladder for scaling walls, 
+ a kite that can fly troops over walls, and a supply wagon that keeps your troops healthy when they 
+ are outside your own city walls. Horses do add a little more complexity to combat. You can create 
+ them at stables and mount your troops and generals on them. Those units then gain a speed bonus 
+ but are otherwise the same, except that when the mounted unit loses its hit points, its mount dies 
+ instead of the mounted unit itself. Horses thus effectively double the unit's hit points. But otherwise, 
+ fights in Fate of the Dragon always come down to mobs of troops hacking at each other. There are 
+ no formation options in the game to lend any order to the combat.    
+
+ It isn't the actual tactics of combat that are different in Fate of the Dragon -- it's the logistics. 
+ Essentially, you need to keep your army constantly supplied. While in your own city, your troops 
+ automatically heal their hit points and strength by consuming food and wine. But when you are in 
+ the territory map or in an enemy city, your troops will not heal or regain strength until they 
+ can rest in a deployed supply wagon, which when deployed turns into a camp. Supply wagons carry 
+ only a small amount of food and wine, so for prolonged sieges, you must have laborers and horses 
+ carry food and wine back and forth between your hometown and your frontline camps. However, you 
+ aren't hamstrung by the supply factor. You can still win through mass attacks -- but the clever commander 
+ who takes advantage of supply to pull back his wounded and replenish his armies will come out ahead. 
+           You can research new combat and trade technology    
+
+ The game's most interesting feature is actually its city management. As in most real-time strategy 
+ games, you have to harvest various resources to construct buildings and buy units and upgrades. 
+ However, some raw materials must also be turned into finished goods. You get timber and iron by 
+ sending out workers to gather them, but corn and meat are harvested at farms. Once you build a 
+ farm, you send laborers inside and task them as farmers or pig raisers. Farmers then automatically 
+ plant fields, while pig raisers create pig farms. Workshops are then used to convert these into 
+ wine and food. Thankfully, this process is all automated. Gold is the final resource and is gathered 
+ through taxation, not by laborers.   
+
+  Every minute or so in the game, you automatically gain gold from the people. The number of laborers 
+ and soldiers you have actually has no relationship to the city population, which continues to grow 
+ at a regular pace throughout the game. The rate of taxation can be adjusted to get you more gold 
+ from your people, but doing so has consequences. If you tax the people too much, their morale will 
+ drop, which may result in an exodus of your city or even a riot.   
+
+  Like SimCity, Fate of the Dragon has natural disasters, which include plagues, droughts, locusts, 
+ earthquakes, and banditry. These disasters have both direct and indirect consequences, like destroying 
+ actual buildings and depleting resources or decreasing city morale. You can give relief to your 
+ people in the form of gold and corn, or you can make sacrifices at the temple, which then ameliorate 
+ the effects of the disasters. Sacrifices are another of the more distinctive features in Fate of 
+ the Dragon: You can build temples and make sacrifices to the gods, thus gaining special bonuses 
+ for brief periods. Other types of sacrifices can double production, heal the hit points of all 
+ your troops in the game, increase food production, and more. However, to access these more powerful 
+ benefits, you need to create a sacrifice officer.   
+
+  Creating officers highlights another aspect of gameplay: heroes. No Three Kingdoms game would be 
+ complete without a strong emphasis on the heroes of the time. Thus, in Fate of the Dragon, you 
+ can recruit various famous generals for your cause. In combat, they act as elite troops and gain 
+ more hit points, attack power, and special abilities, like the use of healing and defense spells 
+ as they kill units and earn experience. And when they're not in combat, they can be appointed to 
+ official positions. Much of the late-game abilities available in Fate of the Dragon can be accessed 
+ only when you have the four various officers: science officer, public security officer, sacrifice 
+ officer, and public affairs officer. For instance, to research the highest upgrades and siege engines, 
+ you need to have a science officer. To keep your population stable and in line, you need to have 
+ a public security officer. And to make diplomatic treaties with other warlords, you need a public 
+ affairs officer. Heroes are important, but you have to keep their loyalty in check by rewarding 
+ them. Each hero has a loyalty meter that can only be kept at 100 percent by giving them honorific 
+ titles or money.           There are many resources and goods you'll need to keep track of    
+
+ 
+ Fate of the Dragon stands out from other real-time strategy games with its greater emphasis on 
+ its strategic layer. The added complexity in the resource gathering is interesting without being 
+ overwhelming. The supply needs add an extra consideration to the combat. And the disasters, sacrifices, 
+ and heroes are also interesting. However, the game still has its fair share of problems. The tactical 
+ gameplay is pretty shallow, and despite the strategic considerations, most battles will devolve 
+ into mob fights, as in many other real-time strategy games. Moreover, Fate of the Dragon does a 
+ poor job of explaining some of the less obvious aspects of its gameplay. For instance, there is 
+ no explanation in the manual, tutorial, or help files as to exactly how much food or wine each 
+ unit consumes. While the tutorial does a fairly good job of teaching you the basics, it doesn't 
+ go into how to appoint officers, exactly how to replenish troops when they're out of supply, and 
+ so forth. You will definitely need to read the manual to get into Fate of the Dragon, and even 
+ then, some questions will be left unanswered.   
+
+  Ultimately, unless the historical Chinese context interests you, you'll find that Fate of the Dragon 
+ is just another real-time strategy game with a few original features, but with nothing really outstanding 
+ to recommend it. However, if you're interested in the old Romance of the Three Kingdoms games or 
+ the time period itself, you'll likely enjoy the game -- mostly because it's one of the few of its 
+ kind.    
+-------------------------------------------------
+:::User Reviews::: (4 Reviews)
+::::::
+UserName: winterwolfx
+Rating: 8.5
+Date: Nov 14, 2008 4:37 am PT
+Review:  "Open your eyes and you will see." (somebody very wise)
+  
+  That is what i thought when i saw and read the reviews. You can't compare FotD to Command and Conquer. 
+ This is the second time i have to say that (because i'm new here, if i were old you'd be seen more 
+ of this) .
+  
+  Don't! Don't be angry with me. I'm not doing this because it's funny, but because i want you to 
+ see what your eyes can't. This happens all the time.
+  
+  First, the game is definitely, in the graphics part undeniable perfect (remember for a 2d game, 
+ and with the time resources) , well researched history and buildings detail, it's not amazing to 
+ deserve a 9 on rate, but well enough to deserve an 8. Seriously.
+  
+  Second, the gameplay is somehow innovative not revolutionary. The idea of having a new worker on 
+ strategy games was always that you build them like a product, this game brings the idea of paying 
+ for "create" a citizen, like studies, for him to enter your society and to know what you need him 
+ to know (to cut a tree, to mine, to build) , things that we don't know until someone teaches us. 
+ You might be thinking that this is idiot but is not. The idea of something automatic, you press 
+ a button and a citizen comes from nowhere to you is absurd, but we are familiar with something 
+ that weird so we won't question. So what this game did was to brake this line, this rule, and give 
+ the user (player) something more realistic. I personally think that Game Designers should learn 
+ this and implement on newer games, something like that can't pass without been given it's valor. 
+ Another thing is the trade system, you could use a horse (an animal that is appreciated by most 
+ humans, and can make a difference in a game) to take your resources to other places, that was fun, 
+ really, if you never did this you really should. A third aspect was that your hero or even a simple 
+ warrior could mount in the horse, that position gives credibility to that warrior, makes him special, 
+ with an air of superiority (an the idea that that warrior was mine, wow that was cool) . The training 
+ was nice too, because you could see your warrior training animation, and even if you turned him 
+ into a normal worker again it would still remain something of the training, making it easier to 
+ train him.
+  
+  The sound is good, very harmful, reasonable, not as good as let me see, wolfenstein3d, that could 
+ make you go wild even if you were sick in the day, but just right.
+  
+  There is no doubt about the importance of this game in the games history, the ones who could not 
+ see that, now you can. I could say more and more details of this game that could change the hole 
+ system of ours, but for now it's good enough.
+  
+  Thank you for reading this humble text, that i bought to you with no other reason, that to open 
+ your eyes. I hope this can be good for you, Sorry for my english, I'm still learning. Again thank 
+ you.
+  
+  by WinterWolf 
+::::::
+
+::::::
+UserName: garysibs8
+Rating: 6.2
+Date: Dec 28, 2005 6:44 am PT
+Review:  This was my very first PC game and at the time I thought it was cool until I came accross Age Of 
+ Empires. Fate Of the Dragon is about Chinese history , its generals , leaders and so on. The gameplay 
+ in this game gets very boring. All you do is build things like farms, houses and the usual stuff 
+ to get your village growing in strength and its economy. Then comes the fighting. You control swordsman 
+ to fight although you've got no control on how they move their sword they do it by themselves. 
+ The sound of this game is poor it makes you want to sleep and its mysterious. As I think you have 
+ seen I almost slept writing this review. Good luck to whoever buys this game. 
+::::::
+
+::::::
+UserName: SabotageClock
+Rating: 6.1
+Date: Apr 26, 2005 3:45 pm PT
+Review:  History can be fun to learn, but not in this case. Who would have thought that someone could make 
+ such a large war such a borefest? The game is more about building your town that fighting. 
+  
+  Gameplay: typical RTS style, with a block that represents a city. The city and then the overworld 
+ doesn't make sense. The cities are huge when you go in, but they look tiny from the outside. It 
+ has a hero system similar to warcraft 3's, but it is poorly done with very limited spells that 
+ aren't much of a help.
+  
+  Graphics: Its 2d, yet it lags. The units don't look very believable when they move. The menu looks 
+ better than any other part of the game.
+  
+  Sound: The sound is okay. Some of the voice acting (there is a TON of dialogue between ancient 
+ people you've never heard of) about plans to destroy a city are pretty horendous. The sound effects 
+ are believable though. 
+  
+  Value: You'll play it and wondew why you ever bought it in the first place. 
+  
+  Tilt: I tilted 
+ it to 5 because its boring. 
+::::::
+
+::::::
+UserName: nobeaner
+Rating: 7
+Date: Mar 6, 2005 6:37 pm PT
+Review:  Fate of the Dragon started off as a fun game. But about 1/3 of the way into the game and the challenge 
+ and excitement all but disappeared. The story is about a tumultuous time in chinese history when 
+ there were three kingdoms battling for control of all of China. Consequentially, this time was 
+ called the "Time of the Three Kingdoms". You are basically one of three warlords fighting against 
+ your rivals and other petty warlords to try and control China. Now for the confusing part and that 
+ is the shear number of hero characters involved. The backstory behind most of them is very detailed 
+ and points out their strengths and what they were doing at this time in Chinas history. Of course 
+ reading the biography isn't necessary and the game can be played without it, but it definitely 
+ adds something to the story of the game.
+  Sadly, this is about all that is added. The RTS factor is very bland and boring. The buildings 
+ and units are well designed but the actual gameplay is very bland. Building enough units and supplying 
+ them requires that you have enough farms to maintain your army. You can purchase goods and sell 
+ goods to the wandering merchant that stops by on certain days in the game. Gather resources like 
+ wood, food (which is actually a very in depth process) , iron and Gold (by taxing, not mining) and 
+ sell your extra to the merchant. The biggest problem to me was just the lack of unit selection 
+ which I feal is a big problem for any RTS. Sure, if the units are well rounded and have some interesting 
+ upgrades then it might have been fine to just use the units you were given in the game. But its 
+ the standard "better sword" and "Better Bows" upgrades you always see.
+  So to me, Fate of the Dragon is a very good RTS in the sense of the story and history that it details. 
+ But for a really different RTS you will definitely need to find another game. 
+::::::
+
+-------------------------------------------------

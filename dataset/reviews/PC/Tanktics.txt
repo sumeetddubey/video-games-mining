@@ -1,0 +1,114 @@
+-------------------------------------------------
+:::Game Name::: Tanktics
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/tanktics/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov  4, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.4
+Critic Score: 5.1, 7 Review (s)
+User Score: 7.7, 27 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Gremlin Interactive
+Developer: DMA Design
+Genre: Strategy
+Date:     Sep 30, 1999
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+What little manic energy the game manages to build is quickly replaced by tedium. 
+
+ Tanktics is a strategy game about the construction and tactical deployment of tanks, only wackier. 
+ The graphics favor primary colors, the combat vehicles are cute, and bug-eyed sheep are the game's 
+ most precious resource. It's unfortunate that developer DMA Design, creator of Lemmings, chose 
+ to extend the wackiness into Tanktics' eccentric control scheme.  
+
+ In the tradition of real-time strategy games, Tanktics requires you to gather resources, raise an 
+ army, and assign your units to the basic tasks of defending your base and attacking the enemy. 
+ Family-friendly cuteness aside, the game makes an interesting deviation from the formula. Instead 
+ of progressing through a technology tree with various construction and upgrade sites, you have 
+ just one manufacturing unit, the immobile Part-o-Matic, which also acts as your base.  
+
+ The Part-o-Matic is a Dr. Seussian contraption composed of a funnel mounted on a large rotating 
+ disc sitting beside a tall horn. You drop raw materials into the funnel, and an unseen mechanism 
+ converts them into tank parts, which then come shooting out of the horn onto a growing pile of 
+ junk. The speed at which the disc turns is what controls the frequency of parts creation - faster 
+ disc rotation results in faster parts production. You can increase the spin rate by picking up 
+ the sheep grazing peacefully around the map and placing them on the disc, at which point they'll 
+ begin to run on it like an exercise wheel. You have no control over what the Part-o-Matic produces. 
+ It has its own agenda and spits out components sequentially from a predetermined queue, sort of 
+ like the puzzle pieces in Tetris.  
+
+ Your task is to decide what to build with the tank ingredients that drop out of the Part-o-Matic. 
+ There are four basic categories of parts: treads, engines, guns, and radar dishes. Except for radar 
+ dishes, the parts come in various flavors. Certain treads are better suited to particular terrain 
+ types; engines are ranked by the number of guns they can power; and the guns themselves include 
+ cannons, flamethrowers, homing missile launchers, and about 20 more. You design a tank by stacking 
+ engines and weapons on a set of treads, then bring the pile to life by placing a radar dish on 
+ top of it. With over 60 parts across four time periods to choose from, a huge number of different 
+ tanks can be constructed. In theory, it's an exciting idea that promises unusual strategic depth. 
+ In practice, there isn't a lot of deep thinking involved. Since the Part-o-Matic controls what 
+ parts are available at any given time, you don't have the freedom to construct whatever you want. 
+ You'll almost always end up building the biggest possible tank with the available parts. And while 
+ there are a lot of design options, your finished tanks can only be issued two basic orders: move 
+ and shoot. Commands common to almost every other modern real-time strategy game, such as guard 
+ and patrol, are not included in Tanktics. Their omission might be an attempt to simplify the interface 
+ for the casual gamer but comes at the discouraging expense of having to micromanage your army. 
+
+ Tanktics' single-player game is a series of 24 consecutive levels and a training course. Five out 
+ of every six levels have the same goal: Destroy several "receivers," which are pieces of equipment 
+ your enemy uses to beam in its tanks, and then decimate the enemy's entire division. The sixth 
+ level of every series requires you to capture the enemy's transmitter, at which point you advance 
+ to the next "era." Each era represents a time period - prehistoric, medieval, modern, and future 
+ - and has a unique set of enemy vehicles and tank parts. However, aside from those differences, 
+ your goals and strategy remain virtually identical from mission to mission. Tanktics wears its 
+ zaniness like a badge of gonzo honor, but every level after the first is distressingly unsurprising. 
+ What little manic energy the game manages to build is quickly replaced by tedium. There's no skirmish 
+ mode or any multiplayer options, so once you finish the single-player campaign, you're done. But 
+ since saving your progress is only permitted between levels, and since most levels take about 30 
+ minutes to complete, there's a good chance you'll grow bored with restarting Tanktics' missions 
+ from scratch long before you ever see its ending.  
+
+ On a more positive note, Tanktics looks and sounds good. The sprite-based graphics are purposely 
+ simple but are well animated. Your tall, skinny tanks roll over the game's isometric landscape 
+ with appropriately noisy rumbling clacks, and the scenery vibrates with color and life. However, 
+ getting those attractive tanks to actually move from point A to point B can be quite a chore thanks 
+ to Tanktics' unorthodox command interface. Instead of making you an omnipotent overseer, able to 
+ instantaneously move to any point on the map, you are instead represented by an actual in-game 
+ vehicle called the crane. To view a portion of the world to set a unit's destination, or simply 
+ to see what's going on someplace else, you must physically move your crane to that point. It's 
+ a useless rethinking of a strategy game convention and, combined with the demands of babysitting 
+ your forces, only adds frustration.  
+
+ There's a decent game somewhere deep inside Tanktics. The tank-building idea is a good one and could 
+ have been put to better use in a more traditional strategy game. Yet by choosing to focus on puzzle-solving 
+ elements, and then apparently forgetting to create any ingenious puzzles, DMA Design has created 
+ a game that is simply not involving. Tanktics tries to be crazy and fun but only manages to be 
+ the former.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: Code_wizard
+Rating: 7.7
+Date: Sep 19, 2006 9:22 am PT
+Review:  As far as creativity and genre innovations Rockstar North has had its share of hits. Yes, there 
+ have been a few misses, but this is not one of them. The unique game play Tanktics offers is well 
+ worth the hunt to find a copy. In fact, no game to date has duplicated the ideas presented in Tanktics. 
+ The game has strategy and customization, and this is coming from an era when very few games had 
+ one of these qualities. Yes, the graphics are a bit childish, but the amount of depth offered overshadows 
+ its graphical shortcomings. The campaign is extremely hard and fast paced so expect to get frustrated. 
+ Even so, (to my amazement) you can have fun losing. It is easy to see what you did wrong and apply 
+ the knowledge to your next game. The controls are a little wonky at first, but after getting used 
+ to them they fit the game well. 
+::::::
+
+-------------------------------------------------

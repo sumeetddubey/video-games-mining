@@ -1,0 +1,126 @@
+-------------------------------------------------
+:::Game Name::: Tiger Woods PGA Tour 2001
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sports/tigerwoodspgatour2001/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov 14, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.9
+Critic Score: 6.5, 14 Review (s)
+User Score: 7.1, 56 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: EA Sports
+Developer: Headgate
+Genre: Golf Sim
+Date:     Nov 6, 2000
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+PGA Tour 2001 isn't a major step for the series, but its vast number of top-notch courses will make 
+ it worthwhile for many golf sim players. 
+
+ As with each new version of so many other golf series, the first thing that most PC golf sim fans 
+ will want to know about Tiger Woods PGA Tour 2001 is whether they should buy it if they already 
+ have the 2000 edition. PGA Tour 2001 offers no major changes to the gameplay and graphics of its 
+ predecessor. Therefore, if you already own last year's version, your decision to own the new one 
+ will largely depend on how many courses you already have, how much you want to compete in a President's 
+ Cup tourney, and whether you care about competing against two additional PGA Tour pros. Otherwise, 
+ if you don't already have last year's installment, then the 17 courses that ship with the 2001 
+ edition make it a real bargain, provided you've got a rig that far exceeds the game's minimum system 
+ requirements.   
+
+  The 17 courses are unquestionably the biggest appeal of PGA Tour 2001. Nearly a dozen are Tournament 
+ Players Courses, and they cover just about every type of golfing environment you can imagine, from 
+ deserts and flat coastal plains to courses snaking through gorgeous mountains. All your favorites 
+ are available - Sawgrass, Heron Bay, Pipers Glen, Scottsdale, and Prestancia, just to name a few 
+ - and the Robert Trent Jones Golf Club (site of this year's President's Cup) is an especially welcome 
+ addition to the extensive library of courses provided with the game. Two other new courses - TPC 
+ Sugarloaf and TPC River Highlands - round out the collection.   
+
+  The whole point of the Tiger Woods series has been to re-create the thrill of PGA competition, 
+ which goes a long way toward explaining the mere handful of non-PGA pro animations you can choose 
+ from when creating a golfer. As in the Links games, PGA Tour 2001 uses digitized motion videos 
+ for most of the PGA and amateur golfers, but for some reason, Stuart Appleby and Jim Furyk are 
+ represented with 3D-rendered figures - and pretty awful ones at that. Both of them look as if they're 
+ afflicted with debilitating arthritis as they awkwardly grip their clubs, and the rendering of 
+ Michael Jordan - yes, EA Sports once again included His Airness in the golfer lineup - is the same 
+ washed-out image from last year's edition. While Tiger's own motion-capture footage is crisp and 
+ well defined, that level of detail doesn't extend to the other golfers. Many are blurry and nondescript, 
+ and they fall far short of the stunning photo-realism of the players in the newest installment 
+ of Links.   
+
+  Thankfully, the courses look a lot better than the golfers. PGA Tour 2001 seems to use the same 
+ graphics engine as last year's version, but this time around, the game runs more smoothly on midrange 
+ systems. On a Pentium 450MHz with 256MB RAM and a TNT 2, frame rates were acceptable at a 1024x768 
+ resolution with graphical details set to ultrahigh (but with the picture-in-picture feature deactivated) . 
+ You might see a bit of terrain shifting as the camera view follows the ball's flight, as well as 
+ slight graphical resets when the ball finally comes to a stop, but it's not a big problem. The 
+ game supports resolutions up to 1600x1200, but even at 1024x768, things look pretty sharp. However, 
+ you'll start to see a few jagged edges, especially on trees, when you drop down to resolutions 
+ below that.   
+
+  EA Sports has always focused on creating good play-by-play commentary for its games, and it's one 
+ of the stronger points of PGA Tour 2001. Occasionally, the announcer will make a gaffe - once I 
+ heard him say, "Tiger hit that one flush and onto the fairway" after my golfer's shot landed in 
+ the rough - but generally the speech is both informative and entertaining. There are precious few 
+ ambient sound effects like the chirping of birds, but they aren't conspicuous by their absence. 
+    
+
+ Once you get out on the course, you'll find that the game uses the same play mechanics as in the 
+ 2000 version. Two swing modes are available: triple-click and pro swing, which is the easiest and 
+ least lifelike mouse swing ever created, because you can't hook or slice a shot with pro swing. 
+ The shot always goes in the direction of the aiming marker, and only the wind affects the flight 
+ path. Expect to hit monster drives of more than 290 yards all day long with pro swing, and once 
+ you learn how to adjust the sensitivity for chips and putts, you'll start doing pretty well in 
+ the short game, too. If you've had trouble mastering the mouse swings in other golf games, this 
+ simplified design might be what you've been looking for if you don't mind giving up a lot of the 
+ realism that's simulated by other mouse swings.   
+
+  The triple-click mode will be instantly familiar to golf-sim fans, but it seems that the game punishes 
+ you quite severely for even slight miscues on the final click of the shot sequence. Otherwise, 
+ the ball physics seem quite sound, though once I saw a ball take a midair detour as if it'd hit 
+ an invisible wall. The game omits options for things such as changing stance, changing swing plane, 
+ and choosing how open or closed the club face is and instead gives you controls to automatically 
+ implement backspin. A good variety of shot types are available to choose from, including standard 
+ chips and punches as well as knockdowns, flops, bump-and-runs, and options to back down half a 
+ club in the swing strength.   
+
+  That's standard stuff for golf sims, unlike the game's putting interface: It changes the distance 
+ of the swing meter in huge increments as you move the aiming marker. If you set the aiming marker 
+ at one point, then nailing the swing meter at the top means 20 feet on a flat green; but if you 
+ move it forward a little, the swing meter jumps to twice the distance. The development team apparently 
+ tried to make shorter putts proportionally easier by giving you more room to work with on the swing 
+ meter. This makes sense, as hitting a five-footer in another golf sim like Links 2001 can be troublesome 
+ because you have to click so rapidly to avoid overpowering the ball. But watching the swing gauge 
+ climb all the way to the top as you try to sink a three-footer definitely takes some getting used 
+ to. Fortunately, the online tutorial that's installed with the game is a big help, and it fills 
+ the gaps of the rather sparse printed manual. Ultimately, once you get used to the aiming system, 
+ it actually works pretty well.   
+
+  Though direct TCP/IP connections aren't supported for Internet play, the PGA Tour 2001 game server 
+ makes finding matches and tournaments about as simple as you could hope for. You can play alone 
+ or with other PGA Tour 2001 owners in tournaments, and results are tracked online for two weeks 
+ after the event was created. Since you don't need to wait for other players to go, you can finish 
+ a round in relatively short order. Also, PGA Tour 2001 has an online "Play Against the Pro" feature 
+ that lets you see if you can beat the real-life performances of Tiger and many of the other PGA 
+ golfers featured in the series, but in a telling move, the pro swing option isn't available in 
+ this mode.   
+
+  Tiger Woods PGA Tour 2001 isn't a major step for the series, but its vast number of top-notch courses 
+ will make it worthwhile for many golf sim players. The improved graphics performance and multiplayer 
+ options since the last version also make it clear that developer Headgate Studios intends to make 
+ this series as authentic as possible. Even so, PGA Tour 2001 isn't quite at the level to challenge 
+ PGA Championship Golf or Links in terms of realism, but even fans of those series would admit that 
+ PGA Tour 2001 can be a lot of fun to play.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

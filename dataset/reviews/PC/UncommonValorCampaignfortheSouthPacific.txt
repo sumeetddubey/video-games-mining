@@ -1,0 +1,138 @@
+-------------------------------------------------
+:::Game Name::: Uncommon Valor: Campaign for the South Pacific
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/uncommonvalorcampaignftsp/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jun 11, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.8
+Critic Score: 7.6, 8 Review (s)
+User Score: 7.7, 22 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Matrix Games
+Developer: 2By3 Games
+Genre: Wargame
+Date:     Dec 2, 2002
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+Uncommon Valor takes much time to fathom, but after that time is over, you'll end up enjoying it. 
+ 
+
+ With a learning curve as steep as Mt. Fuji, an interface that only an accountant could truly embrace, 
+ an avalanche of information to be assimilated, graphics that are merely serviceable, and sound 
+ that seems spartan at best, it would be all too easy to categorize Uncommon Valor: Campaign for 
+ the South Pacific as a game suited for only the most die-hard grognards. But this type of pigeonholing 
+ is erroneous, because the latest from wargame icon Gary Grigsby has untold rewards to offer gamers -- even 
+ strategic greenhorns -- if they're willing to invest the time and effort needed to master the game's 
+ complex yet highly efficient interface. There's no denying that Uncommon Valor falls squarely into 
+ a category many have dubbed "spreadsheet wargames," and it certainly has quirks and even a few 
+ bugs that can initially seem annoying. But take our word for it: A little patience and a lot of 
+ practice is likely to produce some highly addictive results, even for those who felt overwhelmed 
+ and frustrated by Grigsby's earlier efforts such as Pacific War and War in Russia.           Uncommon 
+ Valor tracks the performance of all fighter pilots.    
+
+  Uncommon Valor doesn't attempt to cover the entire scope of operations in the Pacific Theater during 
+ WWII. Instead, it focuses on the campaigns and battles that essentially determined the final outcome 
+ of the entire Pacific War, and all action takes place on a single map ranging from Truk in the 
+ north to Brisbane in the south, including the invaluable Solomon Islands chain and bases at New 
+ Caledonia.   
+
+  While some wargamers may yearn to get their hands dirty in Burma and Indochina, let's get realistic -- by 
+ the time American war production had fully ramped up by 1943, the outcome of the conflict was never 
+ seriously in doubt regardless of those operations (not to slight the bravery and brilliance of 
+ the men and tactics employed in those regions, of course!) . The only real question was how long 
+ it would take to reach the finale and how many men would sacrifice their lives in the process. 
+ Yamamoto understood the production capabilities of the United States and actively sought a decisive 
+ battle (Midway) that would bring America to the bargaining table.   
+
+  But strangely enough, the setup for Decision in the Pacific, the game's grandest campaign, does 
+ not incorporate the results of that battle: It's a hypothetical scenario that assumes that the 
+ Japanese did not suffer the devastating losses in carriers and pilots that forever changed the 
+ course of the war. In total, Uncommon Valor features 17 scenarios, which range in length from a 
+ "mere" 10-day operation to a massive 20-month campaign where the Japanese operate at full strength 
+  without  the fatal blows incurred at Midway.           Task forces sometimes focus on one target 
+ to the exclusion of others. But not in this case.    
+
+  But before we get into the game's mechanics and design, one issue must be addressed: the lack of 
+ a printed manual. Matrix Games claims that the cost of printing manuals for a game aimed at a niche 
+ market would have made the retail price skyrocket, while detractors argue that not only is a print 
+ manual incredibly valuable as a desktop reference for a wargame of this depth, but the costs to 
+ print out the online manual could run as much as $30 or $40 -- the cost of a new cartridge or paying 
+ to have it done at a local print shop.   
+
+  Then again, Matrix Games isn't cranking out hundreds of thousands of copies of the game, and therefore 
+ its printing costs would be considerably higher than for the average retail product. We ended up 
+ printing out only those sections where we needed clarification. The bottom line is this: Either 
+ get used to the Alt+Tab routine for checking documentation online (Uncommon Valor is quite friendly 
+ when it comes to multitasking) , use some common sense when printing out the docs, or pay a printer 
+ to do the whole thing. If it costs you $30 for the print job, the total cost for the game is $80, 
+ and that's not bad, given that you can probably count on hundreds if not  thousands  of hours of 
+ gameplay from this one, thanks to play-by-email (PBEM) support.    
+
+ This is a turn-based game where turns can last between one and seven days of game time, or turns 
+ can be set for continuous play until paused. It uses a hex system (30 miles) , and the attrition 
+ rate is individual units -- you'll see reports of damage and effectiveness for every bomber, fighter, 
+ and ship in the game. This level of detail necessitates a lot of micromanagement: While some tasks 
+ such as resupply can be automated, only the laziest commander would set things on autopilot and 
+ hope for the best. What this means in real-world terms is that you need to oversee all aspects 
+ of any operation. Loading supplies and troops, assigning bombing targets and escort missions, coordinating 
+ supply convoys, sending out mine-laying missions, and so forth. The "spreadsheet" design for doing 
+ all this is admittedly cumbersome at first, but after one or two phases (which can last from one 
+ to seven days) it all becomes a routine -- but one in which you must react to the changing positions 
+ of enemy deployments and maneuvers, as well as your limited resources including aircraft range 
+ and readiness.           It's best to take charge of managing your entire army.    
+
+  Is it time-consuming? Yes. Is it rewarding? Doubly so. Once you fully comprehend the somewhat complicated 
+ interface, you can begin reinforcing and supplying crucial bases with undreamed-of ease. Ground 
+ battles are rare in the early portions of the campaign, and even when they become more common, 
+ at this point, they disappointingly lack much zest or verve.   
+
+  To put it simply, Uncommon Valor requires patience, and those who have enough of it will find so 
+ much depth in the game that all their efforts will be rewarded many times over, even without the 
+ glossy graphics of simpler (but still enjoyable) games such as Pacific General. Those who shun 
+ micromanagement might shudder at what they face in Uncommon Valor, but it's really not that bad. 
+ After a while, ensuring that troops are being transported where they're needed, checking on fuel 
+ and supplies at each base under your control, and giving battle-weary air groups much-needed rest 
+ to ensure future effectiveness can even become an obsession.   
+
+  But in a game with such a sweeping scope, there are bound to be errors and annoyances, and Uncommon 
+ Valor has more than a few -- some minor, some not. As an example, fatigue for transport units is 
+ heavily weighted for some reason, with the convoy losing 1 percent of its cargo even on clear, 
+ open roads. And in terms of AI, there are many incongruities, especially for friendlies. Catalinas 
+ ordered to carry out antisubmarine patrols, for instance, do a pretty good job of reporting  sightings 
+ , but not once did we see  any  of them actually  attack  a Japanese sub. That's pretty strange, 
+ considering how many depth charges those babies carried. Antisub warfare seems to be the game's 
+ weak point -- it's possible to send out countless PBYs and other aircraft to spot subs and never 
+ get a nibble.   
+
+  There are some other oddities that even a newcomer will notice. For instance, you  must  set a 
+ target destination for a convoy  before  loading it with troops or supplies. This strange obsession 
+ with order of maneuvers is baffling, but Matrix says it's "logical." This feature is listed in 
+ the manual, but that doesn't change its counterintuitive nature.           Some aspects of Uncommon 
+ Valor's naval combat aren't perfect.    
+
+  You'll also encounter other strange features, such as overmanned air squadrons, infantry icons 
+ disappearing from bases after troop transports are selected, coastwatcher and plane sightings that 
+ don't tell you the direction in which a task force is headed -- which is crucial for strategic planning -- a 
+ lack of mousewheel support in a game where scrolling through lists is essential, no feedback as 
+ to whether a certain order can be carried out, and task force commanders completely disobeying 
+ the "don't react" order and charging to certain death (or fleeing from paltry dangers) .   
+
+  Guess what? None of it really matters. There is simply so much to do and so much to enjoy that 
+ you will overlook these quirks and slowly but surely set your sights on crushing the imperialist 
+ intentions of Japan (or, since you can play as the Japanese, end the capitalist, imperialist onslaught 
+ of the ABCD coalition -- America, Britain, China, and Denmark) . Uncommon Valor takes much time to 
+ fathom, but after that time is over, you'll end up enjoying it greatly.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

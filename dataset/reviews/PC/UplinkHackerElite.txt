@@ -1,0 +1,817 @@
+-------------------------------------------------
+:::Game Name::: Uplink: Hacker Elite
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/uplinkhackerelite/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jan  2, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.1
+Critic Score: 7.3, 21 Review (s)
+User Score: 8.4, 648 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Strategy First
+Developer: Introversion
+Genre: Sci-Fi Adventure
+Date:     Oct 9, 2001 &raquo;  
+
+-------------------------------------------------
+:::Review:::
+The thrill of poking your nose into places that it doesn't belong is certainly satisfied here, courtesy 
+ of an often smart design that turns every hack into a mystery waiting to be solved. 
+
+ If he were still allowed to own a computer, Kevin Mitnick would undoubtedly approve of Uplink. Available 
+ only by direct order from the UK-based developer, Introversion Software's new strategy game seems 
+ to have been made for the infamous super hacker, given that the sole objective of play is to break 
+ into as many computer systems as possible. Success is measured in terms of altered, stolen, and 
+ destroyed data, and of course in being able to get in and out before tracer software gives your 
+ address to those friendly people at the FBI.           Setting up a hack requires a lot of connections. 
+    
+
+  Actually, if Uplink had been around a few years ago, perhaps Mitnick wouldn't have gotten that 
+ knock on the door. The thrill of poking your nose into places that it doesn't belong is certainly 
+ satisfied here, courtesy of an often smart design that turns every hack into a mystery waiting 
+ to be solved. However, little is provided aside from the break-and-enter tension involved in cracking 
+ codes, as you'll spend all your time cracking systems and then terminating the connection before 
+ somebody gets wise to your activities. Repetition and production problems make the game less than 
+ it could have been, hampering your enjoyment of what amounts to a series of tough logic puzzles. 
+   
+
+  Most of these puzzles are provided by the Uplink Corporation, a shadowy organization that hires 
+ anonymous remote agents such as yourself to hack into computer systems across the globe in the 
+ year 2010. You start as a novice with access to rudimentary gateway hardware and software, plus 
+ 3,000 credits that can be used to purchase upgrades. More cash is earned by taking assignments 
+ from third-party firms that post their current espionage needs in a mission database at Uplink. 
+ As long as you have the experience level (you are ranked with a grade, rating, and an ever-changing 
+ title that roughly determines your moral status) to meet some basic requirements, you can accept 
+ the obligation. You're given a rate of pay for completing the work, which typically involves connecting 
+ to the specified business and stealing or deleting a specific file, falsifying documents, and so 
+ on. There is an option of contacting the employer to ask for additional information, or even more 
+ money, but you typically just take the job and look over the specifics in an e-mail.           
+ The password breaker is the primary tool of your trade.    
+
+  Virtually every assignment begins by setting up an indirect path to the target system by routing 
+ your call through a number of other servers on a global map screen. This is necessary to delay 
+ tracing efforts long enough for you to complete your work. After establishing this roundabout route, 
+ you dial in and then use a password-breaking program to gain access. Once you're inside, you can 
+ go through the database, altering, copying, and destroying files at will. This is pretty straightforward 
+ at first. You simply go in, complete the task, and get out. There is usually plenty of time to 
+ accomplish your goal, particularly if you use plenty of other servers on the map to camouflage 
+ your location.   
+
+  Things get more complex in time. Your status with the company changes depending upon mission success 
+ or failure, and your actions will be reflected in a news menu that tracks all the latest headlines 
+ in the hacker underworld. As you proceed through the initial levels as an Uplink operative, systems 
+ will boost their security and start detecting your presence more rapidly. Some will eventually 
+ prove impossible to hack into unless you equip your machine with new hardware and software. Your 
+ CPU, modem, memory, and security system can be enhanced to improve your capabilities. You can even 
+ rig a self-destruct system into your gateway, preventing police agencies from seizing it and determining 
+ your real identity. A dictionary program becomes necessary to get into some computers, while you 
+ will also require the services of such arcane items as a proxy bypass, log deleter, decrypter, 
+ and even a voice analyzer. Many programs come in different versions that get progressively more 
+ powerful. As both software and hardware can be pricey, you'll have to pay your dues with a lot 
+ of low-level jobs and be circumspect in your buying. Picking the right time to purchase is key 
+ to quickly moving up the ladder.            Getting a university degree the easy way.    
+
+  Of course, it isn't all about technology. As the assignments become more challenging, you'll 
+ also need to improve your sleuthing skills. Instead of just deleting a file, you'll have to forge 
+ a university degree for a friend by typing in fake credentials, alter someone's social security 
+ records, snoop into a bank account balance, look into the activities of a rival, and so on. More 
+ complicated jobs require quick thinking in terms of approaching your victim. In one instance, you 
+ have to access a target through a trusted outside company with lighter security. In another, you 
+ must use a proxy bypass program to alter key information -- after you think you've successfully broken 
+ into the database. Many of these security systems will push you to the brink of discovery. There's 
+ no shortage of tense moments, as you scramble to alter information or delete the log entries covering 
+ your system access before your tracer detect program beeps up to 100 percent. The missions also 
+ form into a loose plot after you get your feet wet. Later hacks are given added impetus because 
+ you're trying to either uncover the intentions of the mysterious Andromeda Research Corporation 
+ (ARC) or help the company achieve its insidious objectives, rather than steal anonymous files or 
+ play with the personnel records of anonymous people.   
+
+  Still, too much of Uplink is about just those sorts of routine expeditions. In the beginning, it 
+ seems like every new mission involves hacking into the social security computer system to make 
+ it seem like people are deceased. Or adding qualifications to someone's academic record. More variety 
+ enters the game after a few hours of play, though even then there are a lot of similar assignments. 
+ This is probably a limitation of the one-trick game design, as there really isn't anything a hacker 
+ can do other than cracking passwords and browsing forbidden data. While the story does provide 
+ more motivation, it doesn't hide the fact that you're doing the same thing over and over again. 
+ The difference between going after crucial information held by the evil ARC or a generic file at 
+ Apollo Networks is negligible when you take nearly the same steps to reach your goal in both instances. 
+ As a result, the gameplay can get tired after no more than a dozen hours of play.           A story 
+ is developed in the news screen.    
+
+  More problems are presented by the interface. In an effort to streamline the controls for ease 
+ of use, Introversion went too far. Although everything is organized into convenient menu and icon 
+ systems, the use of some items isn't fully explained. Software programs, for example, can be activated 
+ with the click of a mouse button, but they're sometimes tricky to actually fire up because of the 
+ absence of a print manual and spotty in-game help. Figuring out how to use the proxy bypass program 
+ was particularly tough, given that it was represented online by a cross with four incomprehensible 
+ buttons. The visual and sound design compound the issue. As Uplink intends to mimic the workings 
+ of an application program, it looks and sounds like one. This makes playing an unfriendly experience 
+ where you move from one text screen to the next, the monotony typically broken only by photographs 
+ on a personnel file and a generic techno music soundtrack. Perhaps this makes the game authentic, 
+ but it also makes it slightly intimidating to use and dull.   
+
+  Yet even with these shortcomings, Uplink is frequently enjoyable. When you're sweating out the 
+ last seconds, trying to get the job done before your victim completes a trace, the design miscues 
+ don't seem to matter. This is a game where you can get lost in the moment very easily.    
+-------------------------------------------------
+:::User Reviews::: (26 Reviews)
+::::::
+UserName: ro_bodi
+Rating: 10
+Date: Mar 28, 2009 10:40 pm PT
+Review:  Having problems with my 8800GTS 640 (rest in peace) and being unable to play my favourite RPG games 
+ (the replacement video card was, temporary, a 7200) , i searched for simple games that i could play 
+ on my machine. I saw Darwinia + Uplink on Steam, at 7 euros and i decided to buy them. I knew very 
+ well Darwinia... one of the most original games - very good, but i didn't know anything about Uplink. 
+ One night, at 22:00 i decided to give it a chance. I launched the game and my first thought was 
+ "What the hell is this ?... What a crap..." but i continued to play and slowly i understood why 
+ this game is so nice... Almost no graphics (the Windows GUI is nicer than Uplink "HUD") but the 
+ concept and gameplay... well, that first night i was playing until the next morning, so this say 
+ everything. Even now, when a 260GTX Extreme+ replaced my old 8800GTS, i play hours and hours Uplink... 
+ I almost forgot about Dawn Of War 2, Mass Effect and Drakensang :) .
+  Give me some more computers to hack... i want to buy a new gateway and a new processor... i want 
+ to upgrade my memory and buy some more hacking/cracking applications... Long Live Uplink !
+  Play it if you know what a good game is... and give it a chance in the first 2 hours. I think you 
+ will surely like it in the end. I give it a 10. 
+::::::
+
+::::::
+UserName: Davoski182
+Rating: 9.5
+Date: Mar 1, 2009 2:29 am PT
+Review:  This game has everything that you'd want, to kick ass in the computer world... Yet, it has its 
+ flaws... As all games do.
+  Now, I will not diss this any more than I need to because I love this game. As with every other 
+ game I've played it was hard to adore at the beginning, but once you get into it... It becomes 
+ a near addiction. Those with an insatiable thirst of curiosity will love this game as it digs deeper. 
+ And with an in-game ranking (all computerised of course) , the battle for top hacker is a tough 
+ one.
+  But, as you go deeper into it, you do realise there are several issues need to be addressed.
+ 
+  
+  For instance... On the global map, some of the squares have dotted lines around them... As far 
+ as I can tell they indicate a server that has direct links to your host system or else is tracking 
+ you. The solid squares, on the other hand, I'm completely oblivious to.... So most of the time 
+ I just go onto that server and trash the living s*** out of it.
+  
+  But nevertheless, this game is a pump-action rush for those who love their keyboard skills and 
+ are always willing to make the ultimate sacrifice for that perfect machine, those unlimited credits 
+ and the sexy pictures of those guys on the Social Security, Global Criminal and Education Databases 
+ ;p
+  
+  If anyone, who is new to this game and/or wants to get into it, needs a quick hand on anything, 
+ send me a message. Always willing to help a fellow gamer :) 
+::::::
+
+::::::
+UserName: Oni_2K
+Rating: 8.5
+Date: Feb 1, 2009 6:00 pm PT
+Review:  Uplink is a hacking game, in which you play the role of a "Uplink Agent", looking to make money 
+ from hacking. The game is pretty difficult at first, with very severe consequences if you mess 
+ up (jail, or losing your computer, meaning game over) . Though once you get the hang of it this 
+ should be a rare event.
+  
+  There's a great load of upgrades you can buy, including new software, better gateways and security 
+ systems. These can enable you to crack passwords faster, store more data, or bypass security systems 
+ on other computers.
+  
+  There is a storyline, but from what I've done of it it seems to be optional. There are unlimited 
+ missions you can do, starting from simply deleting or copying files, to hacking banks and tracing 
+ balance transfers, or changing someones academic details.
+  
+  Only bad thing I've noticed is the IRC that you can buy in the game. The community seems to be 
+ fan-run, though the admins are pricks, and will happily ban you for nothing.
+  
+  Overall, it's a great game, and I'd recommend it to anyone who wants a change from strategy games. 
+ 
+::::::
+
+::::::
+UserName: ivory_soul
+Rating: 7
+Date: Nov 27, 2008 9:00 am PT
+Review:  The Good: Simple easy to use layout, you really feel like your hacking, lots of upgrades and missions 
+ to use and partake in
+  
+  The Bad: Bland visuals and almost no audio, very repetitive after you get to the higher levels, 
+ you can get lost and there's little help
+  
+  Hacker is a strategy game that simulates being well... a hacker. You have a simple menu layout that 
+ shows your computer upgrades, whats in your memory, your finances and all that stuff. The main 
+ purpose of hacker is taking missions from the mission list, figuring out the best way to do the 
+ mission, then reporting back. You can log into your Uplink Network to upgrade your software, hardware, 
+ and gateway (more on that later) . The way the game works is simple really; the main thing to watch 
+ out for is being traced so you buy a trace detector and, depending on the upgrade, it'll tell you 
+ how much time you have before being traced. You hack into a server by using a password cracker 
+ and waiting for the password to be hacked. Once you get in you have to actually "do the mission" 
+ and this can range from just copying a file, deleting a file, or more advanced things like changing 
+ an academic record, getting financial information about someone etc.
+  
+  The simpler tasks are easy you just open your copier or deleter tool and once you find the file 
+ you click on it and it either deletes or copies. Copying files have to added to your memory bank 
+ and certain files are certain sizes. Make sure you buy a defrager to squish all your files together 
+ for more room. Doing these tasks take CPU power so allocate the most important tasks to use more 
+ CPU power or just upgrade your CPU. All of this costs credit that you earn from doing these jobs. 
+ Some more advanced missions may need a proxy or firewall bypass before you can edit records. Either 
+ buy a cheap proxy bypass program that automatically starts the tracing process or get a HUD program 
+ that lets you execute more advanced programs for more advanced tasks. Editing records are easy; 
+ all you do is type in what the missions log says and your done. Make sure you delete your log files 
+ (if you have time) so you're not detectable and get caught later on in the game. If a big corporation 
+ finds you and reports you Uplink will kill your Gateway and it's game over.
+  
+  Some of the most advanced tasks involve voice decoders that make you talk in a mic, and other decoders 
+ so get into the banks (the most high security servers) . Upgrading your computer lets you store 
+ more items, makes tasks go faster, and lets you use more advanced hardware. Once you get the best 
+ hardware the hardest task becomes a breeze. While there are a lot of missions the game gets old 
+ really fast and after the first 3-4 hours you'll start to get bored whether or not you ever get 
+ to the higher levels. Bouncing your connection around the map is the key to slowing the trace, 
+ but sometimes this isn't even good enough.
+  
+  There are a lot of great ideas in this game, but there just aren't enough to keep you interested 
+ for long periods of time. A lot of times you'll get lost on to what to do since the tutorial only 
+ covers the simple stuff like copying and deleting and doesn't say anything about proxy and firewall 
+ bypassing. Most of this stuff you have to discover through trial and error and this can cost you 
+ the whole game when you first start out. The game is also very bland both audio and visually. The 
+ game is just a black screen with a bunch of pop up windows and simple text that you read. The audio 
+ is very plain with almost 16 bit music and no sound effects. The music is elevator music style 
+ techno and all it does is keep you from falling asleep. So, with just simple clicks and typing 
+ and figuring about the best way to solve missions the game is fairly interesting for such a simple 
+ concept. I really hope there is a full blown sequel in brew and I hope it becomes more advanced 
+ than it is now. I feel the sequel could get major sales if it was done right, so all puzzle and 
+ strategy fans should check this one out but if you're looking for visual flare... look elsewhere. 
+ 
+::::::
+
+::::::
+UserName: rupes1986
+Rating: 7
+Date: Oct 21, 2008 8:29 am PT
+Review:  I found this little diamond in the rough for only $2.99 at Big Lots five or so years ago, and have 
+ to say;
+  
+  It's a very different game for those who aren't familiar with immersive simulations. You take the 
+ role of a hacker who must complete certain objectives via the use of a network and simulated operating 
+ system for various parties.
+  
+  A lot of these companies are out to sabotage one another and many have a deadline for you to meet. 
+ This is where the realism sets in.
+  
+  Picture yourself in a dark room with naught but the light of your monitor casting a blueish sheen 
+ over you, the target's network at your disposal, when you peek up at your tracking meter and realize 
+ they're onto you. They've been tracking you and you're not even close to done. Your pulse quickens, 
+ and you rush as fast as you can to delete, steal, or alter a certain file before they catch you 
+ and notify the authorities.
+  
+  That's what it is to be a Hacker Elite.
+  
+  The only true flaw is the lack of mission variety. It gets very dull after a while when all you 
+ do is steal this file send it here, or delete this file, or modify this person's records. 
+::::::
+
+::::::
+UserName: sentronentron
+Rating: 6
+Date: Aug 7, 2008 11:54 pm PT
+Review:  Uplink is an entirely different idea as far as games go. You take on the role of a hacker working 
+ for Uplink. I must say that I have not seen a game of this class in my entire gaming history. You 
+ start with enough to get you by, you take simple jobs such as deleting unprotected files from servers, 
+ copying unprotected files from servers, and modifying database records; yet as time goes on network 
+ security features such as proxy servers, firewalls, and other similar devices are added to the 
+ equasion which in turn requires you to purchase software upgrades which would allow you to circumvent 
+ these systems. All during this time, you are being traced back by the FBI and the corporations 
+ which you affect.
+  
+  The game is engaging when you first begin, but wrong mistakes, not researching the security systems 
+ on a network, and taking on too many jobs can cause an abrupt halt in the development of the game. 
+ While I personally like the game play for its originality, this game is not for everyone. I would 
+ recommend downloading the demo first.
+  
+  While my rating seems low, this game has a lot to offer, but the game does not provide a lot of 
+ information about the security systems, upgrades, enhancements, etc; so the majority of the game 
+ is based off of trial and error. Plus it is never fun when you make tight money decisions and one 
+ choice causes the game to basically come to a halt. It is a game to TRY before you buy it, to make 
+ sure it is for you. 
+::::::
+
+::::::
+UserName: drunken_munki
+Rating: 8
+Date: Jan 20, 2008 10:24 am PT
+Review:  Strange this one - It flew straight past my gaming radar and stayed hidden for years. Until my 
+ brother gave it a go and told me about it. I didn't listen and then my other brother told me about 
+ it. 
+  
+  So then I gave it a go - and I was gob smacked.
+  
+  Such a simple idea with basic graphics been, but executed so well that your spine tingles.
+  
+ 
+  I honestly can't compare anything like that first play through of this game. Sitting on the edge 
+ of my seat until... GAME OVER. You have been disavowed!
+  
+  It just leave you wondering HOW did I get caught. Where did I mess up! It left me craving for more. 
+ So you then register a new agent and start again.
+  
+  Truly a challenging game, but once you pick up the tricks you can master it.
+  At first I didn't 
+ even realize there was a story and story missions to play through - even better.
+  
+  Seriously I can't rate this game enough. Everybody should give it a go. Just to see what a game 
+ CAN be. And even with no animated graphics, or 3d graphics how gameplay means EVERYTHING.
+  
+  I'd recommend getting the unofficial 1.6 patch and maybe the 'Onlink' mod to make this great 
+ game even better. Seems to run fine on Vista. 
+::::::
+
+::::::
+UserName: _Yoghurt_
+Rating: 9.5
+Date: Dec 2, 2007 2:48 pm PT
+Review:  uplink manages to do what many newer games can't- it's extremely immersive and enjoyable, even 
+ without flashy outside
+  
+  
+  It's unbelevable, but I still have this on my HDD, after almost 7 years of playing it. Not many 
+ games deserve some space on my drive, and that one earns it in every way possible. It's easy, yet 
+ complicated. Doesn't have high-end graphics, but still looks neat. And one important thing- it 
+ sucks you into it's hacking world like no other game.
+  
+  Really great thing in Uplink is a fact, that you don't have to know any programming skills to play 
+ it. Many (mostly text based) games tried to depict hacking as closely as possible, but failed comercially 
+ because of that. Uplink tries slightly different approach to the whole "hax0r" thing- lets you 
+ feel like some uber-pro, in holywood-esqe kind of way, not the Kevin Mytnick way. And it works 
+ fantastic. Yeah, You'll never be a hacker after playing it, but one thing to remember is- It's 
+ just a game. And good game gives you an opportunity to become someone else, someone special. And 
+ should make that transition easy. Uplink manages to do that with perfection. 
+::::::
+
+::::::
+UserName: scvido
+Rating: 9.8
+Date: Jun 19, 2007 1:22 am PT
+Review:  purchased this in 2001 upon its release, we're now in 2007 and this game is still on my Harddrive, 
+ not only addictive, it's also one of the best games ever.
+  
+  you are a hacker and you gotta show your stuff.
+  
+  you get money by working for some people, 
+ there's an irc chatter inside, graphics are customizable thanks to mods, same goes for sound, music 
+ is fine, the interface is real simple but the meaty gameplay is king of it all.
+  
+  watch out as your Tracer shows 60% and about to be detected as you try to break into a server and 
+ deleting some FBI data :-D the tension is priceless.
+  
+  money allows you to buy new hardware for faster hacking, gateways, memory and more, it's all super 
+ believable.
+  
+  this was and will always be one of the best games ever made.
+  
+  even though it came in 2001 it's never too late for you to enjoy and discover what REAL gameplay 
+ is all about, drop Oblivion, HL2 and all this crap cause with UPLINK you're in for one hell of 
+ a time.
+  
+  BUY IT! 
+::::::
+
+::::::
+UserName: nothgate4
+Rating: 9
+Date: May 25, 2007 9:49 am PT
+Review:  A game which will leave you on the edge of your both seat and gateway. Why?
+  
+  The game starts with you registering to Uplink, a hacking organisation, and getting a crappy little 
+ gateway. Hack into systems that dont even have a firewall, just a password which can be easily 
+ cracked with your Trusty password breaker or your even trustier dictionary hacker. Delete and send 
+ people restricted files.
+  
+  Then, as you move on, hack into socail security records, activate your Proxy Bypass, and touch 
+ stuff you really should not be touching. With your Trace Tracker beeping, your keyboard clicking 
+ like hell with all the typing your doing, and the words Proxy and Bypass showing several times, 
+ you really will feel like your really are a hacker, and want to show the world that you are the 
+ Hacker Elite. 
+::::::
+
+::::::
+UserName: blutdurstig
+Rating: 9.1
+Date: Feb 1, 2007 3:37 pm PT
+Review:  Uplink: Hacker Elite is one of the best games I've ever played to date. It's an immersive and addicting 
+ game with a very well rounded storyline that you create as you go. The game itself is quite simple 
+ but still intricate enough to provoke strategy in the player. With every mission you except and 
+ complete, you gain funds and experience. With experience you can gain access to better missions 
+ and with funds you can purchase better hardware for your computer which improves your ability to 
+ hack. Uplink is a totally different game style then most people will be used to, but it's quite 
+ easy to manage and definitely worth the time to learn. There are some pretty spiffy things to do 
+ in the game, anything from simple copying or deleting files to changing a student or convict's 
+ information to plain stealing money out of major bank accounts. You can be doing extremely well 
+ in your game, but beware... you do need to be sure to bounce your connections and clean up your 
+ tracks because it's very easy to be tracked and caught as a hacker, but the better you get at the 
+ game, the more exciting the game gets. You need pretty quick thinking to endure some parts of the 
+ game, it's easy to get distracted in some missions. In conclusion, this is a very good game. You 
+ can try and find it in the US for sale, which is quite difficult, I've never met a GameStop employee 
+ that had even heard of the game.. but I recommend you just buy it from a game downloading website. 
+ Generally it's twenty bucks to download and it's totally worth it, but if you want to remain completely 
+ faithful, go ahead and order it from the original UK site, but be prepared for up to 8 weeks of 
+ waiting! 
+::::::
+
+::::::
+UserName: cei13
+Rating: 8
+Date: Dec 19, 2006 7:50 am PT
+Review:  For it's price, Uplink is a great game. The gameplay is very addictive and it keeps you on the 
+ edge of your seat. The graphics are quite good considering the subject material and far better 
+ than a lot of bargain games. You truly feel like a hacker using a futuristic terminal. There are 
+ only two flaws with this game. The first is that it is pretty difficult, which is to be expected, 
+ but can cause frustration due to repetition. The other flaw is much more serious. There is no way 
+ to save this game from the game! I figured out that I could create a backup copy of my game, but 
+ that requires exiting the game which is annoying. You HAVE to do this because if you get in trouble, 
+ your game is terminated and you have to completely start over from the beginning, which is NOT 
+ a good thing, especially if you've spent several hours acquiring new gear and information. However, 
+ for the price paid, I can deal with these things. 
+::::::
+
+::::::
+UserName: grarap
+Rating: 7
+Date: Dec 18, 2006 5:48 am PT
+Review:  Uplink is a fantastic game, and really makes you feel like a hacker. Really. The UI is just great, 
+ and the thrill of speedily  data on a foreign PC and then covering 
+ your tracks never gets old. Sod's Law continues to rule though. Uplink has two major problems that 
+ certainly may want you to spend your money elsewhere.
+  Number 1) It's hard. Some objectives are near impossible if you don't know what you're doing. To 
+ top it all of there are no 'lives' in uplink. Get caught once and you may get off with a fine. 
+ Get caught again or refuse to pay and that's game over for you. You got me right, it's game over. 
+ Whilst that may indeed add to the 'realism' of the game, it can be incredibly fustrating to see 
+ all of that hard work go down the drain in a matter of seconds.
+  Number 2) Uplink is an extremely intense game, perhaps due to its complicatedness. You have to 
+ be really into it to enjoy it. That means that it isn't simply a pick-up-and-play title like Introversion's 
+ other game, DEFCON. Perhaps its too open for its own good. There's no real mission path to follow, 
+ other than a simplistic storyline thrown in after 30 mins or so. I haven't had the patience to 
+ play Uplink for weeks, its that awkward.
+  If you want to fufill that nerd dream of becoming a hacker, then by all means get Uplink. However 
+ be warned that you'll probably find that hacking isn't as glamarous as you first thought. 
+::::::
+
+::::::
+UserName: garethcoker
+Rating: 8.7
+Date: Nov 19, 2006 1:25 am PT
+Review:  A game that REALLY shows you don't need good graphics and good sound for a game. This game is essentially 
+ about hacking, though I doubt any of the skills here would help you in the real world of hacking 
+ - not that I would know.
+  
+  You start off as an agent for a corporation that employs hackers. The excellent tutorial mission 
+ takes you through most of the basics, and then it's up to you to start completing various missions 
+ that will give you higher rankings, and therefore higher clearance to take on more complex missions.
+ 
+  
+  To start with it's usually 'Steal data from another company' - and then it goes to 'Frame Criminal' 
+ or 'Give someone an academic degree'. This is done by hacking into the various databases and changing 
+ the details of the person that is involved.
+  
+  By the end of the game - the tasks can become extremely complicated, and you also have VERY little 
+ time to do them, which I guess reflects the real world of the hacker. Once you break into a system, 
+ you are traced, and if you haven't set up your security correctly, you're screwed. There is a story 
+ that loosely holds the game together, but you can start it as and when you please - and continue 
+ it as and when you please. It's very difficult for me to mention anything about the story, because 
+ it would give the endgame away. Do a Wikipedia - and you'll find the story if you're intrigued.
+ 
+  
+  I believe this game can be downloaded on Steam for a VERY low price - and I would recommend all 
+ users to buy it. The Steam version is very solid (the original was quite buggy) , and it's a very 
+ easy game to pick up and play. Working out what to do later in the game is tricky, but that's part 
+ of the fun and the challenge. An excellent strategy game focusing on espionage. Highly recommended. 
+ 
+::::::
+
+::::::
+UserName: kastanok
+Rating: 9.2
+Date: Oct 11, 2006 5:48 am PT
+Review:  It's four in the morning and I haven't slept in days. The room is strewn with coke cans and empty 
+ plates. My fingers fly over the keyboard, its clacking beating a rythm with the Manson playing 
+ in the background. My face is a mask of sweat, turned blue in the glare from my screen. DOS code 
+ lines up to be processed. The trace tracker in the corner beeps ever more quickly. Come on... come 
+ on, delete the logs. Beep. Beep. Right, delete the system files. Beepbeepbeep. Just a few more 
+ seconds. BEEPBEEPBEEPBEEP! SHUTDOWN! BEEEEEEEEP!
+  
+  The screen goes black. My stomach wraps itself in knots as text runs out over the darkness, detailing 
+ my successes and my ultimate failure. It was all over and all for the sake of a hundred thousand 
+ or so credits.
+  
+  Uplink is an unforgiving game. You can rule the economic world from your computer but if you slip 
+ up once it'll all come crashing down. Game over, man. Game over. But I love it.
+  
+  You are placed into the role of a newbie freelance hacker working with the Uplink Corporation. 
+ It's 2010 and the world's economy is ruled by no more than 50 or so mega-companies. Each and every 
+ one of them want your special services to ensure market dominance. And all you have at your disposal 
+ is your computer and a gateway super-computer controlled by Uplink. You must hack, crack, delete 
+ and steal your way to dominance amid the greatest IT-terrorist attack ever.
+  
+  As you may have guessed, it's a remarkably tense game. You see the world from your computer monitor, 
+ all in retro blues and lines of code (think 'The Net') . The terrible beeping as your target's administrator 
+ traces your location shreads your nerves and, as there's absolutely no save or load function beyond 
+ leaving the game, every move counts.
+  
+  Uplink is also incredibly modable. New displays, computer types, targets, people, methods of hacking, 
+ sounds and even an in-game IRC client means you can customise the experience to your own liking. 
+ This is also necessary as the available faces, names, voices and such is very limited.
+  
+  So, overall, a perfect game when supplemented with community content. However, I'm here to review 
+ the vanilla game. If you want to get hooked into a retro-sci-fi world of the keyboard and huge 
+ rewards, this is definately something to sink your teeth into. A game to play before you die. 
+::::::
+
+::::::
+UserName: bloodshed4REAL
+Rating: 9.2
+Date: Sep 11, 2006 3:06 am PT
+Review:  When I first played the game (when it was released on steam) I had no idea that I would be spending 
+ most of the day hacking into company mainframes or altering other people's academic records.
+  The tutorial mission really helps you get a hang of some of the tools in the game, after 5-10 min 
+ you are ready to for business.
+  I've only "died" 2 times in the game because I was a little sloppy with covering my tracks, but 
+ the game keeps pulling me back for more ^_^
+  
+  The game gets REALLY hard when you take on the more profitable jobs (if you don't have the right 
+ tool's that is) .
+  
+  All in all this is a good game that you can put down and pick up again.
+  
+  footnote:
+  You 
+ can also find some really cool mods at http://modlink. net/ to enhance your hacking experience ^_^
+ 
+  
+  -BloodShed 
+::::::
+
+::::::
+UserName: badgerman92
+Rating: 5.7
+Date: Aug 31, 2006 1:52 pm PT
+Review:  Zerg rush meets simple C++ app meets hacking. that is uplink.
+  
+  gameplay: when i say "Zerg rush" i mean "this game screws you over before you have the time to 
+ make a valid defence" whick is exactly what a zerg rush is. you dont have the time to get the riht 
+ defences before you get caught, however, there is some fun to be had. like... well it gets repetitive 
+ even ifyou dont get screwed over RANDOMLY WITHOUT A SINGLE WARNING. Uplink is extremely discouraging, 
+ it sucks.
+  
+  graphics: meh
+  sound: sucks
+  plot: what plot?
+  value: something with the quality of a flash game shouldnt be for 10 dollars, it should be for 
+ 3-5$ or free.
+  
+  and the reason i am leaving gamespot is alot of stuff is rigged, and theres just too much dishonesty 
+ in their reviews, take a close look at comparison between HL2, HL1, and Halo2. also, compare PSP 
+ GTA with any other GTA game, its also good to look at whats listed in "the bad" on that review 
+ 
+::::::
+
+::::::
+UserName: Thepychomonkey
+Rating: 8.3
+Date: Jul 3, 2006 8:10 pm PT
+Review:  This game is great, They should have made more and add more of a storyline into it, something where 
+ you make a character and spend the money you earn on not just upgrades, but say cars, houses, new 
+ computers, things that arent really relevant but would be fun to do anyway. They should have made 
+ more though... Or expansion packs to the game that brought in new ideas, new missions, new upgrades, 
+ new locations, and maybe a multiplayer mode where you set up a secure site and whoever can get 
+ past all the security wins or something, that would have been fun. 
+::::::
+
+::::::
+UserName: Slayjoh
+Rating: 8.2
+Date: Mar 8, 2006 3:23 am PT
+Review:  Uplink is a really cool game. I've never played anything quite like it. From the cool understated 
+ interface, to the way you stress out because of the possibility that you might get caught ruining 
+ a mans life, by changing his college grades. The game emulates sitting in a dark room with your 
+ ultra-high-end pc, really well. You kinda feel like, a S. W. A. T.-team might come crashing through 
+ the window, while you're playing. The team behind the game have been really uncompromising, when 
+ it comes to keeping a certain style throughout the game. The game presents itself as a desktop 
+ of some unknown OS, from where you connect to different servers around the globe either to buy 
+ hardware/software, or attack/hack your way in to retrieve, delete og alter information. Really 
+ simple, but it works!
+  There are, however, some flaws in the game. The music is dull and repetitive techno muzak, and 
+ the sound-effects are also kept in a simple way (for better and for worse!) . The story also leaves 
+ something to be desired, the is a background-story of good vs. evil hackers, but due to the fact 
+ that you spend the entire game at your OS/desktop, it's really hard to get immersed in it. The 
+ graphics are absolutely nothing special, but this does not matter since it only adds to the simple 
+ flair of the game. 
+::::::
+
+::::::
+UserName: princeofgames90
+Rating: 6.7
+Date: Feb 17, 2006 9:14 am PT
+Review:  Well its a nice game but you will get baord after playing 8 hours in it and the missiona are the 
+ same nothing changes in them the only thing is 
+  EX Steal a file from that 
+  delet afile from another
+  change the database 
+  
+  but you will take maybe 8 hours to explore 
+ every thing in the game or less you will start as a low rate hacker to the best one if you work 
+ fine 
+  
+  if you are simelier with other games like BS hacker replay you will know that the tracing bowncing 
+ system in uplink is bad is didnt get what i ment read when you have alots of servers in the world 
+ screen and connect the all you will take time but thats not the problem lets say in the middle 
+ you pressed the server you want to attack you will have to do all that bouncing again but in BS 
+ hacker replay you jest can click in the right botton and that address will get out from the bouncing 
+ line 
+  
+  but fore shure there is no fansy graphic i mean moving as a person and you should know that 
+ 
+  but its a nice game it will give a little idea of hacking "no i'm rong" what you do in the game 
+ is not hacking something similer to it
+  
+  one last thing if you atlast can steal an acount from a bank its all over i dont mean the game
+ 
+  well in the game in mission becues then you can bey every thing in its last version and the best 
+ gateway with the best Cpu s 
+  
+  but the hard part is in network hacking i wont talk about 
+  
+  but rent it first 
+::::::
+
+::::::
+UserName: _MaFiOuS_
+Rating: 8.8
+Date: Jul 5, 2006 2:05 pm PT
+Review:  Uplink is an awesome game not only because of its great gameplay, but 
+  even because of its great way of showing how a computer and how different 
+  kinds of systems 
+ react after your actions, its a lot far from the reality, 
+  but its nice to do the missions, delete your logs and wait for the time to 
+  go on.
+  You start 
+ as a simple agent with a crappy machine doing missions like 
+  copying and deleting... as the time goes on you will be hacking into high 
+  security system and 
+ stealing research on a LAN.
+  In uplink world everything is connected, you can put your money on a 
+  company and then do missions 
+ for saboting a rival company making your money grow more and more, its amazing the number of the 
+ possible combinations of 
+  action and reactions existin in this game.
+  On the other hand this game counts with an awesome plot, you decides if 
+  you go with arunmor 
+ and saves the internet, or with Andromeda Research 
+  Corporation (ARC) and destroy the internet releasing the most desctrutive 
+  virus ever the revelation 
+ (REV) .
+  The choice is all yours.... 
+::::::
+
+::::::
+UserName: Dr4goNPL
+Rating: 10
+Date: Jan 15, 2006 1:23 am PT
+Review:  The date is 24th March 2010. You are a newbie hacker, who is searching for some fast cash. Your 
+ friends told you that Uplink Corporation is now hiring people similiar to you. You are signing 
+ up on their registration page... and from this moment you are a hacker. You are breaking most tight 
+ security systems ever known on the Earth. You are robbing cash from bank accounts, decrypt stolen 
+ data, decipher quadrant cipher systems, deleting files and logs, hacking into LAN networks etc. 
+ As your work makes effect, you gain experience and you change your position on the top list. Graphics 
+ are bad, but it takes no matter in games like Uplink. Readability matters. Gameplay is AMAZING! 
+ That makes it the best game in its genre! Sounds and music are great too. That beep from Trace_Tracker 
+ rocks. Value is perfect. It's cheap and it's cool. Summing up an amazing game which you have to 
+ buy! 
+::::::
+
+::::::
+UserName: CooperTeam
+Rating: 8.4
+Date: Dec 29, 2005 2:44 pm PT
+Review:  This is a great game, but at the same time, hard to learn since there is so much to figure out 
+ and even more to to understand and get the idea of. The concept of making a game weher you ARE 
+ the bad guy, is very imaginative. (Okay, so you don't have to play a bad guy, you can be a good 
+ guy by helping those who have lost their identity and help them get it back.)
+  
+  GRAPHICS
+  =========
+  What is really surprising is that most of this game uses Flash to do a 
+ lot of the graphics and animation. But what really makes this game so great is how all the graphics 
+ and button placement ties together. The complexity of how the programmer made this game is overwhelming. 
+ I have never seen a game designed in such a way that you have to do so much and know a lot about 
+ computers and about internet tracking and security. This game was not built on the idea of making 
+ the game flashy, it was made by the use of pure imagination and hours upon hours of coding the 
+ entiring game just right. All I will say is the design and concept is pure genius...
+  
+  CONTROL
+  =========
+  Since the game not only relies on the mouse, but the keyboard as well, 
+ you can't learn this game overnight. The concept of this game is to learn while you play. This 
+ seems to be the real idea behind the game. Because you have to know so much about the concept of 
+ hacking, you have to know how to infiltrate a domain, search around for what you need, erase any 
+ evidence of you being there, and then exiting without ever getting caught. One thing is for certain, 
+ if you get this game, you better have a stron idea on how IP address works and on how internet 
+ domains work. If you don't, you better starting reading up on your internet skills, just a little 
+ bit.
+  
+  OVERALL
+  ========
+  This game is not for the low IQ, it literally does require thinking and reacting. As mentioned, 
+ it's not really possible to learn this entire game over night. The game was designed in such a 
+ way that not all your opponents will be the same, you have to figure out how each opponent operates 
+ and how you can outsmart them in the end. Even though the game's AI is not random, the learning 
+ process is still very high. There are nuberous IP address to find and lots of quests to go on, 
+ as well as figuring out some domains and areas on your own without any help. All I will say is, 
+ if you get this game, you better put your thinking cap on, because you are going to need it. The 
+ game is not as simple as the graphics would like you to think. 
+::::::
+
+::::::
+UserName: lolforever
+Rating: 8.1
+Date: Nov 4, 2005 6:20 pm PT
+Review:  When I first picked up the relatively unknown Uplink: Hacker Elite, I was skeptical of whether 
+ or not it was any good; I've played countless "hacker" games and most of them were mediocre at 
+ best. Uplink, however, is different; right from the beginning, you feel as though you really are 
+ hacking a computer.
+  
+  The music is awesome; Introversion Software did a wonderful job matching it to the mood of the 
+ game. Graphics are above average for the genre; I personally enjoyed them although you can simply 
+ go to a mod site to download other skins for the game -- "http://modlink. net". This page, although 
+ rarely updated, contains many mods for the game ranging from minor addons such as extra computers 
+ to use to a complete makeover of the game.
+  
+  The storyline, however, is less than admirable; it depicts a company, ARC if I remember correctly, 
+ engineering a virus to take over the Internet. Another corporation, Arunmor, is trying to stop 
+ them. Eventually, you can choose to follow either the good or evil path; the "evil" path ends the 
+ game if you win since the Internet was destroyed, but the "good" path allows you to continue playing. 
+ The varied missions throughout the game allow you to supposedly hack anything from company mainframes 
+ to whole networks. Unfortunately, the game allows you to ignore the storyline but will then force 
+ you to end the game when ARC eventually prevails and destroys the Internet. If you can get past 
+ the storyline in the game, you're allowed "free play"; this was my personal favorite part of the 
+ game.
+  
+  My opinion overall of this game was that it was a wonderful game, but only if you could get past 
+ the storyline flaws. By cheating, I believe you can bypass the storyline entirely, but that entails 
+ using an odd username that most people wouldn't choose. In summary, Uplink is a good game with 
+ some less-than good aspects, but still worthwhile to pick up. 
+::::::
+
+::::::
+UserName: dsrarrow
+Rating: 8
+Date: Apr 12, 2005 11:06 pm PT
+Review:  Sometimes the little guy wins, Uplink was created by the guys at Introversion a little UK based 
+ games developer, who had a great idea; and actually made it happen. 
+  
+  Upink is a hacker simulator, as feels really authentic.
+  
+  This is truely a game for the ages, 
+ fantastic gameplay. Which is what this game is all about, basicly a spreadsheet witha mouse click 
+ interface, some typing involved but nothing too difficult. 
+  
+  You can play in almost a 'sandbox' kind of way, completely ignoring the storyline that is unfolding, 
+ or you can play though the storyline, and enjoy a complex and well written piece.
+  
+  The music in the game is top notch and is a joy to listen too, the sound effects are wonderful 
+ and the interface it self is really very visualy pleasing.
+  
+  Only downside is the potential difficulty of the storyline, (i have the brittish version so it 
+ might be different) however it does seem to be a little on the hard side; but, i suppose, a challenge 
+ is welcome.
+  
+  In the end Introversion has delivered a great game made by the little guy for the big bad world, 
+ may we hack in peace. 
+  
+  Hey if you don't belive me, download the demo, it's free you know. 
+::::::
+
+::::::
+UserName: PhenixRogue
+Rating: 3.4
+Date: Mar 30, 2003 5:05 pm PT
+Review:  This game makes you go through repetative actions for every single hack, without any controls that 
+ would automate what you need to do. It also is a pain to keep having to scroll through your programs 
+ (while the clock is ticking) and find it. Uplink has NO QUICK KEYS TO SPEAK OF, which is idiotic, 
+ since you're pretty much doing the same thing over and over again for each hack.
+  
+  It seems the primary goal of Uplink is how fast you can scroll your mouse around the screen before 
+ computer you're hacking catches you. What a pain in the rear end.
+  
+  Not to mention that it has NO GRAPHICS worth looking at. A black and green screen, for the most 
+ part, like the good 'ol days of Basic and DOS. It's not worth the $30 I paid for it. It figures 
+ that it was a game that was sold on the Internet-only before Strategy First picked it up. 
+::::::
+
+-------------------------------------------------

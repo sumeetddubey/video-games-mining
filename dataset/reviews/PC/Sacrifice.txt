@@ -1,0 +1,1106 @@
+-------------------------------------------------
+:::Game Name::: Sacrifice
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/sacrifice/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov  6, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.6
+Critic Score: 9.0, 37 Review (s)
+User Score: 8.9, 732 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Interplay
+Developer: Shiny
+Genre: Strategy
+Date:     Nov 5, 2000
+ESRB: Mature
+
+-------------------------------------------------
+:::Review:::
+Clearly, tremendous effort went into the game's unique fully 3D presentation and into formulating 
+ the similarly unusual play mechanics. 
+
+ Sacrifice by Shiny Entertainment is one of the most unusual PC games this year. It's also one of 
+ the best looking, and it even sounds great. Clearly, tremendous effort went into the game's unique 
+ fully 3D presentation and into formulating the similarly unusual play mechanics. Nevertheless, 
+ at its core, Sacrifice is actually a fairly straightforward real-time strategy game, whose pitched 
+ battles can have a tendency to turn into long-lasting stalemates. But the action has a lot of variety 
+ and is paced very quickly, both in the single-player campaign and in the multiplayer mode. And 
+ since the game has such a distinctive style, you'll more than likely find Sacrifice to be at least 
+ as enjoyable as it is strange.   
+
+  In Sacrifice, you play as a wizard who opts to represent individual members of a pantheon of gods. 
+ These five gods aren't just central to the plot and the setting, but they're central to the gameplay 
+ itself. Each god grants you his or her respective arsenal of magical spells, which can be used 
+ to summon creatures, attack foes, and more. To summon creatures, your wizard needs souls; and to 
+ cast any spell at all, your wizard needs mana. Souls and mana are the game's resources. You start 
+ with a certain surplus of souls, but you can otherwise collect them from the corpses of your fallen 
+ foes. Meanwhile, your supply of mana regenerates if you stand in close proximity to mana fountains, 
+ which are scattered across the land. Your rivals can also replenish their mana from these fountains 
+ - unless you erect a "manalith," a structure that will restore mana only to you. To replenish your 
+ mana when you're not right next to your manaliths, you'll need to summon creatures called manahoars. 
+ These pudgy yet quick little beings channel mana straight to your wizard, and the more of them 
+ you have at your side, the faster you'll regain mana. But you can't win battles with just manahoars 
+ - you'll rarely want many more than a few around, as each one costs a soul that you could've used 
+ to summon a stronger creature.   
+
+  You can help defend a manalith - and yourself, if you're near it - by using a guardian spell to 
+ effectively chain one of your creatures to it, which in turn makes that creature significantly 
+ stronger. But in doing so, you deny that creature its mobility. Since souls are limited, you'll 
+ have to choose carefully between defending your manaliths and keeping a strong, mobile force at 
+ your side. You can summon creatures quickly - this in turn makes the pacing of Sacrifice very fast 
+ - and you'll need a variety of ranged, flying, and close-attack creatures to counter your foe's 
+ similar assortment of beasts. Eventually, if you can defeat your enemy's forces either with superior 
+ numbers or with better unit micromanagement, then you can rush toward the enemy altar - his starting 
+ point - and sacrifice one of your creatures there, thus desecrating the enemy shrine and completely 
+ defeating the opponent. Playing Sacrifice takes getting used to, but the mechanics are actually 
+ complicated just at the surface level, mostly because the game initially seems so strange.   
+
+ 
+  It may be weird, but Sacrifice is also an undeniably impressive-looking game. From the fantastic, 
+ brightly colored terrain, to the bizarre creatures, to the incredible spell effects, virtually 
+ everything in Sacrifice looks great. You'll notice small details, such as individual flowers growing 
+ in the verdant plains belonging to the goddess of life, Persephone, or the buzzing flies and gnats 
+ that teem through the pestilent lands of the god of death, Charnel. The game's third-person perspective 
+ gives a close-up view of the striking landscapes of Sacrifice, and this view also lets you get 
+ up close and personal with the dozens of wonderful, intricately animated creatures in the game. 
+ Sacrifice's 3D engine does have some slight problems; for instance, you'll sometimes notice polygons 
+ being added and dropped from particular objects as you grow closer to and farther away from them. 
+ Also, some of the animations look slightly off - some of the characters seem to skate along surfaces 
+ instead of moving across them more naturally. But such blemishes are in no way significant, because 
+ Sacrifice looks so great in so many other ways. In fact, between the dreamlike environments that 
+ stretch far into the horizon and the great variety of creatures that populate them, certainly the 
+ game's graphics are one of its best features. The graphics are also highly scalable - the game 
+ plays well even on relatively slow machines, while it'll also take full advantage of the fastest 
+ systems and video cards currently available.   
+
+  Not only does Sacrifice look great, but it also sounds very good. Each of the different creatures 
+ has a correspondingly unusual sound to it. Some of them actually speak, while others make noises 
+ - but in either case, the creatures in Sacrifice tend to sound as bizarre as they look. The wizard 
+ character that you control also has his own unique voice - you play as the sage wizard Eldred during 
+ the campaign, though many different wizards of every shape are available to choose from in the 
+ game's multiplayer mode. The wizards all utter strange, magical syllables in their own voice as 
+ they summon creatures and structures and cast spells, and the spells never sound quite the same 
+ way twice. Unfortunately, this variety doesn't characterize the game's narrator. While his remarks 
+ during battle are clear and informative, they can also get very repetitive. You might get frustrated 
+ as you keep hearing "Your creatures are dying!" during battles with powerful opponents. But in 
+ general, there's much variety to the speech in Sacrifice. In particular, there's a lot of talking 
+ during the game's campaign, as in between each mission you'll hear the gods bicker among themselves. 
+ This dialogue is often funny, and you'll soon grow to like all the gods' personalities on account 
+ of the great voice acting that brings each of these strange characters to life. Sacrifice even 
+ has an impressive symphonic soundtrack, which has subtle recurrent themes for each of the game's 
+ five gods.    
+
+ Regardless of which of the gods you choose to serve, Sacrifice plays in essentially the same way. 
+ You control your fast-moving wizard from a third-person view, using a mouse and keyboard combination 
+ that'll be familiar if you've played a 3D action game recently. In addition to moving swiftly about 
+ the battlefield, collecting souls and avoiding attacks, you also need to cast your various spells 
+ to succeed. You can cast spells using the onscreen buttons along the bottom of the screen, but 
+ since these can be out of reach in the heat of battle, you're better off memorizing the hotkeys 
+ that correspond with your various abilities. Also, although it's easy to simply order a swarm of 
+ your units to defend you in the early portions of the game, as you face more challenging opponents, 
+ you'll need to learn to split your forces into discrete groups. In addition, you'll have to learn 
+ the various preset formations to keep the creatures in line. You can choose formations by using 
+ a convenient and unobtrusive pop-up interface or by using a hotkey.   
+
+  Unfortunately, Sacrifice's third-person perspective - while it looks great - isn't very well suited 
+ to the strategic aspects of the game. Namely, you can't really see what's happening behind your 
+ wizard, let alone to either side of him. Instead, you must constantly rely on your minimap in the 
+ corner of the screen to inform you of enemies, souls, and other important features in your vicinity. 
+ The minimap is fairly informative, but you'll still have to depend upon it much more than you'd 
+ wish. For instance, the minimap provides the most convenient means of letting you issue orders 
+ to your troops; it's more difficult both to find them and also to point them in the right direction 
+ just from the 3D third-person view. It's surprising that you have to spend so much of every battle 
+ scrutinizing a small map speckled with colored dots - it's almost as if all the great visual effects 
+ serve only to distract you from noticing what's really going on.   
+
+  There are other problems with playing Sacrifice, in that there's often no particular incentive 
+ to press the attack against your enemy. Specifically, the further you get from your territory, 
+ the slower your mana replenishes. And while you can readily pick up the souls of your creatures 
+ that fall in battle, to claim the souls of your enemies, you need to cast a spell that causes their 
+ souls to be carried back to your altar for conversion (or to a shrine, which you can build instead 
+ of a manalith) . Therefore, the closer you get to your enemy, the easier it is for him to convert 
+ your own fallen creatures' souls. For this reason, and also since it's usually impossible to gain 
+ souls without killing enemy creatures, more often than not you'll just be inclined to wait for 
+ your enemy to come to you. Even if you don't, because it's so easy to pick up your own creatures' 
+ souls, and generally difficult to successfully convert enemy souls, you'll find that it's difficult 
+ to gain any real advantage unless you completely repel your enemy's attack. And then in that case, 
+ the momentum of the battle shifts so drastically in your favor that your opponent will likely get 
+ frustrated. Due to the nature of the momentum of the game, if you're losing in Sacrifice, it can 
+ be extremely difficult to mount a comeback.   
+
+  Fortunately there are a lot of different ways to play Sacrifice, and many of them let you avoid 
+ the potentially frustrating elements of the combat. Sacrifice's single-player campaign pits you 
+ against a host of aggressive computer opponents. This campaign has a lot of replay value, as it 
+ lets you ally yourself with any of the five gods, one mission at a time, and shift allegiance between 
+ missions and play the sides against each other if you choose. Depending on your choices, you'll 
+ get different missions later in the campaign, and you'll also get a different combination of spells 
+ and creatures. This loose structure, in addition to the interesting plot, makes Sacrifice's campaign 
+ very worthwhile. You can also opt to play with up to three human or computer opponents in a skirmish 
+ match, in which you can set a number of different starting parameters and choose from a wide variety 
+ of maps. In multiplayer Sacrifice, your wizard actually gains experience as he fights, and experience 
+ levels bestow new spells, which can give you the edge against your enemy if you play more aggressively. 
+ Also, multiplayer Sacrifice has numerous offshoot modes, such as slaughter, where you aim for a 
+ high kill count, and soul harvest, where you try to collect the most souls. These variations aren't 
+ quite as interesting as the standard mode, but they still provide a change of pace.   
+
+  Sacrifice supports online play and has a fully integrated player-matching service, though it doesn't 
+ have a direct-connect TCP/IP option. The game also comes with a very amusing manual that's written 
+ from the perspective of the different gods. Sacrifice even includes a powerful map builder called 
+ Scapex, which lets you easily build a great-looking Sacrifice level from a fully 3D view. Since 
+ the layout of a Sacrifice map can drastically affect the way in which you must conduct the battle, 
+ and since the level editor works so well - and, most importantly, since Sacrifice is such an interesting 
+ game - Scapex is bound to give Sacrifice a great deal of longevity. This, along with the fact that 
+ Sacrifice looks and sounds so good, is reason enough to recommend the game. It can take you awhile 
+ to learn the game, and some of the elements of the combat may occasionally prove unwieldy, but 
+ most everything else about Sacrifice is so inventive that you should be able to turn a blind eye 
+ to its shortcomings and enjoy the game for its many outstanding qualities.    
+-------------------------------------------------
+:::User Reviews::: (24 Reviews)
+::::::
+UserName: kjschla
+Rating: 9.5
+Date: Dec 19, 2008 8:34 pm PT
+Review:  A must-play game in my opinion. It was just released on Good Old Games for 6 bucks. The graphics 
+ were stunning 8 years ago and are pleasing even by today's standards. The graphics remind me a 
+ bit of World of Warcraft -- bright and colorful. The game even plays similarly. 
+  
+  You control your wizard in real time from a 3rd person view and have a spell bar loaded with all 
+ of your offensive, defensive, creature summoning, building summoning, and other spells. Your summoned 
+ creatures are controlled directly by you and can be organized in formations. For instance, you 
+ put your melee troops in the skirmish formation so they lead the charge and then stick the ranged 
+ guys in a semi-circle behind them. You can have your units guard you as you run around the battle, 
+ or send them ahead and control the battle from a nearby hilltop while supporting with fireballs 
+ and heal spells.
+  
+  The resources in the game are your life, mana, and souls. The souls work like a supply limit in 
+ games like Starcraft or Company of Heroes. You collect souls mostly from your enemy's dead creatures. 
+ Sometimes you can find them floating at a strategic point on the map or maybe even liberate a few 
+ from some local peasants. You life and mana are like most rpg/mmo games. You take damage from spells 
+ or creatures and you lose life. You cast a spell or are hit by certain creatures and you lose mana. 
+ You gain mana by casting manaliths on mana fountains -- think of it like capturing a point in Company 
+ of Heroes. The more mana fountains you tap with manaliths the faster your mana comes back, unless 
+ you get too far away from your manaliths... then it slows to a crawl again... so the lines of battle 
+ are drawn in a way. If a mage tries a direct assault on your shrine far from his own manaliths, 
+ he will run out of mana quickly and be left vulnerable. The shrines tether you to the world, so 
+ if they are destroyed you are likewise banished. If you die from loss of health, you can respawn 
+ after recharging at a mana source as long as your shrine is around.
+  
+  The single player game has a well told story that changes based on the god's you chose to follow. 
+ It even has a collectible card game element to it. You can customize your spellbook to your liking 
+ by taking missions from different gods every time you play through. The god you pick grants you 
+ a unique spell and unit. So, there are many different spell and unit combinations... and game endings.
+ 
+  
+  The multiplayer has AI opponents. Joining up with a friend against a team of 2 AI is quite enjoyable. 
+ There is no difficulty setting for the AI, but you can give them an advantage by adjusting their 
+ damage multiplier. Matches support up to 4 players with many different options to mess with -- 
+ like friendly fire, soul count, mage level, etc. The online service has been unusable for me, but 
+ hamachi works fine to connect with friends provided you do a direct ip connection to the host's 
+ hamachi ip (games won't show up in the local lan list, at least for me) .
+  
+  It is a great game which didn't get nearly enough attention when it was released. Full of innovation 
+ for its time, it is quickly forgotten that it is an 8 year old game. You will not be sorry you 
+ spent 6 bucks on this. With all the buggy, unfinished games often inflicted on pc gamers... 60 
+ dollars might even seem a bargain for this treasure. 
+::::::
+
+::::::
+UserName: crazyfingers
+Rating: 10
+Date: Aug 20, 2008 10:10 pm PT
+Review:  I've been on Gamespot for years and have never written a single review. I felt compelled to share 
+ some brief thoughts on this ridiculously fun game. I bought Sacrifice when it first came out, and 
+ now eight years later, it is still pretty much my all-time favorite game. I'm not going to go into 
+ the gameplay or storyline (I am sure there are plenty of other reviews that do that admirably) , 
+ but I can definitely say that this game single-handedly got me into PC gaming. When it came out, 
+ the graphics were top notch, the gameplay superb, and the replayability was robust. I may be a 
+ bit biased, but I feel that this game still holds up very well and pretty much nails it as far 
+ as the "fun factor." It does have a bit of a learning curve, but once you are familiar with the 
+ mechanics, the game has a perfect blend of action, troop management, and strategy. The setting 
+ and characters are also very surreal and unlike most other games that are out there. Do yourself 
+ a favor and find this gem. When you hear those words, "Where was I? Oh... yes," and begin your next 
+ battle, you won't be disappointed. 
+::::::
+
+::::::
+UserName: tonytehtiger
+Rating: 10
+Date: Sep 30, 2007 1:42 am PT
+Review:  Sacrifice is simply put the rare game that gets it all right. Well almost.
+  
+  First off, the graphics. They are simply excellent. Not only are the graphics well done, the art 
+ direction in this game is almost unrivaled. I have not seen a game as unique in its appearance 
+ as this one. The wizards and creatures are all incredibly well done and I guarantee you that you 
+ will not find such units looking like this in any other game. The terrain is smooth and detailed, 
+ and the world looks genuine.
+  
+  Then comes the sound. Again, the sound and music in this game is top notch. In fact, I am tempted 
+ to say this game has some of the best music in video game history, and I am 100% positive that 
+ the voice acting is the BEST in all of media history, even beating Frank Welker as Megatron. Seriously, 
+ the audio in this game is pure 100% quality and sheer brilliance.
+  
+  As for gameplay, well its just EXCELLENT. The singleplayer campaign is unique in its presentation. 
+ The gamespot review details this in more detail. All I am going to add is that you can technically 
+ have five campaign in one if you do all the missions with one god. Each god's campaign has a unique 
+ twist on the main story, and from what I remember after playing this game so many times is that 
+ very few of the missions are exactly alike. Yes, most of them involve defeating opposing wizards, 
+ but each mission has some other little objectives or twists that make almost every mission memorable.
+ 
+  The AI is for the most part pretty good, though they do not use all the spells at their disposal, 
+ and their creature choice is somewhat odd at times. Still, I must confess that if the AI was smarter 
+ this game would be nearly impossible to finish.
+  
+  The multiplayer is pretty dead unfortunately. This is not battle. net. There are some players out 
+ there though, so if you really want you can find some people to play with. However, I do not think 
+ multiplayer is this game's strong point. As said in the gamespot review, the soul economy can quickly 
+ become a slippery slope.
+  
+  One of the problems with the game is that it is difficult to command your creatures with the view. 
+ This is an additional point that makes multiplayer even worse. In singleplayer you really don't 
+ need to command your creatures all that much. Trust me, I've beaten this game with all five gods 
+ multiple times.
+  
+  Since I have heard this game can be extremely difficult for some people (some reviewer said they 
+ were in a stalemate for 6 hours) , I am going to include a brief little hints section here. This 
+ is what worked for me.
+  First off, the first battle between you and the enemy wizard is THE most important battle. It is 
+ important that you NEVER lose any souls in the initial battles. You always start off with less 
+ souls than the enemy, and if you lose any souls in the first battle, the rest of the mission will 
+ be incredibly difficult.
+  Second, there is very little use for the guardian spell in my experience. Your forces will be easily 
+ spread thin, and that is not good. If your manalith is being attacked, teleport to it. Zoom out 
+ of the minimap and teleport. In general, the artillery units are not very useful for you. They 
+ are the slowest in the game and pretty fragile. The enemy uses these a lot, but the enemy also 
+ starts off with more manaliths than you and more souls. If it suits your playstyle you can try 
+ to use artillery units if you want, but I have had difficulty using them with much success. The 
+ only time I use artillery units is in the later missions when I am almost winning the game but 
+ the last few manaliths have dozens of guardians or whatever. Another unit that has limited usefulness 
+ are the flying melee units such as the ikarus, pyrodactyl, blight, gremlin and seraph. If you have 
+ really good reflexes you can use these units extremely well with their special abilities, but for 
+ the regular folk these units do not win battles. They have low health and die extremely easily. 
+ The enemy sometimes uses these units to attack your manaliths. They have high attack so your manalith 
+ will usually be destroyed pretty quickly, but this tactic is usually used when you're winning, 
+ so you should be able to spare either some souls to attach 1 soul ranged units to your manaliths 
+ or just let the manalith die. You should have a lot of them anyway. In addition, the majority of 
+ you army should be the strongest unit available. Don't bother playing this as an RTS, just tell 
+ your creatures to guard you. For each type of creature, make a control group and give them a certain 
+ position. I recommend 4 manahoars in phalanx formation, ranged units in semicircle formation, flying 
+ units in semicircle formation, and everything else in line formation. Later in the game when you 
+ have extreme amounts of souls, (like 12 flyers, 12 ranged and a lot of melee) take your strongest 
+ unit group and put them in phalanx formation and use them as a death squad. Yes, 12 ents works. 
+ This obviously isn't everything that will make you win, but its a good starting point. For me, 
+ the easiest god to win with was James. Choose all the good choices and you'll have a dragon as 
+ an ally for the entire campaign with James, and this makes the game SOO much easier. For most missions 
+ just tell the dragon to attack the enemy wizard. For around 6 missions you'll have no problems. 
+ Pyro is the hardest to win with in my opinion. His creatures have high attack, but until the last 
+ 2 missions most of them die extremely quickly. With charnel its a pretty difficult game as well, 
+ but spamming animate dead should help turn things in your favor.
+  There are certain missions which for some reason are incredibly difficult. With stratos there is 
+ a mission where you have to keep hachimen and buta busy. This mission is murder. I only managed 
+ to beat it once, then my patience died. Don't hurt yourself on this, if you're not getting anywhere, 
+ just cheat. Another mission which is pretty difficult is a charnel mission where you fight the 
+ pyrodraulic dynamo. This mission is beatable, but it takes some luck and LOTS of speed. Save often 
+ in this mission. There are times when you are not able to teleport in time from being killed by 
+ the volcano, and that usually means you lose, especially in the early part of the mission. In the 
+ beginning try to build as many manaliths as you can while at the same time summoning creatures 
+ to use up all your souls. Don't bother attacking the dynamo until late game. The second to last 
+ pyro mission is pretty brutal as well. Usually the only way I can win is by stalling by casting 
+ volcano as a temporary wall . The enemy always runs away from volcano. I don't want to spoil too 
+ much though, but stalling will make the mission easier. :) In one case the mission became easier 
+ because one of the triggers wasn't triggered. If you can avoid triggering a wizard in that mission, 
+ it makes things MUCH easier. I think it has to do with the way the AI works, but I'm not too sure. 
+ In any case, none of the missions are impossible, and I am not a pro nor am I very good at games. 
+ Just learn the tricks in the game and that's all it takes.
+  
+  You probably won't find this game in stores nor anywhere else for that matter, and the company 
+ that made it no longer exists. What this means is:
+  Get this game any way you can. I am including piracy and copies here, because you're no longer 
+ stealing from the company, because it no longer exists. This game deserves to be played and enjoyed, 
+ and I recommend you do that. 
+::::::
+
+::::::
+UserName: retro-smetka
+Rating: 9.5
+Date: Aug 16, 2007 10:37 am PT
+Review:  I remember years ago, when Sacrifice came out, I played the demo, but never got to buying it. Well 
+ early this year I picked it up in a store by chance and got to playing it. And I can tell you, 
+ the game still looks excellent. The years have been good to it. Sacrifice is basically a real time 
+ strategy mixed with roleplaying as it involves basic leveling and spell casting of main characters 
+ (the wizards) in the game. The game starts with you choosing which god you will serve ( you can 
+ change your allegiance later on) and the game begins. You play a wizard, who is able to cast spells 
+ and summon creatures to do your bidding, I will not talk about the plot because I don't want to 
+ spoil it for you. In the earlier levels you obviously have only few spells and creatures available, 
+ but as the game progresses you gain access to more powerful spells and monsters. You are required 
+ to have sufficient amount of mana to cast spells and summon creatures, so you need to build so 
+ called Manaliths on mana fountains. You then have a source of mana, but then you must also summon 
+ creatures called manahoars which then transfer that mana to you, when you move away from the manalith 
+ (otherwise you are manaless) . In most scenarios, your goal is to banish your rival wizards, by 
+ desecrating their altars (they can desecrate your also) and the lack of different goals, in general, 
+ plays a small role because you'll alway be excited by new spells and monsters, and preoccupied 
+ with fighting your rivals. The controls are simple and effective, you control your wizard from 
+ 3rd person with your usual W S A D controls, cast spells by clicking on the icons on the panel 
+ in the bottom of the screen and targeting them on desired creatures or location. You can zoom in 
+ and out, rotate left and right via mouse or keyboard, so you will rarely be in a situation where 
+ a creature blocks your view. The graphics are simply amazing (considering the game came out in 
+ 2000) . The engine is capable of rendering vast areas in high res meanwhile displaying a battle 
+ of 30+ creatures on the screen battling and wizards casting flashy spells, with no problem. Kinda 
+ puts newer games to shame (Oblivion for instance) . Another thing I love about Sacrifice is it has 
+ a great replay value. In the game there are 5 gods, and each one has a different set of creatures 
+ and spells, plus scenarios, which comes down to you replaying the game again and again. I think 
+ that if there is still anyone out there, who loves RTS mixed with fantasy and RPG, look no further. 
+ Get a copy of Sacrifice today and join the battle. 
+::::::
+
+::::::
+UserName: Romulus24
+Rating: 9.8
+Date: Jul 9, 2007 10:27 am PT
+Review:  I have played through this game at least ten times, the story line (which is great) changes depending 
+ on your choices and experimenting with the different spells and creatures is a blast and with five 
+ seperate gods, each with there own arsenal of spells and creatures, you can easly find yourself 
+ wanting to experiment with different combinations. Early levels are easy but the later levels can 
+ be really hard. Very easy to get the hang of. Definitely recommended for RTS or RPG fans. The multiplayer 
+ is also a blast, but it can be hard to find oppenents, especially ones that might be a challenge. 
+ 
+::::::
+
+::::::
+UserName: rachaelhourne
+Rating: 9.4
+Date: Jul 9, 2007 9:03 am PT
+Review:  The soul mechanic works wonders for this action orientated strategy game. The spells are fun to 
+ use and the creature summons are imaginative.
+  
+  The five God factions are likeable characters, and each offer usefull spells and units. Replay 
+ value is high via online and offline (in offline mode the campagin can be tackled through a number 
+ of paths) .
+  
+  The graphics and sound are fantastic, with the art style still holding up to this day.
+  
+  The 
+ game can be tough to begin with, but stick with it and it will all of a sudden 'click' and you 
+ will have great fun with the game for sure! 
+::::::
+
+::::::
+UserName: zellgod
+Rating: 10
+Date: May 3, 2007 7:18 pm PT
+Review:  This game is such an original. The story line is great. You get to choose from 5 different gods 
+ to follow. The voice acting is superior to any game ever created, and yes i am aware this review 
+ was written in 2007. The gameplay is very good and the difficulty is oldschool. The graphics are 
+ great too for the time and still look absolutely pleasing. I truly believe this is the greatest 
+ game is perfect. The fact that you can make your own unique build depending on which god you follow 
+ each round adds a ton of replay value. The different battles that occur depending on your choices 
+ also adds to replay value. 
+::::::
+
+::::::
+UserName: Zipster
+Rating: 9.4
+Date: Mar 7, 2007 4:33 pm PT
+Review:  Sacrifice was released by Shiny Entertainment in November of 2000. Set in a beautiful, artistic 
+ and unique fantasy world, Sacrifice casts you as the wizard Eldred (by default name) , who has traveled 
+ to another world in seek of refuge and guidance. From there, the 5 gods of the game respond to 
+ Eldred, allowing the player to choose whom to follow. Your decisions in which of the 5 gods to 
+ follow clearly affects game play - dictating which ending you'll see, which spells you'll use, 
+ which creatures you can summon, and which levels you go to. The story itself focuses on the growing 
+ tensions of the five gods, and a prophecy which talks of great destruction. Each of the 5 different 
+ gods have their own motives, which allows for things to be different each and every time. The characters 
+ of the gods are all very well created, and they all manage to be likeable.
+  
+  The game play is what sets Sacrifice aside from all the other games out there. Sacrifice is an 
+ action RTS (Real time Strategy) . The player controls a wizard manually from a third person perspective. 
+ The Wizard is the central force of play, as he or she acts as every important facility that can 
+ be found in more traditional RTS games; the Wizard gathers the resources, builds any structures, 
+ or produces any units for combat, while also casting his own spells into the midst of the battle. 
+ It seems confusing, and at first it can be overwhelming. The game's resources come in two different 
+ forms. One is souls, and the other mana.
+  
+  Souls are used to summon the various creatures in the game. As you level up, you get access to 
+ more creatures. A creature can cost anywhere from 1-5 souls to summon - the higher number of souls, 
+ the stronger the creature. Every game has a set amount of souls in it, meaning that souls are a 
+ very important resource. If you have a soul, that is one less soul your opponent (s) have. If there 
+ is only 5 souls in a game, then every soul is drastically important. Souls, likewise, are gathered 
+ from fallen creatures - or, can be found just hovering around in some places. When a creature dies, 
+ the souls of the creature hover above it. If it was your creature that died, then the soul will 
+ appear blue - meaning you can pick it up as it is. If it's an enemy's creature, then the soul must 
+ be converted - which costs mana.
+  
+  Mana is much easier to come by than souls. Throughout every level is what are called mana fountains. 
+ These fountains spew mana out of them, replenishing your wizards mana reserves - which is what 
+ allows the wizard to do any sort of magic, be it summoning creatures or casting a fireball. The 
+ wizard can also take ownership of the mana fountain by making what is called a manalith. The manalith 
+ is a building constructed over the fountain which makes it so the fountain transfers mana only 
+ to the wizard and his creatures. Mana, as previously stated, is what allows the wizard to do what 
+ it is that wizards do. A wizard without mana is worse than a wizard without health. The game play 
+ can be fast and frantic, often with upwards of 20 creatures fighting on screen at once, with up 
+ to 5 wizards all casting spells in the midst of the battle, thus making it a very intense skirmish. 
+ Even when there aren't 4 wizards, the battles can escalate into sheer chaos.
+  
+  This is partially due because of all the creatures in the game. Sacrifice offers more than 50 different 
+ creatures for the player to summon for his disposal. Each of the creatures is unique, and distinct, 
+ offering its own advantage to the game. Some of the creatures are small - such as the speedy frostwolf 
+ or the pesky gnomes. Others are gigantic, easily 5 times bigger than your wizard such as the monstrous 
+ rhinok or devilish hellmouth. The magical spells, of course, also attribute to the carnage of a 
+ battle. The spells themselves are spectacular, and like the creatures, all with distinct advantages. 
+ Every wizard will have a Heal spell, a speed up spell, and a basic attack spell. The basic attack 
+ spell - as well as every other spell aside from Heal and Speed Up - is dependent on the god who 
+ granted you that spell. Stratos, for example, will allow a wizard to shoot a bolt of lighting, 
+ whilst Pyro will allow the wizard to summon a fireball. The spells are unique, and all serving 
+ their distinct purposes. Some spells will rain destruction - or frogs - down onto the enemy, while 
+ others will revive downed creatures, put up shields, immobilize enemies, or even create a wall 
+ to prevent enemies from moving further. Each god has a super spell, which are the most impressive 
+ - and effective - spells in the game. These spells are able to turn the tide of battle with a little 
+ bit of luck. Such spells have wizards calling down a giant tornado, which causes enemies to be 
+ sucked up into it and tossed about, or causing a gigantic hole to open up in the earth, swallowing 
+ whatever is above it. One even causes a massive volcano to erupt from the ground, spewing forth 
+ loads of lava, and hurling flaming molten rocks throughout the stage.
+  It's all very impressive.
+  
+  Graphically, Sacrifice shines - even though it's 7 years old. 
+ While, not nearly as impressive as the new games that are out, Sacrifices graphics remain stunning 
+ and beautiful. Edges can be jaggy, sharp, and squared off, but it hardly seems noticeable unless 
+ you're looking to point out the flaws. The wizards are all very well modeled, and each one is unique. 
+ The creatures, however, aren't all as unique as the wizards. Creatures such as the earthfling, 
+ fallen, and the flame minion all seem to share the basic same model, but are differently textured. 
+ There are a few other creatures which are like this - though some of these are even explained in 
+ the story. The games effects are all very pretty. Though, the game uses sprites in some situations, 
+ the effects are all beautiful. Weather it be watching the Sac doctors dance around the altar sacrificing 
+ a fallen creature to your god, or watching as an Abomination pulls out a chunk of intestines and 
+ hurls it over a great distance as blood drips off it, staining the ground until it finally splatters 
+ in a big bloody mess, it's all very impressive. The game engines handles battle scars very well, 
+ and often blood and scorch marks will remain in that spot for a good while. Add this to the fact 
+ that the landscape is deformable, and you can really change the face of the battle field. Spells 
+ such as Bombardment will hurl giants rocks into the air, which will dent and deform the landscape 
+ - often leaving craters or ditches. Sacrifice's sound design is just as impressive as the rest. 
+ The main story itself is fully voice acted - and the voice acting is all done wonderfully. The 
+ scenes in which the gods are bickering back and forth are often humorous, and the sounds of the 
+ various effects all sound just right - whether it be the sound of lighting, or the deep rumble 
+ of a volcano about to erupt.
+  
+  Each of the wizards also features their own voice acting, and they are all very distinct. During 
+ the time which a wizard casts a spell, the wizard will chant a few words, and each wizard sounds 
+ entirely different, while never standing out as Man, that just sounded stupid. 
+  
+  More so, each of the 50+ creatures have their own, unique voices and sound effects, which does 
+ a wonderful job at giving each critter a personality. Not only do the creatures have basic lines 
+ that can be summed up as, Alright and Attack! they even have some extra lines in there which some 
+ players might never hear: such as an earthfling saying, Ya got mud on your face, your a disgrace, 
+ I will rock you. 
+  
+  The music itself is epic, and dynamic - as well as customizable if you'd rather listen to your 
+ own music in the game. There are various tunes for the different landscapes, as well as various 
+ battle tunes, which make battles even more intense.
+  
+  It can be said that Sacrifice is a game that still shines today, despite being released in 2000. 
+ Sacrifice has a lot of flavor, and a great personality, as well as some good humor - what other 
+ game lets you cast a spell to drop a gigantic cow onto the head of a foe? The game play is fresh, 
+ untraditional, fast, and extremely unique, while the graphics remain visually beautiful thanks 
+ to the amazing style and art. The sound is phenomenal and engaging, and the story has various paths 
+ allowing for replay value. It even comes complete with a very impressive, yet easy to use level 
+ editor to make your own multiplayer maps, or even campaigns. Sacrifice is a one of a kind game, 
+ and a cult classic for those who fell in love with it. The game can be found on Amazon for under 
+ 5$ or even downloaded at http://free-game-downloads. mosw. com/ for a small fee. Anyone who hasn't 
+ played Sacrifice is missing out on one of the most unique games released within the last 10 years. 
+ 
+::::::
+
+::::::
+UserName: Bozanimal
+Rating: 7
+Date: Feb 27, 2007 9:10 am PT
+Review:  The game tries to be original and fun, and it succeeds for a time. The landscape is beautiful and 
+ characters are great. The graphics were cutting-edge when the game was released. The world was 
+ impressive, and the storyline was entertaining. You are basically a wizard outsourcing tasks for 
+ the deities, and you really feel like a pawn among Greek Gods.
+  
+  Graphics
+  Fantastic; while the character renderings are dated here in 2007, they still appear original and 
+ crazy. The world is massive and really sucks you in. Great particle effects make casting spells 
+ and siphoning off mana pleasing to the eyes.
+  
+  Sound
+  Amazing sound with great voice actors and appropriate sound effects. The music typically keeps 
+ pace with the mood without being annoying or invasive.
+  
+  Level Design
+  Each stage is thoughtfully laid out with points of advantage during combat and strategic points 
+ to hold out.
+  
+  Gameplay
+  The A. I. is very good, too good for my liking. I found some of the battles to go one forever (meaning 
+ 4-6 hours) without any sort of advancement. The game was so balanced that the scales never tipped 
+ either way. This hampered all of the other great factors going for the game (above) .
+  
+  Conclusion
+  While the game was well constructed and is impressive to the senses, the gameplay 
+ was inevitably frustrating and overlong. Still, there is no game like it to date, and it's worth 
+ playing for a spell if you find a copy in the bargain bin. 
+::::::
+
+::::::
+UserName: jimbobb23
+Rating: 9.8
+Date: Feb 10, 2007 5:57 pm PT
+Review:  This is easily one of the best games ever made. Exceptionally innovative, clever, funny, and with 
+ amazing gameplay. If you can still find it, it is worth the $5 you might pay. I can't believe I 
+ only found it years after it was out. If you enjoy strategy games, or video games at all, you owe 
+ it to yourself to check out this tremendous effort. A real gem of originality amid the stale genre 
+ of RTS.
+  
+  This game combines lush first person graphics with a strategy to very good effect. Instead of being 
+ the commander from the sky, you are the commander on the ground, leading troops into battle. 
+::::::
+
+::::::
+UserName: Balthazr
+Rating: 8.1
+Date: Jan 22, 2007 4:47 am PT
+Review:  After a huge war, a wizard named Eldred recalls to a friend the horror and devistation of the Battles 
+ that led to the final moment and possible the final day of the world to come. Rather you fight 
+ for Persephone to gain back peace and purity, or fight for with James, the god of the earth, or 
+ maybe you fight for Stratos and bring the world into a time of equal peace and war, or give your 
+ hand to Pyro the god of Fire and Industry and let production not halt to a stop, or maybe give 
+ your soul to Charnel and bring this world into chaos. The choice is yours, wizard. 
+::::::
+
+::::::
+UserName: mahatta
+Rating: 9.6
+Date: Dec 2, 2006 6:30 am PT
+Review:  I just buy it but i immediately love it. In campaign, you begin by select one of 5 gods: persophone, 
+ god of justice, james, god of earth, stratos, god of air, pyro, god of fire and charnel, god of 
+ death. The special is that you can choose all 5 gods for 5 missions, example: the first mission 
+ you choose james, the second mission you can choose stratos, and the third mission you can choose 
+ charnel. This is great, you can have the most powerful army that has the best creature of 5 gods, 
+ but notice that, if you always change, you can have an attention says you would lose your grace.
+ 
+  The mission of some gods can be hard or easy, example i can complete the james' second mission 
+ easily, but i can't do that with charnel's second mission.
+  The graphic is beautiful (of course compare with games same year) , the sound is good too. You can 
+ see scary faces on charnel altar, or hear the voice of zyzyx (a bird who going with you for help) . 
+ The magic is also great, if you see volcano spell, you will shout: OH, what a scary, unbelievable 
+ spell . You can see how dangerous is it if you look at that spell.
+  So, come and buy it, you won't disappointed. 
+::::::
+
+::::::
+UserName: fahad2mail
+Rating: 9.3
+Date: Oct 24, 2006 1:41 am PT
+Review:  this is really amazing to play a charecter who have gods power! o yah, this is the game. here u find 
+ urseld as a magicitian who lost his motherland n also his faith. n gods try to capture u! Here 5 
+ gods play the whole world. like god of life, god of wind, god of chaos (fire) , god of earth n god of 
+ death. u have to select any of the god n have to play many mission to achive victory all over the 
+ world. for this reason, u have to beat other 4 god! each god has their own power n creature. n they 
+ are totally different. u can cast various type of spell or can create many creature during the game. from 
+ starting, u have an alter. thats ur selected gods alter. if any enemy destroys it, u will be elimineted. so 
+ beware to protect ur alter. than go to mission. for cast spell or create creature, u need mana. n mana 
+ can be regenarate by mana creature. every time u cast spell or create creature, they regenate ur 
+ mana. each god have a unique creature (like level 4 or 5, black dragon ....) and an unique magic 
+ spell. like god of chaos have the volcano power, god of death have the angel of death power. like 
+ this. the graphysics is astronishing. n the sound is to well. n the gameplay is great tooo. those who 
+ love magic n fantasy type game, i bet that they will become fan of it. a great game by shiny entertainment. 
+ 
+::::::
+
+::::::
+UserName: lordgodalming
+Rating: 9.7
+Date: Oct 21, 2006 1:20 am PT
+Review:  Sacrifice came to PCs in 2000 courtesy of the same people who made Earthworm Jim and MDK. Shiny 
+ Entertainment made it their business to alter genres, and Sacrifice is no exception. The lengthy 
+ opening scene to the story, rendered in-game, shows a destroyed world. Apparently it is the homeworld 
+ of the main character, a wizard who summoned the demon Marduke in his lust for power. Marduke proved 
+ too powerful to control, and it slaughtered everyone on the planet. You can see fallen bodies all 
+ over the landscape, complete with the hazy red and blue souls waiting to be used by the next powerful 
+ wizard.
+  
+  The opening levels of Sacrifice teach you pretty much every skill you will use throughout the game, 
+ just on a smaller scale. At its core, Sacrifice is a real-time strategy game where you are on the 
+ ground with your troops instead of hovering above them, as in Warcraft or Command and Conquer. 
+ You begin with your base or altar, and a few souls with which to summon some creatures to fight 
+ for you. Your creatures kill some other creatures, which leave souls behind for you to convert 
+ and harvest. If it's not obvious yet, Sacrifice carries some deep religious overtones. In fact, 
+ the game's name comes from the only way you can win a level -- by sacrificing one of your own creatures 
+ at your enemy wizard's altar.
+  
+  Sacrifice is designed for optimal replay. Before each level, you meet in the realm of the gods, 
+ where five gods (one of whom is an earthworm named James...) sit and bicker about your next mission. 
+ Whichever god you choose to serve for a particular mission dictates which world you will fight 
+ in and which new creature you will be able to summon for the rest of the game. Especially near 
+ the end of the game, the missions themselves will be very similar, but the creatures you recieve 
+ are often vastly different. This is where the replayability comes in; you could go through the 
+ game five times just to try out all of the different creatures.
+  
+  Lastly, it was obvious that Shiny wanted Sacrifice to look and sound good for a long time. When 
+ the game was released, it supported graphical options that did not even exist yet! And instead 
+ of having programmers or interns do all of the voice acting -- and there is a lot of speech in this 
+ game -- they hired professional actors including A-listers like Tim Curry and Brad Garrett. With 
+ Shiny's attention to every detail of aesthetics and gameplay, Sacrifice is literally the most interesting 
+ and innovative RTS I have ever played. 
+::::::
+
+::::::
+UserName: BoldoAsesino
+Rating: 10
+Date: Jul 17, 2006 11:11 am PT
+Review:  Keeping themselves loyal to their tradition of radical originality, Shiny demonstrates with Sacrifice 
+ that strategy games still have some very great things to say, even after the release of StarCraft. 
+ For Sacrifice is, perhaps, the most innovative and original strategy game of the history.
+  In Sacrifice, you play the role of a sorcerer who, having escaped from the collapse of his planet, 
+ traveled through a portal and came to some kind of pantheon where there are five gods. They are 
+ Persephone, goddess of forests and life; James, god of earth; Stratos, god of rational intelligence 
+ and air; Pyro, god of industry and fire; and Charnel, god of death. Every one of these gods is 
+ in desperate need of the services of a sorcerer. Thinking that its a real luck to be an illegal 
+ alien (no pun intended) and nevertheless find a good job, you enter the service of one of the gods. 
+ Soon, you discover that the five gods are into the dirtiest political struggle you can imagine, 
+ trying to achieve supremacy over the land and over the other gods. And that you are their pawn. 
+ Add to all of this a prophecy about the imminent end of the world you just arrived into, and you 
+ will realize soon that youre into some really big trouble.
+  If I had to explain how Sacrifice plays, I would say that it reminds me somewhat of an old game 
+ by Looking Glass Studios, Terra Nova. Its a blended mix between strategy games and first-person 
+ shooters. The objectives of each mission are varied, but they always involve defeating the sorcerer 
+ of the enemy god. This is accomplished by performing a desecrating ritual that consists in sacrificing 
+ one of your creatures at the altar of the enemy sorcerer. Of course, you must impede the enemy 
+ sorcerer to perform this ritual on your altar. This is not easy, since every god has its exclusive 
+ set of creatures and spells that are granted to every sorcerer at the beginning of each level for 
+ making the attack and defense an easy task.
+  Every strategy game commands you to gather resources in order to have something to spend for the 
+ training of units, and Sacrifice is not the exception. Being more logical to a game that has its 
+ roots on magic and religion, the resources are mana and souls. Spells cost mana, and creatures 
+ are summoned spending souls and mana. In order to have an interesting supply of those, you must 
+ claim the property of mana sources that are scattered through the land and you must retrieve the 
+ souls of dead units in order to reutilize them summoning new creatures. Souls come in two flavors: 
+ blue, corresponding to the souls of your creatures; and red, corresponding of those from the enemy. 
+ While blue souls can be collected directly for your sorcerer, red souls must be purified first 
+ with a ritual in your altar before being used.
+  Plot develops consistently with every level you play and every cutscene you watch, and the narrative 
+ is very well arranged in a cinematographical way. But the most impressive thing about it is that 
+ you can construct it any way you want. Let me explain this. Each god has a set of nine levels for 
+ you to accomplish. Five by nine makes forty-five. But the only requisite you must accomplish to 
+ enter the final level is to complete only nine levels of the forty-five. What nine levels to complete, 
+ its up to you. You may choose to remain loyal to one god from the beginning to the end of the 
+ game. Or you may choose to constantly switch sides between levels. You decide.
+  Perhaps, remaining loyal to one god through the whole game is best recommended to beginner players, 
+ so they could learn and expertise themselves on the management of that particular gods creatures 
+ and spells. After you complete the five campaigns, it is really recommended to switch sides: your 
+ sorcerer will accumulate spells and creatures from every god, and its the only way to have THAT 
+ excellent spell or critter instead of the lousy one that THAT god grants at the beginning of THAT 
+ level. The only limit to this switching is the mood of the gods. Each mission you play has a positive 
+ consequence on the mood of some gods, while having negative consequences on the mood of some other 
+ gods. If you happen to boycott very frequently the interests of one particular god, he will get 
+ angry with you and you wont be able to play his levels again. 
+  With that on mind, you have complete freedom to make your way through Sacrifice the way you want. 
+ And the impressive part about it is that the plot adapts perfectly to every decision you make. 
+ Sacrifices script reminds me very much of those Choose Your Own Adventure books, where the general 
+ story is divided on fragments that could be articulated the way the reader chooses. And just like 
+ those books invited you to read them again in order to discover the different endings of the story, 
+ Sacrifice has a lot of replayability. Just if you decide to remain loyal to one god, you must play 
+ it five times in order to complete the level of each god. Imagine if you choose to explore all 
+ the possible combinations of the levels. Add to this the premade scenarios and the level editor 
+ that come with the game! The only regrettable thing is the complete absence of a randomizer, because 
+ that would have been an awesome boost to the replayability of the game.
+  About the graphics, they are absolutely impressive. Theres not one single scenario where you dont 
+ yell Wow! at every panoramic view. The symphonic soundtrack is absolutely amazing and never sounds 
+ pointless. The absurd surrealistic humor the guys at Shiny were so fond of is not absent on Sacrifice: 
+ while other gods have Greek names, the god of the earth is called James and is... a giant earthworm 
+ with bad attitude. Stratos, god of air, is an astronaut that has a spring on top of his head with 
+ a junkie Smiley pin like the ones that were used by the band Nirvana back on the nineties. Every 
+ nice Shiny Entertainment trademark is present on Sacrifice; but also is Shinys characteristic 
+ frustrating difficulty. Level one is fairly easy, so you get in the mood; level two is a vicious 
+ cudgeling. Sometimes, you lose not because of a lack of strategy from your part, but because the 
+ game urged you to be at two different places at the same time or to react faster than is humanly 
+ possible. Nevertheless, this frustration never matches that from Shinys previous releases, like 
+ MDK or Messiah. As a matter of fact, Sacrifice seems better and more carefully designed than any 
+ other game released by Shiny.
+  To sum up, Sacrifice is perhaps the best game of all the career of Shiny Entertainment; and, although 
+ it didnt sell very much at the time of its release, it was deeply influential on subsequent games. 
+ After six years, it is still a very good experience to any gamer, and a real threat more than a 
+ challenge even to veterans of the genre. 
+::::::
+
+::::::
+UserName: AID_Knight
+Rating: 8.6
+Date: Jun 23, 2006 9:30 pm PT
+Review:  This is one hell of a strange game. It includes mysticism, weird creatures and semi-visible familiars 
+ set in its very own world so if you are the kind used to blasting stuff with rifles or rolling 
+ tanks into battle, this RTS ain't for you. However, if you like casting spells to support your 
+ creatures and desecrating enemy altars, then stick around.
+  
+  Story:
+  
+  Let me fill you in on a bit of the story. You start of a wizard wandering through a land filled 
+ with death and slaughter. Bodies are common and the land is dead. This is obvious but unless you're 
+ dim and blur your familiar Zyzyx will point this out. You find a prophet, Mithras and cure the 
+ poor guy of his ailments. He asks you to tell your tale and the rest of the story is a flashback, 
+ lead of course by you.
+  
+  The entire story is different every time giving it much replay value. This is due to the fact that 
+ there are so many paths or gods you can choose. However, the God of Slaughter Charnel's missions 
+ are a tad difficult.
+  
+  One of the first things you'll notice is the graphics. Today in 2006 you might either go, "Gee, 
+ the graphics aren't too bad for a 6-year old game." or "OMG my eyes are burning out of their sockets!!! 
+ The textures suck and the polygons are bloody visible!" I'll go on about the graphics later but 
+ for now, lets stick with the gameplay.
+  
+  Gameplay:
+  
+  You find that you the game is set in a Third person mode meaning you look from behind the wizard. 
+ The camera control take some time to get used to but when you master them you find them extremely 
+ useful in the three dimentional world. There is also a mini map with many icons to ease your management
+ 
+  
+  There are two types of resources in the game the ever recharging and omni-present mana, used for 
+ spells, abilities and attacking (ranged units) . And the limited and invaluable Souls. Mana is usually 
+ easy to get. Your starting altar produces little mana but mana fountains give the most. In order 
+ to claim a mana fountain, you build a manalith. This makes sure you and ONLY you get the mana. 
+ However when traveling the map, you can't bring a fountain with you. Summon a manahoar to channel 
+ the mana to you. Souls are very rare. They are needed for summoning creatures. The only way to 
+ get more is to collect lost souls, you own creatures souls, or convert heathen souls.
+  
+  Taking the tutorial will get you through the basics of the game. You will find this game to be 
+ a wonderful mix between the RTS genre and RPG genre. Something that wasn't very common for its 
+ time. Strategy lovers will be happy to know that different units have different purposes. Various 
+ formations are supplied such as semi-circle, circle, line, phalanx, skirmish and so forth with 
+ an added two, flank left and flank right, in the patch. The usual geographical strategies also 
+ exist here, typically, hills offer better defense for ranged units against melee units, so on so 
+ forth. Also the game uses a common triangle archer vs pikeman, pikeman vs knight, knight vs archer 
+ except using its own variation.
+  
+  For the fantasy lovers, spells are really something to awe at here. Even your lvl 1 Wrath or Lightning 
+ can kill low level units instantly. Just imagine when you get spells like volcano or death (my 
+ fav BTW) . Also, most creatures have their own special ability like stealth and consume. These of 
+ course take up mana and so do ranged units' attacks. There are five different gods each with their 
+ own set of units, spells, and enemies. Ally one and fight another basically. Each god also has 
+ a different personality which is quite humouress to watch when they argue but pick your sides carefully.
+ 
+  
+  One problem I have is that when moving up a mountain, the camera control gets screwed up abit and 
+ is difficult to control. Also when battles become large I almost always accidentally target my 
+ own units.
+  
+  Graphics:
+  
+  Now lets move on to the graphics. The graphics are outdated but for a 2000 game, it sure is good! 
+ The entire world is 3D allowing you to explore and exploit everything you see. I still enjoy watching 
+ the sky and clouds pass by and sometimes, the rain. If set to high, you can see the flowers on 
+ the ground and the little village people gossip or run away as they see a fire ball headed their 
+ way.
+  
+  The texture resolution isn't all that great. You can still see the polygons poke out every here 
+ and there but remember, its a 2000 game.
+  
+  Sound:
+  
+  The sound in this game is just great! The voice acting is oh-so-real and the sound effects are 
+ enough to make you jump out of your seat. When casting a spell or summoning, you wizard mumbles 
+ and chants incantations that are never repeated twice! I did notice that a few of the incantations 
+ are Latin ex. Carpe Diem. The incantations also include clap trap and blather like pejorative and 
+ sanctu or something, but it all fits.
+  
+  The music in the game seems to always fit. It just suits the atmosphere so well. Whether snow world, 
+ grassy lands or desert rock the music just seems to seep in. However, when you start to fight, 
+ the music becomes aggressive and bloody.
+  
+  Some creatures do sound a bit annoying and repetitive.
+  
+  Multiplayer:
+  
+  The multiplayer 
+ is good. It offers several gameplay modes such as, Slaughter, and Skirmish. You are allowed to 
+ ally with other players who use other gods so you can combo different gods and get many cool things. 
+ A basic example is using Charnel's Styxs to push while Persephone can use her Healing Aura or Rainbow 
+ spell.
+  Another good Charnel-Persephone combo is the plague-rain of frogs. Plague poisons and repeatedly 
+ damages units in an area for several seconds while rain of frogs slows disables them from escaping 
+ their demise. Quite ironic because Charnel and Persephone are natural enemies.
+  
+  The only problem I find in mulitplayer is the lack of Tcp/IP. However, this is fixed in the patch 
+ also.
+  
+  Pros:
+  -Replay value
+  -Storyline
+  -Many different spells and creatures
+  -Perfect atmosphere
+  -Multiplayer mayhem!
+  
+  Cons:
+  -A few camera problems
+  -Some texture 
+ and polygon annoyance
+  -Lack of Tcp/IP (fixed) 
+::::::
+
+::::::
+UserName: Tinkertown
+Rating: 9.7
+Date: Jun 5, 2006 2:07 pm PT
+Review:  Sacrifice is kinda like the ultimate RTS Black and White produced by the amazing peoples of lionhead 
+ studios (Creators of excellent Fable) . Sacrifice dosnt just make you point and click from a sort 
+ of birdsye view... it actually puts you in the game. You are a mighty wizard who is kind of like 
+ a fantasy mercenary who does different jobs for different gods! Basically in the midst of doing 
+ these jobs you cant fight alone.... you need an army! The game is more fighting than it actually 
+ is building the odd building. As a wizard you dont need to train your mythical army... you summon 
+ them right then and there! Build the odd occasional little "Mana lithe" or "Summoning pool" but 
+ basically you just summon an army. In order to be able to summon this army you need sould. You 
+ can venture a huge battle ground which allows you to find corpses that have little soul floating 
+ above them!!!
+  A man come down and collects to souls for you! Its pretty in depth and hard to explain if you dont 
+ actually have the game! Even though its pretty old its still a recommended buy!
+  
+  Overall with excellent similarites to black and white, violence, good sounds and music there should 
+ be nothing wrong with this game! 
+::::::
+
+::::::
+UserName: Bahamut50
+Rating: 9.4
+Date: Apr 16, 2006 5:58 pm PT
+Review:  When your looking for a game, some people just want the usual. sequels sequels and yes, more sequels. but 
+ there are others who want something new, something original and different from their gaming experience. 
+ they look far and wide for these kind of games and usually, they are dissapointed. but then this 
+ game came out of no where, and it was original, and it was different, and it was great. this is 
+ a game for people who just need a change in their normal gaming experience.
+  
+  Gameplay: The gameplay in this is definetly the best part of the game. a third person strategy 
+ game, in which you collect souls from fallen enemies in order to summon armies of your own, crazy 
+ creatures. the concept of fighting on a battleground while still maintaining that strategic element 
+ with a hint of action? count me in. there are very cool and effective spells to be used here, like 
+ a volcano to torch your enemies, or a tornado to send em spinning through the air. the story mode 
+ in this game is fun, structured well, and you will want to play it again just to do things differently. 
+ it made you want to try crazy amount of things, like having a regiment of mana creatures to keep 
+ you casting those crazy spells and summoning those huge mighty creatures. there are 5 races of 
+ creatures in this game, ranging from earth to fire to nature, to death and even ice/air. the gameplay 
+ made this game fresh, and even now there isnt much like this. while you may like some other things 
+ better, they will never be as unique as something like this. a big 10 here
+  
+  Graphics: Back then, this was actually a very high quality game in graphics, with a few little 
+ flaws in frame rate, but mostly just great, strange looking floating islands. there are volcanic 
+ areas, frozen tundras, large mountainous wastelands, green plains littered with trees, and different 
+ towns to see. the creatures and wizards all look strange and unique, and they never get boring. 
+ they change some normal design techniques and are much more interesting than some character design 
+ from now. overall, graphics is a big sucess, and you cant contend with sucess. a big 9 here
+  
+  Sound: The voice acting in this is varied, delivered well, and makes you just want to listen 
+ to the gods bicker and argue. each character is done well, like the main character and sidekick, 
+ eldred and zyzyx. you just shouldnt miss out on the level of quality this game has in voice acting. 
+ music is somewhat unique, but not on the level that graphics and gameplay has put up. it has the 
+ basic scores that work well, but not exceptionally so. either way, this does not detriment from 
+ the game. a good 7 here
+  
+  Value: like i said, unique games tend to have alot more value then your average first person shooter, 
+ because its just so different to play a strange game and you just wanna do it again and again till 
+ youve seen all there is to see. Sacrifice can easily last you a long time in gameplay, and it never 
+ really gets boring. overall a fun game that can last you a long time. a 9 here
+  
+  tilt: i just couldnt get enough of the unique gaming experience found in sacrifice, and although 
+ my cd doesnt work now, i plan to get another copy, and relive the magic allover again. this game 
+ wont quit. not now, not ever. a nice 10 here
+  
+  in summary, i found this game to be of a quality rarely found now a days, with all these "great 
+ and unique" games that come with next-gen, and i still feel that the next generation can not start 
+ until games like this, amazing, strange and unique, come back into style. well done sacrifice, 
+ and thank you for trying to be different 
+::::::
+
+::::::
+UserName: mort2fire
+Rating: 9
+Date: Jan 8, 2006 12:36 pm PT
+Review:  The world of Sacrifice is one of fantastic magical power and mysticism. According to the ancient 
+ texts, the Creator -- in a strangely Biblical sense -- gave some of his own life-force to give 
+ birth to the world and all its creatures. Everything was peaceful until the Fallen One predictably 
+ came with destruction and chaos in mind, somehow managing to overthrow the Creator, banishing him 
+ to the nether regions of the universe. Much of the land was laid to waste during this conflict, 
+ and things began to go awry, with horrible mutations springing to life out of the ground. In the 
+ midst of this peril, five new gods arose to fill the place vacated by the creator. Each of these 
+ gods has a representative ideology such as nature, order, or chaos that makes them stand out from 
+ the rest of the pack. Pyro, for instance, is the God of Destruction, yet he considers himself a 
+ bringer of light and truth that perpetuates the advancement of society through conflict, in which 
+ the weak die and the strong survive to become even better adapted. Each of the other four gods 
+ suffer from similar arrogance, believing that the one right and true way is the one which they 
+ advocate. Much like the Olympian deities of old, these beings are constantly bickering over who 
+ is the greatest, or who has the best philosophy. From the arguments often rise heated battles, 
+ wherein the gods send out their forces to battle. Thus far, no clear winner has emerged. Through 
+ a combination of courage and cunning you will attempt to win a decisive victory, for whichever 
+ side you decide to take. 
+::::::
+
+::::::
+UserName: Yakkabe
+Rating: 9.3
+Date: Dec 9, 2005 7:09 pm PT
+Review:  This unique game combines a levelling up strategy and a very open-ended storyline with all the 
+ army-building and strategic point-holding of an RTS, making for an extremely enjoyable and immensely 
+ replayable experience.
+  
+  Graphics: It came out in 2000, but on a high-end machine, this game still looks spectacular. The 
+ environments are staggeringly and distracringly beautiful, and the character shadows are superb. 
+ However, there does seem to be an odd bug, where without the settings all the way up, a tree or 
+ a building will occasionally try to realign itself, even when you're not moving, making it look 
+ like someone's hitting it repeatedly with a baseball bat. You tend to get used to it.
+  
+  Sound/Music: Sacrifice uses orchestral music, written by Kevin Manthei and performed by the Laguna 
+ Pacific Orchestra. The music is absolutely fantastic, kicking up from tranquil background music 
+ into a riveting battle theme whenever you meet the enemy head-on. In the midst of combat, you can 
+ hear your creatures exchanging blows, throwing taunts, and crying out in pain. It's quite immersive.
+ 
+  
+  Story: You play as a wizard named Eldred (You can change his name) who has apparently just fled 
+ his old home and arrived at a strange new world, home of 5 quarrelling, bickering gods full of 
+ personality. You are welcomed in, and begin to serve them, but soon, your past catches up with 
+ you...
+  
+  Depending on which God you serve for each mission, some of them will begin to refuse your services, 
+ and you'll eventually be left with only one that will still offer you missions. The story becomes 
+ drastically different depending on how you play it.
+  
+  Gameplay: This is where Sacrifice is truly unique. Rather than control your creatures from high 
+ above, you run amongst them as a spellcaster and supporter. You have a mana bar and a health bar. 
+ In the campaign mode, you start with only 3 spells and 3 creatures, gaining a more powerful one 
+ of each on each new level, but playing multiplayer, you gain experience by casting spells and killing 
+ enemies.
+  Other than your mana, your only other resource is souls. That's right, if one of your creatures 
+ dies, you must run over to the corpse and grab his soul if you want to summon another one. Some 
+ of the bigger creatures need more than one. You can only grab your own creatures' souls, but when 
+ an enemy creature dies, you can try to convert it by sacrificing it back at your altar (This really 
+ is quite pagan, isn't it?) . Also, in this game, death is not the end. When your health bar hits 
+ zero, you die and become spectral. Then you can come back using any source of mana, regroup and 
+ still win. To defeat your opponent, you need to desecrate their altar by sacrificing one of your 
+ own creatures on it. It takes some getting used to, but it's an astounding concept. The only problem 
+ is that a single battle can last for an extremely long time when there's a free for all with 4 
+ different wizards in the middle of a melee dying and respawning nonstop.
+  
+  Fun: When the game starts, it's almost impossible to lose, but some of the last levels are nearly 
+ impossible, especially if you made some poor choices along the way. And the open-ended story leaves 
+ you coming back again and again.
+  
+  Overall:
+  Highs: Beautiful graphics and music, challenging gameplay, very unique perspectives in every aspect.
+ 
+  Lows: Minor visual glitches, annoying in-game advisor, hard as hell. 
+::::::
+
+::::::
+UserName: MasterMarcus
+Rating: 8.8
+Date: Dec 6, 2004 7:32 pm PT
+Review:  Back in 2000, here comes Sacrifice which is a fabulous evolution of the RTS genre not really matched 
+ in its category for some time: fantasy worlds governed by sarcastic gods, inside where the player 
+ must find his way to desecrate altars while commanding diverse armies of creatures. Each kind of 
+ creature has its strenghts and weaknesses, being vastly representative of a RPG legacy, yet you 
+ have to control them like a twisted battalion from a world war sim. Here however, you have to travel 
+ within large imaginary landscapes, from bucolic to scorched depending for which god you ( try ) 
+ fulfill the mission. The whole construct seems to be just right calibrated; the SP campaign is 
+ greatly timed, and lets the player to choose gods and missions for a maximum representing a minority 
+ of the total available: lots of replayability here. Some of them can be quite hard, if not frustrating, 
+ particularly a couple in the Stratos govern.
+  
+  The graphics are just simply amazing with all the texturing and details for the release date, at 
+ times when most PC owners weren't able to run the game properly at max settings. Even at medium, 
+ some stuttering was not uncommon and sadly altering a bit an otherwise ambitious gameplay. The 
+ characters are superbly animated within amazing colored meshes. The match is astounding. The sound 
+ code is equally professionally done; the gods voiceovers are an entertaining audio show not to 
+ be missed, while in-game coding is nicely toned. Some may remember having watched the lenghty ending 
+ sequence, when the eruptions begin the framerates drop drastically to 5-10 fps! Ouch.
+  
+  The potential of all Sacrifice's mechanics is indeed impressive, adding a complexity to the genre. 
+ This comes at a price to be overlooked by the mass of gamers, as it is the destiny for every gem 
+ too hardcore, and hard to master. Regardless, it has a surprisingly good fun factor for every RTS 
+ addict ( and RPG at some extent ) . The missions are varied throughout huge environments enriching 
+ the progress. Clearly the design has some lasting appeal for the strategist spousing fantasy in 
+ all lighting flashy aspects. Though Sacrifice remains almost alone in the gameplay compound, many 
+ of the 2003-2004 MMORPGs are loosely reminiscent of it regarding the environmental design. Another 
+ great title almost forgotten ! 
+::::::
+
+::::::
+UserName: zechis
+Rating: 8.6
+Date: Oct 17, 2004 2:12 am PT
+Review:  You play as a wizard, exiled from another world that has just been destroyed by a powerful being, 
+ Marduk. You arrive on a new planet governed by 5 gods: Persephone, Charnel, James, Pyro, and Stratos. 
+ Each god offers you tasks to complete, each with their own set of creatures and spells at your 
+ disposal for the duration of the mission. The stories for the missions are all different but intertwine 
+ at the end. You destroy all other gods but the one you work for the most often. The last mission 
+ you go up against Marduk himself.
+  A graphically rich, third-person, real-time strategy/spell-casting game. The main currency of the 
+ game is souls. You use them and mana to cast spells that create your creatures. Mana regenerates 
+ over time if you are nearby a mana spout, either unowned or one you have built a manalith or shrine 
+ over. When you are far away from your manaliths, a manahoar creature draws mana to you. You must 
+ attack the other wizard and his/her creatures. When your creatures die, make sure to pick up their 
+ souls for reusing in another creature. When an enemy wizards creature dies, it leaves souls that 
+ must be cleansed first. Cleansing is accomplished by summoning a sac doctor which carries the 
+ soul back to your altar/shrine and sacrifices the creature to obtain its soul for you. When you 
+ run out of health, you become ethereal, unable to cast spells, but still able to control your creatures. 
+ You can return to the physical world by standing near your manalith/shrine/manahoars and acquiring 
+ enough mana. You win the mission by desecrating one or more wizards' altars by sacrificing one 
+ of your creatures at it, and killing the owning wizard.
+  This is a very unique game with very interesting gameplay. Some of the dialog is simply hilarious 
+ and you are able to take many different paths through the story by choosing the missions of different 
+ gods in different orders. Unfortunately, controlling the creatures is a bit difficult (especially 
+ when they are behind you) . It often ends up becoming a game of: defend your altar, kill the enemy 
+ creatures, steal their souls until the enemy wizard has none left, and then systematically taking 
+ over the enemy manaliths until you reach their altar. The other game modes extend the replay of 
+ this game a bit. 
+::::::
+
+::::::
+UserName: Mozart
+Rating: 9.8
+Date: Jul 9, 2004 8:12 am PT
+Review:  Although this is an ancient game, it is one of the best games I've ever played. Unfortunately, 
+ it requires a great deal of patience when you first start off, but the rewards are plenty if you 
+ stick with it. Since the replay value is nearly infinite, you won't have any trouble playing the 
+ game over and over. Although the music is repetitive, it never gets tiring and the graphical effects 
+ still are fun to watch.
+  
+  The gameplay is of the rock/scissors/paper concept, so you need to take this into account to enjoy 
+ the game. As you play the game, you soon get use to the make-up of your enemies forces, so you 
+ can create creatures that can counter these. If you build a certain set of creatures and they are 
+ quickly crushed, then you have the wrong set. Adding spells and enemy wizards to the mix makes 
+ it all the more enjoyable.
+  
+  The reviewer notes that it's tough to recover if the odds are not in your favor, but I've played 
+ many levels where I was, what I thought was hopelessly down, but not out. It's cool when you win 
+ these.
+  
+  It's too bad that there will probably never be a sequel to this game considering Shiny's future. 
+ Nevertheless, I'm still glad I have the game and can play it even after all these years. 
+::::::
+
+::::::
+UserName: JMM-1
+Rating: 7
+Date: Apr 14, 2003 1:11 pm PT
+Review:  At first I really enjoyed Sacrifice. Sure, combat was a little messy and confusing, but in the 
+ end there seemed to be enough control to handle a battle and come out victorious. The graphics 
+ were great and it was a very unique idea that offered a lot of varying ways to play. 
+  
+  But as time went on and the battles became more involved, the complexity of control became a significant 
+ hindrance for me. Also, I started getting really annoyed at situations where logically I should 
+ have no problem winning the battle but somehow (and I never figure out why) all of a sudden all 
+ of my creatures are dead and I'm being overrun. I'm sure some folks reading this will say that 
+ I'm just a sore loser, but I really felt that the battle logic didn't make sense in these situations 
+ and after it happened to me about 4 or 5 times I stopped playing. I've had much greater (and funner) 
+ challenges with Warcraft III or AOEII where logic prevails and your strategic competence is rewarded 
+ by victory. Anyway, I might go back and try Sacrifice again, but with so many other great games 
+ available, I might never make it.... and I won't be sad about it. 
+::::::
+
+-------------------------------------------------

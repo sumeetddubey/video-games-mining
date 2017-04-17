@@ -1,0 +1,243 @@
+-------------------------------------------------
+:::Game Name::: Enemy Engaged: RAH-66 Comanche Versus Ka-52 Hokum
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/enemyengagedrah66cvkh/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug  8, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 9
+Critic Score: 8.8, 14 Review (s)
+User Score: 8.7, 155 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Empire Interactive
+Developer: Razorworks Studios
+Genre: Helicopter Sim
+Date:     Jul 31, 2000
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Enemy Engaged sets a higher standard for how immersive a flight sim can be, while it also avoids 
+ getting mired down in the technical minutiae of combat aviation. 
+
+ The year 2000 is definitely the year of the helicopter simulation. There've already been two combat 
+ rotary-wing sims, including Ka-52 Team Alligator and Gunship. But the new Enemy Engaged: RAH-66 
+ Comanche vs. Ka-52 Hokum is by far the best. Enemy Engaged is Razorworks' sequel to its popular 
+ 1999 sim Apache/Havoc, and while it bears a strong resemblance to its predecessor, it also stands 
+ on its own.   
+
+  Enemy Engaged is a helicopter sim that puts you in the pilot's seat of either the RAH-66 Comanche 
+ or the Ka-52 Hokum. Both aircraft are the latest in attack helicopter technology, and Razorworks' 
+ game reflects this, as it seems to have the style of a classified government simulator. That's 
+ because Razorworks has done a remarkable job of detailing and fine-tuning all aspects of the game. 
+ From the active radio chatter and the detailed cockpits to the sweeping dynamic campaigns, Enemy 
+ Engaged sets a higher standard for how immersive a flight sim can be, while it also avoids getting 
+ mired down in the technical minutiae of combat aviation. Enemy Engaged is not a pure hard-core 
+ simulation, but this won't make it any less satisfying for hard-core simulation enthusiasts.   
+ 
+
+  Enemy Engaged has actually been out for several months in the United Kingdom, so it's probably 
+ not surprising that the US release is relatively free of bugs, given how much time there has been 
+ to work out the problems since the game's initial launch. This obscures the fact that the UK release 
+ shipped with very few bugs in the first place, and those that did crop up were relatively minor 
+ and quickly fixed. However, the US release does fix a few other obscure problems and adds some 
+ new command line parameters.   
+
+  Enemy Engaged's terrain graphics are similar to those in Apache/Havoc, and while the older game's 
+ 3D graphics engine was impressive when it was released in 1999, it's no longer as impressive more 
+ than a year later. But it's still good, and manages to be both reasonably attractive and quite 
+ fast. Razorworks has improved the look of the graphics to some extent, particularly through the 
+ skillful use of lighting effects. The graphics engine also runs very smoothly on a modest machine 
+ like a Pentium II-450. Also, if you're using a low-end computer, you can turn down the game's details 
+ and effects to ease the load on your processor. Nevertheless, terrain graphics are not the game's 
+ strong suit.   
+
+  However, the aircraft and vehicle models are another story. These look outstanding, and they are 
+ certainly among the best in any simulation to date. The weapon effects are gorgeous, so much so 
+ that it's quite an experience simply to fly around at night and let loose with the chain gun while 
+ you watch from an external camera view. The effect of rain beading up on the first-person cockpit 
+ view in the darkness is positively eerie, especially when you're creeping up on a ridgeline to 
+ pop up on a row of targets. This combination of lighting and sound effects, as well as the detailed 
+ unit models, more than makes up for the mediocre terrain. While the graphics in Gunship! were simply 
+ flashy, the graphics in Enemy Engaged give you the sense of being in a helicopter in the middle 
+ of a war. Which is, presumably, the whole point of a simulation.   
+
+  The flight model in Enemy Engaged is not just that of a generic helicopter, as the US and Russian 
+ helos handle very differently and require different flying styles. The Comanche is a good bit more 
+ agile, and the distinctive flight experiences offered by these two choppers greatly adds to the 
+ value of the sim. Complex dynamics such as vortex ring, blade stall, ground effect, and cross coupling 
+ can be turned on or off individually if you prefer not to contend with some of the challenges of 
+ realistic flight.    
+
+ Both the Comanche and the Hokum cockpits are very detailed, although neither one offers a 2D-cockpit 
+ option that lets you click on the various controls, as in other sims. Otherwise, the Enemy Engaged 
+ commands are very similar to those used in Apache/Havoc, and as the manual states, the transition 
+ from one sim to the other should be straightforward. The game's avionics are comprehensive without 
+ being overwhelming, yet the difference between these and those found in Ka-52 Team Alligator make 
+ it difficult to believe they're supposed to represent the same helicopter.   
+
+  One of the best features of Enemy Engaged is how Razorworks extended the life of Apache/Havoc by 
+ making those aircraft flyable in the new sim. All you need to do is patch your copy of Apache/Havoc 
+ to v1.1E (which is supplied on the Enemy Engaged CD) . Once this is done, you can fly all four helicopters 
+ in all six campaigns from both Apache/Havoc and Enemy Engaged, and you're restricted only by their 
+ availability in a particular mission (and by the fact that only the pilot's seat is modeled in 
+ the older helos when you fly them in Enemy Engaged) . This is a great option that also represents 
+ the best way to make the most of an existing product line when a sequel is produced. Apache/Havoc 
+ is cheap to come by these days, and it can greatly extend the life of the newer sim.   
+
+  But Enemy Engaged's greatest feat is likely the way in which it manages to be accessible, without 
+ being intimidating or dumbed down, as well as without cutting any corners. It's true that the avionics 
+ in Jane's popular Longbow 2 were more detailed and comprehensive than those in Enemy Engaged. However, 
+ Enemy Engaged seems so complete and well designed that the specific level of detail likewise seems 
+ appropriate and effective. There is so much to do in Enemy Engaged, especially in the multiplayer 
+ mode, that even veteran pilots will find a suitable challenge. At the same time, novice flight 
+ sim enthusiasts won't feel overwhelmed by a mass of MFDs and HUD symbology. The balance is just 
+ about perfect.   
+
+  While Enemy Engaged is definitely accessible to the novice, one area where it does fall short is 
+ in the training missions - or rather in the lack of training missions, since there aren't any. 
+ Instead of narrated training flights, Enemy Engaged has a "free flight" mode in which you can practice 
+ flying and weapons handling at varying levels of difficulty, and (if you choose) without fear of 
+ crashing. The manual is fairly comprehensive and complete (and it has a nice, large keyboard overview 
+ card) , although the US version is shorter than its UK counterpart due to the puzzling omission 
+ of a print version of the ground school (tutorial) , recognition guide, and unit campaign overview 
+ sections. These are instead available for download from TalonSoft, presumably to save on printing 
+ costs.   
+
+  The dynamic campaigns - two in the Middle East and one in Taiwan - are everything you can reasonably 
+ hope from a flight sim's dynamic campaign. The game's artificial intelligence responds to your 
+ incursions and thrusts in what seems like a realistic manner. Enemy unit AI is scalable, and at 
+ the highest difficulty setting, it gives a good fight. Wingman AI, which was a particular problem 
+ in Apache/Havoc, is also competent in Enemy Engaged. There are also a number of available "skirmishes" 
+ for you to fly, which are mini campaigns that use smaller portions of the map.   
+
+  Of all the helicopter simulations released this year, Razorworks' product is in a class by itself, 
+ and it will certainly earn itself a place on the ballot when the best-sim-of-the-year nominations 
+ come around. For the past three years, fans of hard-core simulations have wished for a helicopter 
+ sim to exceed the impossibly high standard set by Longbow 2, and Enemy Engaged is the worthiest 
+ candidate yet.    
+-------------------------------------------------
+:::User Reviews::: (3 Reviews)
+::::::
+UserName: Hermes33
+Rating: 9.5
+Date: May 30, 2007 9:23 am PT
+Review:  You may be wondering... how can this be? Wasnt Enemy Engaged 2 only just released? Yes, well perhaps 
+ the less said about the updated version the better. THIS version is still the best there is, 
+ mainly because it has several stability patches, bug-fixes, facelifts and mods to make it rival 
+ the latest new commercial games (i. e. Enemy Engaged 2!) .
+  
+  And if you are a TrackIR 4 Pro user, you will especially want to own this version because it has 
+ full 6DOF (six degrees of freedom) supported, whereas Enemy Engaged 2 out of the box (as of the 
+ time of writing) does not  just 2 DOF (and buggy and broken at that) .
+  
+  Luckily for those lazy souls out there, all you have to do to get it looking and working up to 
+ 2007 standards is to do a minimal amount of work, and (for the most part) its an idiot-proof automated 
+ process. Simply go to www. eechcentral. com for the download links and follow the instructions how 
+ to do it.
+  
+  Another thing that makes this game so special is the weighty tome of a manual included, hundreds 
+ of pages long. Its a brilliant read in itself and almost worth buying the game for the book alone. 
+ Sadly to date and the time of writing, the days of flight simulations with heavy manuals included 
+ like this have long since past. Publishers make claims that military simulation games dont sell 
+ as well as they used to because the market changed. Well Mr/Ms Publisher, maybe thats because 
+ YOU decided that for us by stopping selling them in the first place?
+  
+  Its clear that computer games publishers have been influenced one way or another and coaxed and 
+ encouraged by their accountants and executives inside the industry NOT to develop or sell realistic/complicated 
+ military flight simulations to the public anymore after 9/11, and instead the majority of videogame 
+ development has been pushed towards dumbed-down games such as first-person shooters where you 
+ dont need to think as much, and are indeed encouraged not to do so. Not so with the old flight 
+ sims like EECH1  there was actually a BOOK (albeit technical manual) included you could READ!
+ 
+  
+  You dont know what a book is? Oh, you know, those old things that used to stimulate the mind and 
+ let you think for yourself ?
+  
+  *sigh*
+  
+  Good luck finding this one! Try eBay and enjoy this old classic in all its 2007 glory and let's 
+ hope that the upcoming Black Shark will be a return to the old days of classic military sims like 
+ this. 
+::::::
+
+::::::
+UserName: biohazard112
+Rating: 9.4
+Date: Mar 16, 2007 11:50 am PT
+Review:  This sim is great with just a few things that are bad. Like the amount of helicopter's you can choose. 
+ This is the only real big thing that I think could be more. But for the rest the graphics are good 
+ I can't say there stunning but good. The gameplay is great. I mean it's simple but really effective. 
+ If you like simulator's and really want something new just buy this game. The sound is very realistic 
+ and very impressive I have to say. It's just a strong game with really good features. But I wish 
+ there were more helicopter's. For the rest it's a really good game and I would sertenly buy this 
+ game if you are a simulator fan 
+::::::
+
+::::::
+UserName: pesadilla
+Rating: 9.3
+Date: Nov 23, 2006 10:25 pm PT
+Review:  I am extremely surprised that this has not received one single review other than the cover review. 
+ This helicopter-sim is the best I have ever seen (and I have played quite a few) . This game is 
+ even better than todays helicopter-sim (6 years later)  yes, even better than the Longbow or 
+ Janes series. This game is not weighed down by a lot of technical avionics. It does have the option 
+ of you getting into all the nit-picky stuff if you so desire - but it is not required to fully 
+ enjoy this game.
+  
+  You can choose either skirmishes or campaigns.
+  
+  Skirmishes are quick battles that can be played in less than 30 minutes. Great for quickies
+  
+ 
+  Campaigns take time for they represent real full-length battles.
+  
+  In the campaign part of the game, a full scale battle going on. Good against bad (you can play 
+ either the good side or the bad side) . It all happens in real world time. If the helicopter you 
+ are piloting crashes - it doesn't mean the game is over. You can just take over another helicopter 
+ on your side already in progress (which was controlled by the AI) . The game is over when ALL of 
+ your helicopters crash and you are unable to finish your mission.
+  
+  Whichever side you choose (good or bad) , you will fly a DIFFERENT helicopter. They just dont change 
+ the graphics of the helicopter, they change the flying styles. You will be literally flying differently 
+ on each side.
+  
+  The missions are impressive, realistic and challenging. The AI of this game is VERY impressive. 
+ It responds appropriately to your actions.
+  
+  This game doesnt have a tutorial in the traditional sense, but it does have a Free Flight option. 
+ You have unlimited ammo and cant crash. Onscreen directions are not an option. You will need to 
+ read the manual and follow along to learn. You dont need a PhD in avionics to take-off or land 
+ in this game nor do you have to go through a series of hitting 30 keys timed right just to accomplish 
+ the take-off or landing.
+  
+  The console in the game is not interactive. You cant move your mouse curser over the dashboard 
+ graphics and play with the switches and buttons. For the life of me, I can not figure out why people 
+ would even want to. I have learned to shy away from helicopter sim games that do that.
+  
+  As of writing this (November 2006) - the graphics are not the best, but they are still pretty darn 
+ good. When it was first released in 2000 - the graphics were off the chart. If the graphics still 
+ hold up 6 years after release, it says something about the programming.
+  
+  The only thing I can say that I don't like about the game is that unless you have a programmable 
+ joystick or game pad (the kind that you program specific keyboard commands to) , you really can't 
+ customize anything through the game. The commands in the game are already programmed to specific 
+ joystick buttons or levers. I personally like using game pads (I know, it takes away from the realism, 
+ but I like game pads) - so programming the game pad is VERY important to me. The game doesn't support 
+ game pads otherwise (unless the game pad can be programmed to keyboard commands) .
+  
+  All-in-all, this is about as good as it gets to helicopter sims. If you are wanting to join the 
+ Military and fly real helicopters or are extremely anal about realistic avionics - this game will 
+ not teach you all the proper avionics, but if you just want to get the thrill of flying with a 
+ lot of realism, than this is the game for you. 
+::::::
+
+-------------------------------------------------

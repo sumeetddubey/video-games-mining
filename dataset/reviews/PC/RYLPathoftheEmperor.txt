@@ -1,0 +1,532 @@
+-------------------------------------------------
+:::Game Name::: RYL: Path of the Emperor
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/riskyourlife/review.html
+-------------------------------------------------
+:::The Good:::
+ Real-time, action-oriented combat system.
+ Extensive PvP system.
+-------------------------------------------------
+:::The Bad:::
+ Dated, low-res graphics.
+ Bland player-versus-environment content.
+ Frequent graphical glitches.
+-------------------------------------------------
+:::Date::: Jul 12, 2005
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.6
+Critic Score: 5.4, 25 Review (s)
+User Score: 6.3, 228 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Planetwide Games
+Developer: Youxiland
+Genre: Fantasy Online...
+Date:     Jun 20, 2005
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+RYL: Path of the Emperor represents a throwback in the current market, offering mostly lackluster 
+ visuals, a staid player-versus-environment game, and a standard sort of guild-versus-guild, player-versus-player 
+ system. 
+
+  Massively multiplayer online role-playing games seem to be having something of a renaissance of 
+ late. Recent excellent games like World of Warcraft and Guild Wars have brought new levels of refinement 
+ and polish, in addition to inventive systems, to the genre that both draw in new audiences and 
+ keep existing addicts happy. The problem with RYL: Path of the Emperor is that it represents a 
+ throwback in the current market, offering mostly lackluster visuals, a staid player-versus-environment 
+ game, and a standard sort of guild-versus-guild, player-versus-player system. The Diablo-style 
+ clickfest combat is a refreshing twist in what is otherwise a wholly average MMO experience.  
+
+ 
+          This is an MMO. So, of course, squirrels are deadly adversaries that may be approached 
+ only with great caution.     
+
+  The world of RYL (that's "Risk Your Life") is one of violent upheaval, driven by the martial machinations 
+ of the two main races, the humans of Kartehena and the alien-looking Ak'Kan people of Merkhadia. 
+ A history of bloody conflict has the two groups at each other's throats, and though matters are 
+ pretty bleak on the whole, a third faction has risen to the fore. Dubbed the God's Pirates, this 
+ alliance of human and Ak'Kan forces seeks to spread peace and tolerance throughout the magical 
+ lands, known as the Almighty Ground, and its members aren't shy about getting their blades dirty 
+ in the name of reconciliation. What storyline there is in the game revolves around these three 
+ powers -- Kartefants, Merkhadians, and God's Pirates -- as they jostle with one another for supremacy. 
+ When you first start out, you'll be able to create either a human Kartefant or an Ak'Kan Merkhadian, 
+ and your choice will lock you to that one race on that particular server. You can also choose to 
+ switch your allegiance to the God's Pirates, if you so desire. The nationality you choose affects 
+ which quest lines you can explore in the game, as well as who you'll be targeted by during player-versus-player 
+ combat.  
+
+  The character-creation tool lets you choose from a handful of appearance-customization options, 
+ and then it lets you choose an initial class archetype that you can refine later. The usual subjects 
+ are all here: fighters, rogues, mages, and acolytes (with their support magic) . These broad character 
+ classes can be refined once you hit level 10 in the game, at which point you can find a class trainer 
+ and start learning your trade. Humans and Ak'Kan each have different classes that serve the same 
+ broad roles. For example, humans have warriors to inflict damage and defenders to soak up enemy 
+ hits, while the Ak'Kan have attackers and templars, which are roughly equivalent. Humans have enchanters, 
+ sorcerers, priests, and clerics, while the Ak'Kan have life, shadow, and rune "officiators." You'll 
+ also start off with a small number of points that you can assign to whichever character stats you'd 
+ like, a practice you'll repeat each time you gain a level in the game. Each of the various stats 
+ has unique benefits for the various classes. For example, strength will increase a warrior's damage, 
+ accuracy, evasion, speed, and more, while the same stat on a defender class will boost slightly 
+ different abilities.  
+
+          For a cleric, she looks pretty surly. It's probably the hat.     
+
+  While the game boasts 
+ hundreds of quests, they're split among the various factions, and, in truth, you won't encounter 
+ large numbers of them. The intrigues among the nationalities are loosely sketched out by the non-player 
+ characters in the game, though you won't get a really strong sense of narrative. What the player-versus-environment 
+ game  does  provide are scores of critters and creatures of steadily climbing strength for you 
+ to carve through as you go. You won't have any indication of how strong a monster is, relative 
+ to you, until you actually go up and hit it, though the creatures move slowly enough that you can 
+ usually run away from them (or right past them) fairly easily. However, most of the time you'll 
+ just need to find the strongest foe you can dispatch comfortably and grind patiently away until 
+ you've leveled up and can move over a little bit to attack the next-strongest foe. The game supports 
+ both a mouse-based (click to move) and a keyboard-based (WASD and mouse-look) system of movement; 
+ both movement systems feel sluggish and imprecise, though this weakness fortunately doesn't extend 
+ to the combat.     
+
+   
+
+  The combat in RYL is all real time, so you press the left mouse button for melee attacks and the 
+ right mouse button to trigger any special skills you have hotkeyed. The system is easy to pick 
+ up and learn, so in no time you'll be queuing up specials with your keyboard while left-clicking 
+ the monster in mad combo sweeps, ready to right-click the instant your chosen special skill is 
+ refreshed. Another wrinkle is that no two characters have precisely the same skill set, as each 
+ class has innate skills. However, there are a wide variety of books that drop off monsters, which 
+ you can use to teach yourself new tricks, so long as you have skill points to learn them and the 
+ correct stats to master them. You can also modify your weapons and armor using gems you can loot 
+ off monsters. And in the event that you have your heart set on a certain modification, there are 
+ usually plenty of other players ready and eager to sell their drops for quick cash. And then when 
+ you're all outfitted as you'd like, you can head out and attempt to murder people to gain renown. 
+
+          Bind, then stun! Bind, then stun! You can kite forever, and it's fun for the whole family! 
+     
+
+  RYL's player-versus-player system is based around earning fame, which are points you get from killing 
+ other players. In fact, this is such a central focus of Risk Your Life that a PvP tournament will 
+ be held to eventually award a cool million dollars to the best player-killer of them all. Of the 
+ three servers currently up for the game, two are normal servers, and one is used exclusively for 
+ tournament ranking, which has caused the overall population of the original two servers to take 
+ something of a dive. At the very least, it's less competition for slaying the local wildlife on 
+ those servers, though it can be harder to find a group to take on larger challenges. In PvP, the 
+ largest fame bonuses can be earned by guilds, which can construct great fortresses and other resources 
+ on the landscape, while gaining the ability to use those structures as spawn points upon death. 
+ However, fortresses and such may be attacked. So not only do guilds risk losing enormous fame upon 
+ losing their buildings, but also they'll lose the huge amounts of gold used to construct them. 
+
+  Whether you're grinding out mobs or chasing down player kills, chances are you're not going to 
+ look particularly great doing it. The character models themselves are blocky, low-res, and have 
+ bad-looking textures and details. The animations aren't very fluid at all. However, the one true 
+ high point RYL has are the animations for special skills, which are varied, bright, and impressive, 
+ even from a distance. But that's only one aspect of a graphics package that includes missing textures 
+ in places, frequent clipping through floors and parts of buildings, and muddy, unfortunate-looking 
+ water. All the sweeping vistas and lens flare in the world won't totally distract you from the 
+ fact that your character sinks to her knees through unsolid ground in a number of areas. The music 
+ in the game roams from cheery fanfares (as you approach town) to low ambient tunes (so bland as 
+ to be forgettable) that are both paired with a wealth of primitive-sounding animal noises from 
+ creatures that you club to death. Special skills are, again, above the norm, with a nice selection 
+ of thunderclaps, sparkly chimes for heals, and a number of other good, solid sound effects that 
+ go well with the nice visuals. The game, at the very least, ran smoothly on the systems we tested 
+ it on, barring the low resolution.  
+
+          The skies over Almighty Ground are sweeping and majestic. And they're occasionally full 
+ of weeds.     
+
+  Risk Your Life: Path of the Emperor offers yet another MMORPG where you steadily level your way 
+ through enemies, alone and in groups, and where you participate in player-versus-player battles. 
+ Other than a million-dollar tournament, though, it's not really clear what RYL offers that other 
+ contemporary massively multiplayer games don't already deliver, and deliver better. If you're the 
+ sort of MMO ronin that can't help but wander from game to game hoping for a fresh distraction, 
+ the combat system may occupy your glance for a time. But unless you want to participate in monthly 
+ installments of  Who Wants to Be a Millionaire , you're better off skipping this game.     
+-------------------------------------------------
+:::User Reviews::: (16 Reviews)
+::::::
+UserName: HyBridFuRy
+Rating: 6.8
+Date: Oct 4, 2006 10:29 pm PT
+Review:  To be honest, If you play this game... you wouldn't like the fact that the game is totally different 
+ from the beta version (Which is RYL 1) . There is obviously 2 classes in which u choose from: Akkhans, 
+ and Humans. 2 in which are totally different from the beta version because the Akkhans and Humans 
+ in RYL 2: Are allies, compared to RYL 1 which they are rivals.
+  
+  The gameplay and environment in the game is great, but the overall experience in RYL: 2 is ridiculous, 
+ due to the fact that you don't get as much things u expect the game to be. This game is a waiste 
+ of time.. and money and I'd rather go with Private ser vers ( which is the same servers but totally 
+ free) . Overall, the game is pretty good, however can be a pain in the neck if you don't know what 
+ your doing. 
+::::::
+
+::::::
+UserName: kittencrusher
+Rating: 1
+Date: Aug 8, 2006 4:56 pm PT
+Review:  I'm going to keep this review short and to the point: RYL sucks. And very badly. They advertised 
+ it a long time ago on Fileplanet, so I said to myself, "What the heck" and downloaded it. 
+  
+  Well I was in for a shock. The graphics were absolutely TERRIBLE. DO NOT be fooled by any screenshots, 
+ the visuals are horrible. It was a polygonal nightmare like LEGO's smashed with a hammer. 
+  
+  RYL very much had the feel of a "home-brewed" game made by an individual. Everything about 
+ it was severely lacking. The chat system was archaic, the graphics archaic, EVERYTHING archaic. 
+ Complete disaster.
+  
+  Needless to say I uninstalled this junk within a half hour, it was just that bad. I could NOT stomach 
+ that game. I'd sooner play Shadowbane, and I consider Shadowbane to be one of the worst MMO's I've 
+ played too.
+  
+  At the time, they were having some hokey contest to win $100,000 or something around that amount. 
+ Well let me tell you, not even the possibility of 100 grand could make me play this game for any 
+ length of time at all.
+  
+  I should have known the game was bogus when I found out that RYL isn't the name of the world or 
+ something, it's an acronym for "Risk Your Life". A very stupid name for an MMO, IMHO.
+  
+  To be blunt, I hate this game. If you know what's good for you, you won't even bother giving it 
+ a chance.
+  
+  I hear talk of a sequel, and I'm sure that'll be just as terrible. Honestly, considering what's 
+ available on the market, it just makes NO sense to waste your time with this piece of trash. Ugh.
+ 
+  
+  And that, my friends, is my opinion of RYL: Path of the Emperor.
+  
+::::::
+
+::::::
+UserName: haikiller12
+Rating: 9.2
+Date: May 23, 2006 3:27 am PT
+Review:  RYL: Path of the Emperor is a beautifully rendered MMORPG, creating increasingly difficult and 
+ challenging game play and will excite multiplayer online game fans. Prospective gameplayers can 
+ view a trailer of the game, download the open beta for free, as well as opportunity to purchase 
+ officially licensed RYL merchandise, at the game's home page.
+  RYL: Path of the Emperor is a persistent universe or role-playing game (RPG) . In the game, players 
+ assume the role of a Warrior, Cleric, Wizard, or Thief (over 20 classes) and explore the many beautiful 
+ and exotic locations within the game where they meet other players, complete quests, fight monsters 
+ and other players. Massively multiplayer online games are computer games in which thousands of 
+ players can play simultaneously through the Internet. In 2003, 88 million people played online 
+ games worldwide, a number that is expected to grow to at least 198 million by 2008.
+  "Instead of monotonous individual games, players can now interact with hundreds or thousands of 
+ other players from all over the world and undertake the adventure of a lifetime together," said 
+ Kevin Donovan, President Planetwide Games. "The graphics and smoothness of gameplay is among the 
+ best in the world, developed over 5 years with over $30 million invested in development costs." 
+ 
+  RYL: Path of the Emperor also offers hundreds quests within each game, plus advanced real time 
+ 3D and environment effects give players the realistic feel of an amazing fantasy world. Maximum 
+ game resolution has been increased from the typical 800x600 pixel resolution to 1600x1200 to enhance 
+ the experience of the lushly rendered graphical landscapes.
+  Players start off at Level One, with minimal skills and abilities, but over time they gain experience 
+ points, which allows them to advance to Level Two, and beyond. As each level opens up, the player 
+ can find new and more interesting abilities and can survive in battles against more interesting 
+ monsters. This level advancement is the incentive that makes players continually play the game 
+ and maintain their accounts for months or years. 
+::::::
+
+::::::
+UserName: BD_basher_sean
+Rating: 8.1
+Date: Apr 26, 2006 5:54 pm PT
+Review:  Like I said. Good game. Extremely addictive. Little boring in the begining but very fun at higher 
+ levels. You cant really pvp until then. You can start partying with other people around 30. You 
+ can duo with people at around 20 though. You can enter a guild at level 30. You can really pvp 
+ at any level you just wont have any luck at killing anyone unless you have really good gear or 
+ find someone your level that found himself at the wrong place at the wrong time. If you do join 
+ the game, I would suggest not upgrading anything until your at least 70+. Reason being is that 
+ you level so fast in the begining, by the time you get a good piece of armor, your due for another 
+ one. 
+::::::
+
+::::::
+UserName: HAchaos
+Rating: 7.1
+Date: Apr 13, 2006 9:34 am PT
+Review:  For me I started playing this game and it almost reminded me of some old MMO, Oldschool Graphics, 
+ and an almost comic fighting style.
+  I enjoyed the combat play of the game, your damage number pop up over the enemy as your attacking 
+ and critical hits burst out over them giving you a feeling of Hell yeah.
+  
+  I dont feel this games graphics are really all that great, the sounds are way off and repeated 
+ to each of the existing monsters. Also they use a lot of the same skins to each monster; they just 
+ change the color a bit, and increase their overall size to give you the feeling that it is a tougher 
+ monster to face.
+  
+  Its free, and its not to difficult to figure out also, it only cost about $10 off the shelf 
+ so your not really wasting to much money for a little bit of entertainment.
+  
+::::::
+
+::::::
+UserName: wantacow
+Rating: 9.7
+Date: Feb 20, 2006 9:04 am PT
+Review:  Great RPG fun and well balanced. Leveling up is easy from lvl 1 till lvl were ever i got. Round 
+ up so buddys and goooooo
+  I have 3 great friends on my block this game is sweet with good friends and playing in a party. 
+ Leveling up is balance you cn get to lvl 20 in like 8 hours i was messing around 2. I played 30 
+ day trail but never got because of monthly fees. But it's a great game. And checking the website 
+ there a free play comingsoon was eat that. So you may want to wait for that. But around this game 
+ is fun and balance a must get when it be comes free. 
+::::::
+
+::::::
+UserName: Expatriate
+Rating: 10
+Date: Mar 12, 2007 1:59 pm PT
+Review:  RYL has the best real-time, close-range and most realistic combat of any MMORPG.
+  
+  NOTE: Malaysian server and private servers are now free (North American version, POTE, is closed)
+ 
+  
+  The other games like Guild Wars and WOW have lame, click-and -watch combat.
+  
+  In RYL, the camera view is from closely behind your character -- a must in melee combat so you can 
+ see your position and swords or other weapons and the creatures or enemy around you.
+  
+  Swing your sword and if you're not close to the beast, you don't hit. Move up and you hit the beast, 
+ move away and your swinging at air. Position even determines whether you get in a good solid hit 
+ or a weak swipe.
+  
+  The critics of RYL either haven't played it keyboard mode (you have click-and-watch as an option) 
+ or have bad graphics and sound systems.
+  
+  I play on a fast system with an excellent graphics card and turn graphics up full -- the grapics 
+ and special effects are fantastic, but if you have a slow system, the game automatically loads 
+ with graphics turned to lower settings, so maybe that's what the reviewer saw. RYL is a darker 
+ and more foreboding world than some of the other games out there, so if you're looking for the 
+ cutesy pastels of Guild Wars, you'll be disappointed, but serious gamers will love it.
+  
+  Sound is also fantastic. Again, I can only assume the reviewer had a bad sound sytem because RYL's 
+ battle sounds thunder out of my subwoofer, but I can also detect the footsteps of nearby enemy.
+ 
+  
+  Everyone complains about the grind, but RYL was designed in Korea, and the eastern philosophy of 
+ the greater the struggle, the more precious (and maybe prestigious) is the reward was the basis 
+ for the design of RYL's leveling system. It's hard work to get to a high level in RYL, so if you 
+ can only live by the American philosophy of I want it all, and I want it now, you won't like RYL. 
+ Gamers with an open mind and who are up to the challenge will find that the higher levels are far 
+ more rewarding BECAUSE they are more difficult to reach. The absolute best in RYL is when you reach 
+ levels high enough to be effective in pvp and get into Statue Wars with your guild and everyone 
+ is in voice com with Ventrilo, coordinating the combat, with each experienced player performing 
+ his particular speciality to the max to win over a similarly skilled enemy.
+  
+  None of the professional reviews of RYL at gaming sites was written by someone who had experienced 
+ that, so those reviews are all written by people who haven't even experienced the best of what 
+ RYL has to offer.
+  
+  RYL players play for a long time. Many of us have been playing for a year or more. We're serious 
+ gamers, and we try every game out there, but we always come back to RYL because no other game has 
+ the adrenaline-pumping, realistic, and skill-demanding combat of RYL, and we'll keep playing RYL 
+ until a better one comes along. 
+::::::
+
+::::::
+UserName: fable_fodder
+Rating: 3
+Date: Feb 8, 2006 9:23 am PT
+Review:  This has to be one of the worst games I've ever played. On the back of the box, it has all these 
+ screenshots that look like something from guild wars but in reality, the greaphics are comparable 
+ to something in runescape. It lags all the time which is saying alot considering I have a 3000 
+ dollar computer, the graphics are terrible, and barely anyone plays it because it stinks. I'm lucky 
+ it only costed 8 dollars because I got it at a Christmas sale at London Drugs but it is generally 
+ 30 dollars elseware. Please, save up your money and buy guild wars or WoW because this game is 
+ terrible. I would rather play runescape!! 
+::::::
+
+::::::
+UserName: woef
+Rating: 5
+Date: Jan 12, 2006 10:56 am PT
+Review:  Ryl path of the emperor doesnt offer very much, except for the extensive pvp and gvg system, but 
+ thats almost the only thing thats good about this game.
+  
+  Sounds:
+  Not very good at all, simple sound design, music is a bit average, monsters sometimes make weird 
+ sounds.
+  
+  Graphics:
+  The graphs of the game are OK but not very good, and you will need a lot of mb ram to let this 
+ game work, becauese there are much too many things which dont look good at all.
+  No reflections, no weather effects.
+  
+  Gameplay: 
+  The gameplay is medium-good, i like the 
+ thing that you can fight monsters and gain experience and choose your class, but thats all what 
+ the gameplay is really about.
+  (buying stuff for char., pvp battles, gvg battles) .
+  
+  Online:
+  I dont like the monthly pay of this agem, that makes the game bad.
+  
+  Variety:
+ 
+  Good, lots of monsters and choices of chars, lots of weapons and a huge map, which you can explore.
+ 
+  
+  Ryl path of the emperor isnt very good, but that doesnt make the game very bad! 
+::::::
+
+::::::
+UserName: darthragar
+Rating: 3.9
+Date: Dec 6, 2005 3:07 pm PT
+Review:  i thought this would be fun. the only good thing about it is u don't pay monthly. that's about 
+ it. if u want a free game that is good get Guild Wars, not this load of $h! t heres the easiest 
+ way to put it its full out crap and u will be better off paying monthly fees than playing this 
+ stupid crap for free. if they look at those other big MMOs out there then they will hopefully make 
+ this game better otherwise u will not be swayed into buying this MMORPG 
+  so stick with monthly fees on WoW, or buy Gulid Wars. and if u hate past mmos try City of Heroes/Villains 
+ or Star Wars Galaxies 
+  hell even The Matrix Online is better than this come on 
+::::::
+
+::::::
+UserName: saeoh
+Rating: 6.4
+Date: Nov 28, 2005 3:11 am PT
+Review:  well i tried only free trial..
+  GOOD: Loved design of characters, armors and map. Keyboard mode control and and Mouse mode control 
+ were good idea and very convenience. Action RPG style combat control was very fun and better than 
+ "Select" and press "Attack" style. Loved login and character selection music.
+  
+  BAD: Quests were boring as most of MMORPG's quest does. Inconvenience menu accessing. Bad Graphic 
+ (better than FF which had only 2 pixel bird, but 1280*1024 graphic was only good as other new games 
+ 1024*768 quality) Contorl is not very smooth. Rarely had motion sickness (Well i easily get motion 
+ sickness) . Need better and bigger map.
+  
+  
+::::::
+
+::::::
+UserName: CrusherOfThings
+Rating: 1.5
+Date: Nov 24, 2005 4:22 am PT
+Review:  Okay, so one day I was really bored, and came across some advertisement. Not sure where it was, 
+ but it was something about trying out RYL: Path of the Emperor. I figured what the heck, it was 
+ something to do so I downloaded it and installed. And oh man, was I in for a complete shock.
+  
+  First, I was assuming that RYL was the name of the game world or something, but its an oh so 
+ clever acronym for "Risk Your Life". With a name like that, I knew I was in for trouble from the 
+ get go.
+  
+  So I loaded it up. I was expecting at the MOST a mediocre game, but NOTHING this terrible. The 
+ graphics were horrible. I mean we're talking worse than PS1 graphics. First impressions are everything, 
+ and if your first impression is that your game looks like crap, that's not a good thing. In this 
+ day and age, heck even five years ago, these graphics would not cut it. 
+  
+  The whole interface seemed clunky and arcane and like you'd have to sit down and read a dictionary-sized 
+ manual just to figure out what you were doing. It was NOT user-friendly, to put it nicely. The 
+ chat system, while operational, seemed dated as well. EVERYTHING about this game seemed dated. 
+ In fact, I'd go so far as to say it seemed like a downright homegrown game made by one person. 
+ I've seen better looking games from the Blitz Basic game dev community...
+  
+  The sound, I don't really recall the sound, I was just basking in the terrible chicanery that is 
+ RYL: Path of the Emperor.
+  
+  Needless to say, it didn't take me long to get fed up with the crappy controls, graphics, and crappy 
+ everything and uninstall this train wreck.
+  
+  The developers at the time were offering some sort of contest where you could win a jackpot of 
+ money; 100 grand I believe, or something like that. You'd have to pay me 100 grand just to play 
+ this game.
+  
+  I have NO faith in the sequel to this game. With World of Warcraft, and the upcoming D&D Online, 
+ Neverwinter Nights 2, etc., I have NO idea why you'd even bother to waste your time with this or 
+ its sequel.
+  
+  My advice, stay VERY FAR AWAY FROM THIS GAME! I am not joking. 
+::::::
+
+::::::
+UserName: SundaySorrow
+Rating: 5.1
+Date: Nov 14, 2005 1:54 am PT
+Review:  PWG had a good idea. And then dropped the ball. It has its time consuming qualities to it, yet 
+ still has that  gamplay effect. Left out a TON of 
+ things that could have been done to enhance other areas such as a better character generation system, 
+ more interactions between npc and pc, more character customizatoin options, better exp for kills. 
+ Any one of these singular enhancments would have made it all the better. Shame they didnt give 
+ it more thought. Hopefully they will hury up with better patches. 
+  Combat was the biggest letdown. The manual meantions a combo system for melee, yet its the same 
+ three strokes in repepetition !
+  The lvl grind is horrible. unless you have absolutely nothing to do with your time and have plenty 
+ of $ to waste on a subscription. 
+  yes its got a free month to play free but after that still in debate wether or not its worth getting 
+ it renewed- prolly not a good idea.
+  if you happen to pick it up at the local gamestore; think long and hard about getting it.
+  in 
+ all the online gameplay i have experienced (upwards of 5yrs) i have not seen lag such as RYL. 
+::::::
+
+::::::
+UserName: xunzhe
+Rating: 4.5
+Date: Oct 27, 2005 8:59 am PT
+Review:  This game is described that there are three factions; human, ak'kan and the 'peaceful' god's pirate. 
+ Despite of what the manual says , the gameplay has NOTHING to do with the story. Although there 
+ is long elaboration of the story, the game is actually all about grinding, you just sit in front 
+ of your com and take up your hammer to wack monster from beginning to the end. Anyone with a sane 
+ mind can do that. That's why i put the difficulty very easy.
+  
+  Besides that, the PvP system is way off course. There is a huge imbalance in the game. The Ak'kan 
+ first of all is always stronger than human no matter what. An Ak'kan Warrior can easily kill a 
+ human warrior. 
+  
+  However, the only thing that i can compliment the game is the spell effect of the game.
+  
+  
+ If you are really in need to spend your time, go and get other MMORPG. Just ignore the existence 
+ of this game. 
+::::::
+
+::::::
+UserName: Darcius
+Rating: 7
+Date: Jul 26, 2005 10:42 pm PT
+Review:  Risk Your Life: Path Of The Emperor. 
+  its a very good mmorpg the player vs player can get pretty intense if you get 3 or more large 20+ 
+ member guilds going at it. plus the quests help break up the repetitiveness of basic leveling, 
+ there is still a level grind at higher levels but thats when the real pvp starts and if you want 
+ to be the best you have to work hard and earn it. 
+  
+  the game level cap is currently 95 with a set increase later on of 150 and new maps there are still 
+ some bugs in the game but they dont really detrack from the true concept of it which is player 
+ vs player. 
+  
+  once you hit level 30 your able to form and join guilds and start pvping but as most servers have 
+ 50++ leveled players it gets hard to gain fame early on its normally best to pvp when your about 
+ level 50 or 60 so your skills are higher leveled and your gear is stronger. 
+  
+  but RYL: POTE is not for everyone as the grind can be a little much for some people and not everyone 
+ enjoys the graphics that RYL has. 
+  i would suggest checking out ingame screen shots of it as well as asking people who play it how 
+ it is, and if possible find a friend who players it or even try it your self. there is a free 1 
+ month trial with the boxed game so if you dont like it after that month you dont have to pay anymore 
+ on to it. but atleast give it a try. 
+  
+  PlanetWideGames is patching and updating it all the time to add stuff and fix stuff so the game 
+ is always changing. so who knows what tomorrow or next week will bring to RYL 
+::::::
+
+::::::
+UserName: Gabbelgak
+Rating: 1.9
+Date: Jul 13, 2005 1:44 am PT
+Review:  This is the only game I have ever felt the desire, no the duty, to write a review for. From the 
+ start this game feels like an unfinished shell of a game. The graphics are terrible, the gameplay 
+ not very smooth at all, and the combat repetitive and boring.
+  
+  There is very little in terms of guidance for new players and unless your a rather determined individual 
+ I doubt you'll last the first day (which is why the hard difficulty rating) , The graphics are something 
+ to expect from games from the 90's. The trade system that is set up is like Ragnarok online, a 
+ player turns themselves into a shop and simply leaves the computer, which causes tons of lag in 
+ the city areas.
+  
+  They seriously should have thought about taking the million dollar tournament prize money and putting 
+ it into the development of the game to try and make something worth playing. 
+::::::
+
+-------------------------------------------------

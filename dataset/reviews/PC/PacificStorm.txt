@@ -1,0 +1,647 @@
+-------------------------------------------------
+:::Game Name::: Pacific Storm
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/pacificstorm/review.html
+-------------------------------------------------
+:::The Good:::
+ Wide scope with lots of options.
+ Good, basic RTS action with a strong historical flavor.
+-------------------------------------------------
+:::The Bad:::
+ Scope is so wide that the game is unwieldy.
+ Too much micromanagement in campaign play.
+ Loads of bugs.
+ Dated visuals and sound.
+-------------------------------------------------
+:::Date::: Oct 16, 2006
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.4
+Critic Score: 6.7, 8 Review (s)
+User Score: 7.2, 179 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: cdv Software
+Developer: Lesta Studio
+Genre: Historic Real-Time...
+Date:     Oct 2, 2006 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Too many problems with bugs and artificial intelligence sink this promising and ambitious RTS.
+
+  One thing's for sure -- Pacific Storm is not for the faint of heart. Although Russian developer Lesta 
+ Studio and its North American publishing partner CDV are billing the game as a real-time take on 
+ the Pacific theater of World War II, it actually has a lot more in common with hardcore war sims 
+ like Hearts of Iron than an RTS in the tradition of Command &amp; Conquer. But even though grognards 
+ will love the tremendous scope of the game, too much unnecessary micromanagement, subpar artificial 
+ intelligence, and a host of quirks and bugs sink this overly ambitious effort just before it reaches 
+ port.  
+
+          Being able to climb into the cockpit of a Japanese Zero is a nice frill, but a frill nonetheless. 
+     
+
+  As usual with such complex games, the biggest issue here is learning how to play. While Pacific 
+ Storm includes a reasonable suite of training missions that go over most in-game situations, they 
+ have all been done in a dry style where a succession of text boxes prompts you to hit buttons. 
+ It's tough to learn anything in this fashion, especially in a complex game like this one. You really 
+ need interactive help during the first stages of the campaigns, as well as a walk-through that 
+ guides you through the initial economic setup and gets you started with the various tasks you'll 
+ have to juggle throughout the game. Here, though, you're basically given a detailed explanation 
+ of a shovel and pail and then plopped into a sandbox.  
+
+  And boy, it's quite a sandbox. The two campaigns -- a free mode that balances US and Japanese resources, 
+ and an historical one that attempts to present the balance of power as it actually was in 1940 
+ (although it sure seems way off, with a crazy number of US and Japanese vessels in the Pacific 
+ when the game gets going) -- play out in similar fashion to those in Hearts of Iron. You start off 
+ on a global strategic map representing the Pacific Ocean from the Japanese-controlled Far East 
+ to the American West Coast, and from there you must move fleets around like in a nautical Risk, 
+ conquering zones by setting up bases. You have almost total control over your nation's war effort, 
+ so you must manage resources like money, aluminum, iron, and oil, and deal with researching tech, 
+ ordering up soldiers, ships, and planes, and, of course, sending fleets into battle.  
+
+  Unfortunately, the grand scale of Pacific Storm is undercut with too much bookkeeping. While there 
+ is certainly something majestic about overseeing the entire Pacific war effort of either the United 
+ States or Japan, it's hard to feel like a great general when you're stuck shuffling soldiers, ammo, 
+ and fuel on and off supply ships, and erecting base buildings like oil storage tanks and industrial 
+ buildings to gather resources. While the game has automatic options to cover management tasks, 
+ they don't work very well. Ammo often isn't loaded onto ships. Oil sometimes doesn't get moved 
+ around properly. Transports frequently won't transfer goods between ports or will use a dozen or 
+ more ships to move items that could have been packed into one or two. You can of course bypass 
+ these quirks and do everything yourself through the fairly intuitive menu system, but the AI often 
+ seems to override your decisions and order stuff that you don't want or need. Expect to spend more 
+ time playing supply clerk than you do playing Admiral Halsey.  
+
+          It might be a futile effort, but there's still something fun about blasting Japanese Zeros 
+ from the decks of battleships at Pearl Harbor.     
+
+  Other aspects of the game are unintelligible due to poor or nonexistent feedback, and bugs. Because 
+ of the complexity of the game and the AI wonkiness, it's hard to tell which is a bug and which 
+ is an unfathomable feature. Enemy bases sometimes can't be captured no matter how many units you 
+ throw at them, even when they're virtually undefended. Ships en route to destinations can run smack 
+ into islands and stop, which forces you to lead them by the hand (rudder?) to their destinations. 
+ AI-controlled fighters will occasionally dive straight into the ground, and bombers plow right 
+ into the targets they're supposed to be bombing. The Japanese AI usually begins campaigns aggressively, 
+ capturing one zone of territory after another in the first days of games to kick off the war, but 
+ then avoids major engagements by keeping fleets in ports until you attack them. And when enemies 
+ do enter battle, they sometimes seem to be bolstered by an unending supply of aircraft, which keep 
+ coming even though you've sunk their support ships to the bottom of the sea. The real-time combat 
+ that ensues once you leave the tactical screen for an actual battle is more agreeable. Admittedly, 
+ this is pretty stock-standard RTS gaming, but with a wide selection of historically accurate aircraft 
+ carriers, battleships, submarines, fighters, and bombers instead of the more stereotypical soldiers 
+ and tanks. It is also bolstered by a good selection of over a dozen one-off tactical battles representing 
+ some of the most famous moments of WWII (Pearl Harbor, the aerial assassination of Yamamoto, a 
+ fanciful atomic bomb run with Japanese jet fighters) , along with a few fascinating alt-history 
+ scenarios.  
+
+  And the RTS aspect of the game features the additional frill of being able to hop into the cockpits 
+ of planes and man guns on destroyers and the like whenever you want some hands-on action. This 
+ option doesn't add much to gameplay, though, as it's suicidal to take your eye off the big picture 
+ for long when involved in the game's typically large-scale battles. You never gain anything from 
+ doing so, either, aside from a few cheap "I'm shooting a gun in an RTS!" thrills (particularly 
+ during the Pearl Harbor scenario, as it's deeply cool to man a gun atop the USS Colorado and blast 
+ away at the waves of attacking Japanese Zeros and bombers) .  
+
+  Action is also the primary focus of the multiplayer modes of play. You can go online and fight 
+ single battles with up to seven opponents in battle planner, join up with a buddy for some cooperative 
+ play, or get into the cockpit of a fighter in the air simulator. Or at least that's how the theory 
+ goes, anyhow. We were never able to hook up with an online game, so either the game server is perpetually 
+ down, or there just isn't anyone playing.  
+
+          The visuals leave a lot to be desired.     
+
+  Finally, Pacific Storm doesn't seem completely 
+ finished. Random crashes are a serious problem, with the game dropping to the desktop on a fairly 
+ regular basis. You never know when the game is going to act up, either. A particular function, 
+ like hitting the "U" key to take control of a gun or to jump into a cockpit, will work perfectly 
+ for hours, then suddenly will start causing incessant crashes. Both the graphics and sound are 
+ in rough shape. Visuals feature vessels with few details and practically blank hulls, as if they're 
+ still awaiting artists to drop in textures. The Pacific islands on which you build your bases are 
+ piles of sand dotted by scattered buildings and clumps of palm trees. Despite all this, battles 
+ cause graphical slowdown that tends to linger until you shut the game down and restart it. Audio 
+ effects are tinny, the vocal clips are repetitive, and the soundtrack consists of a single synthed 
+ tune so irritating that you'll shut it off in minutes.  
+
+  Ambition only gets you so far. While Lesta Studio deserves credit for tackling such a large-scale 
+ sim, all of the micromanagement tasks and bugs send Pacific Storm to the bottom of the sea. This 
+ is one of those games that bites off more than it can chew.     
+-------------------------------------------------
+:::User Reviews::: (14 Reviews)
+::::::
+UserName: William6058
+Rating: 8.5
+Date: Sep 1, 2008 12:55 pm PT
+Review:  Pros: Great graphics, HUGE scale of gameplay, stays quite accurate, and fun fun fun!!!
+  
+  Cons: Some bugs for some, lots of bugs for some, and no bugs for some.
+  
+  People like fun and 
+ ambitiousness. Well if you were unlucky and bought a Pacific Storm pack with a lot of bugs, I don't 
+ know about that but if you were lucky, you will have a time of your life! But I think that more 
+ people will be lucky than unlucky.
+  
+  If you have a lot of bugs, if you get very angry, frustrated, maniacally uncontrolled, that means 
+ you're impatient. Just at least play another game while patches come out. And sooner or later, 
+ you'll see yourself having a great time, with a bug-free game.
+  
+  GameSpot, I can't understand all the other cons except for the bugs. I don't understand that "the 
+ visuals leave much to be desired", lots of "frills" or "sink to the bottom of the the sea". The 
+ extra features are added for more fun so it could be better. Who would want to just sit there, 
+ moving around the camera, waiting for ships to fire that are 10 km away from each other when they'll 
+ all miss? Just hop into a plane and drop a torpedo or two to keep the action going! Would you want 
+ to just sit around and stare at the screen, or grab a joystick and do barrel rolls or shoot some 
+ rounds at a dive bomber?
+  
+  So I think this game is great, and I recommend you to try it. 
+::::::
+
+::::::
+UserName: Prometheus92
+Rating: 7.5
+Date: Nov 3, 2007 11:38 am PT
+Review:  If any of you played Fighting Steel back when, you know it was a pretty fun, but alas it was plagued 
+ by the same problems that plague Pacific Storm: crashes.
+  
+  I honestly would've rated this game a 9.5 or higher if there weren't so many crashes.
+  
+  Graphics: 
+ 9
+  
+  These graphics are awesome! I've never seen a surface combat game that rocks this much when it 
+ comes to detail. There are a few bugs in the graphics that made me take off the 9.5, such as ships 
+ passing through the one that sank in front of them and torpedoes launching without even facing 
+ the direction of the enemy ship. You can zoom in and see an amazing amount of detail on the ships, 
+ from crew, to gun, to deck, to plane sitting on the catapault waiting to be launched.
+  
+  The worst thing about the graphics is usually you can't turn it up to highest without your game 
+ crashing out on you.
+  
+  Gameplay - 4.5
+  
+  Alright, I would've given gameplay a solid 9.5 if it weren't for the problems that persist in this 
+ game - even after the patches.
+  
+  Gameplay is great, as you get to build a  variety of ships and 
+ aircraft. You control a strategic map (either as US or Japan) and can take certain zones on the 
+ map and set up bases to refuel/reload/build/etc. Once you get into a battle, you command your ships, 
+ where you want to place them, what you want your aircraft to do, etc. One of the neatest things 
+ about this game is the ability to control individual aircraft or anti-aircraft guns.
+  
+  So why prometheus92, if its so good, did you give it a 4.5? 
+  
+  I'll tell you why:
+  
+  I 
+ have never seen a game in my life that crashes for no apparent reason. The patches fixed some bugs, 
+ but it left out the major one: the strategic map crash. To date, I have never had a crash in tactical 
+ mode, but in strategic map, I am lucky to go more than 10 minutes without crashing to desktop. 
+ I have a pretty decent computer too, built for gaming, and it just keeps crashing. It'll be sudden 
+ and out of nowhere. You'll tell a fleet to go to a base and as you watch it go across the ocean 
+ to that base, it'll randomly crash to desktop. There are two types of bad games - ones that don't 
+ play, and ones that have colors or noises so bright that it damages the senses or to your computer. 
+ This game falls under the first category to some extent, because at times it is nearly unplayable.
+ 
+  
+  Sounds: 6
+  
+  Sounds are mainly repetitive, I think there are 4 types of songs, and whenver you order units around, 
+ they say one of about 3 things. The ships make realistic noises when they fire and sink, as do 
+ planes when they fire, bomb, crash, and get hit.
+  
+  Buy or rent? Hmph... this is a tough question. I'd say buy if you can find the game under $20 (as 
+ of November, 2007) . I got my copy off ebay unopened for only $9.95. Final thoughts: Buka really 
+ needs to get it together when it comes to bugs and crashes. They had a really great concept, and 
+ it had potential, but it came up short because of the problems. I'm looking forward to Pacific 
+ Storm: Allies, and I hope it doesn't have nearly as many issues with crashing and bugs.
+  
+  Thank you for reading my review ;D. 
+::::::
+
+::::::
+UserName: gfriedline
+Rating: 7
+Date: Oct 24, 2007 9:24 pm PT
+Review:  I purchased the game for the price and the advertised features. The game delivers in many ways. 
+ Resource control, construction, all the neccesities of a Turn-based. The Real time combat, and 
+ what I would call hero mode going in the cockpit of bombers, figthers and other aircraft, or even 
+ taking control of the various weapon systems on ships, was awesome. Made the monotony of chugging 
+ convoys around the pacific worth the time. The resource management and unit management started 
+ to become a little tedious. If your trying to take the entire map, the logistics become a nightmare, 
+ units get lost in port, and keeping everything running smoothly between turns is time consuming. 
+ The detail and micro-management of the resource and logistics control was a bonus, but again, very 
+ tedious. Installing base upgrades and technology tree is good, even if the tech tree moves slowly.
+ 
+  
+  The biggest and, in my opinion, only problem with the game was spending 5-6 hours on a good campaign, 
+ and suddenly getting a crash at a particular time. This seemed to happen over and over again, and 
+ the same number of turns during the game, and even with a save, would still crash after a certain 
+ number of turns. So even though I spent days on end playing and trying to win the war in the pacific, 
+ I never did finish the campaign one time. With the issues of the bugs and crashes aside, this game 
+ actually becomes quite addictive, and begins to become as long, and thought provoking as a chess 
+ match with a skilled opponent. I would reccomend it, and writing this review makes me want to go 
+ play it again, and put some big coastal guns at Panama. 
+::::::
+
+::::::
+UserName: mentat76
+Rating: 5.5
+Date: Aug 31, 2007 4:47 am PT
+Review:  I had high hopes for this game really. There is no quality strategy in the market these days but 
+ clones of other RTS' and this could be a masterpiece for sure. it has failed again. Why?
+  
+  first, developer tried to mix 3 genres together. They have divided their resources, time and efforts 
+ in 3 ways. Ridiculous thing to do, especially the simulator model.. Why in the earth a strategy 
+ player wants to jump in the seats of a fighter? If he would like to do so, why in earth he doesnt 
+ buy a simulation instead a strategy game? A strategy game should offer you the commander's seat, 
+ not a simulator pilot's seat. Now, the developer made a good decision by choosing a very well subject. 
+ The pacific carrier operations are always exciting era, and not only units and battles, but also 
+ production, shortly management of the whole nation level game playing is a fantastic idea. I have 
+ to mention, this game is highly influenced by the PTO2.
+  
+  PTO2 was a complex game but it was just right in level, PS made it even higher in complexity which 
+ hurts the gameplay. Too much micromanagement, especially logistics, bogs down the player with frustration. 
+ I dont even mention how AI controlled logistics infuriates the player. The very first thing i was 
+ bogged down was creating fleets. Ok it was realistic for sure but why do i need to create my fleets 
+ in formation? I was limited by the templates and too see all the ships in fleet i need to collapse 
+ all the tree one by one (even you have to sort empty formations as well-nothing but crowd in the 
+ menu) . The count of ships/aircraft often is another pain in the rear. Frustrating in PS for sure, 
+ PTO managed that quite successfully. Another thing i noticed in the first minute, to perform air 
+ strikes, i have not spotted any entire air force option for sending all aircraft upon enemy, you 
+ have to choose them one by one as formations and doing this again and again makes the thing not 
+ fun but a job. It was like walking in a park in PTO.
+  
+  The thing that impresses me indeed was the idea to be able to watch the actual battle in the field, 
+ you can watch air strikes on enemy realistically, which was way too simplistic and unsatisfactory 
+ in PTO. Production queue and technology tree interface are well designed but lack of information. 
+ (There is a short description but, what improves which vessels or, what will be available by then?-not 
+ explained) Very well idea but poor implementation. Also building and improving base structures 
+ is a nice idea however it is again over detailed. .
+  
+  I couldn't go on without mentioning of the details of battles here. Battles are... an eye candy 
+ for a strategy player for sure, however they are unrealistic from head to toe. One single battle 
+ of Guam f. i. takes hours to complete. I have never seen a successful aerial attack while i play. 
+ First: Planes are way too slow , I often finish my job with BBs before they arrive.
+  second: they draw circles around the ship while i patiently wait them to release their bombs but 
+ most of them is wasted by AA by then.
+  and third: they do this not in a formation style but in an individual style for to make enemy's 
+ job easier and concentrate their fire better. This is the most annoying part of the game.
+  And: Battles are not realistic because: Ships are added to gameplay by parties (There is a max. 
+ number of unit limitation in the game) this nullifies your fleets full potential. (oh! one down, 
+ lets call for another destroyer???)
+  
+  Soldiers are transported one by one, there are no regiments, platoons or whatever they call the 
+ stack, and they have convoluted things more in transport menu, as you can choose to board soldiers 
+ one by one according to their experience.. WTF? in PTO it was by regiment and their quantity was 
+ displayed as percentage. Was easier to manage for sure.
+  
+  The feedback messages especially after battle reports are convoluted, Thanks to the top message 
+ displaying, our forces have retreated , or we have crushed the enemy , otherwise player would have 
+ hard time to understand what has happened, and how things went. from those chaotic lists. Oh, the 
+ message log to the lower right of screen is a crap by the way. Useless, and hard to spot anything 
+ over there. Also loading/unloading messages are not working whether the inform me tick box is checked.
+ 
+  
+  Also for those who remember PTO, there was monthly meetings by president (emperor for the japans) 
+ foreign minister, treasury minister, chieff of staff and chief of navy (Which is you) The goals, 
+ foreign acts, budget and materials distribution was discussed in those meetings in a card game 
+ style which was a superb idea. Actually that was the best thing about PTO. The struggle was not 
+ only to the enemy on battlegrounds, but also to your own cabinet who tried to suck majority of 
+ the resources for their part. in PS, you have full control over each and everything, (and maybe 
+ this is why it is overwhelming) and you dont have to persuade anyone for your decisions. So you 
+ are the president and all of the ministers above, a carrier captain, a pilot and every entity in 
+ the game the very idea which disturbs me. As a conclusion, over detailed game play and micromanagement, 
+ makes things convoluted and makes the game clumsy and unwieldy. If they could have simplified things 
+ more, it would be much better for sure, and hell, this is only a game for Christs sake! easy down 
+ pls! i want to see battleships over the map, not hundreds of transports crowd!
+  
+  I hope they save us from all the mess about zillions of vessels, unrealistic battles and that transport 
+ materials duty in the upcoming allies expansion! 
+::::::
+
+::::::
+UserName: pickledwood
+Rating: 8
+Date: Feb 3, 2007 2:22 am PT
+Review:  I'm 22... I played that game when I was 9 or 10 yo and I fell in love with the carrier battle mode 
+ on it. This title is a continuation of that love.
+  
+  The game is extremely broad. Some say to broad. I agree with them in some respects. The micro management 
+ required to succesfully play the strategic game is emense.... so if you're not into that you'll 
+ not be happy... thankfully... there are other options :) The Ministers make too many mistakes as 
+ well (sending/ and recieving of materials is screwed up) ... but I still leave them on and pretend 
+ that, in the real world... that's how it happens as well (I know cheap cop out) . The flight models 
+ are simplistic at best.
+  
+  But at the heart of the game is a great RTS game that allows you to command hundreds of units in 
+ historical or fictional combat. Anyone remember the 1946 expansion for Aces of the Pacific? This 
+ game goes all the way to 1948! With all new technology like the early AAM's and glide bombs the 
+ japanese and Americans were developing... I love it. Ever wanted to see if an American fleet could 
+ storm Tokyo Bay?? You can in this game. I picked up this title for 29.99 at Wal-Mart. For that 
+ Price you can't go Wrong.
+  
+  On another note. People are starting to mod it. And the expansion is coming out this quarter adding 
+ many new features that will make the game like Battlestations Midway should have been! 
+::::::
+
+::::::
+UserName: willclinton
+Rating: 1.6
+Date: Dec 6, 2006 9:16 pm PT
+Review:  Developer obviously sent this one out the door to continue to fund their development of the next 
+ game Pacific Storm Allies. They have come up with the novel idea of not patching the game. Instead 
+ they come out with the next version which incorporates many things that should have been in the 
+ first game. Even with a fast system Pacific Storm bogs down to single digit frames per second. 
+ The enemy AI is non-existent... ships will literally huddle together when attacked. If you happen 
+ to be one of the 50 million people who use a USB joystick the game crashes when your plane crashes, 
+ every time. Things that should have been there that are not: There is no land combat, don't expect 
+ any amphibious landings. You can not control ship's major weapons. Best you get is a 20mm anti-aircraft 
+ gun. To top it off the developers are hard pressed to dedicate any time to patching this because 
+ they are overloaded working on the sequel to this buggy package. Amazing. 
+::::::
+
+::::::
+UserName: Damaclese76
+Rating: 7.3
+Date: Nov 16, 2006 11:22 am PT
+Review:  Well at least they tried, most games comming out now are so shallow for depth. It has been years 
+ since a real time strategy was just that strategy. Now you have to effectivly manage a large economic 
+ scope as well as deal with political requests. Ship building is easy but the tech side of it draws 
+ out too long. Combat is pretty strait forward and simple unfortunatlu you can only man the aa guns 
+ on the ships. All in all it keeps you busy and trying to think ahead no some generals knock off 
+ where you mas sproduce units and simply throw them at your enemy. 
+::::::
+
+::::::
+UserName: herodotus2006
+Rating: 8.9
+Date: Mar 6, 2007 9:44 am PT
+Review:  The nay-sayers for this game/sim are probably not old enough to remember the glory days of naval 
+ and aircraft simulator/games of the early nineties, but I'm not. Great Naval Battles , a series 
+ that was loved by players, and undermined by critics, has finally reared its' head above the dust 
+ and waters in this game. Specifically, GNB 2 which centered on the naval battles and activities 
+ centred on Guadalcanal. GNB 3 expanded to include operations in and around Guadalcanal including 
+ carriers. Sure, the ships were 2D digitized representations and you could only observe carrier 
+ operations (black sprites buzzing around the 2D ship) but they were so involving that hours would 
+ pass without notice. You became so involved in re-supplying the Marines and engaging Japanese supply 
+ columns and fleets that the poor graphics went by unnoticed. Then came Microprose's 1942 and its' 
+ sequel 1942: PAW which both immersed you in the same campaign (s) but with beautiful graphics (the 
+ Battle of Savo Island at night with searchlights, tracer and firery explosions was a sight to behold) 
+ that held the player hooked. There were downsides (taking over a gun-station to fire at enemy ships 
+ was dodgy) but noone really complained. Dynamix had by then also entered the fray with Aces of 
+ the Pacific and the world was yours. So, to PS . For me it has brought back those days of the GNB 
+ series and 1942 . AOP would be better left in comparison with Pacific Fighters so I'll leave that 
+ there. What PS has done is re-kindle the fires of the previously mentioned games, expanded the 
+ AO to include the whole Pacific War and then thrown in a whopping dollup of Hearts of Iron . Not 
+ content, they've added the arcade side to things by bringing in elements of Blazing Angels . And 
+ they've done incredibly well. It was an ambitious notion to begin with and, according to most critics 
+ failed by doing so, but taken in context of past games it comes out gleaming. If you think the 
+ AI is dumb and useless, try 1942 where your US and Australian ships zigged and zagged all over 
+ the place seemingly oblivious the pounding they were getting. Thing is, that's what HAPPENED. Read 
+ any book on Iron Bottom Sound (the straits of Guadalcanal) and you'll be amazed at the naval carnage 
+ that occurred there. The Marianas Turkey Shoot, Okinawa, Sunda Straight... the list goes on. At 
+ the heart of the game (no pun intended) is Hearts of Iron and Axis and Allies to busy the player 
+ with the sheer magnitude of running this AO. It's deeply involving and not meant for a quick-fix 
+ session. They've included the Tactical engagements for that, and the Arcade elements are just a 
+ delicious cream on top. Sure it has bugs. All games do. Look at Joint Task Force which requires 
+ a whopping 200MB patch to make it playable from the get-go. Modders are already hard at work on 
+ this title and the Expansion Pack PS: Allies is said to fill in the gaps that critics have pointed 
+ out. The graphics are absolutely acceptable for a title of this magnitude, and don't even pretend 
+ to be Oleg Maddox. The intensity of a firefight between 2 opposing fleets is well portrayed and 
+ deeply engaging (pun intended) . This is a game that will take effort and persistence to fully understand 
+ and implement. With the expansion coming to fill in the blanks , I have high hopes for this title. 
+ And being half the price of most recent releases, I'd say you're getting a bargain. Just beware, 
+ this is not Blazing Angels , so if you are looking for an easier game to master and play quickly 
+ look elsewhere. I thought the many hours I spent with the GNB series were just fond memories (not 
+ for my computer- widow-wife , though) . Now there is a new kid on the block. And this one is loaded 
+ for bear! REVIEW EDIT 7th March '07: This being the review of the Australian release, it has come 
+ to my attention, following months of misleading promises, that there will be NO patch1.3 for the 
+ Aust. version. There is simply no excuse for this blatant disrespect for the Publisher's Australian 
+ buyers. I will leave the score as is, but give the product an overall rating of 5/10 based on the 
+ product including an inexcusable lack of customer support. 'nuff said! 
+::::::
+
+::::::
+UserName: kailii
+Rating: 2.6
+Date: Nov 5, 2006 3:38 pm PT
+Review:  Pacific Storm is like one of those russian dolls sticking into each other.
+  In game terms, the more time you spend with it, the less you can get out of it until only one very 
+ small doll remains.
+  The pun in intended as russian developer Buka is responsible for one of the worst - read unbalanced, 
+ buggy and unoptimized - strategic games i ever had to play.
+  
+  Should some oldtimers remember Gary Grigsby&amp;#8217; s Pacific War, you'll know what to expect: 
+ World War II in the Pacific with all its enormous scale and ranges, a logistical nightmare.
+  And like its spiritual precursor, Pacific Storm is quite infested with bugs.
+  Some examples are 
+ in order:
+  
+  On the strategic level, the computer assistance for logistical operations - read convoys - is barely 
+ usable. More often then not, your bases will not be supplied.
+  Bad enough when you can't get your invasion fleet back from its target to home waters because of 
+ empty oil tanks for over a year, but when your fighters take off without ammunition to fight the 
+ enemy, you know the fun is over for sure.
+  No, i didn't forget to push the Arm planes button.
+  
+  On the tactical level, submarines won 
+ the war.
+  Torpedoes often come in the home-in-on-target variant (there is a research path to actually make 
+ them homing torpedoes, but not in 1941. No way!) ,
+  always hit their target no matter the impact angle, and submarines are invincible even on the surface 
+ - my guess is that destroyer captains know that subs can dive, so they close their eyes knowing 
+ they cannot be seen or even fired upon.
+  
+  On the simulator level, i keep asking myself what made me start it.
+  Steering a single plane 
+ surely is a nice touch, but you lose any ability to command the rest of your forces. OK, i barely 
+ managed to not complain about the flight models since no one is left playing combat flight simulators 
+ anyway, but where is the catch?
+  
+  Oh boy, i found it!
+  Remember those fighters without ammunition earlier?
+  I grabbed one in good hope of pulling some 
+ kamikaze stunt on that enemy carrier. Well, AA fire downed me in one hit. What fun!
+  
+  Resume:
+  Pacific Storms basic game design would be a winner if it was not plagued by too many 
+ bugs und unbalance issues making it unplayable.
+  Unfortunately the chances for a life saving patch are next to zero because the game has been out 
+ for months already (although not in the US) .
+  
+  Advice:
+  Steer clear of this game. Should be avoided like peperoni donughnut sauce. 
+::::::
+
+::::::
+UserName: leisears
+Rating: 6
+Date: Oct 30, 2006 8:05 pm PT
+Review:  I've been playing this game for two weeks, the idea and scope of this game are super, but the final 
+ product is really not able to turn the idea into an adequate implementation.
+  
+  First, the AI of the strategic mode is very stupid, this is the biggest weakness of this game that 
+ I have caught! The Jap will asign a destroyer battalion to fight with your air carrier division 
+ multiple times that is really stupid that a real human being would never perform such kind of 'strategy'.
+ 
+  
+  Second, Most of the time you attack a Jap base, you will only have chance to kill tons of transportation 
+ ships and tankers but no combat vessals. It seems that the AI have no intellegence to protect any 
+ base it has occupied.
+  
+  Third, the AI of the real time tatcial mode is also stupid enough. As a human being player you 
+ will notice that tatical bombers are no as effective as torpedo bombers, however, the AI air carrers 
+ will send useless tatical bombers to the hell before they will send out the torpedo bombers. When 
+ it try to send the torpedo bombers, it is often the time that it has been sunk by the human player.
+ 
+  
+  Fourth, the auto resource managemant feature of the game is more stupid than a man who has mental 
+ problem. It sends oil and amor to bases that has no ships and that is not in a critical stratetic 
+ point other than those more important. If you don't turn on the auto management feature, I would 
+ say that you will have to use more time than the real historical war that has happend and finished. 
+ You may need probably 2 years to finish a campain with 12 hours hard working every day on it.
+ 
+  
+  If the AI is so stupid, you then can only enjoy the game online playing agianst other human being. 
+ Then I will have a question. What's the value of this game? what distinguishes it from other games 
+ that have small scale.
+  
+  I was totally disappointed! Great idea and scpoe but very poor implementation. Countless bugs is 
+ not the weakness of this game because it can be fixed by patches. The dead end of this game is 
+ it's stupid AI. That is the final conclusion I can give. 
+::::::
+
+::::::
+UserName: roeboat72
+Rating: 9.6
+Date: Oct 13, 2006 1:17 pm PT
+Review:  It is a very good simulation. It's main feature is in its realism. The length of time to build 
+ ships, planes, and weapons takes many days inside the game. Just to build a battleship in the game 
+ without using time warp will take over 300 minutes (Seconds = Minutes in the game, so a battleship 
+ in the game takes over 300 days) . Carriers depending on the class and size will take more or less 
+ time than that. Planes are quick to build but some are land based only. And to put planes on a 
+ carrier its a good idea to put them into formations.
+  
+  Formations in the game are basically easy ways to group units. This makes it nice to keep organized, 
+ the problem is that the formations are pre-built, so you can only customise after you build them. 
+ Although there are different levels so you can have a battalion of battleships (two battleships 
+ with little escort) , or go up to fleet size, requiring between 20-30 ships depending on the formation. 
+ One nice feature is that in the fleet size formations automatically get tankers and transports, 
+ allowing your ships to go much father because the can be refueled on their journey and rearmed.
+ 
+  
+  Bases serve as home for your ships. They can keep supplies and oil, and also serve as troop stations 
+ for moving personel around your nation. They can be upgraded with airports, flak guns, coastal 
+ artillery, and others that in the end will help influence a battle if you are attacked. Some defences 
+ require certain supplies to build them whereas other can just be built. A twist on the idea of 
+ resources is that you must build fleets of convoys to keep your bases replenished with oil, men, 
+ and other supplies. If you don't give them oil, you ships cannot refuel and will not get far from 
+ their port. The same goes for ammo. Convoys are formations you can build but are not offensive. 
+ They are escorted by destroyers but are not much against enemy forces.
+  
+  The tatical part of the game is what makes it much more unique tham most RTS games. It not only 
+ allows you to see and order your ships around, but allows you to take control of your own aircraft, 
+ and fly them around to shoot down enemy planes or sink enemy ships. And to top it off, it allows 
+ you limited control of your ships anti-aircraft defences. Although it would have also been cool 
+ if they gave you controll of the main guns of your ships (Which they don't) . There are also sea 
+ planes that can take off from you battleships and cruisers that have depth charges for enemy submarines.
+ 
+  
+  Overall a great simulation best suited for those who want relativly realistic battles. Its only 
+ real shortcomings are no control of larger guns in tatical mode and a tough but realistic campaign 
+ (I have yet to win a war, he, he) 
+::::::
+
+::::::
+UserName: FFDmh2223
+Rating: 8.6
+Date: Oct 8, 2006 6:52 pm PT
+Review:  Highly recommend. They should not stopped at 1948. They should have let you go through entire 20th 
+ century. Cold war post cold war to today. That would have been awesome. 2 games in one very cool. 
+ strategy and first person
+  
+  if your computer sucks don't buy the game it won't run well on low end computers.. 3D battles are 
+ sweet but my computer struggles to keep things running smooth. My compter is up to date and on 
+ the higher end. This game really is revolutionary. very very good.
+  
+  scale is perfect, most realitic war game I have every played. puts games like command and conquer 
+ to shame. They have no concept of scale. 
+::::::
+
+::::::
+UserName: magogian
+Rating: 7.2
+Date: Oct 8, 2006 7:48 pm PT
+Review:  The down and dirty.
+  
+  Great game concept. You get to control the strategic aspects of the War in the Pacific with the 
+ ability to jump into a tactical battle and control the action yourself. Its a lot of fun to build 
+ a fleet, outfitting and upgrading ships and planes, then send them into action against the enemy 
+ - controlling what they target, tactics, etc...
+  
+  Implementation is a mixed bag. There are numerous bugs with this game. Some that make large parts 
+ of the tech tree largely worthless. It seems as if the game wasn't tested all the way through a 
+ complete game. And many people report frequent CTDs. I personally get them off and on.
+  
+  The graphics are mixed as well. This game won't win any awards, but the planes are rendered fairly 
+ well and the ships look pretty good. However, some things, like the islands, towns, and buildings 
+ look terrible. Sound is okay. Some nice explosion sounds and guns firing. I personally find the 
+ main theme song really annoying, but plenty of other people like it.
+  
+  As it stands, you can get the game for $30 at Walmart and maybe some other places. For $30, its 
+ worth picking up. However, I am assuming that the bugs and CTDs will get fixed when I make this 
+ recommendation. There is an expansion coming on in January that is supposed to add a lot of features 
+ that will really enhance this game. Assuming the expansion is $20, then you come to $50 for what 
+ should be a good game overall. In the end, this game isn't for everyone. It could be a breakaway 
+ hit if they actually fix the glaring problems and spend time developing the game more. That said, 
+ if you are anytime of war sim buff this game is a fun and entertaining new take. It was a definitely 
+ an ambitious project and I give the developers a lot of credit for it. I may update this review 
+ as a new patch appears or as I learn the game better.
+  
+  EDIT: More problems with the end game content. Seems the developers decided not to implement several 
+ things, like allowing you to use ballistic missiles. This is very strange because you can reseach 
+ the missiles and build them, but you can't just fire them. Shouldn't have to wait for another expansion 
+ just for a proper implementations of things already more or less in the game. 
+::::::
+
+::::::
+UserName: gijas
+Rating: 7.5
+Date: Sep 29, 2006 10:09 pm PT
+Review:  PS is a tactical RTS/FPS set in the pacific during WWII which most of you all know. The game's 
+ core is a campaign either free campaign meaning you start with the same technologies and units 
+ as your enemy and the historical campaign that lets you play as history happened. Example: In HC 
+ you start out with what historical units and tech. that was avaliable to that nation before the 
+ accual war started. This of course is more challenging if your playing the US instead of Japan. 
+ With that said I liked the free campaign more due to things being even between you and your enemy 
+ and consider it more as a sandbox mode. You can fight the war anyway you want and don't have to 
+ worry about pre-determined events that historicaly happen such as Midway in (June 42) .
+  
+  There are also single missions or battles if you will that you can play if you don't want to get 
+ bogged down in a time-consuming campaign game but like I said the campaign is what this game is 
+ all about. It reminds me more of Rome: TW type gp than anything I can think of which I adore.
+ 
+  
+  The graphics are sub-par at best and not very detailed overall even on the highest setting as you 
+ would come to expect but there are several settings to tailor the ghx to your liking. Water looks 
+ great if you have reflections on and ships look authenic enough if you have details to max. Land 
+ is where it hurts but that I can forgive because land plays a minimal role in a navel war game.
+ 
+  
+  Interface is detailed beyond anything I've seen in this genre beside the TW series but it comes 
+ with a high learning curve also. Read the manual in the games directory and forget about the game 
+ book that shipped with PS unless you want to learn about different game units or how to go online 
+ but this is all in the game's manual anyways.
+  
+  Many will find this game somewhat boring because of the slow gp (although you can set the game 
+ speed to high to move thing along) and lack of action/rag-doll physics most games of this type 
+ are known for but if your interested in the tactical aspect of war along with RT battles or Auto-Solve 
+ then PS will certainly please you. It will take some reading and time to get use to the game's 
+ interface but if you learn how to play it then you most likely will enjoy it more then just jumping 
+ in and getting pounded by the enemy. Overall, PS is worth the $30 that I paid for it at Walmart 
+ . Give the demo a try first if you haven't played it before and see if it's the kind of game your 
+ interested in but keep in mind the demo is only the bare bones of this meaty tactical WWII war 
+ game. 
+::::::
+
+-------------------------------------------------

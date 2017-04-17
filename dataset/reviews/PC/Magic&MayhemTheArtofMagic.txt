@@ -1,0 +1,168 @@
+-------------------------------------------------
+:::Game Name::: Magic & Mayhem: The Art of Magic
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/magicmayhemtheartofmagic/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct 29, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.5
+Critic Score: 6.9, 12 Review (s)
+User Score: 6.6, 40 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Bethesda Softworks
+Developer: Charybdis
+Genre: Real-Time Strategy
+Date:     Oct 26, 2001
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+The Art of Magic is an interesting game whose every strength seems to be hurt by a related weakness. 
+ 
+
+ When you play a fantasy game, it can be great fun to bash heads as an ax-wielding barbarian, but 
+ when you think of the fantasy genre, you probably first think of magic. If anything symbolizes 
+ the escape from the ordinary into a wondrous world of high adventure, it's a wizard or sorceress 
+ bending natural laws to summon strange creatures or harness the elements. If that's true, then 
+ Magic &amp; Mayhem: The Art of Magic taps directly into the core appeal of the fantasy genre by 
+ letting you play as a wizard whose chief goal is combating fellow spellcasters. The Art of Magic 
+ is a sequel to Magic &amp; Mayhem (1999) , designed by Mythos Games of X-COM fame. This time around, 
+ developers Charybdis and later Climax were at the helm, creating a real-time strategy/role-playing 
+ hybrid. The Art of Magic takes many of the core concepts of its predecessor, adds a new 3D engine, 
+ and comes up with an interesting game whose every strength seems to be hurt by a related weakness. 
+           The Art of Magic combines elements of role-playing and strategy...    
+
+  In The Art of Magic, you play as Aurax, a young man who has just woken up after a long night of 
+ celebrating his coming of age with fellow villagers. He's also awakened to troubled times. In years 
+ past, three magic orbs created by a great wizard kept the world's three realms of law, chaos, and 
+ neutrality in balance. With the mysterious death of the neutral druid leader and the destruction 
+ of the orb he guarded, the forces of chaos begin a campaign of aggression. When the game opens, 
+ they're on the rampage in Aurax's homeland, the druids' neutral realm. Against this backdrop of 
+ warfare, Aurax has a more personal problem: His sister, Nadia, has recently disappeared. To Aurax's 
+ surprise, it turns out that she's skilled in the ways of magic, and now it's Aurax's turn to learn 
+ these arcane secrets and rescue his sister.   
+
+  In real time, you lead Aurax across this fantasy landscape, dueling other wizards and their followers. 
+ You'll have the aid of NPC companions, as well as magical minions you learn to summon, such as 
+ eagles, dragons, and boulder-hurling giants. Aurax's quest unfolds as part of a branching campaign 
+ with more than 30 reasonably diverse missions. Some play like big strategic battles, while stealth 
+ missions give the game some puzzlelike elements, as in Pyro Studios' Commandos games. In addition 
+ to the campaign, you can play a highly configurable "battle" (skirmish) mode on 25 different maps 
+ with up to seven competing wizards. These can be controlled by the computer, which plays with welcome 
+ aggression, or by other humans online or over a LAN.   
+
+  Akin to a character from an RPG, Aurax has three stats that you boost with experience gained from 
+ completing each of the campaign's levels. Health determines the damage that Aurax can sustain. 
+ Control limit determines the number of creatures you can command at once. Mana, the fantasy genre's 
+ sloppy catchall term for some sort of mysterious magical power, determines the power and number 
+ of spells you can cast in a short span. Also like in an RPG, you pick up items scattered across 
+ the landscape, including spell ingredients, "mana sprites" to boost your mana reserves, and food 
+ to replenish health. It can be pretty funny to see two powerful sorcerers furiously munching apples 
+ and fish during a magic duel.           ... with mixed results, despite an interesting spell-making 
+ system.     
+
+  The Art of Magic's spell system is the game's most interesting element and features more than 50 
+ different spells. The game emphasizes strategic and creative forethought in its magic system. Between 
+ levels of the campaign or before you begin a skirmish, you access a portmanteau (spell book) to 
+ ready the spells you think you'll need in the coming level. Your portmanteau has talismans aligned 
+ in columns according to law, chaos, and neutrality. Into these talismans you place spell ingredients -- like 
+ deadly nightshade, brimstone, or psilocybin -- that you find during missions, thereby creating new 
+ spells. Depending on the alignment of the chosen talisman, the same ingredient can create totally 
+ different spells. So, psilocybin (from "magic mushrooms," no less) can be used to create spells 
+ that summon zombies, eagles, or fairies. Other spells can heal units, call down meteors, morph 
+ a wizard into another creature, and more. You really see the full possibilities of the spell system 
+ much more readily in battle mode than in the campaign, where you're stuck with very limited powers 
+ for quite a while.   
+
+  Despite the emphasis on sorcery, The Art of Magic feels much like a traditional RTS too, with simple 
+ point-and-click attacks, green/red health bars over characters' heads, control-click unit grouping, 
+ and so forth. You'll fight to control vital resources, but instead of the usual RTS crystals or 
+ ore, you try to find mana-generating "places of power" and then hold them by placing at least one 
+ of your units on it. The more places of power you control at once, the greater your mana recharge 
+ rate, which is a key to winning battles. Fighting for and holding these mana sources forms the 
+ core strategic concern of the game, and it nicely balances and works in concert with the game's 
+ tactical-level combat. Fighting for places of power can proceed at a slow pace, though, regardless 
+ of the game speed setting you choose. It can sometimes feel like a dull war of attrition.   
+
+ Fighting for places of power, waging spell battles, or just making a character move around can be 
+ a chore because of the game's awkward interface. Your wizards can't run without the aid of a spell; 
+ they only trudge about casually as enemies assault them. Dodging attacks is more difficult than 
+ it needs to be, thanks to that languid pace and the time it takes for a unit to change direction. 
+ Other interface problems can cause difficulties in combat too. After casting a spell, it's too 
+ easy to make your wizard cast it again when you want to make the character move. Also, some commands 
+ lack hotkeys, and you can't reconfigure the ones you do get. On the bright side, you can alter 
+ the game speed and issue commands while paused.           The interface and graphics can be awkward. 
+    
+
+  The Art of Magic's camera also proves to be a hindrance. As you zoom in and out, the view automatically 
+ tilts. With the camera zoomed all the way out, you get a top-down view, and with it zoomed all 
+ the way in, you get an intimate view akin to a third-person shooter. It's a shame you can't alter 
+ the angle independently of the zoom to provide the best view for each situation. Also, the camera 
+ rotates very slowly, particularly if you use the mouse to control it instead of the keyboard. A 
+ more serious problem with the camera arises from buildings, trees, and other scenery blocking your 
+ view. You have to manually toggle roofs and other obstructions on and off. It would be better if 
+ they temporarily faded away on their own when units moved under or behind them, as in games like 
+ Diablo II.   
+
+  Even beyond the camera, the Art of Magic's new 3D engine isn't quite as magical as it could be. 
+ More than anything, the game looks remarkably like a tabletop fantasy miniatures game come to life. 
+ The levels can look eerily like photos of finely detailed model dioramas. It's a strange and memorable 
+ effect, but at the same time, the game lacks the sort of original artistic vision you find in games 
+ like Sacrifice. Still, some of the detailed terrain textures and spell effects are impressive in 
+ their own right, particularly the vicious "dragon's breath" fireballs you can cast. Their sooty 
+ smoke trails look remarkably lifelike. Some textures, like rippling water, start to look pixelated 
+ when viewed up close, though. The fog of war creates an awkward effect too. Areas where your units 
+ stand look as if they're illuminated by spotlights, while the unexplored areas seem to be shrouded 
+ by pitch-black night. The effect looks very artificial and awkward.   
+
+  The 3D models used for trees, huts, and so forth look blocky, and the low-polygon characters tend 
+ to look horribly puppetlike with their stilted animations. These can render humorous those scenes 
+ that should be heartbreaking, like when an important character keeps jerking his foot mechanically 
+ as he dies. The subpar animations also make combat scenes appear lifeless. It's too bad more effort 
+ wasn't placed into character models and animation instead of gee-whiz particle effects.        
+    The Art of Magic can be frustrating.    
+
+  The game's sound leaves you with the overwhelming impression of... not much, actually. It's functional 
+ but ultimately bland and forgettable, outside of a couple of interesting music tracks. The voice 
+ acting is usually competent at best. When Nadia tells Aurax that the living dead are attacking 
+ their family's village, she doesn't evince a drop of emotion. She may as well have been asking 
+ Aurax to pass the saltshaker at dinner. It doesn't help that the dialogue itself so often sounds 
+ like it was taken from a poorly written children's cartoon.   
+
+  The Art of Magic's uneven presentation is indicative of the game as a whole. The RPG elements don't 
+ get as much attention as they deserve, and the gameworld and characters are a mishmash of hackneyed, 
+ third-rate Tolkienesque fantasy. The RTS elements aren't particularly novel or sophisticated either. 
+ The spell system is interesting in theory but can be a bit dull in practice in the campaign, yet 
+ much more fun in the battle mode. The campaign levels aren't balanced particularly well, with some 
+ too easy and others tediously long or frustratingly hard. The interface works passably, but it 
+ often gets in the way of itself. The visuals offer some really flashy effects but are let down 
+ by the character models, animations, and camera. The interesting features of Magic &amp; Mayhem: 
+ The Art of Magic's don't gel into a truly satisfying game design, but they're entertaining as long 
+ as you don't set your sights too high.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: mahoganyelf
+Rating: 3
+Date: Sep 7, 2007 5:53 pm PT
+Review:  This game has showed how do not make a videogame. Talking about graphics this game really has a 
+ very poor qualification, the graphics are very, very bad.
+  The game interface its so uncomfortable, the game speed its disproportionated, you can change it, 
+ but that doesn't change anything. The mode to select your spells its so tiring and not practical.
+ 
+  The sound its poor and the speech... this game has one of the worst speech in the history of the 
+ videogames.
+  This game has an story, it is really faded by that poor interface, sound and graphics.
+  Really 
+ I am so worried, this is the worst game ever published by Bethesda. 
+::::::
+
+-------------------------------------------------

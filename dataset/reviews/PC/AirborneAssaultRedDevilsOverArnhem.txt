@@ -1,0 +1,145 @@
+-------------------------------------------------
+:::Game Name::: Airborne Assault: Red Devils Over Arnhem
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/airborneassaultreddoa/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jul  8, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.1
+Critic Score: 7.7, 8 Review (s)
+User Score: 7.5, 25 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Battlefront. com
+Developer: Panther Games
+Genre: Wargame
+Date:     Jun 17, 2002
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+This is a must-have for anyone who wants to see how the genre can move beyond the conventions of 
+ turn-based, chit-based wargaming. 
+
+ Airborne Assault: Red Devils Over Arnhem is based on an ideal subject for a wargame. It centers 
+ on a battle with a lot of mobility, clearly defined objectives, and unique challenges for both 
+ sides. Couple this with Australian developer Panther Games' innovative gameplay system and you 
+ have one of the best single-battle wargames since Atomic Games' V for Victory series.          
+  Colored lines clearly display chain of command.    
+
+ Airborne Assault is based on the World War II battle Operation Market Garden, an ambitious Allied 
+ scheme to drop paratroopers into Holland. The Allies' objective was to secure a crossing over the 
+ Rhine into Germany, thereby doing an end run around the logistical problems facing the Allied advance 
+ through France. If it had worked, it likely would have ended the war much sooner. The plan was 
+ for the 1st Airborne Division to land near Arnhem and secure the bridge there for the advancing 
+ 30th Corps. But for various reasons, including the 30th being delayed, the unexpected presence 
+ of two SS Panzer divisions, and a quick German response, the 1st Airborne Division was decimated 
+ and the 30th Corps served only to extract the survivors. Operation Market Garden was a spectacular 
+ failure.   
+
+  The battle for Arnhem is an exciting subject for a wargame for a few reasons. Because the Allied 
+ troops arrived by parachutes and gliders, they began the encounter scattered out. The early stages 
+ of the battle involved the Allies gathering and positioning their forces for a drive on the objective, 
+ while the Germans were trying to find and disrupt them. While the Allies were using highly trained 
+ troops, they had no access to heavy weaponry. The Germans, on the other hand, had armored vehicles 
+ and artillery, but they were initially limited to whatever troops happened to be in the area. As 
+ the battle progressed (it lasted 10 days) , both sides poured in reinforcements. It was a dynamic 
+ situation with plenty of opportunity for maneuvering and surprises.   
+
+  Panther Games' new gameplay system does an excellent job of combining detail with ease of use. 
+ The action runs in real time (and gives you the option to pause the game) , but the amount of information 
+ available is more than what you get in most turn-based games. Units are displayed with the conventional 
+ markers, or "chits," you've come to expect in a wargame, generally representing individual companies, 
+ their headquarters, or support units like artillery or armored assets. A variety of hotkeys lets 
+ you quickly display different types of information on the chits, such as facing, firepower, or 
+ morale. Enemy chits show information depending on your intelligence, along with an indication of 
+ how current and reliable that information is. A sidebar provides specific information on things 
+ like cohesion, fatigue, and the number of men, vehicles, and guns in each squad. There's even information 
+ available on which weapons and vehicles a unit is equipped with. You can see how many Tiger tanks 
+ are in a Panzer division or that a British paratrooper company has 85 Lee Enfield .303s, 33 Stens, 
+ 10 Brens, four PIAT antitank weapons, three 2-inch mortars, and a Vickers machine gun.         
+   A battalion of British paratroopers sneaks over the Rhine.    
+
+ However, Panther Games didn't just dump a bunch of data into Airborne Assault. When you select a 
+ unit's headquarters, there's a tab that displays the unit's historical information. This lets you 
+ read about a unit's background and its contribution to the battle. These snippets of history provide 
+ an excellent sense of how the Germans had to scrape together whatever troops they could, from hardened 
+ veterans of the eastern front who happened to be refitting in the area to young untrained soldiers, 
+ Luftwaffe personnel, and tanker and artillery crews with no equipment to man. This is an excellent 
+ way to breathe life into what would otherwise be sterile, faceless scraps of data. Hopefully, more 
+ wargames will take this approach in the future.    
+
+ Airborne Assault is also notable for being much more intuitive than most chit-based wargames. When 
+ you select a unit, a white box is drawn on the map to display the actual area the unit is deployed 
+ across. Drag-selecting a bunch of chits will give you a clear picture of where the soldiers in 
+ those units are actually located. You can manually change the area of deployment, although there's 
+ not much point fiddling with these settings, as the AI does a good job of managing units for you. 
+           German infantry punch through defenders trying to hold an airfield.    
+
+ The way the AI manages the gameplay is probably the most innovative thing about Airborne Assault. 
+ Looking at screenshots, you'd guess that it plays like any chit-based wargame, in which you move 
+ your units, give them firing orders, and let the algorithms manage the results. But Airborne Assault 
+ is nothing like this. Instead, it focuses on the organization of the troops and lets you use this 
+ organization to carry out your strategy. Command structures among units are clearly displayed with 
+ colored lines, making it easy to select headquarters units and see the relationships between the 
+ various units. You can even use the cursor keys to quickly move through the command hierarchy: 
+ Press up or down to move to the next level of the hierarchy and left and right to move among different 
+ units within the current level. It's a brilliant way to make the complexities of military organization 
+ easily understood and accessible.   
+
+  This is particularly important since you don't play Airborne Assault by moving each chit yourself. 
+ Instead, you give a commanding unit an order and a waypoint, and it then uses the units under its 
+ command to carry out your orders. As time passes (you can pause at any time or have the game run 
+ at one of three different speeds) , you can watch entire regiments working together as an organization. 
+ You'll see them form up before moving toward their objective, leave reserves and support units 
+ in the rear, and arrange themselves to cover their flanks and use terrain. Your units will use 
+ roads to move through secure areas, and they'll call for artillery strikes as they advance. You 
+ can select any unit and see the path it's going to take to get to its objective.   
+
+  At any time, you can jump in and take control of as few or as many of the units as you want. Although 
+ the AI is reliable enough that this isn't normally necessary, it can be useful to detach a small 
+ group to scout, secure an area, or delay enemy attackers. Colored lines clearly show who's firing 
+ what at whom. Although there aren't many sound effects, the graphics are sharp and functional, 
+ clearly presenting a maximum amount of information without being cluttered. The result is a refreshing 
+ game system that's free of micromanagement, but not at the expense of detail.   
+
+  There are occasions when it's not always clear what's going on. For instance, it seems like some 
+ units rest at night and others don't. So it might not be obvious if you're not watching the clock 
+ why your men aren't doing what you've told them to do. But even then, there are still times when 
+ you'll want someone to go somewhere and he instead dawdles for some reason. Panther Games is working 
+ on a patch to incorporate command delays, which will certainly add a nice bit of realism but might 
+ also add some new confusion.   
+
+  Otherwise, the most significant criticism you could direct at Airborne Assault is that because 
+ it only covers a single battle, it may not have much replay value for anyone with only a casual 
+ interest in the subject matter. Random drop zones for the Allies give the game some replay value. 
+ You can also choose smaller scenarios or the full 10-day battle, but they all take place on the 
+ same fairly small map, which is centered on the Arnhem road bridge over the Rhine. There are variables 
+ that let you explore various "what ifs." What if the 30th Corps hadn't been delayed? What if more 
+ men had been dropped in on the first day? What if the Allies had secured the airfield north of 
+ Arnhem so they could airlift in reinforcements? As it is, Airborne Assault clearly shows the challenge 
+ the Allies faced, and many of these variables help make the game more balanced for multiplayer 
+ games.           Boxes show the area over which a unit is deployed.    
+
+ Finally, Airborne Assault has to be commended for its superlative documentation. It comes with a 
+ thick manual brimming with historical background, information on the how the game system works, 
+ and strategy tips. There are thorough tables for terrain and formation effects, as well as a detailed 
+ order of battle for both sides. There's even an index. The manual does have some peculiarities, 
+ such as abbreviating "company" as "coy," referring to drag-selecting as "marquee selecting," and 
+ calling an appendix an "annex." With a manual this good, we can forgive those wacky Australians 
+ their idioms.   
+
+  In scale and design, Airborne Assault recalls Atomic's old V for Victory series. In gameplay and 
+ pacing, it resembles Atomic's Close Combat series. On the whole, this is a must-have for anyone 
+ who wants to see how the genre can move beyond the conventions of turn-based, chit-based wargaming. 
+    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

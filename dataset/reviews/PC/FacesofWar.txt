@@ -1,0 +1,1462 @@
+-------------------------------------------------
+:::Game Name::: Faces of War
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/facesofwar/review.html
+-------------------------------------------------
+:::The Good:::
+ Intense combat with loads of enemies.
+ Detailed visuals.
+-------------------------------------------------
+:::The Bad:::
+ Awkward, unresponsive control scheme.
+ Artificial intelligence interferes with movement orders.
+ Linear mission design.
+ Some annoying language translation problems.
+-------------------------------------------------
+:::Date::: Sep 22, 2006
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6
+Critic Score: 6.7, 21 Review (s)
+User Score: 7.8, 698 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Ubisoft
+Developer: Best Way
+Genre: Historic Real-Time...
+Date:     Sep 12, 2006 &raquo;  
+ESRB: Mature
+
+-------------------------------------------------
+:::Review:::
+Faces of War proves that even something as formulaic as a World War II real-time strategy game can 
+ still go awry. 
+
+  It's surprising that developers are still finding ways to screw up World War II real-time strategy 
+ games. Games like the fantastic Company of Heroes should be the rule by this point, not the exception, 
+ seeing as developers have stacks of games to pick apart to see what works and what doesn't. Unfortunately, 
+ as Faces of War proves, this isn't the case. Many RTS versions of the noble crusade remain packed 
+ with flaws, including dull, derivative missions and control problems, and this game is no exception. 
+ Even though developer Best Way has already produced the well-regarded Soldiers: Heroes of WWII, 
+ here the company has made a primer on how not to make a WWII RTS. Faces of War hits all of the 
+ potholes that have wrecked similar games in the recent past, and it's driven into a few new ones. 
+
+          Really, really close-quarters combat.     
+
+  By now, you probably know the drill when it comes to World War II-themed strategy games. The solo 
+ part of the game features the usual three campaigns (there is no skirmish option) , so once more 
+ you get to tear up Europe with the Germans, Allies, and Soviets. There are no surprises here, although 
+ the developer has thrown something of a curveball by picking up the war after the midway point 
+ of 1944. You come on board for the final stages of the conflict, so, for a change, there isn't 
+ a focus on the standard WWII-game headline battles like D-Day (which is represented in a bonus 
+ mission outside of the formal Allied campaign) and Stalingrad (which isn't featured here at all) . 
+ Chances are that you've liberated Omaha Beach and blasted that infamous Russian city to rubble 
+ a few dozen times in other games already, though, so the (partial) absence of these engagements 
+ is refreshing.  
+
+  That's about all that is refreshing about Faces of War, though. Everything else has been scooped 
+ out of the big bag of WWII RTS game clichs with both hands. Gameplay is something of a cross between 
+ Commandos and a typical larger-scale WWII RTS. You take charge of a small squad of troops and don't 
+ have to deal with resource management or even minor management tasks such as ordering up reinforcements, 
+ but you do have to deal with large numbers of enemies. Overall, the designers have sort of hit 
+ the sweet spot between solving level puzzles and blowing the hell out of everything that moves. 
+
+  Still, missions all deal with tired, bog-standard objectives like blowing up radio stations, rescuing 
+ generals, detonating bridges, and stealing secret plans. There are lots of vehicles, gun emplacements, 
+ and tanks to hop into, plus loads of buildings to enter and use to set up shooting positions, but 
+ the end goals are still very, very familiar. You can choose to play assignments by either tactics 
+ or arcade rules, but both feel like a Sgt. Rock comic brought to life, with your squad going up 
+ against insane odds and stacking bodies like cordwood. Best Way seems to have compensated for the 
+ lack of unique settings by swamping every level with foes. Combat is fast and busy in such a never-let-up 
+ style that the incessant action soon begins to wear on you.  
+
+          When in doubt, you can never go wrong by hiding behind the nearest friendly tank.     
+
+ 
+  Levels have also been overdeveloped to the point where you have no real freedom. They aren't as 
+ rigid or as puzzle-heavy as those you would find in one of the Commandos games, although there 
+ is typically just one way to complete objectives and usually just a single way to get there. You 
+ need to do everything in perfect order to activate a trigger spawning backups (like a column of 
+ tank reinforcements) or setting up the condition needed to take out the battalion of enemies that 
+ attack you at the end of each mission. A lot of levels feature extremely dissatisfying endgames 
+ that you don't control, where the cavalry shows up out of the blue like a deus ex machina, for 
+ example, or you suddenly win the day just because you managed to stay alive against withering enemy 
+ fire for a long-enough period of time. Often, these victory conditions aren't spelled out, so you're 
+ left mindlessly killing enemies in the hope that the level will eventually end.  
+
+  Also, if you don't follow the moves "suggested" in midmission officer voiceovers to the letter, 
+ you have no hope of winning battles. You don't even have a choice when it comes to taking on secondary 
+ objectives, as you always have to complete them ASAP or get shredded by hidden mortars, blown away 
+ by a King Tiger tank, or overwhelmed by enemies who often pour out of buildings like clowns out 
+ of a funny car. This is one extremely linear game in which everything feels scripted.     
+
+ 
+  Troop movement feels limited as well. Your squad is never completely under your control, due to 
+ an artificial intelligence that constantly interrupts commands. Sometimes this is a good thing, 
+ as soldiers seem programmed to seek cover whenever possible and you can readily position troops 
+ behind cover thanks to ghost images that pop up when you position the movement cursor behind rubble, 
+ walls, burned-out vehicles, and the like. But most of the time this trait just gets in the way, 
+ as the AI will do things like force a soldier to drop to a crawl or stop and return enemy fire 
+ when you're trying to get him to sprint to safety. At other times, soldiers won't respond to movement 
+ commands. They also seem to always leave cover and stand up to shoot, even when it isn't necessary. 
+ Troops also have an odd tendency of running into each other, or into the rubble that clogs almost 
+ every level, and freezing in place until you click a new destination that lets them escape their 
+ traffic jam. Most missions take place at least partially in closed-in city or town streets, so 
+ these movement snafus can lead to a lot of frustration.  
+
+          Just another day on the Russian front.     
+
+  Faces of War does feature a more hands-on 
+ control mechanism called direct control (previously seen in Soldiers) , where you can take charge 
+ of an individual soldier. It's too unwieldy to use, however, as you need to hold down the Ctrl 
+ key and use the arrow keys to move. You can switch it on and off with the End key, but this is 
+ arguably even more awkward as you can't move your squad properly with direct control on, and need 
+ to hit the button over and over again during the course of every mission. At any rate, using direct 
+ control effectively is pretty much impossible due to the zippy speed of most levels. So don't expect 
+ to get any use out of this option, except for those moments when you want to take a few potshots 
+ at a specific enemy sniper or a foe manning a gun emplacement.  
+
+  Visuals and sound cause more confusion. Best Way's Ukrainian roots are apparent in the horrible 
+ English of the mission briefings, which are frequently so off-the-wall that you don't quite know 
+ what's going on until you actually start the action. At least lines like "We Stand One" and directives 
+ such as the one to "withdraw the secret stuffing" from a radar base provide comic relief. Maps 
+ are loaded with detail, which makes for some truly authentic-looking theaters of war (towns really 
+ look lived in, with telephone boxes on corners and amenities like parks and water fountains) and 
+ loads of destructible buildings that go boom in an impressively cinematic fashion -- but they wreak 
+ havoc on camera angles. You have to constantly swivel the camera and zoom it in and out to dodge 
+ the buildings, trees, and debris that block your sight every time your squad turns a corner. As 
+ this is one fast-paced game, it often feels as though you're battling the camera as much as you're 
+ battling the Wehrmacht, GIs, and Reds. All this detail seems to cause a lot of slowdown, as well. 
+ On any visual setting, the game bogged down at least once per level, typically in the midst of 
+ the huge, smoky final battles.  
+
+  Audio cues are another problem. While the game delivers solid explosions and machine-gun rat-a-tat-tats, 
+ it lacks good cues. So you're never told where enemies are located or are moving to, and you're 
+ given just a wimpy, hard-to-hear announcement heralding the arrival of a grenade at your feet. 
+ The latter can be a real pain, too, as grenades in the game are nearly impossible to see, being 
+ no more than a couple of pixels in size, and are smartly tossed by enemies into trenches and at 
+ manned gun emplacements.  
+
+           Say goodbye to one Allied bridge.     
+
+  Multiplayer is arguably the high point of the game. Co-op play for two to four players is supported 
+ for one-off missions, and there are eight traditional multiplayer modes of play including deathmatch 
+ and king of the hill, along with interesting variants like Chicken Hunt, where you compete to kill 
+ farmers and capture their finger-lickin' good livestock, and the Capture the Flag-like Battle Zones. 
+ Maps are on the small side and seem designed to spark conflict almost from the moment you spawn 
+ your units into existence. Getting into gunplay is also sped up as you have liberal access to vehicles 
+ and tanks in most modes of play, so you don't necessarily have to wait for your slower ground troops 
+ to make their way to the emerging front lines on foot. Lag is a bit of an issue at times, however, 
+ and matches are frequently interrupted as the server resyncs with the players. This can be pretty 
+ jarring, especially in the midst of a firefight, as units can suddenly appear or disappear. Still, 
+ there seem to be a fair number of people playing online, so it's pretty easy to hook up with a 
+ match.  
+
+  For all this, Faces of War isn't terrible. Even with the been-there, done-that WWII setting and 
+ the other problems noted above, at times you can't help but enjoy the game despite itself because 
+ Best Way has thrown everything but the kitchen sink into missions. There is something undeniably 
+ cool about feeling like you're taking on the entire Wehrmacht, US Army, or Red Army with just a 
+ handful of troops. If not for the control and design problems, this intensity might have made for 
+ an enjoyable RTS. As it is, though, this is just one more forgettable WWII game to throw onto the 
+ pile.  
+
+    Editor's note 09/26/06 : When the review was originally posted, it implied that there was no 
+ way to toggle on the game's direct control feature without pressing and holding a key, which is 
+ incorrect. GameSpot regrets the error.      
+-------------------------------------------------
+:::User Reviews::: (41 Reviews)
+::::::
+UserName: indaybibi
+Rating: 9.5
+Date: Mar 1, 2009 9:21 pm PT
+Review:  this game is really hard when it comes to your regular rts games.. like soldiers but you can control 
+ more units this time and that's the fun part!!
+  
+  the damage physics is superb everything around you is fully constructable.. 
+  
+  its worth a 
+ try if your a die hard RTS gamer.. but if not.. ITS NOT FOR YOU BOY !!!! Heheheheh
+  
+  Compared to games like Sudden Strike or Blitzkrieg, there's not a great deal of variety to the 
+ units here. Instead the focus is on iconic vehicles like Sherman and Tigers and T-34s and infantry 
+ armed with a wide range of weapons, from SMGs to flamethrowers. Some gamers might miss the more 
+ obscure units but the ones that are included in Faces of War definitely capture the flavor of the 
+ conflict and allow for all the cool tactics and schemes seen in your favorite war movies.
+  
+  One of the worst offenders in Faces of War is the poor artificial intelligence of your units. 
+ The cluttered nature of the levels really frustrates the game's path finding, particularly if you're 
+ trying to make your way across streets strewn with rubble. Since there's lots of rubble throughout 
+ the game, you'll find yourself getting frustrated when your soldiers can't seem to work their way 
+ quickly around the various obstacles in front of them. 
+  
+  
+  
+  
+  
+  
+  
+::::::
+
+::::::
+UserName: WW2freek
+Rating: 9
+Date: Jan 20, 2009 1:40 am PT
+Review:  My first review of the game. This game to start off with is extremely fun to play.21 mission,10 
+ frontline games,4 combat multiplayer mission and of course, coopertive. The same things as soldiers 
+ heroes of WWII . Same pepole you play with, allied, german and the soviets. 7 missions in each campain 
+ and 3 training mission. All 21 games are difficult but you will handle it. They say at the back 
+ of the cover "All mission are realistic and historically correct". Before you play a mission they 
+ will have a cinimate. But at the extremely conner of the page it says"Mission are not 100% correct".
+ 
+  That is very weird. In fact I did some reserch, and it shows, ready for this? None of the missions 
+ are even 30% correct. Example, (I don't know how to spell) Neigenhin Bridge.
+  It happen In 1944. Operation Market Garden. The allied cross the bridge and the german bomb on the 
+ bridge failed. In the game, German forces blow up the bridge and killed all the british soldiers 
+ AND blow up a huge make-belive barg that has a 150mm gun. Over to the online. There are over 100 
+ players in online and still growing. Frontline is defending or attacking. If you are attacking, have 
+ fun with destruction. If you are defending, let me find my trumpet. The are chat options too. There 
+ are planes in one of the maps but know one knows how to fly a plane EXEPT this one person called 
+ fritz. My name is called peter (english) . All the maps are big and deserted. Maps like, surub, desert 
+ airport, farm and town.
+  You can make maps with the 1.04v. Thing is,1.04v can't play with 1.01v and same with the other. Vehicles. There 
+ are about 130 vehicles and half of them are not real. Like in every 1c game, the AAgun, german Flakpanzer 
+ IV Wirbelwind and M4A2 (DD amphibian and Mine Clearer model)
+  Overal, the game is fun and challenging at the same time. But there are also downpoints. Like controling 
+ a soldier with ctrl, up, down, left and right. There are long pauses during the online games and sometime 
+ the game stops instanly while during the games. This is it. Later this year, there is faces of war 
+ II or Men of war. I heard it has more make-belive vehicles and can play as Japan in online. And it 
+ goes to north africa, pacific and Eropean soil. So, have fun withe this review!!! 
+::::::
+
+::::::
+UserName: talknight2
+Rating: 9.5
+Date: Jul 21, 2008 1:52 am PT
+Review:  Good:
+  Great graphics
+  Excellent gameplay
+  Many tactical options and dozens of weapons and items to use
+  Enjoyable (though somewhat slow 
+ over 400 Ping) multiplayer experience with great maps and play modes
+  Hectic action and very detailed, realistic explosions
+  Easy to use command system and interface
+ 
+  
+  Bad:
+  Awefully annoying AI sometimes causes your squad members to use their grenades and\or rocket launchers 
+ at really bad moments when they should run for their lives instead (such as when getting assaulted 
+ by numerous tanks) . 
+  Buildings sometimes obscuring sight, though easily solved by activating the silhouette option or 
+ moving the camera angle around from time to time.
+  
+  I just love this game.
+  How can you not love it? (well unless you're a total noob and have no friggin' idea what *tactics* 
+ is all about)
+  It looks great, plays great, sounds awesome, has long, KABOOM-filled missions, and has a great 
+ command system.
+  The only single drawback of this game is the somewhat sluggish friendly AI causing your men to 
+ just stand around looking for grenade targets and get chopped down by machinegun and\or grenades 
+ and the like. Thankfully, if you play the game right, you can easily avoid getting in such situations 
+ in the first place. Just remember to SAVE before attempting any kind of attack and you'll be fine.
+ 
+  I won't lie to you, this game is pretty darn hard and requires loads of patience and a commanders 
+ mind to succeed in, but after you complete a few mission you'll get the hang of it.
+  My personal favourite feature of this game is the direct control mode, allowing you to control 
+ you're men manually (one at a time though) , drastically increasing their battlefield efficiency. 
+ Usually you will be provided with a Sniper and atleast 1 Machinegunner in your squad. If you're 
+ patient enough you can take one of them on commando mission behind enemy lines to soften up hard 
+ areas without being spotted (using the convenient concielment provided by the numerous bushes and 
+ walls realistically laying around the battlefield. It's always a good idea to load you're sniper 
+ with some AT grenades and a bunch of weapons and ammo and go around the back of the enemies tanks 
+ to wreak some havoc before advancing your whole squad.
+  Remember: bushes+sniper rifles+AT grenades are you're friends! ;-)
+  
+  The mission are just 
+ plain awesome, providing loads of all-round chaos and explosions while providing you with calm 
+ time to rearm yourself (make sure you rearms quickly though because if a dead body is touched by 
+ any explosion or vehicle it'll dissappear, taking all it's ammo and items with it) .
+  Even after large events such as destroying a bridge in a FANTASTIC explosion or capturing a crossroads, 
+ the missions still won't end, and you will be given more and more varied secondary objectives to 
+ complete, such as destroying a mortar position or protecting your spotter while he sends false 
+ coordinates to the enemy.
+  
+  Since, according to the storyline, you are a member of the commandos\rangers units of Russia, Germany 
+ and the Allies, you may expect very varied missions, and you'll get them. Objectives in the game 
+ range from all out charges, to ambushes and covert operations, to full-out Commandos style mission 
+ having you inserted into an enemy camp and having to wreak havoc without being detected before 
+ your re-inforcements arrive, and giving you a HUGE array of weapons (virtually every single mass-produced 
+ gun of the war is featured, aswell as silenced guns, radio mines and whole crapload of general 
+ equipments items ranging from helmets to radio transmitters) This whole lot provides for a very 
+ immersive and fun experience that I recommend to any tactics or WWII buff out there.
+  
+  GET THIS GAME, IT'S JUST PLAIN AWESOME!!!
+  
+::::::
+
+::::::
+UserName: crisissuit3
+Rating: 8.5
+Date: Mar 13, 2008 12:35 am PT
+Review:  it took me a lot to get this game. my parents had a 30% off coupon. faces of war was 50 dollars 
+ and it was a race to my house. my dads office and my local store. luckily my mom came in and handed 
+ the few extra dollars i needed.
+  
+  hello and welcome to another of my reviews.
+  
+  as i reread my dawn of war review i gave that game too low of a score so now im changing it up 
+ a bit.
+  
+  graphics: 3/3
+  
+  this game visually looks amazing.
+  
+  there are a lot of guns to use. sparks fly off tanks and bazooka smoke looks amazing. its also 
+ fun just shooting at houses and watch the explosions and all the debris.
+  
+  the units are very detailed as well as the weapons and vehicles.
+  
+  with all this you'll probably 
+ need a pretty high end pc. and when i first got this game my pc lagged like there was no tomorrow. 
+ even when i upgraded it, it was still suffering from framerate issues. but if you have the alien 
+ pc to play this then it should be smooth.
+  
+  story: 1/2
+  
+  what do you want from me its a WWII game. you play as the germans, russians, and allies. thats 
+ pretty much it.
+  
+  and the reason why the story get the lowest score is because even though i always enjoy the story 
+ line of a game. its a WWII game. its cliched what more can i say.
+  
+  so yea you have 3 campaign 6 if you count the advance version which is hard as heck since in the 
+ easier version you have allies. here you need to move the camera a lot.
+  
+  gameplay: 4/5
+  
+  faces of war is very revolutionary for it adds a few things to the rts mix.
+  
+  for one 
+ it adds a cover system. this is amazing since instead of having your guys line up and pretend to 
+ flank them and your actually doing something.
+  
+  here it is extremely real.
+  
+  your men take cover and flanking can really bang up your enemy since all units are weak. just like 
+ in real life.
+  
+  tanks are also more vunerable at the rear so have a bazooka guy go around can save your squad.
+ 
+  
+  speaking of which. the first few levels of the 3 campaigns. you are given a few guys and only those 
+ guys.
+  
+  you will get reinforcements once and a while but like i said. they are weak!
+  
+  this game also has a stealth aspect. say you have a sniper but he will easily get spotted. 
+ or a large patrol is heading right toward you.
+  
+  you can tell your men to cease fire and go prone in some tall grass or maybe (dont try this) in 
+ a building. though i recomend the grass.
+  
+  now for the thing that reall mes this game stand out.
+  
+  DESTUCTIBLE TERRAIN!!!!!
+  
+  almost 
+ everything you see can be destroyed. maybe a few building cant be but you'll hardly ever notice.
+ 
+  
+  its always fun to have a anti tank cannon and shoot a house with men in it. the floor will crumble 
+ below them, the roof will fall on them. you can destroy there cover.
+  
+  its just amazing. now for some bad things.
+  
+  this game has some really dumb ai.
+  
+  a lot 
+ of times they will not move or will take forever to move. 
+  
+  sometimes they will switch from sprint to walk.
+  
+  theirs a lot of micromanagement with your 
+ units since you can pick up stuff from boxes or dead guys.
+  
+  and the worst about the ai is that they will do stuff on there own.
+  
+  i always have find one 
+ of my guys being the hero by running out in the open or taking some idiotic path throuh a enemy 
+ MG.
+  
+  and here is one last good/bad thing.
+  
+  this game can be unforgivingly hard at times.
+  
+  there will be times when a MG has your guys 
+ pinned down and it feels like they dont run out of ammo. and it always looks like your not going 
+ to make it but all of a sudden. one of you guys fires a lucky shot or a lucky grenade.
+  
+  this game is great and i totally recomend it.
+  
+  now what do i give this?
+  
+  
+  an 8.5
+ 
+  
+  man i need to work on my rating scale...
+  
+::::::
+
+::::::
+UserName: toysaow
+Rating: 10
+Date: Sep 20, 2007 10:10 pm PT
+Review:  before i starter play solidiers hero of world war 2 this demo , i love this type game, and i feel 
+ first time what type game is my like, so i buy this original game, also in my first life buy original 
+ game and collection. after faces of world come out, same type of my love games, so i buy it and 
+ collect it. now faces of war 2 is coming soon and i will collect soon again. becouse i love it 
+ this type games, in my life i first time to feel, and let me know what kind call the games. 
+::::::
+
+::::::
+UserName: exo911
+Rating: 9.9
+Date: Jul 24, 2007 11:26 am PT
+Review:  Ok the gamespot reviewer clearly has no taste. Company of heroes pffft. This game is fun and challenging. 
+ For those of you who dont know about the gameplay i will lay it out for you. First of all you can 
+ control how your squad fights, and when you get bore you can control one of your soldiers and fight 
+ as him. Online is amazing, alot of fun. This game features tactical and strategical combat. When 
+ you first install and play there are a few bugs so get the latest patch. You can play as the Germans, 
+ Russians, or allies ( British and American) . There are 2 campaigns to each faction, basically Normal 
+ and Elite. There is vehicle combat and aerial in certain maps. I reccomend this game over company 
+ of heroes. 
+::::::
+
+::::::
+UserName: Slonor
+Rating: 9.6
+Date: Jul 9, 2007 11:35 pm PT
+Review:  FoW features very innovative (with the exception of SHOWW2) gameplay elements. It is extremely 
+ detailed compared to most other RPG games. I think a good way to describe this game is by comparing 
+ it to CoH. CoH basically takes place in a theoretical environment. Troops who are in cover are 
+ really just in a hotspot where the probability of getting hit is artificially reduced. FoW has 
+ a physical environment where cover truly is cover in that it reduces the chance of a soldier being 
+ hit because there is a solid object between a part of that soldier and an enemy's rifle. He can 
+ still be shot in the head once and killed. This is amplified by a completely dynamic environment 
+ where cover is constantly being destroyed and created. A destroyed or disabled tank is cover. A 
+ rock that falls off of a building is cover. You get the idea.
+  
+  CoH boasts dynamic buildings that change as they are attacked. A damaged building (damaged life 
+ of building) could lose the roof, allowing enemy mortar shells to rain on the inhabitants. New 
+ windows appear as holes are shot in the building. Impressive, but it is still theoretical. In FoW, 
+ there is no such idea as the life or condition of a building. In fact, the only things with life 
+ bars are soldiers. Buildings are completely dynamic in that they are not actual entities on their 
+ own, but instead, the individual entities are the bricks (or other materials) that make up the 
+ building! To kill a soldier in a building, you actually have to hit that soldier somehow, not just 
+ destroy building while soldier inside. That is because there is no clear line between a destroyed 
+ building and a non-destroyed one. You can blow a building apart by shooting at the walls and making 
+ holes in them, which eventually causes the frame of the building to weaken and parts of the building 
+ to collapse. This debris can kill soldiers if the rocks physically hit the soldiers. In essence, 
+ it is a highly-advanced FPS physical environment, but in an RTS!
+  
+  That said, the tanks in CoH do feature some realistic damage. Gunners can be killed, turrets can 
+ be blown off (and repaired) , engines can be damaged or destroyed, etc... But often, it is left 
+ to chance in CoH. In FoW, there is much less chance. Yes, there is a chance that a round will bounce 
+ off instead of penetrating, but this is mainly determined by the angle of the round, the angle 
+ of the armor and the round type. The rear of tanks is always weakest, while the front is strongest. 
+ The rear of the turret is probably the weakest point. if you want to kill a Tiger tank with a Panzershreck, 
+ you should aim at the back of the turret, as the rocket almost always bounces off from the front 
+ or side. The damage is also very well-done. Every wheel, track, turret, muzzle, engine or frame 
+ take damage individually. That is, if the turret is damaged, the tank does not take any health 
+ point damage. The turret simply does not rotate, and that cripples the tank. There are also two 
+ types of damage: permanent and repairable. Repairable damage can be repaired and includes dislodged 
+ turrets, torn tracks, flat tires and damaged engines. Permanent damage cannot be repaired. This 
+ includes destroyed tank frames (turret does not move and tank is immobile, but can still fire) , 
+ blown off wheels, blown off turrets and engines that were blown out of the tank. Tanks also never 
+ really belong to any faction in FoW. They are simply objects that can be driven and used by soldiers 
+ (your own or enemy) . Likewise, each soldier controls a specific part of the vehicle. To drive a 
+ tank, you need only one soldier. But that one soldier will be able to at one time only do one task. 
+ So, you can either drive, reload, fire or rotate the turret. Therefore, it is usually best to have 
+ at least 3 soldiers in one tank, with a maximum of 5. Soldiers can also be killed. A gunner looking 
+ out of the tank can easily be sniped. Crew members can catch on fire if the tank is critically 
+ damaged. You can even damage a tank with repairable damage, force its crew to leave, kill the crew, 
+ repair the tank and, in a way, capture the tank! This leaves many possibilities, since you can 
+ theoretically drive anything.
+  
+  Each soldier in this game also has his own inventory. This is also true for vehicles. Ammunition 
+ and grenades exist in a quantity and can run out. Vehicles also have a fuel amount, and this is 
+ depleted as the vehicles are driven. Fuel canisters can be used to not only contain fuel, but to 
+ transfer it from one vehicle to another! Or , you can fill up a fuel can, set it on the ground, 
+ and shoot it to cause an explosion! Same for air bombs or heavy artillery shells. You can even 
+ demolish buildings by driving tanks into them if you want to conserve High Explosive ammunition 
+ for use against ungarrisoned infantry. The possibilities are endless!
+  
+  Unfortunately, the game does suffer from one problem: replayability. There is no skirmish mode! 
+ if you want to customize a level, you have to use the map editor. This is truly a shame for an 
+ otherwise excellent game. The other problems mentioned in the official review are negligible. Yeah, 
+ infantry can be kind of stupid when you let the AI handle them. So, JUST TURN OFF AUTOMATIC MOVEMENT 
+ AND/OR FIRING! Direct control is great in this game, and you almost cannot win most levels without 
+ it. You need it to properly maneuver tanks to avoid hits, you need it to send in a lone infantryman 
+ to take out rocket artillery before your tank rolls in, and you need it to fire the anti-tank gun 
+ at the back of the tank's turret so it flushes the infantry while leaving the tank with no permanent 
+ damage. The game is also somewhat hard, but in a challenging way instead of a tedious way, which 
+ is always good. Campaign missions often revolve around saving often and trial and error, but it 
+ almost never gets boring or tedious, and is instead very rewarding when you finally capture that 
+ Tiger tank in a mission where you probably weren't supposed to due to the endless onslaught of 
+ enemy tanks and infantry. The reason for the large learning curve is that you really will need 
+ to play for a while before you learn the tank types, the strong points and the ammo they use. It's 
+ simply a very in-depth and detailed game.
+  
+  A great game, but it is all almost ruined by a lack of a skirmish mode. So, play the campaign and 
+ then make your own maps! 
+::::::
+
+::::::
+UserName: dragonballzgt_2
+Rating: 10
+Date: Jun 25, 2007 10:29 pm PT
+Review:  i play all day via internet , i like very msuh the campaing , but multiplayers is the best 4vs 
+ 4 in desert , i no concur with revier command of heroes is a trash compare to this ,this game have 
+ 10 graphic 10 sount a regular ai , ai enemy is very good , ai for you is regular , and the best 
+ thig the interface to you control you tank , man or vehicles , you can fire manualy in one and 
+ other direction and conserve the bulet , rechage the tank with fuel munition , put mines , and 
+ mush alot you no do in single player , for next time principal review play single complete and 
+ multiplayer and learn how play haha i give to this game a 10.0 
+::::::
+
+::::::
+UserName: huangzhihao
+Rating: 8.6
+Date: Apr 27, 2007 6:28 pm PT
+Review:  I always thought there are reasons for Gamespot to give it such a low score, but after i tried 
+ it out myself, i feel the review from Gamespot is way off. Many compare this to Company of heroes, 
+ but they are actually quite different. Faces of war is much more complicated and involve way more 
+ micro management. The ability to control a single soilder in third person also adds a nice touch 
+ to a already great RTS game. While playing, one great thing caught my attention, and it is the 
+ extremely well programed damage model and effects. All the explosions, sounds, scatters... I really 
+ feel it may be even better than CoH. Despite all that, this game is highly realistic. There is 
+ a limit how much a soilder can carry, what weapons he's carrying, and the corresponding ammos. 
+ You can loot ammos if you ran out of them. You can pick up weapons on the ground and decide which 
+ soldier to equip.... Last, talking about graphics, Faces of war certainly provide the best visuals 
+ during the time of its release, and is still better than many recent games. compared to CoH, Faces 
+ of war is beautiful in another way.
+  This game certainly deserve a score higher than 8, even the recent C&amp; C3, which i did not like 
+ at all, got 9.... Well, it seems most people are moving towards the arcade, fast-paced, easy-going, 
+ no-brain type of games, including the reviewers from GS.... sad. 
+::::::
+
+::::::
+UserName: noobgotpwned
+Rating: 8.2
+Date: Mar 26, 2007 6:38 am PT
+Review:  By the reviews this game was getting, It was hard to decide if I wanted to buy it or not, but I end 
+ up buying it I just use the mouse when playing RTS games I am not use to the keyboard yet so...
+ 
+  one thing that stood out quick to me was everything is left click which is weird because most 
+ rts games I have
+  you left click on a squad and right click in the area you want them to go ,,,
+  but this game 
+ it is left click for both that was hard for me to get use to
+  
+  graphics are good not great... i read a review before mine and it explained how you can you use 
+ almost anything for cover I really like that point of the game I don't like single player mode 
+ on any rts game but my brother said he liked it alot my brother and I usually hook our pcs together 
+ and play LAN and I think the multiplayer that way is awesome but I hate the online multiplayer 
+ .. there is either no one online or when there is they act rude I think the sound is really good 
+ all in all its a good game 
+::::::
+
+::::::
+UserName: Karl319
+Rating: 9
+Date: Jun 24, 2007 11:26 am PT
+Review:  Faces of War is hands down one of the best RTS, if not one of the best games in general, to come 
+ out in a long long time. Faces of War at heart is a re-wrap of Soldiers: Heroes of WW2 since it's 
+ using the same engine but tuned with new features and graphics options. Sadly Faces of War is also 
+ wrongly compared to another recent RTS Company of Heroes in an endless flame war on which is better 
+ , now let me just point out in an unbiased view that Faces of War, delivers more than CoH does 
+ and probably will. I know I'm going to be comparing the two games a lot through the review but 
+ why not, at least I'm doing it the right way with solid facts and no fanboyism.
+  
+  Gameplay:
+  
+  Faces of War Is ALL about the multiplayer aspect, from the traditional deatmatch 
+ gametypes to a conquest style zone holding mode and the best part co-op. The multiplayer has endless 
+ play value because no match or sessions is the same as the last one, the game is just so versatile 
+ and dynamic that it feels like a whole new level each time you play the same one. What makes it 
+ so is the destructable environments in Faces of War. Nothing is unbreakable, everything acts as 
+ cover, shielding your men from a tank coming up the road long enough for you to prepare an ambush. 
+ Or when you need your men to get to some cover after being attacked in the open street... just 
+ grab a nade and blow a hole in the wall and run, or if it's a house... use it as a fort and deploy 
+ your machineguns, snipers, flamethrower smg's anti tank and whatever you got inside.
+  
+  Or if you really need a fast exit, run down the house with a tank and use the new made exit to 
+ flank the opponents. FoW is all about finding solutions to problems as fast as you can. Because 
+ you don't have forever. You have to consider AMMO, both PRIMRARY and SECONDARY, and GRENADES, BANDAGES, 
+ what TYPE of weapon, what type of AMMO... FUEL, COVER. Everything. As opposed to CoH's static death 
+ animated houses and vehicles. In FoW anything becomes cover... blow up a tank, and the wreckage 
+ will stay there as immediate cover for men to lean up from and shoot, or hide behind. Company of 
+ Heroes, lacks all the above except for ammo types, for which it has a crude buy 30 seconds of secondary 
+ ammo .
+  
+  Each vehicle has different caliber guns, and as such, different ammo types and effect on other 
+ armor. You can't for example, unlike with CoH's HEALTHPOINTS - blow up a tiger with a ... 20 mm 
+ light tank. FoW has an actual damage modeling system, you can break tracks, repair them later, 
+ you can blow up engines, break turrets, kill the crew, bullets will dent off if they arent strong 
+ enough, and so forth. When a vehicle blows, theres no boring death animation... the vehicle breaks 
+ down in the position it was in, each death is different than the last, depending on the direction 
+ of the fatal shot and the area hit. A nice detail also I'd like to note is the fact that tanks 
+ get bullethole scorchmarks on them after they've been hit, so you can see exactly where the shots 
+ hit him.
+  
+  So you can automatically see if you're going up against a tank that's seen a lot of action by the 
+ dents on it's hull. Each vehicle also needs a crew, minimum of 1... but 1 man wont be too fast 
+ at loading, aiming, driving, and defending a tank. Each vehicle has it's own ammount of crew needed, 
+ you can evacuate them, swap them around, tell them to man a different position etc. Again something 
+ which CoH lacks, with it's old fashion healthpoints system on soldiers and tanks...
+  
+  Yes I know CoH is SUPPOSED to be a simple fast paced version of ww2, but I'm just pointing out 
+ all this to those who think CoH is a realistic game and better than FoW.
+  
+  Lets see what else have I not.. cov.. ered... hm.
+  
+  Faces of War has an inventory system, people 
+ drop their guns when they die, you can go scavenge the corpses for ammo, weapons, or whatever else. 
+ Theres just ... so many guns to list that I wont even bother, from anti tank rifles to mg42's ... 
+ B. A. R.' s M1's .. you name it, flamethrowers are awesome I may add, burning down houses and smoking 
+ out the rats in them.
+  
+  Lets see, now, every house as I said is destructable with multiple parts that can be blown up, 
+ all physics orientated as is everything in this game. Say you got yourself a nice tiger tank, stroling 
+ through a city, and you got a nice bunch of Sherman's or M10's after you... oh no, you're out gunned 
+ from all sides! ... how about you park your tank inside a nice warehouse or back it up inside a 
+ house, thus shielding yourself from the flanks, and containing the element of surprise until you 
+ can get a shot at them 1 by 1. And don't forget to use an AP shell, not an HE, and watch your ammo.
+ 
+  
+  OH I almost FORGOT the biggest factor in this game... direct control!
+  
+  Direct control lets you take control of any soldier you choose, any vehicle, gun, whatever and 
+ just drive it around like a Battlefield series game. This is very useful for multiplayer, for executing 
+ manouvers and missions too complex for the A. I. itself, such as crawling through the ruins and 
+ mud ridden city streets to sneak up on a fortified tiger tank and lob a nice AT nade on it and 
+ shoot the crew when it runs out. And hey maybe if you got time, check if the tank is still operable 
+ and use it against them?
+  
+  God I feel like I'm writing a book yet I got so much more to say. I really don't think I can sum 
+ all the amazing gameplay in this game into a mere novel even. It's just... beyond, words. Working 
+ together online is like a whole... nother game, for example one player could be driving a tank 
+ while the other uses his man in direct control to snipe anti tank gun positions to clear the path 
+ for the other one. And so much more, and this is not limited to co-op, the other modes are just 
+ as fun if played right.
+  
+  Well I'll just stop here for now, and move to the next categories. Which will be shorter.
+  
+ 
+  And before I forget, which I should have said before, this game is really best with the 1.4 or 
+ above patch, seriously, if you get this game, GET the patch, or you may regret it.
+  
+  Graphics:
+  
+  The graphics do the game just fine with the 1.4 update (which adds reflective 
+ water with realtime reflections) but even without that, the bumpmapping on the vehicles and very 
+ nice soft self shadows do a fine job. The textures aren't 1000x1000 res, but they still do a good 
+ job with reflecting windows, breakable glass, particles that cast shadows. And just everything 
+ else. And it doesn't take a monster PC to run, unlike unoptimized CoH which requires more than 
+ it's worth sadly.
+  
+  To make up for that tho, the vehicles look absolutely great, detailed with nice bumpmapping and 
+ detail touches like ropes, wires, ventilations, hatches.
+  
+  The game also has a simple yet sortof good bloom shader, nothing amazing, I don't really favor 
+ it personally.
+  
+  Sound:
+  
+  If you got the hardware and turn the settings up in the options, you'll get some pretty nice audio, 
+ you can hear the clank cluttering in the engine of a russian T-34 as if you're standing next to 
+ the thing.
+  
+  All in all the audio is great, the only problem personally speaking is the soundtrack which could 
+ be a bit .. more, orchestral. But it's no major problem.
+  
+  A good detail is that each country speaks in it's own language, so you wont hear germans going 
+ we izt zpeakin zie enlizh .
+  
+  Value:
+  
+  For the measly few bucks from your wallet and days pay, you can get ... hundreds of hours of online 
+ fun, my x-fire profile is more than willing to back that up. And all in all, with the map editor, 
+ the online fun, co-op and good friends, it's an amazing game with fun and great moments in it. 
+ From taking out a sudden threat of a tiger tank coming from your rear by desperately running to 
+ cover and grabbing a zooka and busting it's engine to the sudden sound of a flak gun aiming at 
+ you from a hidden firing spot inside a building.
+  
+  Reviewers tilt: 10 of 10 , what can I say, I love, this, game.
+  
+  Seriously, if you are a fan 
+ of fun online games that require some skill and reward for taking the time, and if you have great 
+ friends to play with in LAN, or online... what are you waiting for, what, are, you, waiting, for!
+ 
+  
+  And with mods... you'll have... a LOT of fun. I recommend RealWar1.2 (or higher) . 
+::::::
+
+::::::
+UserName: frenetix
+Rating: 9
+Date: Mar 18, 2007 7:16 pm PT
+Review:  I absolutely love it, 1.0 showed a lot of potential, and 3 tons of bugs, but with the latest patch 
+ (1.04a) everything is like you could ever want it, considering FoW features things like manual 
+ control of your soldier, a nifty inventory system and pretty damn good damage system on vehicles 
+ the battles are nothing short of fun and tactics.
+  
+  And when it comes to multi-player, it got my favorite game-mode, Co-op, you can play any of the 
+ single-player maps with up to 4 players offering really good teamwork.
+  
+  About that damage system, how does treads getting blown of tanks sound? Good? How does repairing 
+ said broken track with a repair kit sound? Even better? Good! Because you can do exactly that and 
+ more in Faces of War!
+  
+  The inventory systems and weapons.
+  You got various weapons and items to put in your inventory/hands, things like helmets, body armors (rare) , 
+ several types of grenades (AP&amp; AT) , bazookas and panzerfaust tubes, MG42's, MG34's, MP40's, Sturmgewehr, 
+ BAR, Thompson etc etc, the list is pretty damn long.
+  Hey, just earlier today in Co-op I even equipped one of my soldiers with 2 panzerfaust (AT rocket) 
+ tubes and a Mosin nagant sniper rifle and went off taking down 1 tiger tank and several soldiers 
+ before retreating to my co-players cover.
+  
+  And more 1 thing on my mind, physics! One of the most awesome things I've found in FoW, let's take 
+ this example here.. You got a big heavy tank (King tiger for example) and you also got a house (more 
+ stories = more awesome) with enemies inside (preferably not anti tank troops ;) ) , just take your 
+ big fat tank and ram it straight into the building, and keep going! Building collapses around you 
+ taking the soldiers with it, voila, no more pesky enemies in that house :D
+  
+  Well I just ran out of words. *off to play FoW* 
+::::::
+
+::::::
+UserName: Alkpaz
+Rating: 8.1
+Date: Mar 17, 2007 2:20 am PT
+Review:  I have enjoyed JTF and Act of War to a tremendous degree.. but this has a bit more tactics and 
+ less strategy than I care for. This does NOT affect what I see in the game itself. First off the 
+ graphics are just stellar.. the gameplay although awkward at times works well for the most part. 
+ The game does have few bugs even with the latest patch 1.04 like repeating missions in which you 
+ have to load a previous save to correct the error. But the game is more geared to those who have 
+ experience in these types of games.. the tutorial is pretty vague at times and sometimes you have 
+ to play with it to find out just what to do. I'm all for learning but sheesh, I just want a game 
+ I can dive right into and learn as I go than having to figure out every single thing. Sure it gives 
+ it a dose of reality.. but there are limits for me. So here is my breakdown: Gameplay.. Great, 
+ but not for noobies. I have to pan the camera around so much that it becomes irritating for me. 
+ Graphics: a straight 10.. it is exceptionally detailed.
+  
+  Sound: The music score gets to ya at times but the weapon sounds are right on. Also, there are 
+ sound cutoffs where the announcer just doesn't say a word and you have to read through the dialogue... 
+ Value: I have to say with 3 campaigns the game has a ton of replay value to be had.. but that can 
+ be said for nearly all RTS games in general
+  
+  My Tilt would be a 8.. for being a great game.. even though it didn't grab me as I thought it would. 
+ Aside from the fact that strong tactical games probably aren't my thing . Slight tactical games.. 
+ sure.. but not overtly so. 
+::::::
+
+::::::
+UserName: DEADpepsi
+Rating: 8.4
+Date: Mar 16, 2007 11:21 pm PT
+Review:  With the patches and MODs this game is amazing for multplayer, single player is well just bad. 
+ Recommended you just skip single player and dive in the action online, but even in multiplayer 
+ there is a tonne of people that play coop, but it just aint my thing. Hopely the devs look at what 
+ worked in the MODs when they make the next one.
+  
+  LOL have to have atleast 100 words blah blah blah blah blah blah blah blah
+  blah blah blah blah 
+ blah blah blah blah
+  blah blah blah blah blah blah blah blah
+  blah blah blah blah blah blah blah blah
+  blah blah blah blah blah blah blah blah
+  blah blah 
+ blah blah blah blah blah blah
+  blah blah blah blah blah blah blah blah 
+::::::
+
+::::::
+UserName: avp2167
+Rating: 3.9
+Date: Feb 14, 2007 12:43 pm PT
+Review:  When i got Faces of War, i was expecting a great sequel to Codemaster's Soldiers: Heroes of World 
+ War 2. I love Ubisoft but this just makes me sad.
+  
+  Faces of war is a cheap copy of Soldiers. It may have the graphics, but the gameplay is the same 
+ and some features are removed completely. An example of a feature being removed is the buy menu 
+ in multiplayer. FoW adds this werid time limit buy system with oly few vehicles and soldier choices. 
+ Whereas SHOWW2, They have a GREAT buy system which features 3D models, A view of whats in the inventory, 
+ Statistics. There was also a great money system in SHOWW2. There was also tons of buying choices.
+ 
+  
+  SHOWW2 does NOT need the latest graphic card, where as FoW needs a good card to play with a bit 
+ of lag. Why BOTHER? The gameplay of SHOWW2 is soooooo much better and way more fun multiplayer.
+ 
+  
+  I know Ubisoft was trying to make an already great game greater, but all they ahceived was a skeltal 
+ copy of SHOWW2 with most features erased.
+  
+  GRAPHICS isnt everything. I prefer going for the gameplay.
+  
+  Thank you. 
+::::::
+
+::::::
+UserName: 100starz
+Rating: 9.3
+Date: Feb 14, 2007 3:18 am PT
+Review:  ---GAMEPLAY ---
+  The gameplay is great. You can loot bodies or boxes, you can get in vehicles, you can blow up buildings, you 
+ can make craters, you can burn trees, YOU CAN TAKE DIRECT CONTROL OF WT [insert letter here] PWNER 
+ TANKS!!!!!!
+  It also has great campaigns, AI but it also has major lag in MP.
+  
+  -------GRAPHICS -------
+  The graphics are wow factor. Amazing. The bloom is very nice, the texture 
+ and model detail is amazing.
+  
+  -------SOUND -------
+  The sound is pretty good for teh guns, tanks, but the localization isent so good. The US english 
+ is pretty bad as in we stand one give me rounds get the secret stuffing out of the radar we must 
+ leave before the dawn etc.
+  
+  --------VALUE -------
+  I dont know what it costs because a friend gave it to me, but its worth whatever it costs.
+  
+ 
+  --------TILT -------
+  If this has anything to do with the camera, then camera controls are very good. 
+::::::
+
+::::::
+UserName: Fliptje
+Rating: 8.8
+Date: Nov 16, 2006 2:13 pm PT
+Review:  Preordered the FOW game already in april, since SHoWW II was the best game up till now I'd ever 
+ played. At first sight, the look and feel was very similar. Immediately though, a more intense 
+ gameplay and higher pressure became apparent, also due to the type of mission and the fact you're 
+ in control of a team now. The user interface somewhat felt complex, but by learning the Function-keys 
+ and other direct commands via the tutorial missions, it can be played smoothly. Especially recommended, 
+ to command the squad.
+  
+  Main point: this game still stays unique in its kind, together with SHoWW II. Best Way has a superb 
+ format that is the perfect balance between Real Time Strategy and First Person shooting games: 
+ you constantly have to plan the actions of your team, think 2 steps ahead, but can always interact 
+ directly with any soldier of your team in direct control mode for special tasks. I still love to 
+ be the sniper that does all the preparation work in silence 
+  
+  Last but not least, this game is *realistic*: especially the fact that you can reuse enemy equipment 
+ (it doesn't suddenly 'disappear' after having been shot at like in company of heroes and panzers 
+ ) . Suggestion: Instead of playing squad sgt, just capture an enemy tank or artillery and this game 
+ suddenly gets a whole new dimension!
+  
+  Haven't played it in multiplayer yet, only question: will there be enough single player missions 
+ to play this game for such a long time as its predecessor Soldiers Heroes of WW II, which in my 
+ opinion still stays on top... 
+::::::
+
+::::::
+UserName: darksunshaman
+Rating: 7
+Date: Nov 10, 2006 10:39 pm PT
+Review:  I have to admit that I was very excited to get this game home, install it and give it a whirl. 
+ I was extremely happy with the tutorial and gameplay, the graphics were outstanding and had a lot 
+ of fun with it. The paper cuts started with a few program crashes, annoying but not totally unexpected. 
+ Then I had issues repairing vehicles, seems at least for me that repair kits were nonexistent in 
+ the game. What gives? I also detest the fact that whenever you switch campaign sides, as in after 
+ you beat the german campaign and want to play the allies, you have to perform the same exact tutaorial. 
+ Good the first time to learn the system, but gets annoying. I would have like to have seen more 
+ opportunities to absorb other soldiers into your squad and perhaps a better way of managing inventories 
+ during looting. For my mooney, I had alot more fun with Company of Heroes, albeit they are two 
+ different types of games altogether. 
+::::::
+
+::::::
+UserName: mikey007
+Rating: 8.8
+Date: Nov 1, 2006 8:17 pm PT
+Review:  Dont listen to the Numpty down below giving it a 2 or the gamespot review for that matter, he just 
+ sounds like your typical RTS hater, because this game its solid! It should have been given an 8 
+ at least!
+  
+  Anyways,
+  
+  Did you enjoy Soliders: HOWW2? if so, you'll love this game! Its basically the same game but with 
+ Many improvements.
+  
+  Heres what i liked:
+  
+  *Groups. Your soldiers can be formed into groups with a leader to make man management easier, but 
+ allot of the time i tend to use 1 man &amp; use the others to protect my flank.
+  
+  *Commands. In a group you can easily issue a command, such as, 'throw anti-grenade' &amp; one of 
+ your soldiers will do it. No more fiddling with the menu to select a grenade, it gets done &amp; 
+ quickly.
+  
+  *Smarter AI: For example one of your soldiers gets his helmet shot off whilst controlling your 
+ group, just click back on the helmet &amp; the soldier who lost it will run back to grab it while 
+ the others cover him. Also repairing tanks &amp; healing has been streamlined.
+  
+  *Direct control: Its back &amp; not really different, but its such a great feature that i just 
+ had to mention it again. Those who haven't play S: Howw2 don't know what they are missing! I think 
+ it should be a standard feature in all future RTS games from now on! It gives you much better control 
+ &amp; you also get rewarded by extra accuracy with weapons!
+  
+  *Clever missions: Big maps with lots of objectives &amp; TONES of enemys to mow down :)
+  
+  
+ Now for some negatives:
+  
+  * When objectives are issued sometimes your in the middle of a fire fight &amp; cant hear the voice 
+ over. But thats easily fixed by looking at the objectives menu after its over.
+  
+  * Some controls &amp; menus are a bit vague. for example it took me 20 mins to find the 'repair 
+ button' (you have to click an almost hidden gray tab to find it, not very good menu design IMO)
+ 
+  
+  * When in group mode, some soldiers don't follow your orders, so you have to re-issue them. Its 
+ one of the reasons i only fight with 1 guy &amp; use the others to guard my sweet ass.
+  
+  Overall: FOW is basically an updated &amp; improved version of S: Howw2 (don't listen to anyone 
+ who thinks otherwise!) If you enjoy a bit of strategy, looting dead enemy bodies for new weapons, 
+ commandeering vehicles for your cause &amp; playing a game you can actualy sink your teeth into, 
+ BUY THIS GAME! Its one of the best WW2 RTS's ive ever played! 
+::::::
+
+::::::
+UserName: Chrismans
+Rating: 10
+Date: Oct 23, 2006 9:32 am PT
+Review:  i think that this game is very over rated ,, sure it mite not be as good as COH but it is still 
+ a good game. multiplayer is very addictive however you might find it is a little laggy but it is 
+ understandable when there is so much going on. accents on the game are very iffy but who cares 
+ ,, it frustrates me when u get people giving a game such a low rating for silly little things.
+ 
+  
+  
+  the only reason why im doing my score as 10 is because u get people rating the game at like 1-2 
+ 
+::::::
+
+::::::
+UserName: soultaker_it
+Rating: 9.8
+Date: Oct 20, 2006 1:29 pm PT
+Review:  There isn't any game that let you create realistic looking 3d craters, calculate ricochets (both 
+ cannon/MG projectiles) and allow you to blow up/destroy practically any thing on map apart from 
+ showw2 and this game.
+  Said that, probably is enough (as it would be for me) for you to rush buy the game, if it isn't 
+ the case, keep reading...
+  
+  Anyway this isn't a game for simple people, it can be quite difficult and requires some thinking, 
+ the controls aren't bad , you simply need to have some patience and play some time to understand 
+ the interface, which is actually very readable and straightforward anyway, maybe a brief look at 
+ the interface chapter in the very brief manual will help.
+  Speaking of instability, I have a quite powerful pc, but surely not the best around, (don't have 
+ time to put specs though, will do if you ask) and experienced 0 (zero) ctd or any kind of other 
+ problem in about 30 hours of play, I've played with all the sides to about 4th mission with all 
+ of them, and a little in mp (through lan only) .
+  Anyway, if you liked soldier you MUST NOT MISS THIS one, actually I think that with a map editor 
+ it will become one of my best game ever (and I have a loooot of game) , and the map editor is coming, 
+ listening to developers, need to say they said that also for soldiers, but at the end nothing showed 
+ up, hoping they remember how disappointed was the community last time, and I think they won't do 
+ the same mistake 2 times in a row.
+  
+  Concluding, sound and graphics are obviously top notch, especially localized damages textures (yes, 
+ you can see where did you hit that tank or that wall) , and in a world were these things are lost 
+ in favour of fast paced action, because people don't have enough of have already too fast life 
+ nad stress due to this.... bah, anyway if you like simulations, are above the age of shot-shot-shot, 
+ and somewhat hate the shape rts have taken in the last years, try this!
+  
+  PS about the first person control, regarding the gamespot review:
+  If someone don't need to use 
+ this extraordinary feature, I'm sorry to say that he didn't understand nothing of the game.
+  I use the good ai of my soldier to put them in good spot and them use MY men to do various job, 
+ usually the most important ones, so you can put some men in good watching point to cover you and 
+ then go in for the hard kill with YOUR man, and there is no feeling like doing this by YOURSELF 
+ in any other rts, and it's very satisfactory and funny. What about punish a enemy tank feeling 
+ to much sure of himself with a rear bazooka shot from a safe hiding spot in bushes in MP, you can 
+ NEVER do that with any kind of other rts, but this is the way they did, and it's strange people 
+ rush enemy tanks with infartry AND SURVIVE.... expecially company of heroes, wich is quite good 
+ and entertaining, but plain simple repetitive fiction :- ( 
+::::::
+
+::::::
+UserName: tohan6
+Rating: 9
+Date: Oct 17, 2006 2:10 am PT
+Review:  Realism and pickiness to litle details - litle uncomfrtable squad system for hardcore Soldiers: 
+ Heroes of WWII fan, will be patched really soon... lots of script errors and bugs that will be 
+ fixed in the bugs, and wrong time for release - its all the reason of biased reviewing little yellow 
+ webpapers that charge you for READING - like gamespot - IGN got 8.7 out of 10 - because they actually 
+ played the game - and find it BEST REALISTIC WW2 RTS SIM on the market - no questions about popularity 
+ of the game after MP lags will be patched - WHOOORA for over 170 armor units, tanks, AT guns, americans, 
+ brits, soviets, germans... game is priceless and based on MATURE 25+ community of people that play 
+ it ... thats why you wont have to deal with kids coming from Company of Heroes - coming because 
+ they got bored with 17 tanks in total... they will come and leave as this game features more realism 
+ and requers more action and thinking by user.
+  offtopic - Ai is smart enough to toss nades from them before they blow up... i've seen it - my 
+ jaw dropped. all i can say is $30 worth spending !!! HELLO BTRH mod and thousands of hours of multiplayer 
+ insanely tense battles. 
+::::::
+
+::::::
+UserName: djnet
+Rating: 8.4
+Date: Oct 14, 2006 3:28 pm PT
+Review:  Levels have also been overdeveloped to the point where you have no real freedom. They aren't as 
+ rigid or as puzzle-heavy as those you would find in one of the Commandos games, although there 
+ is typically just one way to complete objectives and usually just a single way to get there. You 
+ need to do everything in perfect order to activate a trigger spawning backups (like a column of 
+ tank reinforcements) or setting up the condition needed to take out the battalion of enemies that 
+ attack you at the end of each mission. A lot of levels feature extremely dissatisfying endgames 
+ that you don't control, where the cavalry shows up out of the blue like a deus ex machina, for 
+ example, or you suddenly win the day just because you managed to stay alive against withering enemy 
+ fire for a long-enough period of time 
+::::::
+
+::::::
+UserName: dozzpot
+Rating: 2.9
+Date: Oct 10, 2006 12:16 pm PT
+Review:  Soldiers: Heroes of WWII - my favourite RTS action game ever! It took me a while to get into it 
+ but now I have played it twice and think it is fantastic. I was therefore thrilled to hear that 
+ Faces was developed by the same people and sure enough the controls were so familiar.
+  But it is AWFUL, what have they done to my favourite game? It's supposed to be RTS but it's just 
+ a constant din of shooting and being shot at. No time to think about strategy, assemble equipment, 
+ plan postions. There is no control over the squad and you end up as a spectator to chaos. I am 
+ so disappointed! 
+::::::
+
+::::::
+UserName: pasirris
+Rating: 10
+Date: Oct 2, 2006 6:22 pm PT
+Review:  Faces of War is both realistic and fun. What is there not to like about it? It's so great and will 
+ last anyone a good long gameplay time. Faces of War is what i've been waiting for ever since. Although 
+ the graphics isn't eye candy, it has a great array of units and possiblities. In multiplayer, there 
+ are also a decent amount of maps. You can flank a player or charge head on supported with snipers 
+ or you could even create a mechcanized sqaud or rush the enemy with infantry and APCs. When I play 
+ Faces of War, I feel like i'm there commanding the units to battle. The AI is great and couldn't 
+ be any better, there still might be some bugs in the game but i'm confident they will fix it soon 
+ enough. If you're an RTS fan then this is the game for you. I'm suprised why FoW gets a puny 6.0 
+ rating. This game is better then that. Overall, Faces of War is a ultimate historic RTS simlulation 
+ and cannot compare with other RTSs because it is so. 
+::::::
+
+::::::
+UserName: Eastiling
+Rating: 5.8
+Date: Oct 2, 2006 2:27 pm PT
+Review:  I was so chuffed with the demo for this game, i thought YES! But then i got the game and i went 
+ NOOO, Heresy!! The game had so much potential!! It had all the makings of a brilliant WW2 game.
+ 
+  
+  In my opinion the game was a star*. It has that WW2 that you some times fail to see in other games 
+ of the same Genre. But then they made it so you could only control One Squad! (Most of the time) . 
+ It just seemed so wierd. I dont kno what else to say, Good Graphics, Sound, Gripping but annoying, 
+ Slighly Repetative. 
+::::::
+
+::::::
+UserName: DarkWarjo
+Rating: 8
+Date: Sep 29, 2006 1:12 am PT
+Review:  Really good game, i enjoyed playing the first missions, not too hard, but when it comes to the 
+ final missions and you need to control your guys in some intense fight, they don't wanna move?! 
+ WTF?! damn ai is fighting with me and disagrees with my tactics, it pisses off! Scenery is nice 
+ and almost everything is destroyable, you can run a tank trough someones living room if you want, 
+ but it's also funny when you can push a cannon trough a stone wall with only two man pushing the 
+ cannon..
+  overall it's a good game but has some really odd problems. AI is good sometimes controlling your 
+ men away from harms way and all but mostly it's just moving your men without you agreeing with 
+ those movements 
+::::::
+
+::::::
+UserName: sobekhorus
+Rating: 6
+Date: Sep 27, 2006 12:48 pm PT
+Review:  I dont know how West Bay's designers were thinking when they designed the missions. A majority 
+ of the missions are so difficult that only a RTS expert could play through the missions without 
+ havng to reload every 5 minutes.
+  
+  Its very difficult and the strength ratios are often so unbalanced that its ridiculous Normally 
+ the strength ratios is something like 1:15 and you wonders howcome the whole enemy army has to 
+ be involved in every mission and then the enemy almost always has a squadron or two with all kinds 
+ if vehicles, like tanks, armored cars, halftracks etc... In these cases you mostly have to rely 
+ on AT grenades or if you're lucky a bazooka or Panzerschreck that you have found among the killed 
+ enemy soldiers. After this there is this other problem, the mission scripts, the problem with them 
+ is that you cant do as like or in complete the objectives in another order then the designers have 
+ decided forcing the players units into going a certain way, poreventing them from doing flanking 
+ manoeuvres.
+  
+  Then we have the bugs, the game constantly suffers from low fps whenever there are more then infantry 
+ units on the map, especially when tanks enter the map the fps drops. Alos the AI is sometimes very 
+ poor despite developers claim that it should be really good, its not. Sometimes you soldiers do 
+ really stupid things like when you order a soldiers to throw a grenade on a enemy soldier or vehicle 
+ he stands in front of the enemy for like 5 seconds before he throws the grenade this often results 
+ in an almost killed soldier. There are alots of this kind of stupid behavior things that they do. 
+ Sometimes though they do act in a clever way.
+  
+  There are actually alot of good things with this game as well. The graphics is really awsome and 
+ just the fact that you can demolish almost anything thing in this game one way or another.
+  Either you blow it up with artillery fire or you drive your artillery (tanks) through the buildings 
+ and watch them collapse or you can use a flamethrower to set the building or bushes or trees or 
+ crop fileds on fire.
+  
+  Another good thingis that you can walk around on the battlefield and lok for more weapons and ammo. 
+ This is very helpful if you are low on ammo or if you want more machine guns or grenades.
+  
+  You can pick up/use almost anything including enemy veihcles and guns as long as they are not 
+ broken. Broken tracks on a tank is repairable if you have a repair kit.
+  
+  Summary: this game could have been a real killer IF the bugs had been sorted out and if the game 
+ difficult levels had been a few more, one easier and one in the middle between arcade and tactical.. 
+ If they correct the strength ratios in future patch (es) and correct the fps probelm and some of 
+ the minor AI troubles this game could bee quite good. I havent tried multiplayer yet but i would 
+ think that it most likely is more fun then SP since it is more balanced. 
+::::::
+
+::::::
+UserName: Hanno555
+Rating: 5.3
+Date: Sep 26, 2006 6:03 am PT
+Review:  First off, this should have been an expansion pack for Soldiers: Heroes of World War II instead 
+ of a stand-alone, $39.99 game! There's very little difference between the two. The few additional 
+ features are welcome, like when you click the repair icon and then click on a vehicle, the soldier 
+ will get a repair kit, if there is one, out of the vehicle's inventory. You still have to select 
+ one soldier, click on wherever the ammo is, then load the soldier up and then move to the tank 
+ and put the ammo in inventory, which can be very laborious! It would have been nice if there was 
+ a squad command to transfer ammo. For a game with supposedly advanced AI I didn't see any. The 
+ enemy seems to be able to do banzai charges at will, while your soldiers sit there with their thums 
+ up their noses waiting for the inevitable. In the couple of missions I have been able to get through 
+ there are other squads which you have no control of and the mission objectives are a joke! Attacking 
+ a fortified position over open terrain with only a few bushes here and there for cover. This could 
+ have been an awesome game and I was looking forward to it. Better luck next time. 
+::::::
+
+::::::
+UserName: caiman78
+Rating: 6.5
+Date: Sep 25, 2006 1:52 am PT
+Review:  The game has multitude of failures, bugs, etc...
+  
+  The truth is that it is a shame for which the game could be very good.
+  
+  The screens of training 
+ repeat themselves continuously, doing to the confused enough and boring game.
+  
+  They exist multitude of places in the game where the prominent figures remain caught and it turns 
+ out to be very frustrating to play with that way.
+  
+  The organization of the campaigns is a real chaos, they are very bad organized the menus and the 
+ way of acceding to them, an example is when a mission finishes the game says to you: Finnish or 
+ Continue, it is very confused.
+  
+  This game needs urgently one or two patches. 
+::::::
+
+::::::
+UserName: Pendergastt
+Rating: 8.7
+Date: Sep 25, 2006 1:12 am PT
+Review:  i didn't heard about this game until i tried a demo. I did'nt like it. i thought it was ok but 
+ not so right. But when i get the game i started to enjoy it in all ways.
+  
+  The very best thing about the game (for me) is that you can take cover in any place!! doesn't matter 
+ where you are. you can take cover and survive to enemies shots.
+  
+  The AI isn't as good as the game deserves but istn as bad as other strategy games. This game makes 
+ you think about your next movement in the battlefield because an error would be mortal. Another 
+ point for that game is that you can either control a unit manually or with the mouse.
+  
+  The scenario is fully destructible and its incredible when something demolish a building and you 
+ are in a cross fire between the enemy and your men.
+  
+  Another point for the game is the inventory. Each soldier have an inventory where you take the 
+ ammo, the weapons, the medical atention... and when you run out of ammo you have to search for 
+ it on dead bodies all over the battlefield.
+  
+  The things that could be fixedin next patches would be a better info of the remaining ammo in a 
+ soldier because when you are lak of ammo and points an enemy to attack, the soldier who are out 
+ of ammo goes next to the enemy in order to throw a grenade. and that sometimes is frustrating.
+ 
+  
+  To resume: Is a great game. an incredibly game... if you like strategy go for it! 
+::::::
+
+::::::
+UserName: StraiN-ShifTeD
+Rating: 8.9
+Date: Sep 23, 2006 10:43 am PT
+Review:  There are some parts of FoW that I have had trouble with and one is the squads that are established, 
+ most of the time I disband them so I can move men individually but as soon as you select them all 
+ again they turn back into a squad which can generally be quite annoying. Other little things can 
+ be annoying such as tanks not being damaged but simply destroyed more often and also buildings 
+ being harder to destroy
+  
+  The squad command is a very good idea and allows for a more RTS-like gameplay with less direct 
+ control. The AI isn't all that good and so there's quite a bit of man running into the face of 
+ a blatant machine gun nest, etc 
+  
+  However there are some very nice new points to this game over soldiers such as the improved graphics, 
+ more units and the larger use of turrets, etc which I found very cool. Also the larger amounts 
+ of enemy units on each map accounts for the larger amount of units given to your control in game, 
+ if only by a little. But there are a lot more NPC allies around making the war seem all the larger. 
+ Multiplayer and LAN is great for head to head battles as well as playing missions co-op. But it 
+ is just a lot of fun driving tanks, etc. in direct control around the battle field through structures 
+ or blowing up an entire area of the map with a bombardment of rockets.
+  
+  I really do love this game but there are the little things that can be off putting, and the difficulty 
+ of the game may also be one of these things, but with arcade mode this may rectify this. 
+::::::
+
+::::::
+UserName: britneyyy
+Rating: 10
+Date: Sep 23, 2006 9:44 am PT
+Review:  Easy to learn hard to master game , bring you to RTS game where you command units in missions in 
+ the famous battle in WW2.
+  Very nice graphic and not that much demanding, finally big number of samples for russian in original 
+ language (i like that campaign a lot)
+  yet again someone was payed on this site to give 6.0 score only, for this
+  game.
+  who liked 
+ MOHAA fps he will like RTS genre after this game.
+  You can 't stop playing and enjoy in atmosphere of battles , you can use corpses , u can use melee 
+ , bazooka , tanks , tops ,big guns vehicles.
+  it's hard to describe how much is good this game,
+  you must play this . 
+::::::
+
+::::::
+UserName: Rayknet
+Rating: 8.6
+Date: Sep 23, 2006 4:30 am PT
+Review:  This game again brings you to the bottom WW2 but in a unique way. You are a commander of small 
+ group of US soldier division control them to get their objective done. In each group you can order 
+ them with deeper commander compared to other RTS games such as sniping, rocket launching and even 
+ choose their guns! (Imagine RTS version of Brothers in arms but a lot deeper) However the real 
+ star of this game is the ''direct control'' that gives you an opportunity to control your soldier 
+ like a first person shooter game. Imagine snipe enemy by your own hands, in some state I feel it 
+ can bring my deep pressure out, or drive your tank through houses and watch them crushed! (Yep 
+ this game has over-standard of RTS physic engine. You can shoot to the wall with intention and 
+ expect the bullet will bounce back to your enemies that hiding besides it.. Annoying with the filled 
+ house that full of jerries that shoot you with no mercy? No problem, let your rockets work ! Thats 
+ it and the firework begins.
+  
+  The gameplay is deep too. I've attempted to capture the static point once but there was an AA gun 
+ that guarding it. Moving directly to them is almost impossible. After use my brain. I tried to 
+ bombarded them with all of my grenades and advance gradually. My plan went though well but eventually 
+ I've got a warm lovely bullet hit my squad hardly and they all got killed. For the next time I 
+ changed my plan, I went back to Tiger tank that I just blow it ( yep I'm goanna still and reuse 
+ it ) I repaired it and drove them to get rid of that AA I used the direct control feature chose 
+ the personnel and light armor bullet shot the AA proudly and now it's time to scream ha ha ha !!
+ 
+  
+  There's some problem too. Sometime I can't move my squad or even individual soldier. It's quite 
+ annoying but for a little while they will become controllable again and it doesnt' t occur too 
+ often.
+  
+  Sounds are also good. The game noisy with realistic combat sound, yet I wish to have more speech 
+ or command sound. If you are not a hardcore gamer, this game can bring you a lot of entertain. 
+ Don't judge it by professional's review. They are not always right (Advent rising for instance) 
+ I've never imagined that this game would be good among the whole lot of great RTS game, moreover 
+ it ships in a same moment of Company of heroes, that's its real rival, but in my opinion they are 
+ both fun but this game brings more new things 
+::::::
+
+::::::
+UserName: RichardW331
+Rating: 5.7
+Date: Sep 22, 2006 11:32 am PT
+Review:  Ok ok... this game is merley a direct copy from SOH... Its just tonnes better graphics and gameplay
+ 
+  
+  All im saying is SinglePlayer is kinda crap... i dont like it much.. boring and sometimes very 
+ frustrating
+  
+  I was really lucking forwards to multiplayer... but slow lagg gameplay...
+  
+  wtf is going on here ?
+  
+  btw... its not my connections... its not my graphics settings 
+ cuz i change the graphics to ultra low
+  
+  still the same, i have GeForce 7900GT... 3.6processer... 2gb RAM... everything a best PC could 
+ buy... so its nothing to do with that
+  
+  It must be the game... and it is, since everyone is having the same problem !
+  
+  So... Faces 
+ Of War Dev Team... or UbiSoft whoever made the bullcrap lagg system on Multiplayer.... Fix this... 
+ or im Shixing
+  
+  If is wasnt for the lagg on Multiplayer... it would be amazing game.. but cuz of that... forget 
+ it
+  
+  *---*---*---*---*Borrow or rent game b4 u buy* ---*---*---*---* 
+::::::
+
+::::::
+UserName: guppeeh
+Rating: 8.1
+Date: Sep 22, 2006 11:01 am PT
+Review:  Lets be frank, the Gamespot reviewer is right on the mark. I would have rated it a 7 or a 8, only 
+ because I know the upcoming patch would fix most of the glaring problems. The graphics engine is 
+ superb and the WW2 authenticity is superior to most. This game can really shine with the right 
+ mod, as its internal structures are very accessible for manipulation.
+  
+  Overall, its a bit disappointing compared to SHOWW2 but with right support, it can crawl its way 
+ back up to the top. But if anything FoW clearly succeeds in, that would be being completely unique 
+ in the genre. 
+::::::
+
+::::::
+UserName: gunchap
+Rating: 9.9
+Date: Sep 21, 2006 12:33 am PT
+Review:  When i bought Faces of war i thought it would be something like the first game (Soldiers: Heroes 
+ of WW2) , but it is much better, all the physics, graphics, and the sound are ten times better than 
+ SHoWW2. In SHoWW2 there were 4 campaigns to play but in Faces of war are only three, but they are 
+ much more intense and bigger than the ones in SHoWW2. And finally the AI of the soldiers is much 
+ better/cleverer than in the first game- the soldiers behave now like real soldiers- not like dummies. 
+ I would rate to buy this game, especially who likes the history of WW2. 
+::::::
+
+::::::
+UserName: cyborgdl
+Rating: 8
+Date: Sep 19, 2006 9:54 am PT
+Review:  First off id like to mention the fact that I loved soldiers heroes of WW2, I thought it was a fantastic 
+ game and after playing FoW for a bit now I believe I will love this game equally.
+  
+  However there are some parts of FoW that I have had trouble with and one is the squads that are 
+ established, most of the time I disband them so I can move men individually but as soon as you 
+ select them all again they turn back into a squad which can generally be quite annoying. Other 
+ little things can be annoying such as tanks not being damaged but simply destoryed more often and 
+ also buildings being harder to destroy.
+  
+  The squad command is a very good idea and allows for a more rts play with less direct control, 
+ but the AI isn't all that good and so there as quite a bit of man running into the face of a blatant 
+ machine gun nest, etc 
+  
+  However there are some very nice new points to this game over soldiers such as the improved graphics, 
+ more units and the larger use of turrets, etc which I found very cool. Also the larger amounts 
+ of enemy units on each map accounts for the larger amount of units given to your control in game, 
+ if only by a little. But there are a lot more npc allies around making the war seem all the larger. 
+ Multiplayer, internet and lan is great for head to head battles as well as playing missions co-op. 
+ But it is just a lot of fun driving tanks etc in direct control around the battle field through 
+ structures or blowing up an entire area of the map with a bombardment of rockets.
+  
+  I really do love this game but there are the little things that can be off putting, and the difficulty 
+ of the game may also be one of these things, but with arcade mode this may rectify this. 
+::::::
+
+::::::
+UserName: connary
+Rating: 9.2
+Date: Sep 17, 2006 4:05 pm PT
+Review:  This game is scripted, events are generated when the player reach a certain point, the concept 
+ of sandbox is not real here (i only played the first german missions) . You cannot take decisions 
+ like 'follow the left path to the town or follow the right path to the river'... no, u cant.
+  The only thing u must do its try to get the next point with your brothers in arms, only this, and 
+ this is really GREAT&iexcl;&iexcl;&iexcl; Only a couple of men trying to cross the enemy lines, 
+ each meter is worth the entire game. U can take cover in all kind of environment, get the armor 
+ and other guns for the dead, give orders to the entire group or only to a single man and u can 
+ aim and shot with his gun. If u think every step u can do many different combat actions.
+  There are a few problems, sometimes the AI appeared from nothing in certain points (scripts) and 
+ this isnt good for immersion but this game is more action based.
+  Its a nice game, very fun, highly detailed and very hard (im playing in tacticts mode) . 
+::::::
+
+::::::
+UserName: lewis8888
+Rating: 8.9
+Date: Sep 15, 2006 3:14 pm PT
+Review:  Faces of war is a very unique game, the game is all about you controlling a few squads battling 
+ your way through ww2 playing from 4 nations. the british , american, germans and russians. what 
+ i like alot about this game is the way you actually get to play the germans as most games dont 
+ have that.
+  
+  the game includes 3 campaign, allied ( british &amp; americans) , german and russia each one has 
+ some very challenging missions that take alot of skill. the game is very realistic. Tank battles 
+ are awesome with the effects and realism. the tanks have no health bars meaning you will have to 
+ hit the tank in the correct places to make destroy it.
+  
+  Tank fighting
+  ___________
+  
+  Tank fighting in Fow is excellent. the good think is you dont have to completely destory it 
+ to win the tank battle. for example you could hit the main gun off forcing the Crew of the tank 
+ to Retreat. then if you want you could send some engineers or infantry squad to repair the tank 
+ and steal it for your self to use againist the enemy. you will also have to watch your ammo and 
+ fuel for your tank as the game is realistic
+  
+  Infantry Fights
+  ___________
+  
+  Infantry Fights are again excellent using the squad control panel can be a little hard to control 
+ at first but you will get use to it. It is easy to to find cover for the whole squad or get rid 
+ of it with a tank shell as you can destory anything from a house to a fence in the game. you will 
+ also need to watch for the ammo , grenades , health and other equipment to make sure your men are 
+ fully ready for the fight.
+  
+  Night battles
+  __________
+  
+  Night battles are excellent they give a really good graphical and gameplay look to the game. for 
+ example the headlights on trucks and jeeps look excellent and really show some good graphics to 
+ the game.
+  
+  Mutiplayer
+  ________
+  
+  the Mp player of the game is excellent, Coop to play the levels from every team from the campaign 
+ levels. and alot of Types Of game types. From team death match to a game called chicken hunt when 
+ you have to hunt and kill chickens.
+  
+  Training &amp; difficulty
+  ______________
+  
+  the game includes 2 Modes. Tactical Play for experienced players who will know how to play the 
+ Game, possible People who played SHOWW2 And arcade Mode for new players to the game. the Training 
+ does explain very well how to play the game. you will learn pretty quick but i can say the game 
+ has alot of Controls so it will be hard to under stand every single one of them. if you play on 
+ Tactical Mode i have to say the game is pretty hard but no game is fun if its easy.
+  
+  Others
+  _____
+  
+  the game included about 100+ Vehicles from WW2 and alot of guns and equipement. 
+ the game is very realistic.
+  
+  
+  I suggest this game to any RTS fan who wants something different than the boring build bases and 
+ collect resources and kill.
+  
+  Thanks for reading
+  -Lewis8888 
+::::::
+
+::::::
+UserName: Shadow5654
+Rating: 8.6
+Date: Sep 14, 2006 8:45 pm PT
+Review:  It is a very Fun And Very Addicting wwii game it is also challenging at first I haven't played 
+ long and this is my first impression so my opinon can change. Very different from normal wwii games 
+ because it adds the factor of tanks having fuel and ammo and same for other vehicles with weapons. 
+ Infantry can change weapons and have many options plus they reload. Terran completly destructible 
+ and plyible so u can take cover virtually anywhere. There is no skirmish missons so kinda a letdown 
+ there. Have not tryed multiplayer so I have no idea there. Again this is my first impresion so 
+ it may get better or worse depending on how much fun the game turns out to be later. 
+::::::
+
+-------------------------------------------------

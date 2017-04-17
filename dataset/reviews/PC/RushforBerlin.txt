@@ -1,0 +1,627 @@
+-------------------------------------------------
+:::Game Name::: Rush for Berlin
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/rushforberlin/review.html
+-------------------------------------------------
+:::The Good:::
+ Interesting and varied scenario design.
+ Challenging artificial intelligence that hones in on your weak spots.
+ Detailed visuals complete with destructible buildings and terrain.
+ Battle sound effects so loud and realistic that you'll wake the neighbors.
+-------------------------------------------------
+:::The Bad:::
+ A little too by the book in comparison with other WWII games.
+ Couple of AI and pathfinding niggles.
+ Occasional visual slowdown in large-scale battles.
+-------------------------------------------------
+:::Date::: Jun  6, 2006
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.8
+Critic Score: 7.7, 30 Review (s)
+User Score: 7.6, 387 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Paradox Interactive
+Developer: Stormregion
+Genre: Historic Real-Time...
+Date:     Jun 12, 2006
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Rush for Berlin proves that there is still some life in the WWII RTS genre. 
+
+  Getting into a World War II real-time strategy game is a challenge these days. So many have shown 
+ up on our doorstep the past couple of years that newcomers can only get the Nazi-weary public's 
+ attention by doing one thing wildly differently or everything incredibly well. You can put Rush 
+ for Berlin in the latter category. While this by-the-books effort from Codename: Panzers developer 
+ Stormregion is a rehash of WWII RTS conventions, the entire game is so well designed that you don't 
+ much care that you've seen it all before. If you can stand to liberate Stalingrad in a computer 
+ game one more time, you should sign up for a tour of duty here.  
+
+  Just don't expect anything new. All of the standard WWII RTS conventions are respected so much 
+ here that you won't need to even glance at the manual to get the lay of the land. Four separate 
+ campaigns that begin with the final push into Germany let you wage war as the Western Allies (which 
+ only seems to comprise the US and UK -- sorry, Canada) , Russians, Germans, and French. A total of 
+ 25 solo missions (figure on 25 to 30 hours of play) take you through well-worn WWII hotspots such 
+ as Bastogne, Stalingrad, and bombed-out downtown Berlin.  
+
+          Bombs away!     
+
+  Game structure in Rush for Berlin follows the usual recipe, too. Units include golden oldies such 
+ as GIs, mortar teams, medics, Sherman tanks, Panzer tanks, recon vehicles, supply trucks, and so 
+ on. As with most other WWII RTS games, Rush for Berlin's focus is firmly on tactics. There is no 
+ base building or resource collection, although you are often required to capture enemy factories 
+ or headquarters to use for such things as tank and troop production, as well as resupply.  
+
+  Stormregion does do a pretty admirable job of livening up these familiar surroundings. Missions 
+ take place on huge maps that are packed with detail. The 3D engine does a fantastic job of rendering 
+ all sorts of little touches that add atmosphere to every setting, and almost every building, tree, 
+ and bunker can be blown up, knocked down, or rolled over with an armor column. At times, though, 
+ too much detail is crammed onto the screen. Muddy trenches, blocks of ravaged apartments, and weather 
+ effects such as heavy snowflakes always look great, but they can cause serious slowdown when accompanied 
+ by a lot of moving units. Larger-scale battles, particularly in the Western campaign, really get 
+ bogged down at times. Thankfully, outstanding sound effects during these massive battles make up 
+ for the occasional visual issues. Every shot, explosion, and round fired by a Panzer booms out 
+ of the speakers so forcefully that it feels like you're playing a Medal of Honor-style WWII shooter, 
+ not an RTS.  
+
+  Scenario design is geared to put you into the boots of the soldiers on the ground. Objectives move 
+ freely between big military goals such as conquering Nazi headquarter buildings and blowing up 
+ German 88s to squad-level maneuvers such as chasing down and killing a tank commander hopping from 
+ one Panzer to another, stopping German engineers from wrecking Russian foundries, and even using 
+ a control panel to solve a puzzle presented by moving walkways. You won't mistake this game for 
+ something like Commandos or Silent Storm, but the inclusion of these hands-on sequences does give 
+ Rush for Berlin a more varied personality than the usual cataclysmic, big-picture RTS.  
+
+  Also, there are a lot of glimpses of real history to give the game historical heft. The Bastogne 
+ mission, for example, takes place in the middle of a blinding snowstorm, which conveys how alone 
+ the real American troops must have felt on that New Year's Eve in 1944. The Russian seizure of 
+ the Brandenburg Gate is set in the cratered landscape of Berlin, emphasizing the utter ruin that 
+ Hitler's war brought upon Germany. Even the German campaign, which moves the game into an alternate 
+ history where Hitler died in the Stauffenberg bomb plot of 1944 and his successors fought to achieve 
+ a more noble peace (with high-tech weapons such as the Me-262 jet fighter, no less) , rings true 
+ because it is a credible look at what might have been.  
+
+  Officer hero units also add historical flavor. While they unfortunately aren't given individual 
+ names, they do have specialties that adeptly evoke some of their national character. The Russians, 
+ for instance, feature a political officer with the special ability to dole out double rations of 
+ vodka to fire up troops for limited periods of time and attack troops with explosive-placing dogs, 
+ while the Allies boast the likes of an SAS officer who can call in paratroopers.  
+
+  Artificial intelligence is generally up to the challenge of bringing WWII battlefields to life. 
+ Troops in Rush for Berlin are quite smart in certain situations when it comes to attacking and 
+ defending, so you don't have to do any micromanagement. Infantry troops, for instance, know enough 
+ to automatically approach enemy tanks and then wipe them out with magnetic mines. Fully computer-controlled 
+ allies aren't as bright, however, a fact that gets somewhat aggravating when playing missions where 
+ you have to support them. One Allied mission that centered on repairing computer-controlled tanks 
+ was particularly frustrating, because these tanks frequently refused to attack the enemy in a sensible 
+ and prompt fashion. Pathfinding is another problem, especially when dealing with armor and mobile 
+ guns on maps with a lot of city streets. These units will frequently get jumbled up, bump into 
+ one another, and end up taking the long way to destinations.  
+
+  Enemy forces are more astute than your buddies, too. This provides a fair bit of challenge in most 
+ missions (meaning that you need to make frequent use of the save anywhere feature) , as the enemy 
+ seems to always focus fire on your most vulnerable or most useful units. Still, there are times 
+ when the computer's ability to readily target and take out your finest troops seems like a cheat. 
+ One moment you're marching along nicely with a sizable army, the next you're reaching for the reload 
+ button because unseen snipers in the trees have just taken out your invaluable medics with a couple 
+ of shots or curiously perfectly placed guns in a bombed-out courtyard have turned your tanks into 
+ scrap metal. Levels feel like deathtrap puzzles a bit too often.  
+
+          What those Russian troops will do for an extra ration of vodka...     
+
+  Multiplayer 
+ introduces two new modes of play to the usual deathmatch and domination games. RUSH (Relentlessly 
+ Utilized Score Hunt) and RISK (Race-Intensive Strategic Kombat) aren't quite as memorable as games 
+ as they are for their names, though. The former is sort of neat in that players are given between 
+ one and three random tasks to accomplish, although they involve nothing but old-school victory 
+ conditions such as destroying all enemy units on the map, defeating an enemy team, or collecting 
+ supplies. But the latter is pretty much the same style of game as that in the solo campaigns, albeit 
+ with two or more players rushing to seize the same objectives. At any rate, multiplayer is a bit 
+ moot at present. Few people are playing online, at least with the full retail version of the game. 
+ Only demo matches seem to be up and running on a regular basis, but they aren't compatible with 
+ the out-of-the-box game.  
+
+  Basically, Rush for Berlin is a very good representation of the WWII RTS formula by pros who really 
+ know their way around the Battle of the Bulge. If any game is capable of convincing genre veterans 
+ of shivering their way through the Battle of the Bulge one more time, it's this one.     
+-------------------------------------------------
+:::User Reviews::: (16 Reviews)
+::::::
+UserName: pcman2005
+Rating: 9
+Date: Sep 19, 2007 6:27 pm PT
+Review:  If you like WW2 RTS, this game is definitely for you.
+  
+  Rush for Berlin has some great variety. Four campaigns, eh?
+  
+  For starters, you have the Soviet 
+ campaign. This starts with the retaking of Leningrad (long after Stalingrad) and continues on to 
+ the capturing of Berlin, 1945. The first thing I noticed when I played was the brilliant animations. 
+ The T-34 I started with would roll and bounce over terrain, knock over trees in its way, and just 
+ behave realistically in general.
+  
+  My favorite part, however, is the German campaign. It takes an interesting twist when you personally 
+ participate in a plot to assassinate Hitler Unlike the *real* coup of 1944, this one succeeds. 
+ Germany is now fighting a two front war to achieve an honorable peace over the unconditional surrender. 
+ It is quite fun. On the first (or maybe it was the second) level, you must seize the Arnhem Bridge 
+ from a powerful Allied force who have just paradropped in. It was quite entertaining taking out 
+ garrisons and entrenchments one by one, until I finally seized the bridge. But the true shine of 
+ RFB is multiplayer, well at least it would be if there was anybody online for it.
+  
+  But on a LAN game, it is hella fun. The tactical gameplay coupled with the strategic industry makes 
+ for some very interesting matches, especially in larger games. All in All, this is worth buying, 
+ and will give you 50-80 hours of enjoyment (much less if you never do Multi or Skirmishes) 
+::::::
+
+::::::
+UserName: ixtykurrumi
+Rating: 8.2
+Date: Jun 27, 2007 12:36 pm PT
+Review:  Ok this is a nice game, the graphics are very good the sound is good also the enviorment is very 
+ nice the gameplay but it really is like a normal RTS it has everything that the panzer series or 
+ other games it has nothing new so what i think is that if you are going to buy a W W II RTS game 
+ you better buy ither one of the panzer series or Company of Heroes, because it is really a good 
+ game but those others are better and it has nothing exepcional it offers what like the basics.
+ 
+  
+  Really if you are gonna buy a WWII RTS i recommend you better buy the ones I already said. 
+::::::
+
+::::::
+UserName: dom84ts
+Rating: 5.4
+Date: Mar 22, 2007 8:30 am PT
+Review:  Rush for Berlin has a good reproduction of historical facts, with some interesting innovations 
+ like time influence and special skills, the great accuracy reserved to campaigns. The game play 
+ is very rigid. Not so immediate to play!!
+  Graphics: Good but not enough to exalt the gamer that is in me.
+  Sound: fair
+  
+  On my advice 
+ this is not one of the best RTS games of this period!
+  try to play Company of Heroes and than we could talk and choose which one is really better!
+  
+ 
+  Sorry for the score so low but the first time i played it i stopped playing it after the second 
+ mission! After a week ii told my self to give him some more chance but the desire to play it slowed 
+ down while playing! : (
+  I wasted money : ( 
+::::::
+
+::::::
+UserName: jaydee00003
+Rating: 9.4
+Date: Feb 19, 2007 10:14 am PT
+Review:  i like this game alot but i only played the demo and i can say i liked the demo... there are few 
+ things i didn't like in this game and it was there were 14 german vehicles and 10 american vehicles 
+ and 10 russien vehicles we need more vehicles i mean russia and american and france had light tanks 
+ than how come Germanydidn't? they could add 4 the germans the Luchs light tank... we could sure 
+ use thise tanks in the game for the germans Luchs, Elefant, Sturmhaubitze 42!!!! for the brithis 
+ ,A39 'Tortoise, black prince, tog 2, Bishop, Cruiser Tank Mark VIII 'Cromwell I for the americans HMC 
+ M8, M8 Greyhound, M10 Wolverine, T93 8 Howitzer Motor Carriage for the russiens KV-85, Kharkov Main 
+ Battle Tank!!!! it would also be cool if we could have a special campaine where germany vs poland 
+ fight but germany would usa all it's secret weapons that was made by the begging of word war 2... so 
+ the germans would use all it's secret weapons that it had made by 1939 and would fight the polish 
+ but on some maps there would be few franch and brithis soilders helping poland out.... 
+::::::
+
+::::::
+UserName: Radu454ever
+Rating: 8.4
+Date: Jan 24, 2007 4:16 pm PT
+Review:  A VERY GOOD GAME INDEED!!!
+  GOOD GRAPHICS , AMAZING MUSIC and ASTONISHING UNITS , WETHER CONDITIONS GREAT !!
+  I LIKED IT 
+ VERY MUCH !!!!
+  I AM ADVISING EVERYONE TO PLAY IT !!
+  NICE GAME !!! A MUST HAVE GAME !!
+  MULTIPLAYER IS VERY INTRESTING DONE AND CONTROLLED !
+  A GOOD GAME WITH THE ww2 theme i will kepp 
+ it for my collection 4ever and ever. nice tremendous , amazing , and ecpeccially creative indeed
+ 
+  GOOD GRAPHICS , AMAZING MUSIC and ASTONISHING UNITS , WETHER CONDITIONS GREAT !!
+  I LIKED IT VERY MUCH !!!!
+  I AM ADVISING EVERYONE TO PLAY IT !!
+  NICE GAME !!! A MUST HAVE 
+ GAME !!
+  MULTIPLAYER IS VERY INTRESTING DONE AND CONTROLLED !
+  A GOOD GAME WITH THE ww2 theme i will kepp it for my collection 4ever and ever. nice tremendous 
+ , amazing , and ecpeccially creative indeed 
+::::::
+
+::::::
+UserName: scout10101
+Rating: 8.1
+Date: Nov 28, 2006 5:57 am PT
+Review:  This game honstley is one of the better games out there. Don't get me wrong, this is no Half-Life 
+ 2 or Company of Heroes but it is a solid WW2 RTS. There is many pro's and many cons. First the 
+ graphics, they are good, but not great. They do some issues, manily the darkness. During night 
+ missions you can bearly see your units. Also the frame rate was a little skippy. The sound was 
+ awsome! they gunshots, bombs, and anything else, the sound was clear and realistic. The gameplay 
+ was well normal. It was like any other RTS. Nothing Great The Replay Value wasn't to great. They 
+ Just had the campigen. They do have online multiplayer but that added almost nothing to the value 
+ mainly beacuse it is hard to get on the servers and the servers always froze up. All in all it 
+ is a good, solid WW2 RTS that is worth at least a buy. 
+::::::
+
+::::::
+UserName: kellerwe
+Rating: 7.8
+Date: Nov 9, 2006 10:40 pm PT
+Review:  In all honesty, if any RTS game lover (especially the WWII genre) has played Company of Heroes, 
+ then almost everything else seems pale in comparison.
+  
+  Then again, in fairness to Stormregion, I decided to keep an open mind while writing this review 
+ and rather compare Rush for Berlin to other contemporary games in the same genre such as Blitzkrieg 
+ II and perhaps even the Sudden Strike series.
+  
+  Gameplay:
+  
+  After having spent quite a few hours with the game, I must admit that the gameplay is pretty tough, 
+ focussing very much on up-front strategic planning in each mission rather than just taking the 
+ guns blazing approach while constantly calling for new resources where those on the map have expired.
+ 
+  
+  In a sense, this may annoy some RTS players that enjoyed Blitzkrieg II for example, where the ability 
+ to get reserves on demand makes that game a bit more arcade-like in my opinion.
+  
+  Instead, Rush for Berlin requires quite a bit of up-front planning and thinking before rushing 
+ into (excuse the pun) any mission.
+  
+  The main issue here, is that resources such as ammo, etc. can only be replenished once key strategic 
+ objectives and buildings have been taken and are kept, otherwise your mission is doomed to fail. 
+ While other buildings can be constructed that may be used to create armoured vehicles, etc., it's 
+ clear that Rush for Berlin focuses primarilly on achieving strategic objectives as quickly as possible. 
+ In a sense, this is actually not that much different than Company of Heroes, come to think of it.
+ 
+  
+  This brings another key dynamic to the gameplay, since time is a very valuable resource in this 
+ game, with most missions measured in available time to achieve this mission to earn any medals 
+ or bonusses, etc. Games like Blitzkrieg II and Sudden Strike simply don't have this concept embedded.
+ 
+  
+  The user interface is pretty good, once you spend a while getting used to all the bubbles hanging 
+ off the two main interface components at the bottom of the screen. At first they seem somewhat 
+ confusing, especially in the heat of battle, but once the learning-curve is over, they do actually 
+ work quite well.
+  
+  Graphics:
+  
+  Rush for Berlin actually has very good graphics and certainly better than the two other games I 
+ mentioned earlier, although we don't really know what Sudden Strike III will look like yet, even 
+ though a Demo has already been released.
+  
+  Weather effects are superb and there is a lot of attention to detail in terms of model accuracy 
+ and texturing.
+  
+  I use a NVidia-based 7800 GTX graphics card with 512 MB RAM on board, and I suspect that some of 
+ the lower-end cards will battle somewhat to keep up with this game, possibly making the entire 
+ experience a lot less entertaining due to the low graphics settings needed to effectively play 
+ the game. This may be somewhat of a drawback for a lot of potential players out there, since I 
+ guess a 6800 or equivalent will be almost the bare minimum needed to get any respectable graphics 
+ out of this game.
+  
+  Sound:
+  
+  The sound is actually superb and it's quite refreshing to hear soldiers speak their native tongue, 
+ instead of using English accents resembling some low-budget movie cliche.
+  
+  Weapon and special effects sounds are also great.
+  
+  Value:
+  
+  Value depends entirely on 
+ what you expected to get when buying this game.
+  
+  If you expected a game like Age of Empires or Rise of Nations that focuses quite a lot on random 
+ skirmishes and a lot of resource gathering, researching, etc. then this is fairly low Value as 
+ far as I am concerned.
+  
+  Then again, if you enjoy some real in-depth strategy and planing in a game, then I would give it 
+ a fairly good Value rating.
+  
+  The only real problem I have with the game, is inherent in a lot of RTS games in WWII genre, in 
+ that the game doesn't really have any form of skirmish ability if you feel like just hacking away 
+ at a random scenario for example.
+  
+  This is where both Blitzkrieg and Sudden Strike have a bit of an edge, in the sense that they at 
+ least included some form of level editor in their releases to compensate for modders like myself 
+ who like to tinker with the creation of historically correct battle scenarios, etc.
+  
+  It would be great if Stormregion would consider some work in this area and perhaps release some 
+ form of map editor for us to add some new stuff to the game.
+  
+  Who Should Buy It:
+  
+  Anyone who enjoyed similar WWII genre games like Blitzkrieg I and II and possibly Sudden Strike 
+ and some others that come to mind, has a pretty up-market graphics card installed and doesn't mind 
+ spending a few hours to come to grips with rather complex strategic planning as part of the gameplay.
+ 
+  
+  Who Shouldn't Bother:
+  
+  Obviously anyone who's more into first-person shooter games or games that have a lot more focus 
+ on resource gathering, research and all that other stuff instead of just plain war logistics and 
+ planning.
+  
+  Oh yes, any anyone who has a fairly low-end graphics card installed, since you really won't get 
+ much joy out of the visual aspects of the game. 
+::::::
+
+::::::
+UserName: Jin_Kazawa
+Rating: 4.1
+Date: Oct 22, 2006 3:47 pm PT
+Review:  Comparing this game with others of the same type (WW 2 games) , suck's big time. I recommend (strongy) , 
+ if you're still not tired of playing this type of games, go ahead and freely buy yourself CoH (Company 
+ of Heroes) . You will not regret. This one here is .... I don't know... Not even close to CoH. So, 
+ that's what I have to say about this one. Oh yeah, and nice graphics. So if you're fan of lot's 
+ of fine drawed tenks and peple take it, otherwise ignore it totaly. Don't be fulled by pretty pictures. 
+ :) Comparing this game with others of the same type (WW 2 games) , suck's big time. I recommend 
+ (strongy) , if you're still not tired of playing this type of games, go ahead and freely buy yourself 
+ CoH (Company of Heroes) . You will not regret. This one here is .... I don't know... Not even close 
+ to CoH. So, that's what I have to say about this one. Oh yeah, and nice graphics. So if you're 
+ fan of lot's of fine drawed tenks and peple take it, otherwise ignore it totaly. Don't be fulled 
+ by pretty pictures. :) 
+::::::
+
+::::::
+UserName: Xiskio
+Rating: 3.6
+Date: Aug 18, 2006 8:33 am PT
+Review:  After fiddeling around two whole evenings, more or less on my own, I finaly got the game to run. 
+ And that even though my PC is up to date and I really know what I am doing.
+  
+  So I felt lucky that the game was running and looked forward to some enjoyable hours of gaming 
+ I just had to learn that this can not be expected from this game. Content wise this game has nothing 
+ to offer that hasn't already been offered better by other WWII RTS games like the Panzers series. 
+ There is no innovation whatsoever in this game. I really liked the Panzers series much more.
+  
+  The only positive thing one can say about this game is that the graphics are really nice. But 
+ this come for a high price. If your PC is not the absolute high end machine you will have to lower 
+ the details a lot to get that game running smooth.
+  
+  Last but not least this game is protected by the Starforce sopy protection and I was forced to 
+ uninstall some software, something I really dont like at all.
+  
+  For me this game was a waste of money and time I could have spend better. 
+::::::
+
+::::::
+UserName: toxintractorman
+Rating: 7.8
+Date: Aug 4, 2006 4:21 pm PT
+Review:  Don't buy this game expecting a whole new RTS experience or gameplay and you won't be dissapointed. 
+ Offers a solid and interesting campaign and good multiplayer capabilities. Everything has been 
+ seen or done before but that dosen't make it a bad game at all. If you are a fan of the codename 
+ panzers series and want more of the same then it is a worthy purchase. If not, then maybe rent 
+ it to make up your mind.
+  Good = nice campaign, multiplayer, solid gameplay
+  Bad = Nothing new, needs a reasonably good pc, starforce (i\ve never had any problems with it, 
+ just a warning!) 
+::::::
+
+::::::
+UserName: mathsteps
+Rating: 4
+Date: Aug 3, 2006 4:47 pm PT
+Review:  All I have to say is one big disappoint. While the game itself may look interesting, it certainly 
+ doesn't perform like it is expected. From playing the Demos I can see why. This game is prone to 
+ freezing. It maybe something in the programing that causes it to freeze a lot. This game has a 
+ lot to offer in terms of graphics, sound, and historical accuracy. However, this game really hurts 
+ your computer and it doesn't load on to your computer for some reason. Overall, my rating demonstrates 
+ that this game should only be recommended for those who have a strong computer. 
+::::::
+
+::::::
+UserName: Jakov_the_Great
+Rating: 4.1
+Date: Jul 25, 2006 11:54 am PT
+Review:  Ok, WWII games are supposed to be FPS' not RTS'. Personally I think RTS games should be things 
+ like, Rise of Nations or Warcraft, not WWII shooters. And if you notice I only played it for 10 
+ hours or less, really I only played for about 2hours, said this thing has too many kinks that still 
+ need to be worked out, the gameplay is horrible, I'll stick with Rise of Nations thank you very 
+ much. I think we can all agree Rush for Berlin is not a good game. In conclusion, the gameplay sucked, 
+ it had too many flaws in it, it was just an all around waste of time, it isn't even worth reviewing 
+ its so bad! 
+::::::
+
+::::::
+UserName: kooliod999
+Rating: 6.9
+Date: Jun 22, 2006 4:36 pm PT
+Review:  Yeah yea, it's got its share of relatively good graphics, but the big problem I'm facing is the 
+ repetition in WW2 RTS games. Been there, done that - the least StormRegion could have done is add 
+ some variation (i. e. something new, something we haven't experienced before.) I mean, why would 
+ someone want to play something like Rush for Berlin when they could be playing something great 
+ like Panzers 2? Then again, most games from Stormregion are cheap, pretty low quality (when compared 
+ to other games) and so on.
+  
+  A waste of money, imo, because there are other games out there that are worth buying. Nevertheless, 
+ if you like WW2 (like me) , this won't be too much of a disappointment.
+  
+  
+::::::
+
+::::::
+UserName: life4hire
+Rating: 8
+Date: Jun 12, 2006 10:14 am PT
+Review:  Rush for Berlin is one of the few games ranked in the category of "old school" real time strategy. 
+ This game takes you through the journey of stopping German expansionism and pushing back the German 
+ forces to Berlin on one of four fronts. You can play French, Russian, English and American. I have 
+ finished the Russian campaign and was thoroughly pleased with the challenge of finishing this campaign. 
+ 
+  
+  The game play is superb. I mean this to be that you can control individual units from tanks, infantry 
+ and artillery. The game play is so good that I used a sniper, medic and a stolen German artillery 
+ tank to fight my way through a good portion of a city map. I was picking off infantry in other 
+ buildings and calling in artillery from my tank on enemy vehicles while they were in view of my 
+ sniper and out of their line of sight. The medic would drop field medical supplies so the sniper 
+ could be healed by the medic and the med supplies at the same time while spotting for the artillery. 
+ This scenario is just the tip of the iceberg when it comes to how you can play this game. I absolutely 
+ love the Katusha Rockets and use them all the time. 
+  
+  Mechanics wise, the units that are orange for health bars are the ones that will carry over to 
+ further missions. Not only will they carry over but they will go up in rank and gain better skills. 
+ At one time I had a Partisan Commander that would allow any vehicle he was in to reload ammo without 
+ an supply truck nearby. He was great for that one beautiful piece of long range artillery that 
+ you like to keep in the back to rain death on the enemies heads but can use up an entire supply 
+ tractor for it. Also, I had a Commander that increased artillery range and damage by 25% for any 
+ artillery unit he was in. Needless to say I put him in a Katusha Rocket Launcher and proceeded 
+ to wash my hands of my enemies. 
+  
+  Environmental settings have numerous advantages such as completely destructible terrain and objects 
+ such as buildings and leaving actual craters in the ground. By accident I noticed some of my artillery 
+ overshooting a target that I had forced to be backed up to a river and when the shells accidentally 
+ hit the river they produced amazing splashes. Now that is attention to detail. Most of the buildings 
+ will crumble in a glory of dust and rubble. I even had a situation where I created by own shortcut 
+ through a city map by destroying a row of buildings to make by own path. 
+  
+  Missions are long an complex. I really enjoy a game that makes you think. Although I prefer to 
+ take it slow this game rewards you for rushing - hence the name "Rush" for Berlin. The missions 
+ have main, optional and secret objectives and as you may have guessed the secret objectives you 
+ have to figure out for yourself. The missions are fairly complex and require some finesse to solve. 
+ I was really excited to get a new model tank then figure out that if I could sneak it around some 
+ trees and hit the enemy from the rear it would do amazing damage.
+  
+  The small attentions to detail like artillery splashing in the water when overshot to using a sniper 
+ to sneak through a city and call in death from above really set this game apart. 
+  
+  I highly recommend this game and hope for more. 
+::::::
+
+::::::
+UserName: tfwest
+Rating: 5.2
+Date: Jun 12, 2006 1:59 am PT
+Review:  When I purchased this game, I was hoping for a solid strategy game, much like "Rise of Nations". 
+ However, I found a game that was a waste of money and time. The ONLY good things I could find about 
+ the game, were the graphics and realism, but all that was marred by horrible gameplay.
+  
+  The graphics were better than most games I had played in the past, same can be said about the sound. 
+ I enjoyed how the German and Russian units looked realistic and how they spoke their respective 
+ languages. Unlike in many other games where they speak English but with their native accents. The 
+ sounds of gunfire, explosion, and units moving across the field made me feel as if I was truly 
+ on the field with them. The lighting effects, terrain and such were fantastic and more realistic 
+ than most of the games I have played.
+  
+  The gameplay however, was the ultimate downfall of this game. This was nowhere near what I had 
+ expected to be. The movement of units is far too slow compared to such masterpieces as "Rise of 
+ Nations" and same with the firing rate of the units. Also, you cannot build any buildings that 
+ will support your advance or defense against the enemy, you must capture them and hold them for 
+ the most part. The time it takes to create units is far too long for any strategy gamer along with 
+ the highly limited resources.
+  
+  By now, I have only gotten to the last or second to last level of the Soviet Union and am entirely 
+ angered by it. The level is moving extremely slowly and the fighting is impossible to get past. 
+ Bottom line is, if this game were structered more like a REAL strategy game, it would be worth 
+ your time and money. 
+::::::
+
+::::::
+UserName: Indy328
+Rating: 8.6
+Date: Jun 4, 2006 3:08 pm PT
+Review:  Graphics:
+  positive
+  The graphics are very nice. Bushes and trees move in the wind. Tanks destroy tree while approuching 
+ an accupied town and artillery leave marks on the battlefield. Explosions look very nice too. It 
+ is the only game (besides c&c generals) where I 'm not dissappointed with the explosions. They 
+ leave a big bang and dirt is flying around (or parts of a building if you hit a building) . Explosions 
+ destroy trees, bushes and almost everything what is on the battlefield leaving a mark of war behind 
+ you. You can zoom in quite (unfortunately not as close as in warhammer 40k dawn of war) close so 
+ you can see how well the animations are for the soldiers, tanks etc. When a mortar hist a couple 
+ of soldiers 2-3 times you can see them flying through the air. If they get hit behind them they 
+ fly to the front (and the other way around) which leads me to the ragdoll within the game. Yea 
+ there is a ragdoll engine within the game. Not as detailed as you expected but quite nice. When 
+ a tank explodes you can recognize, that some pieces of the tank fall of differently everytime you 
+ destroy a tank which looks nice. If a mortar, artillery hit a building some pieces fly through 
+ the air and bounce of the ground which looks guite nice too. The zoomfactor of the game is good. 
+ Would be good to zoom in even closer but it is alright so nothing to complain about and zoomout 
+ is enough to keep an eye on your army (would be good if you could zoom out a bit more but it hardly 
+ gave me problems) . The water looks fantastic. There are also some minor blood effects in the game. 
+ Not a big deal but better than nothing like in a lot of games nowadays. There are sequences after 
+ or before every mission which have been done in ingame graphics but a bit improved and it looks 
+ very nice. It gives kind of movie atmosphere.
+  
+  negative
+  Having all this sunshine here and there I come to the negative aspects of the graphics. The water 
+ looks fantastic and the rest just looks very good. There is still some potential within the graphics. 
+ The game sneeds a very fast Pc to run. I have a AMD 64 3500+, 1gb of RAM, Geforce 6800gt with 256 
+ mb. My resolution is 1024x768 all details on maximum except shadows I disabled them completely 
+ (but they look nice too and the graphics engine offers self shadows..... guite impressive) and I 
+ sometimes I got problems with the speed of the game. You think the screen has to be crowded with 
+ people and tanks to slow it down. No. Let's say a quite good troup, a bit more then a screen cleared 
+ from the fog of war and a hand full of enemy soldiers slow the Pc down quite a lot. It is a bit 
+ annoying but it happened only a few times for me. Still. Where are we heading if games get better 
+ but the necessary hardware rises way to much everytime a good game comes out. I cannot effort a 
+ new graphics card every year or one and a half year.
+  
+  Sound: 
+  positive
+  The slightly better than the graphics. Everything sounds superb. The artillery hit brings a great 
+ bang and some of the guns don't sound so unrealistic from their real counterparts (I play Red Orchestra 
+ and this game has lot of accurate sound) . The sound is a bit more accuarte than the graphics. When 
+ an artillery hits the ground, then you can also hear dirt flying around and hitting the ground 
+ (what the graphics engine doesn't show) A good bang also shakes the camera if you zoom in. The 
+ mix between camera shaking and the great sound give a really nice effect. (the camera only shakes 
+ if you zoom in enough) . It always makes me zoom in very close to see another explision here and 
+ there. Every country speaks their language so germans speak german etc. which has been made very 
+ well so the voice actors are quite good too. The sound for the sequences before or after every 
+ mission is even a bit better (voice actors are well chosen) . 
+  
+  negative
+  I didn't recognize any negative aspects for the sound.
+  
+  Gameplay: 
+  
+  positive
+  Gameplay 
+ is great. The mission design is good enough to keep on playing the game. Sometimes you have to 
+ prevent that german troops take over a few factorys, destroy german ships or take over a train. 
+ There are usually more than one main mission objectives (which are important for succes of the 
+ mission) , more than one optional (which are just for fun) and also special mission objectives so 
+ you never get really bored during a mission. You can usually keep all the units you train during 
+ a mission (except you have way too much) . Your units gain experience during fighting. There are 
+ 3 ranks for each unit and everytime your unit levels up it gets more effective during a fight. 
+ The units are great. The russians for example have a political officer who has a double ration 
+ of vodka which improves the moral of nearby soldiers. Officers are special units on the battlefield 
+ which have special skills. Some of them are quite interesting. Tanks have different hitzones like 
+ front, back, left, right and bottom which adds to the strategic atmosphere. The AI is good. Enemy 
+ tanks always take out your supply trucks first which provide your tanks with ammunition and repairs. 
+ Multiplayer offers a lot. It has normal modes (like deathmatch or team deathmatch) and it also 
+ has coop and modes where you and your enemy are given tasks which every single one has to fullfill 
+ but the others have no idea so try to hide your objective and try to fool your enemys. 
+  
+  negative
+  Now I come to the negative aspects for the Gameplay. Codename Panzers 1 and 2 (the 
+ prequels to Rush for Berlin) had a different unit system. Once a unit died it was dead and couldn't 
+ come back which made you really care after your troops which good experience and rank. Rush for 
+ Berling works different. If a unit dies (like an officer) then you will be resurrected for the 
+ next mission. This time it is time which is important. The longer you take the less points you 
+ get. In my oppinion this is not good because the old system made the prequels very good why didn't 
+ the stick to it? The AI can be sometimes a bit buggy. The pathfinding needs some improvement because 
+ units sometimes get lost or stuck. One negative aspect is also that you have to start with the 
+ Russian campagne and the rest will be unlocked piece by piece while you advance in the campagnes. 
+ The Multiplayer had some small bugs and slowdowns so Stormregion has to work on that. A game sequence 
+ missed the plot once. A german tank drives through the streets of a russian town. A strong one 
+ (Tiger i think) . Nothing can stop it. It got stuck within a broken building a a russian soldiers 
+ says:" It is going to get difficult to crack the faschist nut open) but the mission wasnt really 
+ about the tank. It was a main objective but I didn't have any problem destroying it so I think 
+ it missed the plot a bit in that mission, because the rest of the mission were more challenging. 
+ No big deal but still strange.
+  
+  All in one Rush for Berlin is a very nice strategy game with some minor flaws. I recommend it to 
+ everyone who likes Strategy games. I think people who played panzers 1 and 2 will be pleased too. 
+ 
+  
+  I hope you liked my review. If you do then call Gamespot and tell them that I rock and I want a 
+ job as an game tester at Gamespot ;=) 
+  
+::::::
+
+-------------------------------------------------

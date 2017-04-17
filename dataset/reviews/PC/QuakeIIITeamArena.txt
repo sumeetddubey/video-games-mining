@@ -1,0 +1,267 @@
+-------------------------------------------------
+:::Game Name::: Quake III: Team Arena
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/action/quake3teamarena/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Dec 21, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.4
+Critic Score: 7.4, 28 Review (s)
+User Score: 8.1, 547 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Activision
+Developer: id Software
+Genre: Sci-Fi First-Person...
+Date:     Dec 18, 2000
+ESRB: Mature
+
+-------------------------------------------------
+:::Review:::
+Team Arena is an extremely focused expansion that may not add a great deal of obvious breadth to 
+ multiplayer team games, but does add a good amount of depth. 
+
+ Quake III: Team Arena is an expansion pack for id Software's superb first-person shooter Quake III: 
+ Arena, which was released a year ago. At a glance, the expansion may seem like nothing more than 
+ a trumped-up modification - an add-on that includes a few play modes and extras and little else. 
+ However, Team Arena also has several new features that enhance the original game, including improved 
+ graphics and sound, a new user interface, some new maps to fight in, new weapons and items, and 
+ three new team-play modes. The new items and play modes are collectively the most significant additions 
+ that the expansion makes to the original game, as they allow for a number of interesting and surprisingly 
+ complex strategies in team games on Team Arena's polished, well-balanced maps. These strategies 
+ tend to work best - and be the most enjoyable - when you're playing with teams of experienced and 
+ organized players in an online multiplayer match.   
+
+  Team Arena is powered by an improved version of the powerful Quake III graphics engine, and despite 
+ that the engine itself was released last year, it looks excellent. As with Quake III: Arena, Team 
+ Arena supports dynamic lighting, light-mapping effects, and curved architecture, though the new 
+ maps in the expansion make more and better use of all of them. The expansion also includes three 
+ expansive outdoor maps that make impressive use of real-time shadows and render great distances 
+ without any traces of draw-in. But these graphical enhancements come at a price - you'll need a 
+ 16MB 3D accelerator card at the very least (as opposed to Quake III: Arena's minimum requirement 
+ of 8MB) , and though you can still play the game with 64MB of system RAM, you'll need at least 128MB 
+ to get the game to run at an acceptable frame rate. And even then, you may have to turn off a few 
+ video options. In addition, since many of Team Arena's team maps are more graphically intensive 
+ than the original game's, you may use only Team Arena's new team player models on them, since the 
+ new models are specifically optimized for use with those maps. There are essentially two basic 
+ models - a humanoid male and female - and each has a few different heads and five different skins, 
+ but none is anywhere near as interesting or distinctive as Quake III: Arena's gargoyles, androids, 
+ and aliens, which aren't available in any of Team Arena's team-play modes.   
+
+  Team Arena doesn't sound quite as good as it looks. The game has most of the same hard-hitting 
+ weapon sound effects as those in the original Quake III: Arena, and it features the enhanced sound 
+ effects also included in the Quake III v1.27g point release, including a realistic-sounding Doppler 
+ effect that is produced by rockets launched from a distance. Team Arena also has new music tracks, 
+ though they resemble those of the original game - passable but largely forgettable techno/thrash 
+ that you'll likely turn down (or turn off completely) so that you can better hear what's going 
+ on around you. Team Arena also offers a new chat option: contextual voice taunts that you, other 
+ players, and nonplayer bots can use in addition to Quake III: Arena's standard gesture taunt. Interestingly, 
+ Team Arena's contextual taunts change according to the situation: If you successfully frag an opponent, 
+ your voice taunt will be a smug insult, but if you've just been fragged, your voice taunt will 
+ more likely be a confused "What the...?" Unfortunately, nearly all these voice taunts sound horrible. 
+ Apparently, they were intended to emulate the brazen, foul-mouthed trash-talk of the characters 
+ and bots in Epic's Unreal Tournament, though Team Arena's voice taunts actually sound more like 
+ the result of a corporate focus group's attempt to emulate bored, mildly peeved teenagers. Fortunately, 
+ you can turn off voice taunts, and if you play Team Arena for any appreciable length of time, you 
+ probably will.   
+
+  If you do play Team Arena for any length of time, you'll find there's more to it than good graphics 
+ and bad voice acting. Unfortunately, if you're looking for head-to-head deathmatch or an improved 
+ single-player game, you won't find much more. Team Arena includes a slightly enhanced bot-orders 
+ system that lets you give general directions to computer-controlled bot players on your team - 
+ but the bots' artificial intelligence is still rather unimpressive, and as with Quake III: Arena, 
+ they won't put up much of a fight except on the highest difficulty settings. In terms of head-to-head 
+ competition, Team Arena has four new one-on-one tourney maps (some of which were included in the 
+ Sega Dreamcast console port of Quake III: Arena) that are, on the whole, fairly good as tourney 
+ maps go. You can also access deathmatch and team deathmatch modes by using the game's "/g_gametype 
+ #" console command, though the game's maps aren't really suited for free-for-all or team deathmatch 
+ play and none of the game's new power-up items is available in either mode.    
+
+ However, you'll be able to use all three of Team Arena's new weapons in any game mode: these are 
+ the proximity mine launcher, the chaingun, and the nailgun. The proximity mine launcher is the 
+ most interesting of the three; it launches small, beeping antipersonnel mines that can be affixed 
+ to anything, including enemy players. The chaingun and the nailgun are both extremely damaging 
+ weapons that can be made even more so with the game's power-up items.   
+
+  Team Arena features four power-up items - the ammo regen, doubler, guard, and scout items - as 
+ well as two new miscellaneous items, the kamikaze and invulnerability items. Each of the power-up 
+ items grants its bearer special abilities that will remain with him until he's fragged, while the 
+ kamikaze and invulnerability items are one-use items - the former kills its user in a huge explosion 
+ that inflicts grievous damage to any bystanders, while the latter renders its user briefly invulnerable 
+ but immobile. As you play, you'll find that different items lend themselves to different sorts 
+ of strategies depending on your choice of weapons, the game type, and the map layout; for instance, 
+ ammo regen lets railgun snipers fire continuously without having to leave their posts to search 
+ for more ammo. You'll also find that the different items and weapons serve as counterbalances to 
+ each other. An attacker who's protected by the powerful guard item may be felled by a rapid-firing 
+ scout equipped with a damaging nailgun; in turn, this scout may be torn to shreds by a persistent 
+ defender equipped with a chaingun and ammo regen.   
+
+  You'll use all the game's new weapons and items in each of Team Arena's four team-play modes. Team 
+ Arena offers a standard capture-the-flag mode, as well as three new game types: one-flag CTF, overload, 
+ and harvester. There's only a single flag in one-flag CTF, as the name suggests, which must be 
+ captured and brought to the enemy base - this game mode tends to be the most dynamic and least 
+ strategic of the four, as both teams will follow the location of the flag all over the map. The 
+ other two game modes, overload and harvester, put much more emphasis on teamwork and territory, 
+ respectively. In the overload game mode, you must destroy your enemy's obelisk, a stationary object 
+ that can withstand a great deal of damage; one player usually can't destroy an obelisk, so it's 
+ imperative to coordinate joint assaults with teammates and to bring along some heavy artillery. 
+ The harvester game mode requires even more organization; in it, you collect glowing skulls that 
+ appear when your opponents are fragged from a central point on the map and then carry them to the 
+ enemy base. As such, you'll need to make sure your team is organized enough to guard both the skull 
+ generator and your own base while making enough kills to generate skulls. Regardless of what mode 
+ you play, you'll find that you won't be able to win entire matches alone and that the more organized 
+ team generally tends to win more often.   
+
+  Team Arena includes a total of 19 maps; 11 of these are brand-new team maps, four are tourney maps, 
+ and four are slightly reworked versions of the original Quake III: Arena's capture-the-flag maps. 
+ These maps were created by different designers for different styles of play, and certain maps are 
+ far better suited to certain game types than others. Unfortunately, Team Arena doesn't have many 
+ maps to choose from in the first place; there are really only 15 all-new maps, and four of these 
+ are tourney maps. This is somewhat disappointing, especially considering that the original Quake 
+ III: Arena was released a year ago and that there have been literally hundreds of free user-made 
+ Quake III maps made available for download on the Internet since then. Fortunately, the maps that 
+ are included with the expansion are all extremely well designed and balanced.   
+
+  Quake III: Team Arena may seem unimpressive at first, since it superficially resembles nothing 
+ so much as a Quake III mod - and its bland character models, lousy voice acting, and its relatively 
+ small number of brand-new maps may do little to improve such a first impression. Yet though its 
+ new features may not seem remarkable individually, when put together they comprise a number of 
+ interesting new strategies and also let experienced players organize team-based games based on 
+ those strategies. Team Arena is an extremely focused expansion that may not add a great deal of 
+ obvious breadth to multiplayer team games, but it does add a good amount of depth and will subsequently 
+ make such game sessions that much more enjoyable to fans of Quake III's multiplayer component. 
+    
+-------------------------------------------------
+:::User Reviews::: (4 Reviews)
+::::::
+UserName: h498
+Rating: 7
+Date: Dec 2, 2007 6:02 am PT
+Review:  We've all heard of it, quake 3 arena is a great death match experience. But the expansion pack 
+ called team arena just isn't perfect.
+  
+  Graphics:
+  Back in its day, quake 3 looked absolutely amazing. if you crank the settings to maximum (need 
+ a good shader vertex to do this) it looks very good. The only issue i had with the graphics are 
+ that the gibs (blown up bodies) have no physics, they always are the exact same size and shape 
+ and in the same place. Fortunetly you just wont have time to be paying attention to the gibs when 
+ the gameplay is so fast. Even by todays standards the graphics are well done, so the graphics get 
+ a 9/10.
+  
+  Gameplay:
+  Here comes the bulk of this review, and what makes and breaks team arena. Team arena comes packed 
+ with new weapons, powerups, and maps. While this seems like the best thing for quake 3 arena, it 
+ truly isnt. The god mode powerup is just way to crazy to be a good idea. if you have a god mode 
+ powerup near you, you could just get it, and camp with a railgun without worrying about getting 
+ killed. it completely destroys some parts of multiplayer and makes things feel really broken. However 
+ the new powerups and weapons are not all bad, not at all. The proximity mine launcher is a great 
+ addition to this game. allows mines to be placed ANYWHERE on a map, or other players. However if 
+ a skilled railgun shooter comes across a guy with a proximity mine launcher, the guy with a mine 
+ launcher will get ripped. The new weapons are balanced good additions to the game. As anyone who 
+ has played quake 3 would know, the machine gun was really sucky. it did very little damage and 
+ pro players would rather not even have it in their arsenal. The new minigun and nail gun are 3x 
+ as powerful, but not effective at long range. These additions make medium ranged gameplay very 
+ fun, and even more fierce. Some new power-ups make the gameplay even more fun by adding more gun 
+ power and ammo regen. These powerups help the gameplay by making subtle additions that dont change 
+ the entire mold of how the game is played. These changes are nice, but seem more like a simple 
+ mod instead of an expansion. The fact that this game costs as much as it does and offers so little 
+ makes the value plummet.
+  7/10
+  Sound:
+  The sound in quake 3 team arena is nothing stellar. the new sound effects added to the weapons 
+ and powerups seem old, and like youve heard them before. The voice acting is just atrocious, all 
+ the dialouge in the game is cliched and nothing all too special. The weapon effects are slightly 
+ redone, but just dont sound realistic what-so-ever. another problem that was also in quake 3 is 
+ that every time you jump, the character makes a very annoying UGH noise. As you become good at 
+ the game, bunnyhopping (jumping repedetively to go faster, also makes you harder to hit) is a requirement. 
+ 5/10
+  
+  Overall:
+  Quake 3 team arena is nice if your looking for small additions to a great game, but dont expect 
+ stunning new features. The sound and value of this expantion take a hard beating, but the gameplay 
+ is still as fun as ever.
+  7.0/10 
+::::::
+
+::::::
+UserName: Bgrotha
+Rating: 7.8
+Date: Nov 11, 2006 5:33 pm PT
+Review:  Quake III: Team Arena is the first of the two Quake III Arena expansions. This one being the better 
+ of the two. This takes the gameplay of Quake III Arena bases it on team play. If you think this 
+ means, Crap, now I can Only play ctf and team dm, well you're wrong! There are new game types for 
+ this team based deathmatch experience! They are rather creative I might add. Overload is a game 
+ type in which you must quickly attack an Enemy's core until it explodes. Thieves is a game where 
+ you must kill an opponent, grab his or her skull, and take it to the center power vessel for the 
+ entire map. The new character models look fantastic. Sort of giving them a royal theme. Quite peculiar. 
+ The new maps are even better! Large, detailed, and full of ways to actually use strategy rather 
+ than the prancing and shooting of the original Quake III. The graphics haven't improved much however. 
+ There are added voices to bot players which are somewhat cheesy. Remember when bots would say corny 
+ threatening lines when you killed them in Quake III: Arena? Well this time, you actually hear it, 
+ and though the sound quality is good, there's no denial this is some corny corn. Turn it off! Music 
+ is the same, oh well! 3 new weapons spark our interests! The mine gun, and the return of the nail 
+ gun and chain guns! YIPPEEE! Overall, Quake III: Team Arena adds a whole round of fun to the already 
+ phenomenal Quake III experience. 
+::::::
+
+::::::
+UserName: -Resident-Evil-
+Rating: 1.6
+Date: May 14, 2006 9:50 am PT
+Review:  i think of this game as a knock off of Unreal its just made out to be what it is its so stupid 
+ a copy cat and its a reture if you alreay have it. The sound and graphics were ok but could have 
+ been better they really should have spent more time in makeing this game i didnt even finish it 
+ there were also a lot of bugs with you being able to go into walls and being or shooting someone 
+ and killing them with out hitting them its just not whats its cut out to be ill stay with Unreal 
+ 
+::::::
+
+::::::
+UserName: zux2000
+Rating: 10
+Date: Nov 27, 2005 6:21 am PT
+Review:  This expansion pack is totally underestimate! If you are or have been a hardcore Q3 player like 
+ I've been, you can't miss this explosive great expansion! 
+  
+  I used to played Team Arena a lot on LAN with my friends, and somethimes on internet (But it was 
+ very poor, because the servers was often empty, very strange.) -I can't understand that because 
+ this expansion have it all:
+  
+  *More weapons (like the classic nailgun from Quake 1)
+  
+  *Some more real funny gameplays, like for one example an another different form of "capture the 
+ flag", -how is even funnier than the usual capture the flag! 
+  
+  *It has a lot of more powerful things to pick up, that you will keep until you die, like the speed 
+ burst, double damage etc, and you can only use one thing of them! (So a good team pick ups different 
+ things, to be more powerful.)
+  
+  *it also more likely a "strategi form of FPS", -where you not only jump around "dit and dat" and 
+ shoot everything, it's more seek and hide. -But ofcourse, it's Quake so when it's a real battle 
+ you know how it looks like:)
+  
+  *Only the name "TEAM arena" means exactly that, it's more strategi now, it's more teamplay. If 
+ you wanna play usual Deathmatch, how is a lot of fun to, you must play the original Q3, but when 
+ it comes to team aganst team this is the best thing to play!
+  
+  *The maps are so wonderful and different, (same wonderful graphic that Q3 has, but a little more 
+ upgraded) Everything from a cool space map to a real huge green landscape, how takes atleast 2 
+ minutes to come to the enemies empire (if you not have the speed boost, and is lucky to not been 
+ killed on the way) . But here comes the teamplay again, it's fun and smart to place out a sniperguard 
+ (the best thing for the sniper is that he should have the dubbel damage with the railgun, one shot, 
+ one kill!) 
+  
+  *Ofcourse it's jump around and kill, but also on some maps, is good to have som hide defense somewhere 
+ who defends whatever you need to defend.
+  
+  This expansion is great! It couldn't been better! 10/10! 
+::::::
+
+-------------------------------------------------

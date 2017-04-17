@@ -1,0 +1,177 @@
+-------------------------------------------------
+:::Game Name::: G-NOME
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/gnome/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Mar 13, 1997
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.2
+Critic Score: 6.2, 7.4 Review (s)
+User Score: 7.4, 74 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: 7th Level
+Genre: Mech Sim
+Date:     Feb 28, 1997
+
+-------------------------------------------------
+:::Review:::
+G-NOME doesn't fully live up to its potential. 
+
+ First shown to the press back in July of 1994, G-NOME has finally made it to store shelves - and 
+ as with most games that are hyped early and often, the end result is a mixed bag. The good news 
+ is that G-NOME has several unique (and pretty cool) features that you won't find in any other mech 
+ game; the bad news is that muddy control, graphics glitches, and a sparse manual keep it from being 
+ the best it can be.  
+
+ Let's start with the good stuff. The single-player game is well structured, taking you through four 
+ sets of missions in graphically distinct locales. Once you head out on missions with teammates, 
+ you have a nice degree of control over their actions - you can order them to attack or occupy enemy 
+ craft and buildings, come to your defense, and even jump inside your vehicle for a ride.   
+
+ Because there are four races in the game, you get a good variety of HAWCs (Heavy Armor Weapons 
+ Chassis) and weapons, including tanks and a camera-mounted missile you guide with the joystick. 
+ Best of all, you can leave your own vehicle and jump into the enemy's abandoned mechs and laser 
+ turrets, take him out with his own weapons, then hop back in your own HAWC and use his IFF (Identify 
+ Friend or Foe) code to avoid detection. The title has a full complement of multiplayer options, 
+ including TCP/IP and IPX support - it should be an instant classic.  
+
+ But G-NOME doesn't fully live up to its potential. Using a Microsoft Sidewinder 3D Pro (which a 
+ 7th Level tech support person said was a great choice for this game) , the control was disappointingly 
+ sluggish and muddy. Tying to keep the HAWC's torso trained on the enemy while circling him - a 
+ basic maneuver - was nearly impossible, even when the graphics detail was reduced to zero to ensure 
+ the best possible frame rate.  
+
+ There are other control problems, too. Whether using the keyboard or joystick, the Stop (zero throttle) 
+ command never seemed to work; the HAWC just kept moving along even though the computer said it 
+ was stopping. Once you do get stopped, the slightest left/right movement will kick the throttle 
+ on again. Other commands - such as Move Forward or Move Backward, which are supposed to set you 
+ at half throttle in the appropriate direction - also seemed to function inadequately. Of all the 
+ control issues, the most maddening was that when you leave your HAWC and head out on foot, you 
+ fire in the direction you're running instead of the one you're facing - even though the crosshair 
+ is always in the center of your field of vision. Are these weapons built into the belt buckle or 
+ something?  
+
+ Then there are the graphics. While they're certainly more colorful and detailed than what you'll 
+ find in MechWarrior 2, that detail comes at a price: big pixels and warping terrain. Ground terrain 
+ is amazingly pixelated, looking like something from at least a year or two ago, and if you view 
+ HAWC from the outside you'll often see the earth and surrounding hills warp and bend. Fortunately, 
+ enemy vehicles fare better visually - and that's usually what your eyes will be focused on anyway. 
+
+ G-NOME is more frustrating than fun, but "sluggish control" is a somewhat subjective gripe. Players 
+ with little tolerance for frustration will probably want to avoid G-NOME, but those who can master 
+ the controls will find the other problems easily overlooked.    
+-------------------------------------------------
+:::User Reviews::: (4 Reviews)
+::::::
+UserName: xgmx
+Rating: 10
+Date: Jul 5, 2008 8:16 am PT
+Review:  G-NOME is a great unique game to play if you are looking to try new things. The game istelf is 
+ both a first-person shooter and a mech simulation. First I'll say something about the graphics, 
+ well they aren't the best, but then again, what do you expect from a 1996 video game. The sounds 
+ doesn't exactly work right and there is no detectable music. The game is really in need of a patch. 
+ There are no videos that work, not even the credits, except the Union Intelligence Agency thing 
+ logo that loads up. Alright now lets get on to the game itself. Being a multiplayer gamer, I never 
+ really finished the single player campaign (that plus I couldn't) , the mission objectives are often 
+ unclear and its almost as if 7th Level tried making the game impossible. However after about 50 
+ times trying a mission, you finally get it. Your ai allies are pretty stupid and can hardly hold 
+ their own in a fight. Often the only way to be a mission, is by pure strategy, going in guns ablazing 
+ doesn't quite work. Next I'll review the multiplayer, they put a lot of work into this it seems, 
+ it even has MPlayer support, the only problem is MPlayer cancelled support for the game (well that 
+ and MPlayer doesn't exist any more) . However you can still play via TCP/IP if you know the server's 
+ IP address (or via IPX, serial, and modem) . Trivia is played on the server before the game starts, 
+ however I don't know how to answer the questions, and they are very hard questions (sometimes) . 
+ One need not worry, there is a option for AI play if you don't have enough players in a multiplayer 
+ game, or would like to try skirmish. There are 3 game types (can't think of their names off the 
+ top of my head, sorry) and 2 game options (deathmatch and cooperative) . This game is definatly 
+ worth giving a shot, it's fun and addictive, I know my review may sound negative, but thats just 
+ because it is in serious need of a patch, it's like 7th Level got half way through making it and 
+ said "screw it, our company will merger with Pulse Entertainment next year and form P7 Solutions 
+ anyway" (which actually did happen) . 
+::::::
+
+::::::
+UserName: OptimusShr
+Rating: 8.5
+Date: Jan 4, 2008 7:10 pm PT
+Review:  G-Nome came and went in 1997 never being noticed by many. While I admit that the game could have 
+ been better, it is still pretty well done and unique.
+  
+  The graphics are a mix. The mountains warp slightly and the ground is very pixelated but the HAWCs 
+ and structures look good and have some nice detailing. Although I will admit most of your focus 
+ will be on enemy HAWCs and buildings so it you may not pay much attention to the environment.
+ 
+  
+  The controls could have been better, I had to remap a lot of the keys to find a control scheme 
+ I found comfortable. Once you find a comfortable control scheme however you will be piloting your 
+ HAWC like an expert
+  
+  The four races each have their own unique environment and design style. While the races each have 
+ their own versions of many of the different structures each race has their own unique colors and 
+ architecture so they stand out.
+  
+  The HAWCs all have different designs and like the structures are very unique and stand out well. 
+ The HAWCs all have their own strengths and weaknesses. Some have better shield and energy reserves 
+ while others have better speed and weapons. Each HAWC can carry four weapons although most do not 
+ carry four different weapons. You can steal HAWCs by ejecting and using one of your weapons to 
+ take a new one if yours is too damaged. You will have a display in your cockpit which will show 
+ your shield strength and which areas are damaged. Damaged parts show up on the HAWC as well which 
+ is a nice detail.
+  
+  There are many missions and you will have many different objectives throughout the game. However 
+ many of these missions have long stretches where you are simply moving with no action on screen. 
+ While this is not necessarily a bad thing and it makes sense with the story, the long stints of 
+ no action may have turned off many.
+  
+  The voice acting is good and the sound effects are nice. While many of the sounds are reused with 
+ the various weapons they all sound good and work well with the weapons used. The voice actors all 
+ do a good job and none of them phone it in and do a good job.
+  
+  Overall while the game is enjoyable overall and is one of my favorites it is not without its flaws. 
+ I would love to see this game get remade and be done even better than before. It may never happen 
+ but I can always dream that this entertaining game can be made even better than it was before. 
+ 
+::::::
+
+::::::
+UserName: Yoshi34
+Rating: 9
+Date: Oct 9, 2007 4:36 pm PT
+Review:  The game G Nome is great. I don't even see a problem with it. In 1997, this game hit the stores 
+ and I got this with my 95 and got used to it very well in just 3 months. There are some flaws though: 
+ the first one is that the graphics are Nintendo 64 caliber graphics however, but they are pretty 
+ distracting though. Another flaw is that the controling is pretty sick. You have to press + to 
+ move and - to stop. The battling is pretty cool, but expect to get mad for a few seconds, because 
+ the gameplay is quite hard, but like I said, you are going to get used to the hardcore of the gameplay. 
+ So in other terms, you should try your best in each stage. The music is brillient and comfortable 
+ with the whole game. It's almost like you're actually playing something like Medal of Honor or 
+ Call of Duty. For the most part, G-Nome is a little tough, but you get used to it very well and 
+ the gameplay is great. 
+::::::
+
+::::::
+UserName: JSGD2003
+Rating: 7.5
+Date: Feb 5, 2006 5:23 am PT
+Review:  1997 came and went, and so did G-NOME. It was a mech game, back when mechs where still where cool. 
+ It wasn't fast like quake, released the year before, but rather slow and methodical. This most 
+ likely turned off many players. The basic plot, is that you control a mech (which you actually 
+ can get out off) , and tries to save the world. The is definitely best in multiplayer, even though 
+ the single-player missions are fun in their own right. But the best fun is to be had fighting your 
+ best friends. 
+  
+  The graphics are a definite downside to this game, which objects looked fine, to other that are 
+ completely pixilated. The audio is quite better, but not perfect, I did like the soundtrack, however. 
+ So, all-in-all, a game best suited for multiplayer, for people not turned off by the slow nature 
+ of the game. 
+::::::
+
+-------------------------------------------------

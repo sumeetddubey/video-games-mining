@@ -1,0 +1,372 @@
+-------------------------------------------------
+:::Game Name::: Ultima IX: Ascension
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/ultima9ascension/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Dec 10, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.4
+Critic Score: 6.3, 27 Review (s)
+User Score: 7.5, 362 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Electronic Arts
+Genre: Computer Role-Playing
+Date:     Oct 31, 1999
+ESRB: Mature
+
+-------------------------------------------------
+:::Review:::
+Ultima IX comes across both as an epic and a farce. 
+
+ Ultima IX: Ascension is one of the most important games released in years. It's not just the only 
+ installment of the Ultima series proper in half a decade, but it's also the final game in the highly 
+ respected, long-running line of role-playing games. Origin has also announced that Ultima IX will 
+ be the last single-player game it will ever release, and there's still more at stake because this 
+ last Ultima abandons the series' traditional top-down perspective in favor of a third-person fully-3D 
+ engine.  
+
+ Fortunately, fans of the series will find that the new perspective is mostly unobtrusive and the 
+ 3D interface for jumping and climbing is actually rather effective, and they will be pleased to 
+ find that Ascension is filled with references to earlier games in the series. At the same time, 
+ Ultima IX assumes no previous experience and does a great job of acclimating newcomers to the world 
+ of Britannia and in setting the stage for the final showdown between the Avatar and his archenemy. 
+ However, Ascension isn't likely to win over anyone who doesn't already cherish the series, because 
+ even in spite of its many positive traits, it's a game whose ambitious design ultimately caves 
+ in upon itself due to the game's inconsistent quality and many technical problems.  
+
+ Ultima IX looks so good that its sacrifice of performance for the sake of quality is almost worthwhile. 
+ It features a three-dimensional Britannia that looks much like fans of the series must have imagined 
+ it based on the old Apple II games. In Ultima IX, the lush vegetation, rolling hills, mountain 
+ peaks, and classical architecture that lend the fantasy world of Britannia its distinctly plausible 
+ appearance all serve to effectively convey the seamless alternate reality that Ultima fans have 
+ always hoped to see. Although you can't see very far into the horizon no matter how you adjust 
+ the view setting, the sheer detail in any single location in Britannia is impressive. The world 
+ is never static; birds and butterflies flutter about, the weather and ambient lighting change slowly 
+ as the day passes, and the scenery is consistently unique no matter where you are. There's plenty 
+ of detail whether you're outdoors or not. You'll also find yourself traveling beneath Britannia, 
+ and what you'll experience in its various subterranean settings, such as catacombs, sewers, and 
+ prisons, is nearly as diverse and impressive as the plains, swamps, and snowfields on its surface. 
+
+ However, this stunning new Britannia is not uncompromising. It's on a substantially smaller scale 
+ than in previous Ultimas, such that players revisiting the land may feel claustrophobic or disappointed 
+ as they jog along its short roads. But by any other standards, the world of Ultima IX is as beautiful 
+ as it is expansive. The seamless transitions between surface and underworld areas further accentuate 
+ the feeling that you're exploring a life-sized living, breathing world. Unfortunately, the various 
+ creatures and characters that inhabit the world don't look nearly as good as the world itself, 
+ and their blocky features come across as generic and uninspired compared to the intricate scenery. 
+
+ Would that the plain-looking character models were the biggest problem with Ultima IX's graphics. 
+ Unfortunately, the real concern is actually getting the graphics to run at an acceptable speed, 
+ which will prove to be the greatest challenge of Ultima IX for anyone who doesn't own a top-of-the-line 
+ computer with a 3dfx card. Ultima IX isn't a fast-paced game, so you'd think a low frame rate wouldn't 
+ be cause for alarm; however, the poor graphics performance is such that it can make extended play 
+ sessions very hard on the eyes, yet the game's languid pace makes such marathon play sessions necessary. 
+
+ Ultima fans will be glad to know that such play sessions necessarily involve a great deal of conversation 
+ with Britannia's inhabitants. These players will also find that the process of interacting with 
+ the characters of Ultima IX is identical to that of the last several games: You choose what to 
+ say from a few different choices at a time. Ultima IX's dialogue generally doesn't give you much 
+ choice in how to respond so much as it lets you choose the order in which you acquire particular 
+ information, although you'll sometimes have to make decisions that are significant and even drastic. 
+ Part of the reason you'll spend a lot of time in conversation is that all the dialogue in Ultima 
+ IX is spoken and thus takes longer to get through than if you simply read the subtitles. But that's 
+ only if you actually listen to it, which you shouldn't; the fact is, Ultima IX's voice acting is 
+ almost uniformly horrible. Almost every character speaks in some sort of awful, inconsistent accent 
+ that trivializes not only the gravity of the game's premise, but also the characters themselves. 
+ Even the Avatar himself sounds inappropriate, not so much because of the characterization of his 
+ voice, but rather because of his deadpan delivery. At least the game's symphonic soundtrack fares 
+ better, but it becomes disturbingly repetitive in short order. You may as well toggle off the speech 
+ if not also the music, though whether or not you actually listen to Ultima IX, you'll find that 
+ the game's dialogue is consistently dry and straightforward and that the plot is interesting only 
+ because of its situations rather than characters.  
+
+ Whether the plot is interesting in the first place is further cause for concern. Unlike previous 
+ Ultimas, in which the purpose of the Avatar's goal becomes clear only after hours of deduction, 
+ in Ascension, your goal is projected quickly and clearly. Although there are plenty of unpredictable 
+ and oftentimes effective plot twists over the course of the game, that the overall goal remains 
+ consistently evident paves the way for Ultima IX's unrelentingly linear structure. There is no 
+ inherent problem with a linear story; on the contrary, such a narrative can be much more complicated 
+ and cohesive than one that lets you experience it from any direction. But Ultima IX is linear not 
+ for the sake of a complicated plot, but more so in an effort to prevent you from ever getting lost. 
+ As such, the game confines you to small areas at a time - you'll be trapped on an island or in 
+ a dungeon until you solve it - and this diminishes the sense that you're actually free to explore 
+ Britannia. Though you'll find the occasional reward if you carefully investigate the outskirts 
+ of each environment, more often than not, you'll feel as though you're being punished for straying 
+ from the designers' intended path. You'll either end up wasting your time, or in the worst cases, 
+ you'll actually break one of the game's quests by completing its objectives out of order, thus 
+ making victory impossible.  
+
+ Such problems are so numerous and apparent in Ultima IX that they cannot be overlooked. An almost 
+ immediate patch fixed dozens of problems in the retail version but put just a small dent in all 
+ the technical problems that plague Ultima IX to its very core. Quest problems notwithstanding, 
+ the game is prone to crashing, the Avatar is prone to getting hopelessly stuck on objects, and 
+ his enemies, no matter how big or how powerful, are consistently mindless.  
+
+ The combat system in Ultima IX is utterly inept; it's evident the designers had no idea how the 
+ actual fighting should work, even up through the very last moments of development. Because someone 
+ must have insisted on making the game action-packed, and someone else must have insisted the game 
+ shouldn't require much manual dexterity, the consequence is one of the worst combat systems in 
+ a role-playing game to date. You simply draw your weapon and hammer the left mouse button as quickly 
+ as you can, which wouldn't be so bad if the game did a decent job of letting you know you were 
+ actually hitting anything. Dodging your enemies is essentially impossible; then again, you don't 
+ really have to, since most of the time your enemies just stand there and let you kill them. You 
+ can learn new weapon techniques as the game proceeds, but there's no real reason to do so. Besides, 
+ you can avoid most any fight by simply walking around the enemy, and you don't gain experience 
+ for fighting anyway. In fact, the only benefit of fighting is that your fallen foes, both human 
+ and animal, drop gold coins whenever you kill them. The terrible combat along with the terrible 
+ voice acting sucks all the drama right out of most any significant hostile encounter in the game. 
+
+ The combat and acting actually cheapen the quality of the game. Ultima IX comes across both as an 
+ epic and a farce; you'll try to take it seriously as you play, because the game's beautiful scenery 
+ and grave situations demand it. But there's nothing serious about the Avatar letting out a battle 
+ cry as he hits a giant rat in its back and collects its gold, nor is it possible to keep a straight 
+ face while listening to half the characters in the game. And though the game has a lot of variety, 
+ some sequences are far weaker than others and sink to the very lowest form of role-playing cliche, 
+ as they force you to stumble blindly through pointless mazes in search of keys and whatnot. Add 
+ to this the game's long list of technical problems, a selection of which is guaranteed to adversely 
+ affect your experience with the game, and it's plain to see that Ultima IX isn't really worth it. 
+ However, such a warning probably won't discourage the devout Ultima fan who would force his way 
+ through the game regardless of any fact or opinion that indicates he should do no such thing, if 
+ only so that he could see the 20-year-old series finally reach a conclusion.     
+-------------------------------------------------
+:::User Reviews::: (6 Reviews)
+::::::
+UserName: HeroJH
+Rating: 9
+Date: Jan 20, 2009 1:03 pm PT
+Review:  Remember the time this game came out. At the time, for me, this game was wonderful. It was one 
+ of the first full 3d free roaming games with side quests and variable main quest (in regards to 
+ choosing characters and choices of finishing.) The music and ambient sound of this game was great 
+ for it's time, and, to me, still exceeds some games today. The graphics were quite good for the 
+ time if you had a great system, but still appreciated at lower settings, despite it's poor performance 
+ on most computers. I hope that this isn't the end of this series, it could make such a great comeback 
+ today in the times of the XBox 360. If you enjoyed Elder Scrolls IV Oblivion recently, this was 
+ about that scale at the time it was released. To me, as a guy that's played PC gaming since PC's 
+ came out, it holds fond memories to this day. 
+::::::
+
+::::::
+UserName: nephayugi
+Rating: 1
+Date: Dec 23, 2008 2:38 am PT
+Review:  Considering this game was created in 1999, Ultima IX's graphics are good for when it was released 
+ making the only positive aspect of the game.
+  
+  The most negative aspect of the game is the plot or the lack of it. This game it is not a true 
+ sequel of the others. Full of plot holes, broken promises, mistakes, etc makes this game a very 
+ disappointing and a waste of time to Ultima series fans like myself (I'm still waiting for the 
+ true sequel) .
+  
+  Aspects of the game that shows that they didn't look to the others Ultimas:
+  There has never 
+ been a connection between shrines and moongates.
+  They forgot towns or maybe they didn't have time to explained what happen. (Like other things. 
+ Many Things!)
+  Events that happen in Ultima VII are ignore like other things.
+  ...
+  
+  Also the game is full of glitches. From time to time I have to reinstall the game due to the fact 
+ that after some playing time it crashes and when I load the game crashes again and again and again. 
+ 
+  
+  
+  It was a waste of money. 
+::::::
+
+::::::
+UserName: Gold_horde
+Rating: 9
+Date: Mar 29, 2008 6:40 am PT
+Review:  Ultima IX is the only ultima game ive played of there series. May not have the best graphics for 
+ now a day games but its fun. Its sorta like the Morrowind of when it came out! When i first played 
+ it my computer didn't allow it to run the best. Like the water you couldn't go under (couldn't 
+ see) and yea. Well i played it on a different computer and thought it was splendid. Its the game 
+ thatt wont get me bored. Otherwise its really great because you can do what ever you want. Like 
+ you can challange the gaurds to a fight and still loose. : ( You can do alot in so many ways. Its 
+ the game that has many gliches but are really funny. I suggest you to play it. Now if i had the 
+ chance, i would redo the game with better graphics. All though it did come out back then it still 
+ woould be better. If i had the chance also i would play the whole series. You have a great variety 
+ of choices with the voice aspects. They did great on the Npcs. I suggest you to play the other 
+ ones first (if you can find them) . 
+::::::
+
+::::::
+UserName: knux15
+Rating: 8
+Date: May 22, 2007 8:34 am PT
+Review:  Considering this game was created in 1999, the game has still grabbed my interest now. Back in 
+ 99 I tried to play the game and it was actually to much for the computers at the time. I just recently 
+ put in the discs and tried again and for the last 3 hours I have been back into Britaina as the 
+ game hero Avatar.
+  
+  The good things include:
+  
+  One of the Grandfathers of RPG games.
+  Snappy Fast Game Play
+  Special Effects that still impress 
+ me at times
+  And... Several paths to take
+  
+  Some Things That Show The Game's Age:
+  
+  Graphics look utterly horrible for this day and age but still aren't pixelated
+  Sound system 
+ is the most corniest thing in the world
+  Battle is very linear with the normal *stab stab* gameplay
+  Controls both on ground and in water 
+ take a hell of a long time to learn
+  Books can freeze gameplay for a max of 10 secs but DO NOT crash the game.
+  
+  Bottom Line:
+ 
+  
+  The game was its version of Top-Notch in the late 90's but ever with the legacy of age it kicks 
+ the ass of some other games made today. I would gladly have payed $15 for this game still today. 
+ (Original Price back in the day was $39.99) 
+::::::
+
+::::::
+UserName: lordoakwind
+Rating: 9.7
+Date: May 11, 2007 6:23 pm PT
+Review:  Is there anyone out there who could tell me where I can find the last video part of the game after 
+ you kill the Daemon ? Or tell me how to unbug the darn game so I can watch the end part of the 
+ game . If you have any pictures of it or know someone that does please let me in on it . Other 
+ wise the game was better than WOW. I wish they would make more games like this one. I give it a 
+ 9.7 out of 10. I really injoyed the virtues, food you ate, spells you had to make by gathering up 
+ plants, resent, and other supplies to create spells. The armor and weapons was awsome. You could 
+ swim in the water or under water. You could climb things and jump from it. it had moutains you 
+ could climb. the views were incredible. I like that you could travel by a ship or teleport. I tell 
+ you people out there this is a game they should make more adventures for this game. Add ons would 
+ be awsome. To think about it . This game is as good as world of warcraft. Many other ways except 
+ being online it is better 
+::::::
+
+::::::
+UserName: 3DO_Lives
+Rating: 7.8
+Date: Nov 17, 2005 8:28 pm PT
+Review:  Ultima IX: Ascension was released back in Christmas '99. A lot of reviews were written about this 
+ highly anticipated sequel that was the final end to the third trilogoy of the Ultima series. Many 
+ of these reviews were quite brutal on Utlima IX, and to the reviews' credits, for many understandable 
+ reasons. I purchased this game for Christmas in '99, and played a good deal of it in early 2000. 
+ My computer at the time (along with everybody else's) , could barely run Ultima IX. I fell out of 
+ the game for a while, until Sept 2003 when I purchased a new computer with very high gaming capabilities. 
+ I then rediscovered the game and have played it all the way through over the past 2 years. In looking 
+ online at everyone's reviews at the turn of the milleanium, I feel that Ultima IX now deserves 
+ a second look.
+  
+  First, let's cover my Ultima qualifications. I am no stranger to the series. I have played Ultima 
+ 3 and 4 on the NES, and Ultima 7, Ultima Underworld 2, and Ultima Online on the PC. I am very into 
+ the storyline of the series, and like many others, was highly anticipating the release of number 
+ 9 twords the later 90's. I have played my fair share of RPGs here and there, from recent hits such 
+ as Final Fantasy, to old school hits such as Might & Magic in the 80's. That being said, I can 
+ look at Ultima IX pretty objectively. 
+  
+  Well, Ultima IX is certainly the most interesting PC game ever made, in that it has huge plusses 
+ and huge minuses. First the plusses.
+  
+  Ultima IX's graphics are unbelievable for when the game was released. The entire world is rendered 
+ in full 3D, and it is breathtaking. Now that I have a stronger computer a few years later, I was 
+ able to play the game on its ultra highest settings. Well, in late 2003, the graphics on the highest 
+ setting still amazed me. 4 years after its release, the graphics are as good as any new game to 
+ come out. You see the detail of every blade of grass, every mushroom, every flower. The world is 
+ not "flat", it curves, bows up and down, you name it. Just walking down a sidewalk looks like a 
+ real life sidewalk it that it has hills and curves slightly as you walk along. The sky is detailed, 
+ and looking up at dawn or dusk just takes your breath away. I found myself using the "snapshot" 
+ option all the time just to be able to look at the landscape later. The water affects are well 
+ done, and when you are underwater you get an incredible "morphing" affect. Lighting affects could 
+ not be stronger. 
+  
+  The game's sound is great as well. The music of each town is well done, particularly the "sad" 
+ versions of each town's music (every town has a before and after theme of you saving the day) . 
+ Also, the different versions of fighting music are bold and appropriate for the action. Sound effects 
+ are decent. The voice work is decent too, with each conversation not just text as in previous Ultimas, 
+ but now actually spoken. 
+  
+  Ultima IX, as promised over the years, has an epic storyline. The Avatar has returned to Britainia, 
+ only to find it in ruins by the Guardian. Every aspect of the world has been corrupted. The land 
+ itself is in ruins, and all the people are acting in ways opposite from the virtues they are supposed 
+ to follow. The storyline is definitely an all or nothing, fight to the finish.
+  
+  The game is long and fullfilling. To get all the way through the game is at least 40 hours, definitely 
+ on the long side even by RPG standards. There are plenty of side quests to work on and areas to 
+ explore. Because of the detailed 3D nature of the game, many secrets can be well hidden underneath 
+ objects, in ceilings, etc.
+  
+  Finally, despite what some reviewers may say, the basic gameplay of Ultima IX is true to past Ultimas. 
+ The system of following each of the 8 virtues is still in affect. The Avatar has two main objectives 
+ for each of the 8 cities. The first is to turn the people around to following their respective 
+ virtues, which I find to be a nod to the great townspeople interaction from Ultima 7. The second 
+ is to venture through and conquer each of the 8 dungeons, which was used back in Ultima 4 and 5. 
+ All in all, the game's foundation is great and epic, and the basis of what you need to do is true 
+ Ultima.
+  
+  OK, now on to the bad.
+  
+  Ultima IX is scaled down in many respects. The original plotline of the game was not used, and 
+ in is place is a fairly simple one. The game is very linear (you can for the most part only go 
+ to one town at a time, in their order) . The purpose of each of the towns is always the same, fix 
+ the shrine by gathering the town object and the dungeon object. Because of the move to 3D, the 
+ world itself is proportionally much smaller. You can basically walk across the world in only a 
+ few minutes. In Ultima 7, Britain was a grand city with over 50 separate buildings. Because everything 
+ in Ultima IX is 3D and highly detailed, they could only have about 10 to 15 buildings. Cove, one 
+ of the smaller towns, only had 3 buildings! In Ultima 7, townspeople went to work in the daytime, 
+ sleep in their homes at night, and even hung out at the bar sometimes. In Ascension, no dice. People 
+ just stand around 24/7, and many have no actual homes. In Ultima 7, there was rich dialogue possible 
+ with every townsperson, and they would remember your past conversions. Uh uh here. Everytime you 
+ talk to the same townsperson, you must go through an introduction as if you just met. I've talked 
+ to the Britain jeweler about 50 times now, but I guess the Avatar doesn't remember him. Conversation 
+ trees are screwed up at times and information is left out. You just need to get lucky sometimes 
+ that you picked the right response in a conversation.
+  
+  Many gameplay elements are just plain weak. Fighting, for instance, is in real time 3D as in the 
+ Underworld series. However, it just does not feel right. Really all you do is walk up to enemies 
+ and stab them. Sometimes the enemies just stand there and take it. There is no experience to gain 
+ from fighting as in most RPGs. The only benefit in killing monsters is the gold, in which every 
+ monster leaves behind gold. Yes, giant rats carry money in Ultima IX. Sometimes the system of acting 
+ virtuous is unclear. Just by having seemingly innocent, respectful conversations with characters 
+ leads them to get mad and attack you. If you attack back, you may or may not be punished for unvirtuous 
+ behavior. Some of your old friends from previous Ultimas are corrupted and attack you in the dungeons. 
+ You are supposed to not kill them, but it unclear sometimes who they are! Without any dialogue, 
+ a wizard attacked me in a dungeon. I fought back and killed the wizard, but later read online that 
+ this was one of my former friends. The system is just too ambiguous, and should have been polished 
+ better. The game in general, from its dialogue, to its combat, to its virtue system, just needs 
+ more polish. Finally, the fun factor of having your party full of friends has been lost. You must 
+ brave Ascension alone. This fits the storyline well, but even so, you should have more conversation 
+ with your friends (Iolo, Shamino, etc.)
+  
+  Now, a big dispute I have with other reviewers is the glitches in the game. Many reviewers said 
+ that the game was unplayable and would crash all the time. A few years later I can say that this 
+ did not occur for me. My computer is now powerful enough to handle the game. Perhaps Ultima IX 
+ was just a little ahead of its time. Patch v.1.18 is out, and it handles most problems. The only 
+ problem I had running the game this time around was some sound troubles, but I attribute that more 
+ to my computer's sound capabilities that did not exist in '99. I think it is unfair to lower the 
+ rating of this game down significantly because it would not play. It plays fine now.
+  
+  All in all, this is a strange game. It does so many things really well, and so many things really 
+ poorly. Gamespot's remark that it "succeeds as both an epic and a farce" is a good summary. But, 
+ at the end of the day it is a beautiful game with many hours of RPG fun. Its core gameplay and 
+ story is great, it just wasn't polished all that well. I found playing it very enjoyable on and 
+ off over these years, and I therefore feel that its low ratings in the past are not warrented. 
+ Factoring everything in, I would say a rating of 7.8 is fair. The game plays great now, it was 
+ ahead of its time. If you find it in a bargain bin somewhere, in my opinion, it is worth it.
+  
+  The big disappointment was that this game could have been a 10. If the original plan of a more 
+ orthoginal view similar to Ultima 7 had been followed, I believe all the scaling back of elements 
+ would not have occurred. It would not have been as daring and bold of a game, but it would have 
+ been tried and true and polished. That is why Ultima fans are upset, it's not a bad game, it just 
+ could have been great. I equate Ultima IX with the Star Wars prequel trilogy. They are good movies, 
+ the disappointment is that with a little tweaking they could have been great movies. Ultima IX, 
+ with just a little nudge, could have gone from 7.8 to 9.8. 
+::::::
+
+-------------------------------------------------

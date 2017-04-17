@@ -1,0 +1,153 @@
+-------------------------------------------------
+:::Game Name::: Starships Unlimited: Divided Galaxies
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/starshipsunlimiteddg/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jan 17, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8
+Critic Score: 7.9, 6 Review (s)
+User Score: 7.6, 41 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Matrix Games
+Developer: ApeZone
+Genre: Sci-Fi Real-Time Strategy
+Date:     Dec 2, 2002
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+Starships Unlimited is a game that's as remarkable for its humble shareware beginnings as it is 
+ for its elegant design. 
+
+ Running a galactic empire can't be an easy task, but it's never been more straightforward than in 
+ Starships Unlimited: Divided Galaxies. While most space empire games have innumerable ships and 
+ colonies to manage, Starships Unlimited strips conventional mechanics down to the essentials. The 
+ game runs in real time, but the action stops at each major decision point to let you consider the 
+ options; and there's just enough automation of low-level ship and colony tasks that you'd otherwise 
+ likely not want to bother with. Despite its sleek design, Starships Unlimited does have a few weaknesses, 
+ particularly in its unchallenging AI opponents and generic sci-fi presentation. Even so, because 
+ of its fast pace and relatively simple scope, Starships Unlimited succeeds -- it's almost like having 
+ Risk set in the stars.           Starships Unlimited uses simple, manageable real-time mechanics. 
+    
+
+  Starships Unlimited's polished gameplay isn't a complete surprise, as the game has already had 
+ some time to mature in the wild. A shareware version was released at the beginning of 2001, and 
+ it attracted a niche following on the strength of its design. The new commercial release greatly 
+ improves upon the initially rudimentary graphics and rounds out the game with new sound effects 
+ and music. It's available by direct order through the publisher.   
+
+  The premise of Starships Unlimited is conventional: You're in a position to lead your species from 
+ its homeworld to develop an interstellar empire. Up to seven computer-controlled opponents (there's 
+ no option for human competition) are simultaneously racing to explore, exploit, and colonize the 
+ galaxy. The game ends when one empire conquers all. Unlike more complex games -- Master of Orion 
+ II and the earthbound Civilization games, for example -- there aren't many options for forcing nonmilitary 
+ expansion. You won't find complex diplomacy, espionage, or wonder-building elements in Starships 
+ Unlimited, and there isn't a hint of story. The only original bit of color to the generic sci-fi 
+ setting is dividing species up into two philosophies: "little endian" and "big endian." This programmer 
+ joke (each term refers to a data format) is a reminder that Starships Unlimited is the personal 
+ work of one man, Andrew Ewanchyna. Even the "Ape" in the ApeZone studio name is from his initials. 
+ Ultimately, though, Starships Unlimited benefits from having one designer's focused and uncompromised 
+ efforts.   
+
+  Starships Unlimited's appeal lies in its elegant gameplay. Aggressive early exploration is very 
+ important because each planet holds an artifact that's claimed by the first ship to successfully 
+ neutralize local defenders. Artifacts range from special ship and colony bonuses and abilities 
+ to the items necessary to advance to the higher technology levels. Each explored system can be 
+ added to your empire's political boundaries and harvested as a source of resources. Resource routes 
+ are only as efficient as their distance to the nearest colony and tech levels of your freighters' 
+ drive and carrying capacity. But it's very expensive to colonize new worlds and to build new ships, 
+ so it can be quite a challenge to get a flourishing economy going. In typical games, you're not 
+ likely to have more than a few colonies and a half-dozen starships. This smaller scale means there's 
+ more focus on what ships and planets you do have, as well as less micromanagement overall.     
+       An interesting tactical combat system is on the highlights.    
+
+  The game's effective automation makes it quite easy to focus on just high-level strategy. Give 
+ starships individual commands or fleet commands, and they'll efficiently navigate and engage in 
+ combat without your having to watch over every move. As mentioned, the game pauses at major events -- an 
+ impending battle, empty build queue, research completion, plus a few others -- so you'll generally 
+ feel well in control of the situation. Even when presented with a series of choices, the automation 
+ usually highlights the one it would pick by default -- a small detail but one that streamlines simple 
+ tasks, like choosing the nearest system for a scout's next exploration mission. At first, watching 
+ the competent AI manage your empire in real time is a good way to learn what works, but it is possible 
+ to turn off multiple automation options.   
+
+  Ship combat uses a well-developed tactical system and is one part of the game you may well want 
+ to handle manually. Ships gain experience gradually with each engagement, and with experience comes 
+ additional tactical maneuvers. At first, ships have the ability to only thrust forward or backward 
+ and to rotate, but there's a wide variety of sweeping turns, strafes, and reverse twists that can 
+ be unlocked in time -- or perhaps with a discovered artifact. A fast, experienced ship really can 
+ defeat an otherwise superior enemy with skillful maneuvering -- and that's one gauge of success for 
+ any game's tactical combat. The rather weak sentinels that guard artifacts on most worlds provide 
+ one method to gain experience early on, and later on, pirates make for another target to keep your 
+ ships busy in times of peace. These early random battles are repetitious enough to blindly hand 
+ off to the competent computer control, but later on, it can be important to at least watch battles 
+ to see how your ship technologies are faring against other species' ships.    
+
+ Researching technologies and configuring ships accordingly is a central part of the game. There 
+ are eight weapon families -- half short-range, half long-range -- to research, but research costs go 
+ up dramatically with each new family, which encourages specialization. However, there are defenses 
+ for each weapon type, including point-defense weapons, armor, and shields. So there's some incentive 
+ to adjust your ship configurations to match up against enemy ships. Artifacts discovered early 
+ in the game also come into play by allowing an empire to move from one of the four technology ages 
+ to the next -- but only when 15 techs have been researched in the current age.           The computer 
+ AI unfortunately doesn't pose a serious challenge.    
+
+  Unfortunately, the technologies don't have much personality. The research screen is a pretty stripped-down 
+ affair, with just a color-coded list of techs you can research and a detail screen with some additional 
+ information. To get a good breakdown and comparison of weapons' abilities, you have to jump to 
+ the game's separate help file. Although starship design and development is the game's key focus, 
+ it's tough to see what a ship is capable of outside of battle. A screen of ship statistics might 
+ have helped give a better sense of how your ships size up over time, much like how the screen of 
+ graphics comparing empires' finances, population, and such helps gauge overall progress.   
+
+  Starships Unlimited's streamlined mechanics help keep the pacing even and manageable even in 
+ the end game. Even when battles occur simultaneously in multiple systems, it's possible to keep 
+ track of the action in manual combat mode, since the real-time play drops away to reveal an underlying 
+ turn system. Yet playing in real time has the real benefit of keeping the game moving along more 
+ gradually, and it's definitely possible to finish a game in a small 50-star galaxy in one long 
+ afternoon's sitting. One significant difference between the original shareware release and the 
+ new version is that stars are much farther apart, giving interstellar travel a less trivial feel. 
+ However, the fastest time setting wasn't adjusted to compensate, so there are times when you'll 
+ have to wait for something to happen.   
+
+  The game's most serious problem is the weak computer opponents. The AI just isn't aggressive, which 
+ is a particular problem since early exploration is so important. As a result, AI players often 
+ don't find the artifacts necessary to jump from one technological age to another -- although they 
+ do tend to use heavy-handed espionage to steal them. Even on the medium and high difficulty settings, 
+ the AI just isn't as much of a military threat as you'd expect and is apt to falling behind technologically. 
+ While experienced players can resort to handicaps, this isn't much of a long-term substitute for 
+ a surprising and challenging computer opponent.           There's a lot to like in Starships Unlimited. 
+    
+
+  Starships Unlimited was gussied up for its commercial release with improved 2D graphics, sound 
+ effects, and a musical score. The ship and combat graphics are actually pretty decent, with different 
+ starship looks for each species and ship class. The game's audio is somewhat sparse -- but not noticeably 
+ so -- and the music is reminiscent of a calming planetarium session. The interface itself might be 
+ of more concern to new players, as the buttons along the top of the screen aren't at all intuitively 
+ ordered, but things quickly become clear enough. There are also appropriate keyboard shortcuts 
+ for common tasks -- a small but often overlooked detail. The biggest shortcoming of the new interface 
+ is that the menu boxes aren't movable, and they obscure the galactic map that's used for most planning, 
+ which annoyingly forces you to toggle between interface screens.   
+
+  Starships Unlimited is a game that's as remarkable for its humble shareware beginnings as it is 
+ for its elegant design. The commercial version of Starships Unlimited gives a solid boost to production 
+ values and some solid gameplay tweaks, and it should give a good game more exposure. Even so, the 
+ game is available only through the publisher's Web site and a few online distributors, and it does 
+ come with a $40 price tag even for those who paid the full $25 price for the shareware release. 
+ The current demo of the game is based on the shareware release, but it does give you a good sense 
+ of the core gameplay, which is representative of both versions. It should be of particular interest 
+ to anyone who likes the concept of running a space empire but doesn't like micromanagement that 
+ typical of such games. It's an interesting approach, and one that fans of space empire games may 
+ compare with that of the upcoming giant in the genre, Master of Orion III.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

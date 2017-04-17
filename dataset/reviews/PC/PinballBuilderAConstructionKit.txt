@@ -1,0 +1,73 @@
+-------------------------------------------------
+:::Game Name::: Pinball Builder: A Construction Kit
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/puzzle/pinballbuilderack/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Dec 23, 1996
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.8
+Critic Score: 6.8, 7.1 Review (s)
+User Score: 7.1, 8 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: 21st Century Entertainment
+Developer: Spidersoft
+Genre: Pinball
+Date:     Oct 31, 1996
+
+-------------------------------------------------
+:::Review:::
+It's not often that you run into a PC gaming program that becomes more rewarding and fun the longer 
+ you play it... 
+
+ It's not often that you run into a PC gaming program that becomes more rewarding and fun the longer 
+ you play it, but that's exactly the case with Pinball Builder - provided you're patient enough 
+ to learn the ins and outs of this versatile program.  
+
+ Now, that last sentence isn't meant to imply you can't start enjoying Pinball Builder as soon as 
+ you install it. Nine playable tables (all can be played in Windows or DOS) are included with the 
+ game, so you can try a few rounds to get your creative juices flowing before you get to the heart 
+ of the program: the Workshop.  
+
+ You've got two choices when creating your own table: build one essentially from scratch, or modify 
+ one of the tables that comes with the game. I say "essentially from scratch" because there are 
+ certain design parameters you don't have any control over - flippers, ramps, and side-guards are 
+ already in place. Fortunately, there are 32 table templates to choose from, so finding one that 
+ suits your tastes shouldn't be a problem.  
+
+ Don't care for the background graphics on a table? No problem - import a PCX or BMP image of your 
+ choosing to replace it. Adding a new object or modifying the appearance of an existing one is simple 
+ thanks to the game's Graphics Editor, which lets you crop an existing graphic in the shape of kickers, 
+ bumpers, lamps, and other objects and add it to the program's already extensive object library. 
+ And once an object's been placed on the table you can change its properties (what happens when 
+ you hit it) , from number of points, awards, and sound effects, to mirroring and rotating a graphic. 
+
+ In short, Pinball Builder gives you a lot of tools to work with, and once you fully grasp the mechanics 
+ of the interface you'll appreciate just how broad in scope the options are here. But the program 
+ does have a few quirks. For one, I'm a little puzzled why you can't place ramps, though to be fair 
+ it might be a little tough dealing with an object that's three-dimensional. But I can't figure 
+ out why flippers aren't one of the objects you can place on the table, or why the program wasn't 
+ designed to allow you to modify existing sound effects (or add new ones) .  
+
+ Another problem I encountered was ball speed. With an ATI Mach 64 Pro Turbo PCI video card, the 
+ ball moved at the speed of sound whether I was playing in DOS or Windows, while on an S3 video 
+ card it ran fine in Windows and at 320x200 in DOS but accelerated to unplayable speeds as I increased 
+ the DOS resolution. (21st Century Entertainment's Technical Support team is aware of the ATI Mach 
+ 64 problem and is currently working on a patch.)  
+
+ Those gripes are relatively minor, however, compared to what Pinball Builder has to offer. Even 
+ if you never create a table, you can still enjoy new challenges by loading tables created by other, 
+ more industrious owners of Pinball Builder. But a word of warning: Things can get a little sluggish 
+ if your system only meets the game's minimum system requirements. Your best bet is to download 
+ the demo and see how well it runs on your machine before spending any money - that's what demos 
+ are for, right?    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

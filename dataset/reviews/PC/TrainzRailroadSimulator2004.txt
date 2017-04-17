@@ -1,0 +1,209 @@
+-------------------------------------------------
+:::Game Name::: Trainz Railroad Simulator 2004
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/trainz2004/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Dec 23, 2003
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.9
+Critic Score: 6.8, 11 Review (s)
+User Score: 8.0, 175 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Oteeva
+Developer: Auran
+Genre: Train Sim
+Date:     Nov 2, 2003 &raquo;  
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+Trainz 2004 could have used more polish and improvement in some areas, but overall it's a welcome 
+ addition to the growing Trainz franchise. 
+
+  When Trainz was released in 2002, it was a hit among railroad enthusiasts. Half simulation and 
+ half creativity tool, Trainz let you build the virtual railroads of your dreams with a very user-friendly 
+ set of editing tools. Then you could ride the rails across your newly created routes or those created 
+ by other fans. For all of Trainz's strengths, the program was limited in many ways. The focus tended 
+ to be more on simulating model railroading than simulating real-world railroading, at least until 
+ ambitious fans learned how to push the program's boundaries. There was no easy way to simulate 
+ real railroad operations; trackside industries didn't actually produce anything; and there were 
+ no steam engines, among other flaws. With Trainz Railroad Simulator 2004, fans can start checking 
+ items off of their Trainz wish lists. This new version incorporates features from patches to the 
+ original Trainz while adding major new features, like steam engines and dynamic railroad industries. 
+ Trainz 2004 could have used more polish and improvement in some areas, but overall it's a welcome 
+ addition to the growing Trainz franchise.  
+
+          Stoking the fire on one of the new steam locomotives.     
+
+  As far as the basics go, 
+ Trainz 2004 is quite like its predecessor, which is definitely a good thing. It's a modular system 
+ with a few basic components. The Surveyor module lets you create railroad routes, replete with 
+ detailed scenery and operating switches and signals. The Driver module lets you drive across the 
+ routes. The Railyard module lets you view all your cars and engines. In Railyard, you see that 
+ developer Auran has addressed one of the biggest flaws of the original Trainz. Now you get steam 
+ engines -- and some glorious ones at that. Along with diesel and electric engines from all over the 
+ world (not to mention many kinds of railroad cars) , Trainz 2004 includes steam locomotives like 
+ the famed Flying Scotsman and the massive Union Pacific Big Boy. Some relative obscurities, like 
+ an Italian engine from the 1920s, make appearances too.  
+
+  While the new steam locomotives are a cause for rejoicing, you only get a small handful of them. 
+ Then again, what you don't find in the game, you should be able to find online soon enough. Auran's 
+ "Download Station" hosts over 15,000 free user-created locomotives, routes, scenery objects, and 
+ other items for the various Trainz programs, with new items appearing all the time. (Many items 
+ created and properly configured for the original Trainz should work with the 2004 version, too.) 
+
+  Trainz 2004's Driver module offers many of the same basic features as before. Here you drive trains 
+ by using a simple model railroad-style controller or more complex controls and physics that are 
+ modeled after the real thing. You can view the action from multiple angles: a 360-degree interior 
+ cab view, dramatic tracking shots, a dynamic external view linked to specific engines or cars, 
+ and now -- prayers have been answered -- a true free-roaming view that lets you skip all across a route. 
+ Along with the trackside views, a map mode lets you watch and control the overall action from on 
+ high, though it can sometimes be hard to read the small station and industry labels easily.  
+
+ 
+          Coal pours into hopper cars at an interactive mine.     
+
+  While many of the fundamentals still apply in Trainz 2004, there are some major differences in 
+ the Driver mode. In the past, you set up a Driver session by selecting a route, then creating and 
+ placing trains on it, choosing the weather, and so forth, all from within the Driver module. It 
+ was easy and straightforward. Now you have to choose from ready-made sessions where everything 
+ is preset for you. Otherwise, you have to go into the Surveyor module, place trains, add or edit 
+ a series of little rule scripts, and then save it all as a new session before playing. This makes 
+ things more time-consuming and complicated than before, so the new system might be a turn-off to 
+ casual players who just want to throw a train together, set the weather, and ride the rails with 
+ ease.  
+
+  Still, sessions can now offer something that makes Trainz 2004 far superior to its predecessor 
+ in one regard. Now, certain interactive industries create waybills detailing their commodity requirements, 
+ and it's up to you to keep all the industries working by shipping goods to and fro. For example, 
+ with one train you'll pick up fuel at a refinery and unload it at a mine. Meanwhile, another train 
+ will pick up coal from the mine and drop it off at a power plant, which, in turn, keeps other industries 
+ running. There's no support for interactive passenger service yet, though Auran says a free patch 
+ with these features should be out in the near future.     
+
+  Depending on how a session has been set up, you might get AI drivers that you can assign to trains. 
+ You can then actually issue strings of orders from a branching menu system. For example, you can 
+ tell an AI driver to pick up certain commodities at certain industries. This system is straightforward 
+ and works pretty well. AI trains seem to avoid each other and execute their duties competently, 
+ although you might need to step in to some degree, depending on the number of trains and the complexity 
+ of the layout. If you want, you can always take over for an AI driver, and you can control a train 
+ directly too. You can also save your sessions to pick up where you left off.  
+
+          You can now issue orders to AI drivers     
+
+  The sessions are relatively open-ended, 
+ but you also get nine scripted, focused scenarios (a feature introduced in a patch to the original 
+ Trainz) that score you on how well you complete specific goals. These play out on a number of interesting 
+ routes and might require you to keep to a tight schedule as you test new safety equipment, for 
+ example. While these scenarios can be fun, it's a shame more of them aren't included. You can create 
+ your own scenarios, but here Trainz 2004 derails. Creating layouts with all the included buildings, 
+ bridges, and so forth is easy enough, but to move beyond that to create truly custom content, like 
+ a new scenario or a new locomotive, you'll likely have to master a detailed scripting language 
+ or a third-party 3D modeling and paint program.  
+
+  Along with Railyard and Driver, the Surveyor layout-creation module boasts some new features. For 
+ example, you now place "consists" (engines and groups of cars) on a route directly from this module 
+ as part of session creation, and you can set commodity input/output levels for certain industries. 
+ Overall, Surveyor remains a wonderfully user-friendly tool that lets you quickly shape terrain, 
+ color it, lay track, place buildings and other scenery, and more. You should be able to hammer 
+ out a small, nice-looking layout in a few hours. With more time and effort, you can create a huge 
+ railroad empire with about as much detail as you want. Trainz 2004 offers dozens of new scenery 
+ items to fire your imagination, too.  
+
+  The scenes you create can be a bit disappointing visually, though. If ever a game's presentation 
+ earned the "mixed bag" clich, Trainz 2004 is it. The graphics show little significant improvement 
+ over the original Trainz, which means they still look very pleasant -- to be sure -- but they also 
+ seem dated. Lighting is bland, and shadows look unconvincing. Some textures look simplistic or 
+ downright ugly. A few new features, like animated water,  do  enhance the game, though. In fact, 
+ new animations are one of the best features of Trainz 2004. Industries now come to life with coal 
+ pouring down from mine chutes into hopper cars, forklifts moving logs at a sawmill, and more. Sadly, 
+ the interface that once looked so clean, attractive, and professional now looks a bit clumsy or 
+ ugly in places, such as the slightly pixelated new main control interface of the Driver module. 
+ There doesn't seem to have been any real attempt made to meld all the new interface elements with 
+ the old ones, in terms of look and feel, so it can almost seem like you're playing two games at 
+ once.  
+
+          Impressive vistas abound, even if the graphics don't always do them justice.     
+
+  
+ The audio is detailed and fairly convincing. Not only will you hear sounds like hissing brakes 
+ or couplers clanking as slack is taken out of trains when they get under way, but you'll also hear 
+ birds twittering in the woods or the warning "beep beep beep" of a dump truck that's backing up 
+ at a mine. On the other hand, some sound files end with too obvious a cutoff or suffer from static 
+ clicks. Furthermore, it's odd to always hear AI drivers speaking to you over the radio in English, 
+ even if the route is supposed to be set in the Alps.  
+
+  Trainz 2004 could use improvement and added polish in other areas as well. You only get a brief 
+ printed manual and no printed list of keyboard commands, so you'll need to turn to a bunch of PDF 
+ manuals for most of your information. The game is also marred by long load times. Along with suffering 
+ from a number of bugs and typos, the program crashed our computer during installation. You also 
+ have to wonder why no online capability is included. It would have been great fun to run simulated 
+ operations with multiple players handling different trains and dispatching to mimic the sorts of 
+ sessions you can find at model railroad clubs. Still, the new features in Trainz Railroad Simulator 
+ 2004 are most welcome and make it a more realistic sim, in addition to making it more like a game. 
+ With the original Trainz, some people said, "Well, that's nice, but what are you supposed to do 
+ when you're done riding in circles?" Now these people have an answer: You can create a route, enjoy 
+ riding around on it, and with the new interactive industries and AI drivers, you can really make 
+ the train  do  something.     
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: Jason210
+Rating: 7.7
+Date: Feb 24, 2006 1:53 am PT
+Review:  Trainz.
+  
+  Basically a train simulator that allows you to participate in complex scenarios based on passenger 
+ services or complex industrial operations. You can also create good scenarios with then inbuilt, 
+ eays-to-use editor; or go for more complex script writing.
+  
+  If you like trains and railways, then this is like the ulitmate model trainset, and can give you 
+ hours of fun. You can create anything you want with it, such as historical routes, or your favourite 
+ branch line, then drive authentic trains along these routes. Good physics simulation means that 
+ driving a train is not as easy as it sounds. It takes time to build up speed and time to stop. 
+ Sharp curves in the track can cause derailment if you're going to fast, and if you don't brake 
+ early enough then you can easily overshoot a red signal. It takes time to master each train, weight 
+ and the number of carriages being the determining factors. The controls of the engines are quite 
+ accurate, although the controls of the steam engines slightly dumbed down, and are not as comprehensive 
+ as those found in Microsoft Train Simulator. But it is a very good simulator in the truest sense, 
+ and therefore even has training value. 
+  
+  The simulator does not have any multiplayer functionality, but I don't think this is a problem 
+ since trains operate to strict programmes and schedules, with little room for creative interaction. 
+ The best part of the game, in terms of gameplay, are the scenarios, which allow you to participate 
+ in pre-programmed mission-like operations, such as operating a short route in a busy period. There 
+ are only a few of these scenarios, and the sim could definitely have benefited from more.
+  
+  It has to be said that graphics are not one of this games strengths. They were only average 
+ when the game was released back in 2004, and now, in 2006, they look dated. In particular the textures 
+ are wishy-washy and the water effects are weak.
+  
+  Sound is better. The engine sound is good, and there is a good variety of 3D sound sources in the 
+ game. I like the noise the wheels make on the tracks when the train is turning. It sounds very 
+ authentic. 
+  
+  In terms of value, it's worth getting if you're a train or simulator enthusiast, but otherwise 
+ you might find it gets boring quite quickly. If it had pretty graphics to look at, it might have 
+ had addtional value; but as it is now it can seem a bit pointless to the non-enthusiast. 
+  
+  One of the things that I don't like about this game is the way the game contols the user in 
+ the downloading and uploading of add-ons. Messing around with add-ons can be great fun, but this 
+ game forces you to download and upload content to Auran's website, and will not allow you to download 
+ more 100MB per month without paying. I think this sucks big time. A single scenario, with all the 
+ dependant files, is likely to be over 100MB; therefore you cannot download it unless you subscribe. 
+ The lack of scenarios in the original game mean that you're likely to want to download more quite 
+ soon, which means paying for it, which to me feels like I'm paying Auran for someone's freeware. 
+ The problem with this is that too many games are charging these days. Look at Warcraft. Four or 
+ five of these subscriptions (Gamespot included) and you're suddenly parting with a lot of cash 
+ per month, which means your limited as to what games you can play. 
+::::::
+
+-------------------------------------------------

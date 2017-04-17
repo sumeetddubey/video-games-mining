@@ -1,0 +1,257 @@
+-------------------------------------------------
+:::Game Name::: SuperPower
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/superpower/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Mar 29, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 4.2
+Critic Score: 3.8, 5 Review (s)
+User Score: 6.0, 173 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: DreamCatcher Interactive
+Developer: GolemLabs
+Genre: Wargame
+Date:     Mar 28, 2002
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+SuperPower will please neither hard-core wargamers nor those just looking for an enjoyable way to 
+ conquer the world. 
+
+ Global geopolitical simulators have a pretty spotty history as strategy games. Chris Crawford's 
+ effort in 1985 with Balance of Power was notable for both its ambition and its sterility as a game. 
+ 1993's Shadow President from D. C. True was more detailed and a better game, but it still suffered 
+ from basic playability issues. While it follows squarely in the tradition of the aforementioned 
+ games, DreamCatcher Interactive's SuperPower allows you to actually watch the missile trails and 
+ points of impact when there is a thermonuclear war, which is something the preceding two games 
+ didn't offer. Unfortunately, that's about the only thing it has going for it.           Nuclear 
+ exchanges are played out on the world map.    
+
+  SuperPower bills itself as both a wargame and a geopolitical simulator. The manual makes much of 
+ the fact that the data in the game is as accurate as possible. The game doesn't lack for ambition -- it 
+ allows you to take control of any one of 140 nations in the year 1997 and make decisions regarding 
+ its political, military, and socioeconomic development. To do this, you allocate funds in four 
+ areas -- demography, politics, military, and economy -- and make decisions on weapons development and 
+ perform espionage and covert operations. On the surface, it seems like there are an overwhelming 
+ number of options. Extensive play, however, reveals that the game is not as deep as it seems.  
+
+  SuperPower is played in one-week turns. During each turn, you can allocate your funds, purchase 
+ or sell resources (energy, ore, cereal, meat, and wealth) , raise or lower taxes, direct weapons 
+ research, and make requests of foreign governments. You can, of course, also invade other countries. 
+ You don't represent a specific leader or political party, so there are no elections to worry about 
+ if you're a democracy. Your government stability actually refers to the stability of the system 
+ itself, so if a democracy falls, the country is thrown into anarchy. If the country in question 
+ is the one you're playing, the game ends.   
+
+  There are no difficulty levels in the game, as your chosen objectives determine how hard it will 
+ be to win. Objectives can be stay in power, balance resources, eliminate armed rebels, and conquer 
+ the world. Only staying in power is mandatory, although you can add any or all of the other three. 
+ Obviously, conquering the world will be harder as Albania than as the United States, so you can 
+ adjust your level of difficulty that way. Norway has no armed rebels, so eliminating them is fairly 
+ easy. And so on.   
+
+  Each action you take in SuperPower has numerous effects. For example, raising industrial taxes 
+ increases your available money, but lowers your production capacity, resources, urbanization level, 
+ and population support. Buying ore from another nation increases your production, population support, 
+ government stability, and urbanization level, and it improves your relations with the country you 
+ bought the ore from. It also costs you money.   
+
+  Notable by its absence is any kind of simulation of world financial markets, and some of the game's 
+ apparent assumptions about the importance of corporations and their influence feel quite dated. 
+ There are also some amusing socialist biases built into the game mechanics, such as the fact that 
+ donating to an international monetary fund automatically increases your population support, while 
+ lowering a country's contribution lowers it.           Conventional forces move from point to point. 
+    
+
+  As a real-world simulator, the game falls completely flat. In one game we played as Finland, we 
+ invaded Sweden on the first turn (January 1, 1997) and conquered that country easily. For the rest 
+ of the game, Sweden was run as a conquered nation, with hardly a peep from the world at large (except 
+ Belgium, which broke off relations) . While public support for the Finnish government dropped, it 
+ dropped more when Finnish taxes were raised by 10 percent. A few months later, a global war broke 
+ out when Vietnam invaded Mexico.   
+
+  The game comes with several scenarios, one of which gives you (as the United Kingdom) the task 
+ of destabilizing the Polish government because of a trade dispute. After invading Warsaw and being 
+ repulsed, the UK was invaded by Bulgaria. And Belgium as well, which seems to act as sort of a 
+ global policeman. Shortly thereafter, Russia invaded Japan, and France invaded Germany. It seems 
+ pretty clear that there are some problems with the way the game handles alliances.    
+
+ While these may have been extreme examples brought on by unusual events, playing in a more conservative 
+ fashion yields equally bizarre results. In one game as Iraq, we ramped up Iraqi weapons research, 
+ tried to keep a low diplomatic profile, and worked to covertly destabilize neighboring governments, 
+ just as in real life. After several months of apparently normal world events, Bangladesh was invaded. 
+ By Austria.           The tactical combat system is essentially unplayable.    
+
+  This could all be excused if SuperPower worked well as a traditional global conquest game, with 
+ the added veneer of realism provided by being able to sign cultural exchange agreements with Ghana. 
+ Unfortunately, it doesn't. Approximately 60 percent of the game involves simply hitting the "Next 
+ Turn" button, because once your country is running smoothly and your research decisions are made, 
+ there just isn't that much to do. The simpleminded combat ensures that global conquest will either 
+ be sterile or tedious, which in turn guarantees that SuperPower isn't compelling as an empire-building 
+ game. Much of the game seems geared toward military conflict. The weapon research options are extremely 
+ detailed, with no fewer than nine separate areas available for research in a single system like 
+ the main battle tank, including separate ratings for armor protection again conventional and NBC 
+ (nuclear/biological/chemical) weapons, sensor ratings, weapon damage, range, precision ratings, 
+ engine speed, training level, and communications. There is even a generation level for weapon systems, 
+ reflecting an overall development of newer and better types. You can also purchase and sell military 
+ technology. The manual does a good job of describing the strengths and weaknesses of each type 
+ of unit, but less so with the actual effects of the different research components. Still, this 
+ could easily be picked up through experience once units are in combat. You would think so, anyway. 
+   
+
+  The actual combat system is severely flawed. While the game boasts that it has the most comprehensive 
+ weapons database seen in a computer game, consisting of more than 1,400 unique systems, the way 
+ these weapons are actually used in combat is laughable. Strategic movement is automatic, without 
+ any regard for whether the country in question can even get its units to that particular region. 
+ This allows even small Third World nations with no significant navy or air force to conduct massive 
+ transoceanic invasions. The operational system has been abstracted heavily so that movement is 
+ simply point-to-point, from anywhere in the world to anywhere else. To conquer a nation you only 
+ need to control the map point that is its capital (no matter how many cities or bases it has) , 
+ making it pointless to do anything but simply send your forces from wherever they are straight 
+ to that map point.   
+
+  The tactical engine is equally flawed. While the military manifest conveniently lists your forces 
+ by unit type, these categories carry over into tactical combat, so you'll find your units deployed 
+ on the battlefield as 70 Challengers, 11,000 infantry, nine Harriers, and so on. No provision is 
+ made for actual military formations (such as armored brigades) , let alone command and control of 
+ these formations. You can group units together, split them up, and give orders to move and engage, 
+ but these mechanisms are so cumbersome (due to the interface) and so nonsensical (due to being 
+ divorced from reality) that it's much easier (and probably more "realistic") to let the game auto-resolve 
+ all combat instead of using the pauseable real-time system. This, in turn, makes the fact that 
+ combat is resolved on a supposedly accurate satellite map of the actual terrain completely irrelevant. 
+ Which is no loss, since the terrain seems to have little effect and is arbitrarily chosen due to 
+ the abstraction of the point-to-point movement system.           News events appear after each 
+ turn, but not all of them are meaningful.    
+
+  There are a number of interface issues that make SuperPower even more problematic -- the lack of 
+ hotkeys being a notable one -- but with all the game's other problems, it's not worth going through 
+ them in detail. Something as simple as selling multiple commodities to different nations requires 
+ far more mouse clicks than necessary, and the combat interface is nearly hopeless. To top it all 
+ off, the game has some severe technical issues -- we experienced frequent crashes to the desktop 
+ on two different test machines running different operating systems. As a sort of warning about 
+ the game's poor QA, two of the five tutorials have replicable terminal bugs that prevent you from 
+ completing them, forcing you to return to the game's main menu screen. SuperPower's graphics are 
+ functional, but no more, and the game actually encourages you to replace the rudimentary music 
+ with your own MP3s by integrating an MP3 player into the interface.   
+
+  SuperPower will please neither hard-core wargamers nor those just looking for an enjoyable way 
+ to conquer the world. It's an idea that has been tried before and done better, and for gamers who 
+ really want to play a geopolitical simulator, it would be worth the effort to track down a copy 
+ of Shadow President and a machine that can run it reliably in MS-DOS and play that instead. The 
+ only drawback there is that you won't see the missiles.    
+-------------------------------------------------
+:::User Reviews::: (6 Reviews)
+::::::
+UserName: firedude417
+Rating: 8.9
+Date: May 24, 2007 10:26 am PT
+Review:  when i first got this game i didn't like it, i was a gamer who just wanted blood and gore in my 
+ games but later as i played it i began to like the strategic outlook the game has (Ex: it takes 
+ a year and a half to build a aircraft carrier, which in real life most aircraft carriers take up 
+ to 2 years to build, and that having 1,000 of the most elite soldiers won't guarantee victory over 
+ 100,000 poorly trained soldiers)
+  
+  if you looking for blood, gore, and graphics don't buy this game but if your looking for a game 
+ all about strategy this is your game
+  
+  also simple note, it's impossible in this game to take over the world in one year.... so don't 
+ waste your time 
+::::::
+
+::::::
+UserName: hypnotoad8128
+Rating: 3.5
+Date: Mar 8, 2007 3:59 am PT
+Review:  Oh dear, something went wrong here. Geopolitical sims are few and far between. Superpower offered 
+ hope to players of the classic game Shadow President that something new was on the horizon, sadly 
+ though we are still waiting.
+  
+  Sadly, Superpower is bogged down with the button clicking curse, it's layout is complicated and 
+ AI mechanics are shaky at the best of times and the battles are a joke. Even though you're supposed 
+ to be in control of a country, you don't feel in control of anything, most everything is automatic. 
+ That doesn't make a good game.
+  
+  Fans of Shadow President, like myself will still need to play that, because this doesn't come close. 
+ Thank God for DOSBox! 
+::::::
+
+::::::
+UserName: mm_s0ldier
+Rating: 5.9
+Date: Jan 13, 2006 7:45 pm PT
+Review:  Okay. I, ve been playing this game for a while and it may not have the best graphic or the best 
+ sounds but the concept behind it is great for those strategist types like me. So, i think its worth 
+ it. The learning curve for this game is alot longer than most games. It gets into macroeconomy 
+ and political and military concepts that are rare in its genre of gaming. Ive spent long nights 
+ trying to bring my humble little third-world country to superpower status. And once you get the 
+ patches to iron out all the bugs its truely an good old game. 
+  -Happy Gaming
+  --Yours truely,
+  ---MM_S0ldier 
+::::::
+
+::::::
+UserName: stegma
+Rating: 5.2
+Date: Sep 30, 2005 12:36 am PT
+Review:  The game is extremely hard to learnd and in the end I didn't play it very long. The game simply 
+ didn't grow on me very much like others do.
+  
+  Games such as this can interest me a lot so I wont just go out and bash it but it certainly wanst 
+ the most fun game I have ever played. Boring yes, but can deffinetly be fun for some. In a way 
+ its like Risk accept a million times more complicated. Personaly I didnt play it long enough to 
+ find it easy - lets just put it that way. 
+  
+  Your goal is to maintain power of your country and after that it can be completely up to you. Take 
+ over countries/world, set up trades, build an economy, build a military and play politics.
+  
+  Graphic wise it is mainly just a map. Combat is prety plain - you set up the units on the actual 
+ map and it playes the battle out for you. There are no visual affects realy.
+  
+  Personaly I would not recomend buying it and check out some other titles. If you like simulators 
+ - try the new X3- Reunion (space) simulator. Great battles, trade, ships and a lot of fun. (comming 
+ out October2005) 
+::::::
+
+::::::
+UserName: patente101
+Rating: 3.9
+Date: Mar 4, 2005 1:43 pm PT
+Review:  I really wanted to like this game. I played it once, didn't liked it. Played it twice, found it 
+ boring. Played it for a third time, fell snoozing on my PC. My friend told me it was good, best 
+ strategy game ever, that it's a must-have for anyone who likes Risk.
+  Well, Risk is one of my favorite board game, but I hated Superpower.
+  The gameplay could have 
+ been good, but the tons of menus make it difficult to understand, and that's the main reason I 
+ stopped playing. The graphics are mediocre, the sound effects hardly make the job, but since there's 
+ no music, I gave it a 3.
+  You can replay Superpower in skirmish, but I doubt you will...
+  
+  Finally, this is a bad game. If you like it, you're an exceptional exception... 
+::::::
+
+::::::
+UserName: Qew420
+Rating: 7.9
+Date: Sep 18, 2004 8:06 pm PT
+Review:  I love the game concept and the in depth gameplay associated with it. Too many bugs makes the game 
+ very frustrating to play. The combat just plain sucks, good thing they put in the simulate battle 
+ option. On the plus side, the game is revolutionary for geo-politcal strategy games considering 
+ the level of detail they put in the game and all the different options for players. And there is 
+ nothing like nuking France. Can Rwanda really take over the world? It is a possiblity in this game, 
+ it all depends on how much time you put into the game. You definitely have to be patient to play 
+ a geapolitcal simulation like this. All in all I really like this game and I can't wait for the 
+ sequel. 
+::::::
+
+-------------------------------------------------

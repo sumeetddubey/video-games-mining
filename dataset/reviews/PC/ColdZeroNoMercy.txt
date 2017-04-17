@@ -1,0 +1,359 @@
+-------------------------------------------------
+:::Game Name::: Cold Zero: No Mercy
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/action/coldzero/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Sep  2, 2003
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.3
+Critic Score: 6.3, 22 Review (s)
+User Score: 7.1, 102 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Encore Software, Inc.
+Developer: JoWood
+Genre: Modern Shooter
+Date:     Aug 22, 2003
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+The combination of elements from several different genres -- action, strategy, and role-playing -- works 
+ to keep things interesting in Cold Zero. 
+
+  An intriguing blend of action, real-time strategy, and role-playing elements, JoWood's isometric 
+ third-person shooter Cold Zero: No Mercy superficially resembles games like X-COM and Jagged Alliance 
+ and is an often trigger-happy journey through the trials and tribulations of a hired mercenary. 
+ The game is violent, challenging, alternately thoughtful and fast-paced, and at times highly addictive. 
+ However, it's hampered by problematic camera controls and some other shortcomings, as well as action 
+ that can be overly difficult and repetitive. But if you don't mind the occasional frustration, 
+ and you relish the thought of wasting all sorts of baddies from an overhead vantage point while 
+ also taking time to perform some RPG-like day-to-day chores of a soldier of fortune, Cold Zero 
+ may be just the thing for you.  
+
+          Despite its emphasis on strategy, Cold Zero delivers a very high body count.     
+
+  
+ In Cold Zero, you direct the actions of one man, John McAffrey, an ex-cop expelled from the force 
+ for mistakenly shooting an innocent civilian and now in charge of his own private detective agency. 
+ McAffrey's new business is suffering mightily from his past indiscretion, and he soon finds himself 
+ flat-out broke and forced into working for a purported Mafia kingpin. He does not fight the law -- in 
+ fact, McAffrey begins the game as an essentially decent sort who agrees to his current gig only 
+ under the threat of violence and because he believes he's battling other hoods. The game kicks 
+ off in McAffrey's new digs, a sorry tenement in an odd little neighborhood surrounded by gun shops, 
+ target ranges, bars, and pawnbrokers.  
+
+  You'll navigate each level primarily using the mouse, pointing and clicking to determine the direction 
+ and distance you want to move. Hold the Ctrl key down while clicking behind or on either side of 
+ McAffrey and you'll shuffle backward or perform strafing-type lateral maneuvers. However, you can't 
+ freely climb or descend. If you want to move vertically, the obstacle in question must be determined 
+ by the game to be scalable. If it is, the icon will deviate from its original form to show you 
+ that climbing or descending is possible.  
+
+  One of the real keys to the game is stealth. In Cold Zero, your enemies react intelligently to 
+ your maneuvers, jumping into battle mode when you venture into eyeshot or even when you make an 
+ inadvertent noise. To help combat their awareness, you can propel yourself in one of four different 
+ modes. If speed is of the essence, you can run. You can also walk, walk  cautiously , and sneak -- all 
+ of which are selectable via icons in the omnipresent control panel at the base of the screen. If 
+ you select the latter, you'll hunker down near the ground and shuffle very quietly and oh-so-slowly 
+ from place to place. Approach someone from behind while in this position, and there's a good chance 
+ you'll get within inches and quite possibly reel off enough shots to kill him before he's even 
+ had a chance to move.  
+
+  What you won't want to do when nearing an enemy is swap or reload your weapon -- both actions produce 
+ enough noise to alert everyone in the vicinity of your presence. A common practice is to reload 
+ or rearm well away from the action, sneak up for a few good shots, then run away quickly to hide 
+ as other thugs hear and swarm toward the gunfire. Another viable option is to leave your pistols 
+ and rifles and submachine guns holstered and instead make use of your silent weapons -- namely, your 
+ own hard-knuckled fist, assorted knives and razors, and perhaps even a baseball bat. Of the hundred-or-so 
+ real-world armaments you can either purchase at the gun shop, snatch from semisecret stashes, or 
+ remove from the prone bodies of your victims, several are virtually noiseless.  
+
+          Shoot someone who begs to be spared, and you may get blown to fragments by a stash of grenades. 
+     
+
+  Unlike most first-person action games, Cold Zero limits the number of weapons and other inventory 
+ items you can carry. You can still carry an unrealistically large number, to be sure, and you can 
+ also pack useful objects, such as silencers and telescopic sights and defensive paraphernalia like 
+ instantly healing medicine kits, bullet-proof vests, various keys, and much more. You may even 
+ find a fine gold watch or pornographic magazine to sell later at the local pawnshop. In any case, 
+ the more you haul around, the slower you'll move and the less sneaking or running you can do. And 
+ if you horde a ton of stuff, especially when your health is low, you won't be able to move at all. 
+
+  Fortunately for those who like to travel light, the game allows you to learn as you play. By accomplishing 
+ certain tasks or successfully negotiating certain areas, you're awarded a number of skill points, 
+ which you can then distribute among several key categories. If, for example, you're quickly bored 
+ by searching for elusive door keys, you can apply your skill points toward a better understanding 
+ of technology. Soon, you'll be opening locked doors through sheer knowledge and skill. Or you can 
+ allocate those points toward your overall strength and thus become so powerful that you can win 
+ fistfights with just a couple of blows.     
+
+  One other very important facet is Cold Zero's custom controllable camera, manipulated by pressing 
+ down on the mousewheel or center mouse button and moving the mouse. Although by default it follows 
+ you through your mission, you can also instruct it to pan independently throughout a level to get 
+ a better look at things while you hide stealthily in the shadows. You can turn it and rotate it 
+ and move it about quite freely.  
+
+          At many points in Cold Zero, you'll wish for a bit more liberty in the camera options. 
+     
+
+  However, it doesn't turn automatically when you turn, nor will it automatically zoom in when it 
+ needs to, pan out where appropriate, or ever permit even a quasi-first-person view. Perhaps one 
+ of the most poorly implemented concepts in the game, the Cold Zero camera consistently requires 
+ manual control. You'll often find yourself struggling to spin or redirect the camera merely to 
+ get a halfway decent view of your adversary among all the scenery and foliage that keeps popping 
+ up. All the while, you're also trying to target and eliminate the enemy combatant, reload and rearm, 
+ or move one way or another. Ultimately, you'll find yourself dead more often than you should be. 
+ Indeed, few games kill off the central character so regularly.  
+
+  It is fortunate, then, that on-the-fly saves are permitted. Even so, you're forced to tolerate 
+ several convoluted menu screens and a half-minute or so of reload whenever you do die and begin 
+ the level again or jump back to your last save. Moreover, when you do restart a level, you must 
+ manually fast-forward through the accompanying cutscenes, a process that can last up to another 
+ half-minute. Such downtime is not a good thing, especially when you'll endure it so often.  
+
+  Despite its strategic premise and the wide variety of RPG-like actions you must enact to work 
+ your way through the game, Cold Zero is most often a monument to gunplay. Most levels are festooned 
+ with enemies, in much the same manner as a traditional first-person shooter. You'll attempt to 
+ talk your way out of situations, but usually to no avail. Even in your hometown before you travel 
+ to the many unique destinations Cold Zero offers, you'll scurry about trying to yap to anyone who 
+ might listen, doing your best to see beyond the kill-or-be-killed philosophy. It most often won't 
+ work.  
+
+  Furthermore, you'll soon realize that each of the 16 levels, despite fresh visuals and the game's 
+ many nonshooting moments, ultimately plays out in a similar fashion to the last. That sense of 
+ dj vu will come over you when you enter a new area and are once again greeted by two 
+ or three dozen red blips on your overhead map, each symbolizing a bad guy. Some are dressed one 
+ way; others are dressed completely differently. They'll often speak in foreign tongues. And the 
+ mission objectives vary from hostage rescues to item retrieval to bomb defusing. Sometimes you'll 
+ even need to throw a victim's body over your shoulder and place it in a nearby crate so it doesn't 
+ attract the attention of his cronies. But in the end, you may feel like you've been down the same 
+ road one too many times, once again mowing down a gaggle of baddies in much the same methodical 
+ manner you've done so many times before. This sense of repetition permeates Cold Zero, even as 
+ the plot develops and you come to realize what exactly Cold Zero is.  
+
+  There are other concerns. Though the game stresses the operational and ordnance distinctions between 
+ weapons and the need to keep them in good order -- by clicking the technology icon and placing the 
+ cursor on the gun you need fixed -- targeting seems erratic. Surely due in part to the fact that 
+ you're constantly shooting from the hip rather than drawing a bead from a first-person view, you 
+ may hit distant targets one moment then miss point-blank opportunities the next.  
+
+  Nor is the AI perfect. Despite their excellent reactionary skills, they'll behave somewhat robotically 
+ when you're not nearby, pacing the same few meters in the same pattern over and over again. If 
+ you use the free-floating camera to scan the level first and learn what they're all doing, you 
+ can slowly and systematically work your way through them, waiting until each one has separated 
+ himself far enough from his buddies that your attack won't draw suspicion. Even so, you will die 
+ frequently, particularly since some of your foes are annoyingly able to shoot through walls and 
+ around corners.  
+
+  And certainly Cold Zero isn't for everyone. Fans of pure action will undoubtedly find some aspects 
+ of the game -- such as those times when McAffrey painstakingly tries to pick a lock or repair a weapon, 
+ or when he sits in an easy chair for a minute or more just to recharge his health -- to be a bit 
+ dull. Conversely, strict strategy gamers may find much of the bang-bang craziness too fast and 
+ furious. And newcomers will certainly come to understand that the game is not a walk in the park. 
+ Even on its "easy" setting, Cold Zero isn't easy.  
+
+  Thankfully, the game's visuals aren't so repetitive. You'll find yourself in a jungle one moment, 
+ a dilapidated mine shaft the next, and a big city soon thereafter. Each environment is attractively 
+ rendered, with believable lighting and tons of detail. The designer, Encore Software, clearly went 
+ beyond the call of duty to render incidental items in secondary areas that you may not ever visit. 
+ It also developed a neat system whereby rooftops and other visual barriers magically evaporate 
+ to allow you an unimpeded view inside. And, if you just want to break stuff, the game obliges by 
+ delivering an array of blow-apart boxes, exploding barrels, and more.  
+
+  Sound is definitely one of Cold Zero's strong suits. The music is especially enjoyable, dynamically 
+ responding to the current situation by swelling up dramatically when things get sticky and lowering 
+ to a peaceful, temperate passage when the going is easy. Sound effects, including the clatter of 
+ dropped weapons and ammo, the whoosh of a windstorm, and the clip-clop of distant footsteps and 
+ voices, emanate from precisely the direction they should. However, voice acting is somewhat suspect. 
+ Most characters are just too over the top, and many are obviously voiced by the same performer. 
+
+          Our anti-hero, John McAffrey, opens a safe and finds a few more items for his already burgeoning 
+ inventory.     
+
+  Multiplayer Cold Zero can support a maximum of 16 competitors via either LAN or the Internet. Though 
+ we were unable to locate any active servers in time for this review, we did set up a small team-based 
+ LAN game and found the action to be quite a bit more fast and furious than during solo play.  
+
+ 
+  Though it's rough around the edges, Cold Zero is nevertheless an adventurous and generally likeable 
+ game. Yes, you'll die way too often. And you'll definitely be forced to constantly rely on quick 
+ saves. Yet the combination of elements from several different genres -- action, strategy, and role-playing -- works 
+ to keep things interesting. When flaws in one are discovered, you always have something else to 
+ fall back on. If you're not a hardcore purist in any of the three genres, and if you can forgive 
+ its imperfections, you'll find that Cold Zero is an involving, gleefully violent game.     
+-------------------------------------------------
+:::User Reviews::: (3 Reviews)
+::::::
+UserName: Azghouls
+Rating: 7.5
+Date: Dec 19, 2008 5:55 am PT
+Review:  Gameplay 8
+  Graphics 7
+  Sounds 6
+  Value 8
+  Tilt 8
+  
+  Im a huge fan of open-ended missions. You know, the ones that even though the story is linear 
+ (A to B) , during the course of these missions, you can do whatever you want, whenever the time; 
+ just randomly waltz through the town, city, Martian landscapes and whatever else and checking out 
+ the scenery whilst carry on the mission at hand. Cold Zero has done exactly that. It delivered 
+ that open-ended mission style game play yet still manages to get the player stay 
+ on track. Sure, it has its bumps however its a good game thats worth checking out.
+ 
+  
+  The story starts as you, being a cop; went against orders from your superiors of hold-fire during 
+ a hostage standoff. Taking that Cold Zero shot resulted in killing the hostage. Going 
+ solo and needed for cash, your ever-forgiving girlfriend located a 'snatch-and-grab the hostage' 
+ case where you happen to succeed only to realise you ticked off the mafia instead. And what's the 
+ best thing to do in this situation? Work for the mafia of course. And this is where you discover 
+ the 'true' intensions of the mafia; locating the cool and soothing drug called 'Cold Zero'.
+  
+  As the saying goes Theres more than one way to skin a cat sums up the 
+ game play style of Cold Zero as you are practically in charge of the assault you wish to participate 
+ (e. g. stealth, all out blazing etc) . That said, take note of the developers reward system as its 
+ one of the best I have ever encountered. The experience you'll accumulate determines the style 
+ of game play you choose. Knock an enemy unconscious will score more experience than killing them 
+ (actually three times more) . Leave the enemy alone (i. e. escaping the area) scores slightly less 
+ than knocking them unconscious. So you can see that it's worth while knocking your opponents out 
+ (and carry their body out of sight) than cold-blooded killing. I personally used this option however 
+ considering the game is 'rough around the edges' I totally maxed out my stats approximately two-thirds 
+ into the game.
+  
+  The locations are interesting enough as you started off at the dockside (with plenty of shadows 
+ to hide into) to airfields to mines to dense jungles. Of course the different maps provided different 
+ ways of tackling the missions yet I thought the premise of the missions can be a little more interesting 
+ (there is so much one can take of locating some documents or saving some sorry a$$ loser) . The 
+ game also boasts some phenomenal amount of weapons equally with phenomenal amounts of ammo types. 
+ However the downer is that all the ammo graphically looks the same so it will be a case of guessing 
+ what ammo belongs to what weapon. And what makes things a little worse is there is no automatic 
+ reloads unless you hit the appropriate key. Another words, don't get caught with your pants down.
+ 
+  
+  The camera angles are at times annoying. Being isometric, you really cannot zoom in too close or 
+ too far and the camera angles are really not much at all (maybe 30 degrees?) and not only that, 
+ there is no 'inverse mouse' option. The upside to all this is that you can always view the entire 
+ map without that 'wall-of-fog' effect.
+  
+  Experience points can be spend on either increasing your personal stats or skills (five in each 
+ category) however as mentioned above, there will be a time where you're totally maxed out all your 
+ stats and collecting experience points thereafter will become a pointless exercise. However this 
+ does not stop the satisfaction of passing the mission with absolutely no alerts!
+  
+  At first I raised a quizzical eye brow about the graphics. Initial glance it comes across visually 
+ unhealthy for a 2003 game. However my 'artistic' wisdom materialised and the graphics really gave 
+ the impression of being like pleasantly penciled sketches. I was quite impressed of the artistic 
+ impressions of the trees, buildings and even roads. Pleasurable water colour effects make the game 
+ escape the 'Top Gun' eighties visuals and into a hybrid 1880s/1980s feel (as strange as it may 
+ seems) coupled with fluent people movements makes it an enjoyable experience.
+  
+  The scores themselves, even though sounds pleasant enough feels like it came straight out of the 
+ movie 'Top Gun' and the voice acting seems a little bland. I swear I could have heard main character 
+ yawning (or maybe it's just him talking) . The overall sound effects were enough to be acknowledged 
+ however it's certainly not the highlights of the game.
+  
+  Depending on the styles of game play dictates the length of the game. For me, the majority of the 
+ game, stealth was my forte and it took me on average two hours per mission and considering there 
+ are fifteen missions overall it took me around the thirty hours mark. However stealth game play, 
+ even though very satisfying will tax your time and eventually does become repetitive, you want 
+ your enemies to eat some bullets. I really couldn't comment on the multiplayer aspects of the game 
+ as 1) being the only player on the server serves little purpose and 2) no one heard of this game. 
+ All I can say is that I was wondering around in some town trying to exit the map (as this was dictated 
+ to me) . As a matter of interest, I managed to exit the map without great difficulty.
+  
+  Overall, Cold Zero is a really satisfying game as it does produce that heart-pounding moments as 
+ it offers different types of game play (e. g. stealth, commando, gun slinger, Rambo style etc) . 
+ The options of managing your own skills places a good emphasis on role-playing however like many 
+ of Jowood's games, a little spicing up can make a game from good to great. 
+  
+  PS: Cold Zero got to change that newspaper article at the beginning and the end of the game. The 
+ headlines are fine however the main content states something about Tiger Woods. Im guessing 
+ maybe the developers are a fan of Tiger Woods. 
+::::::
+
+::::::
+UserName: KingLim
+Rating: 8
+Date: Mar 1, 2007 8:40 am PT
+Review:  I played Cold Zero a few years back and I'm still engrossed in it today. The real reason why CZ 
+ is so addictive to me even though I completed it 3 times already via all the difficulty settings 
+ is because of it's nostalgic and retro style of presentation, right from the isometric (though it's 
+ 3D manipulative) 3rd person shooter genre to the array of weapons that would make even Neo Anderson 
+ from The Matrix jealous. .
+  
+  Though there are a lot of unpolished factors in the game including the dull plot and sometimes 
+ lame mission scenarios, JoWood made up for it by bringing in almost every post-WWII weapon the 
+ world could come up with. This is the winning factor about this game (this aspect reminds me of 
+ Fallout 2 though!) , where the details of the weapons are meticulously installed, from each unique 
+ appearance and sound down to the weight encumbrance and ammunition used, it's like an encyclopedia 
+ software for Guns and Ammo! Wicked!.
+  
+  The replay value sometimes simply comes down to the collectible side of this game, where in one, 
+ I collect all the pistols I can find/buy, and in the other, all the rifles I can scoop up. It's 
+ so silly and downright fun how you can make the best use of this game. Even though these years 
+ we have tons of great shooter games lying around, Cold Zero is my highest replayed game so far. 
+ My only regret is that I took too long to decide to write a review for it to justify what a great 
+ game this is for all those gamers out there who like this genre.
+  
+  KingLim 
+::::::
+
+::::::
+UserName: khatibi22
+Rating: 7.8
+Date: Oct 20, 2006 11:49 am PT
+Review:  In this amusing exciting tactical action adventure game, you play the role of John Mcaffrey a former 
+ cop who was laid off the Police after accidentally killing a hostage.
+  He is now operating some kind of one man mercenary/headhunting
+  service, currently working for 
+ a Mafia boss tracing a deadly chemicals
+  called OldZero which the bad guys want to make evil use of it.
+  Mcaffrey follows their traces 
+ all around especially in south America,
+  in 16 good looking interesting and very well designed levels,
+  which makes the player eager to 
+ see how the next level looks like.
+  unlike many similar game who just draw a handful
+  object und put them in every level, the levels has been designed in affectionate full detail creating 
+ a conceivable Atmosphere.
+  There is also a big variety of weapons you can either buy from
+  a shop in the city, find it in enemy territories or from the enemies you have eliminated. unlike 
+ many other games which they are different Models but thefunction is always the same, every single 
+ weapon
+  practically functions in a totally different manner and is aimed for a specific Mission.
+  Although 
+ ColdZero is quite interesting to play, there are some issues which
+  really disturbs the player. For example once you heard the briefing for the coming mission, there 
+ is no way to go back to it again. or you don't know what kind of place you are heading to (or you 
+ have forgotten) in order to take the appropriate equipments, clothing, etc.
+  Although there is not much talking in this game, the voice acting is not
+  good. (I have played 
+ the German version, maybe the English one is better) .
+  The camera is not so good either, each time you load, you don't get a view
+  of your main figure! 
+ you see rooftops, walls trees etc and you have to move
+  the angel to find your hero!
+  ColdZero reminds me a lot of Desperadoes in many ways, although the plot
+  is different and the 
+ story is a modern day drug dealing.
+  The protagonist in Desperados was much more believable and real,
+  comparing to the one in CZ 
+ which is more or less like just a computer
+  generated animation figure.
+  ColdZero is a rather hard game and should be played by experienced gamers.
+  I personaly learned 
+ how it should be played, when I was almost at the end! But all in all I do recommend ColdZero, 
+ this is a game which can certainly
+  satisfy a variety of different tastes RPG fans, A/A fans, Tactic shooters
+  etc.
+  K22 
+::::::
+
+-------------------------------------------------

@@ -1,0 +1,118 @@
+-------------------------------------------------
+:::Game Name::: Dark Planet: Battle for Natrolis
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/darkplanetbattlefornatrolis/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Mar 18, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.6
+Critic Score: 5.9, 16 Review (s)
+User Score: 6.7, 36 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Ubisoft
+Developer: Creative Edge
+Genre: Sci-Fi Real-Time Strategy
+Date:     Mar 20, 2002
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Many of Dark Planet's problems have been solved in other real-time strategy games, so it's disappointing 
+ to find them marring what should have been a better game. 
+
+  Dark Planet has several things going for it: a clever atmosphere, even if it is pretty derivative; 
+ a good-looking engine, even if it is an egregious example of 3D for 3D's sake; and a good variety 
+ of multiplayer options, even if they aren't anything new or surprising. Unfortunately, it also 
+ has an interface that seems designed to shield you from actually playing the game. Because of this, 
+ Dark Planet is like a blast from the past, when real-time strategy clones were cranked out with 
+ no regard for how good -- or even playable -- they were. 
+ 
+ Following the time-honored Starcraft school of RTS design, Dark Planet features three very different 
+ races. There are the Terrans and the Zerg, except here they're called the Colonists and the Dreil. 
+ There are also the Sorin, a society of samurai lizards. These races are nicely differentiated, 
+ with separate resource requirements, distinct artwork, and entirely unique units and special abilities.
+ 
+ 
+ One way the sides are distinguished is through Dark Planet's resource model. There are four resources 
+ on the map, but some of them are unnecessary for some races. For instance, the Sorin have no use 
+ for crystal, but the Colonists and Dreil will have to compete for it. In addition to two basic 
+ resources for building structures and units, each race has a third resource that powers research, 
+ spell abilities, and advanced buildings. The Colonists get this by gathering energy from thermal 
+ vents, and the Sorin get it by stationing their worker units at an altar to pray. But the Dreil 
+ can get it only by attacking enemy units with spitting bugs that wrap their victims in cocoons. 
+ The cocoons then have to be carried back to base with special beetles. This forces the Dreil to 
+ be aggressive if they want to develop their more advanced units and technologies.
+ 
+ The Colonists are the vanilla race, but they have some nifty-looking robots and troops in armored 
+ exoskeletons. Since they're all about firepower, they're simple to play as. The Dreil are your 
+ standard-issue crablike slimy bug aliens. One of Dark Planet's cleverest touches is the Dreil worm 
+ wrangler, a unit that can plant worms in the ground to help with combat and resource collection. 
+ There's even a giant worm unit that can transport other units underground, rippling the terrain 
+ above while it burrows toward its destination.
+ 
+ The Sorin samurai lizards are the most imaginative race. They build structures in the style of feudal 
+ Japan, wear ornate outfits, and can float observation balloons over the battlefield. They are also 
+ the most complex race, with more units, upgrades, and special abilities than their opponents. They 
+ have priests who can cast spells to attack units, protect their own armies, destroy enemy resources, 
+ and enhance their own resources.
+ 
+ In fact, the Sorin would be the race of choice if the actual game in Dark Planet weren't so upstaged 
+ by its own interface. Rather than play the game, you'll spend most of your time playing the interface, 
+ which seems to have learned very little from any real-time strategy game this side of Warcraft. 
+ There are plenty of minor problems, such as tooltips popping up directly under your cursor -- since 
+ so many of the icons are indistinct and coarse, you'll spend a lot of time peering around your 
+ cursor to read about what you're looking at. To see a unit's statistics, you have to hover the 
+ cursor over it and wait for a box of text to pop up in a window. This is especially complicated 
+ when the unit is moving. There is no alert for completed research, so it's hard to spend your resources 
+ efficiently. Only numbers 1 through 6 on the keyboard are available for unit groups, which isn't 
+ nearly enough for the kinds of armies you build in Dark Planet. It's as if the game is taunting 
+ you when you realize it doesn't even use numbers 7 through 0 for anything. The default map scrolling 
+ is a weird jerky routine, and the two minimaps are confusing. One is noninteractive, and the other 
+ shows you only a tiny portion of the map. A single minimap that serves both functions would have 
+ made more sense.
+ 
+ These issues might have been more tolerable if there weren't so many major problems. The kind of 
+ gameplay Dark Planet offers -- there are lots of units with specific roles and abilities -- requires 
+ hotkeys to work well in real time. And if not hotkeys, it at least needs a consistent and accessible 
+ interface with big obvious buttons. Dark Planet has neither. There are only a handful of hotkeys 
+ available, and the buttons are small and indistinct, often buried in submenus. A lot of learning 
+ to play is learning to distinguish 20 different lizard heads, bug heads, or marine helmets from 
+ each other so you can identify buttons and unit icons when you select an army. It doesn't help 
+ that the interface is so cluttered and the backgrounds are so busy. There are no commands for quickly 
+ selecting certain types of units, such as all flying units, all ranged attackers, or all noncombatants.
+ 
+ 
+ Again, some of these problems might not be so bad if the graphics weren't so confusing. This is 
+ not a game you can play adequately by watching the map and interacting with it. Although Dark Planet 
+ sports a flexible and at times attractive graphics engine, it's poorly suited to the demands of 
+ real-time strategy. You have the option to put the camera wherever you want, but this means you 
+ have to choose from a zoomed-out view in which it's hard to distinguish units or a zoomed-in view 
+ in which it's hard to keep up with what's going on. Tilting the camera gives you an attractive 
+ view of the action, but it also means things get hidden behind buildings, trees, and rocks. Even 
+ when you're viewing from directly overhead, the detailed units get lost against the busy terrain 
+ textures, so they're marked by colored bases that only serve to clutter up the screen even more. 
+ The graphics are dark until units start fighting each other, at which point pitched battles become 
+ almost psychedelic jumbles of colored polygons and lighting effects.
+ 
+ The single-player game has a campaign for each race, complete with some frustrating puzzle-based 
+ missions. There's a flexible skirmish mode and multiplayer support for domination and capture-the-flag 
+ games. You can even play cooperative multiplayer missions against the computer. There are only 
+ a handful of multiplayer maps to choose from.
+ 
+ Many of Dark Planet's problems have been solved in other real-time strategy games, so it's disappointing 
+ to find them marring what should have been a better game. With a more manageable interface and 
+ a more functional graphics engine, Dark Planet could have been a nice world to visit. At it is, 
+ it's just another arid moon in a galaxy of real-time strategy games. 
+ 
+      
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

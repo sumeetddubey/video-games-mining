@@ -1,0 +1,134 @@
+-------------------------------------------------
+:::Game Name::: Return Fire 2
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/returnfire2/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct  9, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.1
+Critic Score: 8.0, 1 Review (s)
+User Score: 8.0, 29 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Ripcord Games
+Developer: Silent Software
+Genre: Strategy
+Date:     Aug 31, 1998
+
+-------------------------------------------------
+:::Review:::
+A nearly perfect combination of action and strategy topped off with some pretty serious pyrotechnics. 
+ 
+
+ Have you ever heard of Baron R. K. Von Wolfsheild, the creator and designer of Return Fire 2? I 
+ didn't think so, and to be honest I have my doubts as to whether a person with that name really 
+ exists or not. But if Return Fire 2 catches on like I suspect it will, then Baron von Wolfshield 
+ might just become a household name - at least for PC gamers who are looking for a nearly perfect 
+ combination of action and strategy topped off with some pretty serious pyrotechnics.  
+
+ Return Fire 2 doesn't waste time with a complicated story; all you know is that you're at war because 
+ the "enemy" has your flag and you want it back - now. There's no resource gathering or unit construction 
+ to worry about: Any buildings that are destroyed are gone for good, and you have a limited supply 
+ of up to six different units that you can hop in and control, one at a time. At various points 
+ during play you'll drive a tank, a minelayer equipped with heat-seeking missiles (called an ASV, 
+ or Armored Support Vehicle) , a jeep (the sole land-based unit that can pick up and carry a flag) , 
+ a jet (sort of like a Harrier) , a helicopter (with rockets and machine guns) , and even a PT boat 
+ (equipped with the heaviest weapon at your disposal) .  
+
+ Obliterating the enemy's offensive units, defensive fortifications, and various buildings is of 
+ course rewarding and results in extra medals and commendations, but it's not necessary to emerge 
+ victorious. All that's required is that you grab the enemy's flag and get it back to your base 
+ - which means it's possible (though highly unlikely) to win a battle without every encountering 
+ an enemy vehicle.  
+
+ You begin each battle in an underground bunker, where you're shown a list of all available unit 
+ types and how many of each you've been allotted, along with a tiny radar map that gives you a general 
+ idea where your opponent's base and other structures are located. Choose a land-based vehicle, 
+ and a lift will take you to the surface; choose an air or sea unit, and you'll take off from an 
+ aircraft carrier that's slowly circling the island (a convention that means all battles take place 
+ on an island or group of islands) .  
+
+ Flags are kept inside heavily guarded Flag Towers, which are easy to spot because of their pyramidal 
+ shape. Bringing down a Flag Tower isn't all that difficult - a single bomb from the jet cracks 
+ one open in an instant - but the presence of decoy Flag Towers on all but the smallest maps complicates 
+ the discovery process considerably. Because the only way to retrieve a flag is in the nearly defenseless 
+ jeep, you've got to do a lot more than simply expose the flag. You also have to knock out enemy 
+ missile or gun turrets that could fire on you as you try to claim the prize you so desperately 
+ seek.  
+
+ Control is always a potential problem in a game that puts you in a wide variety of units, but Return 
+ Fire 2 handles it about as well as can be expected by keeping things as simple as possible. It's 
+ practically impossible to crash the jet, for instance, and the lack of a rotating turret reduces 
+ the art of tank warfare to head-on attacks. After a few outings in each unit, though, you'll learn 
+ to accept the quirks of each unit and instead begin concentrating on determining the best strategy 
+ for finding and retrieving the flag.  
+
+ It sounds like pretty light fare, but in truth Return Fire 2 is an amazingly deep game even in its 
+ single-player mode. Facing an aggressive enemy, you might opt for a defensive stance where you 
+ combine the firepower of a tank or ASV with the gun and missile turrets protecting your Flag Tower, 
+ base, or other installations. If you feel like taking it to the enemy but find yourself being shot 
+ to ribbons before you can close to an effective range, you can man the PT boat and start dropping 
+ heavy shells on enemy gun emplacements. Discovered that the enemy has exposed your flag? Then lay 
+ mines around it, or try blowing up a vital bridge to force him to use his jeep in its much slower 
+ amphibious mode as you hop in your own jeep and move the flag to a safe location. And because the 
+ jeep is the only vehicle that can retrieve a flag, you might focus on destroying enemy jeeps until 
+ you're sure your flag is safe.  
+
+ As I mentioned earlier, there's no resource gathering in Return Fire 2 - but that doesn't mean there 
+ aren't resources. Radar towers, ammunition dumps, fuel depots, and power stations can be destroyed 
+ to rob the enemy of vital information, deplete ammo supplies, leave vehicles stranded without fuel, 
+ and make a base more vulnerable. This facet of the game doesn't come into play in smaller battles, 
+ but on larger maps where the action can go on for a while, it adds yet another strategic dimension 
+ to the action.  
+
+ All this makes for a pretty intense single-player game, but where Return Fire 2 really kicks out 
+ the jams is in its multiplayer modes. Split-screen play is available for up to four players, though 
+ it's unclear if the game will take advantage of Windows 98's multimonitor ability - not a biggie, 
+ since not many gamers have more than one monitor for their PC. You can also hook up via a serial 
+ connection, modem-to-modem, over a LAN, or on the Internet; provided latency isn't a problem, up 
+ to 16 players can battle it out as members of teams or in a bloody free-for-all.  
+
+ Because most gamers don't have easy access to a LAN, the majority of Return Fire 2 players will 
+ be looking for action over the Net - but finding opponents might be a sticking point, at least 
+ for a while. Return Fire 2 is scheduled for support on Mplayer, but until that happens, about the 
+ only way to find fellow Return Fire 2 fans is to hop onto IRC and join the #ReturnFire2 channel 
+ (it's on Efnet) . I was only able to get into two Internet games, but I was actually shocked at how 
+ smoothly everything ran (though in one of those games the computer serving as host was extremely 
+ powerful and had a cable-modem connection.)  
+
+ But if you can get a low-latency game going, you'll be rewarded with not only new tactical and strategic 
+ challenges, but also some surprisingly immersive action. With four other players piloting tanks, 
+ jets, jeeps, and PT boats, it really started to feel as if I'd been dropped into a war movie. I 
+ actually murmured something juvenile like "Awesome!" after one of my opponents came in low and 
+ slow with his jet and unleashed a barrage of missiles before pulling back on the stick and soaring 
+ skyward to safety.  
+
+ And while all this mayhem's going on, you'll be treated to a soundtrack of classical music, with 
+ a different "theme song" for each vehicle - Rimsky-Korsakoff's Flight of the Bumblebee when you 
+ scoot along in your jeep, for instance, and Wagner's Ride of the Valkyries for helicopter excursions 
+ (can you say Apocalypse Now?) . When you uncover the flag, Handel's Hallelujah Chorus trumpets loudly, 
+ and as you try to carry an enemy flag back to your base the William Tell Overture adds just the 
+ right sense of urgency to the action.  
+
+ About the only disappointing features in Return Fire 2 are its poorly written manual and its confusing 
+ setup screens, both of which serve only to make a fairly straightforward game seem more complicated 
+ than it actually is. Fortunately, the missions have been designed so that new elements are introduced 
+ gradually, making for a gentle learning curved; a daunting icon-based setup scheme for configuring 
+ your controller, on the other hand, might prove a little more vexing.  
+
+ But hey, I had such a blast with Return Fire 2 that I just memorized the default controller configuration 
+ and dealt with it and only looked at the manual when absolutely necessary for a point of clarification. 
+ It's no mean feat to develop a game that packs this much firepower and still offers significant 
+ strategic challenges, but that's just what Silent Software has managed to do with Return Fire 2. 
+ It might not pull off a coup and earn Best Strategy Game of the Year, but don't be surprised if 
+ you see it in the running - or if a new category is created just to accommodate it.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

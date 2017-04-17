@@ -1,0 +1,159 @@
+-------------------------------------------------
+:::Game Name::: Rune: Halls of Valhalla
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/action/runehallsofvalhalla/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: May  3, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5
+Critic Score: 5.8, 12 Review (s)
+User Score: 7.4, 78 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Gathering
+Developer: Human Head Studios
+Genre: Action
+Date:     Oct 23, 2001
+ESRB: Mature
+
+-------------------------------------------------
+:::Review:::
+It simply takes the weakest part of the original game and repackages it with a few ultimately inconsequential 
+ bonuses. 
+
+  Human Head's Rune: Halls of Valhalla is unique in a couple of respects. It's an expansion pack 
+ that's also a budget-priced stand-alone product. And since it includes exactly zero single-player 
+ levels and no support for computer-controlled bots, it's also one of the few exclusively multiplayer 
+ games ever released. If you're already familiar with last year's Viking action game, Rune, and 
+ weren't impressed with its multiplayer experience to begin with, then you might as well skip the 
+ rest of this review. Halls of Valhalla isn't going to change your mind. If for some reason you 
+ did enjoy Rune's lackluster deathmatch mode, you still might want to hold off on Halls of Valhalla. 
+ It simply takes the weakest part of the original game and repackages it with a few ultimately inconsequential 
+ bonuses -- and then it ends up being even less impressive than that description.   
+
+  Here's a listing of features that are  not  included in the game:
+  - Single-player levels
+  
+ - Bot support
+  - New weapons
+  - New rune powers
+  - New animations for any of the new player models   
+
+  While it's understandable -- if grudgingly -- that 
+ no new single-player maps would be included in a multiplayer expansion, the lack of even one new 
+ weapon or rune power is a letdown and a drawback. What you do get are 34 new multiplayer maps along 
+ with the original seven, 15 new character skins, and two new gameplay modes: headball and arena. 
+           The Rune expansion has no new weapons, and a lot of other omissions.    
+
+  Arena is a formalized version of a one-on-one (or two-on-two, or three-on-three) deathmatch variant 
+ that has been informally implemented for some time within the small community of Rune players. 
+ It's similar to the popular Rocket Arena mod for the Quake series. You take turns entering the 
+ combat arena. The winner (or winners in the case of two vs. two and three vs. three) stay in the 
+ arena to meet the next challengers, while the losers are respawned in a spectator lounge where 
+ they can rearm before queuing up to reenter the battle. The biggest problem with this mode is that 
+ there's too much downtime while you're waiting for the next fight, an issue Rocket Arena addressed 
+ by including multiple combat zones within a single map. The level designers have tried to make 
+ the wait a little less onerous by including some time-killing gimmicks in most of the levels, such 
+ as a knife-throwing game, horns to blow, drums to beat, and gongs to bang. One map even features 
+ a head dispenser. While these are funny the first time you come across them, they're no substitute 
+ for actually playing. Compounding the problem, the spectator lounge often doesn't offer a very 
+ good view of the combat zone or is placed so high above it that the combatants look like tiny medieval 
+ ants. Since there's no option to become a disembodied observer, as in Rocket Arena, Counter-Strike, 
+ and other online games, you can't really get a good look at the action and are usually stuck trying 
+ to wring some pleasure out of the head dispenser.   
+
+  Headball is halfway between vanilla deathmatch and capture the flag. The basic idea is to find 
+ (or manually sever) a head, pick it up, and then toss it into a "goal" area for points. Imagine 
+ capture the flag, if the flag randomly popped out of an enemy's corpse. It's enjoyable for short 
+ periods, but it generally retains the chaotic sense of deathmatch -- of Rune deathmatch in particular -- and 
+ it isn't especially suited to deep team tactics. Since the "flag" can appear pretty much anywhere 
+ at any time, it's tough to coordinate a solid offensive and defensive strategy. One especially 
+ annoying problem is that, for some reason, picking up dropped weapons takes priority over picking 
+ up severed heads. So when you manage to knock someone's block off, you'll often have to bend over 
+ a few times in order to finally grab it out of a pile of weapons, probably all the while as you're 
+ getting clubbed by your other enemies during the lengthy "picking up" animation.   
+
+  Using populated servers as a metric, headball appears to be running significantly behind Arena 
+ in terms of popularity. Which leads to another potential issue: A multiplayer-only game is only 
+ as good as the number of people playing it. A week after its release, Halls of Valhalla generally 
+ has fewer than a hundred players at any given time. Most people are playing standard deathmatch 
+ (and honestly, many of those may simply be playing the original Rune) ; only about a quarter of 
+ them are playing either of the two new modes. Even after several patches, Rune isn't especially 
+ friendly to high pings, so a large variety of servers is particularly important. It's possible 
+ that the number of active players may increase, but in the absence of any single-player content 
+ whatsoever, without people to play with, you're out of luck. It's a gamble you have to decide whether 
+ or not you're willing to take, and it might not be much of a gamble at all when you consider that 
+ Halls of Valhalla really doesn't have that much to offer.           You rarely get a good vantage 
+ point while for an arena match.    
+
+  Unremarkable new gameplay modes and calculated risks aside, Halls of Valhalla shares its biggest 
+ failings with the original Rune: The melee combat is overly simplistic, the weapons are all too 
+ similar despite their appearances, and button mashing is often as successful a tactic as skillful 
+ maneuvering. In fact, in an effort to reduce in-game lag, a recent Rune patch (which is included 
+ with the game) makes combat even less complex by removing the speed differences associated with 
+ retreating and sidestepping vs. moving forward -- all player movement now occurs at the same rate, 
+ which not only makes combat less interesting, but it also lets players back away from one another 
+ very easily rather than be forced to clash.   
+
+  As a stand-alone product, Halls of Valhalla isn't a good enough game to warrant its purchase, and 
+ as an expansion, it doesn't offer enough significant enhancements for the world's dwindling supply 
+ of hard-core Rune fanatics. However, the graphics and sound effects are nice.     
+-------------------------------------------------
+:::User Reviews::: (2 Reviews)
+::::::
+UserName: ziegd
+Rating: 8.4
+Date: Sep 20, 2006 3:52 pm PT
+Review:  (Note... this is essentially my review of Rune, but since Halls of Valhalla is the multi-player 
+ expansion, I've added some additional comments about the on-line play.)
+  
+  Coming on the heels of the Half Life's, SIN's, Quake's and Unreal's of the game world, this choice 
+ morsel was quickly dismissed in favor of bigger guns, badder explosions, alien invasions, ya-da 
+ ya-da ya-da. And that is truly unfortunate, for this little gem of a game offers up a delightful 
+ turn away from the super marine path and takes the player on a mystical journey into Norse mythology. 
+ But don't let the word delightful mislead you; I use that term because, for me, it sums up the 
+ pleasures of leaving high tech weapons and machinery behind at a time when the market was glutted 
+ with those elements. Rune is an intriguing diversion, but it is far from light-hearted. Indeed, 
+ much of the game is quite dark and foreboding, as the hero (you) sets off on a quest to avert Ragnarok 
+ (read, end of the world ) . Your journey will take you from dark caverns, to snow swept mountains, 
+ thru green forests, and finally into the Underworld itself. Along the way you'll encounter everything 
+ imaginable from the pages of Norse mythology, and then some. Vikings, trolls, goblins, dwarfs, 
+ snowbeasts, cave crabs, the undead... even Loki himself will try to bring your quest to an end. 
+ Game-play, sound, graphics are all enjoyable, even by today's standards. And those critics who 
+ blasted the melee combat mechanics as simple obviously never spent any time on one of the multi-player 
+ servers, where a small but fiercely loyal community of individuals and clansmen regularly meet 
+ for some of the most entertaining on-line play I have ever experienced. I might add that this is 
+ one of the most well-mannered on-line communities I have ever interacted with. Most players herald 
+ from the Scandinavian countries, and are loyal to the honor codes of their ancestors. While this 
+ may sound kind of sappy, you may also find it kind of refreshing, at a time when so many on-line 
+ experiences are sabotaged by grief-ers. And while the combat mechanics are easy to learn, they 
+ can be difficult to master, and experienced players are able to string together a series of moves 
+ resulting in lethal combo attacks. It's pretty funny watching a head go rolling across the floor, 
+ even if the head is your own.
+  
+  Ordinarily, I wouldn't bother to write a review for a game this old, but when I saw what a disservice 
+ the expert critics had done to this jewel, I had to speak up. Granted, it's not everyone's cup 
+ of grog, but if you can find a copy, it's easily worth the bargain bin prices I'm sure it retails 
+ for today. 
+::::::
+
+::::::
+UserName: Demonslayer02
+Rating: 10
+Date: Jul 7, 2006 1:18 am PT
+Review:  This game is one of the greatest games I've ever played. I recommend buying this because once you 
+ get the hang of it it's really fun. Also it is based on Viking Mythology and such which makes it 
+ very interesting. I'm begging everyone who reads this to give this game a chance. It's like playing 
+ Halo with melee and also in 3rd person. The people that rated this game so low probably were noobs 
+ who got owned on their first time playing it and gave up. If you try for a day or so you will get 
+ the hang of it. Well hope you buy this game, [cv. Demonslayer] 
+::::::
+
+-------------------------------------------------

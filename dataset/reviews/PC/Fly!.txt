@@ -1,0 +1,130 @@
+-------------------------------------------------
+:::Game Name::: Fly!
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/fly/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug 20, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.9
+Critic Score: 6.6, 12 Review (s)
+User Score: 7.2, 47 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Gathering
+Developer: Terminal Reality
+Genre: Flight Simulation
+Date:     Jul 31, 1999
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+Fly has it where it counts: in the cockpit and, for the most part, in the flight model. 
+
+ With Microsoft Flight Simulator, Looking Glass' Flight Unlimited, and Sierra Pro Pilot on the market, 
+ do we really need another civilian aviation simulator? Terminal Reality thinks so and makes a largely 
+ convincing argument with its premier flight sim, Fly.  
+
+ The exclamatory title and the boast that this is "the ultimate flight simulator" make it clear that 
+ Terminal Reality isn't interested in second place. It aims to take the Microsoft beast head-on, 
+ unlike Flight Unlimited whose smaller and more intimate scale lets it avoid direct conflict with 
+ Microsoft's sim, which offers unrestricted cross-country flight from airport to airport and fair 
+ scenery detail along the way. Flight Simulator doesn't have any real stunt planes or fancy flying 
+ maneuvers, but just nice, steady, realistic flight. And that's exactly what Fly does too, and despite 
+ some flaws, it does a better job in many ways.  
+
+ Fly's appeal hinges on two important and remarkable features: its cockpits and its flight model. 
+ That pretty much covers everything of importance for the serious flight enthusiast, so the other 
+ problems probably won't matter much. Five airplanes are included in the simulation: the Cessna 
+ 172R, the Piper Malibu Mirage, the Piper Navajo Chieftain, the Beechcraft King Air B200, and the 
+ Raytheon Hawker 800XP jet. Performance on each feels on target, though I can only attest to the 
+ accuracy of the humble 172. Stalls, speed bleeding, and the rest of the litany of sim hot points 
+ are spot-on in the various aircraft. You'll find that the auto-correcting features of the 800XP 
+ accurately limit stupid moves, while the 172 recovers easily. More detail has gone into engine 
+ start-up and performance than in any other sim to date.  
+
+ In fact, they could practically call this game Engine Start-Up Simulator. When set to full realism 
+ (and thankfully you can turn this off) , you must go through every stage of engine start-up in sequence. 
+ An automated start-up sequence can also be used to guide you through the process with little arrows. 
+ Engine performance is variable according to aircraft model and is affected by mixture, altitude, 
+ and other variables. Sound effects are so precise you can tell from listening when you need to 
+ adjust mixture.  
+
+ The one major problem with the flight model is that none of these planes can be crashed. They just 
+ don't crash at all, ever. Run 'em into mountains, ground, water, and they just skip like a stone 
+ or bounce and roll over like one of those crazy-wheel remote-control trucks. Not only do they not 
+ break up: They take off again. This is just too much. I also found weather modeling inadequate, 
+ despite cranking it up to the heaviest levels. I could not force an instrument malfunction either 
+ and did not experience any in the course of my flying. Throwing some instrument failures at a pilot 
+ is standard operating procedure. They may well be in here somewhere, but I couldn't find them. 
+ You should also be able to configure a plane for certain failures to customize a situation, and 
+ that option is not offered.  
+
+ The other key selling point of Fly is the incredible cockpits. Every single button, dial, instrument, 
+ and rivet is not only here, but also completely interactive (except for the rivets) . Instrumentation 
+ is the most detailed seen to date, with very accurate nav-comm systems, complete simulation of 
+ the GPS, backup instruments, and more. All the instruments can be used with the mouse, but many 
+ do not have keyboard equivalents or the option to add them. This creates some awkward twisting 
+ for people who use their right hand for both stick and mouse. Cockpit views are good, with accurate 
+ blind spots. Transparent cockpits with small instrument overlays are also available. Different 
+ windows with vital information can be overlaid and configured, so you can display the main view; 
+ a second camera view; charts; the vector map; an axis window graphically representing ailerons, 
+ rudder, elevators, and trim; and the GPS. The vector map lets you quickly call up frequencies and 
+ runway layouts for different airports and navaids.  
+
+ Since it has 9,500 airports, 13,500 runways, 200 countries, and 16,000 navaids, Fly seems highly 
+ detailed. Indeed, runways are remarkably realistic, with lighting configurations, surfacing type, 
+ markings, wind socks, and taxiways. Navaids and all nav-comm frequencies are based on the real 
+ thing and are handled at a depth heretofore unseen. Despite this, airport buildings, towers, and 
+ parked aircraft are extremely rare outside the major areas, which brings us to another major weakness 
+ of Fly: The graphics and terrain modeling are very uneven. Five major areas are done in a slightly 
+ higher level of detail: New York, Los Angeles, San Francisco, Dallas, and Chicago. These feature 
+ buildings, bridges, and airport structures. The rest of the world is done with terrain textures 
+ that are merely adequate and elevation models that are unconvincing. Major city airports rarely 
+ even have towers. The graphics model seems ill equipped to handle abrupt changes in elevation, 
+ rendering the landscape mostly rolling or flat. On the whole, the visuals are good but not great, 
+ and frame rates are inconsistent. They soar to over 20fps but regularly crash to 10fps, a big no-no 
+ for a flight sim.  
+
+ Two modes of play are offered: quick flight "missions" and a very detailed flight planner. The missions 
+ are a lackluster array of start-up situations (night in Chicago, heavy weather in Dallas) with 
+ few twists or specific, focused challenges. The flight planner is far more interesting. Using a 
+ simple map and the massive database, you can search for any airport in the world, select a runway, 
+ select a destination, and create a route. The program malfunctions on occasion, refusing to plot 
+ some short jumps for no specific reason, but it usually works pretty well. You can even set the 
+ weight loadout and quantity of passengers on the plane for your flight.  
+
+ In short, Fly has it where it counts: in the cockpit and, for the most part, in the flight model. 
+ The terrain will be of less concern to serious simmers. More problematic are the regular frame 
+ rate hits, which can adversely affect control. This is Terminal Reality's freshman effort in the 
+ highly competitive world of flight sims, and as such, it heralds a talented group worth watching. 
+ Will it topple Microsoft Flight as the top sim? Not a chance. Everyone else is just vying for second 
+ place. And Fly is a worthy contender for that spot.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: grasneger
+Rating: 7.8
+Date: Apr 30, 2006 5:50 am PT
+Review:  I have the really FLY game.
+  It looks like you are in a real plan.
+  you really need the time for it because its very hard to play.
+  but you can go to auto pilot 
+ and its easer.
+  the navigation is also realistic and ad that point I don't now how to use it.
+  I think I need 
+ a reel lesson.
+  bud I don't know how I can find it.
+  I did look for it bud I didn't found it.
+  but you will find a way to play it just the auto pilot.
+ 
+  and don't look to de navigation that thing doesn't work like I want (easy) . 
+::::::
+
+-------------------------------------------------

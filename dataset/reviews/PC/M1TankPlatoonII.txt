@@ -1,0 +1,120 @@
+-------------------------------------------------
+:::Game Name::: M1 Tank Platoon II
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/m1tankplatoon2/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Apr 13, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.2
+Critic Score: 7.8, 3 Review (s)
+User Score: 8.4, 51 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: MicroProse
+Developer: Atari
+Genre: Tank Sim
+Date:     Feb 28, 1998 &raquo;  
+
+-------------------------------------------------
+:::Review:::
+M1 Tank Platoon II is still an extremely well-done and researched simulation, and is almost worthy 
+ of the name. 
+
+ Almost ten years ago MicroProse published one of the coolest games yet created for the PC: M1 Tank 
+ Platoon. Based on the then-untried-in-combat M1 Abrams Main Battle Tank (MBT) , M1 Tank Platoon 
+ excelled in playability, graphics, replayability, accuracy, realism, and fun. It was a milestone 
+ for military combat simulations on the home computer. Quite naturally any attempt at a sequel would 
+ have some pretty big shoes to fill. Recent simulations based on the newer M1A2 Abrams model, such 
+ as Interactive Magic's iM1A2 Abrams and NovaLogic's Armored First 2, have attempted to match this 
+ unique combination with some success in different areas. Now MicroProse has stepped back into the 
+ fray with M1 Tank Platoon II, and while it captures basically everything that made the original 
+ good and a bit more, nagging bugs and other problems drag it down as well.  
+
+ M1 Tank Platoon II initially offers you the capability to command a platoon of four M1A2 tanks, 
+ as well as any attached assets, on the modern battlefield. Initially you create a platoon from 
+ a variety of real-world active-duty battalions in either an Army Armored regiment, an Army cavalry 
+ regiment, or in a separate Marine tank battalion. The type of service plays a role in what kind 
+ of attached support you receive during campaigns. Characters are created for each platoon (16 in 
+ all, four for each tank) , and each character can be promoted and/or given a medal during the course 
+ of a campaign, depending on the outcome of each scenario. A character's efficiency rating (professional, 
+ good, poor) translates into performance on the battlefield, so it's best to keep them happy in 
+ one way or another.  
+
+ Four different modes of play are offered in M1 Tank Platoon II: training missions, single battles, 
+ campaigns, and multiplayer games. Training missions take place at two areas: Armor School at Fort 
+ Knox, where basic tank functions and exercises can be conducted, and the National Training Center 
+ (NTC) in Fort Irwin, California, where you are put through a number of advanced tactical courses. 
+ As a plus, there is a digital strategy guide (DSG) available on the CD-ROM called M1 Tank Platoon 
+ II War College, which offers even more help and advice.   
+
+ M1 Tank Platoon II offers both single battles and campaigns. For the single battles, there are five 
+ battles based on historical engagements in the Gulf War, such as 73 Easting and Medina Ridge (albeit 
+ with M1A2 tanks instead of M1A1s) , and five battles in Europe, based on the typical NATO vs. Warsaw 
+ Pact confrontation, like the infamous Fulda Gap. Random single battles can also be generated and 
+ saved, and about a dozen of these are already available to play.  
+
+ There are five campaigns available: Gulf War II (Iraq invades Kuwait and Saudi Arabia) , North Africa 
+ (Libya invades Egypt) , Far East (mutinous Russians near Vladivostok) , Moldavia (Ukranian invasion) , 
+ and World War II Revisited (invasion of Poland) . Each campaign has a set difficulty level that 
+ can be altered upon selection, though typically the Middle Eastern ones are easier than the European 
+ ones. The campaigns are basically dynamic, and your successes and failures can and will ultimately 
+ alter the outcome of the war - continued losses will result in more defensive battles, while significant 
+ gains result in more offensive ones. The battles are randomized to a point, which unfortunately 
+ results in some ridiculously generated engagements. Do not be surprised if it is just your single 
+ platoon, with perhaps a self-propelled battery in support, against an entire motor rifle battalion. 
+
+ Graphically, M1 Tank Platoon II is well done, particularly if you're able to use the 3Dfx Glide 
+ version (although attempting to use the Voodoo Rush will dump you straight back to Windows 95) . 
+ The tanks themselves are beautifully modeled, and the ground gently slopes and swells convincingly. 
+ All times of day and night are simulated. On slower machines (Pentium 133 is the minimum here) 
+ huge battles have a tendency to bog down, causing choppy frame rates and wreaking havoc on your 
+ ability to aim properly with the joystick. On the plus side, however, tanks and other vehicles 
+ blow up beautifully, and there's nothing quite like a hillside filled with burning hulks.  
+
+ A number of positions in the Abrams can be controlled by the player, such as the commander's position, 
+ the gunner's seat, and so on. Typically I find that I usually switch between the overall map view 
+ (where you can give specific orders to the platoon, other platoons, and whatever support elements 
+ you have) and the gunner's position. While theoretically the commander's position should be used 
+ more often - you can scan for targets while letting the gunner engage others - for some reason 
+ the gunner usually ignores your commands. To make things worse, the autoscan for targets hardly 
+ seems to work either.   
+
+ As the gunner, you can have the most fun by manually tracking the enemy vehicles, choosing the proper 
+ ammunition type (HEAT, Sabot, MPAT, or STAFF) , and blasting away. Once again bugs hamper operation 
+ - despite what you do, the computer loader insists on using the valuable specialized MPAT or STAFF 
+ ammunition (typically you only have four of each) at long ranges. Occasionally you'll encounter 
+ vehicles that have no business being alive after getting hit with a shell from your Abrams, like 
+ an APC or an AA gun, but yet they rove right on, shooting at you. There are also encounters with 
+ disabled vehicles, which often look like viable targets but really aren't.  
+
+ M1 Tank Platoon II has some curious omissions as well - it seems to me that the original game had 
+ more internal and external views than the sequel does. One blatant omission is the TC unbuttoned 
+ view with the binoculars; this was one of the most useful views in the original. What's worse, 
+ the TC view with the machine gun is interesting, but you actually have no idea where you're looking 
+ - there's no iconlike guide, only the visual cues you get from traveling across the ground. Off-board 
+ artillery cannot fire smoke, though they do have smoke dischargers.   
+
+ Finally, there is multiplayer mode, which seems to be stable over a local area network and modem 
+ (up to five players are supported on a LAN) , but MicroProse offers no guarantees or support for 
+ Internet play. Don't try it - it's not only slow, but buggy as well. The game comes with a big, 
+ 280-page spiral-bound manual, which is good, except for the fact that the complex game mechanics 
+ are explained in the first 68 pages, with the rest reserved for tactics, background information, 
+ and appendices. Even then the game portion of the manual contains a number of errors. The good 
+ news is that MicroProse has listened and plans to fix a lot of the bugs and omissions presented 
+ in the game.   
+
+ While this review may appear to be a bit negative, it is more a matter of frustration with what 
+ could have been a truly awesome game, hampered by some not-quite-fatal but bad bugs nonetheless. 
+ As it is, M1 Tank Platoon II is still an extremely well-done and researched simulation, and is 
+ almost worthy of the name. If MicroProse does what it says it will do, and continues to support 
+ the game, well, we could have a worthy sequel on our hands.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

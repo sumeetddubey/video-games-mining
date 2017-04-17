@@ -1,0 +1,245 @@
+-------------------------------------------------
+:::Game Name::: Combat Mission: Beyond Overlord
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/combatmissionbeyondoverlord/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jul  5, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 9.1
+Critic Score: 8.8, 15 Review (s)
+User Score: 8.3, 192 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Battlefront. com
+Developer: Big Time Software
+Genre: Real-Time Wargame
+Date:     Jun 1, 2000
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+It's sure to appeal to anyone interested in serious military simulations, but even those just looking 
+ for a good World War II computer game should find that it has a lot to offer. 
+
+ Outside of the hard-core wargaming community, Combat Mission: Beyond Overlord didn't receive a lot 
+ of attention prior to its release. It was originally developed as the computer version of Avalon 
+ Hill's Squad Leader board game, but Avalon Hill terminated the license shortly before Hasbro Interactive 
+ purchased the company in 1998. Undaunted, developer Big Time Software pressed ahead and joined 
+ with online publisher Battlefront. com to finish the game this summer. While Hasbro's forthcoming 
+ Squad Leader may bear the title of the board game, Combat Mission is very true to its spirit, and 
+ thus it manages to be one of the best wargames ever made for the computer.   
+
+  Many game players associate computer wargames with stuffy, turn-based strategy games that look 
+ a lot like the old board games that reached their height of popularity in the late '70s. Combat 
+ Mission brings wargaming up to modern standards without compromising realism and historical accuracy. 
+ The most striking aspect of Combat Mission is its fully 3D graphics engine, which, although not 
+ up to today's highest standards for computer-game graphics, nevertheless does a good job of presenting 
+ a believable World War II battlefield in such a way that hasn't been seen before in the genre. 
+   
+
+  Combat Mission depicts the fighting on the western front of World War II between the D-Day invasion 
+ of Normandy and the end of the war. Combat units consist of squads of infantry, individual leaders, 
+ and individual vehicles. Scenarios pit British, American, French, and Polish units against the 
+ Germans in a variety of situations, and you can play as either side, either against the computer 
+ or a human opponent.   
+
+  The essence of the gameplay in Combat Mission is very simple: Each turn consists of giving orders 
+ to your units, and each is followed by an action phase where both sides' orders are resolved simultaneously. 
+ In the orders phase, units can be told to move, fire, crawl, run, place smoke for cover, or perform 
+ any number of other realistic combat actions. These orders can be very detailed - a squad of infantry 
+ might be told to pause for 15 seconds, crawl up to a hedge, fire over it at a target, and then 
+ run over the hedge and into a building. Turns last only 60 seconds of real time when they are resolved 
+ (although any amount of time can be spent giving the orders) , so there is only so much a squad 
+ or tank can do at once. Unit coordination is the key, and because every unit is moving at the same 
+ time, becoming skillful at Combat Mission can take some time.   
+
+  Because of the 3D nature of the game, line-of-sight rules are crucial. It's actually possible to 
+ adjust the view to "see" from a given unit's perspective simply by rotating the camera accordingly. 
+ Fortunately, Combat Mission has a good line-of-sight tool that makes this judgment easier. You 
+ can draw a line from any unit to whatever spot on the map you choose, and the color of the line 
+ will display whether line of sight is blocked, as well as where the blockage occurs. Yet even with 
+ this kind of help, the 3D view in Combat Mission will take some getting used to for those accustomed 
+ to 2D portrayals of combat. But the 3D landscape adds so much realism to both the graphics and 
+ the gameplay that the learning curve is well worth it.   
+
+  The orders phase makes Combat Mission seem very much like a traditional wargame. What's surprising 
+ is the action phase: A real-time 3D game engine makes all the difference in a tactical wargame. 
+ The gameplay can be very tense as you watch a line of tanks roll down a road toward an objective, 
+ knowing that the enemy has hidden anti-tank weapons. The battlefield comes alive as your lead tank 
+ takes a hit from a concealed gun position up the road. The sound effects tell you and the game 
+ screen confirms that your tank was hit, but the shell fails to penetrate. Will the next shot be 
+ more effective? Did you remember to bring infantry support to engage the anti-tank gun? Combat 
+ Mission is as instantly exciting as a real-time game, but it allows for detailed strategic planning 
+ as well. The action phase can be replayed multiple times and from any angle, and it can be rewound, 
+ fast-forwarded, or paused. This makes it easy to find out exactly what happened to each unit, even 
+ in large scenarios. This combination of action and strategy is something that hasn't ever been 
+ achieved so successfully in a wargame.    
+
+ Combat Mission, in keeping with its status as a historical simulation, features very detailed game 
+ mechanics. The game models a large number of units from all the combatants, and complex game formulas 
+ ensure that things like armor penetration and road speed are both realistic and accurate for each 
+ weapon involved. Combat Mission models human factors as well, so everything from panic and rally 
+ to the delay in response caused by units being too far from their commander is represented in the 
+ game. Combat Mission lets you plot detailed orders for each unit, right down to how fast a tank 
+ moves and what direction it faces, but when units start coming under fire, they may choose to defend 
+ themselves rather than continue following their orders and risking destruction.   
+
+  There are several different play modes in Combat Mission. The most familiar one is the single-battle 
+ scenario, where each force has established units and objectives that are predetermined according 
+ to a historical situation. These range from river crossings to relieving the besieged British paratroopers 
+ in Arnhem to American attempts to halt the German drive during the Battle of the Bulge. There's 
+ a vast selection of scenarios, which includes battles of all sizes over many different types of 
+ terrain. Combat Mission even has urban combat, as you can fight to liberate Paris or re-create 
+ the gritty combat in the German city of Aachen.   
+
+  Combat Mission also introduces multibattle "operations," which are essentially single scenarios 
+ fought over a very large map. Each battle takes place on a smaller portion of the map, and the 
+ starting positions for the battles depend on the results of the previous ones. Combat Mission also 
+ has a quick-battle feature, which lets you assign basic scenario guidelines so that the computer 
+ can generate a random battle. It's a good way to keep you from getting too used to the premade 
+ scenarios without forcing you to generate your own from scratch. However, if you specifically want 
+ to re-create a certain battle, you will want to take advantage of Combat Mission's powerful scenario 
+ editor. All the game's play modes are available for multiplayer combat, either via play by e-mail 
+ or on one computer. While Combat Mission is not yet playable via network, Big Time Software has 
+ promised to produce a free patch to add this feature later in the summer.   
+
+  Combat Mission's artificial intelligence is like most all wargaming artificial intelligence: It's 
+ much better when it's on the defensive. It's more limited on the attack, and it has the tendency 
+ to make uncoordinated assaults that are easier to break up than they would be if a skilled human 
+ player were in command. Nevertheless, the overall quality of the AI is surprisingly good, and it 
+ has enough surprises in store to make all the scenarios worth playing from either side. While very 
+ experienced wargamers might not be overly challenged by the computer when they're defending, there 
+ are enough interesting attacking scenarios to keep even the most battle-hardened wargamers busy 
+ for a long time, just as many Combat Missions players are creating custom scenarios for download 
+ at various fan sites.   
+
+  Combat Mission comes with an extensive, well-indexed manual that does an excellent job of explaining 
+ all aspects of the game. In addition, it's written in a straightforward style that's easy to follow, 
+ and it should be accessible to players of any level of experience. While the calculations used 
+ to model weapon performance are too complex to be worth describing, the factors that go into things 
+ like armor kills are explained so that you can easily figure out what each unit's strengths and 
+ weaknesses are, even if you don't have a historical background.   
+
+  Combat Mission is sure to appeal to anyone interested in serious military simulations, but even 
+ those just looking for a good World War II computer game should find that the game has a lot to 
+ offer. The point-and-click interface is just about as intuitive as possible, and there's an excellent 
+ tutorial scenario accompanied by a detailed, step-by-step walk-through in the manual. Combat Mission 
+ should appeal to anyone looking for a challenging strategy game, as well as anyone that is even 
+ remotely interested in the 20th century's biggest war. If you're interested in immersive strategic 
+ gameplay with a historical focus, but you've always thought wargames to be too complicated or too 
+ dry, then Combat Mission is for you.   
+
+  Combat Mission is available only on the Internet through publisher Battlefront. com's web site at 
+ a full-price retail game's cost of $45 plus shipping. It's also a rare case when a game developed 
+ by a small publisher (and essentially coded by one person) can stand up to bigger budget commercial 
+ releases without apology. Combat Mission has truly done something special for the computer wargame 
+ genre, and it will be remembered years from now as the game that turned the genre on its ear. Big 
+ Time Software plans to release follow-up games covering the eastern front, North Africa, and the 
+ early war, and considering how good Combat Mission is, that's something to really look forward 
+ to.    
+-------------------------------------------------
+:::User Reviews::: (3 Reviews)
+::::::
+UserName: hsedai
+Rating: 9
+Date: Jul 1, 2008 6:34 pm PT
+Review:  It took me a while to truly learn this game because it was so very realistic. The expert "grognards" 
+ did their homework and found out the ballistics of each round fired to the effect a single round 
+ would have on armor. 
+  
+  I cared about my forces whether I was Axis or Allies. I forgot I was playing a game and I dare 
+ not make a chess analogy with this game because it simply will not fit. There is much more to the 
+ planning within a simple battle than you would think and the effect that morale would have upon 
+ real humans. Would a real human be afraid of being shot at? Well, so do your troops in this game.
+ 
+  
+  The graphics were alright but not spectacular. They did a good job researching the battlefields 
+ of the era and recreated small towns. The scenario designer tools are quite good and easy to learn 
+ while the random battle facet is tremendously fun and rewarding. 
+  
+  The built in PBEM (Play by Email) implemented a Turn based competition that was quite fun. I must 
+ have had ten human opponents at the same time.
+  
+  It was truly a tremendous game and should be the example for those other WWII games that strive 
+ for accuracy. Remember, the subject matter is for the "Greatest Generation"
+  
+  
+::::::
+
+::::::
+UserName: jenolie
+Rating: 9.5
+Date: Apr 6, 2008 12:41 pm PT
+Review:  Combat Mission is not just revolutionary but a giant leap forward in the evolution of pc wargames.
+ 
+  
+  When you think of pc wargames images of hexes and counters come to mind. Basically a board game 
+ transposed to a pc screen.
+  
+  Well Combat Mission chucks that out, brings in the miniatures but does it one better! The soldiers, 
+ tanks, and half tracks all move, shoot , fall and die or explode.
+  
+  But, this ain't no RTS clickfest. There is sound strategic planning involved, line of sight issues 
+ are at play, the armor thickness of the tanks and vehicles are all accurately modeled, as well 
+ as the ballistics of the armaments. Combat Mission has all the trappings that would please a grognard, 
+ but what makes this game special is what happens next. After all the planning, you hit the end 
+ turn button and your orders are played out in real time along with your opponent's orders. What 
+ you get is one minute of action that you can only watch play out. And what a nail biting minute 
+ it can be. Will your orders be carried out perfectly or will things go totally fubar.
+  
+  I'll never forget at the Battle of Arnhem scenario where I was trying to get my mg trooper to cover 
+ in a church. He runs across an open field evading all kinds of fire, and just when he's about to 
+ get to the building a lone soldier pops out from behind a bush and guns him down. Ouch, but what 
+ a moment.
+  
+  This is one extremely entertaining wargame. Something I could never really say of any game in this 
+ genre before Combat Mission along.
+  
+  
+::::::
+
+::::::
+UserName: Dazooz
+Rating: 9.3
+Date: Apr 10, 2005 2:29 am PT
+Review:  Intro: Battlefront set out to make the best squad based WW II game and I feel that they succeeded. 
+ This game mixes the ideas of Squad Leader (board game) and Close Combat. 
+  Graphical representation of the battles is impressive!
+  
+  Gameplay: The game is set up so that 
+ you can play against the AI, but where it really shines is against human opponents via an internet 
+ game or PBEM. The system is set up as a WEGO turnbased. It means, I enter my orders, then you enter 
+ your orders, then I watch the battle phase and you watch the battle phase, repeat. The battle phase 
+ is a 60 second movie that carries our your orders, or not depending on what happens in that time 
+ period. I feel that this system of turns revolutionized the war game genre. 
+  
+  The camera can zoom all around the map during play, from a bird's eye view to a lowly soldier in 
+ the trenches view. 
+  
+  It is very realistic, modeling moral and so forth, and tracks every shot fired. It also rewards 
+ real life tactics!
+  
+  Graphics: The game is beautiful (getting slightly dated now) . The terrain is very well done and 
+ the vehicles look very realistic. The soldiers have a little to be desired, but are generally well 
+ done. The firing effects are very good as is the smoke and fog. ONe of the best looking war games 
+ I have ever played. 
+  
+  Sounds: Also very well done, from the German voices to the squeaky drive of a Panther tank. Firing 
+ sound effects are also well done. 
+  
+  Overall: The game is highly modifiable with all of the graphics and sound mods in the community. 
+ It adds much to the game. Also, the scenarios are endless within the community at this time, anything 
+ you could want for a challenge! 
+  
+  One of the best games ever in my opinion. If you have even a passing interest in World War II and 
+ tactics, try out the demo, you won't be sorry! 
+::::::
+
+-------------------------------------------------

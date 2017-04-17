@@ -1,0 +1,202 @@
+-------------------------------------------------
+:::Game Name::: Reach for the Stars
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/reachforthestars/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Sep 13, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.2
+Critic Score: 6.4, 15 Review (s)
+User Score: 6.1, 29 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: SSI
+Developer: Strategic Studies
+Genre: Strategy
+Date:     Sep 14, 2000
+
+-------------------------------------------------
+:::Review:::
+Science-fiction and empire-building fans will be hard-pressed to find something in the game to get 
+ excited about. 
+
+ Reach for the Stars was originally released by SSG back in 1983, when asterisks and ampersands were 
+ used to make graphics in computer games. Having created the game, codesigners Roger Keating and 
+ Ian Trout effectively launched the genre of 4-X space games - explore, expand, exploit, exterminate. 
+ Seventeen years later, the statute of limitations on game titles must have expired because even 
+ though it's technically a sequel, SSG's latest release is still just called Reach for the Stars. 
+ While the recycled title suggests that SSG is trying to recapture the essence of its classic game, 
+ the modern version of Reach for the Stars suffers from the problem common to remakes: Instead of 
+ letting you relive the original, it just makes you miss playing the original.   
+
+  Reach for the Stars is a conventional empire-building game set in space. Your task is to research 
+ new technologies, build advanced ships, explore neighboring star systems, and eventually conquer 
+ the galaxy as you expand your forces from your home planet. Along the way you'll encounter alien 
+ races, fight massive space battles, and invade enemy-held territory. In theory, it should be an 
+ engrossing game. Unfortunately, Reach for the Stars incorporates several design decisions that 
+ prevent it from achieving the standards set by its old predecessor or by other space-empire games 
+ that were built on the original Reach for the Stars' groundbreaking ideas.   
+
+  Reach for the Stars plays out over a square map grid containing various star systems. Each system 
+ can have multiple planets, and these planets vary in levels of habitability for each race in the 
+ game. Once a planet has been colonized, you can develop it by building industrial, defense, research, 
+ shipyard, and training facilities. There are only six different building types total, and these 
+ can be upgraded from one level to another. Planets produce one new building per turn, assuming 
+ they have enough resource points to do so.   
+
+  There are 16 different races in Reach for the Stars, although this total includes several types 
+ of humans. Each has a separate tech tree to research and different tolerances for various environmental 
+ conditions (like a methane atmosphere or high gravity) , as well as different growth rates and trade 
+ benefits. Each race also has a different base rate of fire for space combat, which determines the 
+ number of times ships can fire in a given amount of time. This number ultimately seems to be more 
+ important than the other factors, as races with a high rate of fire seem to have a distinct advantage 
+ throughout the game whenever combat invariably ensues. Other factors that should balance out the 
+ rate of fire apparently do not.   
+
+  The designers of Reach for the Stars state on the game's home page that they have "gone to a lot 
+ of trouble to ensure that giving orders in the game is as easy as possible." This is somewhat surprising, 
+ because the interface is possibly the game's weakest point - at least initially. At the outset, 
+ you're presented with a bewildering set of different buttons and displays, none of which make the 
+ slightest intuitive sense. There are tooltips on how to label each button, but these do little 
+ to explain what the buttons actually do. Because of this, Reach for the Stars is almost impossible 
+ to figure out by just jumping into the game. Even the tutorial doesn't adequately explain what's 
+ going on.   
+
+  For this reason, learning to play Reach for the Stars requires a thorough reading of the manual. 
+ This is a problem largely because the manual has no index and is badly organized. Even experienced 
+ strategy-game players will find the manual a necessity, and it is written so that the only way 
+ to figure out the game is to read the manual from cover to cover, since the layout is not conducive 
+ to skimming. Novice players unprepared for this will quickly become frustrated at the inability 
+ to just start playing the game. This will undoubtedly prevent many people from getting to the point 
+ where the interface shows its benefits, but once you've become used to the interface, things do 
+ become easier.    
+
+ Space combat in Reach for the Stars is rather abstracted. You have no direct control over the individual 
+ ships in your fleets. Each side chooses a formation and a range, and the range at which the engagement 
+ takes place is a function of the two choices as well as the difference in engine quality between 
+ the two sides. There are four formation options, and each has advantages and disadvantages based 
+ on the fleet's predominant weapons and the enemy's formation. Once engaged in combat, you can only 
+ attempt to change the range between rounds, or withdraw. The computer handles all weapon targeting. 
+   
+
+  The simplicity of space combat carries over to the ship designs. These designs have none of the 
+ complexity or richness of space-exploration games like Master of Orion, as there are only six different 
+ kinds of ship systems, and the design mostly involves nothing more than loading a hull with as 
+ many beam or missile weapons as it can hold.   
+
+  While this apparent decision to shift emphasis away from micromanagement is certainly understandable, 
+ it leads to a number of problems. The biggest one is simply that once you abstract everything, 
+ there isn't anything left to draw you into the game and make it interesting. In the Master of Orion 
+ series, the competition to develop new technologies to outfit a new class of starships was at the 
+ heart of the game. This was enhanced by the need to build complementary ship types that could aid 
+ one another in combat. Given this focus, the rest of the game fell into place without the need 
+ for excessive detail elsewhere. Reach for the Stars gets rid of all this but doesn't replace it 
+ with anything. For example, there is no technology trading or espionage, which leaves you wondering 
+ what you have left.   
+
+  Viewed purely as a strategy game, Reach for the Stars does offer a number of challenges. As can 
+ be expected from a game programmed by Keating/Trout, the computer opponent is very competitive. 
+ Furthermore, because there are only a limited number of things to do in the game, the number of 
+ decisions stays very manageable, and the flow of the game is smooth even when a lot of fleets are 
+ under your command. Planetary development, ship building, and fleet movement are all simple enough 
+ that you rarely feel overwhelmed, and even with all these to account for, SSG definitely achieved 
+ its goal of promoting overall strategy over micromanagement. The only problem is that without any 
+ micromanagement, Reach for the Stars does tend to become awfully sterile. However, you'll sometimes 
+ experience moments of frustration instead, especially when you find that enemy fleets in hyperspace 
+ can't been seen - once a fleet leaves a system, you just have to wait for it to reappear somewhere 
+ else. In large scenarios, keeping track of the enemy is a significant task. If this is the sort 
+ of challenge you like, you'll probably enjoy Reach for the Stars.   
+
+  Reach for the Stars also has good stand-alone scenarios. While it's superficially not all that 
+ different from a random campaign, the game's two-dozen scenarios offer preconfigured, balanced 
+ starting situations with a variety of map sizes, objectives, and game lengths. One such scenario 
+ depicts the well-worn space-opera theme of a crumbling empire being overthrown by several internal 
+ and external enemies, each competing with the others as well as with the imperial menace. There's 
+ also a powerful game editor included that even lets you create your own new species and tech trees. 
+   
+
+  Ultimately, Reach for the Stars seems like a strategy game that's only incidentally set in space. 
+ It's a challenging game, but the details that would normally draw you into the environment are 
+ virtually absent. In addition, the game has serious balance problems that make particular races 
+ much more viable than others. Nevertheless, Reach for the Stars may please players who are looking 
+ for an epic strategy game that's light on micromanagement, but science-fiction and empire-building 
+ fans will be hard-pressed to find something in the game to get excited about.    
+-------------------------------------------------
+:::User Reviews::: (4 Reviews)
+::::::
+UserName: Advocate
+Rating: 5.1
+Date: Dec 19, 2006 12:36 am PT
+Review:  To be bluntly honest this game was not at all fun. Even after digging out my original copy of this 
+ game that I purchased way back in September 2000, and applying the 2005 patch to, I still found 
+ that I actually hated this game. I wish that I could explain why but I simply just don't care enough 
+ about this game to write a review that spells it all out. Simply put its a great premis for a 4x 
+ game but horribly executed. The Gamespot review nailed this one to the core. While the updates 
+ do improve the game dramatically, they are not enough to save it. My advise to any one looking 
+ to buy this game would be to save your money and go buy Space Empires IV or V instead. Those two 
+ games are far superior to this one even if they lack eye candy.
+  
+  If you must have this game, then by all means buy on sale at Amazon or bid on an old copy on ebay. 
+ You can still buy new in the box versions of this game from the matrix games site, but why? Buy 
+ a cheap version and download the 1.4 update.
+  
+  The game earned a 5.0 by just being made and supported for 5 years, but more than that I just don't 
+ know. I hope the developers next 4x game in this franchise is better than this one. 
+::::::
+
+::::::
+UserName: mentat76
+Rating: 3.5
+Date: Jul 8, 2006 4:56 pm PT
+Review:  I was hoping to get more from this game when it was out. Especially Master of Orion 2 was just 
+ started to age, like old graphics and it was still a dos game and i and a lot of my friends were 
+ talking about it was just the time for a fresh sequel or an alternative. 
+  
+  Reach for the stars was out and it was a total disappointment. It has nothing to do with moo2 as 
+ it was a board game and research, management all was awfull. There was no feeling of achivement, 
+ space battles were the best part but the rest was... terrible. 
+  
+  Graphics were really cool. Especially compared to any other title in the catagory. However, it 
+ was a let down and a sad they for us. 
+::::::
+
+::::::
+UserName: dparnass
+Rating: 5.4
+Date: May 20, 2006 4:27 am PT
+Review:  This game is ok but could have been a lot better. 
+  First off I love sci-fi strategy games. This one is not one of them. First off in the senario games 
+ provided the computer even at the easy levels is impossible to beat, but when you customize the 
+ game the computer sits there and does nopthing and is to easy to beat.
+  The tech nology tree leaves much to be desired and is limited and once you reach tech level 10 
+ thats it. You can not got higher to make existing technology cheaper and/or better. What really 
+ gets me is that you have to have a full colony or planet before you can even build colony ships. 
+ That really blows and the game can go on fo a long time before you can get colony ships.
+  Overall this gmae has lots of promise which it can not live up to.
+  
+::::::
+
+::::::
+UserName: Serge
+Rating: 8.6
+Date: May 22, 2005 5:00 pm PT
+Review:  If you liked MoO2 and Stars! then Reach for the Stars is definitely for you! The new design dealt 
+ with many issues regarding micromanagement without taking away too much flexibility so it's no 
+ fun anymore. The breadth is breathtaking... each race has its own research tree and the strategies 
+ for each race differ dramatically. With the new update in 2005 they added a nice single player 
+ campaign that helps you getting started with the game mechanics and quite a number of pre-designed 
+ campaigns which you can expand with your own creations. 
+  On the downside, the graphic and sound are not fully up to date and the learning curve is somewhat 
+ steeper than with mainstream games - still not as steep as with other strategy games though.
+  
+  Generally highly recommendable. 
+::::::
+
+-------------------------------------------------

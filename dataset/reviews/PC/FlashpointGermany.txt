@@ -1,0 +1,289 @@
+-------------------------------------------------
+:::Game Name::: Flashpoint Germany
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/flashpointgermany/review.html
+-------------------------------------------------
+:::The Good:::
+ An exciting and engaging wargame about modern combat.
+ The combat system reduces micromanagement.
+ Makes you feel like a real commander in the field.
+ Beautiful graphicsfor a wargame.
+-------------------------------------------------
+:::The Bad:::
+ No infantry or combat engineers in the game.
+ The AI is a bit weak.
+ Rudimentary sound effects.
+-------------------------------------------------
+:::Date::: Feb  2, 2005
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.7
+Critic Score: 7.5, 6 Review (s)
+User Score: 7.1, 87 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Matrix Games
+Genre: Historic Turn-Based...
+Date:     Jan 25, 2005
+
+-------------------------------------------------
+:::Review:::
+Flashpoint Germany is an excellent and engaging introductory wargame that puts you in the middle 
+ of a hypothetical war between NATO and the Warsaw Pact. 
+
+  Though it thankfully hasn't come to pass (yet) , World War III is still a fascinating hypothetical 
+ setting for wargame fans. For nearly half a century, the United States and its Western allies braced 
+ for an onslaught by the Red Army and the Warsaw Pact nations on the plains of Germany. This titanic 
+ showdown is the focus of Flashpoint Germany, an entirely new wargame from Matrix Games and developer 
+ Simulations Canada. Flashpoint Germany is actually the spiritual heir to two of the earliest games 
+ on the subject: Main Battle Tank -- Central Germany and Main Battle Tank -- Northern Germany. However, 
+ since those games were released more than a dozen years ago, it's an understatement to say that 
+ computing power has changed since then. Flashpoint Germany updates the gameplay to modern-day standards, 
+ and the result is an excellent introductory wargame full of taut and exciting moments.  
+
+          A British tank brigade defends against probing Soviet attacks.     
+
+  Set in 1989, the 
+ game postulates that the Soviet Union, seeing the writing on the wall, decides not to collapse 
+ peacefully but rather to gamble it all on a risky conventional attack into West Germany. The game 
+ picks up in northern and central Germany, where the British, American, and German army corps try 
+ to fend off the gigantic mass that is the Red Army. You can play on either side in the conflict, 
+ and you'll experience the highs and lows of a battalion commander on a very lethal battlefield. 
+ The game features a scale of 500 meters per square, and you'll command tank and cavalry platoons 
+ and companies over a 20-by-15-square-kilometer stretch of Germany.  
+
+  In terms of complexity, Flashpoint Germany is a remarkably easy game to pick up and play. The game 
+ comes with a two-mission tutorial that will walk you through the basics, and within 20 to 30 minutes 
+ you'll be ready to take on the enemy. The beauty of the game is that it doesn't require you to 
+ micromanage and handhold each of your units all of the time. Instead, the game places you in the 
+ role of a battalion commander. Every turn, you can issue basic orders to your units. Once your 
+ moves are made, the game then calculates and displays how the next 30 minutes unfold, and you see 
+ the results. After that 30-minute "pulse" is completed, the next turn begins, and you start the 
+ cycle over again.  
+
+  This system is excellent in a number of ways. First, it captures the experience of command quite 
+ well. Modern combat takes pace at such a hyper pace that it's impossible for any commander to micromanage 
+ his units. At one point, you have to simply trust that your subordinates can carry out your plan 
+ to the best of their abilities. Second, it can make for some incredibly tense moments. In one mission, 
+ a US armored cavalry regiment was tasked with securing a German town. Thinking that we were in 
+ a race with the Soviets, we sent a tank company racing down the highway only to have them run smack 
+ into a Soviet motorized infantry regiment. That was a nasty shock, and we spent the rest of that 
+ turn watching desperately as the battle unfolded. (The lesson in this is to use your reconnaissance 
+ assets, because that's what they're for.)  
+
+  The game also models some of the difficulties and dangers involved in command. You can limit the 
+ number of orders you can issue per turn to reflect the fact that your staff can do only so much 
+ in so little time. Even worse is that if you chatter too much on the radio, the opposing side will 
+ triangulate on your position. Both sides reserve plenty of artillery for just such an occasion. 
+ If your headquarters unit is wiped out, a lower-level HQ unit will take over, though at the cost 
+ of even longer delays between orders being issued to the frontline troops and the troops carrying 
+ out the orders. That delay represents the lag in any complex organization, especially one that's 
+ coping with the incredible stresses of combat.     
+
+  In terms of tactics, Flashpoint Germany does an excellent job of capturing the challenges of winning 
+ on a modern battlefield. Because high-tech weapons are so lethal and accurate, the general rule 
+ in warfare is that if you can see it, you can kill it. That puts a premium on keeping your units 
+ hidden and scattered until the crucial moment. Of course, that's great if you're on the defense, 
+ but if you're tasked with attacking, you will eventually have to expose your units in the open. 
+ In that case, it's all about using your reconnaissance assets to determine where the enemy is and 
+ where he is not, and then maneuvering appropriately. Regardless of which side you play, you'll 
+ quickly envy the other side for its advantages. NATO forces are highly trained and lavishly equipped 
+ with high-tech weapons, but the Warsaw Pact nations, though possessing less-elite troops and equipment, 
+ have the luxury of numbers. In either case, you'll also discover that modern warfare is all about 
+ constantly maneuvering. Even if you find a great defensible position, if you stay there too long 
+ the enemy will just unload artillery and air strikes on you.  
+
+          If you issue too many orders, the enemy will get a fix on your position and rain artillery 
+ down on your head.     
+
+  To keep things simple, the designers have made some notable omissions in the game. Some players 
+ will be disappointed to learn that the game abstracts infantry, and independent infantry units 
+ don't appear in the game at all. This isn't a major issue, because in this kind of warfare, infantry 
+ are nothing more than speed bumps to the tank columns. A bigger omission is combat engineers, which 
+ are useful for preparing the battlefield and obstacles. The game abstracts them as well, as each 
+ unit has an innate amount of combat engineering support to it. This can lead to sometimes peculiar 
+ results, such as when each individual tank platoon in a company can deploy its own bridge to cross 
+ a river. If only real-life platoons had such resources.  
+
+  The artificial intelligence in the game is an adequate opponent at best. To its credit, it can 
+ actually display some imagination. For example, rather than charging you from a straightforward 
+ direction every time, the computer will attempt pincer and flank moves on your position. This will 
+ keep you on your toes; even a lower-quality Warsaw Pact unit at the right place and time can wreak 
+ havoc on NATO forces. That said, the computer also displays some dubious behavior. For instance, 
+ if you're playing as the Pact, you may be surprised to see the defending NATO forces coming at 
+ you and exposing themselves rather than lying in ambush. And still no computer can match the cleverness 
+ and guile of a human opponent. Thankfully, Flashpoint Germany supports both online and play-by-email 
+ multiplayer options. PBEM is especially simple; all you have to do is make your moves, and the 
+ game can directly e-mail the saved game to your opponent.  
+
+  Graphically, Flashpoint Germany looks great for a wargame, though that's not saying a lot. There's 
+ absolutely no mistaking Flashpoint Germany for a real-time strategy game, as the graphics are composed 
+ primarily of traditional wargame unit counters on a map. On the other hand, the game comes with 
+ a modern and sleek interface, and the maps themselves are bright, colorful, and sharp. Even better, 
+ the game runs in a window on your desktop, allowing you to multitask with ease. On the downside, 
+ though, the game comes with only four maps and 17 scenarios. There is no mapmaking utility, but 
+ there is a game editor to make your own scenarios. The game also has a number of quirks, such as 
+ some very small text windows that can't be resized. It would also be nice to be able to print other 
+ windows, such as the map of the battlefield. Finally, the game keeps track of everything that occurs 
+ in a log, which is useful for analyzing after the battle, though it can be hard to read. It would 
+ be nice if it were color-coded or organized in a way to make it easier to analyze. Meanwhile, in 
+ terms of audio, the sound effects are entirely rudimentary and consist mainly of cannon fire and 
+ explosions.  
+
+  Though there's obvious room for improvement, as a first-generation product Flashpoint Germany displays 
+ an exciting amount of promise and potential. It's relatively low learning curve and user-friendly 
+ game design make it especially accessible to beginning wargamers, and the scale of the game doesn't 
+ threaten to overwhelm you. And while it also sports some obvious flaws, that doesn't change the 
+ fact that this is an engaging and fun wargame that puts you in the middle of the greatest war that 
+ never was in history.     
+-------------------------------------------------
+:::User Reviews::: (3 Reviews)
+::::::
+UserName: peterslaing
+Rating: 8
+Date: Oct 25, 2006 5:45 am PT
+Review:  This is a rare game that delivers more - much more - than initial appearances might suggest. It's 
+ definitely not one for those suffering from attention deficit disorder, but is likely to quickly 
+ absorb more mature gamers with a taste for realistic strategy in a novel setting.
+  
+  Flashpoint Germany's Cold War setting is undoubtedly a strong selling point simply because it isn't 
+ the Second World War. The fictional real war between NATO and the Warsaw Pact makes for a fascinating 
+ conflict and, because of the lethality of modern weaponry, strongly influences the gameplay itself.
+ 
+  
+  You, as commander, move battalion or brigade-level forces across clear and attractive maps, divided 
+ into 500 metre squares. Events play out Combat Mission-style with an unlimited pause in which to 
+ issue orders followed by simultaneous resolution. The 17 prebuilt scenarios, which are playable 
+ from either side, are won or lost based on units destroyed and sectors cleared or dominated. Units 
+ can be ordered to move, assault, dig in and a host of other options, while air and artillery strikes 
+ can be ordered.
+  
+  So much for the mechanics but what makes this such an enjoyable and absorbing game? Key is the 
+ sense of command that infuses the gameplay. Because of the inbuilt delay before orders are carried 
+ out, you really do have to come up with a strategy and, within reason, stick to it. And you cannot 
+ directly order units (except artillery) to open fire. That can make for some amazingly tense moments 
+ as your forces either approach their objective or wait for the attackers. The differences in capabilities 
+ between the two sides adds another layer of interest: the Warsaw Pact clearly has the edge in numbers 
+ but NATO has the better technology. Evil gamers, meanwhile, can rejoice in the liberal use of minefields, 
+ chemical weapons and - best of all - nukes.
+  
+  The criticisms are minor, particularly with the latest patch installed. Aspects of the interface 
+ can be clunky, there are a limited number of maps, and - as if often the case with 2D games - it's 
+ not always that easy to work out line of sight or cover. Masochists might grumble that the AI, 
+ even on toughest settings, doesn't present quite enough of a challenge.
+  
+  As indicated earlier, you will likely love the gameplay or hate it. Flashpoint Germany is resolutely 
+ 2D, grown up, and has strongly realistic aspirations. There's a great scenario editor, a good manual, 
+ and a nice learning curve, especially for a serious wargame. 
+::::::
+
+::::::
+UserName: Prophet1980
+Rating: 6
+Date: Sep 13, 2006 12:59 pm PT
+Review:  I brought this game as im a huge fan of Turn Based Strategy games in general. The main draw for 
+ me with this one was the modern conflict and high tech units. While this is all there its not as 
+ exciting as i was hoping.
+  
+  You basically give orders to counters on the 2D map then when your done, click "fight" and watch 
+ the next 30 minutes of the battle play out accoring to your commands. This is all well and good, 
+ but, the 30 minute turn actually ends up lasting about 10-15 minutes depending on how many units 
+ are engaged. This makes for a hellishly time consuming game. It takes around 1-4 hours to play 
+ through a scenario unless the AI or yourself is beaten before the turns run out by taking too many 
+ losses.
+  
+  The scenarios are quite good but be warned, there are only 3 maps and some of the linked scenarios 
+ start to feel all to similar when your defending the same objective for the 4th time but just with 
+ a different set of units. There are alot of scenarios to play through and so as far as value for 
+ money goes, this one will keep you playing for a few months. PBEM is another strong point if you 
+ can find an opponent.
+  
+  The graphics are not bad for a counter based TBS game but i have seen far better. The maps are 
+ fairly detailed but there isnt much variation in terrain. The counters do a good job of representing 
+ the units so you never find it difficult to distinguish between them or loose units in a mass of 
+ counters. It all runs in a window as well so you can multitask if you feel like it whilst a turn 
+ plays out. The interface is simple to use and is clutter free.
+  
+  The sound is alright, nothing amazing. The "gas, gas, gas" phrase is my only sore point as every 
+ chemical attack that comes your way is reported to you with the same annoying phrase. No music 
+ whilst in game. Ambient gun fire in the background whilst turns play out and samples for unit fire 
+ are all standard stuff.
+  
+  Theres a heck of alot of unit types at your disposal from M1 Abrams to MI24 Hind's. You can call 
+ for off map artillery and fighter support which is a cool feature. Each unit has lots of statistical 
+ values that adds a depth to the gameplay if you take the time to figure it all out.
+  
+  As a turn plays out you are given information as to what time units will start to move (delay of 
+ issued orders) and what time an airstrike will hit its destination for example. An enemy unit may 
+ have moved by the time it gets there. There is no unit facing in this game which i quite frankly 
+ find strange as you cannot flank a unit or surround it. You just get to fire more often, giving 
+ you a greater chance of killing a unit.
+  
+  The main thing that bugs me about this game is that it takes longer to watch your orders play out 
+ than it does to actually issue them which means that you spend most of the time simply watching 
+ the screen rather than interacting with the game. You cant do a thing once uve clicked fight except 
+ sit and watch your units as they engage the enemy.
+  
+  The mission briefings are bland and i never really felt any attachment to my units as whatever 
+ the outcome of your battle was, the next scenario wipes a clean slate and basically tells you what 
+ the aftermath was rather than the aftermath being what you as a player created. i. e. you won the 
+ battle but the game then tells you that your side actually lost the battle. This would be alright 
+ if u were playing a fictional battle, the problem is, this game is completely non-fictonal with 
+ its story so you never get the sense of being involved in it as you cannot change the outcome or 
+ the next scenario in a linked campaign. Your units dont gain xp or follow you to the next mission. 
+ So units you lost in a previous battle will be ready to fight another day in the next linked battle.
+ 
+  
+  This game is fun for a while but it never got me emotionally involved and hence is not something 
+ i can reccommend to most casual gamers. Hardcore TBS gamers out there may find something i didnt 
+ with this game however but i can honestly say ive played more exciting and involving TBS wargames. 
+ 
+::::::
+
+::::::
+UserName: tanker
+Rating: 3.3
+Date: Apr 30, 2006 12:44 pm PT
+Review:  Note: The 1.1 update is not reflected in the below comments but it fixes a number of small issues 
+ and adds a number of nice improvements that makes a good game even better.
+  ---
+  Previously this was a 'first look' review but now I've spent some more time with the game so I 
+ am updating my comments. Overall I am not changing my score but my opinion of the game has improved.
+ 
+  
+  Overall the game has a very similar feel to TacOps or Highway to the Reich. The graphics are mostly 
+ functional and sound is minimal. The map is very attractive but, like many fancy miniature game 
+ tables, not particulary play friendly. It is tough to figure out lines of site and movement types 
+ but fortunately there are overlays you can bring up that indicate these for you. Sound is minimal 
+ but very functional. Various 'sounds of war' happen during the turn including movement and fire. 
+ But the combat sounds and graphics are most helpful (except it is sometimes tough to see who is 
+ firing) . The target gets hit with various explosions that denote hits, aristrikes, artillery (even 
+ chemical strikes) that are all unique and easily identifiable after a fashion. The interface presents 
+ all the information you need but not in the slickest or most intutive manner but you get used to 
+ it in about a half hour. I wish they used hexes instead of squares but oh well (squares just make 
+ for some odd movement and LOS situations) . Some of the log windows (such as the TacpOps Diary) 
+ don't allow you to resize the various panes but you can expand the overall window size. I also 
+ haven't figured out a way to bring up the Vehicle Database for enemy units. For your own units 
+ you can click on them and then the Database will show that unit type. For enemy units you have 
+ to dig through the whole thing to find what you are looking for.
+  
+  Game play starts with a setup phase and then an orders phase. There are great map overlays that 
+ show cover, movement costs, and best of all, line of site. The LOS is very well done and you are 
+ allowed to see the LOS from any square on the map. This helps offset the  
+ game map. You can 'preview' your turn to see where everything is supposed to end up (not counting 
+ enemy actions of course) . Then you execute your turn. You have the option to allow certain actions 
+ to be taken by your units within a turn (such as air and arty strikes) or leave them to your own 
+ assignment between turns. Again this is similar to TacOps or the Combat Mission games (although 
+ the turn times are longer) . Besides giving orders to each unit you can set SOP (reaction actions) 
+ as well as see the status of each unit (morale, ammo, unit info, etc) . You can give units movement 
+ waypoint orders that are easy to edit. You can also vary the amount of time a turn represents which 
+ is nice for smaller and larger games. AI seems respectable at least. There is a nice emphasis on 
+ command and control and there are various order delays that can be introduced and the interface 
+ makes it easy to see what units belong to what HQ units (including a full TO&E) .
+  
+  Overall the game options are very good and the game play seems solid as well. It is a fun game 
+ and does a good job of giving you the feel for higher level command. If you like traditional wargames 
+ and enjoy the Cold War subject matter than Flashpoint Germany is probably worth a look. 
+::::::
+
+-------------------------------------------------

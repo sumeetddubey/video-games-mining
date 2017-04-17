@@ -1,0 +1,630 @@
+-------------------------------------------------
+:::Game Name::: Combat Flight Simulator 3: Battle for Europe
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/combatflightsimulator3/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct 25, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7
+Critic Score: 7.3, 21 Review (s)
+User Score: 7.4, 478 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Microsoft Game Studios
+Genre: WWII Flight Sim
+Date:     Oct 25, 2002 &raquo;  
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+If you're a longtime flight sim fan and are eager for another visit to the western front, Combat 
+ Flight Simulator 3 is a reasonable choice. 
+
+ You may fondly remember games from 10 or even 20 years ago, but the fact is, by today's higher standards, 
+ most of those classic games aren't much fun. That's not to say that they had no real impact at 
+ the time, because the best classic games aspired to new heights with what now seems like limited 
+ technology, and the gameplay of classic series evolved based on the idea that new games should 
+ offer more than last year's game with better graphics. Games back then weren't always groundbreaking, 
+ and they were sometimes redundant, but in the case of flight simulators, they were developed in 
+ order to come as close as possible to the real thing. Developers expended lots of effort on making 
+ planes look like more than just a pile of moving squares and triangles, and the physics engines 
+ they created pushed the limits of computers without really approaching the realistic behavior of 
+ a plane in flight. Ten years ago, the idea of a flight simulator with photo-realistic graphics 
+ was a fantasy, but now it seems possible for developers to create an all-encompassing flight simulator 
+ that's both realistic and fantastic looking. Is Microsoft's Combat Flight Simulator 3: Battle for 
+ Europe this game?           The terrain graphics are a focal point of the game.    
+
+  While the first Combat Flight Simulator was a spin-off of the Flight Simulator franchise and made 
+ many compromises, the first game did a good job of putting a good graphics engine together with 
+ accurate flight physics in a consistent manner. More importantly, it gave players a chance to revisit 
+ the Pacific theater of World War II, which had been conspicuously missing from flight simulators 
+ for years. So at the time, it was easy to forgive some omissions, like the fact that even though 
+ the game simulated the conflict in the Pacific theater, there were no flyable dive- or torpedo-bombers. 
+ On the surface, Combat Flight Simulator 3 seems to have addressed the biggest outstanding issues 
+ of its predecessor: the lack of both a dynamic campaign and a decent multiplayer component. Combat 
+ Flight Simulator 3 has an interesting campaign in which you can affect the progress of the ground 
+ war (both directly, through successful missions, and indirectly, through launching ground offensives 
+ by spending points earned in combat) . In addition, the game has cooperative multiplayer (albeit 
+ only for single missions) in which you can fly both bombers and fighters. On paper, the game has 
+ almost everything you'd want. But once you actually get in the air, it's a somewhat different experience. 
+   
+
+  The game ships with 18 different aircraft, all of which are flyable. For the British, this includes 
+ the Spitfire, the Typhoon, the Tempest, the Mosquito, the (US-designed) B-25 Mitchell, and the 
+ Vampire jet. The Americans get the P-47 Thunderbolt, the P-51 Mustang, the B-26 Marauder, the P-38 
+ Lightning, the P-80 Shooting Star jet, and the experimental Curtiss P-55 Ascender. German pilots 
+ can fly the Me-109, the FW-190, the Ju-88, the Me-262 jet fighter, and the distinctly odd Go-229 
+ and Do-335. Many of the aircraft have variants, which brings the absolute total to more than 30. 
+ However, if you don't see any of your other favorite planes in the above list, they're not in the 
+ game. That means that in this simulation of air combat over Europe from 1943 to 1945, you'll never 
+ see a Flying Fortress or a Liberator. It's as odd as not being able to fly Dauntlesses in Combat 
+ Flight Simulator 2.   
+
+  Apparently, these omissions were a side effect of the developers' focus on their brand-new terrain 
+ engine, which is supposed to make down-low flying as visually attractive as flying at high altitudes. 
+ For the most part it succeeds, although on the whole it's rather uneven. The trees and buildings 
+ look nice, but some of the ground textures are a bit off, and sometimes the effect can be spoiled. 
+ In any case, focusing on the appearance of the ground is certainly an unusual way to approach a 
+ flight simulation.   
+
+  But these detailed terrain graphics have a price: steep hardware requirements. Even with a high-end 
+ processor, you won't be able to get the most out of the game visually unless you also have a high-end 
+ graphics card, which isn't normally the case with flight sims. On a 2.4GHz Pentium 4 machine, we 
+ were unable to run the game well without turning the graphics down -- even at 1280x1024 -- until we 
+ replaced the GeForce 3 with a GeForce 4. We also experienced some stuttering at all resolutions. 
+           The aircraft models are simply outstanding.    
+
+  The aircraft models are, in general, gorgeous, and the virtual cockpits are as good as they were 
+ in Combat Flight Simulator 2, complete with moving control surfaces. The flight models are quite 
+ good, and they show the differences between the aircraft very well. On the higher realism settings, 
+ the game does a very nice job of modeling all sorts of factors, like engine torque, which can make 
+ takeoffs challenging for new pilots. The game's damage modeling is also good, since Combat Flight 
+ Simulator 3 has good special effects to display damage in the air and on the flight models. Both 
+ the graphics and the realistic physics are scalable, which should make the game accessible to players 
+ with a wide variety of skill levels and computer hardware. In short, everything about the actual 
+ planes themselves, from their appearance (inside and out) to their behavior, is excellent. The 
+ planes are clearly the best part of the sim, though the game's impressive volumetric clouds also 
+ look excellent, and actually provide a tactical advantage, since you can often hide within the 
+ clouds themselves.    
+
+ The multiplayer options have been enhanced since the previous Combat Flight Simulator, and it's 
+ now possible to play single missions cooperatively, although not the campaign. There are a number 
+ of one-shot historical missions included, and there are plenty of different mission options as 
+ well. Competitive multiplayer is also supported, of course.           The AI pilots treat all bombers 
+ like dive bombers -- even this B-26 Marauder.    
+
+  It's easy to understand the choice of flyable aircraft for this game, especially given the campaign 
+ structure. As you progress through the campaign, you get access to new aircraft, and by the end 
+ of the campaign, you'll be flying around in brand-new jets. You can also customize your aircraft 
+ with different paint schemes. There is even a role-playing element that involves using points you 
+ earn by flying to boost skills like vision, G-force tolerance, and health. Progressing through 
+ the war, and thus through better aircraft, gives the campaign its continuity. The jets toward the 
+ end are something of a reward.   
+
+  The dynamic campaign is a big part of the game, and it offers a lot of choices in terms of missions. 
+ The game generates a list of possible missions for different sectors of the map, and if you successfully 
+ complete them, you eventually advance the front line in that area. If you earn enough prestige 
+ points, you can initiate a ground offensive in a certain sector, which has the effect of moving 
+ the front on a larger scale. But this costs a lot of prestige, so pulling off a ground offensive 
+ requires some element of strategy. It's a great idea, and it's further fleshed out by the fact 
+ that the game generates airfields, flak, and other things wherever you fly. If you stray from your 
+ objective, you may find yourself in deep trouble. The campaign front line doesn't always follow 
+ the success of your missions, however, which can be frustrating because you'll find yourself winning 
+ battles but losing the war. If the core gameplay were better, it would matter less.   
+
+  There are a number of quirks in the game engine, as well. One of the strangest is the way in which 
+ the AI pilots turn level bombers into dive-bombers. It's odd to see B-25 Mitchells suddenly dive 
+ to take out a bridge. Bombers also have a problem in that not all tracers at their gun positions 
+ align with the guns' sights. This makes gunnery much more challenging at times, and definitely 
+ more frustrating. While the general aircraft sounds are well done, the airwaves are strangely silent, 
+ except when your wingmen acknowledge your orders. Otherwise, it's as if you're fighting a one-man 
+ war. Lastly, there isn't a flight recorder in the game, even though it is mentioned in the documentation. 
+ Apparently, it was cut from the game at a very late stage. The game also doesn't have any mission 
+ builder.   
+
+  Once you've had a chance to sit down and play the game, you may get the impression that the developers 
+ were still trying to solve the problems of 1996, while the rest of the world has moved on to other 
+ issues. As mentioned earlier, the game's flight models are good, and the graphics are great. End 
+ of story, right? Six years ago, sure. But more recently, European Air War from 1998 was neither 
+ the best-looking sim of its time, nor the one with the most accurate flight model, but in that 
+ year's crowded flight simulator market, it was the only World War II simulation that made a lasting 
+ impression. This wasn't an accident.           You can man all the gunnery stations aboard a bomber. 
+    
+
+  There have been a few landmark sims in recent years that really pushed the limits of what we expect 
+ from these types of games, albeit in very different ways -- games that not only modeled cockpits, 
+ takeoffs, landings, and dogfights, but also actually integrated all these elements into missions 
+ and campaigns that really made you feel as though you were part of the action. Combat Flight Simulator 
+ 3, on the other hand, makes you feel like you're using a really nice-looking, technically accurate 
+ computer program. It certainly has its appeal, but after what has been done over the past few years 
+ in games like Rowan's Battle of Britain and IL-2 Sturmovik, it's disappointing to see such technical 
+ excellence in the service of such a narrow vision.   
+
+  If you're new to flight sims and want to fly Mustangs, Thunderbolts, Focke-Wulfs, and other planes 
+ in a variety of interesting missions in the best World War II western front flight sim available, 
+ find a copy of European Air War. It's cheap, and it will run smoothly on today's systems. On the 
+ other hand, if you're a longtime flight sim fan who has played that title to death already and 
+ you're eager for another visit to the western front, Combat Flight Simulator 3 is a reasonable 
+ choice. Just make sure you have a good video card, and don't expect too see very much in the way 
+ of new things.    
+-------------------------------------------------
+:::User Reviews::: (18 Reviews)
+::::::
+UserName: busterboots
+Rating: 5.5
+Date: Dec 30, 2008 3:54 pm PT
+Review:  The same thing I said. It is okay but not great and the graphics don't help with the rating, either. 
+ Personally, I like Flight Simulator 2004 better because the game is more focused on the way it 
+ looks and plays. In this game Microsoft focused too much on making it feel like you are actually 
+ in the war rather then what it looks like. (which it doesn't even feel like you are in the war...) 
+ This game also does not have any aircraft that are relatively good. In fact, they all stink. They 
+ all do the same thing and barely have different looks. They actually resemble a piece of poop. 
+ :) CFS didn't change at all from the other CFS's. The game rightfully deserves its rating of a 
+  
+ 
+::::::
+
+::::::
+UserName: cheesy_potatoe
+Rating: 1
+Date: Jul 14, 2008 1:45 pm PT
+Review:  This game is like a waste of my money (10$) I wanted to buy a 10$ game from some of my money left 
+ over and I went to Target and found to games This one and Jetfighter 2015 but I decided to give 
+ a simulator a try and when i put it in and started to play it I was going out of control. I could 
+ hardly even controll the plane and the 1st person view was hard to see where you were going and 
+ the controls are a whole long list of nothing i will read. to me the graphics could have needed 
+ polishing they are all first gen but they are not that bad (except for the opening cut scene which 
+ id epic) . the sound is pretty much good but the mechanics and controls are were it really sucks
+ 
+  even if i had it on realism 0% it still was broken (to me) it is not even that fast, I wanted 
+ a fast paced dog fight but I just got a slow airliner. I am just going to uninstall this game and 
+ not even play it again 
+::::::
+
+::::::
+UserName: Andilliio
+Rating: 8.5
+Date: Jun 10, 2008 9:50 pm PT
+Review:  I personally love everything that has to do with flight and flying. Even if you are new to the 
+ flight genre and want are interested in flying than this game is right for you! It is really realistic 
+ and the graphics are stunning for a game made in 2002. I think that this is as close as you can 
+ get to piston engine flying combat without the real thing. The planes are fun to fly and shoot 
+ down and the campain is really cool because of how realistic it is and how you can change the history 
+ of world war two. I personnally enjoy the quick combat the best and trying out all the planes until 
+ I find one I really like (Fw-190A-9) . The campain mode in this game has a lot of cool aspects like 
+ if you are about to die it is smarter to bail out and try and escape the POW then to actually die 
+ thus losing the entire campain. Unfortunatly the campain is really easy because of how small the 
+ map is and how the victory locations are placed on it. Also the map is really confusing and knowing 
+ the signifigance of everything is hard. All of the planes are a little to similar and I think that 
+ there isn't very much variety of the stats between a few of them. I have also experianced a lot 
+ of technical difficulties with the graphics and it shuts off every once and a while but if you 
+ really want to play it is pretty easy to get over these things. Another very small problem i had 
+ was the planes in the distance kind of phased in and out of existance. However if you love flight 
+ games as much as I do then you will find something to love in this game. The realism is spectacular 
+ and makes this game hard to put down. 
+::::::
+
+::::::
+UserName: Zach68486
+Rating: 7.5
+Date: Feb 9, 2008 6:57 am PT
+Review:  I'll jump straight into the review on this one.
+  
+  The graphics in CFS3 aren't all that impressive. They aren't bad, but they aren't impressive. The 
+ buildings are modeled and textures quite nicely, but thats about it. The planes are spectacularly 
+ modeled down to every last detail, even in the cockpit. 
+  
+  The sounds in the game are pretty good. The angry bark of a nose-mounted machine-gun won't disappoint, 
+ and the sounds of your plane being shredded apart by enemy fire will have you struggling to bail 
+ out.
+  
+  The AI aren't the smartest around, but they get the job done... kind of. The enemies challenge you 
+ in the sense that they will dodge and weave as you attempt to shoot them down, but I have rarely 
+ ever experienced an enemy aggressively coming up on your tail to attack you directly. Your squadron 
+ members who fly with you and try to help fall short aswell, not doing very much in dogfights. They 
+ do, however, succeed in sinking ships and taking out ground targets.
+  
+  There is ONE major flaw that really brings this game down a few points.
+  
+  The fact that, even 
+ in the most agile planes, you will struggle to dogfight due to the constant stalling in this game. 
+ You will turn and climb and descend like wild to try and kill your target, but this constant stalling 
+ B. S keeps you from doing so. Not to mention the fact that during the game, it feels like the more 
+ time you play the more your joystick is coming uncalibrated, which means that the plane becomes 
+ unresponsive and you cannot control it. Many a time have I ended up bailing out because my plane 
+ was in an uncontrollable dive towards the ground. This flaw will have you angry, cursing and mad. 
+ It has no explanation, either, and no way to fix or remedy the situation. 
+::::::
+
+::::::
+UserName: ClassySloth
+Rating: 7
+Date: Nov 6, 2007 8:22 am PT
+Review:  Wow... I have such mixed reactions to this. On one hand, it's a much needed overhaul of the original 
+ CFS idea: the Air War in the ETO (European Theater of Operations) and adds the addition of flyable 
+ bombers, being able to man the turret and bombardier positions, and being able to customize loadouts, 
+ and even torpedoes on some planes. Definitely features the original Combat Flight Sim (CFS) was 
+ lacking. The graphics were amazing, and I have to say, I like them. However, there are alot of 
+ scars on this otherwise pretty face that is the third and (supposedly) final Combat Flight Simulator. 
+ For starters, WHAT IS WITH THE AI? B-26 Marauders dive-bombing? Let's not even get me STARTED on 
+ the lame multi-player. Microsoft shutting down the MSN Gaming Zone's CD-Rom lobbies was a bad decision, 
+ and upset many fans. There would have been much more multi-player action had that stayed up and 
+ this game been Zone compatible. I also think the lack of scenery and ability to fly anywhere in 
+ the world was a major let-down. I always loved flying to Manilla in Combat Flight Sim 1, stopping 
+ at user-made sceneries along the way, or heading up to Africa in Combat Flight Sim 2, off the USS 
+ John C. Stennis in my F/A-18C. The CFS Series' biggest asset was the fact that you could make just 
+ about ANYTHING for it, and here they go and take it out. Quite irritating, to say the LEAST. However, 
+ there is quite a bit of pretty scenery, and downloads to change the way the water looks, if you 
+ so desire. There are a great amount of aircraft addons (available both through www. simviation. com 
+ and www. avhistory. org) which make the game that much more enjoyable. You can download Italian and 
+ Russian aircraft, planes sorely missing from this game. There's also a project in the works for 
+ turning the ETO Air Wars into the North Africa Theater of Operation (can't recall the name at the 
+ time) , so you're never at a total loss for adding on to CFS3. I just wouldn't reccommend this for 
+ anyone who expects this to be up-to-par with Microsoft's previous Combat Flight Simulator 
+::::::
+
+::::::
+UserName: gamehereo92
+Rating: 6.4
+Date: Jul 3, 2007 2:27 pm PT
+Review:  This game is okay but it's not a very good game. The sound is proboly the best part as well as 
+ the exsplosion effects. CFS 3 however dosen't stand up to other games like Oleg's Il2 Shturmovik 
+ or Shockwave's Battle of Britain 2: Wings of Victory. This biggist drawbacks are the flat terrain, 
+ the lagging at high graffic settings, the reppeitive mission and campain and the constant stalling 
+ in a dogfight. But it's okay for begginers because of the easy dynamics of the flight as well as 
+ simple bombsite in the level bombers. But if you want a challinging campain as well as other aspects 
+ get Il2 or BoB2 WoV. 
+::::::
+
+::::::
+UserName: robertn_69
+Rating: 8.5
+Date: Apr 4, 2007 12:56 am PT
+Review:  Microsoft's Combat Flight Simulator 3 is easily one of the most ambitious flight simulators ever 
+ produced, but not for any typical flight sim features. Rather, its key feature point is a dynamic 
+ campaign that responds to the players actions and shapes the outcome of the war. Players choose 
+ between the RAF, Luftwaffe and USAAF and fly their first missions starting in early 1943.
+  
+  Of course, this being a continuous campaign with randomly-generated missions, it suffers from 
+ all the traditional drawbacks of random missions. Given that real AI is still a pipe dream, random 
+ missions always fall into pre-determined categories set by the designers. Since CFS3s focus is 
+ not on air to air combat but on the tactical ground war, these limited scenarios might actually 
+ have turned out in its favor. After all, there were only so many kinds of ground targets that a 
+ fighter-bomber or tactical bomber could hit, right? Thats very true, but rarely are the targets 
+ in the real world going to be carbon copies of one another.
+  
+  Even though CFS3 presents the player with multiple choices for missions, and in fact even allows 
+ him to choose the zone in which the mission will be flown, it quickly gets repetitive. Part of 
+ the problem is that the cream-of-the-crop, 3 star missions are inevitably the same kind. Another 
+ problem is that few players will deliberately choose missions they find difficult or frustrating. 
+ In fact, the tendency is to pick the easiest, or quickest, or most interesting ones. While this 
+ varies by player, inevitably a select few favorites appear and the rest become neglected. Its 
+ all too easy to become trapped in a repetitive cycle of easy missions, because its better than 
+ doing the ones you dont enjoy. This is particularly since the AI pilots are useless, you cant 
+ trust them to cover for you and the command interface with them is hopelessly insufficient. The 
+ best you can hope is to help a few destroy the target, order the remaining ones to attack targets 
+ of opportunity and make it home. Dont bother trying to give new orders until theyre done their 
+ old ones. Sure, youre being shot to hell. But he has that bridge to destroy.
+  
+  The campaign management part of the game offers up the same kind of perceived depth that the flying 
+ was supposed to. As the player flies and completes missions, he collects prestige. Naturally, more 
+ prestige is gained for successful completions, and bonuses can be earned by nailing targets of 
+ opportunity. The personal prestige of the player allows him to purchase an upgraded aircraft for 
+ himself. Strangely, this purchase only works if the aircraft is available to the squadron.
+  
+  The squadron has its own prestige level, which appears to be the sum of the total prestige 
+ earned by all its pilots. Squadron prestige is what unlocks the big rewards of the game, like getting 
+ new aircraft early, or launching ground offensives. But why launch ground offensives if they happen 
+ anyway? The new aircraft you get eventually, and their cost in prestige is ridiculous. Still, youll 
+ end up getting them early just because theres nothing else to do with it.
+  
+  Do not expect to be able to run this game on a standard computer. It's graphics are un matched 
+ meaning only those with top of the line computers can expect to play it. Luckily, advanced graphic 
+ settings allow you to adjust the strain put onto your computer allowing a more smooth flight when 
+ set to low. 
+::::::
+
+::::::
+UserName: Jeff58
+Rating: 5
+Date: Mar 11, 2007 5:48 pm PT
+Review:  Let's just say that if you are a fan of fast paced, amazing dog fights, this isnt the game for 
+ you.
+  
+  The models of the planes are amazing, down to the last detail. The landscape is good (depending 
+ on ur video card) and the plane selection and oradanance choices are adequate- although a B-17 
+ and Lancaster would have been nice. instead of the Marauder and the Mitchell.
+  
+  But, as the old saying goes, don't judge a book by its over.
+  
+  This game seriously has a hard-on 
+ for making ur plane stall. It is almost impossible to dogfight when ur plane stalls like it does 
+ in CFS3. Sometimes the stalling gets so bad, I cant climb... at all. The AI planes have no problem 
+ , swooping and swerving, climbing, turning, all around you, yet u just sit there in mid-air, cursing 
+ that little red phrase at the top right hand corner of ur monitor- Danger- Stall 
+  
+  This game would be great if there was less stalling, and worse, you cant change the amount of it 
+ in realism options. 
+  
+  If you want a faster-paced game without stalling, buy Il-2 
+::::::
+
+::::::
+UserName: polmas
+Rating: 7.5
+Date: Nov 16, 2006 6:48 am PT
+Review:  I first bought cfs2 in my first experiance in flight simulation, the result was incredible. I bought 
+ next cfs3 after reading some bad reviewers about it, but i like the game because it included some 
+ new options, like bomber, and a great number of floor-objectives, instantly i thaught that the 
+ game was very inspirated in the guncam color flims recorded in the last days of the ww2 (you can 
+ find this in the youtube) . The aircraft was very detailed and the graphics were good, th campain 
+ was good, etc. But the thing i really dislike and that it was worth than in cfs2 was the dofight 
+ really poor. The programmers had resloved this in a expension called firepower, that includes b-17 
+ and very special effects of dog fight, inspirated too in the guncams films.
+  
+  Important, there are some extra free aircrafts in the net
+  
+  
+  Please, forgive me because 
+ i don't speak english very well..
+  
+  Thank you for read it. 
+::::::
+
+::::::
+UserName: Link1990
+Rating: 8
+Date: Aug 23, 2006 4:26 am PT
+Review:  Combat Flight Simulator 3 is a great flight simulator for the WWII era aficionado. It has many 
+ different features that flight sim fans will enjoy. The game play is excellent. CFS3 features a 
+ variety of flyable aircraft, as well as many different types of weapons, including bombs and rockets. 
+ The campaign mode is dynamic, the front line moves into enemy territory if the player does well, 
+ and into friendly territory if the player performs poorly. There are also a variety of missions 
+ to fly. Flight models are fairly realistic, with stall and g effects. The graphics are excellent. 
+ With a good graphics card, RAM, and processor, aircraft models look very detailed. Clouds are numerous 
+ and appear to actually take up volume. Pilots have various animations when on the ground, sometimes 
+ they will smile at their plane if they performed well, or they can run for cover during a crash 
+ landing. The menu music is decent, but the same theme gets really repetitive after several hours 
+ of play. Sound effects are good, as for explosions, prop sounds, and machine gun fire. The radio 
+ also sounds pretty clear, even though there is not much to be heard most of the time. When it first 
+ came out, the game had some issues on running on some lower-end machines, but it runs at a good 
+ frame rate on machines with more RAM and processing power. It is best to tune down the graphics 
+ when first playing it because the graphics will drop the frame rate significantly. Overall, this 
+ is a great game for any flight sim fan that enjoys WWII shooters. It could use some more improvements, 
+ like more aircraft and missions, but it is still a great game. 
+::::::
+
+::::::
+UserName: d3boy2001
+Rating: 7.7
+Date: Feb 18, 2006 11:15 am PT
+Review:  the game has a lot of pros and a lot of cons.
+  pros:
+  the game graphics are pretty good
+  the sound is pretty good
+  the gameplay is very similar to the real war
+  shooting is difficult, 
+ but realistic
+  bombing is difficult, but realistic
+  if you have a good video card and a joystick, you're gonna have some fun!!!
+  etc.
+  
+  cons
+ 
+  I hate the stalling. every time i try to gian altitude, my plane stalls, and the other planes 
+ dont.
+  if you dont have a joystick, WOW. the plane flies like the pilot is drunk
+  
+  I play thi game every time i get a chance, and by the way, the intro movie is SO COOL! 
+  and 
+ if you have finished the game or something, u get a new plane or somethin i thinK. 
+::::::
+
+::::::
+UserName: Joe1854679
+Rating: 4.9
+Date: Jan 21, 2006 7:45 am PT
+Review:  I don't know where to start. This ... program can hardly be classified by a game. Sure, the flight 
+ dynamics are good, but the combat part is virtually non-existent. The missions can get very, very 
+ repetitive. Microsoft let me down on this one... I bought Microsoft Flight Sim 2004 a couple years 
+ ago, and I enjoy it very much. Now when I am looking for a combat flight game, I find this and 
+ think it would be a great game. Now I find that I spent $30 for a piece of junk. Trust me, do not 
+ buy this "game".
+  
+::::::
+
+::::::
+UserName: mort2fire
+Rating: 8.2
+Date: Jan 8, 2006 9:24 am PT
+Review:  Shocking Graphics, and real time fighting battles.
+  
+  A salvo of bombs and rockets is released, shattering positions.
+  Suddenly, enemys fighters dive 
+ in to engage. 
+  Bullets fly.
+  Adrenaline surges.
+  Hearts Pound.
+  The battle for Europe has begun.....
+  
+  You can pilot 18 authentic WWII aircrafts, Inlcuding 
+ the earliest combat jets.
+  
+  Experiance stunningly accurate 3D cockpit details.
+  
+  Leave your cockpit seat and man the bombardiers or gunner positions.
+  
+  Battle in thrilling 
+ multiplayers missions.
+  
+  The game delivers:
+  Highly detailed ground attack targets and Europeans scenery, clearly visible at 200 foot flying 
+ levels.
+  Fast, responsive low altitude action.
+  Enhanced weather graphics and effects.
+  
+  Fly 18 different planes, with 34 total variations.
+  
+  Example:
+  P-S1B, D Mustang
+  P-47D-24, 
+ 25 Thunderbolt
+  
+  Typhoon IB
+  Tempest V
+  Spitfire LF IXc, e
+  
+  Arrow Do-335A-1, B2
+  Gotha Go 229A-0 (jet)
+  
+  As real as it gets. 
+::::::
+
+::::::
+UserName: the_lerxst
+Rating: 7.2
+Date: Dec 27, 2005 10:28 am PT
+Review:  I have been flying the Flight Simulator series since its inception. After mastering IFR navigation 
+ and learning to fly everything available, I decided that the only way to increase the challenge 
+ was to add guns so I began a several-month search for the right combat sim. 
+  
+  After deciding that jet combat would be boring (shooting down enemies with a missile before you 
+ can even see them?!?) and WWI combat would get repetitive (mostly dog-fighting, as bombs and rockets 
+ hadnt come into their own yet) , I settled on CFS 2. It had the best reviews, but, more importantly, 
+ was at least loosely based on the Flight Simulator model. I approached the combat sim genre from 
+ the sim perspective rather than the combat perspective, so accurate flight modeling and a game 
+ which incorporated all the details of flying was more important to me than being able to easily 
+ score hundreds of kills in an arcade-type game.
+  
+  I have thoroughly enjoyed CFS 2 for the dog-fighting it provides, but its surface-attack options 
+ left me wanting more. So I got CFS 3. 
+  
+  But first I upgraded my video card. CFS 2 worked just fine with a 64 meg card, but I knew that 
+ CFS 3 would not. Yes, a 64 meg card is above the stated system requirements, but lets be honest 
+ you should NEVER believe system requirements. One of the stated goals of CFS 3 was to improve ground 
+ scenery, since ground attack was such a large focus in the development of CFS 3. It should be obvious 
+ that this will tax a low-end video card.
+  
+  So I bought a 256 meg video card because Im too broke to get anything better. With this upgrade, 
+ I took CFS 2 from the lowest end of graphic quality to maximum quality. It looks a lot nicer, but 
+ that doesnt matter, since CFS 2 is all about dog-fighting, and in a dog-fight youre too busy 
+ not dieing to enjoy the scenery. Explosions and smoke looked better, too.
+  
+  Then I installed CFS 3. The terrain in CFS 3 is so much more detailed than CFS 2 that I was once 
+ again reduced to the minimum graphic quality. But CFS 3 looks better at minimum quality than CFS 
+ 2 looked at maximum quality
+  
+   so quit griping, all you people who complain about how it stutters. If you read Microsofts press 
+ about CFS 3 you should have surmised that it would be graphics-intensive, and if just wanted to 
+ dog-fight with acceptable graphics you should have stuck with CFS 2. This is why youre supposed 
+ to research products before you buy them
+  
+  but I digress. CFS 3, while not heaven in the skies, is a very adequate, even good, release. 
+ There are plenty of targets to strafe, dive-bomb, and rocket into oblivion. Or you could fly a 
+ tactical bomber to pack a larger punch. The bomb view feature is nice; you can watch your bombs 
+ falling and see where they strike, so you know how you did. Not realistic, but nice. 
+  
+  Dog-fighting is a LOT more difficult. The aircraft in the European theater are (on the whole) a 
+ lot more sleek than their Pacific counterparts, which means more streamlined cockpits with worse 
+ visibility. There is not much visual room between the gun-sight and the top of the engine cowling, 
+ so trying to lead a target is mostly guess-work: in order to hit him, you have to lead him to the 
+ point where you cant see him. I understand that theres a way to make the cockpit invisible, eliminating 
+ this problem, but thats cheating. I havent bothered to learn how to cheat like that.
+  
+  The sleek, liquid-cooled planes of CFS 3 are also much more maneuverable than their radial air-cooled 
+ brethren in CFS 2. Learning to control such maneuverable aircraft is a challenge, just as it was 
+ during the real thing.
+  
+  The improved damage modeling also makes dog-fighting more difficult (and more realistic) . It now 
+ matters WHERE you hit your opponent. You can get deep on your enemys six and get a dozen shots 
+ into his rear fuselage and accomplish nothing other than waste bullets. Get a good lead shot into 
+ his engine or fuel tank, however, and a couple of rounds can turn him into a fireball.
+  
+  The campaign feature is confusing and not intuitive. Im sure itll make sense eventually but 
+ it does allow you to select from a few missions each time, so you can focus on things you enjoy 
+ (like bridge-busting) or practice things youre not good at. The dynamic campaign is enjoyable 
+ and immersive if you have the time. If youre a casual gamer, it will seem a little esoteric. The 
+ hypothetical aircraft accentuate the dynamic campaign. If you like how the dynamic campaign creates 
+ alternative history, you will probably enjoy these aircraft. If you want to re-create WWII you 
+ probably will not. 
+  
+  Overall, CFS 3 is a solid release, if you have the hardware to run it. It is, in my opinion, written 
+ for those of us with a taste for ground attack. Those of you who prefer dog-fighting, stick to 
+ CFS 2 (or IL 2 Sturmovik Ive never played it, but Ive heard its fantastic) . If you do decide 
+ to get CFS 3, do yourself a favor and upgrade your video card - no matter how good your card is 
+ - or else be prepared to take a major hit in the graphics quality department. The gorgeous terrain 
+ of CFS 3, essential to quality ground attacking, isnt free.
+  
+::::::
+
+::::::
+UserName: ishmail6
+Rating: 8.6
+Date: Nov 27, 2005 7:52 am PT
+Review:  The game has alot of features and options so you can customise it to play how you want, The multiplayer 
+ works great for me and theres almost never any lag. The game is just fun overall, anyone who's 
+ into flight sims should get this game, it's a good game and I think most people who have this game 
+ enjoy it and play it alot. It's kind of hard to get the hang of it at first but once you do the 
+ missions correctly without skipping any objectives or anything, it's really rewarding. Overall, 
+ the game is great, the graphics are great, the sound is good and it's very fun to play. 
+::::::
+
+::::::
+UserName: fsurookie911
+Rating: 4.8
+Date: Jun 19, 2005 7:03 am PT
+Review:  Im personally a big fan of Microsofts flight Sims but this game is just very sloppy and not very 
+ stable. When I got this game in May of 2005 the first thing that happens after I install it is 
+ it crashes. After I restart my computer I go ahead and crank up all the graphics settings because 
+ im running a high-end computer. Even for a game made in 2002 the graphics are very bad. I could 
+ go into more depth but let me just leave it at this, buy IL-2 forgotten battles. It is a much better 
+ game better yet play it online that game has really fun multiplayer 
+::::::
+
+::::::
+UserName: 19734739732876576485538515389630-elLOCOmutha
+Rating: 7
+Date: Mar 29, 2005 4:52 pm PT
+Review:  This game is very fun and you will not be dissapointed in it at all. It might not please everyone 
+ in the group but for what you get in the game it will not be a waste of your time.
+  
+  Some games you get and you just feel let down and ripped off well this game isnt one of those types. 
+ I believe there will be a community for this game for some time to come and the support for it 
+ will be around awhile also.
+  
+  The graphics and sound quality are great and wont be out of date for a long time. Overall you probably 
+ will leave this on your computer and not uninstall it anytime soon.
+  
+::::::
+
+::::::
+UserName: damonc
+Rating: 4.2
+Date: Dec 26, 2003 5:36 pm PT
+Review:  Ok I was late getting this game and I need a refund. It took 20 minutes to load. The game play 
+ was good but the time it took to load anything was horrible. I started it waited five minutes for 
+ it to load then selected quick flight. I selected a dogfight with a p47 and waited five minutes 
+ for the scenario to start. Shotdown one plane before crashing due to engine overheating. I then 
+ searched for realism options turned off everything and tried again no kills -- typical defense 
+ from the computer the enemy out turns you until you stall or get bored. But thats ok, I never professed 
+ to be a good pilot the game was for my sons, who wanted it because they liked CFS2. Since their 
+ 8 and 6, technically too young for the game I have to learn the details and teach them to play. 
+ Oops, this game is not intuitive at all. Setting up the joystick is the most fun. However, once 
+ I got both joysticks setup up similar to the CFS2 the boys took off -- only to crash because of 
+ the tail wheel lock ????. PLay resumed after setting them to invulnerable. Then it was time to 
+ switch to multiplayer -- Oops, dang. The multiplayer spit out games that were in progress over 
+ the net. Well that was easy I shutdown my cable modem so the boys could only see themselves, however, 
+ twenty minutes later we were not connected to each other because the dumb game took 5 minutes to 
+ connect and as young boys do the press cancel and it never recovers from cancel. Forget mutiplayer, 
+ for get CFS3 it was back to CFS2 were the game was not written on a super, top of the line multi 
+ processor with 4 gigabytes of video memory and full T3 network. 
+::::::
+
+-------------------------------------------------

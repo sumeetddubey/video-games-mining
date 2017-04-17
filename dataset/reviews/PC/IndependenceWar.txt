@@ -1,0 +1,188 @@
+-------------------------------------------------
+:::Game Name::: Independence War
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/independencewar/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct  8, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 9.1
+Critic Score: 8.6, 9 Review (s)
+User Score: 8.8, 154 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Atari
+Developer: Particle Systems
+Genre: Space Combat Sim
+Date:     Aug 31, 1998
+
+-------------------------------------------------
+:::Review:::
+Independence War not only provides the most detailed flight and systems modeling yet seen in a space 
+ sim, it also provides a complex, rewarding plot and a fully fleshed-out gaming world. 
+
+ The crafty captain who deftly commands the crew of a starship to outwit a seemingly overwhelming 
+ force is a well-known fixture in many science fiction tales. To date, no computer game developer 
+ has successfully created a game that convincingly allows players to assume the role of that captain. 
+ Interplay's recently released Starfleet Academy opted to give capital ships flight models and weaponry 
+ that made the behemoths behave as if they were wanna-be X-wing fighters. But Independence War is 
+ the real deal. Independence War not only provides the most detailed flight and systems modeling 
+ yet seen in a space sim, it also provides a complex, rewarding plot and a fully fleshed-out gaming 
+ world.   
+
+ In Independence War you play the captain of a small capital ship, a Corvette burdened with a far-too-impressive 
+ name, the "Dreadnought." As the game starts, Earth is in the midst of a decades-old guerrilla war 
+ with the colorful Indies, a haphazard collection of former colonists who have rejected Earth rule 
+ and formed their own political organization. Your character is a neophyte captain in Earth's Commonwealth 
+ Navy, and you're given an introduction to the Indie/Commonwealth conflict through an impressive 
+ 14-minute-long opening animated cutscene. The game's developers put so much effort into the introduction 
+ that upon viewing it I was immediately concerned that there wouldn't be enough other cutscenes 
+ of comparable quality within the actual game. I couldn't have been more wrong. The game is literally 
+ riddled with quality animated cutscenes and other scripted events within missions, which expand 
+ upon the game's introduction and advance the game's plot. Each of the other members of your bridge 
+ crew has a well-developed personality and contributes appropriate advice or comments during missions. 
+ A number of other space sims have had well-developed storylines, but Independence War has so many 
+ scripted events and plot developments within missions that the game almost feels like it is as 
+ much an adventure game as a space sim. The storyline is always compelling, and occasionally interactive, 
+ as your character's mission choices and decisions made within missions can dramatically alter game 
+ events.  
+
+ George Lucas admits that clips from World War II airplane dogfights were the inspiration behind 
+ his Star Wars fighter battles, and it's not surprising that most space sims have also largely chosen 
+ to emulate flight-sim gameplay, notwithstanding their gravity-less settings. While flight models 
+ vary somewhat in each space sim, for the most part similar combat tactics will work equally well 
+ in any game of the genre, and experienced Wing Commander or X-Wing fighter jockeys will do well 
+ in either game or in any number of similar games. But gamers who boot up Independence War and expect 
+ to be able to whiz through space, pulling gravity-based moves such as Immelmanns, and turning directions 
+ on a dime are going to run smack into Independence War's steep learning curve.   
+
+ In Independence War, objects in space have inertia, don't have arbitrary speed restrictions, and 
+ otherwise respond in accordance with most laws of physics. In addition to having to learn these 
+ scientific limitations, you'll also have to get used to commanding a small capital ship, which 
+ doesn't maneuver like a nimble fighter even under the best of conditions. All of the ship's systems, 
+ from weapons and shields to waste heat disposal and propulsion thrusters, are logically explained 
+ and physically represented on the ship's hull, making them susceptible to damage. Some scientific 
+ compromises were clearly made in the interest of ensuring that the game was still fun to play, 
+ so you'll still hear some thunderous explosions even though sound doesn't travel in space, for 
+ example, and planets and other celestial bodies don't exert gravity. But it's equally apparent 
+ that Particle Systems wanted to emphasize the "science" aspect of the game's science fiction setting. 
+ The development team's plausible handling of extraordinary technology and events gives Independence 
+ War a very original, refreshing edge over other games in the genre.  
+
+ There are four bridge stations in the game: command, navigation, weapons, and engineering. At the 
+ command station you'll access mission briefings and be able to assume remote control over other 
+ vessels, and at the engineering station you can give orders to four repair crews and adjust power 
+ settings within the ship. You'll spend the bulk of your time, however, at the navigation and weapons 
+ stations. The navigation station provides you with a convenient screen to guide the ship, pick 
+ waypoints, and assign targets. The weapons station gives you the opportunity to see a third-person-perspective 
+ wire-frame view of your ship, allowing you to keep your current target always in view and to effectively 
+ fight enemies who are attacking you from a variety of angles. Your ship can trek through space 
+ using basic thrusters, using an exponentially faster Linear Displacement Drive system, which is 
+ convenient for intrasystem travel, or by using handy LaGrange points to warp to other star systems 
+ using a Capsule "faster than light" Drive system.  
+
+ While the ship's misleading name may invoke images of a mighty space behemoth, the Dreadnought is 
+ instead a modestly durable vessel with an outstanding "team o' Scotties" repair crew and some fairly 
+ basic weaponry. You have both a forward-firing particle cannon and missile bank and rear counterparts 
+ to the two weapons. The forward-firing cannon is on the right-hand side of your ship and initially 
+ feels a bit unbalanced and awkward to veteran gamers who are more accustomed to a fighter's duel 
+ gunned approach. Cannons will automatically track opponents within a certain range, although you 
+ can override that tracking by opting for a more rapid-fire, but unguided, attack. Missiles are 
+ either remotely or self-guided, and you can quickly send missiles at a number of opponents simultaneously 
+ using the weapons station's "rippling" fire mode. The weapons station's padlocked view also allows 
+ you to track and fire upon enemies that would otherwise be out of range of your weapons.   
+
+ Shields aren't all-encompassing energy fields, as in other space sims. In Independence War your 
+ ship has two shield projectors, one protecting each of its upper and lower hemispheres, and each 
+ projector is only capable of shielding you from one attacking ship at a time. Using your weapons 
+ and shields effectively is difficult, but until you learn how to do so you won't have much of a 
+ chance against multiple opponents. Even once you're experienced, you'll have to choose your fights 
+ wisely. This is definitely not a game where you can be successful by charging in and trying to 
+ blast every enemy in sight. Time to retire your "Iceman" instincts.  
+
+ The graphics in Independence War are excellent, although strangely enough that might not be immediately 
+ apparent once you boot up the game. Since the game's physics system frequently results in you travelling 
+ in a direction other than the one your ship is facing, the Dreadnought's Heads Up Display (HUD) 
+ displays a series of directional lines at all times to help keep you oriented. Similarly, other 
+ ships leave a "ladder-like" trail behind them on your HUD, allowing you to quickly visually judge 
+ their speeds and headings. While you can turn off the HUD, you likely won't want to lose all of 
+ the information it provides, and as a result, the game's impressive 3D graphics are somewhat obscured. 
+ Perhaps to alleviate this effect somewhat, the game will switch automatically to a full-screen 
+ third-person perspective in certain circumstances, such as when your ship docks with another vessel 
+ or travels through a capsule-drive warp point. The game's software-rendering mode is good, but 
+ to fully appreciate the graphics you'll, as usual, require a 3D graphics-accelerator board. Only 
+ native Glide support is included, so you'll need a Voodoo Graphics or Voodoo 2 card (even a Voodoo 
+ Rush card won't necessarily work properly) to see all of the pretty pictures.   
+
+ Not every ship system or game feature that the development team included works well. The engineering 
+ and command stations are infrequently used, and I suspect that Particle Systems had more ambitious 
+ plans for the engineering station and the detailed, and celestially accurate, star chart that is 
+ accessible from the command station. Wingman commands are also fairly perfunctory. You're prevented 
+ from dividing up your forces to achieve a series of objectives, as you can only issue one order 
+ to your wingmen at a time, and all available wingmen will scramble to obey that order even if you 
+ would tactically be better off keeping some wingmen in their current positions. Force-feedback 
+ support is included, but it's only modestly utilized, especially when compared with the prolific 
+ feedback effects in Descent: Freespace.  
+
+ Considering the fact that Independence War was released several months ago in the U. K. under the 
+ name "I-War," it's surprising that the manual still contains erroneous or misleading information. 
+ The ship's power management (TRI) system is never explained in the game's manual, although there 
+ is a reference to the system in the manual that directs you to a further, nonexistent section of 
+ the manual. You'll need to learn a lot of keyboard commands in this game or have a capable programmable 
+ joystick, and you can't change the configuration of the keys without manually editing the game's 
+ keybind. ini file. The game's impressive introduction doesn't play automatically, and to get it 
+ to run in full-screen mode you'll inconveniently have to specifically change its playback mode 
+ by right-clicking on the movie once it commences. Unfortunately, these little inconveniences are 
+ among the first elements of the game that players are exposed to, and coupled with Independence 
+ War's already intimidating steep learning curve and initially disorienting graphics, they may cause 
+ gamers to prematurely give up on the game. Hang in there, Captain.  
+
+ Finally, the game's biggest strength is also one of its weaknesses. The game's missions contain 
+ original objectives and are generally far more detailed and involving than those of any other game 
+ in the genre. Unfortunately they sometimes suffer from overscripting, where the only way to advance 
+ the mission is to take a specific, occasionally unintuitive or finicky, triggering action. Allowing 
+ your ship to get pounded by your enemies just to advance the mission just feels wrong, and yet 
+ that's exactly what you have to do in one mission. The scripting also very much gives the missions 
+ a "puzzle-like" feel, where you have to figure out the trick to a mission before you have a reasonable 
+ opportunity of success. Since no space sim yet has allowed gamers to effectively save the game 
+ within a mission, it's not surprising that Independence War similarly excludes this feature, but 
+ its omission was even more noticeable than normal because of the length of some of the missions 
+ in the game. In the end, I found that the strength of the mission design in Independence War was 
+ the main reason that the game stands out above other games in the genre, but I was still occasionally 
+ frustrated by mission overscripting.   
+
+ Independence War is easily the best simulation of a large spacecraft yet, and its originality is 
+ extremely refreshing in a genre that is quickly becoming crowded. If you're willing to cope with 
+ Independence War's steep learning curve and invest some time in learning the nuances of the game, 
+ you'll ultimately have a very rewarding and unique experience.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: spencerlink
+Rating: 9.6
+Date: Jun 19, 2003 7:40 pm PT
+Review:  The problem with reviews on this game are there are 2 different games being reviewed. They are 
+ played on different video cards. The 3dfx version of this game is so much more beautiful and interesting 
+ that it is a different game than if it's played on a Direct3D video card.
+  
+  That's a problem for the future, of course, because now there are no more new systems being built 
+ with Voodoo (3dfx) cards, but this game and a few others are so good, I will keep one around for 
+ years. (Go to eBay and build a cheap gaming system. There are LOTS of great games from years gone 
+ by that won't run on later systems very well.)
+  
+  The physics in this game are, if anything, TOO realistic! The learning curve is huge for the casual 
+ gamer like me. The payoff is huge, too.
+  
+  This is one of the most amazing games ever made. On the wrong machine, however, it just seems like 
+ a pain in the hindquarters to play and it doesn't look so astounding, so you wonder what is the 
+ big deal (?) . Well, the big deal is that you have to have the right video card and invest the time 
+ to learn the game controls. Then you will understand. 
+::::::
+
+-------------------------------------------------

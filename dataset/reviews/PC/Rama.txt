@@ -1,0 +1,133 @@
+-------------------------------------------------
+:::Game Name::: Rama
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/adventure/rama/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Dec 17, 1996
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.9
+Critic Score: 7.3, 6 Review (s)
+User Score: 7.5, 54 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Sierra Entertainment
+Genre: Adventure
+Date:     Oct 31, 1996
+
+-------------------------------------------------
+:::Review:::
+If what you're looking for in an adventure game is plenty of challenging puzzles, you'll be in high 
+ heaven with Rama. 
+
+ If what you're looking for in an adventure game is plenty of challenging puzzles, you'll be in high 
+ heaven with Rama. It's not without its problems and idiosyncrasies, however, and if you enjoy a 
+ little character interaction woven into your puzzle-solving forays you're likely to be left a little 
+ cold by the non-interactive video clips used for conversation.  
+
+ Inspired by the series of books of the same name by Arthur C. Clarke and Gentry Lee (most of the 
+ characters in this game are taken from Rama II) , Rama casts you as an astronaut sent to replace 
+ a recently deceased member of a team of astronauts exploring a huge, cylindrical spacecraft of 
+ unknown origin that's recently arrived in our solar system. While you're naturally excited about 
+ exploring this alien wonder, keep in mind the reason you've been chosen for the journey: Unlike 
+ some adventure games, in Rama you can die during your explorations. Luckily, the dangers are relatively 
+ few and far between, and if you do meet an untimely end you're at least told why.  
+
+ A veritable avalanche of vidmail awaits you on Rama, and you quickly learn that each of your fellow 
+ astronauts has his or her own agenda. Unfortunately, you never truly interact with any of these 
+ characters; you either read vidmails or listen to them talk without the ability to question them 
+ or even respond. On the plus side, the acting is uniformly good, and the video is extremely well 
+ integrated into the rendered locales. After thoroughly scouring the team's two camps for objects 
+ and heading to the tent camp, you're told to start exploring on your own - and that's where the 
+ game really kicks in.  
+
+ You play from a first-person perspective, using "stepped" movement a la Myst instead of smooth scrolling. 
+ A goodly portion of the puzzles - especially in the first part of the game - are based on various 
+ mathematical systems (Base Two, Base Three, Base 16, etc.) or pattern recognition. To open doors 
+ you need to find symbol plaques, which are scattered all over Rama, and finding them all is almost 
+ as challenging as solving the puzzles. Some are tucked away in places where they're easily overlooked 
+ the first time around, and many of the plaques you'll pick up aren't needed (there's no way to 
+ drop them once you find that out, either) . The math puzzles are a bit trickier until you realize 
+ what number system you're dealing with, and that you can just whip out your trusty Windows 95 calculator 
+ and do the hexadecimal and octadecimal problems with no fuss or muss. Fortunately, there's a good 
+ number of situational and object-based puzzles to solve that are equally challenging, so things 
+ don't get too esoteric.  
+
+ A simple interface makes it easy to jump headlong into the exploration of the massive Raman ship, 
+ but after a few hours of play you'll notice a few rough spots around the edges. The graphic shell 
+ which surrounds the main game display takes up nearly 40% of the screen, and for no practical reason; 
+ the only features accessible from the shell are a scrolling inventory screen (more on that later) , 
+ "Raman Eyes" for examining an inventory item (just as easily accomplished with a right mouse-click 
+ on the item) , and an Options button (saving games, adjusting volume and brightness, etc.) . Rama 
+ only runs in 640x480, so if your Windows resolution is 800x600 the main game display is even smaller. 
+
+ This game screams for a separate inventory screen, which would allow the main game display to be 
+ larger, and more importantly would let you see all (or at least most) of your inventory objects 
+ at one time instead of just eight. That would be a big help, because you pick up a lot of stuff 
+ as you explore the spaceship, and would eliminate a lot of scrolling the inventory list in search 
+ of a particular item. A separate inventory screen would also make it easier to organize objects 
+ into groups (panels, plaques, keys, etc.) .  
+
+ Instead of a Look command, you rely on a holographic guide named Puck for information on the Raman 
+ ship, and even though his comments are of little help you'll still use him a lot. Because Puck 
+ is stored in your inventory rather than being accessible by, say, a mouse-click on the main game 
+ display, you'll often have to scroll to find him - an unnecessary bit of work to perform such a 
+ common action.  
+
+ Another annoyance is the lack of separate volume controls for music and speech; sometimes during 
+ video clips it's hard to hear what a character's telling you. It usually doesn't matter - most 
+ characters just show up and hand you something anyway - but it's still frustrating.  
+
+ But these problems are far outweighed by the sheer amount of gameplay here. While I was a little 
+ disappointed by the lack of interaction with the characters in the game, most adventurers will 
+ be so engrossed in solving the puzzles that they won't miss it one bit. With its high production 
+ values and fidelity to the Rama books, this is an excellent choice for both adventure gamers and 
+ Arthur C. Clarke fans.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: maxwilco
+Rating: 7.2
+Date: Nov 1, 2006 9:34 pm PT
+Review:  While Rama may not be know as the Greatest Game of the 20th century, it's still not a bad game. 
+ Developed by Sierra and based off of Arthur C. Clarke and Gentry Lee's Series of books, Rama is 
+ one adventure game that you'll be sure to remember (Or not.) . In Rama, you play the role of an 
+ astronaut who mission is to explore a gigantic cylindrical spaceship and decipher incredibly challenging 
+ puzzles that would make Albert Einstein rip out what remaining hair he has left. The puzzles themselves 
+ aren't that hard to figure out what you have to do. It's just trying to actually solve the puzzles 
+ that's the problem. An example: A majority of the first part of the game it spent trying to open 
+ door and activate elevators by solving tile patterns puzzles. You're given a tile board that has 
+ 9 tiles slots. Most of them are filled in, but one or two are missing, and the tiles that you must 
+ insert are scattered across the spaceship. The irritating part is that the right tile has to go 
+ with the right set. If you insert the wrong tile, the machine spits the tile back out at you, and 
+ the the puzzle changes to a different one. To figure out what tile goes with what set, you've got 
+ to look for patterns and trends in the tiles. However, it's impossible to figure out what they 
+ are. But aside from that, Rama still is fun. You'll pick up an array of interesting items. One 
+ of the most interesting in particular is a little robot named Puck, who gives you descriptions 
+ of the various machines and such you encounter as you journey through the game. However, you'll 
+ have to remember as you explore Rama, you'll have to be wary, as certain actions will lead you 
+ to an untimely demise, which brings us to our first safety tip when exploring: Avoid the crab biots 
+ (Note: Biot stands for biological robot.) If you do die, then Arthur C. Clarke appears and apologizes 
+ for you dying (Isn't that great? I think this must be the only game in history that apologizes 
+ for you character dying. Man! What a deal! Anyway, back to the review.) Throughout the game, you'll 
+ also encounter the characters from the Rama books, whose roles are fulfilled by the live-action 
+ actors. You'll also encounter the aliens who inhabit the Rama spaceship. One of the most interesting 
+ alien races are the avians, humongous featherless birds that would give Sesame Street's Big Bird 
+ and Final Fantasy's chocobos a run for their money. The story is played out through mail and videos 
+ you find on datacubes, or that you're sent to you by the other astronauts that you view on you 
+ arm-computer, which oddly reminds me of the Nintendo DS. Rama's quest stretches across two discs, 
+ which takes you from the Northern Plains, to New York Island on the Cylindrical Sea. There's also 
+ a third disc, which includes interview with Arthur C. Clarke and Gentry Lee, and interviews with 
+ the astronauts. (The characters, not the actual actors.) All I can say about Rama is that if you're 
+ up for an interesting adventure, and if you can find it on Amazon. com or E-Bay, you should buy 
+ it and try it. However, if stink at solving puzzles, you'd better start searching for a good walkthrough 
+ for the game. 
+::::::
+
+-------------------------------------------------

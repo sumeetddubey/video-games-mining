@@ -1,0 +1,144 @@
+-------------------------------------------------
+:::Game Name::: Power Chess 98
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/puzzle/powerchess98/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Mar  9, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.6
+Critic Score: 7.6, 7.7 Review (s)
+User Score: 7.7, 9 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Sierra Entertainment
+Genre: Board
+Date:     Nov 30, 1998
+
+-------------------------------------------------
+:::Review:::
+If Sierra can up the ante in terms of tutorials, game analysis, and openings, the next Power Chess 
+ will have the stuff to challenge Chessmaster 5500 for chess supremacy. 
+
+ Sierra On-Line set a lofty goal for this second edition of its Power Chess series: to create a computer 
+ opponent who plays chess like a human. And we're not just talking about designing the AI so that 
+ the computer foe - called the Power Chess King - makes a few mistakes now and then, either. Sierra 
+ claims that the Power Chess King's "mood" changes throughout the course of a match based not only 
+ on a slew of variables such as how well the pieces have been developed and how exposed his king 
+ is, but also on how he perceives those variables.  
+
+ Power Chess' online manual has a fairly good explanation of how it works, chock-full of words like 
+ "hysteresis," "tropism," and "rexotropic." But in the end, only one thing matters: Does it or doesn't 
+ it play like a human opponent? I can't claim to be an expert on such matters, especially considering 
+ that I'm only a middling pawn-pusher, but after many matches with the King, I'd have to say its 
+ play does exhibit some of the hallmarks of a human.  
+
+ If the King is pressing to finish you off quickly because of a weakness he's detected in your position, 
+ for instance, he'll sometimes miss the best move - perhaps a move that would reward him with a 
+ nice gain in material. And even if you've fallen far behind, you should never give up against the 
+ King unless the situation is extremely desperate: In several matches where it looked as if my defeat 
+ was inevitable, I turned the tables and found the King begging for a draw!  
+
+ Of course, other chess programs have weaker opponents that will miss moves and pursue recklessly, 
+ but the difference here is that the Power Chess King has been designed to adjust his play to your 
+ level. As your Power Chess rating (not to be confused with USCF or FIDE ratings) increases, his 
+ play becomes stronger. So while I enjoyed victories in my first two or three outings, things got 
+ a lot tougher in very short order.  
+
+ After each match with the King, the Power Chess Queen - backed by the impressive WChess engine, 
+ which scored a win against Deep Blue three years ago and has defeated several US champions - will 
+ analyze the game for you. It's up to you just how deep her evaluation is, and it's delivered in 
+ a voice that's almost a little too sexy for its own good: Every time the Queen speaks, I think 
+ I'm about to hear a pitch for fat-free ice cream or a Lean Cuisine dinner.  
+
+ In addition to the King, you can also play against the Queen, the Prince and the Princess (they 
+ play at the difficulty level of your last game with the King, except the Princess will use the 
+ WChess engine in the "middlegame") , the Nobles (opponents you've created by determining aggressiveness, 
+ speed of play, and other factors) , and the commoners. The 20 Commoners are precustomized opponents 
+ ranging in strength from very weak to nearly as strong as the Queen, with each sporting a distinct 
+ style of play. Seven of the commoners are based on famous chess luminaries, including Anatoly Karpov, 
+ Yasser Seirawan, Bobby Fischer, Judit Polgar, and Mikhail Botvinnik.  
+
+ There are a few problems in execution in Power Chess 98, some surprisingly basic in their nature. 
+ One of the most vexing is that you must always use the funky "Fischer clock" when playing against 
+ the King (it adds a certain amount of time to your clock when you make a move) - not exactly the 
+ best way to prep for an over-the-board match with a human, where the Fischer clock is almost never 
+ used. Other annoyances include the absence of a "force move" command to hurry up a dawdling computer 
+ opponent, interminable load times (due in part to a "King enters room to play" animation that you 
+ can only skip once it's onscreen) , and the inability to use clocks during Internet play (more about 
+ online play later) .  
+
+ Still, there's no denying that Power Chess 98 is an exciting and unique chess program. For me, though, 
+ the biggest factor in deciding which chess program to buy is how well it helps you learn the concepts 
+ of chess and improve your play - and here Power Chess 98 takes a backseat to Chessmaster 5500, 
+ the reigning champ of chess programs.  
+
+ All you get in the way of tutorials, for example, is a hypertext version of Advanced Strategies: 
+ My System by Aron Nimzowitsch. It's an outstanding book, to be sure, but no attempt has been made 
+ to make use of the power of the computer: There's no speech, no moving pieces - nothing more than 
+ a copy of each printed page. Compare that with CM 5500's 26 chess tutorials - some featuring multimedia 
+ presentations, and all of which are subdivided into very specific categories - and it's easy to 
+ see which program comes out on top when it comes to exploring and explaining the various aspects 
+ of play.   
+
+ For chess lovers, there's nothing like poring over some of the classic games that have been played 
+ over the years - but aside from 50 illustrative games in Nimzowitsch's Advanced Strategies, you 
+ only get seven classics in Power Chess 98, compared with hundreds in CM 5500. It's true that nearly 
+ all of CM 5500's games feature text-only annotations, as opposed to the lilting voice of the Queen 
+ describing the seven classics in Power Chess, but CM 5500's auto-annotate feature means that any 
+ classic game can be annotated with voice narration.  
+
+ Then there's analysis of your games. I'm not certain why the developers decided to only let the 
+ Queen analyze games you play against the King, but in my opinion it was a bad move: Who wouldn't 
+ want her expertise regarding games you've played against a human opponent or against one of the 
+ other computer opponents? Power Chess 98 does have an analyze-game feature that will evaluate the 
+ moves in any game, but it's text-only and presented in a format that's much more difficult for 
+ beginning and intermediate players to understand than the spoken auto-annotation in CM 5500.  
+
+ 
+ One of the most crucial keys to improving your game is mastering the myriad opening move sequences 
+ - collectively called the opening book - and here again Power Chess 98 takes second place to CM 
+ 5500. To put it bluntly, there simply isn't an opening book where you can study the thousands of 
+ opening lines developed by players over the years.  
+
+ The computer opponents in Power Chess 98 use many openings, but you're never told what they are; 
+ instead, the game encourages you to master a single opening, the Giuoco Piano, but no matter how 
+ much I scoured the documentation I could never find a single instance where the actual moves of 
+ the opening were shown! Instead, you have to listen to the Queen's advice after a game with the 
+ King - she constantly coaxes you into using it without ever saying what it is. It just doesn't 
+ compare to the over 2200 opening lines included in CM 5500 - and a feature that automatically displays 
+ the name of the opening being played by an opponent during a game. Last is Power Chess 98's multiplayer 
+ feature. I'm extremely appreciative of the inclusion of support for Internet play and in the past 
+ have lauded Sierra for including it in its games. But its importance in Power Chess 98 is blunted 
+ because you'll only find a handful of players on Sierra's WON (World Opponent Network) as compared 
+ with hundreds and sometimes thousands on The Chessmaster Network for CM 5500, which also features 
+ its own rating system for Chessmaster Network players (you do have to pay a yearly fee to be rated 
+ on the CM Network, however) .  
+
+ What Sierra's achieved with Power Chess 98 is no mean feat, but in looking at all the stuff that's 
+ just not here it seems that the quest to create a humanlike opponent came at the cost of some fundamental 
+ features. If Sierra can up the ante in terms of tutorials, game analysis, and openings, the next 
+ Power Chess will have the stuff to challenge Chessmaster 5500 for chess supremacy.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: excaliburblade
+Rating: 7.8
+Date: Mar 9, 2006 7:06 am PT
+Review:  I've always enjoyed chess and this game will definately provide you with a challenge and feedback 
+ as to how to improve your game. If you have ever wanted to play, learn or improve your chess game 
+ then this is the game for you. Not only can a novice learn the game rather quickly, but intermediate 
+ players can tweak their game and become even better. 
+  The different A. I always allow for more indepth play which will hurt your head with some of the 
+ strange moves they make. Either they will do a move you haven't seen or they will do a random pointless 
+ move (depends on difficulty setting) . Lets just say the higher level difficulties make it suck 
+ to be human. 
+::::::
+
+-------------------------------------------------

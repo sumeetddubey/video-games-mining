@@ -1,0 +1,281 @@
+-------------------------------------------------
+:::Game Name::: Magic: The Gathering Online
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/magicthegatheringonline/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jul  2, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.8
+Critic Score: 7.0, 9 Review (s)
+User Score: 8.2, 188 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Wizards of the Coast
+Developer: Leaping Lizard
+Genre: Card Battle
+Date:     Jun 14, 2002
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Magic Online is undoubtedly the best software representation of Magic: The Gathering released thus 
+ far -- quite possibly surpassing the physical card game in many respects. 
+
+ Wizards of the Coast, the company behind the extremely popular Magic: The Gathering collectible 
+ card game, has taken yet another stab at a PC re-creation of the tabletop game. In the past, Wizards 
+ has sanctioned the use of a variety of methods to impart the excitement of a duel between players, 
+ whether it be with animated versions of card art and characters, or with a gameplay system focused 
+ on challenging computer-controlled opponents in order to win cards to add to your collection. This 
+ time around, Wizards has enlisted developer Leaping Lizard Software, which has taken a direct, 
+ bare-bones approach to delivering an efficient tool that players can use to engage in card duels 
+ over the Internet. With Magic Online, you don't get many frills -- just the cards, chat rooms inhabited 
+ by other people, and an easy-to-learn, efficient interface that can turn anyone into a competent 
+ deck builder and player. It's because of its accessible nature that Magic Online is undoubtedly 
+ the best software representation of Magic: The Gathering released thus far -- quite possibly surpassing 
+ the physical card game in many respects.           Magic Online's duels remain true to the original 
+ card game.    
+
+ You may know that Magic: The Gathering, the card game that Magic Online is based on, is a competitive 
+ dueling game in which two or more players face off against their opponents in an attempt to defeat 
+ them using a variety of different cards representing magic spells. Each player begins the game 
+ with 20 life points, which can be reduced by direct magical assault or by the attacks of summoned 
+ creatures that are rated according to their power (the ability to deal damage) and toughness (the 
+ ability to withstand damage) . Players can cast enchantments that can have permanent effects, and 
+ they can also make use of magical artifacts. Turns pass between players until someone's life total 
+ reaches zero, or someone runs out of cards. Achieving victory is based as heavily on technique 
+ as on the color or colors of magic chosen. There are five colors of magic: white, green, red, blue, 
+ and black. White magic is that of healing and light, green represents the forces of nature, red 
+ signifies chaos and fire, blue is the color of water and thought, and black embodies death and 
+ decay. In order to tap into these forces, players must make use of natural resources that channel 
+ this energy -- plains for white, forests for green, mountains for red, islands for blue, and swamps 
+ for black. Play commences with each player drawing a hand of cards, then taking turns placing down 
+ land cards, one per turn, and rotating them in order to release mana points, which pay for spells. 
+   
+
+  Magic Online isn't the most visually stunning computer game available. In fact, much of what makes 
+ up Magic Online seems almost oversimplified from an aesthetic standpoint. The client looks like 
+ a Web browser with three major frames, including a chat box on the bottom, left-hand navigation, 
+ and a main window. Logging in to your Magic Online account is not unlike entering a collectible 
+ card game portal of sorts -- you have access to many different destinations, including game-related 
+ Web sites, bug report forms, a moderator and support room, the Magic Online store, your collection 
+ manager, a deck editor, clan and league areas, and, of course, the various game rooms.         
+   Choose an avatar to play against other players.    
+
+ You select an avatar from a small selection of figures -- including a goblin, wizard, or merfolk -- that 
+ represents you in the game rooms. When participating in duels, these avatars go through a few frames 
+ of animation, and the overall effect of seeing a bunch of tigers and skeletons seated around a 
+ table, engaging in a rousing game of cards, can be humorous to say the least.   
+
+  However, Magic Online does include the complete set of current Magic cards, including the seventh 
+ edition of the game and every expansion released since then. Each of the cards includes the original 
+ artwork, viewable in three different sizes, as well as the complete rules and flavor text. The 
+ illustrations on these cards feature a wide array of talented modern fantasy artists, and it's 
+ almost a shame that you can't view the impressive artwork in a gallery of some kind. There's plenty 
+ to work with as far as variety goes. There are more than 1,000 cards available in Magic Online, 
+ and countless types of decks can be built around their abilities.            Magic Online clearly 
+ lays out all of your cards and their abilities.    
+
+ The gameplay takes place on a split playfield, where competing players' cards can be viewed as they 
+ are played. Playing a card can be as simple as a single click. Left-clicking generally plays cards 
+ from your hand, while right-clicking accesses each card's special abilities. Tooltips and pop-up 
+ information boxes relay all the information you'll need concerning a card's abilities, and a handy 
+ phases list on the left-hand side of the screen tells you what portion of a player's turn is being 
+ played and which cards are playable. In the game's preferences menu, you can select any and all 
+ of these phases, which let you set exactly how often you are prompted for confirmation before a 
+ player can proceed through the segments of his or her turn.   
+
+  The game's interface is powerful. It lets you sort, organize, and make decks from your cards based 
+ on their color, rarity, and mana cost. But it isn't all that easy to pick up -- it can get cluttered 
+ at times, and some of the more important icons in the game tend to be a bit too small to see clearly. 
+ However, once you get used to it, Magic Online's otherwise intuitive interface allows little room 
+ for errors in a game whose history has been filled with player arguments over rules. The Magic 
+ Online client itself is a judge. For all intents and purposes, players simply can't break the rules. 
+ You're forced to comply with card effects when played, shuffled cards are sorted randomly, life 
+ and mana totals are tracked, and the only thing you can really get away with is a mistaken land 
+ usage or attack command, for which there is a handy "undo" function that can be used before confirming. 
+ Only applicable targets for spells and the like are selectable, so players will always make a legal 
+ move.   
+
+  In addition to standard one-on-one constructed-deck games, there are a handful of other match types 
+ to explore. Sealed-deck tournaments challenge players to purchase a new deck of cards as starting 
+ material and then build a deck to compete against others within an allotted time period. Booster 
+ drafts are games where much of a player's winning strategy is employed before a single card is 
+ dealt, with players selecting cards from a general pool. The variants for more than two players 
+ are particularly entertaining. Emperor and the two- and three-headed giant games let up to six 
+ players get together for matches in which cooperative gameplay is necessary.           In addition 
+ to casual play, Magic Online also has large-scale online tournaments.    
+
+ What is most significant about Magic Online is its focus on the sale of collectible digital information. 
+ The system Magic Online utilizes is much like the one pioneered by the online card game ChronX 
+ and THQ's WWF With Authority! Specifically, players pay Wizards of the Coast through the online 
+ Magic store for virtual booster packs and decks of cards in order to add to their virtual collection. 
+ Purchased packs of cards are sorted randomly, with the same chances of picking out a specific card, 
+ such as a holographic foil rare, as when buying a pack of cards over a store counter. Digital cards 
+ purchased from the Magic store sell for the same retail price as the physical counterparts, from 
+ $3.29 for a booster pack to $9.99 for a theme deck, as well as applicable sales tax. Because of 
+ this pricing structure, players will actually be purchasing a gift voucher good for 10 dollars' 
+ worth of cards at retail, instead of paying for the freely distributed game client. In fact, Wizards 
+ has made the Magic Online client available as a free download -- the catch is that you'll have to 
+ buy all the cards yourself.   
+
+  While players aren't receiving any physical goods in the transactions, which at launch require 
+ them to be over 18 with access to a major credit card, they are receiving cards that may well become 
+ every bit as valuable as those often kept in dusty binders and cardboard boxes. Each card is individually 
+ numbered using a secure encryption system and stored remotely, and the online cards can be traded 
+ instantaneously and in a safe manner. Instead of having to make a trip to a hobby shop, players 
+ can participate in the Magic: The Gathering tournament scene and ranking system online, which are 
+ identical to those of the collectible card game in every way, but much more accessible. At any 
+ given moment, there may be sanctioned tournaments going on, and players can enter them after purchasing 
+ event tickets to earn ranking points and prizes, including packs of cards and cash. Apparently 
+ the support that Wizards of the Coast is dedicating to Magic Online is considerable. Every current 
+ pro qualifier and scheduled championship tournament will have an online counterpart, with the entire 
+ professional scene being made available to players remotely.    
+-------------------------------------------------
+:::User Reviews::: (7 Reviews)
+::::::
+UserName: nichavgo
+Rating: 9
+Date: Jun 11, 2007 5:00 pm PT
+Review:  I started playing Magic when I was about eleven or maybe twelve, and it started slowly to grow 
+ on me. I like playing it with the physical cards with my friends and when I read about the Online 
+ version I decided to give it a try.
+  I downloaded it from the Magic page and installed it, it took some time to actualize. I really 
+ liked it, even though the graphics or the sound aren't so good, the possibility to play with other 
+ people makes it a great game. Beside it's easy to use...
+  The only bad thing: it has to actualize every time you run it, and depending on your Internet connection 
+ velocity and the time you haven't played it could take a while 
+::::::
+
+::::::
+UserName: limbodrive
+Rating: 5.5
+Date: Mar 4, 2007 1:32 am PT
+Review:  This can be a very addictive and expensive venture! At first I was concerned about investing in 
+ a game that might leave me with a bunch of cards gone on the net (You have the option of buying 
+ actual cards to keep) . The cards can be selected by your playing style. There is incredible art 
+ here as well. I jumped on board, being in Wyoming where there is limited game play activity. Here 
+ you also can play anytime with an internet connection and this software installed. You can socialize, 
+ clan together, or simply challenge to tournament level. I like the trading atmosphere. The major 
+ trouble is that this isn't on a fair playing field. You can buy rare powerful cards and whip upon 
+ the broke and unlucky players. Granted, the more powerful cards need more mana, but come on, I 
+ don't see good odds of using any fresh deck to a high dollar built up one. I get fed up with the 
+ limitations where I wonder if a particular card can work in any deck. 
+::::::
+
+::::::
+UserName: Darkbrady
+Rating: 7
+Date: Jan 14, 2007 5:51 pm PT
+Review:  Simply put, it is just MTG; they've changed nothing about it really, it's simply just the famous, 
+ incredible card game, but you can now play against millions of players globally. Probably the most 
+ annoying thing about it is the need to pour money into it if you want to have a good deck, so more 
+ ofte n than not the stronger ones or those with more money, and less wealthy players who could 
+ potentially be better at the game are limited.
+  
+  Aside from this you can still have fun though, and with the added 'Clans' feature you can group 
+ up with other clan members and have inner clan tournaments or play against people you know. Then 
+ of course there are the normal tournaments, complete with prizes and everything, but once again, 
+ money is needed.
+  
+  I wouldn't recommend starting the game without already knowing how to play because there is no 
+ tutorial and can be incredibly awkward learning both the rules and how the system works. Although, 
+ whether you know how to play or not the system can be very handy because you cannot cheat or break 
+ the rules; as the game goes you aer forced to learn and stick by the rules and if you aer ever 
+ curious about how something might resolve this can play it out for you. If you know how to play 
+ all you need to do is work your way around the rather complex system of things and get used to 
+ the ''mistakes are lethal'' aspect of knowing that you can't go back on mistakes, but once you've 
+ got it learned you're sorted!
+  
+  If you can afford to play, or aer comfortable with a very basic deck, go for it! A classic game, 
+ a brilliant game, it has all you need to get on with your MTG career and socialise at it! 
+::::::
+
+::::::
+UserName: tomp814
+Rating: 9.4
+Date: Aug 29, 2006 7:35 am PT
+Review:  They did it. A Magic Online Game with a ever-growing database of cards. Just like real life!
+  Of course, you have to pay for the cards, but the possibility of playing Magic anytime you want 
+ compensate any financial problems.
+  I have been playing this since 2000, and I have never had any problems yet, in fact, I judge their 
+ security and stability to be a good side of the program.
+  Besides the online quality, the game is perfect. It stops at every step, you can respond to any 
+ spell your opponent casts and even teaches you how to play the game! Its really a wonder!
+  Daily championships and draft every hour makes the pro player rejoice and learn about the metagame 
+ faster. Sealed and league complement the championship part of the game.
+  All in all, a true masterpiece. A game to play forever! 
+::::::
+
+::::::
+UserName: fenix1022
+Rating: 8
+Date: Jul 10, 2006 6:24 pm PT
+Review:  As far as card battle games go, this one is solid. It perfectly captures the elements of the Magic 
+ card battle game and places them into the electronic realm of gaming.
+  
+  If you are unfamiliar with the game, there are five types of cards: forest, fire, dark, light, 
+ and water. With these cards, you have creatures, artifacts, enchantments, lands, instants, and 
+ sorceries. You play on a turn based system with a pre-phase, draw phase, main phase, battle phase, 
+ 2nd main phase, and end phase. There are restrictions on cards depending on their power and fairness 
+ of using the cards (like a creature that is virtually indestructible and too easy to put down on 
+ the table) .
+  
+  The game itself lets you connect with others around the world to play and chat. You can set the 
+ rules and restrictions so that cheating is at a minimum. This game does not keep out all cheaters, 
+ but you have a chance to try out your decks against anonymous people and get them ready for real 
+ matches and tournaments. 
+::::::
+
+::::::
+UserName: Puck82
+Rating: 9.5
+Date: Jun 2, 2006 2:54 pm PT
+Review:  For my opinion I found the best game related to the Magic : The Gathering.
+  If you played or like this card game you will love this videogame.
+  It cost you only 9.99 $ but 
+ it's unlimited in playing and addictive.
+  If you wan't tou can use the preconstructed deck without spending a buck ; but if you are a real-style 
+ player you can buy decks or expansion packets (collecting the cards online) .
+  You can make a friend playing online or give a look to the chat section.
+  All the cards are present, 
+ and it is updated to the last expansion set.
+  
+  I like it very much ! 
+::::::
+
+::::::
+UserName: sodtiwaz
+Rating: 9.3
+Date: Dec 31, 2005 11:51 pm PT
+Review:  If you're a fan of Magic: The Gathering CCG then this is really a must have for you. This game 
+ has been around for over 10 years now and there is finally an online adaptation that does the game 
+ justice.
+  
+  While I really would have liked to have seen some type of game where you walked around and dueled 
+ other people and played for ante like the old microprose version this is by far the best version 
+ of computerized magic ever produced.
+  
+  This is really nothing more than an online gaming store where players from all over the world can 
+ come to play each other. there are various rooms that separate newbies from pros and there are 
+ organized tournaments as well as formats like 2 headed giant and emperor, however anyone can freely 
+ choose what room they wish to be in which leads to some veteran players staying in the new player 
+ room just to boost their egos.
+  
+  while the server does go down from time to time this has been reduced quite a bit since 2.0 came 
+ out and I rarely notice any lag or other server side issues.
+  
+  all in all if you are a magic player then this is really a must have for you. the simple fact that 
+ you can log in at any time of the day and always have an opponent waiting for you makes this game 
+ superior to physical magic in my eyes... the only exception would be the lack of human interaction, 
+ but if you've ever been to a major tournament you know how smelly it gets in there with 100+ magic 
+ players.... so i'll take a lack of human interaction as a bonus :) 
+::::::
+
+-------------------------------------------------

@@ -1,0 +1,212 @@
+-------------------------------------------------
+:::Game Name::: Ultima Online: Age of Shadows
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/ultimaonlineageofshadows/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Feb 25, 2003
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.3
+Critic Score: 7.1, 12 Review (s)
+User Score: 7.1, 216 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Electronic Arts
+Genre: Fantasy Online...
+Date:     Feb 8, 2003
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Age of Shadows' many enhancements help make Ultima Online quite possibly the most interesting game 
+ it's ever been. 
+
+ After an unprecedented five years of commercial longevity, Ultima Online continues to battle for 
+ the attention of fans of massively multiplayer online role-playing games in an increasingly competitive 
+ market. Last year's expansion pack, Blackthorn's Revenge, was an unambitious release that highlighted 
+ the game's maturity, both because it seemed to have outgrown the problems that plagued its initial 
+ release and because the developers appeared to be running out of new ideas. However, Age of Shadows, 
+ the fifth expansion pack, introduces significant gameplay changes and breathes new life into Ultima 
+ Online. Unfortunately, these changes have also reintroduced problems that had previously been addressed. 
+           The new territory of Malas hosts a variety of exotic creatures and some interesting geographical 
+ features.    
+
+  In most online RPGs, players spend almost all of their time hacking and slashing away at monsters 
+ in order to make their characters stronger and better equipped by gaining experience levels and 
+ acquiring loot so that they can then spend their time hacking and slashing at even more challenging 
+ monsters. It's a simple, addictive formula, but it's so common to online RPGs that many players 
+ simply refer to these games as "level treadmills." Other than repetitively dispatching monsters 
+ or, less frequently, battling other players, there's generally little else to do in online RPGs. 
+ Although these games typically include at least a rudimentary system for crafting items, Ultima 
+ Online remains the only game of its type that comprehensively attempts to create a virtual world 
+ in which you can develop characters who are adept at activities other than devastating the resident 
+ fauna. It's a trait that meaningfully distinguishes Ultima Online from its competition and likely 
+ explains the durability of its appeal, in spite of its increasingly outdated interface and combat 
+ system.   
+
+  Age of Shadows is largely successful at both making Ultima Online's virtual world even more compelling 
+ as well as enhancing core gameplay by significantly modifying the combat system. The most far-reaching 
+ and controversial change is the adoption of an entirely new magic-resistance system. In previous 
+ versions of the game, all damage inflicted upon your characters was treated in the same fashion; 
+ there was only one type of damage, and armor and magic resistance offered correspondingly universal 
+ protection. Age of Shadows diversifies the generic treatment of character damage by introducing 
+ five different damage types: physical, cold, fire, poison, and electricity. Every type of spell 
+ and attack inflicts one or more of these damage types, and armor no longer provides universal protection 
+ against all types of damage. This addition fundamentally changes the combat system and provides 
+ additional tactical depth to player-vs.-player combat.   
+
+  Another significant change to the combat system is the introduction of special attacks for each 
+ type of weapon. Once your character earns at least 70 skill points using a particular type of weapon, 
+ you acquire the ability to launch a more devastating type of attack. Upon earning 90 skill points, 
+ a second special attack becomes available. In addition, Age of Shadows introduces 10 new weapon 
+ types, so overall, combat is more interesting, especially for melee combat characters. Monsters 
+ have less health overall, but to offset this change, you no longer get damage bonuses while fighting 
+ them, while pets and other controllable creatures have been weakened so that you must be more actively 
+ involved in fighting battles. Though some veteran players (who had previously mastered the earlier 
+ versions of combat) may find the new changes annoying, Age of Shadows' changes do, in fact, result 
+ in faster, more involving battles.           Paladins and necromancers probably shouldn't team 
+ up like this. Their new skills and abilities conflict with each other.    
+
+  Age of Shadows also adds another landmass to explore, Malas, which is considerably larger and features 
+ a score of new creature types of various sizes and fantastical shapes. Unlike the misplaced batch 
+ of robotic characters that were introduced in Blackthorn's Revenge, the new creatures in Age of 
+ Shadows fit well within the game's medieval fantasy setting. The expansion's large new dungeon 
+ gives players who cooperate in teams access to the best new magic items, providing an additional 
+ social activity to a game that is otherwise extremely accommodating to solo adventurers. Ultima 
+ Online has always lacked a decent quest system, since quests have been limited to a few introductory 
+ tasks, as well as escort or rescue missions. While that's generally still the case, Age of Shadows 
+ introduces several significant new quests and puzzles to solve.   
+
+  Two new character templates -- the paladin and the necromancer -- and their associated skills have 
+ also been added. Using a book of chivalry, paladins can use a variety of spell-like abilities, 
+ including one that lets you teleport without needing a mage's recall spell. Necromancers have their 
+ own magic spells, like animate dead, and also can assume various physical forms. Any established 
+ characters can be modified to become paladins or necromancers by developing the associated skills, 
+ and new characters can conveniently choose from templates designed to emphasize these skills. Like 
+ each of the territories in the past four expansion packs, Malas doesn't allow nonconsensual player 
+ combat or theft, but the expansion's general changes to combat as well as the new paladin and necromancer 
+ templates do change the rules of player-vs.-player combat. Fans of player-vs.-player battles will 
+ also appreciate that they no longer lose statistics when slain and that they can now use recall 
+ spells to travel to and from Felucca, the only area in the game where player-vs.-player combat 
+ is still permitted.    
+
+ Age of Shadows enhances your ability to immerse yourself in the game's virtual world by introducing 
+ customized housing. Provided you can find a suitable location and have the necessary funds, you 
+ can now customize the construction of a virtual home. Coupled with the already existing ability 
+ to manufacture or find an immense number of unique items and the recent addition of a comprehensive 
+ gardening system, customized housing gives you the opportunity to decorate and otherwise personalize 
+ the environment for your characters in a manner that may ultimately be as addictive as such features 
+ proved in The Sims. To free up virtual real estate to give you better access to this feature, the 
+ new land of Malas has been designed to accommodate 1,500 new housing locations for each server 
+ shard. However, there was such an overwhelming existing demand for housing locations that most 
+ of the choice new spots were scooped up almost immediately. Despite the abbreviated opportunity 
+ to partake in the land rush, customized housing is a great new feature that more players should 
+ get the opportunity to enjoy once the recently introduced "one house per account" rule forces all 
+ of the virtual real estate barons to reduce their holdings to a single lot.           Dungeon Doom 
+ is a huge new dungeon located in Malas. It contains some team-based puzzles.    
+
+  Unfortunately, Ultima Online has a history of technical problems when it comes to managing server 
+ load and server lag, and these problems remain as ugly as ever. Probably as a result of the mad 
+ rush for housing spots immediately after the expansion's commercial release, it became frustratingly 
+ difficult to upgrade accounts, access servers, or even make any progress within the game due to 
+ frequently horrific lag delays. Server stability and performance deteriorated so badly that Origin/EA 
+ was recently forced to take servers offline for extended periods of time. Even worse, players lost 
+ the benefit of many hours' worth of achievements when servers had to be reset to their status as 
+ of an earlier point in time. It's not surprising that a major upgrade would have a few teething 
+ problems, but these issues are difficult to overlook, especially considering Ultima Online's past. 
+   
+
+  Then again, these technical problems may be related to the sheer number of changes that have been 
+ introduced over the past five years. Aside from introducing new territory, the various expansion 
+ packs have changed the core game's karma and reputation systems; modified and introduced skills, 
+ spells, and abilities; significantly revised the combat and housing systems; introduced a system 
+ of virtues and expanded the roles of guilds and factions; eliminated theft and nonconsensual player 
+ combat in most areas; and also allowed the use of third-party programs such as UO Assist and UO 
+ Automap. All of these modifications have resulted in a tremendously complicated system of rules 
+ (and equally complex technical aspects, no doubt) , especially since many older rules have exemptions 
+ for longtime players. The developers have generally done an admirable job of responding to bugs 
+ and exploits, but the game's complexity makes it less accessible to new players and may never allow 
+ it to consistently provide as stable and lag-free an experience as offered by other online RPGs. 
+   
+
+  Age of Shadows makes other minor changes and tweaks to the core game, though these don't affect 
+ Ultima Online's gameplay significantly. The windowed interface for the gaming world is now easier 
+ to resize, and hovering your mouse over items will now automatically bring up descriptions, although 
+ it's still often awkward to target creatures or get feedback, especially during periods of lag. 
+ Ultima Online previously offered support for a 3D client and a 2D client, and Age of Shadows (and 
+ all its new areas) continues to support either. The 3D client offers a few additional graphical 
+ perks, such as trees that sway, but the 2D client is still at least as viable an option, especially 
+ for player-vs.-player combat, since it seems to provide quicker response times. The 2D client is 
+ also still very playable on computers that are several years old, although the hard drive space 
+ requirements have significantly increased with recent expansions. There have been no notable changes 
+ to the game's sound effects or music, which remain relatively basic for a role-playing game.   
+         The 3D client features some new graphical effects, such as swaying trees and better lighting 
+ effects.    
+
+  Age of Shadows has other new features, such as allowing players to craft magic items and purchase 
+ insurance on their items. The expansion also makes other changes to level the playing field between 
+ veterans and beginners so that veterans have less control over the game's virtual economy. In addition, 
+ Age of Shadows features a "guaranteed gain system" that ensures all players benefit from whatever 
+ time they spend with the game, even casual players who don't have a lot of time to invest. Finally, 
+ new players who wish to purchase a high-level character can do so directly in the game, without 
+ having to turn to the eBay black market.   
+
+  Age of Shadows' many enhancements help make Ultima Online quite possibly the most interesting game 
+ it's ever been. Despite being over 5 years old and featuring a dated interface and relatively simple 
+ graphics, the uniqueness of Ultima Online's design allows it to retain a significant audience and 
+ appropriately rewards this audience with commercial longevity. But while veteran players may be 
+ accustomed to Ultima Online's problems with lag and server load issues, it's more difficult to 
+ recommend the game to new players, since Ultima Online still seems unable to consistently overcome 
+ its technical problems.    
+-------------------------------------------------
+:::User Reviews::: (2 Reviews)
+::::::
+UserName: staind311ne
+Rating: 6.2
+Date: Jan 13, 2006 12:51 am PT
+Review:  If you were to compare most other mmorpg's to U/O you would find that the graphics are very basic. 
+ However what the game lacks in graphics it makes up in game play. A person can spend countless 
+ hours playing and still just touch the basics of the game. Most people (now days) want to play 
+ a hack/slash type rpg. If you are one of these people then this game is not really for you. The 
+ game allows a player to decide on what his/her job will be through out the game. what I mean by 
+ that is a person concentrates on his/her stats to make the char. better at the profession he/she 
+ choices. Example. If you start out as an miner you would concentrate on bringing your mining skill 
+ up. It goes a lot more in depth then just that to bring that skill up. You have to work on bringing 
+ your basic stats up to produce better results in mining. 
+  The only other problem that I see in U/O other than the graphics would be, the time it takes a 
+ person to level up in stats. This game is one that a person must dedicate a lot of time to. Its 
+ not one that you can just play a couple hours and expect to kick butt. It can take (literally) 
+ a couple months of dedicated playing to notice a differance on how you char. performs in U/O. 
+::::::
+
+::::::
+UserName: AtreusGS
+Rating: 7.3
+Date: Jul 5, 2004 11:10 am PT
+Review:  This release of Ultima Online introduces some very good features that focuses on the strengths 
+ of the game in contrast to other MMORPGs. The graphics client has not been given any upgrade - 
+ though new images have been added to the game. However, the biggest changes are found in the addition 
+ of a new land mass (Malas) , combat changes, customizable housing, and a new dungeon - that comes 
+ with new items.
+  
+  The combat changes are liked by some and hated by others. It can be argued that the changes make 
+ combat more item based than skill based. Also, with the introduction of the new dungeon, Doom, 
+ artifacts (uber items) have been introduced that can cause some combat balance problems.
+  
+  However the strength of the game has long been in communtiy style gameplay. With the addition of 
+ the new land mass, though it has become like a trailer park, the opportunity for most players to 
+ own houses allows all players to experience that side of the game. And customization of the buildings 
+ gives a player the ability to immerse him/herself into the game.
+  
+  Overall, the Age of Shadows is a solid expansion. Though many will argue over the value due to 
+ the changes in the combat system, the developers are frequently making changes to ammend some of 
+ the unbalanced issues. so, this game, in my opinion is still of solid value. 
+::::::
+
+-------------------------------------------------

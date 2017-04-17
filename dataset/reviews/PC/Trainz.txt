@@ -1,0 +1,208 @@
+-------------------------------------------------
+:::Game Name::: Trainz
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/trainz/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Mar  8, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.7
+Critic Score: 7.9, 18 Review (s)
+User Score: 7.9, 85 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Strategy First
+Developer: Auran
+Genre: Business Strategy
+Date:     Feb 10, 2002
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+If you've ever been captivated by the romance of the rails or have perhaps thought of dabbling in 
+ model railroading, Trainz could easily make an enthusiastic convert of you. 
+
+ It's a strange, postmodern world. First, there were railroads. Then there were model railroads that 
+ simulated them. Now with Trainz, we have a simulation of a simulation. Trainz actually models model 
+ railroading. As odd as that may sound at first, it really makes good sense. As any model railroader 
+ will tell you, some of the biggest challenges of the hobby are finding the time, money, and space 
+ to build a big model railroad layout. Unlike creating model cars or planes, model railroading usually 
+ entails building big, minutely detailed, fully functioning models. With Trainz, you can create 
+ the virtual model railroad of your dreams, easily expressing your creativity and indulging your 
+ imagination.           It's fun and easy to build your own model railroad using Trainz.    
+
+  Trainz is a modular system that ships with three components: My Collection, Surveyor, and Driver. 
+ These modules let you examine your collected engines and rolling stock (railroad cars) , create 
+ railroad layouts, and drive trains across them. Trainz developer Auran (the Australian developer 
+ responsible for the great 1997 real-time strategy game Dark Reign) plans to release expansion modules 
+ that will let you simulate complex switching and dispatching operations or handle the financial 
+ end of running your railroad. Auran also plans to release various locomotive and rolling stock 
+ packs to add to your collection. You can already download a number of free engines and structures 
+ created by either Auran or fans using 3D modeling programs, one of which is included with Trainz. 
+   
+
+  Regardless of what Auran might deliver in the future, the core Trainz package offers loads of features 
+ that will have any rail fan or model railroader really excited. The My Collection module lets you 
+ view all your engines and rolling stock, and the game ships with dozens of them. You can sort them 
+ by country of origin or railroad company, as well as view real-world background information on 
+ each engine or car. For rolling stock, you'll get boxcars, refrigerator cars, hoppers, a variety 
+ of passenger cars, and more. Engines include the F7 and SD40-2 diesels of North America, the Class 
+ 340 of Spain's Renfe line, and Sweden's Rc4 electric, among others. Sadly, you don't get any steam 
+ engines, which will surely disappoint the countless rail fans who love the "golden age of steam." 
+           There's a wide variety of authentic train types available.    
+
+  When you're done admiring your collection, you can head out onto the rails in the Driver module. 
+ First, you'll assemble your train by simply dragging and dropping engines and cars from a list 
+ to a little window at the bottom of the screen in the order you like. Then you choose the weather 
+ (cloudy, rainy, snowy, and so on) and how often it can change. You can also set the time of day 
+ and choose a time compression factor, if any. You can also decide whether or not trains can derail. 
+ Then you choose starting positions for your trains from a number of preset locations on the game's 
+ three sample layouts set in North America, Britain, and Australia. All the layouts are interesting, 
+ but it would have been better if the game had included more.   
+
+  When you're ready to go, you can drive your trains using a model-railroad-style DCC controller 
+ with a knob to control direction and speed, or you can use realistic engine controls and physics, 
+ more like a simulator. Navigating the layouts is fairly trouble-free thanks to a track map and 
+ easily changed track switches. Coupling and uncoupling cars is a simple point-and-click affair, 
+ but since the game doesn't offer any scenarios, you'll have to rely wholly on your imagination 
+ in planning your operations.    
+
+ You can watch the action from multiple camera views, including one inside the engine cab. The camera 
+ is very easy to zoom and pan, though it's unfortunate that you can't position it anywhere you want -- you 
+ have to rely on preset layout-specific positions or follow the train directly. It would have been 
+ nice to get a truly free bird's-eye view.           You can operate your train from the inside 
+ or from the outside.    
+
+  Unlike in Microsoft's Train Simulator, which realistically re-creates huge stretches of track to 
+ scale, the distances between points of interest tend to be compressed in Trainz, much like in a 
+ real model railroad. Just as soon as you leave a town, you're likely to pass a towering grain elevator 
+ or cross a bridge over a rocky gorge with a stream winding far below. In Trainz, there's always 
+ something engaging to see.   
+
+  Trainz's graphics beautifully bring the layouts to life. The engines are nicely detailed, with 
+ working headlights and exhaust billowing in the breeze, though not all of the cab interiors properly 
+ match the exteriors. The trackside scenery is also impressive, with varied buildings, working track 
+ signals, and moving automobiles. (If you look closely, you'll see one that looks suspiciously like 
+ the A-Team's van.) The dynamic weather is impressive, too, with lightning flickering across dark, 
+ distant clouds during a storm. It's odd, though, that while selecting "heavy snow" will indeed 
+ make snowflakes float down, the ground and rooftops will remain clear.   
+
+  To complement the graphics, the game wisely features realistic sound effects, as opposed to those 
+ based on little model trains. Again, there are lots of neat details to discover, like a banjo playing 
+ inside a little rustic cabin.   
+
+  When creating your own model railroading scenes, you'll turn to the superb Surveyor module. Thanks 
+ to a wonderfully clear and intuitive interface, you can start creating a layout in no time. You'll 
+ hardly even need the manual, though it's a fairly good one. You can quickly morph terrain before 
+ your eyes, alter ground textures, and preview the layout with different weather and lighting. You 
+ can set down office blocks, bakeries, roundhouses with turntables, groups of people, horses, trackside 
+ signs, and just about anything else you can think of.           The scenery is rich with visual 
+ and aural detail.    
+
+  Laying track is equally simple, though you're currently limited to standard gauge track. Between 
+ that and the lack of steam engines, there's presently no way to create, say, a classic Colorado 
+ or Maine narrow-gauge line out of the box. You're also currently limited to textures and objects 
+ geared toward layouts set in Australia, Britain, and North America. To re-create other regions 
+ realistically, you might have to wait until more appropriate textures and objects are released 
+ or create your own. Another problem with the Surveyor module is that the default choice in the 
+ "quit" dialogue box is to exit  without  saving your layout, which makes it too easy to lose an 
+ hour's worth of work.   
+
+  That's really a fairly minor quibble, considering Trainz's many great strengths. By letting you 
+ so easily create so much, Trainz is one of those programs you can return to again and again. Since 
+ it's currently more a construction program than a simulator or game, imagination is required, but 
+ that's a good thing. If you're already an ardent model railroader or rail fan, you owe it to yourself 
+ to give Trainz a try. If you've ever been at least slightly captivated by the romance of the rails 
+ or have perhaps thought of dabbling in model railroading, Trainz could easily make an enthusiastic 
+ convert of you.    
+-------------------------------------------------
+:::User Reviews::: (3 Reviews)
+::::::
+UserName: Blakewiz
+Rating: 9
+Date: Mar 8, 2006 1:04 pm PT
+Review:  This game has so much to offer. Not only does it allow you to drive the train it also lets you 
+ build your own routes, run a train yard, paint your own trains and much more. It has varying amounts 
+ of realism from model train to just like the real thing. There are lots of routes to chose from 
+ plus the build your own route is a nice addition. The actual scenarios are very interactive and 
+ fun once you get the hang of them. It gets more of that 'human' feel than Microsoft Train Simulator. 
+ Anyways, if your looking for a great train game get this one. 
+::::::
+
+::::::
+UserName: cookiecutter
+Rating: 8.9
+Date: Oct 24, 2004 1:56 pm PT
+Review:  For a genre that you assume would be suffering from overcrowding, the train driver simulation scene 
+ has been underwelming to say the least. Microsoft did their bit with the Microsoft Train Simulator, 
+ which featured realistic engines, scenery and real world tracks. Auran's answer, Trainz, cuts back 
+ on the real world tracks and the detail but beats its more fancied opponent on the ground simply 
+ by being more fun to play.
+  
+  The game features three different "worlds", America, Great Britian and Australia. None of these 
+ networks are based off real world settings, but are still well detailed and expansive. There's 
+ a large selection of engines and carriages available as well, with a great deal of the world's 
+ finest on show. The detail of these engines and carriages goes to show Auran's commitment to the 
+ cause, and trainspotters will delight in every detailed coupling and accurate colour scheme. One 
+ noticable absentee however is Queensland Rail's Tilt Train, which, when you consider that most 
+ of the other Australian train services are represented, is a bit sad. 
+  
+  The controls are an interesting package; They can be as impossibly complex or mind-numbingly easy 
+ as you want them to be, from a set of complex start up and take off procedures to merely just hitting 
+ the "go forwards" button. Younger players will appriciate the simpler controls while the hardcore 
+ sim fan will appriciate the more complex system.
+  
+  If the game has a fault, it's that the game might be a little too simplicistic. The graphics, presentation, 
+ and scenery are all fine, but they can be a little sparse and samey, and it's one area that MTS 
+ beat it hands down. Also, with only three major track systems in game, it won't be long before 
+ you have your fill of the tracks on offer, and wonder where the next track will come from. Luckily, 
+ there is a steady community out there that can provide custom tracks as well as engines, carriages 
+ and scenery. 
+  
+  Like MTS, there is a scenario mode available. And like MTS's scenario mode, most of the scenarios 
+ play out much the same way - Drive the train without breaking the rules, stop at all the stations, 
+ drive in varible conditions and so forth. While admittedly, there's not much you can do in this 
+ regard with a train simulator, it would have been nice to see a bit of variation in the missions. 
+ Having said that, it's fun, hard work, but probably unsuited to younger players who may like driving 
+ around the tracks at high speed better.
+  
+  There are some problems with the track editor, too. Overall it's fun to play around with but far 
+ too often you'll find yourself building tracks that are too dangerous for the trains to drive on. 
+ Building tracks of any real substance or realism also requires a great deal of patience. Don't 
+ expect to be able to construct your local train network in an afternoon session, or with any great 
+ precision. In spite of its problems though, the track editor is still much better than the one 
+ provided by Microsoft for MTS.
+  
+  Sonically, the game is everything you'd expect it to be. There's nothing spectactular here, but 
+ nothing completely outragious either, which is just as good.
+  
+  It should be noted that the version reviewed here is the budget release of Trainz which features 
+ the Scenarios mentioned in the review. Readers should also note that an updated version of Trainz 
+ was released in 2004.
+  
+  Those looking for a more realistic experience might be advised to seek out Microsft Train Simulator. 
+ However, if all you want to do is play Train Driver and storm about the make-believe countryside 
+ in the Orient Express, then Trainz is the better option.
+  
+  
+::::::
+
+::::::
+UserName: kane13
+Rating: 9.3
+Date: Mar 27, 2004 12:21 pm PT
+Review:  When I first laid eyes upon trains, I thought, What a dumb game." Boy, was I wrong. Even If you 
+ know nothing about trains, you will like this. Everything about it is superb. There are four modes. 
+ Driver, colletion and seanerios. In collection, you can look at the trains you have, in Driver, 
+ you can take control of a train and just drive it around. In searnerio, tou can start a campign 
+ in trains, Everything about it is awesome, and I would recomend it to anyone. Even if you hate 
+ trains, go pick this up, because it is truly superb!!!! 
+::::::
+
+-------------------------------------------------

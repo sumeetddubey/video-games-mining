@@ -1,0 +1,953 @@
+-------------------------------------------------
+:::Game Name::: Lords of the Realm III
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/lordsoftherealm3/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Mar 26, 2004
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.4
+Critic Score: 5.5, 12 Review (s)
+User Score: 6.0, 556 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Impressions Games
+Developer: Sierra Ent.
+Genre: Historic Real-Time...
+Date:     Mar 17, 2004
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Lords of the Realm III is one of the freshest, most satisfying games produced by Impressions in 
+ years, and it's a great real-time strategy game in its own right. 
+
+  The road to release for Impressions Games' latest, Lords of the Realm III, has been a bumpy one. 
+ Last fall, Sierra abruptly yanked the game from the November shipping schedule and postponed its 
+ release date until spring. Then, just a month before the game was finally due to hit stores in 
+ March, the publisher announced that it would ship at a $19.99 budget price. Given the usual state 
+ of most budget-priced PC games these days, this usually isn't a good sign. So you'd be forgiven 
+ for assuming the game to be something of a disaster. However, you'd also be wrong. Lords of the 
+ Realm III is one of the freshest, most satisfying games produced by Impressions in years, and it's 
+ a great real-time strategy game in its own right.  
+
+          Everything is in real time here. You have to fight at three or four places simultaneously, 
+ and you must make hard choices about which battles to manually control and which to turn over to 
+ the computer.     
+
+  Lords of the Realm III makes some pretty major changes to the formula. All of the typical elements 
+ from the developer's creaky city-building series have been dumped in favor of a real-time strategy 
+ approach that goes heavy on tactics and light on resource-gathering. Medieval kingdom management 
+ is streamlined and easy to pick up, yet at the same time, the scale of play is epic enough that 
+ you can conquer whole nations and besiege numerous castles simultaneously.  
+
+  Those looking for a straightforward sequel to Lords of the Realm II, however, will be disappointed. 
+ This is a very different game, which is a fact that shouldn't surprise anyone since its predecessor 
+ was released in 1996. Where the 8-year-old Lords of the Realm II was a rudimentary city-building 
+ sim where you had to put smiles on the faces of your peasants, the follow-up is a straightforward 
+ RTS that's spread across a strategic map interface and a combat screen. Events take place on the 
+ two levels simultaneously in real time (you can't even pause to give orders) , so you can't get 
+ so wrapped up in directly managing a battle at one castle that you forget about what's happening 
+ at another. Instead, you have to bounce back and forth between the two, manually controlling key 
+ conflicts and letting the computer handle everything else.  
+
+  "Elegant" and "simple" are the best words to use when describing this system. It doesn't provide 
+ an in-depth perspective on running a medieval kingdom, and as such, it is far removed from the 
+ much more detailed Lords of the Realm II. However, it does supply a catchy Cliffs Notes version 
+ that doesn't get bogged down in minutiae. Impressive artificial intelligence allows you to rely 
+ on the computer to win the battles that you should win, and it doesn't make you feel as though 
+ you have to micromanage every conflict. Additionally, you can duck in and out of battles as often 
+ as you want. For example, if you don't trust the computer's ability to completely handle the assault 
+ on a strongly fortified castle, you can manually set the siege engines in place and arrange your 
+ troops before turning over control.  
+
+  Being able to trust the artificial intelligence is a good thing in Lords of the Realm III, since 
+ each of the four solo campaigns (set in medieval Ireland, England, France, and Germany) require 
+ you to fight on two or three fronts at once. You might be razing a village, besieging a castle, 
+ defending a castle, and waging war in the field simultaneously. Thankfully, the combat engine focuses 
+ more on tactics than on rushing. Troops are organized into companies that are led by knights, which 
+ simplifies orders since a single click sends a group of soldiers into the fray. Most important 
+ decisions are made before the battle, so you don't have to be an expert mouse-slinger to win the 
+ day. It's more vital to set a proper order, choose from the eight available formations (two to 
+ four are open to each company, depending on unit type) , and maneuver troops into appropriate attack 
+ positions (terrain matters) than it is to click quickly once the battle begins. Otherwise, units 
+ can panic and be routed.  
+
+          As expected in a game dealing with medieval warfare, there is a lot of siege combat. Smashing 
+ fortifications with catapults and ascending castle walls with the aid of siege engines is a routine 
+ occurrence.     
+
+  Unit types also keep things fairly simple. While there are 18 different soldiers that run the gamut 
+ of medieval European specialties, from peasant militias, to cavalry, to Teutonic knights, they 
+ each fall into a few basic categories that work well for most tactical plans. Each may have wildly 
+ different strengths -- so, for instance, nobles are far stronger than swordsmen -- but you can generally 
+ use all classes of foot soldiers in the same way. There are, however, counter-units that are good 
+ for specific situations. Pikemen, for example, are best-suited for use against cavalry charges. 
+ Ranged units are deployed in similar fashion. Of course, though, you have to take into account 
+ such variances as the added power of Welsh longbowmen over regular bowmen. Overall, there is enough 
+ variety to keep you interested but not so much that you're constantly looking to the manual.  
+
+ 
+  Battles are frenetic, but at least you don't have to worry about the home front. Kingdom management 
+ is centered on the assignment of four different types of vassals to develop parcels of land. These 
+ characters are responsible for all of the base development and unit deployment in the game. Sign 
+ them into your service, and they recruit soldiers, bring along the family siege weaponry, make 
+ money, grow food, and are required to upgrade buildings. Deploy a knight, and he'll fortify a parcel 
+ and raise troops. Move a clergyman out to boost both your health and your Christianity rating, 
+ which improves productivity. Call on the burgher to build towns and to generate gold, or send in 
+ the serf when you need to drum up manpower to produce food. Vassals automatically collect the game's 
+ two resources (of food and gold crowns) , so all you have to do is keep them deployed in the right 
+ areas to ensure that your armies are fed and that your treasury is full.     
+
+  Some management is required when looking after the vassals, though. In addition to the four main 
+ varieties, they are sorted into experience levels (lesser, common, regional, and kingdom) and often 
+ come with bonuses. More-powerful knights, for instance, typically feature bonuses to such qualities 
+ as ferocity and bravery. Others might require you to fulfill specific tasks. Grazino the Wicked, 
+ for instance, might demand that his lord's Christianity rating be no higher than two, while Dreux 
+ the Valiant might demand a chivalry rating of at least six. Burghers, clergymen, and serfs don't 
+ have personalities as developed as those of knights, although they also have their own bonuses. 
+ Top burghers, for example, have higher skills when it comes to raising money.  
+
+          Despite the frantic elements of medieval warfare, troop formation is vital. Attacking enemy 
+ castles is much easier if you have soldiers in appropriate formations when entering battle.    
+
+  Different knights come equipped with varied unit types and siege weaponry, too. At certain times -- particularly 
+ when you're gearing up to besiege a castle and need knights with access to siege engines, mangonels, 
+ trebuchets, and the like -- you need to play musical chairs to shuffle incoming knights with better 
+ equipment into the mix. However, you can also go on a buying spree in a burgher vassal's city, 
+ which allows you to hire special agents like siege engineers, who come with such hardware. Vassals 
+ appear to continually offer you their services during a campaign -- since they are sparked by both 
+ your successes on the field and by specific trigger events -- so there is usually a strong lineup 
+ available whenever new parcels of land are added to your kingdom.  
+
+  The only complaint with all of the above is that sometimes the system works too well at automating 
+ kingdom-building endeavors. From the starting position in most campaigns, you can build a powerful 
+ army right off the bat by combining troops from four or five vassals. Then you can just let the 
+ computer win siege after siege for you. This leaves you with nothing to do but wait for battles 
+ to be resolved, since the management portion of the game deals with little but selecting and deploying 
+ vassals. Diplomacy also feels tacked on and is lacking some important options. You can give gifts 
+ to rivals to encourage alliances, for example, but you can't demand alliances.  
+
+  Fortunately, later campaigns increase in difficulty, largely due to the more-advanced castles found 
+ in later eras as you move from the 11th century to the 15th. By the time you reach France and Germany, 
+ for instance, most attacks on enemy fortresses have to be manually directed because the enemy artificial 
+ intelligence goes from easygoing to murderous. Advances are countered, weak points are searched 
+ out, and computer sides will even dig in, develop cities, and hire loads of mercenary soldiers 
+ around the estate if you begin to carry the day in the outlying regions of a lord's territory. 
+
+  Just as the gameplay is much better than you'd probably expect from a $20 release, so is the audio 
+ and video. The game's sound quality is immaculate. The most notable feature is a gothic musical 
+ score that boasts an eerie organ that's reminiscent of Halloween-inspired versions of Bach's Toccata 
+ and Fugue in D-minor. Battles occur amid a cacophony of metal clashing and shouts. Unit-recognition 
+ responses are varied and inspired. Hearing a knight yell "Torch the countryside!" when you give 
+ the raze command is immensely satisfying.  
+
+  The visuals are also very good, though they're not particularly polished. While everything is in 
+ 3D -- even terrain features -- animations are a little choppy. Cavalry units slide more than gallop, 
+ and troops going over a castle wall bunch up so tightly that they form a pulsating mass. Still, 
+ an impressive amount of detail is provided, particularly during sieges when you set afire a palisade 
+ with flaming arrows or you bring down a stone wall with a catapult.  
+
+          Graphic frills and the fully 3D engine are most notable during sieges. Send bowmen with 
+ fire arrows against a palisade, and expect to see some pyrotechnics as the wooden walls come down. 
+     
+
+  There is also a lot of content here for a bargain game. Along with the four campaigns, which feature 
+ more than a dozen lengthy missions that have you fighting against numerous enemy lords, there are 
+ single-player maps based on famous battles, such as those at Hastings and Agincourt. Expect to 
+ dedicate a good 40 hours to playing everything. Internet and LAN multiplayer modes allow up to 
+ eight players to battle it out, and Sierra has already released a downloadable castle editor that 
+ lets players build custom fortresses that can be exported into single-player and multiplayer scenarios. 
+
+  Impressions has hit a great balance in Lords of the Realm III by providing lots of duties to fulfill, 
+ as both a king and general, while still managing to dodge the usual pitfalls of micromanagement 
+ and flimsy tactical depth. A game as good as this deserves more respect than that offered by release 
+ delays and getting kicked out the door with no fanfare.     
+-------------------------------------------------
+:::User Reviews::: (27 Reviews)
+::::::
+UserName: cottoneyej31
+Rating: 2.5
+Date: Oct 11, 2008 3:12 am PT
+Review:  Wow, this game is really terribad.
+  
+  The good. 
+  
+  While some people may say the graphics are dumb. The graphics are kinda nice I think.
+  
+  Different 
+ units with different strengths and weaknesses. And ability to get better units by behaving certain 
+ ways.
+  
+  The BAD.
+  
+  
+  Standard battles on open plains are ok. But just wait till you try to siege. Go ahead. Try it. 
+ If your soldiers dont get stuck on a siege ladder and climb endlessly....... watch them get slaughtered 
+ by a group of peasants with pitchforks garrisoned in a tower. Or, try to tell your men to get off 
+ the damn wall and go into the center of the castle you are siegeing. The just stand there.
+  
+  So most of the time you are forced to let the AI do the battling because only it can seemingly 
+ overcome the terrible programing and soldiers that wont follow orders. But then half the time even 
+ the AI doesn't know what its doing. Leave the battle field and let the AI fight it for you to manage 
+ some things. Come back sometime later, both armies are in the exact same spot. 
+  
+  Get done with the first campaign. And if you are anything like me, youll say to yourself. "Wow, 
+ I know like in lords of the realm II all the maps are essentially the same and you do the same 
+ things... but at least LOTR II it was simple, fun and WORKED. Screw this" 
+::::::
+
+::::::
+UserName: More_Dakka
+Rating: 7
+Date: Aug 28, 2007 2:23 pm PT
+Review:  Lords of the Realm 3 is the most recent addition to the now ancient, but well made Lords of the 
+ Realm series. Its surprising that it took this long for a new Lords of the Realm to come out, especially 
+ after how great Lords 2 was. So is lords 3 as good as Lords 2? Ultimately, it depends on what your 
+ looking for.
+  
+  Lords of the Realm 3 offers several campaigns for players to go through. These campaigns cover 
+ varying points in Medieval history, such as the reign of Barbossa in Germany, the crusade against 
+ the Cathars in Toulouse (I doubt I spelled that right) , and several others. The basic gameplay 
+ in Lords 3 has you vying for control of many regions with other lords, just like in Lords 2. But 
+ the similiarites end there. For starters, Lords 3 is completely real-time, so you'd better be ready 
+ for some serious micromanaging! OK, not really actually, for Lords 3 handles its new system extremely 
+ well, even with all of those battles going on all around the map.
+  
+  When you gain a new land by taking its main estate province, you can assign your vassals to its 
+ parcels of land. There are 4 kinds of vassals: Knights who provide your armies, clerics who make 
+ money, priests who keep your religion rating high, and peasants who make food for your armies. 
+ You'll need to use all of these vassals accordingly in order to win, and the system makes it very 
+ easy to get built up in a matter of minutes. This makes the actual base-building part of the game 
+ very short and simple, so you can concentrate on all the combat going on.
+  
+  The game's combat is actually quite simplistic when you reach the battlefield. The combat is actually 
+ where Lords 3 seems to share the most similarities with Lords 2, since both game's share the aspect 
+ of almost mindless combat. Lords 3 however benefits from some actual formations, making battle 
+ organisation a bit easier. Other than that, the combat is very similar to Lords 2. This also applies 
+ to the sieges, so if you liked the combat in lords 2, you should be right at home with Lords 3's 
+ combat. There is a catch however- most of the game's scenarios will have you fighting on at least 
+ 2 fronts at any given time, and the game continues at full speed when your in combat! Fortunately, 
+ you can leave battles up to the AI, which should be able to win battles your supposed to win. The 
+ AI is really quite simple in its tactics, and can be slow to get started in combat. But when it 
+ starts making its moves, it generally pulls them off effectively. So while the gameplay is all 
+ good, there is one major problem with Lords 3... And that would be its replay value. Lords 3 only 
+ offers 5 relatively short campaigns. When your done with those, all you'll have left to do is multiplayer 
+ with those exact same campaign maps, or one-off battles. Both of these will undoubtedly get boring 
+ pretty quickly. But ultimately, that's what you get since Lords 3 is a budget priced game. Also, 
+ Lords fans expecting a game similar to Lords 2 should stay away from Lords 3, this is not the game 
+ your looking for.
+  
+  Graphically, Lords 3 is not pretty. The unit models in both the strategic map and world map are 
+ ugly, and the environments are bland. Sound wise, the game has some surprisingly good voice acting, 
+ along with some unpredictable combat sounds that don't always play at the right time.
+  
+  While the limited replay value is a bummer, Lords 3 has some great gameplay that is worth anyone's 
+ time to try. So ultimately, the mileage with Lords 3 will vary tremendously from customer to customer.
+ 
+  
+  Pros: Fast-paced gameplay that is well managed, limiting excessive micromanagement. The combat 
+ system is old-fashioned, but still fun to use. Single-player campaigns are challenging enough to 
+ keep you occupied for at least a while. Effective AI.
+  
+  Cons: Extremely limited replay value. Bland graphics.
+  
+  Recommendable for: RTS gamers who 
+ want a bargain priced and challenging experience would do well to give Lords 3 a try. Gamers who 
+ want a true Lords 2 sequel- stay away! 
+::::::
+
+::::::
+UserName: Anguille02
+Rating: 8.8
+Date: Mar 21, 2007 1:07 am PT
+Review:  Obviously, only a few peope understand this game... and it's an easy one.
+  
+  People should not compare it to Lords 2 as they are indeed very different. Also, before being a 
+ RTS, it is mostly a strategy game.
+  
+  The game: - strategic map. You have to place vassals. Sounds easy and it is in the beginning cos 
+ you don't have much choices (yet) . You have farmers (food) , you have priests (relations) , you have 
+ burghers (money -&gt; mercenaries, relations and upgrading of castles) and you have Knights (armies) . 
+ All of them are different and the deeper you go into the game (and depending on your actions) , 
+ the more you will have. Managing and placing all these vassals is part of the strategy and get's 
+ more difficult with time (there are more than 500 different vassals with different troops and qualities... a 
+ good knight has bigger companies than bad ones) . You have to think about your military strikes 
+ carefully and also keep an army or two to guard your backyard as he ai sees your weak points and 
+ attack them. The wrong strategy and you've lost very quickly.
+  -Combat map. Well it's not praetorians nor TW, but it's very well done. The ai knows very well 
+ how to attack your castle.
+  
+  Bad:
+  I don't like the way the AI places his troops to defend his castle. It doesn't make it so much 
+ easier but still.
+  
+  The very very bad: no printed manual. This is bad. However, it seems that almost nobody here has 
+ been able (or knows how) to download the manual from the homepage sierra. Plenty of information 
+ there. The very very good: the game is simple but difficult to master. Most of the player seem 
+ to stop after the campaign of Ireland. That campaign is actually the last part of the tutorial 
+ and it is very basic. The real fun begins later.
+  
+  Don't resign until you've played the Black Prince scenario. 
+::::::
+
+::::::
+UserName: Arch-Villain
+Rating: 1.9
+Date: Feb 5, 2007 7:52 pm PT
+Review:  Lords of the Realm III is a disgrace.
+  
+  There are literally so many things wrong with this game that I do not know where to start. Whatever 
+ I say here will in no way prepare you for the extreme pile of unimaginative, boring, and revolting 
+ dog piss that is Lords of the Realm III.
+  
+  I am going to stray form my usual review format and make this really simple:
+  
+  The Good - 
+ The box art is much better than the utter crap found in the game.
+  
+  It's found in many bargain bins.
+  
+  The Bad -
+  
+  Lords of the Realm III is an RTS; It strayed 
+ from the winning, turn based formula of its two predecessors for no good reason. The artwork is 
+ horrible, and makes the game look silly, stupid, and lame. The in game graphics are bland, simplistic, 
+ dull, and lifeless.
+  
+  It was made.
+  
+  It cost money.
+  
+  I could write an entire book listing the many flaws of this game, but I am not going to. If you 
+ want to see the game that shoved the final nail in Impression's coffin, pick up a copy of Lords 
+ of the Realm III. Just make sure that you keep your receipt so you can return it for a refund the 
+ next day. 
+::::::
+
+::::::
+UserName: BoogieManFL
+Rating: 3
+Date: Dec 28, 2006 1:47 pm PT
+Review:  This game is terrible. It could have been more, but it's not. Epic castle sieges? More like, 400 
+ soldiers standing in a 3ft square fighting . What were they thinking? A complete waste of time. 
+ If you're a fan of mismanaging time, or terrible games, then go right ahead. Otherwise, go play 
+ with a rabid Grizzly Bear instead. It'd be more interesting. I wouldn't take a copy of it for free. 
+ And I'm sorry I wasted $20 on it.
+  
+  I'm sorry for the people who made it, I assume they just didn't get the time (or budget) required 
+ to refine it. 
+::::::
+
+::::::
+UserName: eller1
+Rating: 2.5
+Date: Dec 13, 2006 4:22 pm PT
+Review:  There is a huge disconnect from the person playing, to the computer supposedly handling everything 
+ else for you. You do nothing but fight battles and try to take over capitals' in a province again 
+ and again in the same province. You can defeat one army and another will show up out of nowhere 
+ to fight over the same city you thought you took. And you can't take the province until all enemy 
+ troops are cleared. The Ai can produce endless amounts of armies and you it's hard and time consuming 
+ to come up with just a third of what the computer can create. The only defense you have is your 
+ armies or capitol's that are upgraded to strong castles, but don't rely on these fortresses. The 
+ enemy can lay waste to pretty much anything else if you don't have an army in the vicinity. O wait 
+ you hardly have any troops to raise to defend much less go on the offensive. The economy you hire 
+ a burgher to create a city and procure gold that's it. Diplomacy is just hype, you don't have time 
+ for cause the game is real time even when fighting battles be careful. Religious factor it's niether 
+ bad nor good. the music is probably the better part of the game. I could go on for another ten 
+ pages I'll just warn you stay away from this game, and don't listen to gamespots' review they seriously 
+ distorted the truth. 
+::::::
+
+::::::
+UserName: jim003
+Rating: 1
+Date: Dec 4, 2006 8:55 am PT
+Review:  My favorite game of all time is Lords of the Realm II. I subscribed to GameTap just to be able 
+ to play it again because the original wouldn't play on my XP system.
+  
+  I was looking forward to this game for a long long time. I can't believe GameSpot gave this an 
+ 8.4. I would give it a ZERO if I could. This game went in so many different directions it never 
+ was able to excel in any of them.
+  
+  I just wished they would have made it more like Lords of the Realm II. Turn based and then real 
+ time and not both.
+  
+  If your a fan of the series DO NOT BUY THIS GAME!!! 
+::::::
+
+::::::
+UserName: YourOpFeR
+Rating: 3
+Date: Feb 6, 2007 6:49 am PT
+Review:  Ok.... LotR II was cool. Very cool. One of my friends had it and we always played it together, 
+ having much fun.
+  
+  Then... LotR III came. I bought it, because I thought: If LotR II is very good, LotR III must be 
+ perfect. How wrong I was...
+  
+  After buying and installing this and starting the 1st map I felt like a poor little fool who was 
+ betrayed by big concerns which only want to make money. This title is crappy, it is a shame for 
+ the whole LotR series, it's boring, ugly, uninspired and has only about 10 maps and some boring 
+ battle maps. There is no free play... if you want to play a map in singleplayer mode, you must 
+ play a campaign scenario. If you don't play the campaign, you'll never have all maps and you'll 
+ never be able to play a real singleplayer game. Because you can only play the maps in Campaign 
+ mode, you cannot play as every county, making things even worse and killing most of the fun you 
+ could have with this game... IS THIS A JOKE?!? I PAYED 19 FOR THIS PIECE OF &amp;$ &amp;%% !!! 
+ AND IT'S NOT EVEN WORTH 50 cent!!!
+  
+  However, I kept playing... I paid 19 and I was not going to just throw this game away, even if 
+ it was the biggest piece of crap I've ever seen for the PC.
+  
+  I never played through it, but I got quite far. The game became at least a little entertaining 
+ later on. Nevertheless, this thing was not worth 19 and was one of the biggest disappointments 
+ of the year 2004.
+  
+  Overall, this game was only made to make people buy it because of its name and its great predecessors. 
+ It's quality is poor and it's a big big disappointment. I really can't understand why gamespot 
+ rated it 8.4. This must be a bad joke! 
+::::::
+
+::::::
+UserName: mentat76
+Rating: 1.4
+Date: Jul 27, 2006 6:53 am PT
+Review:  I cant believe they have again ruined a game sadly this time this game!!!
+  
+  I have spent 100s of hours for the LOR1 and with LOR2 more than that but i couldnt spend more than 
+ 2 hours with this game. I cant even write down PROs and CONs for this game as i always do in my 
+ reviews..
+  
+  I actually am very upset to see such a good name is ruined. I hate to see this when developers 
+ do that. They take a good name and they change its every aspect like, is it a RTS? FRP? FPS? doesnt 
+ matter for them. 
+  
+  They just say: What is the trend today? FPS? ok. we are going to change the turn based style of 
+ Lords to FPS for the LOR3. It was a strategy game? forget it , it is going to be an arcade game, 
+ they sell very well nowadays so, do it!
+  
+  Shame on you people. You dont have rights to act like that. I am ***ing tired of seeing billions 
+ of same kinds of games are created one after another and i am ***in pissed of seeing them in familiar 
+ names & brands which i consider foolng people with hiding behind good names. That is nothing but 
+ a cash cow policy!
+  
+  And I have never seen a Gamespot review such in-accurate. I condemn Gamespot for that. I Invite 
+ Gamespot for a new policy like, dont review "Copy of another / identicalgames with high scores. 
+ Spare your high scores for Innovative & Revolutionary games. Please protect your quality!!! 
+::::::
+
+::::::
+UserName: essereetico
+Rating: 1
+Date: Apr 22, 2006 5:13 am PT
+Review:  A TOTALE DISTASTER, A COMPLETE TOTAL AND SHAMEFUL DISASTER.
+  
+  I was waiting the sequel of the lords of the realm 2 that at my advice is A MASTERPIECE and judged 
+ on this site about 7.0 like a mediocre game.
+  I suggest you to all of you to play LORDS OF THE REALMS 2 also if it's
+  grapchic is really dated, 
+ i think is a game of about 10 years ago... I still remember the crossbowan shout "RIGHT BETWEEN 
+ THE EYES !!!!!" and the pikemen in front lines during battle that could last lots of time against 
+ a very good but not perfect A. I.
+  
+  The music of that game was really great, i have the .wav files to hear them and the voice are really 
+ great too.
+  
+  I don't think games of today also if lots of better in graphic and look can give you that thrill 
+ of those old masterpieces, and i hope some good games intelligents and that can give you emotions 
+ will come out soon.
+  
+  HEY I'M SPEAKING OF LORDS OF THE REALM 2 A GAME OF 10 YEARS AGO (don't know exactly but it's OLD) 
+ THAT IS STILL FUN TO PLAY, AT LEAST FOR ME !!!!!!!
+  
+  Ah yes but this is LOTR3 REVIEW... sorry.... the only thing i have to say is that after i played 
+ about 1 hour and something and i saw the knight of my army resuscitaed in a castle after killed 
+ in a battle, that silly map with regions, a confused and really trash management system, I put 
+ out the cd from my drive and sold it on EBAY at about 3 euros when i payed it 39 euros.
+  
+  It was shameful for me keep this game in my home.
+  
+  ... with that name "LORDS OF THE REALM" 
+ that remembered me lots of fun with my friends with the soldiers charging and screaming, sieging 
+ castles and planting wheat and breed cows... (i'm speaking of the second of course) . 
+::::::
+
+::::::
+UserName: monkeytoes61
+Rating: 8.7
+Date: Apr 8, 2006 5:37 pm PT
+Review:  A great game for any one but differs from any regular RTS you have ever played. First you make 
+ your lord, customizing what he looks like, and what your shield is. There are 2 levels to the game: 
+ the strategic and battle. The battle level is where you battle (hence the name battle level) . In 
+ the battle level you dont command each unit alone. They are all in companies or regiments. Each 
+ regiment has 1 knight to lead it and 4 different positions it can be in. There is a lot of different 
+ troop types too, ranging from swordsmen to Teutonic Knights. Also there are some incredible sieges. 
+ On the strategic level, you tell your armies where to go and manage your country. You start with 
+ your capital city and 3 or 4 parcels. You can put Serfs, Burghers, Priests, or Knights on them. 
+ Knights will turn the parcel into a castle and you will get an army. A serf will make a farm which 
+ feeds your troops. Burghers make a town which will give you crowns (gold) . And priests make a church, 
+ raising your Christianity level. This is also where you move your armies around. To get more parcels 
+ you must take enemy capital castles. Then that whole region becomes yours. There are many Campaigns 
+ to play, keeping you busy for a while. This is a fantastic game but took a while to figure out. 
+ 
+::::::
+
+::::::
+UserName: Lostpoet85
+Rating: 8.2
+Date: Feb 3, 2006 10:14 am PT
+Review:  The battle mode is great in this game, it's so much fun to lay seige to a castle. The notion of 
+ ladders seems to be a novel idea as well, seeing as how it's the first time I've seen it in a game. 
+ You don't have to just wait for your soldiers to magically break down a wall with their swords 
+ anymore. Seige weapons are an absolute must.
+  
+  As far as the strategic map, it can be somewhat frustrating. Enemy armies can seeminly multiply 
+ like rabbits, swarming all over your territories unchallenged, raping your land, reducing your 
+ productivity until you can finally hire enough mercenaries to send out onto the field of battle. 
+ It's very difficult to raise an army of your own, therefore, mercenaries are essential to your 
+ success.
+  
+  In my opinion, Medieval: Total War is a superior game, but I had beaten that game several times 
+ before I bought Lords 3, and seeing as how I don't have a powerful computer, Lords 3 was essentially 
+ the next logical buy. 
+::::::
+
+::::::
+UserName: hallithk
+Rating: 1.6
+Date: Jan 7, 2006 4:38 am PT
+Review:  This game has terrible graphic and i dont understand anything in it and the best thing is sound 
+ wich is terrible too so PLEASE dont buy this game
+  buy Pokmon cards 
+ 
+   
+ WW WWWW **** WWWWW WWWWWWWW WW WWWWW WWWWWW WWWWWWWW WWWWWWW ****W WWWWWWWW ****WW WWWWW WWWWWWWW 
+ WWW la lalal al lal lal lal alal alala la lalla lalal l llala al al alla lla lala la lalaal ll 
+ lal al al al a la lal a lal al a lal a lla lal al lal la lal la la la la lla la la al l l al al 
+ la la as l al l al al al aal al alal al al al al 
+::::::
+
+::::::
+UserName: Bloppelop2
+Rating: 3.3
+Date: Dec 2, 2005 5:38 am PT
+Review:  I first fell in love with Lords of the Realms I, and there I saw something new and fascinating... 
+ When Lords of the Realms II arrived, I checked it out, and thought it was perfect! Almost...
+  The 3rd game in the series is not at all a similar game to the too earlier games. First of all, 
+ I was amazed how ugly the graphics are. I saw screenshots and was suddenly scared of buying it. 
+ Buuut, I felt I had to check it out...
+  Lords of the Realms III, is a medieval game, where you rule some land, and have to maintain connections 
+ to the other rulers and in the meantime, build up your lands. That is how it works on paper, but 
+ in-game, the situation is something else...
+  The speed of the game is a lot faster than it should be! The earlier games were based on that you 
+ had some moves and time to think whatever you wanted to be done, and then you could advance into 
+ a new quarter. Turnbased, I think it is called. Your enemies also got their turn in the meantime, 
+ and that slow and calming way, was just wonderful, while the landscabes changed to the time of 
+ the year. Here, in LotR III, you almost get stressed by the speed, where you barely have time to 
+ enjoy the game.
+  So, while playing the game, it is obviously, that the gamemakers have decided to make LotR a Clich 
+ of a bad and boring war strategy game, like Age of Empires. Suddenly, it is no longer about your 
+ land. Well, you can now get vassals to rule for you, and it COULD have been good, but instead it 
+ is just awfully bad! There is no real personality to the vassals, and sooner or later it gets SO 
+ boring that you no longer think about how the person looks like. Now, it only matters of the army 
+ size!
+  Cause LotR III is basically only about gathering your armies, and attack your enemies... There 
+ is no economics, technology or fresh thinking! Man!, in LotR I, there was even a kind of newspaper 
+ when you entered a city! That was cool, cause you could relax, think about what to produce, trade 
+ a little and such things... There is nothing like that at all in LotR III... Only combat! I really 
+ miss some medieval fun, where you could get some events and things would happening. Some Personality 
+ to the game perhaps! You have a ruler, but it is just a name and a picture! 
+  Now, when you enter a battle, it looks a lot like other war games. The 2D is gone, and instead 
+ it is a bad-shaped and VERY ugly 3D battle you control!
+  You would might think they would make the men look a little comic-alike, but NO!, they are very 
+ badly made... I dont care about rotating around them over and over again! I just want some nicely 
+ made men to fight with!
+  However, it is easy to control, and the combat works. However, there are major Bugs and troubles 
+ in the graphics and it is difficult to get an overview.
+  The nice and moodfilled cinematics is also gone, after battles. Probably because everything has 
+ to go so quickly!
+  The Maps look a lot like each other, and there is no weather, climate or time effects or anything! 
+ You dont feel like in the medievals at all... A big big anoying thing, is that there is no ships! 
+ Very very dissapointing...
+  The campaigns are ok, storybased, but in-game, it is just the same and same over and over again... 
+ No personality or anything speciel!
+  The Diplomacy looks fun, but it is actually very little useful. Alliances are no good, cause you 
+ have to kill your enemies anyway! 
+  There is no ressources. Only money, which is VERY easy to get. And then food, which also is VERY 
+ easy. Actually, the game is TOO easy.
+  The music is okay, though some of the sound-effects are quite annoying to listening to over and 
+ over again...
+  I would never recomand anybody to buy this game, or even use time on it! I only bought it, because 
+ I thought the game could live up to Lords of the Realm I & II. 
+  But no... The game has changed, and it seems like the creators have started on making this game 
+ with some good ideas, and then thought about something funnier to do, and then just mixed this 
+ game up, which as I said is poor and bad entertaining. It reminds too much of other bad war-based-medieval-strattegy 
+ games, just that LotR III is a lot worse than all of them...
+  It is dissapointing and shameful, and I feel sad that I never will see original classy, and well 
+ made games like LotR I & II, which had other things in them, than just bad 3D battle graphics...
+ 
+  A very dissapointing try, to make Lords of the Realm modern... 
+  
+::::::
+
+::::::
+UserName: mindaugasx
+Rating: 8.9
+Date: Nov 12, 2005 2:23 am PT
+Review:  If you want to get to the times when a war was spreading all the time, thats a game for you. In 
+ this game you must conquer as much as you can. Games graphics are pretty good and the game it self 
+ is quite interesting. That is not that kind of game that you may learn in just an hour and win 
+ in just 5 minutes. The battles are very long and you spend about a lot of time just waiting for 
+ the end of some battle. It is hard to order all of your armies. There might be over 15 small armies 
+ at once and you may find it difficult to make them join your forces. It is also difficult to controll 
+ all of your regions at once. While you are despretly trying to find out witch army where, the enemies 
+ might gain controll of your region where in the heart of it isn`t a castle, but a cathedralh.
+ 
+  
+  Good things: 
+  1. You wont be able to win all games in a week, so that`s a game for a long time
+  2. Graphics 
+ are good.
+  3. You wont always be the only one who will be attacked again and again. (no all allays exept for 
+ me)
+  Bad things:
+  1. Long and boring battles
+  2. Difficult to organise your armies
+  3. Hard to controll all regions at once (stongold here, castle there, my mercenaries there and castle 
+ there and there.... Where is my center with army???!!!)
+  4. Mostly one boring music. 
+  
+  
+::::::
+
+::::::
+UserName: barsag
+Rating: 2.1
+Date: Nov 6, 2005 11:10 am PT
+Review:  I am a big fan of the old LORDS II which was a very good strategy game. But this new version III 
+ is very different game with very little strategy.
+  The graffic is boring and the controls difficult to learn.
+  For long time you only have to look 
+ and wait while the troops slowly moves
+  over the screen. In a real strategy game I want to control the economy, foodsuply and building 
+ of armys. To choose what kind of soldiers I need, cavalery, bowmen, crossbows or footsoldiers. 
+ In this game most of this is done outside my control.
+  
+  Dont buy this game, instead reload your old LORDS II or buy eg. ROME total war. 
+::::::
+
+::::::
+UserName: morgoth18
+Rating: 6.9
+Date: Oct 28, 2005 1:06 pm PT
+Review:  i was very disapointed in this game. being a lord of the realm 2 fan for a long time, this game 
+ killed my thoughts of any other games being like lord of the realm 2's game play. i was disapointed 
+ for right now, but if my thought change, i will let you know. now here are some more lord of the 
+ rings poems.
+  
+  Snow-white! Snow-white! O Lady clear!
+  O Queen beyond the Western Seas!
+  O Light to us that wander here
+  Amid the world of woven trees!
+ 
+  
+  
+  Gilthoniel! O Elbereth!
+  Clear are thy eyes and bright thy breath!
+  Snow-white! Snow-white! We sing to thee
+  In a far land beyond the Sea.
+  
+  
+  O stars in 
+ the Sunless Year
+  With shining hand by her were sown,
+  In windy fields now bright and clear
+  We see your silver blossom blown!
+  
+  
+  Oh Elbereth! 
+ Gilthoniel!
+  We still remember, we who dwell
+  In this far land beneath the trees,
+  Thy starlight on the Western Seas. 
+::::::
+
+::::::
+UserName: KrAzY_Croat
+Rating: 5.3
+Date: Oct 13, 2005 10:36 pm PT
+Review:  I saw Gamespot's rating of 8.4 and I expected that this was going to be a good game. I was wrong. 
+ It was terrible. It did have some nice features though. 
+  
+  The catapults actually had people mounting up rocks to hurl at buildings. Touche. Not many games 
+ did that at its time. You could also have battles on walls after wheeling siege ladders to them, 
+ this however is even more of a rarity. All accompanied by a nice and cheap $19.99 price tag.
+  
+  As I played it for the first time, I found many confusing details and systems in to what I 
+ thought was going to be an effective ripe-off of Age Of Empires. The game turns out to be completely 
+ different to my disliking, and in a way, seems to share it combat system with Rome: Total War.
+ 
+  
+  Although this game could appeal to some, I just think its missing something that could have made 
+ it great. Thank God I kept the receipt. 
+::::::
+
+::::::
+UserName: Burin077
+Rating: 5.1
+Date: May 27, 2005 4:55 pm PT
+Review:  I really tried to like this game, I really did. As a fan of the previous Lords of the Realm Titles, 
+ (That does include both 1 and 2, and the siege pack) I was really in belief that this new release 
+ for Lords of the Realm would be one i'd remember for a long time.
+  
+  Well, i'm right, it will be one i'll remember, as it'll be the reason I now stopped playing Lords 
+ of the Realm.
+  
+  Lords of the Realm III, although quite interesting with its free-style system and lack of resources 
+ you needed in the previous games, this new version of the game seems more like you're playing a 
+ game of Risk, and everyone takes their turn at the same time. Honestly, how does one actually do 
+ that?
+  
+  Gameplay:
+  
+  I find the gameplay, although a bit more believable as there's now more than just around 1500 soldiers 
+ limited to an army, though this is now a plus, you really can't control how you will organize the 
+ army as well as you could in the game's predecessors.
+  
+  Some nice touches i'll give the game credit for, are abilities to Force Marches and to torch fields, 
+ but the problem about torching fields, is why would torching fields and such matter if it won't 
+ affect the country they're being razed in? The only thing it will do is lower the amount of gold 
+ your country will make, but that can just be altered in other ways.
+  
+  This leads me into the next thing that complete drove me away, Fiefdoms and such. Where the heck 
+ did attacking County Towns and Sieging Castles go? Sieging Castles now seemed really pitiful as 
+ when I played the game, when I sieged a castle, the people sieging virtually always win as they 
+ knock over one of your walls, or barge down your front gate, and then swamp your soldiers on the 
+ castle walls.
+  
+  Graphics: Personally I saw nothing TOO bad with the graphics, but the fact that the game trailer 
+ and intro movie seem a bit more cartoony than real time as was in LOTR2, it makes the game seem 
+ as if it was truly taking a turn into the cartoony realm.
+  
+  Sound: Probably the best quality the game had. I did like some of the attitudes of the leaders 
+ and soldiers, and the burning and crumbling of castle walls was also a nice touch.
+  
+  Value: Personally, this is not a game you are probably going to find much of a place for if you're 
+ looking for RTS. This game will basically give you a smack in the face rather than satiate your 
+ hunger for it.
+  
+  Overall, you're probably better getting Stronghold or Rome: Total War if you are looking for a 
+ good RTS. This game just, is an embarassment to its predecessors, and a failure of a once proud 
+ and valuable game. 
+::::::
+
+::::::
+UserName: kevcole33
+Rating: 1
+Date: Jan 22, 2005 1:32 pm PT
+Review:  I was eagerly anticipating this game. Like many others I loved lords2 and reloaded it after I threw 
+ this abomination of a game in the garbage. 
+  This is the worst game I ever purchased. That list includes the atari 2600 football game that I 
+ bought in 1980 or so. (which my parents probably bought for me anyway)
+  This game in no way should have been associated with Lords2 because it plays, looks, acts, resembles 
+ nothing like lords2.
+  it has the most boring gameplay and least intuitive interface for any game i've ever played. The 
+ graphics are absolutes awful. Do Not buy this game!
+  Just play total war or stronghold. This game is pointless and not worth whatever the reduced price 
+ is. 
+::::::
+
+::::::
+UserName: var1000
+Rating: 5.9
+Date: Oct 18, 2004 6:29 pm PT
+Review:  I bought this game with some high expectations considering it got a 8.4 from Gamespot. I found 
+ this game cumbersome, boring and just a waste of time. This was a nice try, but it just does not 
+ cut it. Nice graphics and some o. k. concepts, but you cannot control enough of the game. Also, 
+ the battle games were lame. You start out w/ a army and you have to fight some army off in the 
+ distance, or sometimes you have to take a castle or something. However, it was always really easy 
+ to win and you have to really try hard to squeeze just a little bit of strategy or excitement from 
+ the game. My advice is to break out your old AOK or AOE Cd's instead of buying this game!! 
+::::::
+
+::::::
+UserName: drummer_1
+Rating: 1
+Date: Sep 29, 2004 12:35 pm PT
+Review:  There is not much to say about this game but I have to keep it 120 characters long. This is by 
+ far the worst RTS game I have ever played! I mean that. I did not have any fun with this at all 
+ and I play alot of RTS games. I have most of them. I don't know what strange weed the game spot 
+ reviewer was smoking to merit a high review like he did.
+  
+  The campain map-BORING! for lack of a better term it was just plain boring! The grafics were a 
+ joke to start with. I couldn't figure out if I was missing some options on how to manage my kingdom 
+ or not. But I wasn't. I had to put certain guys in my provinces and I couldn't choose the type 
+ of troops I wanted. I couldn't make any MORE troops either I was stuck with just those. It SUCKED. 
+ I couldn't do a whole lot about anyway its just how it was.
+  
+  The Battle map-It was boring too but it sucked in a whole different way. First thing is my troops 
+ were at the whole other side of the map and it took such a long time for them to go and fight the 
+ enemy army. Second thing is on seiging. I couldn't control my troops. I told them to go in the 
+ enemy castle and they did. Some of them but not all. It was very bad.
+  
+  Bottom line-DO NOT BUY THIS GAME!!! Even with the bargain bin price. You will hate it for being 
+ such crap and yourself for buying it. Go with ANY other RTS, especially Rome TW or Warhammer 40,000. 
+ 
+::::::
+
+::::::
+UserName: akhorahill
+Rating: 6.3
+Date: Sep 13, 2004 1:02 pm PT
+Review:  I got excited from the very moment I heard about the development of LOR3. I am a great fan of the 
+ first game, an addictive feud administration game with bad graphics but great "hot seat" multiplayer.
+ 
+  
+  I first thought that LOR3 would bring better graphics, A. I. and multiplayer options to an already 
+ great game but it was no more than a bad RTS.
+  
+  Yep, you heard me. A bad RTS. As the game began, I was puzzled trying to find the administration 
+ menu: how many peasants would I assign to crops? Should I sacrifice some cattle to improve the 
+ people's health? Did I get a baby boon? Nope... none of it. I simply had to decide to what kind 
+ of steward would I entrust my feuds. It's not an option, I HAD to entrust my feuds to stewards 
+ so that I could focus on combat. o. O!
+  
+  The game fled from its own great design and fell into the RTS trap! As a RTS, LOR3 looks pale when 
+ compared to fast paced strategy games such as Starcraft or Age of Mithology. It gets no higher 
+ scores when faced with more world scale war games like the Total War series.
+  
+  I've tried to play the game but I simply can't. The game is too slow and battles are too shallow 
+ to justify the focus. Religion and honor may be important on the game but I fail to find them an 
+ use other than hiring better stewards.
+  
+  Bad choices for remaking a classic. 
+::::::
+
+::::::
+UserName: -Guitarplayer-
+Rating: 5.1
+Date: May 14, 2004 5:51 pm PT
+Review:  Honestly this game bites, and man does it hurt. I've been a huge fan of the Lord of the Realms 
+ series since Lords of the Realm 2 and its expansion. Both those games were superb and I WAS SO 
+ ANXIOUS FOR THIS GAME TO COME OUT. 
+  
+  After 20 min of playing it I could tell right off it wasn't the same Lords of the Realm that I 
+ played earlier and this wasn't in a good way. There are only 5 missions for the tutorial that don't 
+ explain anything and they are the biggest waste of time. This version is so dull and dumbed down 
+ I can't even bare to play it. You can't even choose which troops that want you to build! It also 
+ takes 5 min just move your army across the map. There are far better games out there, Medievil 
+ Total War for example. 
+::::::
+
+::::::
+UserName: placksheep
+Rating: 7.3
+Date: Apr 3, 2004 3:24 pm PT
+Review:  I suppose that given all the obstacles this game faced just to get relesed, it's wonder it's as 
+ good as it is, but as a fan of Lords of the Realm II, I can't help feeling a little disappointed. 
+ Don't get me wrong... LOTR III is a fun game, but it doesn't have as much strategic depth as LOTR 
+ II and even with the tutorials it's a darn difficult game to learn. The first map classified as 
+ "easy" took me 2.5 hours. That's probably a little longer than average, but it's no cakewalk.
+ 
+  
+  The gameplay is the saving grace of this game. It is quite underwhelming graphically (and looks 
+ downright ugly during a lot of the battle sequences) . Much like many other strategy games, your 
+ goal is to lay a royal smackdown on the neighboring lands. Total domination is the name of the 
+ game. You accomplish your goal by assigning vassals to manage your parcels of land to either raise 
+ an army, make food, or make money. The finer points of all this are left up to your vassals, supposedly 
+ freeing you up to make all the 'important' decisions, but I couldn't help feeling like there was 
+ not enough to do. 
+  
+  The previous Lords of the Realm games were turn-based, and this game has a snail-like pace to it 
+ like its turn-based forbears. What ends up happening is, you're either attacking or waiting for 
+ your Knights to raise armies. There are a few other managerial tasks to do (such as clicking a 
+ button to upgrade a castle) but that's the meat of the game. The battle screen is the other half 
+ of the game. Its layout is similar to any other real time strategy game, with terrain, a variety 
+ of units, and if it's a siege, a castle. There isn't a whole lot of depth in the combat screen. 
+ Units don't have a wide variety of formations, and like the Shogun games, you can only select 1 
+ 'company' or squadron of units, not individuals. That would be fine, but the units don't behave 
+ in a very realistic fashion. When ordered to scale a castle wall, companies of units all bunch 
+ up to get on the same 2 ladders. Almost always... no wait, ALWAYS, I find myself allowing the computer 
+ to control the battle, because controlling the battles aren't that much fun and don't seem to affect 
+ the outcome. It doesn't help that when the battles begin, and you switch to the traditional RTS-style 
+ view, your units are VERY far away from the enemy units. It literally takes 1-1.5 minutes REAL-TIME 
+ just for the two armies to meet each other on the battle-field.
+  
+  For all the complaining, there is an addictive quality to this game. The strategy lies in managing 
+ which armies go where, not the makeup of those armies. You don't have any direct control over what 
+ type of units can be raised by your knights, but you can choose the knights with the units that 
+ best augment the ones you have already. 
+  
+  The AI is also quite competent, making for epic conflicts for control of land. If you're not careful, 
+ while you're attacking one county, another house could be laying the smack down on your farms and 
+ defenseless churches. It's essential to get a perfect balance of attacking forces and homeland 
+ security. The addictive gameplay is what makes this game a good game instead of a kinda crappy 
+ game.
+  
+  The graphics are really a low point. The level of geometric detail is low on all of the models 
+ of the units. This is expected in a game that has hundreds of units onscreen, but you won't believe 
+ for a second that the crazy-looking brown thing you're looking at is a horse. Nothing moves realistically, 
+ or looks that good... everything is blocky. And it's not as if the blockiness is hidden by a certain 
+ style (like in Warcraft III) . The models just look like my 7 year old brother made them. The terrain 
+ and castles on the other hand look great. The strategic view of the game is also in 3d, and looks 
+ good, but not impressive at all.
+  
+  The sound and music in the game sound good, with a variety of synth music and sound effects. The 
+ music is pretty standard fare, and sounds like any other game, but its gothic/ churchy flair fits 
+ the game nicely. There isn't much to say for sound in games... it's either bad, excellent, or middle 
+ of the road. This game is middle of the road. Nothing stands out to me.
+  
+  Well if you're still reading, here's my conclusion:
+  
+  LOTR III is a decent game, and for the 
+ value-price of 19.99 retail, it might be worth picking up if you're a fan of medieval combat, or 
+ the previous Lords of the Realm games. If you're not too into long involved strategy games, you 
+ might want to avoid the urge to buy. There are definitely better games out there.
+  
+  
+::::::
+
+::::::
+UserName: Katiff
+Rating: 6.7
+Date: Mar 31, 2004 4:20 am PT
+Review:  Its not a bad game, its decent i guess but the thing that bothers me i only got it cause i used 
+ to play Lord of the Realm 2 back in the day and man that game was a lot of fun, it had to be the 
+ most challenging Strategy game ever. The music and the game play was awesome. 
+  
+  This game shouldnt be called Lords of the Realm 3, it has hardly anything at all in common with 
+ Lords of the Realm 2. I was hoping for major similarities with improved graphics and challenge, 
+ What i found was something completly different. In part 2 you were responsible for mananging each 
+ County, creating and equiping your armies, handling random events like the plague, live stock deaths, 
+ farm flooding etc....
+  
+  On top of that each county had industries you could manage. Blacksmiths you could choose which 
+ weapon for them to make, Forestry, Mining for metal and stone. You could build a castle in each 
+ county too and setup your own custom games. 
+  
+  I am somewhat disapointed with this game because it could have been much better, i hate when companies 
+ sell out the thing that made their game great and replace it with other concepts to try and copy 
+ other games when the ONLY reason i bought the game was because i wanted to play it for what it 
+ was not what it has become. 
+::::::
+
+::::::
+UserName: Cutface
+Rating: 5.3
+Date: Mar 30, 2004 4:29 pm PT
+Review:  This game, even at it's bargain price (24.99$ canadian) feels like you're getting ripped off. There 
+ are numorous glitches and bugs, (like when units want to climb a wall or go in a siege tower, they 
+ all get squashed together) some units go half way through walls. The gameplay is repetitive and 
+ your asking yourself many times why you're playing a game like this when there are many fun RTS 
+ games out there (Command and conquer generals, Warcraft 3, even the new Lord of the rings game) . 
+ Although the game does have it's moments, i don't recommend this game to those who arent in love 
+ with the RTS genre. 
+::::::
+
+-------------------------------------------------

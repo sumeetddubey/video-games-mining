@@ -1,0 +1,217 @@
+-------------------------------------------------
+:::Game Name::: Sudden Strike II
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/suddenstrike2/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Sep 20, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.2
+Critic Score: 7.3, 22 Review (s)
+User Score: 7.9, 254 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: cdv Software
+Developer: Fireglow
+Genre: Historic Real-Time...
+Date:     Sep 26, 2002
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Sudden Strike II is a classic example of how to make a real-time strategy game and then completely 
+ undermine it with a bad user interface. 
+
+ World War II is a very popular setting for games these days, from first-person shooters like Medal 
+ of Honor: Allied Assault and Battlefield 1942, to mods like Day of Defeat, to adventure games like 
+ Prisoner of War. However, with the exception of one of Empire Earth's 14 epochs, Russian developer 
+ Fireglow's Sudden Strike games are the only traditional real-time strategy games with a World War 
+ II setting. So it's all the more disappointing that Sudden Strike II has all the weaknesses of 
+ its predecessor with only a few improvements.           The new Japanese campaign introduces South 
+ Pacific terrain.    
+
+ Although the Sudden Strike games play like traditional real-time strategy games, they depart from 
+ the standard RTS formula in a couple of important ways. Like in Bungie's Myth series, there's no 
+ building or economic management, so you're free to concentrate solely on battle tactics. Some scenarios 
+ are scripted to provide reinforcements as you play, but you're usually dealing with a fixed number 
+ of units in your effort to accomplish your objectives. Another important difference is that historical 
+ vehicles are modeled, so instead of broad definitions like light, medium, and heavy tanks, you 
+ have very specific units like PzIII Type Gs and M4A4 Sherman Vs. There are artillery units of different 
+ caliber, various antitank guns, transport trucks, jeeps, and even motorcycles for reconnaissance. 
+ There are at least a dozen different types of infantry, some with special abilities like healing, 
+ laying mines, or extending your line of sight with binoculars. In addition, Sudden Strike II has 
+ a few features that seem conventional to real-time strategy games, even though they're completely 
+ unrealistic, such as the hospital trucks that heal your infantry and repair trucks that repair 
+ and rearm your vehicles.   
+
+  The first Sudden Strike title had a number of historical trappings, but it didn't go very far toward 
+ encouraging historical use of them. A bunch of riflemen could chip away at a Tiger tank's hit points 
+ until it blew up. But this time, the developer made more of an effort to model realistic factors 
+ like armor penetration (those riflemen won't have as much luck against Tiger tanks this time around) , 
+ morale (it fluctuates between a bonus or a penalty to unit combat values, depending on the situation) , 
+ and line of sight (the game has fairly complex rules about range and facing, depending on factors 
+ like whether a tank is buttoned up, whether an infantrymen is prone, and on which floor of a building 
+ a soldier is standing) .           Use recon aircraft to scout for the enemy.    
+
+ Unfortunately, Sudden Strike II doesn't fix many of the problems from the first game. The interface 
+ puts an emphasis on showing as much of the map as possible at all times. This would be an admirable 
+ goal if it didn't mean sacrificing important information. There's no indication of a unit's range, 
+ firepower, or armor. You have no way of telling which units are more powerful than others. It's 
+ bad enough if you don't already know a Sherman from a Pershing, but even a World War II hardware 
+ buff will have to simply guess at the difference between a Texas rifleman and a British gunner. 
+ When you drag-select a group of units, there's no indication of who is in your group, so you'll 
+ often send vulnerable units such as trucks, medics, engineers, and officers directly into combat 
+ by accident. In fact, the only way to find out which unit you've selected is to hover the cursor 
+ over it. This is bad enough with moving vehicles, but it's next to impossible trying to pick out 
+ a 10-pixel infantryman running among trees. Since infantrymen are so difficult to tell apart from 
+ each other, you'll spend a lot of time sorting them out with your cursor and assigning them to 
+ groups. This is all ultimately futile, since the pace of combat is such that by the time you realize 
+ your men have come under fire, they're dropping like flies faster than you can tell them to go 
+ prone, scatter, or take cover.    
+
+ Keeping your units together is made even more difficult by Sudden Strike II's awful pathfinding, 
+ which is just as bad as the first game's pathfinding. Units will take the long way around to reach 
+ a destination. They'll sometimes get stuck on the terrain or simply not respond to commands. Infantrymen 
+ will stand in front of an oncoming train and get run over. Units told to cross a bridge will get 
+ so hopelessly jammed up that sorting them out is like trying to untie a wet knot. There aren't 
+ any formation options, and even the command for all units to move at the same speed does a poor 
+ job of keeping them together. Then there's the frustration of trying to control aircraft, which 
+ uses a completely separate system of ordering missions, setting waypoints, and waiting around. 
+           Bridges like these are a bottleneck for the pathfinding AI.    
+
+ The bottom line is that Sudden Strike II, like its predecessor, requires a lot tedious micromanagement 
+ with precious little help from the interface. Playing the game well involves fiddling around with 
+ unit facing, vehicle crews, and aircraft missions. You have to button down tanks, tow guns, assign 
+ vehicle crews, and manually order men to go prone. You have to lay mines (three different kinds) , 
+ heal wounded men, pick your officers out of the crowd, and arrange them in buildings. It's like 
+ the worst parts of micromanaging the tiny infantry units in Westwood's original Commander &amp; 
+ Conquer have been made into an entire game.   
+
+  To its credit, Sudden Strike II looks great, even when it's unwieldy. The 2D art and animations 
+ are top-notch. Although the game can look a bit cluttered, there's no denying that it presents 
+ some thrilling battlefield scenes, with men running across beaches to storm bunkers with aircraft 
+ zooming overhead and tanks bringing up the rear. In city environments, buildings burn and collapse. 
+ There are effects like splashing water, explosions kicking up dirt, and black smoke. The sound 
+ effects are also very good, from crackling machine gun fire to thudding artillery and clattering 
+ tanks. Eventually, you can tell what kind of units are fighting by the sound of their guns. If 
+ the accents weren't so uniformly awful, even the briefings and unit acknowledgements would be pretty 
+ good. It's a shame that such good-looking graphics are undermined by such a poor user interface. 
+           The engine does a good job of presenting impressive battlefield scenes.    
+
+ The campaigns in Sudden Strike II are an improvement on the previous game's campaigns. There's a 
+ campaign for each of the major combatants in World War II, with the introduction of the Japanese, 
+ who weren't present in the previous game. But with only five missions, the Japanese campaign seems 
+ like an afterthought. Some missions are interconnected, playing on the same map with persistent 
+ damage carried over. The objectives are varied enough that you're not always attacking against 
+ overwhelming odds -- there are also a lot of defensive situations in which you have to hold off waves 
+ of attackers. Unfortunately, the AI seems completely scripted, with no adaptive behavior, which 
+ would explain why there's no skirmish mode and why you can't include the AI in multiplayer games. 
+   
+
+  If the pace were more manageable and the interface were more helpful, Sudden Strike II could have 
+ been an interesting combination of history and real-time strategy. The engine is certainly up to 
+ the task, and the developers have a handle on how to make an interesting scenario. But unless your 
+ idea of a good time is herding soldiers, Sudden Strike II is a classic example of how to make a 
+ real-time strategy game and then completely undermine it with a bad user interface.    
+-------------------------------------------------
+:::User Reviews::: (5 Reviews)
+::::::
+UserName: wanzers123
+Rating: 8.5
+Date: Jun 19, 2007 11:19 pm PT
+Review:  the best WWII strategyc game ever made
+  Why?
+  
+  1 reason: Gameplay
+  2 reason: Pure strategy, AND I SAY PURE
+  3 reason: again strategy, having a lot of tanks dont 
+ mean the victory but where you put them, thats the point, you cant kill what you cant see
+  4 reason: lot of FIREWORKS, riflemans, sub machine gunners, heavy machinne gunners, flamentrwower, 
+ panzerfaust, bazzoka boys, anti tank rifles etc
+  5Reason: Lot of tanks, want one? just take it, u have them all, ALL I SAY ALL!
+  6 reason: Crewman: 
+ Sir, our boy wont move, i request back.... BLOOOOM
+  7 reason: MULTIPLAYER OPTION 
+::::::
+
+::::::
+UserName: Mackan52
+Rating: 9.8
+Date: Aug 11, 2006 1:01 am PT
+Review:  Sudden Strike 2 is a real-time strategy game with great gameplay, tanks are actual tanks that were 
+ used in WW 2 so is the AT-cannons, the airplanes and the artillery. The best part is that buildings 
+ and tanks don't get destroyed if you shoot on them with enough submachine-gun fire like in Red 
+ Alert or other games. The game is just great on so many levels because it's so autenthic and real-life 
+ based. 
+  
+  In one second you can turn a peaceful little town to a pile of rubble, dead soliders and destroyed 
+ tanks with a 88-Anti Aircraft gun. So you can really see where you have had your hardest confrontations.
+ 
+  
+  Some say that the micromanagement is annoying, well i like it and i think that what makes the game 
+ great. I've sometimes accomplished more with a single Sniper aginst an enemy hardpoint then what 
+ i've accomplished with a full scale tank assult. 
+  
+  The other thing is that you have complete control, if your orders say to capture a town YOU decide 
+ HOW you want to capture that town. Flank it, bomb it, pound it with artillery, capture it house 
+ by house and so on.
+  
+  The graphics on this game is just right, you get the feeling that you play with small scale models.
+ 
+  
+  If you play the game you WILL enjoy it, just be patient. 
+::::::
+
+::::::
+UserName: webviper2005
+Rating: 9.8
+Date: Jun 27, 2006 10:20 am PT
+Review:  This game I have fell in love so quickly it's so hard to understand. Well maybe easy. But people 
+ who live these types of games will live this game. And this game is the most realistic game ever 
+ I have played. Commandos series are just like the same but not. This game you can have mortars, 
+ planes, tanks, and much more! Transport trucks are also in. There are so many soldier types it 
+ is so cool. It has Riflemen, flamethrowers, motar men, rocket launchers, crew men, officers, snipers, 
+ gunners, and much more.
+  
+  But I wish the next game will have spies and then this game will become amazing. So if you are 
+ a third action or first action shooter this game might be a good game for you. But I say.... this 
+ game is amazing! 10/10 score rating!!! 
+::::::
+
+::::::
+UserName: hasan71
+Rating: 7.8
+Date: Dec 22, 2005 12:03 pm PT
+Review:  i have played all the sequels of this games and i enjoyed all of them throughly. I do not understand 
+ why people are so rude to this . the game got five point something but they are certainly worth 
+ more. the games is throughly recommended to those who like to play tactical strategy games like 
+ blitzkrieg or something like that. Sometimes sudden strike is more interesting than blitzkrieg, 
+ specially who have old PCs. However there are scopes for improvements as well ; the lack of care 
+ in the later version of the sudden strike series became acute as i went on with the game. 
+::::::
+
+::::::
+UserName: kellerwe
+Rating: 7.4
+Date: May 13, 2005 9:27 am PT
+Review:  Like a lot of similar WWII RTS games, Sudden Strike II can become a bit boring at first glance, 
+ especially once one has played the campaigns included in the standard game.
+  
+  The real fun starts when one gets into creating new battles or even accurately re-creating WWII 
+ battles with your own maps, units and AI scripts.
+  
+  For those really into "modding", this game offers a host of "open" features, such as the ability 
+ to create new units, change existing units, etc.
+  
+  While the latter is not the easiest thing in the world to do, it does create a unique sense of 
+ achievement once it works and you get your first new map and units posted on some of the familiar 
+ forums out there. 
+::::::
+
+-------------------------------------------------

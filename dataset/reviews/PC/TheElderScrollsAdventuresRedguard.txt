@@ -1,0 +1,236 @@
+-------------------------------------------------
+:::Game Name::: The Elder Scrolls Adventures: Redguard
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/adventure/elderscrollsar/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Dec 18, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.1
+Critic Score: 7.8, 11 Review (s)
+User Score: 8.4, 159 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Bethesda Softworks
+Genre: Fantasy Action Adventure
+Date:     Oct 31, 1998
+
+-------------------------------------------------
+:::Review:::
+The excellent story, unique puzzles, and addictive swordplay help make Redguard an immensely rich 
+ and enjoyable adventure. 
+
+ With Redguard, Bethesda Softworks set out to create the "swashbuckling action-adventure epic of 
+ a lifetime." While technical glitches and clunky controls prevent the game from attaining such 
+ a lofty goal, the excellent story, unique puzzles, and addictive swordplay help make Redguard an 
+ immensely rich and enjoyable adventure.  
+
+ You play Cyrus, a battle-scarred mercenary on self-imposed exile from his home in Hammerfell. After 
+ hearing that your sister Iszara has vanished from the war-torn island of Stros M'kai, you are determined 
+ to find and rescue her despite the long-standing friction between you. Attacked by pirates on your 
+ way to the island and faced with an Imperial occupation force upon your arrival, you begin to realize 
+ that things are not at all well on Stros M'kai. Even worse, you eventually discover that Iszara 
+ was caught up in the recent troubles on the island, and you become embroiled in a well-developed 
+ plot involving rebellion, revenge, and, of course, lots of good old-fashioned swashbuckling bravado. 
+
+ The game is played from a third-person perspective and, as a result, suffers from the ever-problematic 
+ floating-camera woes. For most of the game the camera angle is just fine, but on more than a few 
+ occasions I found my view completely blocked because I happened to be too close to a wall. This 
+ problem was especially annoying during two of the game's most important conflicts (one with the 
+ dark elf Dram and one with the wormy N'Gasta) . To its credit, Redguard does allow you to customize 
+ the amount of camera glide and the camera combat angle, but this only helps a little when you have 
+ to fight your way out of a tight corridor.  
+
+ While you do have to draw your sword and fight quite a few blackguardly knaves in this game, it 
+ is still very much an adventure game. The heart of Redguard lies in its intricate and often unique 
+ puzzles. For example, that sword won't help much when you run into the springy mushrooms of the 
+ goblin caverns or the revolving hallways of the catacombs. A few of the puzzles - the dwarven scarab 
+ in particular - are exceptionally challenging, while others are fairly basic. For the most part, 
+ the puzzles are very well integrated into the plot. Some are based almost solely on your agility, 
+ and these are the ones that are most likely to cause frustration.  
+
+ Simply put, the controls in this game are poor. You can use a gamepad or joystick to play the game, 
+ but neither is very intuitive. Unfortunately, your only other option is the keyboard. Why there 
+ is no mouse control is beyond me. Timing and executing even the simplest of jumps with the keyboard 
+ is quite a challenge, while a number of necessary tasks (jumping onto a rope, climbing on top of 
+ objects) are more difficult than they should be in several areas. Worse, sword fights often degenerate 
+ into a key-mashing mess as you try to sidestep, defend, and attack in quick succession. If nothing 
+ else, Bethesda should have included separate keys for sidestepping left and right.  
+
+ For much of the game, however, you'll spend the bulk of your time talking to the island's residents 
+ about the strange goings-on and inquiring about your sister's whereabouts. This is where the game 
+ both shines the brightest and disappoints the most. On the positive side, the game offers a slew 
+ of NPCs to talk to, each with an exhaustive list of topics to discuss. Fortunately, the game tracks 
+ any important comments in an automated log because you'd be hard-pressed to remember even one-tenth 
+ of what these folks tell you. Each NPC has a distinct personality and conversational style, and 
+ that helps convey a sense of immersion in the gameworld. The dialogue is well written, with a few 
+ conversational gems here and there.  
+
+ Unfortunately, a great many of the NPC voices are horribly annoying - or just plain goofy. One guy, 
+ Favis the bell ringer, sounds as if he stepped out of the old Fat Albert cartoon, while the blue-bonneted 
+ Mariah is certain to be remembered as one of the most hated computer game NPCs of all time (perhaps 
+ in recognition of this, Bethesda built in an Easter egg method for venting your feelings towards 
+ Mariah) . Don't even get me started about the Daedra Lord.... During sword fights (which are a lot 
+ of fun, even with the control problem) , your opponents will taunt you and react to your attacks. 
+ Most of these comments are pretty good (I still chuckle at the guy who yells "Damn your eyes!") , 
+ though they can get repetitive in a hurry. The big bad governor is the worst offender of repetitive 
+ taunts, as he basically just tells you to "Reconsider your options, knave" over and over.  
+
+ By far the most annoying aspect of NPC conversations, however, is the fact that the game tends 
+ to distort all speech when you use a PCI sound card. Most likely, this has to do with Redguard's 
+ use of a dated DOS core inside of a Windows 95 "wrapper." Whatever the cause, the result is a stuttering 
+ sound similar to an old elementary school film projector that's acting up. The problem comes and 
+ goes unpredictably, and, although I honestly didn't really mind it much once I turned on the subtitles, 
+ it is certain to annoy the hell out of some gamers. As I wrapped up this review, Bethesda indicated 
+ that they may have discovered the source of the problem, but that it still may not be patchable. 
+
+ Though the graphics in Redguard do not compare to those in games like Half-Life or Heretic II, the 
+ 3Dfx-enhanced XnGine looks awfully good. The software renderer, on the other hand, is not very 
+ impressive, but it is the only option for non-3Dfx users. Since the game still relies on DOS code 
+ for its renderer, a Direct3D version or patch is unlikely.   
+
+ Still, the level of detail in the game is impressive. The port city, the surrounding countryside, 
+ and the various other sites you'll visit are all well designed and immersive. You are free to wander 
+ wherever you choose, and, except for a few key plot points, you can visit important locations in 
+ just about any order. Also, the game locations are nicely varied, and some, such as the Dwarven 
+ Observatory, are simply breathtaking. The game does suffer from clipping problems, and I did find 
+ a few "black hole" spots (the infamous areas from Daggerfall where players fell through the floor 
+ into a black abyss) , but overall the world of Redguard looks very good. Nice lighting effects, 
+ ample and good-looking foliage (so often overlooked) , and stunning architecture are some of the 
+ game's graphical highlights. NPC models and textures are decent but pretty plain on the whole. 
+ One character - the Boba Fett-like Dram - stood out as being particularly cool looking.  
+
+ The ultimate game of swashbuckling adventure? Not quite, but Redguard is an impressive adventure 
+ game and one that ranks among the year's best. While the sound problems and the awkward controls 
+ will turn off a number of players, patient gamers with a penchant for puzzles and Errol Flynn movies 
+ will find a lot to like in the intricate world of Redguard.    
+-------------------------------------------------
+:::User Reviews::: (2 Reviews)
+::::::
+UserName: beowulf0987
+Rating: 8.5
+Date: Jan 4, 2009 12:52 am PT
+Review:  An Elder Scrolls fan? Hey, even if you have justplayed Morrowind and Oblivion this game is crying 
+ out for your attention and you should be gagging for it! It sweeps you into the world of Tamriel 
+ (Hammerfall to be precise!) , immerses you in an adventure wher already know a little about the 
+ world and the races and the history and does not let go until the end!
+  
+  For a game that is over 5 years old the graphics will astound you. You will need a 3fdx wrapper 
+ as you need to see the game in it's 3dfx glory (dgvoodoo works for me!) and a CD slowdown for your 
+ fast CD drive (cdspeed 2000 did that for me!) , but having got the necessary accessories, you will 
+ be able to play this game in upto 1280x1024! 
+  
+  Now don't ge me wrong. The graphics are astounding for the time. Theya re not Far Cry 2004 graphics 
+ or anywhere near it, but when you see your ship sail into harbour and walk off the ship to see 
+ a gigantic statue looming over you with the sun glaring behind it you will be pleasantly surprised 
+ that this will not be an old old game with old old graphics! Yes, everything is a little blocky, 
+ especially the NPC's, but because the story is so could the puzzle so capitvating and the conversations 
+ so well done the blockyness goes away and it becomes a town on an island witth great characters, 
+ politcs and intrege! You will be drawn in an all will become real, just like in any great game, 
+ book or movie.
+  
+  The game doesn't support a mouse, but I managed okay with the keyboard, standard arrow keys and 
+ left hand keys for actions did the business for me.
+  
+  To say, as many reviewers have, that you should think 'Tomb Raider' is to say thatyou should think 
+ 'The Good The Bad and the Ugly' when your reading 'War and Peace'! Yes, you jump, climb rope and 
+ hang from various outcrops, but you also have great swordfights, deal with hstory level politics 
+ and intrege (if you floow the Elder Scrolls myth!) and the baddest of bad Goblins and undead and 
+ the nicest of Khajits and Argonians! :)
+  
+  You are out to find your Sister who has not be seen for three months. Has she been dealt with for 
+ being friends with the conquered Prince? Or has she got involved with shady pirates? As you follow 
+ the clues to her whereabouts so you get drawn into a story that will captivate you in the Elder 
+ Scrolls mythos.
+  
+  All the NPC's are voice acted and they are done very well. Cryus, the main character (you) is one 
+ of the few black male characters in video gaming that is not a characture. He sounds very much 
+ like a future blade who will end up protecting old Kings and new Kings in other parts of Tamriel! 
+ :)
+  
+  The music does the business, being 'swashbuckling' when needed and softer in the sadder moments. 
+ It all works very well. As does the sound effects with the seagulls and sloshing water in the port 
+ area to very weird noises from a graveyard at night (if you dare go there at night!)
+  
+  The game is quite hard but not impossible and with 30-60 hours pf play, I can highly recommend 
+ it !
+  
+  This game has the looks, the sounds and the story to take you even further into the Elder Scrolls 
+ story and if you have played Morrowind or Oblivion (or indeed the earlier Elder Scrolls games) 
+ you will feel right at home with the Island, the history and the characters. It will fill out the 
+ Tamriel world that little more!
+  
+  The game is quite hard to find, but you do occasionally find it on online auction sites. If you 
+ do find it, snap it up - it will take you back into the world of Tamriel and give you a rollicking 
+ ride on the Island of Stros M'kai!
+  
+  
+::::::
+
+::::::
+UserName: Humorguy_basic
+Rating: 9.2
+Date: Aug 12, 2006 4:24 pm PT
+Review:  An Elder Scrolls fan? Hey, even if you have justplayed Morrowind and Oblivion this game is crying 
+ out for your attention and you should be gagging for it! It sweeps you into the world of Tamriel 
+ (Hammerfall to be precise!) , immerses you in an adventure wher already know a little about the 
+ world and the races and the history and does not let go until the end!
+  
+  For a game that is over 5 years old the graphics will astound you. You will need a 3fdx wrapper 
+ as you need to see the game in it's 3dfx glory (dgvoodoo works for me!) and a CD slowdown for your 
+ fast CD drive (cdspeed 2000 did that for me!) , but having got the necessary accessories, you will 
+ be able to play this game in upto 1280x1024! 
+  
+  Now don't ge me wrong. The graphics are astounding for the time. Theya re not Far Cry 2004 graphics 
+ or anywhere near it, but when you see your ship sail into harbour and walk off the ship to see 
+ a gigantic statue looming over you with the sun glaring behind it you will be pleasantly surprised 
+ that this will not be an old old game with old old graphics! Yes, everything is a little blocky, 
+ especially the NPC's, but because the story is so could the puzzle so capitvating and the conversations 
+ so well done the blockyness goes away and it becomes a town on an island witth great characters, 
+ politcs and intrege! You will be drawn in an all will become real, just like in any great game, 
+ book or movie.
+  
+  The game doesn't support a mouse, but I managed okay with the keyboard, standard arrow keys and 
+ left hand keys for actions did the business for me.
+  
+  To say, as many reviewers have, that you should think 'Tomb Raider' is to say thatyou should think 
+ 'The Good The Bad and the Ugly' when your reading 'War and Peace'! Yes, you jump, climb rope and 
+ hang from various outcrops, but you also have great swordfights, deal with hstory level politics 
+ and intrege (if you floow the Elder Scrolls myth!) and the baddest of bad Goblins and undead and 
+ the nicest of Khajits and Argonians! :)
+  
+  You are out to find your Sister who has not be seen for three months. Has she been dealt with for 
+ being friends with the conquered Prince? Or has she got involved with shady pirates? As you follow 
+ the clues to her whereabouts so you get drawn into a story that will captivate you in the Elder 
+ Scrolls mythos.
+  
+  All the NPC's are voice acted and they are done very well. Cryus, the main character (you) is one 
+ of the few black male characters in video gaming that is not a characture. He sounds very much 
+ like a future blade who will end up protecting old Kings and new Kings in other parts of Tamriel! 
+ :)
+  
+  The music does the business, being 'swashbuckling' when needed and softer in the sadder moments. 
+ It all works very well. As does the sound effects with the seagulls and sloshing water in the port 
+ area to very weird noises from a graveyard at night (if you dare go there at night!)
+  
+  The game is quite hard but not impossible and with 30-60 hours pf play, I can highly recommend 
+ it !
+  
+  This game has the looks, the sounds and the story to take you even further into the Elder Scrolls 
+ story and if you have played Morrowind or Oblivion (or indeed the earlier Elder Scrolls games) 
+ you will feel right at home with the Island, the history and the characters. It will fill out the 
+ Tamriel world that little more!
+  
+  The game is quite hard to find, but you do occasionally find it on online auction sites. If you 
+ do find it, snap it up - it will take you back into the world of Tamriel and give you a rollicking 
+ ride on the Island of Stros M'kai!
+  
+::::::
+
+-------------------------------------------------

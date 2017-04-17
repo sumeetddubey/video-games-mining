@@ -1,0 +1,582 @@
+-------------------------------------------------
+:::Game Name::: Anachronox
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/anachronox/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jul 16, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.8
+Critic Score: 8.0, 35 Review (s)
+User Score: 8.4, 519 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Eidos Interactive
+Developer: Ion Storm
+Genre: Role-Playing
+Date:     Jun 25, 2001 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Anachronox is a solid addition to the genre and makes up for some rough spots with a welcome sense 
+ of humor and a lot of personality. 
+
+ Japanese role-playing games are a staple of console gaming. But aside from some lackluster ports, 
+ they've been almost nonexistent on the PC. Developer Ion Storm is attempting to redress this imbalance 
+ with Anachronox, a Final Fantasy-inspired game designed specifically for the PC. It manages to 
+ stay true to its console roots while modifying the formula in a few key areas, not the least of 
+ which is the addition of plot and dialogue not translated from Japanese. Though these changes are 
+ too subtle to bridge the gap between people who enjoy this type of linear adventure-RPG hybrid 
+ and those who don't, Anachronox is a solid addition to the genre and makes up for some rough spots 
+ with a welcome sense of humor and a lot of personality.           Sly Boots will eventually be 
+ joined by several other allies.    
+
+  However, there is one major caveat: The game gets off to a slow start. Though the convention in 
+ this genre is to keep you on rails for a while before opening up, Anachronox is a little ridiculous 
+ in this respect. The first five or six hours involve lots and lots of running mindless errands 
+ without much in the way of combat, puzzle solving, or anything else that could be considered good 
+ gameplay to break up the monotony. You'll generally be asked to walk somewhere, get something, 
+ or talk to somebody, and walk back. In most cases, this involves two or three transitions between 
+ areas. Worse yet, in between the loading times from area to area, you'll have to ride on elevators, 
+ which means watching an unavoidable animation of you riding the elevator -- a tactic seemingly designed 
+ for no other purpose than to annoy you. The whole thing is like watching a five-hour cutscene powered 
+ by you tapping the left mouse button.   
+
+  The beginning part introduces you to the main character, Sylvester "Sly" Boots, a down-on-his-luck 
+ private detective living in a futuristic city built on a mysterious, giant alien artifact. As usual 
+ with private detectives, he owes money all over town to the wrong kinds of people. His attempt 
+ to get a job and pay back his debts eventually leads him off of Anachronox on a quest to save the 
+ universe. Though it all sounds pretty standard, there's a lot of cleverness in the dialogue and 
+ plot details. Anachronox joins the short list of games such as Giants: Citizen Kabuto and Grim 
+ Fandango that manage to successfully convey an actual sense of humor -- not "funny for a game" funny, 
+ but legitimately funny.   
+
+  This humor helps mitigate the uneventful first five hours of gameplay. But the best way to get 
+ through it is simply to keep reminding yourself that it's going to get better, because the following 
+ 25 hours really  do  pick up; the fighting becomes more varied, more complex, and more frequent, 
+ and both the strict linearity and the traditional errand puzzles become better disguised.      
+      The plot takes some rather unpredictable turns.    
+
+  The combat system lies somewhere between the high watermark set by the Grandia series and the relative 
+ simplicity of something like the one used in Skies of Arcadia. Fights occur in real time with each 
+ character requiring a varying recovery period between each combat action. The biggest tactical 
+ addition to the system is the inclusion of movement. Characters can move between set points on 
+ a grid overlaid across the battlefield. This allows for a real difference between melee and ranged 
+ weaponry, as characters armed only with close-in weapons must maneuver themselves next to opponents, 
+ and from this position they may block the line of sight of characters farther away. Though it's 
+ a simple feature, it helps break the attack-heal routine inherent in a lot of fighting systems 
+ in these sorts of games.    
+
+ One odd omission is the inability to skip a character's turn while in battle. When it's their turn 
+ to act, characters have to do something before play can continue. This means that characters out 
+ of range of an enemy must either move into range or use an item or special attack instead of simply 
+ being able to sit back and wait. It's not a huge flaw, but it's a consistently annoying one.   
+         The visual design of Anachronox looks good, though the 3D engine is dated.    
+
+  Though each of the game's seven characters (who become available as the plot progresses, though 
+ you can have only three in your party at a time) has a series of unique special attacks that border 
+ on magical, about a quarter of the way through the game the mystech concept is introduced, which 
+ forms Anachronox's magic system proper. Mystechs are chunks of rock that are imbued with various 
+ powers such as the ability to shoot futuristic forms of fireballs and ice storms.   
+
+  At roughly the game's halfway point, an ancillary component of mystech is introduced. Called the 
+ elementor system, it's an absurdly complex way to modify mystech, in the tradition of Final Fantasy 
+ VII's materia system. By socketing various colored bugs into your mystech and then leveling them 
+ up, you can create a huge variety of different effects. While mastery -- or even a basic understanding -- of 
+ elementors is not strictly necessary to complete the game, it adds another layer of depth to the 
+ combat system and should keep FAQ writers busy for months.   
+
+  Perhaps the best change the developer has made to the Japanese RPG formula is the elimination of 
+ the thousands of random battles traditional to the genre. Each area features a set number of encounters, 
+ though you can often navigate them extra times for added experience. One thing to note about combat 
+ is that on "normal" difficulty, it's too easy -- especially once you start to get area-effect mystechs. 
+ Anyone wanting a challenge should play on "hard."   
+
+  The sound is good as well, especially the voice acting. It's a testament to the quality of the 
+ voice work that during the scenes in which the dialogue is merely presented through text boxes, 
+ you'll wish it were spoken.           It gets off to a slow start, but Anachronox is worth your 
+ time.    
+
+  Though it uses id Software's 4-year-old Quake II engine, Anachronox still looks pretty good. Environments 
+ and especially characters are somewhat blocky, but the level design and character design are of 
+ high-enough quality that you won't notice the relative lack of polygons for long. The ability to 
+ render facial animations has also been implemented, which permits the characters to display a lot 
+ of personality. Most of the environments, especially the city of Anachronox itself, are filled 
+ with little details that really bring the game to life. Ironically, the early boring parts of the 
+ game tend to have a more interesting look than the later levels, too many of which take place in 
+ nondescript areas such as alien tunnels and a sort of generic, Tomb Raider-esque ancient stone 
+ city. Luckily, by that point the gameplay itself should hold your attention.   
+
+  Anachronox is generally stable, and a patch has already been released addressing most of its technical 
+ issues. However, Windows 2000 is not officially supported, and some serious problems have been 
+ reported getting the game to run under that OS. Windows 2000 users may wish to try the downloadable 
+ demo to ensure compatibility.   
+
+  If you have the patience to make it through the slow start, Anachronox will reward you with great 
+ dialogue, great voice acting, and an increasingly complex fighting system. In terms of gameplay, 
+ it's a by-the-book entry in an established genre, but its American perspective and a successful 
+ sense of humor set it apart from the pack.    
+-------------------------------------------------
+:::User Reviews::: (11 Reviews)
+::::::
+UserName: davidl3631
+Rating: 9
+Date: Jun 22, 2007 9:21 am PT
+Review:  I seen this game get some good reviews but never heard of it before so i decided to get a copy, 
+ go the game for &pound;2.50 including p+p on ebay.... have to say this is the best &pound;2.50 i 
+ have ever spent, this game loads of enjoyment and a get story to get involved in, This game is 
+ very good and has good RPG elements, the fighting was very good and it you explored properley then 
+ you will have found loads more techniques, the exploring was the main thing in this game, if you 
+ didnt explore then you would have struggled because all the best weapons in the game you had to 
+ search for,
+  
+  As for the story i thought it was very well thought out and gave you a chance to get to know all 
+ the 7 characters properley, and has a great twist at the end.....
+  
+  The graphics are good baring in mind this did come out in 2001 and the voice overs are good (not 
+ that the charactors look like there saying the words but this is an old game) All in All this game 
+ you should definatly get if you enjoy exploring in RPGs and enjoy a great story line. 
+::::::
+
+::::::
+UserName: totalgridlock
+Rating: 8.3
+Date: Jun 13, 2007 6:49 am PT
+Review:  Gameplay: 8/10
+  Gameplay wise, Anachronox is more J-RPG than anything else: semi-linear storyline, third-person 
+ adventuring, pages of dialogue (in blue boxes, no less) , and a turn-based combat system based on 
+ a similar mechanic to the active time system found in latter-day Final Fantasy games. But that 
+ stylistic approach is offset by a very western view of a darkly humorous cyberpunk-infused dystopia. 
+ You are placed in the (sly) boots of a down-and-out private eye who just sets out to make a quick 
+ buck and ends up helping to save the universe, aided by a memorable cast of quirky characters  
+ including a smacktalking robot, the blueprint for Mr. Incredible, and erm a planet. Quite. Its 
+ a very fun game to play, with absolutely shedloads of personality. And for the most part, its 
+ solidly built. In the end, its the little things that prevent Anachronox from reaching the pinnacle 
+ of perfection. A dull beginning. Endless walking around the same areas on countless fetch-and-carry 
+ quests. An occasionally clunky control system. The lack of a map and decent journal system. Some 
+ frustrating mini-games that often dont bother to explain the controls beforehand. Niggling bugs 
+ even after patching. I get the feeling that a month or two longer in production would have done 
+ wonders to this game, or perhaps if the entire development team wasnt fired at the last minute 
+ some of these annoyances would have been ironed out. Its a real shame, because underneath the 
+ rough edges Anachronox is a diamond.
+  
+  Graphics: 7/10
+  Anachronox was built on a modified version of the elderly Quake II engine, and released a whole 
+ four years after its shooter step-daddy. As a result, Anachronox was never going to win any beauty 
+ awards. But theres still a rich, detailed, varied and often hilarious visual world to explore, 
+ resplendent in its cyberpunk and apocalyptic trappings.
+  
+  Sound: 8/10
+  The music is nice: calm and quiet with a distinct spacey feel. Some of the pieces wouldnt sound 
+ amiss in a space-simulation game to be honest. Most of the time it blends into the background, 
+ amping it up in key scenes. The voice acting is fine too, although little of the dialogue has vocal 
+ work: rather it is restricted to cut scenes and scripted sequences. This is a bit of a shame, since 
+ the vocals we do hear are excellent.
+  
+  Value: 9/10
+  Its big, its unique, its heaps of fun. Bang for your buck is not an issue. Unfortunately, Anachronox 
+ also falls into the bugger to get working on a modern computer category, sitting side by side 
+ with spiritual cousins System Shock 2 and Syndicate Wars in the awkward corner. Funny how all the 
+ best games end up there. However, any copies still in stores will be bargain bin leftovers by now, 
+ so why not take the risk?
+  
+  Tilt: 9/10
+  Superb.
+  
+  Pros:
+  One of the few Japanese-style RPGs available on the PC, with a great setting and an often laugh-out-loud 
+ sense of humour. Fun and engrossing. Fantastic storyline with a real kicker of a twist and a cliffhanger 
+ that makes me wish the sequel had got off the ground.
+  
+  Cons:
+  The combat is too easy, for a start. There are more than a few annoyances in the various gameplay 
+ aspects too.
+  
+  Conclusion:
+  Given a chance and a good polish, this could have been one of the greatest games ever created. 
+ As it stands, its still a cracker. 
+::::::
+
+::::::
+UserName: popo136
+Rating: 8.7
+Date: Aug 9, 2006 5:54 am PT
+Review:  Annacronox is an RPG game with good of sense of humor. At first, the plot is not too clear. People 
+ might got confuse on the opening scene, what happen to Sly. Maybe its because the limited graphic 
+ engine. Even though that Annacronox use the Quake 2 engine, but its not enough to draw the character 
+ expression. For the game that full of humor like this, the graphic engine is not enough.
+  
+  Annacronox has a very good plot (despite the closure) . It has full of surprises and mysteries along 
+ the game. Even though that the story build so slowly at the earlier stage, but it will go faster 
+ in the middle part, after sly That would make everyone stick to play this game 'till the end.
+ 
+  
+  The combat style is just like the earlier RPG game in nintendo (like final fantasy for example) . 
+ The combat will be more attractive after sly and friends can use their special moves (like special 
+ combos in street fighter) . Even though not all the special moves can be opened.
+  
+  The story packed with alot of puzzle to solve and humor that sometimes are taken from famous movies 
+ (like silence of the lamb, etc) . The closure is quite surprise enough, but it has to have sequel 
+ to be a good closure.
+  
+  Overall, this game is worth to play. Just enjoy the story and a little forgiveness to the graphic. 
+ 
+::::::
+
+::::::
+UserName: kainenable
+Rating: 8
+Date: Feb 18, 2006 7:16 pm PT
+Review:  I have decided to go back and review games that I really liked but not alot of people had played. 
+ It is unfortunate that this game did not do that well in retail. It offers something which is great 
+ fun to play.
+  
+  You start of your mission as Sly Boots (yes that is his real name) , and have to run errends for 
+ the local inhabitents of your town. This is mainly low level stuff but as the story progresses 
+ it gets really interesting. This truly feels like an epic RPG storyline where you not only must 
+ save worlds but must save the universe. Not only the Universe but multiple universes. How is that 
+ for pressure? 
+  
+  It never loses its sence of humor though. It somehow manages the balence between a serious rpg, 
+ and being consistantly funny very well. It never seems to be trying to hard but is naturally funny. 
+ This also helps from the panaple of unique charactars that you meet along the way. These are the 
+ most unique i have ever seen in an RPG, period. You party will contain an old washed up superhero, 
+ scientist, smartass robot, and a planet... yes a planet with millions of people inhabited on it. 
+ Which you can visit yourself at any time.
+  
+  The voice acting is superb and the graphics are servicable. Of course if you were to play it today 
+ you would notice they were fairly outdated, but it is easy to look beyond since everything else 
+ about it is so strong. The areas also unique and varied.
+  
+  That is not to say it is without fault. In fact there are some aspects which really stop this from 
+ being a truly epic game. Firstly you are going to re-tread the same places many many times. Just 
+ walking around going from one place to another. I really wish they would have just cut this out 
+ because you will find you have to load scenes fairly often as well. If they would have wrapped 
+ up the dialog and story into a more solid playsystem the would created something unmatched. 
+  
+  Besides this there is alot ot like about this game. It is filled with such charm and character 
+ that any fan of RPG's should try if they can find a copy of it somewhere. 
+::::::
+
+::::::
+UserName: lorax1284
+Rating: 8.2
+Date: Dec 22, 2005 9:36 pm PT
+Review:  I just love love love this game. Read the Gamespot review. It's bang on. One thing they neglected 
+ to mention is the camera angles in the third person perspective. No, the camera doesn't make problems 
+ in playing the game... I get seasick with all the swooping and wooshing around during battles though... 
+ It might have been better to just zoom gently in and out, rather than all the switching angles... 
+ but the better to see the great character / battle animations with, my dear.
+  
+  This game is inexpensive just about anywhere. I think I saw it in a "jewel case only" version for 
+ $15 bux at Staples. That cutscene where Democratus, Boots, Paco and Stilleto are in the big purple 
+ spaceship... priceless.
+  
+  Get it, and stick with it. You won't be sorry.
+  
+  I am having some performance issues that I hopefully can resolve, because running a game published 
+ in 2001 on a machine purchased in 2004 and only being able to run at 640 x 480 is a bit of a let 
+ down. 
+::::::
+
+::::::
+UserName: LuDaDJ
+Rating: 10
+Date: Nov 5, 2005 6:33 am PT
+Review:  The term "revolutionary" has been misused all too often to describe games. "Revolutionary graphics, 
+ revolutionary physics, revolutionary gameplay" are all part of the marketing hype for any new game 
+ that may not advance gaming much. It is quite surprising then, that Anachronox, an unheralded adventure/RPG 
+ game from ION Storm, deserves to be called "revolutionary" and turns out to be one of the best 
+ games in recent years.
+  
+  Anachronox is an adventure/RPG game using the Quake II engine, which was already four years old 
+ when the game was released in 2001. However, it's different from Quake II, SiN, Kingpin, or any 
+ other FPS based on the Quake II engine. First of all, your see your character from a third person 
+ view. Anachronox then uses the engine to create an immersive and interactive world. There are objects 
+ you can pick up and interact with, people to talk to, and places to visit. It feels like a traditional 
+ adventure game, meaning you need to accomplish goals by talking to people, getting items, and solving 
+ puzzles before you can proceed. But there are also RPG elements, such as leveling up and fighting, 
+ which is turn based, but with time meters. It's amazing how the Quake II engine can be used to 
+ drive an adventure/RPG, but that's what ION Storm has done.
+  
+  Anachronox takes place in a dark, futuristic world, where space travel is possible. The world that 
+ the game creates is breathtaking and totally immersive. The protagonist is Sly Boots, a down on 
+ his luck detective, but you'll run into other characters that will join your party, including your 
+ trusty robot pal, PAL-18. Sly is accompanied by a his digitalized secretary called Fatima, which 
+ takes the form of an arrow, and serves as the pointer that you use to interact with the world. 
+ All kinds of characters can be found in the environments. You can talk to just about every character, 
+ whether or not they are important to the plot. There is plenty of dialogue in the game, most of 
+ it in text, although the cutscenes have voice acting, which is well done, and make the fantastic 
+ story come alive. The areas in the game are underscored with background music, which is top notch 
+ as well.
+  
+  The story is perhaps the strongest part of Anachronox. There is humor, suspense, everything you'd 
+ want in a great story. In a really hilarious part, Sly has to get past a science bouncer, who asks 
+ an esoteric science question before letting you pass. The gibberish that Sly responds with is utterly 
+ funny. Then there is an eight minute heart pounding sequence you go through before a planet blows 
+ up. The cutscene after that is funny as well.
+  
+  The goals in the game are clearly identified, and you can bring up a list of current goals by pressing 
+ F1. The puzzles are of the adventure game variety, such as finding a size 5 helmet, or finding 
+ a way to turn off a laser gate. And occasionally, there is more than one solution to a puzzle. 
+ For example, in Sender Station, you need to get two tickets to Sunder. The way I did this was to 
+ do get the rose in the hotel, and take it to the woman who's watching the clown. The other one 
+ I got from a guy in the sewers. However, you can also yammer at a scientist staying in the cheap 
+ hotel, who will give up his ticket.
+  
+  What I like about Anachronox is that it doesn't focus too much on combat, unlike other RPGs, instead 
+ giving more weight to the story. Moreover, there are no random enemy encounters, as you'll always 
+ be able to see your enemies before you begin battle. In battles, you have access to ranged and 
+ melee weapons, but each character also has unique battle skills, and when some of them are executed, 
+ are pure eye candy. Sly's third level battle skill is a sight to behold, and Stiletto's Pain Pirouette 
+ really looks painful.
+  
+  There are plenty of minigames and arcade sequences scattered through the game. One level is essentially 
+ a shooter, as you pilot your ship through tunnels while shooting at enemies. Another sequence has 
+ you dodging meteors in your ship. Each character has a unique skill that when used, will let you 
+ play a minigame. These range from Sly's guessing number lock picking game to PAL-18's routing circuit 
+ game to Grumpos' lung filling minigame. Other games are incorporated into the settings, such as 
+ a strip club dancing minigame, and playable arcade games.
+  
+  One thing I should say, the game is quite long. Expect to spend 30 hours finishing it. And once 
+ you've finished it the first time, you'll want to go back and play the alternate adventures you 
+ get with other characters. Specifically, you choose which character to take with with to Limbus, 
+ and depending on this choice, you will get a different adventure with that character once you're 
+ on the surface of Democratus.
+  
+  Who would have thought the Quake II engine could be used in an adventure/RPG game? Anachronox is 
+ truly revolutionary, as the 3D engine allows you more freedom of movement and exploration than 
+ any other adventure game before it. The story, the characters, the music, and the environment combine 
+ to make to make this one of the best and most memorable games of all time. 
+::::::
+
+::::::
+UserName: dygel
+Rating: 4.3
+Date: Feb 27, 2005 11:13 pm PT
+Review:  I really hate to do this, but I have to give Anachronox an altogether failing grade. The simple 
+ fact of the matter is that I literally could not finish the game because bugs in the game prevented 
+ me from advancing all the way through the final area. As such, I can't recommend it to anyone.
+ 
+  
+  This really rather pains me because this is always a game I had looked forward to playing. Back 
+ in the days when I ran a VG website, I covered Anachronox pretty intensively. But the way history 
+ played itself out, I just never had a chance to play it until 2004. I played through most of it, 
+ enjoyed its wit and its attempt to recreate a console-style RPG for the PC. I got very near the 
+ end before I let it sit for several months, gathering dust before I returned to it to finish it 
+ off.
+  
+  Sadly, I've discovered that for some inexplicable reason, I am unable to finish it. I've reached 
+ a point where an event should be triggering to let me advance, and inexplicably, it is not.
+  
+  A bug this critical can only result in a failing grade. It pains me to give such a damning 
+ verdict to Anachronox, but when your patches and updates don't guarantee players can actually complete 
+ the game, you've brought it on yourself.
+  
+  If you ever play this title, all I can say is that I hope it works out better for you than it did 
+ for me. My experience of it was ruined. 
+::::::
+
+::::::
+UserName: bulldog55
+Rating: 6
+Date: Dec 11, 2004 6:34 pm PT
+Review:  Ion Storm came out with Anachronox in the wake of the Daikatana failure and in the midst of the 
+ Deus Ex boon, so understandably, this game's release was overshadowed by the good and bad press 
+ surrounding the other two titles, It's not a diamond in the rough, but it's worthwhile if you want 
+ to escape the standard fantasy RPG fare. If you see this game floating around in the bargain bin 
+ though, it's worth a look. (Just make sure you patch it after install...)
+  
+  While the game probably doesn't measure up to the expectations of most RPG fans, it excels in telling 
+ an ever-expanding story driven by rich characters who have no business saving the universe, but 
+ of course end up doing so, from one joke to the next. Legitimately, the jokes are funny, and this 
+ is Anachronox's greatest strength. The writing and voice acting is pretty good when it comes to 
+ developing truly original characters (such as a planet shrunk to minature proportions to become 
+ a playable character, or a has-been superhero looking to redeem himself heroically) but halfway 
+ through the game, you begin to realize that you're working with these wonderful characters who 
+ unfortunately can't escape the boring locales they are thrust into. 
+  
+  The environments are not exceptional by any means, and repetitive hallways, caves, buildings can 
+ become tedious to slog through after awhile... and you will have your share of slogging through. 
+ Some outdoor environments make appearances, sure, but not enough to shake the  
+ feeling. Yes, the game world is not sunshine and rainbows, and granted, the Blade Runner feel of 
+ the opening act sets the mood appropriately, but there are some parts of the game that left me 
+ wondering if I would ever get away from the endless metal walls, doors, and ceilings. In a first 
+ person shooter, this is excusable, but in an RPG, it's well... depressing.
+  
+  Having said all that, Anachronox has an interesting, if not somewhat clunky, battle system. It's 
+ not Final Fantasy, but it tries to implement an ATB systerm that mimics those found in many of 
+ Square's titles. My only problem with this is that while the active time meters speed up the many 
+ battles you will be fighting, the characters and enemies are fixed to a grid that limits their 
+ movement and action to a single direction each turn. It doesn't make sense to have a dynamic battle 
+ timer and a limiting battle movement system working together, and it takes some time to get used 
+ to.
+  
+  Thankfully, the battle animations and spell/skill effects are colorful, and they liven up the fighting 
+ a fair bit. Some non-innovations are present with "limit break" type actions specific to each character, 
+ and even the idea that types of energy can be drawn from "Mystech" is not entirely removed from 
+ spell magic that is drawn from "Materia". Since you spend so much time getting to know your characters 
+ throughout the story, it is satisfying to see them employ their own style of fighting when push 
+ comes to shove (and not some cloned manuever that everyone else has) .
+  
+  You're going to find a fun story in Anachronox -- but expect some drab environments and somewhat 
+ linear gameplay. As an RPG fan, you're certainly not going to be disappointed, but there is too 
+ much time spent thinking "When will this part end already..?" than, "This part is really hilarious." 
+ 
+::::::
+
+::::::
+UserName: Zixinus
+Rating: 9.3
+Date: Nov 22, 2004 4:14 pm PT
+Review:  I never rote a review before, so here it goas. I have very bad spelling, but I'm only 14 years 
+ old and 
+  
+  Graphics:
+  Graphics are wonderfull, cannot match HL2 or Doom 3 graphics, but condisering that they used a 
+ quake 2 engine. Faces are emocional, sometimes you just wonder about to see the sites. The envariment 
+ is great, sometimes you feel that your there, watching the main charecter (s) . Animacions are quite 
+ smooth, and a realistic. Each and every place is heavly detailed, like you see cups, and next to 
+ it some paper (sugar paper, you know you can buy small papers of sugar) or in a returant you can 
+ see ketchup and other stuff on the table. Charecters acsully REACH for items (but not always) . 
+ and I must repeat myself that it uses a quake 2 engine, but you will not notice that at all. I 
+ gave 9 considering how good the grapics are detailed and done. Oh, and the camera is olmsot always 
+ correct and stayed behind you (like a TPS) .
+  
+  Gameplay: Gameplay is a mix of advanture and RPG. You can talk to olmost every living creture (exept 
+ enemies) . There are nomurus side-quasts, mostly using certain characters special skill or going 
+ around. Gameplay is very close to story, but you are free to run around olmost everywere. Most 
+ places were you go can be revisited but as you progres thourghout the game they will change. So 
+ explore every corner, shlef and door. And theres something new here: World skill. Worldskills allow 
+ you to acces sertain areas or things (like weapons, items, swiches etc.) . Like the main character 
+ can pcik locks , while an other can hacknito sertain computer while another can just hit something 
+ with immense strengh. The only problem is that sometimes gameplay is a bit boreing sometimes, exspecialy 
+ while going to places. Some may complain that most people in the game do not speak (loud, so you 
+ won't hear a voice if you speak to somebody) but I must inform you if everybody would had voice, 
+ then the game would be 2 DVD's (around 10 cds) if every charecter had a voice.
+  
+  There are far to much to count side quasts, charecters to talk to, and special items hiden somewere. 
+ Keep a eye on the cursor (btw, Anachronox is the frist advanture game that has a full 3D cursor) . 
+ Freedom is big in Anachronox. Like you can ignore a kid, who wants to get his plane of the tree, 
+ but if you help him you get a .... no I won't spoil it. And sometimes there are several ways to 
+ solve a quast. 
+  
+  Story: (these are my words, not the games) In the vast futere man have met numerus races, explored 
+ and habited the galaxie like a pluage in the getto. But man itslef didn't really changed, and it 
+ looks like that the aliens have learned too much from man. Whats here now is there even now. There 
+ are rich, there are poor and there are few who just want to live. Theres every a getto everywere, 
+ even on Anachronox. Anachronox is a planet size stacion, found abandonent and habitibel. Image 
+ an imesne orb, and if you go into it, you will see a smaller planet like object. The planet is 
+ diveded into plates, wich move after a time. Nobody knows why are the plates moveing or what makes 
+ them move. Nobody really cares, since Anachronox is a dangerus place and a very poor one too. Before 
+ it whas discoverd to the public, it whas used as hiding place for thives and bandits or people 
+ who wanted to go away. Anachronox means "pluage from the past", since there whas nothing really 
+ on it, only slags off strange stones called "Mystech" You are a private detective, who gone down 
+ the rode. You have a cheap storeage room as a office, you own very much money, olmsot nobody goas 
+ into the office besides you. And you drink way to much. One day after you been beaten up becuse 
+ of you own cash, your digital assistent says you to do go out and find a job. What else can you 
+ do anyway?
+  
+  The story is original, and very intresting. It has a couple of turns, and entetains you very much. 
+ Sometimes the game is very funny, sometimes you just listen silently. I'm a big sucker for a good 
+ story, and its worth to play Anachronox for the story itself. Ih and i need to mention that the 
+ game doasn't have that "come here" dialog, instead it says "push your fat stomach here".
+  
+  Battle system (this goas into gameplay) :
+  I call batlle-system when you fight a enemie. It a 
+ mix beetwen beat-em-up and RPG. Combat is real-time but you need time to do a action. If you spend 
+ 4 hours diceding to attack or to move youl be beaten up like elefent steps on a rat. You must decide 
+ quickly. Each character has different weapons and different battle skills (each charecter will 
+ have atleast 1, but by finding certain items you can get others, more powerfull skills) and you 
+ must notice that enemies do not have the same weapons as you do. They olso have certain ablities. 
+ Oh, and note that you can sometimes use your suroninds, like you can use a lever to activate a 
+ force field so melee enemies can't attack you. There are healing potions (greese acsully) that 
+ can heal you or a "granade" that everyone in your party can use. Combat is based on good reflexes 
+ and good decusons.
+  
+  Sound: The game has exelent music, and thats a fact. It doasn't go too loud or to quite (unless 
+ if they want it to be quite) . Sound during combat are great to bad there are no tounts (like: "come 
+ over here to make you assles") . If I remember right, footstep sound change in the snow and in the 
+ desert.
+  
+  Value: The game is very heavly detailed, so if you can play the game out twice in a week, then 
+ you must have alot of free time. Its sould be in every bigger game collection. Sometimes it has 
+ effect that what charecter you have with you, so its worth playing it out twice.
+  
+  Reviewer's Tilt: I do not know what this, and I coudn't found out, so I give it a 10 :)
+  
+  
+ Overall: If you like action more then anything else, then get serious sam or chaser. But if you 
+ like a good adventure game, you won't be disopointed with this one. The game has a couple of bugs, 
+ and loading times were to big for me but remind you that the game needs to load alot of models. 
+ And its a bit irratating that you have to take a long walk to know that you need to do an other 
+ long walk. But Anachronox is a true masterpice is video game history. 
+::::::
+
+::::::
+UserName: TazmanianD
+Rating: 9.6
+Date: May 28, 2004 12:35 pm PT
+Review:  This game is one of my favorite games (second only to Planescape: Torment) . I am a pretty hardcode 
+ RPG players to give you an idea of what I like. It's one of those really great games that few people 
+ know about. It's a game done in a style similar to the Final Fantasy Games (which I've unfortunately 
+ never played) where you've got a party of characters who enter into battle sequences where each 
+ character gets to show off their special moves.
+  
+  What makes this game so great is that it's really funny. It's not funny in a forceful sense, but 
+ more in just the environment of the game and the consistent humor of all the characters in the 
+ game. The main character's name is Sylvest "Sly" Boots, Private Detective just to give you a guick 
+ picture.
+  
+  The game has an incredible amount of variety. You get to explore space stations, planets with mountains, 
+ jungle towns, deserts and lots of interesting and unique mini-games to play to get through the 
+ game. Many of which fit into the story line of the game and are very amusing. For example, one 
+ of the characters who joins your team is a planet (that's right, an entire planet shrunk down to 
+ human size) where everything is run by democracy (the planet is named Democratus) . In order for 
+ you to use this planet's skills, you have to enter a mini-game that involves "beating down" council 
+ members in a meeting before their objections can overule you.
+  
+  The music is also superb and I think among the best I've ever heard in a game. I have extracted 
+ the sound files into MP3s and listen to them on a regular basis. Sometimes I found myself just 
+ slowly moving around the levels just because I wanted to listen to the music.
+  
+  The game also has an incredible and engaging story that slowly unfolds over time and develops into 
+ a mission of epic proportions. There's also a great deal of character development. You learn about 
+ the characters who are so lifelike, that you actually feel for them at times. The characters models 
+ aren't terribly great, but the effort that was put into facial expressions often tells you things 
+ that the character is thinking without them having to say it. How many games do you know that do 
+ that?
+  
+  My only complaint about the game is that it was a bit too easy. The combat is not difficult, even 
+ on the hardest setting (so make sure you play it on hard) . The game also has a few bugs and some 
+ stability issues that weren't worked out even after the patch, but I could easily look past those 
+ things.
+  
+  Even with the game almost four years old, I still find it a great game to play. 
+::::::
+
+::::::
+UserName: StarshipCoyote
+Rating: 7.5
+Date: Oct 20, 2003 8:14 am PT
+Review:  Anachronox is basically blade runner meets space opera. The storyline is excellent and has a great 
+ deal of complexity to it. Once of the nice things about this game is that you have a lot to do. 
+ Its game play is well over 50 hours. Even if they say its less its not. You have to be willing 
+ to put a serious effort into solving each part of the puzzle that they are sending you on. It starts 
+ out somewhat typical, but slowly begins to allow you to develop the main character a little both 
+ in game and the storyline. The developers have an interesting sense of humor that is present through 
+ out the game. It has a wonder flavor of the dark gothic with a dark sense of humor mixed in. Its 
+ major flaw is combat. Its system is little high on the learning curve. Most new comers to the gaming 
+ world would find the combat a bit cumbersome. Its storyline is a bit liner as well. All in all 
+ however the developers of this game have made a game that is funny, in depth and thought provoking. 
+ 
+::::::
+
+-------------------------------------------------

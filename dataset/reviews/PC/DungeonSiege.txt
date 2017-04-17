@@ -1,0 +1,2417 @@
+-------------------------------------------------
+:::Game Name::: Dungeon Siege
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/dungeonsiege/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Apr 10, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.4
+Critic Score: 8.5, 61 Review (s)
+User Score: 8.3, 3,559 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Microsoft Game Studios
+Developer: Gas Powered Games
+Genre: Action Role-Playing
+Date:     Mar 31, 2002 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Its polished interface, accessible gameplay, and exceptional graphics make Dungeon Siege a first-rate 
+ action RPG. 
+
+ When Chris Taylor left Cavedog Entertainment after the release of the acclaimed real-time strategy 
+ game Total Annihilation, many gamers were surprised to learn that he would temporarily abandon 
+ the strategy genre in order to create a role-playing game. In spite of the shift in genre, the 
+ resulting game -- Dungeon Siege -- has a lot in common with Total Annihilation. Both feature excellent 
+ graphics, an accessible interface, capable AI, and varied environments. Dungeon Siege, like Total 
+ Annihilation, isn't the most novel game, but it is one of most polished games of its type.     
+       Dungeon Siege's huge, seamless environments are always attractive.    
+
+  Dungeon Siege is essentially a party-based Diablo that imports some of the interface features of 
+ real-time strategy games in order to allow you to easily control multiple characters. It's a hybrid 
+ of action and role-playing that consists of an almost constant stream of quickly resolved battles 
+ and a flexible but simple skill-based character development system. The setting is a very generic 
+ medieval fantasy world, and the game's bland and forgettable story is limited to an almost completely 
+ linear trek to dispatch various threats. Chris Taylor and his team of developers have essentially 
+ followed the same blueprint they used when creating Total Annihilation, GameSpot's 1997 Game of 
+ the Year. They paid only superficial heed to creating an involving plot and instead focused their 
+ creative efforts on making an accessible game that is great looking, easy to control, and fast 
+ paced. Dungeon Siege has all those attributes, and it's particularly notable for the quality of 
+ its graphics.   
+
+  Dungeon Siege features wonderfully detailed and varied environments. The 3D game engine's most 
+ distinctive characteristic is its ability to effectively depict geography of varying heights. While 
+ the topography of most gaming worlds is limited to flat terrain occasionally disrupted by slowly 
+ rising hills, Dungeon Siege routinely features intimidating cliffs and teetering bridges over seemingly 
+ bottomless abysses. The dangers the chaotic landscapes imply are illusory, since your characters 
+ are essentially glued to the ground and can never actually fall, and even creatures that appear 
+ to be flying essentially just hover slightly above the ground. As in the Myth games, you can take 
+ advantage of higher ground to loft arrows and ranged spells at hapless foes perched beneath your 
+ party, and there are even explosive weapons and spells with effects that greatly resemble the Molotov 
+ cocktails hurled by Myth's dwarven bombardiers. Dungeon Siege's physics system may be less robust 
+ than that of the Myth games, but its inclusion adds some tactical complexity, and it is consistently 
+ satisfying to watch your characters rain explosives on foes that are positionally disadvantaged. 
+   
+
+  In addition to its use of heights to great effect, Dungeon Siege's graphics engine is capable of 
+ rendering some amazingly varied environments. During the course of the game, your characters will 
+ travel through forests crowded with gently swaying trees, icy caverns, beaches infested with hovering 
+ gulls, and arid desert landscapes. As the game's name implies, there are also a number of dungeons 
+ and caves to explore, and the engine allows for seamless transitions into subterranean environments. 
+ It also never needs to halt the gameplay in order to load new areas. The lighting, shadows, and 
+ weapon and spell effects all look great, and there's lots of nice attention to detail, such as 
+ the rippling water effects that appear when your characters trudge through pools of water.   
+
+ 
+  The characters and monsters are even more graphically detailed than the environments. Each weapon 
+ and armor type is distinctive and visible on your characters when equipped, and many magical items 
+ have their own individualized appearance. The 3D characters and monsters are so detailed that it 
+ appears as if you're playing with sculpted miniatures. By pausing the game, you can freeze spell 
+ effects and missile weapons in midair to get a detailed look at any ongoing action. Dungeon Siege 
+ offers as much graphical eye candy as any isometric-perspective game to date. It also sounds excellent, 
+ combining an ambient orchestral score by now-famous Total Annihilation composer Jeremy Soule with 
+ plenty of appropriate sound effects.   
+
+  The game is very linear, although there are a few ancillary areas and dungeons to explore. You 
+ can backtrack, but there's little incentive to do so, since monsters don't respawn and dialogue 
+ with non-player characters doesn't change in response to events. In order to allow you to maintain 
+ situational awareness, objects like trees become transparent near your party members, and you can 
+ easily alter the isometric perspective by rotating, raising, or lowering your viewpoint. Despite 
+ that flexibility, trees and some environmental effects like snow and rain still sometimes make 
+ it difficult to see much of the area surrounding your characters. However, in those circumstances, 
+ you can rely upon the game's capable automap, which clearly identifies all nearby creatures and 
+ items and allows you to zoom in your viewpoint to essentially play the game from a top-down perspective. 
+           Prepare to fight huge monsters, as well as hordes of smaller ones.    
+
+  The character development system is simple and intuitive and features only four skills and three 
+ core attributes. Your characters develop their abilities to use melee or ranged weapons, or to 
+ cast combat or nature magic spells, based upon the frequency of use of those skills. For example, 
+ a character who starts using a bow will gradually develop proficiency with ranged weapons, while 
+ a character who prefers casting fireballs will gradually become adept at using combat magic. A 
+ character's core attributes are similarly derived from the use of those basic skills, so archers 
+ will gain dexterity, melee fighters will augment their strength, and spellcasters will increase 
+ in intelligence. It's a character development system that lacks the depth, and inherent replayability, 
+ of more complex skill-tree development systems, like the one used by Diablo II. But the advantage 
+ of Dungeon Siege's system is that it allows players to just play the game in the manner of their 
+ own choosing and let their characters naturally develop the skills needed to accommodate that playing 
+ style.   
+
+  Since Dungeon Siege is party-based, you'll likely sample characters skilled in each of the abilities 
+ during the course of playing the game. Unfortunately, these skills are not well balanced. Nature 
+ magic, in particular, is much more difficult to rapidly develop compared with the other three skills, 
+ since there's an early shortage of effective spells. Characters specializing in nature spells won't 
+ get as many opportunities to meaningfully contribute early on in the game, other than by casting 
+ healing spells, which by their nature are only useful some time after combat has commenced. It's 
+ accordingly difficult to sufficiently develop a character's nature magic ability to allow that 
+ character to cast the more formidable spells that become available at higher skill levels. That's 
+ less relevant during the single-player game, since even a nature mage with half the experience 
+ of the rest of your characters will usually be adequate to keep the rest of your party healed, 
+ but it's frustrating to play as such a weak character in multiplayer games, where you're limited 
+ to controlling a single character.    
+
+ In the single-player game you can control up to eight party members, and while you can elect to 
+ directly control all of them, they can contribute effectively with minimal supervision. You can 
+ individually set how aggressively each character will pursue foes, how they select targets, and 
+ when they will initiate combat. There are various formations you can adopt for your party, although 
+ their effect upon gameplay is minimal, since your characters can't be hurt by friendly fire. The 
+ interface allows you to easily and intuitively adjust the camera angle, pick up treasure, switch 
+ weapons, access inventory screens for any or all party members, or essentially accomplish any objective 
+ with a couple of mouse clicks. Vulnerable party members, such as the pack mules you can purchase 
+ to lug hoards of loot, will retreat from danger, and spellcasters with healing spells equipped 
+ will automatically aid their wounded peers. You can pause the game at any time in order to take 
+ greater control over the actions of your characters, but well equipped parties are capable of overcoming 
+ most foes relatively independently. It's an elegant and always manageable interface that allows 
+ players to assume as much control over their party members as they desire.           Some of the 
+ more intimidating monsters are really impressive.    
+
+  There are only a couple of minor problems that mar the otherwise flawless interface. There's no 
+ way to just keep your party moving in your chosen direction, so you have to keep clicking on your 
+ next destination. That simple omission makes moving around less convenient than it could be in 
+ the single-player game and cumbersome when playing an online multiplayer game in which lag can 
+ prevent the game from immediately recognizing your commands. A second problem with the interface 
+ is that there are only four active slots for weapons or spells for each character, and they are 
+ reserved for one melee weapon, one ranged weapon, and two spells. Once you specialize a character 
+ in a particular ability, you're unlikely to want to frequently access items relating to the other 
+ abilities, so the active slots unrelated to your primary ability are effectively wasted. You can 
+ pause the game at any time to access other items (or issue commands) , but combat is so frequent 
+ that you're unlikely to want to regularly fiddle with your preset spells or items. Only having 
+ convenient access to a pair of spells results, in practice, in your spellcasters only ever using 
+ two spells from the dozens eventually available. Still, the interface is generally excellent.  
+
+  In addition to the single-player campaign, which can be played in cooperative multiplayer mode, 
+ there's also a separate gaming world designed primarily for multiplayer sessions. You can play 
+ that setting solo by just starting a multiplayer game alone, but you're only able to play one character 
+ in multiplayer games. As a result of that restriction, the game plays quite differently, since 
+ you don't have access to a pack mule and are likely to be less tolerant of the disparity in the 
+ relative utility of the different class abilities. Since you can't "autoshare" loot and experience 
+ points, it's frustrating to be burdened with a character that's incapable of getting a fair share 
+ of the conquests. Exacerbating those problems, multiplayer games can quickly devolve into frenzied 
+ sessions where everyone is trying to kill as many monsters as possible without working together 
+ in any meaningful way.   
+
+  Furthermore, there are a great number of spells designed to strengthen your characters, weaken 
+ opponents, or summon creatures in the single-player game that become far less useful when you are 
+ required to focus your attention on a single character in the multiplayer game. The game's controls 
+ seem very susceptible to online lag, and the resulting delays in recognizing commands can make 
+ the game exasperating. Since you use a single click to both move and attack enemies, delays in 
+ recognizing commands can cause your character to move instead of attacking as intended or vice 
+ versa. Ultimately, because the game had to be designed to be playable when you are controlling 
+ a party of characters, the simple and streamlined controls mean that the game is at its least interesting 
+ when you're controlling only one character. Still, the multiplayer version of the game has potential, 
+ since you can set up team-based battles and the developers intend to facilitate the creation of 
+ additional player-created modifications and content.           The gameplay is simple, but Dungeon 
+ Siege is fun ride.    
+
+  There's a huge variety of monster types in the game, most of which have their own unique character 
+ models. Since the gameplay primarily revolves around dispatching hordes of enemies, enemy behavior 
+ is relatively simplistic. Most monsters will simply charge your party when approached, stopping 
+ to attack as soon as they are in range, although some enemies will also retreat when threatened. 
+ There are a few science-fiction elements scattered throughout the game that are incongruent with 
+ the medieval fantasy setting, but since the game doesn't have an involving story or setting to 
+ begin with, few gamers are likely to be upset with such heterogeneity. Even though there is such 
+ a wide mix of monsters, the constant battles still get repetitive, and advancing through some of 
+ the game's dungeon crawls can become tedious. Nevertheless, all the various environments you'll 
+ traverse and enemies you'll face will keep you interested. One distinguishing feature of the battles 
+ is their scale, since near the end of the game you'll frequently be forced to overcome virtual 
+ armies of enemies.   
+
+  While its party-based gameplay is a little more tactical and less frantic than that of other action 
+ RPG titles like Nox and the Diablo games, Dungeon Siege still plays very similarly to those games. 
+ It's a fast-paced hack-and-slash game, so if you're looking for a deeper role-playing game or one 
+ in which the primary goal isn't to liberate excessive quantities of loot from its owners, then 
+ Dungeon Siege isn't really for you. But its polished interface, accessible gameplay, and exceptional 
+ graphics make Dungeon Siege a first-rate action RPG.    
+-------------------------------------------------
+:::User Reviews::: (76 Reviews)
+::::::
+UserName: fandom888
+Rating: 8.5
+Date: Sep 13, 2008 4:19 am PT
+Review:  Dungeon Siege is a game published by Microsoft game studios and its exceptionally good features, 
+ graphics, and gameplay make it one of the best RPGs ever made.
+  
+  Firt of all, the script is just a pleasure, as monsters, enemies and magic objects are continusly 
+ revealed making the game a great adventure.
+  
+  In the game you are a simple farmer who tries to liberate your lands by the claws of powerful beasts. 
+ The environments of the game are also impessive and very well-made. The gameplay is very simpe, 
+ but still great fun.
+  
+  Another good feature is that you can team up with your friends and make a party with them. The 
+ good news is that when someone who belongs to the team (except you) can be revived anytime when 
+ you have a health potion to use it for the sake of the party.
+  
+  Another fantastic features are the graphics, which are top, and the sound or music, composed by 
+ Jeremy Soul.
+  
+  But the best feature is arguably the multiplayer, where you can set up another character, level 
+ him up, team up with other players on-line or just exchange items with them and dodge awesome attacks 
+ against fearsome monsters.
+  
+  Dungeon Siege is a great game to play and will surely leave you with open mouth! 
+::::::
+
+::::::
+UserName: wiredscotty
+Rating: 8
+Date: Sep 1, 2008 6:30 pm PT
+Review:  You know those guys in high school who would hang out in the library and play Dungeons and Dragons, 
+ or Magic the Gathering, or something equally similar and nerdy? (I'm guessing that more than half 
+ of you reading this were those kind of guys.) Well, those are the kind of guys I felt like as I 
+ was playing Dungeon Siege. I felt like a pimply, nerdy, low-self-esteem dweeb who couldn't get 
+ a date if I offered money... and you know what? I accepted it.
+  
+  I accepted it because I had fun playing this game. A lot of fun. For those of you who don't know, 
+ Dungeon Siege is an RPG dungeon crawler. It's basically Gauntlet with leveling up aspects to it. 
+ But it does it in a really cool way. Yes you level up with ridiculous numbers. Yes you have to 
+ know the difference between magic and melee. And yes, you you have to figure out what things like 
+ "Strength", "Dexterity", and "Intelligence" mean in the context of the game... so already you are 
+ delving into a world of geekdom from which you may never recover. But it's okay. Why? Because once 
+ you start playing you end up getting so lost in the world that you don't care anymore. 
+  
+  The game starts out with you picking what kind of person you are. I started out as a hot female 
+ redhead farmer... see, already 10 on the geekometer. Then I was told that I needed to save the ancient 
+ kingdom... this story was another big item on the geek checklist. The story isn't that great... just 
+ your typical dragon-fare with those horrible covers with a hot chick in a brass bra that you find 
+ in the dark corner of any bookstore. It's plain and simple and it really is just enough to get 
+ you going. 
+  
+  But once you get going is when the fun starts. It's pretty much a hack and slash kind of game. 
+ Run up to an enemy, pound him to a pulp, and recover your health with a magical potion if you need 
+ to. But what's cool is all the goodies the bad guys drop. You can choose what you want to pick 
+ up and put it in your inventory. And everything that is dropped is an actual item. You'll see those 
+ pretty boots you've been waiting 10 levels for... not just an icon... but actual pretty boots.
+  
+  The world looks great too! You'll run through forests, caves, swamps and a castle. All of which 
+ look top notch. It will certainly satisfy your nerd nerve.
+  
+  And as you run through the world you'll encounter a ton of different enemies. Ghosts. Skeletons. 
+ Dragons. Creatures. Goblins. You name it. And in order to beat up all these guys, you have to get 
+ a team... that's where other characters come in.
+  
+  You'll encounter a bunch of characters on the way. And you can choose whether or not you want them 
+ to join you or not. Some will join for free, other greedy jerks want money. But all of them can 
+ help out in one way or another. 
+  
+  The great thing about all the characters is that you need to treat them just as deeply and delicately 
+ as you do your main character. You have to choose all their equipment, make sure they have what 
+ they need, make sure their weapon is useful, and make sure they don't die.
+  
+  By this time you are so engulfed in the damn game that you don't realize that you haven't been 
+ to work in 3 days, that you haven't gone to the bathroom in 4 days, and that you haven't shaved 
+ or showered in a week. Your pets will probably be dead and your loved ones will most likely have 
+ left you by the time you figure out what you have become... one of those guys in high school you 
+ swore you would never turn into. You look around at your empty, filthy apartment... pizza boxes 
+ everywhere... soda cans toppling over on your desk... and a smell that would send any creature with 
+ a nose howling as it runs away. 
+  
+  And the sad thing is, you just shrug your shoulders and go on playing... because you need to swap 
+ your equipment around within your team and you just need 10,387 more gold to get that Tusk Helm 
+ that will up your defense +2. 
+  
+  My god... what have I become? 
+::::::
+
+::::::
+UserName: owl_of_minerva
+Rating: 5
+Date: Aug 1, 2008 9:06 pm PT
+Review:  Dungeon Siege suffers from the typical affliction of most action RPGs after Diablo. For anyone 
+ under the age of 15, point and click game-play could very well be the summit of what their overstimulated 
+ adolescent attention spans are capable of. Otherwise, I quickly grew annoyed with bashing yet another 
+ wave of enemies emerging from the bushes. While playing as a warrior and archer is usually mindless, 
+ being a spellcaster does little to alleviate the monotony. Whoever devised the spellbook interface 
+ managed to make the most annoying system possible. You can only have two spells readied to cast, 
+ so if you want to switch for a spell that you only need to use once, you need to continually go 
+ into the inventory to switch the spells around. Maddening. 
+  I would compare action RPGs, and by extension most MMORPGs, to virtual re-workings of 'The Game 
+ of Life' - simply replace a bourgeois home with lots of woodland and dungeons, family with party 
+ members, jobs with classes, and away you go on a materialistic and ideologically questionable quest, 
+ to battle for God, glory, and gold against evil and depraved foes. Give me Dungeon Keeper or the 
+ moral ambiguity of Planescape: Torment any day. 
+  Yet another razed stock medieval town in *another* stock medieval world. And, wait for it, you're 
+ a farmer who might just save the kingdom. 
+  Yes, the plot is terrible. The atmosphere is also lacking, compared to the inimitable original 
+ Diablo. The dungeons you lay siege to are boring at best - mines, caverns, crypts, ice caves, etc. 
+ Diablo had an inverted Platonic progression from the 'normalcy' of the Gothic town to the increasingly 
+ horrific and lurid Hellish Truth lying underneath in the bowels of the Cave, a journey to rival 
+ Dante's Inferno. The game was masterfully designed, compared to which Dungeon Siege is woeful in 
+ comparison. However, where Dungeon Siege redeems itself is some of the cosmetic improvements it 
+ makes to the tried and true formula. You can have a pack-mule lug your stuff around in this one... hurrah. 
+ What improvements again?
+  It's good enough as a bit of mindless entertainment, though this raises the question as to why 
+ most or all fantasy RPGS are a vaguely exoticised exercise in replaying the lives we live in the 
+ actual world. Do we all simply lust for power and goods? Is fantasy simply another reflection of 
+ the gross inadequacy of Western society? Dungeon Siege leads me to incline towards a pessimistic 
+ response. Thankfully, Dungeon Siege is not the last word in the storied world of PC RPGs. 
+::::::
+
+::::::
+UserName: sholva666
+Rating: 6.5
+Date: Jun 4, 2008 12:59 am PT
+Review:  The game is quite boring there's no denying that. You've seen all this before many many times only 
+ with much better graphics, story, characters, game play, you-name-it. One thing kept bugging me 
+ the whole time. You can't get poisoned at all. What's that all about? Poisoning is essential for 
+ an action rpg if you ask me. Skill development was OK. You get better at a skill by using it. That 
+ goes without saying. The lack of skill wasn't OK. Only four skills! What were they thinking? The 
+ donkey was pretty good innovation to haul excess stuff to the next shop. Leaving valuable stuff 
+ behind is not an option! (for me at least)
+  
+  The bottom line is: Think twice before buying and even then don't do it. It's a waste of good money. 
+ There are tons of better action rpgs out there. Buy one of them instead. 
+::::::
+
+::::::
+UserName: El_Justiciero
+Rating: 8
+Date: Jan 13, 2008 2:44 am PT
+Review:  I have the original Dungeon Siege and i played it at least three times. One with mixed party, one 
+ alone and one with all archers and the main character was a knight. Never ended that last one and 
+ never played again.
+  
+  I don't mean it is a bad game but is a game to play two or three times and then you get all it 
+ has to offer.
+  
+  It has good graphics, great engine, good history, enough characters (you can change characters 
+ for new ones in your party even half an hour to end the game) , good music (the main theme is fantastic) , 
+ good amount of spells (although like in most games you end using only a few of them) , and a good 
+ inventory system.
+  
+  The inventory is something i want do discuss apart. I am addict to rpg games and i really appreciate 
+ a good inventory. Dungeon Siege has a good space to carry things for yourself and for your party 
+ members and you can see how it affects to change pieces or armor, rings, weapons, etc. So you can 
+ improve yourself fast and easy, and see the changes during gameplay.
+  
+  I would like to see a Ultima VII - The Black Gate remake with Dungeon Siege engine. 
+::::::
+
+::::::
+UserName: metroidprime4ev
+Rating: 6.5
+Date: Jan 11, 2008 6:25 am PT
+Review:  This game is absolutely mediocre. There's no better way to describe it. Servicable graphics, but 
+ overwhelmingly bland art direction. Generic, generic, generic. Generic fantasy setting, generic 
+ characters, generic quests, generic gameplay, boring and poorly-designed skill system, all wrapped 
+ up in a far too easy campaign. You enter dark passage. Your AI makes short work of anything that 
+ moves. You move to an identical room. Repeat. Repeat. Repeat. Do not buy this game. It's an brilliant 
+ example of how to make a nice-ish game engine, then not actually include a game. A rip-off at any 
+ price that has more than one digit. Avoid like the plague, and go play Psychonauts to see what 
+ you're missing out on. THERE'S a fantastic, charming and interesting, if occasionally flawed game, 
+ worthy of your time and money. 
+::::::
+
+::::::
+UserName: Kingmoonraiser
+Rating: 8.5
+Date: Jan 8, 2008 3:01 pm PT
+Review:  Great for its time. If you remember back to when this game came out, we were used to buggy group 
+ rpg games like Baldurs Gate and a plethora of others I cannot recall at the moment. This one was 
+ intuitive, user friendly and fairly bug free. It was nothing original to the world of gaming, but 
+ it raised the bar. I wonder if my graphics card can handle this now....
+  
+  
+  Video Game Porn As graphics get better, who cannot help but notice that the female lead in most 
+ of our video games has a great ass. It all startred with Lara Croft, who was so pixelated, that 
+ mentioning it was a little embarassing. Now, especially with HD, gamers of all ages can apprecitate 
+ the gratuitous tang that comes with our video games nowadays. So I propose that the next evolution 
+ of video games will be Video Game Porn, or VGP as I will be the first to coin this phrase. I cannot 
+ wait for the corny plots and bad music.... oh wait video games already have that.
+  
+  Don't fear the reaper..
+  
+::::::
+
+::::::
+UserName: Kragspire
+Rating: 8.5
+Date: Jan 5, 2008 1:31 pm PT
+Review:  With so many Diablo clones popping up it is hard to wade through the ones worth playing and the 
+ ones worth throwing away. One of these clones is Dungeon Siege, which takes on a life of it's own 
+ and stands out from the other selections. Why might it stand out you may ask? With a combination 
+ of great story telling, unique game play and beautiful environments you will find allot to love 
+ about this action RPG.
+  
+  Dungeon Siege was a game created by veteran developer Chris Taylor. You may remember a little smash 
+ hit that he did back in the late 1990's called Total Annihilation, which was the first RTS game 
+ to use 3D. With Chris and his team's experience making games, you are going to find that he knows 
+ much about breaking the mold. The game play of DS is fast, fun and very customizable. You are presented 
+ with a sandbox of options to create almost any type of character your heart desires. Traditional 
+ levels are replaced by skills and attribute leveling. All you have to do is go out and practice 
+ something to get better at it, making for a semi-realistic level system that reminds me of Ultima 
+ Online. 
+  
+  The story and environments stand out in DS. There are plenty of different weather effects that 
+ keep the experience fresh. Travel starts out on a small farm and quickly leads to other worthy 
+ contenders such as snow covered mountains, deep mines and traditional dungeons. It is not the best 
+ looking game by today's standards but it still holds it's own for the age. Story is well done and 
+ you will find many side quests to undertake that will keep you busy for hours. 
+  
+  Multiplayer is where this game starts to shine and if you can get a competent group of people together 
+ it can be all the better. Your party can take on different roles such as tanks, dps, healers and 
+ such to bring a true multiplayer D&D experience in the form of a action rpg. It would of been nice 
+ to have different races for multiplayer mode that had pluses and negatives to attributes to change 
+ things up. You do get to pick from different skins such as dwarves and humans but that is about 
+ it. Still you are going to get allot of entertainment out of not only the single player but multiplayer 
+ portion of the game.
+  
+  Dungeon Siege is a great addition to any action RPG'ers library. There are many customizable options 
+ to endure that make the game a real treat to play over and over. If you can find a good group of 
+ folks to play the multiplayer session you will tack on quite a few hours past the single player 
+ game. Chris Taylor has turned a clone into a great game that is loads of fun to play. 
+::::::
+
+::::::
+UserName: Bozanimal
+Rating: 7.7
+Date: Oct 11, 2007 10:11 am PT
+Review:  The Krug, lopish, human-like creatures with think-wits and strong arms, ravaged your village in 
+ the Kingdom of Ehb. The Krug have been increasingly aggressive in recent memory, stoked by some 
+ unknown and unseen evil. No longer can you work the farm without fear of reprisal from the beasts. 
+ Your trowel in hand, you lock the door of your meager home and step forward to stop the Krug in 
+ whatever way might be necessary.
+  
+  Dungeon Siege is an action role-playing game, meaning you will be able to level-up, hack-and-slash, 
+ equip new weapons and/or learn spells, and take a long journey of discovery to ward evil. Dungeon 
+ Siege does not pretend to be original or unique. You follow your character in a three-dimensional, 
+ three-quarter adjustable overhead view through the Kingdom of Ehb. Your character can learn magic, 
+ archery, or melee combat, which will determine their ability to equip certain weapons and armor, 
+ gain health, and the like.
+  
+  Along the way your young farmer avatar will meet many residents of Ehb. Some will agree to come 
+ along on your journey for reasons of revenge or justice, while others will come along for a small 
+ fee. Deciding who to add and who to let go when your party becomes full will be often be a difficult 
+ decision balancing character strengths and weaknesses. Each party member is capable of carrying 
+ a certain amount of goods, and typically specializes in one of the areas your own character specializes 
+ in, such as nature magic or fighting.
+  
+  Dungeon Siege is about journeying through the land of Ehb and immersing yourself in its environment, 
+ which is easily as diverse as the mythical land of Middle-Earth. You will travel from lush forests 
+ through beautiful snowy mountains and canyons to beaches and underground mines. Indeed, some of 
+ the regions of Ehb rival those of Rohan, Moria, or the Shire. Your journey is extremely linear, 
+ you cannot get lost, and exploration would equate to about a city block from your path at any given 
+ time. But do not mistake the narrow trails for a lack of content, as the visuals are impressive 
+ even five years on, with snow falling daintily and water bubbling along in quiet brooks.
+  
+  Gas Powered Games overlooked no detail; characters and creatures are highly detailed even at the 
+ closest visual setting. Equipped armor and weapons appear on your characters, magical staffs crackle 
+ with power and crossbows load bolts before firing. Enemies are suitably impressive as well, wielding 
+ their own weapons or intrinsic magics. Indeed, Dungeon Siege is a video game monstrous compendium 
+ covering everything from Beholders to Goblins and the Undead. Battles between the party and creatures 
+ of Ehb will take many forms, including being overwhelmed by numbers and encountering enormous bosses.
+ 
+  
+  The frenetic pace of battle, casting spells, and tromping through swamps and badlands is impressively 
+ scored with a heroic and sometimes foreboding classical score, setting the mood. Swords clang, 
+ footsteps echo in dark hallways, evil creatures cry out, and magical fire rings through the forests. 
+ Non-player characters are also voiced with intensity, with greedy merchants sounding just as you 
+ would expect them, and murderous bandits emitting jaded notes of disgust.
+  
+  The party itself is easy and intuitive to control right down to camera movements and aiming. For 
+ the most part, a few simple clicks will have the party moving in the right direction or concentrating 
+ fire on the appropriate enemy. Managing treasure and equipment is straightforward, though there 
+ is so much plunder to be had that the player might add a mule to the party to carry it all. The 
+ mule cannot attack - at least not well - but it holds twice the booty of any character, allowing 
+ for some rewarding trips through the lands of Ehb.
+  
+  Dungeon Siege is not a challenging game; players need only equip the latest weapons and armor and 
+ set the party to heal appropriately to win most battles. Micromanaging is certainly not essential 
+ to victory. However, somewhere along the way the player will likely find themselves feeling as 
+ if they, too, have traveled through a kingdom rich in detail and long in history. What the game 
+ lacks in originality it makes up for in simple execution and brilliant style.
+  
+  --------------------
+  This review does not cover the multiplayer aspect of Dungeon Siege 
+::::::
+
+::::::
+UserName: OrkHammer007
+Rating: 9.2
+Date: Aug 9, 2007 11:20 pm PT
+Review:  (Disclosure: I played this with Legends of Aranna installed, so your experience may differ from 
+ mine.)
+  
+  Dungeon Siege is a hybrid of real-time strategy and role-playing games, and incorporates just enough 
+ of both to be thoroughly enjoyable. The action is nearly non-stop: enemies hit you from all sides 
+ almost the moment you start the game. As you progress along the linear path to the obligatory boss 
+ fight at the end, you gather incredibly powerful (and imaginative) weapons and armor, and new heroes 
+ join with you to help you fill in the gaps in your own strengths.
+  
+  Some of the powers you gain as you go allow you to summon temporary allies (such as creatures and 
+ magical orbs) to further boost your strength and skills.
+  
+  Where this game lacks, however, are the linear travel (there really isn't a side path; while the 
+ path itself is wide, it is pretty straight) and heavily watered-down character development. Where 
+ most RPGs implement complex skill trees and universally-applied experience points, DS uses a much 
+ simpler approach: use a skill enough, it levels up. With 4 separate skills (melee, ranged, combat 
+ magic, and nature magic) , it's relatively newcomer-friendly; however, it also somewhat separates 
+ you from any attachment you may have to your character.
+  
+  Weaknesses aside, however, Dungeon Siege is an excellent game; I highly recommend it for anyone 
+ who likes RPGs and RTSs. 
+::::::
+
+::::::
+UserName: OmegaClaw345
+Rating: 7.7
+Date: Jul 31, 2007 12:16 am PT
+Review:  The woods are crawling with all manner of beasts  wolves, Cyclops, giant flying insects and little 
+ beasties that fire magic at your party. In the crypts and tombs, spiders and giant worms attack 
+ in wave after wave. The swamps are infested with swimming and hungry life forms including dragon-like 
+ creatures. The Droog erupt from the sands near the Cliffs of Fire with an almost mindless need 
+ to attack.
+  
+  Yep, its rough being a hero.
+  
+  Dungeon Siege, from Gas-Powered Games and Microsoft, is a dungeon crawl that combines the role-playing 
+ genre with a touch of real-time strategy  but just a touch. In forums, this program is being talked 
+ about as a rival to Diablo II, but that is somewhat off base. Dungeon Siege may be a hack-and-slash 
+ RPG, and it may run along the tired lines of only you can save the kingdom from the evil that 
+ threatens it, but this is a game that sports elements of a variety of RPG games (like Diablo and 
+ Icewind Dale or Baldurs Gate) though in a style that is its own.
+  
+  As the storyline goes, the eastern empire was crumbling and in its dying throes, the 10th Legion 
+ withdrew to the west and founded the Kingdom of Ehb. It became a model land of prosperity of peace. 
+ But something is afoot. Your avatar is a farmer working the fields when an old friend, mortally 
+ wounded, stumbles across the bridge into your land. Old Norick tells you that the Krug (a brutish 
+ race) is on the attack, something has stirred them up and perhaps the goblins are behind it. Your 
+ job is to get to Stonebridge to spread the word.
+  
+  Starting with little, you begin the trek, fighting, collecting arms and leveling your character 
+ up. You will need to go through the Crypt of Sacred Blood before you can arrive at your destination. 
+ But once you arrive in Stonebridge, you will have a full inventory, and coins in your pocket. You 
+ will have the opportunity to add, not one, but up to four members (including a pack mule to carry 
+ all your booty) to your team. You will likely need it  the way grows more hazardous as you receive 
+ quest after quest, all leading your party through 14 main lands, as well as numerous byways.
+  
+  Each party can hold up to eight characters, and you can arrange the troupe in formations, as 
+ well as move positions around. Should you have a sorcerer who is strong in nature magic, you can 
+ put him or her near the back of the group and have them constantly (as long as the mana holds out) 
+ cast healing winds during the battles so you dont have to gulp healing potions. And if you do 
+ buy that pack mule, having it lead the simple formation is not a good idea.
+  
+  If you run across another mercenary offering you his or her services, for a price (of course) , 
+ you can dismiss team members and add to your hearts content. Party members level up in strength, 
+ dexterity and intelligence (most weaponry and armor require certain levels in these categories 
+ in order to be used) , as well as in four combat areas  melee and ranged weapons, combat and nature 
+ magic. In the case of the latter, you will need to have a spell book, and the spells in it in order 
+ to cast magic. Spells are categorized by the casters level in one of the two disciplines.
+  
+  The control elements of this game are very simple, and should be intuitive to those who have 
+ played this type of game before. The game features a point-and-click style of mouse control with 
+ the cursor changing to indicate which non-playing characters (NPCs, controlled by the computers 
+ AI, or artificial intelligence) you can interact with and which characters you need to battle. 
+ It will also change across the landscape to show game players which levers need to be turned, what 
+ can be picked up, et cetera.
+  
+  The games sound is very good. The musical soundtrack is wonderful and suits the mood of the game. 
+ It seemingly changes for each of the 14 main areas of the game. There are effects to accompany 
+ the combat and spells, death screams or the general utterances of the creatures you encounter, 
+ narration and voice work for some of the characters within the story.
+  
+  The gameplay is seamless as you transition from one area of the map to another. This game is set 
+ up in chapters, each with an accompanying cutscene and plot revelation. Replayability seems to 
+ be a bit of an issue. Once you clear out a boss and/or dungeon, it stays that way for a long time. 
+ But the game does have a variety of difficulty levels and a dungeon/scene editor is in the works 
+ (it will be a download from the games Web site when available) so players can create their own 
+ caverns of mayhem.
+  
+  All that brings us to the graphical quality of the program 
+  
+  This game is magnificent. It is three-dimensional with incredibly rendered environments. The animation 
+ is smooth and the camera will let you zoom way in to the action. While characters never seem to 
+ lack, or need to replenish, ammunition for ranged weapons, you can zoom in and watch as your party 
+ launches arrows into a creature, and actually see the arrows sprout from the enemys hide. Some 
+ of them, like the mechanized goblin warriors, begin to look like pin cushions or chia pets before 
+ they die.
+  
+  There are a variety of weapons, from magical glowing swords or axes that deliver more than just 
+ a penetrating blow, to dragon miniguns (think of them as chainguns) , grenade launchers and flamethrowers 
+ and lightning guns. Some of these are not your usual array of fantasy world weapons, but can be 
+ effective against the right enemies.
+  
+  Overall, though, this game is a joy for the eye.
+  
+  If there are any idiosyncracies that deter from the game, they come when trying to group a 
+ team tighter to get on moving platforms. There is even a fall-away trap in the swamp that may take 
+ only a few members of your party because the formation grouping is too loose.
+  
+  Dungeon Siege is wonderfully entertaining and addictive. The plot may be old hat, but until a storyteller 
+ comes up with something more creative than a heros struggle against an evil force threatening 
+ the land, game players are going to have to re-travel the familiar game outline. But this game 
+ succeeds on several levels.
+  
+  Dungeon Siege is the type of game that RPGers will be able to immerse themselves in. 
+::::::
+
+::::::
+UserName: KingLim
+Rating: 7.7
+Date: May 24, 2007 6:34 am PT
+Review:  If you're comparing this to Diablo II, then it has a tad too many weak areas such as poor character 
+ developments, simplistic combat system and slightly draggy pacing. However, if you're a hack'n'slash 
+ fan looking for a new game to get into quickly, then Dungeon Siege is your choice. In this case, 
+ it offers a party-based system to suit your Baldur's Gate-meet-Diablo gaming experience.
+  
+  One flaw in the level-up system is the lack of diversity and choices, which means that once you 
+ have a character who's a melee fighter, you better stick to that throughout the rest of the game 
+ cos multi-class just makes your character weak in the later part of the campaign when you can't 
+ meet the heavy requirements of better weapons. Furthermore, leveling up here isn't fun as everything 
+ is just automatic and you can't assign any skill points yourself.
+  
+  The linear level design is also slightly boring since it's often a narrow direct path with the 
+ occasional split tracks due to the few side quests. But on the other hand, it still does offer 
+ a challenge with very competitively strong enemies who are always on par with your characters' 
+ levels (all the more reason why you can't multi-class) .
+  
+  The 3D graphics are fine, with a level of detail much like Neverwinter Nights, complete with 360 
+ degree rotations. Sound effects are cool with that extra impact of dungeon doors and gates to suit 
+ the title of the game.
+  
+  KingLim 
+::::::
+
+::::::
+UserName: TomNationwide
+Rating: 9.4
+Date: May 21, 2007 10:40 am PT
+Review:  Dungeon Siege is remarkable in its effort to create a story, provide numerous loot, and give players 
+ a memorable Multiplayer experience. Add in the mod communities and you have a very special game 
+ that far surpasses even the most basic aspirations of a RPG. Set in the lands of Aranna you begin 
+ as an unnamed farmer who's world was thrown into chaos and village destroyed and you must now save 
+ the world . Without revealing the plot itself the whole game pushes you towards a heroic effort 
+ and provides you with a very nice cast of characters to join your merry band of heroes in an effort 
+ to end the Krug Invasion and find out who or what is behind this uprising. Rife with Armor, Weapons, 
+ and Magic you set about on your campaigns by exploring dungeon after dungeon and forest after forest 
+ on your way to the ultimate conclusion. Many games have tried to provide this type of fun experience 
+ with middling levels of success and failed utterly. DS delivers what the player expects. The one 
+ thing missing here is a narrative gameplay element to the Multiplayer functions. Only the person 
+ speaking to quest givers hears the story elements. Aside from this, the game is an excellent event. 
+ 
+::::::
+
+::::::
+UserName: ggamer25
+Rating: 9.9
+Date: May 5, 2007 8:06 am PT
+Review:  This game is actually a really good game even though i have to admit that it does get repetitive. 
+ What you do is you have to go around and do a bunch of quests sort of by killing off the krug. 
+ This game is very addicting and it is an enjoyable experience. But this game is not very violent 
+ which is good for the younger players. But when i say violent i mean like bloody gorey violent 
+ but there is a lot of fighting. Probably nothing that you havent seen before. Well just in general 
+ this is actually a great game. There is nothing really more to say about it other than you can 
+ choose to be melee, range, nature or combat magic. The higher level you get the better items you 
+ can use. There is only one problem with this and that is that you can only carry a max of 9,999,999 
+ gold and i reach that limit all the time and there are some things that cost over 2 million alone 
+ so they should definently let you carry more than that. Well that is really it on this game oh 
+ and i forgot but the graphics are actually quite good on this game for a change. Plus the difficulty 
+ on this game is just right if you know what you are doing decently but if you dont know what you 
+ are doing then this game can actually be very hard. But it can also be fairly easy if you know 
+ where to go and you are a high level and you know exactly what you are doing like me for instance. 
+ My advice would be find the best armor and if you are playing multiplayer make sure that it is 
+ not man vs man if you are playing with someone that is a higher level than you especially if they 
+ are a higher level than you by a lot. Plus if you want to get really good defense items quickly 
+ then be a melee person plus they can also get really good attack items. The only flaw with this 
+ though is that you can miss a lot and it is not always the fastest way to attack things. If you 
+ want fast attack powerful weapons and medium defense then you want to be a range because they can 
+ use distance and power but when enemies have the chance to get up close then you are in a lot of 
+ trouble. But if you want to be someone that is strong with long range attacks but has terrible 
+ defense until you get to a much higher level then you want to be a mage, Plus you can heal yourself 
+ with your mage so the defense thing doesnt really take too much of a toll when you get to be higher 
+ levels. The only down side to this other than the defense thing is that your mana or magic points 
+ drop very quickly so you need to bring lots of mana potions with you. But when you are a higher 
+ level it actually might not even matter if you dont have mana potions or not because the higher 
+ level you are and the more mana you have the quicker it regains and the same goes with health. 
+ But when you are a mage your health is always going to be low unless you have items that increase 
+ the total amount of health you had. Well that reallly is basically it on this game and i know that 
+ this is a very long game but it is a heck of a lot of fun. Look for more game reviews by me on 
+ gamespot if you liked this one. The graphics i have to admit are not great for now but when it 
+ was made like 5 years ago these graphics were outstanding. This game all in all is nearly a perfect 
+ game in every way possible. 
+::::::
+
+::::::
+UserName: kingrich06
+Rating: 9.6
+Date: Jan 12, 2007 7:44 am PT
+Review:  Was given to me as a gift. After installation and initial startup, I spent the first thirty minutes 
+ just walking around town enjoying the graphics. It was nice to see the developers actually took 
+ the time to render the little things like NPCs and buildings.
+  It didnt take me long to learn the mechanics of combat. It seemed so seamless like watching a 
+ good CGI movie. The interface wasnt too cumbersome.
+  I like the fact that the main character can be trained to be different classes not just set in 
+ one direction.
+  One of the few gripes I have about this game is a bit too linear even though there is plenty of 
+ content, it tends to push you in the right direction after every area. Even though I didnt play 
+ the multiplayer too much, I didnt like any of items and skills gained through multi player was 
+ brought back to my single player.
+  Overall is a great RPG and good game to have.
+  . 
+::::::
+
+::::::
+UserName: wackys
+Rating: 10
+Date: Dec 28, 2006 5:24 am PT
+Review:  Ok..... I am a Hack and Slash fan I admit
+  
+  Pluses: many many many items to buy; big gameworld; great story; great graphics; great sound; many side 
+ quests that are cool and sometimes rewarding; is fun to play
+  
+  Minuses: a bit too long; some voice acting; annoiyng swamp level
+  
+  I played this game a long 
+ time ago and at that time i was amazed - just like now. This is one of the most great RPG's Man 
+ Kind can create.
+  
+  The gameplay is Hack and Slash - and i like hack and slash cause they never get booring. Many secret 
+ items that if you find em you will keep em a long time. The graphics are amazing even to this day 
+ by my standards. The sounds are amazing. The game has much replay ability because of those secret 
+ items. Overall the game is a masterpiece and deserves a look by anyone 
+::::::
+
+::::::
+UserName: Panush
+Rating: 10
+Date: Dec 26, 2006 5:14 am PT
+Review:  Okay, ive played alot of RPG's, Diablo, Arcanum, Savage and many many more, but still, nothing 
+ beats this. I first played this game when i bought it, back in 03, i installed it, and within 1 
+ minute of gameplay, if not 10 seconds, i was completely hooked, i had never played a game more 
+ fun than this. Okay, i know you people agree that this game is pretty old, soon it'll be 5 years 
+ old, but the graphics in this game still beats a couple of game that came out later, like vice 
+ city, where graphs were terrible, and gta 3, also terrible, and not to mention Lord of the rings, 
+ some of you people might not agree, but thats what i think. However, back to the game. The atmosphere 
+ and nature is so realistic, its like walking into a real world, if only this game would have been 
+ ultimate reality, that woulda been so cool. The gameplay rocks too, the learning curve is about 
+ 10-20 minutes tops, which gives you more time to experience the game than to try to find ways to 
+ play it properly, which by the way can be quite annoying in some games. There are hundreds of weapons, 
+ lots of spells and potions, and the fighting system is better than most RPG games, like Savage 
+ and Arcanum, where fighting is terrible and disgusting. You can customize your own character, choose 
+ his class during the game, or why not practice everything, creating the ultimate warrior you know 
+ ;) my favourites are wizard and warrior. But that doesent mean that archer is a bad choice, its 
+ up to you people. I recommend everyone to buy this game, if you're a fan of great RPGs. 
+::::::
+
+::::::
+UserName: ninjagaijin10k
+Rating: 8.4
+Date: Dec 15, 2006 9:41 pm PT
+Review:  This game was a lot of fun, but was by no means perfect. It really is a great blend of action RPG 
+ and real time strategy. There are moments were it really shines and finds it's own foot outside 
+ either, and there are times when you can really feel the flaws of both.
+  
+  From a purely action RPG perspective, it was a mind-numbing hack and slash bloodbath. After about 
+ two-thirds of the way through the game, I really wanted to start chewing my foot off from the tedium. 
+ All action RPG's do that to me, but this one was particularly bad near the end. I finished it, 
+ and didn't regret it though, but I don't think I could play it again. From a strategy perspective, 
+ there were pathfinding issues and dumb AI issues. I really wanted strangle my party members sometimes. 
+ Also, inventory management was a pain in the neck.
+  
+  Having multiple characters gives the game a lot of depth a normal action RPG wouldn't have. If 
+ it weren't for the overwhelming SAMENESS and linearity of the game, it would have been a lot better. 
+ The game gorgeous. The environments really draw you in. The character system was arcane and restricting, 
+ but it didn't matter much in the end. If you just pick a path (magic, fighting, archery) , stick 
+ to it, don't worry about diversifying your character and just focus on smashing skulls, it's fun 
+ enough.
+  
+  It could have been so much more, but what it was, was pretty fun. 
+::::::
+
+::::::
+UserName: demonic14
+Rating: 9.6
+Date: Nov 25, 2006 1:47 pm PT
+Review:  I played this gme fo a week... I was inprest ! the gameplay was great. i enjoyed the big party's 
+ and the function to control wheree are they going and what spells are they using a. s. t the most 
+ useful thing in the game is the mule... you can store more and more stuff there. thats great becous 
+ you dont have to carry many things in you bag... The big and interetingly designed dungeons and 
+ mazes were very impresive. I enjoyed the long walks thro them. the grafics was just fine. the gamplay 
+ was great and I am all thumbs up for this game....
+  It is an instant clasical with only one minus.... it was the forest maze part... I hated it... 
+ So I cant tell you anything anymore so I say you have to play it to believ me... I say it's a great 
+ game! Enjoy
+  
+  P. S I am sorry for my grammer... I dont have time to recheck and correct it! 
+::::::
+
+::::::
+UserName: herviross_2
+Rating: 7.8
+Date: Nov 8, 2006 6:24 am PT
+Review:  Dungeon Siege is the first game of the self-titled series, and its definitely the best. You take 
+ the control of a hero and travel him/her through the mystical land of Ehb.
+  The plotline is good with some minor twists hear and there, but nothing great to capture any gamer. 
+ Graphically, the game seemed decent, but could have improved in character expressions and its development. 
+ Some of the monsters and heroes look very odd in the game. The sound on the other hand was better, 
+ and personally, the best aspect of Dungeon Siege. Try to avoid this game if youre not into RPG 
+ and long quests. The game could have had better characters and some more gameplay elements in it, 
+ rather than just exploring dungeons. The game tends to get a bit repetitive half way through the 
+ game, and may lead to gamers just quitting the game due to lack of substance in the game.
+  All in all, Dungeon Siege is just about an average game which could have easily excelled if it 
+ had more content. 
+::::::
+
+::::::
+UserName: razzavatar
+Rating: 10
+Date: Nov 4, 2006 3:46 am PT
+Review:  I like action RPG games and this game was super fun. Very smooth graphics and awesome sound effects. 
+ I recommend this game if you like action RPG games.
+  
+  I like action RPG games and this game was super fun. Very smooth graphics and awesome sound effects. 
+ I recommend this game if you like action RPG games.
+  
+  I like action RPG games and this game was super fun. Very smooth graphics and awesome sound effects. 
+ I recommend this game if you like action RPG games.
+  
+  I like action RPG games and this game was super fun. Very smooth graphics and awesome sound effects. 
+ I recommend this game if you like action RPG games.
+  
+  I like action RPG games and this game was super fun. Very smooth graphics and awesome sound effects. 
+ I recommend this game if you like action RPG games. 
+::::::
+
+::::::
+UserName: Melodium
+Rating: 9.5
+Date: Aug 7, 2007 3:17 pm PT
+Review:  I first played the demo and within the first 10 minutes I was hooked. This game is not overladen 
+ with rules and key compnents to understand before actually getting the jist of the game. Right 
+ from the start you are just immersed into the game play. The lush views and sounds of the landscape 
+ make the atmosphere feel real serene. The graphics are maybe alittle dated now but still eye catching 
+ non the same. Gameplay is easy to understand but when controlling several characters it can get 
+ alittle tricky like Baldurs Gate but It gets easier the longer you work with it, not a flaw with 
+ the game just something that takes practice on the players part. I highly recommend this game especially 
+ if you are considering an RPG for your first time or don't want too many rules and long winded 
+ dialog to bring your game down, as I said before easy fun just not too easy on challenge. 
+::::::
+
+::::::
+UserName: mkaddict1
+Rating: 7.8
+Date: Oct 29, 2006 5:30 pm PT
+Review:  I love hack-n-slash RPG's, and Dungeon Seige is one of the best. It has everything a good RPG should 
+ have, an epic storyline, sweet loot, millions of swarming enemies to kill, and a deep customization 
+ of stats.
+  My favorite piece of the game is the stat-building system. It is very similar to FF2; as you use 
+ a weapon often, your stats continually build for that one skill, say bow-and-arrow. The graphics 
+ are splendid, bright and colorful and very detailed. The characters are fun to watch and manipulate.
+ 
+  The story and vast and takes you all the way around Aranna, up to the big bad guy. Dungeons are 
+ sprawling and last for hours. Coming out alive gives you a good sense of satisfaction.
+  I have a few complaints, though. I have played through twice, now, and noticed that the amount 
+ of loot you aquire becomes almost annoying. Most of the treasure is useless and not worth keeping. 
+ By the middle of the game, you have so much money you don't know what to do with it.
+  My other complaint is the repetitiveness of battles. Before your characters get new skills, or 
+ you aquire new characters altogether, the game gets a little boring in the interim. THis mars an 
+ almost perfect game. 
+::::::
+
+::::::
+UserName: Sandpiper121PP
+Rating: 9.3
+Date: Aug 5, 2007 5:15 pm PT
+Review:  I remember wandering thru the local computer store, just looking around for something new to play 
+ and then coming over to a demo of this game on a computer. At first I thought it was just a new 
+ PS2 game and I just walked by. Then I turned around and saw it was infact a PC game and took a 
+ 2nd look at the screen. My whole gaming world changed at that point. Normally I play FPS but this 
+ had graphics unlike I had ever seen for it's time. The world was huge and there was so much to 
+ the game. It was one of the only games I have ever paid full price for when it first came out and 
+ still love it to this day.
+  The game play is awesome in the fact that you are out to defend your village against the evil overlord 
+ who is trying to take over your world from hell. You, the hero, can be either Male or Female and 
+ have a variety of clothes, hair and other objects to add to your character. Then you can choose 
+ to be a Melee Fighter, Archer, Mage, or a combonation of all three. As you progress thru the game 
+ you build up skill points in whatever path of the fighter style you choose and then can aquire 
+ new weapons and skills. You can also along your journey have people with different or same skills 
+ join your party to help in the filght. You control the settings for how everybody in your party 
+ fights and how they work together. You can have pack mules to carry all the stuff that you find 
+ and then sell or keep as you get to each new town.
+  The graphics in this game are just awesome and breathtaking as well. The detail of the world is 
+ just overwhelmling as are the details of each character you fight as you as well. They really made 
+ the game have the overall look stay equally balanced. The texture and lighting are equally showed 
+ off in this game and not just standard as you might see in most games. As you hack away on creatures 
+ and things you see pieces fly off and blood go everywhere. Some of the best graphics I have ever 
+ seen are in this game from every detail.
+  The sounds are equally as great as the graphics. If you have a surround sound card you are in for 
+ a real treat. I remember fighing in the dungeon and some of my party ran down the hall and fought 
+ others as I found by myself. You couid hear the clanking of the armor and weapons in the distance 
+ like you were really there. I became louder as you approached just like in real life. Every little 
+ thing you do from walking in water to across a wooden bridge is amplified to sound very real The 
+ gameplay is not short either in that you have alot of ground to cover in this game. I did like 
+ that you can save whenever you like in this game. Being the game can take some time to complete 
+ this was a huge plus. You can also save multiple different peoples games as well, so you and your 
+ family can each play on their own speed and their own way. I have played this game several different 
+ ways. Sometimes just me, sometimes everybody was an archer, mix and match, the choice is yours 
+ and it can make the game different everytime. There are only 3 skill levels, easy, medium and hard. 
+ Hard mode is Very Tough! It is possible to do by yourselt but will take alot of skill and work. 
+ Online play is also avaliable to those who want ot have that experience with their friends!
+  In conclusion, this game is well worth it to add to any collection. It being the first of the series 
+ is the best and will be long loved by gamers for along time to come. If you love games with awesome 
+ graphics and a great storyline, huge world to explore.... this is the game for you! 
+::::::
+
+::::::
+UserName: Poton
+Rating: 8.7
+Date: Oct 14, 2006 5:54 pm PT
+Review:  Dungeon Siege is a decent game, which is incredably long with both a single player and multiplayer 
+ game world! (both which can be played online or over lan with up to 8 friends) Definately one of 
+ the best rpg's of its time but the gameplay and graphics are now a bit outdated, after playing 
+ Dungeon Siege 2 i've realised that the better more fun DS 2 gameplay was it came with a cost of 
+ less content items and areas to hack through. If you really want to see what the hype is about 
+ the game you should probably play it online with friends and get to fairly high lvl. Though I thought 
+ the game had okay single player, its alot nicer to lvl up with your friends and on your own, get 
+ some items then pvp them =P. Definately worth trying if you have some time and want to play on 
+ lan with your friends but unless you're goin to play alot i'd recomend getting dungeon siege 2 
+ simply cause the updated controls feel alot better. The games combat is decent but for melee classes 
+ requires little attention, however it can be quite fun if you play on lan and kill some hard monsters 
+ far in between the large variety of towns. If you're looking for a large rpg with alot of lvling 
+ to do and tons of items and aren't too bothered about the simple combat you'll love dungeon siege. 
+ I'd recomend reapers fast xp 1000 after you've reached about 80 otherwise it takes forever to lvl 
+ up. If not 80ish i'd definatly recomend it when your in the 100's. 
+::::::
+
+::::::
+UserName: altenter
+Rating: 9
+Date: Sep 9, 2006 4:23 pm PT
+Review:  dugeon siege is a midevil set game it starts out like the knigdom is in ruins and u have to save 
+ ur own kingdom from some horible creatures and stuff. there are many quests u can do to get money 
+ and stuff but it easier just to kill all the monsters u can see. there are 1 to 150 levels that 
+ you can rise by killing all the monsters that you can see and takes a very long time. you can also 
+ control up to 7 or 8 characters at a time. there are lots of many weapons spells bows swords ect 
+ in the game. the final boss is tough but if you are an expert you can beat him easily. some amour 
+ only pops up a certain time when you play and is rare in single player. the multiplayer servers 
+ you can kill other players for there invintory and money. plus theres more better armour spells 
+ swords and bow there. if you want the best armour i tell you to cheat alot till you got alot of 
+ money and then buy all the best things that you can see or start your own mini server up and have 
+ all the best items lying around you to be the best. overall dugeon siege is the best for medevil 
+ play so get today. signing offf. 
+::::::
+
+::::::
+UserName: btindall
+Rating: 7.6
+Date: Sep 4, 2006 2:09 pm PT
+Review:  This is one of the easiest RPG's to pick up and play that I've ever tried. I enjoyed the various 
+ tactical challenges presented at various points along the way. It was important to have a balanced 
+ party.
+  
+  Unfortunately, there is not much of a story here, and the characters are undeveloped and uninteresting. 
+ Although you have 7 party members with you, they do not interact. Conversation from people you 
+ meet along the way is irrelevant. It's these shortcomings which make the game seem repetitive and 
+ uninteresting in the latter part, and there aren't enough tactical challenges to redeem it.
+  
+  Still, on the whole, I can recommend it, for smooth gameplay and good graphics which don't 
+ require a high-end system. 
+::::::
+
+::::::
+UserName: rynn21
+Rating: 9
+Date: Aug 29, 2006 6:54 pm PT
+Review:  Dungeon Siege is about a lone farm girl who must take on the forces of evil in order to save her 
+ empire and it's king from total ruin...
+  You start off choosing your playing character's name and his/her character looks. The you start 
+ the game, anf immediately you cant stop playing it. The games graphics are oddly remarkable, and 
+ the gameplay moves along rather smoothly. Even the music and sound effects make you feel like your 
+ right there in the game. As you continue along the paths and dungeons you come across villages 
+ where you can buy new supplies, gear, and even pack animals to carry your extra luggage. In the 
+ end, you are the true heroine of the empire and it's civilians. 
+::::::
+
+::::::
+UserName: nobeaner
+Rating: 8.2
+Date: Aug 13, 2006 2:15 pm PT
+Review:  When I first played dungeon Siege I was surprised at how easy it was to play. Same as Diablo with 
+ a 3d feel and no load times. The character animations were smooth and went together very well. 
+ I enjoyed the voice acting and the story line since it was simple and easy to follow. The build 
+ your own character as you play idea was different for me to experience and while different, I found 
+ it a little frustrating too since it took a long time to build up things like nature magic unless 
+ you were constantly casting heal all the time.
+  
+  The no load time feature was cool to experience. I was also quite interesting how once you finished 
+ the game you were allowed to travel as far back through the levels as you wanted. Unfortunately 
+ the monsters don't repopulate so if they are dead then they are dead forever.
+  
+  Fun game but it just got repetitive after 15 hours of play. Nice choice of weapons and armor. Thank 
+ god for donkeys too since you would never had been able to haul around all the extra weapons and 
+ stuff you could collect. 
+::::::
+
+::::::
+UserName: RebelILL
+Rating: 9.1
+Date: Aug 9, 2006 12:26 pm PT
+Review:  Dungeon Siege is a huge leap forward in the Hack and Slash-dungeon crawler genre much like the 
+ Diablo series. 
+  
+  Gameplay: You start the game by customizing your character as you wish and then begin the actual 
+ game. Dungeon Siege is an action based RPG with lots and lots and lots of combat. It differentiates 
+ itself from other games in the genre in the way that the player builds up there character. Instead 
+ of choosing a specific character class to play with you level up depending on what you fight with. 
+ There are four disciplines in Dungeon Siege. Melee, Ranged, Nature magic and Combat magic. If you 
+ use a weapon you gain experience in Melee, if you use a bow you gain experience in ranged, and 
+ depending on what spells you use (Either combat or nature) thats what you gain experience in. 
+ 
+  Another concept in Dungeon siege is that instead of controlling one character you control up to 
+ eight. Once you have a party going you can incorporate plenty of strategy into the game. Dungeon 
+ Siege allows you to choose which formations to use and also the rules of engagement of your 
+ characters. Dungeon Siege is a lot like a hybrid between RPG and RTS style gameplay. However one 
+ of the biggest flaws in Dungeon Siege is that the combat is way to automated. If you click on an 
+ enemy to attack, your party runs forward and attacks: but the player has little control. This leaves 
+ the game feeling very repetitive once you play it for a long time.
+  Multi player is also great but has a few flaws. One of the annoying things about it is that you 
+ can only import one single player character into multiplayer at a time. So you cannot play online 
+ and use your whole party. 
+  
+  Graphics: Dungeon Siege has great looking 3D graphics. The player is in full control of the camera 
+ and can change the angles at will. However the characters themselves tend to look a little flawed 
+ at times. 
+  
+  Sound: Very good. The music is very well made and fits the setting of the game perfectly. Value: 
+ Dungeon siege is a great game that has many great and memorable experiences in it. 
+  
+  9.1/10.0 
+::::::
+
+::::::
+UserName: megafeck
+Rating: 8.6
+Date: Aug 1, 2006 12:14 pm PT
+Review:  The lineage of this game is striking as it combines two previous games on the market: Diablo II 
+ and Black & White. Roots to Diablo II are obvious in the magic item system, the equipment storage 
+ for players and the inevitable selling and buying of equipment in towns along the way. Also taken 
+ from Diablo II is most of the magic system developed in the original DII and Lord of Destruction 
+ expansion. Dungeon Siege takes the best of the spells then adds a plethora of new ones and divides 
+ them up into Nature and Combat magic. As this game is level based it IS possible to have a character 
+ skilled in both, but not highly proficient in either. 
+  
+  Black & White was one of the first games to offer a highly immersive 3D graphics engine to go along 
+ with its god-view game play. This basically consists of texture mapping on 3D models, which include 
+ the characters. In Dungeon Siege the viewing is more limited to the characters involved and it 
+ is possible to set viewing angle constraints so that the player isn't stuck looking at black space 
+ behind walls and underground (for the most part) . You control the horizontal. You control the vertical. 
+ And by moving your cursor around the edges you can pan left, right, up and down to get the best 
+ viewing angle on the action possible. 
+  
+  All of this is nothing without a good character engine to go along with it. In this part of the 
+ realm Dungeon Siege does not falter as it offers one of the most easy to use systems for gaming 
+ advancement around. Each character has four active slots for interacting with the world: melee 
+ weapon, distance weapon, and 2 spell slots out of a spell book. What ever is active is what that 
+ character uses in combat and that skill and stats associated with it (Strength, Dexterity, Intelligence, 
+ Health and Mana) increase according to whatever the next level of that skill gets the player. And 
+ it is possible, and even probable that the starting player will try out all of these, including 
+ permutations, to complete the first quest. 
+  
+  This character advancement concept is one that I have been waiting for a long time in the computer 
+ RPG realm as it more accurately reflects how players in analog RPGs want to play characters. Multi-class 
+ characters have always been a favorite of players (particularly fighter/magic-user combos) to help 
+ fill in weak spots of a group during heavy combat. Dungeon Siege may not be the first to address 
+ this concept, but it certainly has done it well! By allowing players to quickly change slots for 
+ active skills, it is very possible to build up characters that can shift a bit from specialty to 
+ specialty and disregard the concept of a character 'class' (as it was known in D&D and many other 
+ games since including Diablo II) . Finally, in each of the active areas there are many types of 
+ weapons and spells to draw upon during the game. The melee folks can use weapon and shield or two 
+ handed weapons depending upon what they can equip and use. Ranged weapons go from bows and crossbows, 
+ to exotic things as lightning casters, dragon miniguns, flame-throwers and grenade launchers! And 
+ spells generally line up along the fire/combat spells and the lightning/nature spells, with various 
+ summonings, healings, and area effect spells in both categories. 
+  
+  Also a character need not 'go it alone'. In solo play it is possible to form up groups of Non-Player 
+ Characters (NPCs) around the main character. Thus you can hire folks to just do melee, just do 
+ distance weapons, and just do either or both types of spell areas. And this then brings up the 
+ fact that the group can act like a group with a group leader (usually a melee combatant) and the 
+ rest of the group taking up formation behind/around that leader. And general combat directions 
+ for the group allow the player to choose how they fight from: Holding Fire to Attack Freely, Stand 
+ Ground to Move Freely and Target Closest, Target Weakest, Target Strongest. The player can change 
+ these options on a situational basis to allow characters to just run amok to keeping them tightly 
+ grouped to concentrate capabilities on one or two targets in a larger melee. 
+  
+  And do you get to do a lot of combat! From the initial 'poor farmer having to alert everyone to 
+ the evil encroaching on the land' genre, you get to be the humble farmer which will have to save 
+ the land from the encroaching evil. You start with only a few weapons to choose from, mainly farm 
+ implements, a very rusted shield and a couple of spells. As you move down the path (the path is 
+ the guide to the linear story line) you encounter lots of critters, beasts, evil doers and have 
+ quests thrust upon you. All of this in a rich and lavishly presented world of mountains, trees, 
+ undergrowth and haze in the distance. As a player you can learn to observe enemy areas in a distance 
+ and see guard patterns. It is possible to sneak up, and sometimes around, large encampments, but 
+ as any good fantasy RPG player will tell you: that is where the goodies are! But it is very handy 
+ to knock out half of the guard force first, before trying to take on the rest of the camp... 
+ 
+  
+  And even though the storyline is depressingly linear, the areas that one has to move through are 
+ decidedly rich and varied. From temperate forest to underground environs to a rather large swamp, 
+ this setup has just about everything including moving platforms, elevators and offers the opportunity 
+ to hire extras along the way. So what isn't there to like about Dungeon Siege? 
+  
+  Well, first off the story line is linear. So much so that it is nearly impossible to move off of 
+ the path of the story to investigate things out of order. One of the joys of early RPGs is that 
+ you basically ran across quests in a haphazard fashion and only some few were actually connected 
+ together to make a coherent story line. Players played in a world, not in 'living story'. Unfortunately 
+ the industry has decided that people want to play a part in a movie and not be a character in a 
+ world, so the rich game play of combat has taken over the concept of being a person in a world. 
+ I would just, once, like to be able to visit another town off the path of the narrative just to 
+ see what is going on there. For some reason, in the world of Dungeon Siege, the only commerce between 
+ towns is that along a single path... 
+  
+  Secondly this game could have learned something from Diablo/Diablo II both of which feature town 
+ portals to the last town visited and the second featuring Way Points to move between settings in 
+ act or to previous settings in previous acts. Once I had to move back through an entire act to 
+ get something I didn't get the first time through, and even when using the 'megamap' to move around, 
+ the rate of movement is still limited to that of the characters. That ate up half an hour to forty 
+ five minutes, especially trying to get a large party onto a moving platform (there should be a 
+ group command for 'bunch up as close as possible to the group leader' for this!) . In Diablo II 
+ I could have just used a Way Point to quickly head back to that previous area and get what was 
+ needed and then go back to the action. A BIG negative. 
+  
+  Third is storage. Every RPG features a backpack and alternative storage area (in the case of Dungeon 
+ Siege a pack mule!! I haven't seen one of those since D&D!) , both of which are limited in scope. 
+ In Diablo II one can just use a town portal spell to open up a gateway between that space and town, 
+ sell of the junk, store the good stuff and get things repaired. In Dungeon Siege I often run out 
+ of space for the entire party, pack mule included. There are times when I have seriously considered 
+ dropping an extra fighter to get a second pack mule. But that would soon fill up too... 
+  
+  Fourth goes a bit with the second and that is replenishment of supplies. Luckily bows have an infinite 
+ supply of arrows and no equipment ever gets damaged, so there is no reason to worry about those 
+ (neither a plus nor minus in my book) . But there have been times when my party has run critically 
+ short of healing and mana potions. The ability to resupply those from the last town would be MOST 
+ handy. 
+  
+  Finally there are the rare times when a character gets into a tight space and almost no amount 
+ of panning around gets you a view out in the open, thus necessitating a change of viewpoint to 
+ another character. In the heat of a large battle this can be most disconcerting! If trees and other 
+ such things can be made semi-transparent, the leas that could be done is to do that for walls and 
+ such too. A very hazy view of a quickly moving battlefield is better than none at all. Yes, you 
+ can pause the game to get that viewpoint changed, but it shouldn't be necessary. 
+  
+  This game can also be played online by registering a Microsoft Passport account or on a LAN with 
+ other players. I haven't tried either as of yet. 
+  
+  My how things have changed since the days of line drawings and pictures of monsters popping up 
+ on screen from the days of the original Wizardry! The future of the fantasy RPG genre is clear, 
+ now: 3D perspective, the elimination of character classes to those devoted entirely towards skills 
+ and abilities, a non-linear world where you try and solve quests (problems) whenever you come upon 
+ them or realize that you have lots of work to do before you can even approach them, and, finally, 
+ a magical transport system to take characters from place to place quickly. Just as Diablo was apparent 
+ from the era of 'flat screen' RPGs blending with First Person Shooters, so is the future of RPGs 
+ apparent from Dungeon Siege blending with other games in the genre. 
+  
+  A definite 'must buy' for those who like fantasy RPGs so that they can get a taste of what the 
+ future holds and to see the beautiful worlds it portends. 
+::::::
+
+::::::
+UserName: warnexus100
+Rating: 9.2
+Date: Jun 19, 2006 6:47 pm PT
+Review:  ok dungeon siege is a game where adventure takes a character to this journey to fight off evil. 
+ I CANT WAIT FOR THE MOVIE COMING OUT IN 2007 (IN THE NAME OF THE KING) heres the link:
+  http://en. wikipedia. org/wiki/Image: Inmkgame. jpg
+  
+  spells graphics are cool its time. during 
+ 2002 rpg style was just born to be good. the names of everything is nice and simple which is good 
+ coz it gives the designer no hassle. i mean geez would u choose fireshot in dungeon siege or firaga 
+ in final fantasy X? of course dungeon siege name. i mean zap is better than thundraga. ok im just 
+ wanted to make a point or 2 here.
+  
+  story is good it has a lot of tragic scenario and you bascially hack through evil and venture different 
+ places. the forest, dungeon, town thrashed by the enemy, mines, a snowy city, dragon tavern, king's 
+ castle. theres more but i forgot basically every place u go is different. you meet new people in 
+ different places such as the dungeon. you can choose to accept their help or decline. you travel 
+ only. but its hard to survive which urges you to fight with friends. thats what also make this 
+ game good. friendship is a vital key in this game. 
+  
+  weapons and spells kick ass!!! its cool seeing spells and shiny swords doing ur biddings. graphics 
+ shooting everywhere. its amazing!
+  
+  ok the review is too long now. enjoy getting the game. 
+::::::
+
+::::::
+UserName: bigboote
+Rating: 4.5
+Date: Jun 10, 2006 2:06 pm PT
+Review:  I am not prone to write reviews for mediocre games, but DS really made me grasp the virtual pen 
+ for this short one.
+  Receiving decent reviews across the boards, DS surprised me with an exceptionally high level of 
+ mediocrity in most areas. I purchased it from the bargain bin at Ebay and played with the newest 
+ patch, and I was very dissapointed. 
+  While the graphics are not unpleasant, and must fairly be rated high considering that the game 
+ is old, the pleasantness soon wears off as the tedius gameplay draws on. The gameplay itself beats 
+ only Pool of Radiance for tediousness and lack of flavor in any RPG I actually purchased. Far inferior 
+ to any of the halfway decent action RPGs out there (Baldur's Gate, Jagged Alliance 2, Arcanum, 
+ etc.) , DS is a poor hack-and-slash with a miserable story. To make matters worse, the game is packaged 
+ with poor voice acting, incredibly melodramatic, so that I was not able to identify with any of 
+ the characters, let alone my own. They all seemed so cookie-cutter. Even for a hack-and-slash, 
+ there is better action elsewhere.
+  I will not dwell further on the details -- there are some good reviews here and elsewhere which 
+ give the full rundown. Suffice it to say that this game is, while certainly not garbage, a poor 
+ lack of entertainment which does not deserve a fine rating it seems to universally have received. 
+ 
+::::::
+
+::::::
+UserName: MOBucky
+Rating: 5.3
+Date: Jun 8, 2006 8:18 pm PT
+Review:  This game is okay, but you start at point A and walk to point B. There aren't really very many 
+ choices to make. It has some fun gameplay, but probably isn't worth paying the full price unless 
+ you like plodding along a well-marked path.
+  My standard disclaimer for the scoring below: I find these very difficult. Many games can be picked 
+ up almost immediately but I continue to learn new things as long as I play. I dont keep track 
+ of how many hours I play. Finally, I dont pay much attention to the graphics or sound unless they 
+ annoy me or get in my way, so I never know how to score them. Unless elsewise discussed in this 
+ review, these things need to be kept in mind when judging how I score the game. 
+::::::
+
+::::::
+UserName: Demon_Crusher
+Rating: 8.4
+Date: May 29, 2006 8:45 am PT
+Review:  It's a amazing game even being a little of a copy from DiabloII, but still the story is great, 
+ the graphics are to cry for... and the combat sequences are beautifull !!!
+  The story begins in a farm that ia attacked, the Hero pull them back but is family is dead, so... 
+ he starts to find a shelter ( in the way of the story happens, and you kill a 2 or 3... enemies.
+ 
+  The good of this game is that the scenario never repeats it self!!!
+  you begin in the woods, the you pass to caves, swamps, goblin caves, cities, mountains....
+  There 
+ are lots of enemies, spells , armors, and your hero can became any tip of caracter: sorceress, 
+ swordsman, rogue.... or you can always make allies that he helps or pay them to be on your side 
+ and make this campaign whit him... 
+::::::
+
+::::::
+UserName: SgtJcoo
+Rating: 9
+Date: May 26, 2006 4:07 pm PT
+Review:  Gas Powered Games has been introduced to the gaming world with a bang. Anyone who is interested 
+ in expansive worlds, swords/shields, magical spells, bows and arrows, or epic adventures should 
+ play Dungeon Siege. Lush forests, creepy dungeons, magnificent castles, and no loading screens. 
+ That is the definition of a perfect RPG setting. Complete character customization and many items 
+ to collect blend to create the addictive aspect of the game, and the story keeps you coming back 
+ for more. The game is superb all around, and easily compares to the best RPG's out there today!
+ 
+  
+  One of the best aspects of the game is the low requirements needed to play. Of course, the game 
+ was produced in 2002, but any computer hardware made in 2002 can easily run the game with little 
+ or no lag. And with the graphics in this game, that is awesome! Even by today's standards the graphics 
+ in Dungeon Siege are good, and the item animation is very cool. Magical weapons shimmer with different 
+ colors and styles depending on the magical properties of that item. A bow that does fire damage 
+ actually shoots flaming arrows for instance. An ice sword sparkles with blue magic, and one of 
+ the most impressive staves in the game, Merrick's Staff, has a fluctuating orb of fire on one end, 
+ and a spike of fire on the other. Little things like this make the game a great one. Although there 
+ are many different items to collect, the item stats to get repetitive. "+10 to Health" and "+5 
+ to Defence" gets a little boring! The game is also lacking something introduced in Diablo II. Item 
+ sets. I would spend countless more hours playing this game if I could collect sets!
+  
+  Dungeon Siege's gameplay puts a unique twist on what is considered to be traditional in action 
+ RPG's. Instead of controlling one character throughout the game, you have an option of allowing 
+ up to seven other characters join you on your quest, allowing you to create the ultimate fellowship. 
+ Nature mages for healing, a combat mage or two for fighting, archers or crossbowmen for long range, 
+ and some some melee characters to take the hits (and deliver some mighty hits of their own!) . If 
+ you are more into having a smaller force of stronger characters, then do so, because characters 
+ do not share experience in Dungeon Siege. Instead, each character levels up individually. So less 
+ people in a party means more experience for your party members. Of course, then you don't have 
+ as much firepower in quantity, so a happy medium might be the optimal. If you like collecting items, 
+ maybe you will want a packmule to carry many more than any party member would be able to carry! 
+ Its entirely up to you, and that is a sentence many people like to hear in a game review!
+  
+  Another aspect of Dungeon Siege that strays from the path of traditional action RPG's is the 
+ fact that there are no character classes. Is that a good thing or a bad thing, you ask? Considering 
+ that not having a character class allows you to create a very unique character, in appearance and 
+ skills, and the fact that as you use certain skills, you gain titles that become your character 
+ class in the game (ex. Ranger for a lower level archer) , then yes, it is a good thing. In multiplayer 
+ you can even make a Dwarf or a Skeleton, with all the same skills and items available as any other 
+ character out there.
+  
+  Speaking of multiplayer, Dungeon Siege has a few problems in that area. Said above, Dungeon Siege 
+ has low PC requirements. Unfortunately, the same does not hold if you attempt to play with friends. 
+ Each extra player in a game slows the game down dramatically, and eight players in a game is nearly 
+ impossible on an older computer. Aside from that fact is Microsoft's attempt to create a free of 
+ charge internet service that is unique to the game, much like Blizzard's Battle. net. Unfortunately, 
+ Dungeon Siege's version is not nearly as accessible, with chatrooms being to inconvenient to be 
+ used frequently, and a friends list that is very difficult to manage since you cannot be in a game 
+ (where people tend to to make friends) to add or remove friends. Add this up with a poorly updated 
+ news page, plus the lag of multiple players, and you have a poor multiplayer experience, although 
+ the game is very fun to play on the multiplayer map, which is a very different map from the single 
+ player map. In fact, it is an entirely new world, again with no loading screens, lush woods, etc. 
+ It is almost like having two games in one! Unfortunately, you can only control one character at 
+ a time in multiplayer. The game is *easily* modified too, so if you want to try something new, 
+ there are many options out there for new maps, new stories, and of course, new spells and items! 
+ This gives the game almost endless replay value. 
+  
+  Dungeon Siege is a unique, fun to play action RPG that allows players to be the "controlling force" 
+ instead of a character itself. If you are a fan of any kind of magic and steel RPGs, or a person 
+ who enjoys a good story or adventure, definitely check out Dungeon Siege. It is guaranteed to be 
+ worth your while! 
+::::::
+
+::::::
+UserName: limewolf
+Rating: 10
+Date: May 19, 2006 1:57 am PT
+Review:  This is a super hack and slash RPG game! There is not much in the way of story, but for once this 
+ did not bother me, good graphics for a game of 2002 vintage. Basically you and your party run around 
+ beating up enemies and levelling up - that is pretty much Dungeon Siege 1! However it's very addictive 
+ and the scenery is excellent. It is very easy to get into.
+  
+  My recommendation is to get a copy of the expansion Legends of Aranna as that also includes the 
+ first game. 
+  
+  I have spent a huge amount of time playing this game, highly recommended! 
+::::::
+
+::::::
+UserName: merchitO
+Rating: 8
+Date: Oct 29, 2007 5:02 pm PT
+Review:  This game is so smooth, so easy to play, so polished, that you could use it as screen-saver. When 
+ surrounded by many foes, if your team is well balanced an equipped, you REALLY can leave the game 
+ and come back a few minutes later, it will manage perfectly without your help. Yes, Dungeon Siege 
+ doesn't really need you to be played.
+  There are not many different monsters. The same ones come back later in the game, painted in a 
+ different hue, with different strength and name. Landscape can be nicely done, though varies very 
+ little.
+  Items... Boy, you are literally overwhelmed with them. No surprise you need a donkey to help you 
+ carrying along this useless junk.
+  
+  Sounds like a boring game... But is it? No. When I am playing it, I simply can't stop and have 
+ to tear myself away from the screen to do something else. Why? Well, I guess Dungeon Siege acts 
+ like a drug, it's very efficient at melting down your brain. Duh. 
+::::::
+
+::::::
+UserName: Brutalus7
+Rating: 8.8
+Date: May 6, 2006 3:35 pm PT
+Review:  I was so pumped a few years ago when I heard about Dungeon Siege. I don't know why, but I just 
+ saw the screens and thought "Wow! I need to have this game when it comes out!" To this day, it's 
+ the only game besides Half-Life 2 that I've bought without knowing how it would be first. I wasn't 
+ dissapointed. The graphics were gorgeous for their day, and the game was long, even if the story 
+ was a little weak. Having auto-attacks in an RPG was a first, and so was the Packmule concept. 
+ I also really enjoyed the "Goblin Inventors" part of the game, the machines they had were a lot 
+ of fun.
+  
+  I only have a couple problems with the game. It was very linear, and you couldn't really say no 
+ to a quest, or yes to any side-quests. Although I liked not having to click my hand off, I would 
+ have liked a little more in-depth system for combat. I didn't really like not being able to get 
+ spell or ranged ability while using melee weapons, or not gaining attributes to my discretion, 
+ but it made for smooth gameplay, at least. A little more freedom would have been nice, and added 
+ the replay-factor for me, but overall, a great game if you like Diablo or other such action-RPG's. 
+ 
+::::::
+
+::::::
+UserName: ShotGunBunny
+Rating: 6.3
+Date: May 1, 2006 6:17 am PT
+Review:  When i first played DS i was eager to get into my brand new, good looking Diablo clone, the scenery 
+ was great, the opening was pretty good, mostly due to the aforementioned scenery and music. 
+  
+  The game isn't hard to get into to, and you'll get the hang of it in mere seconds.
+  You simply 
+ click the ground where you want to go or the enemy you want to attack and behold, your character 
+ goes there/kills that. the simplicity will later turn against you, though.
+  
+  So after a while of playing you get to see some amazing sites, like hundreds of enemies throwing 
+ stuff at you from high cliffs while you're traveling through the valley below, the distances between 
+ towns and the beauty of the areas give a real feel of a journey, which is something i've never 
+ really felt before.
+  
+  However, the developer didn't seem to notice their masterpiece in this area and decided to make 
+ more then half of the game play in dark, empty and boring dungeons. 
+  This, after a few decent hours of playing, will be the start of the eternal boredom. As mentioned 
+ before, you click an enemy, you char attacks and keeps hitting until it drops and them moves on 
+ to the next enemy without you ever having to interfere until there's no more enemies in the area, 
+ you sometimes need to press "H" for a potion, but that's it.
+  
+  So after a while the game looks like this: watching you char hack into enemies with WAY too much 
+ HP but way too little strenght to actually be a threat in boring, dark dungeons/caves/whatever, 
+ even the outside areas turn into dense forests which make it look pretty much the same as the dungeons.
+ 
+  Besides that, the story doesn't actually get going until the end of the game, which means you 
+ first need to grind to thousands of monsters and dozens of pale areas.
+  
+  Multiplayer can get you hooked a bit longer though, whoop up the difficulty, bring some friends 
+ and try to explore the hardest areas with chars that aren't meant for that area, because the multiplayer 
+ world has a lot more freedom in terms of places to go and paths to take, which makes it a lot more 
+ interesting then the SP campaign. But after a while this gets just as boring as SP, especially 
+ after you mop up that 50 million HP boss who didn't even scratch you.
+  
+  In the end, DS is a major failure, the game simply fails to entertain because you don't actually 
+ do anything besides selecting an enemy and drinking a potion every now and then.
+  It's very sad to see that the beautiful areas and the sense of adventure fade away behind this 
+ simple but major fault. 
+::::::
+
+::::::
+UserName: NeoWuulf
+Rating: 1.1
+Date: Apr 18, 2006 5:33 pm PT
+Review:  I'm beginning to think that all games made by Microsoft are in someway reflective on Bill Gates 
+ efforts to succeed in the computer biz. I am tired of playing Microsoft games that pit me against 
+ impossible odds, with my success depending on moving inch by inch through the game. Dungeon Siege 
+ isn't the first of this kind; Age of Empires, and the rest of the Age series are similar. 
+  
+  By the time you get to the end of the first chapter, you have not acquired enough stats to 
+ even think about buying stronger weapons and armor, and barely enough gold to buy what potions 
+ and spells you think you might need. It's not even a question of not acquiring enough through any 
+ actions of your own, either. There are not enough monsters to kill that will give you what you 
+ need, not to mention being over-run by groups of monsters (which is what I meant by moving along 
+ inch by inch) . The only way to move along safely is to save often - like, after every battle.
+ 
+  
+  The fighting formations are rather harrowing, too. Getting the right character to do the right 
+ thing proved tedious and downright annoying; not to mention using potions in battle. By the time 
+ you get the screen to come up to use one, your character is already dead. The best way I found 
+ to beat this problem is to bring it up just before you battle, and keep it up. But then you miss 
+ the battle sequence because you have an item screen covering it up.
+  
+  AAAAAARGH! That is what I felt like playing this game. If you are an RPG fan, my suggestion is 
+ to avoid this one altogether. There are many out there that deserve your time. 
+::::::
+
+::::::
+UserName: bob_rulz
+Rating: 7.5
+Date: Apr 12, 2006 4:38 pm PT
+Review:  GOOD: Engaging combat; massive world to explore; vast array of environments; generally good graphics; 
+ pack mule allows you to carry many items
+  BAD: Cliched storyline; combat becomes repetitive hack-and-slash; lacks originality; little depth 
+ to character classes and advancements; becomes too difficult near the end
+  
+  Dungeon Siege is a massive, combat-oriented RPG game that has many redeeming qualities, but the 
+ lack of polishing of other features significantly drags it down.
+  
+  When you first start playing Dungeon Siege, it is a wonder to behold, with a massive world to explore, 
+ fast-paced and frequent combat, and attractive graphics that hold up even by today's standards. 
+ While it's generally apparent from the beginning that the storyline is uninspired and cliched (peasant 
+ farmer takes up arms against invading enemy) , the storyline is hardly what you'll be focusing on.
+ 
+  
+  Also near the beginning, however, one of the major problems of the game is introduced. There are 
+ only four classes to choose from (nature mage, combat mage, archer, and melee fighter) , and three 
+ attributes (intelligence, strength, agility; someone correct me if I'm wrong, that's what I remember) . 
+ As you continue playing through the game and pick up party members (and there are plenty to choose 
+ from) , the game begins to drag down and become repetitive. The persistent combat offers little 
+ variety and becomes repetitive and increasingly more difficult. In addition, it is evident that 
+ melee fighters are much more useful than any of the other classes. Archers are only useful for 
+ their range; they are significantly less powerful than melee fighters. Mages can be powerful when 
+ fully developed, but it takes a ridiculous amount of work to reach that level.
+  
+  By the end of the game, all the same tricks are used over and over again as they just throw hoardes 
+ and hoardes of units at you, and the game becomes nearly impossible to beat. There are limited 
+ health potions by the end of the game, and I found it hard just to keep my characters alive, and 
+ while the game is generally linear and easy to follow, at some points I got completely lost. There 
+ is one feature I'm glad they have, though, and that's the ability to buy a pack mule which carries 
+ many of your items for you, allowing you to carry many more items than a normal RPG.
+  
+  However, one of the major redeeming qualities of this game is the massive world that you have to 
+ explore. There are many side caverns to gain items from and an impressive variety of environments, 
+ ranging from festering swamps, sprawling mountainsides, forests, frozen expanses of snow, dungeons 
+ (and I have to give credit to them for creating more interesting dungeons than most RPGs have) , 
+ and rolling plains.
+  
+  So, while Dungeon Siege starts off fun and fast-paced, and has an excellent and varied world to 
+ explore, it eventually bogs down into repetitive hack-and-slash combat that features little depth, 
+ unbalanced classes, virtually no storyline, and fights against ridiculous odds, making the game 
+ especially difficult towards the end. Not recommended by me. 
+::::::
+
+::::::
+UserName: 9469
+Rating: 7
+Date: Mar 26, 2006 6:51 pm PT
+Review:  this game is very interesting and really fun to play,
+  its got great stat system and party play and ther is a huge range of equipment ranging from spells 
+ to bows, you can even get enchanted items.
+  the baatle system is abit dissapointing as its a runescape like clicking controlls. which gets 
+ boring after a while.
+  the world is amazing with great graphics, u really do somtimes sit back and look at the scenery 
+ (how do they do it) . this game has a wide range of quests, but somtimes it takes to long to get 
+ through dungeons, your there for ages slaughtering hundreds of monsters and it gets a bit tireing. 
+ at first this game is very addictive, but the shine soon rubs away after you have played this game 
+ for a few days. i recommend borrowing it or hiring it before you make an devotion to buying this 
+ game. i reccomend giving it ago.
+  the multiplayer is massive, there is so much to do and its free! this game is worth it just for 
+ the internet.
+  
+::::::
+
+::::::
+UserName: ellrodt49
+Rating: 4.8
+Date: Mar 11, 2006 8:32 am PT
+Review:  This game has good graphics (though now a few years old) , good variety of environments, okay character 
+ and monster rendering and animations, and it gives you your money's worth in terms of the time 
+ required to complete the game.
+  
+  But it is only for players who like plenty of easy combat. That's really all this game is - repetitive, 
+ easy combat in which the player is more of a spectator than a participant.
+  
+  Here's a summary of how the game unfolds: walk a ways along the path or dungeon, encounter a group 
+ of monsters, coax them to come after your party one-or-two at a time, kill them, take the loot, 
+ heal or resurrect any characters as required, micro-adjust your inventory; now walk a little further, 
+ encounter a group of the same or similar monsters, coax them to come after your party one-or-two 
+ at a time, kill them, take the loot, heal or resurrect any characters as required, micro-manage 
+ your inventory; now walk a little futher..... well, you get the idea. And then finally (and mercifully) 
+ you come to the end of each area/environment, encounter a "boss" monster, kill the boss, take the 
+ loot, heal or resurrect any characters as required, micro-adjust your inventory, then move on to 
+ the next pretty region/environment and repeat the process all over again ad-nauseum for perhaps 
+ fifty or sixty hours or more.
+  
+  The game is just mind-numbingly repetitive. Just endless rounds of unchallenging hack-and slash 
+ combat. There are essentially no puzzles to solve, no NPC interaction beyond buying and selling 
+ or quest giving (and the quests are extremely unimaginative) . Just combat. Period. And you really 
+ don't have to do anything during the combat. Just click on a monster and then sit back and watch 
+ (you might have to keep an eye on your life and manna levels during the fight, and sometimes you 
+ might have to retreat a little to regroup, but that's about it) .
+  
+  To be fair, there are lots of people who like these kinds of Diablo clones in which the satisfaction 
+ comes in ripping your way through endless waves of beasties from beginning to end. If that's your 
+ cup of tea, you'll enjoy this game. And I make no judgements on those who like those kinds of games. 
+ I guess hack-and-slash games are a legitimate category of role-playing games. But if, like me, 
+ you prefer multi-dimensional RPGs that have truly immersive stories, a mix of quests, puzzles, 
+ and action, meaningful NPC interaction, and a sense of really identifying with your character (isn't 
+ that what role-playing is, by definition?) , this is most definitely not the game for you.
+  
+  In summary, this game is pretty and long, but in my opinion it is so mind-numbingly easy , 
+ linear, repetitive, one dimensional, and unimaginative that it can only be described as falling 
+ miserably short of what a good role-playing game should be.
+  
+  In the final analysis, this long-term veteran of CRPGs (I've been playing them for over twenty 
+ years , and I've played so many I can't remember them all) found this game to be unsatisfying and 
+ ultimately boring. My final lingering impression is that I wasted my time with this game. But at 
+ least I learned a lesson - no more Diablo clones for me, no matter how pretty or long they might 
+ be! 
+::::::
+
+::::::
+UserName: jacobderosenoir
+Rating: 5.4
+Date: Mar 10, 2006 5:44 am PT
+Review:  This game is original but for me it's kind of always the same. 
+  
+  All the spell are the same. A fireball or a lightning bolt may look different on screen but they 
+ have the same effect, so in reality it plays the same. The strategic depth of this title is minimal 
+ and the role playing element is very faint. 
+  
+  The leveling is different and original, but for me it's not flexible enough. It make sense but 
+ for a reason I'm not quite sure of, It didn't catch up with me. 
+  
+  It's a Diablo game with a little bit more of the role play elements. 
+  
+::::::
+
+::::::
+UserName: Tekki17
+Rating: 8
+Date: Feb 24, 2006 1:59 pm PT
+Review:  Before you read any farther, let me tell you that this is not the game for you if you want deep 
+ stories and combat. The story is passable, but you could go through the game and ignore it completely. 
+ You're not missing anything. Also, the combat is just point and click, like Diablo. This is no 
+ FF VII. 
+  
+  But, if you want some quick, easy, hack and slash combat, you need to buy this game.
+  
+  Gameplay- 
+ Diablo-esque, but with a party. Long excursions through dark dungeons, switching to the newest, 
+ best weapon every minute or so, and the soothing *click! clickclick! click!* of the mouse. Not 
+ too complex, but still addictive and fun.
+  
+  Graphics- Good. Spell effects are sufficiently sparkly, and the characters look OK. Small amounts 
+ of slowdown occur when a lot of action is taking place onscreen, but it's not too horrendous.
+ 
+  
+  Sound- Not terrible, just not memorable. A lot of clangs and roars and hisses. Not much to comment 
+ on. Voice acting is a little hammy (and cockney XD) , but still adequate.
+  
+  Overall, it's an easy title, that's just fun enough to keep you playing, to get to the next awesome 
+ weapon, or the next larger-than-life monster. 
+::::::
+
+::::::
+UserName: Levoth
+Rating: 8.8
+Date: Feb 20, 2006 1:24 pm PT
+Review:  Dungeon Siege is a very good game made by Microsoft and Gas Powered Games. The game is just too 
+ impressive , it is like Diablo with a totally different engine and many different features. 
+  
+  The game first impressive thing is the its graphics which are rather good than Diablo's graphics. 
+ All the things are so interesting, the water, the enemeis , the magics , the design of the heroes 
+ , the lights and everything are very well designed. 
+  Other good stuff in the graphics is the equipments. Every equipment is shown into the hero's body. 
+ Boots , armors, robes , swords and other kinds of things are very detailed , you can build many 
+ unique characters. 
+  The gameplay is very simple , you can make everything using the mouse but there are many hotkeys 
+ too. The camera is free, you can zoom , reduce zoom , rotate it in 360 and choose from where you 
+ want to see your hero. Attacking enemies is very simple you just click at it and them it starts 
+ attacking. 
+  The sounds are good too, yet they could be better. It gets very boring hear that generic voice 
+ of the NPCs everytime... But the other aspects are really good. The musics are very intuitive , 
+ you can get inside a battle easily because of the musics of the game... Rains and thunders, water, 
+ everything have a different and realistic sound effect.
+  But the game victory is in its Multiplayer game. You can spend ours playing with your character 
+ and making parties , fighting in wars and descovering new areas of Aranna. 
+  
+  Dungeon Siege is a very good game for every RPG Fan... Recommended 
+::::::
+
+::::::
+UserName: 00chaos8
+Rating: 7.6
+Date: Feb 15, 2006 9:06 pm PT
+Review:  Dungeon Siege is a good game. The game has it moments. I mean the single palyer is fine, I mean 
+ exploring a huge world in the game. This game has a huge varierty of weapons, spells, levels and 
+ armor, espesically the enemies, there are tons of enemies. But this game does feel like you already 
+ played a rpg like this. If you are an RPG fan than this game has all the absolute basic rpg things 
+ you would expect from dungeon siege. Although the great fights you have in the game can get insane 
+ and fun. Dungeon Siege is fun but you can find a better and more interesting rpg game then this. 
+ Although online has pretty ridiculous hacks. I mean you can easily cheat on the game and become 
+ maximum level in the game online... no problem. So the multiplayer could be fun... if there were 
+ no hacks. If you like rpg like diablo or something, then you can buy this game for like $10. But 
+ then again if you have diablo... why spend the money if you already have a good game. 
+::::::
+
+::::::
+UserName: getchasome
+Rating: 7.8
+Date: Jan 31, 2006 3:09 pm PT
+Review:  I have always had a thing for PC rpg's, so when I saw this, I decided to try it.
+  The gameplay itself is different from most RPG's. Some example might be Unlimited arrows, no poison, 
+ no "I don't like you so you don't get good prices on items", etc.
+  
+  The backgrounds are well detailed, and while the graphics themselves aren't cutting edge, they're 
+ no bad at all.
+  
+  The Gameplay is quick-paced, and this game is good for the casual gamer, and this might be good 
+ if you want to get into RPG's one step at a time.
+  
+  Overall, i'd say this is a fun game and a great addition to any gamer's collection. 
+::::::
+
+::::::
+UserName: theunwn
+Rating: 8.2
+Date: Jan 31, 2006 6:04 am PT
+Review:  Well, I'll tell you what isn't deep: 
+  
+  Dungeon Siege. 
+  
+  I'll tell you what else Dungeon Siege isn't. It isn't, in any way WHATSOEVER, associated with the 
+ sieging of dungeons. It isn't really an action game as reflexes are a minimal. It isn't relaly 
+ a strategy game as thinking is a minimal. RPG? Well, maybe it tries, but the characters have as 
+ much personality as my wall. So what does that make this game? 
+  
+  Almost nothing pretty much, and that's where the beauty comes in. You throw your guys into a formation, 
+ perhaps press a button every now and then to switch between healing and destructive spells, then 
+ click on a group of monsters, zoom in, and sit back as fireballs and lightning bolts and sparkling 
+ axes and flashing bows and war and war and fighting and screaming and explosions and beauty and 
+ fighting and... 
+  
+  Simple and entertaining, that's what it is. Sometimes you just need a break from all that thinking, 
+ all that planning and sweating and beating people on the street because your character didn't level 
+ up that day or what not. Sometimes you just need to sit back and watch as your little army runs 
+ around in what looks and feels like a movie as they jump in from battle to battle on beautiful 
+ landscapes before fishing through an ocean of loot for that next best weapon or armor. 
+  
+  Is that to say the lack of a good story helps the entertainment and simplicity of this game? No, 
+ not at all. In fact, it is quite possibly the most generic, unoriginal, and pathetic story I have 
+ ever seen in a game, and even if the combat is rather simple and laid back, that doesn't mean it 
+ can't be rewarding as well by giving something deeper in the character developement than the skill 
+ level needed to wear that next pair of gloves or cast that next flashy spell. In fact, once they 
+ join your group, your characters don't even talk. 
+  
+  The graphics and sound are so professionally done that you don't need to look at the cover to tell 
+ it was made by a giant like Microsoft. The voice acting and narration is rather... well, corny 
+ and generic, but the music is quite nice. 
+  
+  The game is unfortunately as linear as a game could get. I doubt the world is even a world so much 
+ as just a straight line with some cities thrown in here and there. The NPCs are also very boring 
+ and uninteractive, you just click on them and hear what they have to say. But I guess that's why 
+ depth punches this game in the nose and leaves it with an nice big bloody stain. But ignore that 
+ nose, and the game is, without a doubt, quite beatiful. 
+  
+  So overall, I would recommend it. Where other games are long and frustrating, this game is a breath 
+ of fresh simple air. Where other games sacrifice graphics and sound for gameplay and concept, this 
+ game sacrifices just about everything for the eye candy that other games seem to be lacking. However, 
+ if you're looking for a real good game that you could keep on your shelf with a love-struck sigh 
+ every time your gaze passes over it, ignore it and pray that its sequal will fill in the blanks. 
+ 
+::::::
+
+::::::
+UserName: battousai188
+Rating: 8.3
+Date: Jan 29, 2006 4:11 pm PT
+Review:  Keeping this review short, Dungeon Siege does not really offer anything new to the hack and slash 
+ medium paced RPG, but does offer a nice face lift on graphics for the genre, and some fun and interesting 
+ gameplay. Dungeon Siege on the other hand made it's debut just short of the wave of massive online 
+ RPGs to now dominate the market for this market, unfortunately this game does not offer a whole 
+ lot when it comes to interesting and addicting online play. 
+  
+  Overall:
+  Beautiful graphics, sound control, and fun gameplay. Unfortunately lacks addicting online gameplay 
+ like it's predicesor Diablo II, as well as good replay value. 
+::::::
+
+::::::
+UserName: w4rgasm
+Rating: 7
+Date: Jan 4, 2006 11:23 pm PT
+Review:  The game features a great story with stunning graphics (for its time) , and an honorable game set-up; 
+ featuring an 8 character party that you may control. Though i found the lack of classes disappointing, 
+ the leveling system was superb enough to keep me playing. Pack mules were a nice add to store spare 
+ cargo.
+  
+  The single player mode was truly the highlight of this game. Players could spend a good 20 hours 
+ from start to finish, and many more on side-quests, and other difficulties. The battling was a 
+ bit of a let down, as you could only have access to melee, a bow, and 2 magic skills at once. It 
+ was a hassle to cycle through these skills, and it didn't feel smooth as I switched from one skill 
+ to the next. I usually kept to simplistic battling; only using a handful of my skills, so i wouldn't 
+ get stressed out in cycling. The 8 group party was great though. Players can easily scan through 
+ their party and select certain skills and spells to cast from multiple party members. The party 
+ arrangements were easy to manage and made fighting with your party rewarding.
+  
+  My major gripe was the multiplayer. I did not feel that I was getting everything I could from it. 
+ With only one character to use, I could no longer skim through my party to cast multiple spells, 
+ instead I had to rely on my one character to use everything; from healing to damage to melee to 
+ ranged. And as we all know, that just seemed more like a hassle than fun.
+  
+  Overall this game is worth the buy for any RPG fan, but don't expect much from the multiplayer. 
+ Players will receive a bunch of playing time in the single-player, so the game isn't worthless 
+ in the end. 
+::::::
+
+::::::
+UserName: yuxiaobi
+Rating: 7.8
+Date: Dec 30, 2005 7:44 pm PT
+Review:  Overall, a solid game that will certainly help kill the hours and easily will keep a player up 
+ into the wee hours. Let's cover the good first:
+  
+  The Good:
+  1. The graphics are superb especially when compared to such games as Diablo II.
+  2. Love the 
+ flexibility and choices you have in building your party.
+  3. The character development is AWESOME! You can take any character and develop him or her as an 
+ archer, warrior, mage, healer, etc. I have tried to games in which the main character was a mage 
+ and the second an archer.
+  4. The combat system took me some time to learn, but once i got it down my party was liquid in 
+ motion. Very smooth. It was very easy to develop each character along a specialized line and then 
+ once I put the party in combat it was almost too easy.
+  5. Wide range of items that allowed customized looks.
+  6. Pack mules were great to take along 
+ for the gamers (such as myself that pick up everything!)
+  7. I thought the overhead map was a great tool to manuever my party in tight places. Also a great 
+ tool to gather them if they scattered.
+  8. I liked th different formations you could put your party in.
+  
+  The Bad:
+  1. Pack mules 
+ are stupid. They run from one combat only to end up engaging another group of monsters you weren't 
+ ready for. Arrgh!!
+  2. Movement for individual characters to could be especially frustrating in tight spaces. For example, 
+ the sections of the mines where you had to load all your party onto a moving platform. That took 
+ some time to get down because they would want to follow each other and you had to switch to individual 
+ mode and guide each character separately.
+  3. Overall, the game is great, but by the time I was to the third chapter. (about a 1/3 of the 
+ way through the game) I had already determined who was what and what I would do in combat situations. 
+ Although the game remained fun it became far too predictable. The same attacks and defenses over 
+ and over.
+  4. Some of the in game lore is hokey. Like the super donkey that saved the miners and has a statue. 
+ 
+  
+  I would still recommend this game to anyone, but with the caveat that he or she isn't going to 
+ find anything innovative about the game. This good game really doesn't take you to a new level, 
+ but you'll feel good playing it anyway. 
+::::::
+
+::::::
+UserName: mort2fire
+Rating: 8
+Date: Nov 30, 2005 11:30 am PT
+Review:  Immensive gameplay ever played on PC, i was hooked up playing this game, with so much storylines 
+ and missions to take care of.
+  
+  There was plenty of Group Combats, which you could control a party of up to 8 adventurers or even 
+ join 7 of friends in multi-player.
+  
+  Lots of Fierce actions, killing your enemies with lots of wepons and spells of your choice.
+  
+ 
+  Get hold of a beast and get him/her to carry your Heavy Load.
+  Fine mighty wepons, magic, health etc.
+  
+  And the Amazing fantasy worlds you have to enjoy 
+ on your travels, with breath taking landscapes and horrfic dungeons.
+  
+  Enjoy your self.
+  
+  Make sure your blood is burning with rage to kill on the battle field, lose the temptation 
+ for a second, lose your life to them.!
+  
+  Awaken your soul to this game.
+  
+  *Not Finished* 
+::::::
+
+::::::
+UserName: sskkmiller
+Rating: 8.8
+Date: Nov 28, 2005 12:14 pm PT
+Review:  This is one of my favorite PC games of all time. It is very fun and addictive right off of the 
+ bat. It has a cool fighting engine that tended to get a little repetitive but killed things nonetheless. 
+ Also, this game had some good length to it. It might not be the best of its kind but it is certainly 
+ up an excellent addition to the genre. If you like games with blood, gore, action, adventure, and 
+ thousands of enemies hurling themselves at you while you fight them off with a party specializing 
+ in archery, melee and magic, then this is your game. 
+::::::
+
+::::::
+UserName: raynor
+Rating: 5.8
+Date: Nov 21, 2005 4:34 am PT
+Review:  It's been a while since I played this game. I remember that I thought the graphics were beautiful. 
+ But the gameplay left very much to be desired. At first, I thought it was really neat how you gained 
+ experience in one of the three areas through continued use of those type of skills:
+  
+  Melee Combat
+  Ranged Combat
+  Magic
+  
+  But it turned out to be just too cumbersome and wasn't 
+ fun to manage.
+  
+  I remember reaching a point in the game where I was getting slaughtered by the monsters. My characters 
+ just kept dying on me. I thought I had worked pretty hard to put together a balanced team. But 
+ I just kept dying and dying and dying.
+  
+  At the time, it seemed like the game would target my heavy hitting magic users so that they would 
+ die first. Without their support, my front-line troops would die as well.
+  
+  I recall that the beasties were anachronistic. They seemed to look like robots.
+  
+  Another 
+ one of the big problems with the game was its linear nature. With each new area, you would start 
+ at some path, meander around for quite a bit and then end up in the next dungeon equivalent. It 
+ just felt unnatural.
+  
+  The other problem was that you just couldn't teleport back to town with your loot. Typically, what 
+ makes a game like Diablo 1, 2 or NeverWinter Nights fun is converting that captured loot into ever 
+ better equipment. But if you can't carry more than a small percentage of the loot with you, then 
+ it can be very frustrating. In DS, there wasn't any way to get back to town. So, you just had to 
+ forge on ahead to the next town. I guess that is more realistic. But after playing those other 
+ game, I just didn't have fun playing Dungeon Siege. 
+  
+  I never finished this game. I finished NeverWinter Nights but didn't play it again. I've played 
+ Diablo 1 and 2 through several times. 
+::::::
+
+::::::
+UserName: Mehfuz
+Rating: 8.6
+Date: Nov 16, 2005 4:48 pm PT
+Review:  Dungeon siege is a great RPG game. Many new game play styles can be found in this game. First of 
+ all - you can directly control up to 8 different players or party members and it is possible to 
+ switch between them in no time. So you can collect lots of inventory items, there is even pack mule 
+ in the game. Another interesting is the levelling up. There are 4 types of skills and these skills 
+ increase as you use the associative weapon that mean melee weapon for melee skill. The game posses 
+ a huge amount of spells and combat system of the game is nice. You can easily swith from melee to 
+ spells or range weapon during battles. The single player campaign is just correct length. You have 
+ to spent 30+ hours to finish the game, though sometimes it seems that i am wandering in the same 
+ place. Graphics are looks amazing in high resolution. The main story behind the game is also strong. 
+ Numbers of quests are not great. Though you have to kill enormous amount of enemies and travel 
+ great distance in order to finish the game. And the last things that just irritate me are the game's 
+ camera. but it's not a big issue. Overall a game to remember for long times. 
+::::::
+
+::::::
+UserName: GCrocksPS
+Rating: 9.9
+Date: Nov 14, 2005 9:48 am PT
+Review:  It just goes to show that even a boring young farmer can become a great warrior. Immerse yourself 
+ in dungeon siege!
+  I'm going to go right into it. The graphics, fuzzy when you're close up, are excellent at the righ 
+ distance away. There are virtually no linear or prerendered backgrounds, and everything is new 
+ from the moment you go over that bridge. The krug and your character are finely detailed, and everything 
+ looks authentic. 
+  The sound, depending on where you are, changes immediately with absolutely no pause in between, 
+ and even though sometimes there is no music ( which is a good thing) it adds to suspense and atmosphere.
+ 
+  The gameplay is superb, the plot deep, dark and twisted. You can imagine yourself there, and that 
+ is what sets this apart from most games. Although some elments may look and feel wrong, you soon 
+ realise it's what the game designers wanted you to think, and that in turn leads to a mind blowing 
+ carnage filled thriller.
+  A brilliant game, and you have no excuse to not buy it. 
+  Go on... go slash the life out of some pug faced thing with a MASSIVE pitchfork or a HUGE steel 
+ claymore.... 
+::::::
+
+::::::
+UserName: Yukapi_Wurumi
+Rating: 8.4
+Date: Nov 5, 2005 4:23 pm PT
+Review:  Dungeon Siege is a good game, and quite addicting (to me anyway) . I prefer it to the others similar 
+ to it that I have played because it grabs my interest more, and has a more charming look and feel 
+ to it. It also doesn't use women in skimpy outfits as a cheap attraction. Characters are logically 
+ clothed, though many outfits are interesting and fun. It's not excessively gory, there's blood, 
+ but nothing ridiculous.
+  
+  You can choose from several appearances for your character and name them. You start out as a simple 
+ farmer, when you hear that the vile Krug have returned to plague your peaceful kingdom like they 
+ did long ago. You set out to inform and aid others, and along the way acquire several party members, 
+ optionally, with many to choose from throughout the game. There are ridiculous amounts of spoils, so 
+ acquiring equipment is no hard task. You can also have a pack mule in your party to hold items. 
+ 
+  
+  You can have different party members proficient in one or more of 4 areas. They are melee, ranged, 
+ combat magic and nature magic. There are also 3 attributes determined by which of the 4 they use 
+ and how much they use them: Strength, Dexterity, and Intelligence. These determine which spells 
+ they can cast and what equipment they can equip. 
+  
+  Party members can act singly or as a group. The battle system is auto-attack, but you can tell 
+ the characters not to engage unless told to do so, to engage if attacked, or to engage freely, 
+ and change their formation. 
+  Health and Mana Potions are easy to use. If you have them in everyone's inventory, you can just 
+ click on 2 buttons and every targeted party member that needs it will take a second to drink it 
+ and go back to fighting.
+  
+  Difficulty-wise, there are difficulty modes so you can set that to whatever is challenging enough 
+ for you. However, the dungeons and other large areas can be a pain to navigate. I consider myself 
+ fairy thorough, but I missed some important things because the dungeons are so huge and tangled 
+ and confusing. So if you aren't the type with enough patience to backtrack to find stuff you missed 
+ occasionally, this may not be the game for you.
+  
+  Like I said before, it's addicting, and more fun than others that seem to overemphasize death and 
+ doom and gloom. The graphics may not be the best out there, but camera angling is fairly easy, 
+ and obstacles like trees disappear if your characters are past them so that you can keep a distance 
+ and still see what's happening. I find the soundtrack rather lacking, the music gets quite boring 
+ when you're playing for 5 hours.
+  
+  Overall, I think that if you like strategic combat games, you will probably like this one. 
+::::::
+
+::::::
+UserName: erikempire
+Rating: 9.9
+Date: Nov 1, 2005 5:32 pm PT
+Review:  I have played both Diablo II and Dungeon Siege and out of two DS is the more entertaining adventure 
+ game. DS has a huge, wonderfully, detailed always changing world that will always keep you interested. 
+ Also with hundreds of different weapon, armor, and spell selections to hack, slash, and zap hundreds 
+ of different monsters, the type of game-play is always changing. The characters are always evolving 
+ in to more powerful units, whether your party is big or small. Much better than square, boring, 
+ Diablo. Try it for yourself , and you'll see why Dungeon Siege is completely wipes out Diablo II. 
+ 
+::::::
+
+::::::
+UserName: Aniaml4890
+Rating: 5.5
+Date: Oct 31, 2005 11:50 am PT
+Review:  This is a somewhat entertaining, but mindless game. Treat it as such and it will be somewhat enjoyable.
+ 
+  
+  It's classified as an action-rpg, but there's very little rpg feel to it. There's almost no story 
+ and no character development. 90% of the game consists soley of hacking away at monsters away from 
+ anything resembling civilization and NPCs. At one part of the game you go for nearly 10 hours straight 
+ and only see one NCP.
+  
+  When you are hacking away at monsters it's tough to know if you're close to ending a segment of 
+ monster killing or not. Boss fights aren't exactly exciting and a couple bosses are almost impossible 
+ to kill.
+  
+  Another annoying part of this game is leveling your character. The way it's setup is that there 
+ are four different classes you can work towards. They are melee, range, chaos, and nature. Nature 
+ and chaos are the magic classes. As you gain experience you gain skill levels in your class based 
+ on your chosen method of attack. Whichever your primary class is determines how your character 
+ stats increase. Whichever class level is highest is your primary class which directs your stat 
+ leveling. Therefore, if you have a 25 level melee character that you want to be a hybrid of a melee 
+ and nature magic user, you have to level up your nature class until it's above the melee class 
+ before you can gain substantial intelligence levels. This makes it incredibly hard to create a 
+ hybrid character. However, it's almost impossible not to create hybrids. Characters who are soley 
+ magicians have extremely low hitpoints. Once you reach about halfway through the game your mages 
+ die all the time. This becomes really really annoying and can sometimes cost you the entire battle. 
+ Therefore you are almost forced to level everyone up as melee characters to increase their strength 
+ which increases intelligence the most until you are 1/3 or 1/2 the way through the game. Gaining 
+ experience isn't an easy task either. There really isn't enough experience to gain. Therefore you 
+ have to siphon exp off monster mages who spawn creatures. You've gotta kill at least 300 extrea 
+ monsters to be near strong enough to progress in the game. It's a ridiculous system.
+  
+  Yet another annoyance is the mules in this game. You have to have at least 3 mules to carry around 
+ all the crap you pick up. Otherwise you won't have near enough gold to fully equip your crew with 
+ the best stuff. However, mules die easily and always run around when the enemy approaches. This 
+ makes them tough to track down sometimes while they are dying. Therefore, you are forced to clear 
+ out areas before proceeding. This means you have to move two parties instead of one which is such 
+ a freak'n waste of time.
+  
+  The interface of the gameplay is actually pretty good. The camera angle smoothly rotates with mouse 
+ location and you can zoom in and out easily. Hotkeys allow you to bring up specified weapon selections 
+ or parties with ease. Selling or buying items is quick with a ctrl-click option. Also, picking 
+ up items is very easy since there's a hotkey to command your party to automatically pick up stuff 
+ in view. I suppose this technology comes at a cost, cause this game crashes a lot.
+  
+  I only finished about 2/3 of this game. I would've completed it, but it (ver. 1.11) kept crashing 
+ and crashing. I've no will left to finish this already inferior rpg. I'm not sure how to fix the 
+ crashing since I've seen so many people report the same problem. I've a year-old system with an 
+ ATI x800GTO video card. I can't think of any reason it would crash. The crashes about every 1-2 
+ hours. Sometimes they don't happen at all. About a third of the time it happens when I try to save, 
+ so there's almost no way around the crashes. The last ten times I've played this game I've had 
+ about five or six crashes total. I loast about a half an hour a piece from each crash.
+  
+  In conclusion, for such a weak rpg, no matter how nice the UI is, this game is too unstable to 
+ be playable. I would suggest that people not even bother trying it.
+  
+::::::
+
+::::::
+UserName: ShadowGryphon
+Rating: 7.8
+Date: Oct 21, 2005 11:25 pm PT
+Review:  Let me state, for the record, I am an FPS player first and foremost.
+  Having said that, I have to admit that Dungeon siege is not a bad little game.
+  I had dabbled 
+ with Diablo in the past and found it rather uninteresting and uninspiring, so why would DS be different.
+ 
+  Well, for me, it has alot to do with the donkeys. I like the fact that I am not hobbled in any 
+ way by the limit of what I can carry, so exploring is much more fun.
+  But this IS still a dungeon crawl, and it can get a little boring for me (I also play Guild Wars 
+ and that has grown VERY boring for me after creating and beating the game with 2 characters) .
+ 
+  
+  But, all in all, graphically it's a very pretty and play-wise it's a great time waster. 
+::::::
+
+::::::
+UserName: Baer
+Rating: 8.8
+Date: Aug 18, 2005 6:09 pm PT
+Review:  If you liked Dungeon Siege I you will love the new one. If you thought the first one was fair you 
+ will like this one better.
+  
+  I played through DS 1 and found that it was wanting in character development and depth of story. 
+ Not so with DS II, it is far better. The combat is better and the skill tree adds greatly to the 
+ game. The teleporter takes some of the tediousness out and returning to familiar surrounds various 
+ times increases the emotional involvement with the game world. 
+  
+  Multi-player is much better than the original.
+  
+  
+  This game does not seem to stress a reasonable 
+ gaming system. I have tried it on my high end (DIY OC Etc.) gaming rig with all settings maxed 
+ as well as a mid level gaming rig and it runs fine on both.
+  
+  For those that like the action/RPG genre I highly recommend this game. If you like the pure RPG 
+ genre DS II will certainly hold you over for the next few months. If all you do is play shooters 
+ however than pass.
+  
+::::::
+
+::::::
+UserName: patente101
+Rating: 9.2
+Date: Jul 18, 2005 12:58 pm PT
+Review:  This game was supposed to be a Diablo-Killer. Is it ? Well if it had a better multiplayer and a 
+ more polished gameplay, it would be.
+  
+  DS plays pretty well, but sometimes some of my playable characters just won't attack, even if attacked. 
+ I dunno, maybe I need a patch or something, but it was very annoying.
+  
+  Dungeon Siege is beautiful. The Jade Gargoyles look as if they were made of real stone and the 
+ spiders scared me (a little) the first time I saw them.
+  
+  The game have some pretty good musics, but the sound effects are even better. All the monsters 
+ sound real and dialogs are well spoken. It's well woth the 9 I gave it.
+  
+  The quest is lenghty, filled with sidequests and you characters can evolve in many different ways.
+ 
+  
+  All in all, DS is a classic hack&slash filled with cool ideas (pack mules!) and with superior graphics. 
+ Play it ! 
+::::::
+
+::::::
+UserName: JoRay31
+Rating: 7
+Date: Apr 23, 2005 4:12 am PT
+Review:  There's nothing spectacular about Dungeon Siege, especially at the time of this writing but, when 
+ released it was a fun, interesting and immersive game that seemed to blend Gauntlet with squad 
+ based combat. 
+  
+  Nothing about the game is awe inspiring or spectacular; however, marching around and finding items, 
+ equipping characters with items accentuating their skills, and defeating increasingly difficult 
+ enemies is fun, if not all that challenging. While the game space is not vast, it is fairly large 
+ and the single player game keeps you focused on missions in a less than linear, non-regimented 
+ way. Fans of the Fantasy RPG genre will likely enjoy this game. 
+::::::
+
+::::::
+UserName: Everclearules
+Rating: 8.2
+Date: Feb 28, 2005 7:31 pm PT
+Review:  Normally, I could care less about how good of graphics a game has, yet Dungeon Siege's are simply 
+ amazing. Staves have a nice whirling effect, and spells are great as well. 
+  
+  I admit, it is basically a hack and slash, or cast two spells repetitevly, nor does it have a very 
+ good story. However, there are plenty of mods out for you to enjoy that add quite a bit to the 
+ game in all areas, for those who are inclinded to find them. 
+  
+  Now the thing I found most fun about this game, was the ability to mod it. I was amazed at just 
+ how much you could do: make your own spells and effects, own weapons with their own effects, etc... 
+ 
+  
+  There are numerous major sieglets out, and around 10 many more in the works (sieglets being new 
+ worlds to take an existing characters or start a new character in to adventure through) . There 
+ are also hundreds of mods out doing as little as adding a few weapons or spells to the games, or 
+ as far as adding new classes to the game. 
+  
+  For those looking to get into the modding scene, I havn't found any game easier to get involved 
+ than Dungeon Siege. There's a very helpful community out there along with many tools to work with. 
+ 
+::::::
+
+::::::
+UserName: thefting_kill
+Rating: 9.3
+Date: Feb 24, 2005 4:42 am PT
+Review:  If you aren't looking for a long game, but that can the your life away if you wanted to, here you 
+ go. Dungeon Siege has to be my favorite RPG ever developed. The storyline is great, the multi player 
+ and single player experiences are just so addicting and fun it will waste hours of your life.
+ 
+  
+  The game play is very solid, and simple. Click on your opponent and he will attack, kind of like 
+ an RTS, but you have a system to strengthen your player make him more powerful in skills with a 
+ Bow, Sword, or Magic. There are hoards of enemies and they are very tough, sometimes. There are 
+ many weapon, spells, and bow and arrows to strengthen your character with it's just fun. Your skill 
+ for each weapon has to be up to a certain level in order to use the stronger weapons with restricts 
+ a bit, in a good way. The storyline lasts long and will keep you addicted for hours and hours, 
+ although sometimes you wonder what is going on in the storyline but you get over it for the sheer 
+ fact of how many things you can do in the world of dungeon Siege. You will get characters to follow 
+ your lead, such as dwarves, mages, and archers. Also the multi player is very fun you can have 
+ you and a group of your friends go through the game in co-op who might have a ten times higher 
+ level then you and sometimes it sucks. The A. I. is very superbly done, all your campanions will 
+ follow your every foot step if you need them to or just want to be a big crowd. So the gameplay 
+ is on the level of perfect and will surprise you once you get into the game. 10/10
+  
+  The graphics are really quite good they have a full scale world and you can backtrack the entire 
+ world they have created. This games envirement has a lot of detail and little things that just 
+ amaze you, but the character models disappoint me, but you don't notice that until a little close-up 
+ happens in the cut scenes. The water effects are very well done and also a joy to look at, your 
+ armor looks great when it is on, same with the weapons they just do it so well done you don't want 
+ to stop looking at your character. The game also has a bunch of good effects when it comes to explosions, 
+ and magic effects rock on solid. There is a graphics designer thing called Gmax that you can find 
+ at www. discreet. com and if you download Gmax you can create your own levels skins, or designs its 
+ really well done, and also free. The graphics are polished, and very well done and deserve its 
+ rating. 9/10
+  
+  The sound is amazing, with your beautiful music surrounding you at all times as you go through 
+ the ready world awaiting your rescue. The music is just so phenomenal that my ears can't get enough. 
+ The sword sounds are a little stale and do the most impressive work, neither does the voice acting. 
+ But your enemies make good grunting noises and will come at you with a force. The envirements seem 
+ to be highly detailed, with birds in the back round and the animals, also with the add in with 
+ the composed music will just blow you away. There are minor glitches that have happened to me, 
+ there was a slowdown in the sound when I was in battle but it went back into place after awhile. 
+ Well the sound is amazingly well done with phenomenal music and great surrounding sounds that make 
+ you feel more into the game. 9/10
+  
+  The weakest part of this game is the value. One it will end fast, very fast, plus it is an easy 
+ game, although you can set it on harder difficulties, but still it all ends very fast. The biggest 
+ part of the value is how many different weapons, armor, spells, and how huge the world is just 
+ makes the value much better. but if you want a fun game go buy and I guarantee you will have one 
+ of the best times in an RPG you haven't had in along time. 
+  
+  Overall, the game play is unique and I really enjoyed it. The graphics are awesome with a few slow 
+ downs and has some issues with the models. The sound is epic and vast, with its musical score and 
+ its unpleasant voice acting. I say you go buy it and have a good time, it is a great game and I 
+ plan to keep on playing it till the second one. 
+::::::
+
+::::::
+UserName: StormRaider31
+Rating: 9.3
+Date: Feb 10, 2005 9:23 pm PT
+Review:  Even though Im just now writing a review I bought this game when it first came out and have Luvd 
+ it ever since. I luv the no load times between zones, I luv the fighting, I luv the background 
+ music, I LUV the Graphics. Once I cleared out an area I'd spend time just looking around. Still 
+ do. I liked the books it added an additional quest feature and if I wanted the info I could read 
+ it and if not I didnt. I also liked not having to walk up to that many people in order to get 
+ necessary info or quests. I LUV the skill development system. Simple and straight forward if you 
+ use the skill you develop in it and if you don't you dont thats reality. I really found it refreshing 
+ not to have to choose what I wanted to be at the beginning of the game and being completely stuck 
+ with it. I also liked being able to choose to wear what ever kind of armor or carry what ever kind 
+ of weapon as long as I was strong enough or skilled enough to use it that's reality. I liked being 
+ able to turn the blood off but leave the dismemberment on. Its been almost 2 years now and for 
+ me Dungeon Siege is still a pleasure to play. However, I really would have liked a target strongest 
+ command. I also would have liked to have played the on-line game map, off-line. Im just not into 
+ on-line play. 
+::::::
+
+::::::
+UserName: nictipoloi
+Rating: 8.3
+Date: Dec 7, 2004 5:17 pm PT
+Review:  This is a game that can become a classic, 'cause it has all the elements that make a great rpg: 
+ a lot of customization of the main character, a lot of magic items, a lot of spells, a lot of weapons 
+ and armours, a lot of charms and potions... but on the downside, the sum of the parts its not so 
+ great. If you are a veteran for this kind of games, after a while you 'll suffer the "been there, 
+ done that" syndrome. 
+  This is a good game, and in my humble opinion, this is a very good starting point for someone with 
+ desire for starting with rpg, but little time. The SAVE feature works just fine, and you can uset 
+ anywhere.
+  The graphics are right, not the best, not the worst, and, even if sometimes the walls and archs 
+ block your line of sight, this is not the rule. The sound is right, but nothing else. 
+::::::
+
+::::::
+UserName: randar23rhenn
+Rating: 7.8
+Date: Nov 24, 2004 5:20 am PT
+Review:  Dungeon Siege has some really good concepts in it. It is a great hack and slash with some innovative 
+ gameplay. The only major problem is that it can basically play itself for you.
+  
+  Gameplay: Dungeon Siege is a mixed bag. While the various weapons, armor, etc. to collect -as well 
+ as multiple sidequests and characters- give you some great options... battling enemies is a major 
+ bore. Once your character is attacked he immediately runs up and starts hacking away at the enemy... 
+ usually you can beat just about anything in this manner, there is almost no strategy involved at 
+ all. The battle system almost kills this game, as it does everything on its own- but what saves 
+ this game from mediocrisy is the fact that it has some very cool innovations. 
+  
+  The main innovation is the skill system. Your character develops proficiency based on what you 
+ use with him/her. If all you do is melee your way through the game, your character will build up 
+ a huge melee skill and become a walking tank, while in the same way, if you only use nature magic, 
+ your character will become a healing madman/woman. It is truly a joy to be able to customize your 
+ character to your needs this way, and thie ambition is readily visible in this design. If only 
+ the battle system had been so ambitious with itself, this game could have achieved near perfection 
+ in gameplay.
+  
+  Graphics: some of the best graphics to be seen on the PC for the time, though now they are about 
+ average (however I judge games by the time period they came out) ... by today's standards the graphics 
+ would be around a 7.
+  
+  Sound: The repetitive sound of whatever your character does to attack gets exceedingly annoying, 
+ and the lack of enough music really brings this score down. I hope Microsoft fixes this issue in 
+ the sequel.
+  
+  Value: This game is around 20 hours long, and has some moderate replay value. It is fun enough 
+ to want to play through at least two times, and that helps the value, but it also needs more meat 
+ in it to be a superb value.
+  
+  Tilt: Dungeon Siege is a great game that is deserving of the upcoming sequel- if the problems with 
+ the original can be fixed, I believe the sequel will achieve the superb status the original could 
+ not reach. 
+::::::
+
+::::::
+UserName: dryden555
+Rating: 6
+Date: Oct 8, 2004 11:05 pm PT
+Review:  Dungeon Siege attempts to be a Diablo2 with 3D graphics but the gameplay is so simplified it insults 
+ the intelligence of anyone who plays it. Diablo 2 with the add-on at least allowed for a level 
+ of difficulty to challenge just about anyone. Here with Dungeon Siege one almost feels the game 
+ is playing itself and you are just watching.
+  
+  Leveling up isn't as fun as it could be because everything is done for you. 
+  
+  The graphic 
+ engine is surprisingly blurry and low-res even at the highest resolution settings. Blurry bitmaps 
+ are everywhere and there just aren't anough polygons to any object or enemy to make the game feel 
+ immersive. Everything is too blocky for a game made in 2003.
+  
+  Whoever made this game for Microsoft should not be allowed to make more PC games. It defines what 
+ a "mediocre game" is. Microsoft, read my review!
+  
+  Gamers would do best to play something better like Knights of the Republic. That game isn't perfect, 
+ but the combat is fun and the story-line is often good. Baldur's Gate is 2D but again, it blows 
+ Dungeon Siege out of the water.
+  
+  This game is a stinker. 
+  
+::::::
+
+::::::
+UserName: Epicsoldier
+Rating: 10
+Date: Aug 31, 2004 12:39 am PT
+Review:  This is one of my Favorite games and will always be! I used to hate RPG's, they bored me.... but 
+ then i played the demo of this... and that changed my mind. Microsoft games did such a great job 
+ on this game, it truely is amazing. This game kept me hooked in for hours and hours. The story 
+ keeps you into the game, and tryin to build your character higher and higher is fun. The Graphics 
+ are very nice, and have all the fancy little things in it. THe sound, The music is amazing!!, and 
+ very well done. The sounds themselves are very well done. I suggest this game to anyone, even if 
+ your not a RPG fan, this game will make you one!. And it even comes with the expansion now, which 
+ adds to the greatness. 
+::::::
+
+::::::
+UserName: BJ1947
+Rating: 8.6
+Date: May 26, 2004 3:33 pm PT
+Review:  Dungeon Siege is a well designed and thought out RPG and I enjoyed playing it. However, the party 
+ system was a bit difficult to manage during heavy battle sequences, and there was an apparent bias 
+ on the game designers' part toward making the gamer's personal character a warrior type, rather 
+ than a magic user. Magic is available for use by all party members, but it was difficult to get 
+ my stats up to a sufficiently high level in magic, because of the temptation to use weapons in 
+ melee and long range fighting. Magic stats simply don't rise fast enough to make a really stunning 
+ magician or wizard out of the gamer's character. They DO rise fairly rapidly for NPC's in the gamer's 
+ party. The mule was a really nice surprise and a useful adjunct to the war party, but it should 
+ not have forced a choice of mule vs. human party member -- a difficult choice at best to make. 
+ 
+::::::
+
+::::::
+UserName: BeyondZork
+Rating: 8.7
+Date: May 9, 2004 2:55 pm PT
+Review:  This game sets a standard for graphics in RPGs. It is beautiful, accomplished, and truely amazing. 
+ The environments are gorgeous, the monsters and characters highly detailed, the weapons and "dress 
+ up" of your characters is delightful, and the combat is intense. The audio is also well fit and 
+ immersive.
+  The gameplay is tight and efficient, and all in all the framework for this game is IDEAL for a 
+ terrific RPG. Ultimately, though, the game falls just short of reaching that goal.
+  While Microsoft had all the resources necessary to create a beautiful RPG, and ended up doing just 
+ that, no amount of money can write a good Fantasy RPG. It has to be inspired, and in order to do 
+ that a writer has to have a love for RPGs. This is where they fell short.
+  This graphics engine is the one I had dreamed would one day bring us a Baldur's Gate title, or 
+ a Wizardry title, or a throw back D&D campaign. It is beautiful 3D, with the ability to rotate 
+ the camera and zoom in and out. It is similar to NWN but even that game falls short of creating 
+ a truely inspired campaign experience.
+  Take the original Baldur's Gate, stick it in this game engine, and you'll have a 10.0 the best 
+ game ever created.
+  
+::::::
+
+::::::
+UserName: dylsdad
+Rating: 9.6
+Date: Jan 12, 2004 11:21 am PT
+Review:  Ok threshhold, Your saying this game sucks and not giving any reasons? This isnt the review for grand 
+ theft auto 3. AND you say that the pc version of grand theft auto three sucks because you cant save 
+ any where? Just by saying that you are saying The WHOLE resedent evil series sucks also! I hate Dum 
+ little kids like you. If you want to say a game stinks. Give reasons. Grand theft auto 3 SUCKS because 
+ all you do is kill innocent people and steal stuff, How fun.
+  
+  Back to the matter at hand, This is a great game! The quests are fun, The plot is very good, And the 
+ graphics blow me away, This is a fairly old game. I was looking threw my games and came across it, I 
+ popped it in and installed it. After a while I was playing a great game. I am also playing never 
+ winter nights and i must say they are both very very good. I shun all who Dont like this Great game.
+ 
+  
+  Kudos Dungeon Seige, Kudos
+  
+  
+::::::
+
+::::::
+UserName: doctor_kaz
+Rating: 6.2
+Date: Aug 5, 2003 10:58 am PT
+Review:  Dungeon Siege is a simple hack-and-slash game, like a 3D version of Diablo. It is a good game to 
+ pick up for maybe a half hour or hour at a time and mess around with for a while, but it gets dull 
+ before too long. This is not to say that it is not a quality title. The game looks very good and 
+ has a great ambient musical score. However, it is about as shallow as you can get, mind-numbingly 
+ repetitive, and unoriginal in lots of ways
+  
+  You will probably like the game the best when you start to play it. The atmospheres look gorgeous, 
+ and you can jump right in and start hack away. The characters and monsters in the game look very 
+ good, have good animation, and they show lots of detail. When you don a different set of armor 
+ or a new helmet, you can see the difference in your character on the screen, even if it was a small 
+ change. Combat is about the only part of the visuals that is not excellent. The spell effects and 
+ fighting animations are kind of average. Neverwinter Nights has a better 3D combat engine, and 
+ so does Warcraft 3 (which is incredible) .
+  
+  This game is very easy to pick up and play. The interface is logically designed, and it is obvious 
+ that it was play tested extensively. However, its hard to not get bored with this game after a 
+ half-hour. Dungeon Siege is mind-numbingly repetitive, both in terms of areas that you visit, and 
+ enemies that you fight. One dungeon early in the game drags on endlessly, as you fight wave after 
+ wave after wave of skeleton warriors, skeleton archers, and spiders. The sides of every room are 
+ adorned with chests that can be broken open to reveal 13 gold pieces or your 20th pair of leather 
+ gloves. Every area in the game looks good perhaps when you first enter it, and then wears out its 
+ welcome long before you exit.
+  
+  The character development system is overly simplified, and its not very satisfying. There are 
+ only four basic skills, and three basic attributes, and there arent any cool abilities. Level-ups 
+ come slowly, which wouldnt necessarily be a problem, except that little of significance seems 
+ to happen when you gain a level. Its not like the Dungeons and Dragons system, where you can sense 
+ your characters getting more powerful after gaining just a couple of levels. Dungeon Siege doesnt 
+ have that feel, which might be why it is not an addictive game. I have gotten quite a bit in to 
+ the game, but I cant really get myself to finish it.
+  
+  There are a lot of role-playing games that are better than Dungeon Siege. Divine Divinity, in particular, 
+ has the depth and story of a great RPG to go along with the hack-and-slash entertainment. Dungeon 
+ Siege might have been good when 3D engines in RPG's were new, but now it's just boring. 
+::::::
+
+-------------------------------------------------

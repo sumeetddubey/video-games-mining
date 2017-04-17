@@ -1,0 +1,967 @@
+-------------------------------------------------
+:::Game Name::: Icewind Dale
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/icewinddale/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jul  7, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.6
+Critic Score: 8.6, 38 Review (s)
+User Score: 8.5, 1,724 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Interplay
+Developer: Black Isle Studios
+Genre: Role-Playing
+Date:     Jun 29, 2000 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+It's well suited for fans of Black Isle Studios' previous games, classic hack-and-slash AD&D computer 
+ games, and anyone looking for an action-packed role-playing game with a lot of depth. 
+
+ The highly anticipated sequel to BioWare's hit role-playing game Baldur's Gate is just a few months 
+ away, and its publisher, Interplay, released Icewind Dale to tide over role-playing game fans while 
+ they wait. But Icewind Dale isn't just a pastime; it's an excellent game in its own right. Though 
+ it's based on the Baldur's Gate engine and is also set in the same Advanced Dungeons &amp; Dragons 
+ universe, Icewind Dale's originality and fast pacing make the game uniquely satisfying.   
+
+  Icewind Dale is self-consciously similar to Baldur's Gate: Both games take place in the Forgotten 
+ Realms, and Icewind Dale recycles not only Baldur's Gate's engine but also a good deal of the older 
+ game's graphics. Specifically, your six player characters are represented with the same small, 
+ animated sprites from BioWare's older game, and you might quickly recognize a lot of the equipment 
+ that was carried over.   
+
+  Otherwise, Icewind Dale is a good-looking game that has an especially noteworthy original symphonic 
+ soundtrack by composer Jeremy Soule. The sweeping score seems to lend purpose to everything that 
+ goes on in the game. Icewind Dale also uses an effective storytelling technique in which the game's 
+ six chapters are broken down into narrated cinematic sequences detailing the game's events as chapters 
+ in a beautifully illustrated tome. Unfortunately, some of the player-character voices sound really 
+ bad, especially compared with the rest of the spoken dialogue in the game: Icewind Dale features 
+ many exceptional voice-acting performances for the game's major nonplayer characters. The game's 
+ main villain is especially memorable.   
+
+  Aside from its contextual similarity, Icewind Dale actually has little in common with Baldur's 
+ Gate. You'll rarely if ever get caught up in solving various puzzles or finding miscellaneous trinkets 
+ for townspeople. Instead, you'll fight monsters, find powerful artifacts, and explore some very 
+ interesting environments. Over the course of the game, you'll fight huge quantities of an even 
+ greater variety of different creatures. Your small squad of characters will gradually grow from 
+ mere weaklings into stupendously powerful warriors and magic users, and the game is deftly balanced 
+ so that you never advance too quickly or too slowly, but are always well prepared for the challenges 
+ that lie ahead. Several species of classic AD&amp; D monsters that didn't appear in Baldur's Gate, 
+ such as trolls, umber hulks, and giants, are just a few of the many different foes you'll face 
+ over the course of Icewind Dale's epic quest. The game is suitably long, but the best part is that 
+ there's virtually never a dull moment: Each area in the game is exciting to explore, like the city 
+ nestled in the warmth of a huge life-giving oak, or the frozen subterranean aquarium.   
+
+  In spite of its generally fast pacing, Icewind Dale gets off to a slow start. You begin by creating 
+ six characters from scratch, using standard second-edition AD&amp; D race and class combinations. 
+ You must come up with a well-balanced team that can dish out damage as well as take it, and also 
+ be able to adapt to new types of situations. Creating your characters is a laborious process, as 
+ you not only need to randomly roll up and redistribute your attribute points, but you also need 
+ to choose the character's weapon proficiencies, his portrait, and even his voice. Like Baldur's 
+ Gate, Icewind Dale lets you import your own pictures and sounds into the game, and it even lets 
+ you write your character's biography if you so choose. However, it's unfortunate that there's no 
+ way to get some guidance during the crucial character-creation phase; the game instead assumes 
+ you have an intimate familiarity with the nuances of the AD&amp; D class system, though it does 
+ let you import a few basic pre-generated characters into your party if you'd rather get started 
+ more quickly.   
+
+  The game's isometric perspective is identical to that in Baldur's Gate, but the view angle isn't 
+ as close to the characters as in the more recent Planescape: Torment, which also used BioWare's 
+ Infinity engine. Like both previous Infinity engine games, exploration in Icewind Dale uses an 
+ interface that seems better suited to real-time strategy games: You just select your characters 
+ and click where you want them to move. Each area in the game lies shrouded in a fog of war until 
+ you pass your characters through, revealing the terrain beneath. Icewind Dale doesn't let you play 
+ at a resolution higher than the default 640x480, and though the game has an unsupported 3D-accelerated 
+ mode, all it seems to do is make the fog of war look a little smoother on the edges. Furthermore, 
+ inventory management in Icewind Dale remains identical to that in Baldur's Gate and Torment so 
+ that each character is restricted both by encumbrance and also by having room for only a small 
+ number of individual items. Later in the game, it can get frustrating trying to find room for anything 
+ else to carry just because Icewind Dale treats a magic ring or a gemstone as being the same size 
+ as a battle-ax or a suit of armor.    
+
+ The game also sometimes suffers from bad pathfinding; your characters will inevitably split up when 
+ you try to make them negotiate the game's many corridors. It's problematic, but if you've played 
+ an Infinity engine game before, then chances are you're already used to putting up with it. Fortunately, 
+ it's true that while your characters can't run in Icewind Dale, they do move appreciably faster 
+ than in Baldur's Gate, but otherwise, the Infinity engine hasn't undergone any significant enhancements 
+ to make it better suited for its particular genre. At least Icewind Dale carries over the multiplayer 
+ functionality of Baldur's Gate, so you can play the game with up to six people if you can coordinate 
+ all the players to work together.   
+
+  As with both Planescape: Torment and Baldur's Gate, the limitations of the game engine don't keep 
+ Icewind Dale from being a great, original game. In fact, the game's emphasis on combat actually 
+ helps a lot of the features in Infinity engine games, like squad formations and fog of war, make 
+ more sense. Though the game plays in real time, you have the ability to pause play and reissue 
+ move and attack orders at any point, which lets you readily adapt to the changing conditions of 
+ battle. Frequently having to pause play might at first seem to disrupt the flow of the game, but 
+ you can effectively use the feature to retreat injured party members at the last possible moment, 
+ cast certain spells in a pinch, and switch from ranged to melee weapons without delay. Icewind 
+ Dale also has an automatic-pause option that simulates turn-based combat by stopping the action 
+ in between each short round of battle. In general, no matter how you play it, the combat in Icewind 
+ Dale provides a good combination of gory action and interesting tactical opportunity. Since your 
+ characters go from first level all the way into their teen levels over the course of the game - 
+ a range that's well beyond the scope of most AD&amp; D-based computer games to date - you'll continuously 
+ revise your battle tactics as your party increases in power.   
+
+  Icewind Dale does suffer from a few problems besides the inherent shortcomings of the aging Infinity 
+ engine. Although the game doesn't have too many side quests and generally keeps you focused on 
+ a particular goal, it does occasionally run into trouble whenever it becomes more open-ended. There 
+ are several scripting bugs that may crash the game if you don't do things in the same order the 
+ designers intended; you can get into nonsensical dialogue loops with many of the game's nonplayer 
+ characters; and the automatic journal-entry feature produces too many convoluted or contradictory 
+ entries for it to be useful. Also, the game's handful of puzzles can be frustrating to solve and 
+ can slow the game's otherwise brisk pace. Since most of the game's combat sequences are scripted, 
+ enemy creatures will attack only once you've triggered them by approaching close enough. Thus you'll 
+ find that the game holds few surprises the second time around and also that it's easy to lure just 
+ a few enemies at a time in many situations. Furthermore, your characters' moral alignments don't 
+ seem to play any part in the game, except to limit them from using certain powerful artifacts - 
+ and similarly, your six characters will never actually interact with one another. Although Icewind 
+ Dale's gameplay is combat-intensive, the game's interesting story will make you wish your individual 
+ characters played a larger role in it.   
+
+  Ultimately, its story makes Icewind Dale all the more satisfying, and its exciting action makes 
+ its occasional problems negligible. There's always a purpose behind all the hacking and slashing, 
+ which makes the gameplay seem rewarding and challenging, rather than like a cheap thrill. In this 
+ sense, Icewind Dale is surprisingly effective, much like Planescape: Torment managed to be impressive 
+ largely on account of its involving plot. Likewise, Icewind Dale proves to be another great addition 
+ to Black Isle Studios' roster of high-quality role-playing games. It's well suited for fans of 
+ Black Isle Studios' previous games, fans of classic hack-and-slash AD&amp; D computer games, and 
+ anyone looking for an action-packed role-playing game with a lot of depth.    
+-------------------------------------------------
+:::User Reviews::: (26 Reviews)
+::::::
+UserName: KTs2006
+Rating: 9
+Date: May 11, 2008 9:43 am PT
+Review:  Icewind Dale series is the second one of AD&D rules based CRPGs that take place in Faerun (the main 
+ continent of the Forgotten Realms Setting) . This time your adventures are located in the area of 
+ Spine of the World, which is in the north. Thus the main element of the areas you move around is 
+ cold and snow. As with BG there is a mixture of action and riddles to solve as you proceed. This 
+ one though is more focused in battles but the story remains interesting still.
+  One of the main differences, wich can be concidered a drawback perhaps, is the linear style of the 
+ game. You can't move around from area to area at will but only straight forward as the games dictates 
+ you. The end of the story is not the most original you've ever seen, since the final bad guy is a 
+ powerful Demon. By the way that fianl battle is one of the toughest i had in these kind of games.
+ 
+  The final conclusion is that despite he's minor flaws Icewind Dale reamins a really entertaining 
+ hack'n'slash CRPG that'll give you the chance to furthermore explore the world of Faerun. 
+::::::
+
+::::::
+UserName: mr_rusian
+Rating: 9.5
+Date: May 10, 2008 12:56 pm PT
+Review:  Icewind dale is a great game. If you can go with the ageing graphics of course! If you can, then 
+ you will enjoy the incredible atmosphere that the game delivers. I played it for the firs time 
+ back in 2001 and since then I still want to come back to the icy land of Icewind dale. The epic 
+ atmosphere is mostly created by one of the greatest video game music composers Jeremy Soule (he 
+ also created music to such titles as: Guild Wars, Morowind, Oblivion, company of heroes, Warhammer) .
+ 
+  The locations are original and beautiful with many details. The story delivers many excitement 
+ and will surprise you a few times during your adventure. It has many twists and turns, and gets 
+ more interesting while you go (from Great to Breathtaking ;) ) One of the coolest things I like 
+ in the game is that you can create all six of your characters { (not like in Baldurs gate, one main 
+ character) } so you can entirely control what kind of personas you'll have in the band. And there's 
+ a lot to chose from, there are warriors, paladins, barbarians, thieves, bards, mages, druids, clerics, 
+ sorcerers and many more. The characters are deep and have many dimensions (im sure they have more 
+ than two; D "2d")
+  The main con of the game is that it is Linear and has more fighting than anything else (but that's 
+ the way it goes in the harsh lands of the icy north)
+  I really recommend IceWind Dale to everyone who likes RPGs, especially to people who also like 
+ hack and slash RPGs. People who played Baldurs gate before will also enjoy the game and wont forget 
+ the experience, but might be a little sad about the linearity.
+  
+::::::
+
+::::::
+UserName: Tilrak
+Rating: 1
+Date: Apr 20, 2008 10:59 am PT
+Review:  Don't let the high score fool you, the graphics suck, the storyline is gay don't be deceived. If 
+ you're looking for a very old game with poor graphics, storyline, and gaming possibilities, this 
+ is for you. I was looking for a classic game worth investing some time into, but this is NOT it. 
+ When will another betrayal at Krondor, or Quest for glory come along.... I am not asking for much, 
+ just nice graphics, a good storyline I can get involved in... Can't wait for Fallout 3. But it's 
+ on its way so... patience is a virtue I guess. Bottom line, don't waste your time with this game, 
+ unless you're in to paper D&D. If you're looking for a very old game with poor graphics, storyline, 
+ and gaming possibilities, this is for you. I was looking for a classic game worth investing some 
+ time into, but this is NOT it. 
+::::::
+
+::::::
+UserName: thibbledorfP
+Rating: 9
+Date: Feb 27, 2008 4:37 am PT
+Review:  Icewind Dale... what can I say? Normally I like heavier RPG's along the lines of Baldurs Gate, 
+ but IWD was of such high-quality, I rather like the dungeon-crawling game. It knows what its focus 
+ is... combat. You develop a group of six characters, with a wide variety of interesting skills, 
+ then go out into the world. The plot involves a missing caravan at first, but your adventurers 
+ discover a diabolical plan to dominate the region. Do you have the mettle to stop it?
+  
+  GRAPHICS
+  
+  I can summarise this as follows: Fans of quality 2d sprite graphics will like it, 
+ people who feel strongly against 2d graphics will not. The graphics are quality and well-done. 
+ Ironically, the best graphics are the indoors, not the rather plain icy plains. Good detail, spell 
+ effects... not bad at all.
+  
+  SOUND
+  
+  The sound is perfect. That is a word I never ever use. The music is the pinnacle of music for a 
+ game. Soaring and emotional orchestral scores will please your ears, but it is subtle and will 
+ never get old. Voice and FX are good as well, the voice actors for your pcs are interesting indeed. 
+ Only main plot characters will speak full lines to you, but the acting is grand. The real show 
+ here is the music. I got the soundtrack to the game, and I actually listen to it when doing homework 
+ etc. outside the game.
+  
+  GAMEPLAY
+  
+  The gameplay consists of extremely fun battles that demand strategy, but are fair. The character 
+ creation is extremely fun, and you do NOT need to have a standard party (2 warriors, a healer, 
+ thief, mage, random) . Any combination of characters within reason will work, as there are different 
+ strategies possible. Having three mages would be interesting for example. The challenge, fun and 
+ strategy of combat is perfect here: hard in a way that makes you think, but easy to learn and use. 
+ The story is great, and the atmosphere and dialogue are classy. There are not many dialogue or 
+ quest-choices, and it is very linear. There are not many sub-quests. But it is a very classy hack-and-slash 
+ that even someone like me who loves hardcore rpgs, can grow to accept. The game has a great variety 
+ of well-designed random loot, no two games will play the same. The expansion adds great features, 
+ new options for classes, new spells and a search button ( a godsend!) . 
+  
+  Now to the bad. Pathfinding is horrible, like in other IE games. But not enough to break it. The 
+ 'you must gather your party before venturing forth' voice is still there when you try to change 
+ areas without your whole party there. BG veterans will know what I mean. Sometimes it can get lonely 
+ without many npcs to talk to, but you have to accept the game for being a quality hack-and-slash. 
+ I 
+::::::
+
+::::::
+UserName: KingLim
+Rating: 7.7
+Date: Aug 3, 2007 7:20 am PT
+Review:  Icewind Dale's the first game I played that features AD&amp; D rules and its world of the Forgotten 
+ Realms. Being both an RPG and strategy fan, I quite liked the experience this Black Isle game had 
+ offered. I spent more than a full hour configuring the classes and specs of my 6 characters and 
+ carefully striking a balance between melee fighters and magic users. That's one of the great things 
+ I liked about AD&amp; D games, that you get to customise your characters with a true sense of depth.
+ 
+  
+  This is a more straightforward game that Black Isle Studios had made as it consists of a lot of 
+ fights throughout the whole campaign without much side quests that doesn't involve fighting. In 
+ fact, it doesn't really have those kind of quests that tell you to deliver something to another 
+ person of another town or solving puzzles. Almost every quest you get require you to fight. If 
+ you really love the hack'n'slash side of an RPG game like Diablo2, then you may want to try Icewind 
+ Dale.
+  
+  However, combat in Icewind Dale requires strategic planning as well since it involves your 6 party 
+ members simultaneously and you will want to keep everyone alive by the end of the hectic fighting 
+ by commanding your wizards to cast fireballs from behind while your fighters hack their way in 
+ front and your clerics cast mass heal at the side and your thief sneak and backstab behind enemy 
+ lines. Wow! Don't worry, it has a pause function that enables you to make these commands while 
+ the game is ehm... paused and they will execute the moves when you unpaused it. This is something 
+ fresh to me that time and I really enjoyed the whole deal.
+  
+  Inventory system is strange but never mind... Ah... the soundtrack is impressive with a full orchestraic 
+ composition that brings out the grandness of the adventure itself. Good classic RPG game, though 
+ it looks way too outdated to play by now.
+  
+  KingLim 
+::::::
+
+::::::
+UserName: timmay222
+Rating: 7.5
+Date: May 24, 2007 6:23 pm PT
+Review:  The game is a good game and pretty fun, and the story behind it is absolutely amazing. The only 
+ problem with the game that I find is that it can be a little dead at times and frustrating when 
+ your characters get tired and you have to travel out of the area then back to the town, rest up 
+ and then go back. I also didn't like how if you didn't have at least three clerics (or at least 
+ if i didn't have three clerics) then you'd have to go back to the town and rest up. It might just 
+ not be a game for me, because I seem to take a long time just trying to get through one part. But 
+ it is a fun game and has a great story and a vast supply of weapons and is quite lengthy. I do 
+ recommend this game for people who love RPG's but I don't reccomend it for people who like faster 
+ paced games. 
+::::::
+
+::::::
+UserName: sourasvasilis
+Rating: 9.1
+Date: May 20, 2007 6:59 pm PT
+Review:  So, last week i re-installed this game again after about 5 years to play it again... i just finished 
+ it yesterday and i have to say that is still one of the best CRPGs i have played in my life. It's 
+ more action oriented than it's cousin the Baldur's Gate series but it's as fun as those! The Story 
+ is well implemented with the usual infinity engine boxes and it has good pacing... though it's not 
+ something special. But the main goal of this game is not the story as much as the action, and we 
+ are talking about non-stop D&amp; D action here! You create a group of 6 characters to play throughout 
+ the game and with these 6 heroes you slay every goblin, troll or undead that stands in your way... and 
+ there is more than that! the best thing about this game imo is that it combines the strategic combat 
+ of the typical Infinity Engine games (BG, Torment) with more fast paced style alla Diablo hack n 
+ slash action.... and it does this justice! Plus the music is wonderful! the tunes of the game will 
+ stick with you after you finish a long 5-6 hour session... yeah, it's that good: P
+  
+  So, to sum up.... we are dealing here with a beautiful game that all you that are new to CRPGs MUST 
+ check out along with it's cousins of course! BTW you can get it really cheap i suppose now, the other 
+ day i saw an offer with it plus the expansion and the sequel for about 19 euros (i live in europe) 
+ or dollars (it's the same anyways!!!) 
+::::::
+
+::::::
+UserName: Caxen
+Rating: 8.4
+Date: Mar 22, 2007 12:21 am PT
+Review:  I had a blast with Icewind dale plus the two expansions. Heart of winer and Trials of the luremaster. 
+ First of all, all the games based on the dungeons and dragons has a pretty steep but somewhat entertaining 
+ learning curve. It can take a very long time to figure out how to use all the classes, weapons 
+ and spells in the right situations. It has a very strategic depth when it comes to combat. Also, 
+ if you don't want to use Qsave and Qload every damn minute you better thread lightly and plan your 
+ adventures. None of the games based on dungeons and dragons are for impatient players.
+  
+  This game is pretty straightforward and much more action oriented than it's cousin Baldurs gate. 
+ But it's still a very good roleplaying game.
+  
+  The graphics are ok for this kind of game and considering which year it was released, still some 
+ environments do not seem as well done as in Baldurs gate, which makes me a bit sad, but still they 
+ are ok. However the graphics of this game is without doubt it's weakest part. Characters, inventory 
+ and interface is just to my liking. I love the item-handling and treasure hunting in these D&amp; D 
+ games.
+  
+  The music is very good and the sound effects do their job perfectly.
+  The combat music + the sounds of clashing swords + the chanting of your two mages + the screams 
+ of the monsters + battle cries of your warriors + the snaping sound of arrows leaving their masters 
+ are a pretty thing to hear. The vioce acting is also very good and their are some quotes from this 
+ game that I'll never forget. The story is good in my opinion.
+  Don't want to spoil anything but the story will let you run into some very uniqe characters, fierce 
+ monsters and tons of adventure. Though I must admit, it took quite a while for me to get hooked 
+ on the game. Being patient was rewarding though, after about 1,5 hour into the game there was no 
+ return. What this game does best is the feeling of adventure.
+  
+  The length of the game is more than satesfying.
+  With the two expansions we are talking about 
+ over 100 hours.
+  
+  I spent like 1,5 hour on making my characers.
+  
+  Bottom line, this is a very good, long and hardcore RPG for patient players with the itch for adventure. 
+ 
+::::::
+
+::::::
+UserName: Alkpaz
+Rating: 9.6
+Date: Mar 21, 2007 3:37 am PT
+Review:  When I first played this game I also had a bitter taste in my mouth.. but the more I played and 
+ replayed.. I found the game to be a diamond in the rough.. Sure BG2 overshadows it.. but this should 
+ be taken apart from the other games. It has a very engaging storyline and the infinity engine was 
+ well used here.. The game is more challenging than BG was and gives great battles comparable to 
+ those in ToB. Together with HoW, you must not overlook this game.. considering the lackluster storylines 
+ in games like NWN and Shadows I have to say IWD1 is superb. The collector packs give both IWD1, 
+ HoW, and IWD2 (although you will find IWD2 a bit less story-driven and more like the same quality 
+ storyline as is found in Shadows [expansion to NWN] ) This game may not give you the replay value 
+ BG had.. but it is enough to provide hundreds of hours if you want to try out each character class.. 
+ plus the added benefit of creating the perfect party to dominate the game :) 
+::::::
+
+::::::
+UserName: the_hunger
+Rating: 6
+Date: Dec 25, 2006 7:04 pm PT
+Review:  As a fan of the Baldur's Gate series, I decided to give Icewind Dale (IWD) a try. Unfortunately, 
+ Black Isles did not strike gold twice. While Icewind Dale is a carbon copy of their excellent Baldur's 
+ Gate games in many ways, it lacks the personality that make the BG series great. IWD actually has 
+ a number of things in its favor. The character creation system is very rich, allowing you to customize 
+ your party of six in true D&amp; D fashion. Also, there is a long list of abilities, spells, and 
+ equipment that you'll run across, as well as visually appealing environments, solid voice acting, 
+ and compelling music. Some of the dungeons can be genuinely creepy, and there's a sense of accomplishment 
+ once you clear one out.
+  
+  Unfortunately, the game is deeply flawed. IWD is a bit too hard, even for a person who has some 
+ experience with RPG dungeon-crawling. Even worse, it's an artificial toughness designed to lengthen 
+ the game by requiring you to repeatly reload saved games. Your characters will die countless times, 
+ and this simply can't be avoided. And since your cleric will not be able to resurrect dead party 
+ members until late in the game (Raise Dead scrolls are expensive too) , you will not be able to 
+ continue the game with dead characters. It's really a shame that the developer did not pace the 
+ game better, since it's going to turn off a lot of people from the very beginning.
+  
+  If you can get beyond the tedium and frustration of having to save the game every 2 minutes (and 
+ reload it almost as often) , the gaming experience is still rather uninspired. The story is lackluster 
+ and cliche. There is none of the banter between party members that made Baldur's Gate so fun. All 
+ of this together becomes mind-numbing after a while, since the game profoundly lacks a sense of 
+ purpose or narrative power. It's all really unfortunate since some effort obviously went into creating 
+ the game. Ultimately, if you haven't played Baldur's Gate, by all means play it (both BG1 &amp; 
+ BG2) . If you've already tasted the glory of the Baldur's Gate series, then IWD will probably be 
+ a disappointment.
+  
+  Pros:
+  +rich D&amp; D character creation
+  +good voice acting and music
+  +wide range of spells, items, etc.
+  
+  Cons:
+  -unnecessarily 
+ tedious and difficult
+  -lackluster story
+  -Baldur's Gate clone without the personality 
+::::::
+
+::::::
+UserName: Slayer_Sam
+Rating: 9
+Date: Nov 28, 2006 11:24 am PT
+Review:  FRP genre found its true place among games relatively early. The computers of a decade and a half 
+ ago where powerful enough to present the fantasy worlds in picture, and assume the role of the 
+ game master. It looked awfully modest in the beginning, but more than enough for creative weirdoes 
+ who played with paper figures and geometric shapes before the computer images kicked in.
+  
+  The former owners of these bones are not refreshed He's ugly and doesn't deserve to live... Pool 
+ of Radiance and its sequels, as well as the Eye of the Beholder serial, distinguished their makers 
+ from SSI and Westwood and made them a certain standard in grading of other FRP games. Black Isle 
+ Studios is the next great name in this genre. Their Baldur's Gate, with its complexity and fidelity 
+ of almost all D&amp; D rules, set new road marks for future games, while Planescape Torment proved 
+ that quality plots are still possible in the computer industry.
+  
+  Their newest creation Icewind Dale will not revolutionize as their predecessors did, but it wont 
+ be in their shadow either. The release date has unfortunately overlapped with the release of Diablo 
+ II, so the success of this game is questioned with a reason, and because of the circumstances it 
+ wont draw the attention that a game of such quality deserves.
+  
+  Icewind Dale is a Forgotten Realms world, created in the image of R. A. Salvatore books. It is a 
+ habitat of a large number of barbaric tribes that don't mind the snow and the severe Nordic climate, 
+ and don't mind calling this territory cut off from the rest of the world and surrounded by the 
+ mountain massive Spine of the World their home. The confusion is caused by Archmage Ericon --- 
+ hungry for power and thirsty for blood, with his army of mercenaries he took the advantage of the 
+ tribal feuds and started a campaign in the land if the ice. His plans were upset by shaman Jerodh, 
+ who united the barbaric tribes and defeated the evil archmage's army. In despair, Ericon opens 
+ the gateway to the dark dimension and nightmare creatures start pouring in. Jerodh thrusts himself 
+ bravely into the gateway, and blocks it with his life force. The gateway instantly turns into stone, 
+ but so does the brave shaman. That's when the player steps in with a group of his apprentice adventurers, 
+ who will through the prologue and the 6 chapters try to find the source of strange occurrences, 
+ such as the disappearance of tribesmen, harsh weather and the enormous activity of goblins and 
+ orcs. The story itself is ordinary, and the animation that leads you into it is not worth any particular 
+ mention. The thing that will intrigue you into playing the game is the superb voice of the narrator 
+ and the game soundtrack. The quality of both is such that they could easily be used in a motion 
+ picture on this subject. The programmers have decided that the game is to be engined by Bioware's 
+ Infinity engine. The result isn't bad, but it adds a kind of deja-vy sense, as well as the feeling 
+ that there is much to be desired. The long since outdated 640 x480 resolution, applied in Diablo 
+ II as well, looks surprisingly good even on larger monitors (the leap to 800x600 is promised in 
+ Baldur's Gate II) . Some scenes are pre-rendered and well fitted and the water looks excellent. 
+ The characters are unfortunately done in 2D, but a little more detailed than in BG. The interface 
+ is almost identical to the ones in the predecessors and there is, of course, the option of pausing 
+ the action at any time in the game. As usual, the AD&amp; D rules are followed to the letter. The 
+ whole system is so complex that a handbook is provided with the game to clarify certain terms, 
+ weapon list, item list and a list of available magic and spells in the game, and there are a lot 
+ of those (110 different spells for mages and about eighty for the priests) . Anyone who wishes so, 
+ can study the charts by which you can calculate the strength of the strike, damage, race and class. 
+ The handbook is so extensive that can be used not only for the game, but also in FRP sessions. As 
+ opposed to BG you do not start the game as one character. You have the option of creating a team 
+ of six. It is up to you how many characters you will recruit, but the difficulty of the game and 
+ the number of conflicts suggests that you need a balanced group and a maximum number of team members. 
+ All the usual races and classes are present, and so is the usual assigning of aligning and the 
+ defining of characteristics by dice rolling. The option of picture insertion is preserved and you 
+ can change the .WAV with some of your own. The thing that bugged me the most is the linearity of 
+ the game. Beside the basic goal of the game - defeating the primordial evil, there are minor quests 
+ and their completion is not obligatory, but both one and the other are boiled down to cleansing 
+ a certain part of the map from hostile hordes of creatures with an occasional adventure task which 
+ is easy to achieve. This concept is well applied. The variety of hostiles, large number of magic 
+ items and the reward in the form of EXP. points is enough to keep you interested. Still, there 
+ is a lot lost in the replay value because the quests and the locations are changing always in the 
+ same fashion. 
+::::::
+
+::::::
+UserName: jeffdailey
+Rating: 9.7
+Date: Aug 16, 2006 5:38 pm PT
+Review:  This game is way better than most reviewers have said. Baldurs gate was way fun but had nothing 
+ on Icewind Dale. Even though Neverwinter Nights I believe is one of the best games of the D&D series 
+ it is way to easy to finish. Icewind Dale is very good in it's length, it's difficulty at times 
+ is hard but is very good overall. I have played Icewind Dale many many many times since I first 
+ bought it. If you can still find it I strongly recommend you run out and get it. The graphics were 
+ among the best of it's time and the sound is also topnotch. 
+::::::
+
+::::::
+UserName: Cmpunmu3
+Rating: 9.9
+Date: Sep 7, 2006 1:50 am PT
+Review:  Yes! It is a big and amazing fairytale as we see it in a beginning of the game: storyteller opens 
+ a book and starts to read us the tale of the forgotten realms. The same way i felt playing it - 
+ like reading a book! There's some unbelievable encounters with various mythological people and 
+ creatures, but not forget that magic has a big involvement in this. The game lets you create a 
+ party of maximum 6 people; there's a big variety of races to choose, but it would be wise to have 
+ each party member of a different race or speciality, so they could support each other with sniping, 
+ slashing, magical, bardish, dwarfish, thievish and etc. skills. Each race has their own abilities 
+ and the game requires you to use most of them in the game; but only human race has unlimited amount 
+ of levels to acquire (but not to worry, game's pretty short, so there's only tiny possibility to 
+ reach maximum level anyway) . Not that many varieties of enemies, weapons and armour to collect, 
+ but magical skills will support you in general in facing your opponents. Of course the story is 
+ magnificent, it leads you to visit many races in many different landscapes with inviting atmosphere 
+ and at the end of completing main quests you'll have to face many bosses that are not willing to 
+ give up their lives too easily. Blizzard, fire, storm and earthquakes will be blocking your way, 
+ but you have well managed group to deflect such hazards from you, don't you? 
+::::::
+
+::::::
+UserName: Shrog-III
+Rating: 10
+Date: Jul 15, 2006 9:20 am PT
+Review:  Icewind Dale is based north of Baldur's Gate in the region of Icewind Dale and starts in the small 
+ village of Easthaven. Whilst it looks and plays very much like Baldur's Gate it is more focused 
+ on the combat and action side of the adventure as opposed to the less common side-quests.
+  
+  In Icewind Dale you make all 6 characters of your adventuring party yourself as there is nobody 
+ to recruit as you go along. Multi-player like Baldur's Gate is still an option just so long as 
+ you have a disk for each PC you are going to use.
+  
+  The general plot of the game is really good aswell taking you all over the region exploring new 
+ and sometimes creepy places.
+  
+  Suprisingly, the characters say some really funny things depending on which voice you give them 
+ at the start if you click on them lots aswell.
+  
+  This is one of the best RPGs ever made and anyone who likes RPGs should buy this.
+  
+  
+::::::
+
+::::::
+UserName: Sugam
+Rating: 8.7
+Date: Apr 12, 2006 3:33 pm PT
+Review:  If you love RPG, this game is for you. If you don't, it does not matter, play it and you will enjoy 
+ it.
+  Game Play: At start, it seem to be difficult because of the character's creation, but after that, 
+ it's just plain fun. Maybe, if this is your first RPG, you will find it boring, but as you pass 
+ the game, it'll go better by the time. One thing sure is that your first time through the game 
+ wont be the one who will finish it. Making your party is a big decision and because you've got 
+ a lot of possibilities, it will cost you. After a time, you will find the game really enjoying 
+ and you will sure play it a lot of times.
+  Graphics: the graphics are better for the time it was created, but it don't have much things to 
+ see.
+  Sound: very good, all the sounds are put very well.
+  Value: if you like RPGs, this game is the right one for you, you will get nothing by not buying 
+ it. And it's a good game for starters on this type of game. The bad thing is that it have some 
+ errors, and some of this could stuck you in the game.
+  My Tilt: I really love this kind of games, so at the time I know this game, I get i t as fast as 
+ I can. I rally recommend this game to ANYONE. At least give it a try and you will see. 
+::::::
+
+::::::
+UserName: soccerguy919
+Rating: 7.4
+Date: Mar 30, 2006 11:38 am PT
+Review:  INTRO
+  This is a game that has a soft spot in my heart because it was the game that began my love for 
+ D&D role-playing games. The game has its roots in the Baldur's Gate series. Many similarities can 
+ be seen but the two games differ GREATLY in story. The game has a relatively easy gameplay, good 
+ graphics, and a solid D&D platform.
+  
+  GAMEPLAY
+  The game for this game took me some getting used to but it was my first time ever playing a D&D 
+ PC game. The commands are very easy to get used. I didn't even have directions when I first played 
+ this game so the learning curve is not hard it just takes some time to learn all the buttons and 
+ special abilities. Selecting players is as easy as it can get and commanding them is just a click 
+ away. There were a few times I did loose a player because they would get hung up with some monster 
+ or stray off the wrong path in a long path command so I suggest doing baby steps for those who 
+ aren't that knowledgeable of the area you're in. Overall the game play is nice.
+  
+  GRAPHICS
+  Well when this came out the graphics were really good, but now that it's six years 
+ later the graphics have lost their luster. But never the less, it has stood up fairly well over 
+ the six years. The game is vivid in its scenery and the players are well done for the time. The 
+ many monsters you come in contact with can be pretty cool to look at but don't look too close. 
+ The graphics are aging but they are aging nicely.
+  
+  D&D PLATEFORM
+  The D&D platform in which this game was developed is probably my favorite out of the other Icewind 
+ Dale games and the other Baldur's Gates. Of course I did say this was the first game in which I 
+ played a D&D game on so I do have a slight bias to it, but to put that aside this is one of the 
+ best games to start with if you have never played a D&D based game. As with all D&D games there's 
+ a good story behind the game and this one is no exception. Take it for what it is, a good D&D game.
+ 
+  
+  FINAL THOUGHTS
+  Well with many new D&D games out this one just starts to age more and more. The best part is that 
+ this game is being able to fight your way through a fantasy world with a group of people you can 
+ make into your friends (if you want) . I've played this game many times but my favorite one was 
+ the one I only had one guy left in the group that was alive. It was made to look like my best friend 
+ and he was a warrior with all the amour and swords a knight would want. He was the last standing 
+ with barely 1 hit point left and struck the final villain down. I was so stoked about that. It 
+ was pretty cool. In all seriousness this is a good game to play. Get It and Have Fun!
+  
+::::::
+
+::::::
+UserName: sgthalka
+Rating: 8.1
+Date: Mar 1, 2006 1:49 am PT
+Review:  I was really pleasantly surprised by how good Icewind Dale was. I was a huge Baldur's Gate I and 
+ II fan, but left IWD sitting on my shelf for years b/c I had assumed it was nothing but a hack 
+ 'n' slash version of my beloved BG. So after finally finishing the game, I wish I would have played 
+ through this fantastic Infinity Engine RPG much sooner than I did.
+  
+  In some ways, Icewind Dale is even better than Baldur's Gate in that the scale of the battles is 
+ more challenging than what you're used to and a few of the boss fights actually do throw some wrinkles 
+ at you, simplistic though they may be. And for pure power gamers, IWD is a lot more customizable 
+ than BGII, where you were basically stuck with the developer's NPCs in your party. While those 
+ characters made for hilarious banter, they left a bit lacking when it comes to overall party power. 
+ Here, the scope of the party is completely under your control, and if you enjoy trying to sculpt 
+ the perfect party, this gives you so much more freedom than BGII.
+  
+  I was also surprised by how good the dialogue and plot was in this game. There's some genuinely 
+ funny script options and the storyline takes you all over the Spine of the World in a fairly engaging 
+ flow.
+  
+  Overall, I felt Icewind Dale was just as good as my experience in Baldur's Gate, but just a little 
+ bit ... different ... in its own way. Definitely a fantastic blast from the past to finallly finish. 
+ 
+::::::
+
+::::::
+UserName: Talonfire
+Rating: 8.7
+Date: Nov 19, 2005 10:21 am PT
+Review:  Bioware's Infinity Engine has powered some of the greatest RPGs out there. Arriving a short time 
+ before Baldur's Gate II was Icewind Dale an RPG that at its core was just a linear dungeon crawler, 
+ but a very well designed dungeon crawler that was unfortunately overshadowed by Diablo II.
+  
+  In Icewind Dale you take control of a party of up to six adventurers (of whom you create) who 
+ have just arrived in Icewind Dale at the fishing village of Easthaven. Apparently there is some 
+ evil force at work (how shocking) and your group is invited on an expedition to Kuldahar. Something 
+ goes wrong (Oh no!) and your party are the only individuals who survived an avalanche and thus 
+ the story truly begins.
+  
+  Icewind Dale's plot is hardly revolutionary, but it's still a solid and well written story that 
+ should entertain anyone who is into classic good versus evil. Like Baldur's Gate you're given dialogue 
+ choices in IWD; unfortunately your choices mean even less in IWD than they do in Baldur's Gate. 
+ The game is one-hundred percent linear therefore the dialogue choices are there only for your amusement, 
+ and though some of them can be evil you still end up performing heroic deeds regardless.
+  
+  The gameplay in Icewind Dale is very similar to the other Infinity Engine games obviously. In fact, 
+ Icewind Dale plays exactly like Baldur's Gate except with more focus on combat. You'll still click 
+ enemies to order your party members to attack. Icewind Dale is unfortunately extremely linear, 
+ the plot basically connects every dungeon together. The dungeons are very well designed though; 
+ as are the enemies and quests.
+  
+  The graphics in IWD are exactly the same as they are in Baldur's Gate. The character sprites are 
+ the same, right down to the armor. The terrain however looks a lot more detailed than Baldur's 
+ Gate and everything looks nice. The spell effects have had an over-haul since Baldur's Gate as 
+ well and look much nicer, but they don't exactly reach Planescape: Torment's epic spell effect 
+ level.
+  
+  The sound in IWD is solid; the voice acting is convincing and the normal sound effects are for 
+ the most part the same as Baldur's Gate. The enviromental ambience and the music composed by Jeremy 
+ Soule, however; are superb and really make you feel like you're in the frozen lands of Icewind 
+ Dale.
+  
+  Icewind Dale is a fun action RPG that might place a heavier focus on combat than story, but still 
+ manages to deliver a decent plot and hours of monster hacking. If you're looking for a solid action 
+ RPG then look no further; Icewind Dale is one fine dungeon crawler. 
+::::::
+
+::::::
+UserName: liorde
+Rating: 9.2
+Date: Nov 9, 2005 12:41 am PT
+Review:  If you are the RPG gamer-type that is fond of many fights, tactical, skirmish and sometimes mayhem 
+ fighting then look no further.
+  This game is more fighting-enhanced than other games from the same creator's such as Baldur's Gate 
+ 1 & 2 for example. The game is based on 2nd edition D&D rules, and it is pretty straight forward 
+ even to new comers to CRPG games. 
+  The creators of this game did a splendid job with the "Infinity" engine that makes the game possible 
+ to play. An inegnius blend of turn based (old style pen & paper D&D games) and real-time (for a 
+ fluid and quick gameplay) , which enabls you to control your characters at any time and use micro-management 
+ when it is needed.
+  
+  In this game you create a party of explorers, up to 6 memebers in total. Each character is created 
+ in the old-school way of D&D with points distribution, skills, spells and such... The game starts 
+ off quite hard in my opinion. As a matter of fact the game is hard, especially for new comers. 
+ Of course you can adjust game difficulty in real time through game-options making even the most 
+ ugly fights to possible fights...
+  
+  The game is presented to the player in an isometric view, and you scroll through the game area 
+ like you would in a strategy game. This gives you a good overview of the gaming area and a better 
+ control of practically everything. This is better in my opinion than the 3D games (for example 
+ Neverwinter Nights) where you have to control the camera angle and tilt it and move it just to 
+ see what is coming up next... Also, CRPG's are better when you see your party in a *static* 3rd 
+ person view or as I call it bird's eye view, than a 1st person view (such as Wizardry8 or Heros 
+ of Might & Magic comes to mind...) . 
+  This view gives you a better "feel" of the party, the game, the environment and I think it kind 
+ of "connects" you better to your characters, as you can always see them. It also makes sense, think 
+ of it, who says that a party has to be always together..?!?!? Don't you send a scout ahead now 
+ & then to see what dangers lurk ahead?? This is something that is a *MUST* in IWD1 & 2 this I am 
+ telling you from my experience after finishing both 3 times already.
+  
+  Graphics are just right IMHO. I generally think, that the gameplay issue is far more important 
+ than graphics or sound. But some people simply don't like the game due to it's lack luster graphics. 
+ Although this can improve if you install the game's expansion "Heart of Winter" which gives you 
+ the option of playing 800X600.
+  
+  Sound & music are terrific, you hear the character's footsteps, weapon swings, hits, moans, and 
+ cried for help when they are injured. The game also has very good music tracks which really grab 
+ you and give you a midevil feel to it.
+  
+  Overall, the game is trully immersive and profound. I think all aspects of D&D are covered in this 
+ game, when talking about 2nd LVL D&D rules... If you are a gamer that has patience and likes CRPG's 
+ then you must give this one a try. Don't be sceptic about it because it is old. This is quality 
+ and like they say "Quality never goes out of style" ... :-)
+  
+  ENJOY!
+  
+::::::
+
+::::::
+UserName: gord_mose
+Rating: 9.5
+Date: Sep 2, 2005 7:26 pm PT
+Review:  The venerable Bioware Infinity Engine housed many a great game, including the original Baldur's 
+ Gate, Baldur's Gate II, the amazing Planescape Torment, and of course the Icewind Dales series. 
+ While none of these games lack greatness, some were more great than others. Notably, in my mind, 
+ Icewind Dale was probably the best of them all, although Planescape Torment was definitely a deeper 
+ RPG and arguably a greater artistic achievement for Black Isle Studios, while the original Icewind 
+ Dale was a slimmer, more action oriented RPG.
+  
+  Where Icewind Dale shines most of all is in its story. Throughout the game you are treated to simply 
+ amazing writing, and while the whole game is streamlined compared to games like Baldur's Gate II, 
+ for instance, it is not an action RPG. You read plenty, you fight hard battles, and you marvel 
+ at beautiful environments, all the while engaged in a story that rocks!
+  
+  It's a sad state of affairs that RPGs have all but disappeared from PCs, that what is left are 
+ action games, massively multiplayer games, and Bioware's own Neverwinter Nights, which unfortunately 
+ isn't as compelling a game engine as the Bioware Infinity Engine was. Consoles have replaced the 
+ PC, with games like Bioware's own Jade Empire, or Japan's truly epic Xenosaga or Final Fantasy 
+ games filling the gap PC developers have left. Whether we'll ever see a great PC RPG again is unknown, 
+ but you can still find Icewind Dale on the store shelves, and it's well worth purchasing and playing.
+ 
+  
+  GordMose 
+::::::
+
+::::::
+UserName: Super_Toton
+Rating: 8.2
+Date: Aug 13, 2005 6:47 pm PT
+Review:  As you check reviews about this game, you'll hear a lot about it not being like the Baldur's Gate 
+ games, but thats for good reason. This game isn't Baldur's Gate, and it wasn't intended to be Baldur's 
+ Gate. Therefore, its not suppose to be like Baldur's Gate, so it has succeeded.
+  
+  Gameplay: After creating your party ( a maximum of 6 characters ) you begin your adventure in the 
+ cold cruel world of Icewind Dale. The gameplay revolved mostly around hack n' slash action, with 
+ little revelance to exploring or strategy. Your characters gain experience as you kill more enemies, 
+ and your characters gain levels at a respectable rate. At some points in the game, action will 
+ seize and you will be forced to sit through speeches about nature and evil, but just try to keep 
+ yourself focused. Occasionally, but not very often, you may have to think before you attack. Sometimes 
+ its better to send in a hidden thief then to charge with your fighters. But you'll be hacking and 
+ slashing for the better part of the game.
+  
+  Graphics: The Infinity Engine, what else can you say? Sure, the iso-metric view looks a tad bit 
+ outdated. But you learn to respect the Infinity Engine for what it has done. Thats enough to get 
+ you buy the similiar casting graphics and the simple character models. Some nice touches can be 
+ found on enemies. Look closely and you'll see that the designers definately spent some time on 
+ them.
+  
+  Sound: The soundtrack for this game is simply stunning, is will keep you connected to the Icewind 
+ Dale world. Beautiful and powerful scores leave impressions as you play through the game. However, 
+ the same cannot be said about the rest of the sounds. Enemy roars, spell sounds, and weapon clashings 
+ get all too familiar after a while. The repetitive battle cries of your characters don't help too 
+ much either.
+  
+  Value: This game will probably attract you to replay maybe once or twice, but after that the fun 
+ is dead. The game gets highly linear after one or two playthroughts, so you won't be as highly 
+ entertained as you were before. Different races don't really have much of an impact in the game, 
+ so you won't be tempted to try different parties.
+  
+  The Finale: Play this game for what it is and you'll love it. If you go in expecting another Baldur's 
+ Gate, you'll be greatly dissapointed. This game isn't Baldur's Gate, and it doesn't need to be.
+ 
+  
+  
+::::::
+
+::::::
+UserName: StormRaider31
+Rating: 8
+Date: Feb 26, 2005 12:01 am PT
+Review:  The only draw back is that I was playing this game while waiting for Dungeon Siege to come out 
+ and once Siege came out I was done with Dale. Not because anything was wrong with Dale its a very 
+ strong computer D&D RPG. But Dale also suffers from the standard RPG elements that once I started 
+ playing Siege I could not go back to. Siege has me spoiled when it comes to moving from one area 
+ to another. Im accustomed now to seamless transfer from one area to another and to go back to 
+ the typical RPG with its load times between areas both coming and going, I just couldnt and still 
+ cant. Also, the limited customability of your characters, I dont want to import my own pictures 
+ I want enough variety built in (aka the SIMS or the Siege) or better yet characters that change 
+ over time (ala Fable) . Small things yes, but it is an RPG after all and so such details are important 
+ to the experience. I also did not like the standard repetitions of meaningless character banter 
+ for standing too long in one place or leaving an inn for adventuring. Unless its meaningful Id 
+ rather they not speak. Again, Im not bashing Dale, its a good solid standard RPG especially for 
+ when it came out, and I played it when it came out so Im not trying to compare apples to grapes. 
+ For its time the graphics were solid, the game as I remember it was relatively stable and bug 
+ free. I liked the fact you could write your own back story for your characters even if it couldnt 
+ be incorporated into the game play. Fighting, especially in the early goings when your characters 
+ were weak, took some thought. You could not just run in willy nilly and neither did your characters 
+ whom you had complete control over (not so with Siege which could get annoying from time to time) . 
+ Again, well written, programmed, and a decent story too. Good Job for its time. 
+::::::
+
+::::::
+UserName: SadExchange
+Rating: 9.2
+Date: Jan 26, 2005 2:59 am PT
+Review:  Utilizing the Infinity Engine developed by Bioware, Black Isle Studios brings to Dungeons and Dragons 
+ fans a new game set in the world of Faerun. Icewind Dale was released at the end of June of 2000 
+ giving the players the ability to create all six of there party members, to lead on an adventure 
+ across the Spine of the World, an arctic mountain range north of the area that fans traversed in 
+ Baldurs Gate. Wanting to give the fans more, Black Isle developed an expansion about eight months 
+ later known as Heart of Winter which added new areas and quests that could be completed during 
+ the actual first game. Not feeling that that was enough, Black Isle made an extra expansion for 
+ free to their fans called Trials of the Luremaster. Black Isle listened to their fans when they 
+ made games and this installment definitely proves it. 
+  
+  Fans of Baldurs gate and its expansion were treated with a pure dungeon crawl game set in another 
+ region of the Forgotten Realms known as Icewind Dale. A region centered around the Ten-Towns, which 
+ as you can imagine, is an area where ten trading towns are located. Youll begin your adventure 
+ in Easthaven doing simple quests helping out the locals and through accomplishing these goals, 
+ youll come upon the main quest of the game to investigate the hidden evil in the lands around 
+ Kelvins Cairn. Throughout your travels, youll see famous sites such as Dragons Eye, Dorns Deep, 
+ Severed Hand, and many other areas as your warriors and mages progress through the games entirety. 
+ Unlike Baldurs Gate, Icewind Dale and its expansions are linear in gameplay where youll never 
+ not know where youre going or what you should be doing. This can be seen as a negative for the 
+ game, but if you go into the game fully knowing its meant to be a pure dungeon crawl hack and 
+ slash, you should have no complaints. The ability to create every person in your party is new in 
+ this Infinity Engine Game. The player, from the start, can create all six party members in their 
+ group making them Humans, Dwarves, Elves, Halfings, or whatever, and then having the ability to 
+ have them all be different classes. Where as in Baldurs Gate, you made one character and then 
+ met up with different NPCs being different classes that would join your group and having to deal 
+ with what the characters were before they joined your party, in Icewind Dale, you have total freedom 
+ over your group. Unlike Baldurs Gate though, youre not able to pick up any NPCs during your travels 
+ and have them join your group. Your party of six will remain the same unless one of them dies. 
+ The NPCs are just there to talk, sell/buy items, and provide quests to your party. 
+  
+  The storyline in Icewind Dale and its expansions is better than most taking place around the year 
+ 1281 DR, the Year of the Cold Soul. For its time, Icewind Dale brought a lot to the table with 
+ taking your party of six across the Sea of Moving Ice all the way back to adventure through what 
+ is known as Wyrms Tooth. These wonderfully detailed areas are a joy to traverse through with your 
+ party. Never knowing what lurks inside each dungeon or cave, always preparing for the next big 
+ battle with Faeruns monsters is just a little bit of the fun to be had with Icewind Dale. The 
+ special and unique items youll come across, not to mention the powers youll receive from leveling 
+ up your party hour after hour is something that make this game hard not to have fun with. Its 
+ definitely a classic that will always be remembered from the now bankrupt Black Isle/Interplay 
+ Company. 
+  
+  Utilizing the Infinity Engine, Icewind Dale has some dated graphics, but the pre-rendered backgrounds 
+ and the attention that was made to detail in each area is something that every game developer should 
+ look at. Black Isle certainly did something right when trying to make the player feel like they 
+ were in the frigid north tundra in what is known as the Spine of the World. The level design within 
+ the interior dungeons and temples is outstanding and the Infinity Engine once again, brings the 
+ pen and paper Advanced Dungeons and Dragons rules to the computer almost flawlessly. One level 
+ that youll easily remember your first time through is the Severed Hand where youll travel up 
+ each finger in the towering building learning the condemned fate of its inhabitants. Each level 
+ with its design and story/background that it tells leaves the player with a lasting impression 
+ each time they play through the game.
+  
+  The soundtrack, which was produced by Jeremy Soule is amazing to say the least. The music is definitely 
+ something that brings the player into the atmosphere of the cold north. Each track played throughout 
+ the many areas and maps of the game seems to roll out the speakers of the player almost creating 
+ a serene sense of imaginative state of mind. Knowing how well the music was produced, Black Isle 
+ released a separate CD that could be purchased being the soundtrack to the game. Some voice-over 
+ work was done and Black Isle was a company that was known for great voice acting is Icewind Dale 
+ is no exception.
+  
+  Something new that was added with the expansions is the Heart of Fury mode. This mode, which can 
+ be selected from the configuration panel at startup, is a playing style much harder than the original 
+ but gives the player the ability to reach very high levels with their characters by expanding the 
+ level cap in the original game. Also, with the Heart of Fury mode, the player is able to play through 
+ the game again with their original characters, which is always fun seeing how difficult the early 
+ on game is for your seasoned warriors.
+  
+  Overall, Icewind Dale is a must buy for any Dungeons and Dragons fan and also anyone who loved 
+ the other Infinity Engine Games. Having the ability to create each of your players gives anyone 
+ the chance to pick and choose between the different classes offered in the Advanced Dungeons and 
+ Dragons rules. Having the wonderful artistic work of the pre-rendered backgrounds, plus the amazing 
+ detail to story, and add to that, a wonderful soundtrack, Icewind Dale: Heart of Winter: Trials 
+ of the Luremaster is a great way to adventure on your computer.
+  
+::::::
+
+::::::
+UserName: Arathin
+Rating: 9.2
+Date: Jan 4, 2005 9:55 am PT
+Review:  Once again Black Isle Studios proves it's worth. As far as RPG's go, this is possibly one of the 
+ best. The game uses a unique system to control the characters combat. On top of this, the game 
+ features an extensive and intriguing storyline, based on the world of Fae'run. 
+  
+  The Spine of the World is in trauma; an unknown enemy has purged the town of Kuldahar of life. 
+ A distress call comes to the remote town of Easthaven and adventurers are dispatched to aid Kuldahar. 
+ You are those adventurers. A simple rescue mission leads to a battle to save the entire Spine of 
+ the World, and it is a battle you will never forget. 
+  
+  The character advancement is one of the major aspects of the game and the handling is very different 
+ from most other RPG's. All characters in your party (six in total) are created by the player themselves. 
+ Each character is assigned a race (for example, Elf or Human) , gender, class (for example, Fighter 
+ or Wizard) , allignment (for example, Lawful Good or Chaotic Evil) , and so on. The character advancement 
+ is a critical part of the game and it is crucial that the player has a wide range of characters 
+ to use.
+  
+  Although the graphics aren't exactly amazing, they are simple for a reason. The game doesn't neccesarily 
+ need brilliant graphics. The 2D graphics work well for the style of game. They run smoothly and 
+ enable gamers with low quality PC's to have the experience of this amazing game.
+  
+  Icewind Dale is an awesome addition to the Forgotten Realms series and extends the role of RPG's 
+ in our gaming community to it's limits. For those that love RPG's, this is well worth the money. 
+ For your concern, EB Games sells this game for an extremely low amount.
+  
+  Enjoy! I know I did! 
+::::::
+
+::::::
+UserName: maxikyd
+Rating: 5.3
+Date: Sep 30, 2004 5:20 am PT
+Review:  So, Icewind Dale was SUPPOSED to be a role playing game. T his was merely a hack-n-slash, poorly 
+ disguised as an RPG. If that's what you're in to, you'll love this game, but after playing Baulder's 
+ Gate, I expected more, and Icewind Dale failed to meet my expectations. 
+  
+  The promise of being able to import your BG character into IWD was not delivered. While I realize 
+ that the D&D gaming system was switching from AD&D to D3, I feel that there were promises made 
+ to gamers in the save splash screens of BG/BG2 which were not kept.
+  
+  Graphics were fair, no big improvement over BG, though the winter scenes were cool. 
+  
+  Gameplay 
+ and plot are very linear. There is little control over the characters' destinies, other than what 
+ they were going to kill next, the where was laid out for them. It seemed that the moral or ethical 
+ decisions of previous games (BG, et al) were out the window, and killing things became the driving 
+ motivation in the game. By the time I reached the final scenario, it was less a gaming experience 
+ and more of a chore. I was actually hoping the 'heroes' would lose so they'd die and be out of 
+ my hair. Not the best view of a game I'm supposed to enjoy playing. All in all... I'll just replay 
+ BG again, it was a much better gaming experience 
+::::::
+
+::::::
+UserName: dryden555
+Rating: 8.8
+Date: Sep 15, 2004 10:11 pm PT
+Review:  I prefer this game to the sequel, in spite of that fact the sequel is roughly 2 times longer. This 
+ game has no pointless filler and very little story. It really is all about the battles and developing 
+ a team of characters, and there this games shines. 
+  
+  The enemies are interesting and varied to fight. It is possible to replay the game with a different 
+ kind of team and enjoy the battles with different choices.
+  
+  The graphics are nothing special, although the 2D painted backrounds are very very well-done. The 
+ sounds are often pretty great too. 
+  
+  Definately get the patches and the "heart of winter" add-on in order to really enjoy this game 
+ with improved enemy AI. 
+::::::
+
+-------------------------------------------------

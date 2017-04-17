@@ -1,0 +1,225 @@
+-------------------------------------------------
+:::Game Name::: Submarine Titans
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/submarinetitans/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug 16, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.2
+Critic Score: 6.5, 21 Review (s)
+User Score: 8.0, 155 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Strategy First
+Developer: Ellipse Studios
+Genre: Strategy
+Date:     Aug 9, 2000
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+The game's slow pacing, simple combat, weak production values, and other shortcomings collectively 
+ prevent it from being much fun. 
+
+ Despite its seemingly unusual premise, Submarine Titans is a rather conventional 2D real-time strategy 
+ game that takes place in an underwater setting. It features three different playable factions and 
+ several interesting units and technologies, as well as a complicated and fairly original resource 
+ model - and of course, the aquatic setting itself. However, the game's slow pacing, simple combat, 
+ weak production values, and other shortcomings collectively prevent Submarine Titans from being 
+ much fun.   
+
+  You play Submarine Titans from an isometric perspective, as with most any other 2D real-time strategy 
+ game. An interface bar covers the bottom portion of the game screen, and while it's obtrusively 
+ large at the lowest resolution setting, Submarine Titans supports resolutions up to 1280x1024, 
+ in which there's plenty of room to see what's happening. The interface is split down the middle, 
+ and it lets you oversee base infrastructure and unit micromanagement simultaneously; it's an effective 
+ design, although the interface buttons themselves aren't intuitive, nor are the names and appearances 
+ of the various structures and submarines that you can build at any point. In fact, sometimes it's 
+ very difficult to identify a submarine amidst its surroundings, as the structures and submarines 
+ are drawn with the same exact colors, which tend to blend together. Otherwise, Submarine Titans' 
+ 2D graphics are fairly detailed, and the copious amounts of undersea life scuttling about lend 
+ a lot of detail to the environment, but you'll just as quickly realize that almost all the maps 
+ in the game look identical. And furthermore, the game doesn't really provide a good sense of being 
+ underwater, because sea creatures and a sea-color tint aren't enough - some sort of shimmering 
+ or color-cycling effect would have helped convey the sense that Submarine Titans actually takes 
+ place under the ocean.   
+
+  Submarine Titans has a very steep learning curve, partly because the interface and technology take 
+ getting used to, but especially because the single-player campaign missions are very difficult 
+ from the outset. Each of the game's three different factions has its own ten-mission campaign, 
+ and you can play the campaigns in any order. Even though you can toggle the level of the computer 
+ artificial intelligence, Submarine Titans will initially prove to be much harder than most similar 
+ real-time strategy games, even on the weakest setting. Some players will doubtless appreciate the 
+ challenge, but most will sooner find the campaigns to be unbalanced - either way, the campaigns 
+ certainly aren't very interesting. Though Submarine Titans has an elaborate back story that's detailed 
+ in the manual, each mission is introduced simply with scrolling text and a plain voiceover. These 
+ introductions are usually long and not very clear, while the actual mission objectives tend to 
+ be either predictable defense- or offense-oriented scenarios or escort missions. Fortunately, you 
+ can also play single scenarios against one or more computer opponents or take on other players 
+ over a network or the Internet. Submarine Titans also includes a seperate scenario-editor program 
+ with a random-map generator.   
+
+  The game's three playable sides - the militant White Sharks, the scientific Black Octopi, and the 
+ mysterious alien Silicons - aren't as different as their stories make them out to be. The former 
+ two are functionally identical with the exception of their slightly varied technology trees, while 
+ the latter one uses a different resource model and has different types of military submersibles. 
+ Part of the problem is that Submarine Titans simply lacks character - the unit-acknowledgment speech 
+ clips used for each side are not only repetitive and boring, but also identical for every unit 
+ in the faction; similarly, each unit in the game blows up in just the same fashion when it's destroyed. 
+ The graphics and design of Submarine Titans are clearly derivative of Blizzard's hit Starcraft, 
+ even though Starcraft did a much better job differentiating its three factions. Ultimately, each 
+ side in Submarine Titans has analogous structures and defenses, but since they look different - 
+ and none of their functions are immediately obvious - it'll take you a while to figure out how 
+ to play the game.    
+
+ Submarine Titans has three playable tutorials, one for each side, but all of them are tediously 
+ slow and are not very useful. They simply walk you through laying down base infrastructure without 
+ really explaining what it is you're doing. Nevertheless, the tutorials take a long time to complete, 
+ which isn't surprising, considering Submarine Titans features half a dozen different resources, 
+ three or four of which are used for any individual faction. The Sharks and the Octopi need oxygen 
+ sublimators to power all their facilities, at which point they can harvest metal and the element 
+ corium, which are both used for creating military submarines and facilities. They must also create 
+ gold sublimators that produce an occasional surplus of gold from the ocean water, and you'll need 
+ to spend it on new research projects. You even need to build arms depots to maintain a surplus 
+ of ammunition for your submarines. It's a lot to keep track of and to have to balance, especially 
+ since the metal and corium patches tend to quickly dry up, but at least the Sharks and the Octopi 
+ can also build a marketplace structure that allows for the exchange of resources. Meanwhile, the 
+ Silicons must build silicon extractors that gradually produce their basic resource, energy accumulators 
+ for extracting power from metal, and corium extractors, just like the other two factions.   
+
+  The resource model in Submarine Titans is complicated compared with most other real-time strategy 
+ games, so it'll be tempting for you to use the option to delegate control of your resource management 
+ to the computer, which will invariably do a better job until you've had a great deal of practice. 
+ You can actually automate your defense production or even automate your entire operation - and 
+ while these options sound useful, they effectively strip away layers of complexity from the game, 
+ making what's left that much less interesting. That's because if you remove the resource model, 
+ you'll find that Submarine Titans is otherwise a very simple game. Combat proves to be highly chaotic, 
+ as dense packs of opposing subs fire similar-looking weapons and blow up in identical explosions. 
+ Though each faction has a few support subs that can potentially inflict a lot of damage against 
+ dense groups of enemy units, you'll typically find that these dense groups of subs will sooner 
+ win. Part of the problem is that base facilities in Submarine Titans are very flimsy, so an aggressive 
+ suicide rush tactic aimed straight at the heart of the enemy base can often have devastating results. 
+   
+
+  All your subs move sluggishly, and there's a lot of busywork with resource micromanagement and 
+ base building to occupy your time when you're not trying to get your subs to go someplace. Consequently, 
+ there's not a lot of momentum in Submarine Titans matches, which makes them rather unexciting. 
+ The combat is too straightforward to allow for any significant tactical subtlety. Even though you 
+ can maneuver your subs between five levels of undersea depth - and they'll automatically dodge 
+ up and down in battle when you set them to aggressive mode - the effects of this are negligible 
+ in practice. So what happens is if you're ever unprepared for an enemy attack or if you have a 
+ greater number of subs of your own, the subsequent battles will tend to play out predictably.  
+
+  As with many old-fashioned real-time strategy games, Submarine Titans ultimately becomes an exercise 
+ in resource gathering, because the players who build and expand their infrastructure faster will 
+ almost certainly win. This wasn't perceived to be a problem in real-time strategy games a few years 
+ ago, but considering that many games in the genre have since abandoned resource gathering altogether 
+ in favor of sophisticated tactical combat, Submarine Titans seems like a step backward - instead, 
+ its resource gathering is what's complicated, and the subsequent combat is unsatisfying. And since 
+ its production values aren't commendable either, there remains little about the game that's worthwhile. 
+    
+-------------------------------------------------
+:::User Reviews::: (3 Reviews)
+::::::
+UserName: pdfanboy
+Rating: 7
+Date: Mar 19, 2009 7:43 am PT
+Review:  Submarine Titans was the first Real Time Strategy game I played and that's why I think it is suitable 
+ for beginners. Please, read and enjoy my review.
+  
+  
+  
+  GAMEPLAY:
+  
+  The gameplay is mainly slow and this fact makes you have quite a lot of time to react your next 
+ move. In addition, the main feature here is that there's no a main building, unlike most of RTS 
+ games, and each building has just one purpose; for example, if you want to collect and store supplies 
+ you must build two buildings: one to collect and the other one to store. Or if you want to purchase 
+ new technologies you must build a tech facility where all the upgrades are available. So if you 
+ need something, just build the appropriate structure which gives you that purpose. It's as simple 
+ as that.
+  
+  The campaign is broken up into three civilizations: White Sharks (WS) , Black Octopi (BO) and Silicons 
+ (SI) . The WS and BO have more similarities than differences whereas the SI has unique structures 
+ and specially a unique base-building methodology. The reason why WS and BO are quite similar is 
+ because they can steal technologies from each other in order to build enemy structures and use 
+ them against the enemy itself. This fact makes the game surprisingly fun and challenging because 
+ the best way to destroy your enemy is by using enemy technologies. Why? because they don't have 
+ suitable structures which can protect them from their own technology.
+  
+  However, the game also has two notable flaws. The three civilizations are not balanced and prevent 
+ you to play LAN with different factions. In addition, the frame-rate usually drops when there are 
+ a lot of units and structures, and this fact is painful because the game is quite massive, specially 
+ in LAN games. Fortunately, the campaigns keep being fun and challenging because they are not as 
+ massive and the balance issue doesn't affect them.
+  
+  
+  GRAPHICS:
+  
+  The graphics are quite good and don't need high PC requirements. The textures include plenty of 
+ details such as fishes, starfishes, mountains and colourful sand. These details make the game quite 
+ fantastic and are the main reason why everything looks so beautiful. Overall, I think the game 
+ has coherent graphics for its hardware demand.
+  
+  
+  STORY:
+  
+  In the past, a meteor crashed to the Earth and the see level has risen many thousands of feet, 
+ covering all the land. Now, the year is 2047 and two civilizations (White Sharks and Black Octopi) 
+ compete against each other in order to collect Corium, the only natural source which makes possible 
+ the underwater life. However, a third alien civilization which is also interested in the Corium 
+ arrives to the Earth in order to prove that the Corium only belongs to one. Cool, eh? I think it's 
+ quite original.
+  
+  
+  
+  In conclusion, I think Submarine Titans is not a bad game but could have been much better. I recommend 
+ it for those who have never played a RTS game. 
+::::::
+
+::::::
+UserName: rohitmitra5752
+Rating: 7.5
+Date: Sep 24, 2008 8:56 pm PT
+Review:  This is one of the games that you can play for hours if you don't have a system to play better 
+ games. The concept of having a battle between two submerged nations along with an unknown alien 
+ race was quite good for me to have it for myself, but repetitive maps and slow gameplay soon took 
+ away all the fun in the game. There are still some aspects of the game that I found unique like 
+ the TV balloons at the bottom of the screen (like the one in WarCraft 3) . After playing it you would 
+ feel, "Only if it were faster".
+  
+  The idea of presenting an underwater world went quite well though. In spite of not using a very 
+ high demanding graphics requirement, it does give the right effect. The details of the game are 
+ made imperfect for the effect. In short, a close inspection will reveal a not so brilliant graphics, 
+ but the entire color and surrounding animations make the graphical effect quite appealing.
+  
+  The campaigns were surprisingly fun if you leave out the slow pace of the game. The story lines 
+ of the campaigns were really good and if you can play a game just for the stories sake then it 
+ wouldn't be a bad choice. 
+::::::
+
+::::::
+UserName: redgate55
+Rating: 8.2
+Date: Mar 30, 2007 2:52 am PT
+Review:  I have had a change of heart. my old review said:
+  This game had no realsisim or desanty to it. if you were to buy it you might want to think twice 
+ and if you alreday have... Send it back mate!!!! i can't think on how to descrbe it it's that poor. 
+ although the graphics are ok but not the best it improves game play it is still not worth playing. 
+ the difficulty even at max is prety easy so it is a easy game to master for all u new people out 
+ there that aren't the best at stratigy games it's for you and if you don't have a taste in good 
+ games this is also for you.
+  My new one says
+  This game can be thrlling and challnging as you get further towards the end or you set up the skirmish 
+ just right. Beacuse of the game i can't tell you how to set it up. once you get into it you get 
+ hooked and can't realy let go. 
+::::::
+
+-------------------------------------------------

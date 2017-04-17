@@ -1,0 +1,402 @@
+-------------------------------------------------
+:::Game Name::: Championship Manager 2008
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sports/championshipmanager2008/review.html
+-------------------------------------------------
+:::The Good:::
+ Match engine provides a clear view on match days.
+ ProZone tool is comprehensive.
+-------------------------------------------------
+:::The Bad:::
+ Lack of match-day control.
+ Many minor errors.
+ Sound is a step backward.
+-------------------------------------------------
+:::Date::: Dec 18, 2007
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6
+Critic Score: 6.8, 8 Review (s)
+User Score: 6.3, 150 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: GamersGate
+Developer: Beautiful Game
+Genre: Soccer Management
+Date:     Nov 6, 2007 &raquo;  
+
+-------------------------------------------------
+:::Review:::
+Championship Manager 2008 ultimately fails because it doesn't seem to know who it's aiming at.
+
+  On the surface, Championship Manager 2008 looks to be an improvement over last year's effort, playing 
+ at a higher resolution with a slicker-looking interface, but underneath this gloss, the gameplay 
+ fails to satisfy. To live out the dream of being a football manager, you take control of one of 
+ any number of club teams and -- simultaneously, if you want -- a national team, with the aim being 
+ to win all the real-life competitions your team faces. Teams and competitions come from leagues 
+ across the globe, with most countries having at least their top two leagues represented, and some, 
+ such as Italy and England, having five. You pick the team each week, negotiate transfers, settle 
+ contracts, oversee training, and have a certain amount of control pitch-side on match days.  
+
+ 
+  The most obvious change on match days from Championship Manager 2007 is the representation of 
+ the match itself. The 3D match engine is similar to last year, with players represented by coloured 
+ vertical cylinders that jump, slide, and fall in a more convincing manner than before, but while 
+ the engine is watchable, the play itself doesn't feel quite right. Little things, such as the regular 
+ occurrence of goalkeepers scoring their own goals from corners, do make the games seem much less 
+ real, and in a game such as this, it's those little details that make the difference.  
+
+           The arrows provide easy-to-see indicators of current player morale.      
+
+  The match-day 
+ control itself feels very limited -- you can make substitutions, change formation, and plan moves 
+ around set pieces, but you have very little control over your team's overall style of play. Rather 
+ than being able to control individual aspects, such as speed, width, and the fervour of your attacks 
+ individually, you are forced into simply choosing what your attack style to be or if you just want 
+ the team to waste time.  
+
+  The interface you are presented with when the match engine isn't running -- you only see selected 
+ highlights -- is significantly different from last year. In CM07, you were presented with a wall 
+ of constantly changing statistics, representing percentages of possession, tackles, and almost 
+ anything else you could wish to see. However, now you are presented with static views of the two 
+ team formations with each player's morale and current performance marked next to his name. While 
+ this helps with making speedy substitutions because you know which players are underperforming 
+ before going into the substitution menu, all the information is duplicated there anyway. This change 
+ might make match days look friendlier for newcomers to the game, but the only real effect is a 
+ loss of information for the player as the match goes progresses.  
+
+  You can set tactics before the match, as well as during the game, but the interface for both is 
+ clunky. During the match, you can drag and drop players in your squad to make substitutions. However, 
+ if you're setting up your squad for the next game or playing with ideas for new formations and 
+ line-ups, you can't do this in what is otherwise an identical-looking interface when there isn't 
+ a match.  
+
+  One other problem that occurs on match days is the limited options presented to you for pre-match 
+ and half-time team talks. You are presented with up to four different -- but very specific -- options 
+ of things to say to your team, but it is rare that one represents what you actually want to say. 
+ For example, early on in one season, we beat struggling Derby County by nine goals to nil, but 
+ on coming to play them again a few months later, we were only presented with pre-match team-talk 
+ options suitable for a match the team would struggle to win. Sometimes these options are even more 
+ nonsensical: Playing a local rival in a major cup final, for instance, you may be presented with 
+ the option to tell your players that a draw would be as bad as losing for the fans because it's 
+ a local derby, despite the fact that a draw isn't possible in such a game. Player options have 
+ a similar problem -- you are presented with a number of vague options for player feedback on top 
+ of the general team talk, but it is just as rare for these to provide the option for something 
+ you would actually want to say.  
+
+           Pre-match team talks give limited and sometimes bizarre options.      
+
+  Derby matches 
+ are also the cause of another of the game's more inexplicable errors. Playing as Chelsea, it's 
+ disconcerting to receive a notice from your board telling you of its disappointment at your recent 
+ loss to "derby rivals Manchester United." These niggling problems aren't limited to match days 
+ and their immediate aftermath either. The messaging system through which the game passes you news 
+ and updates on everything from transfer speculation to injury news is clunky -- even if you're in 
+ your inbox, you need to manually scroll up to read new messages. There's also no way to mark messages 
+ as read without reading the contents, meaning you have to open irrelevant items.  
+
+  As well as being annoyed by the mode of delivery, you may take issue with the contents. Your physiotherapists 
+ may send generic messages, appending the word "injury" to the end of every condition after every 
+ single match even when this is completely unnecessary. Or you may receive messages informing you 
+ of stories in the press about you or your players that you can't respond to, which all adds up 
+ to an unsatisfactory experience.  
+
+  The sound has taken a step back from last year. The few aural confirmations from the interface 
+ have been removed, as have the half- and full-time whistles on match days. The latter change certainly 
+ makes for a much less engaging experience, as it becomes hard to tell straight off when play has 
+ actually stopped.  
+
+  One of Championship Manager's major selling points for more hardcore fans should be the integration 
+ of ProZone analysis tools, which also represent one of the game's only major pieces of external 
+ branding, but even this doesn't really work in the way one would hope.  
+
+  ProZone is a tool used by professional football coaches and managers to gain tactical insight by 
+ looking at play patterns, groups of events -- such as set pieces -- or player data and comparing them 
+ over the course of one match or several. The full tool is said to be used by many Premiership clubs 
+ as an aid for finding and solving problems on the field that might not be immediately apparent. 
+
+           The match engine does at least afford you a clear view of what's going on.      
+
+  
+ After each match, you are provided with the ProZone tool's key points, which can then be gone into 
+ in more depth, but these condensed highlights are often unhelpful and seem to contradict the match 
+ experience. It is not uncommon, for example, to be told that your opponents defended well, were 
+ hard to break down, and hardly let anything through all afternoon when you've just beaten them 
+ by a three or four goal margin. If you go deeper into the tool, you can analyse every single play 
+ during the match to try to eke out a little bit more performance from your team, but the game rarely 
+ becomes challenging enough for that to be necessary or rewarding.  
+
+  Ultimately, Championship Manager doesn't seem to be sure who it's meant for, which is its problem. 
+ The difficulty level and interface changes suggest it's aimed at the more casual player, but the 
+ lack of licences, music, graphics, or decent contextual help system mean that it's likely to put 
+ off all but serious fans of the genre. This lack of identity, combined with the in-game errors, 
+ mean that once again Championship Manager is hard to recommend to all but the most fervent fans 
+ of the series. While the game is playable and may provide a couple of seasons' worth of fun for 
+ those who can overlook the above issues, Football Manager does a better job for anyone interested 
+ in serious management games, while FIFA Manager may suit those with a more casual interest.    
+ 
+-------------------------------------------------
+:::User Reviews::: (10 Reviews)
+::::::
+UserName: bg4ever
+Rating: 6
+Date: Jan 4, 2009 8:28 am PT
+Review:  Often, the rise and fall of game franchises can be equated with the fluctuating fortunes of footballing 
+ empires. Just like Liverpool were once kings of English football, there was a time when Championship 
+ Manager was the dominant force of strategic sports games. Things have changed for both in recent 
+ years, the pendulum swinging in the direction of their better equipped rivals, leaving these former 
+ leviathans scrabbling for the minor places.
+  Since Sports Interactive took all but Championship Manager's name when it defected from Eidos to 
+ Sega, creating the now utterly dominant Football Manager series in the process, the CM games have 
+ been attempting the impossible - to catch up on over a decade's worth of development time. Beautiful 
+ Game Studios has certainly had its work cut out yet, after a shaky start, the series has been making 
+ steady year-on-year progress, with Championship Manager 2008 proving to be no exception.
+  
+  Instantly evident is how much effort has been put into improving the match day experience, with 
+ a collection of helpful features making the game more accessible. A quality overlay displays the 
+ fitness and confidence levels of your players during matches, providing a visual prompt when individuals 
+ begin to flag or drop their heads. This overlay also provides constant updates as to how your opponent 
+ is tweaking their formation and tactics, which is particularly helpful when watching a match in 
+ highlights mode rather than in real-time.
+  It's simple yet helpful additions such as this that are indicative of the game, with levels of 
+ player feedback and information more readily available throughout, including a collection of excellent 
+ pop-up pointers that provide a wealth of at-your-fingertips information. CM2008 is also effortlessly 
+ navigable, with essential shortcuts ensuring that you can spend minimal time searching for the 
+ correct screen and maximum time chasing new recruits and honing the skills of your squad.
+  
+  While training is perhaps a touch simplistic, transfer negotiations have been bolstered, displaying 
+ greater flexibility and improved negotiation features that see you haggling over the finer points 
+ of payments and contracts. If you opt to use the Club Benefactor feature, you'll have oodles of 
+ money to spend in the transfer market which, despite its increased depth, still allows for some 
+ unrealistic yet satisfying player purchases 
+::::::
+
+::::::
+UserName: fandom888
+Rating: 6.5
+Date: Sep 13, 2008 10:16 am PT
+Review:  Championship Manager kicks off the 07-08 soccer season, this time lacking completely the sense 
+ of a soccer management game.
+  
+  ProZone analysis remains for a second year in the game, making it easier for you to set up your 
+ tactics depending on the opponent's lineup. But another problem which remains in the game for years 
+ is the limit of the moves you cand do while playing a match in order to turn the tide of the game 
+ or change your style of play.
+  
+  The game offers a clear play engine, so you can see what is going on in the stadium.
+  
+  Finally, 
+ the AI of the game is not that good, as the messages you get are the same all-time, while the sound 
+ of the game is really dissapointing.
+  
+  CM 2008 is hard to recommend, and I personally would prefer FIFA Manager or Football Manager, while 
+ these two games are for novice players who have just started playing. 
+::::::
+
+::::::
+UserName: king-geoffrey
+Rating: 9
+Date: Sep 9, 2008 5:35 am PT
+Review:  People should really know what makes a soccer manager game good or bad .
+  I found the 2007 version a total let-down.
+  I expected much more but only got a half broken game.
+ 
+  In this version however, they really made things work.
+  The most important aspect of a soccer sim should be if you have a tactic like 4-3-3 with wingers.
+ 
+  You would like to see the wingers outside get past there man and cross to your tall striker .
+ 
+  They really made this work.
+  Second what a expect of a soccer manager game is that you can transfer players in a good way.
+ 
+  And again this works perfectly.
+  So with two of the most important aspects right we get to the 3th part of manager gaming.
+  That 
+ is do you see improvement in your team/club.
+  And again yes.
+  If you win a lot of matches, the board will give you the right amount of money so you can improve 
+ get better players etc.
+  If you got a good scout and set him on a journey to some country he will get the best talented 
+ players for your squad and you will see that 16 year old players improve in no-time and you can 
+ use them for your first squad.
+  Im from The Netherlands and my favourite club is Feyenoord.
+  I am at my 6th season already and 
+ highly addicted.
+  I won the champions league in 2009/2010.
+  I got 5 national championships on a row but still the game is very realistic.
+  One year after 
+ i lost in the group stage because i sold some important routine players.
+  I lost in the Champions league final two years after from Man. U after extra time.
+  (I don't like 
+ this game because i won a lot its just that if you do the right investments you will see improvement 
+ and that is most important.)
+  If you would compare this to Football Manager the only thing i can conclude is that this is a more 
+ casual manager sim.
+  You can start this and immediately start playing.
+  I played a lot of manager sims in my life and i have to say the score of 6.0 is not correct .
+ 
+  Just try this game you will see that its great. 
+::::::
+
+::::::
+UserName: loki_rj
+Rating: 8.5
+Date: Aug 24, 2008 5:49 pm PT
+Review:  I can't tell how many times I've heard 'Oh, this isn't Football Manager' (aka World Soccer Manager) . 
+ Of course it isn't, it's not supposed to be. People tend to look at this game with FM in mind, 
+ and how shallow this game is compared to Sports Interactive's big seller.
+  
+  Get some things on your minds: It is shallow compared to FM. It is 'lightweight' compared to FM. 
+ It's graphs are poor compared to FM, it's sound and lack of depth as well, are not even close to 
+ FM.
+  
+  I play both.
+  
+  What's the problem with it? My laptop won't run FM, so when I'm out of town I can settle for a 
+ quick CM game. In fact, how many times have we sat down in front of a computer for a 'quick FM 
+ game'? The loading time alone makes it a burden.
+  
+  Championship Manager offers a quick dosage of Manager simulations. You play, develop youth, buy 
+ ready-made formulas (who doesn't buy Jorda, or doesn't offer a new contract to Bojan at the beggining 
+ of the game?) . You can do your own formations, you can make your team excellent with little money.
+ 
+  
+  There's nothing wrong with that.
+  
+  For heaven's sake, people, stop being so attached to how unbeliavably realistic FM is, this isn't 
+ FM.
+  
+  Stop reviewing both games, look into this one alone. It's a game for quick, easy-access fun, that 
+ will deliver enough satisfaction to make sure you return for a new 'fix'. It doesn't even come 
+ close to being a simulation of the works of a Manager, but you're pretty way off if you think FM 
+ does.
+  
+  I can buy McGeady, I can tell Eboue to f* off my Arsenal squad, I can nail Chelsea 4-0 at the Bridge 
+ and I can win the league.
+  
+  I call that satisfaction. It isn't enough for you? Fine, go play FM. It's pretty fun as well. But 
+ this is Championship Manager, a series that remains in my heart for being the first Manager simulation 
+ I've ever played. I led Vasco da Gama (my team here in Brazil) to the national title. It didn't 
+ evolve significantly since then. Calling it terrible?
+  
+  I call it old-fashioned fun. 
+::::::
+
+::::::
+UserName: razzabazza
+Rating: 9
+Date: Jul 22, 2008 11:21 am PT
+Review:  Contary to what other users believe, this manager game is phenomenal in what it can give a player. 
+ In no way is it too hard, and it is only too easy if all you try to attempt to do is take the world 
+ by storm and win every single match as a five-star team. To do this as a team you have raised through 
+ the lower leagues instead gives you not only a greater sense of achievement, but you feel you have 
+ seen why the game was actually created in the first place. The only fault is the lack of staffing, 
+ particularly scouts and assistabt managers to train with to build squad morale, skill, fitness, 
+ chemistry etc, when you manage an international team; as they play a huge role in finding decent 
+ players with a club team, it is considerably harder to recruit players to play for their country. 
+ In all though, just the sheer size of the game will envelop you into the world of a football manager. 
+ 
+::::::
+
+::::::
+UserName: Jimmygee123
+Rating: 1
+Date: Jun 29, 2008 6:32 am PT
+Review:  Yet again eidos or whoever is behind this pile of drivel manages to put another slice of plop on 
+ my plate. Why oh why do they do this to me. They put you in a position where you need a degree 
+ in physics to work out how to win. I understand they want you to build up your rep by taking on 
+ lower clubs but surely as the player i should be given the option to play as my favourite club 
+ and get some decent enjoyment out of it. No yet again all the desicions are taken out of my hands 
+ and im forced to play as bumfluff F. C.
+  
+  So I spend about an hour setting my team up, making sure every man knows what they are doing. Does 
+ it go to plan? Does it f***!! the player seemed more content putting it out for a throw in or letting 
+ the opposition run past them. (I played as liverpool) I will never again play another championship 
+ manager game. I should be allowed to play whomever I wish without the fear of getting thrashed 
+ 5-0 by every team in the league because" I'm not experienced enough" Games are games and should 
+ be treated as much. I'm not a sore loser either, I can take my losses and my wins. But not one 
+ loss after another. They should have named it throw in manager. Do yourselves a favour and steer 
+ clear of this one. 
+::::::
+
+::::::
+UserName: I-am-Sephiroth
+Rating: 6
+Date: Feb 19, 2008 3:39 am PT
+Review:  First of all let me say that this game has got many of the crucial things right. The database of 
+ players is enourmous and the majority of the skills associated bith the players are accurate. Whatsmore 
+ the information about the players is accurate and the game has a good match engine. The menus are 
+ easy to use, the transfer procedure is realistic and the fincancial/scouting/training aspects to 
+ make you feel like a real manager are all there.
+  
+  However, it lacks any kind of sounds element which (when 70 hours in) is sorely missed. There is 
+ little or nothing to offer you in the way of graphics either. There is little or no control during 
+ a match, you can change formation/tactics etc at half time but you do feel a little useless, and 
+ feel you should have more matchday input.
+  
+  There seems to also be a strange habit of rediculous scorelines coming up, so far this season i 
+ have won 6-4, lost 2-6 and drawn a game 5-5!
+  
+  Overall this is a nice game for the football purist with all the appropriate material needed, however 
+ after a few seasons it becomes very repetitive and dull and you find yourself less interested.
+ 
+  
+  Football Manager 08 and FIFA Manager 08 offer more 
+::::::
+
+::::::
+UserName: tieio
+Rating: 6
+Date: Dec 23, 2007 4:48 am PT
+Review:  This game has its own good qualities, let's not get it wrong, there is much to like about this 
+ game, too bad all the best features are also found in the counterpart game FM 08 and then some.
+ 
+  
+  With a real lack of ability to tell if players are ready to be promoted it made playing deep into 
+ the game hard when fictional players start to come into the picture. Any person who knows little 
+ about football will ultimately find this game to be too difficult to manage successfully, but this 
+ is just one opinion.
+  
+  The speed of the game is good and this is the one thing it has really improved upon over previous 
+ versions but it leaves so much to be desired, the things that can be found in FM 08.
+  
+  I always like to play both and this is the first season that the gap between the games has been 
+ as large as it is, again, opinion. 
+::::::
+
+::::::
+UserName: minimacca
+Rating: 8.5
+Date: Nov 30, 2007 11:12 am PT
+Review:  The game and game play itself is really amazing it just seems to keep getting better every year. 
+ you can mould players and teach them to play in new positions which is really useful when some 
+ of your key players are injured! the match engine is great and the prozone analysis is remarkable! 
+ for gameplay i would give it at least 9 out of 10. unfortunately the data lets the game down. there 
+ are more and more made up players each year. some players are extremely over rated. some staff 
+ are retired and one has been dead for a couple of years!!!!! the most dissapointing thing for me, 
+ is that it doesn't have David Beckham or LA Galaxy. (either that or i am clearly blind)
+  
+  overall great game. realistic matches, bad data. 
+::::::
+
+::::::
+UserName: wee_ged_2005
+Rating: 10
+Date: Nov 15, 2007 11:14 am PT
+Review:  Anyone that tells you any of the CM series is a bad game dont know anything about football managment 
+ I think BGSResearch and Eidos done really well this year on the knew game it is of the highest 
+ qaulity managment game in the world at this moment in time in my opinion I would trade FM for this 
+ anyday and I bet whoever read this and actually takes it in will too.
+  
+  This is certainly of a high calibre the only doubt I have is the Graphics to be honest it is the 
+ only bad aspect of the game and anyway who needs Graphics when your having fun ? Nobody.
+  
+  I still would give it a 10 if it weren't for the darn graphics but sadly it will have to take an 
+ 8.5 : (
+  
+  EDIT:
+  I have decided that it will not take an 8.5 and will take a 10 as it deserves the 10 and let me 
+ see this owns compared to FM so it should take a 10. :) 
+::::::
+
+-------------------------------------------------

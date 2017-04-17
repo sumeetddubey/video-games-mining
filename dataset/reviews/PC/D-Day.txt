@@ -1,0 +1,165 @@
+-------------------------------------------------
+:::Game Name::: D-Day
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/dday/review.html
+-------------------------------------------------
+:::The Good:::
+ Lots of unit types.
+ Interviews with D-Day vets.
+ Evocative original music.
+-------------------------------------------------
+:::The Bad:::
+ Micromanagement hell.
+ Severe AI and pathfinding problems.
+ Tedious, uninspired missions.
+ Some distractingly bad voiceovers.
+-------------------------------------------------
+:::Date::: Jan 18, 2005
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 4.3
+Critic Score: 5.9, 19 Review (s)
+User Score: 6.3, 209 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: O3 Entertainment
+Developer: Digital Reality
+Genre: Historic Real-Time...
+Date:     Dec 7, 2004
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+At best, D-Day offers up a tepid serving of cookie-cutter RTS gameplay. At worst, it makes you descend 
+ into micromanagement hell. 
+
+  The Normandie Mmoire committee has designated Digital Reality's D-Day as the official commemorative 
+ game of the D-Day 60th anniversary. The men who gave their lives for freedom deserve a far better 
+ memorial than this lame real-time strategy game. There are already plenty of World War II RTS games 
+ out there, so if you're going to release one, you need to do something special to set yours apart 
+ from the rest. D-Day sets itself apart all right... by doing things especially badly. At best, D-Day 
+ offers up a tepid serving of cookie-cutter RTS gameplay. At worst, it makes you descend into micromanagement 
+ hell.  
+
+          Can you tell these guys apart at a glance? Even with a closer look, it can be hard.    
+
+  On first inspection, D-Day looks like it has the makings of a cool, tactical WWII RTS that eschews 
+ base-building and resource-gathering for the nuts and bolts of combat. You'll field nine types 
+ of infantry, like snipers, sappers, medics, and machine gunners. You'll head into battle with self-propelled 
+ guns, flamethrower tanks, recon motorcycles, artillery pieces that you can haul with trucks, and 
+ more. You can even commandeer enemy vehicles and guns. Armored units are rated for front, rear, 
+ and side armor, and they feature different stats for main and secondary guns. An onscreen encyclopedia 
+ fills you in on the historical units and their game counterparts. You can also read historical 
+ backgrounds on the missions and watch short videos that feature D-Day veterans.  
+
+  D-Day also offers the basic amenities you'd expect from any good RTS. You can pan, tilt, and rotate 
+ the camera entirely with the mouse, so no fumbling with the keyboard is required. You can choose 
+ from a variety of game speeds, and you can issue orders while the game is paused. You can quickly 
+ select unit movements and combat stances, like "hold position" or "fire at will."  
+
+  That's all good on paper, but once you start playing D-Day, the ugly reality starts to sink in. 
+ The tutorial gets things off to a pitiful start. Instead of actually showing you how the interface 
+ and commands work, the tutorial merely tells you how they work via a voice-over, where sections 
+ of the manual are read as you sit there and twiddle your thumbs. Why aren't the interface buttons 
+ and combat options highlighted and interactively illustrated as they're being discussed?  
+
+  As for the actual meat of the game, it's undercooked and hard to swallow. You only get 12 single-player 
+ missions and no skirmish mode or random map options (though you do get a user-unfriendly map-editor 
+ utility) . At best, the missions are predictable, repetitive, and tedious. At worst, they're unbalanced 
+ and unclear. Multiplayer offers three basic modes: deathmatch, conquer (that is, seize territory) , 
+ and capture the flag. Good luck finding opponents, though. We never could.  
+
+  Abysmal artificial intelligence can make playing against the computer a nightmare. The German troops 
+ were apparently trained in WWII Japan, because these kamikaze soldiers will merrily stroll directly 
+ toward a row of tanks that will fire upon them. In fact, mass suicide is the German troops' favorite 
+ tactic. Meanwhile, your troops are happy to stand around, while doing nothing, just before letting 
+ themselves be butchered. Your units have a hard time following orders, so you have to hand-hold 
+ them while repeatedly reissuing commands. Severe pathfinding problems mean that just getting a 
+ few units down the road can be a real chore. Consequently, major traffic jams are common on the 
+ dense maps. Historical accuracy gets thrown out the window, too, so instead of armor units having 
+ dedicated crews trained for the job, you crew your tanks with whatever infantry you have handy. 
+ This leads to disconcerting oddities, like clicking on a Sherman tank and hearing, "Rifleman at 
+ your service, sir."  
+
+  D-Day's interface makes things worse. It can require too many button presses to carry out simple 
+ operations. Why, for example, do you need to press a couple of buttons before you can make a flak 
+ gun fire at ground targets? Worse still, it's nearly impossible to tell the different soldier types 
+ apart without careful examination. What on Earth is the point of having medics, scouts, and so 
+ on if you can barely tell them apart, even when zoomed all the way in on the action? Why not include 
+ some large, clear icons to differentiate them? Instead of encouraging sophisticated tactics based 
+ on different unit abilities, D-Day encourages you to throw up your hands in despair while resorting 
+ to the old "band-box 'em and chuck 'em into the meat grinder" technique.  
+
+          Bold GIs defend Carentan from rooftops.     
+
+  Outside of the severe problem with the 
+ confusing soldiers, Digital Reality's graphical efforts are pleasant, if not particularly memorable. 
+ Models are admirably well detailed, and colorful textures abound, though in the end, there's nothing 
+ really inspiring to see. The game boasts an evocative musical score, with a rousing main theme, 
+ but beyond that, the audio can be as bad as the game mechanics. Some voice-over accents are dubious, 
+ repeated shouts of "Die, Krauts!" or similar cornball lines get old fast, and the cries of dying 
+ men are so campy that they invite laughter instead of concern.  
+
+  If you're looking for a real-time WWII game, you can safely (and wisely) pass on D-Day. You'd do 
+ better with Blitzkrieg series or Codename: Panzers, for example. Or try the hybrid turn-based/real-time 
+ Combat Mission series. D-Day, by contrast, is a victory for bad game design.     
+-------------------------------------------------
+:::User Reviews::: (3 Reviews)
+::::::
+UserName: GWListon
+Rating: 7.3
+Date: Jan 15, 2007 7:26 pm PT
+Review:  D-Day isn't quite the ideal RTS, but it beats the stuffing out of just about anything else on the 
+ shelves.
+  
+  Too many of today's 'simulations' are simply FPSs in an RTS setting. D-Day has challenging gameplay 
+ supported by a database that is well-researched and well-executed. Yeah, it's easy to lose. But 
+ it's not hard to learn how to play the game well.
+  
+  The graphics are not quite up to snuff, especially in the cut scenes between the briefings. Using 
+ old footage is neat, but there's a distinct choppiness to the playback. Any my PC is not slouch. 
+ Oh well.
+  
+  What would make it better? A more intuitive interface, so you don't need to click five times just 
+ to have some engineer lay a mine. That's certainly not a critical flaw, given the ability to issue 
+ commands while paused. 
+::::::
+
+::::::
+UserName: darkomen3148
+Rating: 3.3
+Date: Jan 29, 2006 3:55 pm PT
+Review:  I am serious here, this game will make you cry. 
+  
+  This game needlessly complicates things, difficult in a sense where you can't get any better, requires 
+ too much micro-management, and simply sucks. The graphics and sounds are good, but that's not what 
+ makes a good game.
+  
+  It is a traditional strategy game, but they did a great job making it a strategy game where the 
+ player cannot deploy any type of strategy.
+  
+  I'm sure glad those poor boys at normandy didn't have to worry about micromanaging 20 different 
+ classes at once which you can't even FRICKIN SEE!
+  
+  Save your money and get a much better WWII game like Soldiers: Heroes of World War 2, or their 
+ upcoming sequel, Faces of War.
+  
+  
+  
+::::::
+
+::::::
+UserName: MrBiohazard
+Rating: 5.7
+Date: Oct 11, 2004 4:03 pm PT
+Review:  Yes, the demos looked good. Yes, the graphics aren't too shabby and yes it's a little different 
+ to all the other WWII RTS games... but... I just don't like it.
+  
+  The overhead view is not nice at all. Even the first level of the Scenario based games had me annoyed 
+ with selecting men, moving men, getting shot at by the enemy who can see me but I can't see them... 
+ I had no tanks either (maybe I've been playing Codename Panzers too long) .
+  
+  Anyway, see for yourselves what you think but I'd save your hard earned cash for Half Life 2. 
+::::::
+
+-------------------------------------------------

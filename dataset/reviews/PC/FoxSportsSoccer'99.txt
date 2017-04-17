@@ -1,0 +1,101 @@
+-------------------------------------------------
+:::Game Name::: Fox Sports Soccer '99
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sports/foxsportssoccer99/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jul 24, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 4.2
+Critic Score: 5.9, 10 Review (s)
+User Score: 5.1, 6 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Fox Interactive
+Developer: Gremlin Int.
+Genre: Soccer Sim
+Date:     May 31, 1998
+
+-------------------------------------------------
+:::Review:::
+Even with its numerous problems, Soccer '99 has one flaw that stands above therest: gameplay.
+
+ If Fox Sports Soccer '99 had solid gameplay, stellar graphics, or ultrarealistic AI, I'd be tempted 
+ to say that it could compete with EA Sports' World Cup 98 (or FIFA: Road to World Cup 98) on some 
+ level. Unfortunately for Fox Sports and developer Gremlin Interactive, this game has none of these 
+ features.  
+
+ Fox Sports Soccer '99 offers a decent array of gameplay options, with friendly, season (national 
+ or international) , cup tournament, and practice modes. Unfortunately, the game does not carry the 
+ endorsement of FIFA, so none of the 128 teams (64 national, 64 league) carries real names on its 
+ roster. Soccer '99 does provide a healthy set of multiplayer options, including a dedicated-server 
+ mode that allows up to eight players to connect over the Internet to a match running on your machine. 
+ You can also play without a dedicated server over TCP/IP, IPX, serial, and modem connections. The 
+ game also offers an interesting scenario mode that challenges you to overcome a specific game situation, 
+ such as Scotland trailing Spain by one goal with 20 minutes left to play. A novel idea, but not 
+ one that is likely to get you hooked on this game.  
+
+ If the world had not yet seen the luscious visuals of EA Sports' World Cup 98, the 3D graphics in 
+ Soccer '99 might be pretty impressive. As it stands, however, this game's graphics engine can compete 
+ only with Sega's Worldwide Soccer (and the winner in that contest is by no means certain) . To be 
+ sure, the game is pretty accurate with regard to national uniforms. Teams with unique jerseys, 
+ like Argentina, Romania, South Africa, and Croatia, are very well represented. The player models 
+ are also decent, but not nearly as impressive or well animated as the ones used by World Cup 98. 
+ Goalie animations are particularly disappointing, as the keeper just crumples slowly to the ground 
+ on almost every save. Soccer '99 does have some nice terrain and weather effects, including skid 
+ marks on the field after a slide tackle and some good snow effects - which come complete with disappearing 
+ footprints behind each player. Soccer '99 seems to throw the snow effect in your face a bit too 
+ often, however, as I often played several snowbound tournament games in a row.  
+
+ Even with its numerous problems, Soccer '99 has one flaw that stands above the rest: gameplay. For 
+ starters, the game moves so quickly in 3Dfx mode that it almost looks comical. In Direct3D mode, 
+ the game slows down quite a bit and looks jerky on all but the most conservative of resolutions 
+ (the game will run in Direct3D mode at up to 1280x1024) . The AI is decent but nothing to shout 
+ about. In fact, once you get the hang of the game's controls, you should regularly beat the snot 
+ out of your opponents on the easiest level. Moving up to the next level of difficulty brings about 
+ a very odd phenomenon, however. Playing at the "semi-pro" level, I noticed that my players no longer 
+ aimed for the goal on every shot. Instead, they kicked the ball really hard in whatever direction 
+ they were facing. This means that you have to point your player's body at the exact spot you want 
+ to hit with your shot. While some might say this is more realistic, it makes it nearly impossible 
+ to run one way and shoot back in the opposite direction (which is common enough) . Also, it is now 
+ a fairly established norm in games of this sort for the computer to assume you want to hit the 
+ goal with your shot - where you aim the joystick, then, typically determines the part of the goal 
+ you want to hit.  
+
+ Although it did take me a little while to master the game's controls, this had more to do with my 
+ extreme familiarity with World Cup 98 than any complexity on the part of Fox Sports Soccer '99. 
+ In fact, the game only offers four gamepad control options: pass, shoot, speed burst, and long 
+ kick/slide tackle (which alternates depending on whether or not you have the ball) . There are other 
+ controls, such as one-touch strikes, through passes, and chip shots, but the only reference to 
+ these in the manual states that you have to use the keyboard to implement them.  
+
+ Free kicks, corners, and other set plays are anything but intuitive, as there doesn't seem to be 
+ any way to really dictate what your players will do in these situations. You can aim your kick 
+ at a particular player or spot, but then it all seems to come down to a mad smashing of buttons 
+ as you hope for someone on your team to get a head or foot on the ball.  
+
+ My biggest complaint about the gameplay is the fact that the computer determines which player you 
+ control during the course of a game. Control appears to switch to the player closest to the ball, 
+ but the switch is often made just as you're moving one player into position for a tackle. These 
+ sudden switches often result in the new player moving in the direction you were trying to make 
+ the original guy run. This can result in a lot of breakaways against you as your defenders part 
+ like the Red Sea while you try to figure out which guy you're controlling.  
+
+ The play-by-play is just plain bad. Not only are the comments repetitive and inane, but the announcer 
+ often mumbles his words, making it very difficult to understand what the hell he's talking about. 
+ The computer-versus-computer results of cup tournaments seem to be completely randomized, as teams 
+ like Israel, South Africa, Northern Ireland, and even the United States frequently survive into 
+ the third and fourth round (often bumping off the likes of Germany, Argentina, and England) . Finally, 
+ the team management options are decent, but not nearly as configurable as those in World Cup 98. 
+
+ Simply put: If you want a truly enjoyable, visually impressive soccer game, buy World Cup 98 and 
+ stay away from Fox Sports Soccer '99.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

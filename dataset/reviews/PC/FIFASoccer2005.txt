@@ -1,0 +1,965 @@
+-------------------------------------------------
+:::Game Name::: FIFA Soccer 2005
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sports/fifasoccer2005/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct 29, 2004
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.9
+Critic Score: 7.9, 16 Review (s)
+User Score: 8.2, 1,231 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: EA Sports
+Developer: EA Canada
+Genre: Soccer Sim
+Date:     Oct 12, 2004
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+This is EA Sports' best soccer game to date on the pitch, but it's really unfortunate that the career 
+ mode isn't more user-friendly. "-//W3C//DTD HTML 4.01//EN"  
+       FIFA Soccer 2005 Review for PC - GameSpot                                   function do_rbx_ctrk_netxp1 
+ (aElem, iTrkId, cTrkPrefix) { var imgElem =                    After The Fact:  Reviews Revisited 
+        What's this?               Update:  Servers Offline    Posted: Nov 5, 2008 4:31 pm PT   
+    Toward the end of 2006, the online service for this game was shut down by EA. &nbsp;        
+        
+
+  In the world of soccer games, there are really only two serious contenders for the championship 
+ title at this point: Konami's Winning Eleven games (Pro Evolution Soccer in Europe) and EA Sports' 
+ FIFA Soccer series. Like rival soccer teams eager to show off their newly acquired players at the 
+ start of a new season, these two series show up with a host of new features every 12 months in 
+ the hope that each will finally score a convincing victory over the other. Traditionally, Konami's 
+ offerings have boasted more-realistic gameplay but have faltered in the areas concerned with presentation, 
+ specifically due to the lack of licensed team and player names. EA Sports' offerings, on the other 
+ hand, have generally felt a little more arcadelike than realistic, but the games have always looked 
+ extremely sharp, and they let you take control of real teams comprising real players that wear 
+ real uniforms. The line separating the two series has become increasingly blurred in recent years, 
+ and this year is no exception, as both games are still seemingly seeking to emulate the other's 
+ strengths. But to set aside the competition for a moment, FIFA Soccer 2005 is definitely the best 
+ FIFA game to date.  
+
+          This year's biggest improvement is the introduction of first-touch controls.     
+
+  
+ Every year, EA Sports makes a point of improving one key aspect of its soccer games. FIFA Soccer 
+ 2004 focused on off-the-ball player movement, for example. FIFA Soccer 2005 retains all the off-the-ball 
+ functionality of last year's offering and adds convincing ball physics (the ball doesn't stick 
+ to players' feet anymore) and some excellent first-touch gameplay mechanics to the mix. The ability 
+ to determine how your players control the ball at the exact moment it reaches them might not sound 
+ like a big deal, but its ramifications are extraordinary, because playing realistic passing-style 
+ soccer is now more feasible and satisfying. As a result, skilled strikers can create scoring opportunities 
+ out of thin air by embarrassing their markers with a single touch. Furthermore, the satisfaction 
+ you'll get from humiliating an opponent with just one tap of the right analog stick (we  really 
+  don't recommend trying to play with the keyboard, because, oddly, the shift key is used to toggle 
+ the arrow keys between left and right analog stick functions) is almost akin to scoring a goal 
+ against him or her.  
+
+  Like the on-the-ball skill moves that allow you to beat opponents when you're en route to their 
+ goalmouths with the ball in your possession, first-touch controls are all performed by tapping 
+ the right analog stick in the direction that you'd like your player to take the ball. The actual 
+ animation that transpires when the ball arrives at your player's feet (as well as whether or not 
+ the move succeeds) is determined by the player's position in relation to the ball, as well as his 
+ skill level. Some players are able to flick the ball over their heads, while some can turn defenders 
+ without even thinking about it or without ever letting the ball move more than a few inches from 
+ their bodies. Others will struggle to perform even simple turns without letting the ball stray 
+ far enough away from them so that opponents have a shot at stealing it. Also, like the on-the-ball 
+ moves, EA Sports has gotten the balancing of the first-touch controls nigh perfect. They're effective 
+ enough that you'll want to use them all the time, but the odds of your fancy footwork failing you 
+ are also significant enough that you'll still have to work pretty hard to create scoring opportunities 
+ for your team. There will be occasions, of course, when you're able to run a single player through 
+ your opponent's entire midfield and defense en route to a spectacular goal, but these moments of 
+ individual genius are few and far between -- just as they are in real life.  
+
+          Passing the ball around is invariably the best way to play.     
+
+  For the most part, 
+ the only way you'll be able to beat opponents of similar ability in FIFA Soccer 2005 is to pass 
+ the ball around and successfully pick out players that are making good runs off the ball. If you've 
+ played FIFA Soccer 2004, you'll know that many of the best runs made by your players are going 
+ to be those that you trigger yourself. Sending other players on runs is as easy as tapping a single 
+ button while you're in possession of the ball, and the system is as effective at beating defenders 
+ as it is easy to employ. If you prefer to play an even more active role in the movement of your 
+ players, you can actually assume control of a second player using the right analog stick. It's 
+ not a system that we've ever really felt the need to use a great deal (and our online opponents 
+ have invariably had the same attitude) , but it can certainly make it easier to pick out your strikers 
+ with crosses into the box -- provided you can retain possession of the ball while you're using the 
+ right analog stick for your second player rather than using it to perform tricks and turns with 
+ your first. While we're on the subject of controlling additional players, it's also worth mentioning 
+ that the goalkeepers in FIFA Soccer 2005 are often very slow to come off their lines, which, since 
+ you can make them charge at the ball manually, is definitely a good thing. There are few things 
+ more frustrating in a soccer game than conceding a goal because your overly active CPU keeper was 
+ on a walkabout.  
+
+  The other surprisingly significant improvement made to FIFA's gameplay this year concerns throw-ins, 
+ which in many previous soccer titles, including FIFA 2004, have made it far more difficult for 
+ the team awarded the throw to retain possession of the ball. EA Sports has effectively resolved 
+ the problem by allowing you to use the same off-the-ball controls during throw-ins that you can 
+ when in open play. When you're awarded a throw, you'll be able to control any of three players, 
+ and you can move them around however you see fit while your opponent attempts to mark you with 
+ three of his players. The system is different from the jostling mechanic that has you battling 
+ for position before corner kicks (there's still no way to play short corners, incidentally) , but 
+ it feels quite similar, and it affords you the opportunity to come up with some creative ways of 
+ gaining advantages during the game's various corner set pieces.     "-//W3C//DTD HTML 4.01//EN" 
+        FIFA Soccer 2005 Review for PC - Page 2 - GameSpot 
+                                   function do_rbx_ctrk_netxp1 (aElem, iTrkId, cTrkPrefix) { var 
+ imgElem =  if (! imgElem) { return true; } if (! aElem. rbxCPrefixed) 
+ { aElem. rbxCPrefixed = true; var destUri =  var newUri = cTrkPrefix 
+ + destUri; aElem. href = newUri; } return true; } function do_rbx_itrk_netxp1 (parentId, iTrkId, 
+ iTrkUri) { if (! document. images) { return false; } var imgId = iTrkId; var imgElem =  
+ if (! imgElem) { var parentElem =  if (! parentElem) { return false; 
+ } var imgElem = document. createElement ('img') ; if (! imgElem) { return false; } imgElem. id = imgId; 
+ imgElem. src = iTrkUri; imgElem. alt = ''; imgElem. width = '1'; imgElem. height = '1';  
+ } return true; }   ON   MovieTome :  How bad was STREET FIGHTER?    //               GAMES:    
+  GameSpot     GameFAQs     MUSIC:     Last. fm     MP3. com     MOVIES:     Metacritic     Movietome 
+     TV:     TV. com                    GameSpot. com                Search                       
+         BioShock 2 Exclusive First Look:  We head back to Rapture with...               Spore Galactic 
+ Adventures Q&amp; A:  Lead Producer Kip...               Starcraft II: Wings of Liberty Battle Report: 
+  Its Zerg...               Mafia II Impressions:  The sequel to the cult-classic 2002... 
+                    home        PC      Xbox 360      Wii      PS3      PS2      PSP      DS    
+     community      forums      videos      cheats      features      downloads      sports     
+  tech      news            Reviews     Previews     Cheats     Answers     New Releases     Top 
+ Games     All PC Games     Tech Center          Theme:   Light    Dark            Sign In    Create 
+ your account    Help    Forgot Password?                                       Add Game       Tag 
+       Print       Email       Facebook       Digg                              FIFA Soccer 2005 
+ Review          
+
+ This is EA Sports' best soccer game to date on the pitch, but it's really unfortunate that the career 
+ mode isn't more user-friendly.                     After The Fact:  Reviews Revisited        What's 
+ this?               Update:  Servers Offline    Posted: Nov 5, 2008 4:31 pm PT      Toward the 
+ end of 2006, the online service for this game was shut down by EA. &nbsp;               
+
+  As you'll no doubt have gathered from reading the previous information, FIFA Soccer 2005 plays 
+ an enjoyable and realistic game of soccer. The game isn't without its problems, though, and what's 
+ disappointing is that many of them really shouldn't have been difficult to avoid. The advantage 
+ rule (which Konami did a great job of implementing in Winning Eleven 7 International and has subsequently 
+ improved) , for example, does not exist in FIFA Soccer 2005. So if one of your players is fouled 
+ after releasing a pass that puts one of your strikers clean through on goal, there's a good chance 
+ that the play will be stopped before you unleash your shot so that you can take a free kick. Playing 
+ against CPU teams can also be a baffling experience on occasion, because no matter which of the 
+ four difficulty settings you've opted for, your opponents will often appear to pass the ball around 
+ just for the hell of it. There's nothing wrong with keeping the ball moving, of course, but when 
+ your defense is all but beaten and the opposing striker knocks the ball back to one of his colleagues, 
+ who is in a less than favorable position, rather than going one-on-one with the keeper, it just 
+ feels wrong.  
+
+          The career mode is far less user-friendly than it could have been.     
+
+  Perhaps the 
+ most disappointing feature of FIFA Soccer 2005 is its 15-season career mode. It's actually quite 
+ an engaging gameplay option, but every aspect of it has seemingly been designed with the impending 
+ arrival of Total Club Manager 2005 (which will feature "Football Fusion" compatibility with FIFA 
+ 2005, allowing you to enjoy the features of both games simultaneously) in mind. It's a terribly 
+ cynical thing to say, but the management aspect of FIFA 2005's career mode is so cumbersome and 
+ unnecessarily time-consuming that it's as much an advertisement for the upcoming management title 
+ as the billboards that appear in the game's stadiums. What are we basing this on? Here comes the 
+ list:  
+
+  1. When you start a career in FIFA Soccer 2005, you'll only be able to take control of certain 
+ teams, most of which play in their countries' lower divisions, and some of which you'll almost 
+ certainly not even have heard of. It's not necessarily a bad thing that the game forces you to 
+ start your career at the bottom of the pile and work your way up, but if your dream is to one day 
+ manage a glamorous team like Manchester United or Arsenal, the only way you'll realize it in FIFA 
+ 2005 is to first string together some successful seasons with another team and then wait for a 
+ job offer. Will this be the case with Total Club Manager 2005? Perhaps, but we doubt it very much. 
+
+  2. When you decide that you want to augment your team via the transfer market, FIFA Soccer 2005 
+ makes it about as difficult as possible for you to search its player database. If you have a specific 
+ player in mind, then it's not too difficult to locate him, provided he's still with the same team 
+ he plays for in real life. However, if you're simply interested in a  type  of player or one with 
+ certain abilities, then the only way for you to find that player is to check out the team rosters 
+ one at a time, click on that specific player's name, and then scroll through that player's attributes -- none 
+ of which can be done quickly.  
+
+          Free kicks at goal are an incredibly satisfying way to score.     
+
+  3. If and when 
+ you manage to find a player that you're interested in adding to your squad, you'll notice a figure 
+ next to his name that represents his value in career points. You earn career points by stringing 
+ together wins, keeping clean sheets, scoring goals, and basically playing well. To make an offer, 
+ you'll hit the negotiate button, at which point you'll have no opportunity whatsoever to participate 
+ in any kind of negotiation. You'll instead be presented with a screen that tells you whether or 
+ not you've succeeded in signing that player, in addition to a short explanation of the decision 
+ made. Should you be crazy enough to try and submit an offer for a player whose list price you can't 
+ quite afford -- perhaps thinking that the negotiate button will deliver on its promise -- you'll simply 
+ be told that you don't have enough points.  
+
+  Despite its numerous and significant flaws, the career mode in FIFA Soccer 2005 is still where 
+ you're likely to spend most of your time when you're playing the game solo. There's something very 
+ satisfying about taking charge of a team that's languishing in the lower divisions and turning 
+ its players into champions. There are also a few management features in the game that are far less 
+ painful than those listed above. Well, there's one, anyway. When you assume control of your team, 
+ you'll be handed 100 management points to spend on backroom staff. The people working under you 
+ include coaches that specialize in fitness, goalkeeping, defensive play, midfield play, and attacking 
+ play. There is also a finance department; there are scouts; and there's a medical staff. As you 
+ progress through the game, you'll be awarded additional management points to spend, and, as you 
+ spend them, you'll find that the benefits of having a good staff are actually quite significant. 
+ A good fitness coach, for example, will improve the recovery rates of your players in between matches, 
+ while good scouts will be able to give you additional information on any players that you're interested 
+ in signing. We should also mention that the career mode features an option that lets you simulate 
+ matches rather than play them, which gives you the opportunity to jump into the action if you feel 
+ it necessary to intervene at any point. The only reason we could imagine you wanting to make use 
+ of this, though, is if you were looking to get through your first season or two as quickly as possible 
+ in hopes of receiving a job offer from your favorite club.     
+-------------------------------------------------
+:::User Reviews::: (24 Reviews)
+::::::
+UserName: rohitmitra5752
+Rating: 3
+Date: Nov 21, 2008 12:11 am PT
+Review:  FIFA 2005 is good but only in certain parts.
+  
+  The graphics requirement of the game is awkwardly high for such a poor graphics result. The career 
+ mode is disappointingly un-user-friendly. The player details are repetitive. I mean I never knew 
+ that Peter Crouch looked like Andriey Shevchenko. The only interesting feature I found in the game 
+ was building a new player. Every little detail could be fixed, starting from position of the nose 
+ to the age. However, it becomes difficult to "configure" a player without proper rotational control. 
+ Also the stuffs are quite complicated for a normal gamer to be worrying about. The game in itself 
+ is quite boring and repetitive with the same moves and tactics used against you. After playing 
+ a bit any kid can beat the game 14-0 at the world class level. The penalty shootouts are absolutely 
+ horendous. In all the gameplay is ridiculously below standard. If you want a good game, check other 
+ games before thinking about this one. 
+::::::
+
+::::::
+UserName: fandom888
+Rating: 9
+Date: Mar 15, 2008 11:28 am PT
+Review:  This year the FIFA series is completed with the all-new FIFA Football 2005. This year's game is 
+ a great experience for everybody who would like to play a real soccer sim. Previous titles of FIFA 
+ have been very good, but this year EA sports is really outstanding. The gameplay is even better 
+ than in the past and the football fun and experience is improved with a very important feature: 
+ the first touch. It's a new way to control the ball even better and to pass perfectly in order 
+ to score. The creation of a new player has also improved and the leagues are two more than the 
+ 2004 version. It also seems that a new player reaction and growth is something that will interest 
+ us this year. However, the season mode is not such user-friendly as it could be. The managing years 
+ have changed from 5 to 15 and the visual sim is good asit is the player growth. Apart from the 
+ first touch control, the game on the field has improved. The off the ball-control continues to 
+ be right and some improvements are made with the free kicks.
+  
+  This is a game which will be remembered for a long time. I strongly recommend it! 
+::::::
+
+::::::
+UserName: adityafunda
+Rating: 8
+Date: Oct 20, 2007 10:22 am PT
+Review:  This has the best gameplay till now.
+  the player can dribble in lot more ways and the first touch control is superb.
+  besides, the 
+ number of leagues one can select from is vast.
+  also strategy making keeps improving.
+  The autoplay option has a great modification in that if you see your team losing, you intervene 
+ at the very moment and take charge in your hands.
+  But the game on other hand is having a very poorly thought career mode.
+  can you believe it, 
+ it's 15 years.
+  Also one always like to see the world cup option in a sports game.
+  FIFA2005 is having league action only.
+  despite these strategical drawbacks, it's superb gameplay 
+ is a treat for all football lovers. 
+::::::
+
+::::::
+UserName: farnerud
+Rating: 6.3
+Date: Aug 12, 2006 5:27 am PT
+Review:  FIFA Soccer 2005 shows significant improvements in relation with the 2004th version of the saga, 
+ but still does not justifies the preference for this game. A new interface, combined with a brand 
+ new season game mode, gives you the option to play longer with an objective goal: be the ultimate 
+ champion. For those of you who like to start a season with a big team, forget it! This game offers 
+ you a significant amount of clubs for you to take your fist steps in the management world, but 
+ it'll not give you big clubs for you to start with. For instance, if you are thinking to get into 
+ the Spanish Primera, be prepared to start with Real Zaragoa, or Getafe. Teams like Barcelona or 
+ Real Madrid are platforms only reachable by your own merit.
+  So, by this point of view, FIFA 05 turns out to be a short sighted soccer game, once it narrows 
+ your choices in how to play the game itself!
+  Once you start actually playing the game, you'll notice that the pitch is horrible! It gives the 
+ impression that someone tried to give it a realistic look, not to cosmetic, not to real, and the 
+ mix of this to potions came out as a failure! The pitch is somewhere on the middle of the stadium, 
+ that much you know, but is it that green thing that looks like your garden on a bad day ? Yes, 
+ it is!
+  The graphism is reasonable, but you'll find certain miss spots during the game that disappoints 
+ you in this area. For example, when you score a goal, the effect that the ball has on the net is 
+ not realistic at all, it seems like the net is made of steel!
+  Certain imperfections in the replays also doesn't contribute to the success of the game.
+  At 
+ the end, keep trying EA Sports, because this one is an offside! 
+::::::
+
+::::::
+UserName: coolman_2006
+Rating: 8.6
+Date: Jun 19, 2006 8:35 pm PT
+Review:  Fifa 2005 is the best Fifa game there is. It's better than Fifa 06 and 2006 Fifa World Cup.
+  
+  In FIfa 2005 you can take on players easier, do scissor kicks, transfers are a lot easier also 
+ and it's fast paced unlike Fifa 06.
+  
+  The graphics are the exact same as Fifa 06 which means the graphics are good, They have accurate 
+ player ratings, fast paced gameplay which every soccer fan is looking for. As it is hard to score 
+ from far distances in the Fifa games it is still the same with Fifa 2005 but you can score better 
+ goals, such as scissor kicks, overhead kicks and you can take on a whole defence and score goals 
+ which is impossible with Fifa 06.
+  
+  Overall this game is a must buy if your'e a soccer fan. 
+::::::
+
+::::::
+UserName: djnet
+Rating: 8.6
+Date: May 2, 2006 1:39 pm PT
+Review:  In the world of soccer games, there are really only two serious contenders for the championship 
+ title at this point: Konami's Winning Eleven games ( Pro Evolution Soccer in Europe ) and EA Sports' 
+ FIFA Soccer series. Like rival soccer teams eager to show off their newly acquired players at the 
+ start of a new season, these two series show up with a host of new features every 12 months in 
+ the hope that each will finally score a convincing victory over the other. Traditionally, Konami's 
+ offerings have boasted more-realistic gameplay but have faltered in the areas concerned with presentation, 
+ specifically due to the lack of licensed team and player names. EA Sports' offerings, on the other 
+ hand, have generally felt a little more arcadelike than realistic, but the games have always looked 
+ extremely sharp, and they let you take control of real teams comprising real players that wear 
+ real uniforms. The line separating the two series has become increasingly blurred in recent years, 
+ and this year is no exception, as both games are still seemingly seeking to emulate the other's 
+ strengths. But to set aside the competition for a moment, FIFA Soccer 2005 is definitely the best 
+ FIFA game to date. 
+::::::
+
+::::::
+UserName: nuggs_15
+Rating: 6.5
+Date: Mar 16, 2006 9:07 am PT
+Review:  Many things stop this becoming more than a runner up. The graphics are great but the gameplay let's 
+ down, espically on the PC where lagging is common. 
+  
+  Gameplay: The career mode is a bit lame in certain areas and my first impressions wasn't that great. 
+ It simply does not beat FIFA 2004, which in my mind is the best FIFA game in the series. Sure the 
+ tournaments are great fun and the points for unlockables are cool but on a serious not, replaying 
+ the football matches gets boring compared to other football games. Player animations are repeated 
+ over and over again. The First Touch is a nice addition but doesn't stop this becoming repetitive. 
+ 
+  
+  Graphics: EA have gone a step up on the graphics from last time, and with a good graphics card 
+ it has greatly improved. Players look more like each other and the stadiums and kits are well replicated, 
+ however, the crowd's repetitious chants and movement are poor, they're not even 3D?!
+  
+  Sound: The chants drone on and the soundtrack isn't as good as, say, Tony Hawks: American Wasteland, 
+ the theme tune is poor, The Streets are well recognised, but what about Plenty More Fish in The 
+ Sea apart from Your Fit But Don't You Know It? Commentary is decent though.
+  
+  Value: There are better football games out there but if your a FIFA/EA diehard then you might as 
+ well get this. 
+::::::
+
+::::::
+UserName: eric121
+Rating: 9.4
+Date: Mar 4, 2006 3:32 am PT
+Review:  Fifa 2005 is the most amazing game ever seen in it's series....
+  
+  It has almost all the positive points... Finding a negative point about this game is almost rare 
+ possibility..
+  The best thing about this game is that it is FIFA05.
+  
+  Game-play of this game is wonderful.
+  Graphics is stunning.
+  Convenient key controll like all 
+ other fifa games released till today.
+  It's a very good time passing game. If you wanna be like zidane, Nistelroy & so on then this is 
+ your last chance to be like them in dreams & play with these real like characters and fulfil your 
+ wish.
+  
+  At most this was simply stunning. The most interesting thing is the Commentary in the game by Ally 
+ MCCoist & John Motson.
+  
+  The Sound Effects is just like real football match.. People cheering, Camera Flashes, Flags all 
+ around & the Kicking of Football....
+  All these things makes this game the most superb game in it's series.. 
+::::::
+
+::::::
+UserName: 21039285237537894737461297496559-calum_neilson
+Rating: 8.9
+Date: Feb 21, 2006 11:29 am PT
+Review:  I have been buying the FIFA series since 98 and this is one of the best yet. In 2002 world cup 
+ the game was good but the gameplay was jerky and slow. The graphics are excelent quality and the 
+ player movement is smooth and the takling falls are also good. The gameplay is fast and that makes 
+ it more addrenaline filled unlike previous ones like 2002. The career mode is very gripping and 
+ all you want to do is carry on. You can buy players from the transfer market and you have to do 
+ well or else you get fired. The only things wrong with it are that it can be hard to be accurate 
+ with shots and there is no way to search in career mode if you want to buy a player. You have to 
+ go through all of the teams to find the player you want and it is even worse if you don't know 
+ what player the team plays for. Overall it is a very good game and you shoudl definetly buy it!!! 
+ 
+::::::
+
+::::::
+UserName: katilmis
+Rating: 8.3
+Date: Feb 17, 2006 5:42 pm PT
+Review:  This was nice veary good game i usualy dont like these kind of games but i loved this one.
+  It had amazing grapfics for this kind of game usualy these kind of games have veary poor grapfics 
+ but this one was wrealy wrealy good. Of course the game had litle problems but they were nothing!!! 
+ I wrealy liked the controls unlike the controls in the 2004 version this one had pretty good controls 
+ i wrealy didnt liked the 2004 fifa it was booooooring !!!! But when i started playing i couldnt 
+ stop i just played and played it again !!! It was great and higly addictive game!!! 
+::::::
+
+::::::
+UserName: subsonicdust
+Rating: 8.1
+Date: Feb 14, 2006 6:47 pm PT
+Review:  
+  
+  Its been a mighty long while since a FIFA game came along and genuinely touched our hearts with 
+ a faithful and effectively accurate interpretation of the beautiful game. Over the past 5 years 
+ since the PS2s launch, the FIFA franchise has progressively worsened. Every year EA implement 
+ minor new gameplay features and marginally tweak the visuals of their long-running, officially-endorsed 
+ to the hill cash-cow franchise, but these things alone are simply not enough to quash the supreme 
+ Pro Evo. Strangely, FIFA doesnt seem to carry the labour of love, passion and thought that pour 
+ out of Konamis footy-fest like sweat out of a scouser on an arson charge. In other words, Pro 
+ Evo is better. Much better. 
+  So its with interminable apprehension that we declare FIFA 2005 a prime contender for best footy 
+ sim of the year. Mild your anger, there is a method to our madness. 
+  First and foremost, the gameplay is smooth. Smoother than Zidanes bald patch even. The much-improved 
+ passing system is eloquently responsive and shots on goal feel weighty and realistic. The bond 
+ between the players down on the park is a sure-fire evolution over last years FIFA with defenders 
+ now sticking to their task of defending-not parting like a bunch of rubber ducks to let strikers 
+ through. It all perfectly blends together with Zen-like mastery to create a cohesive, fluid and, 
+ most importantly, fun rendition of football and imposes a vice-like jostle for the goal with Konamis 
+ Pro Evo. Which, incidentally, makes FIFA 2005 a real contender for the much sought after crown 
+ of footy-land. 
+  One of the biggest new additions (and indeed ad campaigns) to 05 is the silky new first-touch 
+ control. Its activated with a flick of the right analogue stick and enables the ball carrier to 
+ skilfully weave around the fumbling opposition with cunning accuracy. You can perform nice little 
+ step-overs or even 360 spins, brushing past hapless midfielders with minimum effort. It works impeccably 
+ and serves the chief purpose of creating that vital opportunity for an offensive attack. Furthermore, 
+ last years Off-The-Ball feature returns, and this time its been given the spit and polish and 
+ tweaked to perfection. Gone is the cumbersome player positioning of old  05 introduces a much 
+ more flexible and user-friendly system, proven to allow you to arch dazzling 40ft balls from midfield, 
+ resultantly lining up Shevchenko for that crucial one-on-one with the keeper. Remember: its all 
+ in the positioning, folks. 
+  The FIFA series has always been widely-acclaimed for its dazzling visuals and sound and the trend 
+ is, naturally, continued here. The graphics are sharper than a chemistry teachers cardigan. Everything 
+ you would expect to see and hear at a real football match are faithfully recreated courtesy of 
+ EAs enhanced graphics engine. Its all here, from individual blades of grass to authentic club 
+ insignias  even down to the subtle details each of the players boots. There are more than 18,000 
+ licensed players, 500 kits and a wealth of national and foreign licensed leagues. Its pure eye 
+ candy from the word go. Commentary, again voiced by John over-excited Motson and Ally a wee-bit 
+ wide McCoist, remains top-quality. Impressively, theyll now go off on anecdotes concerning their 
+ past and how footballs evolved over the last 50 years. Started playing football when you were 
+ 4, eh, Ally? Intriguing to say the least. 
+  The stadiums deserve plaudits too. Theyre heart-joltingly precise from the condition of the pitch 
+ to the stands in which the crowds sit. Highbury has all its nooks and crannies and the photo-realistic 
+ rendition of Old Trafford is a joy to behold. While we're on the subject of stadiums, its their 
+ atmosphere that sets the scene. Crowds chant their favourite teams and instinctively boo when the 
+ ref doesnt give a free kick after a nasty foul. Every match feels like an occasion, an event, 
+ and as a result works wonders for the actual experience. In contrast, Pro Evos atmosphere feels 
+ tepid  kind of like everyones been injected with a silence drug, or something. 
+  The career mode has been radically enhanced also. Ok, so its not as unfathomably intricate or 
+ as complex as the Master League, but it bolts together well to proclaim itself as a worthy competitor. 
+ Admittedly, the career mode does initially seem more appealing than the Master League since it 
+ is instantly accessible and refreshingly entertaining but the lack of any proper depth negates 
+ it of any long term appeal, unfortunately. 
+  You assume the role of a struggling lower-league club. As manager, its your job to proliferate 
+ your teams success through triumph on the field. Customisation is widespread  you can customise 
+ your managers looks, hairstyle and even suit type. Give him a name, race, age, even choose the 
+ size of hiswell, you get the picture. Its pretty pointless really, though since there is no direct 
+ relation to the football but, at least its there. 
+  Theres the usual influx of seasonal transfers, tournaments, play-offs and friendlies integrated 
+ into the career mode and the option to upgrade your team management staff (such as striker coaches 
+ and medical staff) is a welcome addition. Tagging along from last years footy series, Euro 2004, 
+ for inclusion in FIFA 05, is the morale system. It works relatively well with big, green, smiley 
+ faces for happy players and red, sad-looking faces for unhappy ones  incidentally, each of 
+ your players has one, so care for them as Michael Jackson cares for his friendsum, scratch thatjust 
+ look after them well okay? 
+  As youd expect, keeping your team in a ship-shape mood will undoubtedly increase and better their 
+ performance on the pitch, whereas an unhappy and  player 
+ will refuse to put in the effort (rapid stamina decreases, injury-prone) . Morale is kept topped 
+ up by winning matches and attaining as little an amount of bookings as possible throughout the 
+ season. 
+  Essentially, though, despite all this, we still need to get back to the point that FIFA 2005 is 
+ nowhere near as deeply-realistic or as juicily-addictive as Pro Evo. For starters, goalies jump 
+ around more than David Seaman in a World Cup nightmare  sometimes jumping in completely the wrong 
+ direction that youve shot the ball, its almost criminal! Moreover, 05 is literally riddled with 
+ problems on the collision detection front. Head-on conservative tackles very frequently result 
+ in a moment of the supernatural  your player will run directly through his opponent, cheekily 
+ nabbing the ball all at the hands of a glitch. Plus, youll also notice that when your player lets 
+ rip a fireball of a shot, the ball will magically kick itself before youve even brought your foot 
+ down. Perhaps you think were unnecessarily nitpicking, but when youre in a heated match surrounded 
+ by these occasional annoying glitches they immediately become damn near unforgivable. FIFA 2005 
+ just isnt as involving and varied as Konamis master-stroke and in that case, why even bother 
+ subjecting yourself to a purchase? 
+  Still, theres no denying that EA have come up trumps with 05, nigh-on perfecting the deeply-flawed 
+ gameplay of its predecessor. 
+  Unconvinced? Seeing FIFA back to its true form after 5 years of underwhelming annual updates is 
+ an actuality that we can all appreciate. A post-pub clash with your mates is what FIFA 2005 was 
+ crafted for  its fun, visually delicious and largely entertaining. On the contrary - in no way 
+ do we see it as a substitute for PES4, but its definitely worth its asking price. With the abundant 
+ choice of footy titles now available, we can safely say that theres never been a better time for 
+ virtual-football indulgence. 
+::::::
+
+::::::
+UserName: kroloth
+Rating: 8.8
+Date: Feb 13, 2006 4:39 am PT
+Review:  At first I was skeptical about this game, but I decided to try it anyways, and I'm glad I did. 
+ The graphics are good and being a soccer fan made it even more worth my while. The game seems to 
+ have improved alot from the 2004 version. I still have a few problems with the passing though it 
+ does not alwasy co-operate with me, but thats just me. The game can be fast paced or slow lots 
+ of ball passing and waiting for the precise moment to score. They also have many team options which 
+ gives you a bigger variaty of play, plus you can create your own player. Try it, and surprise yourself. 
+ 
+::::::
+
+::::::
+UserName: mai_sam
+Rating: 9.3
+Date: Feb 10, 2006 11:42 am PT
+Review:  fifa 2005 is a cool game not that much of cool (freezing) but .. aah .. its just right best fifa 
+ up to date and i rate it more than the ... pro evolution soccer series and the winning eleven series 
+ because its way much better than winning eleven and pro evolution soccer series ... the new managing 
+ mode is very cool first ever in fifa series that you buy or sell players sign different clubs .. 
+ the managing mode is just great and u can also create ur own player and set his position .. team 
+ ... ball control ... speed ... accuracy .. shott power and all that .... its a great game i suggest 
+ u to buy it because i like it ;) 
+::::::
+
+::::::
+UserName: maaz_awakening
+Rating: 9.2
+Date: Jan 30, 2006 12:36 pm PT
+Review:  The Best Soccer game to date. The pitch and the spectators are bought to life by better lights 
+ and sounds. The graphics are not much of an improvement but some prominent playerslike Beckham, 
+ Zidane etc. look life like. Some new cool stuff like first touch give you extra control of the 
+ game and allows you to get the game where you want it to go. It brings you the most enthralling 
+ FIFA experience ever felt before. I must agree the career mode was a little disappointing because 
+ it is kinda hard to earn credits inorder to improve your team. In easy mode you can score upto 
+ 8-10 goals. Semi-pro is the best difficulty level giving you the challenge. And if you don't mind 
+ losing once or twice World Class is the difficulty level you should choose. I am a soccer fan and 
+ i truly love the game in any form digital or real. 
+::::::
+
+::::::
+UserName: Mehfuz
+Rating: 9.3
+Date: Aug 16, 2006 8:01 pm PT
+Review:  Fifa 2005 is the best sport games I played ever in PC and yes i have played winning eleven too 
+ but for PC fifa is the right choice for soccer lover.
+  
+  The main features of this game are its amazing graphics, wonderful soundtracks and obviously the 
+ career mode. In the career mode Player can be the manager of a team. There are five regions to 
+ choose from, player can select one team from a region. The main goal of this mode is to become 
+ a five star manager.
+  
+  Gameplay is really simple and most of the action can be done by using same old A, S, D keys. Introduction 
+ of one touch brought realism in the game. You can create your own player in Fifa 2005, this option 
+ was absent is the earlier two versions. My Fifa store is another new addition of 2005. Here you 
+ can unlock 80 different goodies like team jersey, ball, stadium and even Pierluigi Collina.
+  
+  The main and only problem of this game is that you can stuck in the looping of corners for 
+ over 10 times and this obviously disturb the game, but anyway this game has proved that FIFA is 
+ the best. 
+::::::
+
+::::::
+UserName: Tommy_Angelo
+Rating: 8
+Date: Nov 22, 2005 1:39 am PT
+Review:  The challenge for every sports game, especially from EA, is to introduce of enough updates to the 
+ game from last years title. FIFA '05 improves on its predecessor in every way, even if it still 
+ isn't quite the intuitive football experience it could be, especially in comparison to its competition. 
+ 
+  
+  What we have come to expect from FIFA is still there including the full FIFA license covering 24 
+ leagues, hundreds of teams and thousands of players. Real team uniforms, colours and even accurate 
+ sponsorships. But the biggest improvement from FIFA04 to FIFA05 has to be in the gameplay. This 
+ year the ball doesn't feel like its stuck to your foot like last year.
+  It just feels like a more accurate representation of the sport. This year the ball doesn't feel 
+ like its stuck to your foot like last year.
+  
+  There is all new first touch play that they have added, which is good cause now you can set up 
+ your plays better.
+  
+  Bad points the graphics aren't very good part from player models they are excellent. Career can 
+ get a bit the same.
+  
+  All in all FIFA '05 is a very good soccer game and I would recommend it to any one. Players of 
+ '04 should get it to cause its a big improvement from that game. Its great head to head and online 
+ because of the nature of soccer itself. The Franchise mode is extremely satisfying because the 
+ long term and short term consequences of your decisions are always going to be on your mind and 
+ that only ads to the pressure of winning. FIFA '05 is the best version of the series so far.
+  
+  Tommy_Angelo
+  
+  
+  
+  
+::::::
+
+::::::
+UserName: rahulprasad04
+Rating: 9.1
+Date: Oct 31, 2005 3:10 am PT
+Review:  Overall, the game is excellent. I think if u love playing sports on your PC, I would recommend 
+ this game. It obviously is the best from FIFA so far but I think it requires finishing touches. 
+ I do not like the points system in the game. There is hardly any scouting for young players. I 
+ think many managerial games (such as Championship Manager 5) have a much better career mode. The 
+ transfer market is not good. There should be many improvements in the next game of FIFA 2006. I 
+ am awaiting that game having played already about 61 seasons of FIFA 2005 (Yes! I am highly addicted 
+ to it) 
+::::::
+
+::::::
+UserName: CarmineJunior
+Rating: 8
+Date: Oct 29, 2005 11:37 am PT
+Review:  Comparing with FIFA 2004, FIFA 2005 is a lot better. The graphics and the controls are the real 
+ proof. If at FIFA 2004 you would struggle a lot to make a good pass, now passes are way better 
+ and the player are more incisive. The graphics are better, but a 32MB card will hardly cope with 
+ a high detail. As for Career mode, it has been improved as well. But you must have steal nerves 
+ to pass through an entire season, as a season it is very long and in transfer periods there are 
+ a lot of back and forth commands to settle new players. The pitch sound isn't that great, but the 
+ soundtracks are pretty cool. Plenty of them to choose from, that is. The user interface, generally 
+ speaking is good and easy to navigate.
+  I would give an -8 for gameplay (the corner and freekick system is way off better at UEFA Champions 
+ League 2004-'05)
+  -9 for music 
+  -9 for details and graphics
+  
+  
+  As for requirements, a 64MB card should do the trick, a 800Mhz or better processor and 256 MB RAM 
+ at least.
+  As like previous games from the series, it is addictive, but it is not that fine. 
+::::::
+
+::::::
+UserName: desanvium
+Rating: 7.4
+Date: May 19, 2005 8:11 pm PT
+Review:  FIFA 2005 is the most recent installment in the long running series of EA FIFA games -- which is 
+ a good thing. EA has an amazing track record with this series and 2005 is no different. The gameplay 
+ is what you're buying this sports game for: full control of your team, smooth passing, dribbling, 
+ and shooting, and the ability to take one team all the way through 15 seasons in career mode and 
+ become the top manager of the best team in the world. 
+  
+  That being said, it's FIFA, and the formula has not changed that much in the past decade of games. 
+ Of course, the game looks gorgeous, pushing the PS2 graphic engine to it's limit. At the same time, 
+ the characters on each team look pretty much the same -- and if you're one of those people who 
+ can tell one player from another (which I cannot) you'll probably wonder why they look so much 
+ alike or haven't been customized as much as they could have been.
+  
+  The controls are rather simple to learn and in the same light can take a very long time to master. 
+ You have to find just the right combination of button pressing, left-stick directional use, and 
+ the new "first-touch" system, which allows you to redirect the ball after the first touch and do 
+ some very complex and technical dribbling, passing, and shooting moves. Although the first-touch 
+ and some extra short and long passing moves are not a huge control addition, they do add some nice 
+ touches that give you that extra level of control and really put you in the game.
+  
+  One of the most disappointing parts of this game, as has been mentioned before, is the career mode. 
+ The problem has nothing to do with the depth of the system, which allows you to trade players, 
+ add stats to multiple sections of your teams managerial staff and players themselves, whilst keeping 
+ your approval rating up so that you don't get fired. The problem comes in the form of a menu system 
+ that makes the career mode, and more specifically player trading, a total nightmare! You have to 
+ go through 18 levels worth of menus to trade one player (and remember: these players may play differently, 
+ but they still look the same on the field) and there's no way to search for players with the stats 
+ that you need. All in all, I stuck with the career system for all about 2 hours and afterward my 
+ biggest complaint was making changes to my team via the menu. Tis a shame when the gameplay is 
+ so well fleshed out.
+  
+  As we come to the sound of the game, I was both highly surprised and impressed (with the music) 
+ and sorely disappointed (in game sounds and commentary track) . First off, the eclectic range of 
+ music, a sort of European / Brazilian / Italian techno-jazz set of tracks, really makes the game 
+ feel more international. There aren't really any tunes that stick out in my head as annoying or 
+ that I'd skip/single out. As for the in game sounds, they are totally repetative, oddly scripted, 
+ and perpetually annoying. The stadium sounds and crowd noises and cheers (like in previous games) 
+ consists of the unrecognizable cheers, horns blowing, some booing sometimes, but all in all there's 
+ nothing really new here... and since we rarely see individual fans anyways... same problem with no 
+ solution. As for the commentary track: send in the frustration. Although the voices may sound familiar 
+ from some TV broadcasts of international soccer (the exact names elude me at the moment) what they 
+ say quickly becomes useless chatter that, in an attempt to move the game along, just makes becomes 
+ increasingly annoying and is way to vague -- you can tell they are recorded and scripted. At one 
+ point, I just turned them off completely and found I didn't get nearly as angry at my remote or 
+ tell my tv "WHAT DO YOU MEAN THAT WAS A HORRIBLE PLAY?!?!?!".
+  
+  Sadly, I do not have online play so I cannot review the online component of this game. But I can 
+ only imagine that this game retains it strength online that it does 1v1 when playing offline in 
+ someones living room (just keep an ear out for the cheers/jeers)
+  
+  When it boils down to it, you are getting what you always expect from a FIFA game: quality of gameplay, 
+ great physics and player ball control, and a really large playing field with tight graphics that 
+ keep getting better. But with a FIFA game, expect the expected... which is not so bad when that's 
+ what you WANT from a FIFA game. But if you're looking for the ultimate fantasy "football" career 
+ game that's easy to use and fun at the same time... FIFA is not quite there yet. 
+  
+::::::
+
+::::::
+UserName: mrlucky3
+Rating: 9.8
+Date: Apr 9, 2005 7:44 am PT
+Review:  This was nice veary good game i usualy dont like these kind of games but i loved this one.
+  It had amazing grapfics for this kind of game usualy these kind of games have veary poor grapfics 
+ but this one was wrealy wrealy good. Of course the game had litle problems but they were nothing!!! 
+ I wrealy liked the controls unlike the controls in the 2004 version this one had pretty good controls 
+ i wrealy didnt liked the 2004 fifa it was booooooring !!!! But when i started playing i couldnt 
+ stop i just played and played it again !!! It was great and higly addictive game!!! 
+::::::
+
+::::::
+UserName: Marvin_Snipes
+Rating: 7
+Date: Mar 22, 2005 3:46 pm PT
+Review:  Lets start with the good, almost every team youd ever wish to play are here, with accurate team 
+ statistics, and player stats and likenesses. This is a real assist to the game, and adds a lot 
+ to the feeling of realism of the title. On the pitch, the game is really good fun, players react 
+ the way they should, goals dont feel cheap, and are rewarding, and the AI is very competent on 
+ the higher settings, which makes for some challenging games. If one complaint could be made (and 
+ in fairness there arent that many) the free kicks are extremely easy to score from, at least in 
+ my experience. Doing the same thing each time will almost always result in a goal, which detracts 
+ from the realism the game aims for. All in all, once you start playing matches, the experience 
+ is very rewarding.
+  
+  However, to get to the match, its immediately obvious the game lacks polish. The menus are clunky, 
+ and setting up a custom tournament is incredibly tedious, having to first select the league by 
+ continually clicking left or right, hit return to confirm, and start the process again for as many 
+ as 32 teams. Why cant I pick from a list, and save myself 10 minutes? 
+  Picking a team is also needlessly clunky. Double click one player, and then click on the player 
+ you want to replace them with, which quite often takes a few goes, since it doesnt always accept 
+ that youve clicked. Why cant I drag and drop players? 
+  All these frustrating things could easily be remedied, and make for an all together better experience. 
+ These all seem fairly minor issues, and most will probably be able to ignore them, but for me, 
+ they really served as a sticking point.
+  
+  The music in the game is all licensed, so the quality is generally good. Although the vast majority 
+ of the music wasnt to my tastes, so I was thankful for the option to remove tracks, which I ended 
+ up doing to all of them because of another little issue
+  The Jukebox will often get in your way whilst in the already clumsy menu. If I want to go back, 
+ I either have to wait 5 seconds for the jukebox to minimise, or hit F5 and quickly make a run for 
+ the back button before it pops up again. Needless to say, this is annoying.
+  The rest of the sounds in the game, from sound chanting, to commentary is all very good, although 
+ as in most sports game, this can get repetitive pretty quickly.
+  
+  The game comes with a wide variety of pre set up tournaments to get stuck into, although Im baffled 
+ at the exclusion of European/International tournaments. All the tournaments are domestic based. 
+ The game ships with every major league in the world, and yet doesnt come with tournaments to exploit 
+ this strength. Normally this wouldnt be much of an issue, but the poor custom tournament segment 
+ is a less than ideal way to remedy the problem.
+  
+  I didnt really get stuck into the online portion of the game, but from what I did play it was 
+ easy to find games, and get playing. 
+  
+  Fifa 2005 also comes with its fair share of bugs, at least with me. Clicking away selecting teams 
+ will quite often result in a crash to desktop, and the game occasionally will crash to the desktop 
+ in game as well. I had to roll back some drivers on my graphics card to get the game to display 
+ correctly, and an issue with the patching system, prevented me form playing online until I found 
+ information on how to remedy the problem.
+  
+  In all, FIFA 2005 is a decent game, but ultimately disappointing. The lack of effort with the menu 
+ design, and tournaments let down the actual game play, which is very good. 
+::::::
+
+::::::
+UserName: DeadManRollin
+Rating: 9.2
+Date: Mar 22, 2005 12:17 pm PT
+Review:  The Fifa franchise of EA Sports, after 8 years from the release of the first game, stands in a 
+ position from where it cannot be toppled very easily. Very few games have managed to remain on 
+ the top favorites list of gamers for such a long time. Every year, we think that "nah.. this game 
+ can't get improved.. EA has done it all", and EA comes out with a new Fifa game, which surpasses 
+ all expectations and takes the gameplay and presentation to newer heights. Such was the story up 
+ to 2004. For several reasons, Fifa 2004 was a disappointing game. But Fifa 2005 is a different 
+ story.
+  
+  If you talk about stunning visuals, Fifa 2005 has it all. Even on low end graphics cards, the game 
+ looks gorgeous. Some glitches do appear, from time to time.. but they can be eliminated by scaling 
+ down the details to some extent. Moreover, it is very much expected that EA will release a graphics 
+ patch for fixing this issue. All the big names, teams, stadiums are clearly recognizable. EA has 
+ the official license to all Fifa names, so everything has a television like presentation. The pre-game 
+ sequences, mid game analyses, replays, post-game celebrations, goal celebrations, everything looks 
+ amazingly realistic. It is not that much unusual to stop and wonder.."Is this a game, or am I watching 
+ TV?". This is indeed a remarkable achievement for EA. I still have Fifa 98 with me, for nostalgic 
+ purposes. Now when I look at the two games side by side, one aspect that has advanced leaps and 
+ bounds is the graphics. If you run the game in full detail, in a powerful PC, you will thank yourself 
+ for buying that gorgeous graphics card of yours. Most people buys new graphics cards for FPS games, 
+ but I believe Fifa 2005 can be a good enough reason for getting a Radeon 9800.
+  
+  The sound, as always, is as realistic as it can get. The chants from the audience, the shouts from 
+ the players, the commentary, everything is done with precision. However, the commentary does get 
+ a bit erroneous, at times. This happens mainly due to skipping replays, or a too drastic change 
+ in the course of action. That is, maybe Team A had the ball for a quite long time, and suddenly 
+ team B grabs the ball and instigates an attack, and the commentators keep on talking about how 
+ good Team A is! Once Team B scores a goal, John Motson and Ally Mccoist gets back to their job. 
+ This year around, both of these cool dudes have new tricks up in their sleevesnew expressions, 
+ new phrases, new catch lines, which is all good treat for the fans of the great sport. I would 
+ love to put up some quotes here, but thatd spoil the fun for those who are planning to get the 
+ game. 
+  
+  The soundtrack list is huge, and there are a good number of catchy tunes. However, theres no flagship 
+ or big song in the list, apart from a Dido number. In 2003, we had Avril Lavigne, in 2002 it 
+ was Gorillaz, in 99 it was Fatboy Slim, in 2000 its Robby Williams, and lastly, in 98 it was Blur 
+ with song 2. This is a disappointment, but the number of soundtracks wont disappoint most, and 
+ theres something for everyone in the mixture. As an added bonus, theres a third party software 
+ that lets you import your favorite Mp3s into the game, which is an awesome experience. 
+  
+  Gameplay is good as ever, with the retention of familiar moves, tricks as well as some new ones. 
+ I am a Fifa purist, and I dont use some of the gamepad friendly moves. You can score awesome loads 
+ of goals through only using a few buttons, i. e. pass, shoot, long pass, player run, sprint, etc. 
+ There are lots of hidden moves like chip shot, fake shot, as well as one touch control. People 
+ wholl get bored over the usual goal scoring tricks will find these advanced techniques quite useful. 
+ Moreover, in higher difficulty settings, the only way to beat a goalkeeper in a one to one situation 
+ could be the usage of a fake shot. 
+  
+  I have deducted one point from the gameplay element because the AI follows some unusual passing 
+ behavior, from time to time. As an example, it can be seen a lot of times that despite of having 
+ advancing forwards, an AI midfielder suddenly decides to pass the ball back to a wingback, or someone 
+ lagging behind. If the pass receiver applied a long shot towards my goalpost (a cross, or whatever) , 
+ this behavior could have some sense in it. But, this looks quite bizarre. 
+  
+  When AI is lagging behind by a goal or two in the first half, it will definitely come back with 
+ more aggression in the second half. This is a good thing to watch. The team balances are quite 
+ realistic, which means you will find it really difficult to hit the target with a team like Piacenza 
+ from Italian Seria B, against the likes of Roma or Juventus. Applying the same speed and using 
+ the same angle, Del Piero will hit the target more, compared to Piacenza striker Simone Pepe. Player 
+ stats are realistic, and get reflected in the gameplay. Having one good midfielder can change the 
+ outlook of a team. This is more prevalent in the Season mode. 
+  
+  You get almost everything here, from exhibition matches to a 20 leagues and a number of cups. To 
+ add icing to the cake, you have the option of creating custom leagues and tournaments. The concept 
+ of combining management aspects in Fifa games was first seen in this years Euro game (Euro 2004) . 
+ In Fifa 2005, you can play a 15 season quest for becoming a 5 star manager. You start off as a 
+ zero star manager, and you can only take up a 2nd division club. Its a challenging game, where 
+ you start off with a mediocre team, inaccurate strikers, and dwindling budget. You will be given 
+ a number of coaches, e. g. Striker coach, fitness coach, etc. After each game, based on your performance 
+ you may or may not receive points. You can spend these points in upgrading these coaches, and your 
+ teams performance will be affected accordingly. If you dont spend points for your medical staff, 
+ your injured players will take more time to heal, which might cause you to field a tired team. 
+ You will have control over two player stats, straightaway. These are fitness and morale. If you 
+ field a team with demoralized players having low fitness levels, you cant expect good results 
+ from them. Passes wont be accurate, shots will go disarray, the opponents slightest challenges 
+ will make your players fall downthere are too many aspects to see. All these make the season mode 
+ a very intriguing affair. I recommend this game to any footy enthusiast, only because of this mode. 
+ Management geeks can play the Football Fusion mode, where teams, games and settings can be interchanged 
+ between Total Club Manager 2005 and Fifa 2005. Though I havent tried it yet, the concept sounds 
+ interesting. The only reason for me not liking management games is that I cant get involved with 
+ the actual game. I buy the players, train them up, and then they play like idiotsthis is something 
+ I cant stand. But in Fifa, you can make them play the way you want them to. Buying and selling 
+ players is allowed twice a season, and its pretty simple. You only get a few messages, and in 
+ the early years, keep yourself prepared for heartbreaks because players will often turn down your 
+ offers, as you are not a prestigious manager yet. It takes approximately 60 games to end a season, 
+ so its a huge game. After each season, you will get offers from your existing club and or other 
+ clubs, depending on your performance. 
+  
+  In a nutshell, there is every reason for one to actually pursue the game for 15 seasons, amounting 
+ up to a whopping 900 matches! To make life easy, you can simulate any game in between. But theres 
+ another bonus hereyou can intervene the simulated matches, at any point of time. You will see 
+ commentary of the game as texts, as games are being played. This is a common way of showing games 
+ in Football Management games. If you see that your team is 2 goals down before half time, you can 
+ play the next half and win the game. You can intervene any time, but once you start playing, you 
+ have to play the rest of the game. This is not a very essential feature, but multiple intervention-simulation 
+ situation couldve made the game a bit more interesting; in this aspect. Usually in a season, you 
+ will play the league and an additional 2/3 cup challenges. You get bonus points for winning points, 
+ which you can use for unlocking bonus items.
+  Extras 9/10
+  
+  You get points by winning games with 5+ goals, winning against rival teams, winning cups, etc. 
+ and you can use these points for buying a number of bonus items, which dont sound that interesting 
+ in paper, but is actually quite a nice touch. As an example, the night version of most stadiums 
+ featured in the game needs to be unlocked, and these stadiums all look absolutely gorgeous in the 
+ night. You can also unlock the famous referee Collina, and also a few classic soundtracks and alternate 
+ jerseys for your favorite teams. This is a good bonus, because in season mode, it is natural that 
+ you will get bored over seeing the same team with the same kits over and over. An alternate kit 
+ can alleviate the pain, to a great extent. 
+  
+  Another extra feature is the create a player mode, where you can customize almost everything, 
+ starting from player stats and ending up to the slightest details of hair, eyes, etc. Creating 
+ a player with your own name and physical attributes, and buying him for Manchester United does 
+ sound a great idea, doesnt it? 
+  
+  In recent times, Fifa is facing stiff challenge from Pro Evolution Soccer/Winning Eleven, and many 
+ say that Fifa is an inferior franchise. I played PES3 and the demo of PES4, and my two cents is, 
+ Fifa cant be matched. Maybe PES has some nice gameplay touches, but Fifa is more realistic, both 
+ in terms of gameplay and graphics. I will prefer Fifa over PES any day. If you ever liked a soccer 
+ game, you should get this game. Even if you need to upgrade your PC, you should get an upgrade. 
+ 
+  
+  
+  
+::::::
+
+::::::
+UserName: mark123321
+Rating: 9
+Date: Mar 16, 2005 9:41 am PT
+Review:  EA make a Fifa football game every year. I have got Fifa 98, 04 and 05 and ive played quite a few 
+ of the others, and I can definatly say that in each of the games, EA have made them more exciting 
+ or better graphically than the last one.
+  2005's Fifa game is no exception, it brings football onto your pc like always, with easy controls, 
+ nice movement and fantastic atmosphere, theres no doubt, this is the best in the series... yet 
+ :D
+  
+  Gameplay - 10 / 10
+  
+  All of the fifa games amaze me, but in this one the gameplay is one of a kind! You become the manager 
+ and the players player :D You control basically the whole team and take them though step by step. 
+ As you start the season mode, you become a starting manager and are allowed to choose many starting 
+ teams to manage, as you get better and win more leagues your rating increases which allows you 
+ to ditch your team at the end of the season for a better one!
+  
+  Graphics - 8 / 10
+  
+  The fifa games are getting more and more advanced, and in this game the graphics are fantastic. 
+ The players on the pitch look amazingly like the original real life players. And since there are 
+ over 11'000 players spread over 18 leagues, I must take my hat off for EA and say how long it must 
+ have taken them to do that! I do have one problem with the fifa series thought... The crowd, is 
+ not 3d or anything, they look like cardboard cut outs just moving around when you get close to 
+ them. Its not a problem while your playing, they look good then, but when you score a goal all 
+ you can see is a loop of cardboard cut outs :D
+  
+  Sound - 9 / 10
+  
+  The sound in this game is amazing. Theres a massive selection of music you can play on it, the 
+ commentry is rather good and the crowd chants are superb! The sound in this game makes it much 
+ more enjoyable to play as it really feels you are playing in a real time stadium!
+  
+  Value - 8 / 10
+  
+  I say if you've not tried any of the fifa games before, this is a must for 
+ you. You will honestly be shocked and amazed at the level of customizablity. But if you have tried 
+ the games before, check out the demo before hand, as you might find it partly the same game as 
+ the 2004 version.
+  
+  Overall - 9.0 / 10 ( Superb)
+  
+  Overall this game is an amazing update on the 2004 version, and I recommend you get a copy! :)
+ 
+  
+  Thanks for reading,
+  
+  Marky 
+::::::
+
+::::::
+UserName: kylean1
+Rating: 9
+Date: Feb 13, 2005 7:34 am PT
+Review:  The FIFA soccer series has been there for ages and for the last few years, it was in the danger 
+ of getting old and eventually out of buisness. But EA SPORTS gave it a very good make-over and 
+ created FIFA 2005. There is a series of differnt features and some very good upgrades to the game. 
+ The very deep Carrer Mode is very deep and very well created. The first touch play is incredible 
+ and the graphics to the game are really photo-realalistic. This game can really compete with the 
+ infamous PRO EVOLUTION SOCCER series but it can also be beaten due to KONAMI` s genius gameplay. 
+ But as a whole FIFA 2005 is a very good game and EA can be very competitive when they want. FIFA 
+ 2005 is a game that, like it or not, is worth to buy.
+  
+::::::
+
+-------------------------------------------------

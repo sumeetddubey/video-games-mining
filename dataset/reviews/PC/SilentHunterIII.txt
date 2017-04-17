@@ -1,0 +1,2486 @@
+-------------------------------------------------
+:::Game Name::: Silent Hunter III
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/silenthunteriii/review.html
+-------------------------------------------------
+:::The Good:::
+ Beautiful to behold.
+ Simulation elements complement gameplay.
+ Compelling dynamic campaign.
+ Packed with detail.
+ More games need a gramophone.
+-------------------------------------------------
+:::The Bad:::
+ Higher resolutions would be nice.
+ Where are the wolf packs?.
+ Save-game system is annoying.
+-------------------------------------------------
+:::Date::: Mar 29, 2005
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.9
+Critic Score: 8.8, 27 Review (s)
+User Score: 9.1, 2,160 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Ubisoft
+Genre: Submarine Sim
+Date:     Mar 15, 2005 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+This is an outstanding WWII submarine simulation in every regard. 
+
+  Few jobs in history were more dangerous and harrowing than being a submarine crewman for the German 
+ Kriegsmarine during World War II. Three out of every four men who signed up for U-boat duty never 
+ survived the war, but their effect both psychologically and logistically on Allied shipping and 
+ the war effort in general was undeniable. Winston Churchill himself claimed that the only thing 
+ that truly frightened him during the entire conflict was, as he put it, "the U-boat peril." Many 
+ simulations have been created that let you command a sub in the Battle of the Atlantic, but Silent 
+ Hunter III sets a new standard both for this particular type of sim and for the genre as a whole. 
+ It hearkens back to the days of Aces of the Pacific, Red Storm Rising, and Red Baron II, where 
+ the focus was on simulating what it was like to be a pilot or nuclear sub captain instead of on 
+ meticulously re-creating every piece of hardware down to the last rivet at the expense of overall 
+ gameplay. That's not to say that Silent Hunter III skimps on the hardware modeling -- the attention 
+ to detail is fantastic -- but it lets you concentrate on the exciting parts of being a sub captain 
+ instead of saddling you with loads of tedious duties in the name of "realism."  
+
+          Too bad that other guy's ship wasn't designed to go underwater.     
+
+  Up to eight players 
+ can play out missions cooperatively in multiplayer mode, which we'll talk about later, but the 
+ real meat of the game is in the single-player missions and dynamic campaign. From the very first 
+ tutorial mission, which involves navigating the sub into open waters, you know your work is cut 
+ out for you. Most of the U-boats in the game are slow, unwieldy, and undergunned compared to the 
+ surface ships that hunt them, and it's immediately understood that you sit uncomfortably in the 
+ middle of the food chain. At the top are the destroyers, aircraft, and other fast and powerful 
+ predators that are out to kill you, and at the bottom are the fat, slow transports laden with troops 
+ and cargo that you can send to the bottom of the ocean on a whim.  
+
+  Only a few single missions are included, based on both historical and hypothetical battles, but 
+ a complete mission editor is provided for creating nearly any scenario you like. Those elements 
+ would almost be enough in themselves to make for a great game, but the dynamic campaign really 
+ lets this game shine. There are some serious quirks, like the fact that loading a save game erases 
+ every save game you created after that within the same campaign, but when the gameplay is this 
+ good it's possible to forgive faults like these.  
+
+  The campaign lets you select from various time periods, ranging from the earliest forays in 1939 
+ to the bitter end in 1944. U-boats that are available depend on the time period and the fleet you 
+ choose, and there are some huge tradeoffs here. Early on, the Type II U-boats are little more than 
+ rickety tubs that carry only a few torpedoes, but their job is eased by Allied forces that aren't 
+ quite prepared to deal with the threat. Finding large convoys during the early years is very rare, 
+ and many merchant ships travel without escorts and are therefore easy pickings. Destroyers and 
+ aircraft early in the war are poorly equipped, relatively untrained, and not all that aggressive, 
+ which also helps even the odds.  
+
+  In the middle years of the war, the subs improve with Type VII and Type IX models, but escort ships 
+ abound and they are much better at their jobs. By 1943 your job becomes nearly impossible, as escorts 
+ and aircraft have the equipment they need to find you, the weapons they need to kill you, and the 
+ will to hunt you down mercilessly.  
+
+          Successful patrols in the campaign rack up renown points.     
+
+  Once you've accepted 
+ command of a sub, you can modify it based on how much renown you've accumulated in the training 
+ missions and also in previous patrols. You gain renown from sinking ships, and then you can spend 
+ it on sub upgrades like sonar, engine superchargers, and improved torpedoes. Available upgrades 
+ vary from sub to sub, and as newer U-boats become available you can cash in large amounts of renown 
+ to trade up. It's a simple system that adds a lot of flavor to the game and really helps you get 
+ attached to your sub.     
+
+  The first sign that this game is truly special comes when you board the sub for your first patrol. 
+ You start docked at a home port, and if you climb out of the command room onto the bridge, you 
+ can see people lining the docks to see you off. There are women throwing flowers, other sailors 
+ chatting it up, and usually even a band belting out the German national anthem as you head out 
+ to sea. Ports are modeled like their real-life counterparts, so while it's possible to head straight 
+ out from a place like St. Nazaire (site of the famous 1942 British commando raid) , navigating into 
+ open waters from a place like Lorient requires a lot of tricky maneuvering.  
+
+          Deck guns are great as long as there are no escort ships around.     
+
+  Once you hit 
+ the Atlantic you are free to plot any course you like to get to your assigned patrol sector, where 
+ you generally must remain on station for 24 hours to complete the patrol. The sea is alive with 
+ ships that follow dynamically assigned routes, making it possible to track convoys and task forces 
+ over long distances to get into optimal attack position. Ships tend to follow historic convoy routes, 
+ which are printed on the included paper map, making it easier to position your sub along one of 
+ these target-rich (but well-protected) corridors. For a real challenge you can try running through 
+ the Strait of Gibraltar, or stalk the coasts of England and Ireland.  
+
+  Contacts are marked on the map and fade over time if they are not stalked. It also is possible 
+ to radio the position of contacts and convoys back to headquarters, and occasionally planes or 
+ another sub may be dispatched to deal with it. Unfortunately, wolf packs are not implemented in 
+ single-player, making it impossible to team up against a large convoy.  
+
+  After maneuvering the sub into kill position, one of the game's best elements -- plotting firing 
+ solutions -- comes into play. It is possible to let the computer handle targeting for you, or at 
+ least to identify ships, but hardcore players will want to handle everything manually. This is 
+ done by identifying targets through the periscope or binoculars using the onscreen ship ID database, 
+ which isn't always easy since many attacks are done at night. Once the ship is identified, you 
+ send the data to the targeting computer and then measure its range by using the scope to place 
+ a line at the top of the ship's mast and another line on the horizon (not easy in choppy seas) . 
+ Other tools are used to figure out the target's speed and other information, and all of the data 
+ you collect is sent to a targeting computer that calculates how much lead the torpedoes must use 
+ to hit the target, assuming the victim doesn't change speed or direction while the torpedo is on 
+ its way. Getting in close undetected so that torpedo travel time is reduced is vital for success. 
+
+  Lining up shots manually requires doing some math and making several educated guesses, but the 
+ first time you get everything right and slam a torpedo directly into the spot on the ship you wanted 
+ to target, the process becomes downright addictive. With so much relying on your own personal skill, 
+ it's impossible to not become personally invested in each and every shot, and we found ourselves 
+ practically cheering after every direct hit and practically screaming with frustration after every 
+ miss or dud. Even if you go the all-automatic route, getting set up so the torpedo is launched 
+ in optimal conditions is a rewarding challenge, as is determining what type of torpedo to fire 
+ (several models are available, with different strengths and weaknesses) and what settings you want 
+ the torpedo to use. It is also possible to use detonators on most torpedoes that sense a target's 
+ magnetic field and explode underneath them, using the ship's own mass to ensure its quick demise. 
+ These types of shots are devastating when they go off properly, letting you break the back of all 
+ but the largest targets with only one or two torpedoes, which is very important in a game where 
+ weapon conservation is so vital.  
+
+  Most of the subs modeled in the game have deck guns for shooting up ships and flak guns for taking 
+ care of pesky aircraft, and you can either leave these duties up to your crew or strap in and manually 
+ fire away. Fighting on the surface is suicide if there are destroyers or other warships around, 
+ as they will quickly pummel you with their bigger guns and crush your hull with depth charges and 
+ other weapons. Destroyers are practically suicidal, and several of our patrols have ended with 
+ a maniacal destroyer captain smashing into the side of our U-boat at 30-plus knots. This makes 
+ fighting large convoys tricky, as you have to decide whether or not to take the escorts out first, 
+ which requires using up torpedoes that are invaluable when destroying high-tonnage ships like tankers, 
+ troop transports, and passenger liners. Deck-gun attacks are an option in the early part of the 
+ war, before the Allies get their act together, but by the time the advanced Type XXI sub is available 
+ in 1944, it doesn't even have a deck gun, because fighting on the surface is futile.  
+
+          Each one of those red boxes is a potential target. This may take a while.     
+
+  Although 
+ there are no holes or other visible evidence that your torpedoes or guns have ripped through an 
+ enemy's hull, the damage model is otherwise spectacular. It is possible to target vulnerable portions 
+ of the various ships, like ammo magazines and fuel tanks, assuming you know where these soft spots 
+ are and are good enough at coming up with firing solutions to hit them. Ships sink based on where 
+ they take damage, and the number of ways we've seen targets slip beneath the waves is staggering. 
+ Some sink inch by inch as they slowly flood. Others snap violently in half, with each section bobbing 
+ straight up briefly before plunging straight back down. We hit a carrier and watched it list badly 
+ to starboard, with the right side of the flight deck nearly touching the water. After achieving 
+ a direct hit on the engines of a destroyer, we watched it lazily drift away for a few minutes before 
+ the back end of the ship flooded, lifting the entire front end of the victim out of the water as 
+ the ship sank from stern to bow. Often, especially after deck-gun attacks, ships burst into flames 
+ and explode violently, scattering everything from masts to cargo every which way. Morbid as it 
+ sounds, after spending vast amounts of time getting into position undetected and working up the 
+ firing solution that strikes a killer blow, it is extremely satisfying to watch your prey stumble 
+ through its unique dance of death.     
+-------------------------------------------------
+:::User Reviews::: (64 Reviews)
+::::::
+UserName: DethisRedeption
+Rating: 9.5
+Date: Feb 5, 2009 11:47 am PT
+Review:  First and foremost, I am huge FPS player and that is what I play mainly. But lately I got tired 
+ of the same old same old. So I shifted around Steam and happened upon the gem. I have never play 
+ a sub sim before cept for the one that was 11 years ago. The name eludes me and I was 12. But i 
+ was in for something different. Once the game was installed I was ready to take on the whole allied 
+ fleet. With all the community add ons, skins and sounds. This game is so immersive. The only way 
+ to get it anymore realistic is to stick a refrigerator box over you and your computer. Light a 
+ cigar and yell, "Verdammt Britische Schwiene!!!" or whatever quote you can come up with. There 
+ is nothing scarier than having 2 or 3 destroyer out for blood and all you can do is be as quiet 
+ as possible while your hearing depth charges going off. I highly recommend this game for anyone 
+ who wants a change of pace from the ho hum life of an FPS player. 
+::::::
+
+::::::
+UserName: YourNo1CR
+Rating: 9
+Date: Aug 31, 2008 7:11 am PT
+Review:  REVIEW
+  This game is one of the best sub simulations that has come out in recent years: with 4 types of 
+ subs available (with add-ons) , a world that is about as big as morrowind (maybe not that big, but it's 
+ big) and a career that lasts for 6 years (WWII) , this is easily the game that represents submarine 
+ warfare.
+  
+  In this game you can travel to New York, see the Statue of Liberty, take down merchant ships at 
+ ports, hunt convoys for days and nights, pound enemy fighter planes with your flak gun and dive to 
+ 150m to evade depth charges from allies destroyers.
+  
+  This game also has an excellent sound system that will make the game as realistic as possible and 
+ a cleverly thought out campiagn (your career) . In your career, which lasts from 1939 to 1945, you 
+ start with a U-boat from 1939 to 1943. From there you go out on a mission to patrol a grid (ex-AD35) , 
+ but you don't have to do that instead you can go wherever you like and hunt down merchant ships (oil 
+ tankers are great) afterwards when you come back you'll be given points in which you can upgrade 
+ your U-boat, promotions and medals for your men (only if you do well) .
+  
+  However there a few bad points about the game as well, my game (currently broken) after saving: sometimes 
+ my boat still has men on the tower even when underwater, the sound system sometimes goes crazy with 
+ a ear-cracking sound and sometimes you'll hear glass cracking even when nothing's happening. The 
+ save and load system is also a bit slow sometimes and you might find hunting down boats a bit repetitive 
+ after a while (but I never did) .
+  
+  Overall I would still say this game as very x8/10 good, as there aren't many good WWII sub games 
+ out there (apart from maybe SH4) and gives a different experience from other war-time simulation 
+ games (buy on Ebay cost 3 to 5)
+  
+  HINTS AND TIPS
+  *At the beginning of your career (1939-1941) , use your deck gun first to take down merchant ships 
+ instead of torpedoes, as they have no guns to fight back.
+  *Use 2 torpedoes on merchant and 1 on battleship.
+  *Oil tankers have far more tonnage, so always 
+ take them down.
+  *Don't attack destroyers (just dive to 150m, go slow) , they are fast (45nm) and can evade your torpedoes, only 
+ attack them when you have red torpedoes (T5 G7s) (1943-1945) .
+  *At the beginning of your career you'll have white torpedoes (T1 G7a) as time pass only use these 
+ at night as your enemy can see a trail of water coming and will try to steer away (might succeed) 
+ instead use the yellow torpedoes (T2 G7e) at day.
+  *Buy types of torpedoes (1943-1945) that can help.
+  *Green torpedoes are useful when you fire 
+ them blindly into large convoys (convoy will split) .
+  
+  If you need any more help write a message to YourNo1CR. 
+::::::
+
+::::::
+UserName: badkarma77
+Rating: 8.5
+Date: Nov 18, 2007 7:19 pm PT
+Review:  Wow. I'm an older gamer and I've played a lot of sub sims. In my opinion this is the best one yet. 
+ I love how you can manage your crew and give them awards and promotions after a deployment. The 
+ sounds are awesome and the graphics are beautiful. I think I can only say 2 bad things. One, the 
+ resolution is set at 800x600 and can't be changed. And two, the time for the crew to become fatigued 
+ and recover is unrealistic. I've left crew members on watch for days before I have to pull them 
+ off and it takes that much time or longer for them to recover. But, there are many options to tailor 
+ the game play to your likings and skill level. This game is just plain fun. You won't be disappointed. 
+ 
+::::::
+
+::::::
+UserName: hardykrugen
+Rating: 9.5
+Date: Oct 15, 2007 6:39 pm PT
+Review:  I had no idea what to expect when I bought this game but was blown away by it. The game sucks you 
+ in with great atmosphere and time flies by. While there's a lot to learn it runs smooth and the 
+ less realistic settings make the learning curve manageable and enjoyable. You'll find yourself 
+ striving to become proficient enough to set it to 100% realism. The graphics are wonderful and 
+ really draw you into the game as you stand on deck to finish off a lone merchant ship with the 
+ deck gun as to not waste your precious torpedoes. While it's not brand new or the amazing graphically 
+ it has a feel to it that's just right.
+  
+  The sounds play a great deal in submersion and are great. Sitting on the edge of your seat as an 
+ enemy destroyer searches for you with active sonar is thrilling. Trying to figure out their distance 
+ and heading. Sound plays a lot into a WWII Submarine Sim and this game really brings it to life.
+ 
+  
+  Game play can become kind of repetitive as you hunt down a ship, sink it, and return to port just 
+ to do it all over again but it takes a while until that point is reached. At least for me anyway 
+ a couple months. Overall I think this game is an excellent creation. I feel the submersion of it 
+ is much better than the newer Silent Hunter 4 and it'll have you scourging the internet to better 
+ your tactics, choose the best armament, and try to gain an advantage. 
+::::::
+
+::::::
+UserName: gbrading
+Rating: 8.5
+Date: Apr 19, 2008 6:34 pm PT
+Review:  So, I'm sailing through the North Atlantic on a cold, clear evening. It just so happens to be 1941, 
+ and I am a fearless and intrepid Nazi U-boat captain, prepared to strike hard at the Allies. My 
+ goal: to sink as many enemy ships as possible, without loosing my own boat. Sounds quite interesting 
+ from first principles, doesn't it? It's not often in a computer game that you get to play on the 
+ side of what are typically classed as 'the enemy', but Silent Hunter III places you in exactly 
+ such a role, and couples in a highly realistic submarine simulation. Although it is not without 
+ some minor problems, Silent Hunter is an effective and interesting tactical submariner game.
+  
+  There is no preset 'story' to Silent Hunter, but instead the main 'Career' mode leads you through 
+ the course of the Second World War, from the days of relatively easy pickings in 1939, to running 
+ for your life in the highly dangerous waters of 1945. On top of this, there are also a number of 
+ real life historical missions to play through. The war follows real historical events, and so naturally 
+ leads to the inevitable outcome of Axis defeat. However, your crucial part in the war can be played 
+ out to the best of your ability, and will have repercussions to your influence and importance within 
+ the Kriegsmarine (Germany Navy) . You can then select which Flotilla to join, and will be allocated 
+ a home port and U-boat. This boat can be continually updated and advanced as the war progresses, 
+ and you can also make adjustments to the naval staff that operates the vessel.
+  
+  Each mission is of a relatively similar basic setup. You are allocated a square grid of water to 
+ which you must sail, and then patrol that grid for 24 hours before returning to base. Along the 
+ way, you can and should attempt to sink as many enemy vessels as you can. It is important to realise 
+ from the outset that there will be quite a bit of time spent doing nothing more than twiddling 
+ your thumbs if you play this game at real speed all the way, as it can take some inordinate 'realistic' 
+ time to cross the Atlantic Ocean. Thankfully, there is a handy time compression device, which can 
+ be used to ramp up time as high as 1024 times normal. I must admit, I would have preferred it to 
+ go slightly higher, as even at that speed, you still might need a book handy sometimes. You can 
+ also try your hand at completing one of the interesting historical missions. Luckily, the excitement 
+ always happens when you encounter another vessel.
+  
+  Depending on whether you are surfaced or submerged, you will receive a message informing you that 
+ a vessel has been detected or sighted. Now is the time to act fast. You must quickly determine 
+ what the vessel actually is; it's course, speed and likelihood of being able to take it down. Then 
+ you have the enviable task of calculating the torpedo solution, so that you may fire and have the 
+ torpedo explode at the right time. You can either do this all the easy way, by getting the Weapons 
+ Officer to do it for you, or take on the complexity of the Torpedo Data Computer. Either way, the 
+ sense of victory you get from seeing a successful torpedoing is truly fantastic. Navigating and 
+ general management of your boat is relatively easy; thanks to the assistance you receive from your 
+ officers. The Chief Engineer runs the engines, the Navigator can help you plot courses, and the 
+ Watch Officer will allow you to move crewmen on deck if an attack is in progress. Everything has 
+ an appropriate keyboard shortcut as well, so that you can act quickly and effectively during an 
+ attack.
+  
+  Whilst Silent Hunter III is great when the excitement occurs, you do need quite a bit of patience 
+ with it. For example, I was once just cruising along towards a grid of water out past Ireland in 
+ 1942, and I thought stupidly that I could sneak through the English Channel, and shave loads of 
+ time off the journey. I was sadly mistaken. When I was nearby to Dover, a little torpedo boat spotted 
+ me. I submerged and went along in Silent Running mode for a bit, but along came a big English cruiser, 
+ which nastily started Depth Charging me. Finally, as the interior bulkheads were failing and I 
+ was flooding fast, I blew ballast to surface the boat... and collided directly with the English 
+ cruiser, instantly destroying my U-Boat and killing all on board, resulting in a similar situation 
+ happening on cruiser as well. It was infuriating after travelling all that way to lose. However, 
+ it was a great story in getting to that point, and I must admit quite exciting, in a nerve-racking 
+ way.
+  
+  This being a tasteful and high-class submarine simulation that was released both in English and 
+ German, all of the flags, logbooks and uniforms have been stripped off all identifying Nazi symbols, 
+ to meet German law, so the Swastikas are out. Graphically, the game is quite up to standard, having 
+ nicely decorated U-boat interiors and exteriors, very cool looking water effects, and a generally 
+ nice variety of character models (although some look too familiar) , who upon gaining medals will 
+ proudly wear them. Music is perfectly adequate, although you will mainly only want to hear the 
+ 'action' themed music, and may want to put on the gramophone in the radio room, from which mp3 
+ files can be streamed. General sound effects are very good, with radar pings, shuddering, engine 
+ hums and many others. The character voices can be given in both German and English, although it 
+ is infinitely better to have them in German, even if you can't understand it (you can have subtitles) , 
+ because it really adds to the atmosphere. Having them speak English with American accents makes 
+ you forget that you are in command of a German boat.
+  
+  With Silent Hunter III, it is actually possible to never complete the same mission twice. This 
+ adaptive campaign forms the main section of the game, as is easily its strongest asset. The game 
+ is still right at the front of the submarine simulation genre. If you are interested in the Second 
+ World War, submarines, or have just watched 'Das Boot', then this is most certainly the game for 
+ you.
+  
+  Now, "Tauchen zu fnfundzwanzig Fu Kommandanten!" 
+::::::
+
+::::::
+UserName: Caemyr
+Rating: 8.5
+Date: Sep 24, 2007 11:05 am PT
+Review:  I am fairly new to simulations of this type, so i wasn't sure what to expect. I love this game. 
+ It is a bit difficult at times, I had trouble with the Torpedo Attack part of the Naval Academy, 
+ kept running out of torpedos, and the merchant ships kept getting farther away, gotta work on my 
+ navigation. Other than that though, I think this game is amazing, and very addictive. I enjoy seeing 
+ how the tech changes throughout the course of the war, and having to fight aircraft and not just 
+ other ships and subs. The aircraft were the subs biggest threat during the war. All in all though, 
+ I really enjoy playing this game, and I plan to get Silent Hunter IV: Wolves of the Pacific. It 
+ is really a great Sim game. 
+::::::
+
+::::::
+UserName: 211djra
+Rating: 9.6
+Date: May 1, 2007 5:06 am PT
+Review:  My review about Silent hunter 3, well at first I thought it was a strange that a Romanian company 
+ made a game about German u-boats. They where treated pretty poorly by the Germans in WW-2, along 
+ with many other countries and people. German U boat Captains where known to be a bunch of drunken 
+ n rag tags. They where also quite ruthless, I saw a video on Y-Tube of a U-boat captain destroying 
+ a defenses sail boat maybe 30 feet long! They ordered the crew off and then proceeded to blow up 
+ the sail boat. WHY?? They where ordered not to take prisoners, and if you where going to reveal 
+ there location you where as good as dead. There goal in life was to sink merchants, starve, terrorize 
+ the British and allies. My grand father fought against the Germans in WW2 and was almost killed 
+ many times over. So at first I was skeptical about playing such a game to say the least. On the 
+ other hand they lost 3 out 4 during the war. It was one of the most dangerous jobs during WW2. 
+ I visited a historic web site and gained a new respect for them. They where brave, with no dought. 
+ Even though they where fighting a losing war, where most would die they had fight. In Nazi Germany 
+ you where pretty much forced to fight, no matter what. If you didnt you where sent away. I think 
+ this game should be a historic recreation, but not to glorify the U-Boat Flotillas. Its a way 
+ for people to get an idea of what it might have been like to be a U-Boat Commander. My impression 
+ of the Game, the first thing I did was checked out the Museum. Then I did the Naval Academy and 
+ all the classes. Then I started a career in 1939, the first U-Boat I was giving was U-9. Was a 
+ small coastal U-Boat with only 5 torpedoes and no deck gun. It had limited fuel. It was small and 
+ the waves knocked it around like it was nothing. It seemed vary cramped. I thought to my self man 
+ this game is realistic, and that is a huge plus! I have upgraded and progressed through the game 
+ and I really enjoy the historical detail. They really did there home work. Each U-Boat really was 
+ in service, thats including types and U-Boat numbers. Also on of the things I saw was bad press 
+ about the crew management system. People say it is a pain to have to adjust where and what the 
+ crew is doing constantly. Well I think it is a great feature. German officers where micromanagers 
+ so this is what it was like. In the US Navy the NCOs do most of the crew management, not the officer 
+ like it is in SH 4. To keep a long story short, I think it is the best game of its kind hands down. 
+ I havent played SH4 yet, but I plan on it! 
+::::::
+
+::::::
+UserName: crocko05
+Rating: 9.4
+Date: Apr 16, 2007 5:20 pm PT
+Review:  A fantastic game!! Better write this review before I start playing again (won't be back for hours!) . 
+ Highly recommend. Excellent WWII sub simulation. Was playing SH2 before I purchased SH3, thought 
+ that was good, this game is 3 times better! (SH2 has now been relegated to the cupboard) . Great 
+ graphics and game-play. Keyboard controls and sub handling will take a little while to master, 
+ but if played SH2 or other sub games should not be to difficult to learn. Will require a fairly 
+ powerful computer to run properly, very taxing on all recources, esp graphics and memory (my comp; 
+ Celeron 2.4D, Radeon 9600Pro 256MB, 1GB mem, just on threshold of stable game play!) . If you like 
+ WWII sim games this is a must in your collection. And be prepered to sit at the computer for hours. 
+ 
+::::::
+
+::::::
+UserName: senseless_dj
+Rating: 8.5
+Date: Apr 14, 2007 6:34 am PT
+Review:  now thats game to play. play, play and play if u don't play it. I Am waiting for the next one  
+ as as as as as as so so so so as as as as as as as so so so so as as as as as as as so so so so 
+ as as as as as as as so so so so as as as as as as as so so so so as as as as as as as so so so 
+ so as as as as as as as so so so so as as as as as as as so so so so as as as as as as as so so 
+ so so as as as as as as as so so so so as as as as as as as so so so so as as as as as as as so 
+ so so so as as as as as as as so so so so as as as as as as as so so so so as as as as as as as 
+ so so so so as as as as as as as so so so so as as as as as as as so so so so as as as as as as 
+ as so so so so 
+::::::
+
+::::::
+UserName: spec440
+Rating: 9
+Date: Mar 27, 2007 3:52 pm PT
+Review:  quite possibly the best submarine simulator released to date. (yes, its better than SH4. WAY better) .
+ 
+  
+  it'll take you a while to get the hang of this game, especially if you've never played any silent 
+ hunter games before, but GOD is it worth it...
+  
+  few things are as satisfiying as stalking your prey, waiting to strike when the time is right, 
+ and when it is, and you let loose a full spread of torpedoes on your unsuspecting target/s and 
+ hopefully achieve a strike and send your quarry down to davy jones' locker!
+  
+  make no mistake, however, this game is not for the meek or faint of heart.
+  it is a true bona-fide 
+ WW2 submarine sim. with all that it implies.
+  you WILL be hunted by destroyers, attacked by aircraft, and face the same problematic torpedoes 
+ and odds that real u-boat captians faced.
+  
+  but all of that just goes to make success even more satisfying.
+  
+  the campaign features a 
+ wide open world for you to roam in, and it is solely up to you to decide on how to carry out your 
+ mission.
+  
+  the graphics engine is simply spectacular, and the overall feel of the game is simply unparalleled. 
+ the are some sound glitches however, even in the latest version (1.4) , and previous version have 
+ several very annoying bugs to them.
+  
+  but overall, this game is simply a must play for naval game fans, or anyone who ever fancied himself 
+ a sub commander. 
+::::::
+
+::::::
+UserName: trebor22031982
+Rating: 9.6
+Date: Jan 16, 2007 6:15 am PT
+Review:  My first delve into submarine sims came in the form of a demo of Steel Tide. Following an exhaustive 
+ search, I bought and played Silent Hunter II. When Silent Hunter III was released, i had enjoyed 
+ SH2 so much, that i bought SH3 as soon as it became available.
+  You can jump straight into the u-boats and start sinking ships, or take the leisurely route via 
+ the tutorials, but either way, the game pulls you in, and it is very, very difficult to stop playing 
+ it. With varying difficulty, and a limited modding capability, you can adjust the game to suit 
+ you, whether this is your first sub sim, or the latest in a chain of submarine games.
+  You sit on the edge of your seat, hoping for the boom from a torpedo hitting its target, or listen 
+ carefully for the sound of depth charges being dropped (hopefully far away) . With a large variety 
+ of targets and unlimited free roaming of the seas, the only limit, is that you can't be resupplied 
+ at sea, and the missions must come to an end, either by death, no targets, or running out of ammo.
+ 
+  No matter which way you play the game, it will engage you for hours at a time, and can still take 
+ months to complete just one campaign.
+  And the campaign isn't the end, there are many single player missions, based on real events in 
+ the battle for the atlantic, and with a mission editor, you can create an unlimited variety of 
+ missions, from stationary target practice to co-operation with surface vessels, or escape from 
+ the hunter-killers.
+  Play how you want, fight how you want, but just remember...
+  DON'T FORGET TO STAY ALIVE 
+::::::
+
+::::::
+UserName: mach9_6
+Rating: 9.6
+Date: Jan 7, 2007 11:45 am PT
+Review:  I remember the first time I played a submarine simulator, Silent Service for the Nintendo Entertainment 
+ System. It didn't really impress me all that much because I had trouble identifying my targets, 
+ added to the fact that I didnt know much of the way of submarine tactics so I never really learned 
+ to have a healthy interest in it.
+  
+  Then came Silent Service II for DOS/Windows 3.1 and once I began to make a little bit of progress 
+ in understanding submarine tactics I played it religiously. The game looked and played great. I 
+ was especially impressed with the career mode. Spending all 6 years of the war seeking and destroying 
+ Japanese convoys was quite exhilarating. I must say it was a step up from the original Silent Service.
+ 
+  
+  So, one day I decided to buy myself a new PC and I discovered that Silent Service II stopped running 
+ because my version of DOS was far too advanced to run it. This prompted me to wonder when a submarine 
+ simulator for Windows XP would become available so I visited gaming sites daily and then, there 
+ it was, SILENT HUNTER III! At first glance I knew that this was going to be a bench marker, the 
+ mother of all World War II submarine simulators. I have never seen a game quite like this so I 
+ began watching video footage of the game in action. I knew right then and there I had to own it.
+ 
+  
+  Upon release, I went to Wal-Mart and I did not hesitate to buy it. When I got home, I immediately 
+ installed it and got right into the action. I was blown away!
+  
+  GAMEPLAY
+  
+  Since the early years of World War II submarine simulations, the gameplay hasnt really changed 
+ a whole lot. In fact, I found it got easier. Whether youre out on patrol or training to engage 
+ the enemy, all the tools you need to control your sub and give orders to your officers and crew 
+ is just a click or key away and if youre still unsure, the game comes with a quick reference card 
+ containing all your key commands and shortcuts.
+  
+  Engaging targets isnt an overwhelming task at all. If you want to engage with your deck gun, you 
+ have the option to give your watch officer the order to man the deck gun and let your gunners handle 
+ it or you can take control of the weapon directly. Torpedo attacks can be handled by simply raising 
+ your periscope, locking your target and pushing the fire button or you can enter all the data manually 
+ in the TDC (Torpedo Data Computer) to set up your attack exactly the way the veterans did.
+  
+  What can I say? Kudos to Ubisoft in this department, a job well done!
+  
+  GRAPHICS
+  
+ 
+  This game really gives you the impression that youre actually serving in the Second World War. 
+ The ships have been closely rendered to their real life counterparts and the environmental scenery 
+ is just wonderful. The weather changes will sometimes affect sea conditions, which will make the 
+ hunt a little more challenging. The inside of your submarine has been modeled to perfection. You 
+ can actually see your officers at their posts just waiting for you to give orders. Sub hunting 
+ is a team effort and Ubisoft has done a wonderful job of making sure the player doesnt feel like 
+ he/she is alone. External view is a welcome commodity as well. Any time you want to see whats 
+ happening outside your submarine or just how far your torpedo is from the target, click on the 
+ eye icon on the left side of your screen and voila! A motion picture view of an unsuspecting and 
+ helpless cargo ship about to take a devastating blow from an accurate torpedo attack by yours truly! 
+ Of course, youll have to zoom in on the action but the graphics are so captivating that not very 
+ many people will seem to care.
+  
+  SOUND
+  
+  One thing I really like here is the creaking of the hull of your submarine as youre taking her 
+ down. Spooky! Individual dialog of your officers help boost the sense of realism to the game as 
+ well. I actually know who Im giving orders to this time. The engine sounds are neat. The pitch 
+ of your diesel and electric engines change as you increase and decrease your submarines speed. 
+ The sound of an attacking destroyers propellers is highly noticeable too. Nice touch, guys!
+  
+  BOTTOM LINE
+  
+  This game is definitely a submarine simulator fans delight! It has all 
+ the tools to keep fans of the genre happy and then some. If you dont already have the game and 
+ youre really looking to get an explosive experience of intense u-boat action in the North Atlantic 
+ then dont pass this up! Youll be sorry if you do. 
+::::::
+
+::::::
+UserName: DanGoomba
+Rating: 9.3
+Date: Dec 29, 2006 10:35 am PT
+Review:  Silent Hunter 3 is an immersive sub sim set in World War 2. This isn't just another WW2 game where 
+ you mow down hundreds of Nazis, though. In fact, YOU are the Nazi As captain of a German U-Boat 
+ from 1939 to 1945, your job is to mercilessly hunt down and destroy Allied merchant ships, while 
+ avoiding enemy aircraft and destroyers. The part of this game I liked was the fact that you are 
+ both hunter and hunted; you're always in the middle of the food chain. Some players may not like 
+ the fact that you'll have to run away from engagements more than a few times, though that depends 
+ on your playing style, you can go Rambo and die in a fiery blaze of glory, or you can play it safe 
+ and have a long, unimpressive career.
+  
+  The gameplay is the best part: your U-Boat sails the seas in real time (with time compression available, 
+ else it would take forever) looking for juicy merchant ships. Once you find them, you can blow 
+ them away piece by piece using your deck gun (a spitwad compared to what enemy warships have) or 
+ sink them with torpedos. Torpedos are more satisfying, you'll have to use instruments to gather 
+ range, speed and angle on your target, then line things up perfectly to hit. You'll miss more often 
+ than not. Of course, only the most hardbitten grognards will want to use this regurally, so you 
+ can have the computer gather all this for you, you'll still have to decide what depth to fire the 
+ torp at, what type to use, how close to get before firing, etc. This all sounds like work, but 
+ there's few more satisfying moments I've had in gaming than successfully hitting a tanker, then 
+ watching it explode into a massive column of smoke and fire.
+  
+  Sometimes despite your best efforts, you'll be spotted by the enemy. This makes for some very tense 
+ moments as you're changed from the hunter into the hunted, it completely changes the tone of the 
+ game. If they find your exact position, they'll drop depth charges onto you, bashing your boat 
+ back and forth and steam and water shoot out of damaged vents. If you're hurt bad enough, you'll 
+ have to surface, where you'll be blown to pieces by gunfire. Save often.
+  
+  The meat of the game is the campaign. You're based out a port, and where you'll return to stock 
+ up on fuel and torpedos, but most of your time is spent on patrol. Several historical missions 
+ are also available where you have to sink a battleship and attack a convoy. Finally, multi player 
+ is available, but I never tried it, this is a solitary game a heart anyway.
+  
+  The graphics overall are excellent: the water effects (waves especially) are amazingly realistic, 
+ and ship models are impressively detailed. Damage modeling is excellent, damaged ships sink a thousand 
+ different ways, some break in half and explode, others flip over and sink, others will slowly and 
+ evenly sink beneath the waves.
+  
+  The sound is well done, engine, battle, and voices all seem well-modeled and realistic. I do wish 
+ there was more variety to the music, however.
+  
+  That leads into my next point, the unimpressive aspects of Silent Hunter 3. Load times are excessively 
+ long (have a magazine or a newspaper nearby, I'm not kidding) , the crew management system is annoying, 
+ why aren't they smart enough to go to sleep when they're tired? All your crew members are effectively 
+ mindless clones, so even with 50 men aboard I felt somewhat alone, the AI is spotty at times (how 
+ nice of you to come to a complete stop so I can sink you easier) , and the save system is cumbersome.
+ 
+  
+  Despite all this, Silent Hunter 3 is the best military sim I've ever played. If you're not interested 
+ in the subject, this won't change your mind, but if you are, go buy this game. 
+::::::
+
+::::::
+UserName: GenTom
+Rating: 9.3
+Date: Dec 24, 2006 7:09 am PT
+Review:  Ive always been interested in outer space and underwater, with books and films like 2001 and 20,000 
+ Leagues but there have been very few decent simulations that delve into my second area of interest, 
+ theyre usually based on traditional and realistic methods for the navigation and control of a 
+ submarine. This is all well and good but in the day and age of cutting-edge graphics and affordable 
+ personal computers, I have been itching for something to fill this void for a long time, ever since 
+ I played Subwar 2050 on my old 486. Its been quite a while coming but I have found a game that 
+ really caught my interest and provided a nice mix between historical realism and out and out fun.
+ 
+  
+  Ubisofts latest simulation to grace our PCs is set in World War II and follows the career of a 
+ promising U-Boat captain (you) as the war progresses. Silent Hunter III is the name of the game 
+ and it fuses cutting-edge graphics with solid gameplay and controls.
+  
+  Story
+  
+  The story in Silent Hunter III is what you make of it; the player creates their own personal war 
+ journal and story as the dynamic campaign progresses against a historically near-accurate model 
+ of WWII raging on in the background. So there isnt a cut and dried story flowing to guide you, 
+ youre given orders from HQ and its up to you how you fulfil those particular patrol criteria.
+ 
+  
+  Gameplay
+  
+  Career mode is where its at in SH III and after selecting a few criteria, such as the year you 
+ begin your career in and the flotilla plus type of U-boat, youre taken to an office and given 
+ the choice of accepting a mission from the map screen or tailoring your crew and U-boat with your 
+ 500 points of Renown. (1000 points are added if you pass the Naval Academy exams in the tutorial 
+ section) .
+  
+  Successful missions and patrols add up to more Renown and better equipment, U-boats and so on as 
+ the campaign progresses. Youre given radio messages from HQ as the war goes on and thats about 
+ it regarding the story, youre given free reign to sink as much of the enemies war machine as possible 
+ and cripple their supply lines  the more you do means the more toys you get.
+  
+  Alongside the career mode theres a single mission mode and the cooperative multiplayer where you 
+ can team up in wolf-packs, to sink enemy ships and wreak havoc in either single missions or generated 
+ ones. Theres also nothing to stop you using the LAN function of the game to set up your own generated 
+ missions just for you against any number of enemies and their escorts  one word of warning  the 
+ game will fill the oceans with ships based on the time period and the state of the war, so even 
+ if you think theres only merchants out there ripe for the plucking, you might still catch the 
+ attention of a destroyer or troop ship.
+  
+  The control of the submarine is done via a fairly intuitive interface and of course there are the 
+ numerous keys and keyboard shortcuts, if giving orders via the GUI isnt your thing. Some inventive 
+ players have also found voice-activation software works a treat with this game and have configured 
+ it so they dont need to touch a key to give orders. For those of us who rely on the traditional 
+ keyboard and mouse, this game is a breeze to control, everything is laid out within easy reach 
+ and most of the control dials are easy enough to read, apart from the compass which is a bit of 
+ a strain on the eyes.
+  
+  The excellent tutorial videos explain all aspects of controlling the sub and provide some useful 
+ examples, especially how to search and track down a convoy from the sonar mans information. Its 
+ worth watching all of these as they will teach you far more about Silent Hunter III than the manual 
+ to be honest.
+  
+  Das Boot! I love virtual cockpits and compartments, so I was really pleased when the first thing 
+ that greeted me as I got into the first skirmish in Silent Hunter III was a 3d representation of 
+ the forward compartment. You can either use the mouse to look around clicking on officers to give 
+ orders via little icons that pop up, or right click and enter the station yourself to use the equipment 
+ there  this takes some getting used to but really does add to the level of immersion.
+  
+  With a click of the mouse or a tap of a keyboard button you can take a look through the attack 
+ periscope (providing youve bothered to raise it and are at periscope depth)  you can even opt 
+ to lock targets and fire torpedoes from this view, allowing you to take a less simulated approach 
+ to the whole acquisition and destruction of enemy targets. A small triangle appears and gives you 
+ an indication of how likely you are based on various factors, to hit or miss your target.
+  
+  I note right now before the clamour from the realism crowd grows any louder, the various difficulty 
+ levels in the game are fully customisable and you can select from any number of options to tailor 
+ your SH III experience to how you want to play it.
+  
+  100% realism and youll be keeping an eye on fuel, air and so on, with no visual aids to help you 
+ target and attack ships, you can set everything manually inputting the gyro-angles and flicking 
+ through the ship recognition manual based on various silhouettes  set the depth of your fish and 
+ hope you have the target identified correctly.
+  
+  At 0% realism you can sit back and play a more arcade-style version of the game where youre only 
+ worried about firing solutions from your weapons officer and not having to go through the hard 
+ work of setting everything up manually.
+  
+  Silent Hunter III brings the submarine to life with crew management and other features, theyll 
+ get tired and exhausted depending on how you treat them, their fatigue grows the more they remain 
+ on station and you can have vital members of your crew pass out leaving you without propulsion 
+ or worse still no means of piloting your U-boat. The developers seem to have forgotten a crew-rotation 
+ button in the game although you can click on things like the submerged attack, cruise and so on 
+ (or surface variants) and that will refresh your crew cycling the awake and vibrant members for 
+ the ones that are dead on their feet.
+  
+  Its sadly not one of the options that you can turn off in the realism settings so unless you work 
+ out how to mod the game (the good news is that its very moddable as far as settings go) youre 
+ pretty much stuck with crew management and fatigue.
+  
+  For those long days at sea theres the time-compression facility that allows you to go as high 
+ as 1024 times when on the main map screen and 32 when in external cameras.
+  
+  Apart from those minor niggles, finding and eliminating enemy vessels is a pretty simple task once 
+ youve worked out how to search for them, the developers have provided a nice set of map tools 
+ for the player to plot trajectories and bearings (with fan-sites already providing even more tools 
+ and enhancements) , to provide information and create a suitable search corridor, based on the projected 
+ sightings (via radar) from the radio man and HQ of convoys, lone merchants and warships.
+  
+  The navigation screen and the TDC (Torpedo Data Computer) are all nicely modelled and appear like 
+ a map, with bearing lines and markers as they might show on a proper representation of the map 
+ in a real U-boat. The screens are rarely cluttered and are nice and simple to use/read  giving 
+ the player just the right amount of information to help them get a target. To cut a long and potentially 
+ boring section short, SH III features some of the best GUI and control systems out there in sim 
+ land, its easy and fun to control the U-boat and the payoff from sinking an enemy ship comes in 
+ several ways.
+  
+  Thar she blows!
+  
+  Not content with modelling the U-boat down to every dial and bolt, the developers have used a next-generation 
+ engine to simulate the real world outside of the games cramped interiors. For the first time in 
+ any submarine simulation there are external cameras and the gorgeously implemented event camera 
+ which triggers based on important proximity events such as torpedo launches, targets being hit 
+ or sunk.
+  
+  If you press V while the tiny window is open you can swap into a letterboxed full screen version 
+ of the camera, for that true movie-like experience. The game and graphics engine for SH III is 
+ working overtime; it has to model a realistic sea and weather system while working out several 
+ factors (day or night, storm or shine) that all influence the shipping moving along trade routes 
+ or straying to check out suspected U-boat sightings. Its keeping track of so much its easy to 
+ forget theres a competent and complex simulation running under the skin of the gorgeous graphics 
+ and stunning models, complete with a layered damage system where vessels can take differing amounts 
+ of damage and you can send a mast hurtling into the sea with a well-placed shot from the deck gun 
+ (providing youre not in a storm) .
+  
+  Graphics, Models, Animations
+  
+  Silent Hunter III is full 3d and its packed with nice graphical touches and suitable texturing, 
+ the bubbles from the propellers and the swirl of the water as your U-boat glides silently through 
+ the waves. It implements a whole new look for the sub-sims and I hope other developers follow suit 
+ in the realisation that while having historically and realistically accurate simulations are all 
+ well and good for the sim-crowd, people like me do like their bells and whistles in this respect 
+ and watching a nice explosion from the external or event camera gives us a sense on unparalleled 
+ pleasure.
+  
+  The interior graphics are as good as the exterior and when the U-boat is under attack or moving, 
+ the camera sways a little. If you take serious damage you can look forwards to seeing water bursting 
+ from pipes and dials cracking from the impact and rattle of depth-charges. So SH III has excellent 
+ graphics and models coupled with a nice damage system and great lighting, it all helps to bring 
+ the game to life especially as the sub runs on red lights at night and the moon glimmers in her 
+ various phases as time passes on. (Yes theres day and night cycles along with weather and time 
+ as the years roll on. The sea can be as calm as glass one day or toss the U-boat around like a 
+ rag doll as a storm rages in the heavens above) .
+  
+  The character animations in SH III are good, they have animated crew on the deck and in the compartments, 
+ they have a number of simple but effective ambient animations that help to bring them to life and 
+ they respond to orders often with a lip-synched dialogue, simple again but it does the job.
+  
+  The vessel animations and those of hostile air-craft are also pretty good, from the spin of 
+ the submarine screws to the whirl of the propellers on the various planes. Various parts of the 
+ ships like the flags, wave in the wind, radar towers rotate and smoke belches forth from funnels.
+ 
+  
+  It reminded me of a Janes Combat Sim but with a graphics engine that far outshines those games, 
+ with much more depth and certainly a lot more replay value. (Considering it comes with a full editor 
+ allowing you to make MP, SP and Campaign missions) .
+  
+  Music, Sound and Voice
+  
+  SH III has some nice atmospheric music that keeps the tension and changes with the various actions, 
+ if youre about to go head to head with a ship then youll find that itll switch to something 
+ more action orientated and back again if you dive to a safer depth and outrun an enemy vessel. 
+ Theres also a Gramophone where you can put your own MP3s and OGG files, filling the directory 
+ with WW II mood music or the hardest rock.
+  
+  The voice acting in SH III isnt going to win any awards and its passable, officer responses to 
+ orders are clear and understandable and there really isnt much dialogue apart from that. Theres 
+ a nice mix of ambient and spot effects, from the rattle of the engines to the patter of footsteps 
+ and the clunk of the hatches as you submerge the boat beneath the crashing waves.
+  
+  All in all I have no real complaints about the sounds since I dont really know how a real U-boat 
+ would have sounded.
+  
+  Play with friends
+  
+  SH III can be played multiplayer across either LAN or Online and offers the player a chance to 
+ team up with their friends and participate in wolf-pack hunts against a configurable enemy fleet. 
+ A number of options can be altered in this case and you can even play with unlimited torpedoes 
+ (not accurate but fun) to give the new players a better edge, since getting a good firing solution 
+ can be a pain in the neck sometimes.
+  
+  Das Boot II
+  
+  Theres no story told with elaborate cut-scenes so this might put some of the players off the game, 
+ since it is really all about you and your U-boat. The dynamic campaign world is different every 
+ time and some patrols can be un-eventful, thus boring and if youre a fan of instant-gratification 
+ and hardcore action then youll want to steer clear of Silent Hunter III since it is a sim regardless 
+ of how you look at it.
+  
+  If you like the thrill of the chase and dont mind sitting for a few minutes working out bearings 
+ and angles, plotting a decent interception and waiting patiently for the right AoA (Angle of Attack) 
+ so you dont waste a single fish then youre going to love Silent Hunter III because it simulates 
+ that whole aspect of the hunt while retaining enough gameplay to make the game actually fun to 
+ play.
+  
+  There are a few bugs and already the hard-core simmers are complaining about the level of realism, 
+ the UZO bug is about the worst and the developers released 1.01 to counter it  theres a tendency 
+ when youre running at speed on the surface for the particle spray from the front of the boat to 
+ become too strong when viewed through the UZO and white-out the screen (In 1.01 you can hit ctrl-p 
+ to toggle the particle system off and avoid this bug) .
+  
+  There is also a 7th Flotilla bug where the submarine will still keep getting orders from HQ even 
+ though the war has ended. The community has provided a work-around for this and its thanks to 
+ gamers like Beery and company that we can look forwards to extra content and fixes. I recommend 
+ if you do get Silent Hunter III then zip on over to Subsim. com and hit their forums.
+  
+  There are also a few bugs where captains are given land-locked grids for their patrol and again 
+ its the community to the rescue.
+  
+  Subsims patch section
+  
+  I should really give credit to the developers for making such an open and moddable game as Silent 
+ Hunter III but they do lose a few points for these errors in the first place, a case of not quite 
+ getting their firing solutions correct and missing the target by a few feet.
+  
+  Theres probably a load Ive missed in the review, but the main point was to provide a gamers 
+ eye view of the game and not baffle everyone with polygon counts or game specifications.
+  
+  Silent Hunter III is a great addition to the submarine sim genre and allows the player to build 
+ their own personal story during WW II. With an upgradeable submarine, crew experience and renown 
+ system that allows you to request transfers to different flotillas and earn the right to use new 
+ U-boats, including the type 21 (XXI) prototype armed with six torpedo tubes and better engines, 
+ SH III provides endless hours of submarine goodness all from the safety of your PC monitor and 
+ keyboard.
+  
+  I look forward to seeing an expansion or a sequel to the game to see where the team can take this 
+ engine to next, for me its the perfect sim that I can devote as little or as much time to while 
+ enjoying some of the best graphics and modelling from fully moveable cameras, a true first for 
+ this genre. Note: Silent Hunter III patch 1.02 is now available that addresses some of the issues, 
+ this was discovered after the review went to print - nice to see the dev team are on their toes! 
+ 
+::::::
+
+::::::
+UserName: grarap
+Rating: 5
+Date: Dec 17, 2006 12:07 pm PT
+Review:  Silent Hunter is undoubtedly the greatest sub sim on the market. Its a shame that it ships with 
+ a peice of copy-protection software that can only be classified as malware. After a few short hours 
+ on the open seas I noticed by PC performing extremely poorly and my game crashing constantly, to 
+ the point where everything was just.... black. It wouldn't work. Since SH can only live with this 
+ piece of crappy programming I had to uninstall. Value? Non existant. However, I heard that the 
+ D2D version of the game doesnt come with the malware. Still, avoid the CD version at all costs, 
+ unless you want your PC to hate you for all eternity. 
+::::::
+
+::::::
+UserName: Mosss4
+Rating: 8.6
+Date: Oct 18, 2006 10:47 am PT
+Review:  Silent Hunter III has to be one of the best sub sim's ever created. Historically correct from the 
+ start its a must for WWII maniacs like me. If the player releases the full potential of the game 
+ its stunningly addictive. Newbie's to sub sim's might not find the appeal but I would encourage 
+ them to stick at it. If you don't click with the game straight off you will find yourself wandering 
+ around never finding a target, not a pleasant experience. The graphics are pleasing inside and 
+ out of das boot (pardon the pun!) . The ships are very controllable with all the info you need, 
+ you can even improve the sailors! One last tip - go easy with the difficulty levels if you make 
+ the game to easy it becomes a tedious duck shoot and if your out for a challenge use realistic 
+ fuel load that wil help keep you on your toes !! l 
+::::::
+
+::::::
+UserName: cei13
+Rating: 9.4
+Date: Oct 16, 2006 6:13 am PT
+Review:  Having played almost every sub sim ever made, from the original Silent Hunter to 688 Attack Sub 
+ and Red Storm Rising, I can honestly say that SH3 is the best of the bunch. The graphics are top 
+ notch and the sound is dead on. If you are prone to seasickness, do not use the bridge view during 
+ a storm! The screen rolls convincingly and is extremely immersive. The battles are realistic and 
+ the level of tension is palpable, especially when you are playing career mode and have advanced 
+ well into the game. The controls are a bit daunting at first, but easy to navigate once you memorize 
+ the key commands. The only complaint I have is that a lot of time is spent, even with time compression, 
+ just sailing to your mission zone. This is realistic, but it is boring. However, when you see your 
+ torpedo take out that fat tanker, it more than makes up for it. I'm hoping someone does a modern 
+ sub sim with this much attention to detail.
+  
+  To fully enjoy this game, you will need a good system. I have a 2.4 GHz Pentium 4, ATI X800 Pro 
+ (256 MB RAM) and 1.5 GB of RAM. I can run it with full detail with very little slowdown. 
+::::::
+
+::::::
+UserName: Jason210
+Rating: 9.2
+Date: Oct 13, 2006 6:42 am PT
+Review:  This was one of the big releases of 2005, and is a dream come true for lovers of U-boat sims. Even 
+ if you arent interested in U-boats or simulators, you can't fail to be impressed by the outstanding 
+ graphics of this game, which are undoubtedly the most intense and realistic ever created in this 
+ genre. The sea actually looks real, both in the quality of the surface and the complex wave behavior. 
+ Wakes, and splashes from the various vessels are all well done, and properly synchronized with 
+ excellent sound effects. The weather system is highly advanced, having autonomous weather that 
+ is unpredictable. Fog, drizzle, rain can happen at any time and the graphics all have the right 
+ atmospheric look and feel. The effect of these graphics takes the player to a new level of immersion, 
+ which is very evident when youre riding out a storm in a U-boat on the surface. This is a scary 
+ experience, and actually makes you realize how vulnerable you are out in a small vessel in the 
+ middle of the Atlantic. It makes you want to dive below the surface to the calmer submarine environment
+ 
+  
+  In the calmer, quieter interior, youll find yourself in the control room, a true 3D- Environment, 
+ where you can look around from a fixed viewpoint and interact with fully modeled 3D crew, or click 
+ to exchange places with a crew member and operate his 3D controls with the mouse. You can also 
+ click to enter other compartments interact with the crew and equipment there. The interior modeling 
+ is excellent, and the sound and lighting just right.
+  
+  The external detail of the U-boat is very high, making use of high resolution textures, and this 
+ level of detail is also applied every vessel that appears in the game. The ships look real when 
+ you look at them through the periscope, and if you manage to hit one with a torpedo or a gun, youll 
+ be amazed at how the damage is modeled. Very realistic.
+  
+  In terms of gameplay, SH III is not a game designed to please those out for quick thrills. You 
+ can sit for hours with nothing happening, but with the potential of something happening every second, 
+ and not get bored. Theres always things to do. You can browse through the identification book, 
+ listen on the hydrophone, stand on the bridge, or go to the navigation table and plot a new course. 
+ You can also talk with the crew, requesting them to do certain things, or move them around into 
+ different compartments. As you sail across the north sea, youre crew will tire and you will have 
+ to relieve them and replace them with new watches. Your crew is personalized, in that each crew 
+ member has a name and several attributes, such as rank, skill, awards, endurance and experience, 
+ and you can allocate them to various compartments and areas on the sub. The number and quality 
+ of crew allocated to a compartment will affect that compartments efficiency, and if it falls below 
+ a critical level, the compartment will not function. In the Career (campaign) mode, the same crew 
+ are with you throughout your career, and while you are at base you can promote them and give out 
+ medals and qualifications if they've done a good job, or dismiss them and reappoint new ones. As 
+ you progress through your career, you earn points that you can then use to buy equipment, train 
+ your crew or even upgrade your U-boat to a newer model.
+  
+  When the action comes, though, the long periods of silence and uneventfulness only serve to accentuate 
+ the intensity of the experience of an enemy encounter, such as the sinking a cargo vessel, or of 
+ an encounter with a destroyer. Trying to dodge a destroyer without using the external camera is 
+ difficult, and tense, and your life may depend on that little extra bit of technology your boat 
+ may have - that extra knot of speed, or that extra minute on that Bold decoy. It will also depend 
+ on your skill, as a Captain, to know when to maneuver the boat under full power to execute a quick 
+ turn; and when to be silent, hoping that the enemy active sonar doesn't pick you up.
+  
+  Damage control is advanced in this game, there being several kinds of damage. Small damage can 
+ be fixed automatically by the crew, but for larger damage, you need to assign a repair team to 
+ fix it. Parts of the sub may be damaged beyond repair.
+  
+  Shipping of the axis, allies and neutral countries are operated automatically according to historically 
+ accurate shipping routes. The effect of all these autonomous systems (weather also) , combined with 
+ the dynamic campaign system means that a campaign is never the same, so you start a new career 
+ and play it all again as if for the first time.
+  
+  The first time you play this game, youll be impressed when you leave the port on the first day 
+ of your campaign. It was night when I ordered Ahead Slow and left the pen amidst cheering crowds 
+ and a band playing the national anthem. The journey through the harbour took about ten minutes, 
+ and I saw people walking around on the walls, soldiers, a motorbike, and then the U-boat broke 
+ out into the open sea between two lighthouses, their bright light reflecting intermittently on 
+ the black shiny surface of the water. It was like being in a Das Boot .
+  
+  Several minor updates were released with the game, but it was criticised for not being finished 
+ and for being too gamey, rather than a realistic simulator. . Thankfully, the modding community 
+ have brought out some excellent free mods, such as SHIII Commmander and Real U-boat, the latter 
+ of which makes the U-boat behave as a closely as possible to the real thing. 
+::::::
+
+::::::
+UserName: laversn
+Rating: 9.1
+Date: Aug 12, 2006 10:51 am PT
+Review:  Well. I never thought I would like this kind of a game at all... ( I usually like run and fire 
+ type games /FPS) . 
+  
+  But.... I saw this in the bargain bin @ the store last night and said... ok ... I'll give it a 
+ go for that kind of money $$$ /cheap right now.
+  
+  WOW... I wish I had bought this a long time ago ... I'm totally hooked man.... I mean hooked right 
+ in!
+  
+  The graphics are great and the game is very in depth as well. The water looks so real... and the 
+ guns sound great too.
+  
+  It also has a very nice free look feature!.. All the panels/controls are laid out well.
+  
+ 
+  It's so much fun to boss everyone around on the boat and tell them... hey fire over there... 
+ NOW!
+  
+  I will write more when I get deeper into the game, as I am just learning the ropes right now.
+ 
+  
+  DON'T PASS THIS ONE BY .... IF YOU SEE IT IN THE BARGIN BIN.... Grab It!!!!
+  
+  ... it may completely surprise you with just how much fun this is!
+  
+  later,,,
+  
+  Nels 
+ 
+::::::
+
+::::::
+UserName: SaltyMcSushi
+Rating: 9.6
+Date: Jun 28, 2006 7:57 pm PT
+Review:  Gameplay and Playability
+  Silent Hunter III is a submarine simulator set in World War II Europe and the Atantic- even reaching 
+ into the American eastern coast and the carribean. You play as the capitan on one of eleven German 
+ U-Boat types in one of six different submarine flotillas at any time in the war. The main part 
+ of the game is your career in the German navy. The game sets you out on war patrol after war patrol 
+ where you are ordered to reach and patrol a grid; the map of your operational areas is split up 
+ into grid sections. That's basically it. There are no specific missions, no scripted events, just 
+ patrolling the random patrol grids, managing your U-boat, and sinking enemy ships as you like it. 
+ Patroling your grid only adds to renown, which you use to purchase better crewmen, upgrade your 
+ U-boat, or purchase a new U-boat. Sinking enemy ships gives you renown as well based on their importance. 
+ Sinking a 30000-ton battleship will give you much more renown than a 30-ton water trawler. Since 
+ ships are always sailing around throughout SH3's virtual world, you can completely neglect orders 
+ and sink ships wherever you want- so long as you have enough fuel to get there. Throughout your 
+ career, you will earn awards for your deeds as a capitan. Getting these awards are not like most 
+ games, where getting X amount of kills on a level will give you Y medals. Like real life, getting 
+ the medal depends on the circumstances; sinking 50,000 tons of enemy shipping is only expected 
+ if you're the capitan of the top-of-the-line submarine, but sinking even 25,000 tons in the smallest 
+ submarine would get you Germany's highest honors. Crew medals, however, are awarded just based 
+ on tonnage sunk. You can give these medals to your crew, and unlike your own personal medals, they 
+ have an affect on the gameplay by improbing your crew.
+  
+  The game is outstandingly realistic. The only part of the submarine you can directly move or activate 
+ is the periscope, hydrophone, and radar. Everything else- moving the submarine, changing course, 
+ firing torpedoes, etc.- is done by ordering the crew to do it or through a series of actions. On 
+ full realism, you even need to find the torpedo solution (aiming the torpedo) yourself by finding 
+ a mess of information about the target's speed, direction, and distance through mathematics and 
+ geometry. Even after all this, you may not want to fire, because if a torpedo hits an enemy ship 
+ at too steep an angle, it'll harmlessly deflect off the side and will only reveal your presence 
+ to the enemy. Where you it matters as well; hitting certain points on the ship's side may destroy 
+ their engines, destroy the propeller, leak the ship's fuel, or on warships, ignite the ammo bunkers. 
+ Limited fuel means you need to sail at the lowest speed or risk not having enough fuel to get home. 
+ Limited batteries and oxygen will limit your time underwater, and going too deep will put too much 
+ pressure on your submarine and literally crush it. Also highly realistic is the progression of 
+ technology throughout the game. In the beginning of the war, convoys are lightly guarded, so you 
+ can take out most of the 20 ships or so, even the escorts, with relative ease. Nearing the end 
+ of the war, convoys are a dreaded sight, as they are guarded by many very smart and dangerous escorts. 
+ The always strengthening enemy airpower is also a serious threat. If your crew spots an enemy naval 
+ bomber too late, you can just kiss your U-boat goodbye. Eventualy, it comes to the point where 
+ even the area around your home port can be dangerous to be in. Chances are, you're going to be 
+ sunk before the war is over.
+  
+  So you may think, "Why play this game if I'm just going to get sunk?" Silent Hunter 3 is not a 
+ game that you play to beat. Sure, you can turn all realism options off and sink a hundred thousand 
+ tons in one patrol, but I guarantee you that it will be very boring. While other games can boast 
+ hours of gameplay, rich stroylines, or good multiplayer, SH3 is a fun game simply because you are 
+ the capitan of a submarine in a realistic atomosphere. Realism settings and mods further your immersion 
+ into this virtual world, and make the game far more enjoyable. There is a rich community of very 
+ devoted fans who create more and more mods that add to the game. People even create virtual submarine 
+ flotillas. More than any other game made, the object of Silent Hunter 3 is not to achieve a high 
+ score or beat the game how-many-times, but to just have fun.
+  
+  Graphics
+  Some of the grapics in SH3 seem a bit bizarre. Your crewmen look really freaky. I know that making 
+ virtual people can be difficult, but in a simulator game, making people look like cartoons really 
+ breaks the realism. And the land is also very poorly created. All the land you see is the same 
+ shade of green. The only buildings or trees you ever see are around ports. There are no beaches 
+ anywhere, or any substantial effects of water hitting land or anything else.
+  
+  However, everything else is awesome. The measure of detail given to ships and harbors is maticulous. 
+ Ships have accurately placed cargoes, masts, hulls, sizes, command centers, and even details as 
+ small as foghorns and lifeboats. Your U-boat is very detailed as well and they look great. Boats 
+ leave a nice wake as they move through the water. Unlike your crewmen, everything about the ships 
+ look natural and smooth. Light shimmers through the water and onto your submerged submarine. The 
+ sea not only reflects the lighting, but it also reflects the ships on its surface.
+  
+  Sound
+  The makers of SH3 did a very good job with the sound effects. Firing a deck gun emits 
+ a very loud shot so that you can almost feel the power. Shots from enemy vessels whizz by your 
+ head and then splash into the water. When you hit with one of your shots, you hear an echoing explosion. 
+ When diving, you hear the sound of the portals to the bridge being closed and your ship creaks 
+ when you go really deep. Your crewmen respond when you give them orders, report important information 
+ such as flooding or a ship spotted. When running in silent mode, they whisper, and when you are 
+ under attack, you can sense urgence in their voice. The sounds have been very well done and add 
+ a lot to the game. 
+::::::
+
+::::::
+UserName: Chilly
+Rating: 9.1
+Date: Jun 11, 2006 9:04 pm PT
+Review:  WOW! Like old Red Baron with subs!
+  
+  Graphics are great, as well as the sounds. I bought it when it came out, but only played a couple 
+ times, lightly. reciently though, I got board and tried it again and man, this game is the best! 
+ Been playing 2 days straight! Like those old addictive games I used to play waaay back in the 90's! 
+ ... just one more mission... I know I can do better! Cool subs, and upgrades. Crew receive experience, 
+ and get tired. So you need to swap them out for rested guys during the missions. Sometimes though, 
+ it gets pretty rough, and you get allot of wore out men trying to perform there duties. Can get 
+ dramatic! 
+  
+  Best sim I've played in a looong time! 
+::::::
+
+::::::
+UserName: mentat76
+Rating: 9.3
+Date: Feb 26, 2007 7:53 am PT
+Review:  I wont describe the game, what it is about and how it is played. But consider this; this is not 
+ a chlid's play. It is for real players. As always i will get down to the pros &amp; cons rightaway:
+ 
+  
+  Pros:
+  + Increadibly well managed interface
+  + Super highly addictive gameplay.
+  + Crew management and fatigue factor adds flavor to the game. Promotions and experience increase 
+ of crew after missions adds to the value.
+  + it makes you feel the very ambition of hunting and thrill of being hunted very well
+  + Torpedo 
+ solutions are very realistic and hitting a target very satisfactory (If you dont cheat and make 
+ the calculations by yourself) .
+  + Saving and loading system is very well organized despite some reviewers complained about it. 
+ (prevents you to load for getting better results)
+  + Configuration and upgrading your boat adds to addiction. And the best part is it is historically 
+ accurate. + Depth charges causes flikering of lights in command room, shakes and bolts burst out 
+ water and steam. Damage is very realistically created. Watching your boat externally is magnificent 
+ as it is shook by close depth charges.
+  + Easily moddable structure which lets you to download new graphics and change the sounds provided 
+ by people. And there are lots of sites and modders providing such improvements. (I wonder why gamespot 
+ doesnt offer these links here as they do in Starwars: empire at war? or Rome: Total War?)
+  + event camera shows the important situations like an aircraft starts a bombrun on your boat or 
+ your torpedo about to hit the designated target. Or most thrillingly depth charges falling on your 
+ boat!!! Cons:
+  - Medals doesnt seem to improve anything among crew. Besides there are no explanations of the effects 
+ of them.
+  - High levels of time compression pushes hard on Cpu, as frame rate is severely effected. when 
+ crowded convoys, fleets are around.
+  - Sadly There is no wide variety of choices when equipping your boat .
+  - You are not listed 
+ among the U-boat aces list, just noted in the bottom.
+  - Damages to the boat (Such as destroyed conning tower) not modeled when externally viewing. just 
+ a black texture paint shows the damage?
+  - Some aircraft sounds are non-realistic. (Most new mods corrected these) - some sounds are not 
+ available in compressed time mods.
+  - There is no verbal warning when you are about to hit the bottom nor you hit the bottom actually. 
+ And no one tries to act and raise the nose of the boat but you?
+  - The weakest part of the game is lack of mission varieties. It becomes quite repetetive after 
+ a while. Only mission given is patrol area sector... bla bla.
+  
+  What would have been good:
+  ? An animation showing your boat is being repaired in dock (welding 
+ processes, cranes moving parts) in background when you are in base. (preferably choosing equipment 
+ or crew for your boat) ? An animation of crew actually moving external torpedos inside would be 
+ nice.
+  ? An option to stay longer in base for increasing the morale of the crew. In the other hand, the 
+ longer you wait, the more renown points you would loose.
+  ? It would have been nice if it let you a change the course of the history , Playing with knowing 
+ that the allies will win at the end, brakes ambition. knowing what your successes and achievements 
+ leads to would be a nice feature.
+  ? It would be very nice to see the Damages to hull from external camera and crewman trying to repair 
+ it. ? ? Ship reference book to be more specific about the armaments of the ships. So that we can 
+ act accordingly. (to mess with him or not :) )
+  ? More verbal suggestions from the commanding officer would add to the realism and atmosphere.
+ 
+  ? Wide variety of missions or incoming radio messages during missions such as rescue downed pilots, 
+ landing spy to enemy territory, port strikes, ambush enemy admiral etc. would have surely been 
+ a kill for the monotony. 
+::::::
+
+::::::
+UserName: ernelson1976
+Rating: 9.2
+Date: Mar 24, 2006 9:55 am PT
+Review:  I honestly have not had this much fun playing a sub simulator since I played Red Storm Rising on 
+ my C64 back in the 80s.
+  
+  First, the ambience of the game is up to the standards of any WWII game out there. The graphics 
+ are fantastic. And while most of the time you won't be dealing directly with the 3D engine in the 
+ game, it doesn't feel like the 3D elements were added in to make the game feel modern. No -- the 
+ 3D stuff looks fantastic. The models are detailed and look beautiful. Best, however, are the water 
+ and water effects, which are absolutely stunning.
+  
+  I was hooked when I launched my first torpedo only to have a window pop up and follow my torp in 
+ (in 3D) to, ahem, *miss* my first target. My second torpedo hit, and blew the ship sky high. It 
+ was incredibly satisfying to watch.
+  
+  Amazing and immersive as the visuals are, the gameplay is what matters. And my God, this game is 
+ fun. While you can have the computer do the solution plotting for your torpedoes for you, it is 
+ a blast to fine tune everything yourself. It's tough at first, but after awhile you get used to 
+ the necessary estimates you need to make for your torpedo to connect with your target.
+  
+  Stalking prey is also a blast. And you *do* need skill, because one the target knows you're there 
+ they will do everything they can to evade your torpedoes -- and they are good at it. The game is 
+ quite challenging, and as the game goes on you'll be faced with some truly brilliant enemies and 
+ overwhelming odds.
+  
+  The game's renown system also draws you in. You'll be pushing yourself after every patrol to sink 
+ just one more ship to increase your renown. Renown allows you access to better crew members, and 
+ more importantly, better weapons and systems for your sub.
+  
+  Replay is excellent. With a very flexible "realism" system, you can adjust the game's difficulty 
+ to suit your style, making it as easy or as difficult as you like by turning on or off things such 
+ as dud torpedoes and limited oxygen. It works wonderfully in the context of the game.
+  
+  Overall, I would highly recommend this game if you're into naval warfare sims. With its highly 
+ flexible difficulty settings and options, it will suit the die hard I-want-to-do-everything-myself 
+ gamer as well as the more casual gamer. 
+::::::
+
+::::::
+UserName: automobile
+Rating: 9.2
+Date: Mar 23, 2006 5:40 pm PT
+Review:  I remember Silent Service a Nintendo Nes submarine game one of my favorites. Silent Hunter III 
+ is now growing to be my favorite, when you first start the game you kinda get overwhelmed by the 
+ detail of the commands you have to give to the crew of the Sub, this game has a long learning curve, 
+ and is hard to load and start action at first. But if you like sailing around patrolling like me 
+ you will like this game, but if you like easy start action this is not the game. A simulator this 
+ game is and sailing is in real time but speeding the clock is very easy. So going from Germany 
+ to Spain can be fast if one wants so. I've had Flight Simulator games but this game beats all simulator 
+ of 2005, and the best is that Silent Hunter III grows on you. 
+::::::
+
+::::::
+UserName: ghostmag
+Rating: 10
+Date: Mar 11, 2006 11:23 am PT
+Review:  Silent Hunter 3 (SH3) is one of the most intense and realistic sim games there is on the market. 
+ I have suggested this game to many of my friends, and all of them got hooked on it. The ability 
+ to hunt the allied ships with the German U-Boats in wolf-packs is amazing. Especially when you 
+ get to see an American Battle Ship being blown to bits with a fireball explosion. The graphics 
+ in this game are jaw dropping. But the sounds put into this game are also great. You can hear the 
+ ping of a destroyer trying to lock onto ur posistion, the depthcharges being launched into the 
+ water, then the explosions around your U-Boat, and finally one of your crewmen says there is a 
+ breach in the hull. This game is one of the best sim games in the world, if not then it is the 
+ best. I dont know about you, but i can't wait for Silent Hunter 4. 
+::::::
+
+::::::
+UserName: artcwolf
+Rating: 9.2
+Date: Mar 16, 2006 5:27 am PT
+Review:  So the game started out slow, but once I went through the tutorials the stations made sense and 
+ the game picked up. The first several missions until you get the renown to upgrade your u-boat 
+ were a bit sluggish and hard to do. You had 4 torpedos and that made you pick and choose what 
+ you went after, since the bigger ships took 2 or 3 hits to sink you were pretty much forced to 
+ pick off tug boats and small merchants, but once you were able to get the renown and upgrade the 
+ game picked up. The missions can be a little long as Ive spent a lot of time cruising around England 
+ to get to the patrol location, but thankfully there is a time compression up to 1024.
+  
+  The only major issue Im having is Im 13 patrols into the game and I have yet to earn a promotion 
+ for myself or my crew. Ive gotten plenty of medals, just no promotions and the crew experience 
+ is 90% above the cap at the moment.
+  
+  Id suggest picking up the game, and giving it a shot, Im not a big simulation game player, but 
+ its kept my attention for the last month or so.
+  
+::::::
+
+::::::
+UserName: johnprezioso
+Rating: 8.9
+Date: Feb 21, 2006 3:34 am PT
+Review:  Wow. I've played my share of sims before, but I have never been so quickly and completely absorbed 
+ into a simulation's universe as I have with SH3. I've been glued to my monitor for the last 3 nights, 
+ forgetting the time or that I'm even playing a PC game. Hell, I feel like Jurgen Prochnow from 
+ Das Boot every time I surface the boat and man the bridge with my watch officer, scanning the horizon 
+ for allied tonnage while keeping a close watch out for enemy destroyers and planes. The little 
+ things this sim does to enhance the atmosphere, taken as a whole, make this the most gripping experience 
+ I have ever had playing a simulation.
+  I have played with both relaxed realism, and now have moved onto more realistic endeavors like 
+ manual targeting and allowing duds. The tension you feel while waiting to hear (or see, if your 
+ brave enough to hang around) your torpedo hit your target's hull and explode is palpable and delicious. 
+ The feeling you get when you've calculated a proper firing solution and sunk your target is sublime.
+ 
+  The learning curve is as steep as you want it to be, as the sim allows for casual as well as hardcore 
+ settings. I'm betting that you'll eventually want to move into more realistic settings before too 
+ long, even if you have never played a simulation before.
+  This game may very well change the way you look at the PC simulation game genre. It is a perfect 
+ example of why I still love my PC.
+  
+::::::
+
+::::::
+UserName: posterboy81
+Rating: 9.3
+Date: Feb 7, 2006 1:32 am PT
+Review:  I have had hours of fun playing SH3. I can honestly say that it was worth every penny. The only 
+ downside? Starforce copy protection, which slows down both of my DVD drives, one of them to the 
+ point where it can't run other copy protection schemes correctly.
+  
+  Especially nice in the game is the sound, hearing your crew whisper around you and yelling when 
+ under attack can really draw you into the game. The graphics aren't that great, but they aren't 
+ terrible either. Call me crazy but I'll take ok graphics with wicked gameplay oveer kick ass graphics 
+ alone any day. 
+::::::
+
+::::::
+UserName: gunnysarge01
+Rating: 8.3
+Date: Jan 30, 2006 7:30 am PT
+Review:  This game is very impressive. Smart AI and wonderful graphics. If you purchase this game, read 
+ the book! It will help you in naval terminology. Right out of the box, graphics are impressive 
+ and just when you think you can win all.. a Frigate nails you with a depth charge! You will have 
+ to change your strategy to play well. It's a Cat and Mouse game with you being the Mouse. With 
+ all of the add-ons available, you can tweak your Uboat in graphics and sound quality for that extra 
+ reality feature. Better smoke and fireballs as well as needed better massive explosions and pieces 
+ of cargo and ship decks flying in the air. Thought though... You will need atleast 512 megs of "free 
+ ram" to play without your system being too slow or having crash problems.... Don't forget to add 
+ the latest patch. If you really enjoy military sims and love the challenge of the hunt, grab SH3. 
+ Can't wait for SH4 
+::::::
+
+::::::
+UserName: egyptianprince
+Rating: 6.8
+Date: Jan 24, 2006 1:59 pm PT
+Review:  The visual are pretty good, but the game is very frustrating if you want to play it at its normal 
+ pace.
+  
+  Often, the normal rate is much too slow. If you speed it up a little bit, you will chasing ghost 
+ ships. 
+  
+  It is a CPU-Killer game, but has some very serious problems.
+  
+  And even if you do successfully complete the objectives, you don't know how to end it the level. 
+ You can dock at teh base, same spot you departed from, and the game doesn't end. If you choose 
+ to end the patrol manually, it will deem the mission incomplete.
+  
+  It is not worth the money. 
+::::::
+
+::::::
+UserName: VooDoo1144
+Rating: 9.3
+Date: May 2, 2006 1:48 pm PT
+Review:  Ever since Janes 688 (I) hunter/Killer came out I was really interesting in subsims... to bad 688 
+ was such a boring game to play... there was no feeling of tension or really any connection to your 
+ boat or your crew.
+  
+  Silent Hunter 3 is my first foray into the world of WWII naval sims... I love the flight sims set 
+ in that era because it is all guts and intincts and no complex radar systems, missles and such. 
+ Silent Hunter 3 is that kind of game... it gives you control of all the things you need and none 
+ of the stuff you don't.
+  
+  The gameplay is top notch... I love the feeling of going along and then I suddenly get a warning 
+ from the watch crew that a ship was spotted then rushing to see what it is... the feeling of sitting 
+ below the surface and being pinged buy destroyers is priceless and one of the highlights... it really 
+ makes you admire the men who really did that for a living. I do have to say that the game sometimes 
+ seems like it has a lot of bugs... Ubi is known for releasing faulty games and I come to expect 
+ that from them.
+  
+  the graphics are wonderfull... some purists would say that graphic quality has to come second to 
+ gameplay in sims but I really think that it adds to the feel... when you see the rolling waves and 
+ wonderfull explosions you will understand what I mean.
+  
+  the sound is good but not really vibrant and bassy... I would like to really feel the depth charges 
+ more and I would love to hear more going on in the boat... it would make running silent more intense. 
+ Also there is a annoying sound glitch that makes a loud static sound and that is a big deal when 
+ I use headphones.
+  
+  The replay value is the best... the singleplayer is very detailed and very random so you never get 
+ the same game twice... the options that you are given are great and upgrading your sub makes you 
+ really connect with it... plus you can go the whole game in one sub type... so there is no pressure 
+ to change... you can keep your favorite boat from the start to finish and not really lose anything 
+ in the process.
+  
+  Overall I love this game and I think that anyone who loves "das boot" or is even casually interesting 
+ in WWII naval history will find a lot to like... a great game all around.
+  
+::::::
+
+::::::
+UserName: Jedo
+Rating: 8.9
+Date: Jan 24, 2006 7:53 am PT
+Review:  GAMEPLAY
+  
+  Silent Hunter 3 is the name that strikes fear in claustrophobic people. If you think about it, 
+ theres really a lot to explore in the submarine business, especially in the times of World War 
+ 2. Releasing the third game in the submarine simulator series, Ubisoft does its job very well, 
+ delivering a detailed simulator just like before, but this time its a lot prettier. 
+  
+  Starting as a novice captain, you choose the time to enter the war. First you might want to complete 
+ the naval academy tutorial. The key-binds in this game are endless and the geometry of different 
+ systems will drive you crazy. According to the period of war, you will then choose out of the available 
+ submarines. Sailing from a port, as women and sailors are cheering your departure, you will be 
+ the hope and the pride of the Third Reich, sent to make stealthy and much needed kills along the 
+ allied naval supply routes. Just like in the real life, the allied forces arent ready for whats 
+ about to hit them. However, later in the war, they will be, and your job will become significantly 
+ more difficult. On the other hand, as times grow desperate, a lot fancier technology will be available 
+ to you like better torpedoes or faster and bigger submarines. The available subs will vary, not 
+ only depending on the time, but also depending on the docking base you choose. The missions of 
+ some bases concentrate on a small area; therefore they do not have to drag as much fuel and torpedoes 
+ with them as the long-range subs.
+  
+  SH 3 is a game that pushes the boundaries of your patience. On the highest difficulty level, you 
+ will be doing the job of each member of your crew, calculating many parameters, while cautiously 
+ sneaking pass the convoy ships and gradually bringing your sub into the striking position for that 
+ one critical shot. One shot because there might be four or five more cargo ships following, and 
+ reloading is realistically time-consuming. Everything is realistic in this sim or at least can 
+ be, since the amount of realism can be adjusted in the game options. Realism gives birth to an 
+ enormous amount of detail in SH 3. You can interact with so many things like the maps, gauges and 
+ you can even rest in the captains bed. Because of this level of realistic detail, theres a huge 
+ amount of things to think about, like for example, calculating the fuel consumption for your trip 
+ and the angle of attack on an enemy ship. 
+  
+  Many things can be earned in this game. As you sink more and bigger enemy ships, your men gain 
+ experience. Their moral also improves or worsens depending on your success. You will have to manage 
+ the crew seriously as many of them can specialize in specific functions. When they get tired during 
+ the trip, they have to be replaced if the performance of their functions is to be kept. Its like 
+ a big family that you can grow attached to in a small cozy sub (don't take me wrong) . A known crew, 
+ a bed to sleep in, sausages hanging in the command room... the sub is like a second home. At times 
+ you forget youre looking at a screen on dry land which makes SH 3 a nice way to forget the revolting 
+ reality. In addition, you can earn medals for yourself and receive medals which you can assign 
+ to the crew. For sunken enemy ships you also receive renown with which you can hire better officers, 
+ request upgrades for your sub or a better sub. If you want to move on to the new grounds, you can 
+ also ask for a transfer to a different base. Also, depending on the sunken tonnage, your name gets 
+ a place on the list of submarine aces of that time. 
+  
+  If youre looking for a hardcore firefight then walk away from this game. A wrong move in some 
+ areas and a whole enemy fleet is soon hunting you like a pack of hungry dogs, throwing depth charges 
+ all over the place. You will have to deal with ships of all sizes as well as airplanes. To your 
+ surface defenses are available: the antiaircraft gun as well as an 80 mm cannon. The cannon is 
+ good for finishing off undefended cargo ships but trying to take on a large battleship with the 
+ subs weapons is like throwing stones at a tank, and for defense the best strategy still is hiding. 
+ Later in the campaign the submarines dont even have guns anymore due to their uselessness. Enemy 
+ ships can also be reported to the base and airplanes or other subs might take care of them, although 
+ often thats not to be counted on.
+  
+  One bad thing about the game is that it might be a little too long and a little too boring, even 
+ for a simulation fan. During traveling a player can speed up time, but even when you speed it up 
+ to maximum, it still takes quite a while real-time to get around a continent. There isnt an option 
+ that allows you to just skip the trip, probably for the sake of realism. Although the missions 
+ are never really the same, you arent doing anything else but taking down enemy cargo ships. The 
+ games difficulty options can play a large part in keeping the game exciting. You will want to 
+ keep the simulation detail at maximum. However, increasing difficulty by taking out some things 
+ like the outside view (so you can no longer see how far below you the bottom is) will cause the 
+ game to loose some of its visual fun. If single-player bores you, theres also a multi-player for 
+ up to 4 people, although single player is still the center of the gameplay.
+  
+  VISUALS
+  
+  Silent Hunter has some fancy graphics. Since there was barely any land involved, Ubisoft could 
+ focus on the water and the ships. Theres a lot of next-gen shadowing implicated, especially inside 
+ the sub. Here another thing can be admired: the detail of things. Every pipe, valve, gage, button 
+ and lamp is well modeled. As we climb outside, we see a dynamic environment that changes significantly 
+ depending on time of day and the weather. In the calm you wont be hunting ships, youll be too 
+ busy checking your hair in the mirror of the sea, and in storm youll be too scared to stand outside, 
+ as the top is battered by the dark-grey masses. The sky is also weather dependant and has some 
+ really soft colors involved with a sun that can make you forget the one outside your window. The 
+ surface ships, although couldve been more detailed, still look well, especially when they go down. 
+ They do so in different ways, depending on how you hit them. Some take hours to sink after a hit 
+ to the tip of their kiel and some are blown to smithereens after their fuel tanks are struck. When 
+ your own sub gets hit, the damage is not just on paper. Pipes realistically let off steam and the 
+ sub shakes violently. 
+  
+  SH3 allows the player to take all of the beauty in by giving him a close up camera view on launched 
+ torpedoes, sinking ships and own sub. It usually appears in a small window in the corner, not to 
+ bother the player too much, and can be expanded. The fire and smoke of destruction can, by the 
+ way, strain your system. Generally however, I hadnt much of a problem with the rest of SH3 graphics 
+ on my low-end P 2GHz machine. 
+  
+  SOUND
+  
+  When youre listening to the enemys sonar and the hull of your sub is squeaking as you dive deeper 
+ into the abyss, while your officer nervously whispers different information, it can feel pretty 
+ tense. The detailed sound of SH 3 certainly deserves attention. Voices are done well in both German 
+ and English. In particular, they are good because they are loud and clear. Officers whisper or 
+ shout depending on your orders. The orchestral music is very atmospheric and changes according 
+ to the situation. The sound is in superb harmony with the visuals and helps provide a breathtaking 
+ experience.
+  
+  CONCLUSION
+  
+  Of course it takes a special breed to like a game like SH 3. A load of patience and some interest 
+ in math are highly desirable requirements. If you are not to take the manual tasks of each crew 
+ member, the continuity of sinking same cargo ships over and over again, can cover the otherwise 
+ exciting action of the hunt. Nevertheless, the game looks awesome, sounds awesome, and for a simulator 
+ fan this game is an absolute must, even if you've never thought about submarines.
+  
+  Personal thoughts
+  
+  There's no hiding that I like simulators, but this one went a little too 
+ far for me. The thing is that a simulator of a submarine captain's work would consist of receiving 
+ important info, giving a few orders and pushing the red button. The navigation and the weapons 
+ control are jobs of other officers, and being a ghost that enters each of their bodies to do their 
+ work is not really realistic to me. Therefore I often played with settings set on auto and after 
+ a while, of course, I got bored. If you eliminate the whole calculation stuff, then you're just 
+ left with the same models of cargo ships that you have to sink in different parts of the ocean 
+ over and over again.
+  
+  The cozy atmosphere in the radio room where your little warm bed is at and the dynamic crew really 
+ gives a sense of a second home. I liked that. I think they should've gone further and added history 
+ to the officers' lives and some personal dialog or even characters. Make it really personal!
+  
+::::::
+
+::::::
+UserName: Bueller
+Rating: 9
+Date: Jan 18, 2006 6:46 am PT
+Review:  When I first heard of some of the details behind Silent Hunter III, I must say, my interest was 
+ definitely piqued. With fond memories of Dynamix's "Aces of the Deep", and a reasonably well equipped 
+ PC, I anxiously awaited the chance to play this game. And I have to say, SH3 definitely lived up 
+ to my expectations.
+  
+  First thing I will mention, this isn't necessarily a simulation for the faint of heart. It can 
+ be a challenge, and time is required. Even with unlimited ammo and an invulnerable sub, for those 
+ who choose to play that way, the time spent sailing to and from patrol areas requires a fairly 
+ significant investment. This is definitely the type of game where you sit down to play for a morning 
+ on the weekend, or more. So for those of you looking for some quick U-boat fixes (if such a thing 
+ exists) , this might not be the best choice in its entirety.
+  
+  Now, into the game itself. Graphically, SH3 is a beautiful game, with realistic weather, ocean, 
+ crew, and ships. Being able to look at a ship through the periscope, and actually recognize it 
+ from the ships present in the game is a wonder to behold. With realtime weather, daylight that 
+ changes with the seasons, and many other environmental affects, SH3 does anything it can to bring 
+ you right into the game. Combine that with a solid score, and realistic effects from the creaking 
+ and crew of your sub to the sound of a destroyer hunting you, you can find yourself whisked away 
+ to a different time.
+  
+  As far as gameplay goes, when starting the campaign, you enter a name, choose a fleet, and a type 
+ of U-boat, depending on the era and your fleet choice. From small Type IIs, to the workhorse Type 
+ VIIs and beyond, they're modeled with a great deal of detail, including weapons, upgrades, and 
+ even crew.
+  
+  That's right, crew. From the moment you take command of your U-boat, you'll be responsible for 
+ your crew, including moving them to different stations in your ship, making sure they're well rested, 
+ and handing out qualifications, commendations, and promotions after a patrol. Building an experienced 
+ crew will definitely benefit you in the long run, as they have greater endurance, and a better 
+ effect on statistics on board.
+  
+  As far as actually playing the game, SH3 is hard to beat. From plotting your course and intercepting 
+ a few ships early on, to stalking large convoys later in the war, the suspense can be palpable, 
+ wondering whether you'll live or die on the next patrol, the next convoy, the next torpedo or depth 
+ charge. Planning the attack to gain the highest tonnages possible, while still surviving to fight 
+ another day, are a challenge that is both intellectual and visceral, and is definitely recommended.
+ 
+  
+  To fans of the genre, or people willing to invest the time to learn this game, I'd highly recommend 
+ it. A great looking and sounding environment, with the gameplay to back it up, and a level of simulation 
+ that has been more scarce of late in the gaming world, will lead to a great experience. 
+::::::
+
+::::::
+UserName: nai205
+Rating: 8.1
+Date: Dec 28, 2005 1:30 pm PT
+Review:  Yes, this game is a true masterpiece of WWII submarine simulation, unfortunately, that makes it 
+ difficult to recommend for people who may have only a passing interest in submarine simulation. 
+ The controls, while easy to figure out, are extremely difficult to master, and it will take you 
+ a long time to become a submariner that can effectively hunt Allied shipping. If you don't take 
+ the time to understand how everything works and proper submarine tactics, you will not enjoy this 
+ game. This is the category I fall into. Yes, it was interesting and immersive, however, even good 
+ gameplay could not hold my interest for very long. On the other hand, I can recognize a remarkably 
+ well designed and executed game, even if I don't find it to be great for me. If you see this game 
+ in your bargain bin, it may be worth picking up, because even if you don't enjoy it, you will be 
+ able to experience a game that is the best in the simulation genre. 
+::::::
+
+::::::
+UserName: faam
+Rating: 7.8
+Date: Dec 26, 2005 9:36 am PT
+Review:  i didn't like very, instead i think it's a little difficult and i didn't had the pacience to play 
+ for a long time, but it's a really good submarine simulator...
+  the graphics are really great, and the animations...
+  
+  if you like the simulators game you'll 
+ like this one... 
+  
+  i think that you should rent it first to try it...
+  
+  the sound is good to... it takes a long in charching i don't know if it's my computer but i don't 
+ think so....
+  
+  i think you should try it because is one of those games that some people like it and some people 
+ don't it's wierd to explain, i'm just writing this because i need to get to the 100 words :S.... 
+ 
+::::::
+
+::::::
+UserName: NeroRathe
+Rating: 8.8
+Date: Dec 21, 2005 6:00 pm PT
+Review:  Rock solid game, for really a first time naval sim, or sub-sim player. Last time I tried a naval 
+ sim/sub-sim was years ago, and it was incredibly complex that I felt lost just trying to get my 
+ boat moving. It was a less than good experience that I was worried Silent Hunter III would repeat, 
+ and I could not be more wrong !
+  
+  From the start, the graphics grabbed me as being outstanding, which was not what I was expecting. 
+ The point and click interface made moving about the ship easy, and appreciating the detail of the 
+ U-boat. 
+  
+  The tutorials do a nice job of pointing a first timer in the right direction, and helping you get 
+ the feel of basic navigation, gunnery, and combat. Of course they just give you the feel, once 
+ you set foot into an actual scenario, or the fantastic campaign mode, you'll realize while you 
+ have a idea where to start, you have a lot to learn.
+  
+  I never felt overwhelmed, and as I spent some more time, I felt comfortable turning off some of 
+ the assists, and doing more and more myself, making the game more challenging as I felt my own 
+ skill improving.
+  
+  On the whole, a great experience, despite the Mission Editor/Creator, I felt that there was a distinct 
+ lack of missions for multiplayer, which is a big reason why I picked up the game. I have already 
+ found sites where mission downloads are available, but I do wish the game included more.
+  
+  Quick thought... it's quite a moment when you surface, thinking you are alone, and all of a sudden 
+ thru a dense fog you begin to make out a ship, and before you realize it, a large warship is headed 
+ your way. It looks, and feels fabulous ! 
+::::::
+
+::::::
+UserName: Augie64
+Rating: 9.4
+Date: Dec 20, 2005 3:25 am PT
+Review:  Honestly this is one of the best games I've ever played. Hands down this is it. Playing this the 
+ only thing missing is the salt in the air. As a Submariner I was astonished by the attention to 
+ detail.
+  
+  The only bad thing is the Starforce copy protection. You cannot play this game in XP-64 or Vista 
+ 64bit. Starforce will not work in a 64 bit enviroment with this game.
+  
+  That is the only thing keeping this from the perfect game.
+  
+  The modding community has been 
+ amazing at www. subsim. com. And plans for a Silent hunter 4 in the works. UbiSoft has outdone itself 
+ with this one. 
+::::::
+
+::::::
+UserName: strg8t
+Rating: 7
+Date: Nov 10, 2005 7:55 pm PT
+Review:  This is one terrific Sub Sim. The graphics are truly amazing. There is just so much you can do 
+ with this game. Be prepared to spend some time on the learning curve. If you are a true WW2 naval 
+ buff this is one game you HAVE to have. 
+  The tech people really tried to keep the game as authentic as possible. Although my computer is 
+ new (2005) you really have to have a good video and sound card to appreciate the game in it's full 
+ potential. 
+  I did have a few problems downloading patches but there are lots of info on the SH3 site and great 
+ forums for help. This game is a 10+ all the way. Enjoy it. 
+::::::
+
+::::::
+UserName: Archrivel
+Rating: 10
+Date: Oct 31, 2005 6:51 am PT
+Review:  This game Simply blew my mind out when I first saw the trailers on Game spots. I was even more 
+ surprised when I actualy started playing.
+  
+  Having been a fan of the old Silent Hunter games on the old Atari, I was really looking forwad 
+ to this game. The attention to detail gone into this game is worth the weight of the game in gold.
+ 
+  
+  The game guides some one from who has never had played this type of game before into a capable 
+ navel Submarinar Captain. For those such as my self who has played this type before and knew a 
+ little bit of what I was doing this was the welcome reward I've been waiting for.
+  
+  The tention you experiance when you having to crash dive your ship just only having fired 2 torpedos 
+ at the enemy, Sitting and waiting to see if they will hit. Then having to worry about the punishment 
+ from the Destroyers.
+  
+  This game is simply superb theres nothing I can say against it. I really felt like I was in the 
+ film DAS Boot film
+  
+  However I think I should just point out the German Language is incorrect for the time period, The 
+ person doing the German languaged use the newer form of German- English speaking, Where as during 
+ the time, You would never hear the German captains saying fire, they would use full German.
+  
+  This one glitch did nothing to dimishing a simply superb game 
+::::::
+
+::::::
+UserName: Acepace
+Rating: 8.9
+Date: Oct 28, 2005 7:23 am PT
+Review:  If you're looking for a WW2 game out of the norm and intrested in submarine warfare, this is for 
+ you. 
+  Warning: Impatient people need not apply.
+  
+  Before getting down into the nitty gritty of Silent Hunter 3, let me repeat: while this is another 
+ one of those games where you start off at 5PM and next thing you know it's 3AM, there are boring 
+ stretches; actully, lets lay it on the table:
+  
+  If you're crazy enough to go for zero time compression (more on that later) or very low, you will 
+ go insane.
+  
+  Now, what is Silent Hunter? It's a WW2 game, set in the German U-boat fleet, where you start off 
+ a lowly captain of a U-boat, ordered to go to a patrol grid (a pretty poster sized map included 
+ in box) and hunt down all enemy ships.
+  
+  Sounds simple, yes? You have to set course, manage your crew, find the enemy (no easy task in a 
+ dynamically created ocean) and sink it, not to mention surviving the destroyers that will hunt 
+ for you.
+  
+  Realism scales from the default 37% -- which does most of the math for you -- to hardcore, where 
+ you break out pen and paper and use the tools in-game, in order to set up every precious torpedo 
+ shot. 
+  
+  The game starts off simple: it's 1939, you're in a II-A U-boat fresh on the first days of the war 
+ (the game actully starts a few hours before the war) , sent to patrol England. At that early stage, 
+ there aren't too many enemies, but as the war continues, destroyers start hunting for you, with 
+ more and more advanced tools, until by 1943 you're just happy to run away, rather then stay and 
+ fight a multi-hour survival epic.
+  
+  That is not to say the gameplay is without flaws; even patched 4 times, it still has its share 
+ of small bugs, and a rather annoying crew fatigue problem (easily fixed by a mod) .
+  
+  Graphically, this game is stunning. You spend your time between the navigation map, plotting your 
+ course, and the bridge/periscope, tracking your target; on to the combat plotter, where you can 
+ set up your attack, watch it happen, and then quickly switch (unless you're one of the hard core) 
+ to the external camera to watch that torpedo hit. Waves are stunning; so are explosions. However, 
+ models are rather simplistic, and while the interior of the boat is pretty, you'll rarely be actually 
+ looking around.
+  
+  Sound is where the game shines, with a solid soundtrack, good listening options of vintage german 
+ songs (all customizable) , and magnificent combat. Listen to pings, depth charges exploding, propellors 
+ swirling; it all comes to life as you dodge destroyers thinking that spot of ocean you're trying 
+ to dive down in is their training zone.
+  
+  To be honest, you can nitpick the game, find endless faults or lack of realisim, but in the end, 
+ its a damn fun game to play with some solid co-op only multiplayer (sorry, no defending shipping 
+ here) .
+  
+  With thanks to Surlethe for grammer correction. 
+::::::
+
+::::::
+UserName: genpic
+Rating: 8.8
+Date: Oct 26, 2005 10:47 pm PT
+Review:  Having served on submarines for eight years, I didnt thinks I would find much to interest me in 
+ this game. Boy was I wrong. I played the original Sub Hunter and found it OK, but not great. I 
+ would spend a lot of time recovering from a crashed system after playing, so finally gave up. So 
+ it was with mixed feelings that I purchased this one. I have now played through an entire career 
+ and have started into the second one. The game play is good, the realism is surprisingly good, 
+ the physics are above average and the graphics are very well done. I would have liked to see a 
+ method of controlling your crew that was a bit easier to follow, but that was minor and easy to 
+ get use to. The one thing that was missing from the original versions was the ability to get below 
+ a thermal layer when trying to avoid detection. I dont know why they cut it out, since it is a 
+ very real factor in protecting the submarine from being heard. 
+  
+  Over all I found the game to be worth the cost and time. If you like Sims and are not too claustrophobic 
+ this is the one for you. Smooth sailing.
+  
+::::::
+
+::::::
+UserName: nafarsadik
+Rating: 8.6
+Date: Oct 18, 2005 5:56 am PT
+Review:  Well to be honest this is a game from the top drawer of the genre.
+  If you're more into blasting into a building guns blazing shooting everything out, then this is 
+ definitely not for you. On the other if ur more of a strategist then this is the game you've been 
+ looking for.
+  
+  The game kinda grow on you them more you play it, and believe me the more you play it the more 
+ you're gonna love it.
+  In a nutshell, you start off as a junior officer on a German U-boat in 1939 and you would have 
+ to work yourself up the ranks by sinking allied ships.
+  the experience points you get from your kills will allow you to upgrade you boat and your crewmembers 
+ as well making them more efficient.
+  
+  Well personally, I enjoyed this game very much and I've been playing it for quite some time now 
+ so I would definitely recommend it to any strategy games fan.
+  
+::::::
+
+::::::
+UserName: Worf101
+Rating: 9.4
+Date: Sep 28, 2005 6:33 pm PT
+Review:  When I first heard they were doing "Silent Hunter 3" I was pretty torn. I love sub sims. I fondly 
+ remember playing "Aces of the Deep" for hours and hours. I must have seen "Das Boot" about one 
+ hundred times. The problem with this Silent Hunter three though was "Silent Hunter II". In my review 
+ for that game you can see that it has/had some serious gameplay issues. Twitchy and buggy out the 
+ start, playing SH 2 was a nightmare. So much so , it quickly left my harddrive. The latest iteration 
+ however, will be on my Harddrive for many a month to come. 
+  
+  Installation - Game was easy to install but hard to update. There are numerous bugs with Patch 
+ 1.4. I had to do a lot of tap dancing but finally got the game installed and patched up.
+  
+  Graphics - Wow, what a difference a graphics engine makes. This is one pretty game. For the first 
+ time when I'm on deck there are people there with me, and for goodness sake I can intereact with 
+ some of them as well. With all the eye candy turned up and the graphics maxed out, this is one 
+ visually stunning game. A surface attack in heavy weather, you can almost feel the sting of the 
+ salt spray. Explosions are phenomenal as well. Instead of the stock two three explosions in the 
+ last game this one gives you distinct damage modeling and effects. You hit a ship in the rudder, 
+ it slows to halt. Hit a tanker a midship and it goes up in gush of flame and thunder. Hit a ship 
+ twice below the water line and watch it slowly fill with water till it dies. Amazing stuff.
+  
+  Sound - Sound in S. H.2 was the only decent thing in that game. Here the sounds just as amazing 
+ and the game also boasts one of the best soundtracks I've ever heard. It really adds to the whole 
+ game experience to hear them drums and horns pumping. 
+  
+  Gameplay - Outstanding interface allows you to easily navigate inside the ship and get done what 
+ you need done. The game also boasts surprising levels of complexity. It's far more than a point 
+ and shoot arcade game. You have sink ships, gain "renown", outfit your ship, choose your crew, 
+ get them experience and improve their expertise. You have to watch out for planes, mines, destroyers, 
+ shallows and all other manner of danger in boats that can't stay down more than 10 hours at a time. 
+ You can make shooting torps as simple as point and kill or spend you time doing firing solutions 
+ in your head. You can man the guns or let your crew do it. In other words, you can be a passenger 
+ or get your fingers good and dirtry if you want. I loved it. 
+  
+  Enemy A. I. could stand some tweaking however. While ships zig zag and destroyers hunt you down, 
+ they do so in a semi preditctable manner. Also you gain tonnage and kills at a rate that has you 
+ outstripping real U-boat captains with ease and at an alarming rate. 
+  
+  Conclusion - Silent Hunter 3 is the beneficiary of improved graphics cards and more powerful processors. 
+ What could only be sniffed at in "Aces of the Deep" is fully realised in this game. While not perfect, 
+ it's certainly the best sub sim ever made. Bar none.
+  
+  Da Worfster 
+::::::
+
+::::::
+UserName: vfibsux
+Rating: 7
+Date: Aug 14, 2005 12:45 am PT
+Review:  Silent Hunter III is a game whose novelty wears off after so long. The graphics are tremendous, 
+ and the atmosphere is immersive, but not enough. Your bread and butter is sinking vulnerable merchant 
+ ships which at first is enthralling, but soon becomes a monotonous turkey shoot. The game boasts 
+ a dynamic campaign, but no matter how many ships you sink you will not make a difference in the 
+ war. The Allies win no matter what. So why bother? This alone makes the campaign feel as though 
+ everything you do lacks purpose. In my opinion this is the game killer, if the dynamic engine allowed 
+ you to actually see the results of your success it would be much more rewarding. Realistic? No, 
+ no one boat is going to win the war, but this is a game afterall. 
+  In the end the game is entertaining, but after awhile I found myself doing silly things to improve 
+ the fun. 
+::::::
+
+::::::
+UserName: sean4566
+Rating: 9.9
+Date: Jul 20, 2005 3:27 am PT
+Review:  SH3 is one of the best games Ive ever played. A very hard game though. SH3 is too hard for beginners 
+ playing this genre for the first time. If you want to succeed you need to complete Naval Academy. 
+ The graphics are awesome, ships, water, explosions, this game looks great. Some of my favourites 
+ include Battlefield 2, Midnight Club 3, and battlefield 1942 and this game even better than them. 
+ My only complaints are, the voice acting is very weird, and the difficulty is too hard for 0% difficulty. 
+ Silent Hunter 3 is awesome. Not just a awesome naval simulation, an awesome, awesome, game. If 
+ you like sub simulations, buy it, if you like naval simulations, buy it, if you like simulations, 
+ buy it, if you like games, buy it! 
+::::::
+
+::::::
+UserName: isoplus
+Rating: 8.8
+Date: May 25, 2005 10:45 pm PT
+Review:  First of all, I'm not a sub-sim fan. This is my first sub-sim ever tried...
+  Having said that, this game is just awesome!!!
+  
+  I'm more of a flight sim enthusiast (currently 
+ playing IL-2: FB and Pacific Fighter) .
+  After reading several outstanding reviews about this game, I decided to go for it.
+  And I'm so 
+ glad I did. 
+  
+  SH3 is a very adjustable game. It can be authentic to a point you have to math calculations to 
+ line a single torpedo shot, or it can also be played casually having your officers do many of those 
+ tasks for you. I was at first very intimidated at first this being my first sub sim, but found 
+ the manu and gameplay very noob friendly as well. 
+  
+  The game does require some patience from its player, it can be 10-15 realtime mins before you see 
+ any interesting actions. But when the action comes, it is definitely very exciting.
+  
+  Graphics and sounds are quite convincing as well. And they can even be improved by using popular 
+ user created mods.
+  
+  Gameplay is very immersive. It can really have you hooked for hours before you notice the time. 
+ The missions can be somewhat repeating at times, but thats how the WWII U-Boat missions were. Patrol 
+ and hunt.
+  
+  If you are a sim veteran, you'll love this game. Even if you are new to sims, you'll find this 
+ one to be very friendly and enjoyble game. 
+::::::
+
+::::::
+UserName: gdogghenrikson
+Rating: 9.1
+Date: May 8, 2005 8:13 am PT
+Review:  This is a great war game for sub-sim fans. The inside of the sub is very well done right down to 
+ the guages and valves and crew working at stations like the hydrophones and such. The water and 
+ sky are well designed like moving clouds and water waves. The corrier mode is excellent and it 
+ gets more challenging as the years progress to 1945. After each patroll you can give your crew 
+ medals you have earned and you can earn medals your self. You can also upgrade your sub (when available) 
+ if you have enough renown. You can also play single missions if you want to. 
+::::::
+
+::::::
+UserName: tiger_tim_b
+Rating: 9.5
+Date: Apr 30, 2005 4:17 pm PT
+Review:  Quite simply, if you like the idea of commanding a U-Boat - with all the searching and waiting, 
+ as well as the thrill and the fear - then you will find SH3 utterly, utterly addictive. Easy to 
+ jump into, challenging to master. Impossible to leave (without serious withdrawal symptoms) .
+  
+  You will dream SH3. You will hunger for SH3 when you are unable to play it. It will invade 
+ your thoughts at work and almost certainly get you into trouble with your better half.
+  
+  There are still a few minor issues and glitches which are being resolved with each new patch and 
+ a fast-growing range of excellent mods to enhance the experience. I believe that most of the complaints 
+ you'll find regarding SH3 arise from the fact that we have been given so much reality by the developers 
+ that we thirst for even more. 
+  
+  Do not hesitate if you are even *close* to buying SH3. You will be absolutely hooked.
+  
+::::::
+
+::::::
+UserName: tjdoss
+Rating: 9
+Date: Apr 21, 2005 5:23 pm PT
+Review:  Simply put, this is a great sub sim even for someone with only a passing interest. 
+  
+  While the graphics (particularly the water effects) and game play are outstanding (standing on 
+ the bridge of your submarine in the middle of the night, in the middle of a raging storm in the 
+ North Atlantic with waves and rain washing over the bridge with lightning flashing across the sky 
+ is remarkable) I think the best thing that this sim does is to provide the user with the ability 
+ to truly scale difficulty to the level that they are comfortable with and the level that will make 
+ the game enjoyable for them. In the past, too many sims have been overly simplistic or difficult 
+ to the point of being playable by only the most diehard enthusiast.
+  
+  The attention to detail and historical aspect of the sim are astounding.
+  
+  My only complaint 
+ - dud torpedoes! Nothing like taking thirty minutes to set up a shot on a big fat T3 tanker only 
+ to have the torpedo hit right on the sweet spot (amidship right at the keel) and then bounce off 
+ and drift slowly downward into the depths as the tanker steams away on a zig-zag course. 
+  
+  It's enough to make you want to transfer to the Luftwaffe! 
+::::::
+
+::::::
+UserName: coreyb42
+Rating: 7.7
+Date: Apr 18, 2005 5:15 pm PT
+Review:  There's nothing quite like the thrill of the hunt. Especially when 'hunt' means commanding a WWII 
+ German submarine. This game is packed with exciting battles. It is also packed with long, boring 
+ waits to get to those battles. Luckily, you can speed up time immensely, so the game cuts down 
+ on boring commute time.
+  
+  The graphics of the game are excellent. The real gem is the fluid dynamics of the waves. These 
+ are the best done waves I've ever seen in a video game, hands down. They make it really difficult 
+ to use the periscope with inclement weather. This is actually kind of fun, because the periscope 
+ will pop up above the waves for a few seconds at a time, allowing for a short peek at what's going 
+ on topside.
+  
+  The game play is also excellent. It is very challenging to actually hit a ship with a torpedo. 
+ There are many factors to take into account, including dud torpedoes, which seem to be very common 
+ early on in the war.
+  
+  Which leads me to the vast technical problems I've had with the game, or more specifically Star 
+ Force. The game would not run out of the box. I would install it, it would ask me to reboot, and 
+ Windows would not load up. I would have to revert to a system restore point to make it work again. 
+ Then, when I would finally get Windows to work again, the game would ask me to restart again. Finally, 
+ I resolved the problem by disabling my optical drives (CD/DVD) . For some reason Star Force is incompatible 
+ with one of my optical drives. I could not re-enable my HL CD-RW GCE-8400B. Keep in mind, now, 
+ I couldn't re-enable my CD drive. This is a DVD game. So my DVD game that runs from a separate 
+ drive is somehow incompatible with my CD-RW being installed on my system. Good work, Star Force. 
+ Anyway, the only way I can burn CD's is to uninstall Star Force (not the game itself, mind you) . 
+ This has angered me very greatly, and I will never buy any Star Force products again (although 
+ they do have great customer service, their software is incompatible with certain optical drives) .
+ 
+  
+  In short, buy the game if you don't have the aforementioned optical drive; it's an excellent game 
+ with endless hours of fun. 
+::::::
+
+::::::
+UserName: bigglesbear
+Rating: 9
+Date: Apr 14, 2005 10:28 pm PT
+Review:  Is a great game and is worth the money. Involves a bit of waiting for targets and some brains of 
+ where to be to fire on your target. Has a bit of a learning curb because it is a simulation but 
+ once you get into the action and figure out how to use the sub it is amazing. The learning curve 
+ is 10-40 minutes depending on if you read the manuel and do the tutorials or not. I jus read the 
+ manuel and it took me 15-20 minutes on how to work the sub. THe graphics are great and the explosions 
+ and sinking of the ships amazing. It is the most satisfiying experience to see a ship going down 
+ after you sink it. The waves are the best i have seen in any navy sim yet. Overall this is a great 
+ game if you don't mind some waiting. 
+::::::
+
+::::::
+UserName: GTA-VC
+Rating: 10
+Date: Apr 14, 2005 4:32 pm PT
+Review:  This is a very good game. No better Simulators i haven't played like this.... Yet. This game have 
+ very great sound, graphics & gameplay. In this game has a realest water. Thank you ubisoft this 
+ game is perfect game. Just best simulator i'v ever played. I like video tutorials and like tutorial 
+ all...... I recommend it for all who like simulators but not for those who like Action games :) 
+ But i like Action games too.... This is bes simulator i only these words to say about this game. 
+ There is one minus that only Germans has submarines =/ Good game Good game Good game Good game 
+ Good game Good game Good game Good Good game Good game Good game 
+::::::
+
+::::::
+UserName: alichino
+Rating: 8.1
+Date: Dec 19, 2006 3:13 pm PT
+Review:  Unbelievable. Are you familiar with simulations? Are simulations new? That is one of the beauties 
+ of this game. There is enough free spirit in the game to give the uninitiated a fully accessible 
+ hands on experience. The boat controls are simlple, from just clicking on the directional compass 
+ to setting way points in the map. The difficulty levels are also simple enough that if you feel 
+ you're getting stuck, that is, unable to sink anything, you can turn down the difficulty and get 
+ some real practice in.
+  For some they need more complex simulation, thus the concept. For those the boat systems can be 
+ set up in the difficultly settings to force the player to review the targets, plot the torpedo 
+ course and pray... well, that's what I do with the complex difficulties on... pray and pray a lot, 
+ thanking Hanuman doesn't listen to silly prayers.
+  Luckily, this game, remains just that, almost (see complaint no.1 below) . It allows the player, 
+ who like me, probably doesn't know much about submarines, to jump in, captain the boat, and sink 
+ a few merchants without much serious prodding. The level of submersion is one of the very best 
+ parts of this game. From the inside of the boats, to the calm seas, to the knuckle crunching hope 
+ of surviving after you've been depth charged and are sinking fast. AHEAD FULL, PLANES at 40 degrees... keep 
+ this tub from heading straight down!!!!
+  There are two issues that might keep you away. Both of which have been addressed by gamespot. Number 
+ 1. the crew management system. It is just too much micromanaging to be interesting. Moving tired 
+ crew members around gets distracting. What's worse is that the player ends up putting sailors into 
+ different jobs simply because they are rested. This might end up biting you in the rear when you 
+ finally zero in on a target only to have your torpedo-man tired from running the radio for the 
+ last three days. This is the sort of thing that should be handled at the docks, before you get 
+ in the boat, by your command, not you. But I'm sure without it the game would probably lack the 
+ reasons to even have a crew... so, it's 50 / 50. I would like a different system, but still have 
+ the crew. I know, cake = eat it. Number 2. Constant Crashing to desktop. I originally purchased 
+ the electronic version of the game. A few hard drive mishaps and Windows reinstalls later I was 
+ forced to purchase the game again (too many installs apparently) this time opting for the DVD, 
+ hoping that the disk version wouldn't crash as much on the off chance there was some kind of difference. 
+ Alas, neither one runs for that long. I find I have to save the game every few minutes to insure 
+ the integrity of my game. It gets old. Maybe it's my system, sure, why not. Most things are my 
+ fault anyway, just ask my ex, but this is really the only game I own that crashes so often.
+  Even after the patches it still crashes. Be warned.
+  That said, I find this game engrossing, 
+ although I would bet that many would find this game boring (capital B) . I like the detail of the 
+ game: The targeting computer, the vessel recognition books, the crew, and the general sense of 
+ time and confinement made available to us land lovers. Others may look at this game and run it 
+ at accelerated time only for the long boring rides from th docks to the patrol quadrant, especially 
+ if you have an issue with the game crashing. Because of this I had to take off score for the value: 
+ 5 is all I can give it.
+  Either way, Silent Hunter III is a good solid advancement in the SH series. Good hunting! 
+::::::
+
+::::::
+UserName: C0deZer0
+Rating: 9.4
+Date: Apr 2, 2005 7:01 pm PT
+Review:  I remember playing 688 Attack sub a few years back, and really enjoying playing that. The excitement 
+ of planning out an attack, and having it pay off in the end. Well I haven't seen a good game in 
+ this genre since then. Sierra tried with Aces of the Deep, and although it was a sub sim, it still 
+ lacked to make it a solid game. Now Ubisoft has produced Silent Hunter 3. Of course it takes place 
+ in WWII, and you take command of a German U-boat. 
+  
+  To put things simply, everything in this game is gorgeous. The gameplay is so solid, that once 
+ you are done with this game, you get the sense that you could command a U-boat, and be damn good 
+ at it. The submarines you start with in 1939 do lack quite a bit, but once you continue through 
+ the campaign, you will be introduced to bigger and better U-boats. Also as you start in the campaign, 
+ you will have the upper hand on the enemy warships and so forth, but as you progress, you will 
+ have a more cunning enemy and a lot more in numbers as well. There are different difficulty settings 
+ that you can choose from, and really do affect the gameplay. If you play it on easy, all you will 
+ have to do to take out a warship is lock on to it with your periscope, and fire a torpedo, and 
+ most often you will hit what you aimed for, but if you are a person who wants a challenge and have 
+ a realistic challenge, you will want to play this on hard. 
+  
+  The graphics make this game so memorable. Everything is done in beautiful detail! You can look 
+ around your command room and see everyone in your crew at their posts, moving around, when you 
+ move your cursor over them, they will look to you as if you have tapped them on the shoulder. As 
+ you move along in the waters you can go out onto the bridge, and look all around. The water moves 
+ realistically, and will splash against your boat. The weather is also another part of some great 
+ graphics here. It will change at random, so it can be overcast, sunny, or even when a storm comes 
+ around, it will pour down rain and you will catch glimpses of lightning bolts in the distance. 
+ One of my favorite features has to be the free look option, when you hit this button, you have 
+ total freedom at what you are looking at outside your boat. If you are under the water, you can 
+ free look and see your boat stealthily under the water, or better yet, when you manage to sink 
+ a boat, you can watch that in all its splendor. Ships will sink in many different ways, and it 
+ is very amusing to watch the disappear underneath the water. You can even follow the sinking ship 
+ under the water, and if the water is shallow enough watch it hit the floor with a nasty grind.
+ 
+  
+  Another part of this game that makes it so great is the sound. You will hear everything from your 
+ crew yelling that there is noise contact on a warship heading in your direction to the scary sound 
+ of water compressing your boat's hull as you dive deeper into the black water. One sound that really 
+ set the mood for me, and made this seem so real was when I was being tracked by a warship for the 
+ first time, and I was about 200 meters under the water. I was waiting silently to make my move, 
+ and I heard the ship above my start pinging the waters. As you sit in the command room, you can 
+ hear the pinging, and as your enemy gets closer, it gets louder and faster. Also another praise 
+ I have to give, is explosions. If you are playing this game on a 7.1 surround sound, with a good 
+ sound card, have this game turned up! The depth charges will rattle your eardrums, and deck guns 
+ being fired at you will make your heart skip a beat. Every sound is very well done in this game.
+ 
+  
+  When I first heard about this game, I was very skeptical, but I took a risk and purchased it. If 
+ you are looking for a game that takes a little patience, and you like planning out your attacks, 
+ so you can't just run in and get slaughtered, try out SH3 You will not be disappointed. 
+::::::
+
+::::::
+UserName: Reindeer
+Rating: 9.1
+Date: Mar 29, 2005 5:02 pm PT
+Review:  Graphics - Sets a new standard with beautiful graphics. Water graphics is the best iv seen in any 
+ game. Inside the sub you really get the feel of how cramped it really was.
+  
+  Sound - Accurate and realistic.
+  
+  Gameplay - there is alot to do as the sub commander and 
+ the interface makes it very easy to go from the different compartments. You can play the game with 
+ 100% realism or you can just concentrate on the things you enjoy.
+  
+  Value - Campaign is dynamic you can do whatever you like. You truly are a commander in the German 
+ navy. 
+::::::
+
+::::::
+UserName: sean_2
+Rating: 7
+Date: Mar 29, 2005 4:30 pm PT
+Review:  Having spent the last three nights playing SH3 I can only tell you one thing: It's AWESOME. I started 
+ out with some sound and video problems and after making some improvements all is well. I will say 
+ that the computer minimums are required, so don't try to make it work without the mins. Game play 
+ is fantastic. SH2 was a bear because once a destroyer had you locked you were dead. SH3 actually 
+ allows you a chance to evade and even if you suffer depth charges you still have a chance although 
+ it can be slim. The new torpedo targeting sytem is great and really makes the game more realistic 
+ because targeting ships is very challenging. The video is awesome. I have only played the single 
+ missions thus far sharpening my skills before taking on the career missions. One thing I liked 
+ about the single missions is that when they start you are immediately in the battle position with 
+ the enemy ships right there. You don't have to search for half an hour, which I really like. Overall, 
+ for anyone that likes sims this will give you hours of fun. 
+::::::
+
+::::::
+UserName: tanker
+Rating: 9
+Date: Mar 29, 2005 2:19 am PT
+Review:  Silent Hunter III is simply the best WW2 sub sim yet. Silent Hunter III covers German U-Boat operations 
+ in the Atlantic from 1939 until the end of the war. There are more than a dozen individual scenarios 
+ as well as a dynamic campaign where you can pick the starting year and theatre of operations. I 
+ should mention that the game is on DVD (not sure if there is a CD version or not) . It says this 
+ online and on the box but I didn't even notice because I've simply never seen a DVD game before. 
+ So if you don't have a DVD drive you may be out of luck. Also the game takes 2.5GB of disk space 
+ so be sure you have the room. 
+  
+  The game comes with a nice campaign map as well as a full-color keyboard guide. The small instruction 
+ manual is excellent for explaining the basics but completely lacks information on more advanced 
+ features or operational matters (like what is the ideal firing distance for the various torpedoes, 
+ etc) . The game also includes a number of well done video tutorials that will teach you the basic 
+ functions quickly. After you've watched these you can delete the files from your hard drive and 
+ reclaim about 500MB of space. Unfortunately, again, there are no tutorials on more advanced features 
+ or operations/tactics of the boat. Realism settings let the real sim diehards turn off external 
+ cameras and other aides. In general these are just too much fun to watch even if they are not realistic.
+ 
+  
+  Overall the graphics and sound are excellent. There are 3D views of many of the sub stations. You 
+ can freely rotate and look around at these stations but you can only jump from spot to spot not 
+ actually move through the sub like you would with a FPS game. There does seem to be a few issues 
+ with nVidia graphics cards (at least) where looking through the deck scope and binoculars causes 
+ major video slow downs through sea spray and fog. This is not a major problem because you can jump 
+ stations with keys and do the same functions from the periscopes but it would be nice to have the 
+ issues fixed. Sitting on the bridge and watching the waves, weather, sun sets, etc is simply gorgeous 
+ and adds tremendously to the immersion of the game. The various 3D crew members are rendered well 
+ but are stiff and have no facial emotions and little movement. One small quibble is that crewmen's 
+ beards don't grow over time nor do they don different attire for rainy/snowy days. Ship and aircraft 
+ models and explosions are very well done. Ships sink and aircraft crash in various ways commensurate 
+ with the way they were sunk/hit. In addition to your boat views there are torpedo/target cameras 
+ and even a free view where you can fly around and look at whatever you want. Again, not realistic 
+ but great fun and with the great graphics it enhances the experience considerably. Such view options 
+ are also of great use while learning the game and proper boat handling.
+  
+  You move about your boat either in the 3D mode or simply hitting keys to take you from spot to 
+ spot. You can run all the major stations yourself (radio, sonar, periscopes, deck guns, navigation, 
+ weapons plot) or let your crew handle them and just give orders. Crew management is a major task 
+ and you can freely assign crewman to the various positions (and the crew accrue experience and 
+ you can give them awards, promotions, and additional ratings between campaign missions) . Unfortunately 
+ crew management is also one of the confusing areas of the game. Some crew seem to tire very quickly 
+ whereas others will go for days. It would be nice if the computer handled crew rotations and let 
+ you intervene only when necessary. It is also not explained what the various crew ratings do for 
+ you. For example, is a torpedoman good just for reloading torpedoes or useful as a weapons office 
+ as well or both? You don't know. Also confusing is the orders interface. You can click on various 
+ hotlinks or officers to access various game/ship functions. This works well for the most part but 
+ the problem is that functions that are not supported by your current boat still show up. Thus on 
+ the early boats you will try to do things such as radar sweeps, etc that you can't do. Worse the 
+ interface doesn't say the function isn't available it just doesn't do anything. It would be nice 
+ if these options changed appropriately from boat to boat.
+  
+  Individual scenarios (missions) usually begin right at the moment the action is going to start. 
+ Campaign missions start in port. For campaign missions you'll need to navigate to your assigned 
+ zone and patrol for 24 hours. After that you are free to do what you want (within the limits of 
+ your fuel and ammo) . This has some advantages but isn't the most interesting way to run the campaigns 
+ either. Time compression up to 1,024 times real-time is available so you can move through the outbound 
+ and returning cruise portions quickly. The game automatically goes to 8x speed upon contact (I 
+ wish it would just go to real-time) . It also doesn't seem to let you do anything silly like run 
+ into an island with time compression on, which is nice.
+  
+  You can man any of the major stations on the sub (radio, sonar, periscopes, deck guns, navigation, 
+ weapons plotting) or let your crew do it and just get reports. For best results you'll need to 
+ take some direct command on certain occasions. You have free reign to run the sub as you wish within 
+ realistic limits. The only complaint with gameplay is you actually have to know how a U-Boat works 
+ to play the game well. For example early torpedoes need to hit targets at close to 90 degrees to 
+ explode (mostly) , etc. When spotting targets with the periscopes how do you use the stad lines 
+ to determine range, etc.? It is in areas such as these that the game does a poor job explaining. 
+ But those who know their U-Boats, or take the time to learn through trial and error, will have 
+ their knowledge/time rewarded with some rich gaming experiences.
+  
+  Missions (especially campaign missions) are overall slow affairs. The shortest is probably around 
+ one and a half hours and you can easily find three or four hours going by. Even with time compression 
+ there is considerable patience required to arrive on station, find targets, properly stalk your 
+ prey, attack, and most importantly, successfully evade attack. You'll also find yourself doing 
+ some of your own sonar work for best results. Often times you can spend hours on a mission without 
+ firing a shot or, worse, spend the time setting up a shot only to miss or have a dud torpedo. But 
+ this is what being a U-Boat commander was all about. If this sort of thing fits your temperament 
+ you will find Silent Hunter III an extremely enjoyable game. The game does a wonderful job of letting 
+ you run the boat and feel like a real U-Boat captain with all of the highs and lows that position 
+ experienced.
+  
+  The computer AI seems to be well done. Merchant ships will start to zigzag if they spot you. Escort 
+ ships will attack intelligently and even coordinate attacks. Your computer-run shipmates range 
+ from acceptable to poor. It is hard to tell if this is an AI problem or a result of their inexperience 
+ or lack of a rating. This is one area where the game could use some better explanation. If a close 
+ enemy contact shows up on the plot table why can't my sonarman hear it? Also, when spotting targets 
+ the ship can be identified for you but the nationality is not listed. So if you dont know that 
+ a Type 45 Destroyer is German you'll be committing some fratricide. There is a great ID book available 
+ in-game organized by nationality but you'd have to flip through the half-dozen nations manually 
+ to find the target type. Most ships fly national flags but you have to be pretty close to see them 
+ even through the scope.
+  
+  Overall Silent Hunter III is a very well done game with a few rough edges that will hopefully get 
+ fixed in follow-up patches. It will definitely be worth your time to know your U-Boat history or 
+ do some reading to get the best results from the game as well allow you to appreciate what the 
+ game does provide. If you've always wanted to command a U-Boat Silent Hunter III is a must get.
+ 
+  
+  There are a ton of great books about U-Boats and their crews. I'd also recommend 'The U Boat Commanders 
+ Handbook' by The High Command of the German Navy, High Command of the German Army, Kriegsmarine, 
+ Wehrmacht, which is a reprint of the actual 1943 U-Boat handbook. 
+::::::
+
+::::::
+UserName: spike2071
+Rating: 8.4
+Date: Mar 25, 2005 5:12 am PT
+Review:  Silent Hunter III is a mixed bag, showing immense potential but eventually falling short of being 
+ a truly great game. It has so much going for it that even with all the faults, it's still addictive 
+ and very enjoyable. The graphics are good, and half the fun is watching all the action from the 
+ external, "free-look" camera angle. Although in my mind it's akin to cheating, it's just too much 
+ fun to watch the overhead destroyer as it drops 6-7 depth charges right on your position.
+  
+  Other positives include smart enemy AI. Attacking a lone merchant near the enemy coast is almost 
+ inviting planes to attack you if you don't finish quickly and leave. Once you've been spotted, 
+ enemy merchants will zig-zag, increasing the difficulty of landing a torpedo in their belly, while 
+ warships will race over to your position and begin to actively search for you. It once took me 
+ about an hour and a half (real time) of quiet piloting and maneuvering to shake two destroyers 
+ off the coast of Ireland. It was nerve racking, and the destroyers seemed to work together, with 
+ usually one pinging me while other dropped the depth charges. I emerged safely but very battered 
+ and with a creaky sub.
+  
+  Some of the more notable downsides include stability issues, graphics bugs, network bugs, incompetent 
+ crewmen, a manual that is almost worthless, and a dynamic campaign that seems very weak. Your sonarman, 
+ arguably the most important person on the boat, can be immensely dense and downright stupid. Nothing 
+ like asking him for an exact range on a boat that you can clearly see an is no more than 1000m 
+ away, and he says "No sonar contact!", forcing you to man the hydrophone and do it yourself. Also, 
+ trying to map contacts yourself (on the tougher settings) is a little unrealistic because you have 
+ no protractor or any other means of measuring angles. So if your sonarman happens to actually hear 
+ something (*gasp*) bearing 110 degrees, you have to make a guess as to the actual placement of 
+ the ship.
+  
+  The dynamic campaign is, technically, very dynamic. You'll never have the same mission twice, but 
+ unfortunately, all the missions are the same. All you do is head to a grid and patrol it for 24hours. 
+ You're then free to go wherever you want and hunt whatever you want. A little variety would have 
+ been nice, even an escort mission, or if there were no contacts in your original grid, then receiving 
+ coordinates for a new grid with more activity. 
+  
+  Despite being delayed for several months, it seems that SH3 is an unfinished product. Even considering 
+ that, this game is just fun to play. It's not, however, something for those with ADD or lacking 
+ patience. It usually takes me several hours to complete one mission, and that's with time compression. 
+ Plotting a course and then stalking a merchant for an hour to have it culminate in a dud torpedo 
+ is frustrating but makes the ones that sink all the more enjoyable. Like I said before, it's not 
+ perfect, but it sure is fun.
+  
+  
+::::::
+
+::::::
+UserName: overload1
+Rating: 10
+Date: Mar 22, 2005 2:48 pm PT
+Review:  Your on the top, salt spray hitting your face from the bow as you watch for any contact. When a 
+ voice belows saids ,I have a contact moveing fast 3,000 yard off the bow when a shell hits the 
+ water 20 feet left of the bow .dive dive ,take us to periscope deep yes, ser ,up scope you take 
+ a look tarket is now 800 yard and moveing fast ,fire tube 1 ,down scope ,dive, sonar picks up splashes 
+ in the water. This is what the game is all about only you can control the out come of the u-boat 
+ Happy huntting . 
+::::::
+
+::::::
+UserName: obiken
+Rating: 9.2
+Date: Mar 20, 2005 1:56 am PT
+Review:  I run a upper middle machine its an Ath 32k with 1gig mem and a Radeon 9700 Pro, and this game 
+ runs ok. 
+  The Graphics on this are the best on any simulator I have ever seen. The realism is outstanding, 
+ as is the campaign its self. The problem I have is that they eliminated the heading to view and 
+ the set course to heading buttons which made it a lot easier to track targets in SH2. On easy level 
+ its a bit too hard. SH 1 was the best Sub game ever and this one takes its place no doubt but you 
+ are going to have to do some of the tutorials you cannot just jump in and run with this puppy. 
+ The crew management is outstanding and the animated figures for the crew are great looking. The 
+ campaigns are much better than SH2 which were way too linear. We need an add on or a new game for 
+ the Pacific 
+  theatre as SH1 will not run on modern machines anymore. Do the academy thing first and you will 
+ find this an instant classic, wing it and you will burn up a lot of unnecessary time. This game 
+ is a winner. 
+::::::
+
+::::::
+UserName: Keledron
+Rating: 9.9
+Date: Mar 18, 2005 3:46 pm PT
+Review:  I apologize for any glaring errors of the grammatical nature throughout this review. I have not 
+ slept in 2 days, and have been playing this amazing new creation that came out of Romania for the 
+ entire two day period. This phenominon is known as Silent Hunter 3. 
+  
+  The developers, for the first time in gaming history, really sat down and listened to the opinions 
+ of their community. Silent Hunter 2 was poorly recieved, touting features that never measured up, 
+ and the presentation itself was completely mediocre. So this team wasn't going to take that reputation 
+ hit sitting down. Initially they were taking the "scripted" campaign route, their promise of a 
+ dynamic campaign was floating away faster than you could shout "Alarrm!". 
+  
+  But after a near forum revolution by the community, they went back to the drawing board, and you 
+ will be beyond thrilled that they did. 
+  
+  So lets start with the gameplay: Even fans of the previous installments would be wise to take the 
+ Naval Academy course. SH3 goes above and beyond, and gives you almost every aspect of controlling 
+ a U-Boat to painstaking detail. Everything from managing the crew and morale, to plotting your 
+ course on the map using rulers and protractors, its all here. 
+  
+  The best part is, you can make it as 'real' or 'sim' as you like. By flicking a few feature switches, 
+ you can give it a more arcade feel, leaving the sim stuff for the real sub nuts, while you go and 
+ sink ships to your hearts content. The more sim you go, the more learning you have to do, and it 
+ will be very difficult to master, thats for sure.
+  
+  I can't describe the gameplay any better than to say everything you've wanted is all here. A 3D 
+ interior that is beautifully rendered, and being a person that has toured the inside of a U-Boat, 
+ i was impressed to see how well the development team recreated the environment. 
+  
+  Everything factors into your game. I was patrolling the seas around Norway last night, when I got 
+ caught in a terrible storm. I ordered my navigator, Pascilli, to surface the boat as CO2 levels 
+ were getting high and the oxygen reserves needed to be refilled. Upon reaching the surface, we 
+ realized how bad the storm really was, the seas were beyond choppy, lighting was flashing almost 
+ nonstop, it appeared we were caught in a monster of a storm to be sure. Once the air levels were 
+ at acceptable levels, i ordered Pascilli to dive back down to 60 feet. The best part was, you could 
+ still hear the storm raging above the water.
+  
+  
+  On to other factors, as Gameplay gets a clear 10/10.
+  
+  Graphics: Whats not to like here. This 
+ is easily the best looking subsim ever created to date. The fully 3D rendered interior, your crew 
+ going nuts during a depth charge attack, its so beautifully presented you won't know that you're 
+ not there and sitting in front of your screen. Easily a 10 compared to the rest of its competition.
+ 
+  
+  Sound: Immersive, excellent music score, and all the effects are authentic to boot. Everything 
+ from the sonar and hydrophone, to the creaking of your ship as you start heading to max safe depth. 
+ Everything helps to add to your experience, even the crew is all vocalized, and for an extra layer 
+ of realism, you can have them speak in German as well.
+  
+  The replay value here is infinte. The developers came through on a truly dynamic campaign, you 
+ will never play the same game twice. This game will be a long lasting edition to your collection, 
+ and i'm sure you'll be playing it for years to come if you're a real sub nut.
+  
+  Overall, if you even remotely enjoyed a subsim of the past, subsim fans, it does not get any better 
+ than this! It has everything you've longed and asked for, and more. You will not be disappointed. 
+ 
+::::::
+
+::::::
+UserName: Guapsrocks
+Rating: 10
+Date: Mar 18, 2005 1:29 pm PT
+Review:  Well After three tries Ubisoft has turned out the best WWII sub sim on the market. This by far 
+ sets the bar for Sub sims if not setting the bar for all War Sims! 
+  
+  The action is as real as you can get viewing from a computer screen. The sounds of the shells going 
+ over your head, torps travelling through the water, or water pressure on the sub is just amazing!
+ 
+  
+  I'll share my experiance to date. I started in the naval acadamy where I learned basic operations 
+ of the various stations. There is a video you can watch for each training segment which will really 
+ help you pass the final exam in each section.
+  You dont have to do the acadamy before you start a career but you are rewarded for finishing it 
+ first, and I found it a good way to learn the controls. 
+  
+  Im still amazed as I watch explosions on ships from the deck gun or secondary explosions on the 
+ ship after a torp strike. Its really very very detailed and pure eye candy to watch.
+  
+  You have total control over your ship. You can move men around to various stations to gain experiance. 
+ Thier mood and training effects the way they preform for you. Oh and if they do a good job promote 
+ and reward them. They earned it. Im serious you even gain promotions and awards you can pass out 
+ after missions as you see fit.
+  
+  Build out your sub with various equipment allowed for each model of sub you command.
+  
+  The 
+ 3d cabin is also a nice change as you get a nice 3D perspective on the ship as you move from station 
+ to station. Very nice effect if you ask me.
+  
+  Anyway If your a fan of Sub sims then you must get this one. It might just be the last one we'll 
+ need to buy!
+  
+  
+  
+  
+  
+  
+::::::
+
+::::::
+UserName: -BC-Soldier91
+Rating: 10
+Date: Mar 18, 2005 2:13 am PT
+Review:  Its 1941 on the cold Atlantic. Your crew has been dispatched from a German U-Boat port called Benux. 
+ After several days at sea your watch officer drops down the hatch ladder and yells Alarm!!!!! The 
+ hatch is sealed and locked while the chief officer tells the men the required depth. Your watch 
+ officer catchs breath and tells you that a British Capitol ship is to the east bearing 170 at 15 
+ knots. So all you Submarine fans prepare for the most intense game off your life. This game has 
+ so much depth is unbelievable. Ships are blown up with the coolest explosions and physics. Waves 
+ trample your boat during storms and it is sometimes hard to imagine your just playing a video game. 
+ 
+  
+  You have control of everything in your u-boat. Some areas such as the forward torpedo rooms are 
+ not accessible since Captains would never enter those rooms. Most of the ship you can see and its 
+ breathtaking. Pieces of hanging meat to the red lighting at night. Getting hit by depth charges 
+ almost seems like something in the movie Das Boot. Lights flicker on and off and leaks spring up 
+ all around. Its very intresting. Though the game is not entirely based inside of the ship. The 
+ observation deck and mounted guns are avalible to use aswell. Ubi has created some of the worlds 
+ best sea graphics in this game. Every explosion has a reflection on the water which makes from 
+ some awesome graphics. Massive waves to small waves pound your boat through out the worlds oceans 
+ and seas. Overall the Graphics have got to be a 10!
+  
+  Gameplay plays a big role in this game and trust me its gonna take an hour or 2 to learn everything. 
+ I'd recommend going to the Naval Academy and getting your basics down. There are several boats 
+ you can command with in the game. Each spanning the technology from 1940 to 1944. Even the late 
+ prototype in 1944. The A. I is really good in this game. They will do enavise manuverses to get 
+ past your torpedoes. Trust me they will find you and when they do they will kill you. Watch for 
+ Enemy aircraft aswell. They will radio other ships nearby with your postion. So don't let them 
+ get away. The A. I will use depth Charges, Sonar, Radar, and any means nessessary to find you. Even 
+ at night they have spotlights mounted on their boats. If Spotted at night near a port you should 
+ not be seen. The slightest explosion on one of the allied ships will cause absolute chaos. Star 
+ Rounds will light up the sky and sub nets will be deployed. Sometimes even mines. Trust me you'll 
+ know Gameplay is a 10 when you play it. 
+  
+  As mentioned before the sound is absolutely incredible. So you 5.1 Surround Sound users should 
+ be in for a major treat. From the water pressure crumpling your boat to the sound of metal from 
+ your enemy ships crunching and whining as it hits the ocean floor. You'll defiantly think your 
+ there.
+  
+  Overall I really enjoy this game. There are no flaws and knowing Ubi they will have patchs for 
+ any within days. In fact v.1.1 was released today. I hope this reviews helps in your purchase of 
+ Silent Hunter 3.
+  
+  Thanks,
+  Soldier91 
+::::::
+
+::::::
+UserName: baddogjmh
+Rating: 9.3
+Date: Mar 17, 2005 3:38 am PT
+Review:  I had bought this game and I was like yea another submarine game gonne be crap...... but the graphics 
+ look great the gameplay is nice the game is just THE greatest. But one problem with the nivida 
+ cards when you use ur binoculars they fuzz out slowly but a patch will be out soon. Sound is also 
+ really nice and it just makes the game feel more realistic, the free look camera is also SWEET! 
+ I can follow my torpedo from under water and just watch it hit that ship BOOM!. This game if for 
+ those people who have patience for a game and like the blow things up and have NEAT effects when 
+ they blow it up. 
+::::::
+
+-------------------------------------------------

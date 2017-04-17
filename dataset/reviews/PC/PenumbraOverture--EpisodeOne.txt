@@ -1,0 +1,1543 @@
+-------------------------------------------------
+:::Game Name::: Penumbra: Overture -- Episode One
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/action/penumbra/review.html
+-------------------------------------------------
+:::The Good:::
+ Grim, subtle story and dark, atmospheric settings.
+ Combat is very effective at conveying a sense of desperation.
+ Physics engine allows direct manipulation of objects.
+ Bleak visuals emphasize sense of loneliness and fear.
+ Creepy dialogue and audio effects.
+-------------------------------------------------
+:::The Bad:::
+ A few design quirks and bugs.
+ Combat is an acquired taste.
+ As with most episodic games, it's pretty short.
+-------------------------------------------------
+:::Date::: May  4, 2007
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.8
+Critic Score: 7.3, 31 Review (s)
+User Score: 8.0, 525 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Developer: Frictional Games
+Genre: Horror Action Adventure
+Date:     Mar 30, 2007 &raquo;  
+ESRB: Mature
+
+-------------------------------------------------
+:::Review:::
+Penumbra is loaded with creepy psychological horror that really gets under your skin. 
+
+  The world of video games might not have produced as many indie horror classics, but the next best 
+ thing might just be Penumbra: Overture -- Episode One. This deeply creepy first-person action adventure 
+ from Frictional Games may be so low budget that it first crept out of the grave in 2006 as a free 
+ online demo, but it delivers in the shivers department. Although there isn't much here for action-first 
+ splatterfest fans, and a few technical glitches make some aspects of the design more frustrating 
+ than frightening, a constant sense of peril and isolation mean that you shouldn't play this one 
+ unless you're happy to sleep with the lights on for a while.  
+
+          Nice doggie.     
+
+  As with all effective horror, atmosphere is paramount here. Penumbra 
+ gets off to a Lovecraftian start with the lead character, Phillip, getting a letter out of the 
+ blue from his long-missing father. The old man was apparently declared dead some 30 years before, 
+ but that didn't prevent him from licking a stamp and directing his son to a safety deposit box 
+ filled with indecipherable notebooks and a map of northern Greenland. All of this is more than 
+ a tad surreal. None of the backstory is explained, there is no character development, and you're 
+ not even clued in on why Phillip decides to head off to Greenland and wander around by himself 
+ in a blizzard. While this style of storytelling won't please fans of rigorous plots, the vagueness 
+ gives the game a gauzy, dreamy vibe. All of the action takes place in a mausoleum-like abandoned 
+ mine, too, which heightens both the weirdness and the sense of being detached from the real world. 
+
+  Yet at the same time, this adventure is down to earth in many ways. Interacting with your surroundings 
+ is courtesy of a standard point-and-click interface, but you also have the ability to manually 
+ manipulate just about every object in the game. Doors, for example, aren't opened simply by clicking 
+ on them. Instead, you have to click on them and then pull them open by drawing back the cursor. 
+ You can similarly shove, carry, and pull just about every object in the game, from rocks to barrels 
+ of TNT. This gives you a tremendous amount of control over the environments and provides the game 
+ with organic puzzles. The developers haven't gone too far with this concept, either, so you're 
+ not constantly turning wheels or pulling open drawers. There is always a good reason for manipulating 
+ objects, and this usually involves solving commonsense conundrums by constructing a ramp over an 
+ electric fence with boards, sliding shelves out of the way to reveal a passage, stacking boxes 
+ to make a jumping platform, and other tasks that are similarly equal parts brainwork and busywork. 
+
+  Combat is a bit iffy, though. It works along the same lines as what's described above, which means 
+ that you fight by mimicking actual movements like swinging a hammer or a two-by-four. The feel 
+ is similar to the mouse-swing mechanic in a golf game. This makes battles more intense than in 
+ the usual click-to-kill game, as your occasional bouts with creatures like undead dogs and giant 
+ spiders are realistically frantic and desperate. Unfortunately, fights are also so frenetic that 
+ it's almost impossible to control your movements. The camera angle locks when you hold down the 
+ mouse button and go into attack mode, which is a big headache because the nasties you battle never 
+ stay fixed in one spot and can take a lot of punishment before shuffling off this mortal coil. 
+ You eventually get used to combat (the trick is to keep hammering enemies when they go down) , but 
+ it would have been much more sensible for the camera to lock on and move with enemies.  
+
+  But maybe that would have made things too easy. The end result of the difficult combat is that 
+ you feel like an average Joe who wants to avoid zombie dogs with glowing eyes, not a video game 
+ superman out to stack dead canines like cordwood. In some ways, Penumbra is a cross between an 
+ adventure game and a stealth game like Thief or Splinter Cell. Phillip sure isn't much of a warrior. 
+ Staring directly at an enemy for too long causes him to go into a panic attack and the screen to 
+ get fuzzy and shaky, which can result in him standing up abruptly and revealing himself. Phillip's 
+ very good at hiding when not freaked out, however. He can crouch down for a few moments in the 
+ shadows and become invisible to passersby. There is no gem or similar interface gimmick to let 
+ you know when you're safely tucked away, although the screen takes on a blue hue and your vision 
+ improves whenever you're hidden from prying eyes. Many creatures in the game have fixed patrol 
+ routes as well, which further lets you play the game as if Phillip were Garrett or Sam Fisher. 
+
+  Other aspects of Penumbra are similarly low key. Visuals are sparse but effective. Yet even though 
+ the visuals are a bit rough, the grainy textures, smeared brown-and-gray backdrops, and heavy shadows 
+ clouding details everywhere seem calculated to enhance the sensation that you're in a nightmare. 
+ If the graphics were sharper and more realistic, the creep factor wouldn't be nearly as strong. 
+ The game's audio is stellar. This game may have been made on the cheap, but the developers didn't 
+ cut corners when it came to dialogue and voice acting. The actor voicing Phillip does a great job 
+ of capturing the fear of being stranded alone in the dark, and your insane tour guide, Red, is 
+ one of the craziest, most memorable characters you'll ever meet in a game. Sound effects in the 
+ game are extremely creepy. The only noises you hear much of the time are the creaking floorboards, 
+ the echo of stone under your feet, the lionlike growl of the zombie doggies, and the chittering 
+ of spiders around the next corner. Music adds chills, with pianos and drumbeats underlining discoveries 
+ and the approach of monsters.  
+
+          Sometimes you want subtle, growing horror; other times you just want to skip to the quick 
+ gross-out.     
+
+  Even with the solid presentation, Penumbra is exposed as the work of a small time developer in 
+ spots. The biggest issue here is length. Even with a number of tough fights and lots of exploring, 
+ you can finish the game in six or seven hours. That's good enough for the $20 price tag, but it's 
+ not a stellar deal. The game is overly sensitive to changes made to the video and audio settings, 
+ as well. Enabling something as straightforward as hardware support for a sound card can cause the 
+ game to crash when loading, and there is no way to go back to the default settings without manually 
+ deleting the settings configuration file. From the same "Why the heck did they do that?" department 
+ comes the decision to lock out saving on demand in the default configuration settings. To enable 
+ this undocumented feature, you need to edit the config file with a text editor. Doing so isn't 
+ rocket science (all you need to do is change a "false" statement to read "true") -- and the default 
+ autosave and option to save manually at artifacts in specific locations actually work great -- but 
+ a feature like saving at any time shouldn't be hidden or require any messing around outside of 
+ the game itself.  
+
+  Even with these eccentricities, Penumbra: Overture -- Episode One remains a great spookfest. The 
+ physics engine, the unremittingly grim and bizarre storyline, and the fact that you can be killed 
+ at almost any moment by some creature lurching out of the darkness really get into your head. Bring 
+ on episode two.     
+-------------------------------------------------
+:::User Reviews::: (29 Reviews)
+::::::
+UserName: flclempire
+Rating: 7
+Date: Mar 17, 2009 3:56 pm PT
+Review:  Good:
+  1. The graphics are fine for their time.
+  2. The sound is very immersive, both music and sound effects.
+  3. There is real tension at all 
+ times, mostly from raw anticipation and paranoia. But right when you start to calm down the game 
+ throws something else at you ^^.
+  4. You must think on your feet. I absolutely loved the running sequence involving the rock worm. 
+ 
+  5. Atmosphere and the "feeling" of the story. Its what penumbra is all about. That and easy puzzles 
+ :P
+  
+  Bad:
+  1. Low lighting can give me a headache after a while.
+  2. Dogs. Yeah, great for the first few encounters, then they just get old. After a while of getting 
+ spotted you'll learn that you can just run right by them and they become even less interesting.
+ 
+  3. The combat is horrible. You rarely have to fight, but when you do the outcome is pretty random 
+ unless you have stuff to throw at your enemy to stun them. But then again it makes each fight hectic 
+ and desperate.
+  
+  Overall:
+  Its a great game for its day. They seemed to get a little lazy with level design and with the enemies 
+ though. I recommend this game to anyone who enjoys slow, atmospheric games. 
+::::::
+
+::::::
+UserName: Enok6
+Rating: 8.5
+Date: Feb 19, 2009 1:52 am PT
+Review:  Penumbra : overture is a typical horror game but what sets it apart ?
+  for starters the physic engine is very realistic .
+  you can use the mouse "kinda" like a Wii 
+ remote. with that i meen when you open drawers/doors, swing a hammer And so on, you use believable 
+ movements with your mouse.
+  
+  Story:
+  Your Father left you and your mother when you were a boy. one day you get a letter with a bank 
+ safe key in it. in the safe there is information about your father was in Greenland. you go to 
+ Greenland and get lost. right before 
+  you die of cold you find a iron hatch. you go down, it is dark cold and you see no sign of life.
+ 
+  
+  Gameplay:
+  you will have to solve challenging puzzles and sneak past enemies. it is not a very good idea to 
+ confront them because you are just a normal man not a one man army.
+  You will use the physic engine to solve puzzles and maybe the mouse control's to pick up a rock 
+ and whack a enemy in the back of the head.
+  you are not the bravest man in the world. if you are hiding corner in a dark corner your eyesight 
+ turns blue so it is easy to see but if the enemy stares you right the face you will panic and stand 
+ up and revile yourself.
+  
+  All and all Penumbra: overture is a great game which i think is under rated by the gaming community. 
+ 
+::::::
+
+::::::
+UserName: akhorahill
+Rating: 8
+Date: Feb 10, 2009 9:18 am PT
+Review:  Penumbra is an amazing horror adventure game. Though its graphics are not top notch and the textures 
+ and enemies are overused, the atmosphere is dense, heavy and it really crawls under your skin. 
+ It's hard not to wish the devs have had more money and time.
+  
+  The game takes place in Greenland, in a cold and desolated mining facility. The main character, 
+ Philip, receives a letter from his long deceased father, and even though the notes do not make 
+ much sense, he decides to follow the footsteps of his progenitor and find out the true story of 
+ his demise.
+  
+  From the moment Philip steps in Greenland, he begins to feel the adversity of the environment. 
+ There will actually be few, if any, safe havens in the game. At first, a dark tunnel sealed by 
+ a metal hatch will seem like a relief from the bone chilling winds of Greenland but as the hatch 
+ closes, Philip will start to hear snarls in the distance, whispering voices, hisses and soft footsteps 
+ around the corner.
+  
+  This dense and palpable atmosphere is surely the game's strongest point. It'll make you fear going 
+ past a corridor or enter a room, just by suggesting the presence of an unnatural enemy. It's specifically 
+ stronger in the first hours where you have no idea what kind of enemy you'll be facing. The sound 
+ engine plays a key part here as the noises - small rocks being scattered as somebody or something 
+ comes closer, muffled cries and all sort of creepy sounds - make sure you're on your toes. As you 
+ hear an enemy coming closer, Philip will start panting and you'll be able to hear its heart pounding 
+ heavily. It can be really nerve wrecking. Once the lights are on and you figure out what you're 
+ up against, the atmosphere loses some of its charms but only because the graphics are not top notch 
+ like the sound and 3D engine. That's not to say the graphics ruin the game, but as the same enemies 
+ are somehow overused, some of the initial golden moments are lost. 
+  
+  The core game play in Penumbra is to avoid enemies as much as you can and go deeper and deeper 
+ inside the complex, trying to find out what happened there and how in hell it connects to your 
+ father. Exploration requires one to solve well conceived puzzles that make use of the game's 3D 
+ engine. Speaking of which, Penumbra differs in the way it allows one to interact with the environment. 
+ Instead of a simple click, it requires one to use the mouse to mimic the action. For instance, 
+ opening a drawer requires one to place the cursor over it, click and drag the mouse backwards. 
+ It might feel a bit cumbersome at first but after a few attempts, it'll be as smooth as a simple 
+ click. Combat also requires one to swing the mouse wildly in order to attack but rather than a 
+ bad design choice, I'd say combat is intentionally made cumbersome so you won't feel encouraged 
+ to charge every enemy you find.
+  
+  The 3D engine also plays an important role as you move crates, planks and objects around, be it 
+ to create a barricade to prevent enemies from flooding into a room or to build up a way to reach 
+ an item on a very high place. 
+  
+  Without going into much detail and ruining someone's experience, it should be noted that the game 
+ encourages one to try different ways to interact with the items in its inventory, the objects in 
+ the environment and with the character itself. 
+  
+  Penumbra is a game to be enjoyed in the dark, by those who like to explore the surroundings. It's 
+ not a long experience, roughly 8 hours, but I'd say it's perfect for such an engrossing atmosphere. 
+ A longer game would definitely hurt the fear and dread. It's perfect for those who enjoy a horror 
+ experience and feel that they could give their double barrel shotgun some well deserved rest. 
+::::::
+
+::::::
+UserName: TugaSoldatTV
+Rating: 8
+Date: Nov 23, 2008 4:39 pm PT
+Review:  Penumbra Overture is a great game.
+  
+  
+  The game can really put you in the skin of Phillip (the main character) and will make sure you 
+ stay focused on the story. You can easily manipulate every object in the levels, like doors, boxes, 
+ pipes, rocks and what so ever. This makes the game even more realistic.
+  
+  The atmosphere is just creepy, and so is the music. In fact, you must hide in the dark if you dont 
+ want to be detected by the hostile creatures that walk the land. The story, based on the book, 
+ is really well done, and some dialogs are also good.
+  
+  Now, what is bad in this game, is the combat mode. Its simply broken and im glad they removed it 
+ on Black Plague. And speaking of B. P, to bad i played that one first, so i already knew what was 
+ going to happen on Overture, but the tension and scares were still there, so, it didn't made much 
+ of a difference.
+  
+  
+  Overall, Overture is inferior to Black Plague, and can be really hard to avoid enemies without 
+ getting killed alot, but its damn scary to play and specially if you dont know the series. 
+::::::
+
+::::::
+UserName: Dennylson
+Rating: 7
+Date: Sep 26, 2008 3:17 am PT
+Review:  When I first heard about the Penumbra series, it was actually back in February 2008. I was looking 
+ for a new horror game to play and noticed that a game called Penumbra Black Plague had just come 
+ out. After looking into it more, I realised that this was the second game in the series so I decided 
+ to get Overture first so I could experience it from the beginning and I'm pleased that I did!
+ 
+  
+  Penumbra Overture is a first-person horror adventure game set inside a mine in Greenland and the 
+ developers have tried to emphasise stealth tactics rather than combat to progress through the game. 
+ You play as Phillip who has travelled there after receiving a letter from his thought to be dead 
+ father in a bleak quest to find out what the hell happened to him.
+  
+  The atmosphere setting is fantastically well executed and along with the gloomy (but not brilliant) 
+ graphics, it really creates a feeling of dread and isolation. The first time I came into contact 
+ with one of the infected dogs, I was so scared to move that I didn't want to come out of my hiding 
+ place incase the dog saw me. This, unfortunately, is where the fear factor got slightly diluted. 
+ After sneaking by a few dogs to start with, I just wanted to see how easy (or hard) it was to kill 
+ one of these beasts. It was ridiculously easy and after discovering this, I didn't think there 
+ was much point in sneaking around anymore as it was much easier to just kill them with a few swift 
+ blows of the pickaxe and get them out the way! The spiders are an even more crude enemy and when 
+ you establish that these are your only threats, the game gets a lot less scary. The game then became 
+ a bit of a cake walk and not all that enjoyable. 
+  
+  I liked the game mechanics very much. The developers have implemented a physics system that enables 
+ you to pick up, throw and push objects around. It's all in the mouse movement. To open a door, 
+ you have to click on it and pull the mouse backwards or forwards to mimic the action. This system 
+ plays a big part in the various puzzles you have to solve throughout the game too. The puzzles 
+ are not too difficult either, you just need a bit of common sense to solve them.
+  
+  To sum up, I would say that Overture is a strong introduction to the series but flawed because 
+ it really isn't necessary to use stealth like the developers wanted you to. It's a lot easier to 
+ just kill your enemies so I hope that in Black Plague, this issue is addressed and put right as 
+ it will help to maintain the high fear factor. I can't say I loved this game but I did like it 
+ enough to want to carry on playing the series. This is mainly down to the mysterious storyline 
+ that is quite intriguing and I look forward to playing Black Plague. 
+::::::
+
+::::::
+UserName: cornbredx
+Rating: 8
+Date: Aug 22, 2008 1:52 pm PT
+Review:  There's alot of great reasons to play this game. The most notable is what everyones talked about, 
+ the physics engine and the way it uses physics to do puzzles. My favorite of all the great things 
+ in this game is the story. I personally think this is probably the best story in a video game I've 
+ played in a long time (IMO this story beats bioshocks and thats probably because BioShock was ultimately 
+ copying another story so it wasnt quite as creative) .
+  
+  Bear with me here, I love this game (im an adventure game nut that hasnt had a good fix in awhile 
+ until I found this gem) and I've played both this and its sequel both of which are great games. 
+ Forgive me for that, but I will try to be as true to my observations and not lead you down the 
+ road of just "This games great because I say so" (which, I have sadly done in the past and do not 
+ intend to do again) .
+  
+  Graphics: Im doing this first because while superbly fitting, the graphics are the worst in the 
+ game (or maybe, more accurately, the animation? Im not sure but I probably mean animation as well 
+ as details of the characters [how they're drawn] ) . I am able play these games first off on max 
+ settings so no I do not have a computer problem making them look funky, they just do and I think 
+ (thankfully) they honestly sacrificed a little budget from graphics/animation in light of gameplay 
+ and story which imo is a good thing for this game. Like I said though, I'm not knocking the graphics 
+ at all, they are fitting for what the game is, and to Frictional Games credit you could technically 
+ go through the whole game never seeing or barely glancing at the different nasty creatures that 
+ pervade the dank mine that will be your home for the entirety of the story. Everything, while not 
+ the best graphically, fits perfectly into the world they created though and really helps set the 
+ mood. In my humble opinoin this game is best played using only the green glowstick for light as 
+ well as lights around the mine. It helps make it even creepier (not that it needs help with that) .
+ 
+  
+  Sounds/Music: The low quality of graphics aside (trust me, they're decent enough for what this 
+ game is.. do not take those statements to mean otherwise) everything else in the game, to me is 
+ at the high end of the spectrum. For instance, sound. Not alot of games for some reason or other 
+ seem to care to much for their own ambience. It gets muddled in music and other ferocious sound 
+ effects. This game intends for certain feelings to course through, it is a horror after all and 
+ you need to be scared or at least on edge (I was on edge through both games) and have silence broken 
+ be a serious moment. The ambience in this game does what music does for most games. You'll hear 
+ a clank in the distance and wonder if something is following you or a growl to your left and wonder 
+ if you've been spotted. Its great how its done and if nothing else I can only say that I wish it 
+ didnmt always sound like everything was on top of you alrdy but rather around you. I played this 
+ with head phones on (another adding to the creepiness hehe) and noticed whenever a creature was 
+ nearby but maybe say, in the hall next to the hall your in, it sounded like you were right on top 
+ of it rather then the next hallway over. It added to the tension as you cant always tell if you've 
+ actually stumbled on a creature in the dark or if your just hearing them in the distance. Maybe 
+ its intentional, as I said it adds to the tension, but it seemed odd to me so I'm mentioning it. 
+ The ambience, though, is very good in this game and the music is equally fitting the mood but not 
+ over bearing. The music generally is very soft and almost non existant when your searching the 
+ mines and you'll know when something interesting is happening because the music shifts and suddenly 
+ its very exciting and intense. Thats generally your que to run for your life and really helps sell 
+ the tension of the game wonderfully. I loved it! In the words of a funny man: "It was vewy good"
+ 
+  
+  Puzzles/Combat: Appropriate is a good word here. Thing of note though, theres a tiny bit of combat 
+ in this game which is more of a puzzle in itself because of the "physics" system they decided to 
+ use in combat as well. You have to actually move the mouse to motion the direction in which you 
+ swing. Not completely accurate or intuitive, but at least it doesnt get stuck at the worst times 
+ like AITD did. Overall, it was done well but the combat system has a purely afterthought feeling 
+ to it and honestly to me its unnecessary to have in the game at all in all portions except maybe 
+ one part and even then you dont technically need it, it just made it easier for me. All in all 
+ you'd be better off always running away (which they made it clear quite early in the story youd 
+ probably prefer to do that) or if your really better then me staying hidden.
+  Another form of puzzle in this is the hiding, btw, (terrible seguay... sorry) in which you hide 
+ in the dark very much like Chronicles of Riddick. While its great to see this in use again, and 
+ one of many options you have throughout the game in avoiding creatures, its probably your second 
+ best option when confronted with obstacles of deadly teeth caliber (combat being the third choice) . 
+ Its second because while they'll teach you to do it early on (and it is definitely more useful 
+ in this then the sequel) you are just as well off running everywhere. Honestly you can just run 
+ past everything that attacks you but beware this option I chose as the best has its cost. First 
+ they can catch up with you easy, second you die fairly easy (its not unforgivingly easy to die 
+ though) , and third they chase you until you block them or leave the area they are in. Whatever 
+ option you choose to use, choose what fits your playstyle. I chose in this one to hide sometimes 
+ and others run. Combat was an extreme circumstance choice I only had to resort to one time.
+  Lastly, the puzzles (the by nature puzzles that once you get past progresses you in the story, 
+ the reason we play these) are superb as well as the UI. Everything is done as if done by your own 
+ hand. I could nit pick it but its not necessary. You open doors by clicking and pulling the mouse 
+ to open the door. You open drawers the same way, and you turn, push, or open other various things 
+ the same way. Its very intuitive and enjoyable. The puzzles are that of logic fitting into this 
+ mechanic (Ala halflife... we knew it would pave the way for these types of games some day) and 
+ mostly puzzles are merely ways to get further in the story more so then doing a mini game to progress. 
+ Its old fashioned in some ways and very next gen in others to me and fit very nicely.
+  
+  Story: I cant say much here or I'll spoil it. It's a creative and fresh idea the farther you go, 
+ always keeping you in the dark (heh excuse the pun) , and I cant say anymore in fear I'll spoil 
+ anything about it. You'll have to play to make your opinoin on the story, but IMO while not entirely 
+ new of an idea, it is a remarkable ride and fun to play through start to finish.
+  
+  Overall Gameplay/"Fun Factor": This game is fun. Hands down. I think even non adventure gamers 
+ would like this game for its well told story and intuitive puzzles- I do have a few quarrels with 
+ it, but not enough to risk ruining the story or putting down- and I can only say if you like survival 
+ horror this is a step into a new generation of adventure gaming that I am eagerly awaiting to see 
+ what more games follow in suit. You may want to play it if you havent already. 
+::::::
+
+::::::
+UserName: asafs16
+Rating: 8
+Date: Aug 31, 2008 3:50 am PT
+Review:  you thought F. E. A. R was scary?
+  you thought DOOM was scary? 
+  you thought RE4 was scary?
+  
+  well guess again... from all the horror games i have played in my life and belive me i played 
+ in a lot of horror games, PENUMBRA was the scariest game ever!!!, really scary music and allways 
+ dark when i played there were times when i farted non-stop beacuse i was scared and there were 
+ times when i stoped the game went out of the room to relex a little and back in
+  PENUMBRA IS THE SCARY OF TOMORROW, the greaphics arent that good like crysis, bioshock and more... 
+ but its pretty good after all this game was made buy a small group of students, its a great game 
+ that combine two things: HORROR, and, SHYCOLOGY , you need to think alot in order to proceed to 
+ the game, the only problem in the game is that: to short, there were times when i was happy that 
+ it was short beacuse it was so scary
+  
+  but now i think that if the game was longer it was even better, the game suffers from some bugs 
+ but thats ok 2
+  
+  im happy that in this game there isnt weapons "at all" that is one of the things that make the 
+ game so scary!!!, youll have to run and hide and throw things like rocks and cans in order to survive
+ 
+  
+  great game!! if you are a real horror type man you will have that game 
+::::::
+
+::::::
+UserName: Brad_the_one
+Rating: 8.5
+Date: Jun 15, 2008 7:28 am PT
+Review:  Recently I played the demo for Penumbra: Black Plague, after completely the demo I loved it and 
+ decided that I would play the first chapter before I played black plague. 
+  
+  All I can say is wow the game is great. There I said it! This is what a horror game should be. 
+ I am not going to go into the story because other reviews have covered it better than I could. 
+ The game play is great, you use the mouse to collect objects, swing weapons and interact with the 
+ environment (by that I mean opening doors, picking up barrels etc) but it is the use of the mouse 
+ that really gets you immersed in this game, picture this, you hear a noise on the other side of 
+ the door, its your only way forward, you slowly approach the door and grab the door, now depending 
+ on whether you push the door forward hard or soft will depend on how fast or slow the door opens 
+ (the same applies for where you grab the door; grab it close to the hinges and you will need to 
+ use more force, but grab it closer to the handle and it will be easier) this adds to the suspense 
+ because you can slowly open the door peaking inside to make sure the way forward is clear or you 
+ can swing the door open and just deal with it. The sound also is great, it helps set suspense and 
+ drama where needed and help indicate where the creatures are and any good horror game needs to 
+ have effective sound and this game hit the nail on the head.
+  
+  The only negatives of this game I found are that it is too short; completed the game in around 
+ 6-7 hours, but you could argue quality over quantity because they are 7 hours well spent. The graphics 
+ are not up to scratch, poor backgrounds and blocky creatures are not appealing although when you 
+ are crawling through a spider infested crawl space it will still scare you. Another problem is 
+ that although the controls fit the puzzle and interacting elements well, I wish I could say the 
+ same about the fighting, which involves holding down the mouse button to ready your weapon and 
+ then moving the mouse left, right or forward to swing, and although it sounds good it doesn't work 
+ well, and in a game where all it takes is around 3 hits to die you can't afford to miss swings. 
+ 
+  
+  Overall: This is a great survival game, if you are a fan of survival games then this should be 
+ played, if however you don't play horror/survival games then this is unlikely to change your mind 
+ but the puzzle and interactive elements definitely add to your immersion in this game. Although 
+ the graphics could be better and it is on the short side you won't find a game with such as good 
+ combination of game play and amazing sound. (except maybe the sequel)
+  
+::::::
+
+::::::
+UserName: spectralmerc
+Rating: 8.5
+Date: Apr 23, 2008 5:33 pm PT
+Review:  It isn't easy to scare me. No japanese movie can make me scream, noSilent Hill game really impressed 
+ me. Doom 3 didn't even surprise me. Why is that? Because true horror lies in your mind. And to 
+ deceive the mind, it takes more than cheap make up and sudden monsters.
+  
+  Penumbra is about Phillip, a physicist who receives a lett from his dead father, warning him about 
+ Greenland and how it must be avoided. Of course, the first thing Phillip does is go to Greenland, 
+ and both his and your misfortunes begin there.
+  
+  What surprises the most about this game is the solid it is for it's 20$ price tag (now around 10$ 
+ if you know where to look) . While it's graphics aren't exactly Unreal Engine 3 quality, the dynamic 
+ shadows, the subtle lighting and overall grittyness contribute enormously in creating a visually 
+ decent experience. However, what most sucks you in is the physics. Everything can be moved or carried, 
+ and even used as a weapon. However, combat is never the best option, since you won't last more 
+ than 3 hits, and you're always limited to melee. This emphasizes the game's despair atmosphere, 
+ and it will have you sweating (and swearing) in no time.
+  
+  The sound is the thing that will have you cursing the most. Sudden noises when nothing is there, 
+ whispering in your ear and claws on doors will keep you more than in your toes, and it is not too 
+ much of a relief finding nothing is there... because that means that something might be right behind 
+ you. Is this kind of constant paranoia and angst that makes this game a true jewel, despite of 
+ some flaws, like a wonky (yet effective, if you go for realism) combat system, lack of save-anywhere 
+ and it's damn short duration. Sure, it's episodic, but when a game scares you this good, you kinda 
+ ache for more.
+  
+  In a word, great. A terrific game (literally) that is a must-have for any horror fans.
+  
+  Piece 
+ of Advice: Buy the second part with this one. That way you will enjoy the ending more.
+  
+  
+::::::
+
+::::::
+UserName: WonderBread88
+Rating: 7.5
+Date: Apr 14, 2008 9:16 pm PT
+Review:  Gameplay/Interface: 8/10
+  - Pitch-black horror story with only a flashlight and a glowstick to lead your way. Game certainly 
+ wasn't the scariest game I've ever played but was definately creepy. Their really isn't much combat 
+ and when their is it can be a bit difficult to kill your enemy. The environment puzzles can really 
+ be interesting and challenging but at times it seems like thats all you really do. I did really 
+ think it was great how the game had monitor and gameplay instructions at the beginning. The gameplay 
+ style really reminded me of Silent Hill, just with out all the combat and now in first person.
+ 
+  
+  Environment & Immersion: 7/10
+  - The whole environment is like one big maze, your in an old mineshaft and bunker that has long 
+ been abandoned. Environment is truely repetitive in the sense that every room, with a few exceptions, 
+ contains pretty much the same items and details. With in the first few hours the game is very addicting 
+ and quite creepy, after getting used to your enemy the scariness somewhat fades away.
+  
+  Graphics/Physics: 6.5/10
+  - Lighting is great but darkness is a blur. Theres really not a whole 
+ lot to look at and enjoy being its so dark everything looks the same, when their is light you can 
+ really tell that the game has great graphics.... but this doesn't happen too often enough.
+  
+  Sound: 8.5/10
+  - Great sound, it really adds a lot to the creepiness and fear value. Environment 
+ and voice sounds are the best out of this category, the voices are creepy and lonely sounding and 
+ the environment sounds have a realistic feeling to them.
+  
+  Bugs, Stability & Performance: 9/10
+  - No noticeable bugs or slowdown at all. Saving your game 
+ was quite an oddball out of any game I played, it really never even notifies you that you saved.
+ 
+  
+  Replay value: 5/10
+  - This game was truely fun but the way its an episodic story and its short, It will certainly be 
+ a long time before I can enjoy playing this one again without remembering everything.
+  
+  Value for money: 8/10
+  - For such a different style horror game, and one thats interesting it 
+ really is worth the cheap price. Could have been longer though.
+  
+  Will this game be remembered by old school gamers as a classic after 10 years?:
+  - Not really 
+ since this game is kind of an unknown series but still has a bit of potential.
+  
+  Who would I recommend to buy the game?:
+  - People who enjoyed games like Silent Hill or the Condemned 
+ series would probably like this as well. Any diehard horror fan.
+  
+  -----------------------------------------------
+  
+  Overall: 7.5 - A dark horror game that will 
+ leave some sleeping with a flashlight by their side... or maybe a glowstick. Can get a bit repetitive 
+ at times but overall is rather fun. Overall I would say some will be at edge with the game but 
+ others won't even be phased by the scariness. Can't say this game is really re-playable but still 
+ worth playing with its bargain price. 
+::::::
+
+::::::
+UserName: Indecipherable
+Rating: 8.5
+Date: Apr 5, 2008 6:06 am PT
+Review:  If you're used to being the hunter or a one-man-army or stuff like that, Penumbra: Overture has 
+ a surprise for you. In this game, you're nothing more than an average guy, who is unfortunately 
+ very easily killed. However, this should not deter you from embarking in one of the most frightening 
+ yet rewarding journeys.
+  General: Penumbra: Overture is an action-adventure game, although the action is downplayed in favour 
+ of logical puzzles. The puzzles most of the time consist of a closed door, and the only way to 
+ progress is utilize what you have at your disposas, namely almost everything in the immediate area. 
+ The game doesn't have you pixel-hunting. Instead, you can use a stone to break the ice around a 
+ hatch and then turn the wheel, thus opening it. This is only an example of the puzzles you will 
+ face. Not always obvious, but certainly not ridiculously implausible.
+  Story: For fear of ruining the story, i will reveal nothing about it.... Suffice to say that it 
+ is highly immersive and sets the scene perfectly for the things about to come.
+  Graphics: Admittedly, the graphics are bit dated and certainly not up to par with the recent next-gen 
+ games. However, they do an amazing work at depicting the dark and twised world you must face. 
+ 
+  Sound: Ah, the sound. This is the main aspect of this game that will keep you at the edge of you 
+ seat. Crawling noises, sudden bangs and subtle whispers will have you constantly looking behind 
+ your back....
+  Gameplay: The gamepay is just right. Most of the time you'll have no problems accomplishing your 
+ tasks. However, the battle mechanics don't always work as good, which is also one of the reasons 
+ you will avoid battle more often than not, instead relying on your good two feet to keep you out 
+ of trouble...
+  All in all, Penumbra: Overture is a must-play, if you've been longing to test your problem-solving 
+ skills and don't mind the occasional good scare. 
+::::::
+
+::::::
+UserName: -THA-hamst3r
+Rating: 8.5
+Date: Mar 23, 2008 12:01 am PT
+Review:  To read this review in it's original formatting with images and video, go here:
+  http://www. hamst3r. com/article/57/thoughts-on-the-penumbra-series
+  -------------------------------------------------------------------------------------------------------
+ 
+  
+  Thoughts on Penumbra: Black Plague & Penumbra: Overture
+  
+  I just finished playing Penumbra: Black Plague, the final chapter in the Penumbra series made by 
+ Frictional Games.
+  
+  One word summary: Awesome.
+  
+  At least90% awesome. There were a few sections in Black Plague that I could have done without, 
+ but overall the game was fantastic. The game is short, but it's short like Portal, meaning that 
+ the four hours one spends in the game are the best 4 hours ever. Sadly though this is the end of 
+ the series. Black Plague is no longer part of a trilogy as originally planned
+  
+  Black Plague was going to be the middle chapter in a trilogy of horror games, but due to unstated 
+ reasons Black Plague became the second and last game in the Penumbra series. I'm assuming the reasons 
+ are financial due to the game being made by a small independent developer for the niche Survival 
+ Horror market and as a PC exclusive release. I think it's pretty clear that the odds were not in 
+ the developer's favor.
+  
+  But from this developer has come a truly magnificent entry in to the history books of Survival 
+ Horror games.
+  
+  -------------------------------------------------------------------------------------------------------
+ 
+  
+  The main innovation of the Penumbra series is the unique way that you manipulate objects in the 
+ game. In most games, to open a door you simply press a key or click a button and the door opens. 
+ When you open a door in Penumbra you have a lot more control over how you do it. Think of the mouse 
+ cursor as your on-screen hand, which isn't difficult in the game as your cursor is actually shaped 
+ like a hand. Using this hand you grab the door and then push or pull it in the direction you want 
+ it to move. You can push doors open as fast or as slow as you want. If you right click while holding 
+ the door you will throw the door open as fast as possible.
+  
+  You can use this same technique to open cabinets and drawers, pick up items, throw items, move 
+ boxes and to use just about anything else in the game. Both Penumbra games are driven by this concept. 
+ You'll use it to solve nearly every puzzle in the two games. The puzzles also have very logical 
+ solutions. There are no complex, brain-melting riddles. There's no need to collect prosthetic skin 
+ so you can stretch it over a manhole and use it as a trampoline. There are no puzzles that require 
+ you to microwave a unicorn statue and then deliver it to a government agent on the moon. All of 
+ the puzzles in Penumbra are solved with real-world logic.
+  
+  For instance one puzzle in Black Plague requires you to open a locked gate. You do this by first 
+ locating a bent metal rod and bringing it over to the gate. You have free control over the rotation 
+ of item you're carrying, so you need to rotate the metal rod and then wedge it between the gate 
+ and the frame. Once the rod's in place you grab the edge of it and pull as hard as you can to snap 
+ the lock on the gate. The puzzles do get more complex than this but nothing will have you pulling 
+ or your hair trying to figure out what useless junk you need to combine next.
+  
+  -------------------------------------------------------------------------------------------------------
+ 
+  
+  [VIDEO]
+  
+  -------------------------------------------------------------------------------------------------------
+ 
+  
+  The amount of immersion gained from this kind of interactivity is astounding  it really helps 
+ put you right there in the game and makes it feel even scarier. It would be nice if all games had 
+ a play mechanic that felt so natural. No more, "press the use key" to pick an item up. If you want 
+ to pick up the item you just click on it and you've picked it up! It's such a simple mechanism 
+ but it works well and I can't think of any other games that have it.
+  
+  Both games have well written and at times very funny scripts. In both games after about an hour 
+ of mucking around on your own you finally find some companionship in a disembodied voice. In Overture 
+ a character starts talking to you over a radio that you find and in Black Plague a different individual 
+ is apparently located inside of your head. Not to give too much away I'll stop there. This method 
+ of delivery works very well in the game and does not feel like a cop-out as it does in some games.
+ 
+  
+  Another way that Black Plague differs from Overture is in the combat. Black Plague doesn't have 
+ any. There are still enemies, but this time around it's best if you just run away from them and 
+ find some other way to outwit them that doesn't require direct confrontation. Black Plague does 
+ still have the occasional enemy encounter but they are resolved through the use of your environment 
+ rather than trying to clumsily swing a pick axe at them as they tear you to bits.
+  
+  -------------------------------------------------------------------------------------------------------
+ 
+  
+  The graphics in the Penumbra series can be best described as dated. The graphics aren't anywhere 
+ near those in Crysis. What they are though is effective and that's good enough. The lighting and 
+ atmosphere is what really saves the graphics. The lighting is great, at least what of it is there 
+ to be great, as the game is also very dark. You do carry a Flashlight, a glow-stick and some road 
+ flares, but when there are enemies lurking around the last thing you want to do is alert them to 
+ where you are by shining a light in their direction.
+  
+  The music in both Penumbra games is very fitting and helps to create an atmosphere of tension and 
+ constant danger. Every area seems to have it's own unique creepy music too, which is a nice touch. 
+ In Black Plague as you enter the dog kennel area, a familiar cue from Overture fades in, getting 
+ right under the skin of anyone who's played Penumbra: Overture. Another bonus is that the music 
+ is easily accessible in the game directories as OGG files for those who want to listen to the quality 
+ themes some more.
+  
+  Overall, Penumbra: Overture and Penumbra: Black Plague are very good games. Black Plague is a decidedly 
+ better game with it's more puzzle oriented focus and more interesting environments, but I do feel 
+ that Overture has the more interesting and amusing acquaintance named Red. Red is a good guy if 
+ not a bit neurotic. He's a very lovable and helpful character, guiding you throughout the game. 
+ Clarence on the other hand can be down right cruel and manipulative. Clarence also always refers 
+ to you as, "Monkey". Both characters are interesting and add a lot of depth and emotion to the 
+ Penumbra games.
+  
+  If you love scary games, Penumbra is an excellent choice. Penumbra will draw you in and toy with 
+ you in ways other horror games simply can't.
+  
+  -------------------------------------------------------------------------------------------------------
+ 
+  
+  [VIDEO]
+  
+::::::
+
+::::::
+UserName: RexTTer
+Rating: 9
+Date: Mar 7, 2008 10:26 am PT
+Review:  After downloading the demo of Black Plague I realised this was the prequel, so decided to play 
+ this one first (Black Plague is on order which hints at how good this review is going to end!) .
+ 
+  
+  The atmosphere was great, very scary with good music that compliments the mood well. My wife and 
+ I played this game together and really enjoyed solving the puzzles. They are quite sensible in 
+ that you know what you need to achieve and have a good idea how it should be done. Some of the 
+ puzzles are fiendish and you feel really pleased with yourself when you've solved a particularly 
+ difficult one. We were even heard to cheer our efforts at certain points.
+  
+  Whilst it is true the controls can be a little fiddly we played the game from start to finish on 
+ my laptop mostley on one of our laps with one of those touch-pad thingies instead of a mouse. So 
+ really it is not to hard to play.
+  
+  Although the game is scary all the way through and there are times when a shock will make you jump, 
+ there are times of humor too. For example, the references to 'Freeman' are fun to find. Should 
+ anyone know who he might be :)
+  
+  This game was so good we've bought the follow-on. It is quality thoroughout and what you miss in 
+ a long game is more than made up for in the fantastic quality of the game we have. 
+::::::
+
+::::::
+UserName: doctor_kaz
+Rating: 7
+Date: Mar 5, 2008 7:01 am PT
+Review:  The Penumbra series is one of the most pleasant surprises in the recent months of PC gaming. This 
+ pair of games is a cross between a traditional adventure and 1st person survival horror. The combination 
+ of gameplay styles feels very refreshing and new, and just as important, the story is captivating 
+ too. This first chapter, Overture, is a successful kick-off of the series. If it has one major 
+ shortcoming, it's the controls, which can be insanely frustrating at key times. If you are looking 
+ for a refreshing take on the adventure genre, and if you are in the mood for some creeps, then 
+ you should enjoy this first chapter of the Penumbra story. Hopefully, the controls won't make you 
+ pull your hair out first.
+  
+  Penumbra casts you as Phillip, a man living in England who gets a letter from his dying father, 
+ whom he hardly knows. The letter tells you to destroy a book that he has kept in a safety deposit 
+ box. Instead of destroying the book, however, you use it to find an abandoned mine underneath the 
+ ice in Greenland, where many things have gone horribly wrong. Soon, you encounter a strange friend 
+ who helps you through the game. It is a classic setup for a survival horror game, and when it comes 
+ to atmosphere, This game ranks with the best in the business. What happened in this mine, and why 
+ does your dad want you to destroy all evidence of it? Who is this friend of yours and why does 
+ he help you? The story pulls you in immediately and never lets you go.
+  
+  There isn't much writing in the game, but what is there is top-notch. Instead of overwhelming you 
+ with cut scenes or dialog, Overture lets you pick up the story in little pieces like notes or other 
+ clues in the environment. It ends with a twist that packs an emotional punch, and it succeeds because 
+ of how well the mystery is told. One of Penumbra's best accomplishments is that it has the unconventional 
+ charm of an indie title, without the low-budget cheese that typically accompanies such a game. 
+ This is a good thing, because without it, the story would fail.
+  
+  For the five or six hours that it takes to complete this chapter, you never feel safe. The game 
+ constantly reinforces how isolated you are, how much danger you are in, or how quickly you could 
+ freeze to death outside the mine. Even when there are no enemies around, you never feel entirely 
+ secure, as if danger or death is always one step away. One of the main reasons for this feeling 
+ of danger is that when enemies do appear, the game does, in fact, become very hard. This is partly 
+ because the game is designed as a survival horror experience which forces you to use stealth. It 
+ is also partly because of the game's faulty stealth gameplay and broken combat  more on that later.
+ 
+  
+  Adventure games have been somewhat notorious for outdated gameplay and unintuitive puzzles. Penumbra 
+ destroys these problems by adopting a first person perspective, high quality textures and lighting, 
+ WASD controls, and more intuitive, physics-based puzzles. The game brings a lot of tried and true 
+ gameplay mechanics found in games like Half-Life 2 to the tired old adventure genre. If this game 
+ were a first-person shooter, it might be considered outdated, but as its own variety of game, it 
+ feels like something new. Almost every object in the environment can be picked up, moved, thrown, 
+ or manipulated. Many of them are just extras, but some of them are needed to solve problems. You 
+ may need to pick up a rock and throw it to break glass. Or, you may need to stack boxes to reach 
+ a high point. You can manipulate items by gripping them with the left mouse button and then dragging 
+ the mouse. Grip a drawer and pull the mouse back to open it. Grip a valve and move the mouse in 
+ a circle to turn it. Move the mouse back and forth to swing a hammer. The puzzles are moderately 
+ challenging, and satisfying because they are so intuitive. Both chapters in the series do a great 
+ job of making puzzles solveable without spoonfeeding every solution to you. Some of the puzzles 
+ are rehashed from first person shooters (once again, like Half-Life 2) , but for some reason, this 
+ new environment gives them fresh life.
+  
+  Control problems truly manifest themselves with the game's terrible combat, which is outrageously 
+ hard and never fun. Simply swinging a weapon back and forth is ridiculously clunky. Hands down, 
+ Penumbra: Overture has the worst combat controls that I have ever experienced. Many areas are patrolled 
+ by rabid dogs, and other areas are infested with annoying packs of giant spiders. On the middle 
+ difficulty level, you can only take a few hits before you die, and these enemies will always gang 
+ up on them if they can. When you try to swing a weapon at them, the game fails to register a swing 
+ at least half the time. The control is simply broken, and if you try to engage in a lot of combat, 
+ you will fail miserably because of it.
+  
+  You are supposed to avoid combat by using stealth. This option has mixed results. The game requires 
+ backtracking through hub areas numerous times to find items and complete tasks. Having to sneak 
+ past the same dog five times gets old fast. This is especially true since stealth isn't very effective. 
+ Enemies will walk past you if you are crouched, in the dark, and standing still, and if they haven't 
+ noticed you yet. But if they walk into you, or if they see you before you hide, then you either 
+ have to run away to the nearest level transition, or you have to fight with the game's awful combat 
+ controls. Neither solution is much fun. "Overture" has a lot of rabid dogs to hide from and a lot 
+ of annoying spiders to run away from. The problems here really bring the game down. Fortunately, 
+ the second chapter, "Penumbra", is a lot better in this area.
+  
+  Although they are not cutting edge, the visuals in Penumbra's two chapters are mildly impressive, 
+ for an adventure title. I would place the graphics about on par with a high end game from 2004. 
+ The lighting and texture work is pretty good, but the game doesn't make much use of shaders. The 
+ artwork is as adequate, but not spectacular. For the most part, the graphics do a fine job of communicating 
+ the dirtiness, the nastiness, and the danger of you environments while telling the story, and that 
+ is as much as you can ask. The audio for the game shines while providing much of the atmosphere 
+ that you would hope for in a horror game. You constantly hear creaks, wind blowing, maybe a distant 
+ growl of a dog, or whispers that sound like they are right next to you. Penumbra is never lacking 
+ in atmosphere. It is one of the creepiest games of the past few years.
+  
+  Penumbra: Overture came out last year, and, as promised, the sequel came out last month to complete 
+ this short series. Overture has some very frustrating moments, but it is definitely worth playing. 
+ The unique gameplay, the atmosphere, and the story are enough to make the annoying hide-and-seek 
+ sessions with dogs and spiders tolerable. As soon as you finish this episode, you can go out and 
+ buy Penumbra: Black Plague, which is even better. 
+::::::
+
+::::::
+UserName: _iMMuNiTy_
+Rating: 8
+Date: Feb 15, 2008 1:12 pm PT
+Review:  "The umbra (Latin: "shadow") is the darkest part of a shadow. From within the umbra, the source 
+ of light is completely blocked by the object causing the shadow. This contrasts with the penumbra, 
+ where the light source is only partially blocked and there is only a partial shadow." - Wikipedia
+ 
+  
+  "Overture
+  n
+  - orchestral music played at the beginning of an opera or oratorio;
+  - something that serves as a preceding event or introduces what follows." - definr. com
+  
+  A 
+ fitting name for the first instalment of an episodic horror game, isn't it? No cheap puns, no "l33t" 
+ letters and no worn out, trite phrases. Subtle, yet straight to the point. Just like the game itself.
+ 
+  
+  Penumbra: Overture starts with a man named Philip writing a letter to you. Apparently, he tried 
+ to achieve something, but, through numerous mistakes, failed. He is now asking you to do what he 
+ intended, and speaks of his story so that you wouldn't make the same mistakes he did.
+  
+  You relive Philip's memories by playing as him. After the loss of his mother, his father, who had 
+ abandoned the two, suddenly contacts Philip and tells him to retrieve documents belonging to him 
+ (Philip's father) which must be destroyed. Of course, Philip decides to look in them instead of 
+ destroying them.
+  
+  His findings lead him to Greenland, where he is caught unprepared by the cold, and is eventually 
+ driven by it into an abandoned mine, which traps him inside as soon as he enters it. Philip soon 
+ realises that it's best to move forward, instead of staying put and hoping Lady Luck smiles to 
+ him.
+  
+  This is where I stop writing about the story and (finally) start describing how the game plays. 
+ The game is played from the first person perspective, and the pace of the game is fairly slow (you 
+ can sprint, yes, though that is inadvisable) . This is emphasised by how you interact with your 
+ environment.
+  
+  Forget about pressing 'E' or 'F' and letting the game do everything for you. In Penumbra: Overture, 
+ you interact with the world by pressing and holding your left mouse button and then move your mouse, 
+ mimicking a real life movement required to interact with a specific object. For example, if you 
+ want to open the door, you click on the whereabouts of the handle and push forward. The harder 
+ you push, the faster the door will open... and the more likely it is to be pushed back and close 
+ again because of the momentum. You can also open the door by clicking on the centre of the door, 
+ but it'll open slower.
+  
+  This is how you carry lighter items, push/pull heavier ones, open doors, pull levers, turn valves, 
+ swing your weapon and more. The exception is pushing buttons, of course. It's disappointing that 
+ you can't throw buttons around, but you can't have everything, eh?
+  
+  This system is fairly intuitive and adds a lot of depth to the game. Unless you've held a Wii controller 
+ in your hand, the first few levels in Penumbra: Overture are going to be really awkward, in a good 
+ way. It feels like staring at one of those optical illusions for too long.
+  
+  On the other hand, the downfall of this system is that it works good for the 'adventure' part of 
+ an action adventure game, but not the 'action' part. Naturally, it takes you longer to interact 
+ with an object in the world, and there are times in the game when you must act quickly. An example 
+ would be combat - your enemies are fairly quick, while it takes a bit of time to swing your weapon 
+ (a rusty hammer, for example) . You may also inadvertently aim elsewhere by moving the mouse before 
+ clicking the button, like me, and miss the enemy by a margin.
+  
+  Speaking of combat, the fact that hits don't count when the enemy is knocked down is no less frustrating 
+ than the ineffective attack method. Not to mention that larger enemies have the tendency to push 
+ you away when they get up, and you must readjust your aim. Good luck with doing that before the 
+ baddie runs away (and calls in 'reinforcements') . I won't even mention how pointless it is to hit 
+ smaller creatures. My advice - run past those.
+  
+  Luckily enough, you'll often deal with enemies indirectly or simply avoid them by sneaking past 
+ the critters. Stealth in Penumbra: Overture is very similar to that found in Chronicles of Riddick: 
+ Escape from Butcher's Bay - you avoid any and all light sources and crouch down. The edge of your 
+ screen turns blueish. At this point, you become harder to see, but you're still visible. If you 
+ stay still long enough, which is a few seconds, you'll become hidden - your field of view will 
+ increase in width, and you'll see better in the dark (through the blue tint) . Don't look at enemies 
+ for too long, though - you'll begin to panic and you may reveal yourself.
+  
+  Speaking of enemies, most of the enemies you face are common animals, but with a monstrous twist. 
+ If you have no problems with zombie dogs with glowing eyes or oversized spiders, you should be 
+ safe.
+  
+  The enemies don't pose as big a challenge as the environment itself does, though. As Penumbra is 
+ an action adventure game, you'll find a fair amount of puzzles, some of which are connected (e. g. 
+ complete this puzzle to solve the other one) . The puzzles make sense, they're not too difficult, 
+ but not too easy, either. The best thing about them is how they differ from one another - you'll 
+ rarely find yourself solving identical puzzles.
+  
+  However, progression contains a pattern. There's always a large area, with two things - enemies 
+ and smaller rooms, free of enemies, and usually containing a save point (quick notice - while you 
+ can't save manually, the saving system is very well placed) , and items required to solve a puzzle. 
+ Once you complete all the puzzles in the large area, you enter another large area with enemies 
+ and smaller rooms, free of enemies, and usually containing a save point. It's somewhat disappointing, 
+ when the levels aren't all that repetitive. Come on, it's a mine, what do you expect, royal suites?
+ 
+  
+  Now, I'm sure you want to know how scary the game is, but I'm afraid that it's pretty subjective, 
+ my friend. I think the atmosphere is definitely eerie, and alien sounds that plague the long-abandoned 
+ mine ought to leave most of the players tense and - perhaps - even at the edge of their seats. 
+ I've noticed that developers usually (try to) create fear by making the player guess what is next.
+ 
+  
+  Various notes, logs, reports and documents of other sort also help fortify the creepy atmosphere 
+ dominating in the stone corridors of the mine. For example, you may read about a terrifying event, 
+ only to experience it yourself later.
+  
+  Finally, dialogue. Its level of brilliance equals to dialogue found in Valve's games. Philip almost 
+ doesn't talk at all throughout the game, but he encounters someone who is quite chatty. And insane. 
+ Don't worry, the developers have pulled it off quite well. Both the writing and quality of voice 
+ acting is amazing.
+  
+  All three of these things help create a highly believable world. A world, in shadows of which hides 
+ despair and... something that drove the former occupants off. And you were unfortunate enough to 
+ be chosen by Fate to find out what that something is.
+  
+  If you're looking for more than just fun in a game, if you want a break from absurd shoot-outs, 
+ ridiculous stunts or colossal explosions, and want to delve into a claustrophobic world of mystery 
+ buried deep under solid rock, that has become a grave of many men, then Penumbra is the game for 
+ you. Although it is bogged down by hard-to-ignore gameplay problems such as iffy combat and repetitive 
+ progression, Penumbra: Overture is still a highly enjoyable game.
+  
+  The second and last episode, Penumbra: Black Plague, is already out, so you need not worry about 
+ the game's length. Hope you'll enjoy your ride. 
+::::::
+
+::::::
+UserName: ping5000
+Rating: 7.5
+Date: Feb 9, 2008 5:35 pm PT
+Review:  Penumbra: Overture represents indie developer, Frictional Games, first major release and it's largely 
+ a successful one. A smart blend of physics, logical puzzles and tense atmosphere makes Overture 
+ a game that's distinct and memorable in every regard. Overture definitely has problems, but its 
+ strengths outweigh its weaknesses quite handily.
+  
+  Overture is set in the real world in the year 2000, and you take on the role of Phillip  a largely 
+ forgettable character, who receives a letter from his father, Howard. The thing is he's been dead 
+ for three decades. Howard urges you to burn and forget everything he has written through the letter, 
+ but supposedly human curiosity gets the better of you and the clues and hints gathered in the hasty 
+ intro sequence leads you to a freezing blizzard in Greenland. The premise is flimsy and the narrative 
+ in general isn't very compelling, but once you find your way into the underground mines, it's easy 
+ to forgive and forget.
+  
+  Practically the entire game takes place underground. It's dark, abandoned and human-like gibberish 
+ tends to echo throughout the tunnels. From the get-go the tension crawls under your skin. Overture 
+ preys on the fears of the unknown. Rooms are littered with papers, old journal entries are filled 
+ with dread and smears of blood paste the floors. This minimalist style lets your imagine run wild, 
+ and is far more effective than a steroid-infused demon monster.
+  
+  What makes it all the more nail-biting is how you interact with the world around you. For example, 
+ doors don't open with just a push of a button, you have to click on the door and pull back with 
+ the mouse. It's this level of interactivity that makes the world tangible and adds to the immersion. 
+ This sort of interactivity is prevalent throughout the entire game. When you use a pick axe or 
+ hammer, you have to act out the motion of actually swinging the tool with the mouse. This works 
+ well for the most part, but the camera locks into place when you're about to swing, which can screw 
+ things up when you're thrust into a combat situation.
+  
+  Yes, combat. Once your main adversary appears, zombie-ish dogs, you do have the ability sneak past 
+ them. Much like Chronicles of Riddick, a blue tint overlays the screen, telling you that you're 
+ well-hidden. Even when you're hidden, you can't stare directly at the dogs. If you do for a short 
+ period of time, you'll automatically stand up, giving away your position. This is about the closest 
+ thing a game has gotten at creating a fight-or-flight response, and it works wonderfully.
+  
+  If you choose to fight, combat sucks. Once the camera locks on when you're about to swing, 
+ it makes things pretty hopeless because the dogs are anything but stationary. The dogs are a major 
+ threat initially, but their AI is easily exploited when you jump on a crate or anywhere that gives 
+ you a higher vantage point. Their lunge attacks don't seem to reach you, so you can smack them 
+ around. They become a nuisance instead of the terrifying threat they were in the beginning. And 
+ that's a shame, because they're the major enemy in the entire game.
+  
+  However, Overture is ultimately an adventure game played in a first-person perspective. You'll 
+ gather notes, examine objects and solve puzzles for most of the game. The puzzles are logical and 
+ make sense in the context of the game. You're not going to combine a chair and flare to make some 
+ rocket chair to reach higher ground. No, instead, utilizing the environment will yield success. 
+ Stacking crates on top of each other, creating make-shift bridges and generally using common sense 
+ will equal progress. If you happen to get stuck, there's help. A man named Red will eventually 
+ contact you via radio. He's been in the mines much longer than you could imagine, and his lack 
+ of any real human contact in awhile has made his vernacular quite obtuse. He can get irritating, 
+ but he's ultimately a helpful friend and should at least keep you company when the creepiness starts 
+ crawling in again.
+  
+  As refreshing and distinct Overture is, it has glaring issues. It starts to feel very monotonous 
+ and sometimes flat-out boring around the middle stretch of the game. There are extremely heart-pounding 
+ moments interspersed throughout the middle stretches that try to revive the initially terrifyingly 
+ good atmosphere, but it fizzles out for the most part. Fortunately, Overture racks up the fear 
+ and tension to impressive levels towards the end of the game. The end sequence in particular should 
+ go down as one of the scariest moments in video game history.
+  
+  The graphics for the most part, give a helping hand in the atmosphere. The environments look abandoned 
+ and decayed, and the impressive lighting and shadows do set an ominous mood. The graphics do have 
+ its warts; the texture work is generally shoddy and the dogs don't look good or animate well. Frictional 
+ tries to hide the graphical blemishes by making Overture perpetually dark, and it does effectively 
+ hide many of its problems. What can't be hidden is the environments are generally boring to look 
+ at. It can't really be helped, considering shades of grey are the only palettes that can be used 
+ to create a mining facility, but the levels are nevertheless uninspired.
+  
+  The audio, on the other hand, is brilliant. The voice work is average, but the sound effects, ambient 
+ sounds and music gel into a wonderful aural experience. The subtle creaks of door hinges, the occasionally 
+ tension-building ambient noise off in the distance and the atmospheric music adds to the game immensely. 
+ The audio is easily the most impressive technical aspect about Overture.
+  
+  Overture is very short, 5-6 hours. The benefit of that is the middle stretch isn't terribly long 
+ by any means, so in a way, Overture benefits from its short runtime. There really isn't much of 
+ an incentive to play it all over again. Once you finish the game, that's it, but it's an undeniably 
+ entertaining experience. It has a couple missteps, but Frictional's first game is a fun game on 
+ all fronts, and second (and final) installment can't come soon enough. 
+::::::
+
+::::::
+UserName: HenriH-42
+Rating: 9
+Date: Jan 24, 2008 7:02 pm PT
+Review:  Penumbra: Overture is easily one of my favorite games of 2007. But it didn't even get to Gamespot's 
+ GOTY. Oh well, I guess they were too busy playing their mindless Doom clones.
+  
+  Gameplay: 7/10
+  - Well, the combat isn't easy, and it's sometimes even frustrating. But really, 
+ if you play this game correctly you shouldn't even need to use weapons. Well at least not all of 
+ the time. Sneaking around is feels very cool, almost Thief-like. Puzzles are good and not too hard.
+ 
+  
+  Atmosphere & Immersion: 10/10
+  - Penumbra wins here. The game is easily one of the creepiest, atmospheric games that I have ever 
+ played. You *need* to play this at night, alone, lights off, with headphones. Preferably with a 
+ CRT monitor since LCD monitors all have very poor black. I guarantee, you will be scared. Unless 
+ you watch horror movies alone at night and don't feel at least a bit scared.
+  
+  Graphics: 8.5/10
+  - They do their job really well. And considering that this was made by a very 
+ small developer team, they are impressive. I think that the noise filter effect could be better, 
+ more like what's in Manhunt 1.
+  
+  Sound: 9.5/10
+  - The ambient sounds are one of the best I have ever heard in any game. Without them, the game 
+ wouldn't be scary. So big respect to the guy who made them. The other sounds are, well, ok. If 
+ they would've been a bit better, I would've given it a 10. But, 9.5 it is.
+  
+  Physics: 8/10
+  - They work very well, most of the time. Some of them are very impressive. But 
+ since Endorphin/Euphoria and Digital Molecular Matter used in some 2008 games, I just can't give 
+ a 10 or 9.
+  
+  Replay value: 3.5/10
+  - The game is quite linear and there isn't almost any replay value at all, since you already know 
+ what's going to happen when. The game is also quite short, so if there's one bad thing about Penumbra 
+ this is it.
+  
+  Value for money: 9/10
+  - The game costs 30  unlike most games, and I think I'd happily pay 50  for it.
+  
+  Bugs, 
+ Stability & Performance: 9/10
+  - I didn't find any bugs at all, no crashes whatsoever. Only bad thing is that it can lag badly 
+ in some places for unknown reasons, since my PC is quite high end.
+  
+  Will this game be remembered by old school gamers as a classic after 10 years?:
+  - I really wish 
+ it would be, but unfortunately almost no-one knows about this wonderful game. I know that I will 
+ remember this game for a long time.
+  
+  Who would I recommend to buy the game?:
+  - Fans of Thief -series. Fans of horror games & movies. People who like to think a lot in a game 
+ and don't mind sneaking in darkness and waiting around. Oh, and: shooter fans, just go away.
+  
+  Final score (not necessarily an average) : 9/10 
+::::::
+
+::::::
+UserName: dark_being
+Rating: 6.5
+Date: Jan 19, 2008 7:28 am PT
+Review:  There aren't a lot of scary games out there. Yes, there are quite a few horror games, but most 
+ of them just throw tons of enemies at you, hoping to make you jump out of your seat every time 
+ one of them breaks through a window or something.
+  "Penumbra: Overture" is just the opposite. You will not be overrun by massive numbers of enemies, 
+ neither will you find yourself jumping out of your seat. Instead the game surrounds you with dark, 
+ abandoned corridors and even darker atmosphere.
+  
+  Atmosphere is the keyword when writing about "Penumbra: Overture". Every step in the desolate mine 
+ complex could be the last, or so it would feel after an hour or two.
+  The protagonist, Philip, arrives at Greenland after following a series of clues left by his supposedly 
+ dead father. After being lost in a snow storm, Philip finds an abandoned mine shaft and decides 
+ to seek refuge from the storm. Unfortunately, the mine's entrance collapses behind him and he is 
+ forced to continue deeper and deeper into the mines.
+  The entire game takes place inside the mines, which are not so abandoned as originally thought. 
+ Wolves, spiders and giant rock-worms inhabit this strange underground ecosystem. As Philip explores 
+ the mines, he soon finds clues as to what happened down there, and why there isn't anyone left, 
+ except a cabin-fever crazed man named Red, who keeps spewing disturbing and almost poetic clues 
+ via a radio transmitter.
+  
+  Lets talk gameplay. The game has a truly unique physics-based engine. Philip can pick up and throw 
+ just about anything, and even the combat is based on the game's strong physics; Philip must rely 
+ on melee weapons, (for there are no firearms in "Penumbra: Overture") , such as pickaxe, to fight 
+ off the wolves or spiders he encounters. The mouse controls the speed and direction he swings his 
+ weapon in real time, a mechanism that turns the combat to a real intense situation. Except for 
+ combat, the mouse also controls every other action in the game, from opening doors and drawers 
+ to turning valves and moving furniture around. This feature really contributes to the atmosphere 
+ and to the overall mood of the game.
+  But combat is rare in "Penumbra: Overture", and Philip must use stealth and the objects around 
+ him to avoid confrontation at all cost. Enemies are stronger, faster and can take more punishment 
+ than Philip, so at a very early stage, the game suggests to try and sneak around enemies rather 
+ than engage in combat. Other than that, "Penumbra: Overture" plays as a first person adventure 
+ game. Most of the time (when you're not sneaking around) you are searching for items and try to 
+ solve a lot of environmental puzzles - blowing up a cave wall, operating heavy machinery and mixing 
+ chemicals are just a few examples.
+  
+  The graphics are probably the weakest part of "Penumbra: Overture". For a game released in 2007, 
+ the game looks pretty simple. The environments are empty and the textures are nothing special. 
+ The models of the enemies are repetitive (all wolves and spiders look alike) and boring. There 
+ is hardly any eye-candies in this game. The frozen underground lake is the prettiest level in the 
+ entire game and that just because the smart use of lighting and colour.
+  
+  The sound design is the exact opposite of the graphics. The background music, although a bit on 
+ the repetitive side, can turn you into a nervous wreck in no time. The voice acting is top-notch 
+ (the only human voice you hear in the entire game is Red, but the actor has done a great job) . 
+ One of the eeriest sounds in the game is the sound the spiders make when they move; it really makes 
+ the skin crawl.
+  
+  The one big flaw of "Penumbra: Overture" is that it tends to get boring after a while. All the 
+ sneaking around and the constant anxiety can really wear you down, and this does not change as 
+ you progress through the game. From the moment you encounter your first wolf, all you do is sneak 
+ around the levels, hoping not to get spotted. Since you can't save at will, and must search for 
+ save points (a small orange artifact) , or rely on autosaves, which means the game gets tedious 
+ pretty fast. If you can force yourself through those rough patches, you can easily enjoy "Penumbra: 
+ Overture" for what it is - a neat survival horror adventure with a story that can chill your blood. 
+ 
+::::::
+
+::::::
+UserName: ratix2
+Rating: 9
+Date: Jan 6, 2008 1:58 am PT
+Review:  Penumbra: overture is an adventure game. Its NOT an action game, your not Rambo, and combat is 
+ not the forefront of the game, in fact just the opposite, everything the game does, and even the 
+ characters personal thoughts (which are the games equivlant of telling you how to do things) makes 
+ clear that combat is better avoided at all costs. 
+  
+  The biggest (and probably only) complaint i can level aganist the game IS its combat, which, due 
+ mostly it the games control scheme, is clunky, difficult and fustrating. As the game progresses 
+ however, it does become less of a problem, but it could still use a bit of work none the less. 
+ However, if there is one good thing about the combat its that it is just another way the game encourages 
+ stealth and the avoidance of fights. Thankfully though, fights arent TOO difficult to avoid, and 
+ even when you do get into them your not likely to be fighting more than that single enemy at a 
+ time.
+  
+  As I mentioned though, the combat is clunky due to the control scheme (which in the title i called 
+ reminicent of a Wii game) . Ive heard before that only a Wii game could give the kind of interaction 
+ that could be considered TRULY immersive, ive even sung those praises about the system myself. 
+ But one of the first things that Penumbra does after beginning the game is take those beliefs (should 
+ you hold them) and smash them just as you are to smash the ice building up around a hatch leading 
+ underground. Penumbra includes what is easily one of the most immersive control schemes found in 
+ a non-Wii game, and even one of them most immersive for most Wii games.
+  
+  I apolgise for that off topic paragraph, but i needed to make a point. The controls in Penumbra 
+ work like this: take a door for instance. No different from doors in otehr games, you go up to 
+ it and press a button to open it. However, you dont press E or F or some other key and the door 
+ doesent suddenly open. To open the door you press and hold the left mouse button (by default) and 
+ then proceed to push the mouse foward, or pull it backwards (depending on which way the door opens) 
+ and either push or pull it open like you would a real door. The same philosophy works for simlar 
+ things in the game, for example desk drawers, cabinets, mine carts, barrels, boxes, ladders, planks 
+ of wood, etc. With Penumbra, you dont just press a button, you hold one and then move the mouse 
+ so that the object (s) move in a way that they would if you were actually moving them yourself. 
+ This makes for some very innovative puzzles, such as jamming a steel pipe in a door to pry it open, 
+ or even having to move the mouse around in a circular pattern to turn a valve. Another good thing 
+ the game does with control scheme is the fact that the cursor isnt tied to the center of the screen, 
+ but rather by pressing the R key by defauly, it "unhooks" the cursor from the center and allows 
+ you to more easily perform movements such as turning a valve or opening doors.
+  
+  The combat works similary. To swing your weapon (there are no guns, only close quarters meele weapons, 
+ and even they arent truly weapons but hammers, pick axes and brooms among other things) you move 
+ the mouse to the left or the right (depending on perference) and then move it in the opposite direction 
+ to swing it back the other way, thus making a swinging motion as you would in real life, or pulling 
+ the mouse back and then thrusting it foward to jab it foward.
+  
+  The game also doesent hold your hand either, there are very few times when the game will tell you 
+ exactly how to figure something out, and even in those times its the characters thoughts to himself 
+ and even they can be quite vague. There are some puzzles that take some thinking to figure out, 
+ such as one where you pick up a CB Radio and a paper with morse code instructions on it, only moments 
+ later to hear morse code being transmitted over the radio, after which you are required to listen 
+ to the beeps and decipher for yourself what the code to a nearby locked gate is.
+  
+  Enough about the game mechanics though, and on to the story and more importantly, the atmosphere. 
+ Penumbras story isnt as deep or fleshed out as other games, but for the story elemnts it contains 
+ its quite good. Its reminicent of the orginal Resident Evil actually. The story starts off by a 
+ short exposition by the main character Phillip, and herein is told mostly though old papers (diary 
+ entries, reports of various kinds, etc.) that have been left in the game area over the years (and 
+ the many years I might add, some even going back to before World War II) . Not only do these logs 
+ serve to tell you whats going on, but to give some back story as to the mine your exploring itself, 
+ and a very creepy backstory at that. There is also one other charcter in the game, Red, a man who, 
+ through circumstances that are revealed at the end of the game, has quite apparently lost some 
+ of his marbles to say the least, and is definitly a "character" by anyones standards. He guides 
+ you though some areas as well as giving some backstory, but he doesent pop in until about a third 
+ of the way though the game and is not alwasy speaking. The story is not completed however, and 
+ ends quite abruptly (alogugh not completly unexpecetedly) , however since Penumbra is intened as 
+ an episodic game, this is not suprising or unexpected.
+  
+  Now on to the area where Penumbra excels past almost every other game. Penumbra is, in my opinion 
+ and experience, the SCARIEST game ever released. It relies little on monsters jumping out of you 
+ (of which there is only really one such scene) and more on the dark corridors, sounds both off 
+ in the distance and your characters own breathing and heartbeats, lighting (or rather lackthereof) , 
+ and the wonderful way in which the game creates within you the player a large sense of both isolation 
+ and desolation, as well as pure hopelesness at times to frighten and terrify the player on a subconcious 
+ level. The atmosphere the game creates is difficult to describe, espially for people like me who 
+ are bad with words, but it makes for a wonderfully creepy experience the way everything comes together.
+ 
+  
+  Overall, i highly recommend the game. It can be had for a meager $20 on the developers website 
+ and for the quality of the game its well worth it in my opinion. To go aganist what I said earlier 
+ about the combat being the only flaw with the game, I apolgise for lying, but there is only one 
+ more, the length. I spent about 6 hours on my first play though, only to want more out of the game. 
+ However, in the games defense, its definitly one that you can immedatly go back and play through 
+ a second time and still get a wonderful experience out of, even as good as the first playthough, 
+ and the knowledge that the second (and unfortuanetly, final) part of the game is due out in only 
+ a few short weeks, as well as the short length making sure the game doesent overstay its welcome 
+ (alough the further it gets toward the end the more you cant wait for more) , the short length is 
+ more than bearable. In summation, Penumbra: Overture is a wonderful adventure game that will have 
+ you hooked from beginning to end, and very eagrly awaiting the second half, and very much wanting 
+ the developer to continue the series here on out. 
+::::::
+
+::::::
+UserName: p00pz
+Rating: 9
+Date: Dec 14, 2007 9:45 pm PT
+Review:  Combat was a bit flaky but was not intended to be the shining point, could have used a bit more 
+ polishing. The player really gets the feeling of being alone and appreciates how fragile life is 
+ because at any given moment something can kill you. Loved the puzzles though! thinking in a game 
+ is a refreshing treat! reading manuals on starting up a 50 year old generator, concocting TNT and 
+ other fun stuff. Some scenes bring nostalgia of original Half Life. Don't miss the crowbar easter 
+ egg ;-)
+  
+  I'm not going to say much in this review because the game wasn't very long. The devs made this 
+ game on a shoestring budget, but managed to make a very interesting story mix in with action/adventure 
+ game play. Kudos to the dev team and I hope to see more games like this! 9/10 
+::::::
+
+::::::
+UserName: madskongen
+Rating: 7.5
+Date: Oct 29, 2007 3:25 pm PT
+Review:  Penumbra Overture Episode one.
+  
+  I'll keep it short and simple. Graphics: Pretty decent looking graphics, Very dark and creepy, 
+ nicely blended into the surroundings.
+  
+  Gameplay: Gameplay is pretty straightforward, with minor puzzles, and things you have to figure 
+ out, like making a machine work, or blowing up a wall, However the combat system is pretty awkward 
+ i could barely kill the enemies when i first started but after you get the hang of it sort of works 
+ alright
+  
+  Sound: The sound could be more intensified and added some creepy music, but otherwise it works 
+ out.
+  
+  Final Thoughts: Its a good game, bit on the short side but, beeing budget release its well made 
+ and does the job of scaring you if you set the mood right, Check it out if you like. 7.5 Score 
+ from me! 
+::::::
+
+::::::
+UserName: genmonkey
+Rating: 7.6
+Date: Jun 12, 2007 4:06 pm PT
+Review:  For anybody worrying about the state of indie gaming, they'd do well to take a look at some of 
+ the success stories from the last few years and think again. From the success of Narbacular Drop 
+ (Portal) to the Behemoth Team (Alien Hominid) , along with the continued growth of Xbox Live Arcade; 
+ it seems that there is still space for games of this nature, and for small teams to gain a foothold 
+ in the entertainment industry that we all love. Penumbra Overture fits neatly into this scope, 
+ offering an independently developed and unique experience quite unlike most commercially funded 
+ projects, and harking back to the (some would consider) better days of PC gaming.
+  
+  Released onto the Internet in 2006 as a free download, the original Penumbra quickly developed 
+ a vast quantity of praise for its creepy and interesting atmosphere. This in turn spurred the small 
+ development team to continue work on the project and reach the ultimate goal of a commercial release. 
+ Overture is the first in a series of PC games from the same team, all based around the same universe 
+ and with a persistent storyline spanning across multiple episodic releases. I can only hope that 
+ the series catches the imagination of PC gamers, as this is one title that I'd like to see the 
+ conclusion of. For those of us burned by the Shenmue debacle, you'll know exactly what I mean.
+ 
+  
+  Your role in the Penumbra Universe is limited to playing a rather generic English protagonist (with 
+ some pretty bad voice acting) , out to find out the meaning of a message left to you by your long-lost 
+ father. Soon enough your path takes you on a boat to Greenland, and following on from a brief on-board 
+ tutorial and introduction to the physics system, you'll be breaking locks in the snowy wastes and 
+ descending into the depths of a long-forgotten mine and research base. It's all very The Thing, 
+ and the introduction of some fairly rabid dogs early in the proceedings supports that particular 
+ notion.
+  
+  The back-story soon blends into the surroundings however and becomes fairly inconsequential, and 
+ the rather generic setting and premise is testament to that. For once however, the story can suitably 
+ and understandably take a more limited role, as it becomes clear that the developers have focussed 
+ extensively on atmosphere alone; surprisingly that turns out to be a good decision.
+  
+  Penumbra plays out from a first-person perspective, and as such the initial reaction from most 
+ players will be to fall into the trappings of a first-person shooter, searching for weapons and 
+ expecting conflict from the start. However, without providing any form of standard weaponry, the 
+ game constantly plays on a sense of vulnerability and survival from the very outlook, and doesn't 
+ let up. There are no general prompts towards any violent acts, and the main protagonist is often 
+ forced to run and hide rather than attempting to bludgeon any of the creepy inhabitants of the 
+ mine with a nearby object, or trusty hammer.
+  
+  Of course if push comes to shove you can swing any of the heavy objects at your disposal in the 
+ general direction of somebody that wishes to cause you harm, and deal a decent amount of damage, 
+ but that choice is always a last resort. It's a refreshing change of pace to be playing a game 
+ from this perspective and not have destruction and extreme violence as the primary gameplay trigger, 
+ and kudos to the developers for attempting such a bold decision. Whether or not that converts into 
+ sales from a crowd usually hooked on Half-life and Counter-Strike is another matter.
+  
+  A game based solely on running away from things (S. O. S?) and hiding wouldn't be a particularly 
+ decent spectacle though, and thankfully Penumbra contains enough adventuring and well-balanced 
+ logic puzzles to tie the experience together.
+  
+  The core gameplay puzzling and adventuring revolves around a suitably robust physics engine. All 
+ of the in-game actions usually left to a single button press have been reworked in Penumbra to 
+ take advantage of this system, and the environment is lent a nice real-world consistency as a result. 
+ Opening a door, for example, requires the user to grab the handle with the mouse button and then 
+ drag outwards as if moving the door yourself. Interactions with drawers, boxes, and other objects 
+ are all handled similarly, with the puzzles incorporating this as a central facet. This can lend 
+ the game a similar tone to certain sections in the eponymous Half-Life 2, which is undeniably good 
+ company to be in.
+  
+  The only charge that can really be brought against the game lies within the the aesthetics of the 
+ environment. Whilst great lengths have been taken to ensure a dark and creepy atmosphere (and largely 
+ succeed) , this can be let down by some extremely primitive character models and animation. It's 
+ all good being scared by the sound of a wolf creeping around the corner, but to then be taken out 
+ of the moment as the same animal slides past as if on rails is a little jarring to say the least. 
+ The fact that the same wolf then stands motionless as you attack it with a rock is the final blow; 
+ but providing you can overlook such instances the game does a superb job of evoking the fear and 
+ primitive instincts that surviving in such an environment would entail.
+  
+  Overture manages to strike out on its own path and create a unique experience that, whilst not 
+ perfect, is worthy of a look for anybody interested in the adventure or horror genres. Creeping 
+ around in the dark with only a flashlight to hand whilst the wind whistles through a passageway 
+ and footsteps can be heard around every corner can be extremely disconcerting, and it's a testament 
+ to good game design that it manages to unsettle right from the start. Big-name horror titles such 
+ as Resident Evil and F. E. A. R can certainly learn from some of the things that Penumbra gets right, 
+ and just goes to prove that getting back to basics can shine the light for progress.
+  
+  Note: This text was originally written by myself and published over at boomtown. net 
+::::::
+
+::::::
+UserName: runarjenssen
+Rating: 8.5
+Date: Dec 6, 2007 11:07 pm PT
+Review:  It's easy to sum up the first episode of Penumbra Overture in one word: SCARY! That's right. The 
+ game is scary as hell. This first episode (hopefully in a long-running series) is pretty short, 
+ but you'll already here stumble across a good amount of creatures and scenarios. If you thought 
+ FEAR and DOOM 3 was too scary for you, I think it's safe to say that Penumbra is definitely NOT 
+ your bag of chips. I personally found FEAR a wee bit creepy at times, but nothing compared to this.
+ 
+  By the end of the episode, you'll be dying to try the next, as it ends in a cliffhanger-manner 
+ that works perfectly. Of course, that is if you've dared to continue on after the first rendezvous 
+ with one of the ugly creatures you'll be facing.
+  
+  The game can feel a bit "enclosed", a bit narrow as you always find yourself running around the 
+ same kinds of tunnels most of the game. However, the great atmosphere of the game will make sure 
+ you rarely think of the bad sides to the game. You just want to stay alive. Penumbra is shortly 
+ described this way: You'll be running around picking up notes, evading (or killing, if you please) 
+ nasty creatures, and solving puzzles to get to the next location - for a reason that is far from 
+ apparent (at least from the beginning) . Sounds familiar? Well, the story of the game, initially, 
+ isn't really so original, but you'll come across some new pieces of the story later, that reveal 
+ that not everything is as it should (well nothing is) , and at the same time, there's no great Alien/Nazi-leader 
+ who wants to destroy our beloved Tellus or anything. The story is, like in Half-Life, quite subtle 
+ from the start. You enter the world with only a few clues, and as time goes by, the story wraps 
+ around you more and more.
+  
+  The game's visuals are very good. Some might say that the graphics are a bit dated, but I can't 
+ really see that. Sure, it's not Crysis, but it's more than what you need for such a game.
+  The sound do the game justice, to say the least. You've got a creepy soundtrack running in the 
+ background, and the sound-effects themselves are just as unfriendly.
+  
+  Two main factors that separates this game from the masses, are the highly innovative controls, 
+ and the interface. You play the game with a first-person perspective. However, there is no HUD. 
+ All you have to guide you with, are the effects shown when you are hidden or take damage (much 
+ like in Chronicles of Riddick) . Also, the controls are really cool (but you have to get used to 
+ them) . For example, you don't open a door with the E-button or F-button or whatever. You do it 
+ by walking up to the door, holding down the left mouse button, and dragging your mouse in one or 
+ another direction. That way, you slowly open or close doors. The same goes for levers, drawers, 
+ chests... and the combat system.
+  To use a melee-weapon, you hold down the left mouse button, drag the mouse to the left or right 
+ to get a charge, and then pull the mouse fast back to it's original position to swing the weapon. 
+ Sometimes, this system can feel a bit annoying an unnecessary for some, since it's hard to control 
+ the camera as you're swinging around with your weapon, and most enemies are smaller than you (so 
+ you have to aim downwards as they close in) - but you'll get the hang of it eventually. When you 
+ do get the hang of it, the satisfaction after a successful kill is worth the effort. For those 
+ who never seem to get the hang of it, there's usually another way to get rid of enemies (either 
+ by sneaking around or luring them into all sorts of deathtraps) .
+  
+  All in all, Penumbra Overture's first episode is an incredibly intriguing piece of game-history, 
+ and everyone with the patience - and nerves - to complete it, will literally be thirsting for the 
+ next episode. So, if you're a fan of the REALLY scary games, and perhaps want something a bit more 
+ "point-and-click"-like than DOOM 3 and FEAR, you should definitely check out Penumbra, as it is 
+ a great game, with LOTS of potential. I am dying to see how the developers have pulled the second 
+ episode off, as the first episode ends in such a way that you know ANYTHING could happen next. 
+ 
+::::::
+
+::::::
+UserName: TandemSpoony
+Rating: 7
+Date: May 24, 2007 12:38 pm PT
+Review:  It's got a ludicrous setup, but Penumbra Ep. 1 succeeds despite its shortcomings with low-key, 
+ sensible puzzles, a grainy look, and excellent sound design. It's a fun design and an intriguing 
+ story -- a short ride, but a fun one while it lasts.
+  
+  I would have liked a few more answers to this story. Naturally it all ends on a cliffhanger and 
+ an absolutely amazing concluding visual, and in that regard the game is very effective. But most 
+ of the time the narrator talks about the doom he's facing and how much he regrets coming to the 
+ facility, but I haven't seen much to back that up. Oh, I'm still interested, but I wanted to be 
+ let in on the secret a little earlier. Just a hint, y'know?
+  
+  Much of the items are a little superfluous. I only ever used the glowstick to light my way; the 
+ flashlight was pathetic and provided worse light, and I never touched the flares. Dynamite was 
+ unrealistically small in scale and likewise rarely used, and combat was a real chore. It's not 
+ meant to be a focus, but overall the controls feel too sluggish, almost like you're moving underwater. 
+ It feels like the game is drugged at times with its languorous physics. If you don't get an early 
+ knockdown in the fights, you're basically finished with your slow turning speed.
+  
+  I'd still recommend it as one of the more effective horror games to hit the PC, regardless of these 
+ faults. I've paid more for fewer hours' entertainment. 
+::::::
+
+::::::
+UserName: Braxen
+Rating: 8.6
+Date: May 22, 2007 4:48 pm PT
+Review:  First dip into the mine was among the creepiest I&acute; ve experienced in a computer game. Excellent 
+ use of light (or lack thereof) , sounds and overall gameplay.
+  
+  Some might say that you feel a bit clumsy when you move. Yes you are not going to move around jumping 
+ and turning at the same time delivering railgun shots. This is not that kind of game...
+  
+  Graphics: Nice job with textures, shadows and lighting, really creates a sort of spooky mood. Sounds: 
+ Music really creates an atmosphere! Sound fx are good... they certainly do their job.
+  
+  Gameplay: Here&acute; s where the game shines. Being able to lift &amp; manipulate so many items 
+ in the game, and requiring you to do so to solve puzzles and fight is just awesome! Really gets 
+ you in the game.
+  
+  This is a budget title that I strongly recommend to anyone who is a bit tired of the hectic Doom3-kind 
+ of game and is looking for a mindchallenge as well. Storyline is good, reaaally clever puzzles 
+ etc. etc.
+  
+  Someone give the creators even more budget and make them create more games. This one leaves you 
+ wanting more of the same. 
+::::::
+
+::::::
+UserName: GrizzlyJim
+Rating: 4
+Date: May 21, 2007 11:42 pm PT
+Review:  I downloaded the Demo to see what kind of game this was. It's the type I hate. Yep. Sure enough. 
+ Tried opening the hatch in the very beginning of the game and spent about a half hour pounding 
+ it with a rock, watching it pop partially open and then falling shut again. Naturally, you can't 
+ turn the wheel on the hatch to open it.... I finally gave up out of frustration... You can have 
+ this game. I know I'd be pissed off and cussing out loud at the game within minutes... I tried 
+ repeatedly in the ship's cabin to unlock the locker with the key. Finally, I got it open. Then 
+ I stumbled outside and into the storm. I found a hatch, inexplicably amongst the rocks in a dead-end 
+ and tried to open it. I pounded it with a rock and it came loose. But, I couldn't get the damned 
+ thing to open. I bounced the rock on it several times and I could see it WAS open. But I couldn't 
+ lift it. I bore easily when games do crap like that. I want to be able to interact with my environment. 
+ GrizzlyJIm 
+::::::
+
+::::::
+UserName: dryden555
+Rating: 6.8
+Date: May 21, 2007 1:21 pm PT
+Review:  If you're a graphics addict or you only like simple action games then this isnt your kind of game. 
+ Penumbra has an awkward but functional combat interface and it has some basic stealth elements 
+ too. The 3d graphics are better than functional but certainly not up to the current state of graphics. 
+ Basically, this is a story-driven adventure game. As an adventure game it is quite good, if a bit 
+ short. There's genuinely successful story-telling going on here while you walk slowly through a 
+ dark old delapidated mine. You read some text and you solve some puzzles. I'm generally not a fan 
+ of episodic games, but this one gets strong marks as an adventure game and I'll be curious about 
+ the next installment. The gamespot review quite rightly warns you to edit the game .ini file so 
+ that you can save where ever you want. Why? The game doesnt warn you when it is auto saving so 
+ you are never quite sure when you have a save to go back to or not. Since you can die in a heartbeat, 
+ you will likely need to save at will. 
+::::::
+
+::::::
+UserName: andruxandd
+Rating: 9.7
+Date: May 14, 2007 2:20 am PT
+Review:  A adventure game like never before... you play in first-person camera like Halflife or any game 
+ FPS + point-and-click ! ... Is something strange here and this game give more pleasing. And not 
+ about is a first-person interacting with point-and-click, it's about ability to manually manipulate 
+ things like barrels, boxes, rocks or open doors and traps, manholes... with mouse and that amazing 
+ physics engine. Good ideea!
+  
+  Great creepy game and as for the dogs with sparks-eyes... oh, my God!!! When I saw him coming... i 
+ saw first dog coming to me and that yell before... i scare in that moment like never in my life 
+ when play a game horror. But, i don't know if that game is a horror game... much more creepy and 
+ darkly and inscrutable maybe and eerie...
+  
+  Good story and gameplay with more strange eventful! About combat and how to kill creatures are 
+ many to say. Combat is little annoying... and to kill a infectious dog is a hard work. Run and up 
+ to a box and crouch and hit with hammer about 5,6times and the dog will be dead. This battle-plan 
+ will be little long and need more patinence to hit again and again and hit the dog and not the 
+ air :)
+  
+  Graphics are good and so real with all things. Sounds are amazing and very creepy that make a great 
+ atmosphere for a very frightfully game.
+  
+  Only one bad thing... too short! Very short! Bring on apace episode two! Play that game without 
+ dubitation! Superb game and wait for second part! 
+::::::
+
+::::::
+UserName: DuaMn
+Rating: 8.3
+Date: May 9, 2007 3:56 am PT
+Review:  Penumbra: Overture - Episode One is horror adventure game that played in first person camera angle. 
+ It is mostly relies on the atmosphere. Places are mostly indoor. There is not much figthting. I 
+ actually think this game looks like Silent Hill. The darkness and weird noises give creeps'. I 
+ really do like this game because it is easy to understand and play.
+  The only bad thing in this game, there are too many dogs that you have to stay away :) After some 
+ time they makes you sick, but thats all. I suggest Penumbra to all horror game funs. They won't 
+ regret it. 
+::::::
+
+-------------------------------------------------

@@ -1,0 +1,535 @@
+-------------------------------------------------
+:::Game Name::: Dominions II: The Ascension Wars
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/dominions2theascensionwars/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jan 20, 2004
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.2
+Critic Score: 8.0, 9 Review (s)
+User Score: 7.9, 72 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Shrapnel Games
+Developer: Illwinter Design
+Genre: Fantasy Turn-Based...
+Date:     Nov 14, 2003
+
+-------------------------------------------------
+:::Review:::
+Dominions II is a game that's brimming with ideas of what a fantasy strategy genre game should be. 
+ Unfortunately, it's also saddled with tons of micromanagement issues and a cumbersome interface. 
+ 
+
+  Dominions II: The Ascension Wars is a throwback to days past, when guys who worked in garages while 
+ churning out strategy games was the industry norm rather than the exception. What those games lacked 
+ in production values, they made up for in deep strategic gameplay. Clearly influenced by such classics 
+ as Master of Magic, Dominions is a game that's brimming with ideas -- perhaps too many -- of what a 
+ fantasy strategy game should be. In its effort to include everything  and  the proverbial kitchen 
+ sink, Dominions is a game that offers tremendous depth but also has an unwieldy user interface 
+ and a prodigious amount of micromanagement.  
+
+          While plotting all of your strategic movements, Dominions II will often make you feel like 
+ a general. Here's an attack on a neighboring province.     
+
+  The game's basic premise is that the god of the world has disappeared, and the race is on to replace 
+ him. Your job, as a pretender god, is to defeat all other claimants to the heavenly throne. To 
+ do this, you have to increase your religious dominion, either peacefully through conversion or 
+ militarily through conquest. Basically, Dominions is about a holy war in a fantasy middle-Earth. 
+
+  Right off the bat, it's clear that this game is not for the faint of heart. You need to be a dedicated 
+ strategy gamer to get past the relatively lackluster graphics and the steep learning curve. Your 
+ first goal is to choose a nation that your pretender god will preside over. Just to illustrate 
+ some of the depth and complexity in the game, we'll point out that each nation is made up of a 
+ different race, each with different abilities, units, and creatures. Meanwhile, each pretender 
+ god has its own unique powers and abilities, and that affects the nation they lead in both good 
+ and bad ways. Playing the nation of man with the dragon pretender can be easier than playing with 
+ the vampress pretender, and so on and so on. You also choose what school of magic to specialize 
+ in, what kind of fortress to build (this affects many aspects of the game) , and any special customizations 
+ for your nation. There are a dizzying number of potential combinations so far, and you haven't 
+ even started playing the game.  
+
+  Once you do begin, you're dropped onto a world that's divided into provinces. As with other strategy 
+ games, you start off with just your home province and must expand from there. Each province has 
+ a native race living in it. Conquer the province and you can start building that race's military 
+ units. And, not unlike a wargame, each province is also rated for income, supply, resources, defense, 
+ and unrest. So, once again, the complexity and depth of the game show through in the large number 
+ of variables at play.  
+
+  Dominions II is a turn-based game but not in the traditional computer strategy game mold. Rather, 
+ the system is very similar to those found in strategy board games. Turns are divided into two phases. 
+ During the planning phase, players plot their moves simultaneously. You issue movement orders, 
+ adjust production queues, research and cast spells, forge magic items, assemble and organize armies, 
+ bid on mercenaries, construct buildings, and so on. Once everyone has finished the planning phase, 
+ the game executes the host phase by resolving all actions and automatically generating the results 
+ of all battles. The results of the host phase are then displayed, and players begin a new planning 
+ phase again.  
+
+  This is a game that can satisfy the dreams of fantasy strategy gamers everywhere. You can do virtually 
+ anything you want, and the possibilities are almost limitless. However, as you can probably gather, 
+ it translates into a lot of micromanagement each turn. And it gets progressively worse the larger 
+ your empire becomes. You get more provinces to manage, more production queues to set, more armies 
+ to organize, and so on. There's  a lot  of busywork that you have to do. In fact, there's so much 
+ that you may find yourself wondering if an empire is worth the hassle. For example, the production 
+ system is geared so that you can only churn out so many units per turn, and these units aren't 
+ allowed to move unless you have a commander leading them. You end up having to constantly shuffle 
+ unit stacks around the map just so you can gather and organize your forces.  
+
+  The army formation option is an interesting feature. Not only can you group units into squads, 
+ but you can lay out formations on the battlefield, and you can issue tactical commands in advance. 
+ So it's possible to arrange it so that pikemen are up front, archers are in the rear, and cavalry 
+ are on the flanks. However, that's about the extent of your influence, because combat is a completely 
+ noninteractive affair. Since it takes place in the host phase, it's automatically resolved. The 
+ best you can hope to do is watch a replay of the battle. However, it's hard to gauge what's going 
+ on due to the general lack of feedback, in addition to the slow pace and the 1998-era graphics. 
+
+  The overall game suffers from a lack of graphical polish, but that's to be expected considering 
+ the game was developed by just two people. To their credit, some of the maps in the game are reminiscent 
+ of the hand-drawn maps found in thick fantasy novels like  The Lord of the Rings . However, other 
+ maps are poorly drawn, so it's hard to discern any features on them. Also, units are made up of 
+ a crude collection of sprites that look like they're refugees from a decade-old strategy game. 
+ Furthermore, the game renders the 3D terrain in battles to such an extent that it's possible to 
+ bring a modern, high-end system to its knees. It's completely inexplicable.  
+
+  The game's turn-based system makes it ideal for multiplay, and the board game-like rules allow 
+ players to all make their moves simultaneously before resolving everything in the host phase. However, 
+ you have to know someone else with the game beforehand, since the game lacks a server browser or 
+ any kind of matchmaking capability. So it may be hard to rustle up a single opponent, let alone 
+ the 17 supported in the game. Human competition is preferable to the AI, though. The computer opponents 
+ are either pushovers or nightmarish. As the computer handles all the busywork in maintaining and 
+ growing an empire effortlessly, it's not unusual to see it marshalling huge armies on your borders 
+ while you struggle to assemble a meager defense.  
+
+          You can only watch replays of battles, and the presentation and graphics are straight out 
+ of a '90s-era strategy game.     
+
+  Finally, Dominions packs a steep learning curve, yet somehow it ships without a tutorial or any 
+ kind of walk-through in the manual. The developers tout that the interface has been streamlined 
+ from the original Dominions, but it's still a cumbersome system to learn. It's also inexplicable 
+ as to why a game as complex as this doesn't ship with a tutorial -- either in-game or in the manual. 
+ Instead, the best option available is to download a 19-page, fan-written walk-through from the 
+ Internet.  
+
+  As previously mentioned, Dominions is a game of staggering depth and complexity -- qualities that 
+ most fans of strategy games highly appreciate. However, even for some of the most hardcore fans 
+ of turn-based strategy, the sheer potential of Dominions II will not be enough to salvage it from 
+ the overwrought and cumbersome gameplay.     
+-------------------------------------------------
+:::User Reviews::: (10 Reviews)
+::::::
+UserName: Neverness
+Rating: 8
+Date: Feb 2, 2008 7:46 am PT
+Review:  I was pleasantly surprised to come across this game though I was very hesitant when I first started 
+ playing. First and foremost, the graphics are extremely dated, i. e. you can count the pixels that 
+ make up the sprites. Then again, not everyone is an artist so I withheld judgment.
+  
+  The game itself shows a great depth of knowledge about many things fantasy and I found this to 
+ be very impressive. The designers have created over a dozen factions that stretch from King Arthur 
+ mythology to Norse to Undead to Lovecraft mythos to Maya and even more. They really did their homework 
+ and that helps create an engrossing experience if you like that kind of stuff.
+  
+  The game plays out with you as a god who is fighting all the other gods for supremacy of the lands. 
+ The sheer number of gods you can choose is also large and diverse. You then setup your god's magical 
+ abilities and other attributes then go off to bludgeon all others in submission.
+  
+  Gameplay is very simple. The map is divided into provinces and nothing here is too exotic -- more 
+ people means more gold from taxes, mountains mean more resources so you can recruit more units, 
+ special areas provide magic gems each turn that you need to cast spells and so forth. 
+  
+  Battles are run automatically and the computer does a pretty decent job of using your troops well. 
+ You can setup various tactics for your squads such as flank, fire missles, cast spells, and the 
+ like and this can make the difference in some battles.
+  
+  Overall this game is very fun though it suffers from low production values. If you only play games 
+ to get off on the graphics then this is not the game for you. However, if you enjoy novel and deep 
+ strategy then Dominions 2 does not disappoint.
+  
+  My biggest gripe is that the guys at Ilwinter are extremely proud of their work and this game is 
+ very expensive. The sequel Dominions 3 is even more expensive -- both titles cost more than a new 
+ release PC game. In a way, I felt a little cheated at first but I grew to enjoy the game and now 
+ feel it was money well spent. 
+::::::
+
+::::::
+UserName: Bjornishigi
+Rating: 8.9
+Date: Dec 18, 2006 11:44 am PT
+Review:  Dominions 2 is a solid strategic offering from the indie game continuum (check out shrapnel games 
+ and gametunnel) . Its important for many reasons to support indie games and the primary reason would 
+ be that they are more detailed and engrossing. Indie developers have the freedom to articulate 
+ their artistic vision without the constraints of corporate interests. That translates generally 
+ into much more entertaining less formulaic gameplay. This is true for everything in the world at 
+ large where the worship of money creates a monoculture of homogeniety. Sic transit gloria mundes.
+ 
+  
+  This game gives you a ton of unique civs to choose from (around 17) all with widely varying attributes 
+ except that the undead seem particularly strong... Each civ and each unit have curious stories 
+ and vivid descriptions about them which helps to flesh out the dominions universe. There are water 
+ based races too which is cool, from a strategic perspective. Gameplay takes place on different 
+ overhead maps. Community contributes additional maps and material/game tweaks if you want it. The 
+ combat auto resolves on a 3d-ish battlefield after you determine setup/spells/strategy. Units are 
+ funky 2d characters with minimal animation but i like them. Multiplayer is possible through some 
+ ancient file sharing e-mail technique which just seems like too much of a pain to bother with which 
+ is too bad because this game being so much like a board top game would probably rock . Hopefully 
+ this is addressed in Dom3. The gui/interface isnt exactly intuitive but it is charming in its own 
+ rustic way. The magic system in this game is extensive and varied and really shines. I will probably 
+ never get around to utilizing all the available spells and global enchantments or to crafting all 
+ the possible magic items.. and that is a pretty amazing thing to be said for a game. Got depth? 
+ Abysmal depths of tartarian proportions filled with the arcane stench of unknown evil? Count me 
+ in. 
+::::::
+
+::::::
+UserName: bigboote
+Rating: 5.7
+Date: Jul 27, 2006 7:46 am PT
+Review:  Other reviews, both by Gamespot and the player reviews here, have covered most salient elements 
+ of dominions 2 gameplay, so I will comment here only on its normative effect upon me and you as 
+ a potential player.
+  
+  I am writing this review because the other players have given Dom2 a rating of at least 9, which 
+ I think is misleading *according to GameSpot criteria*, which also include graphics and sound. 
+ The graphics of Dom2 are 15 years old and clumsy, at best, while the sound is the most abominable 
+ conglomeration of squeakings and peepings I have ever heard. Fortunately, one can turn the sound 
+ off (which I do) and listen to music. 
+  
+  Firstly, the gameplay in Dominions 2 requires a lot of getting used to, but once you have learned 
+ how to master it, it takes off. Lack of documentation is more than made up by an avid fan-base. 
+ 
+  If you like fantasy multiplayer strategy, this is a great game. If you are looking for a challenging 
+ SP experience, look elsewhere, since Dominions 2 is simply too complex for its AI to handle. 
+ 
+  If you do not mind spend hours on a turn micromanaging every item your commanders can carry, every 
+ smith forging these items, spellcasters slaving away at research and casting, and moving troops 
+ around, then this game will be just right for you. It requires a lot of thought, and is rewarding. 
+ Of course, not all of your thought will always go rewarded, since tactical battles are resolved 
+ by the AI, and you have no control over your individual units. This, however, is usually a good 
+ idea.
+  
+  Secondly, however, Dominions 2 is plagued not only with poor AI, but with a clumsy, counter-intuitive 
+ interface that detracts a lot from gameplay. Even after getting used to it, it is unpretty and 
+ cumbersome. 
+  While the fan community is avid, they overlook much of the developer's shortcomings, up to and 
+ including support. This is because Illwinter (the developers) is made up of 3 persons, all of which 
+ do not work in the gaming industry full time (they are schoolteachers, IIUC) . This is all well 
+ and good, and sympathetic. It does not, however, justify the poor support for a game whose price 
+ is still running at over 50 dollars. While Illwinter has released 16 patches, most of the changes 
+ made are cosmetic. 
+  
+  All in all, Dominions 2 is a fine game, and one which no other hobby game developers could have 
+ duplicated with such skill -- but one which nevertheless suffers from lack of funding, professionality, 
+ and time. 
+::::::
+
+::::::
+UserName: user5689
+Rating: 8.8
+Date: Nov 26, 2005 12:21 am PT
+Review:  Like i said, very complex, and almost overwhelming at first what with all the buttons and so on. 
+ I suggest you download the demo before you buy it. not for those who like everything to be extremely 
+ fast paced. I love it, you may hate it.
+  This game deserves a 10, but unfortunately my graphics and sound rating drag it dow.
+  this game 
+ is a great callback to the time when the focus wasn't on graphics and huge orcestral scores, but 
+ when 2 or 3 people made a game, and they spent the majority of their time tweaking the gameplay, 
+ and dint have thje budget of LOTR. 
+::::::
+
+::::::
+UserName: Game_Inquisitor
+Rating: 9
+Date: Jun 27, 2005 7:21 pm PT
+Review:  Dominions 2 The Ascension Wars
+  
+  The Great one has come.
+  
+  Dominions 2 is in my opinion the greatest turn based to come since the original Age of Wonders.
+ 
+  
+  Graphics: 3/10
+  
+  As much as I like this game the graphics are pretty bad. The over world map looks similar to Risk 
+ which isnt to bad but the battle graphics are pretty terrible. Almost all units go through only 
+ two animations in battle and upon death disappear in a small poof of red mist (blood) . The units 
+ are each different in their look and can be zoomed in on during battle which is what gave a point 
+ to graphics. Unfortunately they are still very blurred even when zoomed in on. Spell animations 
+ are decent.
+  
+  Sound: 7/10
+  
+  I really enjoyed the music in this game with its medieval monks chanting which seems to really 
+ fit the theme well. The battle sound somewhat diverse; unfortunately the sound can get very, very 
+ repetitive with one particular move (mind blast) that makes a very loud horrible sound. Now if 
+ you have 20 mind blasting creatures casting it repeatedly it can make you want to send your speakers 
+ sailing out the window.
+  
+  Gameplay: 10/10 
+  
+  By now your probably wondering why I gave this game the Zeus award when the graphics are terrible 
+ and the sound is mediocre at best. Well here is where it makes up for all that. First off the depth 
+ of this game is absolutely amazing. To give you an example of the depth let me give you overview 
+ of the steps need to create god. Step one chose a civilization. There are 17 to chose from! And 
+ they are all different in their look and strengths and weaknesses. After spending 30 minutes on 
+ deciding on a team we go onto step two. You are now assigned 500 pick points, which are used throughout 
+ the choices. ex: one god (Son of Niefial) costs 50 points. Step two pick a god. There are 15-20 
+ god to choose from and then there are also gods unique to certain teams. And once again they are 
+ all distinctive. Step 3, chose magic schools for your god. There are eight to choose from (air, 
+ fire, water, earth, nature, astral, death, and blood) . You increase the levels of the school by 
+ using up some of your points and on top of that you can put points into multiple schools. Step 
+ 4, customize dominion. You do this by tipping several scales to use or get back pick points. If 
+ you choose turmoil your dominion would get frequent events (mostly bad) and you would get some 
+ pick points back for choosing a negative scale pick. However if you choose order your people would 
+ be more productive and get less events. However it would use up some pick points for picking this 
+ positive adjustment. You can also increase dominion strength and choose your dominion type, which 
+ use up points also. I wont go into detail on this, if you want more information go on a forum. 
+ Step 5, finally you must choose a fortification to use (castle, fortress, hill fort) . This is your 
+ defensive structure and does many things and I could probably write a whole guide on the choices 
+ but once again I wont go into detail on this, if you want more information go on a forum. Now 
+ those are choices that you make before even starting the game. Unfortunately if you already have 
+ guessed, this game has got to have one of the steepest learning curves out of any game ever made. 
+ Still once you get into the game it is very enthralling. Also at shrapnelgames. com Bruce Geryk 
+ has made an excellent beginners guide. Commanding your kingdoms is simple and not generally a chore 
+ and battles are done automatically though you can watch a tactical replay. You do have a say in 
+ fighting but only in the form of assigning tactics.
+  
+  Multiplayer: 8/10 
+  
+  The Multiplayer is good and can be done in multiple forms. And because it is turn based, you and 
+ your friends can play a game all on the same computer. Of course you can also play online but unfortunately 
+ there isnt as many players online as other more popular games like Diablo 2. Still its an all 
+ right multiplayer setup though.
+  
+  Replayability: 10/10
+  
+  Just look at all the choices I have talked about in this review and you will see the endless combinations. 
+ I guarantee no two games will be alike.
+  
+  Final Score: 9/10 
+  
+  If you can get by the weak graphics you will realize this is truly a gem to any gamers collection. 
+ I cant recommend this game enough.
+  
+  
+  
+  
+  
+::::::
+
+::::::
+UserName: zaethro
+Rating: 9
+Date: Feb 4, 2005 5:56 am PT
+Review:  Right off the bat let me say that this game is not for the faint of heart when it comes to strategy 
+ games. The graphics do not detract from the game play, but on the same token they cannot easily 
+ be ignored. However, if you can look past this unfortunate detail, Dominions 2 is a well-developed 
+ and substantial game both in combat and, most importantly, in mythological cadence.
+  
+  You start out as a pretender god after the world's one god seems to have disappeared. Your task 
+ is to eliminate all other gods and become the supreme ruler. You can do this one of two ways: kill 
+ off all the other gods or destroy all faith that the world has in them. This may be the only mode 
+ of play, but let me assure you that it is more than enough by itself.
+  
+  This game is very hardcore in the turn-based approach. A player on average can take up to 30 minutes 
+ a turn commanding only a small dominion, let alone a global one. Do not be fooled however: it doesn't 
+ get dull for a moment. The entirety of your turn will be spent whizzing around the plethora of 
+ screens containing items, spells, creatures, prophets, and heroes at your disposal. Even at the 
+ end of your turn, you will still cross your fingers and hope you didn't forget to do anything.
+ 
+  
+  One way to instantly get the wrong impression of this game is to play it in the hotseat version 
+ unless you are planning a sleepover for the next week and a half with anyone involved. The game 
+ is way too long to trade with each player over periods of hours. However, Ilwinter has a masterfully 
+ executed system that causes all turns to be taken simultaneously and it is supposed to be taken 
+ advantage of when playing with up to 17 different people (which the game does support) . You can 
+ do this by using the e-mail system of play. It isn't very complicated, but still requires a bit 
+ of prowess with the computer that some gamers might unfortunately not possess. It, nevertheless, 
+ allows everyone to take their turn simultaneously, cutting down a month (the standard unit of time 
+ in the game) from over 6 hours in some cases to just one or two.
+  
+  As mentioned before, the mythological accuracy and symbolism in this game is outstanding. Each 
+ race is fabricated entirely on the basis of some set of creatures from a staggering number of religions, 
+ philosophies, and countries. Ulm, for example, is the stalwart Germans of medieval times. With 
+ little or no magic (no fundamentally followed religion) they rely on steel for everything and make 
+ up for their lack of magic by being physically superior to any other human (which I will not make 
+ comment on) .
+  
+  
+  The spell system is well organized and causes for constant discretion of the players (a fine trait 
+ indeed) . The fact that you must research in the classes of magic leaves every magic using Dominion 
+ at a dilemma with their pretender god: is it better to have the god in question stay in the bases 
+ and research (he/she is normally unparalleled in the practice) or send them into battle (not a 
+ bad choice either most of the time) . The repertoire of spells is staggering as well and each spell 
+ has a decent explanation of itself, some even having mythological references.
+  
+  It may just be a personal opinion, but I find the combat system to be very efficient in this game. 
+ You create an army using resources and gold with a little bit of everything (though sometimes one 
+ unit in bulk will do) . Then you pick a hero for the leading task. You organize the soldiers into 
+ squadrons, each squad having a unique morale total. From there you click on a province and watch 
+ what happens next turn. That's right, you don't control your units. They fight themselves and the 
+ realism of this makes many strategies used in a normal strategy game ineffective (which they should 
+ because most commonly used game strategies don't work in reality!) and causes for army organization 
+ to be in top shape for a fight. You are not completely powerless however. You can tell each squadron 
+ fairly explicitly what to do a period of 6 turns, which usually enough to rather efficiently saut 
+ any unorganized enemy into nothingness.
+  
+  This game brings logistics to life in a way that even most turn-based games fail to address. Invading 
+ every town in sight is not always the best option for an army because, simply put, a starving army 
+ does not fight. The system of logistics, morale, supplies, and climate attribute causes the tried-and-not 
+ actually true method of amassing a terrifying army and plunder all in sight to crumble most graciously. 
+ 
+  
+  Combat afflictions also play an important role in keeping heroes and grand armies from stealing 
+ all the sunlight. Think your Black Lord Krelthin is powerful with his Hammer of the Mountain? What 
+ if he loses an eye in combat? What if gets his arm chopped off? The uncanny realism of the permanent 
+ afflictions in Dominions II is a very nice touch and adds even more to my final recap.
+  
+  THIS IS NOT YOUR NORMAL TURN BASED STRATEGY GAME. It is better than a normal strategy game; it's 
+ realistic. In this game it is shown time and again that you're "only god-like, not omnipotent" 
+ and I wish more games would be like this. If it were not for the below average graphic work, this 
+ game could easily be the best, most realistic strategy game on the market right now, but if the 
+ graphics don't bother you too badly give it a shot. Trust me, you'll love it.
+  
+  P. S. The Dominion strength and dominion types are also awesome, balanced, and well executed. Sorry, 
+ I cant go into detail. This review is getting pretty long!
+  
+::::::
+
+::::::
+UserName: evarmy98x
+Rating: 8.1
+Date: Jul 4, 2004 9:05 am PT
+Review:  Dominions II is a pure strategy title, but don't overlook it for lack of flashy multimedia. This 
+ title features deep strategic command and a very rich fantasy environment. The variety of ways 
+ in which you can design your "Pretender God" are immense and most of the nations over which you 
+ can lord have different themes available that change the feel of play completely. The interface 
+ in Dominions II is clunky and battle is little more than watching your 2D sprites match up against 
+ the AI's 2D sprites, but the depth and variety of the game more than make up for that. Players 
+ can also create their own maps for the game with relative ease. Altogether a great little fantasy 
+ title. 
+::::::
+
+::::::
+UserName: Moodgie
+Rating: 8.8
+Date: Jun 11, 2006 7:25 pm PT
+Review:  Gamespot completely missed the boat in its review. Dominions 2 is perhaps the finest strategy game 
+ ever made. That it was made by only two people who hold other jobs aside from game making is incredible, 
+ when you realise the depth of this game. You can do virtually anything relating to fantasy that 
+ you desire in this game. You can be a Aztec-like society that sacrifices its own young for magic, 
+ an enslaving race of mind-sucking tentacled aliens, a Transylvanian-like society dominated by mighty 
+ Vampire Lords (after applying the small patch) , and of course traditional fantasy empires you might 
+ find in any fantasy game. All the various races are impressive in their numbers, but much more 
+ impressive is that almost every one presents new gameplaying opportunities. For instance, playing 
+ Ermor, a nation of undead, you cannot even raise troops normally, instead having to rely on raising 
+ the dead, which effectively changes the entire game system. In fact, most all of the 17 races have 
+ distinct playing styles. Some races even have multiple types of societies, which you can change 
+ at the beginning.
+  
+  Micromanagement in this game is not really a problem, no more than in, say, Civilization 3. If 
+ you choose to play a massive map with all 17 races, then yes, I'd imagine micromanagement would 
+ get very tiresome. However, most maps provided both with the game and available on the website 
+ are geared towards fewer players. Micromanagement in Alpha Centauri, for instance, was noticably 
+ worse than in this game, particularly when you consider how much deeper this game is than Sid Meier's 
+ masterpiece. 
+  
+  The manual provided with the game is ample and explains things well. The interface is fairly easy 
+ to learn, after you start a game. Designing your "god" is incredibly interesting, with tons of 
+ different mages, monsters, dragons, monuments and other things available for you to deal with, 
+ along with the domain aspect, which allows you to increase magic or income at the expense of something 
+ else. The magic system is immense, as well. Item creation is literally better than any other game 
+ ever, even better than Master of Magic. Discovering an invaluable item can literally change your 
+ game. Race specific heroes that will come to you if you set your Luck scales high enough (yes you 
+ can control luck, as well!) , range from interesting and useful for the traditionally powerful nations 
+ to absolutely incredible for some of the unorthodox countries.
+  
+  The graphics in this game are functional. Nothing more, nothing less. You can forgive them, because 
+ strategy games are not known for graphical prowess and also because despite limited resources, 
+ the game features tons and tons of different monsters and a functional battle viewing system, which 
+ actually can be quite fun, considering you can change tactics before battle for each of the units 
+ you put together. 
+  
+  Overall, I can absolutely reccomend this to any strategy gamer or anyone with an affectation for 
+ deep, replayable games. This game introduces so many innovations, and manages to balance things 
+ so perfectly, that it will provide hundreds of hours and many sleepless nights for anyone who bothers 
+ to dedicate some time to it. 
+::::::
+
+::::::
+UserName: _Chaos_Avatar_
+Rating: 7.8
+Date: Jan 22, 2004 7:27 pm PT
+Review:  Gamespot makes many good points in its review about Dominions II. The game is impressive in its 
+ complexity- the amount of customization options available to the player is tremendous. The variety 
+ of options, from 17 different races to a host of ways to design a "god", allows for a lot of replayability. 
+ The computer AI can be extremely challenging, as it is able to micromanage the details of empire 
+ management fairly well. The similarities to classic turn-based fantasy games like Master of Magic 
+ or Warlords are welcome; the designers clearly tried to assemble some of the best ideas from those 
+ well-constructed games and incorporate them into Dominions II.
+  
+  I also agree with Gamespot that the graphics are low end compared to today's standards. Personally, 
+ when I'm playing a turn-based game, the graphical quality is not always a high factor in my enjoyment 
+ of the game, but I acknowledge the points that are made here. Likewise, the seeming lack of control 
+ during combat, an especially important part of this, and any, game, can be frustrating, The manual, 
+ while detailed in describing the game's many aspects, does not provide a tutorial for the game, 
+ nor is there an in-game demo. This is important, as the game is complex enough to make it difficult 
+ to grasp just by the "jump in and start playing" strategy that many gamers (myself included) use.
+ 
+  
+  I do believe that this is an excellent game, however. For fans of Warlords, Master of Magic, and 
+ Heroes of Might and Magic, there is a lot to love here. The number and variety of units and spells 
+ and the customizability of one's race and god unit lead, as I mentioned, to a lot of replayability. 
+ It is well-geared for multiplayer, with hotseat and TCP/IP support, and even PBEM. Setting up for 
+ TCP/IP was not quite as simple as the manual implied, but it worked, and even two players working 
+ together against the AI faced a tough challenge.
+  
+  If I could improve this game, I would focus on the combat system first. Armies are given a set 
+ of general commands that they follow when they engage in a battle- Attack closest enemy, fire at 
+ archers, cast spells, etc. There is a limit, however, to the set of commands that can be issued 
+ to a given army, and not every battle is fought the same. I would introduce a system where, at 
+ the beginning of a battle, a new set of orders could be given to units. Also, spellcasters do not 
+ always know the right spell to cast- why does he cast Banish Undead ten times in a row, when only 
+ one undead unit is left on screen? Get over it and hit him with the lightning bolt already!
+  
+  Another improvement would be the automization of province management- setting up more complex 
+ queues for unit building (as per Civ III) and army vectoring (as per Warlords) . This would greatly 
+ reduce the amount of micromanagement that the players face in the later stages of the game.
+  
+  However, despite these weaker aspects, the game is still a lot of fun, and yet another good 
+ fix until someone finally gets the power to publish Master of Magic 2. It's worth looking at.
+ 
+  
+  As a side note, the game is very Ironman. Fans of the "save and reload" camp of gaming will receive 
+ a rude awakening when playing- there is no such thing. The game saves, and that's it. You will 
+ learn some hard lessons as you live with your mistakes. But that just adds to the challenge...
+ 
+  
+::::::
+
+::::::
+UserName: Arcana
+Rating: 9
+Date: Jan 9, 2004 4:22 pm PT
+Review:  If you are a frantic maniac of WarCraft 3 and Age of Mythology, you will probably find this turn-based 
+ strategy game, with dated and limited graphics, quite boring.
+  
+  This type of game is reserved for those who can't have enough of Master of Magic (1994) , the Heroes 
+ of Might & Magic series, the Age of Wonders series, the Disciples series. On the visual side, Dominions 
+ 2 is much less sophisticated than Age of Wonders 2, and even, HoM&M 2 (1996) !
+  
+  But there's a lot of stuff in that game : it is deep and complex. It is difficult to learn too. 
+ I played the demo and then ordered the game, but I could only tackle the demo with the aid of the 
+ "walkthru" text & sample-game file which can be found on the developer's (Illwinter) website. I 
+ highly recommend that you try out the demo with a printed copy of the walkthrough in your hand 
+ : it's the best way to get a practical and methodical introduction to this smart piece of software. 
+ 
+::::::
+
+-------------------------------------------------

@@ -1,0 +1,2488 @@
+-------------------------------------------------
+:::Game Name::: System Shock 2
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/systemshock2/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug 25, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.5
+Critic Score: 9.2, 37 Review (s)
+User Score: 9.2, 1,952 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Looking Glass Studios
+Developer: Irrational Games
+Genre: Sci-Fi Action Adventure
+Date:     Jul 31, 1999
+ESRB: Mature
+
+-------------------------------------------------
+:::Review:::
+System Shock 2 both retains the best attributes of its predecessor and provides a fresh experience 
+ in its own right. 
+
+ Contrary to popular gaming lore, the original System Shock was not a commercial failure and sold 
+ over 170,000 copies over time. But when it first released in 1994, gamers overlooked Looking Glass's 
+ groundbreaking game despite favorable reviews. Some erroneously discounted it as a Doom clone, 
+ even though it was actually the offspring of a line of games that preceded any of id Software's 
+ first-person shooters. Other players dismissed it as a derivative first-person role-playing game 
+ that arrived on retail shelves just after a parade of Wizardries and Might and Magics. In fact, 
+ System Shock was a game that defied pigeonhole classification because it borrowed elements and 
+ themes from a variety of genres. Yet it was precisely because of its creative design that it is 
+ now commonly, belatedly, regarded as one of the best computer games ever made. Irrational Games 
+ was given the difficult task of creating a worthy successor to the cult-classic original, and the 
+ new development company has responded by delivering a game that both retains the best attributes 
+ of its predecessor and provides a fresh experience in its own right.  
+
+ Prompted by the near destruction of Earth by the self-aware and malevolent artificial intelligence 
+ SHODAN, Earth's previously ineffectual political governments formed the Unified National Nominate 
+ and imposed constraints on the power of megaconglomerates. But after inventing faster-than-light 
+ technology, the corporate creator of SHODAN, TriOptimum Corporation, convinced the UNN to engage 
+ in a cooperative expedition into unexplored space. Your character awakens in the midst of a crisis, 
+ as the ship that undertook the monumental journey has apparently become infested by some form of 
+ alien life. Suffering from that infamous RPG plot device, amnesia, your character finds that he 
+ has received illegal cybernetic implants that grant superhuman abilities - just the kind of endowments 
+ necessary to survive System Shock 2's chaotic circumstances.  
+
+ Even though it's a sequel, System Shock 2 feels entirely original because too few RPGs have science 
+ fiction settings. This one offers a rich combination of psionic powers, contemporary and futuristic 
+ weaponry, and William Gibson-esque cybernetic implants and technical skills. The plot unravels 
+ as you listen to e-mail and message logs. While the convenient placement of dozens of logs throughout 
+ the otherwise realistic environments is a bit contrived, the messages are consistently engaging 
+ and gradually expand upon the fates of most of the game's key figures. Unfortunately, since the 
+ settings have generally been abandoned by friendlies, the logs all but replace direct interaction 
+ with nonplayer characters. You'll also experience a handful of scripted story sequences crafted 
+ using the game engine, as well as frequent and interesting ghostly reenactments of earlier events. 
+ Collectively these storytelling methods convey an intriguing plot and generate an eerie atmosphere 
+ that make System Shock 2 feel unique through to the end.  
+
+ Like its predecessor, System Shock 2 is a first-person game that cannot be easily characterized 
+ otherwise. The role-playing elements are deeper than they were in the first game, as you're able 
+ to personalize your character's initial attributes and abilities and later update them in a variety 
+ of significant ways. The game looks and generally feels like a first-person shooter, but the RPG 
+ elements and detailed environments give the gameplay more depth. Unlike in a first-person shooter, 
+ you'll find it hard to be successful in System Shock 2 if you storm into every room, guns blazing. 
+ Ammunition is scarce throughout the game, forcing you to warily advance through dark hallways, 
+ leaning around corners to look for additional resources and opportunities to dispatch unwary foes. 
+ Even solitary enemies can be dangerous, and carelessly trekking into an unexplored room will often 
+ alert a security camera, which summons a legion of enemies to finish you off. Consequently, travelling 
+ through the creepy surroundings often slows to a crawl, even while backtracking since enemies randomly 
+ regenerate.  
+
+ System Shock 2's engine is well equipped for such stealthy maneuvering, as it's essentially an enhanced 
+ version of the Dark Engine created by Looking Glass for Thief, combined with some of the better 
+ interface features and controls of the original System Shock. The engine's 3D-accelerated graphics 
+ are capable of producing a variety of plausible futuristic environments, and its ambient fog and 
+ lighting effects look particularly good. However, the engine seems less capable of depicting characters, 
+ as humanoid figures look like a fusion of rudimentary polygonal shapes masked by a decent texture 
+ map. But since there are some plot justifications for the irregularly shaped beings, and most of 
+ the game's settings are extremely dark, the relatively simplistic character models work fine, even 
+ if they're not as detailed as those action gamers now expect. The game's dynamic music is appropriately 
+ fast-paced or atmospheric depending on the circumstances, but its crisp sound effects deserve particular 
+ praise. Environmental audio is a supported feature that's used to great effect. Straining in the 
+ darkness to gain foresight into the challenges ahead becomes an essential tactic, whether it be 
+ to detect the distant whirring noise of a security camera, the haunting ramblings of a mutant hybrid, 
+ or the banter of a haywire protocol droid. It's all great stuff, and it contributes significantly 
+ to the tense mood rapibly established in the game.  
+
+ One of the best aspects of Thief's engine was that it accounted for how noisy and how visible your 
+ character was and ensured enemies responded accordingly. Fortunately, all this is intact in System 
+ Shock 2. Don't expect to be able to casually open the door to one room, deal with its inhabitants, 
+ and then open the next door and repeat the process. If any creatures are within earshot of combat, 
+ they'll rush to join the fun, making it important to choose your battles carefully. Enemy AI is 
+ very good generally, as even basic grunts charge after you instead of haplessly lumbering in pursuit, 
+ while certain deadlier opponents will stick to shadows from where they'll launch their rapid-fire 
+ attacks.  
+
+ Fortunately, System Shock 2's interface is well designed and even fits well with the game's plot. 
+ You can maintain a view of the gaming world while searching through your inventory and use hotkeys 
+ to quickly access weapons, use items, or listen to log messages. To help you navigate you can superimpose 
+ semitransparent compass directions over your viewing window, pull up an automap, or maintain a 
+ miniature version of the map onscreen. Since your character is supposed to be grafted with a variety 
+ of cybernetic implants, there's actually a reasonable justification for your ability to access 
+ information such as this. The interface is not only effective, but it actually contributes to the 
+ game's ambiance instead of detracting from it.  
+
+ Your character is initially trained in one of three military branches - marines, navy, or OSI - 
+ each emphasizing a different proficiency: weapons, technical skills, or psionic powers. But the 
+ professions don't add as much depth as you might expect, since during the course of the game you 
+ can choose to develop any skills or attributes regardless of your initial choice of profession. 
+ The professions are badly unbalanced as well, especially at the beginning of the game when the 
+ modules used to upgrade your character are extremely rare. It's very difficult to survive without 
+ picking up at least a smattering of basic weapon and technical skills, and since navy characters 
+ start the game with those abilities, they have a huge advantage. Meanwhile, marines are essentially 
+ navy characters stripped of those vital technical skills, while OSI characters lack both weapons 
+ and technical skills and are extremely fragile initially for lack of items that restore their psionic 
+ energy. During the course of the game you can develop truly different characters that are capable 
+ of successfully completing the game in their own right, but the initial selection of profession 
+ isn't relevant or even enjoyable in the manner in which it was intended.  
+
+ Finally, despite System Shock 2's novel setting and its RPG elements, its gameplay doesn't really 
+ evolve significantly beyond that offered by recent first-person shooters. You'll spend much of 
+ your time strafing at enemies around corners, opening crates, and even hunting for keys. But the 
+ realistic environments, intriguing plot, and consistently uneasy atmosphere make System Shock 2 
+ constantly effective. It is a hybrid game that effectively blends elements from a variety of genres 
+ into a thoroughly enjoyable and accessible package.    
+-------------------------------------------------
+:::User Reviews::: (66 Reviews)
+::::::
+UserName: simpsons_28
+Rating: 10
+Date: Mar 17, 2009 9:31 pm PT
+Review:  System Shock 2 is just. I can't describe it! It is just a "You have to play it!" Kind of game! 
+ You I can't even explain what it's like even if I was being held at gunpoint! I mean it's like 
+ telling the legend of zelda series in order! It's impossible and only Doomguy and Chuck Norris 
+ can do it!! 
+  PROS:
+  Genuinley scary. Most games get scares by having things just pop up out of nowhere. Not System 
+ shock 2. It gets it's scares with three things. Atmosphere. Music. Enemies voices. Theres blood 
+ on the walls, enemies acting all creepy, and even ghosts of the former people on board! You can even 
+ hear the former crew members as the monsters asking you to kill them!
+  SHODAN
+  Amazing weapons. Okay SSII has your basic weapons but ammo is so scarce you always feel in danger. 
+ Because you always are in danger!
+  Great RPG elements. What System Shock started. System Shock 2 Continues. Brilliantly. This game 
+ perfectly executes it.
+  You can't call yourself a gamer if you haven't played this. If you have never played this masterpeice 
+ you are not a gamer. End of discussion.
+  CONS:
+  Nothing. Nothing is wrong with this game in any way possible.
+  This game is as perfect as games 
+ get. 
+::::::
+
+::::::
+UserName: fredyellowone
+Rating: 10
+Date: Nov 25, 2008 12:43 pm PT
+Review:  This review will be simple. Try it if you're a fps fan. Then, your standard of the best fps ever 
+ will change. Its good. enough weapons. A crazy amount of way to kill a foe. Scary. Great soudtrack. 
+ Amazing plot. Way better than Bioshock. Yes, you may have troubles finding it new. Download it 
+ where you can find it, and enjoy!!
+  
+  Look at me hacker. How a pitufil creature like you can challenge an immortal creature like me?
+ 
+  
+  So, since i must fill 100 words for this review, here is my best FPS list ever.
+  1- system shock 2
+  2- bioshock
+  3- alien versus predator
+  4- perfect dark
+  5- goldeneye 
+ 007
+  6- medal of honor
+  7- quake arena
+  8- time splitters 2 and 3
+  9- call of duty 4
+  10- doom III
+  
+  All those games are very good in each of their ways. But system shock 2 is 
+ the best one cause it combine great time, with a plot that will reminds for age. ;) 
+::::::
+
+::::::
+UserName: Va0
+Rating: 9.5
+Date: Oct 20, 2008 8:09 pm PT
+Review:  When I heard about System Shock 2, before I played it, it was frequently hyped as being an incredibly 
+ difficult game. I was expecting it to be hard - I would have a challenge, it would potentially 
+ be bordering on unplayable. As I discovered, this was not an issue - System Shock 2 is arguably 
+ the most modern game I've played. It has a well made interface. If you get a few mods (try strangebedfellows. de) , 
+ you'll swear it was released in 2002 or 2003.
+  
+  Yes, System Shock 2 doesn't have a bunch of shaders or the like. It doesn't let you take advantage 
+ of a crazy high definition screen or some absurd 7.1 (or is it 11.1 - when will it end?) surround 
+ sound system. No, it doesn't have excellent squad AI or even the ability to choose between good 
+ and evil. It's just you - Goggles - trying to stay alive with your one buddy in the world who talks 
+ to you all mysterious like on the future version of a phone.
+  
+  If you're into horror games, just get System Shock 2. If you haven't yet played it, play it. You'll 
+ see where Bioshock got just about all its ideas. If you have, I would highly recommend you replay 
+ it if you haven't played it in years. I played it this past summer - the summer of 2008 - almost 
+ a decade after its release (and without playing the original) . It is still amazing. It is still 
+ truly a breathtaking experience. It creates an atmosphere like few games can. It is truly horrifying 
+ in the best ways - it's not Doom 3, jumping out of the shadows. This is human nature, in your mind, 
+ turning against you. And it's beautiful. 
+  
+  It's too bad no game has really gone farther - as one reviewer said of Bioshock, he wanted it to 
+ be 'a disembowelment.' Yes, I concur. That is what modern horror game should be. It's too bad the 
+ mainstream doesn't want a beautiful disembowelment. Until then, we're stuck with System Shock 2. 
+ It's a pretty good substitute. 
+::::::
+
+::::::
+UserName: Chaoticon
+Rating: 10
+Date: Aug 31, 2008 3:49 pm PT
+Review:  If you've played Bioshock and thought that game was great, then you will defiantly think this game 
+ is beyond great. This game has great characters, weapons, environments, and a really awesome story. 
+ 
+  
+  This games skill/spell system has a lot more to it then Bioshock. In System Shock 2 It is possible 
+ to beat the game purely using the psi-amp, although it is a pretty hard start.
+  
+  This is an AMAZING game. This game can be had really cheap now. If you haven't played it, then 
+ go get it right now!
+  
+  If you've played Bioshock and thought that game was great, then you will defiantly think this game 
+ is beyond great. This game has great characters, weapons, environments, and a really awesome story. 
+ 
+  
+  This games skill/spell system has a lot more to it then Bioshock. In System Shock 2 It is possible 
+ to beat the game purely using the psi-amp, although it is a pretty hard start.
+  
+  This is an AMAZING game. This game can be had really cheap now. If you haven't played it, then 
+ go get it right now! 
+::::::
+
+::::::
+UserName: MTullusCicero
+Rating: 10
+Date: Aug 9, 2008 10:29 am PT
+Review:  System Shock 2 is one of a select group of games that transcend the traditional "gameplay-graphics-sound" 
+ rating system to become a truly unique experience. The gripping storyline, the haunting sound effects, 
+ the immersive atmosphere, and numerous other factors all combine to make System Shock 2 renowned 
+ designer Ken Levine's greatest work to date.
+  
+  It's easiest to start with my criticism of the game, since there's so little of it. As much as 
+ diehard fans such as myself would like to defend it, there's simply no way around the fact that 
+ the graphics are nothing to write home about. Even in 1999-the year of System Shock 2's release-the 
+ 3d models, though decent, could hardly be considered spectacular. However, they're certainly not 
+ so bad that they detract significantly from the overall experience of the game. 
+  
+  Graphical shortcomings aside, there is so much to love about System Shock 2. On the technical side 
+ of things, the game's sound has received universal praise, and with good reason. The slow trod 
+ and pitiful voice of the hybrid, as well as the mechanical drone of the security bots, are enough 
+ to make your spine tingle. The echo of the ship's PA system through the empty corridors reinforces 
+ the feeling that you are completely alone. Even the clank of your own footsteps on the steel floor 
+ will set you on edge.
+  
+  The discussion of the game's sound brings me to one of System Shock 2's defining characteristics: 
+ it positively drips with atmosphere, and it is downright creepy. It can compete with the best Hollywood 
+ flicks in terms of psychological horror. The hybrids' pitiful cries of "kill me!" as they swing 
+ their bloodied wrenches at you are supremely disturbing. The Von Braun's onboard computer Xerxes-one 
+ of my favorite characters from any game-will come over the PA to give you a friendly reminder to 
+ get your holiday shopping done, and follow it up a minute later with "to avoid possible detention 
+ and execution, please respect the will of the Many." The words "REMEMBER CITADEL" scrawled in blood 
+ on the wall of the medical ward will make veterans of System Shock cheer, and will cause new players' 
+ stomachs to turn. And, despite the unimpressive graphics, some of the game's visual qualities play 
+ a major role in contributing to the immersive atmosphere. The steam vents look very good, and the 
+ lighting is absolutely superb. Flickering lamps and dimly-lit corridors create an ambience worthy 
+ of a Hollywood sci-fi/horror flick.
+  
+  Equally gripping is System Shock 2's fantastic storyline (possible SPOILER ALERT) . 42 years after 
+ the disaster at Citadel Sation in System Shock, the newly re-licensed TriOptimum Corporation sends 
+ the Von Braun, the first faster-than-light ship, on a scientific mission. The unnamed player is 
+ inserted into the midst of the action, as SHODAN's biological experiment has returned in the form 
+ of an intelligent biomass known as the Many, which infects the crew members. It is a classic last-person-alive 
+ situation (or close to it, as you will run into a few survivors, most of whom are promptly killed) , 
+ but manages to avoid feeling clich. The brilliant plot twist, when the player discovers that the 
+ faithful guide, Dr. Janice Polito, is actually the crazed artificial intelligence known as SHODAN, 
+ ranks with the infestation of Kerrigan from Starcraft and Baal's return in the final cinematic 
+ of Diablo II as one of the greatest plot twists in gaming history. It even gives such classic cinematic 
+ moments as "No, LukeI am your father" a run for their money. (end of Spoiler Alert) The numerous 
+ data logs found in desks and on the bodies of dead crew members provide an excellent storytelling 
+ device. They allow the player to piece together the story, rather than having it simply explained 
+ by a NPC. Furthermore, the excellent voice acting makes you feel truly connected to the unfortunate 
+ crew members such as Polito, Delacroix, Watts, Diego, and the delightfully despicable Captain Anatoly 
+ Korenchkin. 
+  
+  Of course, no game can be considered a "classic" without superb gameplay. It is in this area-aside 
+ from obvious improvements in graphics and sound-that System Shock 2 really builds on what its predecessor 
+ offered. First off, the controls in the first System Shock were atrocious-it did not use the magic 
+ four (W, A, S, D) , and was generally clunky. System Shock 2 uses the familiar controls from Thief: 
+ The Dark Project, and allows the user to configure customized control sets (a feature which is 
+ taken for granted in the modern FPS world) . More importantly, System Shock 2 added the open-ended 
+ gameplay for which it has received so much praise. The character customization system gives the 
+ game excellent replay value, and the level design allows you to explore at your own pace, neatly 
+ avoiding the railroad-track feeling which plagues so many shooters. It should be noted that System 
+ Shock 2 is not a FPS in the classic sense. The game is very difficult, something that I greatly 
+ appreciate. Running into a room and spraying lead everywhere is highly unwise, as ammunition is 
+ extremely scarce, and it is therefore necessary to make every single shot count. Fortunately, there 
+ is a respawn system in the form of genetic reconstruction machines which fit nicely and make sense 
+ within the game. They do not, however, make the game overly easy, as they cost money and must be 
+ activated before they can be used-if you die before you find the reconstructor in your area, your 
+ game is over.
+  
+  In all, it is safe to say that System Shock 2 is one of the greatest games ever made, probably 
+ my personal favorite. Its outstanding story, gameplay, and atmosphere deserve every bit of praise 
+ received. Try to find this game if you can; it's difficult to get it to run on XP and Vista, but 
+ it can be done, and once you've succeeded you will find that it was more than worth your effort. 
+ Trust me.
+  
+::::::
+
+::::::
+UserName: Swiftstrike5
+Rating: 9.5
+Date: Jul 31, 2008 7:15 pm PT
+Review:  I got this game expecting something along the lines of Dues EX. This game was 10x better. Storyline 
+ is great and the game plays like a real horror. Ammo is very difficult to find and enemies just 
+ keep taking bullets. You see crew that is still alive, but never actually make contact with them. 
+ Atmosphere was plain creepy. You wonder what's going on in some of these places and it's usually 
+ explained through a disk you find lying around. Although, the game does seem to wear off towards 
+ the end. If you max out a weapon it can usually 1hit enemies with the right ammo and they become 
+ nothing more than an annoyance. Ending is expected, but still fun right up to it. 
+  This game is a classic. The perfect combination of RPG+FPS elements.
+  
+  Storyline is easy to 
+ follow so no need to play the first one.
+  
+  
+  
+  
+  
+  Watch out for the  
+ 
+::::::
+
+::::::
+UserName: cristyrazvan
+Rating: 10
+Date: Jun 13, 2008 12:44 pm PT
+Review:  I can't forget this game. At that time, 9 years ago, the graphics were stunning! The level design 
+ was breathtaking, the thriller of the story was overwhelming, and the complexity was unforeseen.
+ 
+  A couple of years after some good souls updated the character graphics (look on the net for the 
+ graphics patch made by some enthusiasts) and the game became even closer to perfection.
+  The upgrades are fantastic, the quests and the puzzles are mind blowing, and the action is frantic! 
+ The perfect recipe for a perfect game.
+  Played this game about three times, and still love it, it is another one of my perfect 10 score 
+ list.
+  9 years after playing it, and still love it :) The graphics, the gameplay, the customisation! Just 
+ simply fantastic!
+  Trust me, once you have played it, there will be very hard to find another game to keep you as 
+ entertained as this one. 
+::::::
+
+::::::
+UserName: pandaramaster
+Rating: 9
+Date: May 9, 2008 10:28 am PT
+Review:  System Shock 2 is one of those games that inspired many yet is relatively unheard of. In fact, 
+ if it wasn't for Deus Ex and Bioshock I would probably have never bought it. I heard of it, but 
+ I never owned a PC until 2002 and the chances of me finding a copy of the game was a complete joke. 
+ In fact, the first proper PC game or games I played was Deus Ex and Half Life. I remember my PC 
+ just being able to run both of them. Yes a 9GB hard drive and 256 MB Ram did absolutely no wonders 
+ whatsoever for me and PC gaming. But hey, it came with a NVIDIA Geforce 5200 graphics card and 
+ the PC ran these games particularly well. Except for Deus Ex, the amount of times I had to delete 
+ all the saves because of the size of them seriously turned me away from PC gaming for a bit. However, 
+ I couldn't get over how fantastic Deus Ex and Half Life was, and still is. Yes both games have 
+ aged considerably, but the foundations in both have carved out some fantastic future FPS games, 
+ most noticeably the sequels. Half Life was a fantastic ride from start to finish and has never 
+ been bettered (some, myself included would still choose the first title over the sequel. Not that 
+ the sequel is bad or anything like that) and Deus Ex was the first truly emergent game I have ever 
+ played. Little did I know that Deus Ex was inspired by another game? Another game that hardly sold 
+ any copies and yet was passionately loved by everyone who played it. Which is probably why it's 
+ so hard to get a copy because people couldn't part with it that includes me and my treasured copy?
+ 
+  
+  So let's fast forward to 2008. The year I finally get to own and play the game. I can always approach 
+ these old retro games with the intention of playing them without the new foundations made in newer 
+ games (i. e. Metal Gear for the MSX doesn't have a radar or field of vision cone, so I adapt I shall) 
+ and without the fine tuning and balancing needed. So I shall review the game as if it came out 
+ in 1999. I know I can't truly do this and some prejudice will no doubt erupt somewhere but I shall 
+ remain as faithful to judging as if it just this week came out.
+  
+  So System Shock 2. What can I say that hasn't been said? The gameplay mechanics are a mish mash 
+ of first person shooting, sneaking and with a sprinkle of RPG elements thrown in. The supposedly 
+ derelict space station is one of the creepiest environments in a game ever, the whole game to this 
+ is very unsettling and none of the atmosphere or bleakness has been lost at all. And the plot. 
+ What can I say without spoiling such a wonderfully thought out and indeed thought provoking plot? 
+ Just that it's one of the greatest and not one game have managed to make THAT impact as quite profoundly 
+ as System Shock 2 did. The gripe I have is after that moment, the plot loses its appeal a little 
+ and if it weren't for the shocking and scary ending, I would have said stop playing after that 
+ moment. So let's begin at the beginning, which ties in nicely with the gameplay paragraph.
+  
+  The intro of the game explains the events that happened in the first System Shock title. It 
+ is 47 years after the A. I. Shodan was destroyed by the Hacker, which was the protagonist/player 
+ combo of the first title. You play as a biomechanical soldier who is emotionless and mute (to put 
+ you directly into the shoes of the story thus making the emotional ties to the story far stronger) 
+ at a training facility. Here you get taught the basics in control, inventory and using the various 
+ gadgets and gizmos that you'll encounter. After the initial basic training you can have the option 
+ of training in the three categories that ultimately decide what sort of character you'll be. First 
+ there's shoot first and sod the questions later weapons training, complete with trying out various 
+ weapons, ammo etc. Then there's the technical and maintenance. So this means you'll be more of 
+ a hacker and weapon fixer than a fighter. Then there's the Psi Ops training. Here you basically 
+ use a black orb with a sort of syringe connector that stabs into your arm and you use magic spells. 
+ The training gives you telekinesis and a freeze spell. So after you done all this training the 
+ next task is to pick the one training school you'll side with. After picking this school there's 
+ no going back and this is when your character will get shaped. After that you pick three additional 
+ stats for your character and four years past and the main bulk of the story begins.
+  
+  The game plays very much like Looking Glass' other game, most noticeably Thief: The Dark Shadows. 
+ You have the option of approaching the current objective any way you see fit be it sneaky, shooty 
+ or a mixture of both. The sneaking is very much spot on, seeing how it's almost like Thief just 
+ minus the light bar and many, many shadows that engulfed that game. In fact, it feels like the 
+ stealth in this game is a tad easy and is not as forced as Thief, which is pretty obvious seeing 
+ how Thief is nothing but stealth. Then there's the actual fighting. The fighting mechanics control 
+ solidly. You first start off with a wrench, naturally, but you soon acquire all mannerisms of weapons 
+ from shotguns, pistols and laser guns. Depending on your stats though you can't use all these weapons 
+ as soon as you pick them up. This adds a good element in my books because it teaches you to be 
+ cautious and weary of your bullets and it adds a factor of realism to the game - despite the space 
+ setting and cyborgs. The downside is the weapon degradation. It's totally messed up and is in no 
+ way balanced. All the weapons in this game don't last long and it's quite a while until you procure 
+ the necessary skills to stop this being a talent. In fact, if you never picked Navy at the start 
+ you will seriously have a hard time ahead of you. Although Looking Glass and Irrational Games have 
+ rectified this problem with a patch, I am still playing this game as if it came out today and that's 
+ one of the main criticisms aimed at System Shock 2.
+  
+  You upgrade your character by collecting cyber modules, regularly given to you by Dr Polito or 
+ by finding them scattered all throughout the Citadel. Items and ammo can be found in various crates, 
+ corpses or bought from vending machines, provided you have nanites. You can cut the cost of the 
+ items down if you hack into the machine. Hacking costs you nanites and you can hack vending machines, 
+ gun turrets and cameras. It's pretty easy to hack to begin with. It's a little mini game and all 
+ you have to do is line up three bright green squares. As you progress it becomes aggressively harder. 
+ Red squares appear and if you highlight them, boom! Course, you could just use the hacking tool 
+ and be done with it regardless of difficulty. Nanites also come into play if you die. If you die 
+ you can be brought back to life providing you activated a Quantum Bio-Reconstruction Machines and 
+ have the relevant funds to allow such a thing to happen. If not, then it truly is game over.
+  
+  So that's the main core of the game. It's solid, if a little skewed in some places here and 
+ there but the overall game plays really well. The sense of panic that perpetuates throughout the 
+ game is one of the game's many strengths that still stand up to this day.
+  
+  The graphics were more or less dated when they came out. Not badly, but this was a time when Unreal 
+ was out and it was going to be matched against that. However, the graphics work well for the atmosphere 
+ and overall design of the game. Yes the space station is kind of boring and monochrome in a sense. 
+ But name a space station that isn't. The last parts of the game are clearly rushed and used many 
+ textures from the first part. The character models are blocky and lacked animation quality, even 
+ when it was originally released. However, despite all that the game still has a charm to it that 
+ carries it well. It's still playable and that doesn't hamper the actual game at all. It's scary 
+ and tense and the atmosphere can be unbelievably bleak and desolate at times.
+  
+  The music has a retro 80s synth feel to it and it pops up in important events such as plot revelations 
+ or action moments. It's competent and some of it is pretty cool, but it's nothing to write home 
+ about. Now the sound effects and voice acting. That's where it's at. The voice acting is tremendously 
+ good, despite the odd guff actor or line delivery. The person who steals the show though is the 
+ actress who plays Dr Polito, who also wrote some of the story. Her delivery is absolutely spot-on 
+ and you'll see why she's cool as you play through the game. Hell, even in the intro you'll see 
+ why. The sound effects pack that visceral punch and the 3-D sound engineering is just amazing. 
+ Granted the technology is slightly dated but it's still affected.
+  
+  System Shock 2 is a decent length of 20 hours, plus replay-ability thanks to the many options available 
+ in this game. Though the original release didn't have multiplayer the developers saw fit to include 
+ it with a patch. I still to this day believe it should never have had multiplayer. It's a single 
+ player experience and the multiplayer takes that away. So I say ignore that mode and concentrate 
+ solely on the single player. Plus the multi player is completely tacked on and was only added later 
+ because of PC boys crying for it.
+  
+  In conclusion, System Shock 2 is a very well made game. A very well made with a few blemishes. 
+ It's far from perfect and it was clearly made by amateurs. However, it was clearly made with an 
+ absolute passion to the series and it's clearly better than its predecessor in every single imaginable 
+ way. The story is the clear reason why so people love it. There's nothing quite like System Shock 
+ 2's story and the gameplay and nuances that appear throughout the game have appeared in others, 
+ such as the brackets around interactive items. System Shock 2 was clearly ahead of its time and 
+ stands as one of the finest videogame achievements in its history. 
+  
+::::::
+
+::::::
+UserName: crazyslap
+Rating: 10
+Date: Apr 2, 2008 9:38 pm PT
+Review:  Simply put, Ken Levine and the rest of Irrational put together the best game ever. I have played 
+ through it 67 times hopefully 68 by this weekend. BioShock is the second best game ever, I refuse 
+ to call them 2K they are still Irrational games! Can't wait for BioShock 2! I feel nauseated when 
+ I think about how long it will be til I get to play it. 
+  
+  Gameplay: 10/10 Excellent I can't think of anything I would add to make it better without spoiling 
+ it. It's Perfect.
+  
+  Graphics: 6/10 From what I've read Irrational didn't exacley have an arsenal of engines at their 
+ disposable and it was the year 2000 but at the time it was impresive visually.
+  
+  Sound: 10/10 Horrifying. Need I say more?
+  
+  Learning Curve: About an hour.
+  
+  I feel this 
+ game will go down as one of the best game in the industry's history. Ken Levine and the team at 
+ Irrational are simply genious. 
+::::::
+
+::::::
+UserName: mindboy19
+Rating: 9.5
+Date: Mar 6, 2008 8:19 pm PT
+Review:  When I decided to check out System Shock 2 a few years ago, I was skeptical about playing a game 
+ that was as old as it was. Still, I was familiar with looking glass studios and loved the Thief 
+ series, so I gave it a shot.
+  
+  To say I was amazed would be a massive understatement. This game had me up to the wee hours of 
+ the morning playing, and despite me wanting to kill the damn game for being so ridiculously difficult 
+ at times, the plot sucked me in like a black hole, only able to leave my PC once I had beat the 
+ game.
+  
+  I had always believed that the more advanced a game was, the better the opportunity for storytelling 
+ was. System Shock 2 turned that idea on its head and soon I was completely immersed in the game. 
+ The incredibly effective storytelling, the intelligent gameplay, and the gripping plot kept me 
+ going through all the difficult spots- along with a cheat that allowed me to spawn medkits. Even 
+ so, the game remains one of the premier examples of storytelling through gameplay, and despite 
+ its graphical limitations and ridiculous difficulty, does an excellent job at creating a convincing 
+ atmosphere that is as immersive as it is compelling and frightening.
+  
+  The story begins with you waking up from a cryogenic sleep on a starship, only to find the entire 
+ crew has been infected by a hive minded parasite. You are forced to use your wits to fight through 
+ this hell to get to the only other survivor, a woman named Janice Polito, but even there, the plot 
+ thickens into a brick of pure awesome in one of the most shocking and wonderful twists in a game 
+ that keeps you completely on your toes until the game's equally bizarre and fascinating ending.
+ 
+  
+  The key to the storytelling, in my opinion, is the excellent sound- near the beginning, you witness 
+ an infected human chasing down a woman and eventually gunning her down with a shotgun. While the 
+ graphics make that scene look rather silly, the sound is convincing and horrifying, and sets the 
+ morbid stage for this game. To add to that, there are voice journals you find of dead crew members, 
+ each one adding to the plot and giving the player a glimpse into the despair and horror the crew 
+ experienced as the aliens slowly began to take over the ship.
+  
+  One of the coolest aspects of this game is for the most part, none of it seems unnecessary. In 
+ many games, there is a severe difference between the plot and the things you do in the game- I 
+ find myself wondering, as a player, "Why am I doing this? How does this help my character kill 
+ Strelock or find his dead wife?" In System Shock 2, the line between the plot and the actual game 
+ experience is one and the same, and despite some sections seeming a bit out of the way and inconvenient, 
+ they all make sense to some extent or another, and the objectives make sense. To further strengthen 
+ the gameplay-plot pairing, there are no real cutscenes, instead the game itself is full of various 
+ highly effective plot devices, ranging from the voice journals to some rather eerie ghost-flashbacks. 
+ 
+  
+  Another aspect that I really enjoyed was the character customization options. From the beginning, 
+ you have the option of being a marine, a psi op, or a techie, each one offering different strengths- 
+ the marine is best for your FPS fan who wants to shoot things until they die, the psi op has the 
+ most options for creative gameplay with an expansive library of psychic abilities, and the tech 
+ is fun for finding all sorts of neat ways to hack things. Furthermore, the classes are not solid, 
+ so it's possible to have a hacker marine, or a techie who specializes in stealth psi-ops, or anything 
+ else you can come up with. This gives the game great replay value, and with co-op mode, it's even 
+ better. 
+  
+  Despite this game having an amazing storyline and said storyline being delivered in a spectacular 
+ fashion, it is not without it's flaws. As I said earlier, the gameplay is very difficult, and supplies 
+ are in short demand. But that makes sense, though, and in many ways makes the atmosphere much more 
+ menacing. Intellectually, it can be very taxing, as unlike Thief, hiding in the shadows does not 
+ make you invisible and the enemies can be very difficult to kill. Furthermore, the weapons tend 
+ to break after maybe 2 shots, a point that makes the game downright infuriating at times. Even 
+ so, these issues are what they are, and the game is overall a highly immersive experience. The 
+ problem is that sometimes these glaring problems get in the way of the fun, but in any end, as 
+ far as storytelling goes, this game is unparalleled. 
+  
+  Last year, Bioshock hit the market, as System Shock 2's spiritual successor. It is pretty much 
+ System Shock 2, the steampunk version designed for people who want to be able to beat a game without 
+ any real challenge. This seems to cater to a more mainstream audience as well as the storytelling 
+ in games junkies, but the side effect of that is making a gameplay atmosphere that is not all that 
+ scary. System Shock 2 was frightening because the enemies could hurt you, but with Bioshock, it's 
+ been dumbed down and simplified to a point where most logical thinking is removed from the game. 
+ Still, it's got the great storytelling aspects of System Shock 2, and despite it being a fun, creepy, 
+ and well rounded game, System Shock 2 will live on in my heart as one of the best implemented plots 
+ in a game, well worth playing by anyone, despite the difficulty being ridiculously frustrating. 
+ 
+::::::
+
+::::::
+UserName: Limowrecked
+Rating: 9.5
+Date: Feb 27, 2008 3:54 pm PT
+Review:  Back in that time there was a group of brilliant people called Looking Glass Studios who spent 
+ their time on making computer games. One of their creations is a phenomenon called System Shock 
+ 2. Game itself didn't make huge commercial success which is maybe the main reason why game creators 
+ didn't follow or developed the possibilities this game shown. But from beggining: u play as a space 
+ marine stranded due some accident on a space ship infested with aliens, crazy robots, and misterious 
+ A. I.. Many players complained about this game because of its difficulty level, weapon jamming and 
+ fast enemy respawn, and at this point it should be said: yes this game is difficult especially 
+ when u play games like half-life or quake and then u get the game where u really have to make your 
+ best to survive. On the other hand how stupid and unlogical would it be if u just would have to 
+ run around the ship killing everything as if u were walking death incarnation. Aside from pure 
+ FPS aspects of the game u get RPG style interface and character development system which is both 
+ fun and smartly done. U'll have a hard time deciding which skill or atribute u need to improve 
+ and believe me u'll need them all. Acting fast and thinking fast is the key in this game and u 
+ really have to know what u're supposed to do because simply going from point a to point b wont 
+ pass exam here. Survival as well as great story and sounds are keys to the unique stylish, creepy 
+ atmosphere, when u're traveling the corridors hearing sounds of alien infested humans walking near 
+ and listen to the memo recorded by the former crew members. This is really amazing that the game 
+ which was made almost ten years ago still delivers a blow which can easily knock out most modern 
+ games both in the terms of gameplay and story it tells and i know what i'm talking about i've played 
+ that game for the first time about 2 years ago. Then i returned to it less than a year ago n yup 
+ it was still sharp. 
+  What can i say? System shock 2 class games are really damn rare and its well worth playing just 
+ to take a look on how succesfull FPP/RPG hybrid can be. 
+::::::
+
+::::::
+UserName: Exiss
+Rating: 8.5
+Date: Feb 19, 2008 7:46 pm PT
+Review:  System Shock 2 was one of the final games designed by Looking Glass Studios, in partnership with 
+ Irrational Games. Known for their high quality games and knack for creating innovative titles, 
+ Looking Glass was responsible for the Thief, Ultima Underworld, and System Shock series. One year 
+ before the company folded up due to a financial crash, System Shock 2 was released in stores, but 
+ was forced to compete with Half-Life, released one year before. Sales were disappointing, but the 
+ game has attained the rank of cult classic over the years. 
+  
+  Act I 
+  
+  System Shock 2 features a clever storyline built from a common science fiction clich: Amnesia. 
+ Set some forty years after the first System Shock game, you have been serving society for three 
+ years in your selected field of expertise (Marines, Navy, or OSA) . You begin your fourth year by 
+ undertaking a mission aboard the first faster-than-light ship, the Von-Braun. Another starship, 
+ the Rickenbauker, is accompanying the Von-Braun. Something very bad happens during the journey, 
+ and you awaken from a cryogenic stasis to find that you've been given some illegal cybernetic modifications 
+ that improve your body in various ways. In the midst of your memory loss, you are immediately contacted 
+ at the game's beginning by the voice of a woman identifying herself as Dr. Polito. She urges you 
+ to seek her out and perform various tasks along the way, all the while avoiding and battling the 
+ evil that has taken a hold of the ship. 
+  
+  The graphics are rather underwhelming, but this is not such a bad thing for System Shock 2. Many 
+ of the game's environments thrive upon shadows and suspense. The graphics engine produces a foreign, 
+ artificial setting that plays upon the player's emotions. There is a sense of isolation and nightmarish 
+ detachment from reality while playing System Shock. Enemies are also frightening and disturbing 
+ due in part to the lower graphics. 
+  
+  Sound is a massive factor in System Shock 2. It is the most successful aspect of the game. The 
+ entire story is revealed to you in real-time through the collecting of private audio logs dropped 
+ by crewmembers and other people that had been aboard the Von Braun before, during, and after the 
+ eruption of complete chaos. The voice acting is top-notch. Computers and machinery whirrs, clicks, 
+ beeps, and hums. Adding to the eeriness of the game are the voices of your various enemies, which 
+ often speak strange, broken sentences, or erupt with hideous roars, screams, or moans when they 
+ catch sight of you. 
+  
+  Act II
+  
+  The gameplay of System Shock 2 was highly innovative for its time and remains so today, although 
+ other games have adopted its open-ended sandbox style experience. SS2 can be properly described 
+ as a hybrid of an Action FPS and an RPG. The game takes place in the first-person, and you are 
+ able to collect various items, weapons, and keycards while viewing them on a real-time inventory 
+ screen. 
+  
+  You earn special points throughout the game, designated as "cybernetic modules". These allow you 
+ to upgrade stats, learn new tricks, or improve your abilities. Following your choice at the beginning 
+ of the game, a Marine would naturally be moving towards skills with guns and maybe some technical 
+ skills like computer hacking. A Navy officer would have excellent technical skills but less in 
+ other categories. The O. S. A. agent has psychic abilities for starters, but lacks weapons and technical 
+ skills. The three branches can be focused upon heavily, moderately, or ignored altogether. Choosing 
+ a starting character type does not limit you game-wise. You can buy different abilities and change 
+ yourself into a character that has sufficient mastery of all three skill branches if you like. 
+ 
+  
+  Stealth is important in System Shock 2. Enemies are constantly respawning at random and there are 
+ security cameras that will set off alarms if they catch sight of you. If an alarm goes off, you 
+ must flee or fight for your life against endless charging hordes of enemies until the alarm timer 
+ runs out. 
+  
+  Weapons like guns break down over time in System Shock, requiring you to not only make every shot 
+ count, but to be moderately skilled with the ability to repair and maintain your weapons if you 
+ want to keep using them. Ammunition is also scarce and expensive on higher difficulties, which 
+ means you will have to conserve and choose your battles carefully. 
+  
+  Perhaps what makes System Shock 2 most appealing is the open-endedness of the game. You don't need 
+ to make yourself into a crazy marine with guns constantly blazing, although it is certainly possible 
+ (I've done it) , but not the smartest decision on higher difficulties. You could be a purely technical 
+ person, sneaking around, hacking security panels to shut down cameras and turrets, beating enemies 
+ into pulps with your trusty wrench. Or you could give yourself psychic abilities (those are fun) 
+ and fry your foes, make computer hacking easier, create force-fields, etc. Best of all is that 
+ you can combine all three (and you will) in any way that you like, and play through the game in 
+ practically any way that you like. 
+  
+  The replay value for System Shock 2 is pretty high. Being able to always construct a different 
+ character every time you play is a big plus. There aren't many hidden secrets, though, and the 
+ online multiplayer is very poor. However, as a single-player experience that can be enjoyed more 
+ than once, SS2 excels. 
+  
+  If you can get your hands on a copy of this game, I would recommend it, simply for the sake of 
+ experiencing an awesome, creepy, and entirely unique type of game. It will be worth your time, 
+ but be sure to look up configuration changes if you have a newer computer like an XP. I had to 
+ get a patch for my game before it would run on mine. After that, if you're still curious, there 
+ are also fan-made patches to the game that improve the graphics and other little things. Good luck!
+ 
+  
+  
+::::::
+
+::::::
+UserName: thepwninator
+Rating: 9.5
+Date: Jan 22, 2008 4:59 pm PT
+Review:  The game, though difficult, is extremely enjoyable, and the replay value is virtually unparalleled 
+ amongst FPSs. This is due, in part, to the stellar role-playing aspects of the game, as well as 
+ the sheer size and detail of the game world. The graphics, for the time, are very high quality, 
+ and the overall atmosphere of the game is incredible, as are the enemy and level design (except 
+ for one enemy, which had me in a rather "WTF?!!?"-ish state when I first saw it... damned cyborg 
+ midwives...) . 
+  
+  The only real problem I have with it is its final segment; the open-ended nature of the game is 
+ lost when you leave the Rickenbacker, thus destroying its greatest strength.
+  
+  The game can be rather difficult if you do not play it correctly, and, as such, it can be very 
+ frustrating to the player who simply picks it up. However, this problem is easily remedied, as 
+ the game is only around 12-14 hours long, and you will know if your character is disadvantaged 
+ almost from the offset. 
+::::::
+
+::::::
+UserName: Kraivyne
+Rating: 10
+Date: Dec 3, 2007 1:28 pm PT
+Review:  I am giving this game a late review, as I registered a new account on gamespot. This game is defiantly 
+ high up there with the greats, till now no single game has given me the thrill and adrenalin that 
+ system shock gave me and still does.
+  
+  I have played this game more times than I can remember and have yet to find a single crack in its 
+ perfect shell. Some might say I am going a bit "over the top" with the praise, but truth be told 
+ this is just a fabulous game.
+  
+  If you recently played Bioshock and thought it was amazing, go to the bargain bin of the nearest 
+ retailer and pick this up. You will soon understand where Bioshock gets its thrills and praise 
+ from.
+  
+  If you have played Bioshock then you have undoubtedly met the fabled Big Daddy, well hands down, 
+ System Shock 2 is just that... It is the Big Daddy .... hell its the whole family tree in comparison.
+ 
+  
+  Xerxes wants you to play this now! 
+::::::
+
+::::::
+UserName: Talonfire
+Rating: 9
+Date: Nov 28, 2007 2:03 pm PT
+Review:  1994's System Shock was a remarkable game, but it was also somewhat crude. It was little more than 
+ a glorified first person shooter with some freedom embedded in it for good measure. Irrational 
+ Games (known mostly for their latest release, BioShock) released a follow up in 1999, and I'm ashamed 
+ that it took me so long to actually bother and complete this gem of a title.
+  
+  Set forty two years after the hacker from the original game triumphed over Shodan on Earth's orbital 
+ space station, Citadel, you are a soldier who requested to be posted aboard the Van Braun, the 
+ first warp speed capable human vessel on its historical maiden voyage. When the Van Braun discovered 
+ a strange life form at Tau Ceti V something went wrong causing a wide scale crisis on board turning 
+ the historical vessel into a derelict ghost ship, with very few survivors. You are alone, and sixty 
+ seven trillion miles from Earth. System Shock 2's story is a seemingly hopeless survival story 
+ that plays the horror card very well since it focuses more on the psychological aspects of the 
+ genre than wall busting, leap out of the shadows and into your face (Doom 3) horror. While the 
+ story isn't deep by any stretch of the word, it is well written and doesn't cheapen the lonely 
+ and desolate atmosphere.
+  
+  System Shock 2 plays like a first person shooter with role playing elements, because that's essentially 
+ what it is. You have generic stats such as strength, endurance, agility, etcetera as well as weapon, 
+ psionic (System Shock 2's version of "magic") , and technical skills that you upgrade with cybernetic 
+ modules that you obtain over the course of the game. Since it's a shooter as well, you get a wide 
+ array of weapons to play with... unfortunately the ridiculously fast rate in which ranged weapons 
+ wear down and break makes melee weapons far more appealing. I did not care for the weapon deterioration 
+ system.
+  
+  System Shock 2 provides you with a variety of horrific enemies (and some, not so horrific, like 
+ the kamikaze protocol droids) that wander the decks of the Van Braun. Unfortunately, despite the 
+ fact that they WILL follow you no matter how far you run (except when you enter another area) the 
+ AI seems to be somewhat lacking. System Shock 2 uses the same engine as Thief: The Dark Project, 
+ and Thief II: The Metal Age which both had brilliant AI, so this is somewhat puzzling. There were 
+ several times when I just wandered past enemies and they did not move to engage, or even act like 
+ I was there. But despite the occasionally crude AI, tripping an alarm by getting caught by a security 
+ camera will summon forth an infinite amount of enemies for as long as the alarm timer is counting 
+ down, and the enemies spawned by that trigger won't ignore you.
+  
+  Visually, System Shock 2 is definitely outdated. It uses the Dark Engine, so you've got hybrids 
+ with no noses, ugly models in general, and low resolution textures. Even for its time System Shock 
+ 2 was not a particularly nice game to look at, it wasn't until Thief II's revision of the engine 
+ in 2000 that the visuals of the technology were even remotely on par with the other games of that 
+ era.
+  
+  While the graphics were mediocre, the audio was exceptional. Featuring top of the line voice acting, 
+ an ambient and techno musical score, and horrific sound effects SS2 has an amazing sound track. 
+ Whether it be the creepy atmospheric musical score playing in the background as you explore the 
+ Van Braun's cargo bays, or the monstrous voices of the hybrids as they stalk you through the corridors 
+ SS2 does a great job with bringing its world to life through audio.
+  
+  System Shock 2 is a cult classic for good reason, it's a superb game with a great combination of 
+ FPS and RPG gameplay, a compelling enough story, and an atmosphere that would make Resident Evil 
+ quake in its disc case. It is by no means perfect, but then is any game truly perfect? It took 
+ me a few years to sit down and actually bother and play through the entire game, but now that I 
+ have it was well worth it even if it is outdated by today's standards. 
+::::::
+
+::::::
+UserName: Azkotek
+Rating: 8.5
+Date: Sep 27, 2007 10:54 pm PT
+Review:  When system shock 2 came out in 1999, I learned about it after reading an article in a PC gamer 
+ magazine. I wanted this game real bad.
+  
+  I bought it, paid a full 60 canadian bucks in a future shop, came back home and played.... and 
+ played... and played.... and played.
+  
+  System shock 2 hooked me. The gameplay was so fantastic that it kept me playing for hours and for 
+ days and weeks. This game belongs to the category we call FPS/RPG hybrids which means your sight 
+ is in first person and there is a character build-up system to it. SS2's story is set in a derelict 
+ spaceship overunned by parasitics creatures which borded it after it landed on a planet. You wake 
+ up with no memory of who you are or what's happening and a ''surviving'' crew member briefs you 
+ and gives you directions. And then... the adventure starts!
+  
+  To complete your tasks you have an array of weapons, skills and enhancements which can be upgraded 
+ to you liking and to suit your playing style: you prefer hacking turrets rather than destoying 
+ them? fine. make sure to upgrade your hacking skills! You want to research creatures organs to 
+ learn how to kill them efficiently? Upgrade your research skills!
+  
+  Without telling too much about it, if you've played games like Deus Ex 1 and 2 or bioshock and 
+ loved them, you'll be pleased by System Shock 2.
+  
+  On the minus side, the graphics: they were already dated for the time, using the thief 2 engine, 
+ so today they're quite ugly.
+  
+  If you're planning on getting the game, make sure you download fan stuff that make it look better 
+ like the Rebirth mod which changes character textures and others mods which enhance texture resolution. 
+ Make sure to look out for a way to make it run on WinXp: get this info on fansites. 
+::::::
+
+::::::
+UserName: BattleSword1
+Rating: 9.5
+Date: Sep 30, 2008 8:05 pm PT
+Review:  This is definitely one of the best games out there, whether GameSpot knows it or not. SS2 is a 
+ phenomenal game with an unusual plot and complex mechanics. It's a gritty and twisted first-person 
+ shooter that combines RPG elements with the FPS premise that makes it famous. The game may seem 
+ dated, but it's still spectacular. In fact, it's a Halo-killer in its own right. 
+  
+  SS2 is a good bit similar to Deus Ex in visual style and plot. When the game was first released 
+ in 1999, the graphics were unbelievable. Hell, they still aren't bad-looking - the environments 
+ are still good-looking and the character models are great. 
+  
+  One important note about the game is that, after almost ten years, it's still freakin' scary. The 
+ levels have a dark atmosphere of death and despair, you'll find corpses strewn about and gore splattered 
+ everywhere, and the violent ambushes performed by hideously mutated enemies will scare you s***less.
+ 
+  
+  Any way you look at it, shooter fans and RPG fans alike will find something to love in SS2. Even 
+ though it's almost ten years old, it's still one of the most incredible technological achievements 
+ ever. These days, copies are cheap - I would strongly advise any PC gamer to try and get a hold 
+ of System Shock 2. It doesn't disappoint. 
+::::::
+
+::::::
+UserName: DarkPhoenix142
+Rating: 9.5
+Date: Aug 31, 2007 9:38 pm PT
+Review:  Personal Comment:
+  I had heard of System Shock 2 a long time ago, but I never played it since I was a total WUSSY 
+ back then and didn't like the fact that it had a reputation of being scary. After playing it though 
+ I found an amazingly cool and revolutionary FPS+RPG hybrid.
+  
+  Review:
+  You are a normal guy who starts off going to join the military, picking from one of 3 different 
+ careers. Those are Marines (Good Weapon abilities and Health) , Navy (Good at repairing and Hacking) , 
+ And the O. P. S. or something like that (Prefer Psi abilities) After a 4 year program you find yourself 
+ on board the Starship Von Braun where something has gone wrong. You quickly find that a infection 
+ has spread to nearly everyone on board. So its your job to out-smart the A. I. Xerxes and find a 
+ way off the ship. All along the way you'll encounter numerous terrifying and down right scary creatures. 
+ Zombie-like Hybrids, Evil Psi throwing monkeys, all kinds of creepy enemies await. You'll also 
+ encounter spooky apparitions and freaky voices. The apparitions make you feel sorry for the victims 
+ since they are cursed to go through their deaths for all eternity and the voices just plain freak 
+ me out. You don't have to worry about having sucky aiming or low as hell health, unlike Deus Ex, 
+ since you can upgrade your body's Bio-Metrics using terminals to upgrade Psi, Tech, Weapon, and 
+ Logic. Each one boasts a different number of upgrade options, like increased hacking capabilities, 
+ better accuracy, Harder hitting with blunt weapons, repairing weapons, and numerous others. However, 
+ to upgrade yourself you need to find some hard to get Upgrade Modules. These are gained from finding 
+ them on dead bodies and completing objectives. This is what sets SS2 apart from just your run of 
+ the mill FPS. These upgradings make it a bit more like an RPG and add a lot more depth to it.
+ 
+  
+  Make sure to get the special texture upgrade mods for SS2, just look around on Google or Yahoo! 
+ and you'll find them.
+  Conclusion:
+  If you're a fan of RPGs or FPSs you'll enjoy System Shock 2 and if you've played Bioshock but not 
+ this, what are you waiting for? Go out and get it.
+  
+  Pros: Deep and creepy story, Great combination of RPG and FPS, Atmosphere is just perfect, the 
+ way the enemies react is just plain freaky, scares abound, nearly endless customization and Psi 
+ abilities.
+  
+  Cons: Unless you get the Texture upgrade mods the graphics look pretty bad 
+::::::
+
+::::::
+UserName: SeanReuben
+Rating: 7.5
+Date: Aug 2, 2007 4:02 pm PT
+Review:  I played half life simultaneously with this and when I got to the final three stages it seems like 
+ a complete rip off of each other that I got bored almost playing either game. But System Shock 
+ 2 seems like a role playing game only in its deliberately slow pacing. For the most part, its at 
+ a heart an FPS, and quite linear at that. This game is scary but only because its alien life forms 
+ look weird and it mixes organic horrorbloodfest with maniac computer. Nothing new here. The midwife 
+ is by far the scariest enemy but the rest look hardly threatening. You also fight robots, that's 
+ cool. There are special powers but doesnt mean most of they will be useful, only like 75% for most 
+ of the time. This is not a classic in my opinion. the polygon count is unnecessarily low by todays 
+ standards and render faces and bodies quite primitively. you can lots of stuff within this game 
+ but only it seems within a confined spaceship and within a short linear time. 
+::::::
+
+::::::
+UserName: rhcpvisigoth
+Rating: 9.7
+Date: Jul 28, 2007 6:13 pm PT
+Review:  I played SS2 after a very long time, and I have to admit, I got SCARED. I'm not talking about scary-movie 
+ scared, but actually **** The gameplay, the concept, the MUSIC... it all creates the kind of game 
+ environment that you just never want to leave. The story line is action-packed and aggressive, 
+ though I thought that the starting levels had a little too much of  
+ kinds of errands. Nevertheless, it all amounted to a game experience that I'll never forget.
+  
+  The GRAPHICS are okay enough, though a lot of characters, even the protagonist, look squarish 
+ , but considering that the game was made in '99, that's not exactly bad. On a high-end gaming rig, 
+ the game might look ever better...
+  
+  The MUSIC does more that to just immerse you in the game... it makes you feel what SHODAN wants 
+ you to feel. For those who know what SHODAN is, they will agree that it/she is probably the most 
+ memorable and mind-numbingly terrifying character ever made. The voice of SHODAN instantly gives 
+ you the feeling of imminent danger and impending doom.
+  
+  I don't know exactly what to say about this game. Sure, there are a lot of games like Half Life 
+ and Deus Ex that try and do what SS2 is doing, but that's just it... those games aren't SS2. 
+::::::
+
+::::::
+UserName: sandyqbg
+Rating: 9.1
+Date: Jul 20, 2007 6:56 am PT
+Review:  Here is a game that is worth playing, inspite of the fact that it was released in 1999. I would 
+ even say that is fsr better than a lot of new games out there.
+  
+  GRAPHICS:
+  
+  When you compare it with the ultra-realistic graphics that the modern games have to offer, it falls 
+ way off the elite zone. But when for a game released in 1999 it is pretty good. Either way one 
+ must remember that graphics is not everything.
+  
+  SOUND:
+  
+  Ah! Scores good here. The background music is just perfect... keeps your concentration focussed 
+ and the pulse racing. The in-game sounds like the shouts of monsters just fits in - not too much 
+ to talk about. In other words the same as in other game. And then there is the in-game instructions 
+ and recordings, clear and apt.
+  
+  STORYLINE:
+  
+  Now, this one's good. The game is set well in the future-in the 22nd century. You start with memory 
+ wiped out and fitted with various implants aboard the starship Von Braun. You are helped (In other 
+ words, given objectives) by Dr. Janice Polito on your way. In this your main enemy will be a group 
+ of Extra-Terrestrial life form that invades the human body called The Many. As wander the corridors 
+ of Von Braun you get to find a number of message logs, through which you come to know of what has 
+ happened to the ship and the whole story unravels. What of SHODAN from the original System Shock? 
+ You have to play the game to find out.
+  
+  GAMEPLAY:
+  
+  The gameplay is really innovative. It is a Sci-fi RTS/FPS combo. The game has an intense plot that 
+ is well supported by the eerie atmosphere. The ultra-futuristic gadgetry and implants are something 
+ that make the game all the more unique. These RTS/FPS games are usually based on magic and not 
+ on Sci-fi and here is where SS2 stands out.
+  Coming to the game atmosphere, I have to really say that it is somewhat creepy. After some encounters 
+ with the enemy you'll soon find yourself turn frantically around and try to find a safer place 
+ at the slightest sound or movement (In the game, I mean) . You won't find armies of the enemy or 
+ even a wide variety, but within some time you'll feel that this is more than enough. The AI is 
+ good.
+  Now, for the RPG aspect. You will earn Cybernetic Modules (Fancy name for Level points) , as you 
+ complete the objectives, which you can assign to any of the 4 character attributes. Don't be hasty 
+ while assigning the Modules to your attributes. Think twice and assign them to what is actually 
+ necessary. These points are a bit hard to come by.
+  Cons: The game tends to get monotonous after a while, especially with very similair surroundigs 
+ and lack of monster varieties.
+  
+  FINAL VERDICT:
+  The blend is just right and the plot is well done. It might be an old game but is well worth to 
+ be tried out. 
+::::::
+
+::::::
+UserName: Helena73
+Rating: 9.6
+Date: Jul 10, 2007 8:51 am PT
+Review:  I can't say I'm a real shooters fan. I don't like running around killing things.
+  However, for this game I am willing to make an exception. The story is very thirilling, apocalyptic 
+ and real scary in some parts. There's something lurking everytime you turn the corner. Something 
+ evil that becomes a pleasure to kill.
+  The sound of the voices in this game were really creepy and you get a feeling of survive or get 
+ mutilated and eaten.
+  
+  I believe that a game becomes a classic when it is able to bring out some emotion from the player. 
+ The game was a total rush and kept me on the edge of my seat right to the end.
+  I'm looking forward to more shooters like this one. 
+::::::
+
+::::::
+UserName: FEPowered390
+Rating: 8.2
+Date: Jul 6, 2007 1:54 am PT
+Review:  I just finished dumping about 8 hours into system shock II.
+  
+  I must say, that game is obviously where Deus Ex, and other various games get there ideas.
+  
+ 
+  It was a real neat treat playing it. It's too bad I had to play Deus Ex first, because some of 
+ it seemed like a replay - but not exactly. Not only do you have guns, you can fight with special 
+ PsI powers, use hand objects, etc.
+  
+  Let me first say that usually, I start games on medium mode when I get the choice. But, after 6 
+ hours of medium gameplay, I just decided to lay it out. It's simply, too hard at medium gameplay 
+ for the first time through. Don't get me wrong, there is nothing wrong with a challenging game, 
+ I just wish that I had set this on easy before beginning.
+  
+  I thought it was some-what scarey. Your walking... all of a sudden you hear a loud noise, and a 
+ robot clunks up behind you and starts blurbbing something, then explodes.
+  
+  One thing I didn't like, is that sometimes, it seemed like you can't ever secure a room. You'd 
+ walk off in another area, complete it, come back... and it's crawling with goodies again. There 
+ is nothing wrong about this, there IS when on medium mode, there is a scarcity of resources... so 
+ soon, you are fighting with a crowbar... because most of your items are broken.... and you dont have 
+ the right ammo because your all out to fight certain objects- (Robots take AP projectiles, ETC)
+ 
+  
+  I played this game using the high-res patch, and the graphics were pretty decent.... no complaints 
+ here about graphics, sounds, or controls... very highly playable.
+  
+  It's innovation is its BEST feature. Everything, including objects, etc seemed pretty new and fun... even 
+ to this day. Elevators that are just made of an air current, etc. You walk around, finding PDA's, 
+ its just like Doom III in that since.
+  
+  During my 6 hours of gamplay, I did not see much that attributed to an RPG . I would argue against 
+ it being an RPG. Yes, you can build up your charactor a certain way, but the story line so far, 
+ would be the exact same way everyway through.
+  
+  One other complaint is the quick save option. It only works when your playing the game. So, if 
+ you shut it down.. and start it back up later... you loose everything you have. Which, is actually 
+ a big deal, because we are so USE to using quick save. I spent alot of time actually on this game 
+ just getting back to where I was... it was alittle irritating. Make sure to push ESC, then actually 
+ really save it before quiting, because you WILL forget!
+  
+  Sometimes, I'd like to think there was just too much options to make yourself into. You could make 
+ yourself into this PSI monster, but you can't really use weapons that well.... especially repair 
+ them because they fall apart too fast. I tried to make my charactor very borderline for PSI, but 
+ able to use small arms really good... and I still was having trouble because I didn't have enough 
+ points to be able to repair my weapons, and my PSI was lacking for being borderline . So this means, 
+ that there may be too much options to really keep up with the game. It might be good to stick with 
+ one thing, as with most open ended skill point games . A good comparison of what I am talking about 
+ is building a necromancer in Diablo 2. Only stick to a couple skills.. such as Bone and Summon... or 
+ Summon and Bone. if you do everything, your Necro will be weak. Best weapon I found out is the 
+ crowbar.... it doesnt fail, its just as strong as the firearm.. and it works on everyone... why not?
+ 
+  
+  Conclusion: Overall, this game is a MUST have. It's free, and its the backbone of most of these 
+ SCI-FI shooters that we have today. Is it better than Dues Ex? Not a chance. But if you had fun 
+ with Deus Ex, you will have fun with this game. This game again, is innovational. Nothing is conventional... which 
+ makes this a very unique sci-fi shooter.
+  
+  Pros:
+  
+  *Highly Innovated.. It's the Blade-Runner or 2001 of Sci-Fi movies
+  
+  *It's Freeware.. you can't 
+ complain.
+  
+  *Lots of different skills/weapons you can be
+  
+  *Scarey in alot of spots
+  
+  Cons:
+  
+  *Quick Save Option only saves while you are in the 
+ game. Don't forget to do a FULL SAVE before you exit.
+  
+  *Somewhat a long learning curve
+  
+  *Difficulty is too hard for medium settings your first time through.
+  
+  *Storyline is non-changing..
+ 
+  
+  *Intro seems alittle too drawn out.
+  
+  *Weapons become dysfuntional too fast... would be nice to have a few more skill points at first 
+ so you can be more multi-skilled .
+  
+  System Shock 2 brings a nostalgic sci-fi experience with many hours of fun gameplay. Best of all, 
+ it's free. 
+::::::
+
+::::::
+UserName: ivory_soul
+Rating: 8
+Date: Jun 23, 2007 2:11 pm PT
+Review:  The Good: Blends RPG and FPS elements nicely, decent story, can be creepy
+  
+  The Bad: Dinosaur age is a real eye sore, clunky menu layout, default controls are awkward, Doesn't 
+ explain things clearly
+  
+  SS2 came out around when HL1 did and for some reason this game just feels EXTREMELY old and that 
+ really breaks the experience down. The menu is also pretty clunky and there are a lot of times 
+ when you pick up an item and have no idea how to use it. The RPG elements are nice but it just 
+ was done right here. I played maybe an hour of this game and just got rid of it. The game is a 
+ nice experience especially if you're waiting for BioShock. The voice acting is good and the story 
+ is decent but this game being almost 10 years old just really turned me off from it. 
+::::::
+
+::::::
+UserName: MajinBuXL
+Rating: 9.7
+Date: Jun 15, 2007 8:22 pm PT
+Review:  System Shock 2 is truly a unique experience. You won't have to play the outdated first episode 
+ to truly enjoy this masterpiece. Although even now such a game would be considered too old for 
+ some gamers, it will never lose its place along side of the greatest games ever made.
+  
+  The story, to put it in short, is extremly fascinating yet revolutionary in my opinion. I believe 
+ it sets the standard and served as an example for other games to come. I don't like to give out 
+ spoilers so I won't explain any plot to you, you'll have to enjoy it yourself. You will believe 
+ me when I say it's immersive, entertaining, scary and even innovative in many ways.
+  
+  The gameplay is also very fun. All I'll say is that you will be a genetically inhanced human being 
+ with the ability to increase your potential in mutiple ways. Your enemies will try to stop you 
+ around every corner and maybe your salvation will be a step closer if you succeed in defeating 
+ them. But only if a certain someone agrees to help you out..... This title is a must for every 
+ gamer out there. It ranks up to Doom, Half-Life, Quake and every other classic game out there. 
+ You can't really appreciate today's games unless you finished System Shock 2 at least once. The 
+ length of this game makes it even more enjoyable. Tons of hours of entertainment packed into this 
+ amazing title.
+  Enjoy the ride. 
+::::::
+
+::::::
+UserName: 401225
+Rating: 8.9
+Date: Jun 14, 2007 6:24 am PT
+Review:  Okay, System Shock 2 maybe dont have incredible graphics but that doesnt cares so much, the real 
+ reason that makes this game cool its because its gameplay, the creativity, and also things that 
+ you can make here, there are implants, enemies, expended maching, hacking of a lot of systems and 
+ his challenging dificulty, sometimes you will need more the ammo than the health in this game also 
+ we must use our brain to resolve some obstacules that we will found in our way, like get a door 
+ key, hacking security crates, system, machines, cameras and a lot of variable stuff around there. 
+ XD
+  
+  Enjoy!!!!!!!!! And  
+ 
+::::::
+
+::::::
+UserName: kryomorph
+Rating: 9.3
+Date: Jun 1, 2007 8:44 am PT
+Review:  Yes, this game has something ... something that makes me say SUPERB.
+  
+  The hybrids, the spiders, the worms, and of course the rumblers ... they are frightning ... really 
+ frightning. Just finnished this great game and scared me a lot ... Those sounds were terrifying. 
+ But where is the thrill in a game, if you're not afraid to look what's behind a door or a wall? 
+ What a rush of adrenaline runs your veins when you find yourself in a room with monsters and your 
+ weapon jams, or you run out of ammo.
+  
+  Great game ... Waiting for System shock 3 (BioShock ???) 
+::::::
+
+::::::
+UserName: Idiom
+Rating: 9.5
+Date: Mar 10, 2007 4:53 am PT
+Review:  *** Be sure to get the mod pack that improves the graphics***
+  
+  System Shock 2 is one of the few games in this genre (RPG/FPS/Adventure hybrid) sharing the space 
+ with games like Deus Ex. So if you've played Deus Ex you'll have an idea how the game works .
+ 
+  What really makes System Shock 2 unique is the way it pulls everything off so well: The RPG element 
+ is well developed with a limited number of upgrade modules that can be spent in 4 different areas, 
+ including weapons proficiency /skill, physical attributes, Hacking abilities, and psychic abilities. 
+ There are numerous ways you can develop your character and get a quite different playing experience. 
+ Comparing this to Deus Ex it makes Deus Ex's RPG element look like a redundant bolt on. The adventure 
+ element is superb, its a well executed cyberpunk horror that keeps you guessing, updating the story 
+ along the way with the obligatory data pads and also communications from your mysterious helper. 
+ Each section of the game is something new so the story never gets old and you constantly have the 
+ feeling of being on the edge with unknown horrors ahead.
+  
+  The FPS element is perhaps more rudimentary than it might of been in some ways but in others its 
+ also quite advanced, there is a large array of offensive weaponry and capabilities, the effectiveness 
+ of which are determined by your respective Skills/Cybernetic upgrades in that area. the firepower 
+ (or lack of) goes a long way to upping the suspense and atmosphere of the game, you're constantly 
+ low on ammo and having to use you're whole array of weapons A) because you simply run out of ammo 
+ on the gun you want to use B) because different guns and ammo types have vastly different efficacy 
+ on different targets. One thing that does feel a little artificial though and is a pain in the 
+ butt is that your guns are constantly degrading in condition and breaking, so you either need to 
+ be skilled in repair to fix/maintain them of just plain carry a load of guns of the same type so 
+ you can swap out when they brake - its unrealistic because in real life you might expect to fire 
+ thousands of rounds from a pistol like a glock without need for maintenance or it breaking where 
+ as in the game you might get a dozen shots.
+  
+  What really makes the game, as i've said it the way these elements mesh together and support each 
+ other, they don't feel like separate elements but just part of the whole which is the game.
+  
+  Superb. 
+::::::
+
+::::::
+UserName: FistandantilusX
+Rating: 9.4
+Date: Feb 21, 2007 5:41 pm PT
+Review:  Everywhere you turn, you here people proclaiming the merits of new next-gen shooters just because 
+ they have prettier graphics or a better physics engine, but the majority of these same people have 
+ never even heard of System Shock 2, let alone played it. In my opinion a next-gen game is defined 
+ by gameplay rather than graphics which seem to define the modern next-gen . I have yet to play 
+ another game which can match the complexity and depth of SS2. The saddest thing about System Shock 
+ 2 is that it never recieved the publicity that it deserved, yet finally it is getting some publicity 
+ because of Irrational's next deep game, Bioshock, which may get the publicity that System Shock 
+ 2 never got. 
+::::::
+
+::::::
+UserName: terrorsound
+Rating: 10
+Date: Feb 1, 2007 7:39 pm PT
+Review:  I have to say this game really struck me as my all time favorite. I compared this game to Half 
+ Life1 and 2, all Resident Evil, all Halo, etc.. All my favorite games, regardless of genre, next 
+ gen.. All that marketing buzz word crap.... System Shock 2 still won hands down to this day. The 
+ exploding robots, crew members hanging by ropes, the ghosts that roamed the deck of the von braun, 
+ the recordings of dead crew members, the many, shodan, turrets, bio add ons, the mini games, comeon!!!! 
+ Just pure genius!! No one to this day can touch the atmosphere SS2 has.. I still play it with the 
+ newer skins and it still rules, how can you improve on the formula of the many coming at you with 
+ pipes and shotguns, taunting you to join them as they shoot you or beat you to death!!! Just brutal... 
+ Bring on the next gen whatever, it still does'nt matter.. SS2 had the golden fleece and ran with 
+ it, so far no one has caught up.. Game developers to this day, if they are lucky may land a good 
+ balance, may come close to Ted's genius but I doubt it.. Mr Levine you rock, EA 'aka the cube' 
+ did'nt have a clue, they still don't to this day..
+  
+  Ted Levine and company, Thanks for sacrificing to get SS2 out there, you have made your mark and 
+ we the true PC gamers salute you for it, the corp morons will never get it, they'll never come 
+ close, money does'nt equal talent, talent equals godliness.. It has been written, it is done!!!! 
+ 
+::::::
+
+::::::
+UserName: ninjagaijin10k
+Rating: 10
+Date: Dec 27, 2006 2:09 am PT
+Review:  This game is a masterpiece of horror gaming. It is the Aliens of video games.
+  
+  I don't think I've played anything scarier. Sure, it's not a slasher, it doesn't have a lot of 
+ the horror shticks, but this is brilliantly scary.
+  
+  There is nothing freakier than that crazy multi-voice thing whispering to you after having some 
+ ugly critter jump you and you're almost out of hit points and ammo and already really jumpy.
+  
+  Newer survival horror games don't really have anything on this game. This game is the acid 
+ standard. If you like scary games, play this NOW.
+  
+  In addition, the gameplay is awesome too. There are role-playing aspects as you develop skills 
+ and find clues and enhancements. You do all this on a big scary ship that just scares the s$#t 
+ out of you. 
+::::::
+
+::::::
+UserName: ZeaLocKe
+Rating: 9.8
+Date: Nov 19, 2006 12:31 pm PT
+Review:  Pros: Terrific ambience, good sound, lovely inventory interface and shoot mode/use mode interface, 
+ excellent mob AI.
+  
+  Cons: Some weapons shoots could be more fiery, a little lame weapon sounds (when u reload specially) , 
+ unique game ive seen that when u became invisible u are still visible to u.
+  
+  This game is one of the most amazing games i played on my gamer career, actually is the one that 
+ most surprises and hard moments gave me. If u are looking for a resident evil + doom + any rpg 
+ type game then look no futher. This is a game that makes u turn it off cause u are too scared, 
+ moving up VERY slowly looking around all the time and that sometimes u freeze out when u hear somethin.
+ 
+  
+  In deep analysis:
+  
+  Gameplay: Excellent, fast wep changing, excellent movement that is affected by stats (if u dont 
+ think so , try using a speed booster and move) . Lean movements, amazing interface, u can order 
+ ur items very easily. Also, this game is very, VERY large, and the creepy fact will not let u finish 
+ it fast AT ALL.
+  
+  Multiplayer games are also very exciting, u must rely on share resources and use each chars main 
+ abilities to survive. Sadly, and because this game is a little unknown, there isnt the number of 
+ players u would want to be available to play.
+  
+  Fights with monsters are quite energetic (specially if u are taken by surprise or ambushed by security) . 
+ And depending on ur build u can make various types of char depending on a class with various types 
+ of weapons usages
+  (Melee type is very fun) .
+  
+  Graphics: For a game on that times is very very great, however, some weapons shoots look much weaker 
+ that should be and lots of players missed some more gory reactions when u fire a grenade to an 
+ hybrid (come on, u shoot a grenade and the hybrid just fall to the floor slowly??!)
+  
+  Sound: The best aspect is the sound, u will be paranoid from machinery sounds to hybrid&acute; s 
+ grunges. I specially recommend using headphones for a better (and scarier) experience.
+  
+  Value: Invaluable xD. As i said before, this game is an unknown classic, it should be at top with 
+ very great games like quake 2 or unreal. Get it now! 
+::::::
+
+::::::
+UserName: Irate_Hobbit
+Rating: 9.3
+Date: Nov 15, 2006 12:27 pm PT
+Review:  This is more of a look-back review and overview of SS2. Upon playing this classic again recently 
+ during the summers game dryspell, I still felt it is one of the best ever. I'm not one for nostalgia 
+ or retro normally. I hate XBLA for example. Of are like me and you can start up a PC game that 
+ was made pre-2000 and enjoy it alot, that says something. Thanks to EA's stubbornness you'll have 
+ to buy a used copy of this if you want to play it today. Patches will allow it to run on XP/2000. 
+ Another patch ads Multiplayer although I never tried it. Ironically, the value of this game is 
+ quit high indeed if you have a legit copy. Goes for as much as 70$US in some places. Also some 
+ of the later patches can stifle the supidest feature of the game... degrading weapons (nanites and 
+ such ok, still a dumb feature) . Also a texture upgrade that improves the look. I tried to review 
+ the scores here as if it was 1999 though. The big cult following this game has is due to the uniqueness 
+ and sci-fi horror. You may pick one of 3 classes early which will pretty much dictate how you play 
+ the game. Use guns and attack directly, hack your way through computer systems, or use a PSi power 
+ to get through. A blend of 3 may be used. 2 very interesting enemies in this game, and you are 
+ all alone except for the recorded dialogue of the dead crew of the Von Braun spaceship. The story 
+ and level design is great. Although you will be left your own devices sometimes in an overwhelming 
+ way. That much is typical of games from this era. Tp wrap up the game review, if you have patience 
+ to get this working on your PC and want to experiance a gaming classic, its a must play. The feel 
+ and immersiveness of this a game like this doesn't come along too often.
+  
+  Without System Shock 2, you have no Deus Ex. Though that franchise went from awesome to a lesser 
+ and heavy console influenced game to an eventual absolute garbage in a spinoff title I can't even 
+ remember. So perhaps if EA was blowing smoke about making SS3 and decides not to go through with 
+ it, it is for the best at this point. Though without EA making a System Shock 3 you will not likely 
+ see a reason for them to re-release this game as they should have been doing. Maybe as an unlockable 
+ bonus on XBLM for 15$ or in the PC special edition for $60. Regardless, they will make it expensive 
+ enough to make it worth their while. Perhaps it is of more value to EA in limited circulation and 
+ cult fandom for publicity for SS3. Don't be suprised. The decisions of what is to happen to this 
+ franchise are not made by gamers or people who make games (EA corporate) nor was it ever and thats 
+ how those people think. After all, they were dumb enough to bury it in the first place. Failing 
+ replaying this game. Keep an eye out for BioShock next year. SS2's sequel in spirit. 
+::::::
+
+::::::
+UserName: ziegd
+Rating: 9.4
+Date: Oct 6, 2006 3:25 pm PT
+Review:  Rather than re-iterating all that's already been said about System Shock 2, I'm going to keep this 
+ short. If you're a hard-core gamer like I consider myself to be (I've played well over a hundred 
+ PC titles) , then you'll know that there are few games that stand out as exceptional. Consider those 
+ that are truly revolutionary, and the list grows even smaller. My benchmark is simple... if I had 
+ to pick 5 games to take to a desert island, what would they be? (Of course, I'm assuming I'd have 
+ an unbreakable PC, unlimited power supply, no Internet connection, and pizza and rum punch served 
+ by brown skinned island girls, but that goes without saying.)
+  
+  Well, as you might have already guessed, System Shock 2 would be on that list. A lot of people 
+ would probably disagree, but for my part, each game in such a selection would have to be two things: 
+ incredibly immersive, and highly re-playable. In my humble opinion (which I respect) , System Shock 
+ 2 has both those qualities in spades.
+  
+  'nuff said. 
+::::::
+
+::::::
+UserName: Yakkabe
+Rating: 8.4
+Date: Sep 5, 2006 5:32 pm PT
+Review:  Every now and then, a friend of mine points me at a bizarre game that I've never heard of, and 
+ when I sit down to play it, it promptly kicks my ass and steals a good 20 hours of my life. This 
+ time, however, it was all my little brother's fault.
+  
+  I'll admit, I never played the first one, but after watching the introduction I could tell it hardly 
+ mattered. The events of the first game were summed up in the first two lines and after a brief 
+ overview of the game I was about to play, I was all set to go.
+  
+  In System Shock 2, you are a soldier who was apparently recruited at the last minute to serve as 
+ security on board the Von Braun, the first starship capable of faster than light-speed travel. 
+ After a somewhat confusing sequence detailing some emergency surgery, you emerge from a cyrogenic 
+ sleep to discover that something on the ship has gone horribly wrong. Armed with nothing more than 
+ a wrench you find lying around, you soon begin to encounter humans infected with some sort of parasite. 
+ As you try to get power restored to the elevators without the main computer knowing it, the happenings 
+ aboard the ship begin to reveal themselves through the audio logs of the terrified and now most 
+ likely dead staff, and you slowly begin to realize the true magnitude of what you're up against.
+ 
+  
+  The graphics of System Shock 2 are pretty mediocre. The environment is pretty cool, but occasionally 
+ dull since you never actually leave the ship. The character models, however, are rather lousy. 
+ The hybrids you face are blocky and bland, while the humans you find suffer from what I call "triangle 
+ feet." There is some good news, however. A mod was made that greatly improves all the worst character 
+ models, so although they don't really move more or change their facial expressions, they do look 
+ much cleaner and even a bit scary.
+  
+  The sounds, on the other hand, were dead-on. There was a wide array of voice-acting for all the 
+ audio logs, some coming out kind of bland, others, dare I say, frightening. The weapons are great, 
+ and make different noises depending on the surface they hit. In addition, nearly every enemy you 
+ face will try to talk to you. Some hybrids moan about the joy of The Many, while others will try 
+ to warn you, and beg for death when injured. On the other hand, C-3PO-like protocol droids will 
+ continue their charade of helpfulness  "Sir! I believe I found what you're looking for... where 
+ did you go?"  right up until they get close enough to take you out in a suicidal explosion.
+  
+  Throughout the game, you find a VERY wide array of weapons, reaching from your ` key out to 
+ the equal sign, and you can load several weapons with different types of ammo, for armor piercing 
+ or other purposes. Most weapons also come with an alternate fire, and leaning is even allowed.
+ 
+  
+  It's not all a shooter, though. In many RPGs, I find that the game is hard at the very beginning 
+ until you can get a few level-ups, then it becomes super easy for a while, then you get to a certain 
+ badass boss and have to go back and level up a few more times. Other times, it just becomes easy 
+ throughout the entire game. That didn't happen here. This shooter has a level-up process, which 
+ works not by killing opponents, but by using cyber-modules, which can be found by exploring and 
+ are also awarded to you for completing objectives. On easy, you could probably get away with just 
+ wrenching everyone to death, but on the harder difficulties, you will need to upgrade your stats 
+ and skills, which consist of weapons proficiency, hacking, repairing, and a few others, as well 
+ as a well-devloped "psy" stat, which allows you to perform all kinds of both useful and incredibly 
+ pointless abilities. I'm not so sure anything in this psy list is worth the points you have to 
+ spend on them to get anything good, though.
+  
+  One bizzare thing about this "RPG" is that there are tons of items, but nothing resembling a shop 
+ at all. You can get a "recycler" later, that can turn small, useless junk into money, but for the 
+ most part a useless item is a useless item. In this game you must learn that when you find something 
+ you don't need, you'll actually have to let it go. You can only carry so much, and there is a LOT 
+ of unhelpful junk. An interesting note is that you hardly even "meet" anyone throughout the game. 
+ You mostly communicate through diary entries and the stream of e-mails from one or two supposedly 
+ omniscient guides.
+  
+  Playing through the game, I don't think I received the effect the game went for. Had the graphics 
+ been better (I didn't know about the mod when I played through it the first time) and the music 
+ more immersive, I might have been scared by this game. It was a highly innovative concept and Shodan 
+ was simply an awesome character. Lack of polish notwithstanding, I loved it.
+  
+  Highs: Immersive experience, great story, characters that manage to be kickass without ever even 
+ getting to introduce themselves, combat that lets you dodge. Oh, and it's now free. Did I forget 
+ to mention that?
+  Lows: A bit too much running around, bland graphics, that nagging feeling that you won't find another 
+ healing station for a while and you wonder if you should turn around, being a psy-user sucks.
+ 
+  Bottom Line: Anyone that likes a good ghost story or an offbeat RPG should find a good time in 
+ this game. Hardcore FPSers, "You'rrrre not wwelcome heeeeuuurrr." 
+::::::
+
+::::::
+UserName: smerlus
+Rating: 8.9
+Date: Aug 30, 2006 10:17 am PT
+Review:  Getting a 3 day ban from posting on Gamespot really have me ample time to tackle some games on 
+ my "Now Playing" list. One of these titles just happens to be a little gem I missed while I was 
+ away in the military in 1999, System Shock 2. It's is usually hard to review a game this old and 
+ try to keep in perspective, but System Shock 2 makes it easy.
+  
+  I can start out by saying that this gamehas a great Sci-Fi story that could have been a blockbuster 
+ movie, or at least a B-movie with a large cult following. The story starts off roughly three decades 
+ after System Shock 1, in which the events in that game caused the downfall of major conglomerates 
+ and the rise of regular governments once again. Everything is looking kind of up for this new society 
+ until one of these fallen companies create this fascinating technology that lets humans travel 
+ space faster than the speed of light. With such a break through in science, you know the goverment 
+ has to get their hands involved in this one. This Is roughly where the player comes in. The game's 
+ hero of sorts starts out with no fanfare, just a person that wants to better their life by joining 
+ either the Marines, the Navy or the OSA which happens to be a new branch of service dealing with 
+ mental powers. You get to choose which branch you go into which will, in turn, effect the way that 
+ you play the game. Marines will be your standard tank persona, the Navy is the typical stealth/hacker 
+ character and OSA will let you use mind powers to overcome enemies. After that choice is made, 
+ you know have the ability to choose your first three duty stations which will give you starting 
+ boosts to the skills essential for your early survival in the game. The last year of service, the 
+ hero reports to the Faster Than Light (FTL) ship, the Von Braun, which is led by the TriOptimum 
+ Corporation and literally pibby packing this voyage, The Rickenbacker, the governmental guard of 
+ this expedition.
+  
+  Needless to say, things go horribly wrong and you're stuck between government and corporate redtape, 
+ A rogue AI and alien lifeforms bent on the destruction of mankind, and the need to survive.
+  
+  The RPG side of the game is a great addition to this game but isn't as well utilized in games 
+ such as Deus Ex and Vampire the Masquerade. With that said, the game still gives a great amount 
+ of customization and freedom even though the missions may not always cater to the choices you've 
+ made. I found a well balanced character is usually better prepared than having strictly a Marine, 
+ Navy or OSA character. The shooting engine had to be great for the era this game came out because 
+ it's still a solid engine allowing quick weapon changing, rapid reloading, different type of ammo 
+ and upgrades to the guns. Speaking of guns, there are over a dozen ways to dispatch the various 
+ enemies in the game, ranging from melee weapons to alien technology.
+  
+  The AI in System Shock 2 is a mixed bag. There's no group tactics here but that could be explained 
+ by the nature of the beasts; All these creatures in the game want you dead. The assassin droids 
+ are the only exception, they were generally stealthy and tried to attack from a distance. The only 
+ complaint I could make about the AI is when an alarm is triggered. Even though I could get out 
+ of the area where I was spotted, the computer was able to track me down hiding in a closet and 
+ send swarms of enemies at me. The graphics were ok thanks to a downloadable texture upgrade. Of 
+ course these aren't high rez textures and the models have a very low polygon count, but the engine 
+ still does a good job to this day. The levels each had their own theme to them and were in different 
+ amounts of ruin. That fact alone eleviated the feeling of running through a repeatitive ship structure. 
+ The enemy models looked good but moved rather rigidly, but again that's ok because of the day this 
+ game came out in.
+  
+  The sound department was a highpoint in this game. Using sound to locate a nearby enemy was a key 
+ factor in survival. It was the best way to figure out that some sort of beastie was trying to sneak 
+ up and cause bodily harm. The music also picked up in areas of a lot of action which complemented 
+ the feeling of panic and dread. The voice acting on the data disks and through email was perfect. 
+ Not a single bad actor or any instances of terrible dialog.
+  
+  So great story, dated but decent graphics, good voice acting and a unique RPG system for the time 
+ is reason why this game is as critically acclaimed as it is. Simply put; they rarely make games 
+ like this anymore. 
+::::::
+
+::::::
+UserName: pwnr
+Rating: 9.2
+Date: Aug 21, 2006 5:15 pm PT
+Review:  System Shock 2 should be competing against other epic games like Quake or Half-Life, but many gamers 
+ have not appreciated the work of Looking Glass Studios on System Shock 2. 
+  
+  Gameplay:
+  The gameplay is very good. The movement is just like with all FPS games, but there's an inventory 
+ system. You can keep many things in your inventory system, from weapons to chemicals. 
+  
+  Graphics:
+  The graphics aren't really that good, but this game was made in 1999. These graphics 
+ are just like Half-Life's or GTA III's, but whatever. 
+  
+  Sound:
+  Gunshots and object sounds fill the noise spectrum in System Shock 2. But sometimes the reading 
+ of emails can get really annoying and repetitive. 
+  
+  Value:
+  Definitely get this game. It's very fun and will keep you on the edge of your seat for hours. 
+::::::
+
+::::::
+UserName: Tinkertown
+Rating: 9.5
+Date: Apr 16, 2008 8:30 am PT
+Review:  Been looking to play a scary game lately.... well end your search here... nothing gets better than 
+ this. System Shock 2 puts you in the position of.... well you. This game is a FPS/RPG which lets 
+ you choose your own path. From the start you are asked to go through training which includes basic 
+ training, Advanced training, Weapons, Engineering and Phsycic abilities. You also have a coureer 
+ path which consists of three groups: Marine Core (Weapon based) , Navy (Engineering, some standard 
+ weapon skills) , Phsycic training (well Psy- power based) . You then (After chosen the coureer path) 
+ have three years to complete your training. Though the training dosn't sound as interesting as 
+ it looks... it's quite simply walking through some tunnels choosing the skill to improve on. 
+ 
+  
+  Once your three years are up... prepare for the worst. You are now aboard the Rickenbracker which 
+ is a ship going along with the Von Braun which is carrying a couple of hundred million aboard it. 
+ Yet something goes wrong.... you awake upon the Rickenbraker in a Cryo Chamber/tube 5 months after 
+ you boarded when you awake your memory is not completely clear... yet the worst is still to come... 
+ you are 67 trillion miles away from earth. Shortly after waking you are being chatted to by Dr. 
+ Janice Politio of the Von Braun's computer maintenence reminding you why your there... the cutscene 
+ end's by her saying ".... there after us both now".
+  
+  The games graphics are now pretty out dated..... luckily there is a mod which improves the look 
+ of the characters and models. The sounds are excellent especially for the terrifying Hybrids which 
+ rule the corridors of the Von Braun. They sound pretty normal before you aproach them, the start 
+ to mutter to themselves then as you walk passed them the will start saying "You are most unwelcome" 
+ in a strange High pitched distorted voice.... which haunts you when you first hear it. You hit 
+ them and their bloodcurdling screams echoe the corridors.... once their injured they start saying 
+ "KILL ME KILL ME". The repitition of the Hybrids words are awesome as they stick in your mind. 
+ The main creatures you really come across is the hybrids but they come in different forms. Some 
+ carry pipes, some even hae shotguns. Though what really gets to you is the fact that sometime's 
+ when you think all the Hybrids hae been killed.... one pops up out of nowhere. It frightens you 
+ especially if your in use mode ,and you say "I think i will hack into this door now the Hybrids 
+ are dead", halfway through hacking you are made jump by the sound of a Hybrid or Hybrid's coming 
+ down the T-junction corridor to your left and your frantically clicking to try and escape the menu's... 
+ then you realise you can just press tab to go back to shoot mode. 
+  The real thing that makes the game epic apart from the gameplay and all the other things is Shodan. 
+ Shodan is a computer virus who is the main opponent in the game. Shodan as PC gamer have said is 
+ "The Girl Who Wanted To Be God". Shodan is a unique character and the legendary bit where your 
+ walking though the church corridor and your walking on the cieling to see the crosses are now upside 
+ down! Demonic!
+  
+  
+  The game is not very easy.... not just because your being beaten about by Hybrids but because you 
+ might not be able to find the crew door keycard or maybe a gun or some ammo... unable to find a 
+ charging station for all those dead batteries in your inventory! Not only that its not easy learning 
+ the controls. You would think that going into your inventory pauses the game but it dosn't. I guess 
+ thats one of the scary factors about it making you decide wether to take the risk of opening your 
+ inventory and listening to your PDA audio files or maybe just keep making sure there's no hybrids. 
+ You couldn't survive through the game without your inventory so you do sort of hae to take that 
+ risk every now and again. The worst thing that could happen though is having no gun when security 
+ camera's are around. If an alarm goes off you might as well just take that wrench and batter yourself 
+ with it as you become exposed to the Hybrids. An endless cascade of them come charging towards 
+ you.
+  
+  Overall: This game is excellent though i forgot to metion the fast paced electric music score that 
+ goes with it. Graphics are outdated excellent sounds and gameplay and not easy for begginers! 
+::::::
+
+::::::
+UserName: Charlie2688
+Rating: 9.7
+Date: Aug 8, 2006 10:06 am PT
+Review:  As it is know System Shock 2 has been out there for a number of years and it has become a cult 
+ game due to the immersion factors and as well as being one of the most scary and disturbing games 
+ ever.
+  Lets start by looking at the factors that make this game so great
+  
+  Gameplay: The game play is almost perfectly done and it is fallowed greatly by an incredible story. 
+ This game mixes you typical FPS with RPG elements such as upgrading you skills, learning others 
+ and modifying your stats as well as others not so conventional such as learning to hack systems 
+ or research specimens. After choosing you character class that comes in form of a Marine that is 
+ basically a warrior, Navy that is like a rouge and OSA that is like a wizard but instead of magic 
+ you have psychic powers. You passing thru military training that is a very well done tutorial, 
+ you are sent to this ultra high tech faster than light ship the Von Braun were you wake up and 
+ you have no memory plus you have this illegal cyber implants that will give the opportunity to 
+ survive this bloody mess, from there is a race to get the hell out of the ship but it wont be easy 
+ the ship is infested with numerous mutants and freaks that will not stop till your dead as well 
+ as numerous obstacles youll have to deal in order to progress. The story also contains many plot 
+ twists and unexpected events that will keep you on the edge of you seat.
+  
+  Graphics: The games graphics are really good, while the human models dont look that well the mutants 
+ and overall everything else looks really good even for this time. What is more impressive is the 
+ how realistic the environments are. The ship is what you will expect from a real life high tech 
+ ship nothing is missing even the most small detail is there to enrich this horror experience. Also 
+ the design of many enemies as well and some environments and situation are very disturbing even 
+ for the more experienced players, this games visually says a lot from enigmatic situations to bloody 
+ scenarios.
+  
+  Sound: If I could I will give this game 11 as the score in sound. This is what sound masterpiece 
+ is, and is not necessarily the music but the excellent voice acting and realism of the sounds, 
+ the voice acting is completely realistic and is presented thru various audio blogs you will find 
+ scattered thru the ship that will unfold the story as well as giving you aid or hints and even 
+ some disturbing information, this audio blogs will keep you fascinated and you will always want 
+ to find more to know what happened next and what really happened in the ship. The sound of the 
+ objects are done perfectly the sound of the items is what you will expect as well as the sound 
+ of other more disturbing things such as the monsters will make you be alert all the time.
+  
+  Value: The ship is massive and thanks that is no walk in the park it will be long hell of a 
+ ride to the ending the will surely to keep you satisfied. The game is not easy, this is no shoot 
+ everything on site you have to keep your resources checked so you wont find yourself in nasty 
+ situations. As most RPGs the selection of class will determine the experience also the game doesnt 
+ give enough points for you to actually learn everything so you will have to play the game numerous 
+ times in order to try all abilities, weapons and powers.
+  
+  The overall experience is a complete horror masterpiece that will keep you engaged all the time, 
+ there is no dull moment when you are running for you life in a doomed ship full of horrors. This 
+ game is a solid mix of different types of games that is executed almost perfectly making it a surely 
+ unique experience that should not be missed by true hardcore gamers. 
+::::::
+
+::::::
+UserName: marcaze
+Rating: 8.8
+Date: Jan 29, 2007 10:03 am PT
+Review:  System Shock 2 is a mix of RPG and FPS genres. While you can play it as a FPS, is very hard to 
+ do so; weapons break very frequently and ammo is not very abundant. In the game you will do a lot 
+ of things: hack security systems to avoid being detected by cameras and turrets, repair Von Braun&acute; s 
+ (the ship in which all the game has place) engineering systems, and such. For every completed objective, 
+ you are given cybernetic modules to spend improving your skills like strength, agility, weapon 
+ skills, hacking, and such. The story and atmosphere are the strongest attributes of SS2. You awake 
+ in a cryo tube in Von Braun&acute; s Medsci deck. Everything around seems a chaos and guided by 
+ Dr. Janice Polito you must discover what happened and, above all, how can you escape the mess. 
+ All this is told through audio logs that are picked up through the whole ship. The enemies you 
+ find are very scary and make noises that surely will make you tense and be alert all the time. 
+ The audio contributes a lot for the fear factor in SS2; at the minimal strange noise you hear you&acute; ll 
+ go paranoid and frantically move the mouse in all diferent positions to see from where it comes. 
+ The graphics are the only bad part of the game. Although not horrible, by now (2006) they look 
+ very dated. There are mods that make models look better, but in my opinion they take off a lot 
+ of the scariness that comes with the old models. Nevertheless, the gameplay and atmosphere more 
+ than compensate the visual faults of SS2.
+  If you are thinking of buying or playing this, don&acute; t hesitate to start now and be completely 
+ hooked to one of the best games ever. Fear the Many! Fear SHODAN! 
+::::::
+
+::::::
+UserName: robreloaded
+Rating: 9.8
+Date: Jul 6, 2006 12:18 pm PT
+Review:  First a little back story on my first System Shock experience...
+  
+  Back in the days...
+  
+  I was a young nipper (13) and just started to venture into the big world of PC gaming. Having 
+ spent my previous gaming experiences on Amstrad's, Megadrive's and Playstation's nothing had quite 
+ prepared me for what System Shock 2 had to offer.
+  
+  I remember fondly as I started up the game and watched the spine-tingling intro. Then when the 
+ game did start, I actually thought it was another movie that had crashed, yet to my surprise this 
+ was in-game. I guess it was coming from the blocky Playstation graphics to the nice high resolution 
+ FPS images that shocked me, as the character models in the game are arguably the worst part of 
+ the game (more on this later) .
+  
+  I played the game for a few hours, but strangely enough I never got any further than about 1/4 
+ of the way through. Due to a few factors mainly being, it was scary as hell and I got stuck and 
+ forgot what I was meant to be doing. And that my friends is how my System Shock experience remained 
+ for many years, until I decided to give it a second go...
+  
+  So many years after my initial experience, I installed System Shock 2 again, along with a few mods 
+ for visual improvements and away I headed back onto the star ship Von Braun.
+  
+  Present day...
+  
+  Seven years after release and this game still has everything to make you 
+ want to play it all over again. Nothing about the game seems old or dated the game simply excels 
+ in every area.
+  
+  Game play:- Never have I known a game to draw me in as much as System Shock 2. The atmosphere is 
+ produced by the bucket loads and holds you tight through the rollercoaster ride that awaits. The 
+ game could be described as a Survival Horror FPS/RPG, but even that doesn't do the game justice, 
+ because it's more of an experience than a game or challenge.
+  
+  Graphics:-Whilst the environments are great and do exactly what they were set out to do, there 
+ is no doubt that the character models are some of the worst seen. There is a solution however! 
+ SS2 Rebirth (Complemented) : http://www. strangebedfellows. schwarzsilber. de/index. php/topic,8.0. html 
+ This is a high polygon model update for most of the enemies in the game. It will improve your shocking 
+ experience no end.
+  
+  Sound:- Bumping cyber techno tunes provide ambient music driving you through the game while still 
+ keeping the tension high. The enemy sounds are some of the best I've experienced. Never have I 
+ known fear simply from hearing the call of the many.
+  
+  Niggles:- Ok so why haven't I gave this game 10/10? Well a few small points really (all of which 
+ thankfully can be fixed with the aid of some mods :D ) . First point, the character models seriously 
+ distract you from the immersive experience. Second point, some of the Psi inventory options can 
+ seem a little clumsy at times. And my final point is more a matter of opinion, and that is sound. 
+ If you simply don't like the cyberish techno style of the soundtrack it could take away somewhat 
+ from the experience.
+  
+  Final words:- This game still stands as a landmark for all FPS's. Games like Doom 3 have seemingly 
+ tried to copy many aspects of System Shock 2 and failed. So I plead with you, please play this 
+ game before it is too late and it really will seem out-dated.
+  
+  If you do decide to pick up this game, check out this forum post before you do: http://uk. gamespot. com/pc/rpg/systemshock2/show_msgs. html? topic_id=m-1-28999744] 
+ 
+::::::
+
+::::::
+UserName: EyeNixon
+Rating: 8.9
+Date: Jun 30, 2006 10:25 pm PT
+Review:  Has there ever been a horror game that actually scared you? 
+  
+  You know, SCARE, not make you jump or flinch. Not Resident Evil's jump out freaks, or Silent Hill's 
+ atmospheric creepiness, I mean a game that actually had you making your character crouch and hide 
+ under the nearest table from horrifying tortured monsters? 
+  If you haven't played System Shock 2, I doubt you ever have.
+  
+  Not only is System Shock 2 
+ one of the most horrifyingly scary games ever, but it's also one of the best FPS/RPG hybrids in 
+ existence, only challenged by the likes of Deus Ex, which it beats out in terms of AI and polish 
+ anyway. 
+  The story revolves around an experimental spaceship which will take several thousands of passengers 
+ across space to colonize another world, they're accompanied by a military ship for protection. 
+ 
+  
+  As you would know, things just don't work out.
+  
+  Tensions rise between the two ships, as conflicts between the civilian and military leaders arise. 
+ All of a sudden, the ships are silent, both floating through space, when a moment ago life was 
+ bustling, things seemed to have drawn to a complete halt.
+  What happened?
+  
+  You wake up at this moment in a cryogenic tube, you can't remember what happened on the ship or 
+ any other details. You're a military bio unit, part machine, part man. System Shock 2 never focuses 
+ around your cyborg parts though, as the story revolves around something completely different. 
+ 
+  
+  System Shock 2 does have an excellent story, and the writing is ingenious, most of the story is 
+ told through dialouge that you receive in your PDA, but it's incredibly well acted, and as mentioned 
+ before, the writing keeps it believable and fluid.
+  If I can mention the good voice acting, I can also included how fantastic the sound is, as any 
+ person would know, a game's sound quality lends largely to how immersive it is, and System Shock 
+ 2 manages to deliver so well, that even today some games haven't achieved its perfection. 
+  The ship hums eerily around you.
+  The deep grating breaths of mutated beings echo around each 
+ corner.
+  Mechanical parts crank and squeak.
+  And the weapons are loud, and somewhat powerful.
+  
+  Some of the sound effects are genuinely 
+ terrifying, such as the tortured wails of the Hybrids rushing at you, or the deep shrieking roar 
+ of a huge Rumbler. Each time I heard either one of these sounds I jumped in my chair and went into 
+ a deep breathing fit, just frantically looking around to see where the beasts could be hiding.
+ 
+  
+  System Shock 2 has adequete graphics, they aren't amazing, but they're pleasing to the eye and 
+ offer some good effects. Considering the large amount of weapons, items, and enemies in the game, 
+ the models are incredibly well done, especially considering how long it must have taken to make 
+ so many.
+  So how does it play? Exceptionally well. System Shock 2 launches you into a tutorial that allows 
+ you to choose between three schools of military positions. They include the Marine, which focuses 
+ on weaponry and melee combat, the Special Ops, which focus on your cybernetic implants and pyshcic 
+ abilities, and last but not least, the Navy, which balances the two evenly.
+  
+  After you've chosen your gameplay style, you start the game off. Various aspects of the game are 
+ introduced as you play. The inventory system is clean and very ascessible, with only a few mouse 
+ clicks to properly swap equipment. As you accomplish tasks and level up, your skills will improve. 
+ The game balances your powerful physcic powers with your energy levels and the required items to 
+ restore your power.
+  Included, you can hack into computers, pick electronic locks, and do several other tasks. Granted, 
+ it does sound alot like Deus Ex, but remember that this was released first.
+  Suffice to say, there isn't much to describe about System Shock 2's RPG system, if you've played 
+ say Morrowind, or Deus Ex, they match up pretty evenly.
+  
+  But that doesn't change the fact that the variety of ways you can develop your character is insane. 
+ It'll take awhile before you develop a character suited to your tastes.
+  
+  System Shock 2 does have its problems though. The game can be incredibly difficult for begginers 
+ (although not frustrating) and learning how to properly play and evade enemies, then put them away, 
+ can take awhile to master. These are some major problems that stop me from giving System Shock 
+ 2 full credit, but they don't prevent it from being excellent.
+  
+  So if you're looking for a terrifying, and unique intuitive game, you should at least try System 
+ Shock 2. If you're patient, you'll find a satisfying, long and well done ride. 
+::::::
+
+::::::
+UserName: deadmenneverdie
+Rating: 9.8
+Date: May 21, 2006 9:34 am PT
+Review:  System Shock The Best Game of 1999. One of the best Horror/RPG/Shooters ever. one of the best games 
+ I ever played I picked this game up in k-mart i have to say its one of the best Game Purchases 
+ in my entire life.
+  
+  You start out in the game on a ship you come out of acoma and don't know anything that happened 
+ to you in the last 2 weeks, You contuire through out the ship guided by a Woman over a com, You start 
+ to find out what happened to the ship and the distrubing fate of what happened to the crew they 
+ where either mutalated or worse.
+  
+  The weaponry can jam making it tough in some postions you can repaier them but it costs and you 
+ have to have a high enough skill and you have to have skills to hold certain weapons.
+  
+  The GFX on this game are very good for its time there slighty better then half life 2. And phyics 
+ all though no ragdoll are pretty decent on other items.
+  
+  So i give it a 99% it is a perfect game pick it up if you have'nt played it. And if you don't I 
+ think I might have to slap you. 
+::::::
+
+::::::
+UserName: viper_najem
+Rating: 9.3
+Date: Apr 4, 2006 11:54 am PT
+Review:  System Shock 2 shines in almost all aspects as the best first person shooter / role playing game 
+ of all time. Yes, it's both a FPS and an RPG. Software companies have tried doing it in the past 
+ with Heretic and other titles, but this game succeeds. 
+  First of all, the game used the proven though dated Thief engine. This isn't necessarily a bad 
+ thing since older systems will have an easy time running it. Those with fast systems, alot of RAM 
+ and a 3D card will find rich, detailed graphics with alot of special effects as well as 3D sound. 
+ 
+  The story is very well thought out and is presented in such a way that it truly immerses you in 
+ the moody atmosphere. There were times in this game that the graphics and sound actually startled 
+ me and got my blood pumping. The levels are balanced and don't seem linear, though there are a 
+ number of quests that are required to progress. 
+  The AI is good, starting off easy and advancing quickly to provide you with a challenge. 
+  The 
+ role playing aspects of this game are especially well done. Skills such as "Hacking" and "Research" 
+ are available, among others, as well as a very important "Psionic Ability" attribute that allows 
+ you to use a psionic amplifier to manipulate objects with your mind. Instead of experience points 
+ you upgrade yourself using cyber modules. At the beginning of the game you must choose which branch 
+ of the military you wish to join. "The Marines" are like the fantasy warrior, "Navy" are like thieves 
+ (technical specialists) and "OSA Agents" are like mages, specializing in psionics. 
+  Some bugs in the story are present and the much touted multiplayer aspect of this game is only 
+ available through a game patch. 
+::::::
+
+::::::
+UserName: Advocate
+Rating: 9
+Date: Mar 8, 2006 5:11 pm PT
+Review:  This game was one of those games that you buy and never expect to enjoy. I picked it up in the 
+ $10.00 bargin bin and waited nearly a year to install it. Man what a fool I was.. This game was 
+ just revolutionar in its scope, theme, action, and sound. The game play was just chill inspiring. 
+ 
+  
+  Not since Alien vs Preditor for the old Jaguar system has a game scared the living crap out of 
+ me. From the sound to the shadow effects the ery environment of this game just set a wickedly enjoyable 
+ gaming experience like the which no other game has since.
+  
+  Why this game failed is beyond me, it is simply one of the best games I have ever played. It is 
+ listed as one of my all time top five games. SEIV, TRIBES, TRIBES II, BOTF, and System Shock. There 
+ are few games that I have enjoyed as much as I have enjoyed System Shock. IF you can still find 
+ this game, get it and revel in the spookiness of its game play. 
+::::::
+
+::::::
+UserName: iplaygames2
+Rating: 9.3
+Date: Mar 4, 2006 7:58 pm PT
+Review:  system shock 2 is really a great game for its time six years ago it was and still is very good. 
+ this game is very scary but the plot is bit laughable when u think about it and try to expaln it 
+ to peopele but like its pertty good if u play on ur own witch is unfonrtine no one did the sound 
+ is like the best part because of the logs all well acted its a shame we got to see only a few people 
+ alive in the game. this game has good gameplay that is compliated yet easy to use at the same time. 
+ i found this game to be the daddy of games like deus ex and deus ex 2 so all in all its scary ,fun, 
+ and it should be noted that its very replayable and also the load times never get out of control 
+ eather u might have to wait 30 seconds but thats pertty good 
+::::::
+
+::::::
+UserName: Prince_Queen
+Rating: 9.6
+Date: Feb 20, 2006 1:00 pm PT
+Review:  Bylo nebylo, za tremi horami a peti vrchy, kutlalo se v malem pokojiku na nevelkem monitoru pekne 
+ pozdvizeni. Dlouhovlasate "kstice" (originalni to nazev pro vyvojare tvorici krasny oldies rules 
+ hry, haha) pracuji na hre s nazvem System Shock 2. Pokracovani od Warrena Spectora. Inu a jak by 
+ to mohlo dopadnout jinak, nez genialne. Skoda slov, zahrat, zpracovat, nabazit! Potemnele levely 
+ pripominajici depresivni styly desivych umelcu, zombie a stvury a atmosfera lamajici srdce nekolika 
+ punkeru, cyber-one pribeh a hlasove vytaceni telefonu. Pribeh se toci na nezname lodicce kdesi 
+ ve vesmiru a protoze vas nikdo neuslysi kricet, na vsechno jste proti jednickam a nulam (mimo jine) 
+ uplne sami. Doba Curvy je sice ponekud vyssi, ale co, je to paradni tak i tak. SS2 je OK. 
+::::::
+
+::::::
+UserName: mustibabu
+Rating: 8.4
+Date: Feb 4, 2006 12:50 am PT
+Review:  Fantastic!! Just about to finish the game. Such an old game but still packs a good punch. FPS fanatics 
+ who've never truly dared to try a RPG can safely go for this game - it gives u a pleasant idea 
+ of what RPG is all about and at the same time caters to your FPS appetite. 
+  
+  Decent graphics and special effects, considering when the game was released, smart gameplay, reasonably 
+ good enemy AI and superb sound.
+  Various artillery and ammunition adds to the overall fun. Strong storyline with a good twist halfway 
+ through the game. Various upgrades are available for free download which enhance the overall appearance 
+ of the game. The whole game itself can be downloaded for free, if u know where to look for it. 
+ 
+  
+::::::
+
+::::::
+UserName: cqdemal
+Rating: 9.5
+Date: Oct 26, 2007 6:13 am PT
+Review:  If I were to write a one-sentence review of System Shock 2, that sentence would be: No other game 
+ has made my in-game avatar cower in fear of the enemy, or run away shamelessly from threat. 
+  
+  It's simply the most intense game I've ever played. Interestingly, the little tricks that make 
+ System Shock 2 as good as it is are gameplay mechanics often criticized in other titles. We'll 
+ get to that later.
+  
+  System Shock 2 begins 67 trillion miles from Earth, where starships Von Braun (the first faster-than-light 
+ ship ever) and Rickenbacker (Von Braun's escort) are overtaken by an unknown force which turns 
+ most of its crews into mindless humanoid monsters filled with alien tissue and robotic enhancements. 
+ You start off some time after the incident, waking up from a post-operative cryogenic sleep. Rather 
+ conveniently, your memory restoration process fails. Your only contact, Dr. Janice Polito, tells 
+ you via voice mails that you volunteered to get cybernetic stuff buried in your head.
+  
+  And thus begins your journey into the bloody corridors of the Von Braun and the Rickenbacker. The 
+ game plays as an FPS/RPG crossover with heavy emphasis placed on atmosphere and survival as an 
+ objective. You won't find yourself gunning down hundreds of aliens here. Rather, you will find 
+ yourself running away from the next wave enemies as you accidentally trigger a security alert while 
+ your gun is on the verge of jamming and you have less than 10 rounds left.
+  
+  Yes, that last sentence almost sums up the most important gameplay mechanics which makes System 
+ Shock 2 stand out. First, you have very little ammo. While you can purchase ammunition, it is quite 
+ costly, especially when Nanites (the game's currency) are also used for other purposes, such as 
+ hacking security computers, healing yourself with surgical units, or even resurrection through 
+ quantum regeneration.
+  
+  Second, your weapons break down over time. While many players have criticized the speed at which 
+ weapons deteriorate, I find it very suitable to the mood of the game. This feature forces you to 
+ invest some points in the maintenance skill and makes inventory management critical to your success. 
+ Moreover, it combines nicely with the lack of ammunition and sends a message to players: make every 
+ shot count!
+  
+  Finally, your enemies respawn after some time. A trip through an area you cleared out 30 minutes 
+ ago may prove deadly as those enemies have come back, and sometimes with better weapons. Security 
+ alarms will trigger a period in which enemies continuously spawn from each spawn point, forcing 
+ you to adopt more defensive (or even evasive) strategies until the alarm period is over.
+  
+  The rest of the game's features have become rather commonplace today. Doom 3's audio logs-based 
+ they-were-here storytelling technique is here in full force, and arguably remains the best example 
+ of such technique. Scripted sequences (ghosts!) are scattered here and there, used to augment the 
+ creepy atmosphere and, in some cases, provide hints. You can even find minigames to play on your 
+ Multi-Function Display interface, much like the way you play arcade mini-games in Grand Theft Auto: 
+ San Andreas.
+  
+  Overall, the game has impressive production values. The stunning sound design, which places much 
+ greater emphasis on effects and voice acting than music, is scarily effective. From the call of 
+ the midwives to the screech of the psychic monkeys, System Shock 2 sounds absolutely perfect. The 
+ visuals are good enough to evoke a creepy atmosphere, although the character models are rather 
+ on the low-poly side.
+  
+  As System Shock 2 has heavy RPG elements and gameplay mechanics which encourage an emergent style 
+ of play, it's far more replayable than most single-player shooters. You can choose from three distinctly 
+ different classes and upgrade your abilities as you progress through the game. Most situations 
+ can be solved by more than one way, and the constantly respawning enemies keep you on the edge 
+ of your seat all the time. And there's even a co-op mode where you can play through the single-player 
+ campaign on Hard difficulty with up to three of your friends. Pretty impressive for an old title, 
+ I think.
+  
+  Playing System Shock 2 now makes me feel rather nostalgic. Innovation is something seriously lacking 
+ in the gaming industry today, and the notion that a 6-year-old title has more innovation packed 
+ into it than a dozen recent titles combined seem absurd. Despite a heavy defeat in technical aspects, 
+ System Shock 2 remains today the best first-person perspective game of any kind ever made. And 
+ definitely the most scary one.
+  
+  Now try to find a copy of the game and buy a lot of underwear. Just in case you soil your pants. 
+ I know I almost did. 
+::::::
+
+::::::
+UserName: hybridhuman
+Rating: 9.4
+Date: Jan 4, 2006 7:29 pm PT
+Review:  This game, sorry, this glorious masterpiece - is one that no gamer should ever miss (just $6 at 
+ Radioshack!) . There is so much replay factor with the RPG side of the game being truly awsome! 
+ This game, of course if you haven't heard already, is scary. Not just scary "boo" kind of scary, 
+ but I'm talking about atmosphere baby. This game truly makes you get freaked pantless and extremly 
+ neurvous to continue just by engulfing you in its delightfully dreadfull atmosphere! The music, 
+ the sounds, the level design, each aspect of this game is executed flawlessley. Sure the graphics 
+ aren't all that spectacular (although they were at the time) , but don't moan on that, just try 
+ it. With its gameplay focus on ammo conservation and a serious look on survival, this is no run 
+ 'n' gun FPS! The many things you can do is so awsome! I cant even begin to describe it all. System 
+ Shock 2 became a classic ahead of its time, back at the time, and in many ways it still is. 
+  
+  Also - I can't wait for BioShock! 
+::::::
+
+::::::
+UserName: kocur
+Rating: 9.6
+Date: Dec 31, 2005 3:12 am PT
+Review:  System Shock 2 is together with his older brother from 1994 (hunting Shodan at Citadel) still one 
+ of my absolute favourite games. Despite of the fact that the game brought me some desperate situations, 
+ especially at the end when I had to kill this annoying brain of "the Many". Here I admit humbly 
+ that I failed (the only great game I wasn't able to finish) . I don't know whether this was a bug 
+ or only my own unskilfulness.
+  
+  When it came out, SS 2 was like its predecessor a revolutionary game. It brought great graphics, 
+ a brillant story and a magnificent atmosphere. Definitely awesome was its industrial trip hop sound. 
+ I hardly remember any game during all those years which could compete with it musically, I would 
+ list only the good old Quake with the soundtrack from Trent reznor and maybe Vampire the Masquerade 
+ - Bloodlines with music from great Goth-bands. 
+  
+  It's a immense pity that Looking Glass Studios doesn't exist anymore. Every game they've made was 
+ a masterpiece - it the System Shock or the Thief series. I hope the programmers will continue in 
+ solo projects of similar quality. 
+::::::
+
+::::::
+UserName: Final_Infection
+Rating: 9.3
+Date: Nov 8, 2005 10:34 am PT
+Review:  System Shock 2, one of the most terrifying games of all time, is one of those games which few know 
+ about, but those who do love it. I picked up this game on a tip, and so far, I'm hopelessly addicted. 
+ This game terrifies me unlike I've ever been before, and I have to say that once you've played 
+ Shock, there's no going back.
+  
+  This game's graphics were avant guarde in its time, but now look quite outdated, although this 
+ can be easily reminded with the "SHTUP" (SHock Texture Upgrade Patch) and "REBIRTH" mods. I have 
+ to say that the graphics are truly horrifying, my current favorites being the "REMEMBER CITADEL" 
+ written in blood on the station wall (A reference to System Shock 2's predecessor)
+  
+  The sound is utterly amazing. It reminds me so much of Doom 3's sounds, with enemies behind you 
+ actually making noises behind you, giving you somewhat of a surround sound feel. I only wish I 
+ had the speakers to truly appreciate what this game is capable of.
+  
+  The learning curve can be a little difficult to overcome at first, due to the complexities of the 
+ RPG/statistic system, but within an hour's time, you shouldn't have any difficulty after too long 
+ getting into play.
+  
+  All in all, System Shock remains my favorite game of all time, and I hope to see more people learn 
+ about this masterpiece. 
+::::::
+
+::::::
+UserName: Xaphan3
+Rating: 9.3
+Date: Jul 5, 2005 6:55 am PT
+Review:  Now, I havn't finished the game yet, but this game is well worth your money. It's very fun and 
+ sometimes even scary. 
+  
+  The gameplay is awesome. From hacking keypads to modding weapons. This game has everything a sci-fi 
+ rpg should have. In the beginning of the game you have your basic training. Then advanced training. 
+ After them you get to choose between Marines (Focusing on weapons and combat) , Navy (Focusing on 
+ Technical stuff like hacking and computers) , and O. S. A. (Focusing on Psi powers) . Each teaching 
+ something different. Then you go to school for 4 years ( No not really 4 years but you walk into 
+ the class and it jumps to the next year) After every class you choose you earn points toward whatever 
+ the class was about. 
+  
+  The graphics in it today are terrible. But, since the game was released in 1999 the graphics for 
+ it then were amazing. Grade A stuff when it was released. 
+  
+  The sound is this game is amazing. The sounds and the music blend together perfectly. The sound 
+ makes it feel like everything around you has life. From the hybrids moaning and monkeys making 
+ monkey noises it sounds like they are real. 
+  
+  Value has to be the best for this game. You can always come back to it. Maybe playing in the Navy, 
+ then the Marines then O. S. A. Or in many order you want. Training in different things. 
+  
+  This is as good as it gets for FPS/RPGs. You can find this game just about anywhere at a Ebgames 
+ or Gamespot. Or even on the net. Since its 6 years old it shouldn't be that much. I got mine for 
+ $7. I strongly recommand this game for people who like RPGs and FPS. Playing this game could turn 
+ some people on to the RPG element. 
+::::::
+
+::::::
+UserName: Nealok
+Rating: 9.2
+Date: Feb 7, 2005 12:44 pm PT
+Review:  This title is worth owning simply because of its current price tag and for the first seven or so 
+ hours of gameplay. Every element of the first part of the game is beautifully presented and well-layed 
+ out. I don't know why, but after the hydroponics lab, everything collapses. It's not a CHORE to 
+ go through, but it's not nearly as rewarding as the first part of the game -- while you're still 
+ in discovery mode. I played through with all three major class varieties, and with all three, it 
+ was once I moved on from the hydroponics lab that the game lost steam. Two other people confirmed 
+ it. That, ladies and gentlemen, is bad pacing. At any rate, the game is still an exercise in brillant 
+ storytelling and perfect execution of atmosphere. It's just too bad it didn't have the guts to 
+ finish what it started. The ending is good, to boot, so it's especially frustrating that there 
+ is a moldy rind between the fluffy cake on the outside -- cake made of undead and killer machine 
+ parts, granted -- and the creamy filling at the end. Pah. 
+::::::
+
+::::::
+UserName: Mp5slipknot
+Rating: 9.4
+Date: Feb 6, 2005 10:45 pm PT
+Review:  The fact that this is made (Or rather had a part in it) by Looking Glass Studios, my favorite gaming 
+ company, was enough to tell me I would love this game. And when I played it, I was nothing but 
+ amazed. What amazed me more though, is how under-appriciated this masterpiece is. I think the only 
+ reason this game didn't get the credit it deserved was because it was released during the still 
+ settling after-glow of Half-Life.
+  
+  Gameplay: The gameplay in this game is something that I think every FPS should follow. It really 
+ is 3 game styles in one, First person Shooter, RPG, and survival Horror. For the shooter fans, 
+ its got plenty of cool, fun to use weapons and plenty of enemies to face of against. For RPG fans, 
+ its got an in depth, complex RPG development system that allows for some really nice character 
+ custimization. And for survival horror fans, well, this game is pretty freakin scary! The game 
+ uses the same engine as Thief, meaning it takes with it all the things that are great about it, 
+ but also all its problems. While it has actually improved upon the engines performance, there are 
+ times when you would find yourself trapped in a door or something, but fourtunantly, this is fairly 
+ rare.
+  
+  
+  Graphics: Going by '99s standards, the graphics dont look that bad. The level design is well done, 
+ however, the character design could have been better as they look pretty blocky, and sometimes 
+ they move just a little bit weird. Overall though this game looks nice.
+  
+  Sound: This game simply sounds great. The acting is top-notch, the ambiance is great, the monsters 
+ sound cool, the music rocks and really sets a tone, but the best part of the sound is when you 
+ talk with the rogue artifical intelligance SHODAN. LGS games have always sounded great, and this 
+ continues its tradition.
+  
+  Value: This game has some really nice production values. The movies look pretty cool, theres a 
+ fair amount of customability in terms of game options, and theres an editor with it. Its just to 
+ bad there are only 3 fan missions made for the game.
+  
+  Overall: This game is simply a must play by, anyone. It is easily one of my favorite games off 
+ all time. Just play it, dont ask any questions why, just play it if you find it. Because this game 
+ rocks and I cant wait for Bio Shock to come out! 
+::::::
+
+::::::
+UserName: pad69
+Rating: 10
+Date: Dec 16, 2004 2:15 pm PT
+Review:  Well I was around to play system shock back when it looked like doom did when it first came out. 
+ It was a blast to put it back in my old 486sx and try it out again. I could not believe how hard 
+ it was to use just the keyboard again.
+  WOW .
+  
+  Sinking my teeth into SS2 FPS/RPG when it first came out was a shock to my system. being it was 
+ produced I believe in 1993 or 1995 it was way before any other in the gamming comunity. The ability 
+ to view as FPS use mouse and key board to lean as well as the many other things done regularly 
+ now in gaming was mind blowing. Not to mention RPG
+  
+  We all benifit in our games today because of the team that made SS2.
+  
+  First of all the sound 
+ puts you right there in the middel of it all not to mention the types of sounds (GOD I hate Monkeys) 
+ and the groans of the undead will send shivers down your spine. Running from those Dam robots.
+ 
+  
+  Second the graphics were fantastic for its time and well done I sometimes think we can't get better 
+ but that is not true today. The weapons can be troublesom as you must repair often and you must 
+ reasearch to find the right mix. The psy weapons are cool and varied.
+  
+  Third the story line picked up from the first game and continued on and many of us are wishing 
+ and hoping to see the third installment but that may prove to be a very long wait as the team no 
+ longer exists together.
+  
+  This game I must admit was not completed solo for me as I only made it about a third of the way 
+ thru it when I discovered multiplayer and played it with my son-inlaw. I have since played it and 
+ finnished it but we still play it again every so often in multiplayer mode. The replay value is 
+ great.
+  
+  I strongly recomend this game for your gamming pleasure. 
+::::::
+
+::::::
+UserName: Mauro_Rosati
+Rating: 10
+Date: Dec 6, 2004 9:36 am PT
+Review:  Hi guys. What to tell about this jewel? many people call it FPS, but it has more and more of a 
+ FPS, it's a RPG with FPS visual, and believe me my friend, it is an explosive mixture.
+  It uses the Dark Engine which moves another great game Thief: The Dark Project.
+  You play in 
+ a strange sci-fi world and during the game you have to use your brain to progress in the game. 
+ Much things to do, you can improve your skills and become a computer expert or master the psycho 
+ skills, it's amazing.
+  Dark atmosfere, fear, and challenge in the best (in my opinion) FPS/RPG ever seen in the PC videgames 
+ scene.
+  Guys, you can't miss this one, go and buy from your resellers, it's old but you can find it in 
+ a budget price. 
+::::::
+
+::::::
+UserName: TazmanianD
+Rating: 9.6
+Date: Nov 27, 2004 10:51 pm PT
+Review:  Simply put, this game is incredible. You wake up from a cryo-sleep on board a space craft somewhere 
+ out in deep space. You are alone and soon discover that something has gone terribly wrong on board 
+ and you have to find out why.
+  
+  You quickly find yourself in contact with a survivor on another deck who you have to make your 
+ way through the ship to get to, but you have to fight through zombies and mutants to get there.
+ 
+  
+  I think the great thing about this game is that it's not just a first-person-shooter. The ammo 
+ in the game is relatively constrained so you can't just go blasting through the entire game. You 
+ have to be careful in your actions. I also love the role-playing aspect in that you gain "points" 
+ you can use throughout the game to improve various skills you have at your disposal.
+  
+  The best thing about this game is not the gameplay, but is the atmosphere. This game is pretty 
+ scary, not really because things are constantly jumping out at you, but because every detail is 
+ designed to put you on edge. As you move through the game, you get to pick up and listen audio 
+ recordings from the former crew and you basically get to piece together what happened to the ship. 
+ As you listen to the recordings, you can often hear a distortion in the voices as they begin to 
+ mutate and it just makes your skin crawl.
+  
+  I also love the game because it is long. Every time you get to a point where you think you're nearing 
+ the end of the game, you discover that there's a lot more left to do. 
+::::::
+
+::::::
+UserName: GodzillaX8
+Rating: 9.8
+Date: Oct 8, 2004 4:17 pm PT
+Review:  This is one of the single best games I have ever played, for multiple reasons. First of all, it 
+ has an immersive and incredible storyline. This motivates you to continue playing to figure out 
+ what is going on. It also has one of the best engines I've ever used in a first person shooter. 
+ The first System Shock had an innovative engine for the time, but it was a bit too clunky. The 
+ SS2 Engine fixes all the mistakes of the original engine, and perfects it. The graphics of the 
+ game have held up incredibly well over the years, especially through the work of dedicated fans 
+ on the Rebirth and SHTUP projects. Rebirth provides newer models with higher poly counts, and SHTUP 
+ provides new textures for the game that are sharp and detailed. Both improve the game an unbelievable 
+ amount, although both are unfinished projects as of now. The sound in System Shock 2 is amazing, 
+ with the exception of some of the weapon firing sound effects. But no worries, you can download 
+ sound mods, or make your own if you don't like the default sounds. The best part of the game, though, 
+ is the customizability of the main character. This game by far surpasses Deus Ex in customizability, 
+ although Deus Ex is a great game in its own right. The only problem I have with this game is that 
+ there isn't a System Shock 3 yet. 
+::::::
+
+::::::
+UserName: Gumpo
+Rating: 9.3
+Date: Sep 17, 2004 12:03 pm PT
+Review:  System Shock 2 is the sequel to a game that came out in the Doom era that was majorly overlooked, 
+ even though it had what most consider the most intriguing story and best gameplay for its time. 
+ System Shock 2 follows in the footsteps of its bigger brother, but this time around it also steps 
+ out into the spotlight.
+  
+  SS2 was designed by Warren Spector, the man behind Deux Ex, as the first truely immersive first 
+ person shooter. It boasted of an impressive storyline, and a great mix of first person shooter 
+ action and role playing story and stats. Not only did SS2 accomplish what it boasted, but it also 
+ sported some cutting edge graphics at the time.
+  
+  Nowadays, the graphics still hold up, except for the immensly dated character models. SS2 was the 
+ first game that i ever waited watching expecting a cutscene, only to realize that it was actually 
+ normal gameplay - the texture resolution is that good.
+  
+  SS2 plays out around the story of you fighting for your life on a ship that's AI went on a rampage. 
+ As you play through the game, you come across data logs and dead people, along with zombies upon 
+ zombies. You often also see apirations of those who died on the ship, and witness the automated 
+ security, controlled by the rouge AI, doing some crazy things. Essentially, SS2 seems very similiar 
+ to the recently released Doom 3.
+  
+  Along with the great story, you're also given RPG stats, that allow you to become more skillfull 
+ in fixing and building pistols, hacking, using different weapons, etc. There is also an invintory 
+ system worked in straight out of the Ultima games, where you choose what you have equipped, armor, 
+ guns, etc.
+  
+  SS2 brings everything together without even a hiccup of a flaw. The gameplay from SS2 is what led 
+ to the award winning Deus Ex game, and is so similar that if you liked Deus Ex, you'd like SS2 
+ as well. SS2 is an excellent game that, while it sold well, didn't get as much recognition as it 
+ should have when it was released - I highly reccomend it. 
+::::::
+
+::::::
+UserName: MarsLander
+Rating: 8.3
+Date: Aug 18, 2004 3:38 am PT
+Review:  Well What can I say about System Shock 2, it kicks butt. this is one of the best shooter/rpgs' 
+ ever made the skills system is deep, and I mean deep. Now Deus Ex is still my favorite game possibly 
+ of all time, but SS2 still rocks. The fear factor of this game the first time I played it was high, 
+ I slept with the lights on for a week after playing this game. All the different types of weapons 
+ is sweet too, and your numerous si powers ( or however you spell it) are awsome as well. Now my 
+ only real complaint is the lack of high, or even moderate amount of polygons on the character models, 
+ they looked pretty unrealistic. However the sound quality, and the atmopsheric nature of the game 
+ made up for that little shortcoming. Although the zombies we're still creepy sounding especially 
+ the midwifes. The other thing that makes the game so good is its length, it took me 20 hours to 
+ beat it the first time. Overall SS2 is one the creepiest and full filling shooter/rpg hybrids out 
+ there. 
+::::::
+
+::::::
+UserName: dryden555
+Rating: 9.4
+Date: Jul 19, 2004 7:47 pm PT
+Review:  One of my favorite PC games of all time, along with Planescape Torment. 
+  
+  There's a great story in system shock 2. The "world" of this large space station is impressively 
+ interactive. The combat gives you lots of choices. The levels themselves are often quite diverse. 
+ The enemies are just as diverse and surprising. There's aliens, machines, and more.
+  
+  It can be hard to survive some levels if you dont plan your scarce resources carefully. But that 
+ is part of the challenge. What the game does well is make you feel dread when you open up a new 
+ area, but at the same time you are intensely curious what you will find in this new area. Very 
+ few games accomplish both immersion and surprize.
+  
+  It is possible to replay the game as one of the other 3 types of characters and there is often 
+ more than one way to solve any particular problem. 
+  
+  The graphics are quite solid but dont expect cutting-edge effects. The sound is excellent however.
+ 
+  
+  If you didn't like playing this game, you either didn't give it a real chance or you didn't like 
+ the sometimes high level of difficulty. You also missed out on one of the best PC games ever made. 
+ 
+::::::
+
+::::::
+UserName: Quatloo
+Rating: 9.7
+Date: Mar 6, 2006 2:54 pm PT
+Review:  I see that they have cleared out the dozens and dozens of reviews
+  that raved about this game. Fair enough. They needed to open up
+  more hard disk space in their 
+ servers. I just wanted you to know
+  that if you don't play this game, you are missing a game that I
+  and many others enjoyed even 
+ more than Half Life. In fact, I have
+  no doubts that had Half Life not been made that year, this would
+  have been the Game of the Year 
+ in most publications (instead of 
+  just some of them) It truly has a cult following and if you stick 
+  with it long enough to learn 
+ it you will see why. I still think it's
+  the most enjoyable game I've ever played. The key? Total Immersion. You
+  will be 'IN' this game. 
+ You will laugh, you will cuss, you will
+  jump out of your seat and feel real fear. You will spend alot of time
+  mulling over how to spend 
+ scarce resources. You will feel like a kid
+  at the fireworks stand with your own paltry hard-earned money deciding
+  which fireworks to buy. 
+ Remember that thrill? Don't wait until the
+  graphics become so dated that it looks like 'Doom' to you. It's still
+  nice to look at and the 
+ sound is the best I have ever experienced.
+  Gamers who have played this game are reading this and nodding their heads. 
+::::::
+
+::::::
+UserName: Faryn
+Rating: 9.6
+Date: Apr 12, 2004 12:09 pm PT
+Review:  In my many years of gaming, System Shock 2 is the only game that ever scared me. Not scared in 
+ the sense of being startled every five seconds, but genuinley scared. To be sure, there are some 
+ startling moments. More than once, I wandered the deserted halls of the Von Braun, only to turn 
+ around and come face to face with one of the Hybrids (zombie) . 
+  
+  What sets SS2 apart from most horror games is that it attempts to imbue the player with a palpable 
+ sense of fear. It succeeds. The atmosphere is designed to be unsettling. Empty corridors, punctuated 
+ with damaged areas. Here, the designers deserve credit; the corridors do look generic, as one would 
+ expect in a large naval vessel. However, you never get the impression that you are wandering generic 
+ corridors. It does feel like a real ship, inhabited by real crewmen. When you come across a barricaded 
+ area, or an area where there has obviously been fighting, it is easy enough to imagine what happened 
+ there. It is not merely a pile of crates. Your imagination kicks in, and you start to picture desperate 
+ crewmen, cut off from all help and hope, trying to hold back the enemy that were ocne friends. 
+ Sometimes the developers help you along; every so often an apparition will appear, and you will 
+ watch a ghost re-enact a past event before your eyes. 
+  
+  In one case, wandering the crew-quarter decks, I witnessed an apparition hang himself in despair, 
+ telling me about his roommate, who was trying to break in his door to kill him. Watchign him hang 
+ himself was very disturbing to watch. Two minutes later, while searching the quarters themselves, 
+ I came across a borken door, with blood marks and what appeared to be dents. I entered the next 
+ room, and from there, a into the blocked off room. There I found the hanging crewman, and my mind 
+ raced to connect the clues, and flashed back to the apparation I had seen. What an amazing effect!
+ 
+  
+  This atmosphere does not get stale as the game progresses. Long after you get used to dealing with 
+ the Hybrids, the game is still scary, as the voices of Hybrids (and only God knows what) call out 
+ to you. 
+  
+  The voice work is first rate. Instead of using developers and their buddies to record the voices, 
+ they hired actual voice actors. Through the various logs you find, the story of what has happened 
+ to this doomed ship is related to you. Listening to these recordings makes the sotry very personal, 
+ as you can actually hear the excitement (and later, fear) in the voices of the crew. 
+  
+  This game is a first rate horror/sch-fi/rpg/fps. It is unique. The game is still available, usually 
+ through amazon, or in a bargin bin. It will work on Windows XP, with a little work (go to www. sshock2. com 
+ for the simple instructions) . If you can get hold of this gem, do it. You'll never have as satisfying 
+ an experience as with System Shock 2.... if you don't run away in fear first. 
+::::::
+
+::::::
+UserName: liorde
+Rating: 9.8
+Date: Dec 14, 2003 1:40 am PT
+Review:  Well, what can I say... this game is simply **incredible**.
+  I am reviewing this game 4.5 years after it was released and still I think that this game is a 
+ natural born winner. Bravo to ION Storm for developing a polished gem such as this.
+  I only recently started playing this game, and I can tell you that it really grabs you. I really 
+ did not know what I was missing...
+  In this game you choose 1 from 3 careers, a navy officer, an OSA agent or a marines soldier. Each 
+ career makes you actually a different character, and that is where the role playing enters. Once 
+ you choose your main career, you start specializing in the various skills, traits and perks of 
+ that career, such as melee combat specialist, tech specialist and on and on... Once you do that 
+ the game begins, no turning back. This gives the games a high replayability value, which is great 
+ because this is the immediate thing I would do when I finish it.
+  You start off waking up in a shuttle that is about to get airlocked, so immediately you are on 
+ the double, no time to relax. As you move through the corridors of the spaceship you start living 
+ the sounds you hear, it really gets you, really...! Something that reminds me of the movie "Event 
+ Horizon". Also, the hybrids, which are the main foes "on-board" have this taunting speech, they 
+ are actually trying to despair you in your quest. And their voice sounds like a devilishly destorted 
+ voice, like in The Exorcist. You soon find yourself peeking out of every corner, just to get a 
+ hint of what is in the next room/ corridor. This is not a game where you just run arond with your 
+ weapons blazing, you gotta think here, think of concealment, when you read your e-mails and hear 
+ you audio logs, and be ready with the specific ammunition for your next foe/s. Armor piercing ammo 
+ will not be good on a living foe the same as Anti Person ammo will not do well on reinforced metal 
+ objects. The foes here are not dumb, you can get them from behind if you sneak good enough and 
+ down them with 1 blow, or face to face them and empty 4 bullets, your call...
+  When you look at them, they really look like they are looking for you, moving their head from side 
+ to side with their weapon ready. When they make eye contact with, you better run boy, you better 
+ run...! This game is rather hard. I have played Deus Ex (another game from this developer) on "hard" 
+ and finished it (no cheats of course) . So I tried this game too, on Hard setting and it was hellishly 
+ difficult, nothing to comare to Desu Ex. I am now playing on Easy and it is still challenging. 
+ Ammo is scarce, and also good weaponry. Most items you find are either in bad shape or simply unusable 
+ by you until you can repair them which requires sometimes an upgrade in that skill... So you gotta 
+ be careful how much you shoot. Learn to use you melee weapon well...
+  That is it, I am off to continue playing the game. I hope that you will enjoy this game as much 
+ as I am enjoying it now...!
+  
+  All the best!
+  
+  
+  
+  
+  
+  
+::::::
+
+::::::
+UserName: doctor_kaz
+Rating: 8.2
+Date: Jun 15, 2003 9:43 pm PT
+Review:  I started playing this game 2 times and quit because I got so frustrated early on. It took me years 
+ to finally finish it and I can say that I am glad that I finally did. Every sci-fi horror game 
+ that I play is going to have to match System Shock 2.
+  
+  The game's overall atmosphere and storyline is so enthralling, and so creepy that it stays with 
+ you after you walk away from the computer. The use of sound in this game is brilliant. The messages 
+ and logs that you find have a haunting sound to them, as they gradually paint a grim tale of what 
+ happened to the crew of your ship. Enemies sound frightening, and you are reminded of this each 
+ time that you hear one around the corner or in the next room. The voice acting for the game is 
+ terrific. There are enemies with a low, moaning voice and a computer that threatens you in a nice, 
+ courteous voice.
+  
+  The game's unique role-playing system has a lot of very cool features. All of the items that you 
+ find, including the game's "currency", nanites, give you a lot of ways to upgrade and equip your 
+ character. You find and "buy" all sorts of doohickeys, ammo, weapons, powerups, and health kits. 
+ However, the system is kind of a mixed bag and has some balance issues. A psi character is helpless 
+ at first, and if you start the game without hacking you can't make it past the first area. Deus 
+ Ex had a better role-playing system, because you could construct your character in all sorts of 
+ different ways, and the game would seem to adjust to you.
+  
+  System Shock 2's biggest fault is that it is so tedious and frustrating for at least the first 
+ half of the game, until you can develop your skills enough to hold your own in a fight. The difficulty 
+ level on the first two levels of the game is simply insane. There seem to be all kinds of contrived 
+ difficulties -- like pistols and shotguns that break if you fire them 10 times, and little errands 
+ that you have to run just when you think you are ready to move to the next level. Almost Every 
+ encounter requires two or three quick reloads before you get it right, no matter how careful you 
+ are. Perhaps that is a good thing, because it gives you a feeling of triumph when you pass a big 
+ stage of the game. 
+  
+  My recommendation to anyone thinking about playing this game is to go out and get it, and then 
+ stick with it through the early stages. It's a great Sci-Fi RPG game that rewards you for it. 
+::::::
+
+-------------------------------------------------

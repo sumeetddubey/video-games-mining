@@ -1,0 +1,89 @@
+-------------------------------------------------
+:::Game Name::: Pro Pilot
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/propilot/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Feb  9, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.1
+Critic Score: 6.0, 2 Review (s)
+User Score: 6.2, 16 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Sierra Entertainment
+Developer: Dynamix
+Genre: Flight Simulation
+Date:     Nov 30, 1997
+
+-------------------------------------------------
+:::Review:::
+With the glaring omissions fixed and a graphics overhaul, Pro Pilot could be contender. 
+
+ Sierra touts Pro Pilot as the best program of its kind, a lofty claim for any program to make. But 
+ when that claim is made against Microsoft's Flight Simulator - the longest-running and best-selling 
+ simulation of all time - the claimant has a lot to prove. And while Pro Pilot bests the civilian 
+ sim classic in a number of specific areas, overall the program has an unfinished feel that ensures 
+ Flight Simulator won't be toppled from the top of the charts anytime soon.  
+
+ Pro Pilot simulates five general aviation aircraft: the Cessna 172 Skyhawk and Beechcraft Bonanza 
+ V35 singles; the Beechcraft Baron and King Air twins; and the Cessna CitationJet 525 jet. The systems 
+ simulation here is superb, with unprecedented instrument panel detail. Before starting the engine, 
+ you'll need to set various power switches and select a fuel tank, functionality not present in 
+ competitors like Flight Unlimited II. All the requisite instruments - two COMM and NAV radios, 
+ ADF, etc. - are modeled. There's even a top-notch pop-up GPS (Global Positioning System) ; this 
+ is the first consumer sim with the now-popular navigation instrument built-in. VOR and NDB navigation 
+ beacons are present across the continental United States, which will make budding cross-country 
+ IFR (Instrument Flight Rules) pilots happy. Radios allow you to listen to air traffic control, 
+ airport information, and other aircraft, but communication isn't fully interactive as it is in 
+ Flight Unlimited II.  
+
+ Unfortunately, while the cockpit simulation is arguably the best out there, aircraft handling is 
+ poor at best. Prior to the first patch, the planes felt like they were flying on rails, and basic 
+ operations like descending didn't feel right. The patch helps quite a bit, and handling is acceptable 
+ if you're just flying cross-country trips and don't try to push the plane's performance envelope. 
+ But just try doing a loop and watch things go awry. It's true that you wouldn't normally do aerobatics 
+ in these planes, but Sierra should also realize that sim pilots love to take risks you'd never 
+ dare try in real aircraft.  
+
+ With over 3,000 airports included, virtual pilots who live in the continental US (or even parts 
+ of Canada) will likely be able to fly from their local airports, using the proper communication 
+ frequencies. Unfortunately, the airports lack taxiways and even runway numbers, making ground navigation 
+ problematic. (Not to mention the silliness of seeing a 747 sitting on the grass.) Ground terrain 
+ is properly height-modeled across the country, with hills and mountains that look much better than 
+ the giant pyramids of Flight Simulator.  
+
+ Where Pro Pilot really falls down is in the graphics department - a vital area for virtual pilots 
+ who want to use the program for more than learning instrument navigation. The sim sports only a 
+ single graphics resolution (640x480, 256 colors) and has no support for 3D cards. The ground textures 
+ swim with a shimmering effect at high altitudes and degenerate into giant blocky pixels down low. 
+ There are some nice effects, such as vibration upon starting the engine, but the visuals are far 
+ behind the state of the art. On a related note, performance problems exist with some system configurations 
+ - without the patch installed, the sim is actually slower on a Pentium II/266 than on a Pentium 
+ 166.  
+
+ A top-notch paper manual does a great job of explaining basic flight and instrument navigation, 
+ and 30 AVI videos provide good introductory material for beginning pilots. Unfortunately, only 
+ very skimpy online help is included for actual program operation and for flying the individual 
+ aircraft.  
+
+ Pro Pilot shows definite signs of having been rushed to market for the holidays. With over 30 bugs 
+ fixed in the first patch, it's obvious that not enough time was spent in testing. Even post-patch, 
+ glaring problems remain: External views sometimes show stopped propellers even at full throttle, 
+ turbulence settings in the weather dialogue seem to have no effect, and the flight model goes haywire 
+ if you pull the nose up past 90 degrees. The sim's developers have committed to releasing patches 
+ every month or two to fix problems and add missing features, but is it fair of software companies 
+ to assume they can ship half-baked programs and finish them months later with patches?  
+
+ With the glaring omissions fixed and a graphics overhaul, Pro Pilot could be contender. As it stands 
+ now, it's primarily of interest to potential student pilots looking for a good instrument flying 
+ simulator.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

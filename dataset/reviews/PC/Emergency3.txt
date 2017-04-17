@@ -1,0 +1,351 @@
+-------------------------------------------------
+:::Game Name::: Emergency 3
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/emergency3/review.html
+-------------------------------------------------
+:::The Good:::
+ Interesting premise with plenty of creative mission scenarios.
+ Decent graphics and performance with relatively modest system requirements.
+-------------------------------------------------
+:::The Bad:::
+ Clumsy, frustrating interface.
+ The trial-and-error nature of the missions will try your patience.
+ Spotty artificial intelligence.
+ Uninformative manual and a limited tutorial will leave beginners guessing as to how to actually play the game.
+-------------------------------------------------
+:::Date::: Jun  2, 2006
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.3
+Critic Score: 5.9, 7 Review (s)
+User Score: 8.0, 180 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Strategy First
+Developer: Sixteen Tons Ent.
+Genre: Real-Time Strategy
+Date:     Apr 6, 2006
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+The interesting premise of Emergency 3 is negated by often clumsy controls, frustrating mission 
+ design, and terrible artificial intelligence. 
+
+  Emergency 3, the latest real-time strategy game from publisher Strategy First, attempts to capture 
+ the urgency of life-and-death situations that arise from sudden and unexpected events like train 
+ wrecks, automobile accidents, structure fires, explosions, and even failed bungee jumps. But as 
+ exciting as it may sound, Emergency 3 delivers much more frustration than dramatic tension, thanks 
+ to clumsy controls and the trial-and-error nature of the mission design. The flaws are made all 
+ the more apparent by the fact that most of the missions are actually creative and interesting, 
+ and that the overall premise of the game is a promising one.  
+
+          It's like  Rescue 911 , but with clumsy controls, annoying mission design, and no William 
+ Shatner.     
+
+  The gameplay in Emergency 3 is divided between a 20-mission single-player campaign and a freeplay 
+ mode. In freeplay, you can complete a series of challenges or address an endless stream of emergency 
+ situations spread out over a large town. Regardless of which mode you choose, the basic gameplay 
+ remains the same. You're given specific objectives to complete and you must use a variety of rescue 
+ units to do so.  
+
+  The missions in the freeplay mode are as simple as putting out a fire, responding to a very generic 
+ "medical emergency," or sending out an engineer to repair a faulty traffic signal. As you play, 
+ you'll see the same handful of objectives repeated ad nauseam, the only variables being the location 
+ and frequency of occurrence. Once you figure out how to address each type of scenario, the challenge 
+ is derived from micromanaging several units at a time and balancing your budget.  
+
+  The single-player campaign features much more-varied missions and locations, some of which are 
+ quite creative and interesting. Before each mission, you're treated to a rendered scene that shows 
+ exactly what happened in the moments leading up to the event. You'll have to deal with all kinds 
+ of situations that go way beyond simply putting out fires or treating wounded people. There's a 
+ multiple-car pileup caused by a distracted bus driver, a collapsed glass dome over a crowded water 
+ park, a bungee jump gone terribly awry, and more. But as compelling as the setup is for each of 
+ these missions, they play out in an aggravatingly rigid step-by-step process that leaves little 
+ room for error. The missions will try your patience by requiring you to follow a very specific 
+ course of action every step of the way. It's up to you to figure out what you need to do, be it 
+ hunting for a tiny, nondescript control box to turn on a traffic signal to divert traffic away 
+ from an accident, or searching for a fallen jumper who has been washed downstream and ended up 
+ underneath some underbrush. Chances are the jumper will die a dozen times before you actually find 
+ him, and when you do find him, you'll have to figure out exactly which rescue unit to use to save 
+ him.  
+
+  That brings up another flaw in Emergency 3. There are more than 30 rescue vehicles in the game, 
+ but there's no explanation of what each one actually does, or how to use them. There are the standard 
+ fire trucks, ambulances, and rescue helicopters, but then there are much more specialized units 
+ like fire boats, K9 units, and salvage trucks. Each unit serves a very specific purpose, but there's 
+ often very little indication as to what that purpose actually is. There .pdf manual included with 
+ the game doesn't explain much of anything, and the in-game tutorial only shows you how to use a 
+ handful of different units. There is a bit of brief text accompanying each unit, but you can't 
+ access that until you're already in the midst of a mission. So while people are suffering all kinds 
+ of unspeakable horrors, you have to read through a bunch of often poorly translated text to figure 
+ out which of the couple-dozen units you need to use. It would be like a paramedic showing up to 
+ help a guy having a heart attack, only to stop and read the instructions on how to get the defibrillator 
+ working.  
+
+  Once you figure out which unit or units you need to use, there's the challenge of actually controlling 
+ them. Each unit has to be deployed one at a time, and once they appear on the scene you can start 
+ to issue orders. For the most part, this just involves selecting a unit with a left mouse click, 
+ setting a destination with a right mouse click, and interacting with people or objects with another 
+ right mouse click. It's simple enough when there's not too much going on, but when you're trying 
+ to juggle dozens of units it can get difficult. For one thing, the units don't always go where 
+ you tell them to. Occasionally they'll find their way without any problems, but other times your 
+ medics will end up wandering off into the middle of a forest when you try to get them to cross 
+ a bridge or enter a building. Other times, your units will get stuck in a confined area and will 
+ just give up and quit moving.  
+
+  Another problem is the cursor, which changes shape to indicate when you can interact with an object 
+ or person. Unfortunately, the cursor isn't very responsive to these interactive spots, so you'll 
+ often have to mouse over a person or object several times before you can actually interact with 
+ it. Targeting can also be difficult. Sometimes, when attempting to set up a police officer to direct 
+ traffic, they'll face  with  traffic on a one-way road, and sometimes your firefighters will inexplicably 
+ stand there with a hose doing nothing while fires rage all around them. Even more frustrating is 
+ the artificial intelligence (or lack thereof) of the civilians. Rubberneckers will stroll out into 
+ the middle of traffic on a four-lane highway to get a look at an accident; pedestrians will walk 
+ right up to a burning building, and so on. Since most missions require you to keep the casualties 
+ to a minimum, it can be extremely frustrating when absolutely everyone in the game has a death 
+ wish.  
+
+          The artificial intelligence in this game will have you questioning whether or not any of 
+ these people are actually worth saving after all.     
+
+  Emergency 3 at least looks fairly decent, and will run just fine on a PC with relatively modest 
+ specs. That said, it's nothing particularly eye-catching, either. Unlike the previous Emergency 
+ game, this one allows you to rotate the map, which allows you to get a clearer perspective on the 
+ often cluttered scenes. Each of the units is fairly detailed, and for the most part they are easy 
+ to distinguish from one another. The game sounds considerably worse than it looks. Even if you 
+ forgive the blaring sirens, which seem somewhat necessary given the subject of the game, the sound 
+ quickly gets repetitive, even annoying. Each time you issue an order you'll hear the same confirmation 
+ phrase from your workers, and you'll always hear the same grunts and moans from the people you're 
+ trying to rescue.  
+
+  As far as extras go, Emergency 3 does have a few features beyond the main game. You can upload 
+ your challenge mode scores to an online scoreboard, and the game does come with a mod browser, 
+ although there aren't exactly a ton of mods available for the game. There's also an external scenario 
+ editor that allows you to create your own maps and missions. You can create as detailed of a scenario 
+ as you want, or even edit existing scenarios. However, the program is anything but user-friendly, 
+ and you'll be completely lost if you don't have a lot of patience and at least a slight understanding 
+ of computer programming.  
+
+  Despite its flaws, Emergency 3 does have a few enjoyable moments, due entirely to its unique premise. 
+ Unfortunately, that isn't enough to carry the tedious mission design, awkward controls, and aggravating 
+ artificial intelligence that pervades almost every moment of the game.     
+-------------------------------------------------
+:::User Reviews::: (7 Reviews)
+::::::
+UserName: majesticcryx
+Rating: 8
+Date: Sep 18, 2007 6:07 am PT
+Review:  Emergency 3 is the latest North American release in Sixteen Tons franchise, published by Montreal 
+ based Strategy First. Having been given the opportunity to play (and review) the 2003 release, 
+ Emergency 2: The Ultimate Fight for Life, I can safely say that the same elements that made the 
+ second release enjoyable are back. Unfortunately, the same overly difficult and frustrating puzzle 
+ designs, as well as the non-intuitive and unresponsive user interface have followed it as well.
+ 
+  
+  As I said with Emergency 2, this is a title I really could enjoy. It touches on a field where I 
+ have derived interest - the co-ordination and management of emergency services for both standard 
+ and extreme crisis management. Like its predecessors, you are responsible for saving lives, and 
+ averting larger disasters. You dispatch emergency vehicles, police, fire, ambulance, as well as 
+ engineering teams for controlling environmental hazards. Using a 3D isometric view, you send emergency 
+ crews to the scene of a disaster, unload them, and secure the scene, resuscitate and remove victims, 
+ restrain criminals, put out fires and control any other dangers in the vicinity. You are put into 
+ the role of crisis coordinator, and it certainly isn't an easy one.
+  
+  Let's start out with what's new in Emergency 3. Aside from the stuff you'd expect, the game features 
+ an enhanced physics engine supporting crashing buildings and flying debris, as well the graphics 
+ have also been vastly enhanced. The higher resolution textures and enhanced detail in the world 
+ look outstanding, as well as the improved fire and smoke effects. Character and vehicle animation 
+ are still lacking, but at least the world around them looks good. Also new is dynamic rotation 
+ in the 3D world (would could have been very helpful for that blasted virus infected monkey escape 
+ level in Emergency 2) . Finally, the game introduces a new mission editor, and unlimited scenario 
+ mode, better known as free mode.
+  
+  Emergency 3 offers two modes of play, free mode where you face an endless number of challenges 
+ in managing the emergency services for a large city, and the campaign mode similar to that found 
+ in its predecessors. In free play, you are given brief and vague descriptions of incidents in which 
+ you have to respond, accidents, minor fires, unknown medical emergencies, and the like. The challenge 
+ here isn't necessarily solving the puzzles, it's balancing a budget (each unit costs money to dispatch) , 
+ and micromanaging these units  it quickly becomes tiresome and repetitive.
+  
+  On the campaign side of things, Emergency 3 offers twenty new missions that vary in objectives, 
+ techniques, and difficulty  ranging from hard, harder, and hardest. I'm glad I've played the second 
+ game in the series, as I can only imagine how difficult it would be to just step into this game 
+ for the first time. Emergency 3 opens with a relatively straightforward missions and the difficulty 
+ ramps up quickly  much too quickly for even experienced gamers (not to mention beginners) to really 
+ want to continue playing deep into the game.
+  
+  The objectives of each mission are quite varied, forest fires, blazing buildings, massive traffic 
+ pileups, train crashes, terrorist attacks, you name it, it's likely here. Your mission is always 
+ the same, get people out of harms way, secure the scene, save lives, and take care of any remaining 
+ threats. At your disposal are thirty-five vehicles and a wide array of personnel, everything from 
+ pumper and ladder trucks, police and airvac helicopters, fire boats, water bombers, heavy salvage 
+ trucks, etc. The standard units are pretty self explanatory, what makes the game difficult to step 
+ into is the lack of description as to what each of the specialized units actually does, and what 
+ it is useful for. The included documentation is mediocre, and the included tutorials only describe 
+ a handful of the units found in the game.
+  Similar to its predecessor, at the beginning of each mission, the game introduces the environment 
+ and the incident through a brief rendered cutscene. What makes the game so frustrating is the exact 
+ sequence of steps you have to figure out to complete a mission, even missing one minor step will 
+ cause the mission to fail and restart from the beginning. An example, in one scenario early in 
+ the game, a bus driver not paying attention to the road causes a massive pileup. You're on the 
+ scene, and the game quickly tells you to make sure you divert the traffic. After several attempts 
+ to divert traffic with police officers (resulting in their deaths and the mission ending) , you'll 
+ eventually figure out that you have to send an engineer to a little tiny control box to enable 
+ a traffic signal at the exact point of the accident (handy that it just happened to be there) .
+ 
+  
+  So, after spending ten minutes dispatching units to the scene, cutting open cars, stabilizing victims, 
+ and transporting them to hospital, the game lets you know that you may be forgetting someone. You 
+ dispatch a diver looking for something in the water next to the highway. A few minutes later, another 
+ warning appears that a few stupid pedestrians are getting out of their cars on the other side of 
+ the highway to take a closer look at the scene. Unless you dispatch a police helicopter right away 
+ (because the police cars and officers can't get to the other side of the highway for some odd reason) , 
+ land it in the field, and clumsily direct these people off the highway, you'll fail the mission 
+ as one of them will be hit by a car. I know this firsthand, I failed many, many times because of 
+ this exact issue. And this isn't an isolated incident; expect to repeat most of the missions a 
+ few times because you didn't follow the routine to a tee, or missed a minor step. It's what makes 
+ Emergency 3 so inflexible and a very frustrating gameplay experience. It's really a shame, because 
+ the missions themselves are quite creative and diverse, but this rigid gameplay model takes away 
+ much of the fun of looking forward to the next mission.
+  
+  I've got another minor nitpicky point that I noticed in the second release, and hasn't been changed 
+ for this one. Sound localization would be a big asset  the game was developed in Europe and as 
+ such all emergency vehicles have the British siren effects. The game would feel much closer to 
+ home if the developers had localized it for a North American release. The rest of the sounds are 
+ quite mundane and repetitive, you'll hear the same sound clip whenever you issue orders to a unit, 
+ and the same moans and groans from victims lying on the pavement.
+  
+  If you could put aside the overly high difficulty level, frustrating mission design, and really 
+ dumb AI, Emergency 3 still has one major issue. The control schema uses a simple point-and-click 
+ context-sensitive interface; unfortunately its clumsy implementation leaves a lot to be desired. 
+ On occasion, when directing units to a specific position they'll end up in the middle of nowhere. 
+ Without first rotating the camera, it's very difficult to perform certain actions (like hooking 
+ a hose up to fire hydrant if a tree is slightly blocking your view) . I've even instructed a police 
+ officer to direct traffic, only to have them turn their back on the traffic and start directing 
+ while facing the wrong way. Placing and directing units often turns into a chore when they get 
+ stuck, and even when stuff does work, you'll find you often have to click on the buttons more then 
+ once for the unit to actually respond to your command  another annoyance to add to the pile.
+ 
+  
+  Emergency 3 isn't a terrible game by any stretch of the imagination, it's an innovative title based 
+ on a unique premise. Where it falls short is in a few key elements, the rigid gameplay structure, 
+ dumb artificial intelligence, overly challenging missions, and poorly implemented control scheme 
+ all greatly detract from the overall enjoyment factor. Hopefully, the next game in the series will 
+ address these issues, but in the meantime it's very difficult to recommend Emergency 3 as an enjoyable 
+ game unless you can overlook its many significant flaws. 
+::::::
+
+::::::
+UserName: carversth
+Rating: 9.1
+Date: Dec 30, 2006 8:58 am PT
+Review:  In Emergency you control all of the emergency's services, Fire Dept., Police Dept., Medical Dept. 
+ and Technical Dept.
+  
+  The missions grow more difficult as you reach the last missions, each mission has a fun part and 
+ a hard part.
+  Fun part is for me is like cutting cars, taking people out of burning buildings, saving people 
+ and putting them in an ambulance...
+  Hard and boring part? Fighting fires (and if you lose a bit of control, you can restart the mission 
+ because you'll never control the fire) , trying to make the (idiot) people not going inside an burning 
+ building to see what's happening..
+  
+  Well, there's a lot to do in emergency, but one of the worst things are... the controls.
+  Its 
+ really fun the gameplay, the sounds, the graphics and even the dramatic scenes of people fainting, 
+ a car running over lots of people, an Movie Theater exploding... and then having to fix the things 
+ up... but...
+  Having to control one firefighter to go evacuate a building by ordering him to
+  1) Enter the 
+ building
+  2) Lead the person
+  3) Get out of building
+  4) Lead person away from the critical area
+  5) Go back and do everything again with every person 
+ there.
+  
+  Well, that's really not that fun...
+  Some missions would be better if you could get firefighters to automaticly evacuate buildings so 
+ you could take care of a fire spreading that's killing more people that you're saving...
+  
+  But, you can find the fun in this game, but its a bit difficult (mainly because of the controls) .
+ 
+  Trust me, after all the bad sides this game is fun, after you play it, you'll want to become a 
+ firefighter or something :)
+  
+  And that's it! A great game, with it downsides.
+  Emergency 3.... The mission is... LIFE 
+::::::
+
+::::::
+UserName: admiralodyssey
+Rating: 6.2
+Date: Aug 1, 2006 2:17 pm PT
+Review:  I've only played it a bit, but the game is definatly lacking. When it was picked up for sale in 
+ the US, why didn't they put in US sirens and vehicles? I'm trying desperatly to put in a mod to 
+ fix that, but the patch required isn't in English as far as I can find, and the game's official 
+ website is only half in English. The cover shows a nice looking US style fire engine with an ambulance 
+ that looks the same as the one I drive, just with different paint and graphics, but in the game 
+ you have a bunch of Euro-firetrucks. 
+::::::
+
+::::::
+UserName: mikley28
+Rating: 7.9
+Date: Jul 15, 2006 4:57 pm PT
+Review:  This has to be one of the most underrated games. It can be addicting like those tycoon games and 
+ doesn't take an extremely high end PC to run. It is one of the better games made lately and is 
+ a steal for only $20 at Gamestop. In the few days I had it I have ignored Battlefield 2. It has 
+ a few bugs, such as moving the cursor curing the cut scenes gets the camera stuck scrolling. 
+ 
+  
+  Please Please Please!!! I hope someone picks up the license for Emergency 4 which is currently 
+ available in EU in French and German.
+  
+::::::
+
+::::::
+UserName: SK64killer
+Rating: 9.3
+Date: Jun 17, 2006 10:51 pm PT
+Review:  yep thats right i rate it a 9.7 because i love this game and i think i rated it right so if you 
+ dont like it go play some other game alright because somepeople like alright now ok well i like 
+ this game because its just awsome with all the action and gameplay or whatever you call it i thought 
+ this game was great it really depends on what kind of computer you have to have a high graphical 
+ computer to play this game the way you want it to and like i said i love this game i play it all 
+ the time so keep it up 
+::::::
+
+::::::
+UserName: JeffreyCor
+Rating: 9.2
+Date: Jun 11, 2006 2:47 pm PT
+Review:  I really an not sure if the reviewers actually played this game or did something different when 
+ scoring this one. This game is fantastic and was way overdue in the US market. The graphics are 
+ very good and the controls are easy to learn and use. The freeplay option greatly expands the gameplay 
+ over the scripted missions plus the included mod feature allows for massive changes using the same 
+ game base. While the AI people do very stupid things at times, they are no more ridiculous then 
+ what I see going every day by actual people. It is by far better the the previous 2 installments 
+ in the Emergency series and stands as the best until such time as Emergency 4, which is currently 
+ out in German and French regions, is finally published in any English version if not a dedicated 
+ US version. 
+::::::
+
+::::::
+UserName: staraflur
+Rating: 4.5
+Date: May 1, 2006 7:35 pm PT
+Review:  I expected more from this game, a sequel. But it was a huge letdown. Whoever devised the idea for 
+ getting the ambulances, fire trucks, etc to the scene must have deliberately been trying to add 
+ difficulty for some reason. And to make things worse... the AI is horrible as are the in-game instructions. 
+ 
+  
+  I was bored by the second scenario, when I finally realised I was not having fun. What else would 
+ be the point of such a strategy game. I certainly wasn't playing it to learn how to respond to 
+ a real emergency. 
+  
+  I would not recommend it to anyone. 
+::::::
+
+-------------------------------------------------

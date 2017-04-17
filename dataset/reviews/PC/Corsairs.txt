@@ -1,0 +1,140 @@
+-------------------------------------------------
+:::Game Name::: Corsairs
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/corsairs/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jul  7, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.9
+Critic Score: 5.9, 12 Review (s)
+User Score: 8.1, 71 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Ubisoft
+Developer: Microids
+Genre: Strategy
+Date:     Apr 30, 1999
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+Despite its promises of high adventure and pirate riches, Corsairs winds up nickel-and-diming itself 
+ to death. 
+
+ Microids' Corsairs takes the standard real-time strategy model, tosses in a great deal of new ingredients, 
+ shakes well, and decants the not-quite-ripe mixture into single mission-sized mugs. The resulting 
+ brew is, all things considered, a cut above the most common of swill, if for no other reason than 
+ its distinctive flavor. However, its unattractive colors and bitter edge of frustration will probably 
+ keep it from endearing itself to the palates of more discriminating strategy grognards.  
+
+ Corsairs takes place on the high seas in the age of sail; you may opt to serve either France (as 
+ the intrepid explorer Cartier) or Britain (as Captain Blood) . Once you make your choice, your corsair 
+ sets out upon his journey, armed with his own vessel and a message from the local governor containing 
+ the details of his next mission.  
+
+ From the get-go, you'll be faced with a handful of immediate objectives. One of the most common 
+ tasks is building up a substantial fleet. This can be achieved by docking the corsair's vessel 
+ at a nearby friendly trading post and initiating building in the town's shipyard. Up to twelve 
+ different kinds of ships are available, each of which varies in terms of number of cannons, storage 
+ capacity, crew, speed, and toughness. Each ship can then be customized in terms of its cargo and 
+ crew, its munitions, its sails, and its behavior in future battles.  
+
+ Of course, ships aren't free. In order to keep his fleet strong, your corsair will have to pay for 
+ each new craft. Keeping one's pockets full is an endeavor in itself and can be remedied by means 
+ of trading various goods (silk, coffee, sugarcane, copper, jewels, and spices) for money in various 
+ ports of call or by discovering pirate loot buried on a deserted beach.  
+
+ Once you've lined your pockets and amassed an armada, it's time to unfurl your sails and get to 
+ work. The missions, though generally linear in nature, usually involve a handful of various goals 
+ sent to you by governor's missive. You may find yourself waging real-time ship-to-ship combat against 
+ dastardly pirates, attacking an enemy trading post or searching for buried treasure.  
+
+ All this might sound interesting enough and sufficiently different from most other real-time strategy 
+ games. Unfortunately, despite its promises of high adventure and pirate riches, Corsairs winds 
+ up nickel-and-diming itself to death. Frankly, Corsairs isn't gold, and it doesn't glitter. Though 
+ the decor of some of the interface screens, bedecked with yellowed parchment and oil-painting portraits, 
+ is more or less spot on, on the whole, the in-game graphics are poor at best. The ships and ports 
+ - and nearly everything else in the game - are low-resolution, hand-drawn sprites that look decidedly 
+ dated. The members of your crew, shown in an overhead view during boarding combat, look especially 
+ bad. Though a ship's crew is composed of three kinds of units - the corsair, the officer, and the 
+ bald-headed grunt known simply as the sailor - the majority of troops on deck will be the same-looking 
+ sailors. As such, you will spend most boarding combats staring down at hordes of shiny, flesh-colored 
+ bowling balls with swords stumbling over each other.  
+
+ Accompanying Corsairs' unimpressive visuals is its equally unimpressive sound. The combat sound 
+ effects, particularly the firing of cannons and the clashing of swords, though slightly subdued, 
+ are for the most part adequate and do not offend. Many of the voice samples are likewise forgivable, 
+ but some, particularly the snooty emissary who announces the governor's messages, can get annoying 
+ rather quickly. Corsairs' musical score, much like its sound effects, is mediocre. To its credit, 
+ the music is appropriate to the pirate theme; most tracks are simple, upbeat affairs characterized 
+ by the duo of a high-pitched piping flute and a lively violin. Unfortunately, that's pretty much 
+ all there is. Nearly all of the game's tracks are simple, brief compositions looped endlessly, 
+ and as a result, they all get tiresome quickly.  
+
+ Of course, a game's superficial blemishes can be forgiven in light of its superior gameplay. Lamentably, 
+ Corsairs has no such saving grace, possessing instead numerous interface problems that weigh the 
+ already troubled game down further. Though billed as a game of both military and financial strategy, 
+ Corsairs' trading system is nothing more than buy low, sell high. Simply bring your ships to the 
+ port that is selling goods the cheapest, stock up, head out to the port that is paying the most 
+ for that particular product, and unload. If you're still strapped for cash, go and do it again. 
+ The process is tedious, to say the least, since goods and money cannot be transferred en masse 
+ - in order to unload those 55 tons of sugar cane, you will have to click your mouse 55 times. Considering 
+ that you'll be dealing with vessels that have in excess of 2000 tonnage, you'd do well to consider 
+ putting aside your cutlass and eye patch in favor of an ergonomic mouse and an ace bandage for 
+ your wrist. Though Corsairs boasts a "reputation" system, wherein the less experienced landlubber 
+ will have to haggle with merchants, while the more decorated warrior should command more respect 
+ and better market prices, it doesn't actually seem to have any real impact on trade or finance. 
+ Even the most grizzled veteran will find himself back at Port So-And-So, clicking away at the trade 
+ screen.  
+
+ Regardless of whether you become the terror of the deep or remain a lowly cabin boy, no amount of 
+ renown will allow you to take meaningful control of your units. Specifically, you cannot select 
+ any of your units unless they are in view on the main map (the "select all" button is useless in 
+ this regard) . What often occurs as a result is that you'll scroll the map away from your ships, 
+ either to locate your trading or mission-based destination or to observe any enemy activity, then 
+ have to jump back to your units, select them all, and send them on their way. This mild annoyance 
+ is quickly exacerbated by Corsairs' poor unit pathfinding. It's not uncommon at all to set a straight-line 
+ path even over a short distance, only to have one or more of your ships split off from the rest 
+ to take the "shortcut" all the way around the map. In addition, if one of your ships is blocked 
+ by another, the first ship can and often will come to a complete stop and be left behind. Should 
+ either of these problems occur, you'll be stuck scrolling around the map finding the stragglers 
+ and bringing them back to the flock, as well as stopping the ships that were on course, all in 
+ order to regroup.  
+
+ This makes large-scale offensives far more difficult than they should be, to say nothing of mid-sea 
+ ambushes by enemy ships, which can and do happen often. In addition, the differing ship speeds, 
+ which should have played an interesting and important strategic role in naval combat, only serve 
+ to make these problems worse: All too often, the straggler will be one of your slower ships. As 
+ a result, your frontrunners, which will nearly always be your fastest ships, will speed off the 
+ main screen while you desperately try to locate your off-course vessels. As you might expect, ship 
+ speed is roughly inversely proportional to hull strength, so your faster, weaker ships will cruise 
+ right into enemy territory without your slower, stronger ships to provide reinforcements, and will 
+ be blasted to smithereens, or worse, be captured and converted to the enemy's cause before you 
+ can even get your troops together. Adjusting each ship's sails carefully doesn't do much to offset 
+ the speed difference, either. Given these control difficulties, faster ships simply aren't reliable 
+ and are all but useless.  
+
+ Boarding combat is unfortunately no better. As mentioned earlier, the majority of boarding units 
+ are the grunt sailors, who are armed with cutlasses and fight up close. These grunts are as dumb 
+ as boards themselves; often, they'll bottleneck on the gangplanks between ships, doing absolutely 
+ nothing. You can alleviate the traffic a bit by using grapnels to swing across, though you have 
+ to manually guide your units to do so, and only one unit may use a grapnel at a time. Of course, 
+ swinging on a grapnel takes several precious seconds, so the usual sequence of events is as follows: 
+ You guide one lone, solitary sailor to swing across into the midst of the enemy's crew; he recovers 
+ and is cut down fast enough to allow you to have another lone, solitary sailor queued up and ready 
+ to swing across. Your other six sailors stuck on the gangplanks between ships must certainly appreciate 
+ it, as does your corsair, who, if he dies, promptly ends your mission in defeat.  
+
+ Corsairs' unusual backdrop gave it the potential to follow in the footsteps of Sid Meier's strategy 
+ classic Pirates!. Unfortunately, its cumbersome interface and lackluster presentation drag it straight 
+ down to Davy Jones' locker.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

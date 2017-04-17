@@ -1,0 +1,1089 @@
+-------------------------------------------------
+:::Game Name::: Lionheart: Legacy of the Crusader
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/lionheart/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug 18, 2003
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.5
+Critic Score: 6.4, 31 Review (s)
+User Score: 7.1, 599 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Interplay
+Developer: Reflexive Ent.
+Genre: Computer Role-Playing
+Date:     Aug 13, 2003 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+If you've played and enjoyed earlier RPGs from Black Isle Studios, this one won't impress you, but 
+ at least it'll remind you of those great games. 
+
+  Interplay's Black Isle Studios division is one of the best things ever to happen to computer role-playing 
+ games. Many of the best RPGs from the last five or six years have been Black Isle games: Fallout, 
+ Baldur's Gate, Planescape: Torment, and Icewind Dale are all part of this brand. Considering that 
+ amazing track record, it's easy to get excited about Lionheart: Legacy of the Crusader, Black Isle's 
+ latest RPG. Unfortunately, while it does bear some similarities to earlier games from Black Isle, 
+ it's generally just not as good. It's primarily a hack-and-slash game, but the combat tends to 
+ be unsatisfying, the production values seem dated, the difficulty is uneven and sometimes excessive, 
+ and the original alternate-history setting isn't enough to compensate. Even so, the game has some 
+ merits, and it can be entertaining for Black Isle fans who don't go in expecting too much.  
+
+          Lionheart has a unique setting, and that's definitely the best thing about it.     
+
+ 
+  Up till Lionheart, all previous Black Isle games had been developed either internally at Interplay 
+ or by Canadian developer BioWare, which created the Baldur's Gate series. Lionheart is instead 
+ the work of Reflexive Entertainment, whose credits include 2001's Zax: The Alien Hunter and Star 
+ Trek Away Team, as well as a couple of great shareware games, Ricochet and Crimsonland. Not that 
+ a company's past achievements are necessarily determinative of its future potential, but Reflexive's 
+ past focus on relatively simple, action-oriented games does come across in Lionheart. At first, 
+ this game has all the trappings of a complex RPG, including an open-ended character-creation system 
+ lifted directly from the Fallout series, dialogue with non-player characters, lots of side quests, 
+ and more. However, soon enough, the gameplay of Lionheart becomes a Diablo-style dungeon crawl, 
+ in which your lone character will inch his or her way through various enemy-infested areas, cutting 
+ down countless forgettable foes.  
+
+  Lionheart isn't the first RPG to feature an alternate-history setting, but it still deserves credit 
+ for trying to do something different. According to the game's fiction, Richard the Lionheart's 
+ 12th-century Crusades resulted in a cataclysmic supernatural event called the disjunction, sort 
+ of a Pandora's-box-opening style of event that unleashed all sorts of magic and evil into the world. 
+ The game takes place in the 16th century in the wake of the disjunction, but despite the unusual 
+ setting and the presence of some historical figures such as Leonardo da Vinci, William Shakespeare, 
+ and Nostradamus, Lionheart basically tells your average RPG story, in which your character is a 
+ reluctant hero destined to thwart a great evil.  
+
+  When you first begin, you can either choose from a number of pregenerated characters or create 
+ a custom character using the SPECIAL system (named after its seven core character attributes: strength, 
+ perception, endurance, charisma, intelligence, agility, and luck) , first seen in 1997's Fallout. 
+ You don't just choose to play as a fighter, a magic user, or a thief here -- using this system, you 
+ define your character's core attributes and choose which skills he or she will excel at, so you 
+ have a lot of freedom in developing your persona. In practice, though, Lionheart all but forces 
+ you to play as some sort of combat-oriented character. You'll visit some towns and talk with some 
+ of the locals, but more often than not, you'll be out in the wilderness, all by yourself, fighting 
+ lots of monsters. To do so effectively, you'll want a character who's exceptionally good with weapons 
+ and magic -- preferably both and not just one or the other. So, the open-ended character-development 
+ system is really more of a guessing game. Are you sure you chose all the "right" skills? Restarting 
+ as a new type of character can be a fun and rewarding part of an RPG, but in Lionheart, you might 
+ feel forced to.  
+
+          Combat is the focus of the gameplay, but it's awkward and can be very difficult.     
+
+ 
+  Regardless of your character, the combat's definitely got some problems. The action feels hectic 
+ and jerky, and it mostly just involves you left-clicking on enemies to auto-attack them with your 
+ weapons and right-clicking on enemies to cast spells on them. Most enemies rush straight at you, 
+ fast, and the speed of the game isn't adjustable, so you'll often find yourself desperately trying 
+ to click on the moving targets to gain the initiative. Once one enemy falls dead, you'll need to 
+ quickly click on another. You can pause the action, and while you can't target foes or issue move 
+ orders in this state, you can quaff as many healing potions as you need to when the action's stopped. 
+ With all that said, aside from it being repetitive and not particularly interesting, the combat's 
+ biggest problem is its difficulty. Some of the battles in Lionheart are flat-out punishing, and 
+ in them, you'll just keep dying and dying until you luck out and land a series of critical hits, 
+ or something. At least the loading times after death are brief.  
+
+  Also, the game is locked at 800x600 resolution, which considerably limits your field of vision 
+ and makes ranged attacks less effective than they ought to be, since you'll typically be able to 
+ fire off just one or two arrows or spells before your enemy is upon you. An interface bar hogs 
+ the bottom third of the screen, so situations when enemies are approaching from either the top 
+ or bottom of the screen can be particularly annoying, though at least there's an option to minimize 
+ the bar. The limited resolution also forces you to constantly scroll the screen as you click to 
+ move your character -- there's an option to leave the screen centered on your character at all times, 
+ but due to the low visibility, it's useless. The interface has a few other issues, such as the 
+ fact that your auto-map of each area cannot be annotated.     
+
+  The gameplay of Lionheart does have a few notable twists. You can make your character sacrifice 
+ accuracy for an increased rate of attack, or, conversely, to attack more slowly but more accurately. 
+ Your character can also try to aim for the foe's head, arms, or legs instead of just its torso, 
+ which decreases the chances of scoring a hit in general but increases the chances of landing a 
+ critical hit, which can dish out huge damage and also debilitate the foe in some way. In a way, 
+ Lionheart is also paced better than some other action RPGs. Slain enemies routinely leave red or 
+ blue souls floating over their bodies, and these are simply health and magic power-ups, allowing 
+ you to recover from the fight then and there without having to drink potions, rest at an inn, or 
+ set up camp. Unfortunately, though, later in the game you'll find that most all the various healing 
+ options at your disposal are underpowered considering all the damage you'll probably be soaking 
+ up, though blue souls that restore your magic power should be in ample supply. And since there 
+ is no option to set up camp or teleport back to town, you might instead find yourself standing 
+ around and waiting for your wounds to slowly heal before proceeding further into dangerous territory. 
+
+          The game has some good qualities reminiscent of previous Black Isle RPGs.     
+
+  As 
+ mentioned, the game isn't all about the combat. One of the first places you'll visit is New Barcelona, 
+ a large city in which you can take on numerous side quests, align yourself with several different 
+ factions, and basically do the sorts of things and make the sorts of decisions you probably associate 
+ with other Black Isle RPGs. Deciding whether to join with the Knights Templar or the Inquisition 
+ (or neither) , helping Da Vinci build a mechanical arm for Cortez, gaining experience levels and 
+ deciding how to apply your new skill points and which sort of special abilities (or "perks") to 
+ pick for your character -- this is good stuff and a promising start for the game. But in the end, 
+ your decisions will mostly affect how frequently you die in the repetitive hack-and-slash battles 
+ to come. The detail and intrigue of New Barcelona are not representative of the majority of the 
+ game.  
+
+  Games that emphasize combat might as well look good, but Lionheart doesn't. It runs on the same 
+ technology that Reflexive used for 2001's Zax and Away Team, and though this engine is technically 
+ newer than the Infinity engine used for most Black Isle games, it seems just as long in the tooth. 
+ Most of the background scenery is completely static and quite dark, though fairly good looking 
+ and detailed, while the characters in the game are small and lacking in detail. Some of the animations 
+ are nice, but the characters (yours included) all move about stiltedly and tend to come off looking 
+ silly. Some lighting effects and decent-looking spells help matters a bit, but Lionheart still 
+ looks like a game from two or three years ago.  
+
+  The audio isn't any better. Voice acting is used for the occasional non-player character, and it's 
+ of good quality. On the other hand, the enemies all emit one type of groan or shriek when they 
+ first spot you, and then a slightly different groan or shriek when they die. Your own character 
+ is practically silent, and the effects of swords, arrows, and spells are understated and bland. 
+ Lionheart's musical score includes some decent compositions, but in many scenes there's no music 
+ whatsoever (and little to no ambient sound of any kind) , and in other scenes the music will loop 
+ over and over till it adds to the frustration of the combat. We also experienced some glitches 
+ with the audio -- the music would skip a beat on some occasions. We ran into a few other technical 
+ issues, including a couple of unceremonious crashes to the desktop and some mysterious though brief 
+ fits of slowdown.  
+
+          The historical references can be interesting, but they aren't enough to rescue Lionheart 
+ from its problems.     
+
+  Lionheart has a multiplayer mode with a built-in server browser, allowing up to four players to 
+ join together and fight their way through the game's various locations. Yet the multiplayer seems 
+ like an afterthought, as even game sessions reporting low pings tend to suffer from some severe 
+ lag, only one player at a time can interact with non-player characters, and the content of the 
+ multiplayer mode is the same as the single-player mode. Still, theoretically, the multiplayer can 
+ help offset some of the game's balance issues, as in this mode, characters specializing in thieving 
+ skills, ranged weapons, or support magic -- all of which are in the game but normally not terribly 
+ useful -- can properly support a heavy-hitting ally or two. But unless you've got a few friends willing 
+ to play on the same schedule as you, and ideally over a LAN instead of the Internet, then the multiplayer 
+ probably won't do you much good.  
+
+  Despite its shortcomings, Lionheart still offers a unique setting in which you can interact with 
+ characters representing some of the 16th century's most famous thinkers and explorers, and the 
+ combat can be fun if you figure out (and like figuring out) powerful combinations of skills and 
+ abilities for your persona. If you've played and enjoyed earlier RPGs from Black Isle Studios, 
+ this one won't impress you, but at least it'll remind you of those great games.     Editor's note 
+ 08/19/03 : When the review was originally posted, it stated that the game lacked an option to allow 
+ players to view enemy health meters, which is incorrect. GameSpot regrets the error.    
+-------------------------------------------------
+:::User Reviews::: (26 Reviews)
+::::::
+UserName: AndrewLoh
+Rating: 9.5
+Date: Mar 3, 2009 6:43 pm PT
+Review:  amazingly deep historical insights with astounding character development. the likes of leonardo 
+ da vinci's workshop, galileo's observatory, the druids, the knights templar, the inquistion, don 
+ quioxote, cortez, shylocke, and far more deeper subtil historical inferences that I have yet to 
+ fathom. the neverending journey towards the depths of legends past. another AMAZING product developed 
+ and marketed successfully by the amazing corporation of interplay entertainment. do not miss out 
+ on this priceless sparkling ruby...
+  
+  interplay entertainment, by gamers for gamers...
+  
+  this mystery of marie antoinette...
+  
+  the mystery of the zen masters...
+  
+  the spanish 
+ armada...
+  
+  the english fleet...
+  
+  the velvet underground?
+  
+  the journey of ancients
+  
+  magnifique...
+  
+  a wonder wall production... 
+::::::
+
+::::::
+UserName: Azghouls
+Rating: 7
+Date: Sep 15, 2007 4:13 pm PT
+Review:  Gameplay 6
+  Graphics 8
+  Sounds 7
+  Value 8
+  Tilt 7
+  
+  The Good
+  * Detailed history
+  * Superb voice acting
+  * Goblin Poetry
+  
+  The Bad
+  * Resolution is 
+ locked at 800x600
+  * Somewhat repetitive game play
+  * Magic system is comparatively weak to melee
+  
+  It's hard not to get excited about Interplay's 
+ latest release Lionheart: Legacy of the Crusade back in 2003. Over a year in development combining 
+ with the rumour mills about the possible collapse of Interplay makes me want to say 'lets play 
+ it just one more time for the road'.
+  
+  On the surface it does look like a noble RPG. There are many elements on hand that is rarely seen 
+ in many other RPGs. Some of the examples are The Renaissance Period (for which I don't know why 
+ this part of history is rarely touched) , the idea of intelligent goblins and no orcs nor elves 
+ could be to many 'experienced' role-players going against the 'laws' of fantasy RPG. On the other 
+ hand, Lionheart is using the successful 'Diablo' component of serious hack-and-slash over 'conversational 
+ trees' to embrace these 'missing elements'. You really cannot blame Reflex Studios trying this 
+ out as this method has been extensively used with many other action RPGs.
+  
+  As the old saying goes 'What's today success is tomorrow's failure' pretty much sums up the mediocre 
+ public attention to this game. Considering this over-used formula constantly being displayed and 
+ I must admit can be quite tiresome, the unique premise of an alternate renaissance Europe have 
+ captivated me to continue this game until the very end.
+  
+  The story blends well mixing magic with Christianity as you witness throughout Lionheart the continue 
+ struggles of the Inquisition and the Knights Templar trying to suppress the evil magic unbeknownst 
+ created by Richard of Lionheart during the Third Crusade; hence causing the great 'Disjunction' 
+ of 1192. Considering the game starts in 1588, Brittany and Ireland are now 15 different islands, 
+ the Cathars are under threat of extinction thanks to the Inquisition and all the 'world's power' 
+ is centered in Barcelona, where funny enough is where you start.
+  
+  Throughout your adventures, you will encounter many famous people during this dramatic era including 
+ Leonardo (oddly enough assists you instead of being a pompous snob) , Galileo, Marco Polo, Joan 
+ of Arc and many, many others. Pretty much whoever you can think of that had a significant influence 
+ during these 400 years, whether be a philosopher, explorer or a warrior, you'll most likely clash 
+ heads with them.
+  
+  You can divide the game easily enough into three parts. The first part (which mainly centers on 
+ Barcelona and its surrounding areas) uses the traditional role-playing 'tree' conversations to 
+ snatch quests. The second part mixes RPG with 'Diablo style' hack-and-slash and the third part 
+ is just pure combat. Considering the game uses the 'SPECIAL' system (famously used in the Fallout 
+ series) means it's not compulsory to create 'arch-types' therefore you have the freedom to create 
+ any hero you desire. Ironically this is the game's weakness and main criticism. Since the latter 
+ part of the game involves wave after wave of hostility it will be beneficial creating a 'fighter/mage' 
+ arch-type than a diplomat or passive character; well actually a fighter arch-type as the mage component 
+ is a little weak. Many-a-times when monsters spots you, it races towards you so fast you have very 
+ little chance of letting go a spell. Aggressive spells like fire and electricity are very weak 
+ in comparison to the sword so you eventually ending up concentrating on protective or self-enhancing 
+ spells. So here you have this freedom 'SPECIAL' system which will not work effectively in this 
+ game. Again Reflex Studios is using a 'yesterday' success story into 'today's' gaming environment.
+ 
+  
+  Graphically it's a mixed bag of candies. Considering the backdrop is 2D, landscapes, buildings, 
+ fauna, creatures and the likes are impressive. Further on you can see little swarms of fireflies 
+ among the trees, smoke rising from chimneys and drops of water into stilled lakes helps the overall 
+ game play as it immerses you to embrace the world. Sadly enough, the game's only resolution is 
+ 800x600 therefore considering the details placed in this game, without a doubt you'll need a good 
+ pair of eyes to appreciate the artwork. What's more depressing is the 3D characters are not really 
+ behaving in a 3D manner. They tend to be more akin to cutout figures.
+  
+  Sound wise is a great deal better than the graphics department however yet again a mixed bag of 
+ candies... but to say the least, a better bag. All creatures yell out in a unique tone therefore 
+ easily recognisable and the background music sounds promising. However, like many parts of the 
+ game, a shortfall occurs that at times the musical scores tends to skip a beat or two. If anything 
+ is worth mentioning will be the voice acting. I'm sure there will be some games out there that 
+ have great voice acting however for my somewhat limited playing experience I have not heard great 
+ voice acting since The Longest Journey.
+  
+  There are some serious bugs which thankfully are rare but extremely potent. The save system which 
+ sports the good ole quick save however if the game crashes (and for some odd reason mainly happens 
+ around Barcelona) say 'adios' to you saved games. Even the patch won't fix this so it's in you 
+ best interest to use many slots instead of relying just a couple. However this corrects itself 
+ beyond Barcelona. The game's map scrolling is also a little odd. It appears on the odd occasion 
+ it has a brief fit of plummeted framrates then corrects itself.
+  
+  To those who value their time, Lionheart will take away around 50 hours of game play. For an action 
+ RPG it's pretty average in length however it's certainly a great bang for your dollars. Sadly that 
+ once the story ends there is no real replay value. As mentioned before, you can try and create 
+ a different type of hero however due to the amount of combat, you will eventually winding up again 
+ being a fighter/mage.
+  
+  There is a multiplayer option which sports a maximum of 4 players using coop. Again that's pretty 
+ typical of an action RPG however I wish you luck in finding a server to join unless you are using 
+ LAN (and a friend of course) . I even tried and create one however sadly enough it was a very lonely 
+ road.
+  
+  The general packaging is worth mentioning. The manual is around 80 pages and pretty detailed and 
+ well presented, nice cover art however a little overused as it's plastered on the CDs, box and 
+ the manual itself, beautiful artwork of the main races including some beasts of burden and a mini 
+ guide all thrown in for around $10.
+  
+  The overall feeling of Lionheart seems that the game is not in completion. You have geat graphics 
+ however fixed resolution; nice sounds, missing beats; real time combat, weak magic system and the 
+ list goes on. For every positive there seems to be a corresponding negative and this reflects the 
+ greatness of Interplay; that is brilliant game developers, no longer here. Play it for the fond 
+ memories of Interplay so let's do it just one more time... for the road. 
+::::::
+
+::::::
+UserName: rohamroham
+Rating: 10
+Date: Aug 22, 2007 10:15 am PT
+Review:  Well this game is really goon in my opinion.
+  on the video reviw some things might be true but some the things he says are just lies, its really 
+ easy to kill if u have a good character so you wont die a lot .
+  that guy that was playing on the video is really crap, he dosnt know how to make a character thats 
+ why he died a lot.
+  my character is lvl 12 and its now on the crypt when there are like 5-10 monsters it can kill them 
+ easily, it dosnt die and its very strong.
+  
+  so if you cant make a good character and you die a lot, dont blame the game, blame yourself.
+ 
+  
+  the gfx of the game are much better than other, like diablo and others so it deserves a better 
+ score than this. just because you lose at a game dosnt mean its crap does it? 
+::::::
+
+::::::
+UserName: oM1Nu5
+Rating: 5.3
+Date: Jul 24, 2007 12:23 pm PT
+Review:  Assuming you've read the review at Game-spot, you know what the game is about. Here are some aspects 
+ of the game that I'd like to focus on:
+  
+  First of all, I was really disappointed to see the game getting ruined after the first half of 
+ it. Although at first there are tons of side-quests to do, and lots of ways to do them, after a 
+ while you get to follow a specific path, fight hordes of monsters who are barely different from 
+ area to area and not being able to use any alternate ways to deal with them other than your sword 
+ or magic. In the end I found myself playing the game not because I enjoyed it, but because I just 
+ wanted to see the ending.
+  
+  Combat will also make many of you guys feel totally helpless. Not that the monsters are too strong, 
+ but you 'll eventually find that the character you have been creating has serious weaknesses which 
+ you cannot undo. Playing with a hardcore melee fighter should prove easier than with a spellcaster, 
+ but you're gonna get so bored... Even the weapons are starting to look the same, you rarely find 
+ any unique weapon to excite you.
+  
+  Graphics are good, although the HUD should be significantly smaller. Spell effects really impress, 
+ yet your character's animation is pretty poorly designed. There is a really annoying issue with 
+ pathfinding also. You have to guide your man step by step to get him somewhere in the map...
+  
+  Where the game rocks, it's on sound effects and speech. It's super great to listen to the dialogues 
+ when they occur. Music on the other hand, is so repetitive that you might even want to turn your 
+ speakers off sometimes.
+  
+  Overall, I'd say the game is really disappointing. It has kind of replay value of course if you 
+ want to join every different faction or choose a different race, yet I doubt you'll want to go 
+ through the entire thing a second time. Most of you should only replay the first half of the game. 
+ 
+::::::
+
+::::::
+UserName: totalgridlock
+Rating: 7.2
+Date: May 22, 2007 9:05 am PT
+Review:  Gameplay: 8/10
+  I know this game gets a bad rap, but that's at least partially undeserved. What we have here is 
+ a fantasy role-playing game based on the S. P. E. C. I. A. L. rule system, most familiar to gamers as 
+ the mechanism behind the classic Fallout games. The gameplay is quite similar to those games and 
+ most other traditional, isometric RPGs: you go around fighting monsters, questing, collecting items 
+ and building stats to your hearts content. At least it starts out that way, after the first third 
+ or so of the game it pretty much becomes a Diablo-esque romp through endless dungeons. This means 
+ that players who choose to use the wonderful character-building system to create a character to 
+ actually role-play, or to favour a more intelligent route than simply bashing everything in sight 
+ may have a hard time once they get out of the Barcelona region. Its a minor quibble, really. Even 
+ Baldurs Gate was guilty of this to a certain extent. Anyway, Id say its a solid game, leaning 
+ towards the action end of the RPG spectrum.
+  
+  Graphics: 6/10
+  Id expect rather more from a game released in 2003, as to be fair this looks more like a contemporary 
+ of those classic Fallout games from 1997 than something six years younger. Simply old-fashioned 
+ is the term that springs to mind; after all we have an isometric viewpoint, low, fixed resolution, 
+ and an interface bar hogging a large proportion of the screen. In addition, some of the maps are 
+ rather repetitive and dull. Nothing is especially terrible, but I would have liked a touch of spark.
+ 
+  
+  Sound: 6/10
+  Rather plain overall with some nice, although quite bland, background music. The voice acting is 
+ pretty good, but the sound effects amount to the usual generic groans, clanks and bangs found in 
+ any number of fantasy battles.
+  
+  Value: 7/10
+  The campaign is quite lengthy, and poses a decent enough challenge to keep you interested for a 
+ while. While the story might be forgettable in parts, its not naff enough to alienate anyone. 
+ This game should be abiding in bargain bins by now, so RPG fans on a limited budget might want 
+ to give it a whirl.
+  
+  Tilt: 7/10
+  Good.
+  
+  Pros:
+  What really makes this game stand out for me is the setting: medieval Europe with a magical twist 
+ and a winding story that takes you from Spain to France to England to Persia. I love history and 
+ games with historical settings, and I love fantasy. So you can imagine that a game combining both 
+ really appeals to me. In addition, the gameplay is mostly solid and despite its many faults, I 
+ had a blast playing it.
+  
+  Cons:
+  Poor presentation and slightly repetitive gameplay drag an otherwise solid game down into the realms 
+ of the forgettable.
+  
+  Conclusion:
+  Fans of role-playing games, Black Isles particular brand of game, or medieval history might want 
+ to try it out. 
+::::::
+
+::::::
+UserName: tesalito
+Rating: 8.9
+Date: Mar 1, 2007 11:13 pm PT
+Review:  I enjoyed the Baldurs Gate series as the Icewind Dale. I downloaded the Lionheart demo and I needed 
+ to play the entire game. I got it for only 12 dollars. I have to say that this is a gem, oldie 
+ but plays smooth. The graphics are nice, the story is original, developers took a risk taking the 
+ medieval history and modify it to and alternate reality. Finally the music, its awesome! I play 
+ the game with my headphone set. The game is not hard as they say. Im playing with a human character, 
+ focusing in melee two hand fighting and expending my skill point on fortitude. God I am enjoying 
+ this game! 
+::::::
+
+::::::
+UserName: Silas_J
+Rating: 6.4
+Date: Oct 1, 2006 5:26 pm PT
+Review:  I was looking forward to this game when I was waiting for Neverwinter Nights. The alter-earth story 
+ looked compelling and with Fallout's role-playing system, I thought this game would be awesome.
+ 
+  
+  After playing the demo, I should have figured I'd be disappointed, but the story was a compelling 
+ one, so I picked it up when it was cheap. And for a so-so game, I played it through twice.
+  
+  The good part of the game: the backdrops are nicely done, the alter-earth story and the solid 
+ role-playing system was two very strong points about this game. Some of the music scores are good 
+ and don't get tiring. If you choose your skills and perks adequately, it can remain a challenge 
+ from start to finish instead of a cakewalk.
+  
+  The bad press: If you do it right you can, in most places, draw off one enemy at a time, even in 
+ a tightly packed gang of foes. If they had any brains whatsoever, at least the tight groups would 
+ have faced you all at once. Your henchmen will charge at the first sign of an enemy. Although the 
+ explanation of they aren't your slaves is understandable, I spent most of my time travelling alone 
+ because my henchmen kept dying too quickly. The interface is better than Diablo in that you only 
+ need to click once (instead of breaking your mouse buttons) to fight an enemy to the end. But that's 
+ the only perk to the interface. The enemies come running at you, and instead of being able to pick 
+ your enemies while the game is paused, it becomes a game of tag, and in some places a frustrating 
+ escapade of no, THAT'S the one I want to attack. I also found the ending to be a letdown.
+  
+  Bottom line: I think that Black Isle should have been paying more attention Reflexive Entertainment 
+ inability to develop an RPG and less to the financial statistics. This game could have been so 
+ much more, even with the same ending, if they had only taken the time to fix the AI and the miserable 
+ interface. I still find the story compelling enough to play it through to the end more than once 
+ and pretty much enjoy it.
+  
+  I don't feel let down by this game, but I certainly wouldn't have paid full price for it. 
+::::::
+
+::::::
+UserName: serpentfang
+Rating: 6.7
+Date: Sep 29, 2006 2:04 pm PT
+Review:  I really enjoyed the first half of this title. The music, voice acting and sound effects combined 
+ to create just the right stage for an alternate history based on the time of the Inquisition.
+ 
+  
+  The character creation options were interesting and fun. Character selection also enhanced the 
+ premise (demonic and sylvant races created by a magical rift) and provided challenges in creating 
+ just the right mix of skills - taking some attributes would often lower contradictory ones. A variety 
+ of magic, stealth and attack combinations further added to character depth.
+  
+  Once the plot is introduced, you are free to explore the city of New Barcelona, choose factions 
+ to ally with, and complete various challenging and thought-provoking quests. So far, these attributes 
+ all conspired to make this a great game.
+  
+  Suddenly (somewhere around the halfway mark) the quests become uninspired and then non-existent, 
+ and it's simply a matter of the game throwing more and more monsters in your path. They also become 
+ ridiculously difficult (especially if you're not a heavy hitting fighter) .
+  
+  All I can say is, while I don't regret investing time in this game for what it offered, I do regret 
+ that the developers didn't maintain the level of excellence shown in the first half of the game. 
+ 
+::::::
+
+::::::
+UserName: Fengshuigm
+Rating: 7.3
+Date: Sep 1, 2006 3:23 pm PT
+Review:  This game was a swan song of Black Isle Studio, the creator of such grand adventuring prospects 
+ such as Fallout, Fallout 2, and Icewind Dale. To best describe it, Lionheart takes the best parts 
+ of the Fallout series (the SPECIAL and level perks system) and combines it with the real time combat 
+ theme of Diablo.
+  
+  The background for the game is as follows: The game begins with the story that in 1189, the Pope 
+ ordered a Third Crusade to take Jerusalem from the infidels. In 1191, King Richard the Lionheart 
+ captured the city of Acre and demanded tribute from Saladin, leader of the Muslims. When Saladin 
+ failed to produce the tribute in 1192, King Richard was advised to bring together several holy 
+ artifacts to bless his army and to curse his enemies. While Saladin tried to negotiate the tribute, 
+ King Richard put to death several thousand Muslims in a show of force. That bloody act, combined 
+ with the presence of the reality weakening artifacts, caused a calamity known as The Disjunction.
+ 
+  
+  The Disjunction caused a rift in reality, allowing demons, monsters, and other hellish beasts to 
+ appear in the human world. Joining forces, Saladin and King Richard were able to drive off Richard's 
+ advisor, who turned out to be a powerful demon in disguise, and ended the ritual before its completion. 
+ However, the damage was done. Magic was released into the world, mythic beasts now roamed the lands, 
+ and humanity as a whole was ill equipped to deal with them.
+  
+  Fast forward several centuries to 1588, the current time of the game. You play the Scion of Lionheart, 
+ one of the bastard descendants of the rather prolific King Richard. In your bloodline resides a 
+ spirit of considerable power (you can choose whether it is angelic, demonic, or bestial) , which 
+ was once merged with King Richard. The spirit has now awoken within you and allows you to utilize 
+ magic, a rare talent that is now being cracked down upon by the Inquisition, who ironically also 
+ use magic.
+  
+  You start as a slave who narrowly avoids being killed by assassins. After you free yourself, you 
+ meet with Leonardo Da Vinci, who tells you that in order to find out who is trying to kill you, 
+ it would be best if you joined a faction and find out who is behind the assassination attempt. 
+ It is at the foot of Nuevo Barcelona that you start your quest...
+  
+  Character Creation: Fairly straightforward. Anyone who is remotely familiar with the Fallout series 
+ will see the exact duplication of the skill setup, the perks system, and the SPECIAL system (Strength 
+ Perception Endurance Charisma Intelligence Agility Luck) . You can choose four racial types: Pureblood 
+ (human) , Demokin (human who has a demonic spirit taint in their bloodline) , Sylvant (human who 
+ has an elemental spirit taint in their bloodline) , or Feralkin (human who has a bestial spirit 
+ taint their bloodline) . From deciding which race you choose allows you certain abilities and disadvantages 
+ (since this is the 'fantasy history' of the year 1588, racism is alive and well, along with persecution 
+ for being anything other than 'human') .
+  
+  The skills system is arranged so you can devote to three Tag skills that will increase faster than 
+ the other ones. Using the Tag skills allows you to customize your character to your play tastes. 
+ Like sneaking about and popping locked chests with ease? Tag your thieving skill set. Want to be 
+ a splatterpunk? Tag your HTH skills. Want to talk your way out of everything? That's right, Tag 
+ your diplomacy skills. I thoroughly enjoyed creating the character, although I was disappointed 
+ by the few customization choices of the avatar (Head changes or color of your clothes) .
+  
+  Game mechanics/graphics/music: Obviously, the game is completely mouse driven with a set of hot 
+ keys for various actions and placeholders for using spells and commonly used items (i. e. healing 
+ and mana potions) . The resolution of the game is stuck in 800x600 frame, which cuts down on some 
+ visibility. However, you can choose to turn off the feature that allows the screen to center on 
+ the character and can scroll about the screen that way. Combat and magic is just like Diablo, with 
+ creatures rushing to engage your character. Left clicking once on an opponent will start your character 
+ to attack with his equipped weapon until it is defeated. Right clicking will cause the character 
+ to cast his readied spell. As in Fallout, you can choose to hit a certain area on your opponent 
+ in the hopes of causing a critical hit. Unlike Fallout, you may also vary the speed of your attacks 
+ in order to increase the frequency at the expense of accuracy.
+  
+  My quibbles in this section are minimal. To me, there wasn't a diverse enough group of enemies. 
+ The programmers seemed to think that, "Hey, we need another type of monster! Why don't we Super 
+ Size a regular sized monster?" was a good idea. They also thought that just changing the color 
+ of the monster would expand the foe base. It just seemed lazy to me. The music is very good but, 
+ just like the foe base, is limited. Also, the music skips a lot. Even after the patch was used, 
+ the music still skipped and restarted.
+  
+  Like Icewind Dale, you can play the game online, but I have yet to do so. I would be interested 
+ in trying it out, however.
+  
+  Game background and plot: The plot, as mentioned above, is nothing new. You're cast into the unenviable 
+ position of a) trying to find out why someone wants to kill you and b) ultimately stop them from 
+ initiating a Second Disjunction. To that end, the first half of the game is spent in wandering 
+ around Nuevo Barcelona and the surrounding countryside, gaining experience, and getting new equipment. 
+ The game is non-linear in the beginning, but eventually becomes as straight as a ruler in the second 
+ half. This jarring change left the impression that the creators just wanted to rush the player 
+ on to the Final Battle, but not before running the player through several gauntlets of enemies. 
+ My other complaint is that, just like in original Fallout, the companions you have the odd chance 
+ to pick up are useless for the most part. In a turn based combat system, they might last longer. 
+ But, in real time combat, they burn up like snowballs in Hell without their hats. To add insult 
+ to injury, they never gain levels like you do, nor are they particularly intelligent when it comes 
+ to engaging enemies. They just run pell-mell at the nearest baddie and nearly every time they get 
+ their heads handed back to them on silver platters.
+  
+  On the other hand, playing in the alternate universe of 1588 was rather fun. Besides Leonardo Da 
+ Vinci, you also meet the likes of Galileo, Hernan Cortez, William Shakespeare, Machiavelli, and 
+ Miguel De Cervantes (who, like Don Quixote, is slightly off base) . I also found it to be interest 
+ piquing game for European history at that time. Until I played the game, I never knew of the religious 
+ movement of the Cathars. So, I read up on it. Wow, who would have thought that a game might cause 
+ interest in the history that it's using as a backdrop?
+  
+  Words from the Peanut Gallery: After buying the game and finishing it, I wandered around to see 
+ what reviews it got. Overall, the game received mediocre reviews. Some of them were fair, others 
+ were not. I'll respond to some of the complaints about the game here.
+  
+  It's too haaaaard! Hmm, seeing that I have beaten the game three times already, each with a completely 
+ different character style: 1) Archer 2) HTH 3) Mage with high speech skill, I find that argument 
+ to be weak at best and a cop out at worst. The complaints of too much combat are a bunch of nonsense. 
+ This isn't My Little Pony: The RPG. It's a fantasy CRPG, like Fallout, Arcanum, and Icewind Dale. 
+ Of course it's going to be combat centric! If you complained about too much combat and you played 
+ any of those games, or games of that type, before this one then you have no excuse. You know that 
+ combat is going to be involved, usually a lot of it. Granted, I prefer turn based combat, but I 
+ adapted to the real time combat system easily. I like games that are a challenge, that take time 
+ and effort to actually finish. I despise games that you can finish in a weekend. Seriously, what's 
+ the point in that? Next.
+  
+  You need to make your character with high skills in x, y, & z to play this game Rubbish, and I'll 
+ tell you why. The skills mentioned were "Speech, Lockpicking, and Detect Secret Doors." Speech 
+ is good to get out of combat and character interaction, but it doesn't always help. Lockpicking 
+ and DSD are valuable, but if you have low skills in any of them, you can either boost them by a) 
+ buying potions that jack them up or b) find equipment that heighten them as long as you wear/equip 
+ them. The potions and equipment are far from rare and are easy to come by. So, don't feel like 
+ you're screwed if you didn't tag the above mentioned skills. There are ways around it. Next.
+  
+  This alternate universe sucks! The characterizations of historical figures are crap! This game 
+ is historically inspired and not historically accurate. The game never claims or implies it. That's 
+ why I find that review so nonsensical. I was highly irritated that this individual decided to focus 
+ on that rather than the game as a whole. I read his review and thought it was terrible because 
+ he complained about how the historical figures were used, rather than focus on the game. I wanted 
+ a game review, not a history lesson! Also, get ready for this, it's a freakin' G-A-M-E! If you 
+ want historical accuracy, go read a history book. You want to have fun? Play the game.
+  
+  Final standings:
+  Character Creation: A-
+  Game mechanics/Graphics/Music: A
+  Game Background 
+ and Plot: B-
+  Overall: B+ 
+::::::
+
+::::::
+UserName: Cmpunmu3
+Rating: 9.3
+Date: Jul 30, 2006 10:23 am PT
+Review:  They created oddly world of long past times, when different spawns of evil were roaming the earth 
+ and attacking people, not to mention wars that were set in motion between people. It was the time, 
+ when people fought with swords and axes and used power from the spirit world to manipulate minds 
+ of their enemies and then blow them up with the gun-powdered bomb.
+  The game is reasonably difficult, you will have to use spirit powers, all your available skills 
+ to finish quests and proceed further. On theway to save humankind you'll face a lot of dangers, 
+ wich include unequal in power boss fights, avoiding all sorts of traps, facing ambushes and defending 
+ innocent. Sometimes travels take you to the spirit world where you have to face your most terrible 
+ nightmares and make your way through it using own spiritual powers. I noticed that the game gets 
+ really hard to play, if there's no health replenishing skills available - better do something about 
+ it.
+  Also will your hero encounter a lot of historical structures and famous people, and will take part 
+ in history by helping them fulfill their dreams as your main quest.
+  A lot to see here and enjoy the wicked fantasy world with solving creepy quests and turning the 
+ history upside-down by your own hand. 
+::::::
+
+::::::
+UserName: roc_d_goodag
+Rating: 6.2
+Date: Jun 5, 2006 3:47 pm PT
+Review:  When I read the back of Lionheart at my discount store, I was immediately interested. An RPG sent 
+ in an alternate-Earth reality had the possiblities of a fun gaming experience. I enjoyed the historical 
+ references made in the game. Doing quests for figures such as Da Vinci, Cortez, and William Shakespeare 
+ added a nice touch and saved the game from having a lower rating. The game felt more like Diablo 
+ II than any of the Baulder's Gate series. Because of the hack-n-slash nature of the game, the game 
+ had practical limitations to developing and leveling a character for role playing and limiting 
+ combat skills. Overall, an average game that was worth playing through once. If you enjoy the demo, 
+ buy cheap. 
+::::::
+
+::::::
+UserName: EnCahgNeetoh
+Rating: 6.3
+Date: Nov 6, 2005 10:03 am PT
+Review:  This starts out as a game with a lot of promise. It just seems to get difficult late in the game, 
+ with little reward. It just seems like there could have been so much more to this game. But there 
+ seemed to just be a lot of "pasting" of enemies late in the game just randomly for no direct reason. 
+ As for graphics... I don't take them into consideration. I just beat this not too long ago. It's 
+ 2005. Graphics don't mean much, if anything to me when it comes to RPGs that are like this (meaning 
+ Baldur's Gate, Icewind Dale, Revenant, etc) .
+  
+  As in terms of plot, this game seems to be very basic. There aren't any real plot twists. If you 
+ watch the intro (back story) , and then just realize that you need to kill the bad guy... that's 
+ pretty much it.
+  
+  Thinking of all the Forgotten Realms RPGS that Black Isle has made, it is kind of hard to believe 
+ they made this one for only one person in the party. Growing up and playing the Baldur's Gate, 
+ Icewind Dale, etc. games that have a party system and you can mix up the skills. This has you being 
+ pretty much everything. You do get AI controlled partners, but these "partners" are horribly designed. 
+ Even the weakest of them who seems to be incredibly fast, will run in front of you and take the 
+ "blunt" of the first few hits, from a group of enemies. By "blunt" I mean two hits and he is dead. 
+ You can't bring them back either. Once they are dead, they stay dead. Near the end of the game, 
+ after all the "No! Don't rush! &^%#$" which leads to me reloading a quick save game (which will 
+ randomly be corrupted, so it's best to make several 'hard saves') I just let the poor fellow die. 
+ This seemed to be the most frustrating aspect of the game.
+  
+  Near the end, with my melee character, the game got increasingly difficult as well. I read that 
+ with mages/rangers it was much easier. Looking at the gauntlets that are at the endgame, it is 
+ easy to see why. There also seems to be quite a bit missing in terms of variety. There is nothing 
+ really awe-inspiring when it came to spells, armors or weapons. Same basic spells that we have 
+ all seen before. One always hopes for a level cap spell that summons down 500 meteors... not here. 
+ As for weapons/armors... after about 2 hours into the game you see all the magic enhancements that 
+ the game offers. As you progress, instead of a +5 to AC, you will find a +8. Nothing that we haven't 
+ seen before.
+  
+  This game serves mainly as a memory of the great games Black Isle put out so long ago. It's not 
+ necessarily a "bad" game. But it sure isn't "good" either. There are also plenty of bugs throughout 
+ that cause a crash to the ole' desktop. Even with the patch. It mainly seems like a bad first try, 
+ but could lead to a better sequel. But it's two years old, and got bad to decent ratings. We won't 
+ see a sequel, although, I am not incredibly broken up about it.
+  
+::::::
+
+::::::
+UserName: Harm
+Rating: 6.9
+Date: Nov 9, 2004 3:45 pm PT
+Review:  The game isn't as bad as many who have reviewed it make it out to be. The game is by no means innovative 
+ or unique. But for those that love Fallout/Fallout 2 style of gameplay and wouldnt' mind revisiting 
+ that style of game in a new world with different skills and plot then this game will be enjoyable.
+ 
+  
+  Since I'm one of those types that love Fallout, I enjoyed this game. In fact, played it through 
+ with more than one character type just to play around with the skills; similar to what I've done 
+ in the past with Fallout and Fallout 2. 
+  
+  A new touch to these types of games comes in the form of cooperative play, so you and your friends 
+ can venture through the game together. Which is something new to this type of game from Black Isle.
+ 
+  
+  
+  
+::::::
+
+::::::
+UserName: TazmanianD
+Rating: 6
+Date: Sep 16, 2004 9:39 pm PT
+Review:  I have played almost all of Blask Isle's games and have loved most of them. Thus, I automatically 
+ put Lionheart on my preorder list and played it when I got it. What a disappointment. The combat 
+ in the game is rather dull being basically about button mashing. Most isometric games allow you 
+ to pause the game and direct your characters. Not in this game. When you pause it, you are limited 
+ in what you can tell you character to do and targetting enemies in real time is not very easy.
+ 
+  
+  If you play a magic user, be wary. You have an amount of mana that you can use and there's no way 
+ to replenish it quickly without buying a potion (which is difficult early on with limited money) . 
+ There is no way to rest and recuperate. If you run out of mana, you literally have to let your 
+ character sit there and slowly regenerate as you go make yourself a sandwich or something.
+  
+  The characters weren't terrible as some other reviewers have said. The painted backgrounds 
+ are reasonably good and worhty of the game.
+  
+  The only interesting novelty I found in the game was the existence of hidden rooms and doors which 
+ often required a high level of skill to find. They are hidden very well so unless your skill actually 
+ allows you to see them, you wouldn't know they were they.
+  
+  It's a playable game if you're a big fan of the genre, but nothing to write home about. 
+::::::
+
+::::::
+UserName: Eccentric
+Rating: 4.2
+Date: Jul 29, 2004 11:53 pm PT
+Review:  There's a crash bug that I run into about three hours into the game that no amount of tweaking 
+ or patching would fix. A bit dissapointing, I guess, but not too bad since I hated the game anyway. 
+ It gave me an excuse to not feel bad about quitting a game I spent $45 on. Black Isle has put out 
+ some classic RPGs, but this game... I'm sure by now it's available in the bargain bin. If you've 
+ got $10 to gamble with, maybe it's worth getting. I have heard of some people working around the 
+ bugs and actually having a decent time. I certainly was not one of those people. If I had a second 
+ chance, I wouldn't spend any amount of money, no matter how small, on Lionheart. 
+::::::
+
+::::::
+UserName: sywell
+Rating: 8.4
+Date: Jul 17, 2004 1:52 pm PT
+Review:  I was very disappointed by all the naysaying reviews. But there were a couple of positive reviews, 
+ so I decided to give it a try. Being an avid S. P. E. C. I. A. L. fan I had high hopes... and I was not 
+ disappointed. I played through the game as a Thought Magic Fire Mage and reached level 46. One 
+ common theme in negative reviews is the difficulty of the game. I would not say it was difficult, 
+ but if you do not exercise due care you will have your butt handed to you. The graphics are not 
+ mind blowing but they really do the job... think Diablo II. I would highly recommend Lionheart to 
+ anyone but especially RPG'ers. One gameplay hint. Do not scatter your Level Up points around. Stay 
+ focused on improving your character's abilitys. Think offense, defense and healing. These are what 
+ will get you through the game. 
+::::::
+
+::::::
+UserName: doctor_kaz
+Rating: 4.2
+Date: Oct 18, 2003 10:09 pm PT
+Review:  Gamespot's review does not quite describe what a terrible game this is. Lionheart has a very interesting 
+ premise, and it uses a very cool roleplaying system, but it is a poor game in every aspect. How 
+ you could take such a cool concept and make it into such a crappy game is beyond me. There is not 
+ one thing that "Lionheart" gets right. 
+  
+  For starters, this game looks awful. Every screen is is covered in greys or browns, like all of 
+ Europe was just buried in some kind of volcanic eruption. The various areas in this game just look 
+ repetitive and abysmal. Your character, along with all of the game's NPC's, look drab and undetailed, 
+ and they move with herky-jerky motion. 
+  
+  But gameplay is where this game really, really stinks. By and large, it is a terrible dungeon crawl 
+ with a bad combat system. The SPECIAL system used for Fallout and Fallout 2 was excellent, but 
+ here it is simply awful. Everywhere it's the same. A monster from offscreen yells out "rawwwrrrrr" 
+ and rushes at you with light speed and attacks you. It's pointless to be an archer or much of a 
+ spell caster, since you don't have any time to use those abilities, and they are largely useless 
+ anyways. Simply put, Lionheart is a very poorly balanced RPG. There was absolutely no imagination 
+ put into the monsters for this game. Most of them cut you down to only 10% of your health, so after 
+ every battle, you have to sit and wait for 10 minutes while you regain your health before you move 
+ on. Needless to say, it's quite boring. 
+  
+  The interface for this game stinks too. The bottom portion of it takes up more than a quarter of 
+ the screen, but it always manages to feel functionally inadequate. There are only 7 hotkeys for 
+ abilites -- only 7. Compare than with 12 for Divine Divinity or 36 for Neverwinter Nights, and 
+ you have a good idea for how far behind it is. Add on top of that, you cannot pause the game to 
+ issue an attack order. 
+  
+  Lionheart is a game that is totally devoid of imagination and inexcusably bad. Advertising this 
+ game as using the Fallout SPECIAL system is an insult to everyone that has ever played that game. 
+ This is neither a good RPG, nor is it a good hack-and-slash dungeon crawl. Other than a handful 
+ of decent voice actors, I can find no redeeming qualities for this game. 
+::::::
+
+::::::
+UserName: jgalt
+Rating: 5.6
+Date: Sep 9, 2003 2:12 pm PT
+Review:  The first town showed promise, but after that it was pure click-based hack-n-slash. This game very 
+ much has the feel of a game that was in production, ran out of budget about 1/3 of the way through, 
+ and was finished quickly by throwing areas and lots of combat encounters with no rhyme or reason 
+ for the last 2/3 of the game. Had the game continued like the first town, it would have gotten 
+ a 7.5 to 8.0, but as it is it's just more disappointing than anything else.
+  
+  The good points are the first town which is well done and the SPECIAL system orginally introduced 
+ in the Fallout games. I really like the SPECIAL system and hope this very mediocre game doesn't 
+ kill it. I'd really like to see another SPECIAL system game with the quality of Fallout, but I 
+ think Lionheart may have put the nail in the coffin of the SPECIAL games. Too bad.... 
+::::::
+
+::::::
+UserName: PhenixRogue
+Rating: 6
+Date: Aug 29, 2003 7:05 pm PT
+Review:  This review is strictly based on playing as a single player and not in multiplayer mode. Interesting 
+ premise and story but the graphics are unimpressive since resembles Arcanum (which is two or so 
+ years old) . It's a bit fuzzy in the details and the characters are small. Compared to Neverwinter 
+ Nights, the Lionheart interface is old. 
+  
+  The problems with the Lionheart interface are as follows:
+  1) You can't rotate perspective or 
+ zoom in on the character.
+  2) Not enough quick slots.
+  3) Only one slot for prepared spells, which is ridiculous.
+  4) Hard to engage in battle because 
+ you're constantly having to move your mouse along with the target.
+  5) Pausing the game does not permit you to plan your attack, i. e., aim at the monster, like Baldur's 
+ Gate II.
+  6) AI for monsters have "mob" mentality and tends to come at you in bunches.
+  7) Monsters move faster than you do, so you die fairly easily.
+  8) Game does not permit you to 
+ make game easier or harder.
+  9) No real control over video or sound like most other games.
+  10) Inventory control is tedious.
+  
+  Now, the game play problems: Lionheart implies you can 
+ have others in your party, but where are they? Unless this ONLY APPLIES to multiplayer games, which 
+ cheats single players from enjoying the game because the monsters in Lionheart obviously assumes 
+ you have companions with you (i. e., the quick moving mob) . Also, the mysterious spirit that helps 
+ you in the beginning of the game is not a companion and does not help except for popping in and 
+ out of the game.
+  
+  Lionheart is an adequate game, if you can overlook the frustrating game play and interface. 
+::::::
+
+::::::
+UserName: mr_elusive
+Rating: 6.5
+Date: Aug 21, 2003 1:28 pm PT
+Review:  I have not actually played the released game, but I did download the demo. From what I experienced 
+ with the demo I was disappointed and decided to either wait for the price to come down, or not 
+ bother with this game at all. My recommendation is to download the demo before buying this game. 
+ I thought this game was going to be like BG or IW, in which I am a big fan of these games and I 
+ still play these Black Isle titles in my spare time. But Lionheart was not the same caliber of 
+ a game from what I could tell. I am sure at some levels this game has value, but overall I think 
+ Black Isle should continue the Fallout and BG series and just make the games that were so great 
+ even better. 
+::::::
+
+::::::
+UserName: tabbikaat
+Rating: 6.6
+Date: Aug 20, 2003 5:57 pm PT
+Review:  I thought this game just about average. Not quite as good as Neverwinter Nights (awesome graphics) 
+ or Diablo II-Lord of Destruction. The quests are different and interesting - lots of choices to 
+ make and allows for evil OR good characters to play as you choose. However, it appears to be a 
+ little unbalanced as far as the difficulty level - I find my magic user character dies VERY frequently. 
+ All enemies seem to immediately see you and close the distance to pound you, surround you, thereby 
+ quickly putting an end to any dream you naively had of treasure and fame. Monsters are very tough 
+ and travel in large packs. I am about 1/3 into the game and getting worried I may not be able to 
+ finish with the character I created. Treasure is randomly generated and nicely detailed and described. 
+ There are lots of different types of body armor to buy or find while exploring. Note: You simply 
+ MUST have high Perception, Charisma attributes and Speech, Barter, Lockpicking AND Spot traps skills 
+ to advance in this game. 
+  No matter what type of character you play you must put precious skill points into lockpicking as 
+ there is NO other way to open treasure chests or doors. If your strength is HIGH enough you can 
+ force doors and chests but I do not know how high you strength would need to be. This is ridiculous 
+ for a magic user character as they normally would not have the strength OR thief type skills.
+ 
+  There are three factions you can join (but you can only pick one) which will give you gold, experience 
+ and special perks. I might re-play this game as a paladin type character to explore the different 
+ faction quests. 
+::::::
+
+::::::
+UserName: nethead
+Rating: 4.7
+Date: Aug 20, 2003 6:39 am PT
+Review:  What a shame. This game seemed to have so much promise and yet a series of bad design decisions 
+ have let us all down. Here are some fo the issues i have with the game:
+  
+  * Combat lacks the strategy of either the turn-based Fallout or the real-time-with-pause Infinity 
+ games. Enemies rush at you, and there is little strategy or decisions to make with regards to how 
+ you will tackle these foes.
+  * Resolution locked at 800x600? This is just not on these days.
+  * Another user review said that 
+ games dont have to be 3D to look good, but there are many 2D games up to a few years old that blow 
+ Lionheart out of the water. The graphics are simply dated and not good enough even for a 2D game.
+ 
+  * The massive control panel takes up too much real estate and the minimised version does not show 
+ enough information.
+  * The main character, which you will spend a lot of time looking at, is unimpressive and the animation 
+ simply does not look right.
+  
+  The promise this game held, with is unique story and its incredible pedigree was incredible. Sadly, 
+ the game not only fails to approach these high expectations, it fails to even reach the level of 
+ an average game.
+  
+  Bring on Fallout 3.
+  
+::::::
+
+::::::
+UserName: VaDeR-FRL
+Rating: 9
+Date: Aug 19, 2003 6:33 am PT
+Review:  Well, I can't say I agree with the reviews.
+  
+  Most talk negative about the graphics, wich are neat, sharp and nice, 
+  lets say, I love them.
+ 
+  It all gives the game the cool atmosphere it needs for the story.
+  btw:
+  I really believe 3D graphics are not the key to create a cool game.
+  2D graphics can do the job 
+ as wel;)
+  I personally was not that amused with the 3D graphics of neverWinter, 
+  so I can't say I think the 2D graphics of this game are a minus.
+  
+  The gameplay is also nice.
+ 
+  Had to get used to the slightly different way this game handles 
+  things like BG, but ala, this is not BaldursGate-III.
+  I guess I liked that too, not another 
+ BG game........
+  
+  The story is cool, and while I am still playing the game, 
+  I have to say: I looooove the story-settings;)
+  
+  This game is well-worth trying / buying.
+ 
+  Please try the demo, and if you like it.... buy it!!!
+  I don't regret spending my hard earned money on it;)
+  
+  
+::::::
+
+::::::
+UserName: beh64
+Rating: 6
+Date: Aug 18, 2003 6:52 pm PT
+Review:  Disappointing, not quite finished, features cut, all of this and more describes the mediocre lionheart. 
+ Blackisle had very little to do with this game; at least i hope they had very little to do with 
+ it. The inimitable fallout, the masterpiece planescape: torment, and the hack and slash classic 
+ icewind dale, blackisle classics all; a proud pedigree sullied by an unworthy developer. Reflexive 
+ should stick to their little internet games; they were out of their league here. As an aside, I 
+ would just like to say that lionheart is better than the incredibly bland and lifeless neverwinternight 
+ single player game, which is probably one of the worst games i've ever finished. But bioware has 
+ bounced back with the excellent knights of old republic, which is basically a 3d-starwars version 
+ of baldurs gate 2, but that's definitely not a bad thing at all. Greyhawk: temple of elemental 
+ evil will be rpg of the year when it comes out in september, so forget lionheart and wait for that. 
+ 
+::::::
+
+::::::
+UserName: KindGalaxy
+Rating: 4.3
+Date: Aug 18, 2003 4:53 pm PT
+Review:  This game was a huge disappointment from a company such as Black Isle, their inhouse development 
+ of games such as Fallout 1 and 2 along with Planescape: Torment and their association with the 
+ development of Bioware's Baldur's Gate series should have led to this game being among the top 
+ isometric RPGs to date. Instead we witness yet another turn for the worse for this great company. 
+ The gameplay us hectic, with the combat being pure real-time (you can not issue commands while 
+ the game is paused) . 
+  
+  Though the full blame can not be placed on Black Isle, its true developers, Reflexive Entertainment. 
+ Perhaps Black Isle did not give them enough tips on creating a good RPG, perhaps Reflexive Entertainment 
+ did not take their advice I can not say. 
+  
+  This game's only redeeming quality is the alternate universe, it is quite detailed and enjoyable 
+ to emerse yourself in the history that never was. Save your money for Temple of Elemental Evil, 
+ or Hordes of the Underdark. A great RPG this isn't.
+  
+  And advice to Black Isle is pure and simple, listen to your fans and create Fallout 3. RPGs are 
+ on the decline once again and perhaps the Fallout series will save it like it did so many years 
+ ago. 
+::::::
+
+::::::
+UserName: apco25
+Rating: 7.5
+Date: Aug 16, 2003 10:29 am PT
+Review:  I have to admit I have mixed feelings about this game. LH is a game that combines elements of Diablo 
+ with an actual story-line. There are some very cool things and some very irritating things as well. 
+ This is an account of my first impressions, since I have not completed the game but have played 
+ it for a while.
+  
+  The Good:
+  
+  - Good Story-Line
+  - Neat premise with the spirit magic concept that interact with the character
+  - Lots of advancement 
+ options and character development options (SPECIAL system)
+  - Perks are cool as well as race traits
+  - * Combat is OK (see below)
+  - * Graphics are good 
+ (and bad)
+  - Great Quick save feature (this game would be to irritating without it)
+  - Good overall controls (except magic)
+  - Good sound but flaky at times
+  - Quest Log
+  - Good 
+ spell selection
+  
+  The Bad :
+  
+  - You cannot play in any other mode but 800x600. WTF? Even if you change the config file to force 
+ another mode, it looks terrible and has many issues (try it yourself and see)
+  - No sound options such as EAX/2 to choose from (maybe it automatic)
+  - When adding skill points, 
+ they need a minus next to the plus (there is room) to easily remove points as well as add them. 
+ Then when done, apply the points with a separate button.
+  - Spells are hard to use in combat since when you apply them with a quick button it just puts it 
+ into the active spell slot instead of casting immediately. This is bad because there are a lot 
+ of spells that can help in combat but are hard to use. I end up just using a fire orb or similar 
+ most of the time. (maybe I am missing something in the controls that would help this)
+  - No way to exit out of in-game conversations that talk (in-game story-line movies) . i. e. the 
+ beginning scene.
+  - No way to mark you own stuff on the map.
+  
+  Conclusion:
+  
+  I was waiting for this game for a long time. If you are an RPG fan that is fed up with the RPG 
+ on-line scene and want a good single player RPG, buy this game. This game had a lot of potential 
+ but in my opinion fell short of a great game.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+::::::
+
+-------------------------------------------------

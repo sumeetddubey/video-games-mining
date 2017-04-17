@@ -1,0 +1,529 @@
+-------------------------------------------------
+:::Game Name::: Emperor: Battle for Dune
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/emperorbattlefordune/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jun 14, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.3
+Critic Score: 8.2, 37 Review (s)
+User Score: 8.6, 1,143 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: EA Games
+Developer: Westwood Studios
+Genre: Sci-Fi Real-Time Strategy
+Date:     Jun 12, 2001
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+In borrowing conventions from earlier games, Westwood managed to make its latest project interesting 
+ enough and enjoyable enough to be worthwhile for virtually anyone who's ever liked another game 
+ of its type. 
+
+ Emperor: Battle for Dune is the latest in Westwood Studios' long line of real-time strategy games 
+ and the spiritual successor to its early '90s game Dune II, which single-handedly defined the genre. 
+ Like Dune II, Emperor is based upon the famous science fiction universe found in the Dune novels 
+ by Frank Herbert and in the 1984 movie by David Lynch. As in its predecessor, Emperor lets you 
+ assume command over the military forces of any of three distinct factions that are fighting to 
+ gain ownership of the desert planet Arrakis and its invaluable resources. The game emphasizes fast, 
+ intense skirmishes over complicated tactical decision-making, and it features an impressive 3D 
+ graphics engine that really helps bring the fiction of the game to life. Emperor also gives you 
+ a lot of options and a lot of replay value, between its three single-player campaigns, its skirmish 
+ mode, and its robust multiplayer features.           The battles in Emperor are intense and visually 
+ stunning.    
+
+  Emperor may be Westwood's first fully 3D real-time strategy game, but fundamentally, it plays much 
+ like its predecessors. That is, you view the action from above the battlefield and typically must 
+ establish a base of operations and then start producing a variety of units with which to destroy 
+ all of the enemy's forces and defend against any retaliation in the process. To fund your military 
+ efforts, you'll need to earn money -- specifically, by harvesting and processing the invaluable chemical 
+ known as the spice Melange. An in-game tutorial quickly explains all this. Actually, unlike in 
+ most conventional real-time strategy games, the resource-gathering process in Emperor is fully 
+ automated. You can even upgrade refineries to support up to two additional harvesting units so 
+ that a single refinery can do the work of three. Flying carryall vehicles automatically ferry harvesters 
+ to and from spice fields, and should one of your harvesters or carryalls fall under attack and 
+ be destroyed, you'll get a limited number of replacements for free. This system works well -- it's 
+ a relief to not have to micromanage your economy and to be able to concentrate on fielding a strong 
+ military instead. Of course, though your harvesters will do their jobs autonomously, they'll still 
+ depend on you to protect them.   
+
+  As in most real-time strategy games, each mission in Emperor begins with the battlefield being 
+ almost completely shrouded save for the area around your starting units. Like in the Command &amp; 
+ Conquer series, once you move units through the shroud, the shroud disappears for the duration 
+ of the battle. In skirmish mode and multiplayer mode, Emperor does let you toggle a true fog-of-war 
+ option (similar to other RTS games) that requires you to maintain line of sight, which will certainly 
+ affect your strategy in battle. Either way, reconnaissance in Emperor is simple: Each of the three 
+ playable factions has access to a cheap, defenseless scout unit that can clear the map quickly 
+ and easily. Therefore, as with the resource gathering, scouting in Emperor is made as simple as 
+ possible so as to let you concentrate on combat.   
+
+  The variety of units found in Emperor isn't exhaustive, but it's diverse and entertaining. Aside 
+ from a few universal types of units such as harvesters and scouts, each of the three playable factions 
+ has completely different military forces. The units of the honorable House Atreides are direct 
+ and imposing, and most effective at long range. The wicked House Harkonnen's units are extremely 
+ deadly but require good tactics for best results, as most of its units can be readily countered 
+ by troops they're not specifically designed to destroy. The forces of the mercenary House Ordos 
+ are physically weaker but also perhaps the most versatile. They're fast and equipped with regenerating 
+ energy shields that protect them from initial damage -- yet Ordos units suffer noticeably if their 
+ shields are breached. Though the units across all three sides are different, the three sides' structures 
+ are analogous. So, depending on which House you're controlling, you'll have to use a different 
+ strategy in battle, but setting up base infrastructure and gaining access to more-powerful technologies 
+ will be the same straightforward process regardless.           The game features a good variety 
+ of detailed, interesting units.    
+
+  Emperor actually features five ancillary factions in addition to the primary three, and you can 
+ select any two of these as allies prior to multiplayer matches or skirmish battles. You may also 
+ gain the favor of a couple of them during any of the game's three campaigns. In practice, an alliance 
+ with one of these gives you access to an exclusive production facility, which in turn lets you 
+ produce two additional units. Some of these are quite powerful and collectively lend even more 
+ diversity to the battles in the game. The extra factions include the Fremen, native nomadic warriors 
+ of Arrakis; the Sardaukar, fanatical soldiers who fight in the name of their emperor; House Ix, 
+ a sect devoted to advanced technology; House Tleilaxu, renegade masters of genetic manipulation; 
+ and the Spacing Guild, who monopolize space travel in the known universe.   
+
+  A lot of the units in Emperor are cleverly designed, aesthetically appealing, and memorable. In 
+ spite of this, you'll likely find that your strategy in battle focuses heavily on certain units 
+ and all but neglects certain others, either because they seem too overpriced or too underpowered. 
+ Part of the reason is because your tactical options in Emperor are fairly limited, most notably 
+ in that you can't easily assemble your units into formations. Groups of units also have trouble 
+ maneuvering around each other in close proximity. They often won't be able to get around one another, 
+ and when attacking, they'll move toward their target in a disorganized mass -- you'll invariably 
+ lose your front line to defensive fire just because there's no good way to send in your forces. 
+ Aside from the lack of formations, Emperor doesn't have many options for determining unit behavior. 
+ Units such as the Harkonnen buzzsaw, which are clearly designed to overrun enemy infantry, are 
+ fundamentally less useful because they won't overrun infantry on their own. The various units in 
+ Emperor do a fine job of shooting at enemy passersby, but when a situation calls for anything subtler, 
+ you'll always have to take direct control yourself. Finally, some of the smaller infantry units 
+ in Emperor can be very difficult to distinguish from each other, let alone pick from out of a crowd. 
+ At least the game's 3D camera control is simple and intuitive; you have limited ability to zoom 
+ in with the mousewheel, and you can also rotate your view as necessary.    
+
+ In addition to these few issues with the control and balance of the game, the nonlinear campaigns 
+ in Emperor also lack polish. The three different campaigns are open-ended in that you usually get 
+ a choice of which region of Arrakis you wish to attack next. Depending on some of your choices, 
+ different events may transpire. For instance, you might help the Sardaukar early on and gain their 
+ trust through the remainder of the campaign. However, by and large, the nonlinear campaigns are 
+ pretty shallow. Some missions are noticeably scripted, but toward the middle and the end of the 
+ campaign, you can tell that the game is trying to pass off randomly generated skirmishes as true 
+ campaign missions. The mission briefings will be vague, and the results of your victory seem inconsequential. 
+ The computer likely won't provide much of a challenge either, as its predictable attacks often 
+ can be readily anticipated and thwarted even at the hardest of the game's three difficulty settings. 
+ In turn, the lavishly produced full-motion video sequences that reveal the plot of the game from 
+ each House's perspective will seem to fall away toward the end of Emperor's campaigns. Early on, 
+ you'll probably enjoy these video sequences, starring recognizable actors such as Star Trek's Michael 
+ Dorn as the Atreides duke, and weird character actor Vincent Schiavelli as the Harkonnen advisor. 
+ The acting performances in Emperor are more self-consciously forced than in the David Lynch film, 
+ but they share a similarly over-the-top sensibility. As the campaigns go on, and you realize the 
+ video sequences are becoming less frequent, you'll start to miss them and you'll realize that there's 
+ not much point in letting the campaigns drag, since certain victory objectives will be clearly 
+ in sight. Besides, you'll find that the promising-looking strategic layer in between campaign missions -- a 
+ turn-based, color-coded world map reminiscent of Risk -- is mostly just for show.           Full-motion 
+ video cutscenes are used to tell the story.    
+
+  As far as the show's concerned, Emperor: Battle for Dune looks outstanding. The battle for Arrakis 
+ is impressively recreated in stunning 3D, inspired by the baroque visual design of the Lynch film. 
+ The various units often have a retro sci-fi look about them and feature moving parts, headlights, 
+ and other fine details. The environments are filled with colorful rock outcroppings, long shadows, 
+ remains of previous battles, and even some natural phenomena, such as gigantic sandstorms -- and 
+ gigantic sand worms, which will occasionally rise up to devour legions of units, regardless of 
+ whom they belong to. Besides the setting of Arrakis, Emperor also recreates the three homeworlds 
+ of the game's main factions. Their inclusion adds a great touch of variety and will certainly make 
+ the game even more appealing to fans of the Dune universe. The audio in Emperor is also excellent 
+ for the most part. The three primary factions have their own unique themes, which are reminiscent 
+ of either the great musical score found in the original Dune II or the great musical score found 
+ in the 1984 feature film. Also, each unit in Emperor has its own unique set of quips that it'll 
+ speak in response to your orders, and though they can get repetitive, most are nonetheless very 
+ well done and really help make each unit seem more alive.   
+
+  Emperor: Battle for Dune does have a few technical issues, most of which are related to the fact 
+ that the game demands a powerful system for optimal performance. Loading times before missions 
+ can be quite lengthy on midrange or even higher-end machines; and with all graphical options enabled, 
+ the game will bog down noticeably when a lot of action is afoot, even on very fast computers. Fortunately, 
+ the game looks quite good even with the graphical detail at a minimum, and you can individually 
+ tweak different graphical options and also adjust the overall speed of the gameplay to best suit 
+ your system.           Emperor draws much more from its source material than Dune II did.    
+
+ 
+  Like Westwood's other recent real-time strategy games, Emperor includes the free, fully integrated 
+ Westwood Online player-matching service, which promises to easily let you find plenty of willing 
+ competition. Online play is quite smooth, and the brisk pacing of the combat makes multiplayer 
+ matches a lot of fun. The quick-match option is especially convenient: It automatically finds you 
+ an online opponent of roughly similar experience and throws the two of you into a match, with both 
+ of your bases already established. Emperor supports online skirmishes with up to four human players 
+ and network matches with up to eight players, and while the game doesn't ship with a scenario-editing 
+ utility, it does include a rather large variety of different maps -- and it even gives you the unusual 
+ option to play through the three campaigns cooperatively online.   
+
+  All together, Emperor: Battle for Dune is a well designed and visually impressive real-time strategy 
+ game that promises many hours of fast-paced battles in both its single-player and multiplayer modes. 
+ It'll be especially appealing to fans of the source material that inspired the game, including 
+ the film, the novels, and Westwood's own Dune II. Fans of any of these will find that Emperor actually 
+ takes its science fiction premise much further than the original Dune II did, even if it lacks 
+ that game's innovation. That is, players expecting a brand-new revision of real-time strategy conventions 
+ won't find it in Emperor. Despite the game's many interesting attempts to streamline and simplify 
+ a lot of the genre's more cumbersome conventions, it ultimately still plays a lot like other real-time 
+ strategy games by Westwood Studios and other developers. Then again, its similarity to its predecessors 
+ is essential to the success of Emperor: Battle for Dune: In borrowing conventions from earlier 
+ games, Westwood managed to make its latest project interesting enough and enjoyable enough to be 
+ worthwhile for virtually anyone who's ever liked another game of its type.    
+-------------------------------------------------
+:::User Reviews::: (15 Reviews)
+::::::
+UserName: Waldemar014
+Rating: 10
+Date: Oct 2, 2008 6:28 pm PT
+Review:  As a longtime fan of the series, i say, WE NEED MORE GAMES LIKE THIS! better then all other dunes! 
+ there were rumors of new movie in 2010 but 'm not sure if it's true. but this is an AWESOME GAME! 
+ one of the best games i wish they would make new one. the emperor is awesome he owns!!! the an awesome 
+ way to experience the book (s) the game makes more sense if you read books MORE SPICE!!!! MORE SPICE!!!! MORE 
+ SPICE!!!! MORE SPICE!!!! MORE SPICE!!!! MORE SPICE!!!! yup spice is awesome, dune for ever
+  
+  SPPIZZEE UVER ALLES!!!
+  
+  
+  Other people: I dont understand those books. Why is everyone 
+ a psychopathic killer, many of whom have off'd their first person when they were a toddler?
+  
+  What in the does the spice have to do with worms? What the balls is a sand trout? Why in the 
+ wasnt baron Harkonan as cool as he was in the movie? 
+::::::
+
+::::::
+UserName: thegothicity
+Rating: 9.5
+Date: Apr 3, 2008 5:54 pm PT
+Review:  This was a very good game. Although I find the last level a little bit difficult, that's just me. 
+ Although if you're going to be playing as harkonnen, there comes a point where you get to choose 
+ the really hard side, or the really easy side... I dare you to take the hard side. (Gunseng = hard 
+ Copec = Easy) Personally I like the acting used in the cutscenes. it's been ages since I've played 
+ any game that has actual actors used in the game that weren't voicing something. (I don't count 
+ Need For Speed Most Wanted.) Gunseng is my personal favorite character, but if I had to choose 
+ best looking, I'd definitely pick the mentat from house Ordos. Still, if you don't really like 
+ Real Time Strategy games, this game is worth reconsidering. Smooth game-play with a player changeable 
+ pace, nicely used models, and moderately used AI systems... Except for the occasional rediculous 
+ story-line of a mission or two, and the occasional sandstorm stealing your poor little fremen, 
+ and sardukaur away. (but that's a fun little addin too if you want to just mess around. 
+::::::
+
+::::::
+UserName: ad_calalo
+Rating: 10
+Date: Aug 6, 2007 4:27 am PT
+Review:  The Westwood company has shut down (too bad it shut down) because the staff of Westwood has retired 
+ and EA came in and took over Westwood. Emperor: Battle for Dune is my personal favorites because 
+ the graphics, sound, gameplay, and the powerful units that makes this game is so special to RTS 
+ lovers out there. The game is the best game I've ever played, the 3 side although there are only 
+ few sides the units are all powerful it is also great in multiplayer where you battle against each 
+ other, atraides is my favorites side for this game, that I spent playing for hours. So I recommend 
+ this amazing game to RTS games lovers to play this. ATRAIDES ROCKS!!! 
+::::::
+
+::::::
+UserName: wargrudge
+Rating: 9
+Date: Jul 18, 2007 6:19 am PT
+Review:  Though it does get slightly repetetive, the game play in Emperor: Battle for Dune is still superb 
+ years after its release. At time the campaign seems to bog down slightly, but that is quickly overcome 
+ by the multiplayer modes built in the game. Online, the game runs smoothly. And the skirmish mode 
+ makes continual playing of this game above average. The graphics are high-end for this game being 
+ not the most recent in terms of newer RTS games, and there are some notable characters that you 
+ can catch a glimpse of during the mission briefings. One of the better features that set this game 
+ apart from others was the reinforcements you receive during a battle. These units can be used to 
+ shore up defenses, or slowly establish an attack force without having to divert resources to do 
+ so. 
+::::::
+
+::::::
+UserName: John-Crighto
+Rating: 10
+Date: May 21, 2007 6:33 pm PT
+Review:  I have been searching for the game for 4 yrs and found it 3 weeks ago. THIS GAME ROCKS!!!! then 
+ again, most Westwood games r, I've played great games.... but... mmmmmm..... this one reallly really 
+ really takes the cake! She's a buit. I love her. tho she is one of the most difficult games i ever 
+ played... i stillm love her. I'd try it, all of u who haven't played it yet. This game is good, 
+ best even. The graphics r good, everything is superb, better than games made nowadays. u can see 
+ my stuff below.
+  Have fun, and if i remeber my online account, i'll c u there and I K U A!!! lol {maybe that's a 
+ bit of an exageration} lol 
+::::::
+
+::::::
+UserName: El_lexacus
+Rating: 8.3
+Date: Feb 11, 2007 10:42 am PT
+Review:  A great strategy game, filled with loads of laughs. In skirmish, you can have the ability to control 
+ your main army, and two little raiding force type armies; you can have a barrel of laughs. You 
+ can play as three different houses in the main campaign. The campaign is filled with great little 
+ cut-scenes, and you can perform all types of fun bonus objectives, such as sabotaging an enemys 
+ fuel camp, and energy supplies. During skirmishes, you can play as one of the main three houses, 
+ and two other armies, with specialised troops. These troops abilities vary form faction to faction, 
+ they can ride the dune worms, or replicate themselves using enemy troops. Also, the environment 
+ is interactive to an extent, with sand worms, and sand tornados appearing from anywhere, at any 
+ time. 
+::::::
+
+::::::
+UserName: Fuseking
+Rating: 8.6
+Date: Jul 13, 2006 9:45 pm PT
+Review:  I was a huge fan of the Dune series books. Never relized there was a game plus two older ones. 
+ Saw it at best buy and I was like "sweet!"
+  
+  I am used to red alert and others like it so was not used to the different way of playing the game. 
+ You could pick the terriotory and each choice would effect who would be your allies. You could 
+ ally with the fremen a nomadic desert people who could summon the awsome worms. Or the IX a technology 
+ race that could provide projectors and also camflauged bombs to invade a base. Lastly were the 
+ theylix and I never did manage to allie with them. They provided parsites and zombie.
+  
+  This game was a great game each race had a complety different feel which made it unique. If you 
+ are looking for a classic game here it is. 
+::::::
+
+::::::
+UserName: luna7fox
+Rating: 5.6
+Date: Jun 7, 2006 4:05 am PT
+Review:  i have played and adored the original dune 2 since its release. i spent many hours toiling away 
+ and even went to the stage of editing game files (you can actually control sandworms!) . so, i avoided 
+ dune 2000 because i hear from everyone that its terrible. wait patiently and then here it is the 
+ new 
+  Dune. Emperor: Battle for Dune. i'm obviously very excited, i read reviews that say its pretty 
+ good. so, i get it!
+  
+  Here's what I thought of it. First off, I love the cheesy, melodramatic acting in the cutscenes. 
+ its great, and it fits perfectly. I love the archetypical house leaders. the oh so noble its sickening 
+ duke achillus (anything at all like achilles?) , the maniacally hilarious EVIL baron (sound russian 
+ anyone?) , and the faceless spineless speaker of the ordos. haha! great, i can't wait to begin!
+ 
+  
+  so then we get to the missions, and its looking pretty good. graphically, its superb. they've taken 
+ all the best bits of dune and polished them up very nicely. units look great. although, i was a 
+ little disappointed by the design of the devastator, harkonnen's most noteworthy unit. why does 
+ it have 3 legs and such a ridiculous walk? it really detracts from its awesome might. surely a 
+ standard mech would've looked much tougher. anyways ok, fine. apart from that i'm happy.
+  
+  so, i continue playing, at the second mission i cut the music. the sound is generally horrible. 
+ the range of unit responses is cack. they each have maybe three different ones. "affirmative", 
+ "moving out", ready". the 'helpful' voice is irritating. she's awfully slow to respond to whats 
+ appening, making her generally a pointless accessory. 'spice harvester under attack' so i scroll 
+ back and its already gone! splah. my initial excitement is waning.
+  
+  as i continue to play on i notice more and more problems. the AI for example is dire. the units 
+ are some of the stupidest ever. they get in each others way, they take the most convoluted routes 
+ to places. they are unable to move and fire at the same time, meaning you have to baby step them 
+ about in order for them to survive any sort of attack or relocation. horrible. this is war? dumbarse 
+ units plodding about. i forgave dune 2 for this because it was 1993, but i'm afraid there is no 
+ longer that excuse available.
+  
+  this is where the whole game falls down. they havent added any new material and have only very 
+ superficially improved the existing ones. the 'sub-factions' are essentially useless. why would 
+ i care if the ix need my help, when all they give me are the lame duplicator tank and the silly 
+ bomb spider? they can rot! also, didn't it bother you that you have to build every single other 
+ structure to get the top level units, and they turn out useless anyway. every single structure 
+ needs to be upgraded every time. surely once we've got the technology to build a unit once, we'd 
+ have it as common knowledge, and cease to build and inferior factory? now the game is both annoying 
+ me and greatly disappointing me.
+  
+  now for my major gripe. i was waiting for the sonic tank, my weapon of choice in dune 2 and it 
+ comes along and they stink! they're useless. firstly, because their weapon goes through anything, 
+ everything is harmed. this was also the case in dune 2, so it meant that you had to keep them away 
+ from your base. their flaw was remedied in dune 2 in that sonic tanks couldnt harm each other, 
+ making a sonic tank gang, a lethal combination. now, they die within two shots of their gun cos 
+ theyre too stupid to get out of eachothers way. and the lack of any kind of formation feature renders 
+ them utterly useless and if anything, a burden. this doesnt make any sense why a unit would have 
+ such a big flaw. it means i've got the most useful and powerful unit (the minotaur) in level 3. 
+ why bother continuing? you've peaked already. the only other useful unit is the mongoose because 
+ it can fire at airborn units. so all i end up doing, out of necessity, is building hoards of minotaurs 
+ and mongooses. how dull.
+  
+  gameplay - dross. it plays so much like dune 2, its ridiculous! come on! the only added feature 
+ really is the multiple select. theres no formations. and new units are derivative, they have lame 
+ gimmicky features that have no 
+  value within the game. this means your armies consist of 2 different units at best. in this way, 
+ its changed nothing from dune 2, and if anything, has actually de-volved. westwood, come on! you 
+ created such brilliant rts' as 
+  command and conquer, red alert, tiberian sun. what happened here? tactics are redundant because 
+ you have to move your armies at such lame distances at a time or they'll get blown to pieces by 
+ a couple of infantry stood nearby. you just want to get the mission over with to see which new 
+ units you get and its some **** 'zombie' man that dies from the mere thought of voilence. what 
+ happened here? how did this steaming pile get boxed up and released?
+  
+  i'll stick to the original, its not great, but its better than this! 
+::::::
+
+::::::
+UserName: Lawrencevanrijn
+Rating: 9.6
+Date: Mar 26, 2006 1:39 pm PT
+Review:  You might want to say that this is ANOTHER Command and conquer installment, but this is not the 
+ case. This is basically a new version of the original. It started with Dune 2, and this is the 
+ next evolution stage. The game is phenomenal. the graphics are unreal, the music is fantastic, 
+ and the AI is above average. The game has three story lines (one for each army) and the way it 
+ evolves is well done. the game has a few sideline stories and the way you go around it all is well 
+ managed.
+  
+  What do you want to be?
+  
+  The game also has a nice set of celebrities (Michael Dorn aka Worf) and other well known actors. 
+ Westwood took out all stops with this game and it is still a wonderful game to play. 
+::::::
+
+::::::
+UserName: arre_87
+Rating: 8.4
+Date: Feb 1, 2006 1:09 pm PT
+Review:  The first time I played this game I remember how impressed I was, not by the gameplay but by the 
+ graphics. It was pure eye candy. The smooth details on every single unit and building made the 
+ game to what it was back then. I'm not saying that the gameplay and the story is bad, but the graphics 
+ definitely gave Emperor: Battle for Dune a huge plus. It is not connected to Red Alert or Tiberian 
+ Sun in any way even though you felt that they've had some influence on this game. The sound effects 
+ were fantastic and I had just bought a new stereo system which obviously affected my opinion. It 
+ has been a couple of years since I last played the game so I can't really come up with something 
+ else. 
+::::::
+
+::::::
+UserName: GamingPro01
+Rating: 9.3
+Date: Jan 26, 2006 8:28 pm PT
+Review:  A great game, which has much depth. The campaigns are good, as well as the cinematics. A game rich 
+ of gameplay and strategy.
+  
+  You choose to lead either The noble house Atreadies with leader duke Leto Atreadies, the evil house 
+ Harkonnen with their leader Baron Vladamire Harkonnen or the incidious house Ordos with their leders 
+ named the executrix, 5 beings speaking through one known as the Speaker. All different houses, all 
+ different units, fighting for the spice malange on Arakis, and the universe.
+  
+  As well as the main three houses there are extra factions that you can choose to ally with, which 
+ include the Fremen, native nomadic warriors of Arrakis; the Sardaukar, fanatical soldiers who fight 
+ in the name of their emperor; House Ix, a sect devoted to advanced technology; House Tleilaxu, 
+ renegade masters of genetic manipulation; and the Spacing Guild, who monopolize space travel in 
+ the known universe.
+  
+  A great game. 
+::::::
+
+::::::
+UserName: holland01
+Rating: 9.7
+Date: Jan 25, 2006 12:45 pm PT
+Review:  Emperor battle for dune is a 3D RTS game. The game take place in the future on the desert planet 
+ Arrakis. On the planet there is a special substance The Spice Melange, it's have a great value. 
+ they say in the game He how controls the spice, controls the univers. after the dead of teh emperor, 
+ three houses where chosen to fight for the throne and the spice.
+  
+  Atreiders of the planet Caladan they are the basic team. for attack and defence.
+  
+  Harkonnen 
+ of Guidi prime they are the brutals in the game if you want attack you must choose for the harkonnen.
+ 
+  
+  Ordos of the planet Draconis IV they are very good in defence with there mortars.
+  
+  The Graphics are very nice and the gameplay is superb. the maps are very big and beautifull. the 
+ sound and voices of the troops are fantastic
+  
+  this is a great game a must have for every RTS fan 
+::::::
+
+::::::
+UserName: jedimastersam
+Rating: 7.8
+Date: Nov 28, 2005 2:02 am PT
+Review:  Frank Herbert's epic novels have enlightened people all over the globe with his stories of a war, 
+ a war that has been for only one thing in the whole universe that runs every thing. 
+  
+  Spice, the most precious substance in the galaxy. The only planet that has spice is Arrakis, the 
+ desert, wind swept, arid planet home to the biggest and deadliest creature. 
+  
+  In this strategy game you will play as the new commander for one of the three houses of the laads'raad. 
+ the noble house Atreadies with leader duke Leto Atreadies, the evil house Harkonnen with their 
+ leader Baron Vladamire Harkonnen or the incidious house Ordos with their leders named the executrix, 
+ 5 beings speaking through one known as the Speaker.
+  
+  It is your duty to lead your hose to victory and control the universe.
+  
+  Whoever controls 
+ the spice controls the universe............. 
+::::::
+
+::::::
+UserName: dragenix
+Rating: 9.7
+Date: May 11, 2005 4:16 pm PT
+Review:  To start off this game is about a world known as Arrakis. This planet is a desert wasteland, which 
+ can just about support any form on life. Plagued by giant sandworms and multiple tornados this 
+ barren land is a chalenge just to stand on. The reason this planet has been the cause of so much 
+ bloodshed, is due to the planet's only natural resource, 'Spice'.
+  As the story goes, the Emperor of House Corrino, the ruling house at that time has been assassinated 
+ by the head Benidict Sister, in change of a faction of 'nuns' who can predict the furture by using 
+ Spice. The Benidict Sisters have also teamed up with The Guild, the universe's main faction of 
+ traders. They were giving the job of transporting Spice about for the Empire, they use the Spice 
+ to fold space and travel get distances in short times.
+  You have the choice of playing as House Atreides, led by the Duke, a noble and honourable house 
+ were loyalty is strong. House Harkonnen, led by the Baron, a violent house were murder and betrayal 
+ is the only way to go up the ranks. House Ordos, led by a council of rich business people, who 
+ will do anything to have control of the Spice for financil purposes.
+  After you pick what house you want to play as, you start your battling, throughout the game you 
+ can get support from smaller houses, such as the fremen the natives of Arrakis, who have excellent 
+ stealth snipers, and fedakins who can control the sandworms for short periods of time.
+  
+  Overall this game is fantastic, i have played it through 3 times and completed each house's campaign.
+ 
+  It's a great buy and a must for you furture Commanders !!! 
+::::::
+
+::::::
+UserName: randar23rhenn
+Rating: 8.3
+Date: Apr 24, 2005 4:30 am PT
+Review:  Emperor: Battle for Dune is a truly massive game, not unlike the source material from whence it 
+ came. Massive campaigns, huge amounts of diverse factions, and tons of awesome weapons of war make 
+ it a truly great game, but it is not without some flaws. 
+  
+  Gameplay: As I stated before, Dune has truly massive campaigns, you can play as House Atreides, 
+ House Harkonnen, or House Ordos, all of which are massively different in style and story and take 
+ a good 20 hours each campaign, just flying through. There are also several lesser houses you can 
+ employ to do your will if you wish. 
+  
+  All these different houses make for a huge selection of weapons of war available to do your bidding. 
+ Oddly enough, from the lowliest infantry unit to the greatest walker vehicle, you will never have 
+ a unit that no longer has a use, every unit is useful throughout the game, and that is a truly 
+ awesome aspect of the game.
+  
+  The main problem with the gameplay is that it lacks anything that you haven't done before. It is 
+ just more of the same RTS gameplay: harvest resources, crank out troops, take more resource areas, 
+ repeat. While this doesn't make it a bad game, it certainly is somewhat of a detriment not trying 
+ anything new. Another flaw of the game is the fact that there are several truly unbalanced units 
+ in the game. If you know the source material (as in the Dune books) , you would know it makes sense 
+ for the units like Saudukar infantry to be incredibly powerful, but for an RTS game it just makes 
+ the game tactically unsound to have an easily acquired unit be so incredibly powerful as it can 
+ take out a vehicle easily with a few hits.
+  
+  These faults are not enough to break the game however, the superb campaign modes, with fairly awesome 
+ storylines, and sheer amount of diversity in the weapons of war you can wield is a testiment to 
+ greatness. 
+  
+  Graphics: Graphically impressive for its time, I would compare the graphics to looking much like 
+ Warcraft 3 in terms of quality. Take that as you will.
+  
+  Sound: Emperor: Battle for Dune is really full of forgettable tunes and rather annoying sound effects... 
+ there are a few okay music pieces, and the people doing the acting for the campaign are pretty 
+ good... but it's still fair at best.
+  
+  Value: With such massive campaigns, diversity, etc, this game is a superb value for your money. 
+ 
+  
+  Tilt: It is a great game, but again, not without its balancing issues and flaws. 
+::::::
+
+-------------------------------------------------

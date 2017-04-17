@@ -1,0 +1,421 @@
+-------------------------------------------------
+:::Game Name::: MechCommander 2
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/mechcommander2/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jul 19, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.7
+Critic Score: 7.9, 35 Review (s)
+User Score: 8.3, 497 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Microsoft Game Studios
+Genre: Strategy
+Date:     Jul 18, 2001
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Those looking for a visually impressive, enjoyable real-time strategy game set in the BattleTech 
+ universe should find that MechCommander 2 fits that description well. 
+
+ While the concept of piloting giant metal killing machines has been popular in the first-person 
+ combat genre thanks to the MechWarrior series, the attempt to transfer this concept to the strategy 
+ genre in 1998's MechCommander met with limited success. This is surprising, since the original 
+ game implementation of this universe was the BattleTech tabletop board game that was the epitome 
+ of strategic gaming. Almost exactly three years later, Microsoft has revamped its original mech 
+ strategy game in MechCommander 2. Yet, the more things change, the more they stay the same, because 
+ while the developers have clearly addressed key flaws in the original, the finished product still 
+ suffers from some of the same design drawbacks that plagued MechCommander 2's predecessor. Fortunately, 
+ MechCommander 2 also manages to capture enough of the spirit of BattleTech to make it enjoyable 
+ in spite of this.           The 3D graphics in MechCommander 2 bring its world to life.    
+
+  While MechCommander 2 is a real-time strategy game, it often feels a little more like a role-playing 
+ game. That's because your ultimate success will depend on the experience and equipment you gain 
+ from mission to mission. In true BattleTech style, the game is all about improving your forces 
+ with new technology, equipping them with the right mix of weapons, and continuing to improve the 
+ skills of your pilots. It's this sense of accumulation and improvement that drives the single-player 
+ game forward, and it's also the main obstacle to the game's replay value.   
+
+  The first MechCommander had some noticeable shortcomings. You couldn't set waypoints, and mechs 
+ had a tendency to stand still while engaged in combat. In addition, you couldn't select units without 
+ clicking on them, and you couldn't save during missions. Microsoft must have paid attention to 
+ the complaints, because these and various other deficiencies have been addressed in the sequel. 
+ You can now save your progress during missions. Waypoints can be set separately for walking, running, 
+ and jumping movement modes, and mechs engaged in combat dart here and there, generally firing on 
+ the run (though with odd exceptions) . Units can now also be grouped, and you can select these groups 
+ using keystrokes. The waypoints help tremendously, as does the improved artificial intelligence 
+ of your pilots. Unfortunately, there are still some problems with maintaining a given distance 
+ from an enemy -- even with orders to stay at long range, mechs tend to close in so that they can 
+ use more weapons. Whereas MechCommander's mechs were a bit too passive, the sequel has nudged them 
+ too far in the opposite direction. They'll engage enemies on sight, but this means that if you 
+ lose track of a battle, you'll often find some of your pilots wandering across the map, chasing 
+ an enemy you hadn't even noticed.           You'll look forward to the cinematic cutscenes between 
+ missions.    
+
+  Otherwise, MechCommander 2 sticks to the same formula present in the original game: a linear campaign 
+ driven by excellent cutscenes. The story itself isn't that engaging, but its presentation definitely 
+ is. The full-motion video clips are quite entertaining, especially a recurring talk show, which 
+ is clearly a spoof of  The McLaughlin Group . Some of the acting is outstanding for a computer 
+ game, especially that of Rick Deats, who gives an appropriately over-the-top performance as Colonel 
+ Renard. The result is one of those rare games, much like Command &amp; Conquer, where you'll actually 
+ look forward to seeing the next cutscene.   
+
+  Sadly, the actual campaign itself is much less interesting. The missions are strictly linear, with 
+ fixed objectives and enemies that are triggered by moving your units within sensor range. Objectives 
+ are numbered sequentially, and in most cases, this corresponds to a logical order in which they 
+ must be completed. This means that you don't even have the option of taking a radically different 
+ tactical approach to the battles on subsequent playings of the campaign (although you could try 
+ to win with different mech combinations) . Some missions are so linear that straying even slightly 
+ from the script spells doom, like when you're given exactly enough resource points to salvage certain 
+ enemy mechs, which you then use to complete the mission with the help of some additional pilots 
+ that magically arrive to aid you. You also get plenty of voice-over advice, which helps to create 
+ a nice atmosphere the first time through but limits the replay value subsequently.    
+
+ That said, the persistent nature of the campaign world makes the initial playing a rewarding experience 
+ even for those who might not be fans of the BattleTech concept. In fact, more casual fans will 
+ likely enjoy the game even more than the diehards, since MechCommander 2 still hasn't quite found 
+ a good way to portray the concept of mech heat management in a strategic format. Now, there is 
+ an overall heat limit you must take heed of when designing mechs, but once you're in combat, heat 
+ isn't an issue. Since heat is one of the foundations of the whole BattleTech premise, fans of more 
+ hard-core treatments of this in different genres (like in the classic MechWarrior 2) might find 
+ that MechCommander 2 doesn't quite translate the feel of these other mech games. A similar complaint 
+ can be made about targeting various mech body parts, which can be done in MechCommander 2 but isn't 
+ the fundamental strategy lynchpin that it is in other BattleTech games. Still, it retains enough 
+ of the flavor of mech combat to keep your interest, and the battles themselves involve a fair amount 
+ of strategic planning. The addition of support elements (such as air strikes, fixed artillery scout 
+ copters, and more) that you can buy with resource points while in a particular mission adds to 
+ the strategic choices.           The single-player missions are often very linear...    
+
+  MechCommander 2 is a fast-paced game by strategy standards, and as such, orders can be issued in 
+ paused mode. In fact, many players will probably find themselves spending more time in pause mode 
+ during combat than out of it. For this reason, it's strange that Microsoft didn't make the pause 
+ mode easier to use. You have to wait for a system menu to pop out of the right side of the screen, 
+ and once paused, you can't see what orders you've issued -- there are no graphical indicators to 
+ show where a mech has been told to go or which target he's firing at. For something that's so crucial 
+ to the gameplay, the pause mode seems like an afterthought.   
+
+  Another basic BattleTech concept is the ability to customize and equip your mechs, and this is 
+ a key feature of MechCommander 2 as well. Battlefield salvage yields a variety of mech weapons 
+ and chasses, and as you progress through the campaign, you'll find yourself tinkering with mech 
+ loadouts to find appropriate designs for the various missions. Since MechCommander 2 does away 
+ with fog of war on the map, you can survey the terrain and get a detailed picture of the situation 
+ to inform your force selection choices. The only problem is that since there is no skirmish mode 
+ (there isn't even the option to fight computer opponents in multiplayer) , your mech design skills 
+ in solo mode will be confined to the campaign -- unless you can find some live opponents. This is 
+ perhaps the most disappointing aspect of the game, because the heart of the BattleTech experience 
+ is designing the perfect mech and testing it against various other designs. But in MechCommander 
+ 2, you're essentially confined to multiplayer once you've finished the campaign. There is a mission 
+ editor in the game, and you can create new missions as well as download others' missions. But this 
+ isn't a good substitute for a configurable skirmish mode in a strategy game. The lack of a skirmish 
+ mode is mitigated somewhat by the ability to use maps from the campaign missions you've completed 
+ as stand-alone missions to test mech designs.   
+
+  Like the original MechCommander, the sequel looks absolutely great. The mechs are nicely detailed, 
+ explosions and other weapons effects are excellent, and the terrain is destructible -- you can even 
+ walk over a tree with your mech and watch it fall over. The sound effects go nicely with the graphics, 
+ and from a technical standpoint, MechCommander 2 does a much better job with 3D than some other 
+ recent real-time strategy games. The maps are a little homogenous, but the actual terrain effects 
+ on line of sight make for some interesting strategic situations. Sensor contacts become important 
+ since getting the jump on your enemy can give you a significant advantage if you can make your 
+ first strike count.           ... and the game's replay value is limited since there's no skirmish 
+ option.    
+
+  The similarities to the original MechCommander extend to the technical requirements -- you really 
+ need a top-end machine to run the game properly. Even on a high-end test system, though, the graphics 
+ engine seemed to bog down with a lot of objects in play. Even worse, this extends to keystroke 
+ and mouse-click recognition -- at times, it becomes difficult to select units or even pause the game, 
+ so you'll end up reloading. Load times are similarly long, and in some cases, dreadfully so. While 
+ this has something to do with hardware, the simplest thing to do is to turn various graphics options 
+ (especially shadows) off. Unfortunately, if you do this, you won't be able to experience the game 
+ in its full glory.   
+
+  MechCommander 2 is a significant improvement upon the original in numerous ways, particularly in 
+ the interface. At the same time, it fails to address the more general design issues that kept its 
+ predecessor from being the ideal strategic implementation of the BattleTech universe. Although 
+ it falls short of being a strategic version of MechWarrior 2, MechCommander 2 still has so much 
+ going for it that only the most die-hard BattleTech fans will be disappointed. Those simply looking 
+ for a visually impressive, enjoyable real-time strategy game set in the BattleTech universe should 
+ find that MechCommander 2 fits that description well.    
+-------------------------------------------------
+:::User Reviews::: (9 Reviews)
+::::::
+UserName: nintendoboy16
+Rating: 5.5
+Date: May 19, 2008 3:02 pm PT
+Review:  MechCommander 2 is an RTS set in the MechWarrior series. The story starts as the commander is hired 
+ by Colonel Renard for help in this mech war. After a few more missions the commander now has to 
+ work for other mech unions and is betrayed by Colonel Renard. The game features real time acting 
+ instead of CGI cutscenes. The player can also have mech upgrades for their mechs and salvage enemy 
+ mechs at the end of the mission for more money to buy more mechs and upgrades.
+  
+  What I liked about this game is that the RTS controls are tight. The graphics look great. Mechs 
+ look good. The combat can get pretty intense.
+  
+  What made this game mediocre overall is that as the story gets more interesting, the game ends 
+ during that time. Extremely frustrating moments. Some bad live action acting.
+  
+  Overall, this is a pretty mediocre RTS experience for me. In my book I think Homeworld, Warcraft 
+ III, and Starcraft had it better. 
+::::::
+
+::::::
+UserName: j007penz
+Rating: 9.5
+Date: Mar 19, 2008 5:17 am PT
+Review:  I have loved MechCommander since the first in the series debued. Honestly, the graphic aspect of 
+ this game was seriously enhanced (BIG switch from 2D to 3D) , the mission lengths were improved 
+ as well with the addition of a few complicated secondary objectives, and the ability to call in 
+ reinforcements is something I especially loved from this game, as it forced the player to actually 
+ think about his/her money.
+  
+  Ok so, first of all, my learning curve was short, perhaps due to my previous experience with MechCommander 
+ Gold, but I also think that it's not that much of a complicated game, you select mechs relative 
+ to your maximum drop-weight, you select pilots for your mechs with special abilities, you can even 
+ customize the mechs to suit certain pilots or certain personal objectives. All these features make 
+ this game different for each player, hence everyone will have a different view on this game, better 
+ for me.
+  
+  Looking at all this, the game is fun, addictive, interesting, simply well made out.. but you'll 
+ just get disappointed when you reach the end of the game. Get it if you can, you'll have fun for 
+ a while. 
+::::::
+
+::::::
+UserName: jakaii
+Rating: 8.5
+Date: Mar 18, 2008 5:18 pm PT
+Review:  I'll admit that I have played very little of the other MechWarrior/Mechcommander games. I believe 
+ in being honest. But I've read up on the other games considerably. 
+  Mechcommander 2 is a great game that portrays the close up action from the cockpits of the MechWarrior 
+ games into a RTS well. You can modify you're mechs just like always, but a little simpler than 
+ normal so that you can keep up with all your other mechs, move your different pilots around, and 
+ decide which skills your pilots acquire. All these decisions the player makes reflects his/her 
+ fighting style, especially the pilot skills you pick. I personally will try to balance them, picking 
+ one sensor specialist to train excessively and several favored pilots with extra abilities in LRM's, 
+ autocannons, and pulse lasers (I'm the aggressive type) . 
+  The graphics aren't much compared to today's games, but the game still maintains, if nothing else, 
+ a very entertaining and addictive mood to it. Once you start playing, you won't want to stop, whether 
+ it's taking out an annoying outpost, or exacting vengeance on a persistent Vulture-type Mech. All 
+ around, a good game that rates an 8.5 for me. Well done Atari. =) 
+::::::
+
+::::::
+UserName: XxTuakisxX
+Rating: 9
+Date: Oct 15, 2006 4:06 am PT
+Review:  Ok i haven't touch this game since 2002 but what's more to be said ? There are any more new mechcommander 
+ or mechwarrior games coming out at the moment, so the Btech universe will have to make do with 
+ whatever we got.
+  
+  Anyway in case you guys have being living under a rock for the last few months, the FULLY PLAYABLE 
+ game is now free for download. Hop to microsoft site and look for it. MC2 is now fully open-source 
+ and free.
+  
+  Well if the free part has not gotten your attention, it still quite a blast. The graphics might 
+ not be top notch, but they are perfect for a mech ! Mech's are big and squarish thingies so even 
+ ol school blocky graphics don't hurt them at all. The sound is still crisp and sharp especially 
+ for the PPCs and the booms from airstrikes and ammo dumps are still decent. The game does lack 
+ replay value due to lack of a skirmish or instant action mode but you probably won't need it. Each 
+ mission takes relatively a long time to complete and will get even longer when you realise that 
+ you have to juggle between Secondary and Primary objectives... This is definitely not your 5 minute 
+ jump into game, you will need time and lots of it !! Especially if you want to do everything perfectly 
+ or play on hard mode. So be warned, be ready to invest time before you start off any mission.
+ 
+  
+  The game is basically a tactical RTS with some tweaks (like airstrikes, collecting resource points 
+ , dropping in a helicopter etc) and the occasional RPG factor. The RPG factor comes in on your 
+ AI pilots and developing them to gain special abilities is the key. This means that pilots that 
+ fight more gain more experience and they will level faster, get better stats and gain more special 
+ abilities. However, you do not just want a single core of elite soldiers all the time, if one happens 
+ to get KIA, YOU WILL feel the loss since most of your replacements are usually Green and Regulars, 
+ not the kind of dudes to bring to the late missions. So eventually you will rotate pilots so you 
+ will have at least half a dozen of strong backups for your main team. Of course the game isn't 
+ so straight forward, this a Battletech game, it is naturally complex !! Not only you have to juggle 
+ your men, you need to accumulate cash to buy new mechs, accumulate new tech and then pouring out 
+ the cash to shoehorn that spiffy new Gauss rifle tech that you just got into your shiny new Highlander. 
+ Then you have to mess around with the mech lab since customizing is always fun and then burn more 
+ time in the process, and oh after missions there is salvage, injured guys to rotate, special abilities 
+ to choose for pilots and complement your team requirements.... The duties just go on and on and 
+ wait, we are not even on the battlefield yet !!
+  
+  Once again i state, this is a game that is time intensive and instense. If you have the spare time, 
+ paitence and really into Battletech / Mechwarrior, this game will work for you !!! The missions 
+ might be too damn linear but for the perfectionist in you this game rocks, especially if you completed 
+ the mission with all objectives achieve, not one mech down and even fact gained more and blah blah.
+ 
+  
+  So go and DL it now !! No harm trying since its free ! :D 
+::::::
+
+::::::
+UserName: noxdracodeus
+Rating: 10
+Date: Jul 1, 2006 8:20 pm PT
+Review:  I like it, a lot. Editor has a few bumps but other that that I like it, really easy customizable 
+ mechs and easy to hack too! Editor not all user friendly takes a bit getting used to but still 
+ good for its buck! Game play is a bit old for to day but easy to get lost in especially if you 
+ love your mechs, I wonder why micro hasnt made any others??? I hope they do and fast make many 
+ many many many mech games big mach smash you dead! And your little dog too! And your mom and you 
+ family and anything else you love or care about. 
+::::::
+
+::::::
+UserName: setsuna_pg
+Rating: 8.4
+Date: Apr 10, 2006 7:54 am PT
+Review:  Honestly, I loved MechCommander since the first in the series, the graphic aspect of this game 
+ was seriously enhanced (BIG switch from 2D to 3D) , the mission lengths were improved as well with 
+ the addition of a few complicated secondary objectives, and the ability to call in reinforcements 
+ is something I especially loved from this game, as it forced the player to actually think about 
+ his/her money.
+  
+  Ok so, first of all, my learning curve was short, perhaps due to my previous experience with MechCommander 
+ Gold, but I also think that it's not that much of a complicated game, you select mechs relative 
+ to your maximum drop-weight, you select pilots for your mechs with special abilities, you can even 
+ customize the mechs to suit certain pilots or certain personal objectives. All these features make 
+ this game different for each player, hence everyone will have a different view on this game, better 
+ for me.
+  
+  Now, on to the cons I found on this title. First, it was WAY too easy, I didn't spend more than 
+ a week of normal gaming days on this (to me that's about 4-6 hours a day) , and that was on a hard 
+ difficulty... my first reaction was to actually wonder if it was the end of the game or just a 
+ cinematic, but much to my dismay, there were no more levels to play *sigh*. I asked myself "What 
+ happened?", well, the mechs I designed were just too powerful I suppose, unlike MechCommander 1 
+ where you are pummeled ruthlessly from all ranges, MC2 doesn't make it so hard on you, you'll find 
+ either mechs that beat you up at close range, medium range or long range, but never two of these 
+ at a time, making it easy to pick them off with a single weapon configuration, which in my case 
+ was a couple of ER PPC, PPC and plenty of LRM's (those who play will know what I mean) , so my config 
+ was mainly long range.. and 12 mechs with only long range weapons in MC1 would be suicide, as you'll 
+ find plenty of short range mechs around to beat you senseless as you try to pick off the long range 
+ mechs.
+  
+  So, how can this be judged?, well, the customizing feature on the mechs is one of the best ways 
+ of really getting a feel for the game, but it's what kills the difficulty in this particular release.
+ 
+  
+  If I haven't bored you enough with this review (=P) , the sound WILL bore you to death, did they 
+ not have enough budget for some new sound effects or something? ugh, they just took half the FX 
+ from MC1, and pasted 'em here..
+  
+  Looking at all this, the game is fun, addictive, interesting, simply well made out.. but you'll 
+ just get disappointed when you reach the end of the game without even trying your best. Get it 
+ if you can, you'll have fun for a while. 
+::::::
+
+::::::
+UserName: UnlivedPhalanx
+Rating: 8.6
+Date: Oct 17, 2005 2:30 pm PT
+Review:  This Mech game is a highly addictive highly detailed sequel to Mech Commander.
+  
+  This game keeps tradition with the Mech world, lore, history, and basic mechs and their configs.
+ 
+  
+  The houses are once again at war and you sell your team (and command themt too) to the services 
+ of these houses. It even accurately portrays the mercenary side of business too, when a different 
+ house offers you more cash, you follow the job.
+  
+  The game is a rather fast paced RTS compared to other similar titles and a knowledge of prior 'Mech 
+ action certainly helps when faced with some of the tactics although it is not nessasary as there 
+ are tuts availible that accurately demonstrate how a mech operates.
+  
+  Just a simple fun games for ANY RTS FANS, and even for people who dislike RTS games, like myself. 
+ 
+::::::
+
+::::::
+UserName: randar23rhenn
+Rating: 8.5
+Date: Apr 21, 2005 5:27 am PT
+Review:  I purchased MechCommander 2 in the "Mech Collection" pack, which also included MechWarrior 4 and 
+ its expansion. I purchased the pack for MechWarrior 4, but oddly enough, MechCommander 2 was the 
+ game I enjoyed the most.
+  
+  Gameplay: MechCommander 2 is an interesting take on the strategy Genre. It is much like a Real 
+ Time Strategy, but lacks resource gathering or a home base (excluding the payments you get for 
+ missions, of course) . It is not only unique, but also engaging and challenging.
+  
+  MechCommander 2 puts you in charge of a mercenary squad of mechs, and your task is basically to 
+ get the money flow going, eventually the campaign gets much deeper, but I won't spoil it for you. 
+ Regardless, the plot is interesting enough, and the excellant gameplay is enough to keep you playing 
+ no matter what.
+  
+  You command a various number of Mechs through your missions, some allow for a whole group, while 
+ other missions allow for only one mech. On the way you salvage new mechs and parts, place gun emplacements, 
+ and fulfill various mission objectives as you see fit. 
+  
+  Mission variety plays a huge part in a game like this, as the entire gameplay centers on you controlling 
+ a small amount of robotic destroyers. If the mission variety was not diverse enough, it would quickly 
+ become boring. MechCommander 2 does not suffer from lack of variety. From missions where you are 
+ to destroy a base or a specific mech, to missions where you are to infiltrate and destroy a key 
+ target, the missions constantly change in size and ferocity. The challenge never lets up, and you 
+ constantly are repairing and refitting your mechs to suit the new challenges.
+  
+  You are given a massive variety of mechs to choose from, a variety that broadens as you progress 
+ through the game, and your weapons variety is also exceedingly high, allowing you to fully deck 
+ out your mechs as long as they can haul the wait and handle the heat.
+  
+  The many different configurations you can create for your mechs gives you hours of gameplay alone, 
+ and you will spend these hours often, minutely adjusting your mechs to be the right mechs for the 
+ right job, from long range killers to close up fighters, you will diversify and make unique your 
+ army. 
+  
+  Graphics: Graphically impressive, the explosions and different weapon animations are superb, although 
+ the terrain gets a little bland after a while.
+  
+  Sound: Some forgettable music combine with just above average sound effects, but it is still fairly 
+ good.
+  
+  Value: Hundreds of hours of gameplay await you in MechCommander 2, and for the bargain bin price 
+ you can get it for, this is a great deal.
+  
+  Tilt: MechCommander 2 is awesome, and well worth a purchase for fans of the strategy genre. 
+::::::
+
+::::::
+UserName: Rabid_Possum
+Rating: 8.7
+Date: Oct 1, 2004 3:04 am PT
+Review:  I am a huge mechwarrior fan, having beat Mercenaries and Vengeance at least 20 times each. This 
+ game truely feels like the original mechwarrior, with all of the same mechs, weapons, jump jets, 
+ etc. If you like mechwarrior, then this game is a must; if you like rts, i would recommend it; 
+ if you don't like either, then this maybe isn't the game for you.
+  
+  GAMEPLAY: 8
+  
+  OK interface, with some of the buttons not where they should be. Good hotkeys, good mouse control... 
+ however, some of the actions, such as jump jets, are a bit more complicated than they should be.
+ 
+  
+  GRAPHICS: 9
+  
+  Great graphics, with lush surroundings, great mech and vehicle models and good building models. 
+ The water leaves a bit to be desired, however. 
+  
+  SOUND: 7
+  
+  Average sound, with mechs making mech-like sounds, good gun and laser sounds, but no really good 
+ background music. Average.
+  
+  VALUE: 8
+  
+  Good value... only thing you'll end up playing is single player campaign however, since there's 
+ only that and the multiplayer that no one plays. However, the lengthly campaign is one that you'll 
+ likely play a couple of times to get everything there is out of them.
+  
+  TILT: 10
+  
+  Being the mechwarrior fanatic that i am, i, of course, greatly enjoyed this game. Chances are, 
+ you will too if you're a fan of mechwarrior or just enjoy rts's. 
+::::::
+
+-------------------------------------------------

@@ -1,0 +1,1806 @@
+-------------------------------------------------
+:::Game Name::: Anarchy Online
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/anarchyonline/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jul 13, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.6
+Critic Score: 6.9, 17 Review (s)
+User Score: 7.7, 1,492 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Fun Com
+Developer: Funcom
+Genre: Sci-Fi Online...
+Date:     Jun 26, 2001 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+If it can conquer its technical problems, Anarchy Online will be the very best online role-playing 
+ game around. 
+
+ It's safe to say that Funcom's online role-playing game, Anarchy Online, has been one of the most 
+ widely and eagerly anticipated games this year. After all, it's the first so-called next-generation 
+ online role-playing game and the first to be released after its groundbreaking predecessors -- EverQuest, 
+ Asheron's Call, and Ultima Online -- and it should be the first to improve upon them. Up until Anarchy 
+ Online's release, press coverage of the game discussed its unique science-fiction setting, its 
+ intriguing playable characters, its innovative solutions to common gameplay problems, and its enormous 
+ and colorful gameworld. But when the game was released, it caused an uproar. Unsatisfied customers 
+ flooded the game's official Internet message board with angry complaints about severe problems, 
+ such as insecure registration, CD key errors, and in-game bugs and stability issues.           
+ Anarchy Online lets you create a variety of interesting characters...    
+
+ So is Anarchy Online actually the outstanding game that all of its prerelease coverage has made 
+ it out to be? Yes, it is. In addition to the game's innovative and extremely enjoyable gameplay 
+ elements, Anarchy Online has a tremendous amount of personality; you can find it in the game's 
+ distinctive-looking environments, hear it in the game's excellent music, read it in the game's 
+ humorous, tongue-in-cheek manual, and see it in the game's characters, whether they're gesticulating 
+ to emphasize a point or modeling a new set of clothes. But isn't it a buggy game with real problems? 
+ Yes, it's that too.   
+
+  If you're familiar with Anarchy Online, you'll know that it's a massively multiplayer online role-playing 
+ game; that is, it's a game that lets you create a character from a set of different races and character 
+ classes and then go out and explore a huge online world with thousands of other players, improving 
+ your character by gaining experience levels and training various skills. Though it's certainly 
+ not the first game of its kind, Anarchy Online is the first to use a futuristic science-fiction 
+ setting. The game takes place on a remote mining planet called Rubi-Ka, some 20,000 years in the 
+ future, in the middle of a conflict between a huge megacorporation and the planet's rebel insurgents. 
+ You can choose to ally yourself with the Omni-Tek corporation or the rebel clans, or play as an 
+ independent character; and you can change sides in the conflict up to a certain level of experience, 
+ provided you can make it across enemy lines. In addition, the game lets you hunt the planet's various 
+ indigent animals and monsters for experience and money and also lets you undertake dynamically 
+ generated quests, or "missions," for similar rewards.   
+
+  At the game's release on June 27, 2001, Anarchy Online's many early adopters encountered a number 
+ of serious problems. First, like all other online role-playing games, the game requires registration 
+ for a monthly fee -- and credit-card registration initially wasn't handled on a secure server. What's 
+ more, many users had (and several continue to have, as of the time of this writing) problems registering 
+ the game's CD key and couldn't (and in some cases, continue to be unable to) even log into the 
+ game. Furthermore, at release, the game's login server simply didn't have the capacity to deal 
+ with the thousands of login requests that it would constantly receive from users trying to connect; 
+ so many players weren't able to play, because their client would repeatedly "time out." And even 
+ when players were able to log into the game, they had to first download postrelease patches to 
+ play and would have great difficulty playing the game because of spontaneous crashes.          
+  ... and choose from plenty of distinctive appearances.    
+
+ What's more, the game suffered from (and continues to suffer from) some serious lag and frame rate 
+ problems, due in part to a lack of bandwidth on Funcom's servers and the game's own memory-intensive 
+ code, which tends to monopolize the RAM on its host computer. And users with ATI-based video cards 
+ have reported serious problems getting into the game and playing for any prolonged period of time. 
+ These are all serious problems that have made playing the game in its first few weeks of release 
+ extremely frustrating for many users, since many have either had a hard time staying connected 
+ to the game or simply haven't been able to get in.   
+
+  So is Anarchy Online nothing more than a thoroughly unplayable mess? No, it's not. For starters, 
+ Funcom made a secure registration server available two days after the game's launch and instituted 
+ a fix for one of the game's major CD key problems two days after that. The development team has 
+ also released over the past two weeks a steady stream of small client- and server-side patches 
+ that have required brief downloads for users and one-to-two-hour blackout periods for server maintenance. 
+ These updates have improved the game's performance and stability noticeably and have greatly increased 
+ the login server's ability to bring players into the game.   
+
+    Ed. Note: Funcom released a patch the evening of 07/13/01 that has improved Anarchy Online's 
+ performance with ATI cards.      
+
+ Funcom has also  sent a second version of the game's code to production  so that new users won't 
+ have to download the first set of postrelease patches. Unfortunately, at the time of this writing, 
+ the game's current set of updates haven't fixed the game's lag problems -- which can cause the game 
+ to lag for several seconds to a few minutes -- or the game's frame rate problems, especially in its 
+ crowded city areas during peak hours. And several users still can't log into the game because of 
+ a separate CD key issue. Still, these problems haven't stopped many regular players from logging 
+ in lots and lots of hours of play and advancing their characters to significant experience levels. 
+ In fact, it could be said that the worst thing about the game's technical and registration problems -- and 
+ the reason why so many angry, frustrated posts have been made to the game's message boards -- is 
+ simply the fact that they're keeping people from playing the game. Because these people really 
+ and truly want to play.           The wilderness areas in Rubi-Ka are impressively detailed.   
+
+ And if you can get around the game's significant -- and sometimes showstopping -- technical and registration 
+ problems, you'll come to understand why so many people who paid the game's substantial release 
+ price of $50 want to play so badly. All technical problems aside, Anarchy Online is one of the 
+ most genuinely enjoyable online role-playing games ever made -- if not the most enjoyable. It's truly 
+ a shame that the game's technical and registration issues have compromised what's otherwise an 
+ excellent game in practically all other respects.   
+
+  For starters, Anarchy Online looks fantastic. In fact, it's hands-down the very best-looking massively 
+ multiplayer online game currently available; no other such game's graphics even come close. Though 
+ the game's system requirements are steeper than those of other games that preceded it, Anarchy 
+ Online looks good even at the lowest resolution of 640x480 in 16-bit color and looks superb in 
+ high resolutions. As mentioned, Anarchy Online is the first online role-playing game to use a science-fiction 
+ setting, rather than a medieval fantasy setting, and the game's graphics reflect this setting well. 
+ Nearly every one of the Rubi-Ka's futuristic environments is detailed, attractive, and well designed 
+ enough to truly make you feel as though your character is exploring an entirely different world. 
+ But Anarchy Online's characters look even better than the game's environments; you can create a 
+ character from four different races, different genders (three of the game's races have male and 
+ female varieties; the fourth is neuter) , different heights, different builds, and a great variety 
+ of extremely interesting character faces. What's more, you can thoroughly distinguish and customize 
+ your characters' appearances with the game's many futuristic and conventional weapons and armor, 
+ as well as clothe your characters with any of the game's hundreds of fashion accessories, including 
+ leather trench coats, sunglasses, dress shoes, high-heeled boots, medical uniforms, swimsuits, 
+ and much, much more. As if that weren't enough, Anarchy Online features a whole slew of expressive 
+ motion-captured gesture animations that truly help you bring your character to life.           
+ Mutants such as this populate the countryside.    
+
+ You can choose your character's profession from the game's 12 classes, and although some character 
+ races are better suited to certain classes than others, Anarchy Online allows you a tremendous 
+ amount of freedom in the way you design your character and its development, thanks to its open-ended 
+ skill system, which includes physical attributes, secondary abilities, and trade skills. What's 
+ more, all characters of all classes and races may use nanoformulas, which are the game's equivalent 
+ of magic spells. As such, any and every character in the game can choose to be a spellcaster; study 
+ martial arts to fight enemies barehanded; use a noisy, hard-hitting heavy assault rifle; craft 
+ high-quality weapons; be adept at using first aid kits to treat injuries; or can choose some combination 
+ of all of these. Naturally, the game balances these skills by limiting the number of skill points 
+ your character can access at each level, but it still affords you a tremendous amount of freedom 
+ in customizing and developing a distinctive character.   
+
+  What's more, unlike in other online RPGs, just about every kind of character can productively adventure 
+ alone without fear of certain death in Anarchy Online. That's not to say that the game rewards 
+ solo players more than team players, because it doesn't; the most efficient way to increase your 
+ character's strengths, abilities, and levels is to find a good group, but if you can't, or don't 
+ wish to, you can certainly go it alone. And regardless of whether you explore Rubi-Ka in groups 
+ or by yourself, you won't spend hours, or even minutes, sitting and waiting to recover from your 
+ injuries or spent nano-energy (the game's equivalent of spell power) , since the game also features 
+ treatment kits that can replenish either or both instantaneously. What's more, Anarchy Online not 
+ only lets you create custom hotkeys for simple actions, it also lets you write custom scripts to 
+ make shortcuts for multiple actions so that you can create a script that'll let you stop, heal 
+ yourself, and stand up again; fire off a barrage of nanoformulas in sequence; or perform a set 
+ of dancing animations in succession.    
+-------------------------------------------------
+:::User Reviews::: (60 Reviews)
+::::::
+UserName: DrunkenSmurf22
+Rating: 9
+Date: Dec 18, 2008 6:08 pm PT
+Review:  First off, this game is not for everyone. You need to be patient because certain aspects of the 
+ game can take a while to learn/get used to. If you are looking for amazing graphics you should 
+ look elsewhere, but with the new engine and graphics overhaul on the way I could be wrong. I've 
+ had several friends try the game and a lot of them almost immediately quit when they saw the graphics, 
+ which in all seriousness really aren't that bad. However, all of my friends that looked past the 
+ graphics and really gave the game a try loved it.
+  
+  Character Customization - The Character creation area is pretty weak. The options you are given 
+ are simply: race, height, girth, and then your head (there are actually some fun choices for the 
+ head, but its still pretty weak) . In many recent games the race you choose will not matter endgame. 
+ This is somewhat true in AO, but each race has certain abilities in which they excel in: Atrox 
+ - Str/Sta (generally what people choose for tank classes) , Solitus - The Balanced Race (can pretty 
+ much play any prof) , Opifex - Agility (highest evades) , and NanoMage Int (the main caster class) . 
+ Any of these races can play any prof, they will just excel in different areas. I have seen several 
+ Nanomage Enforcers that were very good tanks, and I've seen many Atrox NanoTechnicians that were 
+ also very good. You are given more freedom with your stat distribution than in most, if not all, 
+ games. This has some good points and some bad points. The bad: its very easy to "gimp" or "cripple" 
+ your character. You can "respec" but you are only given a few "respecs." The good: once you learn 
+ how to spend your IP points (stat points) you can have a lot of fun messing with your character. 
+ There are a some classes that have an almost "required" weapon, but for the most part you can use 
+ what you want. For example: doctors can use a melee weapon or a ranged weapon, whereas enforcers 
+ need to use melee weapons.
+  
+  Twinking - You may think it odd that I'm writing a section on twinking (equipping your toon with 
+ very powerful gear) , but I have a reason. Many games use level locked items (like a sword you need 
+ to be level 18 to use) , but AO focuses more on stat requiring items (like a sword you need 100 
+ 2 hand Edged points to use) . This means that instead of having to simply level to use certain items, 
+ you can twink them on at lower levels using buffs and such. This may sound lame or boring, but 
+ it is actually very fun and I think its one of the best parts of the game. I have rolled many a 
+ toon simply because I wanted to see how early (level wise) I could use a certain item. Even though 
+ twinking is a lot of fun, it does have a downside which I will discuss in the PvP section.
+  
+  Gameplay - The gameplay isn't as exciting or flashy as a lot of the MMOs out there, but it 
+ is still fun. With the graphics update on the way, this may change, but we will have to wait and 
+ find out.
+  
+  PvP - Since I left DAoC there has not been any game that has satisfied my hunger for good PvP, 
+ but AO has come pretty close. This is mainly due to twinking. Although twinking makes PvP a lot 
+ of fun, it can also ruin the PvP for a lot of people. Some players simply do not want to spend 
+ a lot of time and money twinking, while a lot of other players will. The difference between a twinked 
+ player and a non-twinked player is pretty significant. On my first character I did a good bit of 
+ PvP, and I got my arse whooped quite a bit by these twinked players. In games like WoW where twinking 
+ simply requires a lot of money (which can be bought) and a high level guildmate/friend to run and 
+ instance with you, I would get very annoyed when I got rolled by a twink. Why? Because it is too 
+ easy to twink in WoW. In AO when I get rolled by a twink I really do not mind so much because at 
+ least that person put a lot of thought and effort into twinking. In conclusion, if you're willing 
+ to put time and effort into twinking, PvP can be a lot of fun. If you aren't, I'd suggest stick 
+ with PvE, which is still a lot of fun.
+  
+  Community - When I play a game, I need a good community. One of the main reasons I left WoW was 
+ because of its extremely immature and annoying community. I find the community in AO to be a lot 
+ of fun and very helpful. There are plenty of Organizations (guilds/clans) out there that are new 
+ player friendly and very helpful. RPers don't worry! Whereas there are not a ton of them, there 
+ are some RP orgs out there and they are a lot of fun.
+  
+  Expansions - The free version of AO is a blast. I had a lot of fun playing it, but when I upgraded 
+ the fun factor sky-rocketed. After playing on a p2p account, I have a hard time playing the free 
+ version. Its not that the free version is bad, but the p2p version has a lot more content and it 
+ offers even more skill customization. I'm not saying don't play the game if you can't pay for it, 
+ just that the game offers a whole lot more than you get with the free version.
+  
+  Give it a shot and see what you think! 
+::::::
+
+::::::
+UserName: ariadarabi
+Rating: 10
+Date: Aug 27, 2008 7:15 am PT
+Review:  If I were you I'd download it with a free account, download the small client. Give it a try, if 
+ you don't like it, keep playing because everyone who didn't like it in the first place finally 
+ found out the basic gameplay mechanics (please note this is a VERY complicated game) and they had 
+ fun with it.
+  
+  jkfehjf iheiahfdsojfhakj eghakjfdhfkj aeghfjaghfk jdhkjfhj dhfkjahkjfhdk hafkgeya bdivue gbfkjabhdi 
+ ucvehbfj hdkjahdkjgfa iuefadbnk avuaibkjfehaf iudgckjdafnhe kjagfia7gd sujeghfkajdbv kjadnf ueif 
+ adkj nhfeiguaebfhk jadb fekuafdh fkjahebk jfniory879hadkj fahejvkbndajckbdau fgeiufeiu said the 
+ cow.
+  
+  I hope you enjoyed that random gibberish lol!
+  gits toke bem laj uehy uefuh aagdb ueuf hgjkerh hee jng aria hebbf eibibe moho hannkeiu hanna oeihdjuj 
+ keh k hii ehbs kjha kjr iehj oje ojefj jehjf lja nheifn ieh iha eihr hgh ihr oiae oiru hngf heiu 
+ urg ugeyf hgrjbj uehg he hhyr beh ua yey tte ggeveb hej kaeae hehnf 
+::::::
+
+::::::
+UserName: confusd
+Rating: 8
+Date: Aug 25, 2008 6:01 pm PT
+Review:  Anarchy online was made seven years ago now, but thats no excuse for funcom having rarely updated 
+ the graphics and still leaving a great game littered with bugs.
+  
+  The game features 4 species and 14 professions as well as a few different options for appearence. 
+ when the game first loads, you may see the graphics, sigh, and want to head for the unistall button, 
+ but if you can get used to the game, youll find an addicting and fun expierience. 
+  
+  The game is non linear, most of the quests you do wont link toghether, and the plot... well tell 
+ me if you find one that isnt just a shallow set up for the game. if you tough it out you can enjoy 
+ anarchy online. dont waste money on expansions until youre sure you want to keep playing the game, 
+ and most of the "paid points rewards" arent worth spending cash for. 
+  
+  A graphics update has been promised this year, but with funcoms reliability, dont get your hopes 
+ up, and hope it doesnt bring more lag to the game, which already has plenty. 
+::::::
+
+::::::
+UserName: doomwarrior235
+Rating: 5
+Date: May 22, 2008 6:47 pm PT
+Review:  Anarchy online takes place in the future were you are sent down to a new planet to live on. You 
+ get to pick between a few races and a bunch of character classes. After that you are dropped on 
+ a strange planet.
+  
+  The game starts off a bit rough, because the controls are not that simple.
+  The controls in Anarchy 
+ online take some time to get use to. But after awhile, you will get use to the controls. There 
+ are also some big problems in this game like controls and attacking an enemy.
+  
+  The graphics are okay in this game. Some of the monsters look cool, but some of the character models 
+ look okay. The environments do not look bad.
+  
+  The sound is okay. and the music is cool. The weapon sound is a bit weird.
+  
+  Over al this 
+ may be a game that you skip, our you can try. It is free, and you can get it off this web site 
+ right now. 
+::::::
+
+::::::
+UserName: MediForce
+Rating: 1
+Date: Feb 25, 2008 4:28 pm PT
+Review:  Players using free accounts thats good news bad news are :
+  
+  the development of the player's character is a primary goal that what we know about MMORPG , Many 
+ titles feature a character progression system in which players earn experience , but sadly, in 
+ this game skills and experience are all manual so giving the option for players to choose which 
+ skill to increase is something like we miss an engine in the game to fairly gives you what you 
+ deserve.
+  
+  interaction : pre-automated moves when the player attacks the creature, no other options to change 
+ it.
+  
+  navigation: clumsy moves (walk and turning) which takes lots of spinning and jiggling around with 
+ the mouse to select the desired direction.
+  
+  messaging and chat system poorly designed.
+  
+  it's more like single arcade game and much suitable for players age less than 10 years.
+  
+ 
+  
+::::::
+
+::::::
+UserName: King_Wii
+Rating: 8.5
+Date: Feb 10, 2008 4:33 pm PT
+Review:  I played AO back when it first launched in 2001, to be honest I didn't realise back then how much 
+ this game would shape the future of MMOs, or at least some of them. Back when it was launched it 
+ sadly didn't get all the respect it diserved, and even I stoped playing because at times it was 
+ a bit complex. Around two months after the game came out I just decided it was an uphill battle 
+ learning all the minute details of the game and packed up and went back to EQ1.
+  
+  Since then I've played almost every major MMO release, and in that time I've seen aspects of AO 
+ show up in all of them, the biggest being CoH mission system which is clearly inspired by AOs system.
+ 
+  
+  Around two weeks ago I was sick of playing the "same old MMOs" so I shut down my account to EQ2 
+ and decided to check out the "free games" on mmorpg. com AO happened to be on the list of "free" 
+ games to play, so I decided for old times sake to give it a run. After downloading the game (from 
+ this very sit lol) I jumped into the game. For any new players I would warn you that your first 
+ week will be like "what is that?", "how do I do this?", "where can I hunt?", type questions, and 
+ if your social enough in the newbie OOC of your faction you'll quickly make friends that will explain 
+ things for you.
+  
+  Now the graphics are the games weakest point, they're deffently from 2001, but the good news is 
+ once FunCom is done with Conan (looking forward to that) they're going to upgrade AOs graphics, 
+ so I can't harp on them to much because if you see the screenshots for the new engine it looks 
+ great.
+  
+  The community is quiet... it seems after seven years of playing alot of them have greated little 
+ niches that they stick to, infact this is where the game suffers the most. Since the community 
+ is generaly "closed" it can be an uphill battle to try and find guilds to join, alot of them have 
+ been runing for 5+ years and as such are very strict about new members. Once you do get into a 
+ community of players though the game realy perks up and becomes much better, you have a solid group 
+ of friends to hang out with and they may even toss you a few million creds to get you on your feet.
+ 
+  
+  The gameplay was groundbreaking back in 2001 and to be honest its still very good to this day. 
+ Right now missions are generaly run off terminals and are randomly generated for you, but the devs 
+ have been adding in a ton of quests, infact the newbie island feels just like any other modern 
+ MMOs newbie zone, with quests that are tailored to introduce you to the concepts of the game. The 
+ problem is though finding where you want to hunt, where to get wepons and when to buy them. The 
+ game has a "Quality Level" system that is built into iteams but it can be hard to judge when your 
+ ready to use it outside of checking the skill requirements. I think WoW and EQ2 have it better 
+ with a flat level requirement.
+  
+  The world is overly large and traveling through zones can take a long time... I personaly made 
+ the mistake of trying to run accrossed the zone called "The Longest Road"... yah it was long, took 
+ me about 15 minutes to get from Borilas (the nutural city) the my mission location. On the bright 
+ side though the game has a fair ammount of vehicles, which act as other games mounts, allowing 
+ you to travel very quickly though this is generaly used in the higher levels.
+  
+  The major downfall of the game in my opinion is the User Interface, its old... like 2001 old, and 
+ it realy dose show its age. Its hard to get used to, the inventory window is very basic and their 
+ is now way to get a full readout on your character other than shift+clicking yourself. What is 
+ worse is that hotbar dosn't have any numbers on it, so you have to keep track of what number you 
+ just put your new skill into... or you'll be counting the boxes to figure it out, which isn't a 
+ horrible issue but being lazy its nice to just look up or down and thing "5... push 5!" rather 
+ than thinking "1, 2, ok yah its 5... crud he just got a crical hit on me while I did that!"
+  
+  AO is deffently a strong MMO, and if you do give it a try and decide to stick with it long 
+ term don't stay as a froob (freebie player) the reason why is Shadowlands allows you to gain XP 
+ on a massive level... the mobs up their give 2x-10x the ammount of XP that normal mobs on Rubi-Ka 
+ give (with the downer of droping no credits) , also by paying and getting access to all the expantions 
+ you get the perk system which allows you realy beef up your character and for higher level characters 
+ lets you go form the max lev of 200 to 220.
+  
+  All in all AO is an MMO that has weathered many storms and stood through it all, they've lasted 
+ this far and FunCom has stated that they want to see it go much futher into the future... this 
+ being achieved through a graphics update and continued expantion. If your tired of playing your 
+ average mainstream MMO I'd recomend giving it a try, heck its 100% free unless you opt to upgrade 
+ your account, and thats a price everyone likes. 
+::::::
+
+::::::
+UserName: ryguy35
+Rating: 8
+Date: Jan 30, 2008 5:46 am PT
+Review:  Anarchy Online is suprisingly a really good game. Sure you might say tht the graphics arent as 
+ good as some of the newer MMORPGs. Sure you might say its a little glitchy and sometimes lags a 
+ little. You might ask yourself ryguy why did you give this game an 8 if it has some problems well 
+ thats because..... Its FREE! But thats not the only reason Anarchy Online is fun to play. Im sure 
+ your used to MMOs where you pick up your great axe and go hacking away at innocent little bunny 
+ rabbits. Well in Anarchy you can still do tht (except the bunnys have been replaced by more futureistic 
+ counterparts) you can just as easily have a Kevlar clad gun slinging tough guy. You start out in 
+ the world of Anarchy Online having crash landed and crawled out of the wreckage of your space shuttle. 
+ You are instantly given quests as soon as your feet touch the warm sand of the beach. The planet 
+ is seperated by factions Omni-tech, The reble Clans, or neutral citizens. Another thing i like 
+ about the game is that they give you a boat load of clases to choose from evan though you only 
+ have four races to choose form Anrchy makes up for this by puting in many different apperences 
+ to choose from. Also most of you are familier to being restricted to certain classes because of 
+ the race you choose this is not ture in Anarchy you can choose any class you want with any race 
+ you like. So if your wow or EQ account has run dry or you just want to take a break and try something 
+ new go pick this up online for... thats right absolutely free... well sure you can pay for a membership 
+ and get exclusive features but come on this isent a game you would want to pay for but for free 
+ you really cant complain. 
+  
+  
+  Game on,
+  ryguy35
+  
+::::::
+
+::::::
+UserName: Kragspire
+Rating: 5.5
+Date: Jan 25, 2008 4:45 am PT
+Review:  I remember launch day of Anarchy Online, it was a nightmare. AO was released far too early and 
+ took over a year to fix the major bugs. Most of the basic systems (such as the organization or 
+ guild creation function) failed to work at all. I was in college at the time and allot of my classmates 
+ and I started together at launch. We only lasted a few weeks before we understood that this game 
+ was not going to get better in a timely manner, thus we left for DAOC. One year later we started 
+ to come back and check-up on the state of the game. It was fair to say that now the game was playable 
+ and the few of us who returned began our lives on Rubi-Ka. 
+  
+  AO is different in some respects then your average MMORPG. It is the first to introduce science 
+ fiction content on a remote alien world. This is about where the line is drawn, as everything else 
+ is what you come to expect from a MMO. Players are able to customize their characters with different 
+ skills and nanoprograms, which is AO's answer to magic. The game (and most of it's community) claim 
+ it is one of the most complex character development systems on the market. I disagree, as all FunCom 
+ did was extend your average range of skills (evades, nano skills, swimming) and let the player 
+ waste time controlling them after each new level. This really wasn't necessary and could of been 
+ done automatically, saving the player frustration and time. There is a IP reset function, but why 
+ couldn't we of had a skill system like Ultima Online based on the raise/lower of hard caps?
+  
+  The graphics and sound quality of Anarchy Online can be a double-edged sword. When the game 
+ was released in 2001, these graphics were a refreshing change from the likes of EverQuest and Asheron's 
+ Call. Since then, time has not been fair to the textures and character models. The models feel 
+ dead and if you look close they float above solid ground, making for an unrealistic experience. 
+ FunCom is working on a new engine for AO, but the question of "what's the point?" comes to mind. 
+ Is it really wise to invest that much resource time in a game that is this old? Perhaps it was 
+ a hand me down from the upcoming Age of Conan, and a way to show off a tech demo on a dying MMO. 
+ The music of Anarchy Online is still considered one of the best scores in gaming history. It really 
+ has a feel that puts you in a sci-fi setting such as Dune or Blade Runner.
+  
+  As this is a review of AO and not of AO + expansion packs, it is fair to say that the gameplay 
+ becomes stale at times. Players are able to run missions to gather new gear and experience, which 
+ is done by providing a random entry point in the world to an instance. These missions range from 
+ assassinations to a FedEx type delivery quest. At first this type of gameplay is fun and addictive. 
+ The boredom starts to kick in when you begin to raise levels and note the distance you must run 
+ to get to your objective, thus becoming a time sink. Also, this type of gameplay is far superior 
+ in games such as City of Heroes, making it feel more like a chore in AO.
+  
+  Anarchy Online has a strong but semi-small cult following. The community is a joy to work with 
+ compared to others such as World of Warcraft. The game play is stale but does add small bursts 
+ of entertainment at times, provided you can keep yourself entertained between missions. There are 
+ still quite a few bugs and crashes that honestly I think will never be fixed. The core game has 
+ become free, so it may provide some value to a budget MMO'er. My advice is to take it slow and 
+ learn everything the game has to offer, because you are going to be doing the same thing for a 
+ long time.
+  
+  
+::::::
+
+::::::
+UserName: powah_serge
+Rating: 8
+Date: Jan 6, 2008 4:43 pm PT
+Review:  Starting in this game I am lost, confused, and set without any goals whatsoever. the complex interface 
+ makes it even harder to start and the grueling lack of a tutorial makes this a rough beginning. 
+ This may seem tough at first but appearances are deceiving. This game makes you decide on democracy 
+ or corrupt power. You can choose your side and you are teleported to the n00b training. This part 
+ is what makes the rest easier. Although this would be a 8.0 the graphics are horribly outdated. 
+ The game is pretty fun once you get used to it, although I got more of an elves feeling than a 
+ unique sci-fi one the game was free and that gets some points right there. When you get to the 
+ community they are generally pretty nice and helpful. The music and soundtracks are all low quality. 
+ This game is still free and worth a try by anyone, this is only, after all, my opinion. 
+::::::
+
+::::::
+UserName: ROXLYDE
+Rating: 8
+Date: Oct 29, 2007 7:58 am PT
+Review:  Yes, I was one of the poor boobs that launched the game 27JUN01. I loved the game, seriously. The 
+ wife and I were stuck in a in-game store for 3 real time days because the zones didn't work. It 
+ was the most disastrous launch I have ever been party to. The technical problems were so bad it 
+ was totally unplayable. I tried to persevere, but it was no use. I grieved the game, because the 
+ potential it had. But seriously, back in 2001, FunCom projected they would sell 4,500 units in 
+ the first week. They sold 45,000 the first day. To say it this launch was a fiasco is an understatement. 
+ It took a couple years and a couple re-subs for this thing to even get itself on the map. It improved 
+ quite a bit, but still always seemed to be bug ridden. Concept, premise, mechanics, scope and vision 
+ I would give 10 out of 10. Execution I would give a 4 out of 10. The expansions have been all over 
+ the map. Some head in the right direction, some do not. All in all I had fun playing the game. 
+ And I still believe the creative minds behind the game to be brilliant. 
+::::::
+
+::::::
+UserName: mamasita17
+Rating: 8.5
+Date: Oct 17, 2007 10:42 pm PT
+Review:  As a veteran player of World of Warcraft. I have to say that Anarchy Online, despite the numerous 
+ glitches and lag issues, makes for a more enjoyable gaming session then WOW. Sure the game is still 
+ clogged with lag issues and glitches but the gaming experience itself was worth the little headache. 
+ Never before could I run for hours without stumbling across another player. The world itself is 
+ immense on a scale so epic you will easily believe your on another world just being discovered. 
+ By contrast, the cities and towns are large and often charged with activity. There is always a 
+ crowd at the Omnitech and clan capital cities. Questing is simple and painless, an atm-like machine 
+ cooks up a story and narrative based on the information you give the machine and bamf ... instant 
+ quest for yourself or your whole group. Unlike WOW, where it felt like a chore to level myself 
+ up to higher levels, AO makes the whole game enjoyable no matter what level you are at. Not to 
+ mention the armor combinations and weapons are virtually limitless. You can choose from pistols, 
+ rifles, machine guns, assault rifles, sniper rifles, shotguns, lasers, swords, bows... you name 
+ it you can probably find it. AO has it all. Plus, it is now free-to-play. After six years its graphics 
+ are no where near cutting-edge. But the gameplay it offers is still extraordinary in an MMO. At 
+ the very least, it is an excellent change of pace from World of Warcraft and offers an excellent 
+ example of the sort of game an MMO should be. If there is ever a sequel to AO, I will be board 
+ in a heartbeat. 
+::::::
+
+::::::
+UserName: londonrider
+Rating: 8
+Date: Oct 29, 2007 7:42 am PT
+Review:  How bizarre is to enjoy a game from 2001 after Bioshock or World in Conflict? Let me explain this 
+ :)
+  
+  For introduction I have to note that I played lots of MMOs, I'm beta-testing quite a few right 
+ now, so I have some experience as well as lots of disappointment.
+  
+  That's not the case with Anarchy Online.
+  
+  They launched the free service for the Classical 
+ Anarchy Online, so I decided to check out how it happens that game of 2001 is still alive (that's 
+ phenomenal!) . And there's a very good reason for that- the game is so rich with content and options 
+ that most of modern MMOs are not even close to that level. The micro management of character is 
+ complicated but NOT annoyingly. And the quests have very enjoyable stories- you receive a feeling 
+ of having a role in old school Sci-Fi movie, and that's not only very engaging, but it also adds 
+ much to the atmosphere.
+  
+  The atmosphere is worth to mention separately. First of all, it IS very refreshing from fantasy 
+ MMOs (that's not a marketing statement like in some cases, but the FACT) . It is so nicely bizarre 
+ that you literally feel like in the different dimension. The sounds (it could be called ambient 
+ music) add a lot to that as well.
+  
+  The bottom line is that if you are looking for MMO with enjoyable gameplay, so Anarchy Online is 
+ definitely is worth a try. However, the game will not appeal to everyone, because it is opposite 
+ to being cute or even pretty 
+::::::
+
+::::::
+UserName: DreamingWolf
+Rating: 9.5
+Date: Sep 17, 2007 1:53 pm PT
+Review:  After playing Anarchy Online for 1 year, I can officially say I am hooked . This MMORPG is so different 
+ from other games in so many different ways.
+  
+  One of the first things you'll notice about Anarchy Online when you enter is the detailed character 
+ creation. You choose your class as the first step in creating your character, and while expansion 
+ packs give you more classes, the basics are still available.
+  
+  Basic Classes:
+  
+  Adventurer Agent
+  Doctor Enforcer
+  Engineer
+  Fixer
+  Martial Artist
+  Meta-Physicist
+ 
+  Soldier
+  Nano-Technician
+  Trader
+  
+  Expansion Add-ons:
+  
+  Shade
+  Keeper
+  Bureaucrat
+  
+  While the expansions do cost a monthly fee, they enhance your gameplay dramatically.
+ 
+  
+  Anarchy Online also boasts an INCREDIBLE skill system. Each class can easily acquire over 50 unique 
+ skills (or as they are called in Anarchy, Nano Programs ) . With the exception of an Agent, the 
+ classes can only use skills designated for their class. Sometimes you can find rare items that 
+ let you use other classes skills, but they can take over an hour to refresh.
+  
+  Anarchy's stat system also makes you plan ahead. With each level you gain, you get more stat points 
+ but the more you add to a certain attribute the more it costs. At a certain level, the amount of 
+ points you get per-level is raised, further making you plan. There are over 30 stats to add your 
+ points to.
+  
+  Other than the highly futuristic Nano Programs and great stat system, I would rate the fighting 
+ system poor to medium. There isn't really any effect to an attack, and not much excitement. None 
+ the less, when your with a team it's rather fun.
+  
+  Anarchy's weapon and armor system is highly plausible. I have been able to estimate over 1000 different 
+ types of weapons and somewhere near 1500-2000 armor pieces, not counting the customizable armor/weapons 
+ (and did I mention that it's possible to build just about any item, given the right materials?) . 
+ The shops are constantly shifting their wares, so if there is a good weapon in the shop at 2:30 
+ it could be gone at 3:00. This makes the game highly entertaining, as you never know when some 
+ rare stuff might show up.
+  
+  As for the money system (Credits) , I give it a failing F. It's very hard to get credits unless 
+ you have a guild or some cool player gives you some. Be careful, it's very easy for someone to 
+ scam you. KNOW the prices and be sensible, or learn the hard way.
+  
+  The shear size of the world of Anarchy is enough to take your breath away. Without a vehicle, flying 
+ machine or speed buff, it would take well near an hour to run from one end to the next. Of course 
+ this brings us to another aspect of Anarchy: The Sides.
+  
+  There are two apposing forces you are asked to join upon entering Anarchy: The greedy, harsh money-mongers, 
+ Omni-Tech (who have more advanced armor and weapons) . Or you can join the freedom fighting Clans, 
+ who boast a massive amount of team playing strong willed fighters to counter OmniTech.
+  
+  Overall rating of this game's graphics is around 7.5, since they are pretty much stuck back in 
+ the days of easy-street box models. However this game should be prized above all other games for 
+ it's ever changing economy, players and gameplay. I might also want to mention that Anarchy Online 
+ has a great amount of quest (missions) that you can get either from NPCs or Mission Terminals, 
+ but after a while these become dull and you find yourself doing them only to gain experience and 
+ items.
+  
+  Has about a 1-2 hour learning curve for experiences MMORPG players, and 4-5 hours for a non-experienced 
+ MMORPG player. 
+::::::
+
+::::::
+UserName: hphatecraft
+Rating: 7.5
+Date: Aug 9, 2007 9:42 am PT
+Review:  First of all, the game is pretty old and it shows its age. The graphics, while well done for its 
+ overall age, are a bit lacking. With that said, graphics don't always determine whether or not 
+ a game can be fun.
+  
+  While I haven't played AO extensively, my 3 months of play time was more enjoyable than most MMOs 
+ I have played. It's not a polished gem or a gem at all for that matter, but its character flexibility 
+ and community make it an enjoyable playing experience.
+  
+  I refuse to spend to much time dwelling on a game that's closing in on nearly a decade in age, 
+ but I felt the need to give this game a thumbs up for those who are looking for a sci-fi MMO in 
+ a market over-saturated with fantasy themes. The best part of AO at this point is the free-to-play 
+ option that is currently available. While you won't be able to get the best gear and miss out on 
+ some content, you can still have a lot of fun with the free-play version. So, if you are a cheapskate 
+ like myself, AO may offer you 30 - 40 hours of fun. 
+::::::
+
+::::::
+UserName: DooleyJ_98
+Rating: 9.2
+Date: Jun 25, 2007 2:29 pm PT
+Review:  I am currently totally hooked on this game. I have been playing it for almost 2 months now. It 
+ is completely flexible to your mood. Want of fast paced action, join a team and fight some mobs, 
+ aliens or other players. Want some peace and quite, go explore the gorgeous world of Rubi-Ka. I 
+ am playing the free online version, which lacks some perks and uber bits, but is other wise the 
+ full game. There is a great in game community with hundreds of active guilds offering help to the 
+ beginner or the expert high level player.
+  
+  My only criticism of this game, is the graphic engine is dated, and although it looks impressive, 
+ it slows to a crawl when zoning or changing areas. 
+::::::
+
+::::::
+UserName: ocolith
+Rating: 8.3
+Date: Jun 4, 2007 9:20 pm PT
+Review:  This game, which came out in 2005, was considered great despite its bugs. Now it really isn't graphiclly 
+ better, but it is still a lot of fun. It's become free now, only making you pay a monthly fee if 
+ you buy a upgrade. If you give this game a chance and overlook some of its flaws, it can be great.
+ 
+  
+  Gameplay: Its awesome. Simply great. Its about as friendly as WoW or EQ, so don't underestimate 
+ it. It has a ton of choices and so much to do within the game that you'll not be dropping it because 
+ you were bored.
+  
+  Graphics: Well, it's kind of obvious it's really not all that great, but hey, it's free right? 
+ The scale is turely awesome and you get a great immersion within the game as you can explore vast 
+ lands. The only bad thing, the textures look blocky.
+  
+  Sound: Sound is very good, I found nothing wrong with it. They have some good music as you run 
+ around blasting heads off aliens and mutants, the sound effects are fine too, youll keep your sound 
+ on for what it's worth.
+  
+  Story: Eh, what can you say? It's like WoW, it has no story, just go arround and have fun. :)
+ 
+  
+  OVerall it is a good game since it is now free, and you'll probably find a lot more fun if you 
+ get an expansion. At least try it out, but have some patience as the download is an SOB, and that 
+ is an understatenment (like 8-15 hours, I'm serious) But for what it has to offer, you may enjoy 
+ it. 
+::::::
+
+::::::
+UserName: destin2b
+Rating: 6.8
+Date: May 28, 2007 11:19 am PT
+Review:  Rank: 2,718 of 37,916 441
+  Rank on PC: 909 of 8,032
+  Rank: 2,718 of 37,916 441
+  Rank on PC: 909 of 8,032
+  Rank: 2,718 of 37,916 441
+  Rank on PC: 909 of 8,032
+  Rank: 2,718 
+ of 37,916 441
+  Rank on PC: 909 of 8,032
+  Rank: 2,718 of 37,916 441
+  Rank on PC: 909 of 8,032
+  Rank: 2,718 of 37,916 441
+  Rank on PC: 909 of 8,032
+  Rank: 2,718 
+ of 37,916 441
+  Rank on PC: 909 of 8,032
+  Rank: 2,718 of 37,916 441
+  Rank on PC: 909 of 8,032Rank: 2,718 of 37,916 441
+  Rank on PC: 909 of 8,032
+  Rank: 2,718 of 
+ 37,916 441
+  Rank on PC: 909 of 8,032
+  Rank: 2,718 of 37,916 441
+  Rank on PC: 909 of 8,032Rank: 2,718 of 37,916 441
+  Rank on PC: 909 of 8,032 
+::::::
+
+::::::
+UserName: xxscammersxx
+Rating: 2.6
+Date: Apr 8, 2007 5:50 pm PT
+Review:  Throw this hunk of trash overboard, 'cause it sucks. Everything is bad. Graphics are blurry and 
+ nasty and and make my decent pc run slow. Combat is slow and un-exciting. Sound is EXTREMELY ANNOYING 
+ and repeats the same song over and over again. This game is free but if you want anymore content, 
+ which I'm sure you nerds do, you get get to start paying a monthly fee starting at $7.95. This 
+ game also has a really big learning curve with no tutorial to introduce you to any aspects of the 
+ game. Stay clear of this junker and do yourself a favor and play a half-decent online game. 
+::::::
+
+::::::
+UserName: madskongen
+Rating: 3.3
+Date: Apr 6, 2007 11:22 am PT
+Review:  Todays standards and my taste, this game was nothing but a horrible cheap looking game i would 
+ never pay for and barely download for free, it does look hilarious though and emotes can be done 
+ while doing anything made me laugh quite hard when i played drunk one night, other than that, nothing 
+ appealed to me, and i never did get the hang of it, i didnt see the point of playing a game with 
+ a almost 10 year old graphic engine or so, i did have high expectations to it from what i read, 
+ but when i played it it was very dull and i didnt see what was going on almost. 
+::::::
+
+::::::
+UserName: Lillemjau
+Rating: 9
+Date: Mar 11, 2007 7:26 am PT
+Review:  I have played AO since 2002 without ever taking a break for more than a couple of weeks. It was 
+ my first MMORPG and to this day it is the best one I have played, despite the game showing its 
+ age. This is not a game for spoiled WoW-players, for kids who wants a win button or for those who 
+ are impatient. Mastering AO takes time, it is a very complex game with a LOT to learn. I still 
+ learn things, even after 5 years of playing. It is a game where tactical thinking, planning and 
+ laying out the details is alpha and omega for your character. AO can't compete with today's graphics, 
+ being a very old game on a very old engine, but it is a gorgeous game, beautifully crafted with 
+ love from Funcom. The sound scheme is superb, the community is wonderful, the content is never 
+ ending and the choices are your own. If given the time, it will grow on you and you'll learn to 
+ look past the dated graphics and animations.
+  
+  Because the basic game is free (the non-expansion base game) , more and more people are flocking 
+ to the servers. It's worth a shot. Give it a week. If it hasn't grown on you by then, it probably 
+ won't, but chances are that players learn to love the game. 
+::::::
+
+::::::
+UserName: cowboydb59
+Rating: 7.1
+Date: Mar 9, 2007 6:56 am PT
+Review:  I haven't played this very much, because I'm not much of a fan of this genre.
+  Still, it was sort of fun when I did play it. And it's free...
+  
+  Gameplay: Basic MMORPG. Cities 
+ and more wild areas to explore, items to collect, inventory limits to hate, etc.
+  The character formation is sort of cool, and it's kind of fun to level up a character, but I think 
+ it would be much better if you actually aimed and shot, or ran up and slashed, instead of choosing 
+ your attack and watching it happen. I'm funny that way, I guess...
+  
+  Graphics: Horrendous. The game stutters and shakes even on decent PCs. Everything is almost flat, 
+ and there are weird little glitches of things randomly appearing when you stand in a certain place.
+ 
+  
+  Sound: Nondescript.
+  
+  Value: Free... with endless potential if you're into this kind of game.
+  
+  Tilt: Not very high, 
+ but I think I might try it again one of these days.
+  
+  One Last Note: Don't join the Clan! 
+::::::
+
+::::::
+UserName: Evil_Buddha
+Rating: 8.5
+Date: Oct 15, 2006 5:43 pm PT
+Review:  This game is just plain fun. The graphics are not the greatest, but they are better than others. 
+ There are some bugs, but all of them are getting fixed. The game has been up for 5 years and counting 
+ and is still addictive. There are over 80 skills, multiple classes, and different breeds which 
+ offers a variety of customization. It has great gameplay, but annoying sound at times. If you are 
+ looking for a good online game with a good community in it, this game might be for you. I like 
+ this game a lot and there are usually a lot of people on. 
+::::::
+
+::::::
+UserName: jman123454
+Rating: 5
+Date: Aug 3, 2006 8:04 pm PT
+Review:  it was good. Not the best for an mmo. I thought that it could have used a bit more spicing up. 
+ If you want to play a good free mmo. Go with this or guild wars. I personally like the futuristic 
+ fact of the game. So my review I give this a 3 out of 5. There for it wasnt the best game. It was 
+ very average. IF you want to not have to pay for a game get this. If not get guild wars or WoW. 
+ So ya. It was ok. I personally wont recommend it to a hard core mmo fan. Maybe to a beginner for 
+ MMO's but not a hard core fan. That is my review of "Anarchy Online". 
+::::::
+
+::::::
+UserName: Game_Hunter44
+Rating: 6.3
+Date: Jul 23, 2006 5:48 pm PT
+Review:  Anarchy Online is a online game set in the sci-fi setting of rubi-ka, where you get immersed in 
+ this world, fight aliens, etc.
+  
+  Though I agree it is fun at times, especially with friends and that it is a bit unique in several 
+ ways, its cons just conquer the game. It is indeed riddled with bugs and glitches, and at times 
+ very frustrating to play the game. Things like tryign to switch out your guns because the other 
+ one ran out of ammo is VERY frustrating, mostly in a combat situation. It takes almsot up to a 
+ minute to switch out during those times, when it is supposed to be, at the max, aroudn 4 or so 
+ seconds. Also running around the sci-fi world in some places just dosent seem fulfilling, and everything 
+ will have a bland feeling to it. Also the combat can also feel blanded out and boring, though I 
+ only think this through a ranged attackers perspective.
+  
+  It does have a fun and unique "wear" system, with weapons, armor, and even bioengineered skeletal 
+ parts to add inside of yourself. Also it sets a change of pace form the other medievel style mmos. 
+ Also players making their own cities/towns with communities, as well as cool raves and hangouts 
+ to meet people makes it easy to find peopel to play with. Also the fact that it has a free client 
+ download which lasts for months is very nice.
+  
+  Otherwise this is a decent game, and I recommend mainly playing in groups or with friends, since 
+ the soloing will just taunt your nerves and make the game a wreck. 
+::::::
+
+::::::
+UserName: jo1810
+Rating: 9
+Date: Jun 30, 2006 3:54 pm PT
+Review:  This is a game I've been playing for four years, and I don't intend on stopping anytime soon.
+ 
+  
+  Over to the review, this game does not have great graphics these days, but you have to remember 
+ that the game is now five years old.
+  Graphics - 8 / 10
+  
+  The gameplay is just great, with a great community, and lots of stuff to do, and character customization 
+ is easily done.
+  Gameplay - 10 / 10
+  
+  The sound effects are decent, but the music gets annoying, and most people like to have their own 
+ playlists in the background, so luckily it can be turned off.
+  Sound - 6 / 10
+  
+  Well, that was my review, hope it helps.
+  
+::::::
+
+::::::
+UserName: RandomTask221
+Rating: 7.3
+Date: Jun 28, 2006 1:30 pm PT
+Review:  I'm not going to bore you with any long review, so I'm just gunna lay out the pros and cons of 
+ this game.
+  
+  Pros:
+  
+  Short load times, compared to modern MMORPGs. 
+  
+  Nice voice acting when it happens (which doesn't happen often)
+  
+  Good dialog between Computer 
+ players and Human player.
+  
+  A nice selection of jobs to choose from and good character customization.
+  
+  Its free (promo) 
+ until January 15th.
+  
+  Pretty cool stuff to do, get a house, a job, trade and chat.
+  
+  Cons: 
+  
+  Grahpics arn't as good as they used to be.
+  
+  Lag plauges the cities at times.
+ 
+  
+  In-game menus are somewhat buggy and hard to use at times.
+  
+  Life-less character models, too stiff.
+  
+  Confusing gameplay for new players.
+  
+  Combat 
+ is weak and could use a face-lift.
+  
+  Its not free forever, which I would never pay for this game.
+  
+  Conclusion: To put it simply, 
+ this game isn't that good. Sure it has its moments but the majority of the game is weak in many 
+ areas. Its free for now, but in the future, it will cost again and its just not worth it. 
+::::::
+
+::::::
+UserName: Invisiblejim
+Rating: 9.6
+Date: Jun 23, 2006 2:51 pm PT
+Review:  Why I'm I lovin this game,
+  
+  Well this is my first time on the multiplayer online scene.... recommended by a friend which is 
+ always a bonus in my book.. the other bonus is its Free.
+  
+  Yes its free.... which should come as no surprise to you gamers which have read any of my previous 
+ reviews.... I'm a budget gamer and free gaming falls well within budget...
+  
+  Whats so great about it... well there are loads of characters to chose to play.. theres not much 
+ of this sell your soul bits and bobs on ebay rubbish going on cause the game is self contained. 
+ Theres implants, equipment and skills to upgrade galore... you can have several different characters 
+ on the go or even the same type of toon (character) going and they will all be different in some 
+ way...
+  
+  Brilliant... beautifully balanced.. play by your self or will others its upto you... joining orgs 
+ of others is a benefit for sure but not pressured or required.
+  
+  For all you freebie people out there you can play to level 200... sure you won't get perks and some 
+ of the other nice kit but the basics are all playable with no pressure to do anything ingame... although 
+ I can say once your playing you'll be hooked and seriously considering as the months go by to pay 
+ the cash per month and upgrade for the full deal.. I close to the edge myself.... Loving every minute 
+ of anarachy goodness..
+  
+  So don't be shy, do it now and play for free... cause free play is all good. 
+::::::
+
+::::::
+UserName: reghat
+Rating: 7.5
+Date: May 20, 2006 7:55 pm PT
+Review:  I started playing Anarchy Online back in the beta, and I enjoyed it immensely. The MMO-setting 
+ was completely new to me, and the environment in AO was amazing. And the music was stellar too 
+ boot. There were problems, of course. the mission-booths failed 9 out of 10 times, and sometimes 
+ the lag was counted in minutes. But the game had what the french say, an... I don't know what. 
+ That the game was developed by a Norwegian company, Funcom, (Hey, I'm Norwegian) didn't count against 
+ it in my book.
+  Then the game was released, and it just didn't live up to my expectations. It just grew too complex. 
+ I lost interest. I cancelled my subscription 6 months after the release. Friends of mine kept playing 
+ . buying all the expansions and even becoming GMs. But in the end they all lost interest, like 
+ me.
+  I recently picked up Anarchy Online again after they released basic subscription for free, but 
+ I must say. Even though it's free I still won't play it. Maybe I've become too accustomed to nice 
+ interfaces like World of Warcraft, (Which I've also abandoned) but I can't get myself to play it 
+ for an extended period of time. The memory of grinding still lingers in my memory. 
+::::::
+
+::::::
+UserName: rodney2003
+Rating: 9.6
+Date: May 20, 2006 4:07 pm PT
+Review:  wenn u first come in the world of rubi-ka u will get bored because you don't know what to do. but 
+ when u get to the real world and the game really starts.... it's only gets more addictive. the 
+ events are funny. and there's enough to do. i know the graphics are a bit dated but still better 
+ then most free mmo-rpg's. what? free? yes it's free for the moment. so get ur download fast because 
+ in 2007 the offer stops. i know thats a minor. but still it's fun so for the one's who can pay 
+ (i can't , don't have credit card (another minor) ) will pay for sure when they got addicted. i 
+ only played it for 36 hours in the Christmas vacation. now my pc just sucks : (. but still i wan't 
+ to play it. so badly. i know this ain't giving u much information about the game. but this is how 
+ much i like it.
+  
+  graphics 9
+  -they may be a lil bit dated 
+  +but still good enough.
+  sound 7
+  +effects are great
+  -music isn't very bad but sometimes 
+ lil annoying
+  gameplay 10
+  +much to do
+  + good community
+  +good controls
+  +it just works
+  replay 10
+  + when u get in u will realy never get out :D
+  
+  overall 10 
+ 
+  this game is just so adicting after u get from newb island and realy begin.
+  i can't give it lower then a ten. it's the best game i've ever played. and believe me i played 
+ many games. 
+::::::
+
+::::::
+UserName: Warfust
+Rating: 8.2
+Date: Apr 19, 2006 11:57 am PT
+Review:  Anarchy Online is a great MMORPG that is often overlooked when people are looking for a new game 
+ to try. It may be an older game, but it has solid game play and alot of content. You can start 
+ playing for free, and if you really like it you can buy the expansions (for a very minor amount) 
+ and pay a low monthly fee.
+  
+  There are three factions to choose from, two of which appose each other. There is PVP (Player vs 
+ player) content to keep you occupied as well. The character customizability is a bit lacking in 
+ the original game, but the looks of the different armor make up for it in the long run.
+  
+  One of the biggest complaints I have heard of from more recent players is the point allocation 
+ system. You receive points as you level up and you can put them into different skills to improve 
+ them. However, you don't receive enough to max every skill and it's not always obvious what to 
+ put them into in order to receive the greatest benefit.
+  
+  The bugs that plagued it's launch are gone, and it has the best and fastest customer support of 
+ any MMORPG that I have played. 
+  
+  I would reccomend this game for anyone that is looking for a new MMORPG to try, in particular those 
+ that are looking for something other than a Fantasy setting. 
+::::::
+
+::::::
+UserName: Bafucin81
+Rating: 8.8
+Date: Apr 8, 2006 6:19 am PT
+Review:  First I like to say that AO is an old game. So it will not look like the games we have today. BUT 
+ most games are a copy of AO. AO is the mother to them all. WoW is the biggest copycat of them all. 
+ Poor Blizzard. And how good looking is WoW? Not much, it look like crap in my eyes and it have 
+ a childish community.
+  
+  AO have a great community. Maybe it's the age of people that play the game? 
+  
+  The character 
+ & skill system is great and you need to use your brain a little to come around.
+  
+  The game might look a little crapy but again it's old and soon it will get a update on that too. 
+ Give it some time. ^^
+  
+  You have alot of different classes to pick and there is millions of items to build and loot.
+ 
+  
+  Great quests and great humor in this game.
+  
+  What I like best is the characters, quests, the community. Other games die, but AO still stay alive. 
+ Why? It's a great game.
+  
+  It have a story and it's perfect for RP if you like that.
+  
+  AO is the best Sci-fi game online and it will become even better.
+  
+  Try it out and enjoy! 
+ ^^ 
+::::::
+
+::::::
+UserName: vasquezinus
+Rating: 9
+Date: Apr 4, 2006 3:38 am PT
+Review:  This is definitely the mother of MMORPGs... It's challenging to say the least, but worth the hard 
+ effort in the end. I didn't even like RPGs untill this game came along, and now i cant get away 
+ from it! The IP distrabution is generic, per level you get a certain amount if IP and you choose 
+ where to improve yourself, differnt races and professions specialise in differnt areas. The gameplay 
+ is simple, but not simple enough to write all of it in this review, check out the forums ;-) ... 
+ There; s too much to this game to put in this review, but the game is also so well done (on a non-technical 
+ standpoint) that it's hard to get away. Even if you are a hater to all RPGs, take a stab at this, 
+ and if you mutilate all competition in other RPGs, you should definitely try this. even eassier 
+ to make you decide to play, is that funcom, the creators of Anarchy online, are giving out accounts 
+ to play for free untill november 2007! while this is without the expansions, it will still satisfy 
+ your thirst for competition, adventure, or simple entertainment. So even if you are a deep hater 
+ of all RPGs, get a good internet hookup and try this out ;-) because if you end up loveing it as 
+ much as i do, you'll be the first to say it was all worth it :D 
+::::::
+
+::::::
+UserName: muel_costa
+Rating: 9.3
+Date: Mar 27, 2006 5:30 am PT
+Review:  This game is one of the bests MMORPG that i ever played! 
+  
+  You can see the game in two perspectives, FPS or World of Warcraft like, there are so much talents 
+ that you can upgrade, an amazing view an you can be just like you want to be!
+  
+  The graphics are not to good but you can play it whitout a problem, the bugs that the people speak 
+ of are solved, the sound of the game is really good!
+  
+  There are monsters prety strong, but you can have a information of them just by clicking Shift+click, 
+ the game is the best man
+  
+  Play it! It really is good! And is free! (until 2007) heheh
+  
+::::::
+
+::::::
+UserName: thetruekilla69
+Rating: 9.4
+Date: Mar 25, 2006 12:39 pm PT
+Review:  This game is FREE for the first few years of playing! dont ask me how i have no idea the game has 
+ so mutch stuff to do you could play for a year and STILL not do everything it has to offer! or 
+ even come CLOSE! its CRAZZY fun and i love it! team up and destroy anything in your path or go 
+ alone and explore the what seems to be ENDLESS land of anarchy! thares so mutch to do you will 
+ play entell ur eye fall out of your head! its crazzy fun and ENDLESS possibilitys of things to 
+ do and its a MMORPG! so if u team you never know what could happen or what cool new item you could 
+ get. Thanks -Shane- 
+::::::
+
+::::::
+UserName: dragonmaster989
+Rating: 9.2
+Date: Mar 24, 2006 3:39 pm PT
+Review:  I started playing Anarchy Online back in June, since the first time I played I have been totally 
+ hooked. There are so many places to explore, so many professions to try, and so many cool weapons 
+ and items. I have written a guide for this game and all I can say is try it, give it a chance, 
+ its FREE!! When this game was originally reviewed it had many problems which have all been fixed 
+ in the many updates since its release. Gamespot's review does this game no justice, it's great. 
+ The graphics are a little dated yes, but that is quickly forgotten because the game is so enrapturing. 
+ Try it out, it is unbelievable. 
+::::::
+
+::::::
+UserName: animaonline
+Rating: 2.6
+Date: Mar 21, 2006 10:49 pm PT
+Review:  The Gameplay is really bad you get tired after playing it, the graphics is really old, the sound 
+ effects and music loops all the time, the game itself is very buggy you can just get stuck or fall 
+ thru the ground, Its not even worth to call Anarchy Online an MMORPG, if you wish a better free 
+ MMORPG experience play Knight Online and Tibia or pay for Final Fantasy XI or Ever Quest.
+  
+  P. S after playing Anarchy Online for some hours I uninstalled it from my computer, i will never 
+ play it again!
+  
+  This game is only for the hardcore fans to the series or those with low end computers.
+  
+::::::
+
+::::::
+UserName: Chi-You-Man
+Rating: 8.8
+Date: Mar 5, 2006 7:15 am PT
+Review:  People give this game a bad write up, and well i will not call them stupid, but i do not agree with 
+ them.
+  First think i noticed, was the easy patching, it patches fairly quickly, and if you decide to cancel 
+ at any point, it will freeze at that point, and comeback to. Not a new thing but its good as some 
+ mmos dont have that feature for some reason.... not much for broadband users but good for users 
+ on a slower connection.
+  When you log in, you get to the character creation bit, a nice range with an easy to use interface.
+ 
+  You give your character a name, then you get moving, you go through some stages until you reach 
+ newbie island. Train for a bit, then you select a faction, theres a war going on in the world of anarchy 
+ you know. Between the power mad omni tek or the opposing rebels, or you could be neutral.
+  Then Rubi-ka is your oyster. Anarchy offers some cool features, goals and a big enough area to play 
+ on.
+  Anarchy features some cool features, and the ability to captain various vehicles.
+  Now the good bit, the free playing period, not 4 weeks, not 48 days, but a whole year. And they have 
+ just renewed it for another year so its been free and will continue to be free for a while, so get 
+ stuck in!.
+  All in all its a decent game but like every game it has flaws, but not many.
+  First anarchy does at times become boring, but even then you can find things to do.
+  But the team 
+ support is super!. All in all anarchy is a good game, with few flaws, and is certainly worth the download, so 
+ get playing! 
+::::::
+
+::::::
+UserName: ViperPyro
+Rating: 3.3
+Date: Mar 4, 2006 12:28 pm PT
+Review:  I love MMORPG games and this is one of the worst ever! It pales in comparison to Lineage II, Auto 
+ Assault, World of Warcraft, etc.
+  Crappy graphics, poor gameplay, and just plain stupid!
+  
+  The only reason i gave it a six on vaule is because you can download a free beta version thingy 
+ of it. If you buy it, you are wasting time, money, and helping support a company that is not nearly 
+ as good as it is said to be!
+  
+  Sound is ok, but it is hard yo sqrew that up in a game, graphics are kind of cheesy, not even close 
+ to Half Life 2 and not even as good as World of Warcraft
+  I do liek how you can upgrade your character, but if you couldn't i would be even more pissed!
+ 
+  Dont Waste Your Time! 
+::::::
+
+::::::
+UserName: legoloco
+Rating: 9.8
+Date: Mar 3, 2006 1:44 pm PT
+Review:  This is another must buy MMO. This is a good MMO with a good storyline. First you make a charecter 
+ with many professions to choose from. Then you go through various tasks working for omni-tech (if 
+ u are thinking of starwars the imperials) or clan. (rebels) There are many things to do to keep 
+ you busy for a long time. There are PVP areas and regular areas. There is a good community and 
+ ABSOLUTLY NO LAG! I have never lagged and i nvr got kiked off. This is a must buy and it is easy 
+ to learn. This game can be a challenge if u go into higher lvl areas. You can choose for this to 
+ be a challenge and u can choose for it not to be. 
+::::::
+
+::::::
+UserName: epstanleyiii
+Rating: 5.5
+Date: Feb 25, 2006 4:07 pm PT
+Review:  This game was a free download with about a 3 month free trial. Download can be painless if you 
+ use the right source, but Account Setup forms processes and Automatic Game Setup are lacking!
+ 
+  
+  The traditional problems you might expect like missing drivers, incompatibilities, with your PC 
+ gaming platform, etc were not there. Running the setup file was the best part of the whole process. 
+ Painless!
+  
+  The Best News:
+  
+  Downloading The Game:
+  I downloaded this game from Xfire because I'm always looking for download sites that are good as 
+ some of the on line game patching systems I have run across. This was a great experience compared 
+ to what you usually have to deal with. Xfire's download engine stopped when I played and online 
+ game. Resumed to have speed with some adtivities and when to full speed when I wasn't clicking 
+ the keys. Painless hours of background tasking!
+  Quality Issues:
+  
+  Getting Started:
+  The process of setting up an account with the forms interface is not as intuitive as I would like 
+ to see. It looked like the preferred user name I wanted was lost due to an activated name with 
+ a lost connection. A series of trial and error attempts did get me to the point I could log on 
+ and begin the patching process. I suspect others attempting to play might have bailed out before 
+ this point because it was a free download and they have lots of really good games to play instead 
+ of trying a new one that hassles you from the start.
+  Patch Upgrades:
+  This process took forever for some reason. The downloading engine just quit sending data after 
+ a while, repeatedly, and just didn't do anything more until you canceled and started over again. 
+ The download engine could find the end of it's process and resume, however, so all was not lost. 
+ Eventually, given enough time and effort that process completed and I was able to move on to attempting 
+ to sign on and play a game.
+  Graphics Setup:
+  You will have to pick a graphic card setting before you connect. If you are not current on these 
+ technical things, you will have to sign on and off for a few tries until it works right for you. 
+ 
+  
+  On my first pass I went with the default settings and I couldn't figure out what was going on in 
+ the world from a viewing perspective. After going thorough the trial and error process of figuring 
+ out how to log off and then restarting the game with the highest settings they would allow the 
+ graphics were fine (This latest PC is pretty strong, I hope it is good for more than three years) .
+ 
+  Networking:
+  I'm beginning to feel all of Anarchy Online problems aren't over yet. I had disconnects in account 
+ setup, the patching process and during game play. I have not had this level of network problems 
+ with other online games.
+  Game Play:
+  
+  Slow real-time game play combat
+  Navigation with W, S, E, A instead of the mouse
+  Poor on line help to explained use, pickup, scan, 
+ equip, unequip, etc.
+  
+  REVIEW CONCLUSION:
+  Interesting game play environment, nice graphics, poor game play, a lot of technical problems. 
+ Game trial download, installation problems, Account Setup Problems, Game Update Problems, Network 
+ Problems and less than excellent Game Play when I don't buy a game without good graphics, and sound 
+ has no value to me and I really don't want to spend my time with the hassle!
+  
+::::::
+
+::::::
+UserName: Alathien
+Rating: 9.2
+Date: Jan 30, 2006 2:03 am PT
+Review:  Why Anarchy Online is one of the best games ever made:
+  
+  -Want to fight, try out different weapons, use swords, shields, rifles, pistols, shotguns etc. 
+ Are you interested in taking down big bosses, packs of mutated monsters, aliens, wild animals, 
+ muggers or other players? You have the chance to do it!
+  
+  -Do you want to focus on trading, creating profitable wares, buying and selling, upgrading items, 
+ bring in loads of cash? You can!
+  
+  -Maybe you're more interested in getting an apartment, buying furniture like a fridge, plants, 
+ statues and the likes of it? Perhaps you feel like going to a shop to buy shoes, trousers, tops, 
+ gloves, sleeves, hoods, trenchcoats, sunglasses, dresses or even swimwear? Or maybe you want to 
+ buy yourself a car or a plane? You can do it all.
+  
+  -Adventuring might suit you the best, run around in wonderful forests and shifting enviornments 
+ all from rivers, lakes, deserts, forests, large cities, ruins, junkyards, wastelands, castles etc. 
+ 
+  
+  This game is wonderful, the possibilities are endless. All you need is time and patience, and you 
+ will soon get hooked on this game and master it well. When you start with your first character, 
+ you think it will be your last as well, but you will definitely make another one, and another one, 
+ and maybe even another one! You will learn and live in Rubi-ka, meet people from Switzerland, Russia, 
+ USA, Norway etc. Try it if anything of the above sounds tempting to you. 
+::::::
+
+::::::
+UserName: Archer_Plus
+Rating: 5.3
+Date: Jan 17, 2006 2:44 am PT
+Review:  Gameplay: AO has some similarities to its contemporary Diablo 2. You go around killing this and 
+ that with randomly generated or generic names, in simple, randomly generated missions and getting 
+ randomly generated loot which is rarely suited to your character and is either sold to the shops 
+ for credits or traded with other players who have found something of use to you.
+  
+  Monster AI is primitive even by 2001 standards. Enemies usually stand toe to toe with you, not 
+ moving regardless of whether they are melee, ranged or nanocasters.
+  
+  There is a complex system of combining objects to make other objects and breaking things down and 
+ reassembling them which is a large focus of the game. You get some xp for modifying equipment and 
+ in theory could make a living performing services if a larger community existed. This system could 
+ be streamlined and better documented.
+  
+  Travel is unnecessarily slow and the skill system is antiquated and unnecessarily complex. Melee 
+ and Ranged are broken down into approximately 13 skills each. That's splitting skills up 4x as 
+ much as is customary. You can still spend skill points on skills that no longer have any in game 
+ function. Maps are inexcusably crude for any game designed this century.
+  
+  Graphics: While good by 2001 standards no improvement have been made to keep up with modern graphics. 
+ While other MMORPGs are updating their graphics and adding more character customization options 
+ AO still has a handful of looks compared to the billions of styles modern games offer. One does 
+ have to mention that when the game was released the graphics were barely functional.
+  
+  Round objects like barrels are 6 sided polygons. Character and monster models look about the same 
+ as the models in the original Resident Evil for the Playstation. Textures are fairly ordinary. 
+ When an enemy uses a ranged attack it looks like its coming from behind you, over your shoulder, 
+ a truly bizarre effect that has to be seen to be understood.
+  
+  Sound: Music and effects are generic and forgettable but not annoying enough to turn off the sound.
+ 
+  
+  Value: Not bad as far as free online games go. You get everything you pay for. There are better 
+ and worse free games out there. You are fine as long as you don't subscribe because once you do 
+ you can't go back to free mode and AO just doesn't compare to modern games. If the pricing was 
+ reduced to a one time $20 fee or perhaps $5/mth it might be worth experiencing the expanded content.
+ 
+  
+  Tilt: The documentation for the game is almost exclusively fan designed. In fact if it wasn't for 
+ dedicated fans this game surely wouldn't exist even if it is free. I don't think there is a design 
+ team anymore, just a skeleton staff of customer support to handle billing for the remaining subscribers 
+ and maintenance team to keep the servers up and running. The game has certainly jumped the shark 
+ as it were and its glory days were in 2003 if it had any. A dedicated staff of player moderators 
+ handle all the in-game support with some powers granted to them by what remains of the official 
+ company. Thanks to them it is still possible to play this game today. 
+::::::
+
+::::::
+UserName: TarenGarond
+Rating: 5.7
+Date: Jan 15, 2006 8:49 am PT
+Review:  Graphics is kinda good
+  
+  Music is good
+  
+  Sound effects is kinda bad n boring
+  
+  Gameplay is kinda fun in the start but after 30 hours it slighty being more boring
+  
+  it is 
+ good that it is free tought!
+  
+  
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda 
+ boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda 
+ boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda 
+ boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda 
+ boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda 
+ boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda 
+ boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+  Kinda boring game! 
+::::::
+
+::::::
+UserName: Smintar
+Rating: 2.6
+Date: Apr 26, 2006 6:03 pm PT
+Review:  This game was so frustrating to play, I really tried to stay with it. I like the enviro of this 
+ game but the lag the bugs the CS etc finally just took it's toll. Never I have I seen a game go 
+ down as fast as it went up. I did the beta on this game and the DEv team didn't adheres to the player 
+ base, and thats just to bad, I rate this as the all time worst that I have ever play, now the graphics 
+ are so outdated, it came off my HD this past week. I have played this for well over 6 months, and 
+ went back to see if there were some improvements and alot of the Dungeons were certainly better 
+ than in the begining. But it's still not worth my time now. 
+::::::
+
+::::::
+UserName: Cyrriss
+Rating: 2
+Date: Dec 20, 2005 10:54 am PT
+Review:  I thought I would try this game as I'm between mmorg's at the moment. Its awful. The graphics are 
+ terrible. The community is rude and extremely unhelpful. Older players come to the newbie area 
+ just to rip them off of any money they might have. The layers of complexity are astonishing. Between 
+ breeds and improvement points you feel lost right from the beginning. I've read every guide and 
+ the forums and they are absolutely no help with this game. I assume that people must start with 
+ friends who explain stuff otherwise how would you know! The nano stuff and all the implants and 
+ how to do all the nitty gritty stuff......... its just nuts. I'm not surprised this game is in the 
+ tank. 
+  
+::::::
+
+::::::
+UserName: rickwired
+Rating: 7.7
+Date: Dec 4, 2005 10:30 am PT
+Review:  I have played AO on and off since its release. It has come quite a long way since then. I'm pretty 
+ sure AO got a bad rap at release, but for whatever reason that is, I say it is a good game to try 
+ out if you are interested in a Sci-Fi MMO. Actually it is about the only Sci-Fi MMO I can think 
+ of that is worth playing.
+  
+  The graphics are kinda old old school. The player modesl are pretty much just a shape with dark 
+ spot for eyes and lips, etc. However you can cover up that pitiful face with some really cool looking 
+ armor! The UI is pretty much the only other thing that really irks me about this game. A new modern, 
+ customizable UI is in dire need. The skinning you can do to this game is limited, but you can download 
+ some pretty nifty user created programs to go along with the game. You can't do that with most 
+ any other online game I can think of.
+  
+  So if you are looking for a good sci-fi game that offers lots of content and good player community 
+ then you should try this one out. 
+::::::
+
+::::::
+UserName: Homosygus
+Rating: 8.2
+Date: Dec 2, 2005 4:56 pm PT
+Review:  This game starts off really fun and exciting. There is lots to do and teh game play seems fun. 
+ You do a few quests, choose what faction you want to be a part of then go to the capital city. 
+ Once again a new experience but when u get to lvl 20 the game starts to slow down, the quests start 
+ getting really repetitive and every thing is the same over and over again. Constant grinding becomes 
+ annoying and it takes forever to get high enough lvl to try pvp. The vehicles in the game make 
+ it fun but the lackluster gameplay weighs heavy on you. 
+::::::
+
+::::::
+UserName: AdamSprague
+Rating: 2.9
+Date: Nov 14, 2005 9:26 pm PT
+Review:  This game would be good if other games like Guild Wars, or WOW didnt exist, as far as the free 
+ part of the game it is okay, yet ends quick and as soon as your ship crashes and the real game 
+ begins your left with wondering what to do, no real direction and awkward hunting and moving controls.
+ 
+  
+  the storyline and unique character classes are a fresh change of pace, but the rest of the game 
+ doesnt match up with the potential that the story/characters could possess if the game would have 
+ been done correctly. 
+  
+  All I was left with was a bad taste in my mouth for a game that had so much potential but just 
+ never hit me with any lasting memories or effect. It was a short lived game and i quickly moved 
+ on and forgot about this title. 
+::::::
+
+::::::
+UserName: Sebbastyand
+Rating: 8.6
+Date: Nov 8, 2005 6:21 am PT
+Review:  It is hard at the beggining to understand the game, but you realise after a couple of hours that 
+ , in fact, it is a amazing system of abilities, weapons armors, implants etc. You have lots and 
+ lots of abilities, classified in groups. There are 8-11 specializations from the soldier to the 
+ nano mage.
+  The goal of the game is to gain levels, money, and experience, making missions gives you lots of 
+ bounty. You can form alliances, even commanding a party! This is very useful at the begining. You 
+ move in a virtual word of hundreds and hundreds of kilometers that keeps forever.
+  Like i said before, This is the BEST online SF game that i have played!!!
+  
+  ANARCHY ONLINE 
+ RULES!!!!!
+  
+  
+::::::
+
+::::::
+UserName: zlinko
+Rating: 7.7
+Date: Oct 13, 2005 8:32 am PT
+Review:  Anarchy Online was my first experience playing a MMORPG. Now maybe because of that I still love 
+ this game but I do have plenty of complaints. My biggest complaint is that money means nothing 
+ in the game which is sad because that means that you don't need to work to get anything. There 
+ are plenty of people in the game with tons of money and they give it away for no reason. I guess 
+ the problem is that there is too many rich people in the game. When I first started to play I did 
+ need some cash and asked for some a very nice player ended up giving me over 100,000 credits, which 
+ I was almost not going to accept but he said he had over 500,000,000 credit s and this was nothing 
+ to him. I felt like i had just have a huge stroke of luck to my disbelief it ends up that most 
+ people in the game have around or even more money then that. So that means you buy what you want 
+ and you end up getting bored because there is no goal.. you already can buy anything why work for 
+ it.
+  
+  Beside that the game is a lot of fun to play and there is a huge community and plenty of players 
+ to chat with and create parties with. Also Anarchy Online is a pretty big game and there is a lot 
+ to explore. One thing I would have liked is for there to be more of a built in storyline in the 
+ game. It seems everything is missions and it can get pretty repetitive. 
+::::::
+
+::::::
+UserName: diglow1
+Rating: 7.3
+Date: Jul 27, 2005 5:05 pm PT
+Review:  As it is now free to play the basic game without any of the expansions, AO is worth trying out. 
+ 
+  
+  The graphics are about on par with other games of its generation even though to my eye the character 
+ models seem a little funny looking. 
+  
+  The gameplay is typical repetitive MMO fare but there is a fair amount of variety considering the 
+ age of the game. Dying in some MMO's can do some real damage to your character but AO is fairly 
+ forgiving, especially in the beginning which allows you to learn the game as you go without too 
+ much worry.
+  
+  The interface takes some getting used to and the concept of the game, with implants and other unusual 
+ sci-fi aspects, takes some figuring out, but the community is generally active and helpful. 
+  
+  The initial download, through BitTorrent, is brutally long, but again, its free. 
+  
+  If 
+ you are at all curious about this game or MMO's in general , this is not a bad start. 
+::::::
+
+::::::
+UserName: JaikonAgent721
+Rating: 8.5
+Date: Jun 28, 2005 5:44 am PT
+Review:  This is a pretty good game, what are you two guys talking about up there. You guys needs to learn 
+ how to review better, or simply just get a better taste for games maybe... the graphics were top 
+ of the line in their day and i give it props for still looking pretty good nowadays. This is a 
+ free game everyone should be playing. The scenery in every place you go looks pretty good. The 
+ leveling up system i admit is pretty hard with 50+ things to level up but lets you have a little 
+ bit of cutomization through the whole game. The overall character development is pretty cool and 
+ should be capitalized on by some other developers to make this even a better game than it already 
+ is. 
+::::::
+
+::::::
+UserName: sakko
+Rating: 8.2
+Date: Jun 2, 2005 6:09 pm PT
+Review:  Anarchy Online is a great MMO. It's time-line is post Everquest 1, and pre Dark Age of Camelot. 
+ The thing that sets it apart the most from other games in the genre is the science fiction setting. 
+ It is one that is very unique in story, content and presentation though. It's a story and setting 
+ that really grow on you.
+  
+  Great aspects of the game include the world of Rubika being so vast and huge. There are all kinds 
+ of environments to see in the game and many ways to get around easily, but it still retains it's 
+ "Wow I'm on a big freakin' planet" factor, which is important in my opinion. Everquest tended to 
+ ruin it's global size by allowing too many transportation options, making the world feel like connect 
+ the dots instead of a vast world to explore.
+  
+  Anarchy Online was made in the days where MMO's leveled you up by having you go out and do very 
+ repetitive things. Nowadays, recent MMO's have you partaking in many different story lines in the 
+ form of missions or quests that you can feel part of the story line, somewhat reducing the leveling 
+ treadmill. Although AO does have a mission generator system, there are really only about 6 missions 
+ that you will ever get, for example, killing a random named person, finding an item, returning 
+ an item, fixing an item... things like that. Furthermore, the finding an item missions become the 
+ most lucrative since you get to keep that item, as well as the item you get for a mission reward, 
+ so there is honestly no point in doing any other kind of mission.
+  
+  One thing that is kind of neat about AO is the community support. You will find site upon site 
+ on advancing your characters in different ways to try to optimize their power and lethality. In 
+ addition, third party programs that can run along AO can help you in game as well, yet tend to 
+ demysticize the experience a bit. A great example of this is a program called "Click Saver".
+  
+  Click Saver is a program that runs in the background and helps you find missions with the rewards 
+ you want. Say for instance you are looking for a new weapon. You type in the name of that weapon 
+ in click saver, move your mission terminal window in the correct spot in game, and let her rip, 
+ it will literally farm the mission terminal until it finds the correct reward, then highlight that 
+ mission for you. The end result is you now rely upon this program to provide you with every piece 
+ of armor and weaponry you will possibly need for your 200 level journey in AO. Rewarding? Yes. 
+ Exploiting? Absolutely. Does Funcom care? No. Apparently that's just fine with them. People don't 
+ even read the mission descriptions anymore, of which there are about 20 anyway, but still. There 
+ must be a better in game system for this kind of thing.
+  
+  One problem in AO in my opinion is the lack of customizability of your characters. It's not that 
+ you can't change their stats or anything like that, you can, you'd just be a fool to do it "wrong". 
+ With the loot tables in AO, there are weapons that are ideal for each class. For instance in the 
+ time that I played for the Soldier class it was the Div-9 Plasma Projector Assault Rifle. For Adventurers, 
+ the Custom Desert Reet pistols. With weaponry so prolific thanks to click saver, there is no reason 
+ why you would use anything else. You'd be gimping yourself if you did. So now we have one weapon 
+ to attune to and everyone of the same class is going to be identical. You can adjust your skills 
+ however you like but you will benefit so greatly from sticking to one template that supports your 
+ class's "uber weapon" that you'd be a fool not to do so.
+  
+  This is really disappointing especially since there are so many unique and cool weapons in game 
+ (which suck in comparison) .
+  
+  There are a number of expansions for AO. They all add new and unique content to the game which 
+ is alot of fun participating in. There are more expansions on the horizon too.
+  
+  AO is kind of old. It's fun to try out and they have crazy deals going on right now where you can 
+ play the original client with no expansions for free. Unheard of. It's a fun game and anyone should 
+ give it a try especially since its free.
+  
+  One more thing of note, the soundtrack in game is simply awesome. It's available on CD from the 
+ website and is worth every penny. 
+::::::
+
+::::::
+UserName: shawnwon
+Rating: 8.8
+Date: Apr 12, 2005 6:40 pm PT
+Review:  This game is 1 of the best mmorpg i played, and i played all of them from wow to ffix and all the 
+ others. The graphics i will give 7, the graphic is kind of dated but still looks some what nice. 
+ Sound i will give 8 nice sound fits the game, game play i give a 9, it would get a 10 from me if 
+ there was no lag. Value i will give a 10 it's a lot to do learn and if you are a gamer that just 
+ wants to jump in and start playing and get every thing in 30min then this game is not for you but 
+ if your like me and love to learn new things about a game even after you played it for weeks then 
+ this is the game for you. I love the game and will play it for a long long time. 
+::::::
+
+::::::
+UserName: finalcaliburSC
+Rating: 5
+Date: Apr 5, 2005 9:24 am PT
+Review:  After playing Anarchy Online it is easy to see why the game developers are letting gamers play 
+ free for a year. It's the only way they are going to attract new customers with better MMORPG on 
+ the market such as World of Warcraft and Everquest. This game features many horrible features the 
+ overall ruin a game that had promise. 
+  
+  Anarchy online features one of the worse level up system to date in a MMORPG. Once a player levels 
+ up they receive skill points to spend on categories. The problem is there are about 50 or so categories 
+ to spend skill points in. Also in the level up system the player picks one type of weapon not ranged 
+ or melee but more of staff, sword, pistol, rifle, etc. The problem with this is that a player needs 
+ to spend skill points in that weapon skill in order to use that particular weapon and its higher 
+ versions. So once the character reaches a higher level and let's say the player would like to try 
+ a sword instead of the gun they are using once the character is at level 50 or so there will be 
+ a problem because unless the player has saved allot of skill points they won't be able to get a 
+ good sword and get destroyed in the dungeons. Once the player picks a weapon and get to higher 
+ levels they are committed to it. Also allot of items and nano rely on multiple skill categories 
+ that will really tighten they way points are spent. 
+  
+  This game features repetitive missions as well. All the missions are either retrieve this, kill 
+ him, save him. This gets old and with an boring combat system it's pretty much unimpressive. You 
+ engage in combat by pressing the Q button and then if that weapon has a special ability may be 
+ able to use it during battle. Also you can cast spells. That sums up the battle system. 
+  
+  The only good thing I can say about Anarchy is it looks good. It really has great environments 
+ and good looking player models. It is not the best looking MMORPG but still holds up well. 
+  
+  Overall this is not a good game. If you want to look over all this and a play a game that has 
+ a limited item usage system and unnecessary large level up system then by all means download Anarchy 
+ Online. It's free and the only thing that will be wasted is the hard drive space. Just remember 
+ if something is free there usually is a reason. 
+  
+  Eric Martinez 
+::::::
+
+::::::
+UserName: Bidybag
+Rating: 5.3
+Date: Mar 26, 2005 12:06 am PT
+Review:  This game is free for download and that is the only reason i got it and give it a try. It is not 
+ worth buying even if it is really cheap. You will soon get bored of it, just running around places 
+ and killing things at a really slow fire rate. It is good for a free game so if you dont want to 
+ buy anything you should just give this game a try. This other games in the series are proably the 
+ same so i dont recommend any of these type games. They get boring quickly and you cant play them 
+ if you have a slow internet connection because they are multiplayer only. 
+::::::
+
+::::::
+UserName: GeneralPatton7
+Rating: 9.4
+Date: Feb 23, 2005 4:02 am PT
+Review:  Anarchy Online is a very deep game but is also a lot of fun. Now if you are into creating a superman 
+ character that dominates every player and is at level 250 than this isn't a game for you. It is 
+ very hard to LvL up in this game but the best part about AO is the social aspect. I have only been 
+ playing this game for a month and I already have my own clan. Whenever I log on to the game I use 
+ our clan chat channel, find other players and go out hunting. You really connect with your teamates 
+ trying to keep each other alive. There are 100's of items you can purchase and you even get your 
+ own apartment that you can store items in and have furniture. All in all, Anarchy online has 100's 
+ of hours of fun, social gameplay and it will challenge and entertain you for hours on end. 
+::::::
+
+::::::
+UserName: Almighty_Fred
+Rating: 4.8
+Date: Jan 30, 2005 2:32 am PT
+Review:  The only real good thing that can be said about this title is that, well... it is better than Runescape. 
+ If you have not played Runescape, then just know that saying Anarchy is better doesn't mean much.
+ 
+  
+  This poor game has you choose side basically working with the futuristic government or against 
+ it. As if this hasn't been done before. But, if you just can't dedicate yourself to one side you 
+ can be neutral.
+  
+  Missions involve killing enemies over and over again until you finally realize that it will never 
+ pick up and you are done, as in, you went outside and decided it would be more fun to burn things.
+ 
+  
+  HooHA! 
+::::::
+
+::::::
+UserName: tbdave88
+Rating: 9.8
+Date: Nov 7, 2004 5:49 pm PT
+Review:  Anarchy online's launch technicalities deadened the popularity of the game, but those who stuck 
+ with it and played through the server crashes were thankful they did. The game is great and offers 
+ a vast world to explore and interact in. Now the game has one of the best reputations for support 
+ and stability in its genre, and rightfully so. The game takes the player and puts him in to a world 
+ of waring powers in the future. The Clan, Omni-Tek, and the Neutral players. Each side is battling 
+ for power and the land. The many expansion packs that have come out since the games release add 
+ many new features to the game for the player to explore as well as now vast parts of the world 
+ to explore. The amount of customization one is able to apply to his/her character is unbelievably 
+ deep and infinite. Replayability is a huge factor in the game with the different race/class combinations 
+ to choose from as well as side and factions/guilds. The quests are fun as well taking part in guild 
+ activities. All around, Anarchy Online makes a good stand in the MMORPG genre and i would recommend 
+ it to anyone interested in MMORPG's... 
+::::::
+
+::::::
+UserName: GaussGoat
+Rating: 8.1
+Date: Jun 4, 2004 12:06 pm PT
+Review:  Anarchy Online is a great online game for these seeking a game with a lot of depth, relaxed atmosphere, 
+ and an interesting world to explore.
+  
+  AO places you on the planet Rubi-Ka where two factions are currently fighting it out. The mega-corporation 
+ of Omni-Corp is at odds with the Clans, a group of settlers who are fighting for their independence. 
+ The backdrop is sufficient, and in game missions tend to stick to this story line, albeit loosely.
+ 
+  
+  AO's character generation is great, and offers several choices for the player. There are 4 races 
+ to choose from, and about 12 professions with varying strengths and weaknesses. The game does a 
+ nice job of clearly outlining what each of these choices entails, so you don't feel unprepared 
+ upon entering the game world. Also, a player may have several characters on both sides of the conflict, 
+ so you don't need to be restricted on that side of things. The characters also have a huge array 
+ of skills, attributes and abilities, and the depth here is a little intimidating. There is, fortunately, 
+ a way to re-allocate points spent here, so that if you have taken your character in a direction 
+ originally not intended, you can fix that later on.
+  
+  AO's game play is surprisingly fluid, and I was very happy with the engine. Simply put, the game 
+ is great to look at. The environment is alien, and yet somewhat familiar at the same time. The 
+ design team should really be given some large points for overall ambiance, as the game is big; 
+ I mean really big. There is a lot of terrain to explore, and running across Rubi-Ka would be over 
+ a day long affair (if you could make it) . There are rivers, deserts, forests, huge urban landscapes 
+ and underground caves to explore.
+  
+  AO's sound is a little weaker than I might like, but everything works well for the most part. Weapons 
+ sound great, and the game has a very nice soundtrack which somehow adds to the overall impression 
+ of size; it's ambient. A little bit more music would have been nice, although the bars in the city 
+ sound appropriately techno-laden.
+  
+  Game play is pretty well done, with most of your character's actions accessible through simple 
+ clicks and icons. One of the nicer features in AO is the ability to customize your HUD as needed, 
+ so you can set attacks, healing and other abilities as needed, and can even setup macros, etc.
+ 
+  
+  Social interaction is excellent in AO, and it is very easy to setup a group, find friends, and 
+ there are a lot of purely social "emotes". You can almost gesture your way through a conversation, 
+ and this adds to the immersion quite a bit. It's eerie to ask someone where a weapons shop is and 
+ to have them point and say "over there". You can also laugh, shrug, and ham it up appropriately.
+ 
+  
+  One of AO's best features is the raw amount of content and items; it's enormous. There are thousands 
+ and thousands of items to look through and craft, and an equal number of Nano-spells/upgrades as 
+ well. Any character who likes to craft will be in heaven here, since some weapons require 10-12 
+ components each.
+  
+  All in all, my time on Rubi-Ka was a blast. While there is nothing revolutionary here, it is a 
+ very solid game, and a satisfying online experience. Have fun! 
+::::::
+
+-------------------------------------------------

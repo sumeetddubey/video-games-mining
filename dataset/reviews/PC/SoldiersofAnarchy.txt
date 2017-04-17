@@ -1,0 +1,269 @@
+-------------------------------------------------
+:::Game Name::: Soldiers of Anarchy
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/soldiersofanarchy/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov  8, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.1
+Critic Score: 7.3, 11 Review (s)
+User Score: 8.1, 122 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Simon & Schuster
+Developer: Silver Style
+Genre: Sci-Fi Real-Time Strategy
+Date:     Oct 8, 2002
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Despite its annoying technical issues, Soldiers of Anarchy is a lot of fun. 
+
+ For many people, there's something appealing about any game that lets you lead a team of soldiers 
+ in a postapocalyptic war zone. So it's odd that this setting hasn't been used more often in computer 
+ games. Soldiers of Anarchy features a setting that's similar to the one used in MicroForte's Fallout 
+ Tactics, though its gameplay is more reminiscent of that of Red Storm's 1999 strategy game Shadow 
+ Company. Both of those games let you control multiple characters in real time in a mission-based 
+ format, and now German developer Silver Style has taken this genre into a fully 3D world in which 
+ a few humans hid in bunkers while the apocalypse took place and then crept out later to jump into 
+ a tank and shoot at things. And the game gives you better weapons along the way so you can shoot 
+ bigger stuff, which is also good.           If they have you outgunned, you can outsmart them. 
+    
+
+  Soldiers of Anarchy does a nice job of creating a world that's appropriate for its setting. It 
+ has a desolate landscape that effectively conveys a sense of wide-open space, and this is complemented 
+ well by the weather effects and lighting. The graphics are generally outstanding, and some of the 
+ vehicle models are really great. Additionally, the animations are beautiful. The game has smooth 
+ and realistic movements that range from general combat actions to getting in and out of vehicles 
+ and climbing over walls. Unfortunately, the character models are pretty homogenous, which makes 
+ it difficult to tell them apart, especially since the game's generic voice-over doesn't help. For 
+ instance, most of your characters are supposed to be Russians, but all the voice work was provided 
+ by Americans, so you'll tend to forget. These incongruities make Soldiers of Anarchy a technically 
+ inconsistent game.   
+
+  Each mission involves multiple goals, only some of which are revealed at the beginning. Scavenging 
+ for weapons is important, as you need to collect ammunition and you can trade extra weapons for 
+ more powerful ones. Soldiers of Anarchy has a great variety of weapons, and this variety not only 
+ adds to the tactical choices you have in each mission, but it also adds to the game's atmosphere. 
+ You'll find that many of the missions have hidden boxes of weapons that add to your stash, but 
+ hunting for them doesn't get tedious because you can finish the missions without scouring every 
+ inch of the map. The game focuses on the right things: combat and the tools of combat, like interesting 
+ guns, tanks, mines, grenades, and so on. The story is told using brief cutscenes that are triggered 
+ when you reach certain points in each mission, but they're integrated into the game engine much 
+ as in Warcraft III, and if you want to skip them you can just click through.           The quality 
+ of the unit animations adds a lot to the game.    
+
+  While you'll do plenty of exploring, the game revolves around periodic firefights. No character 
+ can stand being shot for more than a few seconds, and a burst from a heavy machine gun will take 
+ a character out before you have much chance to react. However, the single most important aspect 
+ of the gameplay is the fact that there is no ability to pause and issue orders. You can stop the 
+ game if you need to take a break, but this freezes the screen and prevents you from doing anything 
+ until you resume the game. For this reason, Soldiers of Anarchy actually requires a bit of dexterity 
+ with the mouse and keyboard, especially because you have to make extensive use of the two different 
+ camera modes (free and follow) to track all your soldiers. Your units will do their jobs individually 
+ even if they're widely separated, so as long as you're able to assign units to different groups 
+ and manipulate them with hotkeys while managing the camera, you should theoretically be able to 
+ get by fairly well.   
+
+  Unfortunately, you can't be sure your soldiers will obey your orders, because the pathfinding in 
+ the game is terrible. And it's not even consistent -- five of your characters may set off immediately 
+ for the waypoint you set for them, but the sixth may decide to run in the opposite direction for 
+ a while. Or, a group may be approaching a destination and one of your characters will suddenly 
+ veer off into the woods, loop around, and come running back. Unfortunately, this tends to happen 
+ at the most inopportune moments -- otherwise, it might seem like a practical joke that the developers 
+ quietly added to the game. Unfortunately, the joke is ruined by the fact that if you order a character 
+ to sneak up on an enemy, and he decides to take an alternate route, you're most likely going to 
+ be reloading your last saved game immediately afterward. You can adjust pathfinding in the options 
+ menu, but even setting it to maximum appears to have no effect except to use more of your computer's 
+ resources and slow down the game. Silver Style's solution to this problem was apparently to put 
+ a note in the game's documentation that advises you to save often.    
+
+ Soldiers of Anarchy's pathfinding is even worse with vehicles, which are almost incapable of driving 
+ in a straight line down a road. They'll either weave drunkenly from one side to the other (leaving 
+ the road entirely) , or, if they make it to the waypoint you specified, they'll suddenly veer off 
+ at a 90-degree angle and maybe drive up a hill. This bad driving also extends to scripted behavior. 
+ In the very first mission, you're supposed to follow a character to his village, but this can take 
+ as long as 10 minutes, as the guy drives crazily around, up and down the same road and then maybe 
+ off into some trees, up a hill, around in a circle, and then back to where you originally met. 
+ It all sounds hilarious until you need one of your vehicles to carefully drive around a minefield 
+ and it instead drives over a mine and ends the mission that you forgot to save. The fact that Soldiers 
+ of Anarchy's load times are a bit long doesn't help, either.           The story isn't one of the 
+ game's strong points, but it moves the action along.    
+
+  The last issue with movement in Soldiers of Anarchy is the fact that when you give a unit a new 
+ waypoint, that unit momentarily pauses, but the game keeps going. In other words, if a truck carrying 
+ your entire team is trying to get away from an enemy who's firing on you with a bazooka, thanks 
+ to the bad pathfinding, it may try to drive  toward  your enemy. And if you try to correct the 
+ problem by giving the truck another order, the truck will stop and pause while your enemy merrily 
+ continues to bombard you.   
+
+  These issues are so maddening because Soldiers of Anarchy's developers got so many other things 
+ right -- it almost seems unbelievable that they could have missed these obvious problems. The game's 
+ tactical situations are interesting, and they require plenty of stealth and strategy. The game 
+ has lots of puzzles scattered throughout its missions, but it does a great job of making the answers 
+ intuitive enough that solving them makes you feel more a part of the world. For instance, vehicles 
+ leave tire tracks when they drive around, and this is a key to solving an early puzzle in which 
+ you're heavily outgunned but have the advantage of surprise. In the end, they're not so much puzzles 
+ as they are good tactical problems. You'll need to take note of tactical considerations, like enemies 
+ being able to spot you from much further away depending on how you order your troops to move. As 
+ you might expect from a real-life tactical battle, the prelude to 15 seconds of gunfire will sometimes 
+ be several minutes of circling and scouting. It works well -- so well, in fact, that you wonder how 
+ that part of the game could turn out so well when other things were completely missed, like the 
+ fact that it takes forever for soldiers to get in a vehicle because they get in one at a time, 
+ even if the vehicle has four doors.           Between-mission actions are handled cleverly.    
+ 
+
+  The character and equipment management between missions is also nicely done. You return after each 
+ mission to your bunker, where you can heal soldiers, trade for new items, reequip your squad, repair 
+ and modify your vehicles, and get your mission briefing. The game forces you to make choices between 
+ missions with an ingenious time element, which gives you a limited number of hours to perform various 
+ tasks. And if you need equipment and don't have anything you want to give up in exchange, you can 
+ take the unusual alternative of going into your lab and making some performance-enhancing drugs 
+ that you can then barter for guns and ammo.   
+
+  Despite its annoying technical issues, Soldiers of Anarchy is a lot of fun. This is true in part 
+ because of the inherent appeal of wandering around a postapocalyptic landscape and picking up cool 
+ weapons to shoot things with, but the game also features good art direction and solid scenario 
+ design. Soldiers of Anarchy even includes a full map editor (although its documentation is pretty 
+ sparse) . Additionally, the developer is apparently working on a patch that will supposedly let 
+ you pause the game and give orders. The game's various bugs are obviously a more pressing issue, 
+ but if they're fixed, Soldiers of Anarchy could be a truly terrific game. Then again, Soldiers 
+ of Anarchy is still recommendable even as it stands.    
+-------------------------------------------------
+:::User Reviews::: (4 Reviews)
+::::::
+UserName: dominus_tecum
+Rating: 6.4
+Date: Mar 1, 2007 10:28 am PT
+Review:  Yep, the story is post-apocalyptic, but the game itself doesn't convincingly sell the environment. 
+ That is, If you played the game sans the occasional dialog, you would never be able to tell it 
+ was post-apocalyptic as opposed to some generic modern combat game -- M60's, AK-74's, Humvees, Migs 
+ and a bunch of dilapidated buildings do not a post-apocalyptic game make. The gameplay itself EVEN 
+ AFTER THE PATCH is fairly disappointing. I've read the initial review that complained of the lack 
+ of a pause to issue orders and the terrible pathfinding. The patch doesn't do all that much to 
+ help the pathfinding, making me wonder just how bad it was, and the pause feature seems only to 
+ upgrade the frustration level from pulling-your-hair-out to plain annoying. Get Fallout Tactics 
+ instead. 
+::::::
+
+::::::
+UserName: Kasrkin_BA
+Rating: 5.6
+Date: Jul 21, 2006 12:24 pm PT
+Review:  I bought this game thinking that it would be like the recent UFO games but implemented in a way 
+ I would have liked. I was half right.
+  
+  The emphasis of this game is not turn-based like UFO at all. It's real-time with the ability to 
+ pause the game at any time and make command decisions if the need arises.
+  
+  Gameplay
+  
+  I want to start this portion by saying that the installed version of my game has a bug in it 
+ from the offset that adds to some of the frustration I experienced. Apparently, due to one of the 
+ many codecs my PC needs whenever the game repeats a music file I have to wait 25seconds for it 
+ to reload in which time the game freezes. And the only fix for it? Remove all except basic MicroSoft 
+ codecs. Fantastic.
+  
+  According to the games forums they had experts that helped them with the weapon stats. That stinks 
+ more than the local water treatment centre in mid-summer. I'd like to see anyone survive a direct 
+ hit with a .50cal shot let alone continue fighting. So realism is out of the question right away. 
+ But that didn't make the game less fun, just meant that you had to play about with the game to 
+ see how things would react and that took some time. Things like a single RPG7 round completely 
+ annihilating an apartment block. Sweet moses!
+  
+  Pathfinding is a tad awry as well. Vehicles are often getting lost, driving into buildings or taking 
+ the long way round that means driving right into the minefield you made an effort to avoid. Means 
+ a lot of shift-clicking to queue commands which should not even happen. Soldiers are just the same. 
+ You order them to sneak around the back of a house as to avoid being shot to crap by the BTR you're 
+ trying to avoid and what does he do? Walks around the front of the house to get to the back. I 
+ don't usually scream at my PC but I found myself doing so in abundance.
+  
+  Another niggle that could raise a buddhas blood pressure to dangerous heights is the grenade throwing. 
+ The system itself is fine but stand too close to a wall or building and for some reason your soldier 
+ just launches it into that object and blows both it and himself up. You have to stand quite a way 
+ back. Another thing you have to learn to do.
+  
+  It's not all bad. Although the game is riddled with annoyances it does have some perks. The story 
+ is somewhat interesting. Not very inspired but it at least makes you want to continue.
+  
+  The fights can be quite exhilarating. Once you've placed all your men in their locations and set 
+ the ball rolling, seeing the fight turn your way fills you with a certain amount of pride. More 
+ because it seems the game is fighting against you constantly that overcoming all the bugs and weirdness 
+ that you've managed to beat the enemy. Seeing your decoy lure a T55 tank down a street only to 
+ have your two TOW humvees zoom in from the rear with complete success is something to behold and 
+ the amount of relief you feel is almost tangible. This is usually because you have to out-think 
+ the enemy rather than out-gun. You're rarely given the means to outright fight the enemy so you 
+ have to be inventive. This is where the game really comes into it's own. Superior weaponry doesn't 
+ always mean victory. It's all about superior tactics. And that is what is keeping me playing it.
+ 
+  
+  Graphics
+  
+  Seeing as though the game is almost 4 years old now, it would be unfair for me to rate the graphics 
+ by todays comparison. Back then a 3D strategy game was something quite new and even today the graphics 
+ look quite pleasent. We're not talking Act of War level, we're looking, again, at UFO Aftermath 
+ level. Everything looks like it's supposed to be, there's a few niggles with appearing textures 
+ but I can let that slid as this happens in a lot of games and the cause is usually to aid texture 
+ compression.
+  
+  My only real nerks are the models for the AK-74 and MP5. They looks similar but they're not AK-74s 
+ or MP5s. The MP5s all have straight 9mm magazines which isn't that common. The more common curved 
+ magazine would've been better. To be honest, it looks more like a shortened G3 variant.
+  
+  Sound
+  
+  Which side of the coin will it land...
+  
+  The sound effects are fantastic. The 
+ weapon sounds, although not perfect, are pretty good and you could believe that it was an actual 
+ AK-74. 
+  
+  Now... the voice acting. Oh dear god. What is it with these european games and their english voice 
+ acting. Some of the characters I can understand being from Texas or the American Mid-West but almost 
+ everyone in post-apocolyptic Russia is American. There's the odd Brit thrown in at various points. 
+ To be blunt, it's rubbish. It sounds like one guy putting on different voices. I die a little inside 
+ when a cutscene comes on.
+  
+  Value
+  
+  At the time of release, I'm very glad I didn't buy it like I was going to. The game still feels 
+ unfinished after all these years. It had so much potential yet fell flat on its face in the eyes 
+ of the gaming community. Pick it up now in the bargain bin or 2nd hand on eBay or Amazon and you'll 
+ get a good day or two of gaming. 
+::::::
+
+::::::
+UserName: gawk24
+Rating: 8
+Date: Dec 3, 2005 5:43 pm PT
+Review:  This is a fun innovative game that I personally picked up in the bargain bin. I had loads of fun 
+ with the action oriented RTS. The way you command the charactors is simple, like all RTS's, except 
+ you only worry about a small group of soldiers instead. On the first mission you go and destroy 
+ these mutant animals. Why? That is where the story starts, you and your team lost in a forest. 
+ One of my favorite aspects of the game was vehicles. This adds more depth and variety to the game, 
+ but most of all fun. Even the tutorial mission was a blast to figure out. One way SA beats other 
+ games, even shooters, is the fact that the enemies drop their weapons. I was amazed! I only wish 
+ the bodies didn't disappear in midair. Anyway I had a lot of fun with this one. 
+::::::
+
+::::::
+UserName: Element_TAW
+Rating: 6.3
+Date: May 9, 2004 3:05 pm PT
+Review:  Soldiers of Anarchy would have been a good game if it was completed. It seems slapped together. 
+ The controls are difficult (and you are expected to be able to quickly, and I mean extremely quickly, 
+ respond to events) . You are forced to go through a list of menus for every action you would like 
+ to perform. While I believe there are hot keys, only the most dedicated fan would likely be able 
+ to memorize all of them. Combined with poor graphics and generally slow gameplay, I would only 
+ recommend that someone get this game if it was located in the bargain bin at Wal-Mart. 
+::::::
+
+-------------------------------------------------

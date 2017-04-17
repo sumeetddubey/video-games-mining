@@ -1,0 +1,636 @@
+-------------------------------------------------
+:::Game Name::: Praetorians
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/praetorians/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Mar 17, 2003
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.4
+Critic Score: 7.8, 29 Review (s)
+User Score: 8.4, 521 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Eidos Interactive
+Developer: Pyro Studios
+Genre: Historic Real-Time...
+Date:     Mar 10, 2003 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Praetorians is an excellent choice for real-time strategy fans looking for a stiff and satisfying 
+ challenge. 
+
+  Some critics would say that real-time strategy games are formulaic; in most of these games, you 
+ gather resources, build up a base, create an army of military units as quickly as possible, and 
+ pummel your opponents before they can do the same to you. Over the years, developers have taken 
+ steps to simplify base building and resource gathering so you can spend more time fighting exciting 
+ battles. While it hasn't quite eliminated all aspects of building up an army, Praetorians does 
+ manage to put the focus of its gameplay squarely on battlefield tactics. The game is set in the 
+ glory years of the Roman Empire during Julius Caesar's time at the helm of the Roman army in Gaul. 
+ Developed by Pyro Studios, known for the Commandos tactical strategy series, Praetorians features 
+ plenty of strategic depth in its gameplay and is a great choice for real-time strategy fans who 
+ are looking for an unusual alternative to conventional strategy games.           You can build 
+ assault towers to scale walls.    
+
+  Pyro has equipped Praetorians with a 3D graphics engine that produces attractive results, even 
+ if it's somewhat limited. The maps include wooded regions of Europe, complete with areas of dense 
+ forest, tall grasses, streams, and rivers, and elevated plateaus. You'll even trudge through deserts, 
+ complete with dust storms. Flocks of birds and deer populate the battlefield, and you'll also see 
+ weather effects like snow flurries and rain from time to time.   
+
+  Unlike in most real-time strategy games, in Praetorians, you don't use or build individual units. 
+ Combat soldiers are organized into troops of up to 30; the disciplined armies of the Romans march 
+ in neat columns, while the more disorganized barbarians and Egyptians travel in unorganized groups. 
+ Praetorians lets you easily combine, divide, and even out the number of soldiers you have in each 
+ troop, so you can quickly fill out the numbers of a depleted battalion. If you look closely enough 
+ at your troops, you can see some minor graphical issues, such as the way mounted cavalry sometimes 
+ appear to be skating along the ground, but the unit animations do generally look impressive, especially 
+ when you see hundreds of legionnaires marching perfectly in step. Unfortunately, Praetorians' audio 
+ isn't quite as good; the in-game sound effects are adequate, but the between-mission cutscenes 
+ have rather poor voice acting. Praetorians also has a rather limited orchestral soundtrack, but 
+ at least it changes dynamically whenever you begin a battle.   
+
+  Controlling all these units is easy, thanks to Praetorians' simple interface. You select your troops 
+ by left-clicking on them, and you order them to move or attack by right-clicking on their destination, 
+ and the game even shows you the formation they'll take when they get there. You can also click 
+ and hold the right mouse button to set your troops' facing when they get to their destination (which 
+ is actually an important consideration in Praetorians) . You can set nine control groups with your 
+ number keys, and you can also cycle through commanders, scouts, controlled towns, and special units 
+ using intuitively mapped function keys, though the game has an unfortunate tendency to place vulnerable 
+ physician and commander units at the front of marching columns, instead of in the middle or at 
+ the rear.   
+
+  About the biggest problem with Praetorians' graphics engine when it comes to controlling your armies 
+ is that it doesn't let you rotate the map. The game puts a great deal of emphasis on using terrain 
+ features, such as elevation differences and dense foliage, for tactical advantage, so not being 
+ able to rotate your view can be really inconvenient, especially when you're trying to see troops 
+ behind a small ridge. You can't easily zoom in either -- Praetorians' camera lets you view the game 
+ only from four preset zoom levels, though since you'll usually play the game from the furthest 
+ zoom level, this isn't as much of an issue as the inability to rotate your view.   
+
+  Praetorians lets you play as one of three civilizations: the Romans, the Egyptians, and the barbarians 
+ (composed of German, Gallic, and Briton tribes) . All three of the civilizations feature commander 
+ units. These commanders are used to occupy towns that you capture -- the slowly regenerating populations 
+ of these towns are the game's only resource, which you draw upon to create new troops to add to 
+ your army. Commanders also have an "aura" around themselves that enhances the offensive and defensive 
+ capabilities of friendly units fighting nearby. This aura also lets commanders gain experience 
+ from any enemy units their troops defeat. The accrued experience increases the bonus given by the 
+ command aura. The game also has physician units, which can be brought onto the battlefield; they 
+ have a small healing aura that allows units to slowly regenerate lost hit points, even during a 
+ battle. The effects of a commander's and a physician's auras influencing troops during combat can 
+ turn an even fight into an overwhelming victory for your troops.           Cavalry make short work 
+ of unescorted siege machinery.    
+
+  Each side has standard troop types for this time period: archers, pikemen, regular infantry, and 
+ mounted cavalry, as well as a few special units to help differentiate them, such as the Romans' 
+ legionnaires, who are extremely effective in melee combat, and the Egyptians' Nubian archers, who 
+ have extremely long range. If you're a student of military tactics (or even if you're not) , you'll 
+ find that Praetorians' battles are generally intuitive: Infantry are average in battle and move 
+ slowly; pikemen are effective against cavalry; cavalry are swift and can flank enemy troops (especially 
+ archers) ; while archers are good against anything, so long as they stay at range.   
+
+  However, Praetorians' strategic depth goes well beyond simple unit-to-unit countermeasures. Many 
+ of the units in the game have special abilities and formations that you can enable depending on 
+ the situation. For example, pikemen can be put into a stationary position that lets them dig their 
+ lances into the ground facing outward -- this is an extremely effective tactic for holding off both 
+ infantry and cavalry charges. The legionnaires can go into a turtle formation, in which they use 
+ their huge shields to create a wall and ceiling over themselves, making them useful decoys for 
+ enemy archers.     
+
+  Though Praetorians features only 10 units per civilization (not counting the five siege engine 
+ types and two scout units shared by all three empires) , the special abilities of the different 
+ units and the game's excellent use of terrain provide most of its strategic depth. As in most games, 
+ elevation gives advantages in the ability to see farther and, in the case of ranged units, to shoot 
+ farther, and it can also provide concealment from units who are approaching from lower elevations. 
+           Archers can hide in forests and shoot while hidden.    
+
+  Praetorians also makes use of forests and tall grassy areas. Units on the outside of a forest can't 
+ see into it, and infantry can lie down in grassy areas to hide. Both types of terrain make great 
+ places to set up an ambush or hide archers, although the grassy areas can be set ablaze by fire 
+ arrows to root out a possible ambush. With all the possible ways to get blindsided by a hidden 
+ enemy, you must make use of the special hawk and wolf scouts to safely explore higher ground and 
+ thick foliage ahead of your army.  
+
+  Since Praetorians has so many interesting tactical considerations, it's not an easy game to play, 
+ even in single-player matches against computer-controlled opponents. In fact, you'll find that 
+ computer-controlled opponents are quite good at exploiting holes in your defenses and formations. 
+ And Pyro Studios has combined this strong AI with a lengthy, well-designed 24-mission campaign, 
+ plus a skirmish mode for custom battles against one or more computer opponents on a large selection 
+ of custom maps. Even on the standard difficulty level, Praetorians is very challenging, and the 
+ AI tends to punish even small missteps in strategy, which makes successfully finishing each mission 
+ a satisfying experience.  
+
+  The campaign features a great array of mission types; the object isn't always to conquer every 
+ town on the map. For instance, one challenging mission requires you to defend a fort from a siege 
+ for 20 minutes. Fighting this battle with fire arrows against enemies with catapults and battering 
+ rams, all while using your spearmen to knock away assault ladders may remind you of the climactic 
+ battle scene from The Two Towers. In another mission, you'll race to the other side of the map 
+ to relieve an allied fort under attack. You can choose to veer off the path to pick up more allies 
+ to bring to the rescue, but you'll be taking the risk that the besieged fort will succumb if you 
+ waste too much time. Interesting strategic choices like these are common in the campaign.      
+      Archers automatically switch to fire arrows to try to set catapults and towers on fire.   
+
+  Praetorians is also playable online or on a LAN with a variety of multiplayer maps designed for 
+ two to eight players. However, you'll have to use a third-party application to find matches, and 
+ at this point, you may find that most Praetorians players are Spanish (Pyro Studios is itself based 
+ in Spain) . Hopefully more players from other countries will help round out the multiplayer experience 
+ in the weeks to come.   
+
+  Praetorians would have been an even better game were it not for flaws like its limited camera options 
+ and its poor handling of multiplayer matchmaking, but thanks to its intelligent use of terrain 
+ and the strategic depth provided by its units' special abilities, Praetorians is an excellent choice 
+ for real-time strategy fans looking for a stiff and satisfying challenge. Resource management in 
+ the game is as minimal as it gets, so you can stay focused on combat. The challenging and lengthy 
+ single-player campaign and the tough AI will keep you busy for a long time, while custom skirmish 
+ modes and multiplayer capability add to the game's value.     
+-------------------------------------------------
+:::User Reviews::: (14 Reviews)
+::::::
+UserName: onlineruler
+Rating: 8.5
+Date: Aug 3, 2008 10:52 am PT
+Review:  Great rts that is different from other rts games.
+  Unlike other rts like command and conquer you can't collect resources you must take over villages 
+ and build units from it, you have limited numbers of people to make units from so you need to find 
+ new villages, there is also no really base building, you need to build garrisons to take over villages 
+ and you can also build towers.
+  The missions are as difficult as the rest of the game there are a lot of missions, there are great 
+ voice actors and nice cutscenes.
+  And the game looks good to, and has a lot off music and great sound effects.
+  There are 3 factions 
+ each with different units and playstyles.
+  The romans have the best strategies and their units cost les people but are weaker.
+  The egyptians 
+ have also got weaker units but they cost less people and they have got the best special abilities.
+ 
+  The barbarians have got the best units but they take long to make and they cost a lot off people.
+ 
+  There is Lan and Online play and an offline skirmish, the computer is incredibly difficult to 
+ beat. And there are a lot off maps to play on.
+  You can build garrisons, defensive towers, battle rams and catapults.
+  The graphics are great 
+ the beautifull landscapes and arrows that fly around are great. 
+::::::
+
+::::::
+UserName: Geybrel
+Rating: 10
+Date: Nov 7, 2007 6:52 am PT
+Review:  In my opinion PRAETORIANS is one of the best strategy games ever., because in other ones you have 
+ to collect resources and more, but in PRAETORIANS you attack immediatly. well to say so so so so 
+ so so so sos so so so so so so so so so so this the best real-time strategy ever until starcraft 
+ 2 comes to strategy games fans. With nothin more to say ciao. When writing your review, remember 
+ to keep the language clean. Reviews must be 100 words minimum. We encourage you to try to get your 
+ review right the first time  you may choose to edit it later on, but by doing so, you will lose 
+ any positive feedback associated with the review. We encourage you to write your review in a word 
+ processor or text editor, save it to your local disk, then copy and paste it into the posting box 
+ below.
+  Review Deck: 
+::::::
+
+::::::
+UserName: RedneckGamer87
+Rating: 9
+Date: Sep 10, 2007 4:37 pm PT
+Review:  Gameplay: The Spanish team, Pyro Studios, is best known for their work on the Commandos series. 
+ In 2003 they created the game called Praetorians. The single-player campaign is divided into 20 
+ missions and each of these missions can be played as a stand-alone mini campaign. They are largely 
+ not connected, and, as I said, there are no protagonists to immerse the players deeper into the 
+ single-player campaign. All we get to see are a few very general cut-scenes that depict various 
+ battle scenes and that's about it! Besides lacking any kind of story, Praetorians is also missing 
+ unit advancements, tech-tree or anything similar to it. Fair enough, you get two or three new units 
+ along the way (Praetorians for one, German Cavalry, Balearic Slingers...) , and the enemy troops 
+ (Egyptians, Gauls and Britons) provide for slightly more variety. Nevertheless, that's hardly enough 
+ to satisfy players' desire for bigger and badder units as they progress through the single-player 
+ campaign. Well you pretty much build up your base ans build up your army (which comes in groups) 
+ and send them to destroy the enemy. Also there is a population limit which i dislike beacuse I 
+ would like a larger army. There are also two other modes which you can play. Multiplayer to play 
+ against other people online and Skirmish which you can just choose a random map to play against 
+ the computer. To bad there are not ship battles in this game. What is great is the lack of resourse 
+ management so that means you can consintrate more on building up your army.
+  
+  Graphics: I have to say that the graphics are really good in this game. They are rich in color 
+ and detail and the enviroments are done well. Sound: The soundtrack is done really well, the sound 
+ effects are done good and suit the game well. Also the voice covers are done well and so are the 
+ sounds of things like the shooting of arrows and the clashing of swords sound the way they should 
+ sound.
+  
+  Value: All in all this is a very enjoyable game to play. There is good replayability with this game 
+ with it's multiplayer and random map mode. The downside of this game I found was it lacked unit 
+ types and the population limit. All in all i would reconmmend this game.
+  I give this game 9 out of 10. 
+::::::
+
+::::::
+UserName: Huineng9
+Rating: 9.5
+Date: Sep 8, 2007 4:24 am PT
+Review:  Praetorians is a 3D real-time strategy game developed by Pyro Studios, based on Julius Caesar's 
+ campaigns.
+  
+  Players are given the option of a mission where they play as Julius Caesar commanding forces of 
+ varying sizes against various barbarian tribes. Or a skirmish can be played in which the player 
+ first chooses a difficultly level (easy, medium, hard or expert) then chooses up to 1 character 
+ and up to 7 AI players, commanded by the computer. These can be Roman, Egyptian or an anonymous 
+ barbarian tribe. Once this is completed it can then be chosen to create alliances by putting two 
+ forces on the same team. This means that they can't attack each other and in times of crisis one 
+ team member can call to another via a message line We need help whereupon the ally will normally 
+ throw in spare troops to help their ally. Praetorians varies from other games of its genre in that 
+ resources do not play a part in it. In most real time strategy games, wood, food, gold, stone and 
+ glory need to be collected and is spent as troops are created. 
+::::::
+
+::::::
+UserName: CroCorwin
+Rating: 9.1
+Date: Jul 6, 2007 11:25 am PT
+Review:  I said it all above, if you play strategy games just to see your workers gathering food or lumber 
+ this is not a game for you. In this game the most important thing is strategy and that is it. The 
+ only resource in the game is the amount of villagers in the village from which you draft your troops. 
+ I gave the difficulty hard, because it takes some time to find out which type of unit is good against 
+ which type, the advantage of higher ground, not to mass your troops in one big raiding party ( here 
+ catapults rock! ) . Although the singleplayer is good, the multiplayer is the reason to buy this 
+ game, since there is no better combatant that another human. And you will have a great smile when 
+ your opponent makes a mistake, something the computer does not make. A definitive download if you 
+ buy the game is the Imperial mod that adds a few new races to the game. 
+::::::
+
+::::::
+UserName: Talon124
+Rating: 9.2
+Date: Jun 10, 2007 3:49 am PT
+Review:  This is one of the coolest games out. You play as a commander of a Roman Legion which is very fun. 
+ All the units are cool and unique with special moves such as nets for Gladiators or a phanlanx 
+ type formation for spearmen. The campaign is pretty long, around 20missions, and very enjoyable. 
+ Graphics aren't amazing but liveable. Download the Greek mod (adds new factions) and map packs 
+ and this game will be amazing. THis is very different from other strategy games and u don; t want 
+ to miss it. There is a big variety of units and u will have fun killing Gauls and Egyptians. 
+::::::
+
+::::::
+UserName: StOcKoHeArTs
+Rating: 8.6
+Date: Dec 1, 2006 12:22 pm PT
+Review:  You can choose between Romans , barabains and eygptians. In a real time stragy. this review will 
+ tell you about the gameplay the grahics the value and the sound...
+  
+  Gameplay : Quite furating gameplay hard to target an enemy.
+  
+  Graphics : Brilliant real time 
+ graphics for the PC.
+  
+  Sound : Very good battle sound voices and SFX.
+  
+  Value : Campigns are hard and the strimishes are fun lats for a long time.
+  
+  Overall : If 
+ you like real time stragyies this is for you good graphics , sound but the gameplay a bit furating 
+ but still fun!
+  
+  ----------------------------------------------------------
+  Sonic rivals out now! 
+::::::
+
+::::::
+UserName: Database72
+Rating: 7.9
+Date: May 21, 2006 8:39 am PT
+Review:  Ive played many strategy and real time strategy games in my day and I must say this is fun even 
+ today. I bought this game a while ago and had fun with if for hours. But that is just me. In the 
+ game you can play three factions the Romans, the Egyptians, and the barbarians. You can play these 
+ in a skirmish type game play or you can play the campaign which guides you through romes many 
+ struggles and sorties sent out to expand their region. Now mind you this is a game created a while 
+ ago and graphics have advanced since then so bear with the graphics their not bad but they could 
+ have been better for their time. Its still a very fun game if your into killing stuff. This is 
+ a great game if your starting to grasp the concept of the standard rts game. One of the only things 
+ I didn't like in the game is it's unavailability of a map creation program, which just leaves you 
+ wanting more. As far as music goes in the game picure a nice sitting on the porch and listening 
+ to queit peaceful music. But as the battle starts the music picks up the pace so it's nice that 
+ it sets us in the mood. You can also play online, and this game has the option of having aliances 
+ when playing a solo skirmish with the cpu as enemies, by pressing ctrl and a click you can tell 
+ your cpu ally to send you troops. In my games i like to have some aid when allying with a cpu. But 
+ that is just me
+  
+  Overall this game must cost about 30-20 bucks now and is well worth the price as this game has 
+ alot to offer but is recommended to those who havent played current generations rts games. 
+::::::
+
+::::::
+UserName: EwaAznLeader
+Rating: 9.1
+Date: Apr 15, 2006 10:42 am PT
+Review:  Despite the fact that this was released about 4 years ago, this game still tops a few of the "newer" 
+ releases due to it's very slick game style. The only thing you'll be producing in this game is 
+ troops.
+  
+  Graphics: The graphics are a little shabby but is very nice due to when it was released. The fire 
+ arrows are very fun to use. Buildings could be better but not bad. Units actually do look very 
+ cool and nice.
+  
+  Sound: The sound is ok, but nothing compared to our current RTS games. Sometimes it would be hard 
+ to hear things like unit conversations, even if you blasted your sound up. It's ok overall. Would 
+ be nice to hear the crackle of the fire.
+  
+  Style: This game brought a new era of RTS games. One of the first games that were made like this. 
+ You don't build different buildings to get different units like using barracks or a mobile factory. 
+ Instead you have to get honor points in order to recruit higher units.
+  
+  Price and Value: Since it was made four years ago, it's only around 10$ now. It's very cheap and 
+ it's a good bargain. If you like RTS games and greek and latin history. This would be pretty nice 
+ to have for half a day's work.
+  
+  Final Word: This game is very fun and difficult but that's why it's a good game. I do admit that 
+ it takes strategy and brains instead of sending everyone to attack and kill. Props to you, Praetorians. 
+ 
+::::::
+
+::::::
+UserName: ChickenMcBastrd
+Rating: 8.2
+Date: Feb 27, 2006 6:50 pm PT
+Review:  As featured on loadedinc. com...
+  
+  Slaughtering barbarian hordes, plundering the villages of your enemies, obliterating enemy fortifications 
+ with catapults, those were the days. Pyro Studios, best known for its Commandos series of games 
+ helps us return to the glory days of the Roman Empire with its latest RTS: Praetorians.
+  
+  Set during the rule of Julius Caesar around the year 58 B. C. The twenty-four mission campaign takes 
+ players from the winter landscapes of Gaul to the barren, arid deserts of Arabia and back again. 
+ The variety of objectives within the missions themselves makes them worthwhile and entertaining. 
+ The generic build your army and destroy the enemy missions are only a small aspect of Praetorians. 
+ Other missions will see you securing bridges, defending fortifications, and even in one mission 
+ your objective is to simply, run! The missions are strung together through a rather loose storyline 
+ that includes a caliber of voice acting which would make even Resident Evils original directors 
+ weep. That aside, the intermittent CGI movies present in the campaign do have some redeeming qualities 
+ to them.
+  
+  Mediocre and average are a few words that come to mind when describing the games sounds. The soundtrack 
+ features a limited number of tracks that repeat over and over again. These are occasionally interrupted 
+ with battle music that chimes in whenever units engage the enemy. While each side does have their 
+ own unique sounds they can be categorized into one of three groupscommanding units, healing units, 
+ and everything else. Cavalry will sound the same as archers, foot infantry, and everything else 
+ in the game bar the physician and commanding unit. This does affect game play in large battles 
+ where people may have to select units in a hurry. The last thing commanders want is to send a fresh 
+ troop of auxiliary infantry into a horde of German cavalry. This is by no means a major flaw; though 
+ it does detract some from an otherwise pleasant gaming experience.
+  
+  Praetorians graphics engine, while far from a graphical smorgasbord, does justice to the game. 
+ The unit animations are crisp and clear, this is most evident when watching the Roman Legionnaires 
+ march in perfect step. Structures, while not graphically awe inspiring, are rendered adequately 
+ to suit the games needs. Landscapes within the game have their quirks as well. Tall fields of grass 
+ will sway in the breeze; birds will flee the treetops at the slightest hint of a human presence. 
+ When Romes legions have to march in particularly harsh conditions, players will see blizzards 
+ of snowfall and swirling sandstorms over their armies. All these touches do a fine job of immersing 
+ the player in an environment rich with life and activity.
+  
+  Game play and being user-friendly is where this title shines. Traditional resource gathering is 
+ not present in Praetorians. There is no gold to collect, no wood to chop down, not even a single 
+ piece of ore to harvest. The only necessity to training troops is to have control of a village. 
+ Villages provide armies with populations from which armies can recruit into their ranks. Honor 
+ points and unit control points do limit how many or which type of infantry can be bought however. 
+ Unit control points dictate the maximum amount of infantry a commander can have on the map. This 
+ is normally a map preset stuck at 500. Honor points are acquired in battle; the more enemies you 
+ kill, the more honor points you acquire. There are a limited amount of structures and weapons that 
+ can be built also. Using the basic infantry unit for each side, players can construct defense towers, 
+ catapults, and assault towers to name a few. While there is no limit to the amount of structures 
+ that can be built, building weapons like the catapult and ballista will require men to operate 
+ them.
+  
+  The standard right-click interface is included in the game so normal RTS gamers are greeted with 
+ an easy to understand interface that can be used to do almost everything with troops. Troops can 
+ be arranged into both individual and multiple groups. There are convenient buttons and hotkeys 
+ that will allow players to divide, balance, and join their respective groups of soldiers. This 
+ is a feature that will be of immense use to people, including myself, who are picky about not having 
+ straggler groups of soldiers with only one or two units.
+  
+  Infantry have multiple roles and abilities in Praetorians. Officer units and certain hero units 
+ have an experience aura around them. This aura gives an offensive attack bonus to surrounding troops 
+ of the same side. These units gain levels by being close to enemies that are killed. At lower levels 
+ the extra offensive power may not be noticeable. Once the officer and hero units become highly 
+ experienced however, nearby friendly units can devastate enemy ranks in seconds. Individual types 
+ of units also have varying formations which they can execute. Roman spearmen and their German and 
+ Arabian counterparts have a stationary formation that will massacre enemy cavalry. Also, it wouldnt 
+ be proper to include Legionnaires in a game without having the infamous turtle formation which 
+ renders archers practically useless.
+  
+  Praetorians makes good use of terrain features for combat. Cliffs around the map can be used to 
+ increase archers range and line of sight. Forests litter the map in some missions and can be used 
+ as cover for certain types of infantry. These forests make seemingly innocent trails into perfect 
+ ambush points. When isolated cliffs are covered in a thick brush, archers can take refuge and wreak 
+ havoc on enemy columns. Tall grass can be used for ambushes as well but at a cost. If enemy archers 
+ are nearby and spot your army, they can launch fire tipped arrows that will incinerate the grass, 
+ and your men.
+  
+  The game features three sides in the campaignthe Romans, the Germans, and the Arabs. The main 
+ fault of this game is that all three sides feel exactly the same. Each side does have a few unique 
+ units with different abilities but for the most part the armies are a carbon copy of one another. 
+ There are subtle differences between some infantry types and cavalry such as range and hit points 
+ but it doesnt differentiate the sides enough to consider all of them truly unique. This may be 
+ advertised as balance but hardcore RTS players will not be fooled.
+  
+  Lets not beat around the bush, Praetorians is hard. Even experienced RTS gamers will find a few 
+ challenges in the easy mode. I have forgotten the number of times I had to reload a mission because 
+ one thing or another went wrong and led to the obliteration of my legions. It isnt the AI outsmarting 
+ the players so much as it is sheer numbers. More than once I can recall simply being overrun when 
+ my forces were spread too thin. More often than not the solution to this is to ignore your objectives 
+ and hunker down, build defenses, and hold your position to blunt the enemy offensive.
+  
+  As stated before the AI isnt to be feared. The game will often throw physicians and other unarmed 
+ or nearly unarmed units directly into the front line. If a group of soldiers comes under fire they 
+ will sometimes leave the rest of the legions to engage whoever is firing at them. This normally 
+ turns into a long and arduous journey which almost always leaves your rouge soldiers slaughtered 
+ as they stumble into the entire enemy army. It is these type of situations that commands players 
+ total attention to the battlefield and often lead to frustration. To give the AI some credit, it 
+ does have its moments of brilliance. Computer controlled cavalry will frequently weave and dodge 
+ within your ranks to attack your most vulnerable units.
+  
+  Online play is possible with Praetorians and is handled through any third party matchmaking software 
+ that supports it. LAN play is also possible and both online and LAN can support up to eight players 
+ depending on the map. The absence of a direct multiplayer interface within the game may turn some 
+ gamers off but plenty of matches can be found on programs like Gamespy Arcade and All Seeing Eye 
+ to name a few. Multiplayer basically boils down to building up units and conquering the enemy. 
+ A bit repetitious yes, but players should get a decent amount of playing from this.
+  
+  Praetorians strays off the beaten path with the absence of a resource gathering method but this 
+ frees players up to focus more on the melee combat that always ensues. Real Time Strategy veterans 
+ will find that Praetorians offers a unique challenge compared to other games in the genre. Despite 
+ its flaws, Praetorians is a solid product that will offer many hours of enjoyment.
+  
+::::::
+
+::::::
+UserName: Lance_C
+Rating: 9.4
+Date: Jun 20, 2007 2:49 pm PT
+Review:  Praetorians is a unique strategy game. You dont create an army with resources, but you have a 
+ village with a certain amount of people, and you can recruit them. Thats how you build up your 
+ army. Of course, there are several villages, which you can capture, so you can recruit more people. 
+ And this is just the basic. In this game, the game is not focused on the certain amount of resources, 
+ but on the army itself. And that is unique, since many strategy games are focused on food, wood, 
+ et cetera.
+  But that doesnt mean that the maps arent important, since your strategy is based on which map 
+ you are in. The map can include forests, mountains, rivers and more, which you can use to your 
+ advantage. Another realistic thing added in this game, are the weather effects, such as rain and 
+ snow. You also have grassy areas, in which you can hide, but be careful: since archers can let 
+ the grassy areas burn, with their fire arrows, so you have to choose your strategy careful.
+  
+  Your troops can have soldiers up to 30 men. The Romans are in an organized formation, while 
+ the barbarians and Egyptians are in an unorganized formation. For the more advanced players, there 
+ is even more strategy, like dividing your armies, or combining two armies into one.
+  You can select an army by left clicking on a soldier, which will automatically select the whole 
+ army. Some armies have their own strong points. Some can put up a stationary formation, which is 
+ very effective against horses, such as equites, and some have poison in their arrows, which are 
+ effective against fast units. You have many different units, from scouts, who play a big part in 
+ the strategy, to gladiators, who can easily capture an army by throwing a net. Its very important 
+ to use the map wisely, and to your advantage. Since trees and higher platforms can help you a lot. 
+ The enemy units, will not see you, unless they are at the same height as your units are. And they 
+ can only see you hiding in the forests, if they enter the forest, and if they are near your units. 
+ So you can kill many enemy units, without losing many of your own. There is also a campaign, which 
+ will help you learn the basics and how to achieve certain goals. Of course the campaign isnt only 
+ basic training, theres also an interesting story behind it. You will be doing various things, 
+ from capturing certain villages to defending or attacking fortresses. You cant just rush in, since 
+ youll never be able to win the battle then. You have to choose your strategy carefully, because 
+ thats the only key to victory. Even if youre outnumbered you can still win a fight, without losing 
+ too many soldiers.
+  
+  What also makes this game very good is the AI. Theyre using strategy, just like real human players. 
+ They could use a unit as a decoy, or shoot from forests or higher platforms. But the one thing 
+ that completely changes the game is that you cannot flee from a fight, while fighting. If youre 
+ battling with another army, you cannot retreat, unless you win or lose the fight, but luckily this 
+ is only in direct combat. Another thing that makes the game great, is the music in the game; smooth, 
+ instrumental music when youre marching and hard music when youre attacking or engaging an enemy. 
+ Theres not much music in it, but it is quite good, since it fits in the game. Too bad, the dialogues 
+ aren't flawless. It would be a nice addition if the strategy game contained mouth movements when 
+ talking and emotions and gestures when e. g. shouting or giving a speech, but luckily it doesn't 
+ really harm the gameplay or story. The graphics are reasonable; you can see the sharp edges of 
+ the units when zoomed in, though it doesn't bother you much, since zooming in isn; t something you 
+ do when fighting a battle or moving a unit from one place to another. What they did well was the 
+ movement of e. g. the trees, which actually moved when a unit or two tries to take cover in the 
+ woods. Birds come flying out, indicating that you have set foot into that particular area. Very 
+ useful as an opponent tries to flee. The conclusion: A perfect strategy game, which can steal the 
+ hearts out of many strategy gamers, and can be a challenge for all gamers. 
+::::::
+
+::::::
+UserName: differentiation
+Rating: 8.8
+Date: Dec 30, 2005 10:35 pm PT
+Review:  As a history buff and fan of ancient Rome, I was delighted to see that they have made a game about 
+ warfare back in those days. The whole ancient Rome theme didn't pick up until after the movie Gladiator. 
+ The only movies before that was Spartacus and Ben-Hur. The AOE: Rise of Rome was a flop, and this 
+ game was what we wanted. I was tired of playing games like Starcraft where you try to rush the 
+ guy or get rushed so early in the game, you haven't even researched level 2 armor yet. What's the 
+ point of having so many in depth options when no one even uses them? And units moving around like 
+ they're lost, all scattered and undisciplined. Well, in this game you don't have to worry about 
+ resources or rabble-like groups, because they are held in formations automatically. This move was 
+ very welcome and the ability to command various Roman units was a first. You have to give this 
+ game credit for what it accomplished. Of course, now there's RTW, arguably the best strategy game 
+ out there, but you have to take into account that Praetorians was several years before RTW and 
+ set the marks for which we love. The terrain and importance of formations and special units was 
+ good. You can actually hide and ambush enemies this time, unlike the claims that Starcraft made 
+ about hiding units under the shade of a tree, you had to be half-asleep not to see the unit hidden 
+ there. The missions where you hold off or assault defenses are nicely included. In many ways this 
+ is RTW on a smaller scale and without the strategic implications. Great game, would recommend this 
+ highly. 
+::::::
+
+::::::
+UserName: master_blue
+Rating: 8
+Date: Nov 28, 2006 1:35 pm PT
+Review:  Praetorians is a RTS game set in during Julius Caesars time (approx 60bc) , you play as the Romans 
+ and have to fight various factions these being the barbarians to the north, the egyptians and people 
+ in judea and eventually other Romans.
+  
+  The singleplayer campaign is nicely done, you hope from region to region fighting various peoples 
+ and the missions are a little varied but usually its just kill the opposition which dont get me 
+ wrong is extremely good fun but the best missions are definitely the difficult siege missions.
+ 
+  For example on a level you control a small fort and have a limited number of troops you can recruit 
+ and have to man the walls and destory the enemy armies as they repeatedly attack, you can even 
+ oranise little sorties and send troops and calvary outside to attack and its spectacular fun seeing 
+ your troops struggle to push back the assault ladders, seeing men fly of the walls after theyve 
+ been struck by catapults and ballista, its very good fun and a memorable moment.
+  
+  The game itself is fantasy-esque, you have troops but then you have troops with special abilities, 
+ centurions for the romans increase stamina regeneration and attack/defence of freindly troops, 
+ egyptian priests can duplicate enemies with their mirrarge effect to make it look like there are 
+ more in their army than there actuall is, with offering similar defence/attack bonuses, and the 
+ barbarian chiefs offer a much MUCH higher attack bonus.
+  Like these special units other units in each army have their own abilities aswell, the legionaries 
+ of the Romans can form testudo formation to protect against missile weapons, priests heal people 
+ automatically, german heavy cavaly can use their impale ability to destroy many soliders automatically 
+ in a charge, the roman gladiators throw a net to immobilise a troop, barbarian heavy infantry throw 
+ rocks and so on.
+  Each troop is also better at certain things, heavy infantry are the main fighters, light infantry 
+ are pretty bad fighters but can construct things like towers, siege weapons etc , archers are good 
+ but have to be used properly otherwise their easy prey for quick light cavalry, heavy cavalry are 
+ good for attacking infantry of all types and spearmen whilst not as tough as heavy infantry are 
+ superb as defenders when deployed properly.
+  
+  The game offers alot of strategy and tactics as you can imagine from just detailing some of the 
+ units, but the terrain also features quite heavily, archers on high ground can attack without fear 
+ of immediate reprisals, they can even attack hidden from forests, you can have troops hidden to 
+ ambush which is very important and works well for the barbarian troops who also have cavalry which 
+ can ride in forests too offering a unique advantage. Also you can hide troops in long grass but 
+ this can work against you, for you can select different types of attacks with some units, including 
+ archers who can fire a volley of flaming arrows to burn whatever is hidden in the tall grass.
+ 
+  
+  Not only this but you need to take towns in order to keep training troops, each troop depending 
+ on how good it is takes up a certain population from the village and takes varying times to create, 
+ obviously the best troops like Praetorians take many population and alot of time, wereas light 
+ infantry are produced quickly, but after a village's population has been used up it takes along 
+ time to replinish so you have to be on the move to the next town quickly BUT you cant split up 
+ your forces too much because you have a army limit so you have to think very carefully about your 
+ strategy and use tactics wisely in the heat of battle, you could even use a scorch earth policy 
+ and destroy towns you feel you cant hold by burning them to the ground with catapults, ballistas 
+ or archers, but you'd also have to stop the enemy from repairing them if theyre not destroyed quickly 
+ enough.
+  
+  Each side has its own strengths and weaknesses, the Romans have more troops on average per unit 
+ than other races, have very good heavy infantry but weak cavalry, but they are also quite ponderous, 
+ the barbarians have very small unit sizes but are quick and very powerful, they can overwhelm oponents 
+ quickly in battle and the Egyptians have a emphasis placed on mobile archers such as parthians 
+ who can fire whilst on the move making for a dangerous enemy in the long run but pretty weak at 
+ the start, my favourite is offcourse the Romans with their balanced army with superb heavy infantry.
+ 
+  
+  Now that ive covered the gameplay ill look at the graphics, they are pretty good, better when the 
+ game was released offcourse, units look pretty undetailed today but the terrain still looks very 
+ good.
+  
+  The sounds are very good but like mos tother games the voice acting lets it down abit, the Romans 
+ sound abit pompous, barbarians like pirates and egyptians sound strange, but the saving grace is 
+ the music it is one of the best sound tracks in a computer game, definitely a good soundtrack which 
+ changes pace to fit the action before falling back into the gentle pace when theres relative peace.
+ 
+  
+  Overall, Praetorians is a polished RTS with alot of strategy and tactics involved which includes 
+ a nice skirmish mode but no random map generator, a decent singleplayer with superb moments such 
+ as sieges and a good multiplayer component, definitely worth getting even now, but dont expect 
+ it to be historically accurate, its just fun! 
+::::::
+
+::::::
+UserName: dacarr02
+Rating: 9.2
+Date: Apr 3, 2003 4:18 pm PT
+Review:  This is one of the most satisfying single player games I have ever played, but nothing is perfect. 
+ I did not like the way the game would limit unit production even if you had enough villages or 
+ villagers. Otherwise, it was very engaging. I loved the scout units and the way different units 
+ were limited by terrian. I also enjoyed outwitting the AI, which was fairly good (though I wait 
+ for a really strong, adaptive AI) . My wife got decidedly jealous of my time with this one. I rarely 
+ go multiplayer, so a game has to keep me occupied for a good long time in order for me to feel 
+ it was worth the cost. This one sure was. 
+::::::
+
+-------------------------------------------------

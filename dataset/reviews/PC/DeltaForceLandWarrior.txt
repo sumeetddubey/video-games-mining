@@ -1,0 +1,775 @@
+-------------------------------------------------
+:::Game Name::: Delta Force: Land Warrior
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/action/deltaforcelandwarrior/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov 13, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.3
+Critic Score: 7.3, 28 Review (s)
+User Score: 7.6, 691 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: NovaLogic
+Genre: Modern Tactical Shooter
+Date:     Nov 7, 2000 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+If you want to mow down terrorists using the latest firearms in a variety of colorful settings, 
+ then this is your game. 
+
+ When most other shooters had you locked indoors, hunting for power-ups as you fought fantasy creatures, 
+ Delta Force helped usher in the hard-core tactical shooter. Delta Force and its sequel focused 
+ on relatively realistic Special Forces actions. Single shots could kill, stealth mattered, and 
+ you could engage targets outdoors from extreme distances. While marred by weak enemy artificial 
+ intelligence, the new third installment, Delta Force: Land Warrior, builds on this formula. It 
+ introduces a new graphics engine, some of the latest military firearms, and 30 colorful single-player 
+ missions.   
+
+  In real life, Delta Force is the US Special Forces unit that carries out the most difficult and 
+ sensitive counterterrorist and commando operations. In Delta Force: Land Warrior, you can play 
+ as five different Delta Force operatives, each with his or her own specialties. Characters have 
+ detailed backgrounds, and they're pretty interesting; for instance, heavy gunner Pitbull was a 
+ heavyweight fighter from the Bronx, while Gas Can, the resident demolitions expert, is a good ol' 
+ boy from Texas. These characterizations have little bearing on gameplay, but each character's special 
+ abilities do: One is a swift swimmer, another can hold heavy weapons steadier, another is a superb 
+ knife fighter, and so on.   
+
+  You'll want to pick a character for each mission who has abilities suited to the task at hand and 
+ who can most effectively use your favorite game weapons. One of the biggest strengths of Land Warrior 
+ is the inclusion of more than 20 different firearms. You get to lug quite an arsenal around, including 
+ a sidearm, primary and secondary weapons, explosives, and grenades. For pistols, you can choose 
+ 9mm and .45 caliber models from Glock and Heckler &amp; Koch, as well as a dart pistol for underwater 
+ combat. There are submachine guns with different effective ranges, magazine capacities, and options 
+ like silencers. You can snipe with the Barrett .50 caliber rifle or a silenced PSG-1, among others. 
+ When you need to break out the big guns, you can use the M249 SAW (squad automatic weapon) , the 
+ Jackhammer automatic shotgun, the MM-1 automatic grenade launcher, and even the AT-4 anti-armor 
+ rocket launcher. You can rig explosives, set booby traps, throw grenades, and paint targets for 
+ artillery strikes. You can wield famous assault rifles like the AK-47, the Steyr AUG, the Heckler 
+ &amp; Koch G11, and the futuristic OICW of the US Army's Land Warrior program.   
+
+  The real-life version of Land Warrior is the US military's attempt to create high-tech soldiers 
+ who will use an integrated electronics system to increase their combat effectiveness. Currently 
+ under development, the system will likely include advanced radio equipment, night vision, a global 
+ positioning satellite unit, a laser range finder, and a portable computer that jacks into the soldier's 
+ helmet. The system also includes advanced "interceptor" body armor to protect against high-caliber 
+ rifle rounds. Much of this is modeled (if loosely) in the game in the form of heads-up displays 
+ with dynamic map readouts, friend-or-foe indicators, a night vision view, and so forth.   
+
+  In game terms, one of the most interesting features of the Land Warrior system is the OICW, or 
+ objective individual combat weapon. It fires both 5.56mm rounds and 20mm air-bursting high-explosive 
+ grenades. The air bursts allow shrapnel to hit targets hidden behind cover, and the OICW has a 
+ farther effective range than most current assault rifles, which increases your chance of engaging 
+ the enemy before coming under fire.   
+
+  The Delta Force series is known for providing huge outdoor combat environments in which to use 
+ such long-range weapons, but in the previous two games, NovaLogic's voxel terrain technology had 
+ drawbacks, like sluggish frame rates, pixelated graphics, and compatibility issues with certain 
+ video cards. Land Warrior's new 3D-accelerated graphics engine now renders both expansive outdoor 
+ areas and tight building interiors quite effectively. Areas vary widely from high, snowy hills, 
+ to deserts spotted with huge cacti, to tropical lakeshores. So you may need to snipe at a guard 
+ hundreds of meters away from a stand of pine trees on a mountainside, or you may need to swim below 
+ a lake's surface, knife in hand, to silently infiltrate a base on the far shore. While the graphics 
+ - particularly the skies - are good, don't expect the same quality from Land Warrior as from games 
+ based on the Quake III Arena, Unreal Tournament, or even LithTech engines. Grass textures in Land 
+ Warrior look muted and monotonous, trees are sparse, and textures on hills shimmer as you run. 
+ Indoor areas tend to lack textural and architectural imagination, though there are some notable 
+ exceptions such as the pyramids and Sphinx of Egypt - yes, you get to fight in them! Also, the 
+ character models in Land Warrior are a bit blocky, and the animations look stilted, while the weapon 
+ graphics tend to look slightly blurred in first-person view. Still, there are many nice visual 
+ effects in the game, such as birds soaring overhead, little plumes when bullets strike water, and 
+ flashes from ricocheting rounds. The graphics may not be gorgeous, but they involve you in the 
+ gameplay, which is ultimately more important.    
+
+ Like the graphics, the sound effects in Land Warrior are good but not great. Weapons effects are 
+ vivid, and the heavier guns sound weighty and powerful. The sounds of footsteps, while too quiet 
+ overall, vary from softly padding across grass to crunching through snow. Unfortunately, environmental 
+ sounds are very limited in Land Warrior, which makes most areas seem lifeless - yet you'll hear 
+ enemies shout or cry out in pain from extreme distances. The menu music is nondescript and doesn't 
+ add much to the game.   
+
+  Delta Force: Land Warrior offers 30 missions, including a training course to familiarize you with 
+ game conventions, ten quick missions, and 19 linked campaign missions. There's also a mission editor. 
+ Missions take place in exotic locales across the world, including Africa, Indonesia, and South 
+ America. You'll have to destroy the power plant of a mercenary group, eliminate an assassin about 
+ to join forces with a major drug cartel, and rescue VIPs from a fortified compound. Night missions 
+ create lots of tension: Shots ring out, but you can't place the shooter, and enemies can appear 
+ right next to you before you can react.   
+
+  Before missions begin, you get a briefing and a chance to select appropriate gear. However, you 
+ don't create any detailed plans like in the Rainbow Six games. Missions often open with you being 
+ inserted by helicopter or even parachute, which really immerses you in the scene. You'll then use 
+ your HUD to navigate to preset waypoints that you can edit while in the mission. For practical 
+ purposes, most missions are solo adventures, though you may have a computer-controlled teammate 
+ or two accompany you. The interface makes issuing orders to them awkward, however.   
+
+  As you close on your objectives, you'll discover that most maps are a sniper's dream, as there's 
+ plenty of natural cover from hillcrests. This is important, since success in many missions benefits 
+ from long-range sniping. Weapons physics realistically add to the fun. Higher-caliber rounds can 
+ penetrate thicker walls. Recoil, firing stance, and movement all affect your aim, though jumping 
+ doesn't seem to affect your shot placement in close combat.   
+
+  The artificial intelligence for your allies is quite good. Your Delta Force teammates have decent 
+ situational awareness and know to crouch for steadier aim or duck for cover, though they follow 
+ mission waypoints too strictly. On the other hand, enemy artificial intelligence is painfully weak. 
+ Enemy placement and actions seem to be largely scripted, which limits the replay value of each 
+ mission. The terrorists universally have poor aim and even worse reaction time, even on the hard 
+ setting. They don't effectively work in groups to flank you, nor do they make much use of cover. 
+ They often don't react intelligently to their buddies getting shot or to combat sounds. So, many 
+ missions seem like shooting galleries. You just go prone at a distance, look through your scope, 
+ and light into the bad guys. Indoors, enemies basically just wait for you to come to them, and 
+ when you do, they rarely stand a chance against you. This poor artificial intelligence is a real 
+ shame, since the missions themselves are so interesting.   
+
+  Fortunately, Land Warrior has a full multiplayer suite. There's a cooperative mode that lets up 
+ to four players take on the computer in the standard missions. Up to 50 players per server can 
+ join in old standbys like deathmatch, team deathmatch, king of the hill, and capture the flag. 
+ Then there are search-and-destroy and attack-and-defend modes that require teams to infiltrate 
+ enemy territory and take out specific targets. The flagball mode lets up to four teams try to grab 
+ a single flag in the center of the map and then rush it back to their base. Setting traps and ambushes 
+ is great fun, and the huge assortment of weapons keeps play exciting. However, there isn't much 
+ to Land Warrior's multiplayer gameplay that hasn't been done before, and the available multiplayer 
+ modes don't take strong-enough advantage of the more realistic military setting of the single-player 
+ game. Land Warrior's multiplayer mode is lots of fun if you want massive and wild firefights, but 
+ it doesn't particularly encourage realistic infantry tactics or teamwork.   
+
+  Delta Force: Land Warrior is a compromise between the complexities of tactical shooters like Rainbow 
+ Six: Rogue Spear and the more basic designs of traditional shooters. Land Warrior is easy to learn, 
+ but there's enough subtlety and diversity to the weapons to maintain your interest. In fact, the 
+ huge arsenal is half the fun, the other half being long-distance engagements and sniping. The vivid 
+ settings of the single-player missions are immersive, though the missions generally aren't challenging 
+ enough. Multiplayer is frantic and fun, though not as sophisticated as it could be. If you want 
+ subtlety and complexity, Delta Force probably isn't for you, but if you want to mow down terrorists 
+ using the latest firearms in a variety of colorful settings, then this is your game.    
+-------------------------------------------------
+:::User Reviews::: (20 Reviews)
+::::::
+UserName: rohitmitra5752
+Rating: 8
+Date: Oct 14, 2008 11:40 pm PT
+Review:  With the first two games being a total let-down, Novalogic surprised me with this brilliant game. 
+ I wouldn't have bought this game seeing the plight of the previous two games, but then I would 
+ have missed an entirely wonderful game. I actually got it along with the rest of the 2 in a compendium 
+ edition.
+  Delta Force 3 almost corrects all the previous glitches of the previous two games and stands tall 
+ on it's own merit. The graphics had been improved with a totally new graphics engine and new guns 
+ improved the gameplay a lot. A better AI meant that the team mates would improve on their strategies. 
+ It could also understand my line of thought and act accordingly. It would stay put while I was 
+ creeping behind them and then would suddenly attack drawing away their line of fire.
+  The enemies however only improved in their looks. The enemies would die even when shot in their 
+ legs and took two shots in the head from a silenced gun to die. The campaign improved manifold 
+ and so does the particle effect.
+  So Delta Force Land Warrior can be called the beginning of the whole new set of games from Novalogic.
+ 
+  
+  FINAL VERDICT: Get this game to start off with, if you are new to FPS. 
+::::::
+
+::::::
+UserName: ClassySloth
+Rating: 8
+Date: Nov 14, 2007 8:03 am PT
+Review:  This game has got to be one of the best (if not THE best) first person shooters of its time. The 
+ single-player wasn't much to brag about, so if you don't have internet on your home computer and 
+ never plan on getting internet, then don't buy this. But the online play is to die for. 5 Soldier 
+ classes, and enough weapons to make a terrorist organization give it a nod of apporval, not to 
+ mention an endless amount of maps, thanks to the map editor (which didn't work in Win2000/XP, but 
+ a fix is available at www. dfbarracks. com or www. novahq. net) . There are a few cheaters out there 
+ but nothing big. The graphics are slightly outdated but still easy to look at. I'd recommend this 
+ game. 
+::::::
+
+::::::
+UserName: majesticcryx
+Rating: 7.5
+Date: Sep 16, 2007 7:01 am PT
+Review:  The Delta Force. They are a highly trained group of soldiers specializing in anti-terrorist combat 
+ missions. They get in and they get out and are capable of causing hellacious amounts of damage 
+ in those short amounts of time. This is definitely ripe territory for a computer game and NovaLogic 
+ has known this for years now releasing the first Delta Force game in the fall of 1998. NovaLogic's 
+ follow up to Land Warrior acheived little success due to very choppy framerates and very pixilated 
+ voxel terrain. Now NovaLogic is back and trying to do the series right with an updated graphics 
+ engine that supports 3D acceleration. The engine certainly does its job; the game runs very smooth. 
+ Unfortunately, NovaLogic seems to have spent too much time on the acceleration issue and not enough 
+ time on more important AI and realism issues.
+  
+  Delta Force: Land Warrior takes its name from a project that is currently being developed and utilized 
+ by the U. S. Army. It basically provides more information for ground troops in the form of smarter 
+ weapons and real time tactical information, but you can read more of the details here. DFLW borrowed 
+ a couple of things from the program besides the name. The first and most important, is the GPS, 
+ which is a heads-up system that will give real time information on enemy position on the field. 
+ This is an extremely important addition to your screen as it provides you with all of the info 
+ you could need on troop movements, building locations, waypoints, and targets. You'll be using 
+ this a whole lot in the game. The second most important addition from the program is the OICW, 
+ a powerful new assault rifle that not only allows for long distance sniping, but also has a high-explosive 
+ grenade capable of exploding and launching shrapnel that can hit targets behind obstacles.
+  
+  The graphics are certainly improved over the Delta Force 2. The terrains are very nice and 
+ as expansive as the voxel technology allows. There are no more huge pixels either so the terrain 
+ is nice and smooth. Add this with the ability to use 3D acceleration and you've got a pretty smooth 
+ game with fairly slick terrain. The addition of large, seamless indoor environments also adds more 
+ interest and variety to a largely outdoor combat game.
+  
+  While the character, vehicle, and building models aren't up to par with many of the games available 
+ on the market today they still do the job plenty satisfactorily. Unfortunately the animations can 
+ leave them looking a bit blocky and lifeless at times. For example, the transitions between standing 
+ and prone positions are virtually instantaneous and choppy with under par crawling, running and 
+ swimming animations. They do the job, but barely in some cases. Deathimations, however, are decent 
+ most of the time. The problem with the deaths is in another area altogether. Collision and clipping 
+ problems are everywhere in this game. Not since EverQuest have I seen so many bodies poking through 
+ the ground, through buildings, through other bodies, out in midair... While it may seem like a 
+ small thing, there were a whole lot of people walking by my desk laughing at that very thing and 
+ saying how shoddy it was.
+  
+  Well, I wrote in my first impressions of Delta Force: Land Warrior last week that I was having 
+ a bunch of fun with the game but it seemed a bit too easy. I also made the excessively brilliant 
+ comment that games usually get harder as you get farther into them. Well, that held true for Land 
+ Warrior, but for all of the wrong reasons. Instead of having the AI get increasingly harder and 
+ smarter, NovaLogic took the easy way out by throwing millions of enemies in your face. While it 
+ was a quite a bit of fun in one of the missions to defend yourself against an onslaught of Soldiering 
+ 101 failures, it certainly didn't fit the mold of the highly trained terrorists that you are supposedly 
+ battling.
+  
+  The AI just never got better in the game. Even in the later missions, I found myself walking around 
+ a corner right into the path of a terrorist pointing an A-K 47 at me only to back away without 
+ the bad guy even trying to take a shot. He would say something in whatever language I'm guessing 
+ meant, No, no, it's okay. You weren't ready so it's a do over. And then I would shoot him. And 
+ he would die. No do overs now, eh? Not only was that annoying, but when sniping enemies and missing, 
+ enemies would most often:
+  
+  A) Get in a prone position
+  B) Run for cover
+  C) Go get buddies and round up a posse
+  D) Look around for the sniper
+  E) Stand there looking 
+ like a dumbass
+  
+  Can you guess? Correct! The answer is E. You win a big fat, you're so smart award. There were some 
+ times when the enemies actually fired back, but usually they didn't do a thing. Should we move 
+ onto friendly AI. Teammates, which are supposed to be helpful, ended up getting killed within the 
+ first couple of minutes in a mission half the time. They were reckless and really just annoyed 
+ the crap out of me. But every now and again they would manage to run by an enemy, standing up, 
+ at full speed, and the enemy would ignore it and run headlong at me instead.
+  
+  There were also some other little problems with the single player game that didn't make sense. 
+ You can save anywhere in a mission, but when you use that save to come back into the game, you'll 
+ be replenished with all of the ammo you need. And when in a mission with an AI teammate, when coming 
+ back in using the save, the teammate won't respond or participate in the mission anymore. Little 
+ bugs, but they add up.
+  
+  But even with all of these problems, I did manage to have fun with the game, as long as I put any 
+ hope of realism out of mind. All of the different specialties did add a bit of replay value to 
+ the single player as long as you tried to stick to using them as you're supposed to because you 
+ could easily use all of them in whatever role you wanted and still get through missions. Each of 
+ the characters is better with certain weapons and better in certain situations but not quite enough 
+ to really force you to change your tactics so you end up forcing yourself to try something new.
+ 
+  
+  This also comes into what is probably the most popular part of the Delta Force series: the multiplay. 
+ NovaLogic hosts games over their servers called NovaWorld that hold up to 50 players per game. 
+ There are several types of games although none of them will be unfamiliar to a first person shooter 
+ veteran. Deathmatch, Team Deathmatch, Capture the Flag, King of the Hill and all of the other regulars 
+ make their way into the game. Multiplayer in Land Warrior certainly is addicting however and solves 
+ all of the AI problems in single player unless you are playing against really bad players. Every 
+ specialty can play a part in this one. I had the most fun with a sniper rifle, but I was killed 
+ plenty of time by close quarter specialists using knives and machine gunners and grenadiers. Yeah, 
+ I died a whole lot, but it happens. When playing teams, organized groups of diverse weaponry and 
+ specialists can do a lot of damage. The point is that I had a lot of fun playing multiplay, and 
+ that is what is important when it comes down to it.
+  
+  Unfortunately, the single player game didn't quite stack up to what I had hoped for after playing 
+ the game for a little while. Even though I did have a modicum of fun, the bad AI and graphics problems 
+ made the game pretty disappointing at times. If you can put up with those collision problems, and 
+ enjoy playing online, you'll find a pretty good group of people to play with over NovaWorld. If 
+ you really loved the first two Delta Force games (although you're suspect if you liked number two) , 
+ and you just want the vastly improved multiplayer, you'll surely enjoy NovaLogic's latest outing. 
+ But if you were hoping that this incarnation would solve all of the past issues, you'll be a bit 
+ disappointed even with the new improved 3D accelerated engine. 
+::::::
+
+::::::
+UserName: nightharvest
+Rating: 7
+Date: Aug 31, 2007 12:24 pm PT
+Review:  Prior to my move across the globe I undertook a stock-take of games on hand to decide what I should 
+ take with me or leave behind. Delta Force: Land Warrior was a game which I thought should stay 
+ at home, due to the fact the some of the missions were based in countries nearby and perhaps such 
+ politically fictional stories and games would be best left in storage. So it got a run in the final 
+ days at the Top End, when I probably should have been focussed on other things. In the end, it 
+ barely mattered, as the first computer game store I entered in my current place of residence had 
+ multiple copies of the game, in the old-style oversized boxes. However, the game itself is, like 
+ most of the Delta Force series, almost stuck in No Mans Land with the tactical approach compromised 
+ by some very marginal AI and the ease in which the player can snipe away from a distance. Having 
+ said this, its a solid game that offers a variety of missions, weapons and challenges that will 
+ keep most FPS fans happy, even in contemporary times.
+  
+  In Delta Force: Land Warrior you play as a combat operative involved in special operations and 
+ missions around the globe. The missions are objective based as you clear hostile camps, disarm 
+ ordinance, free hostages and take down other undesirable characters. Youll get a large and fairly 
+ impressive array of weaponry to undertake these missions, but keep that sniper rifle close. Whether 
+ playing the isolated missions (ten of them, where you can save progress) or the official campaign 
+ (19 missions based around the scallywaggery of a disparate group of souls from the stereotypical 
+ hotspots - and where you cant save progress) the aim is to eliminate the 1000+ bad guys youll 
+ cross paths with. It isnt quite run and gun, as a couple of hits will result in death, but the 
+ wide open spaces of the large and detailed maps offer plenty of options on how to approach missions.
+ 
+  
+  Remembering the game was made in 2000, the graphics are still reasonable enough. Land Warrior introduced 
+ a new engine for the Delta Force series and is no doubt graphically superior to its predecessors. 
+ The maps remain large with plenty of open spaces, trenches, elevated positions and structures. 
+ However, although missions take place in different areas of the world, it doesnt look that different, 
+ merely changing the colour of the ground, the style of building or throwing in a Pyramid for good 
+ measure. The graphics are reasonably defined, with some extra attention given to the weapons you 
+ are carrying. There are day and night missions, with the night vision effect being quite cool, 
+ but I also experienced some unstable rendering when using this feature. The enemies look reasonable 
+ enough as do the vehicles youll come across during missions and the interface and title / missions 
+ screens all do they job they need to do. Seven years on, Land Warrior looks dated but not disastrously 
+ so.
+  
+  The sounds are solid. The crack of gunfire and the holler of the enemies is the main source of 
+ sound during the game, but its quietness that at times provides real atmosphere to the game, especially 
+ as you inch your way closer to a compound in the darkness of night. Vehicles hum along appropriately, 
+ the voice work with the mission briefings is professional and the title music is disposable mood 
+ music. Nothing special, but it does its job.
+  
+  Land Warriors gameplay appears to try a best of both worlds approach to attract both the tacticians 
+ and the gunners. And to be honest, with just a little more expertise in programming and AI, it 
+ could have pulled of it off.
+  
+  The missions provide multiple objectives and do provide some interesting scenarios that can be 
+ approached in several different ways. It also provides and extensive array of weaponry to chose 
+ from, which is detailed to the point of profession. While you generally need to follow the compass 
+ to trigger subsequent waypoints, there is plenty of freedom to scope out enemy positions and the 
+ best way to approach. Youll occasionally be accompanied by computer controlled allies, but they 
+ cannot be relied on. They are on a set route and will take out of a few enemies, but will rarely 
+ see out a mission and be with you at extraction point. The missions range from clearing enemy camps, 
+ securing documents, destroying infrastructure and liberating hostages. But the approach and the 
+ skirmishes are all the same. Enter, neutralise and depart. Or with the sniper rifle  neutralise, 
+ enter, tidy up and depart.
+  
+  There is no doubt that, especially during the campaign where there is no in-mission saving, Land 
+ Warrior provides an appropriate environment as you inch forward towards objectives. And while you 
+ can eliminate a fair proportion of your opposition from the distance with the ridiculously over-powered 
+ trump card, the sniper rifle, in most missions you are going to have to get up close and personal 
+ with enemy combatants in buildings, tunnels and other enclosed spaces. This part of the game does 
+ provide a far more level playing field. But then the AI issues come to the fore and, quite frankly, 
+ spoil the tension. Whilst at times the enemy will react appropriately (or perhaps just surprise 
+  and it a genuine shock when one flanks you) , you can basically be guaranteed that you are going 
+ to have 3-4 seconds to dispose of an enemy before they shoot at you. At times they will run at 
+ you. At times theyll stand in the corner in the manner we were sent there as naughty kids in kindergarten.
+ 
+  
+  Ultimately, there are a few levels where the tension is fever pitch. Special mention has to go 
+ to the campaigns penultimate level, where you crawl your way through savannah and darkness before 
+ confronting the mother of all sieges in a heavily fortified building. An attack on a large airbase 
+ was also a tense, challenging level and some of the stand-alone missions, even with the save feature, 
+ provided some seriously good competition. But take away these, the missions are essentially a shooting 
+ gallery, with the enemies either presenting as sitting ducks or poorly trained infantry, with only 
+ the odd tense moment thrown in. An enjoyable shooting gallery, but a shooting gallery nonetheless.
+ 
+  
+  It took about ten hours to complete all the missions on the default level. There is (or was) extra 
+ value with an online component or those looking for a tougher challenge could go to the highest 
+ difficulty level. I purchased the game for about $AUD8 (second hand) in 2006, which is more than 
+ reasonable value for money for what the game offers. Most Delta Force games can be found at reasonable 
+ prices these days.
+  
+  Delta Force: Land Warrior is perhaps like most of the Delta Force series  its in the main an 
+ enjoyable shooting gallery through some large environments. However, the enemy AI is simply not 
+ consistent enough to provide a solid challenge, especially when coupled with the several hundred 
+ metre pot-shots that can be taken with a zoomed apparatus. But ultimately, its still an enjoyable 
+ romp through a number of scenarios and settings which will be appreciated by those who enjoy FPS 
+ games and the like. One could choose to be critical of the fact that with a bit of extra quality 
+ in programming, Land Warrior (or perhaps the whole Delta Force Series) could have been an extremely 
+ polished product, but ultimately it provides a decent gaming experience as it stands. 
+::::::
+
+::::::
+UserName: startrek934
+Rating: 7.3
+Date: Aug 7, 2007 7:52 am PT
+Review:  This is one of those newer old-school games; it has some great multiplayer action &amp; some good 
+ missions but there not to hard. This delta force has some brand new features that i loved; one 
+ was the saving during a mission if you die. I also liked that there was a better weapon choice 
+ than the older df games. Now the weapon view looks fuzzy &amp; but it still has better weapons. 
+ Also when you make maps in the included map editer; you can make the enemys have any weapon that 
+ you can use. Has some great multiplayer game modes but everybody just goes rambo on you and its 
+ kinda hard to be a sniper but if you get really far it works. Overall this is a good tactical shooter. 
+ 
+::::::
+
+::::::
+UserName: theKJ0012guy
+Rating: 7.6
+Date: Aug 6, 2007 8:22 am PT
+Review:  aaaa... well its a decent shooter for a pc game worth the rateing given buy gamespot. you start 
+ off somewere in iraq i think (i may be a little off with this review because its my bros game and 
+ i dont play it that much.) and so you in iraq shooting people tell you beat the level basicaly. 
+ good gameplay good grafix well put togather game great sound. and this game is worth what i and 
+ gamespot have given it. if you like black hawk down then get this.
+  but what i think they should do is adda few team mates to help you like a demoliions and a sharp 
+ shooter or something and mabey a useable veichel too.
+  that was another amazing review from kj0012. 
+::::::
+
+::::::
+UserName: GibboViper
+Rating: 9.2
+Date: Apr 13, 2007 5:50 pm PT
+Review:  Delta Force Land Warrior.
+  
+  Well this is a decidedly aged game now but I would like to write a review despite the passing of 
+ time because DF3 was one of my first major games that I came to play and eventually dedicated 2 
+ years to playing Online in spare time, eventually becoming No:1 in the world for a game called 
+ Capture the Flag or CTF the pros will know this as. Well the graphics then in 2001  2002 were 
+ pretty inspiring to say the least and with a fast pc everything flowed and you really believed 
+ you were in a war environment. In both single player and multiplayer you have a choice of characters, 
+ which have an effect on your abilities in the field. For example, Gunner shoots like hell, especially 
+ with the saw, but boy running from danger is slow. Other characters will have good knife fighting 
+ abilities whilst others will be better swimmers. Weapons range from the 50 cal sniper rifle, the 
+ oicw, the M249 saw, Jackhammer, MM1 grenade launcher, ak47 and Psg sniper rifle. Side arms are 
+ good too with a choice between the Glock and traditional pistol and always your trusty knife for 
+ back up. You also get to play around with sophisticated equipment such as radios, night vision, 
+ a global positioning satellite unit, a laser range finder, and so on. One Nifty feature is calling 
+ in an airstrike on a target in the single player mode and moments later watching the target go 
+ up in flames while you are safe behind cover! Land Warrior offers 30 missions, including a training 
+ course to familiarize you with game conventions, ten quick missions, and 19 linked campaign missions. 
+ Most of these Missions are solo missions but occasionally you get a couple of AI guys that can 
+ come with you and you can control which is always fun. The missions themselves are quite interesting 
+ but the AI enemies is quite poor so if you take your time, even on a hard setting you can pick 
+ them off one by one and complete the mission. You never quite feel fully challenged although you 
+ are careful enough to make every shot count never the less. Whilst Single player is fun, it is 
+ really the multiplayer that will engross you. When I last played a couple of years ago NovaLogic 
+ had plenty of servers up covering CTF, search and destroy, team king of the hill and so on. The 
+ idea is to join a server and join in the fun. However for many it was a case of join a squad and 
+ go to war with another squad. This was fantastic fun and ill never forget the days of being on 
+ the mike with the whole squad, and formalising a strategy and moving in on the opposite team. This 
+ was amazing fun and the multiplayer really works well on this level. To sum up whilst a relatively 
+ older game Delta force Landwarrior can still give you real enjoyment and stimulation for as long 
+ as you want to play and still able to deliver the occasional adrenalin rushes. Of course there 
+ are many more competitive games on the market now but surely Delta Force Landwarrior deserves a 
+ medal for being a true inspirational classic that would captivate an audience for many years. 
+::::::
+
+::::::
+UserName: dotdarkcloud
+Rating: 8.8
+Date: Feb 4, 2007 2:46 pm PT
+Review:  Now Delta Force Land Warrior is an odd game, but it does have its moments. The graphics are fairly 
+ plain and repetitive, and when sniping an enemy often appears as little more than a small black 
+ line. The sound is fairly non existent, but the odd whoosh of a rocket and sound of another enemy 
+ biting the dust will satisfy. The characters are great and lovable, but also easy to forget (I'm 
+ playing as whats-its-face... dynamite??) . The weapons are where this game really picks up. A strong 
+ selection of true life weaponry ranging from a trusty inaccurate AK to the ability to call in air 
+ strikes during certain operations. All that said this game is a great pick up and play, and easy 
+ to jump into a multiplayer game to frag a few while on high speed or dialup. 
+::::::
+
+::::::
+UserName: zeus_gb
+Rating: 8.8
+Date: Jan 19, 2007 6:25 am PT
+Review:  I've been a fan of the Delta Force series since the first game. Land Warrior is a vast improvement 
+ over previous attempts.
+  
+  The graphics sadly aren't as good as they could and should have been for the time but the Delta 
+ Force games have never had top notch graphics anyway. The graphics are an improvement over previous 
+ games with much more diversity of the textures and art in the different missions.
+  
+  The sound effects in Land Warrior haven't really improved over the previous games but they're still 
+ enjoyable anyway.
+  
+  Land Warrior does have it's problems though. The biggest problem with Land Warrior as with all 
+ the previous Delta Force games is the enemy AI. The enemies can do some really stupid things such 
+ as keep trying to walk through walks, get stuck in walls, shoot through walls, automatically know 
+ you're in a certain place, shoot at walls, kill themselves etc etc....
+  The other major problem with the game were the characters. They all seemed to play very similar 
+ to each other.
+  
+  Land Warrior does bring some good features to the Delta Force series, such as save games (not every 
+ fan though it was a good idea) , more diverse missions, the ability to reload your ammo or pickup 
+ a different weapon etc etc.. In my opinion the ability to reload your ammo and pickup weapons was 
+ the best thing about the game. In the previous games it felt really stupid killing all these enemies 
+ and not being able to pick up there weapons or even get more ammo.
+  
+  All in all Delta Force: Land Warrior is the best in the series and even though it's got the same 
+ old problems it's still worth buying. 
+::::::
+
+::::::
+UserName: ImpaledDecade
+Rating: 8.8
+Date: Nov 6, 2006 11:28 am PT
+Review:  Delta Force has to be one of the greatest military based shooter series available on PC. Land Warrior 
+ is leaps and bounds away from Delta Force 2, but dosen't carry the same score. Face it, DF2 is 
+ better then Land Warrior. Theres about 30 guns, and you'll usually end up using 5 or 6 different 
+ ones.
+  
+  Gameplay: Single player is fairly easy and boring at times. Multiplayer has gone from more long 
+ range combat (DF/DF2) to CQB. The way the weapon recoil and hit system work is disgusting in my 
+ opinion, but its effective and still fun.
+  
+  Graphics: Major improvement over DF/DF2. You'd have to be blind to not tell the difference. The 
+ only problem is even though its prettier it looks kinda bland on the textures.
+  
+  Sound: Each weapon sounds like it would look. Fast, powerful, silent, slow, etc.
+  
+  Value: 
+ Its a decent game, not a big fan, but its worth a try. 
+::::::
+
+::::::
+UserName: TallicaFan2005
+Rating: 8.7
+Date: Jun 1, 2006 1:45 am PT
+Review:  The singleplayer as in any Delta Force game is nothing special. You can enjoy it for a limited 
+ time but there are much better experiences out there. Now does that make this game not worth the 
+ money? No. The Delta Force series, to me at least, has always been about the multiplayer. I've 
+ been a dial-up gamer my whole life and Delta Force was my first online shooter.
+  
+  The online community is good, however since newer games have come out, the amount of players online 
+ has fallen. Cheating is a minor issue as in the previous games but for the majority of the time 
+ you will find the servers are cheat free. If the occasional cheater does bother you, simply head 
+ to the Public games where the host is usually active and able to boot cheaters.
+  
+  The graphics aren't amazing, but seeing as you can play fairly on dial-up it shouldn't bother you. 
+ I can finish in the top 5 of most games on dial-up which means I'm on par with those with better 
+ connections and you can be too. For $20 or less there is no reason you can't enjoy the experience 
+ with me. An added bonus is to pick up the 'three-pack' if you can find it which includes the first 
+ two games in the series as well for the same price. 
+::::::
+
+::::::
+UserName: andch17
+Rating: 8
+Date: May 14, 2006 10:11 pm PT
+Review:  Delta Force 2 was a huge accomplishment and made a lot of fans happy. Delta Force Land Warrior 
+ is basically the exact same game except it looks better and has more features.
+  
+  Delta Force Land Warrior is a very good first person shooter, it has all the makings for a classic. 
+ The gameplay is basically the same as Delta Force 2's except with a little more details, an example 
+ is that you can pick up guns off gun staches off walls and stuff like that. The graphics are improved 
+ from last year's game, all the textures look sharper and the details in the game are very good. 
+ The game still has its flaws from last year's game, like if you shoot a terrorist in the toe they 
+ will die, or you'll sometimes see enemies stuck in a wall or something like that. The game has 
+ 5 characters to choose from, each of them have traits that will help during missions, the campaign 
+ is pretty good and is very fun to play with friends.
+  
+  Delta Force Land Warrior is a decent shooter, but if you have Delta Force 2, then you might want 
+ to play this game before you buy it because it isn't much different from Delta Force 2. 
+::::::
+
+::::::
+UserName: darkcloudestine
+Rating: 7
+Date: Apr 12, 2006 10:41 am PT
+Review:  If you have alot of time to play you will find its navigation more difficult than the game itself 
+ i. e the shooting, it woven into network of nots and mase.
+  
+  Selection of weaponery of high importance here since each game has its own unique scenery and adaptational 
+ attributes which is best suited for certain weapons.
+  
+  Selection of any game is of no importance here since each game has its own story to tell. Best 
+ to play it like an alian on mission to another planet unknown to it.
+  
+  Shooting is true to reality in certain respects, you actualy aim and shoot to kill, than hitting 
+ without aim, i. e. it feels like a real gun in your hands with its shooting effects and its side 
+ effects, like trowing off the gun when the weight on it is lower than its load.
+  
+  Sounds is also true to reality, you hear as it sounds even at your back. Best you listen.
+  
+ 
+  Imagery is off high quality here, but with little unseen ghostly imagery underneath it.
+  
+  The game is your game when you buy it, you are the hero and the enemy is in your hands, you win 
+ to keep the enemy out.
+  
+  Yours if you want to fight the enemy, at your own mercy, there is no law in it than your own law, 
+ your are the judge of your enemy, its up to you to judge him right or wrong and if you realy want 
+ to play it, then the enemy is at fault here and you must win at all cost.
+  
+  Without you there is no law, and the enemy wins solong as you lose.
+  
+  King 6 is fantastic, 
+ without him or his assistance, you will be in very wild mase or on the middle of Sahara desert. 
+ His instructions are like oasis for those in need of help.
+  
+  Over all a win is possible and a loss is also easy to come by.
+  
+::::::
+
+::::::
+UserName: Doom1327
+Rating: 7.2
+Date: Jan 12, 2006 6:51 pm PT
+Review:  Delta Force offers around 45 single-player missions, including 25 sorties split between two campaigns 
+ and 20 stand-alone scenarios, in which you must prove yourself against large and heavily armed 
+ terrorist armies. In most cases, you'll work alone or with a handful of computer-controlled support 
+ teams. Most scenarios involve a clandestine attack-and-destroy mission against enemy bases, though 
+ many also include hostage rescue, recovery of stolen assets, and other commando-style objectives. 
+ The game also contains a powerful mission editor that lets you craft complex scenarios with relative 
+ ease and even provides thorough documentation for it.
+  
+  The mission design in Delta Force is generally excellent. Not only are most scenarios more difficult 
+ than the missions in the original, but they also seem realistic and believable. Although some are 
+ definitely influenced by Hollywood (one stand-alone mission conjured memories of the train attack 
+ scene in Lawrence of Arabia, for example) , even these are a lot of fun from beginning to end. 
+::::::
+
+::::::
+UserName: mtdewtag
+Rating: 8
+Date: Jan 5, 2006 12:18 pm PT
+Review:  Delta Force: Landwarrior is the third game in the Delta Force series. With a few upgrades and some 
+ minor improvement on sound and graphics. This tactical shooter moves the bar up on the series.
+ 
+  
+  Gameplay: Similar to the previous Delta Force games. With some minor differences. For starters 
+ you now have 5 different characters each with unique abilities to pick from and perform the missions 
+ for you.
+  
+  Graphics: Improved slightly for this game. More scenery and different locations made this game 
+ some nice eye candy to view. Different missions from being in the desert to being in a foggy swamp 
+ will test the limits of your graphic card.
+  
+  Sound: Slightly improved but still average overall.
+  
+  Value: After 2 previous editions and 
+ few others to follow. This is the best in series in my opinion. Online play was improved and Novalogic 
+ took cheating very serious. You could also find lots more user maps that would allow you to improve 
+ your techniques with this game. Plus this is a good game to add to your collection if you want 
+ to collect the Delta Force series.
+  
+  Tilt: This was the first game of Delta Force I decided to venture online with to see how decent 
+ the game was compared to the others. Overall I enjoy and still enjoy playing this game. I have 
+ found myself more into the single player levels but online is still fun when you are up against 
+ others that want to play fair.
+  
+  Only downer about single player mode is that your 5 different characters will act and feel the 
+ same way in single player mode. The game claimed each one had an unique ability that made them 
+ more suited for certain missions. What I found out is by playing only one character all the way 
+ through I was able to complete the game with no problems. I was sniping with the heavy gunner and 
+ the sniper I used him later and in close quarters combat he was just as good as the gunner. 
+::::::
+
+::::::
+UserName: differentiation
+Rating: 7.7
+Date: Dec 25, 2005 11:13 pm PT
+Review:  Unlike the previous games, Delta Force and Delta Force 2, people were actually talking about this 
+ game in the year it was released in 2000. Whether it was single player or multi, this was simply 
+ the best and most solid Delta game Novalogic offered up to 2000. The graphics have greatly improved. 
+ You can now see your enemies as people rather than a black speck. The backgrounds, whether indoors 
+ or out, look much better, same goes for the weapons and how they are used. Everything is just better, 
+ Delta Force and Delta Force 2 will no longer be put into your computer again... they have been rendered 
+ obsolete with Land Warrior. The real life Land Warrior, soldier of the future idea didn't go through 
+ though, and the OICW was deemed too cumbersome for a soldier. I disliked the character selection 
+ because it won't let me create my own character but rather forces me to use others. Having a female 
+ in Delta was either to be politically correct or draw female gamers - there are no females in the 
+ Spec Ops community, not that I know of. 
+::::::
+
+::::::
+UserName: ottomus
+Rating: 10
+Date: Oct 21, 2005 11:25 pm PT
+Review:  Great game what can I say, I mean the single player is not all all that fun. But what makes this 
+ game great is the online gameplay or what it used to be. Well if you would have gotten the game 
+ about a year ago you would have had fun. Although some of the Delta Force Land Warrior faithfull 
+ still play, it is is not as jam packed with players as it used to be. But you should still get 
+ it and try the multiplayer out because it was a great game, the best of its time. d d d d 
+::::::
+
+::::::
+UserName: dougsan
+Rating: 5
+Date: May 10, 2005 1:27 am PT
+Review:  I couldn't get Delta Force 1 to play with graphics that are worth viewing and opened tyhis game 
+ with a lot of trepidation. Graphics are OK -- for 2001 -- but lousy for 2005.
+  
+  Lots of different weapons and many different ways to play each of the numerous "levels". The easiest 
+ way is to blast your way from start to finish. If your reflexes are spot on you'll be done in a 
+ few hours.
+  
+  The levels themselves show some originality relative to settings (Egypt, Africa, US West, etc.) 
+ but the actual feel is that you're playing the same topography with different colors.
+  
+  
+::::::
+
+::::::
+UserName: AngelsBeast
+Rating: 8.9
+Date: Jul 4, 2004 9:18 pm PT
+Review:  Gameplay:
+  Huge battlegrounds and great weapons, what more could you ask for? The controls are simple and 
+ you can learn them in minutes. The weapons fire pretty close to the way they do in real life and 
+ one shot with about any weapon will take anyone down. The enemy AI could be improved. If you are 
+ any distance away from them they will just drop to the ground and wait for you to find somewhere 
+ you can shoot them from. Up close they can be difficult to fight more than 3.
+  
+  Graphics:
+  The graphics could defiantly use some improving. The land is all the same and bland 
+ with nothing but a few trees or structures where your mission is located. Also the level of detail 
+ is extremely low. But the good part is that even on slower systems the game will not skip or lag. 
+ Also the graphics really dont take away from the gameplay but they still need improving.
+  
+  Sound:
+  There really isnt any ambient sound, and the gunfire should be louder than it is. 
+ The enemies practically give their position away all the time by talking, which brings the difficulty 
+ level down some. The worst part about the sound is that there isnt much of it, between gun fights 
+ all you hear is your feet on the ground. Insects, birds, dogs, etc would have improved this some.
+ 
+  
+  Summary:
+  This is my favorite game series, I love to use the 50cal. Sniper rifle and take everyone down before 
+ I even get near the objective. If you want a game were you get to play with sniper rifles and a 
+ little close combat to go along with it than this is it.
+  
+::::::
+
+::::::
+UserName: RacinJason
+Rating: 7
+Date: Mar 5, 2006 5:18 am PT
+Review:  Land Warrior is the third Delta Force game from Novalogic, there have been some graphical improvments 
+ but not alot has changed. 
+  
+  The gameplay is the same as the last two DF games. The single player is ok, I thought the missions 
+ were better in this game then DF2. But the multiplayer is where this game really shines as with 
+ any DF game. The enemy AI was a little better, they would still just stand there for a few seconds 
+ if you ran up to them. If you arn't wern't using a silenced weapon soliders will come running to 
+ your position. And their snipers would take you down from 500 meters away. This makes the difficulty 
+ go way up, I found myself under alot more fire and getting killed alot more in this game then in 
+ past DF games. You can now chose from different soldiers with different abilities which makes the 
+ game more difficult. I chose the sniper because he is accurate with a sniper rife and scope but 
+ he can't hit anything if it's right in front of him and he is using a machine gun. The weapons 
+ are a little better, you now have a silenced sniper rifle, the PSG-1. And you can carry a sub machine 
+ gun as secondary weapon and still have your pistol. But the problem I had was I didn't have enough 
+ ammo, I always had to take the extra ammo option which doubles your ammo. So for your main weapon 
+ you will get like 12-14 clips, 2 for your sub machine gun, and 2 for your pistol. And you can't 
+ take two law rocket launchers any more, there is a selection box for only explosive items.
+  
+  Graphics are alot better, I've been playing alot of DF2 and when I loaded Land Warrior up I 
+ was impressed. The menu looks better, it still has a audio recording for your mission briefing. 
+ As I started the first level I was surprised by some of the detail they added to the buildings. 
+ In DF2 most of the walls of the buildings have no textures or detail, this game does, even the 
+ lights look better. Your weapon looks better and is more detailed, and it doesn't flicker and glitch 
+ as much as it did in DF2. And because the graphics are better, the tall grass that was in DF2 that 
+ was great for hiding when you were a sniper is gone.
+  
+  Overall I enjoyed the game, it has good improvments over DF 1&2, and if you can get the game cheap 
+ enough or borrow it like I did I think it's worth it. But it's not as good as the new games out 
+ now, so don't expect this game to be super awesome. 
+::::::
+
+-------------------------------------------------

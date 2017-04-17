@@ -1,0 +1,163 @@
+-------------------------------------------------
+:::Game Name::: Conflict Zone
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/conflictzone/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov 15, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 4.4
+Critic Score: 6.9, 15 Review (s)
+User Score: 6.0, 51 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Ubisoft
+Developer: MASA Group
+Genre: Real-Time Strategy
+Date:     Oct 31, 2001
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Conflict Zone isn't a completely terrible real-time strategy game, but there's nothing about it 
+ that will scream for you to play it. 
+
+ Conflict Zone is a modern-day military real-time strategy game that has a unique resource system. 
+ It also touts its advanced artificial intelligence. The enemy is supposed to react to your actions 
+ in different ways every time, and you can have computer-controlled commanders help you in battles. 
+ It all sounds great in theory, but in practice, you'll find the AI only sporadically makes intelligent 
+ moves. Conflict Zone has a number of other problems, too. When the first wave of frustration passes, 
+ you'll realize that Conflict Zone is a subpar RTS game whose few good ideas just don't add up. 
+           Conflict Zone's very slow pacing makes it tedious.    
+
+  Conflict Zone is the stage for a war between the International Corps for Peace (ICP) , a peacekeeping 
+ force like NATO, and GHOST, a secret self-serving group of nations. You can choose to play as either 
+ side in both the campaign and skirmish missions. Both sides are presented fairly well in the campaign 
+ missions, and the story is told through mildly amusing cutscenes. But while the ICP and GHOST are 
+ ideologically different, they are almost identical in terms of units and structures. The ICP scenarios 
+ are mostly peacekeeping missions in which you have to rescue civilians and then eliminate GHOST 
+ forces. These get so repetitive that, before each mission, you'll start to feel as if you're getting 
+ ready to go to work again on Monday morning after the weekend. The GHOST missions are a bit better 
+ because less emphasis is placed on rescuing civilians. It sounds boring that both sides have the 
+ same units, and it is. When playing a skirmish map, you might as well flip a coin because it basically 
+ doesn't matter which side you're on. Actually, that's not entirely true -- the ICP and GHOST take 
+ slightly different approaches with regard to civilians and the media.   
+
+  The resource model in Conflict Zone is interesting and unique. One of your resources is "popularity." 
+ It determines what level of units and technology you possess at any given moment. It's supposed 
+ to represent the trust that your leaders have in you, so a higher popularity means that they'll 
+ let you have bombers and submarines. The media directly influences your popularity by observing 
+ the actions you make in the game.   
+
+  Popularity is the biggest differentiating factor between the ICP and GHOST. The ICP is able to 
+ increase popularity to high levels quickly simply by rescuing civilians and taking them to a refugee 
+ camp in their base. The downside to this is that the ICP also loses popularity quite easily. First, 
+ people generally don't like long wars, so the ICP's popularity slowly decreases over time. Next, 
+ if your forces suffer humiliating losses, the people back home aren't going to like you. Lastly, 
+ lots of civilian deaths at your hand will bring down your popularity big-time. A few civilian deaths 
+ are acceptable, though. But you're still going to have to avoid many battles near towns, because 
+ explosives have area-effect damage that can cause civilian casualties easily. And town buildings 
+ resupply civilians, so you don't want those destroyed.   
+
+  Raising the GHOST's popularity takes more work than raising the ICP's popularity. Instead of a 
+ refugee camp, you have an enlistment camp. When you bring civilians there, they are converted to 
+ a random infantry unit on your side. This will raise your popularity to 50 percent, but no higher. 
+ As a mercenary general, you have to impress the GHOST leaders with favorable footage of successful 
+ battles. You can recruit cameramen to follow your troops. But if you're routed in combat, expect 
+ popularity to drop.           Problems with unit balance and AI make it difficult to recommend. 
+    
+
+  The main resources you get are command points. While the popularity resource is interesting, the 
+ command point system is frustrating. It seems to take forever to gain enough command points to 
+ build a decent-sized force. Granted, some waiting is involved in just about all RTS games, but 
+ Conflict Zone takes this to extremes. You can increase the rate of command point acquisition through 
+ rescuing civilians, but most of the time, they're behind enemy lines. And there are not many structures 
+ in the game, so building your base won't take much time at all. Therefore, you're going to just 
+ sit there twiddling your thumbs until you have collected enough command points to build troops. 
+ It's perfectly viable to get up and brew a cup of coffee or watch TV for a while and then come 
+ back to the game. The computer will rarely attack your base with a threatening force, so you don't 
+ have to worry about that. The command point system gets even worse in skirmish mode. All the combatants 
+ will get command points at a relatively equal rate, so there's no way to disrupt an opponent's 
+ economy. This means that there will be a lot of stalemates unless someone makes a really bad mistake. 
+   
+
+  The gameplay doesn't make up for the poor resource model. You're supposed to be able to make diversionary 
+ strikes at enemy forces, causing the enemy to reinforce that area and leave another area largely 
+ undefended. This works only once in a while, so you're back to the basic RTS ideal of winning by 
+ squatting in your base until you have enough troops to completely overwhelm the enemy positions. 
+ Infantry are largely useless because they die so quickly and move slow compared with vehicles. 
+ Since explosions will kill an infantryman instantly and infantry usually clump together, one tank 
+ shell or bazooka shot will send bodies flying. It leaves you to wonder why you can build a medic 
+ to heal injured troops, since troops never seem to survive more than a single hit.    
+
+ Vehicles are much more useful because they take more of a beating before being destroyed; plus, 
+ you can repair them. Your main attack force is almost always going to be tanks and antiair defenses. 
+ Initially, the only infantry unit you'll ever want to build is the bazooka because it can fire 
+ at enemy aircraft, but even it soon outlives its usefulness since you'll gain antiair vehicles. 
+ So you'll learn to ignore infantry altogether. You're told that marines are good for sweeping towns 
+ because they won't accidentally kill civilians with splash damage, but in practice, you're better 
+ off just using vehicles -- not caring if a few civilians die and not caring if you lose some popularity 
+ points. As long as you have enough to build tanks, you're fine.           The ICP and GHOST share 
+ exactly the same units for the most part.    
+
+  The unit artificial intelligence is decent at best. Since units can't absorb much damage in Conflict 
+ Zone, there's no reason to concentrate fire on a single unit. The game does a good job with having 
+ units spread their fire on enemy groups. Your units will also fire while moving, which is a stress 
+ reliever in RTS games. On the other hand, unit pathfinding has some issues. Your units will eventually 
+ get to any point on the map, but they don't get there efficiently, much to your detriment. The 
+ biggest obstacles are bridges and ramps leading to elevation changes. Your groups can't seem to 
+ tackle these without getting slaughtered. The scale shows that five infantry and a couple of tanks 
+ can easily cross abreast of each other, yet they all insist on going single-file through these 
+ locations. Anyone can see the obvious choke points that result. There also aren't any formations 
+ to protect weaker units such as artillery and antiair troops. A group won't move at the rate of 
+ the slowest member. If your advancing tank column runs ahead and gets taken out, then you're going 
+ to have to retreat everything else that lagged behind. This is yet another reason why infantry 
+ are more trouble than they're worth. Some skirmish maps also place bases in areas where your army 
+ simply refuses to go. It appears to be impossible to win these scenarios with armies, so the last 
+ person to quit is the victor.   
+
+  Conflict Zone includes up to four AI-controlled battle commanders per side that can assist you 
+ in combat. You can have them handle a variety of tasks such as improving your base, attacking or 
+ defending a position, and concentrating on rescuing civilians. The latter is probably the only 
+ option that's really useful. Rescuing civilians is a tedious task, and if someone else is willing 
+ to do it for you, more power to them. You can share resources with commanders and give them units 
+ to control on their own. But sharing command points means that you'll have to wait even longer 
+ to build a force. Now, you can do errands while they build up your base and a bunch of units. But 
+ by then, what's the point of playing the game in the first place? The commanders do have their 
+ fair share of problems. Sometimes they will refuse to build anything and just sit there collecting 
+ money. Perhaps it's a testament to the advanced AI in the game -- as in the movie  War Games , perhaps 
+ the computer is simply realizing that it's a part of a fruitless game.   
+
+  The games' 3D graphics are utilitarian: They do the job but aren't anything to write home about. 
+ Unit models are bland, but they hold up well when you're zoomed in close. Yet another problem with 
+ infantry is that they are quite small when you're zoomed out, which is the view that a typical 
+ strategy gamer has to use to get a full scope of the battlefield. It's so bad that you can't even 
+ tell the difference between a cow and an enemy marine without floating your mouse over it first. 
+           Conflict Zone's distinctive resource model can't save the game.    
+
+  On the other hand, Conflict Zone's interface is nonobtrusive and works well enough. When you select 
+ a group of units, you're told the types and number you have selected on the left-hand side of the 
+ screen. You have a minimap in the top right-hand corner that expands when you float your mouse 
+ pointer over it. The only other main interface feature is the build menu in the bottom left. It's 
+ real easy to cycle through and build anything you want. You don't even have to select a factory-type 
+ building to buy units. The camera is done fairly well, but you can only use the mouse at the edge 
+ of the screen to adjust the perspective. There are other strategy games that let you hold down 
+ the buttons and move the mouse to rotate and elevate the camera -- it's too bad that this wasn't 
+ implemented.   
+
+  Conflict Zone isn't a completely terrible game, but there's nothing about it that will scream for 
+ you to play it. Most mainstream strategy gamers will most likely find it painful to play. Besides, 
+ this is a great time for strategy games, so Conflict Zone's fierce competition makes it even less 
+ recommendable. And if Conflict Zone's AI even gives up, then perhaps it's trying to tell you something. 
+ Hard-core strategy gamers might find something to like in the game's unusual resource system. But 
+ not even that and the game's cheap price of $19.99 justifies a purchase. You can easily pick up 
+ older games that look and play better than Conflict Zone.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

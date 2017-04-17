@@ -1,0 +1,195 @@
+-------------------------------------------------
+:::Game Name::: Patrician II: Quest for Power
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/patrician2/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct 22, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.7
+Critic Score: 7.8, 15 Review (s)
+User Score: 7.8, 118 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Strategy First
+Developer: Ascaron Ent. GmbH
+Genre: Historic Real-Time...
+Date:     Oct 8, 2001
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+Patrician II successfully blends trading, city-building, and simple ship combat in a way that's 
+ constantly engaging. 
+
+ In the 14th century, German merchants dominated trade throughout Northern Europe, thanks to trade 
+ concessions granted to the Hanseatic League. At a time when sea routes in the Baltic and Mediterranean 
+ carried the vast bulk of goods and raw materials across Europe, it was possible for fortunate long-distance 
+ merchants to earn great fortunes and rise to positions of significant local power. Patrician II 
+ is a game that gives you a hands-on opportunity to follow this path; you start as a struggling 
+ Hanseatic trader and eventually become a powerful patrician. While the game's hands-on micromanagement, 
+ slow pace, and open-ended goals might discourage some players, its interface generally succeeds 
+ in making trading as painless as possible. There's also some degree of city-building and isometric 
+ ship combat to further keep your interest. But Patrician II's well-balanced game design lacks polish; 
+ this is especially evident in the translation errors, some of which are downright confusing.   
+         The historical center of the Hanseatic League and your default hometown.    
+
+  The amount of depth and detail concentrated in Patrician II's design is somewhat explained by the 
+ fact that this is a sequel to a German game originally produced a decade ago for the Amiga home 
+ computer. There are a number of ways to make money in Patrician II, from building and renting houses 
+ and loaning money to other traders at exorbitant rates -- on the order of 2 percent a week -- to sponsoring 
+ a freelance pirate or two for a cut of the loot. But despite this diversity of options, the core 
+ of the game is trading, and this is generally your most profitable pursuit. The game combines broad 
+ goals and high-level management tools with detailed ship trading. From humble beginnings with only 
+ one small ship until you have the significant resources to organize your own convoys, you'll buy 
+ and sell goods on a ship-by-ship basis and sail between the game's 20 Hanseatic towns looking for 
+ profitable routes. While you might not be intimately familiar with the geography of the Baltic 
+ Sea, it's not hard to figure out which towns produce special goods. For example, Cologne, located 
+ on the Rhine River south of Belgium, produces the wine that rich citizens crave, Scandinavian towns 
+ stock whale oil, and the eastern towns near Russia provide premium animal skins. These regional 
+ products are all graphically represented on the overview map, and while it may take a long week's 
+ trip by sea, it's often very worthwhile to seek them out.   
+
+  As you'd expect, the prices for the many goods in the game vary by town, depending on the demand 
+ created by the size and relative prosperity of the town and the supplies already in the market. 
+ Prices fluctuate dramatically, but it's always easy to see if the goods stored in your warehouses 
+ or on a ship can be sold for a profit because the break-even price is always conveniently displayed 
+ in the trading windows. When you move on to manufacturing your own goods, it's important to buy 
+ raw materials cheaply and produce in high enough volume to make the end product as inexpensive 
+ as possible and to fatten your profit margins. Unfortunately, it's not possible to get an estimate 
+ on the costs involved in manufacturing until the goods are already in your warehouses, so sometimes 
+ despite your best efforts you'll spend time setting up industries that are completely unprofitable, 
+ while others can create goods at a 100 percent profit margin.           Make donations at the local 
+ church to increase your reputation.    
+
+  New paths open up as you grow your trading company: You can join the local guild, establish trading 
+ offices in other towns to maintain local warehouses, and build additional and larger ships. Your 
+ larger goal isn't just wealth, but power and social status. There are several levels of social 
+ status that are dependent on your wealth and your reputation among the common and wealthy residents 
+ of your hometown, a hidden score that is improved by providing needed goods, sponsoring public 
+ celebrations, and upgrading the local health conditions. When you reach the rank of counselor or 
+ patrician, you can be nominated for the yearly mayoral election. Once mayor, you're eligible to 
+ be elected alderman to lead the Hanseatic League itself, but with official power comes the responsibility 
+ of building and maintaining the town's defenses out of your own pocket. Fortunately, by this point 
+ it becomes much easier to make large sums of money quickly as you group your trading ships together 
+ in convoys that can be instructed to automatically run a set trade route.    
+
+ Patrician II succeeds in creating a lively sense of Hanseatic League trade. There are many ships 
+ owned by other merchants that come and go from ports and crowd the sea-lanes near key towns. The 
+ many competing merchants have a direct effect on market prices, and as soon as they dock they can 
+ dump goods onto the market or buy up surplus goods, and they can drive prices dramatically up or 
+ down just as you prepare to make your trades. But these same merchants can be a boon when you're 
+ trying to protect your ships from the pirates that hunt the open seas. Any ship can join a public 
+ convoy for protection, but unless you've formed the convoy yourself, the destination is set in 
+ advance. Although you're not the only merchant supplying the Hanseatic towns with the goods they 
+ trade, distant towns often aren't supplied with all of the goods they demand. With sufficient scarcity, 
+ towns will post contracts for large deliveries of specific goods at a fixed price, which can be 
+ a quick windfall for high-margin goods given how prices otherwise fluctuate so dramatically.   
+         The town hall is the seat of local politics.    
+
+  Once your trading company grows to encompass more than a dozen ships and has several offices scattered 
+ around the Baltic, you'll start to appreciate the limited automation built into Patrician II. The 
+ most important such feature is the automated convoy trade routes. These first require a suitable 
+ convoy flagship stuffed full of arms and manned by one of the captains who are very occasionally 
+ found hanging out in the port tavern. Then you have the option to carefully set up a trade route, 
+ specifying exactly which goods to buy and sell and the minimum and maximum prices to charge. This 
+ process demands a fair amount of effort, but by the time you get the option, you should have a 
+ good sense of where you can get goods and what prices are appropriate. Convoys group the cargo 
+ space of several ships, so by this method you can carry huge amounts of valuable bulk goods, like 
+ fish, timber, or wool, as well as consistently profitable refined luxuries, such as iron goods 
+ and cloth. Connect several good ports and watch the guilders roll in. A less-useful automation 
+ feature lets you hire a purchaser in your company offices to maintain a given level of goods in 
+ stock, which is helpful for raw materials your industries require. It would be more useful if this 
+ option gave you as much control as you have over trade routes to specify target prices and then 
+ let you sell as well as buy. At the later stages of the game, there's plenty to do without having 
+ to manually sell off your stock when prices hit premium levels.   
+
+  In adding isometric ship combat to the gameplay mix, Patrician II resembles Pirates!, Sid Meier's 
+ classic game of Caribbean privateering and trading. In Patrician II, there are four classes of 
+ ships, and each can be expanded to support larger numbers of ship weapons at the expense of cargo 
+ space. Since the game is set in the mid-14th century, the weapons are naturally somewhat rudimentary: 
+ You can access catapults and ballistas at the start, but an early cannon becomes available when 
+ the local weapon smith gets enough business. As a result, the ships don't deal the powerful broadsides 
+ of later ships of the line, and but since there's no way to adjust the time scale in combat, you 
+ may appreciate the relatively wimpy ranged attacks in battles with many ships. Often the most effective 
+ tactic is to use the wind to run straight in with a well-manned ship and board an opposing ship 
+ or two.           Each town produces only a few of the total goods available.    
+
+  Patrician II's interface is well suited for making quick transactions on the regional overview 
+ screen, and it also lets you jump to a detailed view of the city. The 2D graphics are generally 
+ colorful but unremarkable and can't be zoomed to varying levels of detail. The game runs constantly 
+ in real time at an adjustable speed. However, while there's a fast-forward button that conveniently 
+ drops back into regular time for important events, there isn't a pause function, which would have 
+ been useful for taking a leisurely look at your detailed financial statements. The primary shortcoming 
+ in the game's presentation is in the consistent errors in the translation from German. While most 
+ of these are merely distracting, some -- such as the inconsistent use of the English term "corn" 
+ for "grain" -- may steepen the learning curve.   
+
+  Patrician II successfully blends trading, city-building, and simple ship combat in a way that's 
+ constantly engaging. But while the historical specificity ensures a consistent level of detail 
+ as you progress through the standard game, more varied mission types would have made the game more 
+ goal-oriented. After the tutorial missions and a campaign that challenges you to rise through the 
+ social ranks, you're pretty much left to run through the same open-ended scenario at various levels 
+ of difficulty. While there's plenty of challenge just in building your trading company, and there 
+ are a number of side activities to keep you busy, the game is essentially focused on trade, without 
+ too much depth in the financial, political, or diplomatic components. But since it does do long-distance 
+ trade so well, fans of games such as Railroad Tycoon II would do well to check out this medieval 
+ equivalent.    
+-------------------------------------------------
+:::User Reviews::: (3 Reviews)
+::::::
+UserName: starwarsfan1234
+Rating: 9.1
+Date: Nov 12, 2006 2:32 am PT
+Review:  I was very surprised when I saw this game on gamespot. I bought this in a shop that sells the lesser 
+ known games. I decided to give it a go. I was surprised about how good it actually was. The pirate 
+ battles were a bit hard at first but it does get easier as you progress through the game. The actual 
+ game is about barter. First you check what is low in your town, and you then find a town rich in 
+ that area. Of course you need to trade something back so find out what they are low on that you 
+ are high on. The over all result is a game that has many things to do and many people to interact 
+ with like the priest, the unemployed crew members and the guys who fix and build boats. 
+::::::
+
+::::::
+UserName: peeperoni
+Rating: 7.2
+Date: Mar 9, 2006 10:58 am PT
+Review:  This is one of my all time favorite strategy games. I love business and strategy sims. I love how 
+ the game play is very deep, not superficial. Most of what you do will affect your direction in 
+ the game. You could try to be an honorable gentleman or a wicked pirate. 
+  
+  I didn't quite like how it was "illegal" to buy swords. Oh please, you need swords in the game, 
+ why make it so hard to find them and get them? Captains are too hard to find too. I found out how 
+ to get swords good, BOARD PIRATE SHIPS AND TAKE IT FROM THEM. 
+  
+  If you love RTS and business hybrid games, I recommend this. this is the best one I have found 
+ yet. 
+  
+  GET PATRICIAN THREE!!!!! IT IS A LOT BETTER.
+  
+  I had to stop playing because my business got so huge I could no longer manage it. All of my ships 
+ need me to manually repair them. In patrician III, they repair themselves (or so I understand from 
+ my friends) . It became a boring fix them up. I can't just let these ships do their own thing. 
+::::::
+
+::::::
+UserName: Pug_of_Crydee
+Rating: 8.8
+Date: Mar 27, 2003 3:03 pm PT
+Review:  I just finished playing through Railroad Tycoon 2 (again...) which is an excellent game and I was 
+ looking for more of that kind of game. Well, I found it in Patrician 2. Although the graphics and 
+ sound aren't the best around, it takes only moments to be immersed in the game. I'm not done yet 
+ but so far the campaign are great. Even though the game might be a bit overwhelming for any rookies 
+ for strategy games of this type, the simple gameplay makes for a lower learning curve than other 
+ games. The only complaint: the translation is a bit confusing sometimes. The game is well balanced 
+ and the missions are not too easy, which I'm grateful for. Great game, any fan of strategy games 
+ should give it a try. 
+::::::
+
+-------------------------------------------------

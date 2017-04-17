@@ -1,0 +1,391 @@
+-------------------------------------------------
+:::Game Name::: Dark Reign: The Future of War
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/darkreign/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct  2, 1997
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 9.2
+Critic Score: 8.4, 2 Review (s)
+User Score: 8.6, 460 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Activision
+Developer: Auran
+Genre: Sci-Fi Real-Time Strategy
+Date:     Aug 31, 1997
+
+-------------------------------------------------
+:::Review:::
+One of the most impressive games released this year in any genre. 
+
+ Real-time strategy game designers face a difficult task: If their game stays too closely within 
+ the path laid down by Red Alert and Warcraft II, it is sure to be criticized for being derivative. 
+ On the other hand, if they tinker with the formulas of those classic games, they may find themselves 
+ outside the familiar and comfortable bounds of the genre, and thus, without an audience. The only 
+ solution - one which is very rarely achieved - is to create a game that is instantly accessible 
+ to real-time strategy gamers, but which at the same time offers new and significant innovations 
+ that take the experience beyond its previous limits and into the realm of the new and unexpected. 
+
+ Dark Reign is such a game. At first glance (and at first play) Dark Reign appears to be little more 
+ than a Red Alert clone - experienced players will certainly have a sense of deja vu at their first 
+ encounter with the game's visual presentation, sound effects, and single-player missions. However, 
+ two or three hours of play (or completion of the advanced online tutorials) reveal a real-time 
+ strategy game that is, in many respects, altogether different from its predecessors.   
+
+ The reason that Dark Reign is such a success is twofold: First, it fixes almost everything that 
+ was wrong with its most obvious influence, Red Alert. Take unit production, for example. Where 
+ Red Alert required you to manually select each unit to be produced, Dark Reign lets you create 
+ a production queue for as many units as you wish. Not only that, it also allows you to set an exit 
+ point for units produced by a particular building. The result is that you can create and group 
+ entire divisions of troops anywhere on the map with just a few clicks of the mouse - freeing your 
+ mind to concentrate on more important matters. Another example: One of the most frustrating aspects 
+ of Red Alert was the tendency of units to be drawn away from their selected position by enemy attacks. 
+ In Dark Reign, you can instruct your units to attack without moving. This greatly enhances the 
+ effectiveness of defensive unit placement, as well as the offensive deployment of artillery units. 
+ These types of subtle improvements, which are the obvious result of long and careful thought about 
+ what did and didn't work in earlier real-time strategy games, permeate Dark Reign, and make it 
+ a true pleasure to play.   
+
+ But Dark Reign does more than overcome the shortcomings of earlier titles. It also introduces major 
+ new strategic options that greatly enhance the depth of the gaming experience. The two most important 
+ innovations are the inclusion of a very sophisticated waypoint system, which lets you easily dictate 
+ the paths which your troops will follow, and an AI control panel, which allows you to set general 
+ parameters for troop behavior and responses to specific situations.   
+
+ The waypoint system is easy to use and remarkably flexible, with application to a wide variety of 
+ offensive, defensive, and reconnaissance initiatives. You can specify an attack path to maximize 
+ stealth and efficiency, create elaborate patrol schemes to protect key areas and root out intruders, 
+ or send scouts to search just those areas of the map that are still uncovered. You can even save 
+ paths to allow quick and easy assignment of new troops to an existing set of orders. After a short 
+ while using the waypoint system, you will wonder how real-time strategy games ever got along without 
+ it.  
+
+ The AI control panel is equally impressive. It allows you to tell your troops to guard a specific 
+ location, harass enemy troops using gun-and-run tactics, scout out hidden areas of the map, or 
+ to seek "kill or be killed" encounters with the enemy. Even better, you can dictate to your troops 
+ how aggressively to pursue enemy units they encounter and how much damage to take before returning 
+ to a repair facility.   
+
+ Both the waypoint system and AI panel are powerful when used alone, but when used in conjunction 
+ with one another, they allow you to execute extremely complex strategic maneuvers. For example, 
+ you could send a unit group along a path into the enemy base, then give them orders to search and 
+ destroy and to retreat to a repair facility after taking minimal damage. They will reach the base, 
+ spread out, and then quickly retreat, drawing out the enemy troops in the process. By careful placement 
+ of the repair facility to which they are returning (buildings can be placed anywhere on the map) , 
+ the pursuing enemies could be drawn directly into an ambush, carried out by a second group located 
+ in a highly favorable position, with orders not to move from it. Meanwhile, a third formation could 
+ be sent along a set path into the heart of the weakly defended enemy base, with their end point 
+ near a critical installation (such as a power plant) , which they can then attack, crippling the 
+ base.   
+
+ This level of strategic depth would be enough in and of itself to recommend Dark Reign. But there 
+ is much more to consider. The unit design in particular is worth noting, as it offers exceptional 
+ variety and balance while at the same time maintaining a clear (and consistent) distinction between 
+ the two sides. The computer AI is quite good, attacking in swarms, retreating when outnumbered 
+ or outgunned, and brutally impervious to basic tank-rush tactics. Dark Reign's dual resource management 
+ (one earns money, the other speeds production) adds yet another degree of depth to the game.   
+ 
+
+ The only components that are somewhat disappointing are Dark Reign's line-of-sight and 3D terrain 
+ features. While both work to a degree, neither has quite the impact on gameplay that one would 
+ expect. While the slope (as well as the composition) of the terrain does clearly affect unit movement 
+ speed, it rarely matters that one takes the "high" ground - range and accuracy of weapons are negligibly 
+ affected (if at all) , and the increase in visual range is minor. And while the line-of-sight feature 
+ does offer a new twist on enemy encounters, it's more of an annoyance than anything else.  
+
+ All this may sound like a lot to take in, and it is. Fortunately, Dark Reign includes an excellent 
+ series of tutorials that gently introduce you to the game's many unique facets. It's also comforting 
+ to know that it is not necessary to understand all, or even most, of Dark Reign's more subtle features 
+ in the early missions - experienced gamers will be able to start playing without even reading the 
+ manual. The game presents the player with a smooth and steady learning curve, and by the later 
+ missions, you will be well equipped to take full advantage of all of the strategic options at your 
+ disposal.   
+
+ Even once you've mastered the solo missions, you'll still get plenty more out of the game. The multiplayer 
+ version, which supports up to eight players on a LAN, four players over the Internet, and two players 
+ using a direct modem connection, is extremely easy to use. Just click on multiplayer, and within 
+ moments you'll be logged onto the Dark Reign Server, where matches are continually launched.  
+
+ 
+ Another of Dark Reign's special features is its bundled construction kit. With it, you can (relatively) 
+ easily construct your own levels and maps, complete with any terrain, buildings, or features you 
+ want, as well as set unit distribution, behavior, and stats. While most players will find the bundled 
+ multiplayer maps (there are some 20 in all, including maps designed specifically for various numbers 
+ of players) to be more than enough, the construction kit ensures that new maps will be continually 
+ available on the Web.  
+
+ There is much more that could be said about Dark Reign, but potential buyers of the game have surely 
+ heard enough already. This is one of the best real-time strategy games ever (Total Annihilation 
+ and the upcoming Starcraft are the two potential contemporary competitors) and one of the most 
+ impressive games released this year in any genre. We'll be playing it for many months to come. 
+    
+-------------------------------------------------
+:::User Reviews::: (7 Reviews)
+::::::
+UserName: ZanarkandTidus
+Rating: 9
+Date: Sep 13, 2008 5:04 am PT
+Review:  STORY
+  Dark Reign is about how the world has become over populated and extremely pollued, the life expectancy 
+ for humans who lived on the outiside (not in arcologies with filtered air) was about 30 years of 
+ age due to the heavily polluted air, poverty and the fact the world had become so dangerous to the 
+ point gangs had more control of the world than the police.
+  
+  The rich people lived in giant arcologies (giant structures that provided them with filtered air, and 
+ could grow fresh food and clean water) and they would remain in arcologies for years without going 
+ outside, where they were safe and had everything they needed to survive.
+  
+  The story is told in a bible form, and it explains about great disasters that happened to the world, such 
+ as how mankind tried to dump a huge quantity of toxic waste into space but it crashed back to earth 
+ in killing millions of people, and you learn about the deterioration of Earth and the living conditions 
+ of the people and gap between rich and poor.
+  
+  Eventually to deal with over crowded prisons, they gave prisoners the option to board a spaceship 
+ to leave Earth, so they no longer had to remain in prison, as long as they never returned back to 
+ Earth, but the spaceship only had a limited amount of air, food, water so it was basically suicide 
+ unless they found another inhabitable planet to live on, which they did, called Togra, which the former 
+ prisoners colonized.
+  
+  Togra had plenty of fresh water, and land to farm and the ex prisoners eventually established a 
+ society with law and order, everyone had plenty of food and shelter and enjoyed life on Togra which 
+ because it had been untouched by humans had beautiful tropical forests.
+  
+  The government which controlled Earth (the JDA) found out about this and claimed Togra in the name 
+ of Earth, and of course the ex prisoners weren't going to give up Togra, their new found paradise 
+ without a fight and that's how the war between the ex prisoners (Freedom Guard) and JDA (imperialists) began.
+ 
+  
+  GAMEPLAY
+  The building menu is simple, you select structures or units. You only need to collect 1 resource 
+ which is water (water has become the most precious resource in the galaxy) Base defense is very 
+ important in Dark Reign, as the CPU will constantly harass your base trying to slow you down, so 
+ you will need to build adequate defensive structures.
+  
+  But in Dark Reign, whoever controls the water supplies wins, you will need to capture other water 
+ springs to increase your cashflow enough so you can build a big enough force quickly enough to 
+ overwhelm the CPU's base.
+  
+  The CPU is very good at wearing you down if you can't capture enough water.
+  
+  As you would 
+ expect the Freedom Guard (ex prisoners) are a little disadvantaged when it comes to technology, and 
+ the JDA (Imperium Guard) have some very unfair advantages, such as the Rift Creator (which causes 
+ a distortion in space and will destroy many buildings instantly) and their vehicles start off as 
+ being much more powerful. Thankfully you can switch back and forth between both sides (there is no 
+ Freedom Guard or Imperium Guard campaign but 1 big campaign where you can switch between both sides 
+ and as long as you win the mission the story continues)
+  
+  Some missions are almost unwinnable, due to the Imperium Guards Rift Creator, or the Freedom Guard 
+ sending huge numbers of forces against you, it's like they wanted to show battles both sides won 
+ and lost.
+  
+  Eventually the Freedom Guard steal Imperium technology and uses it to build vehicles that can match 
+ the Imperium Guard and defensive structures that can give the Freedom Guard's bases a chance of 
+ suriviving.
+  
+  The units from both sides start off as basic infantry and small or light tank units, but eventually 
+ more bigger tanks with more firepower can be built (but you have to wait a little longer to get 
+ them with the Freedom Guard) and eventually aircraft can be used.
+  
+  To match the Imperium Guard's Rift Creator the Freedom Guard eventually develop a shockwave creator, which 
+ sends a giant shock wave across land and destroys any buildings or units in it's path.
+  
+  GRAPHICS
+  The graphics are very colorful for an RTS game. They look almost cartoonish, the structures 
+ and units look like they almost come out of a comic, but it has a nice, light hearted look.
+  The Freedom Guard units tend to dress more colorful, while the Imperium Guard dress in black and 
+ like robots and their vehicles have a cold black futuristic look.
+  
+  The tropical rainforest environments are very colorful, with beautiful blue water, bright brown soil 
+ and tropical vegetation, and you can even see rain drops hit the water (again it looks like it's 
+ from a comic but it has a great effect!) And the desert and snowy locations add variety, and there 
+ is civilian zones with futuristic structures and agriculture, and the cleanliness and sophistication 
+ of the Togran society will make you think they really deserve independance from Earth since Earth 
+ ruined their own planet themselves.
+  
+  SOUND
+  Each Freedom Guard unit has a unique voice and talk enjoyable phrases. While the Imperium Guard 
+ all sound like robots which suits their cold, evil ideology.
+  Each vehicle has a very unique weapon fire sound, letting you know they are using different technology 
+ or energy source.
+  The music has a gentle but chilling feeling to suit an atmosphere of a war torn future and lots 
+ of suffering.
+  
+  OVERALL
+  One of the best RTS games ever made, it's story is very deep but unfortunately will be overlooked 
+ next to RTS games with fancy 3D graphics.
+  
+  
+::::::
+
+::::::
+UserName: apolloluke
+Rating: 10
+Date: Apr 23, 2007 4:43 pm PT
+Review:  This game rules. The single player, total trash. The multi-player: The best. The simplicity of 
+ the map creator makes this game a timeless classic. Even now people still play this game online 
+ in 640x480 resolution. Thats how good it is. It would have been great if Dark Reign 2 wasn't so 
+ horrible, and had served as nothing more then a 3D upgrade to what was a great game. Ive played 
+ all the RTS games out there, Starcraft, Warcraft 1,2 and 3 and the C&amp; C series but nothing compares 
+ to this game.
+  
+  If you don't believe me download it from http://www. darkreign. us 
+::::::
+
+::::::
+UserName: petejams
+Rating: 9.1
+Date: Mar 17, 2007 6:30 pm PT
+Review:  This was a fantastic game, it went toe to toe with Total Annihilation and had fantastic multiplayer 
+ and a great story and AI. Well worth playing and if you can engage in multiplayer you will have 
+ a great time as it has some great maps. You can even set waypoints for your repair units as well 
+ as your rally units. This game was ahead of its time. Find it in the bargain bin and enjoy it. 
+ Auran needs to come back and make a sequel to this game. engage in multiplayer you will have a 
+ great time as it has some great maps. You can even set waypoints for your repair units as well 
+ as your rally units. This game was ahead of its time. Find it in the bargain bin and enjoy it. 
+ Auran needs to come back and make a sequel to this game. 
+::::::
+
+::::::
+UserName: razor_bblade
+Rating: 5.8
+Date: Apr 16, 2006 7:03 am PT
+Review:  Usually i like RTS games but this one didnt really appeal to me. I got it dead cheap and couldnt 
+ be botherd playing it after i had done about 3 levels. I dont even get the story and the value 
+ of the game is poor. The games graphics are good though for an old game and the sound is pretty 
+ good. This however dosent make the game good you should really get a different game. I think that 
+ the best part of this game are the cut-scenes which are pretty good. Overall you shouldnt buy this 
+ game but if you can get it for cheap you may as well check it out. 
+::::::
+
+::::::
+UserName: regulesblade
+Rating: 8
+Date: Feb 15, 2006 2:08 pm PT
+Review:  Dark Reign falls into the standard computer based strategy game where you are in command of an 
+ army where you have to construct your own army after all the basic base necessities have been established. 
+ With a large army in your hands, it is then your job to wreck havoc on the enemy forces. Dark Reign 
+ is just this type of game as it plays out in many ways similar to the command and conquer series 
+ created by Westwood, but it offers a much better control aspect to all the units where it is much 
+ easier on the player when it comes to issuing commands to forces. Compared to modern day games 
+ the graphics may not be as good, but still the gameplay of the game is quite solid, I would definately 
+ recommend this game for any hard core strategy gamers who are more interested in the gameplay of 
+ the game itself instead of just flashy graphics that do nothing but just awe players. 
+::::::
+
+::::::
+UserName: langrisser2005
+Rating: 8.4
+Date: Feb 5, 2006 12:56 am PT
+Review:  ~ Dark Reign is a well put together game with exciting challenging missions and fast paced action 
+ that gives a lot of fun.
+  
+  I found this game cheap a year or two after its release. I liked the name of it, Dark Reign, Future 
+ of War, seemed like a decent game and after playing through I was glad have gotten it. Actually 
+ this was my first RTS game I played so it was a new experience for me which by now is not the case.
+ 
+  
+  At the main menu I decided I defiantly needed a tutorial which was very well made. Easy to work 
+ with and clear on instructions, I had what I needed to know in under an hour. From then comes the 
+ main story. 
+  
+  The game takes place in the distant future, where a crippled scout ship encounters a probe launched 
+ by Togra, the now deceased leader of the Togran civilization just before his death. As one of the 
+ last remaining Tograns, the player is presented with an opportunity to go back through time and 
+ prevent the death of the beloved Togran leader. However, he must first demonstrate his worth by 
+ playing out the battles between the Imperium and Freedom Guard forces that ultimately led to the 
+ decimation of the Togra's home planet. As these battles are played out, from either the side of 
+ the Imperium or the Freedom Guard the story is slowly revealed.
+  
+  There are 12 missions that will be carried out by the chosen side before the final confrontation 
+ for destruction of the Togra's home planet in the final battle.
+  
+  Playing Dark Reign is quite basic to manage. The player constructs buildings such as headquarters 
+ and training facilities and then produces offensive units such as infantry or tanks to attack enemy 
+ bases. Units and buildings have an associated credit cost that must be paid to build them. In the 
+ game, additional credits are earned by collecting shipments of water from fresh springs. What is 
+ also great is the amount of units you can create at a time. You can queue a single unit up to 11 
+ which is much helped when dealing with harder missions later on. Also the speed of construction 
+ of buildings and units besides the super weapons (which should take time considering the amount 
+ of damage they do) don't take that long which makes for a fast paced game.
+  
+  In the single player missions a number of objectives may be given to the player to complete before 
+ the mission is successfully completed, such as escorting a special unit or protect a particular 
+ building, in multiplayer games the only objective is to destroy all the enemies units and buildings. 
+ You can have up to 8 players on many different terrain maps by LAN, internet or direct modem connection 
+ which Ive played before with some friends. It was very simple and easy to connect with each other 
+ and had plenty of great allied battles against the computer.
+  
+  The game also comes with a construction kit which you can create maps and objectives on your own. 
+ It is very easy to use (one of the easiest battle editor's I worked with) which should consume 
+ you still after completing the game.
+  
+  Gameplay comes with many different units and buildings which can be upgraded for more superior 
+ ones, as well as strategic options to use such as the waypoint formation which is an excellent 
+ method for units controlling themselves and make orders given depending on your choices. Such as 
+ guarding a specific area or patrolling it, if they encounter an enemy force they will chase them 
+ for a certain way then return to their position or setup tactical movements points for a unit, 
+ or units to follow. As well as single player mode, multiplayer is available which I heard there 
+ are huge clans playing which I never knew about so this game isnt a loner. Also a instant action 
+ mode where you can have a free-play mode against the computer up to 8 players and also lets you 
+ play as the Togran side which only available else where in the final mission. You can also use 
+ the construction kit for some map creating which is fun and easy.
+  
+  Graphics are quite good in the game. They are quite good, for its time, though it could have been 
+ slightly better, though it shouldn't disturb you from the game since you won't be concentrating 
+ looking at trees and more with action. Some look better than others but overall it's good. The 
+ movie clips are very good showing the world of Earth and the battles of each side.
+  
+  Sound is not bad as well. At a lot of the time though you'll be hearing weapon fire from intense 
+ battles which may or may not get annoying to listen to after several hours of play. I particularly 
+ do enjoy it however music is included in the missions which spreads everything out. Music is decent; 
+ it's a good fit for the maps and well as the voices of units. 
+  
+  For Value it's very good. Though 12 missions may sound short, each are challenging and can take, 
+ (especially the final mission) hours to complete. Two sides to play with, each with different units 
+ and buildings. In instant action you can try out anything you didn't in the single player mode. 
+ Multiplayer is very fun to play with one, two or a group of people. Finally the Construction Kit, 
+ a nice add-on that should consume you for hours.
+  
+  In the end Dark Reign is a fun, fast paced, challenging game that should prove worthy for people 
+ who like the genre. Although at this point of time there are many new great games. So if you are 
+ one who has an old computer looking for a cool game to play Dark Reign is one for you. At today's 
+ age people may leave this game behind but if see it in a cheap bargain pile somewhere, you should 
+ pick it up, it's a fun game to play.
+  
+::::::
+
+::::::
+UserName: Rattlesnake_8
+Rating: 7.4
+Date: Oct 20, 2004 1:08 pm PT
+Review:  I tried to get into Dark Reign. I really wanted to like the game, but everything from the units 
+ and buildings down to the sounds, map and interface just didn't draw me in. Instead it pushed me 
+ away.
+  
+  The game seemed to be "build up a force as soon as possible, stop enemy attack, launch attack and 
+ win". I found the game actually to hard. The enemy seemed to attack to early and with a force so 
+ large it quickly overwhelmed your base. In other words, you have no chance to even hold them off, 
+ let alone counter attack and maybe win.
+  
+  There were other RTS titles out around the same time, Total Annihilation for example. Now out of 
+ TA or Dark Reign, i think most people would agree that TA wins hands down. Maybe thats the reason 
+ i couldn't get into Dark Reign, i was to busy playing a better game. 
+  
+  There really isn't much point in playing the game now though, Dark Reign 2 was out a while ago 
+ too. The sequel was a flop, although i didn't think it was that bad. I preferred Dark Reign 2 over 
+ the original. 
+  
+  I guess it's one of those games you either love or hate, unfortunitly i was the latter and didn't 
+ like it. 
+::::::
+
+-------------------------------------------------

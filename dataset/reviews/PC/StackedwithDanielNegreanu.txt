@@ -1,0 +1,373 @@
+-------------------------------------------------
+:::Game Name::: Stacked with Daniel Negreanu
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/puzzle/stacked/review.html
+-------------------------------------------------
+:::The Good:::
+ Challenging poker AI that learns based on your play style.
+ Some generally good, solid advice from poker pro Daniel Negreanu.
+ A long career mode with lots of tournaments.
+ Online play.
+-------------------------------------------------
+:::The Bad:::
+ The AI can occasionally be exploited.
+ Negreanu's tips are periodically way off base.
+ No poker variants beyond Texas hold 'em.
+ Presentation is lackluster.
+-------------------------------------------------
+:::Date::: Jun  2, 2006
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.7
+Critic Score: 5.5, 17 Review (s)
+User Score: 7.3, 107 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Myelin Media
+Developer: 5000ft
+Genre: Casino
+Date:     May 30, 2006 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Stacked presents itself as a typical game of poker, but thanks to a pretty intriguing artificial 
+ intelligence system, it plays things much smarter than your average poker title. 
+
+  For the average person, it would be pretty easy to dismiss the vast majority of console and PC 
+ poker games available at retail price as hackneyed cash-ins on a trend that, as of now, is kind 
+ of falling by the wayside. For serious poker enthusiasts, it's even easier to dismiss most of these 
+ games, since they all tend to suffer from the same silly issues. The presentation always sucks, 
+ the opponent artificial intelligence is frequently exploitable, the list of features is never deep 
+ enough, and so on and so forth. Stacked with Daniel Negreanu is the first poker title from developer 
+ 5000 Ft., and a quickly hacked together poker game this is not. Stacked takes a laserlike focus 
+ to the game of Texas hold 'em, exclusively building its multifaceted artificial-intelligence routines 
+ around the workings of that specific variation of the game and then building a video game around 
+ it that functions pretty well as a learning tool for would-be hold 'em players. By no means is 
+ the system perfect, but compared with the dregs of what else is out there, Stacked stands out as 
+ the most engaging and smartest game of poker currently available.  
+
+          Stacked's AI knows when you've played bad or good, so be good for goodness sake!     
+
+ 
+  The basic premise for Stacked is that the game's artificial-intelligence model is built off of 
+ a system called Poki. It's some kind of superscientific computer system that doesn't just react 
+ to your play style using a few different canned reactions -- it's actually built to learn what you 
+ do as you play and react based on what it learns from you. For example, if you throw in a bet with 
+ nothing, the AI comes back over the top with a big raise, and you bow out, it'll learn that you're 
+ not necessarily the type to throw down when you don't have a made hand. Conversely, if you play 
+ things a little bit recklessly, throwing out big bets on lousy hands to try and make a bluff, the 
+ AI will start to challenge you more and more to the point where it simply won't buy your load of 
+ malarkey.  
+
+  There are purportedly eight different AI bots in the game, each of which plays a little bit differently, 
+ though you'll have a hard time discerning all but the most extreme personalities. There's always 
+ at least one guy at the table who plays superaggressively and one who plays a Dan Harrington-esque 
+ tight game. Everyone else is somewhere in between and tough to pick apart. Though Stacked includes 
+ both cash game and tournament-style play, the AI seems built more specifically for tournament games. 
+ Low-stakes cash games with small blinds yield the type of cautious play seen more often in high-stakes 
+ tournaments with frequently increasing blinds. Of course, that also means that the AI plays those 
+ tournaments superrealistically, but if you're the type that just wants to play a leisurely cash 
+ game for little money, you might be a little flustered by the AI's frequent tendency to fold out 
+ before the flop even comes down. There are also some ways to exploit the AI's learning tendencies 
+ by basically playing like a complete jerk for long stretches, going all-in constantly, raising 
+ like a lunatic, and so on. But even then, the AI will only react improperly if you're magically 
+ successful at this methodology. If you start getting called on your nonsense and lose frequently, 
+ no exploits present themselves. So if you play the game like your chips actually matter, you won't 
+ run into any such troubles.  
+
+  All told, despite a few quirks, Stacked's AI is the best currently available in a console or PC 
+ poker game. It plays a smart and varied game that can be pretty challenging if your game isn't 
+ tight. Fortunately, after enough time spent with the game, it will almost certainly teach you a 
+ thing or two, both through its basic gameplay and through the helpful hints provided by cover boy 
+ Daniel Negreanu. Negreanu's presence is felt throughout much of the game. There's a poker-school 
+ feature with pretaped educational segments hosted by Negreanu, as well as a number of in-game hints 
+ that advise you on what you ought to do for a hand. For the most part, this advice is great. Negreanu 
+ gets fairly detailed on what kinds of actions you should take. For instance, if you get a small 
+ pair dealt down, he'll tell you to take a stab at the pot with a bet, without building you up too 
+ high on your hand. After the flop, if someone else comes over the top with a sizable bet, he'll 
+ advise you differently depending on whether you hit the flop or missed it entirely.  
+
+  The advice doesn't get terribly granular, in that he doesn't go out of his way to explain why you 
+ should take a specific action, but for the most part he's usually right -- emphasis on  usually . 
+ There are moments where he'll inexplicably tell you to go all in with nothing but rags at totally 
+ random times, and others still where he'll fail to recognize someone trying to push you all in 
+ and simply tell you to call on the hope that you'll get something on the turn or the river. But 
+ these incidents aren't necessarily the norm when it comes to getting advice from the pro, and usually 
+ it's good information.  
+
+  The other ancillary elements of the game are mostly pretty good, if a bit slow and clunky in spots. 
+ The general interface is a good one, with a one-button pop-up to show you your hole cards at any 
+ time and a quickly accessible bar menu that lets you access Negreanu's tips, as well as display 
+ a couple of different emotional reactions when you want to. These smiles and frowns are basically 
+ an extremely rudimentary tell system that really has next to no impact on the game, and they're 
+ just not worth using. One nice feature the game includes is the ability to see a percentage meter 
+ that measures your hand strength against the general card odds and the number of people still in 
+ the hand. It's not like it tells you what everybody else has, or anything, but it gives you a sense 
+ of where you likely stand in the hand.  
+
+  Getting through a hand that you've folded out of quickly simply involves pressing a button to quickplay 
+ through it (although you might miss out on some key intel by doing this) . However, as a whole, 
+ Stacked is a very slowly paced game. Tournaments can sometimes take in upward of a couple of hours 
+ to complete, which is a little taxing given the lack of any real background music or useful banter 
+ to keep you entertained while you're sitting around. The player dialogue only pops up in short 
+ bursts at random intervals, and it's all pretty mindless, terrible stuff. The Xbox version doesn't 
+ even support custom soundtracks, making the audio experience largely worthless and the game itself 
+ a little duller than it would be otherwise.  
+
+  Stacked's tight focus on making a realistic offline game of Texas hold 'em is entirely admirable 
+ and mostly successful. However, those who have come to expect much in the way of features in their 
+ poker games might be a little disappointed with Stacked's package. The requisite career mode and 
+ online play are available, with the career spanning a whole host of tournaments and cash games 
+ against no-name players and a few licensed pros, and the online play includes similar types of 
+ games to be played against real-life opponents, as well as a number of hosted tournaments. The 
+ career mode and online play are sure to keep players busy for a good long while, but beyond them, 
+ there's just not much here in the way of variety. The character-customization element of the game 
+ is pretty underwhelming, only letting you change the basic hairstyles and clothing-color schemes 
+ of a little over a dozen different character models. There are also no variations of poker available 
+ apart from Texas hold 'em. Yes, it  is  the Cadillac of poker, but even having a few draw or stud 
+ variants would have been nice. Perhaps Poki hasn't learned those games yet.  
+
+          Negreanu's influence is stamped all over Stacked, and that stamp helps make Stacked a better 
+ than average learning tool.     
+
+  Graphically, Stacked isn't much better or worse than any of the other poker games on the market. 
+ The character models found in the game are a little more detailed than you tend to find in poker 
+ titles, but the animation is still kind of stiff. There also aren't an awful lot of casinos or 
+ different environments to play in, so you tend to see a lot of the same poker rooms over and over, 
+ and they're not really that great looking. Worst of all, the chip stacks are awful looking. You'd 
+ think a game called Stacked would at least get the chip stacks right, wouldn't you? The game has 
+ a couple of available camera angles, but the frame rate does occasionally bog down, especially 
+ on the PlayStation 2 version of the game. The Xbox version looks slightly better than the PS2 one, 
+ and the PC version predictably looks the best. It's also the easiest to play, as the interface 
+ seems a little more geared toward mouse-and-keyboard controls than a controller setup. Not to mention 
+ that the game defaults to a windowed mode method of play; this actually works best for this type 
+ of game.  
+
+  What it ultimately comes down to with Stacked is just how much you want to play a realistic, offline 
+ game of Texas hold 'em. There's certainly no shortage of ways to play this game for free on the 
+ internet, but playing against random online players doesn't always provide you with much tangible 
+ feedback on how your game stacks up in a real cash game or tournament environment. Admittedly, 
+ Stacked's AI system doesn't always pull this off either, and there are holes in Stacked's game, 
+ but far fewer than most other poker titles, and it's the best measuring stick for your personal 
+ poker skills available in the realm of entertainment software.     
+-------------------------------------------------
+:::User Reviews::: (7 Reviews)
+::::::
+UserName: maak27
+Rating: 1.5
+Date: Aug 11, 2006 10:18 pm PT
+Review:  This game is a shot of lightning in the a hole. You sit there for 10 hands getting dealt garbage 
+ and then you pull a 3 of a kind, just to be bwaten by a full house. This scenario will play itself 
+ out over and over again. I tortured myself for 4 hours before finally giving up. I am a pretty 
+ good poker player and found myself getting beat consistently every time I played. The only redeeming 
+ quality to this game is that some of the chicks in here are really hot. Bottom line, save your 
+ money and get a pokerstars. net account for free. 
+::::::
+
+::::::
+UserName: Lauryn2000
+Rating: 7.7
+Date: Jun 26, 2006 3:49 am PT
+Review:  I have probably every poker game out there, searching
+  for a good video game, that's not "cheesy" or "hokey".
+  
+  My search has ended, this has to be 
+ one of the better
+  poker video games on the market at this time.
+  
+  Daniel Negreanu stays true to the poker community
+  with his first entry in the video game market.
+ 
+  
+  The gameplay is as close to "real" poker you can get.
+  The graphics are way more superior than his counterparts.
+  The A. I. way more smarter than you 
+ would expect, they will
+  figure out if your an agressive, timid or safe poker player.
+  
+  The online play is worth it and stacks up to Absolute Poker
+  and Party Poker as far as gameplay, etc. There 
+ isn't too
+  many gamers online at the moment but hopefully by
+  word of mouth about this game. More players will purchase
+  this PC version and come online. 
+::::::
+
+::::::
+UserName: politude
+Rating: 7.7
+Date: Jun 9, 2006 1:33 pm PT
+Review:  I have been playing stacked for a few days and i wanted to tell the community what this game is 
+ all about.
+  
+  Gameplay:
+  A fairly easy game to learn and play. Although kinks may have to be worked out I found that playing 
+ this at home on my pc is a very good thing. I have played for 3 days and already i will never play 
+ poker the same way again. The difficulty keeps you on your toes and the learn with daniel negreanu 
+ feature is great for new players. The game has online capabilities that if they work they can propell 
+ thi game to the next level. I am honestly hooked on this game and i hope you will be too.
+  Gameplay score: 8
+  
+  Graphics:
+  Im going to blatendly say it the graphics are not that good. 
+ The fact that the chip amounts just skip around ruins the atmosphere from time to time. It may 
+ just be my computer but the player models look just a little bit like a games traight out of 2002. 
+ The feature that lets you be first person need some work because when you lets say check the camera 
+ goes back to your face. There isnt as much costumization as we have seen in the videos and that 
+ kinda ruins the atmosphere of the game.
+  Graphics:6
+  
+  Sound: 
+  The music... well other than the menus there isn't any. You cant add music into the game and that 
+ ruins it for me. I usually listen to music when i play on the internet so why not here?
+  Sound:3
+  
+  Value: 
+  For 30 bucks you get the poki engine which helps your game a lot. Whereas 
+ you could but a poker trainer for 130$ so this is a very great value.
+  Value:9
+  
+  I am enjoying this game and I reccoment that you buy it for 30$... its a bargain.
+  
+::::::
+
+::::::
+UserName: Offspring153
+Rating: 1.9
+Date: Jun 7, 2006 5:16 am PT
+Review:  The AI in the NL is pretty impressive, but as far as the it goes for the limit games, it is almost 
+ laughable. Ex, in a pot 2 limped, 1 raised, another re-raised, and i re-raised, 2 more smooth called 
+ 4 bets pre-flop, 1st limper raised, called around to me, i make it 6 bets, and called around.
+ 
+  
+  The winner of the hand called another 4 bet on the flop with nothing, a 3 bet on the turn with 
+ a gut-shot straight draw, and came out betting on the river when it hit.
+  
+  I've never seen a rookie play like that let alone a pro, and i understand that there are different 
+ levels in terms of aggressiveness at the table, but if anyone played like that in a casino, they 
+ would get laughed out of the place.
+  
+  It seems once the AI decides to play a hand in limit it does so to the bitter end, regardless of 
+ cost, pot odds, or down right common sense.
+  
+  For a game I have looked forward to for a long time, I think its a waste of time and money, if 
+ i could sell it for $5 I would think i was getting a deal, don't waste you money.
+  
+  My 2 cents 
+::::::
+
+::::::
+UserName: ADG_
+Rating: 7
+Date: Jun 6, 2006 9:41 am PT
+Review:  ... though with the lack of real competition, that doesn't make this an awsome game
+  
+  The good:
+  
+  - This is the poker game with the best atmosphere I've played (in graphics and 
+ sound) , but there's enough room to make it better
+  - The AI is better than in most poker games
+  - The 1st person view gives you a better overview 
+ on the game, than the standard "fixed camera" in most poker games
+  - The controls for betting/folding/etc are easy (just use the up/down and enter keys)
+  
+  The 
+ bad:
+  - When in normal camera view, it can become difficult to keep track on what goes on, as the camera 
+ keeps jumping around
+  - When in 1st person view there's some bugs: Now and then the camera looks away from the table 
+ (happens each 10 minutes... goes back to normal shortly after though) . Moving the camera in 1st 
+ person view is hell (you have to hold right mouse button and move the mouse to do so... unfortunatly 
+ it almost never works as intended)
+  - The interface is not userfriendly for most parts (Can't remember the last time I saw a menu that 
+ badly done, and when playing you can't see all the interesting info all the time)
+  - It resets your ingame-visual settings each time you start a new game (talking about switching 
+ back to normal view and opens up the chat-box)
+  - They only have Texas Hold'em
+  
+  I haven't played online yet, so I can't comment on that 
+::::::
+
+::::::
+UserName: Stawar1126
+Rating: 2.5
+Date: Jun 4, 2006 8:35 pm PT
+Review:  There are certain things that make the game of poker intriguing and entertaining. The most obvious 
+ is the gambling aspect. Since in a video game version of poker you can't gamble real money, the 
+ game needs to key in on the other aspects that would make the game fun. I'm referring to the awesome 
+ Las Vegas and European casinos, the colorful characters who play the game, and the adrenaline rush 
+ that comes with outsmarting your opponent and taking down a huge pot.
+  
+  It's surprising that a commercial game can't pick up on a single one of these attributes. The environments 
+ are bland are there are only 3 casinos to choose from in the game. I've seen skins for online casinos 
+ that are more vibrant and exciting.
+  
+  The interface is horrid and clunky. There doesn't seem to be a way to input the amount you actually 
+ want to bet, so you're reduced to sliding through pre-set amounts. There's some kind of smile/frown 
+ implementation to give off certain intentional tells to fake out your opponent (I guess?) , but 
+ it just doesn't seem to work and is mainly for laughs. The most fun I got out of this game was 
+ smiling and frowning repeatedly until I was called out on my another one of the players thining 
+ he figured out my tell ("You obviously don't have the cards. Your lips move too much") .
+  
+  The characters and character models are downright annoying and irritating in how they've tried 
+ to ghetto-ize the game. Three quarters of the characters look like former thugs who are too cool 
+ to be out on the streets and therefore must resort to a life of playing poker. Some of the fat 
+ and balding models are funny and more appropriate for a game like this, but do most of the people 
+ have to look like rejects from a Jay-Z video?
+  
+  Not only do they look pretty bad, but the voice and animation is worse. It really doesn't seem 
+ like 5000ft put any effort into jazzing this game up. The voices are mainly monotone and pretty 
+ repetitive. It gets a little grinding every time someone bets, checks, or folds for them to make 
+ an auditory announcement of it. Kind of ruins the feel and tempo of the game. There's nothing like 
+ hearing "I'm out!" every time someone lays down a hand after the flop for me to remember I'm just 
+ playing a crappy computer game. The animation is rigid and obnoxious. Guys push in gigantic stacks 
+ with both hands half the time even if it's a small bet and they're not going all in. Chips aren't 
+ indicative at all of the amount of money you have and are just there for the aesthetics and the 
+ same goes with the chips you're putting into the pot. It all just seems arbitrary rather than looking 
+ realistic. The characters only seem to animate when it's there turn and their chip interaction 
+ is limited betting (it would be nice to see certain characters playing with their chips during 
+ a decision or while waiting for their turn to act) . When they do animate, it's robotic and limited 
+ to hand movement pushing in chips and little celebrations when winning a pot. The whole atmosphere 
+ of the game has been completely taken away.
+  
+  The career mode is half decent. Like most other poker games, you're given a beginning bankroll 
+ and you start playing in small cash games and tournaments and eventually build up your bankroll 
+ to get into the VIP games with the pros. Given how the actual poker playing isn't that fun to begin 
+ with, there wasn't much initiative for me to go very far.
+  
+  One of the most disappointing aspects was the multiplayer. If you play any kind of LAN or online 
+ game, you're limited to single table sit-and-go's or cash games and only with the people you're 
+ playing with. There's no ability to use bots to create a full table. It's quite disappointing that 
+ if I want to play with my brother over LAN, we're limited to heads up play only. The ability to 
+ play a sprawling multi-table tournament with your friends at different tables struggling to stay 
+ alive to meet up at the final table would have been fun and visceral. Hell, the inclusion of bots 
+ at all would have made the experience better. As it is, it sucks and seems thrown together at the 
+ last minute to say "Hey! We've got multiplayer too!" Pitiful.
+  
+  There are some tutorial videos which are pretty decent in teaching you how to play the game, but 
+ only the very basics are included. If you're putting down money to buy a poker game, odds are you're 
+ already familiar with the basics. Daniel Negreanu is a great personality to watch when he's at 
+ the table and he brings absolutely none of it into his tutorials. They're not very informative 
+ for anyone other than a true beginner and non entertaining to watch either.
+  
+  It's obvious this game was geared towards beginners and people unfamiliar with the game. Bland 
+ animations and monotone voice acting put together with a crappy interface and uninteresting visuals 
+ makes me wonder how this game took more than a week to be put together. I hope Negreanu got a very 
+ large check for putting his name on this because it's sad to see the poker great in the same package 
+ with this terrible game. 
+::::::
+
+::::::
+UserName: slayerver1
+Rating: 7.8
+Date: Jun 4, 2006 1:53 pm PT
+Review:  Poker video games tend to give you just the hold'em poker atmosphere only as enough to be one. 
+ Stacked with Daniel Negreanu changes the formula slightly with tutorials that maybe help improve 
+ your poker game. The career mode will also make newbies improve their game as u move up the ladder 
+ to hopefully face the pro players that act like actual pros. The multiplayer serves its purpose 
+ of online poker like other online poker games for the PC and consoles. If you need a new poker 
+ video game to master, or improve your skills at hold'em poker, Stacked is a solid choice. 
+::::::
+
+-------------------------------------------------

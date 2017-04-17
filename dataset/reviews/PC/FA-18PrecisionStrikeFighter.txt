@@ -1,0 +1,110 @@
+-------------------------------------------------
+:::Game Name::: F/A-18 Precision Strike Fighter
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/fa18precisionstrikefighter/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Sep 27, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 4.5
+Critic Score: 5.3, 3 Review (s)
+User Score: 7.0, 27 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Xicat Interactive
+Developer: Graphic Simulation
+Genre: Jet Sim
+Date:     Sep 26, 2001
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+F/A-18 Precision Strike Fighter is a good flight sim for its time. The problem is that its time 
+ is four years past. 
+
+  F/A-18 Precision Strike Fighter is a good flight sim for its time. The problem is that its time 
+ is four years past. For all intents and purposes, this is the same exact game that Graphic Simulations 
+ released in 1997 as F/A-18 Korea. The publishers at Xicat Interactive have put it in a new box, 
+ priced it as a new game, and put it on retail shelves next to the new releases. But there's virtually 
+ nothing new about Precision Strike Fighter. What's worse, there's very little indication that you're 
+ getting recycled material. It is a rip-off of startling proportion.           The game features 
+ a controversial -- and chintzy -- tactical nuclear bomb.    
+
+  Precision Strike Fighter models the F/A-18 Hornet, a carrier-based fighter plane with considerable 
+ ground attack capability. It's designed to sling lots of advanced ordnance under its wings and 
+ still fend for itself if it's jumped by enemy aircraft. It can protect its carrier by intercepting 
+ bombers or run interference for ground strike flights by taking out hostile air defenses. It's 
+ a good-looking, flexible plane that's gotten good press with appearances in movies like  The Rock 
+  and  Independence Day . Naturally, any self-respecting flight-sim enthusiast would want to fly 
+ one.   
+
+  In 1997, F/A-18 Korea, the original incarnation of Precision Strike Fighter, was the latest in 
+ a line of Hornet sims from Graphic Simulations. Although it never enjoyed the publishing muscle 
+ of Microprose's Falcon or Electronic Arts' Jane's series, it was a solid sim that was widely appreciated 
+ by fans of the genre. It used a fast engine that looked good by 1997 standards, and it struck a 
+ nice balance between playability and realism.   
+
+  Since F/A-18 Korea featured 3D acceleration using Glide only, many contemporary video cards will 
+ have problems running it in anything but the intolerably ugly software mode. So the most significant 
+ addition to Precision Strike Fighter is its OpenGL support, which lets it run on a wider range 
+ of video cards and gives it some sharp 3D-accelerated textures. Oceans ripple, detailed jets gleam 
+ in the sun, and dappled green forests cover the terrain like a plush carpet. There are also new 
+ volumetric clouds and transparency effects for explosions and smoke. Considering its age, Precision 
+ Strike Fighter could have looked a lot worse. It wears its facelift well.   
+
+  But the rest of this sim is entirely identical to its predecessor, right down to important file 
+ sizes and dates. The core of this game is still a low polygon count graphics engine, which was 
+ clearly built for slower processors from a time before 3D accelerators. Most objects have a rough-hewn 
+ blocky look, as if they were whittled from wood. You get pyramids instead of rolling hills and 
+ boxes instead of buildings. The upside to this is that the game plays fast and smooth even on lower-end 
+ computers. If frame rate is important to you -- and if you're really a flight-sim fanatic -- then you 
+ know frame rate is king. Precision Strike Fighter is a nostalgic throwback to the days of polygonal 
+ simplicity, when sims ran fast and the terrain cut the sky in clear lines.   
+
+  To its credit, Precision Strike Fighter does a good job of streamlining the jet's advanced capability 
+ without dumbing it down too much. The flight model is geared toward realism with only a few noticeable 
+ exceptions. The physics of landing and taxiing are right out of a Warner Bros. cartoon, and the 
+ rudder jerks the plane around as if it were dangling from a rubber band. But otherwise, there's 
+ enough fidelity here to put Precision Strike Fighter in the same category as serious hard-core 
+ sims.   
+
+  The avionics (radar, weapons guidance, navigation, and so on) are downright arcadelike compared 
+ with Jane's latest superrealistic F/A-18 sim, but they're easy to use without making you feel superfluous -- you 
+ still get a sense for having to manage a real pilot's workload. Precision Strike Fighter also does 
+ a good job of modeling the various types of weapons available for the Hornet, including a tactical 
+ nuclear warhead that goes off with a polygonal whimper. Although the sloppy mushroom cloud graphics 
+ might be considered a conscious effort not to glorify something so controversial, it's more likely 
+ this is just another lazy shortcut to shoehorn an old game into new clothes.   
+
+  Considering the flight model and avionics, Precision Strike Fighter is a perfect example of a midlevel 
+ sim that treats its audience and its subject matter with respect. Although the learning curve is 
+ moderately steep, there's a series of thorough and informative tutorials. These are presented with 
+ footage from the game and a narrator who speaks with all the enthusiasm of Ben Stein doing a Visine 
+ commercial. The original game's superlative manual is presented in an abridged format, but it's 
+ still miles and away better than what you get in most games these days. The playback feature is 
+ also an excellent training tool.           New smoke and clouds don't make for a new game.     
+ 
+
+  Finally, there is one more thing new to Precision Strike Fighter, but it's not due to Xicat's efforts. 
+ Since F/A-18 and Precision Strike Fighter use the same scenario editor, they can run the same scenarios. 
+ So the CD includes dozens of user-made missions that were previously available on the Internet. 
+ Some of these are silly and some are sloppy, but most are slickly made and thoughtful, including 
+ some strung together in a campaign structure. Playing these scenarios offers a vivid look at the 
+ devoted fan base that F/A-18 Korea managed to create. This happens to be the same fan base that 
+ will be bitterly disappointed when it finds there's nothing new here.   
+
+  There's nothing in this box you wouldn't typically find in a patch. OpenGL support and a bunch 
+ of user-made missions previously posted to the Internet do not make a new game. Precision Strike 
+ Fighter belongs in the bargain bins. But with so few flight sims on the shelves, a lot of gamers 
+ might not know any better. So by charging full price for this sorry excuse for a new product, Xicat 
+ Interactive is basically attending the funeral for flight sims so that it can pick the mourners' 
+ pockets.     
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

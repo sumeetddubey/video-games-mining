@@ -1,0 +1,126 @@
+-------------------------------------------------
+:::Game Name::: Dragon Lore II
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/adventure/dragonlore2/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Sep  5, 1997
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 3.1
+Critic Score: 4.0, 2 Review (s)
+User Score: 5.8, 20 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Interplay
+Developer: Cryo Interactive
+Genre: Adventure
+Date:     Jun 30, 1997
+
+-------------------------------------------------
+:::Review:::
+Dragon Lore II is about as frustrating a gaming experience as I have encountered in recent years. 
+ 
+
+ Here is the sequel that no one asked for. Indeed, we gamers clamored for second chapters of Warcraft, 
+ Command and Conquer, and Lands of Lore, to name a few, but when was the last time that anyone asked, 
+ "Gee, when is that next Dragon Lore title going to be ready?" The original was a tepid adventure/RPG, 
+ interesting only because of its nicely rendered 3-D environments, but otherwise hampered by weak 
+ combat and gameplay. Someone at Cryo apparently felt that this bland recipe was a winning formula, 
+ however, because here is the regrettable sequel. From movement to combat, interface to disc swapping, 
+ Dragon Lore II is about as frustrating a gaming experience as I have encountered in recent years. 
+
+ Superficially, DL2 seems to have promising elements - a better plot, improved characterization, 
+ and a better visual setting than many recent RPG/adventures. The storyline: Draconia is a medieval 
+ land of magic and monsters that is besieged by orcish armies. A new leader who might be able to 
+ see Draconia through this ordeal must emerge from the ranks. You are Werner von Wallenrod, one 
+ of a handful of legendary Dragon Knights - warriors who are allied with specific "protecting dragons." 
+ Your dragon, Maraach, is missing so your status as a true Dragon Knight is being publicly questioned 
+ by an ambitious nobleman. Retrieving Maraach and gaining the respect of your fellow knights is 
+ among your chief tasks in a game that does begin with a compelling storyline and even believable 
+ characters. All of the Dragon Knights have distinct personae - kind, cool, or bombastic - yet all 
+ share an arrogance and self-confidence that one would expect from members of a martial elite. The 
+ local princess is brooding over some mysterious disappointment, and the town's all-seeing clairvoyant 
+ speaks in obscure parables. The voice acting is overdone (now the norm in gaming) , but the script 
+ itself is refreshing, as the dialogue conveys not only useful information but a fine sense of the 
+ characters and a deeper involvement in the game's setting.   
+
+ Much of the action takes place within the buildings and the underground labyrinths of the capital 
+ city. Hours pass and day turns to night as you make your way around town, solve minor quests, locate 
+ necessary objects, and speak with a cast of well-drawn townsfolk or fellow knights. The graphics 
+ for these settings are grainier than one would expect from 640X480 mode (under Win95 DirectX) , 
+ but the underlying artwork is quite convincing nevertheless. The cutscenes, too, have a nice polish 
+ to them, with dramatic edits and a fine use of pre-rendered animations. All in all, then, DL2 succeeds 
+ in creating a strong sense of presence, of being in a world in which time passes, people live their 
+ lives, and pressing events depend upon your actions. This is no mean feat in the otherwise cardboard 
+ world of computer gaming.   
+
+ But the devil is in the details, and Dragon Lore II disintegrates quickly into a mush of user-hostile 
+ interfaces, incomplete instructions, and just downright thoughtless design. The playing interface 
+ resembles the mediocre one in Stonekeep. The first-person gaming screen employs a cursor that can 
+ cycle through speaking, moving, and taking icons. Weapons and items for left/right hands are visible 
+ in the menu bar below, as are buttons for access to spells and inventory. Life, strength, and magic 
+ bars are over the play screen and increase in capacity with experience. How and why these attributes 
+ increase or get depleted remains unclear due to the mute documentation. Eating restores some strength. 
+ Sleeping helps, but apparently only in some places, as you can die in your sleep, at times without 
+ any explanation. While character attributes are present and do grow over time, DL2 is more of a 
+ 3-D adventure in which gathering items to solve puzzles and satisfy assignments is punctuated only 
+ occasionally by combat or other action sequences. The puzzle difficulty is moderate, generally 
+ a matter of giving the correct object to the right person. The inventory screen gives you the time, 
+ limited item capacity, and the ability to combine found objects in order to solve some puzzles. 
+ But just try and find some of these items! Many of them are not even visible on screen and are 
+ detectable only if your cursor happens upon just the right pixel. Worse still, overlooking a necessary 
+ object from the early parts of the game will lock you out of any progress later, forcing a restart. 
+   
+
+ Movement is first-person and point-to-point, much like Zork Nemesis or the recent Space Bar. An 
+ on-screen compass rose indicates which routes are available, but clicking in a direction could 
+ take you anywhere, from turning in place to halfway across the city and even into a battle sequence. 
+ In other cases, like at the inn, it can take four or five mouse clicks to twist and turn your way 
+ across two feet in order to talk to the owner. The inconsistency is maddening and unnecessary. 
+   
+
+ But wait, there's more. The combat interface is even worse. There are purported to be three types 
+ of fighting blows under the control of your right mouse button: thrust, cut, and reverse cut. But 
+ where you should move the real-time battle cursor to achieve each blow is left to experimentation. 
+ Both the weapon and the video image of the enemy are so unresponsive in combat that it's difficult 
+ to know when and how your blows might be connecting or missing. With so little feedback from the 
+ program itself, and entirely useless documentation, you can die often and learn nothing to hone 
+ your skills. The same is true for the other action element of the game - jousting - for which there 
+ are two lengthy tournaments for our hero by game's end. Yet nothing about the jousting interface 
+ is to be found in the flimsy documentation. Switching to a third-person behind-the-horse POV, you 
+ move the mouse to balance and point the weapon at the approaching knight, though both lance and 
+ enemy are so broken up under the low resolutions here that aiming is moot. Magic casting is equally 
+ poor. Icons for the handful of spells (reading runes, adding to your defense in combat, or making 
+ friendly conversation, for instance) are pressed from the gameplay screen but offer no signs of 
+ their success or effectiveness.   
+
+ Apparently the designers of Dragon Lore II got it into their heads that inconvenience and user frustration 
+ should be salient features of a game, so it wasn't enough to make movement and combat inane. The 
+ 3-CD set requires frequent disc swapping - at night/day changes and whenever entering certain frequently-visited 
+ locations. No matter where your last save may be in the course of the adventure, reloading requires 
+ the first CD, especially annoying when the battle interface tends to kill off the hero so often. 
+ Many of the objects that need collecting are nearly invisible to the naked eye and require very 
+ tedious, slow panning of the on-screen cursor in order to be detected. The movement scheme desperately 
+ needs shortcuts. Prior to each jousting sequence, for instance, you have to repeat a tedious circuit 
+ of preparations and movements (up to six times!) just to retool for the next round.   
+
+ The manifest design flaws of the game might be pardonable by some gamers if the promising narrative 
+ elements came to anything. But, alas, the characters and storyline turn out to be window dressing 
+ rather than points of genuine interest. As the game winds towards its predictable conclusion - 
+ a final battle with your main rival to Draconia's leadership - the game relies even more on its 
+ weakest elements, combat and pixel-hunting.   
+
+ One of the many inconsiderate design features in Dragon Lore II turns out to be a blessing in disguise. 
+ An unlabelled button in the corner of the play screen, easily mistaken for a decorative rivet, 
+ actually dumps you from the game and into the credits: no warning, no confirmation screen, no save 
+ opportunity - just a scroll of the people who are responsible for this travesty. Game Hint No. 
+ 1: Use this feature frequently.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

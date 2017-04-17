@@ -1,0 +1,100 @@
+-------------------------------------------------
+:::Game Name::: Baseball 2000
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sports/baseball2000/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: May 10, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.9
+Critic Score: 7.3, 13 Review (s)
+User Score: 7.6, 6 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Microsoft Game Studios
+Developer: WizBang! Software
+Genre: Baseball Sim
+Date:     Mar 31, 1999
+
+-------------------------------------------------
+:::Review:::
+Microsoft Baseball 2000 includes a number of enhancements and new features that make it better than 
+ the original, but the game still suffers from a number of bugs, design flaws, and gameplay issues. 
+ 
+
+ Microsoft Baseball 2000 includes a number of enhancements and new features that make it better than 
+ the original (Microsoft Baseball 3D) . Unfortunately, the game still suffers from a number of bugs, 
+ design flaws, and gameplay issues that keep it at the bottom of the pack among arcade baseball 
+ games.  
+
+ First, the good news. Last year, Microsoft boasted some of the best graphics in the baseball genre, 
+ and if there's one area in which the game continues to shine this year, it's the graphics. The 
+ lush 3D engine features some of the best player models around, complete with eerily lifelike facial 
+ features and skin tones. The animations are excellent for the most part, though the transitions 
+ between multiple animations are so choppy and ludicrous that they make each game look as though 
+ it's being played by a bunch of robots. In particular, the pitcher walking back onto the mound 
+ after covering a base looks ridiculous (he runs to the mound then slams to a halt and climbs tiny 
+ invisible stairs to the pitching rubber in near slow-motion) .  
+
+ Still, the game does an excellent job of re-creating the look of a real baseball game. The 3D stadiums 
+ are well modeled and, for the most part, accurate. They convey a great sense of depth too, which 
+ is something that is often missing in computer baseball games. The play-by-play is very good also, 
+ though it still sounds as if it's being recorded in a small cardboard box. Many of the comments 
+ are humorous, and all of them are in context, which is impressive. The game even has a sizeable 
+ library of rivalry anecdotes to spice up some of your matchups.  
+
+ Gameplay is much improved over the previous version simply because WizBang! built in some midrange 
+ difficulty levels. The batting difficulty, for example, now includes a middle setting so that you 
+ don't have to go with just basic (which is laughably easy) or advanced (which is still very, very 
+ difficult) . The batting interface is still a strong point, in fact, though it is tough to precisely 
+ move the batter's aiming box with a typical gamepad. Triple Play 2000's toggle, which centers automatically 
+ when you release the pad, is much more intuitive even if it doesn't create quite the same level 
+ of realism. But for all its awkwardness, the Microsoft Baseball 2000 batting system does generate 
+ an exceptionally realistic array of hits, foul balls, and whiffs. No other baseball game, including 
+ 3DO's impressive High Heat Baseball 2000, has as many varied hit locations and velocities as this 
+ one. The pitching interface, by the way, is the best around without a doubt. It may take a while 
+ to warm up to it, but after some practice, you should be able to appreciate the way it adds elements 
+ of pressure and unpredictability to your pitching - good stuff. The gunshot effect has to go, though 
+ - nobody in the MLB is really capable of throwing at 120 miles per hour, after all.  
+
+ Fielding is very tough, though you can have the computer do it for you. Unfortunately, the computer 
+ makes a lot of boneheaded plays on your behalf and, on numerous occasions, simply refuses to move 
+ toward a ball at all (and there is apparently no override option that lets you assume control in 
+ these situations) . Computer-assisted baserunning, as with most computer baseball games, is problematic 
+ and should be avoided. Of course, manual baserunning can be tricky as well. Several times when 
+ I would hit the button to advance my runners, they would ignore me completely. Turns out that I 
+ had to hit the button three or four times before they did something, and by then it was often too 
+ late to turn that single into a double (the gamepad was in perfect working condition, by the way) . 
+
+ The game offers season, exhibition, and home run derby modes, but for some bizarre reason you still 
+ cannot choose to play a short or medium-length season: It's 162 games or nothing. A great player 
+ editor is included with the game, and it lets you edit, create, and trade players at will - but 
+ just like last year, it is not incorporated into the actual game. You have to launch it separately 
+ from the Windows start menu.  
+
+ Microsoft Baseball 2000 exhibited a number of graphical bugs and glitches. For starters, the menu 
+ screens were flaky, with buttons and menu items appearing and disappearing from screen to screen. 
+ This happened with the latest drivers for a Riva TNT card, so the cause of the problem is still 
+ uncertain. Also, the game choked completely the first few times I tried to launch it in Voodoo2 
+ SLI mode (1024x768) . The game was actually going on, but all I saw was the "Game loading" screen, 
+ overlaid by the lineup that appears at the start of each game. This problem eventually went away 
+ on its own, but again, the cause is indeterminate. Finally, about halfway through a game between 
+ the Cubs and the White Sox, the game flipped out entirely and decided that it was now taking place 
+ between the White Sox and the White Sox. Both teams became the same, and the computer seized control 
+ of the action. It was pitching, it was hitting, and it was fielding, and I could not stop it without 
+ quitting the game entirely. That was a most disturbing bug.  
+
+ Overall, this is still a decent game but not one that can compete well against High Heat Baseball 
+ 2000 or even Triple Play 2000. The graphics are excellent, and the batter/pitcher interface is 
+ equally impressive. Unfortunately, the rest of the game is rather disappointing. About the best 
+ thing Microsoft Baseball 2000 has going for it is the $19.99 price tag, which should help boost 
+ sales among uninformed buyers.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

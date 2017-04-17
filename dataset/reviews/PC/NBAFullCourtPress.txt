@@ -1,0 +1,143 @@
+-------------------------------------------------
+:::Game Name::: NBA Full Court Press
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sports/nbafullcourtpress/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Dec  5, 1996
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.3
+Critic Score: 5.5, 3 Review (s)
+User Score: 5.2, 13 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Microsoft Game Studios
+Developer: Beam Software
+Genre: Basketball Sim
+Date:     Aug 31, 1996
+
+-------------------------------------------------
+:::Review:::
+There's good reason to believe it has the potential to seriously challenge the primacy of Electronic 
+ Arts' NBA Live games. 
+
+ As you run down the features of Microsoft's NBA Full Court Press, there's good reason to believe 
+ it has the potential to seriously challenge the primacy of Electronic Arts' NBA Live games. It 
+ has all the essentials: 29 NBA teams and nearly every NBA player (Michael and Shaq can't be included 
+ for contractual reasons) , along with Western and Eastern Conference All-Star teams and four custom 
+ teams you can mold to suit your tastes.  
+
+ You can play a single game, play an entire season consisting of 32, 56, or 82 games with variable 
+ lengths for playoff series, head straight for the playoffs (again, you choose the length of each 
+ series) , or even take your team on the court for practice. The team editor lets you trade players 
+ to reflect current rosters, and the player editor lets you change names, number, ratings, and hair 
+ style.  
+
+ It's after you've adjusted your line-up and selected your coaching strategies (offensive and defensive 
+ stances, up to five offensive plays out of 100) that you'll get to the most fun part of NBA Full 
+ Court Press: the action on the court. Four-button joystick support gives you a high degree of control 
+ over the players, and an option to control a single player (instead of always being the ball handler 
+ or switching from defensive player to defensive player) means you can call for the ball on fast 
+ breaks, alley oops, and backdoor slams. Player animation is extremely smooth and realistic, with 
+ defensive players backpedaling, dribblers spinning to evade a press, and shooters launching turnaround 
+ jumpers - and, of course, various slams and jams. The only gripe I have with the animation is that 
+ players on the receiving end of a fast-break pass stop dead in their tracks to make the catch before 
+ resuming their journey to the basket: It looks silly, and allows the defense to catch when they 
+ shouldn't be able to.  
+
+ Adding to the experience is the play-by-play commentary by Kevin Calabro, voice of the Seattle Supersonics. 
+ He's one of the best in the biz, and if you've never heard him before you'll get a real kick out 
+ of his trademark expressions, like "24-second violation, camping in the lane - Kumbaya," "He's 
+ on him like Cagney with half a grapefruit," "You gotta get up for the downstroke," and my favorite, 
+ "Googily Moogily!" (pardon the spelling) .  
+
+ But once you've dug into the game, you'll start finding many, many problems - some big, some small, 
+ all annoying - that keep this from being anything more than a fun arcade-style hoops game. For 
+ starters, there's no manual, only online help. True, the online help is extensive, but it's a real 
+ pain in the butt to exit a screen and load the help file, instead of simply having a manual opened 
+ up by the keyboard for quick reference.  
+
+ On the strategic side, you'll notice that the schedule is from last season, and that there's no 
+ way to create a new one to reflect this year's action. Team rosters, too, are from last season, 
+ and swapping players two at a time to reflect current rosters would be quite a chore - not to mention 
+ the fact that you won't find key rookies such as Kobe Bryant, Marcus Camby, John Wallace, Stephon 
+ Marbury, and many others unless you edit an existing player or a player on a custom team. Speaking 
+ of custom teams, they can only be used in single games, not season or playoff modes. And don't 
+ bother to check for box scores during or after a game - there are no team stats for a game, and 
+ you can only get game stats for individual players while the game's in progress.  
+
+ But you ain't seen nothing yet. It might sound strange, but where FCP reaches its highest frustration 
+ quotient is in the same area where it looks and feels the best: out on the court. Just take a look 
+ at what's wrong here:  
+
+ Mishandling of the 24-second clock. The 24-second clock is supposed to reset after a defensive foul, 
+ but in FCP it just keeps going and going. This is wrong, dead wrong, and that it made it past the 
+ developers and Microsoft is simply amazing.  
+
+ Substitutions after scores. The only time you're allowed to sub players in real life is during a 
+ time out or after a foul, but computer-controlled teams in Full Court Press are allowed to - and 
+ will - send in subs after nearly every other basket. What's more, your team will be subbing almost 
+ as furiously if you allow the computer to handle the chore for you. You'd think with this much 
+ practice the computer would make good substitution decisions, but it doesn't: Playing as Indiana, 
+ I saw Reggie Miller get five fouls in the first half (I wasn't controlling him on four of those 
+ penalties) and the computer kept him in the game!  
+
+ Unnecessary five-second violations. Regardless of whether players are controlled by you or the computer, 
+ they'll sometimes just stand around as the ball lies out of bounds after a break in play, with 
+ no one moving to pick it up until the ref calls a five-second violation. There's no excuse for 
+ this serious - and maddening - bug.  
+
+ Too many lob passes. There's no way to specify whether to throw a bullet pass, bounce pass, or lob 
+ pass, and it seems that at least half of all passes are lobs - some arched so high you'd think 
+ they'd hit the scoreboard hanging at mid-court. All this results in a lot of stolen passes, especially 
+ by the computer-controlled team; in fact, I suspect that the key difference in the game's difficulty 
+ levels is how many passes the computer-controlled team steals. If you'd seen 15 or 20 in-bound 
+ passes picked off in a single game, you'd think the same thing.  
+
+ Senseless 24-second violations and weird player behavior. Some pretty strange things can happen 
+ when the computer-controlled team has the ball in FCP. Coast-to-coast baskets are the order of 
+ the day; a single player will dribble in one place for the last 15 seconds of the 24-second clock 
+ before either heaving up a desperation shot or twitching in an epileptic frenzy until the buzzer 
+ sounds; point guards always start up the court with the same maneuver; players guarding in-bound 
+ passes can cross out of bounds with no repercussions; and certain shots - a hook, for instance 
+ - always drain the net.  
+
+ No double-dribble or traveling calls. Yes, computer-controlled players in FCP can dribble, stop, 
+ and start again with no foul called. And while it's true that NBA officials are more than a little 
+ lax about traveling violations, to never see one called in four 48-minute games (and several shorter 
+ ones) is mind-boggling.   
+
+ Inflated scores and shooting percentages. Playing on the veteran (medium) difficulty level, I guided 
+ the Indiana Pacers to a 170-130 victory over the Atlanta Falcons. Realizing I needed a little more 
+ competition, I cranked it up to the All-Star level - I left officiating on normal - and managed 
+ to pull off a 180-155 win. Still looking for some challenge, I controlled the Canadian roundball 
+ powerhouse known as the Vancouver Grizzlies as they took on the Miami Heat - and thrashed Riley 
+ and Company by 189-127. (All these were with fatigue and player injuries toggled on.)  
+
+ In case you're not an NBA fan, take my word for it: Those scores aren't realistic. They're not even 
+ close. Shooting percentages for the computer-controlled teams in those games were high - always 
+ over 60 percent - but didn't hold a candle to my constant 70 and 80 percent numbers. Again, those 
+ figures just aren't realistic, especially for a team like the Grizzlies, and I got the distinct 
+ impression that I could rack up totals like this anytime I liked.  
+
+ Players all look the same. Sure, you can spot Dennis Rodman's blue hair or Matt Geiger's bald head 
+ in a crowd, but the only visible difference between players in FCP is skin tone. You can sort of 
+ make out player numbers if you're playing at 800 x 600 (resolutions of up to 1280 x 1024 are supported) , 
+ but in full-screen mode the numbers are just too blocky for quick recognition. Without the option 
+ to display names or positions of the player you're controlling, it's tough figuring out who your 
+ go-to guy is.  
+
+ But what's even more amazing than these flaws is the fact that, in spite of them all, I'll still 
+ load up Full Court Press and play a full game even though I know it's about as far from reality 
+ as NBA Jam. Hey, even with all the problems, it's still a fun arcade game. But if you expect at 
+ least a modicum of reality in a pro basketball sim, then Full Court Press is your front-row seat 
+ to frustration and disappointment.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

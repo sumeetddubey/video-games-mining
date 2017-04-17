@@ -1,0 +1,1047 @@
+-------------------------------------------------
+:::Game Name::: Falcon 4.0: Allied Force
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/falcon4alliedforce/review.html
+-------------------------------------------------
+:::The Good:::
+ Improved graphics and sounds.
+ Incredible dynamic campaigns in two different regions.
+ Enemies put up a good fight.
+ Possibly the most accurate simulation ever released.
+-------------------------------------------------
+:::The Bad:::
+ Graphics still trail those of newer releases.
+ 3D cockpit pales compared to 2D cockpit.
+ Printing the entire manual will cost a fortune.
+-------------------------------------------------
+:::Date::: Aug  2, 2005
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.9
+Critic Score: 8.9, 8 Review (s)
+User Score: 8.6, 826 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Graphsim Entertainment
+Developer: Lead Pursuit
+Genre: Jet Sim
+Date:     Jun 28, 2005
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+It took seven years, a number of false starts, and one of the most devoted fan communities in existence, 
+ but the release of Falcon 4.0: Allied Force shows that its potential has finally been realized. 
+ 
+
+  Ask any simulation fan worth his hands on throttle-and-stick (HOTAS) setup what the best combat 
+ flight simulator of all time is, and he's likely to reply "Falcon 4.0." Ask that same person what 
+ the worst combat flight simulation of all time is, and you're just as likely to hear the same answer. 
+
+          Falcon's back, and it's better than ever.     
+
+  Released in 1998, Falcon 4.0 was far from an unmitigated disaster, but the design goals were so 
+ lofty that there simply wasn't enough time or resources to climb high enough to reach them. The 
+ end result was a simulation that was so far ahead of its time that it feels current to this day, 
+ but it was buggy enough to turn off the demanding hardcore audience it needed to cater to for success. 
+ Crashes were frequent, the brilliant dynamic campaign system was full of glitches, and multiplayer 
+ was practically broken out of the box. As we put it back when it was first released, Falcon 4.0 
+ offered "more potential, more promise, than anything else."  
+
+  It took seven years, a number of false starts, and one of the most devoted fan communities in existence, 
+ but the release of Falcon 4.0: Allied Force shows that its potential has finally been realized 
+ and that promise has finally been delivered. This will come as no surprise to longtime fans who 
+ have dealt with the innumerable patches, fan-made content, and other fixes and enhancements that 
+ have appeared over the years to dramatically improve the original release. The tedious process 
+ of downloading the proper files and then installing them all in the correct order is known affectionately 
+ as the "dance," and it was enough to keep casual fans as far away from this game as they could 
+ get. The dance is finally over, and for the first time ever wannabe jet jockeys can install Falcon 
+ 4.0 from a single disc and enjoy nearly all of its numerous features as the designers intended. 
+
+  For those who are wholly unfamiliar with this game, Falcon 4.0 is an exacting simulation of the 
+ F-16 Fighting Falcon. Also known as the Electric Jet, the Lawn Dart, or, more popularly, the Viper, 
+ the F-16 is one of the most versatile fighters ever created. Its legendary maneuverability makes 
+ it a superb dogfighter, but it also has enough power to carry a respectable load of air-to-ground 
+ munitions for "mud moving" when necessary. This simulation lets you try your hand at both roles 
+ in instant action, single missions, or several incredible dynamic campaigns that are set in the 
+ Korean Peninsula and the Balkans.  
+
+  The entire simulation has had a graphic overhaul, and the 2D cockpit looks as good as that of any 
+ modern simulation. All of the F-16's knobs, switches, and handles are depicted in photo-realistic 
+ detail, and the mouse can be used to interact with most of them. A heads-up display rendered on 
+ the front of the cockpit provides enough information to perform most tasks without needing to reference 
+ the cockpit instruments. The display changes depending on the type of weapon that is selected and 
+ the radar or targeting mode that is currently in use. The F-16's two trademark multifunction displays 
+ are displayed with terrific detail, and it takes hours of practice to become familiar with their 
+ seemingly endless menu pages and settings.  
+
+  The 3D cockpit allows for smooth-view panning, though it's not interactive and it's extremely crude 
+ compared to the wonderful 2D cockpit. Fortunately, it works excellently with the simulation's many 
+ excellent padlock views, which smoothly keep your virtual head pointed at a selected target, since 
+ your eyes are on the target and rarely need detailed cockpit information. Cockpit reflections and 
+ a "lift line" displayed on the top of the cockpit are tremendously helpful in letting you maintain 
+ a sense of your plane's orientation in a swirling dogfight.  
+
+  Terrain graphics are much better than those included in the original sim, although they don't compare 
+ to those in modern simulations like Lock-On: Modern Air Combat. Aside from a lack of detail, the 
+ terrain is at least very functional for low-level ground attack missions, as it is filled with 
+ hills, mountains, valleys, and other features that make air-to-ground strikes exhilarating. Clouds 
+ and fog help add to the ambiance, but explosions, weapon smoke trails, and other special effects 
+ are severely lacking compared to many other simulations. This doesn't affect gameplay in the least, 
+ however, and overall, Allied Force looks unbelievably better than the original release. Best of 
+ all it is that it works great with current hardware and operating systems, eliminating compatibility 
+ issues that plagued Falcon 4.0.  
+
+          The new 2D cockpit is both beautiful and interactive.     
+
+  Sounds can generally be 
+ overlooked in a simulation as long as they don't interfere with the game, but here they enhance 
+ the action immeasurably. Air traffic controllers direct you around the airbase, chewing you out 
+ if you take off or land without permission. The radio is alive with chatter from other units in 
+ your operational area, cueing you into the various targets and installations that are scattered 
+ around the map. Within the plane the engine, weapons, landing gear, and various warning horns and 
+ beeps all sound fantastic, and the infamous "Bitchin' Betty" is there to let you know when you 
+ are flying too low (fortunately, a flick of a switch is all it takes to turn her off when you're 
+ flying at the nape of the earth to avoid radar and surface-to-air missiles) .     
+
+  Even in the original release the flight and physics modeling was outstanding, and in this release 
+ it has improved to the point that arguably no other simulation can match its fidelity. You can 
+ read a book about the flight characteristics of a real F-16, load up the simulation, and re-create 
+ those situations to a degree that is almost eerily accurate. A great example is the F-16's tendency 
+ to enter a "deep stall" when a ham-fisted pilot pushes the plane well beyond its flight envelope. 
+ The F-16 was the first fly-by-wire plane ever manufactured in great quantities, and it relies on 
+ constant computer assistance to overcome the inherent aerodynamic instability that gives it such 
+ a tremendous edge in terms of maneuverability. Even in straight and level flight, with no input 
+ from the pilot whatsoever, the control surfaces of the aircraft make constant, tiny motions to 
+ keep the plane flying in a straight line (with everything controlled by the computer) .  
+
+          Enemies in Allied Force know their business.     
+
+  Because the computer is always looking 
+ over the pilot's shoulder during maneuvers it makes the F-16 incredibly forgiving to fly. But the 
+ downside to this is that it's easy for beginners to get into a situation where their speed is so 
+ low that the plane becomes uncontrollable. It doesn't simply stall like most other planes would, 
+ quickly dropping their noses and picking up enough speed to give the control surfaces some bite. 
+ Instead it enters a "deep stall" where the plane falls like a leaf and the nose gradually pitches 
+ up and down as the computer vainly tries to find some angle that will end the stall. This happens 
+ in real F-16s, and the only way to get out of it is to manually override the computer, push the 
+ stick back and forth in time with the natural motions of the nose, and gradually rock your way 
+ out of the stall. Deep stalls also happen in the sim, and you get out of them exactly the same 
+ way you would in the real aircraft. Everything from the plane's best cornering speeds to the fact 
+ that the controls are deadened significantly as soon as the landing gear is dropped (for more precise 
+ control during landings) is modeled to near perfection in this simulation.  
+
+  With all of the highest difficulty settings enabled, even the most experienced pilots will have 
+ their hands full managing the aircraft, especially when they have to deal with improved artificial 
+ intelligence opponents. The computer did wacky things in the original version of the game, especially 
+ during the buggy campaign missions. But now you can expect to face a competent enemy both on the 
+ ground and in the air. Surface-to-air missiles and antiaircraft emplacements are a real threat, 
+ and enemy pilots dogfight and work together much better than they did before. This makes the instant 
+ action missions more exciting, but it really transforms the campaigns. The ongoing war on the air, 
+ on ground, and even at sea plays out in real time and is more believable than any simulation campaign 
+ ever released. Players can assign target priorities themselves using slider bars, or they can let 
+ the computer handle it, which automatically generates missions to meet the overall campaign goals. 
+ Players are free to jump into any of these missions, taking on the role of flight lead as they 
+ try to make a difference on a virtual battlefield that is constantly in action. The level of detail 
+ is staggering, and few simulations do this good a job of making players feel like there is a real 
+ war going on around them at all times.  
+
+  If all of this sounds like too much for you, it probably is. Newcomers can tone down nearly every 
+ aspect of the simulation by giving themselves unlimited weapons, a bottomless tank of fuel, or 
+ even invulnerability. But this isn't the kind of game casual users can simply fire up and get a 
+ lot of enjoyment out of right away. Falcon 4.0: Allied Force rewards those who take enough time 
+ to really understand every aspect of the F-16's cockpit and capabilities, and also those who are 
+ willing to put in the research necessary to personally manage the deep and complex campaigns. A 
+ 716-page PDF manual is included for those who really want to dive in, and it surpasses even the 
+ 600-page-plus tome included in the original game in terms of usability and completeness. It explains 
+ in detail how everything in the game works, and it's also packed with examples that show why you 
+ would want to use a particular weapon mode or radar setting, or whatever, in a variety of situations. 
+ There are also 30 training missions included in the sim that the manual provides guidance for, 
+ and you'll need to fly all of them to master the plane's various systems. A 109-page printed quick-start 
+ guide is included that covers the basics, but it barely begins to scratch the surface of what Falcon 
+ 4.0: Allied Force has to offer.  
+
+          Ground targets are numerous and dangerous in the campaigns.     
+
+  If you're a sim fan 
+ in general or a Falcon 4.0 aficionado in particular, this version of the game has pretty much everything 
+ going for it. It is cheap, about as complete as a game of this nature can be, and thanks to the 
+ plethora of missions, the inclusion of a mission editor, and especially the several dynamic campaigns, 
+ the sim offers limitless replayability. Multiplayer mode finally works well and is a blast either 
+ head-to-head or in cooperative mode with up to 16 total players, adding even more value to the 
+ game. Newcomers should know by now what they are getting into, but there's an entirely different 
+ life waiting on this CD for those willing to make the time investment.     
+-------------------------------------------------
+:::User Reviews::: (36 Reviews)
+::::::
+UserName: jschweiger7772
+Rating: 10
+Date: Jan 20, 2009 3:04 pm PT
+Review:  I think it is a very realistic Sim. It is the best that I have seen so far. Looking forward to 
+ the next in the series. I really cant say anything bad. I just wish that there was a keyboard print-out 
+ for me. My memory is not that good I would like to see if they can make a keyboard layout. I don't 
+ know what else to say. I can't spread this out to make a hundred words, sorry. How long is a hundred 
+ words? I enjoy flight Sims and used to have a lot of them before the house fire. I am sorry that 
+ I lost them. I cant. really expand on this. I have no idea of what else to say. this is getting 
+ ridiculous. I will just repeat what I said before, Great. I think this is a perfect "10". Great 
+ great great 1 11111111 11111111111111 11111111111111 11111111111111 11111111111111111 11111111111111 
+ 111111111111 1111111111111111 11111111111111 1111111111111111 11111111111111 111111111111111111 
+ 111111111111111 11111111111111 11111111111 111111111111111 111111111111111 1111111111 
+::::::
+
+::::::
+UserName: thejocker
+Rating: 9.5
+Date: Oct 14, 2007 3:27 pm PT
+Review:  Hard, Exciting and addictive, this is Falcon 4.0 AF for me. When I started my first mission, all 
+ I wanted is to fire up the engines at the parking like they say in the manual - a full 15 min. 
+ startup ! It takes time to understand the complexity of the game, the theater your thrown into 
+ and the role you must play in an escort or strike position. but you quickly get there and then 
+ your on a role. I love this game, much for the deferent possibilities it gives and the ability 
+ to use my Force Feedback II stick. I did not find many games that give that ability and that's 
+ a major plus for me. If you love combat flight simulations and simulations in general - This is 
+ definitely a must for you ! 
+::::::
+
+::::::
+UserName: arielpc
+Rating: 3.5
+Date: Sep 23, 2007 12:34 am PT
+Review:  Smooth, sharp and detailed graphics are one of the best thing you'll notice at first. They are 
+ highly detailed. If you are a newbie flight sim fan, you gonna hate this one because it is too 
+ hard to learn and play. But if you are a veteran flight sim player, you gonna love its amazing 
+ realism. Good game. That's what it is. However, this game's negative side is its confusing keyboard 
+ controls. It is so disappointing. There are tons of more than 2 or more than 3 key-combination 
+ keyboard controls. Gosh, they are very hard to memorize. One single function of the jet uses different 
+ key-combination controls. Something like CTRL-ALT-SHIFT-F1, Alt-G for gear down, Shift-G for gear 
+ up and still there's the G alone key. If they could simplify the keyboard control of this game, 
+ I think this would be the best and unrivaled flight sim game both for novice and expert gamer. 
+ There are times during the game when my screen would just freeze. I don't know what's happenning, 
+ then suddenly when the screen unfreeze, you'll find your plane in different scene. Oftentimes, 
+ crashing.
+  
+  Takes too long to load! They put 5 pictures on the loading screen. Each has time delays of several 
+ seconds to few minutes. I guess, they would like to show the real time consumed during the takeoff 
+ preparation in actual procedure.
+  
+  Gosh, I can't take that almost 800 pages of manual to read. I may take me forever to read that. 
+ And those keys... my goodness. I think Lastikman can do those key-combination controls which were 
+ hard to reach by one hand only, ha ha. Try F/A 18 Operation Iraqi Freedom. Easy, convenient, good 
+ graphics and entertaining. I gave up playing this game. it makes me irritated. 
+::::::
+
+::::::
+UserName: mannsdan
+Rating: 1
+Date: Aug 14, 2007 1:18 pm PT
+Review:  where do i begin with the disappointment i had for this game...
+  i guess i will start with the graphics. to put it mildly: they stunk like crap. after loading the 
+ game and waiting with high expectations after reading all of the reviews i was completely blown 
+ away by the lameness of the graphics. i was expecting some nice cockpit vies of the land below 
+ but all i got was a bunch of low res polygons and jagged lines which looked nothing like mountains 
+ or valleys. i turned up the graphical settings as high as they could go and still this game could 
+ not deliver on the graphics end. i felt like i was playing a game on an original playstation. i 
+ kept wondering why anyone would release a game with such disappointing displays when today's computers 
+ have such potential and graphics processing power. how come ace combat 4 on my playstation 2 looked 
+ 10 times as good as this game? i wish i would have skipped this purchase...
+  second of all, the sound was terrible. the same monotone swooshing sound was so annoying. third 
+ the game is not at all fun to play. from the begininng you are thrown into a campaign without any 
+ idea of what you are really supposed to do. so i spent 10 minutes flying around the same stupid 
+ loking terring. is that the runway? no, actually it is supposed to be a stream or something. BORING!
+ 
+  i was looking for a game to test out my new joystick and when this game finally arrived i was 
+ completely disappointed. i guess if you are a real pilot and are obsessed with difficulty, long 
+ boring manuals, excessive amounts of keys to use and you really don't care about graphics or gameplay 
+ you might actually enjoy this game. i am putting this game back in the box, uninstalling it and 
+ putting it up for sale on E-bay. 
+::::::
+
+::::::
+UserName: LiquidKingCobra
+Rating: 9.8
+Date: May 22, 2007 1:52 am PT
+Review:  Warning: Difficulty can be extreme. Not for casual gamers. Lets start at the beginning. A joystick 
+ is a must for this game, and if you've got the money I would recommend a package with separate 
+ throttle and perhaps rudder pedals. If you want a quick, easy, shoot 'em up flier then keep moving. 
+ This game is the most realistic combat flight sim outside the military for a reason. Even if you 
+ choose to drop down the realism of the game it can take time to learn. I chose to try and keep 
+ things realistic as possible and it took me close to 100 hours of training missions, printing and 
+ consulting the extensive manual, and practice before I ventured into the campaign with any confidence. 
+ Afterall this time I probably understand about 1/3 to 1/2 of the avionics and such. If you are 
+ willing to put the time and energy into this game its depth and replay value are among the best 
+ I have ever seen. You can pick up a copy pretty cheap on the internet and its definitely worth 
+ its price. LKC 
+::::::
+
+::::::
+UserName: terial1901
+Rating: 8.1
+Date: May 19, 2007 7:54 pm PT
+Review:  I like this game but it is SOOOO Difficult to get used to completely. Now i have Absolutely no 
+ Knowledge of Flying, So im spending as much time As I can to get this. There are so many different 
+ Controls and $h!+ that I cant do much of anything.
+  Its a good game but I think its just a little bit too complicated for anyone just looking to have 
+ a good time flying and wanting to be in a first person view of a plane.
+  I would have to give this game a 8/10 Theres Okay Graphics and very Solid gameplay at times, but 
+ it takes a h3ll of a Time to Understand 
+::::::
+
+::::::
+UserName: warglom
+Rating: 10
+Date: May 6, 2007 8:22 pm PT
+Review:  Ok, so before I begin, YES it IS a SIMULATOR not just your casual Hey cool, bombs, Ima go kill 
+ stuff now kind of game. It requires time, THOUGHT, and skill, lots of skill. Now I bring this point 
+ up because Im so tired of people giving it a score of 2 saying Its too complicated and its impossible 
+ These people are flat out stupid, honestly did they even LOOK at the back of the box? it says RIGHT 
+ THERE The most REALISTIC, CHALLENGING, and immersive Air-Combat SIMULATION you can get if they 
+ had read that they would have realised I might not want to spend a lot of time learning controls 
+ and mapping a joystick and all that stuff SO those people are wrong. Now, onto the review.
+  
+  Gameplay- Simply put, amazing. The depth and realism in this game is simply amazing. At first 
+ the controls and depth MAY be overwhelming, put, if you take it slow and easy you can learn everything 
+ easy, just take it one step at a time and it will become second nature. Also the dynamic campaign 
+ delivers a feeling that a war is ACTUALLY going on and evolving around you, the radio chatter and 
+ all the friendly aircraft make it so immersive, sometimes you can even forget its a sim and fear 
+ for your life when something goes terribly wrong with the mission. Its truely awe-inspiring the 
+ amount of depth that has been put into the game, and its not just the big things, all the little 
+ things make a HUGE difference.
+  
+  Graphics- A work of art it aint. However for being originally released in 1998 I think theyre ok, 
+ actually for 1998 I think theyre pretty damn good. The only truly terrible part I believe is the 
+ 3d cockpit, only good for padlocking or TrackIR (If you are reading this and dont know what TrackIR 
+ your obviouslly VERY new to simming, Be warned ye noobs, this is a difficult game to get good at, 
+ have plenty of time on hand) . But all the other little details in here outside of the graphics 
+ seem to immerse you do the point where you dont even notice the unamazing graphics.
+  
+  Sound- I enjoy the sounds. the bombs falling off the rack make a nice thunk =) However the sound 
+ QUALITY is not too great, but still it was made in 1998 and once again all the elements of the 
+ game come together and immerse you and you dont even notice the small issues with the game, only 
+ time youll notice the really small issues is when you get some glitch that throws you outta that 
+ cockpit and back into your computer chair and you realise that its not real.
+  
+  Basically F4: AF Is difficult, and complex, like the actual F-16, but thats what makes it so immersive. 
+ However I reccomend that your casual gamers not touch this, your brains might melt.
+  
+  Side Note: MAKE SURE YOUVE GOT A JOYSTICK 
+::::::
+
+::::::
+UserName: monkyboyod
+Rating: 9
+Date: Apr 21, 2007 7:50 am PT
+Review:  Gameplay:
+  This is the most realistic fighter jet simulation out. With that said, it will probably turn away 
+ the casual gamer. This game does take a lot of time to fly the Viper well. There is a steep learning 
+ curve for those gamers that are not into flight sims. There still is a considerable learning curve 
+ for flight sim fans too because there are weapons/radar systems, tactics, and dogfighting physics 
+ you have to know well before you can start a sortie. If you have a real fighter pilot friend, (s) he 
+ will be a great resource. There are virtual fighter pilot squadrons that can also teach you the 
+ basics if you dont want to read the massive manual. The true fun begins when you can overcome the 
+ learning curve and take on real sorties, especially with multiplayer. If you have the money, a 
+ head tracker will greatly improve gameplay. One annoyance is the grayout during high G maneuvers. 
+ Only a pilot that is trained poorly in AGSM will gray out, yet in this game your screen grays out. 
+ Are they trying to say our AGSM is poor? So please just turn this function off.
+  
+  Graphics:
+  The aircraft are well modeled. All others are outdated, but who cares?! It's the gameplay 
+ we care about most.
+  
+  Sound:
+  Not the most high quality sound, but adequate. I would have loved more chatter from your flight, 
+ especially in dogfights. Fellow flyboys are much too quiet during a dogfight.
+  
+  Value:
+  Dude, it's cheap and the best flight sim game. I cant stand playing flight sim games where you 
+ just fly from point A to B. Where is the fun in that? I love this game because you have to think 
+ before, during and after your sortie. This game is so in depth and as accurate as it can be without 
+ breaking SECRET clearance. 
+::::::
+
+::::::
+UserName: DarthMike395
+Rating: 9.7
+Date: Apr 15, 2007 8:10 am PT
+Review:  Warning! This game takes a lot of time to learn and do right. This is one of the most realistic 
+ flight sim game ever made. As you probably already know, there is an 800 pg pfd. manual that you 
+ have to read to really master the game. In this game you can fly 3 different versions of the great 
+ F-16 fighter. This game makes it seem that you are really flying! The controls in the F-16 game 
+ is the exact controls on the F-16 in real life! Also this game has a great campain to play. The 
+ campain takes monthes to finish and there is 6 different campains. If you are deciding between 
+ this game and the new Flight Simulator X. I would say you should get this game because it is more 
+ realistic than Fight Sim X. Also if you do get the game have some fun with it! You do not have 
+ to read the manual straight away! 
+::::::
+
+::::::
+UserName: manifestus
+Rating: 8.6
+Date: Feb 19, 2007 11:11 am PT
+Review:  First, if you think you like flight simulators, make sure you mean flight SIMULATORS. Not arcade-style 
+ flight games. Second, understand that this game does not baby you -- you will (unless you perhaps 
+ happen to have extensive experience with the F-16) have to devour at least a significant portion 
+ of the training guides and material available -- either in the pdf, online, or otherwise. Third, 
+ if you're not an avid flight sim enthusiast ... be prepared to get a HOTAS setup -- and a pretty 
+ good one at that. Finally, make sure you heavily utilize the available online community resources 
+ -- that's the support you'll be leaning on, not the support of Lead Pursuit or Graphsim Entertainment. 
+ All that aside, this simulation is superb -- probably the best civilian flight sim experience possible. 
+ You may (like me) feel like bashing your head into your desk repeatedly as your F-16 does something 
+ inexplicable (or so you think) , runs out of fuel in mid-flight, or whatnot. Perhaps you'll be overwhelmed 
+ by the sheer incomprehensibility of scope, objectives, and masses of stuff out there ... but after 
+ hours (or days/months) you'll slowly begin to appreciate (and understand) the levels of complexity 
+ that afford this simulation a level of depth not otherwise seen in this genre. My best words of 
+ advice with regards to this game will be -- make sure you know what you're getting. This is a superbly 
+ crafted, highly in-depth flight simulator; it is NOT an instant gratification flight game. 
+::::::
+
+::::::
+UserName: DeusEx1
+Rating: 8.2
+Date: Feb 4, 2007 12:06 pm PT
+Review:  If your a Flight Sim fan, an aviation hobbyist, or a gamer who whats a challenge and a change of 
+ pace, then this simulation just might be what your looking for. Maybe....
+  Learning this simulation requires hours of flight time and study. This is an exact simulation of 
+ the F-16 Fighting Falcon. That doesnt mean a newby shouldnt give it a shot. The options allow you 
+ to scale down almost every aspect of the simulation, you can play with simplified radar and avionics, 
+ even give yourself ulimited fuel and weapons. Though these options degrade the realism of flying 
+ an F-16, it gives new comers a nice stepping stone and allows you to learn at your own pace.
+  Falcon 4.0 comes with a 716 page pdf manual that details every procedure you might need when flying 
+ a real F-16, on the easiest settings of the game you wont need to know most of these procedures. 
+ But if you have the time and patience to study the seemingly endless buttons, setting and menus 
+ that crowd the F-16 cockpit you'll definently have a feeling of pride that no game can give you.
+ 
+  Falcon 4.0 features a great dynamic campain engine that controls thousands of air, sea, and ground 
+ units in a realistic war setting that will change depending on the success and failure of your 
+ missions. For example, if you destroy an enemy bridge, enemy ground units wont be able to use that 
+ bridge untill it is repaired, which will effect when and where they can move and attack. Failing 
+ to complete important missions can result in a great advantage to the enemy, making future missions, 
+ that much more difficult.
+  This game has a very devoted fan community and you can find some great add-ons that greatly increase 
+ the games graphics.
+  If you want to play multiplayer, youll need a friend or youll need to be very good at this game, 
+ squadrons online are dedicated and recrute only the best pilots. But having a real human as a wingman, 
+ really brings out the realism in Falcon 4.0.
+  This simulation is difficult, the enemy AI is smart and you will have your hands full driving the 
+ jet. 
+::::::
+
+::::::
+UserName: UKPartisan
+Rating: 9.2
+Date: Jan 14, 2007 3:55 am PT
+Review:  I would of given this a 10 if it weren't for the shoddy models of some of the aircraft and vehicle 
+ models, why bother to graphically update the game if you're only going to update some and not all 
+ of the models?? Oh well, I guess Lead Pursuit will get round to it. I have played the original 
+ F4 and patched it up with community mods like SP3 and FreeFalcon and found this to be the best 
+ option for those of you who are new to F4, for those of you who already own F4 in one of it's patched 
+ guises you'll be disappointed by the omission of flyable aircraft as introduced by community mods 
+ such as SP3 and various other niggles. Other than that little gripe Falcon 4.0 is still the daddy 
+ of air combat sim's nearly a decade after it was released.
+  
+  (by the way Lead Pursuit seem to be keeping a tight check on FalconAF's modding possibilities, 
+ as yet I have only found a commercially available scenery replacer and a cockpit mod. very disappointing) 
+ 
+::::::
+
+::::::
+UserName: zwaddell
+Rating: 9.8
+Date: Jan 3, 2007 10:39 pm PT
+Review:  For those simulation enthusiast, this is your game. It's not a pick up and play, but if you give 
+ the PDF manual a read, it sucks you in. I've had the simulation 2 years now and still play the 
+ dynamic campaign. If you're a military aircraft, flight simulation, or aviation enthusiast this 
+ is your game-no-simulation. As far as flashy graphics, it's a 9 year old beauty that still holds 
+ up against the modern sims. Just learning how to effectively use different radar sub modes, missles, 
+ and air to ground munitions effectively was a challenge (I was 11 when I took on the task of learning) 
+ and really rewarded me. To get two maverick missles off on a column of tanks-in a ravine- and maneuver 
+ away was one of the most intense and fulfilling feelings I've had with any game/simulation. 
+::::::
+
+::::::
+UserName: LTZH
+Rating: 9
+Date: Aug 30, 2006 11:10 am PT
+Review:  This is an amazing Flight sim, the 2nd best I have ever played (Jane's USAF was my all-time favriote) . 
+ The first thing that impresses you the most is the campaign engine, its realtime, so even when 
+ you're not flieng the mission other squadrons are flieng. There are 6 time eras and 2 diffrent 
+ campaign locations (Korea and the Balkans) . You're probelly thikning,"that sucks..." wrong!!! first 
+ of all there milllions and millions of square miles at each location, the second thing is which 
+ makes ever campaign diffrent is you get to choose (before the campaign starts) what kinda missions 
+ will be flown, for NATO. So the campaign is the most impressive Ive seen. Moving on, The difficulty, 
+ I know you guys have heard guys that say this game is impossible. It really isnt, if you're a beginer 
+ you can choose the beginner level, or if you're hardcore its the most realistic simulator you've 
+ seve been in. The Graphics are better then lock on's in my opinion but they did get a little better 
+ when I patched the game up. If you're trieng to choose from lock on to this, get this game for 
+ sure even if you're a beginner, It does take about 1-2 hours to figure out how to take-off and 
+ land tho, but after 10 hours of flieng and practicing you wont want to play anything else, best 
+ game out there for $30 now. 
+::::::
+
+::::::
+UserName: Link1990
+Rating: 10
+Date: Aug 12, 2006 4:04 am PT
+Review:  Falcon 4.0 Allied Force is one of, if not, the most realistic combat flight simulator ever made. 
+ The developers and fans put a lot of work into making this game a possibility.
+  Flying the Falcon is fantastic. From stalls, to deep stalls, to G-effects, to wing trails, the 
+ flight model is realistically correct. The overall feel of flying this bird is like flying the 
+ real thing. Avionics are realistic, and the game offers the option of clicking on the MPD buttons, 
+ rather than using the keyboard, which adds to the realism. Weapons in the form of bombs, missiles, 
+ and guns all behave as they do in the real world. Missiles do not have a 100% hit chance, the guidance 
+ system can mess up sometimes, and they can be avoided. Bombs do realistic damage, and small bombs 
+ cannot completely take out a bunker, just like in real life. The Falcon's guns take several bursts 
+ to take out some armored vehicles, just like it would in real life. Damage is realistic, as multiple 
+ systems fail, and the flight model is affected accordingly. The AI are smart even when placed on 
+ a moderate difficulty setting. They use fighter tactics that most real pilots would use, which 
+ makes them worthy counterparts to any human player. Pilots are even rewarded, based on mission 
+ performance, with promotions and/or medals. Overall, the realism of the game has nothing wrong 
+ with it.
+  The graphics are very satisfying. Explosions and fire trails from damaged craft look fairly realistic, 
+ and they could use a little work. However, the resolution and textures are still good, as well 
+ as the aircraft models. The HUD and MPD screens in the cockpit look realistic and have good resolution. 
+ Pretty much all of the clickable buttons in the cockpit will react when clicked, and the cockpit 
+ looks very much like the real cockpit of an F-16. 
+  The sound of this game is like no other. Radio chatter is constantly audible, unless the radio 
+ volume is turned down in the cockpit. Pilots relay messages that the military would most likely 
+ use, and the AWACS gives realistic bearings of bandits as well as ground objectives. The menu music 
+ is not anything to shout about, but the radio chatter is much more entertaining while playing the 
+ game. The cockpit engine noise sounds like a real Falcon, and it is even possible to hear the rushing 
+ air outside of the cockpit.
+  This game features 6 scenarios (2 different countries with 3 time periods) . It is possible to fly 
+ in the Balkans or in Korea. There are 3 campaigns for each scenario, each lasting several game 
+ days, which can contain a lot of missions. Overall, it takes a very long time to play through all 
+ the campaigns, single missions, and training missions.
+  This flight simulator possesses many different elements which overall contribute to a well-rounded, 
+ thrilling game like no other. It is without a doubt, the most realistic combat flight simulator 
+ ever to hit store shelves. Any flight simulator fan that looks for extreme realism, should definitely 
+ buy this game. 
+::::::
+
+::::::
+UserName: bigtall1
+Rating: 7
+Date: Jul 2, 2006 6:48 pm PT
+Review:  This is NOT a game, this is a simulation. There is no helpful training movies or anything, just 
+ an 800 page pdf file and a 100 page booklet for learning how to operate an F-16. 
+  I must admit, at first I was disappointed because I had no idea what I was looking at in the cockpit 
+ or how to use it, but now I am starting to figure things out and it's a lot of FUN!
+  Once you spend about 4-5 hours, reading and practicing what they tell you to in the manuals. both 
+ pdf and hard copy, you start to catch on and it becomes very addicting. You honestly learn how 
+ to fly one of the most advanced pieces of war-fare through this game!
+  The reason I scored it as an 7.1 would be because there is no voice or help once you load the training 
+ missions, you are left to remember what you read in the pdf file before you booted up the game. 
+ Also I rated it sort of low because the graphics SUCK. This game honestly looks like it was made 
+ in the early 90's, which is was. So if you can get by those two things, this game is for you. 
+ 
+  Also, you MUST get a joystick! 
+::::::
+
+::::::
+UserName: mpam
+Rating: 2
+Date: Jun 30, 2006 2:30 am PT
+Review:  Unless you work in the air force and want to train or unless you've always wanted to be a pilot 
+ with all the hassle that comes with it, you don't want to try this software. This is not a game, 
+ this is a simulation (don't even think of playing it without a joystick by the way) : if you want 
+ to use it comfortably, you'll have to learn one of the amazingly indigestible keyboard layouts 
+ that can be found on Lead Pursuit's website - up to 8 functions per key.
+  I guess this simulation is good once you've managed to learn the controls though, the graphics 
+ are a bit old but I suppose the realism is good... but personally I decided to give up and that 
+ I had better learn C++, it's easier and more productive. 
+::::::
+
+::::::
+UserName: Joe185467
+Rating: 9.6
+Date: Jun 9, 2006 4:02 pm PT
+Review:  Gameplay: 10. First and foremost, this simulation requires weeks of heavy playing to fully learn 
+ how to control the F-16 effectively. It is definately not for the faint of heart. If you come from 
+ shoot-em-up games or anything like that, you will not enjoy it, so stop reading right now and save 
+ yourself the trouble. Trust me, if you are willing to learn how to play this sim, you will absolutely 
+ love it. 
+  
+  Graphics: 7. Falcon 4.0 AF uses the same graphics engine as the original Falcon 4.0 from 1998. 
+ It is not a hinderance, but it doesn't help either. I came from LOMAC, so it took some getting 
+ used to. :-) (note: falcon 4.0 AF is a true hardcore study sim; LOMAC is a light-weight survey 
+ sim.)
+  
+  Sound: 10. They got the sound perfect in this thing! the in-cockpit engine noise is muffled by 
+ the helmet, just like the real thing. Don't expect it to sound the same as the exterior. 
+  
+  Value: 10. Put simply, if this cost me $200, I would still buy it. It's that good.
+  
+  Reviewer's 
+ Tilt: 10. I got into it right away, once I convinced myself to take on the daunting task of learning 
+ how to effectively fly and fight in the F-16.
+  
+  To all those people who give dismal reviews; take some time to learn it. You won't look back again. 
+ 
+::::::
+
+::::::
+UserName: Blakewiz
+Rating: 6
+Date: May 7, 2006 9:57 am PT
+Review:  I've always been a fan of flight simulations. I played the orignal falcon 4.0 and though it was 
+ alright so I went and bought Allied Force..... 
+  
+  This game takes simulation to a whole new level. You pretty much need to know how to operate the 
+ real F-16 to even play this game. Of course it comes with a 800 page manual which will take you 
+ half your life-time to read, and of course you can't play the game unless you've read the manual 
+ or you'll be lost right away. Training sucks, no help just puts you in a situation and you have 
+ to find out how to play for your self.
+  
+  So after you've got the game figured out it starts to get fun, dogfights are immersing, the campagins 
+ are dynamic and very nice, and the AI are very smart. One huge problem I had with the game were 
+ the graphics. Plane models are nice and terrain is average, but some of the animations are choppy. 
+ An example is when you eject from the plane the parachute comes out frame by frame, not smooth 
+ at all. Also the explosions and collisions look terrible. 2d cockpit is nice but blocky to look 
+ around in. 3d cockpit is easier too look around in but is not interactive or very nice looking.
+ 
+  
+  Overall, if your looking for a realistic flight sim which acts the very same of a fighter jet and 
+ don't mind reading a 800 page manual you might consider buying this game. If you want a more fun 
+ experience with just enough realsim buy LO: MAC. 
+::::::
+
+::::::
+UserName: ahowes_gs
+Rating: 9.1
+Date: Apr 26, 2006 6:32 pm PT
+Review:  If you rate this game for what it is, a huge update of the seven year old Falcon 4.0, and the best 
+ combat flight simulator ever made, then it deserves near perfect scores. The graphics could be 
+ better, but when you take in account the level of detail paid to flight accuracy, weapons accuracy, 
+ the complete battlefield (the entire Koran Peninsula or the Baltic Region) , then you will realize 
+ that this game is not about the graphics. Its about realism.
+  
+  Keep in mind that realism comes at a price, mainly, the 800 page instruction manual and the fact 
+ that a 12 year old probably cannot fly an f-16 very well! You must learn, fail miserably, then 
+ learn some more if you want to succeed at this game. If you want easy and pretty buy Blazing Angels. 
+ If you want real and gritty, pick this game up.
+  
+::::::
+
+::::::
+UserName: svns_reaper
+Rating: 7.5
+Date: Apr 19, 2006 6:18 pm PT
+Review:  Falcon 40 Allied Force is a great game......... once you learn what the hell you're doing. Yes you 
+ need to read the manual over and over, and yes you will be staring at your instruments for a long 
+ time wondering what in the world you're looking at. But that's the beauty of this game. You can 
+ make it as realistic or arcade-like as you want. Almost all aspects of the game are adjustable. 
+ This game is so realistic you can't possibly expect to be up in the air reading that radar like 
+ a seasoned pro in a few minutes. I found that pausing the game while referencing the manual to 
+ be quite helpful in understanding the cockpit and all the buttons, and different radar modes. But 
+ you'll honestly feel like you could actually fly a real jet after you get good at these things. 
+ Don't be put off by people complaining about the difficulty. If you want a real, true to life, 
+ simulator this is it. 
+::::::
+
+::::::
+UserName: GoodFella1991
+Rating: 2
+Date: Apr 13, 2006 3:42 pm PT
+Review:  I cannot believe I fell for the player reviews. I am an idiot. As you may have already known, there 
+ is and almost 800 page manual that you HAVE TO READ to play the game. The training missions are 
+ bad in that you basically have to print out the manual to do them right. I did not even get to 
+ the campaign because I got tired of having to read the manual instead of playing the game. Listen, 
+ this is the MOST realistic combat sim out there. The problem with that is that it means it is not 
+ fun. Expect to be reading the manual for about a month before you get to actually play the game 
+ in its entirety. Please do not get this game. 
+::::::
+
+::::::
+UserName: IisDAmac
+Rating: 9.6
+Date: Mar 18, 2006 11:20 am PT
+Review:  This geme is, without a doubt, the most hardcore and realistic flight sim out there. Falcon was 
+ a computer game a loooooooong time ago. Many hated it for all the bugs and difficulty, but some 
+ have made modifications to it over the years and messed around with the code until the game was 
+ almost bug-free. Finally after a long wait the game has been re-released with all the fixes and 
+ more. Gameplay is so f 'n realistic, u need to read the 700+ page manual on the cd to know what 
+ to do. Yes, sounds like a pain in the @$$, but once u learn everything the game is a rare gem. 
+ Many people conplain about the graphics. I kinda agree, first, the enviroments are huge and all 
+ the battlefield is totally dynamic so u might get some framerate issues if ur processor is slow. 
+ Second, they don't look that great compared to other sims like IL2 of LOMAC, but if u play at hi 
+ resolution its not that bad.
+  
+  bottom line: if u love realistic, hardcore flight sims, get this!!!!!!!!!! NOW!!!!!!!!!! 
+::::::
+
+::::::
+UserName: Savages_Havic
+Rating: 6.7
+Date: Mar 5, 2006 12:23 am PT
+Review:  Overall the game is really good as far as maintaining simulation, but the game is lacking in alot 
+ of area's. The graphics really arent up to par, and you dont really feel that since of satisfaction 
+ after shooting down a plane. The online multiplayer is very bland, and the campaign mode is pretty 
+ boring aswell.
+  
+  I loved the cockpit and being able to interact with it in alot of different ways. The thing that 
+ frustrates me the most about this game is the poor patch support. I havent been able to update 
+ my game for sometime because of some patch error. Ive tried automatically getting them, getting 
+ them off the official site, unzipping them, my game just wont patch. Ive emailed these guys a few 
+ times concerning the problem and submitted several bug reports, yet they ignored the issue all 
+ together. That basically turned me away from the game. Sorry but these guys have worst support 
+ then novalogic, and thats pretty sad. 
+::::::
+
+::::::
+UserName: aubar
+Rating: 8.7
+Date: Feb 11, 2006 2:34 am PT
+Review:  Falcon 4 was a really great game, a significant successor to F16 Fighting falcon (for those who 
+ remember it)
+  But what those guys did was a great challenge and it gives a kick in the ass to previous simulations. 
+ It is really, really close to reality (how many times did I crash when landing ? ... hmm)
+  Too close in fact because it prevents sometimes to have a real good fun bombing, straffing or shooting... 
+ Manage all the keys on a simple keyboard is a small nightmare and become fluent with long practice.
+ 
+  Another thing that troubles me is a small support for non-english speaking players which can be 
+ hard for them to catch all the radio traffic.
+  Graphics are splendid when close but Z-buffer is a bit too short I think but, well, ok I am a perfectionnist 
+ !
+  Falcon 4 AF is a great F16 simulation game. Thats all ! 
+::::::
+
+::::::
+UserName: gilligan841
+Rating: 8.4
+Date: Jan 12, 2006 6:45 pm PT
+Review:  Lead Pursuit pretends it's the best combat flight simulator ever made what I completely agree; 
+ very accurate (as long as I can imagine it is in real life) . 
+  
+  There are two main parts in this game : 1- What are the components of the F16 and how to use them, 
+ 2- The campaign and all the strikes that the F16 might have to proceed during a war. 50% of the 
+ game is how to pilot the F16 and the other 50% is how to use the F16 in a war. You have a real 
+ feeling what might be a war playing this game.
+  
+  However, this game is very hard to learn. First you HAVE to go through the manual (at least 600 
+ of the 716 pages) if you want to BEGIN to know about piloting the F16. Then, it's not the end because 
+ you have now to learn how to use the F16 in a campaign and again you'll find very hard to understand 
+ because the informations about specific strikes in campaigns are not well explained. So you have 
+ to strike, then try to understand what went wrong, go back to the manual, read again and again, 
+ what you already read at first (remember the 716 pages) , and search newsgroup to find answers to 
+ questions that cant be aswered.
+  
+  Finally, I pretend that this game is for a combat flight simulator enthusiast who will have A LOT 
+ OF HOURS to spend playing it. I dont recommand to buy it if you dont have a lot of time in front 
+ of you, unless you are interested to spend a few bucks to learn a little bit about the F16.
+  
+  This game is very addictive even if its very hard to learn to play!
+  
+::::::
+
+::::::
+UserName: badkarma77
+Rating: 7.2
+Date: Jan 8, 2006 6:58 pm PT
+Review:  Since this sim is really just a combination of mods for the original Falcon 4.0 one shouldn't expect 
+ a great deal more than just that. The graphics are dated compared to newer sims. Falcon 4.0 used 
+ to be extremely detailed with a very steep learning curve, and I guess, for a beginner it still 
+ is. But compared to the likes of Lock On: Modern Air Combat it seems fairly simplified. With all 
+ of that being said, flight physics and weapon systems are accurate and this sim is a great flight 
+ sim with a lot to offer. Frankly, it's just a lot of fun to play! I think the price is great too 
+ considering most are charging near $50 for their new flight sims. 
+::::::
+
+::::::
+UserName: ownald
+Rating: 9.2
+Date: Jan 7, 2006 2:37 am PT
+Review:  Well...
+  
+  IT IS the ultimate flight sim for this time (!) . Many reviewers thinks that this game is hard to 
+ play. But I don't think so, There's a great list of realism settings in the Settings menu of the 
+ game. The game is meant to be played with a joystick, but I'm playing it with the keyboard. And 
+ that isn't a problem at all! Just change some setting and create your own perfect handling! Some 
+ people says that there isn't a clear point what to do in a training mission. Well, they haven't 
+ read the PDF manual wich is included in the game... I'm playing the game with a 100% realism rating, 
+ and it feels great. If you start to play it, you can direct feel the power of the F16. The handling 
+ is SO good that you're feeling yourself the owner of the yet, the handling is just perfect. Another 
+ thing i like is the fact that you can click on every switch in the cockpit. The result of clicking 
+ on a switch is 99% realistic, just great...
+  
+  My conclusion: beginner or pro, buy this game if you like flight sims! It's easy to learn the basic 
+ handling of the F16, even with a 100% realism rating! 
+::::::
+
+::::::
+UserName: spock1898
+Rating: 4.5
+Date: Dec 15, 2005 7:09 pm PT
+Review:  This game is nearly impossible. I can't believe I wasted my money on such a time-consuming, unrewarding 
+ load of ****. Should you actually make it through training (which is terrible in this game) , the 
+ campaign mode is worthless, giving you little information on what to do and having no legitimacy 
+ whatsoever. Don't even get me started on the graphics. Yeah, the Falcons look great, but just about 
+ every other plane is cheaply modeled, and the special effects are way behind other games. Granted, 
+ I haven't tried the multiplayer yet, but quite honestly, I don't think there's much left to save 
+ this game for me. Ahh, if only Best Buy would allow software returns because that's right where 
+ this hunk of junk would end up. Maybe I'll teach this game how to fly out the window of my car. 
+ Don't waste your money on this. Buy something more rewarding and fun. 
+::::::
+
+::::::
+UserName: harriskhan_18
+Rating: 5.6
+Date: Oct 13, 2005 12:06 am PT
+Review:  Boy this game is so annoying. Ok i love flight simulators but this game has the worst training 
+ ever. It takes hours just to see which keys are used for what purpose. the way they mapped the 
+ keys in this game is plain ridiculous and i dont understand a single bit.. during training they 
+ should at least guide us which keystrokes to use how you can change your weapon etc etc... Very 
+ annoying no help what so ever not satisfied with this game... 
+  i loved the old F-16 Fulcrum and Mig 29 and i lvoe microsofts flight simulators because they have 
+ a proper tutorial. 
+::::::
+
+::::::
+UserName: GreyHairedGamer
+Rating: 9.6
+Date: Sep 24, 2005 1:13 am PT
+Review:  The only way to describe Falcon 4.0: Allied Force is to repeat what everyone else has been saying 
+ This is a simulator and not a game.
+  
+  GamePlay (10) : Lets face it everyone has tried to create a realistic air combat simulator but 
+ has scraped some part of it to appease a larger audience. Lead Pursuit kept true to the simulation 
+ and in my opinion did it right. You will need to read through a good deal of material and practice 
+ a good deal if you want to be competitive at this simulation. But isnt that what it is really 
+ all about? Having fun and learning at the same time
+  
+  Graphics (9) : The graphics are excellent. I would like to see more in-program settings available 
+ but Im not going to complain. The clouds look good; the aircraft look good and so on. 
+  
+  Sounds (9) : Probably the one area I thought was weakest. The voices used in the simulation are 
+ clear but could have been better. Aircraft sounds are outstanding.
+  
+  Value (9) : If you like air combat this simulation will continually deliver with the ability to 
+ create custom missions through the custom mission editor. Just like previous versions of Falcon 
+ this puppy is going to be around a while.
+  
+  Reviewers Tilt (10) : I love the simulation. No doubt in my mind this is the best on the market. 
+ Microsoft, UBI Soft and everyone else should look at this before sending out another combat simulator.
+ 
+  
+  The depth of authenticity that has been put into this game puts it in a league of its own. No other 
+ air combat simulation compares to it. But it is not for the faint of heart. You really need to 
+ do some reading and learn the F-16. You need to understand its flight dynamics, weapons system, 
+ radios, and on and on and on. Is it worth it? You bet and the price on this is amazing compared 
+ to lesser products that cost more.
+  
+::::::
+
+::::::
+UserName: Dirk359
+Rating: 8.9
+Date: Sep 7, 2005 10:20 pm PT
+Review:  I'm a huge commercial and military flight sim fan! The falcon series has won a special place in 
+ my game collection. It has always been the best and most realistic f-16 flight simulator a civi 
+ could get their hands on. Once you install Falcon 4.0 AF and jump into the game you begin to notice 
+ that this is game is like no other. When in the game you can look around the cockpit and get a 
+ great feel for the plane. Once airborne the plan acts and behaves very realisticly, tones and buttons 
+ light up and makes all the appropriate noise. When you fire a missile you can look over your shoulder 
+ and see the empty hardpoint. ^^ Combat engagements are also treated very realisticly which is very 
+ refreashing and exciting. 
+  
+  The only thing that I would warn a person about Falcon 4.0 AF is that it is very realistic. Though 
+ you can mess with some of those settings it still maintains a nice yet sometimes intimidating presence. 
+ I'm not perfect at the game, but still try to play with invulnerability off to keep the realistic 
+ feel. Still even though I am able to taxi, take-off, and engage the enemy ok I still can't master 
+ landing. anding is usually where I screw up and crash. -.-;; Beyond being difficult to land I can't 
+ say much bad about this game. Sounds and even the graphics are still up to par to today's flight 
+ sims, even though the graphics are from a 1995 game.
+  
+  I hope you give Falcon 4.0 Allied Force a try and support Lead Pursuit's and Atari's faith in one 
+ of the greatest military flight simulator series going for the future. *^-^* 
+::::::
+
+::::::
+UserName: HTWingnut
+Rating: 9.1
+Date: Aug 21, 2005 5:59 am PT
+Review:  First things first, this game is based on broken code that was released nearly seven years ago 
+ (as of August 2005) in a game known as Falcon 4. It was patched to 1.08 at the last minute by the 
+ design and development team that was disbanded that same day. Bug-ridden and lacking support, Falcon 
+ 4 was near destined a quick and painful death. However, the source code for version 1.07 was illegally 
+ publicly released, and a bunch of talented flight simulation enthusiasts took advantage of the 
+ situation and created a number of hodge podge improvements available to the community for free. 
+ Greatly welcome by the die-hard community, it turned out to be too much for the casual simmer since 
+ there were so many variations and ways to install, and would make playing multiplayer gaming near 
+ impossible unless you had identical add-ons. But this kept the dream alive enough to allow Allied 
+ Force to be made.
+  
+  Now comes Falcon 4: Allied Force revised and developed by a new company, Lead Pursuit, headed by 
+ one die hard fan himself. Allied Force builds on what made Falcon 4 so attractive originally, namely 
+ the dynamic campaign elements and the high fidelity flight modeling of the F-16 Falcon. And for 
+ the first time, a "crash-free" game.
+  
+  This version cleans up the user interface quite a bit and makes it so much more user-friendly. 
+ It offers three variants of the F-16 to fly, the Block 40/42, Block 50/52, or the MLU dual seater, 
+ although you can only view or fly from the pilot seat.
+  
+  Flight modeling has only been marginally tweaked, with issues only a hard core F-16 enthusiast 
+ would recognize. From my perspective it is feels right from my previous experiences with flight 
+ sims, which stretches back nearly 15 years.
+  
+  Artificial Intelligence has been improved. Friendly aircraft and enemy alike will play a smart 
+ battle, but still make some boneheaded moves. The communication interface also seems much more 
+ reliable where wingies will actually do as commanded, with a few questionable glitches. For one, 
+ usually having a bandit on one's tail is not only a sign of bad flying (yes, mine) , but also an 
+ opportunity for your wingie to save one's arse *and* score a kill. Many times my less than skillful 
+ flying has landed an enemy on my six, and a desperate request to my wingie landed on deaf ears.
+ 
+  
+  Other comms requests are quite reliable however. Traffic patterns are called out as appropriate 
+ from the air traffic controllers. AWACS indicates threats in the vicinity. And refueling with a 
+ tanker is still the utmost challenge of anything.
+  
+  Keeping in mind that this is a revision to code released seven years ago, the dynamic campaign 
+ is so robust and well designed, that it blows away anything that is offered today. Flying into 
+ battle one will notice the ground war progressing, but more importantly the air war ensuing that 
+ the gamer becomes familiar with in a hurry, especially as a wall of MiG or Su aircraft flights 
+ encroach on your position. All that battle going on around you is to no avail either, as each units 
+ success or failure relates to one's "Side" progress in the campaign. As a matter of fact, campaigns 
+ will progress better if the user gets involved by creating and manipulating air sorties and ground 
+ assaults in the tactical screen. Three Balkans and three Korean theaters are offered to the gamer 
+ as well, with hints for a Desert Storm type campaign in the works (unofficially) .
+  
+  While the graphics look somewhat dated, the Lead Pursuit team did a great justice with a game originally 
+ released for DirectX 7. The most important improvement is the cloud models, which present fluffy 
+ clouds, and also model ground fog quite well. Most of the unit skins have been revised as well. 
+ But getting into the campaign, one clearly realizes that the real meat of this game lies with the 
+ dynamic campaign and flight model, and any graphical improvements are for eye candy only.
+  
+  The most highly anticipated feature of Falcon 4 Allied Force is the multiplayer. Even though 
+ the multiplayer gameplay hasnt changed much, what has is overall stability. In addition, the Falcon 
+ community has one common install that all can relate to and know they will have a successful connection. 
+ Some bugs still need to be ironed out, but for the most part it is possible to run full live served 
+ campaigns allowing virtual combat pilots to join the cause at their bidding, joining in with other 
+ fellow pilots. Using other software like Teamspeak allows for simpler coordinate flying, not to 
+ mention killing time with general chat during long flights.
+  
+  All this being said, fear not rookie pilots, as Falcon 4 Allied Force offers comprehensive training 
+ missions to teach basic skills well enough to join the fight and score a few kills. The game ships 
+ with a small beginners manual, but a larger 700+ page manual is available in PDF format which 
+ contains the step-by-step training missions that coordinate with the training missions in the game. 
+ This is also a great opportunity to use a voice command program like "Shoot!" or Game Commander 
+ to offer voice comms to free up keyboard and/or flight stick HOTAS keys.
+  
+  Be warned, however, that this game requires lots of patience and studying of the manual. Not to 
+ mention that several aspects of the simplified game settings don't work properly, hopefully to 
+ be fixed in an upcoming patch. Either way, any new pilot should use the advanced avionics anyways 
+ if they intend on getting anywhere in the game.
+  
+  Lead Pursuit has promised continued support of Allied Force and so far has proven right with an 
+ immediate patch to fix several of the glaring problems. They have also supported many of the popular 
+ combat flight sim forums by answering questions directly and asking what else the community would 
+ like fixed, revised, and/or added. Given the complexity and attention to detail this sim offers, 
+ one can only be happy to have such great support for this aging title. It looks to be the stepping 
+ stone for Falcon 5 which we jetheads anxiously anticipate.
+  
+  For the beginner, just have patience, and this game will grow on you, along with your skill. For 
+ the seasoned cyber pilot, dont let your ego get the best of you because you will have a huge learning 
+ curve as well. But take the time and youll be in for the ride of your life!
+  
+::::::
+
+::::::
+UserName: metamarty
+Rating: 9.1
+Date: Aug 6, 2005 11:20 am PT
+Review:  I've been a flightsim and war game fan for a long time, but I never combined the two. I either 
+ flew civilian aircraft, or I played a commander or a soldier on the battlefield. I skipped the 
+ original Falcon series, because of all the problems associated with it. Now that I finally tried 
+ it, I was amazed to find something that goes way beyond an aircraft simulation.
+  
+  This package is a combination of a totally overhauled Falcon 4 engine and loads of addons. The 
+ graphics have been brought to modern standards and are satisfying, although some parts like structures 
+ and some aircraft show signs of aging. The F16 cockpit is great though and with resolutions up 
+ to 1600x1200, can easily match the quality we see in other games.
+  
+  The systems modelling is easy to describe: It's amazing that this game hasn't been classified yet. 
+ It's real, nothing more to say about it.
+  
+  The part that is most interesting though, is the campaign engine. I can honestly say that if you 
+ would actually remove the whole F16 simulator from this package, you would still have a completely 
+ playable interesting game! The campaign is a game by itself. It consists of enemy and allied forces, 
+ all participating in war of huge proportion. At any time, there are hunders of ground troops, aircraft 
+ and naval vessels all working together to win the war. The campaign engine comes up with missions, 
+ using all tactical and strategical information that is available at the moment. Of course you're 
+ perfectly welcome to inject your own missions into the campaign engine. You're even allowed to 
+ move ground forces!
+  
+  What's so interesting about this campaign, is that when you see a friendly contact during a mission, 
+ it won't be an AI aircraft, programmed to fly heading 120 for 2 hours, but it is actually an aircraft 
+ performing a mission that has been planned in advance and will aid in the winning of the campaign. 
+ If you manage to shoot down a support aircraft, it won't mean a simple increase of score for your 
+ campaign, but it means that an enemy squadron might not get their resupply of missiles and bombs, 
+ which might save your home airport from being bombed. The depth of it all is amazing.
+  
+  The only thing that I don't understand is why so little shops carry this title. At an average of 
+ $30, it's simply too good to pass by.
+  
+::::::
+
+::::::
+UserName: RLJSlick
+Rating: 9
+Date: Jul 5, 2005 9:23 pm PT
+Review:  Im very excited to see Falcon 4 back! I know for years now there were add-ons for the original 
+ game, but after a while I couldnt keep up with all the add-ons, and upgrades. Its good to see 
+ a single package that brought everything pretty much together. 
+  For us long time veterans of the original series, first starting up Falcon 4 Allied Forces, you 
+ see a very familiar desktop, with everything, for the most part in the right places. Before that, 
+ youre welcome by a very sharp video of a Viper on a mission, taxiing taking off and flying. Not 
+ bad at all.
+  As with the original game, there are many options to get right into the game, or setup a campaign 
+ so that you can fly a very power dynamic war. The dynamic campaign is still the most powerful Ive 
+ seen in any game. Its a joy to be part of a large battlefield like that. One thing that really 
+ drew me back into Falcon is the new Balkans campaign. I played the hell out of the Korean campaign 
+ in F4, so to be able to play a new one, is a huge joy. The Balkans isnt like anything we saw in 
+ the Korean theater; its much darker, and cloudier, we many more hills and valleys. 
+  Lead Pursuit, the developer, put a lot of extra work into cockpit; you now have a full clickable, 
+ or Aeyes cockpits. Also, the lighting inside the cockpit is also much more refine, with better 
+ dial/gauge lighting, and inferred views. Well done. The graphic as a whole, wasnt that much different 
+ from the original sim, other then a much improved terrain and a very nice looking cloud and fog 
+ system. That really helps the realism. 
+  The AI seemed to have been upgraded also, the game seem to be a bit harder, with the computer side, 
+ really kicking your butt in the campaign, if youre not careful. WARNING: Learn the game first 
+ before starting a campaign. You will enjoy it much more. 
+  The manual is just the best Ive seen in any flight sim, 716 pages, with great pictures, and charts. 
+ The only problem is that its an online, PDF manual. Nothing but a small booklet to get you going, 
+ and like any veteran knows, you need to be able to step away from the computer and read the manual. 
+ 
+  I really love what Lead Pursuit did with this sim, I hope this time, when they say that this will 
+ be a start of a electronic battlefield, they mean it. You veteran know what Im talking about. 
+ The campaigns are well done, and are very huge, and I mean huge. The computer AI seems to be redone, 
+ and seem to be close to what we expect in a flight sim of the caliber. One more thing I want to 
+ say about Falcon 4 AF is that it seems to be very, very stable. I didnt have a crash to desktop 
+ one time, in the 10 hours of so Ive played the game. Thats very nice indeed, after a hour long 
+ mission. 
+  
+::::::
+
+::::::
+UserName: tentera
+Rating: 9
+Date: Jul 5, 2005 7:24 am PT
+Review:  I have played Wings Over Vietnam, which was very well-done though it needs improvement. I have 
+ played Lock On, Israeli Air Force and F-22 Lightning 3. But still, Falcon 4.0 stands out in its 
+ level of realism and detail. A lot of effort has been made to make it appealing and challenging. 
+ This new version has not changed much, but at least it is up to date and, like fine wine, still 
+ retains the old charm.
+  
+  I like the new addition with the Balkans campaign. At least it gives players a chance to experience 
+ what it was like flying an F-16 against the Serbs in Bosnia and Yugoslavia (a little bit fictitious, 
+ though) . Before that, you were stuck with just one. And that was Korea. And after a while, it gets 
+ less interesting. With the new addition, one has more choice. There are now three versions of the 
+ F-16 you can fly: the MLU (Mid-Life Update) version used by most NATO countries, Block 40/42 and 
+ the Block 50/52.
+  
+  The downside is that you will not have access to the Joint Direct Attack Munition (JDAM) or the 
+ Joint Stand-Off Weapon, both stars of the recent conflicts in Afgahnistan and Iraq respectively. 
+ It will be good if the developers decide to include a version upgrade or patch which have GPS-guided 
+ munitions. Nevertheless, if you like realistic flight simulators and the experience of dropping 
+ "real" smart bombs, then Falcon 4.0: Allied Force is the game for you. 
+::::::
+
+-------------------------------------------------

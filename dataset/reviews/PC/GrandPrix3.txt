@@ -1,0 +1,366 @@
+-------------------------------------------------
+:::Game Name::: Grand Prix 3
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/driving/grandprix3/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug 28, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.5
+Critic Score: 8.8, 19 Review (s)
+User Score: 8.5, 169 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Hasbro Interactive
+Developer: Atari
+Genre: Formula One Racing
+Date:     Aug 24, 2000
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+While it may not be everything that Grand Prix II players hoped for, it's still a reason for F1 
+ fans to rejoice. 
+
+ NASCAR may reign in the US, but Formula 1 is the worldwide king of auto racing. The F1 season ranks 
+ second only to soccer's World Cup and the Olympics in TV sports viewership. Not surprisingly, game 
+ companies have been quick to offer F1 racing simulations to fans of the motor sport, including 
+ Electronic Arts' recently released F1 2000 and Eidos Interactive's F1 World Grand Prix. These games 
+ have their strengths, but they still haven't earned the status of Geoff Crammond's Grand Prix II, 
+ which was released in 1996 and is still considered to be one of the few truly superb F1 sims because 
+ of its combination of excellent graphics, detailed realism, and great gameplay. Fans still speak 
+ of it reverently, which is why its new sequel, Grand Prix 3, was so highly anticipated. It's finally 
+ available, and while it may not be everything that Grand Prix II players hoped for, it's still 
+ a reason for F1 fans to rejoice.   
+
+  Installing Grand Prix 3 is simple enough because the full installation is just 320MB, but getting 
+ your controller configured is a different matter. You'll need to calibrate it in the game, even 
+ if you've already calibrated it in Windows. Oddly, the game doesn't recognize the third axis of 
+ your controller; if you use dual-axis pedals or a separate throttle on your joystick, you're out 
+ of luck. A patch to fix the problem has been announced. The controller configuration menu itself 
+ is a bit convoluted, and the same holds true for the game's menu system in general. There are some 
+ annoying oddities in the labeling and layout of the menu items that, at least at first, will have 
+ you leaping back and forth to find the options you want. Fortunately, the menu items feature detailed 
+ pop-up tooltips.   
+
+  Grand Prix 3's graphics are amazing one moment and embarrassing the next. When you first boot the 
+ game, it will choose the optimal settings for your system, and it does a decent job of configuring 
+ itself for reasonable frame rates. Later you can easily switch the resolution and tweak many detail 
+ settings to your own preference. The opening video and credits are stylish and effectively help 
+ you get into the game, as do the great full-screen background photos that grace the menu pages. 
+ These background shots are also appropriate to the individual menus; for example, behind the sound 
+ menu, you'll see a picture of McLaren driver Mika Hakkinen plugging his ears.   
+
+  On the track itself, the graphics quality varies widely. The cockpit is excellent: The steering 
+ wheel LCD readout, gearshift warning lights, and other indicators are all carefully detailed. The 
+ actual car models are also well detailed, from the individual wheel spokes to the varied sponsor 
+ logos. When cars collide or crash, individual pieces will shatter and fly off. But it's the game's 
+ weather effects that really steal the show: Rain can start to fall partway through a race, and 
+ you'll see dim reflections in the puddles. As cars race ahead of you, they'll spray mist that partially 
+ obscures your view. You'll even notice the track start to dry on the common racing line. Sometimes 
+ it will rain on one part of the track but not on another, as in the recent German Grand Prix. These 
+ weather quirks call for vital tactical decisions: On one occasion, I was leading a race through 
+ Spa when it started to pour on just part of the track. With the race nearly done, I didn't want 
+ to lose time in the pits switching to wet-weather tires. Not switching tires worked for Rubens 
+ Barrichello in the German Grand Prix, but I was no Barrichello: I spun out on a slick curve and 
+ ended up in fifth place, which was a frustrating but fun way to lose.   
+
+  Despite these strengths, the game does have some pretty serious graphics flaws. The trees look 
+ pixelated and poorly shaded. The shadows are also too blocky and too dark. Distant objects will 
+ sometimes oddly pop in and out of view as you approach, and you can sometimes see through barriers. 
+ Spectators in the stands look more like repeated rows of colored dots than like actual individuals. 
+ Your pit crew in Grand Prix 3 is also composed of bitmaps that look bad compared with the 3D polygonal 
+ graphics in the game. Yet the game's biggest graphics flaw is that without an extremely fast system, 
+ you'll have to crank down most of the detail settings to retain any sense of fluidity and speed. 
+    
+
+ Just as the graphics quality varies widely, so too does the sound. The music is effective, particularly 
+ the intro movie theme that starts in a minor key and builds to a crescendo when the lights go green. 
+ The game's sound effects are generally varied and colorful. Your engine's whine is forceful instead 
+ of weak as in many other F1 sims. Shifting gears, locking wheels, skidding into the gravel pits, 
+ and crashing into barriers sound realistic and weighty. But oddly enough, when I hit a nearby car, 
+ it was silent as it flipped up off the track and tumbled into the wall, spraying wheels and wings 
+ as it went. What's worse is that you don't hear cars approaching during passing attempts. Another 
+ flaw is the lack of radio traffic between drivers and their pit crews. Unlike in F1 2000, you won't 
+ hear your team updating you on the race situation; instead, you'll just get blocky typed messages 
+ at the top of the screen.   
+
+  The graphics and sound can be very frustrating, but the game isn't really about eye candy; it's 
+ about gameplay, and that's where it excels. You can select from four different race types: quick 
+ race, practice, full race weekend, or full championship season. The 16 tracks, all featured in 
+ beautiful overhead previews, can be configured for variable rain or sunshine. Starting grid position, 
+ practice time limits, number of laps, and other options are easily changed. Grand Prix 3 is a FIA-licensed 
+ product, so you'll get to choose actual drivers, but you're stuck with the 1998 teams. Cars all 
+ use the same model, but you can allow for the possibility of different component breakdowns to 
+ add to the realism. To suit your skills, you can toggle driver aids like steering assistance and 
+ computer-controlled gear shifting. With all the aids selected, the car practically drives itself, 
+ which makes the game accessible to novices.   
+
+  Grand Prix 3's physics are realistically challenging. Snap spins, wheel lockups, and over- and 
+ understeer are all simulated. You'll need a lot of practice to handle the car on the hardest difficulty 
+ settings: At first, it feels like you're trying to steer a rocket across an ice rink. Rain also 
+ has a real effect on handling - it's not just for show. Meanwhile, computer-controlled drivers 
+ will protect their lines, outbrake you, and provide aggressive competition. However, the computer's 
+ artificial intelligence does have flaws. When I spun through a tight corner on a narrow section 
+ of the Monaco circuit, I came to a stop in the middle of the road, blocking other cars. Since there 
+ wasn't room for those behind me to pass, all the cars just kept banging into me repeatedly. When 
+ a single F1 gearbox alone can cost over $100,000, that just wouldn't happen in real life.   
+
+  It's that sort of leading-edge technology, coupled with incredibly powerful engines, that lets 
+ real F1 cars blast down straights at 200mph. Nevertheless, F1 racing is a very subtle sport where 
+ times are measured in thousandths of a second. Highly precise tweaking of the car is a must, and 
+ Grand Prix 3 also excels at letting you do this. Before each race, you can change your pit-stop 
+ strategy and tire selection based on rain probability. On the car setup page, you can opt for preset 
+ optimal car configurations, or you can create your own and save them for future use. Wing angles, 
+ brake bias, gear ratios, suspension, and more are all highly configurable. Make no mistake: While 
+ it can be fun for beginners, at its heart, Grand Prix 3 is a hard-core simulation.   
+
+  Multiplayer competition is available over a LAN, serial cable, or direct modem connection. Unfortunately, 
+ there's no true Internet play with an in-game server browser. The game wouldn't recognize my cable 
+ modem, either. Grand Prix 3 also has an unusual multiplayer mode, where you and your opponent take 
+ turns driving different cars on the same computer, while the computer drives for the player who's 
+ sitting out.   
+
+  Grand Prix 3 is hardly perfect; in fact, the menus, graphics, and sound can be really disappointing 
+ at times. Nonetheless, the game is definitely more than the sum of its parts. All the small details 
+ that add to the realism clearly show that it's a labor of love created by true F1 fans, and the 
+ realism and complexity only add to the fun, instead of defeating it. The huge number of options 
+ creates great diversity and replay value, although the options can be a bit difficult to deal with 
+ for the novice. Grand Prix 3 isn't a masterpiece, but if you can live with some of its shortcomings, 
+ it'll prove to be a challenge that you can keep coming back to.    
+-------------------------------------------------
+:::User Reviews::: (2 Reviews)
+::::::
+UserName: majesticcryx
+Rating: 8.5
+Date: Oct 2, 2007 1:47 pm PT
+Review:  First of all, in some areas Grand Prix 3 needed to address the gaping holes left by Grand Prix 
+ 2. Weather stands out as the number one missing item. How anyone can release a Grand Prix sim without 
+ some kind of weather is beyond me (as EA has also now learned the hard way) . Also missing was multiplayer. 
+ It goes without saying that we all wanted to see really good use of 3D hardware, and we also didn't 
+ want another game which required a leading edge machine to run acceptably, and have to wait for 
+ machine speeds to double before the game would look the way it was designed to.
+  
+  Other than these things, Grand Prix 2 was considered a masterpiece. The AI was generally solid, 
+ the gameplay was well balanced, driving aids made the game wonderfully accessible to novices, and 
+ the level of authenticity was high. So Grand Prix 3 needed to avoid fixing what was not broken 
+ and bring this game to the year 2000 in terms of technology.
+  
+  The results are a mixed bag. For each item that was updated and modernized, something else was 
+ left in the DOS stone age, leaving my mouth hanging open in shock. I should have been a little 
+ suspicious when I saw that Microprose's staff and not the mastermind and head programmer, Geoff 
+ Crammond, did NOT do the 3D work. He just updated his software engine, leaving Microprose to pick 
+ and choose just what to put into the 3D hardware and how it would work. The result is a blend of 
+ 2D and 3D technology that works well from a gameplay standpoint, but often looks antiquated compared 
+ to newer games.
+  
+  Some of the screenshots which accompany this review will reveal the game's graphical shortcomings. 
+ But the most obvious thing is the heavy use of 2D art and sprites in the game, taken right out 
+ of the DOS world. From a performance standpoint, this isn't a bad thing. Today's computers scoff 
+ at the simplicity of sprite manipulation, and blending in 2D objects keeps the frame rate from 
+ taking a dive because of an overly massive polygon count. The most obvious use of this comes when 
+ you are in the cockpit following a car. Canned sprites of cars are used for any car more than a 
+ car length ahead or behind you. The software just blips a copy of that car pointed in the correct 
+ direction. They did a good job for the most part. While you're racing this won't bother you much 
+ unless you're really looking. If you do, you'll see the car sink a bit into the road ahead or seem 
+ to float above it several inches from time to time as the canned sprite cannot possibly line up 
+ on a banked surface or an elevation change. As soon as you get within a car length, a little transformation 
+ occurs and the car is now a fully polygonal object that you can race with. This keeps the frame 
+ rate high. Was this a trade-off to gain performance at the expense of some aesthetics? Or are we 
+ just seeing a 2D relic that no one wanted to fix? Who knows? However, I do feel I can safely say 
+ that it doesn't really affect gameplay much, so we can note it as an example of how Grand Prix 
+ 3 differs from its competition its use (or rather non-use) of current technology.
+  
+  The same is true for the pretty backgrounds. As I own all the current F1 titles, I did some screen-to-screen 
+ comparisons of the backdrops and overall image quality and in terms of re-creating the natural 
+ environment around a track, GP3 is unmatched. Others had to sacrifice detail because their worlds 
+ are polygonal. Unfortunately, some corners were cut. A classic example is curbing. In GP3, the 
+ curbing is not always true to the real life track. Red and white curbs are used most everywhere, 
+ even though in real life, some curbs are higher and are painted plain white. Imola stands out as 
+ such a place. Does this affect gameplay? You bet. Those curbs have to be bounced around on in real 
+ life to get a fast time, and they are much different in personality than curbs at, say, Brazil, 
+ because they are steeper. Unless you are cornering hard on them, you can generally deal with GP3's 
+ curbs without being thrown into a spin (unlike, ahem, UbiSoft's titles) .
+  
+  The other main problem with the 2D/3D graphics engine in Grand Prix 3 is that clipping is a mess, 
+ but it generally only really hurts on replay (screenshots are provided which show the clipping) . 
+ Entire segments of walls are often removed completely to show cars, because the engine is incapable 
+ of clipping the bottom half of the car so you can see just the top over the barrier. This is simply 
+ not a competent graphics engine from that perspective, and causes artifacts and weird images to 
+ show up which destroy the suspension of disbelief.
+  
+  The in-car view is pseudo 3D. If you have a 3D card, you can zoom in or out in your cockpit view. 
+ Sitting back provides a Grand Prix Legends style view with the cockpit and car way out in front 
+ of you, but you can actually see beyond the sides of your wheels, allowing you to look into and 
+ through turns (it's a major bummer that auto head panning was not included here &iquest; these 
+ guys should look at Lankhor's F1 World Grand Prix for that!) . The steering wheel turns, without 
+ any hands on it, and is full of all the information you need to race. You can see your tires, unlike 
+ GP2, and they look okay in shape, but in terms of their 3D appearance, there is almost none. The 
+ light reflection off of them is pixilated goo (see screenshot) . This can be distracting if you're 
+ used to gorgeously realistic wheels such as those in F1WGP, but again, ultimately the job is not 
+ to stare at your tires or admire the pixilated trees but to drive really fast, so this doesn't 
+ affect gameplay much. It just demonstrates, yet again, that Microprose has delivered a dinosaur 
+ of a graphics engine.
+  
+  The cars, when polygonal, are modeled well, and they look just fine from a replay view, complete 
+ with the helmet of the driver being moved around due to the high-speed turns. Smoke flies out from 
+ the wheels that lock up under braking, and in the rain a flume of nice looking spray flies up from 
+ the track. Speaking of weather, Geoff Crammond and Co. solved this problem with a vengeance. As 
+ the screenshots will show, the rain effects are just amazing. Every moment from the first drop 
+ of rain to the downpour to the sun drying the track is modeled very nicely. The weather can be 
+ pouring rain in one segment of the track and drying on another (particularly at Spa, which is so 
+ huge the weather can indeed vary dramatically throughout a single lap) . At the beginning of every 
+ session, a bar chart for the next 2 hours shows up letting you know what the probabilities are 
+ of rain, and the relative probabilities for light, medium, or heavy rain. This lets you plan ahead 
+ and make last second changes, or change your pit stop strategy to account for the weather.
+  
+  The tracks are generally fine in terms of their realism. I've seen some things to nitpick about, 
+ but that happens with every sim. The biggest offender, as I mentioned, is the curbing, but there 
+ are some banking inaccuracies and a couple of elevation changes I'd question. Again, this is the 
+ norm. I wish someone would really get it right but the odds of that happening after his many years 
+ of disappointment have made me cynical. Fortunately, the lap times are about right, and it'll take 
+ work to match or beat the real F1 times for most sim racers (I exclude the mutants whose genetic 
+ makeup lets them go 5 seconds faster than the rest of humanity in any given sim! Just kidding, 
+ guys) .
+  
+  The game modes are pretty simple, allowing you to practice, run a single race or a championship 
+ season. There is no fluff here in terms of playing modes. However, within the game, each session 
+ is modeled accurately and is customizable. You can alter the lengths of sessions, for instance. 
+ One thing that stands out as completely cool in my book is that you can save your race, anytime! 
+ Not just between sessions or when you're in the pits, but at any point you want. So, unlike all 
+ other competitors, anyone can reasonably attack a full-length race without having to dedicate uninterrupted 
+ hours to it!
+  
+  I should also note that this game models the 1998 season, so expect to see the unlicensed Jacques 
+ Villeneuve listed as some generic bloke at Williams, the last year before Zanardi took over that 
+ seat. Fortunately, the GP3 hackers on the web have already put together 2000 carsets, which should 
+ update the game and the car performances to today's standards. Unfortunately, it means that such 
+ tracks as Indianapolis and Malaysia are not modeled in the game, but you still get to race Argentina, 
+ which is gone in current sims.
+  
+  Replays will be automatically saved, but they aren't kept in one big stream for you to watch later. 
+ Rather, if you want to view replays and save them, you must save each lap in a separate file. If 
+ you want to save an entire race, you will need to go out of the race temporarily and save the last 
+ several laps to separate files, and then load and view each one separately. This, to put it bluntly, 
+ sucks. The only saving grace here is that for hot lapping and telemetry analysis it's nice to have 
+ your laps all packaged up for you. Depending upon the amount of memory you have and the number 
+ of AI cars that are on the track, you can temporarily pause, fetch and save a bunch of laps before 
+ they are wiped from memory and are gone forever. I did a 17-lap race at Monza and got every lap 
+ saved. There is a glitch here, however, in that the data logger doesn't kick in until lap 2 of 
+ a race, so perhaps the most interesting lap, the first one, cannot be replayed! The only hope you 
+ have is that you can hit the spacebar at any point in the game, hit R and watch the last 20 seconds 
+ from any car and any camera angle, including TV cams. So if you do something really special on 
+ lap 1 or just want to watch the start, make sure you're going in a straight line or doing something 
+ pretty safe, and then watch the last 20 seconds from as many different perspectives as possible. 
+ It's really fun watching passes this way. The downside is that you are taken right out of your 
+ rhythm, so make sure you remember what you were doing before you unpause the game!
+  
+  A 3D tumble and damage model is implemented which can cause the car to roll over or otherwise catch 
+ air. Hitting someone in the rear wheel can make that half of the car go airborne, giving you a 
+ nice view of the underbody and the plank. Hitting something too hard can shear a wheel off, and 
+ you can have wings ripped off as well. Engine blow-ups and flameouts are also quite possible. The 
+ car, however, is built pretty strong, so most shunts into walls are forgiven with no damage. There 
+ is a threshold at some point at which the game decides that you merit serious punishment and it 
+ will appropriate rip off a piece of your car, but it's not like a few competitors where the slightest 
+ shunt would flatten a wheel.
+  
+  A fully equipped garage is there to let you load and save setups, and there are two pages of setup 
+ screens (see screenshots) so this will help anyone who really wants to fine-tune the car. Laps 
+ can be fetched into the performance analyzer, graphed, and compared with one another. It's a great 
+ way to find out where your driving or car setup could be improved, but it's really for the hardcore 
+ sim fan. Thankfully, a huge manual is provided with a detailed tutorial on how to get the most 
+ out of telemetry and how to best find the racing line and go faster.
+  
+  The really good news about this game is that is immensely playable. It's easier to drive throughout 
+ most of the driving envelope than its competitors, and that makes it easier to concentrate on racing. 
+ Sure, if you really want to be fast, you're going to be right on the edge and you might well lose 
+ control of your car, but the car is quite drivable within its limits using the default setups. 
+ Also provided is a full array of driving aids to help anyone drive, even if all they have is a 
+ keyboard. The aids will keep you on the racing line, suggest gears for you, or auto shift if you 
+ like. It will also keep your car indestructible, do your braking for you, etc. For the more hardcore, 
+ there is still some help in the customizability of controls, to change the linearity of steering 
+ response, how much steering assistance you want (set it to 0% and it's virtually impossible to 
+ catch a snap spin &iquest; Mine is at 15%) , and what the dead zones and sensitivities are for each 
+ axis. Unfortunately, in their 1996 cave, Microprose failed to notice that most driving controls 
+ are dual axis nowadays, so there is NO dual axis support in the game. If you want to left foot 
+ brake, you'll be on the same axis as your gas, unless you have some kind of setup where you have 
+ two game controllers plugged in, in which case you can use the second gameport to provide the other 
+ axis and get independent braking and throttle. But most of us will have to switch it to single 
+ axis and curse whoever was responsible for leaving out this support!
+  
+  Force feedback is supported, but I'm very disappointed in its use. It tends to oscillate the force, 
+ and doesn't load up the spring rate during high G-cornering. It doesn't feel attached to the physics 
+ model at all. I cut the FF level to 50% so that I could still enjoy going over curbs but not have 
+ to fight with an out-of-phase oscillating spring exiting corners.
+  
+  I haven't talked about the audio, yet. The engine sounds are just fine, but you cannot hear anyone 
+ else's engines around, in a departure from reality. Quite frankly, I'm not THAT bothered by it, 
+ but I admit that from time to time I would like to know someone is moving up on my left or right 
+ even before checking my mirror and seeing him. Also hearing their noise fade away would sure be 
+ useful if I didn't know whether they were gone or just in my blind spot right alongside me! There 
+ are no crew chiefs or TV announcers here. You're responsible to watch your dash and know when to 
+ pit and what to ask for. The pitting is done pseudo-automatically, with your planned stops being 
+ executed by your guys.
+  
+  Unfortunately, I'll be playing this game alone. Network support is designed for LAN play, not Internet 
+ play. People can work around it, but my experience is that when it's designed for an effectively 
+ no-latency connection, the game bombs on the 'net.
+  
+  So now let's just nitpicking about each section and look at the game as a complete piece? To find 
+ out whether we really had the best F1 on our hands, I did races in each of the three main contenders: 
+ F1 World Grand Prix, EA's F1 2000 and Grand Prix 3. My conclusion is that Grand Prix is the best 
+ overall package right now, at least for single player mode, in spite of its shortcomings. The biggest 
+ downfall of the other two products was the AI car behavior. I never felt like I was in a close 
+ race with other competitors. They would either run by me or run into me. EA's title was the worst 
+ in this department, although there is a patch and tweaks on the Internet to improve this. F1 WGP 
+ has a bad braking model and AI that doesn't really dice well with you, and we are still awaiting 
+ the patch. The car handling was the nicest in EA's sim, but that doesn't save the game if the AI 
+ was bad. The track graphics and car models in F1 WGP were hands down the most awesome I've seen, 
+ but again, if you can't race well with the AI, it's all for naught.
+  
+  GP3, in spite of its deficiencies, gave me the most enjoyable overall racing experience. In a 17 
+ lap race at Monza, I took the pole by a second or so at Monza, but then didn't get a good start. 
+ (I should note here that the 2D aspects of the graphics engine keep the frame rate high even with 
+ 21 other cars around me!) Then, trying to be aggressive to get back a position, fell well back 
+ to 16th place. With only 12 laps left, I didn't have a shot at the win, so I just patiently worked 
+ my way back through the field. What was interesting was that I'd opted for a setup with slightly 
+ more wings than my competitors. This made me faster than they were through the chicanes and the 
+ corners, but it meant they could draw away down the straights. I spent several laps doing the same 
+ lap time as the guy ahead of me, constantly getting off the corner, drafting and then getting alongside 
+ of him, only to have him hold his own right along side me and force me to back out to avoid crashing 
+ going into the next corner. But in the famous Parabolica turn I could get guys every time as they 
+ couldn't put down the power in this high-G increasing radius turn and I could turn inside of them 
+ and motor away. Using this strategy I moved up to 9th before the end of the race. The lap saver 
+ had every lap (save the first!) and I was able to store them on disk for later viewing and telemetry 
+ analysis. The race was very enjoyable and mirrors the experience I have every time I play this 
+ game.
+  
+  The sum is greater than the parts. Though most every area of GP3 has something to gripe about, 
+ the whole game is still suitable for everyone from novices to aces, and no one area is so weak 
+ as to ruin the whole of the game. 
+::::::
+
+::::::
+UserName: Hynnin
+Rating: 7.6
+Date: Jul 28, 2007 8:40 am PT
+Review:  In general, most of the F1 games are full of small mechanical details, how to adjust your wings, 
+ tires, strategy and the likes of it, but Grand Prix 3 reaches its maximum, it offers a great variety 
+ of options to create a unique car for the player, it feels good knowing that if you adjust your 
+ car differently, whatever you adjust, you can change the performance of the car in the tracks
+ 
+  
+  The sound its good, not that you must have a great sound in F1 games, but its necessary some realistic 
+ engine, breaks and gear sound, to immerse the player on the character.
+  
+  Overall the game is one of the best in series for the genre, but you cant expect much of a F1 game, 
+ it doesnt change significantly if you play it more than two times. 
+::::::
+
+-------------------------------------------------

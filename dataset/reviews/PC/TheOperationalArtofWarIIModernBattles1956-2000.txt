@@ -1,0 +1,88 @@
+-------------------------------------------------
+:::Game Name::: The Operational Art of War II: Modern Battles 1956 - 2000
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/operationalartofwar2mb19562000/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jun 29, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.7
+Critic Score: 8.5, 10 Review (s)
+User Score: 7.6, 27 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: TalonSoft
+Developer: Norm Koger
+Genre: Strategy
+Date:     Apr 30, 1999
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+The Operational Art of War II is a continuation and enhancement, not a radical revision, of designer 
+ Norm Koger's ambitious operational wargame. 
+
+ Wargames, once a dominant force in computer gaming, are undoubtedly in a slump. You can count on 
+ one hand all of the 1999 historical combat games, with a finger left over to salute the narrow-minded 
+ publishers who are abandoning the niche markets. So when games as fine as The Operational Art of 
+ War Volumes I and II come along, there's considerable reason for rejoicing. Wargames may yet emerge 
+ from the desert, and if they do, The Operational Art of War will be an example of how it's done 
+ right.  
+
+ The Operational Art of War II is a continuation and enhancement, not a radical revision, of designer 
+ Norm Koger's ambitious operational wargame. "Operations" is the area between high-level strategy 
+ and close-in tactics, and it makes for fascinating large-scale warfare. Koger has taken the original 
+ Operational Art of War engine, modified it for the specific contingencies of warfare in the modern 
+ age (1956 - 2000) , created a 1100-plus unit database of modern weapons and forces, and built 14 
+ huge scenarios that offer well over 100 hours of some of the finest strategy gaming on the market. 
+ Some might call this nothing more than a glorified add-on disk, but that would be confusing it 
+ with Tomb Raider II and III. The database is so huge, the scenarios so detailed, and the engine 
+ revision has such a deep impact on gameplay that it feels like a very different game. It's obvious 
+ a lot of research, design, and programming went into this.  
+
+ The result is the creation of 14 massive modern battles, some historical, some hypothetical, with 
+ new game mechanics reflecting the rapid pace of modern battles and the overwhelming power of the 
+ air force. The scenarios include three Arab-Israeli wars, three Vietnam battles, three hypothetical 
+ NATO-Warsaw Pact encounters in Europe, the Second Korean War, Desert Storm, and hypothetical Indian-Pakistani, 
+ American-Cuban, and Chinese-Russian wars. Oddly, no Balkan scenarios are included. Almost all of 
+ these are large, involved, time-consuming battles. Because of this, users new to the series should 
+ probably warm up with the first Operational Art of War rather than jumping in at the deep end with 
+ volume II. The largest map is the entire Tet Offensive, which requires an enhanced version of the 
+ executable file to run, a couple weeks to finish, and a patient spouse. Along with being an incredible 
+ wargame on its own, Operational Art of War II is also a wargame designer. The full editor is included 
+ in the game, and new battles are already circulating on the Web. The new editor can handle larger 
+ maps and more complex theater-wide event modeling, giving designers even more power to make custom 
+ missions.  
+
+ The main changes to the engine reflect two aspects of warfare in the latter half of the 20th century. 
+ The first is air power. Air-to-air, air-to-ground, antiair, and air mobility are modeled more deeply. 
+ Interdictions are a more potent threat, as the Iraqis learned. The inclusion of advanced weaponry 
+ like the B-2 Spirit means the full power of America's Air Force can be brought to bear on pretty 
+ much any situation. Another key addition is air mobility, which allows units to rapidly deploy 
+ deep into enemy territory. From Vietnam onward this becomes increasingly important, as does helicopter 
+ support. Even more important in its effect on gameplay is the radical revision of the damage model. 
+ Rather than using a cumulative fire effect model (that is, when five units fire on one target, 
+ you add all the units' firepower together and use that figure to calculate the effect on the target) , 
+ Operational Art of War II resolves each encounter on a shot-by-shot basis. Not only are the units 
+ rated, but the shots themselves are rated for things like penetration, shot type, and accuracy. 
+ This ups the realism ante significantly and allows accurate representation of the gulf between 
+ modern firepower and the ability to survive it, most clearly represented in the M1 tank. The last 
+ game I remember that modeled shots was Close Combat, and it was a squad-level game.  
+
+ I found some flaky behavior (weird unit-movement glitches and so forth) while playing the initial 
+ release, but this was cleared up in V.02. I also noted an inability to deploy airmobile units later 
+ in some games, which is pretty serious. Knowing Norm Koger and TalonSoft, I'm confident any bugs 
+ will be rapidly fixed, but they cripple some important scenarios out of the box. Some hard-core 
+ gamers are going to nitpick with the damage modeling, but that's an infinitely debatable issue, 
+ not to mention a tedious one. The question is, is it fun? Does it play well? Is it historically 
+ accurate? With a yes on all three counts, there's really no question that wargamers will want The 
+ Operational Art of War II.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

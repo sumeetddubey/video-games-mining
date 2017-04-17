@@ -1,0 +1,553 @@
+-------------------------------------------------
+:::Game Name::: Space Empires V
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/spaceempiresv/review.html
+-------------------------------------------------
+:::The Good:::
+ Extremely deep and complex.
+ May be the best diplomacy module of any 4X game.
+ Designed to be completely open to modders.
+-------------------------------------------------
+:::The Bad:::
+ A long list of bugs.
+ artificial intelligence is weak in several areas.
+-------------------------------------------------
+:::Date::: Nov  3, 2006
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.6
+Critic Score: 6.6, 21 Review (s)
+User Score: 7.6, 328 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Strategy First
+Developer: Malfador
+Genre: Sci-Fi Turn-Based...
+Date:     Oct 16, 2006 &raquo;  
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+Space Empires V is a space strategy game with plenty of depth and complexity, but it's so riddled 
+ with bugs and issues that it is ultimately tough to recommend. 
+
+  Space Empires IV is a cult favorite among the space strategy crowd. Users have developed tweaks 
+ and mods with a fervor that rivals that of blockbuster megahits such as Oblivion, and the developer 
+ has a history of releasing numerous patches to address any issues that fans bring to its attention. 
+ That's good news for the newest addition to the series, Space Empires V, which has the basis for 
+ a great game -- but it is ultimately bedeviled by a list of bugs as long as your arm.  
+
+          There's almost no limit to the type of ships you can design in Space Empire V.     
+
+ 
+  The heart of strategic space-based 4X (Explore, Expand, Exploit, Exterminate) games hasn't changed 
+ much since the early classics (SSG's Reach for the Stars, Microprose's Master of Orion) : You start 
+ on a home planet in a big galaxy and harvest resources that allow you to build ships, which you 
+ send out to explore space and discover strange new worlds. You try to develop new technologies 
+ faster than other civilizations so that you can conquer their worlds before they conquer yours, 
+ and when you rule the universe, you win. Since the "what you do" of these games pretty much stays 
+ the same, a new entry like Space Empires V has to differentiate itself on the "how you do it." 
+ For example, how do you build a fleet of ships that will dominate space? How do you develop the 
+ advanced technologies required to prosper in a hostile galaxy? How do you deal with newly discovered 
+ civilizations? Space Empires V differentiates itself from other games in this genre (such as Galactic 
+ Civilizations II) with superb depth and complexity. For example, you have almost unlimited flexibility 
+ in the type of ships you can design -- you're presented with an assortment of hull types upon which 
+ you can place any variety of weapons, cargo pods, people support, sensors, armor, and much more. 
+ You can design and build carriers and load them with small, nimble fighters, or you can build unmanned 
+ drones. Units such as satellites, invisible mines, and unrelenting guided missiles that will track 
+ an enemy throughout the galaxy provide endless offensive and defensive options. As you develop 
+ new technologies, more options are made available. The flexibility and complexity in this module 
+ is unmatched, but the complexity comes with a price (a common theme in Space Empires V) , as sometimes 
+ it may take a lot of work to determine, for example, how to design a carrier with the proper combination 
+ of appropriate storage spaces to allow the maximum number of onboard fighters.  
+
+  Diplomacy is another strength of Space Empires V, and is a good point of comparison with other, 
+ similar games, like Galactic Civilizations II. In the latter game, communications and negotiations 
+ with other empires are relatively limited. You can offer peace treaties, declare war, ask for help 
+ against another civilization (such as help defend against or request that they go to war against 
+ another society) , trade, offer, and accept gifts, and engage in a few other options. In Space Empires 
+ V you can do all of that and much more, and with significantly more depth for each option. For 
+ example, when you enter into a treaty with another civilization you can attach almost any condition 
+ you can think of to it. A treaty between equals may require both parties to share all intelligence, 
+ refitting and resupply capabilities, technology below a designated level, mutual defense, maps 
+ of systems and minefields, and such. But if one party feels they have a significant upper hand, 
+ they may make demands such as limiting the other civilization's access to their systems, forcing 
+ the weaker party to provide more access to information and technology than they will receive in 
+ return, or preventing the weaker society from engaging in further research. Other conditions can 
+ involve moral restrictions, such as a ban on viral warfare or bombarding planets. Throw in multiple 
+ options beyond treaties (such as global alliances with voting rights and more, demands, threats, 
+ and the like) , each with a multitude of conditions, and the result is a diplomacy feature that 
+ is arguably unsurpassed in any 4X game.  
+
+          Espionage and sabotage are important tools in your schemes to rule the universe.     
+
+ 
+  But a closer look at Space Empires V reveals how different it is from its competitors. Unlike, 
+ for instance, the  diplomacy of Galactic Civilizations II, 
+ Space Empires V's diplomacy options are beautifully deep, but ridden with bugs. Some are simply 
+ incorrect and confusing text descriptions of the results -- for instance, you offer a tech trade, 
+ it is accepted, but the text response shows you exchanging the wrong techs, while in other cases 
+ the text correctly reflects your desire but the items exchanged are wrong. Neutral races don't 
+ seem to respond to communications at all. And it appears that AI civilizations can make treaties 
+ with each other that cripple them, such as two civilizations agreeing they will not do any research 
+ or expansion.  
+
+  That trade-off of depth and complexity versus quality of execution is present throughout Space 
+ Empires V. The technology tree is huge, but some of the resulting technologies are broken, such 
+ as the shard cannon, which is no more powerful at level 50 than it is at level one due to what 
+ appears to be an unintentional error in the underlying algorithm. The ability to set up new games 
+ with a wide range of conditions and map sizes and customized races is offset by bugs such as occasional 
+ crashes on the large maps and racial traits that are opposite of what is intended (naturally happy 
+ races are actually naturally depressed and vice versa -- a bug that can produce a lot of confusion 
+ as you try to figure out why your planet is rebelling!) . Fleet operational options are impressive, 
+ but ordnance appears to randomly disappear from ships within fleets. Special items such as ruins 
+ add to the variety and sense of discovery that is essential to the atmosphere of a good space-strategy 
+ game -- but the ruins disappear after the first turn. And the list goes on; Space Empires V is extremely 
+ deep, and very buggy.  
+
+          The technology tree contains hundreds of items and thousands of levels.     
+
+  Another 
+ area that demonstrates this trade-off is multiplayer. Space Empires V offers multiplayer, with 
+ options for both simultaneous-move and turn-based play. Galactic Civilizations II offers no multiplayer 
+ at all. However, the AI in single-player Galactic Civilizations II may be the best in computer 
+ gaming, exhibiting behavior that truly mimics the way that humans play in both intelligence and 
+ style, even to the point of making devious moves purely out of spite. While Space Empires V offers 
+ multiplayer, its AI is fairly simplistic and, in places, relatively poor. Again, which is more 
+ important to you -- multiplayer capability, or outstanding AI?  
+
+  Without a doubt, Space Empires V is an incredibly deep and complex strategy game that offers almost 
+ unlimited playing options and styles -- which makes the bug infestation that much more regrettable. 
+ While the developer has had a reputation in the past for putting out patches to fix serious issues, 
+ its a shame Malfador didnt wait until the game was in a more finished form before releasing it. 
+ If your tolerance for bugs is high and youre willing to live with workarounds for some of the 
+ more serious issues, you may be happy with Space Empires V in its present form. But if you prefer 
+ your games fully baked when you plunk down your money for them, the best advice would be to watch 
+ the forums and wait to see if Malfador patches the game into a more stable form.     
+-------------------------------------------------
+:::User Reviews::: (19 Reviews)
+::::::
+UserName: Lhetre
+Rating: 8.5
+Date: Feb 9, 2009 4:21 am PT
+Review:  This is quite a comprehensive 4x game, everything an empire builder needs is there from very different 
+ planets to colonise, to an extremely rich research tree, through the possibility of building an 
+ incredible variety of custom starships.
+  All the bugs have been swept off by the numerous patches - Malfador is very reactive. The community 
+ has developed graphics mods which improve nicely the visual aspect, even if this is not a game 
+ about special effects. The AI will not offer much resistance to your domination, as it is unable 
+ to create a fleet worth its name, but it can be stubborn if you increase the difficulty, and then 
+ there are a lot of mods balancing the game you can choose from.
+  The Space Empire series has always had a strong community of dedicated followers.
+  
+  If you 
+ like organising and managing an empire and plenty of customisation, you'll be fulfilled. 
+::::::
+
+::::::
+UserName: mentat76
+Rating: 7
+Date: May 26, 2008 2:22 am PT
+Review:  Being a true Moo2 fan, i would say, SEV is a great improvement to the 4X genre. 
+  
+  SEV carried ship customization and space battles where Moo2 left off, quite successfully. SEV offers 
+ fantastic freedom of designing of ships, units (like fighters, ground troops, drones, weapon platforms) 
+ star bases so that there is no limit in whatever purpose of designs. The only limit is the technology, 
+ and it is fun to advance in technology and rush to ship design and add new components.
+  
+  Dplomacy is outstanding, there are tons of options in diplomacy featuring each and every 
+ option you would demand, has not yet seen in any 4x game.
+  
+  Space battles are also good but even you have incredibly detailed options like, targeting each 
+ weapon of a ship to different target and creating fleets for different orders during battle (boarding, 
+ invasion of planets, point blank skirmishers and ramming enemy ships) with too crowded battles 
+ it often turns out to a chaos. There is a nice time adjustment feature though so you can slow things 
+ as you desire.
+  
+  The weak features i spotted for SEV is as follows:
+  - Technology is too rapidly advances, too many research areas, and tech descriptions/benefits are 
+ not explained well.
+  - Supplies and ordnances can only be tracked within planet menu. So you have to check each planet 
+ for these materials one by one. There is no listing available how much these materials in stock 
+ in which planet.
+  - Although fleet management has tons of options and is a detailed feature, once ships are in fleet 
+ most of options like retrofit is disabled. You have to dismiss the fleet for these commands. (It 
+ is bad as you create a couple task forces within fleet with different orders and once you dismiss 
+ the fleet all these settings are to be repeated)
+  - There is no "Next / previous" buttons in planet menu. You have to close the menu and open it 
+ again for the next planet (after searching and finding the planet from the minimap) It is funny 
+ as such an easy option is not implemented.
+  - Also there are no options possible from the planet / ship properties menu. it is only for viewing 
+ components / cargo / orders. it would make life easier if it was possible to execute commands from 
+ there.
+  - Mouse actions are not user friendly. In fact the whole interface is not user friendly. Menus 
+ must be closed from the close button below (there is no right-click cancel option for which most 
+ games utilize) Lots of things are under specific menus, And instead of keyboard shortcuts, i would 
+ surely prefer buttons in menus. 
+  - Repair times are not available to player. You can only see the percentage of the ships repaired 
+ each turn.
+  - Turn passes are time consuming.
+  - Cargo transfers and recover units from space are performed in a difficult menu. Why in earth 
+ a simple drag & drop is not available?
+  - Weapons are not differentiated from each other clearly, advantages vs drawbacks are not obvious. 
+ Why would a player should choose a plasma missile over a gamma-pulse missile???
+  - Sound effects are awful
+  - Graphics could have been a lot better.
+  - Musics are poor
+  - 
+ Weapons lack of special features. (There is only a ion cannon? which damages ship engines only)
+ 
+  
+  - The worst issue is the game weirdly consumes too much CPU and GPU power, despite its simple 3D 
+ graphics and static gameplay. It is not a demanding game ( it shouldt be) but FPS values drop down 
+ to 10FPS in deep down menus like ship designing screen. A lot of players are complainant about 
+ it and despite tons of patches released this issue is not addressed in any of them even its so 
+ common. 
+  
+  Funny that my Nvidia 7400GO performs better than 8600GT pc which make things even more strange.
+ 
+  
+  All in all, SEV is a great game , despite its flaws, with its extraordinary Diplomacy, ship design, 
+ fleet management and extreme modability. It would surely be much more eye candy if it featured 
+ a Galactic Civilizations 2 type interface and colorful menus but again, It is a truly deep strategy 
+ game offering lots of features other than stated above, yet any game has offered.
+  
+::::::
+
+::::::
+UserName: jacojre71
+Rating: 8.5
+Date: Mar 19, 2008 7:54 pm PT
+Review:  As the summary states, Space Empires V is loaded with just about any options a strategic-space 
+ gamer could ever want: ability to design your own ships (stocking them with a variety of components, 
+ hull sizes) , units, a large technology tree, diplomacy, experience levels for crew, stellar events 
+ and hazards, customizable races and on and on. 
+  
+  The main problem is that early releases of SE: V had many bugs because of the enormously complex 
+ interactions that program would undertake in processing turns. The good news is that most, if not 
+ all of the major and minor bugs have been squashed. The only remaining concern is that the Stock 
+ AI is not particularly challenging, though there are several freely available (and easily accessible) 
+ mods that make significant improvements. Still for veteran SE players a little more work on the 
+ AI would be appreciated -- and fortunately is being done. 
+::::::
+
+::::::
+UserName: geneo2036
+Rating: 8.5
+Date: Dec 21, 2007 5:56 am PT
+Review:  great update to SE4- i like the Real time aspect.
+  
+  Basically its identical to the SE4 release. All the techs are there. A bit expanded as eaxh tech 
+ has a longer list of advances and high lvl destroyers are larger than low lvl cruisers. That makes 
+ having "smaller" class ships advantagous longer.
+  
+  Only problem i noticed so far and its a big one is that the AI isn't very tough. I have yet seen 
+ it put up a serious fight. Yes it took over a few of my planets here and there- mostly when I just 
+ took over a planet and forgot to defend it - but it rarely if ever attacks an even lightly defended 
+ planet.
+  
+  A few space skrimages are most I see- which is basically useless for defense if the AI isn't aggressive 
+ in taking or taking back planets.
+  
+  Still - its a bit fun and the AI might be more aggressive if they get larger. I'll give them more 
+ resources next time and see if it helps.
+  
+  I expect there ti me many mods in the future too. 
+::::::
+
+::::::
+UserName: Jake9123
+Rating: 7.7
+Date: Aug 1, 2007 8:03 am PT
+Review:  this is an awsome game but only if you have a lot of time on your hands. maps are huge even on 
+ small they have about 8-12 or so solar systems each with 5+ planets to conqer. there is hundreds 
+ of tecks and upgrades so plan what you want to invest in early. like if you want o be able to destroy 
+ whole planets well its going to take a few hours to get that tach and to buils the ship. i love 
+ the ability to cusomise the ships ships with all the different parts. only problem is that name 
+ then properly becuse they all look the same so you could have 2 dreadnahts and they have totaly 
+ diferent parts but the will look EXACTLY the same. due to the dated grafix engon. and the sound 
+ FX and interface look and sound worse then starcraft's so love the game but its almost inposible 
+ to imagine that this was only realased not even a year ago... 
+::::::
+
+::::::
+UserName: vlaser1
+Rating: 8.5
+Date: Jul 3, 2007 1:12 pm PT
+Review:  Buggy at first. I didn't buy it until patch v 1.25 which was much more functional. On patch v 1.35 
+ by now. Very few problems nowadays. This game is like Gal Civ II but much more complex. I notice 
+ that the Gal Civ II expansion was playing catch up to SE5 (Gal Civ only recently required civilizations 
+ to have the necessary technology to colonize different kinds of planets with different kinds of 
+ atmospheres) . For complexity and sheer scale, nothing beats SE5 at the moment.
+  
+  The only big weakness of SE5 is lack of graphical and sound aesthetics. Gal Civ II is definitely 
+ much more beautiful to look at. SE5 can't even achieve the astounding grace and beauty of Homeworld 
+ (a game that's several years old!) . Now if only the tactical combat in SE5 is done like in Homeworld, 
+ SE5 will be perfect! 
+::::::
+
+::::::
+UserName: Sithisil
+Rating: 9
+Date: Feb 27, 2007 2:35 pm PT
+Review:  When I first tried this game, I was a little hesitant. I looked at the reviews here and found that 
+ there were very mixed reactions. However, I do think that it's a fairly good game.
+  
+  In my opinion, what probably makes or breaks the entire game for people is the fact that you have 
+ to make all of your ships yourself. This can either be a cool feature that you'll love, or an annoyance 
+ that you can't use pre-designed ships. However, if you like to be creative and like to come up 
+ with new combos and designs, this is a game that you'll probably enjoy.
+  
+  There are many levels of research, as well as special ruins that allow access to specialized technologies. 
+ Finding the right combinations can be a large part of the game, and the special tech trees allow 
+ for a fairly high replay value.
+  
+  All things considered, there are bugs that make the game less enjoyable than it could be. The patch, 
+ however, fixes most of those bugs. If you enjoyed the Civilization series, I would recommend this 
+ game, but the patch is definitely something you'll need to look into. 
+::::::
+
+::::::
+UserName: Advocate
+Rating: 9.3
+Date: Dec 11, 2006 12:42 pm PT
+Review:  If your looking for eye candy here you won't get it. This game is all about game play and depth. 
+ While the learning curve for the game is a bit stiff at first, you get the feel for the menu's 
+ along with the in's and out's of the game relatively fast. The offers incredible depth in game 
+ play. Like in any other 4x game the objective is to eXplore, eXpand, eXploit, and eXterminate. 
+ Colonizing is easy, you design a colony ship, either manually fill it with colonists, or if you 
+ know where you want it to colonize, just click the colonize button and the computer will load up 
+ colonists for you and set the ship on its way to colonize the world you selected.
+  
+  The great thing about this game is that you get to design your own ships. Not the look of the ship 
+ but the components that go into it. From bridges to engines, beam weapons to shields its all yours 
+ to build.
+  
+  While the UI leaves a lot to be desired at this point, it is still one of the best features of 
+ the game and is getting better with each update and patch.
+  
+  Intel, politics, and research are all key elements of the game and have a huge selection of option 
+ too choose from.
+  
+  Combat is very good too. The look of combat with the 3d ships and such is very impressive to look 
+ at. The 3d system maps are cool too with spinning planets and huge stars.
+  
+  This is not a game for people who just want to jump in and start a war. It is a game that requires 
+ some dedication and attention to detail. It is a game for serious 4x gamers who love a great challenge 
+ and are more into game depth than game graphics.
+  
+  To put it simply SE V is a combination of Chess and Poker. Other games just don't seem to have 
+ the depth that SE V has. They seem more like playing tic tac to and checkers with no real challenge 
+ to them.
+  
+  One of the best features of this game is the moddability. If you can read, you can edit this game 
+ and mod it until your heart is content. It is a modders dream.
+  
+  All in all, while the game does have its minor flaws, it is a superb adventure in 4x gaming and 
+ one of the best 4x games ever. Having been developed by only one man, Aaron Hall, the game is surprisingly 
+ addictive. The on going support for the game has been outstanding. Bugs are being resloved and 
+ game play issues addressed. This is one very good game. 
+::::::
+
+::::::
+UserName: Slayer_Sam
+Rating: 7.7
+Date: Dec 9, 2006 2:58 am PT
+Review:  Space is not for wimps, and neither is Space Empires V. The game has a lot to it, but the game 
+ is pretty complex and the learning curve is steep. You can see the newbs walking out of the airlocks 
+ right from the games tutorial, which features an encyclopedia of text to read through and has 
+ a propensity for crashing out to the desktop at random. However, if youre a veteran of grand space 
+ strategy games who likes to really get his or her hands dirty and is also blessed with plenty of 
+ patience, you may find yourself really enjoying the game. Space Empires V gives you control over 
+ all aspects of your stellar empire, almost to a fault. Youll discover this right from the beginning 
+ when you see that there are no stock races in the game. Before you even play youll need to create 
+ your race and that of your adversaries, specifying everything from species and preferred environment 
+ to form of government and overall temperament. Once you get through all this and start your game 
+ youll find yourself not only without any ships, but without any ship designs as well. Thats the 
+ way the game goes from there as well. If youre looking for a quick jump in and play game or 
+ one that lends itself to short gameplay sessions, then keep looking because this games not even 
+ close to that. If you like to be in it for the long haul, though, youve come to the right place.
+ 
+  Space Empires V features a good ship editor in spite of the fact that all your ships will pretty 
+ much look alike. Each ship comes packs with mounting points for systems, weapons, cargo, and more. 
+ Youll have to stay within the weight limits for your ships class and meet some basic criteria 
+ (e. g. adding life support systems) , but where you go from there is up to you. And as the game progresses 
+ so do you options as your scientists and engineers provide you with more and more systems to add 
+ to your ship designs. 
+::::::
+
+::::::
+UserName: Verylongshanks
+Rating: 8.3
+Date: Nov 23, 2006 10:58 pm PT
+Review:  A few hours into my first game of Space Empires V, I uninstalled my copy of Galactic Civilizations 
+ II from my harddrive and threw it away. There really was no reason to keep it. I wouldn't play 
+ it again anyway and Stardock wouldn't support it if I'd given it away to a friend. But this isn't 
+ about that game, this is about SEV. And SEV's not for those players light on time or easily distracted. 
+ Everything takes time in this turn-based strategy game, nothing is quick, but that cuts two ways. 
+ It can be frustrating when you discover that you can't just pick a race to play and stock ships 
+ to build, that you must design everything. For me, though, it's sweet that I get to customize my 
+ ships to fit my personality. Gameplay-wise, SEV is essentially Starfire on the PC and that is a 
+ very good thing. It was also released in a rather buggy state and that's not a good thing, but 
+ as of now it's been patched to 1.17 and plays well. Of course the bugs hurt SEV's reviews and that's 
+ the price for a rushed delivery. 
+::::::
+
+::::::
+UserName: ablain1981
+Rating: 4.1
+Date: Nov 13, 2006 8:01 pm PT
+Review:  Right from the get-go SE5 bogs you down with an overwhelming number of options and then continually 
+ gets worse until you feel like you're lost in menus. Like so many other 4X games that showed promise, 
+ SE5 went too far in creating a deep game. You can spend 5-10 minutes designing a ship only to have 
+ to redesign it in a couple turns. You can spend forever trying to colonize space only to get confused 
+ about where your colonies are, what they're able to do and just what you have at your disposal. 
+ And don't expect important information to be right at your fingertips! The most important info 
+ is buried one or two menus in. The info at you fingertips initially seems important, but you will 
+ quickly realize that it is not. 
+::::::
+
+::::::
+UserName: Matte979
+Rating: 8.3
+Date: Nov 6, 2006 10:56 am PT
+Review:  Was a total impulse buy. I have never played Space Empires but was presently suprised how well 
+ executed and how the game just have everything needed in a 4x. I played galactic civilization but 
+ that game sometimes feel to simple. I am used to Paradox games so a lot of stratgeic options is 
+ needed to keep my attention these days.
+  
+  Overall a good game that needs patches but I am also used to that from paradox. I rather have a 
+ game that get patched to its full potential than a game that is good out of the box but will never 
+ get better. 
+::::::
+
+::::::
+UserName: PaoloZ
+Rating: 7.5
+Date: Nov 6, 2006 3:55 am PT
+Review:  SE5 has definitely a great potential for multi-player. I think it is the only 4x game which supports 
+ a good implementation of parallel turns. With parallel turns you can process the commands from 
+ every human player in the game simultaneously, without waiting for the game turn to circle between 
+ them like in Round-Robin games (the civilization series most notably) . This greatly improves the 
+ pace of play by e-mail multiplayer games.
+  
+  If you happen to have played Space Empires 4 in multi-player with friends you'll be certain about 
+ how addictive this game mode can be.
+  Playing over the e-mail is fitting for people lacking fast connections and time to play on-line 
+ and it conveys a very funny experience without forcing you to make rushed decisions to overpower 
+ the speed-clicking skills of you competitors.
+  
+  The AI is crap, this game is made to play via e-mail against human players. The single player game 
+ mode is just an extension to the tutorial, and it should be considered just an add-on, not the 
+ main feature of the game.
+  
+  The game is too bug-ridden to be playable, even in multi-player.
+  You'll have to wait for a patch 
+ or two... 
+::::::
+
+::::::
+UserName: danceswtihfools
+Rating: 9
+Date: Nov 5, 2006 12:42 pm PT
+Review:  The problem i have found with gamepot reviews are that they are on a set date (usually the release 
+ date or slighty after) . The problem with the gaming industry especially now that games are patchable 
+ (which they havent always been) is that games that arent finished on schedule are released anyways.. 
+ MMorpgs being the biggest criminals in this department.
+  
+  The game is unplayable to me in its current state, Ive had it since release (around 3 weeks) and 
+ cant invade my 1st planet cause troops are so badly bugged they wont even fire.
+  
+  However... all of the noticable bugs have been fixed and other minor bugs currently being rectifyed (the 
+ community is great and every change that has been implemented for the patch has been told to us 
+ on the forum so we know what to continue to complain about ) on the 7th the patch will be released.
+ 
+  
+  The game is designed in such a way that its scope (especially with mods) is beyond measure.. the 
+ research trees are almost (with modding will be..) endless, there are literally near to an infinite 
+ number of ship setups u can make and all battles (space and land) can be played in RTS.
+  
+  If u liked the 'masters of orion 'series or any space strategy game this will totally and utterly 
+ blow you away.. but yeah until the 7th nov this is bugged to **** 
+::::::
+
+::::::
+UserName: kingrohante3
+Rating: 9
+Date: Oct 30, 2006 10:09 am PT
+Review:  Ok well one day my friend said he wouldnt play any online games till i got this and so i said fine 
+ and i went out and bought it at a game store. Well when i asked the guy when it came out he said 
+ it was pretty recent and i said ok. well i go and get home and to my suprise it system requirments 
+ are insanly low and i said well this cant be a good game if its that low. well u know i get into 
+ it and now that ive been playing it for about 2 days i figure out that its really good actually 
+ and so i call him up and say ty for making me get this game heres the pros and cons of this game 
+ (at least what i think they are) (not that any one reads these)
+  
+  Pros: A great mix between turn based and RTS, Many different abiliteys, Many different planets, 
+ Very good graphics.
+  
+  Cons: Very hard to lean how to play, Way to many things to look over, Online play is weird because 
+ of ship building (takes long time) . 
+::::::
+
+::::::
+UserName: RonGianti
+Rating: 8.4
+Date: Oct 30, 2006 10:02 am PT
+Review:  I've been playing version 4 for 6 years. Many other games have come and gone, but SE remains.
+ 
+  
+  There is so much to do in this game, there isn't enough time to do it all.
+  
+  I wrote a more detailed review, but this crappy site ate it, sorry...
+  
+  I will warn that as 
+ of the latest patch, many bugs remain. There are work arounds and many, many patches coming so 
+ its not that big a deal. There is also so much to do in this game, that I'm still playing it every 
+ day, even with the features that don't work. Its only going to get better and better. 
+::::::
+
+::::::
+UserName: Kolominas
+Rating: 7.7
+Date: Oct 30, 2006 8:29 am PT
+Review:  This newest version of the space empire series is better, though harder than its predecessors. 
+ It is a great improvement considering Space Empires IV. The turn based character of the game doesn't 
+ slow down the pace to much (as it can in other games) . And once started a game can go on for hours 
+ and hours.
+  
+  The possibilities of customazation are numerous as are the tactics of playing. It can take some 
+ tactical ingenuity to complete a game as the AI is not to be underestimated. To my humble opinion 
+ this is a great game and I sincerely hope that this isn't the last we have heard from space empires. 
+ 
+::::::
+
+::::::
+UserName: BurningBeard
+Rating: 9.5
+Date: Oct 29, 2006 12:12 pm PT
+Review:  SEv is simply put, and amazing feat of playability and depth. One could devote (or waste depending 
+ on how you look at it) an entire week of their life with their head in this game. Completely consuming. 
+ Some of the best Turn-Based gaming i have had the pleasure of playing. Its hard to turn it off 
+ in the wee hours of the morning. Get it now! Its only over shadowing competition in this genre 
+ is GalCiv2. The way games like this should be made!
+  
+  100% the best SE game in the franchise. The increase in systems, the more in depth ships all promote 
+ more addictive qualities. 
+::::::
+
+::::::
+UserName: jmh1924
+Rating: 8.6
+Date: Oct 17, 2006 2:03 pm PT
+Review:  This game is an improvement over Space Empires 4, There is an almost unlimited expandability in 
+ ship improvements. The game is very hard to learn. The available races to play and the ability 
+ to customize those races is a real improvement. Game control could be a bit simpler. Graphics quality 
+ is ok, wish the developers took better advantage of todays video cards. Sound quality is good, 
+ the background music is a bit annoying, but at least you can turn it off. I like the fact that 
+ when you enter a new system you must explore that system before you see everything in it. Since 
+ I downloaded the patch for this game there has been a tremendous improvement in the gameplay.... I 
+ would HIGHLY RECOMMEND this game to anyone!! 
+::::::
+
+-------------------------------------------------

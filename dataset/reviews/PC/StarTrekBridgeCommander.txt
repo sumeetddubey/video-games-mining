@@ -1,0 +1,1037 @@
+-------------------------------------------------
+:::Game Name::: Star Trek Bridge Commander
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/startrekbridgecommander/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Mar 11, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.2
+Critic Score: 8.0, 27 Review (s)
+User Score: 8.7, 941 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Activision
+Developer: Totally Games
+Genre: Space Combat Sim
+Date:     Feb 27, 2002
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+Totally Games has managed to accurately translate the slow-paced tactical battles of the Star Trek 
+ universe into an interesting game. 
+
+ For more than a decade, Larry Holland and the team of developers at Totally Games have consistently 
+ released acclaimed simulations. After releasing a trio of critically and commercially successful 
+ World War II combat flight sims, Totally Games abandoned realistic simulations and opted to produce 
+ the X-Wing and TIE Fighter Star Wars sims for LucasArts. Given its history and expert handling 
+ of the Star Wars license, Totally Games was a natural choice to produce a space sim based on science 
+ fiction's other famous franchise, Star Trek. While some gamers cynically believed that the slow-paced 
+ capital-ship battles of the Star Trek universe could never be effectively translated into an enjoyable 
+ space sim, Totally Games has convincingly disproved those beliefs in its latest effort. Despite 
+ its short length and a few other problems, Star Trek Bridge Commander is an innovative, entertaining 
+ simulation that adapts its licensed subject material in a manner that should satisfy even the franchise's 
+ most zealous fans.           Bridge Commander combines tactical ship combat and adventure elements. 
+    
+
+  Bridge Commander isn't the first space sim set in the Star Trek universe, but it is undoubtedly 
+ the best one. Previously released games such as Starfleet Academy and Klingon Academy just supplied 
+ ammunition to those who believed that the nature of combat in the Star Trek universe couldn't be 
+ translated into an interesting game. The Star Trek universe minimizes the role of small fighter 
+ craft and focuses on large, durable starships, and yet vessels in previous Star Trek sims handled 
+ like fighters instead of like more-formidable craft. The Academy games inappropriately tried to 
+ pigeonhole the fast-paced dogfights of conventional space sims like X-Wing and Wing Commander into 
+ games based upon the Star Trek universe. And although Totally Games helped to fashion many of those 
+ conventions through its work on the X-Wing games, it has avoided making the same mistakes made 
+ by the creators of those earlier Star Trek space sims. In Bridge Commander, battles are slow-paced 
+ tactical contests in which success doesn't depend upon quickly lining up targets for your ship's 
+ forward guns. Combat perfectly resembles the battles depicted in the various TV series and in movies 
+ like  Star Trek II: The Wrath of Khan .   
+
+  Totally Games did make some gameplay compromises in order to permit Bridge Commander's battles 
+ to be so similar to those in the Star Trek movies and series. As you'd expect given their immense 
+ size, ships change directions sluggishly, but generally movement also just doesn't seem to flow 
+ smoothly, and it's sometimes inordinately difficult to close range or effectively outmaneuver even 
+ slower vessels. While there are computer-controlled assists available to let you better intercept 
+ targets, it still seems as though the developers were so determined to prevent battles from devolving 
+ into turning chases that they artificially crippled your ability to track and circle enemies. Even 
+ if that's the case, those compromises were worthwhile, since they make these Star Trek vessels 
+ feel like large naval ships instead of fighter planes.   
+
+  All space sims to date have been primarily focused on combat, and that tradition continues with 
+ Bridge Commander since the game is essentially a linear series of combat missions. However, unlike 
+ other space sims, Bridge Commander occasionally throws in noncombat solutions to confrontations 
+ and requires you to spend a significant amount of time doing activities that are ancillary or unrelated 
+ to the game's battles. Bridge Commander casts you in the role of a nameless, faceless, and voiceless 
+ commander of a couple of the Federation's most powerful starships shortly after the end of the 
+ Dominion War depicted in  Star Trek: Deep Space Nine . Set entirely within an inhospitable region 
+ of space called the Maelstrom, Bridge Commander has a detailed storyline that involves investigating 
+ the cause of a mysterious supernova and uncovering the involvement of the region's Cardassian, 
+ Klingon, Ferengi, and Romulan inhabitants.           You can play the entire game from the captain's 
+ perspective.    
+
+  Bridge Commander consistently requires you to interactively advance the story by investigating 
+ events and discussing events with various nonplayer characters. There isn't a lot of depth to those 
+ interactions, and the apparent ability you are granted to influence events or nonlinearly explore 
+ the region is illusory, but the noncombat portions of Bridge Commander are sufficiently engaging 
+ to make it seem almost as much an adventure game as it is a space sim. It also seems appropriate 
+ that the game isn't entirely focused on combat, given Star Trek's emphasis on exploration and the 
+ Federation's peaceful intentions.   
+
+  Presumably to make you personally identify with your character, your character is nondescript and 
+ never even speaks in the game, but each of your bridge crew members is given a colorful personality. 
+ Missions seamlessly blend into each other, and during the course of missions your crew will discuss 
+ events among themselves and provide you with appropriate advice and direction. Star Trek mainstays 
+ Commander Data and Captain Picard both make appearances in the game, voiced by their real-life 
+ alter egos, Patrick Stewart and Brent Spiner. Consistent with its inclusion of adventure game elements, 
+ Bridge Commander lets you play the entire single-player game from the perspective of the captain's 
+ chair on the bridge. You can use the mouse to look around at the other crew members and to bring 
+ up command menus at each crew member's station, or you can just rely on hotkeys to immediately 
+ bring up those menus. Playing from the captain's perspective definitely offers an unusual simulation 
+ experience, since you'll be entirely reliant on the skills of your computer-controlled crew to 
+ maneuver your ship and effectively target opponents. When played from that perspective, the game 
+ seems uniquely suited for voice-recognition control software such as Microsoft's Game Voice and 
+ Game Commander 2, and Totally Games had the foresight to include custom-made profiles for use with 
+ these.    
+
+ While solely commanding from the bridge is a viable option, as the AI is just adept enough to get 
+ the job done without more direct guidance, the game is considerably easier if you take advantage 
+ of the tactical, behind-your-ship perspective that is also available. From that perspective you 
+ can still issue commands from any of the bridge stations, but you can also directly control your 
+ ship's maneuvering and aim its weapons. Perhaps hoping to avoid the commercial curse infecting 
+ recent joystick games, Bridge Commander doesn't even include an option to play the game using a 
+ joystick. Instead, you control your ship in the tactical perspective using the keyboard commands 
+ typically used by first-person shooters, while relying upon the mouse to aim and fire weapons. 
+ The tactical control scheme works well, and the game is easier to play from that perspective, which 
+ is also the only viewpoint offered in the multiplayer version of the game.           Your crew 
+ members do a good job of following orders.    
+
+  Combat is definitely tactical, although it's repetitive since there are only a handful of enemy 
+ types and each ship essentially has only one beam weapon and one set of missile weapons. Since 
+ ship shields are very powerful, battles take a long time to resolve, and you'll have to be diligent 
+ about focusing your weaponry on previously damaged enemy shields in order to inflict meaningful 
+ damage. Targeting subsystems is also very important, since you can defang even formidable opponents 
+ by destroying their weapon systems, and it's difficult to prevent target ships from fleeing unless 
+ you first take out their warp drives. Maneuvering your ship is important both to ensure that your 
+ craft's strongest shields are absorbing the brunt of enemy attacks and to be able to bring fully 
+ charged phaser banks into range. You can also control the sequence in which damaged systems are 
+ repaired, and you are required to shift your ship's allocation of power in response to changing 
+ needs. Totally Games did an excellent job at ensuring both that there is a lot of tactical depth 
+ to the gameplay and that the control scheme is relatively simple to manage once you acquire some 
+ familiarity with it.   
+
+  Graphics and sound effects are both excellent in Bridge Commander, effectively re-creating the 
+ sights and sounds of the Star Trek universe. There are a variety of graphical options to tune that 
+ allow the game to play smoothly even on lower-end machines meeting the game's requirements, although 
+ there are some glitches with the current Nvidia card drivers that cause occasional problems. The 
+ game suffers from a significant memory leak, which may be related to the Nvidia driver problems, 
+ that results in performance gradually degrading after playing for a couple of hours until you reboot 
+ the game. A variety of graphical resolutions up to 1600x1200 are supported, and unlike in many 
+ games that support such high resolutions, the interface readouts have been customized to ensure 
+ that they are still easily readable regardless of resolution. Area-specific damage is modeled, 
+ letting you occasionally, although infrequently, take significant pieces out of enemy ships, which 
+ looks great. Unfortunately, the damage-modeling system wasn't ported to the multiplayer version 
+ of the game. The characters have digital face textures, so recognizable characters in the game 
+ like Data and Picard look as you'd expect. Characters' lips move out of sync with their dialogue, 
+ though, which looks pretty goofy unless you're a devoted fan of Japanese monster movies.       
+     This is the first Star Trek sim to truly capture the feel of the series.    
+
+  The game's campaign is relatively brief, which significantly affects the game's longevity since 
+ the linear nature of the missions offers limited replayability. The game's multiplayer options 
+ do little to add replayability, although they do give you the opportunity to pilot a greater variety 
+ of ships. Multiplayer battles are straightforward single deathmatches, team deathmatches, or simplistic 
+ base-defense battles, and the multiplayer code is so flaky that it regularly causes crashes. Also, 
+ the single-player campaign's linearity can frequently cause some frustration, since failing to 
+ complete a mission goal will usually require you to repeat the mission. You can never directly 
+ choose to save the game, and although the game automatically saves itself after each mission, it's 
+ tedious to replay missions since many of them are very lengthy. Since each battle usually takes 
+ at least five minutes, and missions are often broken into several encounters, you'll occasionally 
+ have to replay lengthy sequences just to try to accomplish a goal that previously eluded you. The 
+ game should have either automatically saved after each encounter or given you the option of saving 
+ during a mission by returning to your starbase. You can, at least, return to your base during missions 
+ to repair damage from previous encounters. With a couple of notable exceptions, the individual 
+ missions are also not very difficult on the default difficulty level. None of the missions are 
+ as difficult, or as puzzle-oriented, as some of the more notoriously challenging missions in Totally 
+ Games' X-Wing games.   
+
+  While its short duration and limited replayability may prevent it from enjoying a sustained life 
+ on your computer's hard drive, Bridge Commander is the first Star Trek space sim that actually 
+ feels like it's set in the Star Trek universe. Totally Games has managed to accurately translate 
+ the slow-paced tactical battles of the Star Trek universe into an interesting game.    
+-------------------------------------------------
+:::User Reviews::: (27 Reviews)
+::::::
+UserName: fherre
+Rating: 8.5
+Date: Jul 1, 2008 8:10 am PT
+Review:  This game, thanks to mod comunity, is now morre great that when was release in 2002. This probes 
+ the great job made by his creators that give us no only one game but a plataform to customize it 
+ in every way posible: graphics, funtionality, etc. Now we have every crew and ships from every 
+ series and films (a true star trek legacy) , a diversity of maps to travel, even now we can really 
+ travel in the trek galaxy thanks the excelent mod Galaxy Charts. Also we have the first funtional 
+ wormhole, travels engines like slipstream. This is the way that a great game must follow: go where 
+ no game has gone before, in this case making a game mod friendly so it can be vigent 7 years after 
+ its release. Of course, again this is posible thanks to making a game that let portrait the trek 
+ experience as commander of a trek ship. 
+::::::
+
+::::::
+UserName: Evil_Chris
+Rating: 10
+Date: May 24, 2008 11:06 am PT
+Review:  Star Trek: Bridge Commander is a game that has amazing graphics, an excellent story line and contains 
+ hours of enjoyment. The game is a delightful mix of a simulation, action and arcade game that makes 
+ the game cost every penny.
+  
+  As I am writing this the game is over six years old, yet the graphic still uphold with more recent 
+ games even exceeding a few, this is mainly due to the beauty and caring detail placed into each 
+ and every ship. 
+  
+  The story line is as with most games the detail that puts it down or makes it a great success. 
+ With Star Trek: Bridge Commander I find it is a breath of fresh air, compared to other games that 
+ has one purpose to get from A to B whilst destroying the enemies. The story flows and fits in perfectly 
+ with the TV series "Canon" and in my opinion enhancing it in many places.
+  
+  The playability is incredible, you can both take control of the ship by yourself and fly it manually 
+ or you can sit back in the captains chair and order your bridge crew to do so. The player interface 
+ itself is simple yet effective, designed like from the series the buttons you press could make 
+ the difference of destroying a ship or simply disabling it.
+  
+  In conclusion I believe this game is a true masterpiece and worth nearly any amount of money, the 
+ only obvious letdown to the game is the lack of playable ships in "Quick Battle" mode. 
+  
+::::::
+
+::::::
+UserName: lio83197
+Rating: 9.5
+Date: Mar 20, 2008 7:50 am PT
+Review:  This game is amazing. I never played anything like it. The graphics aren't the best in the world 
+ but they are pretty damn good. Playing this game is the same as actually being in space. You command 
+ your crew telling each one exactly what to do. The space battles are great and sometimes can be 
+ very challenging. There are times throughout the game when you are fighting along side friendly 
+ vessels and you can tell them what to do as well. This adds a bit of strategy to the game.
+  
+  Whats nice is that some actions you take now affect something later on. For example if you 
+ are in one system and you don't destroy the enemy fleet they could reapear later in another system. 
+ This game is definitely worth playing on Captain difficulty (the same as medium difficulty) . It 
+ is a bit challenging but all the missions are doable.
+  
+  I highly recommend this game to everyone who loves Star Trek or simply wants to pilot their own 
+ ship. 
+::::::
+
+::::::
+UserName: BloodElf42
+Rating: 9.5
+Date: Feb 24, 2008 3:47 pm PT
+Review:  It just amazes me that the number of people who don't like this game don't like it because you 
+ can't control what the ship does and have to rely on bridge crew only- completley oblivious to 
+ the fact that you can see the outside of your ship and control any funtion even helm from there 
+ and play it like legacy but with mre realistic phasers and torpedos. THe grpahics arfe aweful by 
+ todays standards but you have to remember when it came out...
+  The only down side to this game is the Commander. I want to kill her so bad everytime- I just wish 
+ you could pull a phaser on her otehr than that and that its fun. the phasers the quantum torps 
+ are much more balanced then they were in legacy. You can actually shot Toprs from almost any angle 
+ and they will miss occaionally, you can target subsystems, you can leave the ship a crippled wreck 
+ but not destroy it and tractor into a planet. It's just good old fashion fun. 
+::::::
+
+::::::
+UserName: cobra_fox
+Rating: 9.5
+Date: Dec 22, 2007 2:57 pm PT
+Review:  This game is very fun, ambitious and addictive to play if you are a fan of Star Trek. Even if you 
+ are not a fan of it it's still a good space sim to play 
+  
+  It's very interactive you have 5 main crew members on the ship you can give orders too and it works 
+ out very easily, you also have full control of your ship for combat or manoeuvring in a fully 3D 
+ space environment or you can have attacks and piloting automated while you deal with ship repairs. 
+ The AI is intelligent enough to try and keep itself alive when fighting; it fully uses the 3D environment 
+ and targets your ships key systems and aims for your ships weakspots in shields or systems. You 
+ can also collide with other ships which can be handy in desperate times 
+  
+  The graphics are dated by today's standard but the ships are still nicely detailed and show some 
+ nice battle damage in those close and intense fights. The space environments are also rich and 
+ detailed but the character models for the crew I felt could have looked a little better
+  
+  Even though this is an old game it has had masses of mods for it one of the best mods I've seen 
+ is the Kobayashi Maru 1.0 mod it adds a good 2GB of extras to the game like new ships, new tactics, 
+ Ai changes, better ship models plus more
+  http://kobmaru. de/index. php? show=88
+  
+  So overall a Great game and one that feel like Star Trek. It is very in-depth and detailed in what 
+ you can do leaving you with many tactics to try out and there are plenty of user mods around to 
+ improve it even more 
+::::::
+
+::::::
+UserName: Donners22
+Rating: 5
+Date: Nov 1, 2007 4:01 pm PT
+Review:  Few Star Trek fans would not have dreamed of captaining a starship of their own  making the tough 
+ moral and ethical decisions, balancing the Prime Directive against doing the right thing in the 
+ specific circumstances, managing your crew, exploring the final frontier with new surprises every 
+ day... Bridge Commander seemed to offer the perfect opportunity for this - You are the captain. 
+ Instead, it offers all the freedom and originality of a rail shooter.
+  
+  There is no crew management. There are a few set officers, a few randoms who swap in on occasion, 
+ and that's it. Despite the game's claims to the contrary, there are few thought-provoking decisions. 
+ You have little freedom  report to Starfleet, get objectives, go out, complete objectives, return 
+ to Starfleet. There is little need to even think  your crew actually ask you for the order you 
+ have to give in each case! It often feels as if the game is playing itself, just asking for a token 
+ input from the player on occasion. Indeed, you can simply tell your officers to handle combat themselves, 
+ and thus contribute absolutely nothing at all. Even if you do try to handle itself, you are let 
+ down by some baffling issues. Sparks are flying and your ship is leaking some sort of liquid  
+ you must be taking internal hits, right? Well, no, that happens whenever you take hits, regardless 
+ of how easily your shields handled it. Want to protect a weak shield against the barrage you're 
+ taking? You aren't told which shield is being hit. Want to strengthen a particular shield to suit 
+ your angle of attack? Can't do that at all. Suddenly can't fire your forward phasers? Apparently 
+ they were destroyed at some point, though you were never advised of that. So many Star Trek games 
+ have done it better, including the ancient Final Unity which didn't even have a focus on combat.
+ 
+  
+  The voice acting is unremarkable  not as terrible as in many games, but far from anything memorable 
+ and inspiring. Graphically, the game is disappointing. The space environment is far less impressive 
+ than that of Klingon Academy from several years ago, and the explosions are particularly terrible 
+  a ball of flame, then the ship disappears. Wing Commander was doing that over a decade ago, and 
+ there's no excuse for it in a 2002 game.
+  
+  Mission design is unimpressive. As noted, there is little requirement for any thought from the 
+ player. You are guided through every step. Several missions are quite annoying, such as one where 
+ you must disable a station then board it. Your useless crew generally blow it up or get themselves 
+ blown up, so it's up to you to handle it. Unfortunately, even the most careful shooting sees a 
+ lot of hull damage, but it's possible to avoid destroying it. Of course, then three ships turn 
+ up and blow it up anyway, long before you have a chance to draw them all off. There's a difference 
+ between a challenge, and something that makes you uninstall the game in frustration.
+  
+  Then again, with all the other flaws in the game, most would have deleted it long before then. 
+ The game may have some value when heavily modded or as a multiplayer game, but out of the box, 
+ it is a disappointment. 
+::::::
+
+::::::
+UserName: PlaTiNuM24k
+Rating: 10
+Date: Oct 11, 2007 7:45 am PT
+Review:  When I first picked up this game a couple years ago, and was skeptical at first. Went through the 
+ campaign the first time and had no idea what i was doing. Suprisingly beat the game but it took 
+ forever. Then I got the gamespy player and started playing multiplayer, learing that you hae to 
+ fly the thing, and it became additcing and so much fun. I join a team called the Red Squadrons 
+ in the process too. It became the sole game i played for about 7 months. They started bringing 
+ different versino of the game, like 1.10, 1.3b, and 1.3c, which included new ships and upgraded 
+ weapons and sounds for all craft. It really became a battle royale type of game. The only hitch 
+ was you had to install different files of the game to accompany the different version types. The 
+ easy part was in gamespy you could change what .exe file was used to launch the game from gamespy. 
+ After awhile I started playing single player again when there was no one around and using the upgraded 
+ sutff, it made it alot more fun and your allies were alot more dependable. The gameplay was better 
+ in multiplayer, huge dogfights and multiple ways to attack and different stratgies for each ship, 
+ which kept you guessing. Overall, this game truly stepped up the Star Trek name, i just wish they 
+ would have made another one of this game, and stepped up the graphics. Like is the Movie Nemesis, 
+ make the shields looks like they are wrapped right around the ship so they are harder to drain 
+ then rather being like a circle, oval, etc. around it. Good Job Guys 
+::::::
+
+::::::
+UserName: striker1942
+Rating: 9.2
+Date: Jul 4, 2007 6:42 pm PT
+Review:  When I picked up Star Trek-Bridge Commander at the store, I didn't have high hopes for it. After 
+ I played Legacy, my mind was set that NO Star Trek games (or Star Wars, but that's something else) 
+ could ever be very good. I told myself that I would not leave the store with it. Naturally, I walked 
+ out being the not-so-proud owner of Bridge Commander.
+  
+  The first thing I tried was the campaign. I was expecting a brute, no-tutorial campaign. In reality, 
+ the first mission was very helpful, and one of the best aspects of the game. The campaign itself 
+ is pretty interesting, and will keep you playing. However, the quick match ability makes the game 
+ much better. The ability to play a battle that could take 3 minutes, or half an hour (happened 
+ to me once) , is extraordiary. But the best part of the game is the mods that are so abundant (especially 
+ The Beginning mod) . They add a new layer to the game, which gives it incredible repayability.
+ 
+  
+  The only problem with the game is the cost. The game is out of print, and a new one on Ebay costs 
+ about $80. The used ones go for about $30. $80 for a video game (a PC one) is a lot of money to 
+ pay. My copy was one of the last in the store. Good luck finding one. 
+::::::
+
+::::::
+UserName: ChakatBlackstar
+Rating: 9.2
+Date: Jun 16, 2007 6:05 pm PT
+Review:  Okay, most of you Star Trek fans know that there are only a handful of good Star Trek games. But 
+ there is always an exception to the rule, and this is one of them. This game is one of the best 
+ Star Trek games I've ever played. Put enough of the obvious, you want to know about the gameplay 
+ right?
+  
+  You play as the faceless, nameless captain of a Star Fleet ship in a territory known as the Maelstrom. 
+ An unclaimed piece of space where you have to try and protect federation intrests without losing 
+ your ship. As the story progresses you have to deal with a number of situations that you could 
+ easily see happening in the show. And what's more, you can give just about every normal order you 
+ would expect out of a captain. You can take a back seat in the captian's chair on the bridge and 
+ let your crew do the busy work or with the press of your space bar you can control the ship from 
+ a third person view. In some ways the combat is more realistic in the game then in the show, and 
+ at harder levels it requires a quick assesment and intelligent tactics just like a real captain.
+ 
+  
+  The interface is also well designed, for example the tacticle screen showing the status of the 
+ targeted enemy and their subsystems, shows weapon and shilds status and general damage of your 
+ own ship.
+  
+  If it's not here you can find it at bcfiles. com where you can download mods for just about anything 
+ you can think of for this game, except for Orion Slave girls that is. Just about any ship, weapons, 
+ graphics enhancements, enhanced power control, even near total conversion and upgrade with the 
+ Kobayashi Maru, are available to turn this game into what it would be if made today. However the 
+ downside to the mods is that the multiplayer feature will only let you play against people with 
+ the exaxt same mods. Luckly packages like the Kobayashi Maru pack make this easier with univeral 
+ modding.
+  
+  Final assesment: a must have for any trekkie, as well as any normal gamer looking for a unique 
+ experience. 
+::::::
+
+::::::
+UserName: RAW666
+Rating: 8.8
+Date: Mar 2, 2007 4:45 pm PT
+Review:  Most Star Trek games rated form bad to good, this isn't one of them. This is a great that sometimes 
+ that you wish there was more. The game should be added on with better graphic and more of the continue 
+ adventures of the U. S. S. Sovereign. I hope that Totally Games decide to make a sequel to this game. 
+ Also on note, the controls are easy to master and not so hard learning curve and there is no question 
+ that the game is fun. My favorite part is the end but I won't spoil it for you, but can tell you 
+ it involve sending a ship into a sun. 
+::::::
+
+::::::
+UserName: GenTom
+Rating: 8.4
+Date: Feb 11, 2007 8:35 am PT
+Review:  Star Trek Bridge Commander is one of the first games I have ever had the privilege to play on PC. 
+ As a Star Trek fan it is only normal for excitement to appear when a new star trek game is realised 
+ but this game in my view out ranks all others. It is the sort of game that never gets old with 
+ all sorts of great aspects to it.
+  
+  Star Trek Bridge Commander gives you the opportunity to fully interact with your crew of bridge 
+ officers that take charge of each station. You have the ability to let them do the work or you 
+ can take over the job yourself. Each crewmember has there own strengths and weaknesses, which make 
+ the game even more realistic. The posts, which will be filled by your officers on the bridge, are 
+ helm, tactical, engineering, science, first officers area and second officers area. Each one 
+ of these posts has distinctive and useful functions.
+  You have the ability to control the ship in two ways. You can use the spacebar and the keys to 
+ manually fly and fight enemies with the ship or you can issue orders to the officers from the bridge 
+ to do these commands. This allows you to play the game in two different perspectives.
+  
+  The storyline, which comes with, the game is gripping and keeps you in your seat throughout the 
+ game itself. You get to fight with Ferengi, Romulands, Kessok, Cardasians and Klingons. Each races 
+ has there own personality and tactics not to mention variations in the ships. You will find that 
+ most of the time you will be allied with the Klingons who will aid you in fighting the war against 
+ the Kessok and the cardasians. You will have the choice of whether or not to engage in battle and 
+ when the timing is right to retreat. Each new mission has its won twists and turns and is introduduces 
+ slowly in order to get the player familiar with the role of being a Starfleet captain.
+  
+  You will meet famous characters of star trek on your journey such as Captain Picard and Commander 
+ data that will help you to complete your missions throughout the game. Admiral Lou will also become 
+ a big feature throughout the game and will show you new assignments and reward and punish you for 
+ your efforts.
+  
+  Once engages in battle your ship will receive structural damage and in bridge mode the ship will 
+ rock and bang when hit with torpedoes. You have the ability to perform evasive manoeuvres and go 
+ into tactical mode switching through green, yellow and red alert to suit the given situation.
+ 
+  
+  There has however been a few stet backs with this game. For example the popularity in the past 
+ six months has decrease by over half and to be honest the game is now being viewed as rather old 
+ due to the release of Starship Command II. There are also some errors in the game such as the fact 
+ that you get voice over lapping which can cause problems in the game is you are trying to listen 
+ to important information. The sounds of the weapons should be upgraded to fit what they sound like 
+ in the movies and series but thanks to bcfiles. com you can now ad new torpedo and phaser sounds 
+ to make them sound far more realistic.
+  
+  You have the ability to brush up on your fighting skills with the quick battle and multiplayer 
+ mode where you can engage straight into battle either with the computer or with real people. The 
+ multiplayer mode can be run either from the game itself or by gamespy but either way has become 
+ more challenging. In the past six months the multiplayer mode has gone down and now it is hard 
+ to find more than a handful of games at any one time.
+  
+  I like this game and I will always like this game down to the pure fact that it is some realistic 
+ and reminds me of what pressures you would be under to be a Starfleet captain. I would recommend 
+ this game to anyone but in my opinion star trek fans would get more out of this game than anyone 
+ else. 
+::::::
+
+::::::
+UserName: vaskaville
+Rating: 10
+Date: Jan 4, 2007 10:16 pm PT
+Review:  I like the starship action. And I love the background and the combat did I just say that. Star 
+ trek bridge commander is very hard to find, this program is a little bit rare. But I had to go 
+ to Amazon. com in order to get it, but this program is a little expensive this costed me 55.70$ 
+ half of a hundred can you believe that?. This game is the best star trek game of all time I mean 
+ that. I like battling the Klingon's and the Cardasions. The cardasion war ships is such a easy 
+ target but let me give you some advice the Romulans are very hard to destroy. 
+::::::
+
+::::::
+UserName: boku14
+Rating: 10
+Date: Aug 3, 2006 2:39 pm PT
+Review:  this game is a near perfect star trek game. though the stock game is kinda, well lacking. but all 
+ you have to do is go to a mod site like  and you will find well 
+ over a 1000 ships/mods. from the borg, to even ships from other sci-fi shows/games. with mods that 
+ makes this game amazing to play. with a fun storyline and multiplayer. and even a mode that lets 
+ you make anything happen. from X-wings attacking shuttles, to the borg blowing away hataks. this 
+ game has enough add-ons to keep you play for the next 10 years, atleast! the only thing wrong I 
+ can find with this game, is the fact that you can't buy it. nearly no one sells it. the only place 
+ I found it being sold, was on sites like ebay. if you are lucky enough to even see it being sold, 
+ BUY IT NOW! 
+::::::
+
+::::::
+UserName: Yoshi_Lover
+Rating: 8.8
+Date: Jul 27, 2006 10:02 am PT
+Review:  Well it seems that one after another Star Trek games have come along and failed. The games just 
+ dont recieve enough support and are rushed through development and when the final product is released 
+ it is unimpressive. Luckily for Star Trek fans Bridge Commander and the Armada seris of games is 
+ a step in the right direction for the future of Star Trek games. 
+  
+  The Story:
+  
+  In Star Trek: Bridge Commander you are a commander of a galaxy class federation starship (the USS. 
+ Dauntless) when a disaster in the solar system causes the sun to go nova, destroying all federation 
+ presence (including a shuttle which is carrying your captain) and damages your ship heavily. After 
+ this incident you are put in command of the USS. Dauntless and are charged with the task of investigating 
+ the "accident" which destroyed the sun. 
+  
+  The Gameplay:
+  
+  Bidge Commander undertook the task to provide a simulation of star ship control from the captain's 
+ chair but also to alow you free reign over specific combat actions. In a sense there are two ways 
+ to control your ship but can become one. The first method of control is directing your crew members 
+ to carry them out for you. The developers achieved this by giving you a first person perspective 
+ from the captain's chair. You look around and may select 1 of 5 bridge officers, Engineering, Science, 
+ Tactical, Helm, and your first officer. You may play the game from this perspective and watch the 
+ action from the view screen.... but... you may want to press the space bar and take the second approach 
+ to control in Bridge Commander. When you do this the camera is set to a third person view outside 
+ of your ship following your target but always focusing on your ship. Myself I find the controls 
+ to be masterful (when i make a few adjustments) . This view provides a near cinematic view of everything 
+ around you and can be most impressive.
+  
+  Single Player: 
+  
+  The single player part of Bridge Commander is.. well solid. It allows you to explore all the maps 
+ in the initial installation and all the options within your ship. That combined with a decent storyline 
+ and resonable voice acting creates a great experience.
+  
+  Quickbattle:
+  
+  A great feature in Bridge Commander is Quickbattle. This allows you to add any ship from the game 
+ into a scenario and make any combination of objects friend or foe. This is where you will spend 
+ most of you time and with the additions of the Kobayashimaru mod and others it will keep you playing 
+ the game.
+  
+  The Graphics:
+  
+  The graphics in Bridge Commander are a pleasant surprise. You can tell that the developers put 
+ alot of work into the ship models and your surroundings and with a couple of suggestions in the 
+ MODS section of my review you can greatly increase them to bring them to the year 2006. Even if 
+ you do not modify the game the graphics are great and still competative for 2005 year games. The 
+ only let down is the inside of the bridge. The models for the crew members are not the greatest 
+ and sometimes the view screen has its problems but these are things that do not matter if you are 
+ into the 3rd person type of gameplay.
+  
+  The Sounds:
+  
+  Well the sounds are not the greatest part of the game but they are not one of its fauts either. 
+ As you would think the game has an array of "Star Trek" sound effects, from phaser fire to quantem 
+ torpedoes everything sounds fine. The only let down is the music. Dont get me wrong it sounds nice 
+ for the frst 25-30 hours but it gets a little annoying after that lol. But seriously the sounds 
+ in Bridge Commander are solid and i have few complaints.
+  
+  Mods:
+  
+  Although the game is impressive it still is 4 years behind the times. Luckily for us until the 
+ next slew of Star Trek games are released we have an excellent Mod base. Many people have dedicated 
+ hours into creating new and beutiful ship models and backgrounds. I really am impressed wth how 
+ the Kobayashimaru Mod looks and runs. This mod adds dozens of ships into the game, upgrades old 
+ ones to look beautiful and adds many menu options within the ships to create a very fun experience. 
+ If I were to suggest any Mod it would be the Kobayashimaru Mod at Fileplanet.
+  
+  When it comes down to it I belive that this game is a step in the right direction for the Star 
+ Trek fanchise and I cannot wait for more!
+  
+  
+::::::
+
+::::::
+UserName: coroner62
+Rating: 9.3
+Date: Jul 12, 2006 3:17 pm PT
+Review:  The best Star Trek game ever made I wish that they made a part 2 I loved the interfaces and camera 
+ views and great story line. (Revolutionary)
+  The Graphics were really good. Some ships had more detail that others though. The Capitan's interface 
+ from the tactical view was the best along with the camera modes. The stations were not consistent 
+ with the T. V. shows. And the Tactical officer's AI could have been a lot better if so I would have 
+ played more from the bridge view. But the 1 thing that I didn't like about the game was the fact 
+ that anytime your haled by other vessels or do anything important or tha involved interaction with 
+ the storyline or AI the 1st officer always did all the talking you got to do NONE at all. Would 
+ have been better if it had more accurate phaser placement and arcs on the ships. I really love 
+ the Akira Class starship. But this game goes to show that if they put there mind to it they and 
+ put some real time into it. can come up with a really good star trek game. The Best I've ever seen 
+ and I still play it to this day. If you don't have it, get it you will like it. 
+::::::
+
+::::::
+UserName: CubeVIP
+Rating: 9.4
+Date: Jun 20, 2006 3:51 pm PT
+Review:  Star Trek Bridge Commander is an amazing game that I have been playing since the day I got it (2004-2005) . 
+ I read about it in a magazine from 2001 
+  (I think) and could not wait playing it. 
+  
+  The story is a little short but the gameplay and graphics are great. 
+  And you can always play 
+ Quikbattle (Skirmish) or Multiplayer if you finished the story. Plus there are tons of ships, modifications 
+ and maps available on the internet  which makes the game 
+ a lot more fun. It still looks and plays amazing even though the game is a bit old.
+  
+  
+  Definitely worth playing! 
+::::::
+
+::::::
+UserName: gbrading
+Rating: 8
+Date: Oct 21, 2007 3:16 pm PT
+Review:  Lets be clear on this from the very start: I adore Star Trek. Deep Space Nine was rubbish, but 
+ the original series and Next Generation were great. So obviously, Im bound to be ever so slightly 
+ biased in favour of any game that gets released about it. However, I can honestly say that Star 
+ Trek: Bridge Commander is a really great game just so long as you are into Star Trek, or anything 
+ in anyway sci-fi space related.
+  
+  Star Trek: Bridge Commander really is a tactical shooter at heart. The main plot is that you were 
+ the unnamed First Officer aboard the USS Dauntless, patrolling the Vesuvi System (sounds strangely 
+ like Vesuvius doesnt it?) in the Maelstrom region of space. I say were because you get promoted 
+ to Captain as old Captain Wright gets killed when the Vesuvi star mysteriously explodes during 
+ the introduction. From then on, it is a race to discover why the Vesuvi star exploded, whether 
+ it was an accident, and who was behind it. The game lets you control two starships during the main 
+ campaign; The USS Dauntless, which is a Galaxy Class, and the USS Sovereign, the prototype Sovereign 
+ Class. Controlling these ships is relatively easy, thanks to the assistance of the crew. Simply 
+ click on whatever crewmember you desire, and choose from a drop-down menu a series of orders, such 
+ as increase speed, attack vessel, or warp to a different sector. In game, there are two views from 
+ which the game can be played. A tactical external view, where you see the ship from the outside 
+ as it flys majestically around, and a bridge view, where you are glued solidly into the Captains 
+ chair, but can at least pan around to look at the crewmembers, and can see what is going on outside 
+ through the viewscreen.
+  
+  Most of the missions follow a very similar structure; go in, scan the area, meet the bad guys, 
+ shoot and destroy the bad guys and then return to the Starbase. While this can become a little 
+ repetitive, there is some variety in these missions, such as where stealth will be required to 
+ succeed, or you may have to hold off an attack before the reinforcements can arrive. The plot is 
+ very strong, and you do feel some attachment to many of the characters you meet along the way. 
+ The game is also quite long, and will require at least several sittings to get through the campaign. 
+ Battles are extremely fun, and the ships all seem to have accurate, or at least realistic sense 
+ of speed, strength and power. You wouldnt expect a huge spaceship to turn corners abruptly, but 
+ instead they turn like blue whales. AI is normally very competent at dealing your attacks, and 
+ friendly AI can be ordered to attack specific targets. In multiplayer and Quickbattle modes, you 
+ can also play as ships from Klingon, Cardassian, Federation and Romulan fleets (no Borg unfortunately) 
+ although you must keep the Galaxy or Sovereign bridges.
+  
+  The major drawback of Bridge Commander is the graphics. With all the settings maxed out, the external 
+ shots of the spaceships looks pretty impressive and majestic. However, whenever any damage is sustained, 
+ all you get is a generic damage texture, which looks rather silly and terribly unrealistic. All 
+ explosions look just like bits of smoke ballooning out of nowhere. Never attempt to crash into 
+ a planet, as you will be able to approach without any problem before suddenly hitting the surface 
+ of the sphere and dying instantly. The damage on the bridge is little better. The screens do flicker 
+ nicely, sparks fly, and air vents will burst, but none of it lasts very long or makes it feel like 
+ the ship is taking serious damage. Furthermore, additional useless crew members on the Sovereign 
+ bridge may be thrown over by a torpedo hit, and then never get up, instead lying prone, face up 
+ on the floor. The character models themselves are also very bad, and there really isnt any lip 
+ syncing whatsoever.
+  
+  Thankfully, sound is quite good. The music is suitably Star Trekesque, and the character voices 
+ include those of Patrick Stewart as Picard and Brent Spiner as Data, though the role of Picard 
+ is very minor within the game. They all get a great variety of dialogue to play around with, though 
+ I would have loved to have seen more. The genuinely only annoying character is that of your First 
+ Officer, Commander Saffi Larsen, who is universally despised by all players of this game, constantly 
+ reminding you of your mission objectives, or what Starfleet protocols you are breaking. Just listen 
+ once to her voice and you will understand exactly what I mean. While it was meant to assist in 
+ remembering what you were supposed to be doing, you are supposed to be in charge here, being the 
+ captain, and should not be bossed around by your executive.
+  
+  At the moment, this is still the best Star Trek action game there is. That fact was set to change 
+ with the release of Star Trek: Legacy, which should have really been the successor of Bridge Commander. 
+ However, thanks to the abject failure of Legacy on the PC on all counts, Bridge Commander is still 
+ the pinnacle of Star Trek gaming, and worth checking out if you love this genre. The gameplay is 
+ exceedingly fun and engrossing on many levels. Just be prepared to overlook the mediocre graphics. 
+ 
+::::::
+
+::::::
+UserName: VooDoo1144
+Rating: 9.8
+Date: May 2, 2006 2:36 pm PT
+Review:  When I bought this game on release day in 1998 I found everything that I wanted in a Star Trek 
+ sim game that others have tried and failed to provide... it was more polished and ambitous than 
+ both Starfleet academy and Klingon academy... both those games made the ships no more than large 
+ fighters that could solve any problem with phasers and photon torps.
+  
+  This game was hyped as having great graphics and accurate ship models... not true... all the ships 
+ looked rushed and at the worst, incorrect... I forgave this fault because the combat system was 
+ improved over the last two games and that I was able to fight as the soveriegn class and galaxy 
+ against cardie ships and such.
+  
+  The ship selection was terrible out of the box... only a few ships for each race and none of them 
+ looked very good at all... the addition of the Kessok (who the heck are they??) was even worse... I 
+ play Star Trek games to see the enemies I know... not half attempts at shoehorning stupid races 
+ to suit a need in the plot.
+  
+  The controls are great and require little time to get used to... I tend to gravitate more to the 
+ exterior view to fight because allowing the crew to fight for me is the worse idea ever... they 
+ do a okay job... but not good enough to trust at all... the enemy AI is okay... sometimes not aggresive 
+ enough and no matter how high you set the difficulty, you will still see them fire blind at nothing 
+ while moving into a arc to hit you... not that great but not a big deal.
+  
+  After many years the mod community has polished the heck out of this game... the efforts of the 
+ mod teams at BCfiles have made this game good where the dev team failed... now there are hundreds 
+ of ships to add to the game and new scripts that allow you to do many things that the devs said 
+ would not be possible at all... you can now walk around the bridge and launch shuttles... you can 
+ even seperate the galaxy class ship and others using the multivector assault mode... I have added 
+ over a gig of mods to the game and it barely resembles the half attempt that came out of the box.
+ 
+  
+  This game is hard to find now... you can fetch it for as high as $80 if you look... if you are a 
+ Star Trek fan and have a good computer to run all the demanding mods... than this game is worth 
+ the price and effort to aquire.
+  
+  I will rate this game as it exists now... because you really have no need to play the stock version 
+ anyway.
+  
+  Buy it if you are a Trek gamer... if you are not... well I doubt you are reading this anyway. 
+::::::
+
+::::::
+UserName: boris1701
+Rating: 8
+Date: Apr 15, 2006 2:55 pm PT
+Review:  When I originally bought this game in 2000 I played through the story and messed around a bit in 
+ quick battle with a rather large feeling of disapointment as to how un-fufilling the game seemed. 
+ With all the hype i was expecting a game that pushed the limits of star trek gaming, but instead 
+ I got what seemed like a half finished beta version of which obveosly it was not.
+  
+  However since 2000 I have been exploring different types of modding for games including bridge 
+ commander. And most recently with the release of the "Bridge Commander Bridge Plugin" and the "BCS 
+ The Beginning," I find a vast improvement on the game.
+  
+  Bridge Plugin offers a more realistic bridge experience whilst adding many bridges to the game 
+ (as of yet only two bridges are avalible for the plugin but many more are on the way.) 
+  
+  BCS The Beginning adds all those tricks and impressive stunts we 've seen our favourite crews pull 
+ off; such as trasnporting torpedos to enemy vessels and targeting plasma streams leading to a massive 
+ firework of an explosion.
+  
+  I recomend to any star trek fan vist www. bcfiles. com and have a good long look around.
+  
+  BCS 
+ Link: http://bridgecommander. filefront. com/file/BCS_The_Beginning;59227
+  
+  Bridge Plugin: 
+  http://bridgecommander. filefront. com/file/3rd_Era_Bridge_Plugin_Video;49030 
+ 
+::::::
+
+::::::
+UserName: dragon247uk
+Rating: 9.8
+Date: Jan 27, 2006 1:19 pm PT
+Review:  Star Trek: Bridge Commander perfectly captures what it is like to command the USS Dauntless and 
+ Sovereign. With one downside. First Officer Saffi. She is a total nitwit who takes over in any 
+ situation despite you being the captain on one of the best ships in the Maelstrom. 
+  
+  Gameplay is excellent as players get to become captain or even pilot the ship through ravaged systems 
+ such as Vesuvi and the memorable space station Star Base 12. The missions are all different and 
+ can be annoying when you run out of quantums. But defects aside you get to chase after all new 
+ technology and civilisations in order to complete your objectives.
+  
+  To be honest the developers could have spent more time at looking a facial expressions as whenever 
+ someone finishes speaking they look like they have a bad case of constipation. The lips don't move 
+ to the words and look like they were just thrown in as a two minute extra. 
+  
+  Piloting the ships can be pretty annoying when you crash it to ships and planets but when you have 
+ got past that stage it is quite easy. the controls all fall to hand and the graphics can still 
+ compete against the games of 2006 today. You even have to choice to go to red alert and set phasers 
+ to kill as your decisions will ensure the future of the Maelstrom and the surrounding area.
+  
+  Personally I think that there isn't enough freedom in what you want to do as your actions are 
+ based in space. The closesed you are ever going to get to a planet is if you crash in to one. 
+::::::
+
+::::::
+UserName: Metron4
+Rating: 6.9
+Date: Jan 14, 2006 9:31 pm PT
+Review:  In tackling the Star Trek universe, Totally Games brought much of their design philosophy from 
+ the LucasArts "X-Wing" series to shape the gameplay. Although much fun can be had, the experience 
+ is far from fulfilling. If anything, "Bridge Commander" exposes the fact that too much personal 
+ choice is needed to really capture the feeling of sitting in the big chair.
+  
+  * Gameplay: Weve all seen how hard it is to command a ship and crew in any Star Trek episode, 
+ and the amount of responsibility is enormous. To be fair, there is simply no way Totally Games 
+ was ever going to come close. They could have designed this game giving every possible choice to 
+ the player, and it still wouldnt have been much fun. Why? Because making the hard choices isnt 
+ something everyone can do or even knows how to do. Thats why starship captains arent recruits 
+ out of the Academy. Theyve got decades of experience sitting in all the other chairs on the bridge 
+ before they ever get offered center stage. So it really comes as no surprise that almost every 
+ important decision in the game is hand-fed to you, either by suggesting it to death (Captain, 
+ we should rendezvous with the Khitomer.) , or outright done for you, such as your science officer 
+ scanning objects without your consent. In fact, while the silence of your character allows any 
+ player to slip into the role, it also serves to make you feel like what you are, a background character 
+ who has no business speaking up about anything, because you know less than anyone else on the bridge! 
+ The game is therefore limiting in many aspects. For example, in diplomacy, once or twice you may 
+ have a conversation with some hot-headed Romulan or Cardassian, and what actions you choose can 
+ decide a particular outcome. But diplomacy this aint. You cant offer something else they may 
+ want, perform a secret scan to uncover something they are hiding, use a poker face to hide something 
+ yourself, or any of a dozen scenarios seen in a dozen episodes of the show. Its basically shoot 
+ or dont shoot. With repairs, Totally Games carried over their R2D2 droid repair feature from X-Wing; 
+ you get three teams who can repair three areas of the ship. Great. What happens when my Hull is 
+ at %12, and Ive got two other teams repairing the tractor beam and Port warp nacelle! Youd think 
+ you could assign all three to one in a pinch, but, youd be wrong. Speaking of repairs, there are 
+ times in between missions that you can head to Starbase 12 for repairs, except they let you do 
+ it when you really shouldnt, like when other Federation ships are dying in some system, and at 
+ the same time, deny you the ability to run like blazes when you are about to die and desperately 
+ need repairs. When the Cheng reports Microfractures are forming in the hull!, its time to get 
+ the hell out of there! Dont kill me and end the mission. A better design would be for me to accept 
+ the consequences as any captain would have to, and let ME decide if I can live with it and move 
+ on or reload the mission. In tactical scenarios, the tactical officer never takes advantage of 
+ the weaknesses reported by the science officer. Thats left for you, to undermine his role and 
+ operate tactical yourself. If I wanted to dogfight with other ships, I wouldnt be playing a game 
+ called Bridge Commander. Im supposed to be the captain! Where are my lists of tactical maneuvers 
+ handed down by my mentors that no one on the bridge has ever heard of? Also, the only outcome of 
+ a battle is destruction. Disable is left for missions that require it. You cant hail a ship about 
+ to be destroyed and gain some bonus by offering them mercy. They dont hail you and beg for their 
+ lives! You cant disable and tow a ship back in to Starbase 12 and be commended on capturing live 
+ prisoners. Ironically, many of these kind of side choices WERE offered in the older X-Wing games 
+ by the same company. On saving, the game decides when it should save, not you, and some of those 
+ moments when youve just been in a big firefight and want to save can get hairy if the game doesnt 
+ decide to. Even then, a save is not a blessing. Just before Episode 7 there is a lengthy, huge 
+ fight. If you just manage to make it through, tough, because the game will save your ship that 
+ way, and send you through the next gauntlet, damaged and all.
+  
+  On a brighter side, the scripts are well-written, and all the characters on the bridge are fleshed 
+ out well enough to feel like you know them. While there are no one-on-one moments where you can 
+ talk to crew members personally, they do have cutscenes for each of them, where they talk into 
+ their personal logs, mostly about you, the new captain. Encounters with other Federation ships 
+ give you a chance to talk to their captains. Listening to the crew banter with each other keeps 
+ the bridge feeling alive. Science missions make for nice breather moments, when you dont feel 
+ the need to be a captain. Overall, the experience of being on the bridge has a certain feeling 
+ of adventure to it.
+  
+  * Graphics: There isnt much to look at on the bridges themselves, even though both of them are 
+ modeled just like on the show and movies. Once you get tired of staring at the expressionless faces 
+ of the crew, youll more than likely be switching to an exterior camera, preferring to gaze at 
+ the possibilities of endless space rather than the back of another polygonal chair. The menus of 
+ course follow the LCARS standard, and the weapon effects are very accurate. Torpedoes sparkle and 
+ phasers sizzle as they strike their targets. Smoke puffs leave trails from damaged portions, and 
+ fireballs flame out from fractured decks. On the bridge itself, sparks fly, smoke shoots in all 
+ directions, and the camera shakes. Very impressive.
+  
+  * Sound: I was pleased with the way the soundtrack and mission music captured the feel of the TV 
+ shows. Not another retread, but a fully original orchestration using many of the same instruments. 
+ When torpedoes hit your ship, you feel it. When you launch them, they zing out the launch doors. 
+ Every sound effect you would expect to hear on the show is recreated faithfully, even the tractor 
+ beam. The voice work is exceptionally well done, and the inclusion of Patrick Stewart and Brent 
+ Spiner was a real pleasure.
+  
+  * Value: There is a huge multiplayer community that takes advantage of Bridge Commanders multiplayer 
+ capabilities, even this far after the game has been out. There are also a fair amount of mods, 
+ including ships that didnt even come with the game. The single-player campaign may offer some 
+ people an interest in replay, but I felt I could do all that was possible the first time around, 
+ and some of those mission I dont ever want to see again.
+  
+  * Tilt: A big fan of the shows, I consider myself a born-again Star Trek fan, having been awakened 
+ by the goodness that was TNG. The only other Star Trek games Ive played were Elite Force and Borg. 
+ Ive always been very strict about what I thought Id like in a ST game, so I passed on many of 
+ them. This one comes close, and Id like to see this approach given another chance.
+  
+::::::
+
+::::::
+UserName: Archrivel
+Rating: 8.6
+Date: Jan 9, 2006 1:18 am PT
+Review:  Star Trek Bridge Commander rewards the Star Trek fans with a intereging atmosphere which is set 
+ with in this game.
+  
+  You get apparences from Patrick Stewert (Picard) and Brent Spiner (Data) . Although these two are 
+ in the game as a fan I did miss not seeing the rest of the TNG crew. As the enterprise does make 
+ an appearance.
+  
+  The game sets you as the captain of a ship which you was the 1st officer of. The ships Captain 
+ was killed after a sun went Super Nova. 
+  
+  You take command at the head of the investigation into the cause of that super nova. 
+  
+  The 
+ story line is compelling and it leaves you wanting more and frustrated and excited in all the right 
+ places. However I feel the game could of allowed more freedom. One are particaly where Data goes 
+ down onto a planet, we get ambushed by a flotila of Cadassian ships. The makes you leave the system 
+ although it is possible to defeat all those ships by jumping to another planet in the sytem and 
+ repair then return to the original system. Makeing the retrival of Commander Data possible. However 
+ the game doesn't allow this. 
+  
+  This game some what mirrors Star trek Armada at least in context. As parts of the game reminded 
+ me of those games. Although made by another company I'm sure it certainnly influanced the making 
+ of this game.
+  
+  It's a rewarding experiance to play, cripping storyline and the voices of Patrick Stewart and Brent 
+ Spiner (which I'm surprised they didn't mention on the Offical Gamespot review) bolsters the strength 
+ of this game. Although this game is becoming rather old now. It still has me returning to it months 
+ after I've completed.
+  
+  I want to be different with the scoring as I am a Trekkie. I'm gonna give this game a high value 
+ rating cause it certainly a must have for all Trekkies. 
+::::::
+
+::::::
+UserName: Kevin_of_Borg
+Rating: 9.6
+Date: Jan 5, 2006 5:49 am PT
+Review:  This game has great gameplay, even more so when you through in some mods. The graphics are good, 
+ could use some work in the damage texture department, but otherwise good. The games sound is average, 
+ nothing spectacular, but most of the music fits. Stability could have been better, but then what 
+ can you expect from a game written in python. Modders love this game because they can do almost 
+ anything with it. Four years after its release, I still probably spend two or three hours a week 
+ playing this game. I love this game, but like all games, it has its shortcomes. If this game was 
+ much better, it would desirve a 10 out of 10. 
+::::::
+
+::::::
+UserName: Silver_bLooD
+Rating: 2.3
+Date: Nov 5, 2005 1:56 pm PT
+Review:  This game was all the talk back in the day, I've play the game once in bit that's just it....
+ 
+  
+  Gameplay- Unless your looking for larges grand scale battle heck don't bother some of the mission 
+ are either steathly or just go in a beam data down... or even shoot 2 cardies ships up... I hate 
+ the Staffie I hope she'd die but that was a let down too.
+  
+  GRaphics- A complete let down, when you take damage you see grey smoke some form yout Hall, when 
+ your hull is being burned threw it doesn't look real! it like grey smoke.... the faces were sick 
+ looking, there eyes didn't blink too often which made Brex look like a blue zombie form hell.... 
+ 
+::::::
+
+::::::
+UserName: Zero_Burn2
+Rating: 8.7
+Date: Nov 4, 2005 6:14 am PT
+Review:  I love Star Trek The Next Generation! i cant get enough of it, so obviously i had to get bridge 
+ commander! one downside to this game however, is that it does not work with my touchscreen moniter, 
+ i waas looking foward to that! despite this i played on, and got addicted! hoping to complete it 
+ soon :) ! i just wish i could select the science officer without selecting the 1st officer about 
+ 7 times first!!!! the game poses many challenges from the cardassians, who incidently, crumble 
+ under the superiority of the soverign, i just wish i could use the enterprise! oh well, maybe later 
+ in the game?..... 
+::::::
+
+::::::
+UserName: Govvy
+Rating: 5.5
+Date: Oct 19, 2005 7:09 am PT
+Review:  Learning from the intro at the beginning, the Captain just died and I, the first Officer will be 
+ promoted to take his place. Now I have been thrown into the Captains chair and I must learn why 
+ the sun blew up destroying the system along with my old friend.
+  
+  Being stuck on the bridge the whole entire time of the game and the view from the stellar angle 
+ is less than impressive. The graphics are good, but not that good. They havent been totally smoothed 
+ out, with some glitches popping up now and then. But my new First Officer, she is perky, nice body 
+ too. But its like that with every other game. Going through the story and meeting all the different 
+ ships is okay but the game lacks depth.
+  
+  Characters lack in substance and my crew are rather bland. This leaves only the storyline and that 
+ is not too bad, with scanning areas of space to look for clues that end up engaging in space battles. 
+ The number of species is limited too with just a few that seem very basic.
+  
+  I played the game on the different difficulty levels and First Officer and Captain are basically 
+ the same with the Admiral throwing it a lot harder ships and I couldnt be bothered to complete 
+ it on that. But I did complete the game to a certain satisfaction.
+  
+  The standard Star Trek sounds and music and game length pretty standard. No wait, game length is 
+ fairly short. About 5 to 6 hours worth of play I think. Which I managed to completed in less than 
+ a short week.
+  
+  So I did enjoy the story and game for a while and value was great because I got the game for free. 
+ But my fun is done and back on the shelf it goes.
+  
+  
+::::::
+
+::::::
+UserName: DemonKyoto
+Rating: 7.8
+Date: Nov 21, 2004 9:58 pm PT
+Review:  Introduction: Star Trek Bridge Commander, in what some would define as one of the best of the entire 
+ Star Trek genre, is a fairly ingeious and beautiful game, with a compelling storyline, graphics 
+ and gameplay. In keeping with the Star Trek universe, you must fly around known space, and solve 
+ a deadly situation before it escalates. 
+  
+  Gameplay: The gameplay of Star Trek Bridge Commander has been fairly well defined in the game. 
+ Played from a first person standpoint ( even though you remain in your Captains chair thru 100% 
+ of the game ) , you see and play the game thru the eyes of the Captain, and must issue orders to 
+ your Bridge crew. You have 5 Bridge officers at your disposal to take your commands. Your Executive 
+ Officer ( 1st officer ) , who keeps track of the missions, sets the ships alert status and keeps 
+ you reminded of the tasks which need to be completed. Your tactical officer who you can issue orders 
+ to target objects and ships, and fire on them with your weapons. Your conn officer, who you can 
+ have hail ships, set courses to systems and planets, and pilot the ship. Your science officer who 
+ can scan nearby space for anything, and lastly your Cheif Engineer who can control the repairs 
+ ( if you need them ) and manage the power levels of the ship. In addition to this, you also have 
+ a secondary view which is of the outside of your ship, which also allows you to manually pilot 
+ your ship with the coresponding shortcut keys. The game is mostly all point and click to issue 
+ commands to the officers, and the games objectives are pretty much straight forward. There is only 
+ once or twice in the game when you actually need to make a decision on your own ( which one of 
+ those times could lead you to a game over, if you chose wrongly ) . The game itself isnt fairly 
+ long, but the storyline is fairly enjoyable. Also included is a multiplayer mode, which allows 
+ you to fight against other ships in several types of matches, like UFP vs others, Free for all 
+ matches, or "Defend the Starbase", which can be fairly fun at times.
+  
+  Story: The story is as such: Some time after the Dominion war, you are the first officer of a Galaxy 
+ class starship, the U. S. S. Dauntless. Your Captain is killed in a supernova explosion of the Vesuvi 
+ star, and you are promoted to the Captain of the vessel. A short while later, proof surfaces that 
+ the supernova was not naturally occuring, something, or someone, had purposely caused the star 
+ to explode. After some snooping around, you are given command of the U. S. S. Sovereign, the prototype 
+ for the Sovereign class starship, and are given the task of finding out who caused the supernova 
+ to occur. ( Heres a hint, Cardassians and a new alien race never seen in the ST Universe before 
+ ) .
+  
+  Graphics and Sound: The graphics are amazingly well done at times, but there are some problems. 
+ On occasion, some of the characters faces have been distorted ( When Picard shows up, his face 
+ was stripped with the color of his uniform and commbadge o_O ) , and the characters mouths dont 
+ move in the same rate as there speaking, but overall the graphics are very stunning. The detail 
+ around the Bridge and on the differant Starships is beautiful and accurate.. to a point. When you 
+ blow up an area of an enemy ship, the inside, tho damaged, should not look like the equivilant 
+ of gravel, but i suppose going into THAT much detail would have been silly for this type of game, 
+ wouldnt have hurt tho. As for sounds, the sounds are very well done and accurate to the tv series. 
+ The weapons sounds and explosions all sound realistic, and the addition of having Brent Spiner 
+ actually lend his voice to the game for Data's parts is a nice addition to the game. I would comment 
+ on Picards voice, but unless i remember correctly, they faked his voice.. so.. meh
+  
+  Replayability: The game does have some replayability. Since the storyline doesnt change, and can 
+ be completed fairly quickly, it would only take 3-4 plays thru to get tired of it, but the MP mode 
+ is fairly engaging and entertaining, whether it be against other people or computer opponents, 
+ so the game has much replay value if only for its MP mode.
+  
+  Final Recommendation: Although the game does has a few drawbacks, STBC is clearly a fairly well 
+ built game, that can keep any gamer happy. The well drawn storyline can keep your average trekkie 
+ happy and entertained, and even if you hate the entire Star Trek Universe, the multiplayer mode 
+ is very fun and entertaining.. theres just something about flying around in gigantic ships, blowing 
+ each other up thats just fun. 
+::::::
+
+-------------------------------------------------

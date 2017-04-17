@@ -1,0 +1,1077 @@
+-------------------------------------------------
+:::Game Name::: Jagged Alliance 2
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/jaggedalliance2/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jul 23, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.8
+Critic Score: 8.5, 26 Review (s)
+User Score: 9.0, 798 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: TalonSoft
+Developer: Sirtech
+Genre: Modern Turn-Based...
+Date:     Jun 30, 1999 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Even with its problems, its excellent combat system and sense of style make Jagged Alliance 2 very 
+ easy to recommend. 
+
+ Like X-COM: UFO Defense before it, the original Jagged Alliance was a complex turn-based strategy 
+ game that gained a loyal following almost entirely through positive word of mouth. Yet while X-COM 
+ had you commanding squads of marines against alien invaders, Jagged Alliance, as its name suggests, 
+ put you in charge of a bunch of ragtag mercenaries, many of whom had their own agendas and wouldn't 
+ always follow orders. Sirtech followed up with Jagged Alliance: Deadly Games, a pseudo-sequel that 
+ included more single-player missions (though no real campaign) and multiplayer options, but it 
+ was disappointing when compared with the excellent original. Now, after months in publisher limbo, 
+ Jagged Alliance 2 is finally here. And, for the most part, it's excellent.  
+
+ As in the first game, you have been hired to liberate a small country from the machinations of a 
+ tyrannical ruler. To do this, you must use your small initial funds to build a team of mercenaries 
+ whom you send to the country in question. You must recapture it zone by zone and in the process 
+ find a means of earning money to hire more mercs and buy better equipment. The hiring/buying process 
+ is all done through a well-implemented in-game version of e-mail and the World Wide Web, letting 
+ you hire trained killers and purchase heavy explosives much like you'd buy more common products 
+ at any online retailer.  
+
+ Much like the original, the dozens of unique mercenaries of Jagged Alliance 2 are the highlight 
+ of the game. Each merc has significant strengths and weaknesses. The stronger and more numerous 
+ the strengths, the more money the merc costs (though you can get discounts for paying them for 
+ a week or two up front) . The mercs each have distinct personalities, and much of the fun in the 
+ game comes from hearing what they have to say in certain situations. While the Schwarzenegger-esque 
+ Steroid may cry out "My skin is punctured and leaking!" after receiving a nasty wound, the tough-as-nails 
+ Shadow will only worry that his blood is leaving a trail. The mercs also respond to one another, 
+ and many will balk if you hire someone they particularly dislike, and some may be less inclined 
+ to work for you if members of your team get killed.  
+
+ Fans of the original will be glad to know that most of the original mercs are back, and some of 
+ those that seem strangely absent from the roster make appearances in some form or another over 
+ the course of the game.  
+
+ Thankfully, guiding your mercs in action is as much fun as listening to them. The turn-based combat 
+ system in Jagged Alliance 2 is excellent, including some welcome improvements over the first game. 
+ Each turn, your mercs are allocated a certain number of action points, which can be used to perform 
+ any action, such as moving, bandaging, using a weapon, or opening a door. When aiming at an enemy, 
+ not only can you target the head, torso, or legs, but you can also allocate more points to each 
+ shot, making your merc aim more precisely. When moving, mercs can crawl, crouch, or stand, and 
+ a new stealth mode lets them move almost silently, though more slowly. Mercs can also climb onto 
+ rooftops, making for some excellent sniping opportunities. Another significant improvement is that 
+ the game switches to real time when there are no enemies in sight, letting you reposition your 
+ team quickly for the next firefight.  
+
+ Gunshots are simulated precisely, even to the extent that bullets will sometimes ricochet or penetrate 
+ obstacles and still cause damage to the intended target, albeit much less than usual. And while 
+ your mercs' ability to absorb damage may be a bit unrealistic (how many point-blank head shots 
+ can one person really stand?) , it certainly makes the game more playable.  
+
+ Jagged Alliance 2 deviates from the original in its campaign structure. While the map is still divided 
+ into zones, you no longer simply move and fight on a zone-by-zone basis. Towns are your primary 
+ targets, and you must take and hold these while training a militia to protect them while you are 
+ away. Zones between towns contain wandering troops of enemies, and you have the option of retreating, 
+ fighting, or having the computer resolve the combat situation for you when you encounter resistance 
+ (though the latter almost always leads to unnecessary loss of life) . Your team can also find and 
+ employ vehicles, from hummers to helicopters, expediting travel between zones.  
+
+ And no longer will you have to halt your attack simply because night has fallen - you can now engage 
+ in combat during day or night, though you must make sure your team gets plenty of rest. The map 
+ is full of strange and unexpected encounters and at times resembles Interplay's role-playing game 
+ Fallout more than X-COM. You'll even encounter nonplayer characters to converse with, and often 
+ they'll ask you to undertake missions from escorting them to safety, to rescuing their imprisoned 
+ comrades.  
+
+ Visually, Jagged Alliance 2 resembles Fallout as well, with smoothly animated 2D sprites and similarly 
+ barren landscapes. Oftentimes the scenery becomes repetitive, although things liven up as you press 
+ into the wealthier regions of Arulco. There is a wide variety of character animations, and these 
+ are excellent, though the most common death animation (drop to knees, drop to ground) occurs too 
+ frequently. Sonically speaking, though, Jagged Alliance 2 is nearly perfect. The mercenaries' voices 
+ are excellent (and if you find any particular merc annoying, you can mute him individually) , and 
+ the soundtrack is suitably dramatic.  
+
+ Its many strengths make Jagged Alliance 2's occasional but noticeable weaknesses especially frustrating. 
+ The most notable problem is the manner in which line of sight is implemented in combat: The game 
+ uses a realistic line-of-sight system, with elevation and objects serving to affect your mercenaries 
+ and their targets. Unfortunately, there is no tangible way to determine the visible range for a 
+ mercenary. The isometric view tends to make some terrain objects almost invisible (it's difficult, 
+ for instance, to see each individual trunk in a cluster of trees) , so you may think a merc is protected 
+ by cover when, in truth, he is in plain view. Predictably enough, your enemies do not suffer this 
+ human handicap and seem to know just where to stand for maximum protection. There are any number 
+ of ways the developers could have made this information apparent (through a fog of war or something 
+ akin to Commandos' sweeping sight indicator, for example) , and its lack is a notable oversight. 
+
+ The addition of more role-playing elements is welcome, but many of these features seem underdeveloped. 
+ When speaking with NPCs, for example, you simply choose your attitude toward them (friendly, direct, 
+ or threatening) . Different people will respond to different attitudes, but it's difficult to really 
+ guess how to act with whom. Moreover, you only get one chance, so once they decide the conversation 
+ is over, the conversation is over. You never can be certain whether they held some valuable information 
+ you couldn't extract or whether they just had nothing important to say.  
+
+ Jagged Alliance 2 also retains one of its predecessor's biggest faults: The endgame is ridiculously 
+ difficult. The original contained a final combat zone that was far more challenging than any that 
+ preceded it. The sequel is no different, save for the fact that instead of a single zone, its ending 
+ is made up of five such areas. Jagged Alliance 2 does include three difficulty settings, but you 
+ cannot change difficulty in mid-game, which means you may become hopelessly stuck toward the end. 
+
+ Beyond just the difficulty level, Jagged Alliance 2 lets you set other key variables as well. You 
+ can toggle the science fiction elements off (a choice that only affects a small subplot of the 
+ game) , and you can choose either "normal guns" or "tons of guns," the latter adding a selection 
+ of Warsaw Pact weapons and two additional ammo types.  
+
+ Add to these options the wide variety of mercs, the numerous nonplayer character conversations, 
+ and the random nature of encounters, and it's quite likely that you'll eagerly play through Jagged 
+ Alliance 2 several times, provided you can get through the grueling endgame. Even with its problems, 
+ its excellent combat system and sense of style make Jagged Alliance 2 very easy to recommend.  
+   
+-------------------------------------------------
+:::User Reviews::: (20 Reviews)
+::::::
+UserName: Meat_Bag
+Rating: 8.5
+Date: Mar 11, 2009 5:01 am PT
+Review:  Even tough this game was released all the way back in 1999, I managed to get my hands on it just 
+ recently. In these modern times of blockbuster games such as Gears Of War and Assassin's Creed, 
+ it's really difficult to imagine anyone being excited about an old school game such as this. 2D 
+ graphics, low resolution, no special effects at all... you might think that this ages old, modest 
+ game that came quietly almost 10 years ago would lose all the charms it had back in the old days. 
+ Not so! First of all, this is a game for mature audience. Plain and simple. It's deep, complex, 
+ insanely difficult at times and extremely gruesome and bloody. Besides, 12 year old kids won't 
+ even pay any attention to it, since they don't really give a damn about old-school games with outdated 
+ graphics. But as for the more mature audience, this game will suck you in so hard you won't be 
+ able to leave it easily. But be warned! I didn't rate this as "Mixed reactions" for nothing. To 
+ be perfectly honest, I installed and uninstalled this game for about five times after I got it. 
+ Why? Well, as I said, this is extremely difficult game. Especially in the beginning, while you're 
+ still learning the ropes. I had to restart this game a few times after I realized how badly I messed 
+ up, and it wasn't very pleasant.
+  
+  Let me give you a little bit of insight about that. Essentially, in it's essence, this game is 
+ a tactical turn-based strategy game with a lot of RPG elements and management involved. You play 
+ as a rugged mercenary who receives an e-mail from a banished prince of a fictional banana republic 
+ called Arulco. Enrico, the good and honorable prince, has been banished and cast aside by his evil 
+ wife Deidranna, a stone cold b**** who eats babies for breakfast. So now he's begging for your 
+ help, like any other guy who gets his butt kicked by an ugly woman. He offers you a lot of money 
+ if you help him get rid of his wife and liberate the poor people of Arulco from her evil tyranny 
+ (man, those two clearly have issues with one another... talk about being married!) . And so, like 
+ any good mercenary ought to, you take the job for money and money alone. And a few good kicks. 
+ Clearly, your character enjoys killing people more than Darth Vader. 
+  
+  Anyway, this is where the game starts. You create your character, hire a few average mercenaries 
+ and off you go. At first you'll be equipped with simple pistols and handguns, and it's up to you 
+ to scrap all the equipment you can get, until you earn more money and get access to more advanced 
+ weapons and equipment. The game itself takes place in real time, but as soon as the combat starts 
+ the game jumps into turn-based mode. In real time you can talk to people, explore new areas, travel, 
+ take side quests, etc., etc. It's like a good RPG. While in turn-based mode, you just shoot and 
+ shoot until all your enemies are dead. And here we come to the first issues - communicating with 
+ other characters. You can click on whatever NPC character you want to talk to, but you can never 
+ actually choose what to say, you only sit and wait for a conversation to end. And hope you learn 
+ something important from it. Really, there's no way you can tell just who the heck is important 
+ enough for you to talk to, and who's just bugging you with useless gibberish. Next, we have the 
+ issue of difficult learning curve. And that's the main reason why I was so frustrated with this 
+ game at first. Really, a phrase "read the f***ing manual" is something that shouldn't be taken 
+ lightly in this game. In the beginning, I didn't even know where to get more guns, ammo, equipment, 
+ or even that I could've created my own character from the beginning.
+  
+  But, as soon as I learned the ropes, that's when the fun started... for a while. Very soon, I was 
+ stunned by the insane number of enemies the game throws at me. Especially at the beginning, when 
+ you still don't have the advantage of superior equipment to deal with all that. It seems that the 
+ evil dictator has an unlimited supply of men and guns at her disposal, since she's sending them 
+ wave after wave at your newly conquered towns and mines. I mean, really... you'd think that after 
+ losing about a few dozen men to my 3 or 4 commandos, they'd decide to cut their losses and pull 
+ back, maybe fortify their remaining towns and brace for an impending attack. Or get more men, wait 
+ for a week or two to prepare and then attack again with better-trained men and better equipment. 
+ A thing that would be, you know... strategic. But nooo, they simply send more and more men for 
+ you to butcher. They also seem to be able to move pretty fast while traveling on foot, since there 
+ is rarely a day when there are no bad guys on your territory. That alone is enough to drive you 
+ insane sometimes, since your enemies are really smart and always seem to find perfect cover.
+  
+  That being said, that's about the worst thing about this game. Very soon you'll get your hands 
+ on more equipment and money, and you'll be able to train militia to defend the key strategic locations. 
+ You get money by conquering mines, of course, which is essential to your war effort. But beware, 
+ the enemy needs money as well, so they'll often send their soldiers to recapture them. So, you 
+ took control over a few mines, you got some money, it's time to build up your army... All the management 
+ in this game is done by your in-game laptop. Your laptop is your lifeline, since you purchase weapons, 
+ hire mercs, receive e-mails and update your journal on it. You have to plan ahead and think carefully 
+ on what to buy and who to hire, if you're planning to survive. Tough, eh?
+  
+  As for your army? Well, they're all mercenaries, of course, big bad mercenaries. They don't give 
+ a damn about anyone or anything, they just want the money. Like you, really... However, in this 
+ game they are portrayed so well, you just have to love them. They're loud-mouthed, rude, sarcastic 
+ and often sadistic. Dark humor is present throughout this game all the way to the end, and if you're 
+ a person who likes that, expect a few good laughs with your mercs and their comments on the situation 
+ around you. But then again, what can you expect? It's really hard to give a crap about the people 
+ you're here to protect, since all the Arulco civilians are nothing but a bunch of spineless cowards, 
+ just waiting for you to come and solve all of their problems. Despite the fact that there are tons 
+ of weapons lying all around them, none of them even tought about picking up a gun and standing 
+ up for themself. You'd think that the arrival of foreign mercenaries would inspire people, fire 
+ up the rebellion against the dictator they all allegedly hate. But nooooo-o-o-o, my friend, they're 
+ just sitting on their butts while you and your men do all the work. No wonder their country is 
+ in such messed-up state. You even have to train and finance their militia yourself. So yes, you 
+ probably won't even care about them. Like any other mercenary, you'll simply enjoy killing people 
+ for money, not giving a damn about the civilians, or this backwater country.
+  
+  Well, the combat itself is awesome enough, since your enemies are extremely smart, and use cover 
+ wisely. I actually played the Gold version of this game, with 1.13 patch, which provided some really 
+ cool features, like the ability to see good cover spots with a simple press of a button. After 
+ you kill a person, he or she will simply drop down on the ground in a pool of blood, with a death 
+ moan so real it'll send chills down your spine. Really, the combat in this game is so gruesome, 
+ there's blood everywhere, not to mention the scenes when you blow somebody's head off at point 
+ blank range, or nail him to the wall with a machine gun. Even after you kill your enemies and leave 
+ the area, their corpses will still be there when you return, only now you'll see them decomposing, 
+ vultures picking them, entrails lying all around... makes you wanna puke. But hey, war isn't pretty. 
+ It's gruesome. Deal with it!
+  
+  All in all, what to say? This game is a classic after all, and if you give it a chance, it will 
+ suck you in so hard you won't be able to leave it easily. But because of it's extreme difficulty 
+ and steep learning curve, as well as some minor issues, it simply cannot score more then 8.5. Sad... 
+ If, by any chance, you are an adult who read about this game in the magazines as a child (as I 
+ did) , you won't be disappointed. This truly is a game you simply must have! 
+::::::
+
+::::::
+UserName: BillyAngst
+Rating: 10
+Date: Apr 27, 2008 1:32 am PT
+Review:  i'm a fan of tactics anything. but squad based tactics are so rare that we can still referenece 
+ laser squad among the last 10 releases of squad based anything. does jagged alliance 2 have issues? 
+ sure. do they matter? hell no. it's all about personality. and of course gameplay. the introduction 
+ of realtime during exploration of a map (with enemies) was revolutionary, and sadly ignored by 
+ everyone publishing an x-com clone since JA2. We're, what, seven, eight years later and no one 
+ has published a game in this genre trhat has smoked what the Currie's did so long ago. Do yourself 
+ a favour and track this game down if you've never played it. If i had to pick only five games i 
+ could every play over the course of my life, this would be one of them (oddly enough, most of those 
+ game would be sequels, cause I'd take star control II, Baldur's Gate II, Doom II, and think long 
+ and hard about the last one......) 
+::::::
+
+::::::
+UserName: benjiskhan
+Rating: 9.5
+Date: Apr 6, 2008 11:38 am PT
+Review:  I'm not going to write a review about Jagged Alliance 2... if you don't know the game, go and get 
+ it RIGHT NOW. If you know it, and would like to have a better experience with it, visit The Bear's 
+ Pit JA Community (I won't put the url since GameSpot may not like 'advertising' on their reviews... 
+ just google it)
+  
+  There you can update your game, and fix most of the game's bug issues that were a pain in the ass 
+ before (there's still a few bugs here and there, so be sure to save often) .
+  
+  But the best thing you'll find in The Bear's Pit is the new inventory system... it changes the 
+ game completely, adding LBE gear to the mix (LBE stands for Load Bearing Equipment) . Now, in order 
+ to load your mercs with all he or she's going to need, you'll need to get them an LBE vest (not 
+ any vest... a Russian vest might be better for a machinegun-man, while a Honk-Kong Police vest 
+ will suit your grenadier better) , get them holsters, utility pouches, etc... there's even a knife 
+ slot so know each one of your mercs will be able to stab Deidranna to death.
+  
+  If you think this will make the game easier, think again. The weight limit is still there, so you'll 
+ have to think about what to carry. You'll actually be able to carry less equipment than with the 
+ old inventory system... the thing is, now you can carry a bigger variety of things, so you won't 
+ have to be dropping thins here and there... and if you really need to carry a big load of things, 
+ you can take a backpack... just be sure to drop it before battle, since it will make you very slow 
+ and you won't even be able to climb onto second floors.
+  
+  Wether you're a hardcore JA2 player, or have never played, please, try this. You won't regret it.
+ 
+  
+  
+  (Note: There's an online play feature in development in The Bear's Pit too!! I haven't tried it 
+ yet, but I bet it rocks!!) 
+::::::
+
+::::::
+UserName: James009
+Rating: 9
+Date: Jan 17, 2008 9:51 am PT
+Review:  While the dated graphics may immediately turn off the modern gamer DO NOT GIVE UP ON THIS GAME! 
+ Jagged Alliance 2 is unlike any other game. It combines RPG elements with tactical TBS and some 
+ strategic RTS.
+  
+  You start with a budget and a pool of a large number of mercenaries preparing to engage in covert 
+ warfare on the island of Arulco. The story is this, an evil dictator has de-throned the rightful 
+ monarch (Monarchy: A political system of hereditary rule, not like an Elven King) and he has hired 
+ you and your men to take back his country.
+  
+  This is when the game gets good. You begin with the option of creating a custom mercenary and then 
+ assembling a team of soldiers, medics, and mechanics. Your team is created by hiring people from 
+ a mercenary pool. Each individual is unique and offers something different in terms of experience 
+ and skills, this is the heart of the RPG game in Jagged. As you play with these characters you 
+ will see them improve their skills and attributes and offer you more bang for the buck. You can 
+ also spend time training your men when there is no action, which takes more time.
+  
+  Your objective is to conquer all of the cities in Arulco and free the people from the "Queen's" 
+ evil tyranny. As you take control of more territory you'll see greater income in your budget which 
+ you can spend on soldiers, weapons, armor, and equipment. Additionally, you sometimes unlock new 
+ storyline elements bringing new objectives or new people.
+  
+  The game takes some time to beat just because of the island's size and scale, its not something 
+ you beat in one day. Secondly, replayability is high because of the uniqueness of all the characters.
+ 
+  
+  My only dislike is that the game limits you to 20 mercenaries total. While it is reasonable to 
+ maintain a small mercenary feel it rather hampers the game because there are far more then 20 mercenaries 
+ total to recruit from and it sucks to miss out on characters because they are all so unique and 
+ have something to offer.
+  
+  Lastly, you can find some excellent modifications for the game which almost act as a uber-patch 
+ or expansion pack. Try: http://ja2v113. schtuff. com/features
+  
+  Conclusion? Jagged Alliance 2 is an addictive and excellent game that everyone who calls themselves 
+ a game needs to play. 
+::::::
+
+::::::
+UserName: macmert
+Rating: 9
+Date: Dec 5, 2007 7:57 am PT
+Review:  This game is THE turn based strategy game after the UFO series (I mean the original series not 
+ the crap like aftermath and stuff) this game is just excellent , the combat system is not frustrating 
+ and when you are not in a fire fight the game turns to real time, the characters are just awesome, 
+ for example Fidel would never turn away from a fire fight so retreat is not an option for him, 
+ which means he wont listen to your orders to retreat or run back hehehehe... Some characters would 
+ sometimes fire as burst fire, some would not work with some certain people hehehe...
+  
+  The game is just a great blend of RPG and turn based strategy, give it a try you wont regret it 
+ 
+::::::
+
+::::::
+UserName: master_blue
+Rating: 8.5
+Date: Dec 12, 2007 6:57 am PT
+Review:  Jagged Alliance 2 from Sir Tech and strategy first is a strategy game that incorporates fun turn 
+ based battles with real time strategy in the form of movement over land managing mercs etc with 
+ some RPG elements to make a fantastic game thats withstood the test of time!
+  
+  Its set in present day in a fictional country of Arulco which has been taking over by a merciless 
+ dictator and a dissatisfied expat has given you a mercenary money to aid the resistance and take 
+ back the island city by city.
+  
+  Initially you start the game with having your laptop set up and connected to the internet with 
+ several options at the side of the screen, look at emails (you'll get notified emails regarding 
+ progress if its too slow doing well etc, increase in mercenary fees, mercenary deaths and shipment 
+ info) create a mercenary from 'I. M. P' by answering various psychological questions the result of 
+ which is sent to you in a email describing why the character youve created has those specific stats/skills 
+ , if you answer saying you wanted to be Bruce lee for example you're character will most likely 
+ be a martial arts expert and have benefits for unarmed combat.
+  
+  Also you can hire mercenaries (initially only) from A. I. M which has the better selection of mercenaries 
+ but also the more expensive ones, you can examine mug shots and extra details and contact them 
+ to be hired with various contracts ranging from a few days to a couple of weeks.
+  
+  It should be noted that the mercenaries have their own personality, voice and dont always get on 
+ with other mercenaries and will occasionally speak about their fellows in their squad.
+  Also depending on how well you're managing your mercenaries they may refuse to extend their contracts 
+ and you may not even be able to hire new mercenaries until you improve your progress - for example 
+ I lost two mercenaries taking Drassen Airport and I couldnt hire anyone else until i had taken 
+ more of the city and improved my standing.
+  
+  Eventually though you'll be able to hire some pretty shoddy mercenaries from a rival mercenary 
+ business called M. E. R. C which have low cost paid by the day mercenaries, usually I would have them 
+ as a garrison continually training militia.
+  
+  Also by the laptop internet you can access bobbys guns and order ammo etc which will be updated 
+ as you progress throughout the game, however you need somewhere for the deliveries and the rebels 
+ on arulco dont have a airport which leads me onto the gameplay
+  
+  As I mentioned earlier the battles are done in turn based mode quite similar to say Fallout series, 
+ you're characters depending on stats will have some action points (AP's) and AP's are expending 
+ by moving, changing position , throwing things, passing items, reloading and attacking whether it 
+ be by unarmed combat or firing weapons in either single shot mode, aimed shots or burst fire.
+ 
+  Its a very tactical game you can crawl to reduce the chance of being spotted but move much more 
+ slowly and cost more AP's to face in a different direction, but being more difficult to shot at 
+ is a balanced trade off in some situations.
+  Also you can crouch again reduces the chance of being seen and potential to be hit but you move 
+ a little bit slower than standing upright, but if your standing upright and round a corner into 
+ a enemy with a colt commando dont expect your merc to dodge any bullets.
+  
+  Furthermore positioning your mercenaries is critical to the game, you have to utilise cover otherwise 
+ you'll be in the open exposed and shot to pieces even if you have a high level merc they are not 
+ one man killing machines as seen in some RPG's they can be brought down by a lowly redshirt with 
+ a pistol if shot maybe 3,4 or sometimes 5 times.
+  By careful positioning you can block line of sight for some enemies and can say go from prone to 
+ crouch and fire a shot before retuning to prone to stop a counter shot by the enemy next turn, 
+ offcourse this requires the mercenary to have at least 2 spare AP's after getting up and firing 
+ to return to prone.
+  
+  Also you should bunch up all your characters in one place because if an enemy throws a few grenades 
+ you'll end up with a neat pile of dead mercenaries, more so you can have mercenaries jump on roofs 
+ and try to take out the enemy that way, but cover even in the form of buildings is never guaranteed, 
+ all walls are destructible if there's explosives involved ,so theres quite a bit to mindful of 
+ in combat and this is just where to place your mercenaries.
+  
+  Each mercenary has a limited number of Health Points, when theyre hit and being hit in various 
+ parts of the body will result in different types of wounds, for example a leg shot may reduce dexterity 
+ and cause a merc to collapse and miss a turn, a headshot might diminish perception and cause collapse 
+ etc, but when theyre are shot theyre HP bar which is red will loose some health points but the 
+ ones which were lost will now be represented in a yellow bar - this yellow bar represents theyre 
+ full health capacity but since theyve been shot theyre also bleeding to death , so you'll need 
+ a character with a good degree of medical knowledge to heal them up with either first aid kit or 
+ medical kit, if you do so this yellow bar will return to a lighter shade of red but the merc isnt 
+ fully healed theyre still badly wounded but youve stopped the blood loss but they'll move sluggishly, 
+ the merc will need further treatment after a sector is secured to fully heal up, which means you'll 
+ want to take care of your mercenaries during combat.
+  
+  When a merc is hit in burst fire mode full on theyre 99% gonna die, likewise the enemy will aswell, 
+ but when a enemy is hit and nearly dead but not quite they'll pass out and bleed to death again 
+ unless you can stop the blood loss, many fights in the game will have you're mercs ending up nearly 
+ dead and requiring immediate medical attention so theres quite abit of suspense to the game.
+  
+  For each kill , shot ,use of skill etc you're merc will gain experience or points to increase 
+ that specific skill they used - say a really good shot will earn your merc a point in marksmanship 
+ making them more accurate, once they have enough exp they'll level up and have general increases 
+ to stats etc, however as they get better mercenaries fees will increase to reflect this.
+  
+  To get money the player must take sectors of towns which include mines to have a stable source 
+ of income to further the cause of the resistance (or do you want to take over the island?)
+  
+  Next on gameplay theres the more real time but pausable strategic layer where you can assign 
+ mercs into squads, access laptop internet, move mercs, train them etc as you send a squad of up 
+ to 6 mercs off to a town they may spot something of interest in a sector and you can choose to 
+ enter it, the point of interest may be a bunch of farmers which can offer you a minor side quest 
+ - one funny one being giving a female merc a a bride. But more likely as you are moving a squad 
+ to a specific target they'll be ambushed by wild beats or bump into an enemy patrol at which point 
+ you can choose to auto resolve the encounter, retreat to another sector or fight them in turn based 
+ combat, - initially the combat will be real time but as soon as an enemy is spotted it goes into 
+ the turn based glorious mode.
+  
+  After a sector is cleared it goes back into real time and you can heal up/loot etc and then skiddadle 
+ onto the original path you intended, eventually you'll also need to rest your characters, then 
+ when you reach a city sector you wish to take (most cities are 3 to 4 sectors big some even larger 
+ like Grumm and Meduna) you can wait for a night attack (very difficult in the beginning without 
+ night goggles) or for a day light attack and position your mercs where you can and proceed, at 
+ the start it'll be real time as mentioned then when an enemy is spotted turn based mode, you have 
+ a variety of tactics at your disposal, frontal attack, snipe, lure round corners and kill, maybe 
+ split up you're squads and attack from different directions, you can even have multiple squads 
+ all attack the same sector at once to achieve numerical superiority.
+  
+  Each sector has alot enemies, in the beginning they'l be armed much as your own mercs, with pistols 
+ which means close quarter fights are going to occur, eventually though you'll be outclassed by 
+ them as they start wielding shotguns submachine guns and assault rifles accurate at twice the range 
+ as pistols so you'll be in for a struggle but eventually you'll loot these fine weapons for yourself 
+ and they'll become available for purchase on bobby rays via laptop internet - which leads back 
+ to the question from earlier, if you can order items how do you get them for your mercs with no 
+ airport? well you take over Drassen City from the queen dictator and you can have them delivered 
+ safely for your mercenaries to use.
+  
+  It should also be noted that once youve taken over a sector you can acquire side quests in RPG 
+ fashion by talking to the locals who will have a task for you - escort missions, rescue missions 
+ , find a specific person etc each with their own rewards. Also by talking to ach character with 
+ some meaningful dialog there will appear a box with their face , they have their own voice the 
+ lip-synching is top notch and a few varieties of dialog you can be friendly, direct threatening 
+ make deals etc its hardly as sophisticated as RPG's but this is mainly a turn based strategy game 
+ and I was surprised to see a good RPG element implemented into the game.
+  
+  Speaking of RPG elements, this game also has more choice and consequence for your actions than 
+ some RPG's made this day! quite amazing, you can actually kill the rebel leader and try take over 
+ the island yourself, you can choose not to do certain quests, you are free to attack whatever sectors 
+ you want theres no linear path and quite frankly, its great having the freedom like that but also 
+ a purpose to the course of the game.
+  
+  As you progress through the game you'll take over sectors but you'll want to keep them protected 
+ as you move your mercenaries out, to do this you can leave a mercenary and train militia continuously 
+ for money, depending on leadership skill of mercenary eventually a group of militia will be trained 
+ , green coats at first for well, green troops then blue for veterans, you'll want to keep a sector 
+ protected because the arulco army will occasionally launch attacks to retake sectors and you dont 
+ want to see all your hard work undone just because you were too hasty and moved off all your mercenaries 
+ from a town do you?
+  
+  As you can tell by the indepth analysis of the gameplay, its a very fun game certainly one of the 
+ classics and I cant help but feel also should have been more successful. (at least theirs going 
+ to be a jagged alliance 3 with turn based combat)
+  
+  Now onto the graphics, well they're not exactly pretty, even on release the graphics were distinctly 
+ average and now they are what id still consider average but very basic with poor character sprites 
+ themselves. The characters have slightly different sizes depending on physiques but they're undetailed 
+ and a little blurry, buildings look basic with oddly thin walls , terrain looks fine in my view 
+ still and the animations throughout are pretty dam good, the graphics do not detract from the game.
+ 
+  Speaking of the animations the merc and character faces in dialog and taskbar at the bottom are 
+ very good and nicely detailed and theres a few death animations which are gory and reminiscent 
+ of fallout series critical shots, shooting someone in the head with a shotgun might make their 
+ head explode, shooting someone close range with a pistol or assault rifle might make the enemy 
+ fly backwards with a gaping hole in their chest but most often they'll collapse forward and a pool 
+ of blood form - o yea this game is quite gory too.
+  
+  Sound wise, the music is pretty decent theres a few ambient style tracks which dont get in the 
+ way then the more action packed ones for fighting in enemy sectors - once a sector is cleared it'll 
+ change back again to the more peaceful ambient style tracks, theres a couple of tracks which may 
+ stick in your mind but overall id say its quite good fitting for the game but not exceptional.
+ 
+  Voiceovers are done very well and can also inject a little humour into hte game - everyone's favourite 
+ idiot Elliott for example as he tries to placate his queen even with the bad news of towns being 
+ taken over.
+  
+  The complaints I have with the game, well its very difficult at times and battles can take hours 
+ to resolve but luckily you can save in mind battle, also the character sprites look basic, some 
+ of the music is merely ok not great and memorable and there's still a few bugs in the game such 
+ as turns not getting completed etc and there's doesn't quite feel like there's enough weapons and 
+ items in the game or some of the ones in the game are too similar more choice would be great and 
+ there's no multiplayer.
+  
+  Overall a great game, a classic to be sure and Im so glad I managed to buy this game even though 
+ its quite old.
+  
+  Pros:
+  .Excellent turn based combat blended with RPG moments and realtime management.
+  .Interesting 
+ setting
+  .Choice and Consequence gameplay
+  .RPG elements
+  .Challenging game
+  .Will last quite a while too
+  
+  Neutral:
+  .Music is ok nothing fantastic, a few good tracks 
+ both action packed and ambient but some are just unremarkable.
+  
+  Cons:
+  .At times it feels too difficult
+  .Graphically it can be considered to be downright poor
+  .No 
+ multiplayer mode
+  .Still abit buggy 
+  .could do with a few more weapons especially more assault rifles
+  .sometimes the combat sectors 
+ feel like they take wayyy to long so you really have to be patient.
+  
+::::::
+
+::::::
+UserName: dupreez
+Rating: 9.3
+Date: Jul 9, 2007 3:59 am PT
+Review:  I am yet to see Gameplay, Value and addictiveness that this game possesses.
+  I have finished Jagged Alliance 2 four times. Trough bugs that made my PC crash in the middle of 
+ a 2 hour battle where you cant even save. After a mild outrage, I would restart my PC and just 
+ load from the sector before and start the battle over again. Thats the kind of Power that this 
+ game possesses.
+  
+  If you want to see a 10 year old game, that is still very much alive, go to Bearpit Forums on ja 
+ galaxy.
+  
+  Who knows maybe you will Find yourself hooked like you never thought you could be. 
+::::::
+
+::::::
+UserName: respektive
+Rating: 9.4
+Date: Jun 24, 2007 5:50 am PT
+Review:  - a Hollywood-handbook story
+  You are the last hope of Enrico Chivaldori the leader of a small country named Arulco. His evil 
+ wife Deidranna took his throne and enslaved the population. There is a small resistance, but they 
+ are far too weak to face Deidranna. You and your mercenaries must rid the country from this evil 
+ woman.
+  - turn based squad action
+  Create your alter ego (or don't) and hire some of the best mercenaries on this planet.
+  - RPG-like 
+ skill gains
+  As you progress, your skills (and those of your mates) enhance enabling you to finally challenge 
+ Deidranna.
+  - lots of realistic weaponry
+  One of my favorites is the Steyr Aug with attached scope, self-made barrel extension and improved 
+ trigger repetition. You see - JA2 features state of the art weaponry and the possibility to attach 
+ some nice enhancers.
+  
+  If you enjoy turn based strategy - like Chess :P or Incubation or JA1 or The Battle For Wesnoth 
+ or Heroes of Might and Magic or Civilization or Colonization or Panzer General - just get this 
+ awesome game (btw: it's budget) .
+  
+  PS: This game is old now, so be forgiving! 
+::::::
+
+::::::
+UserName: Logeth
+Rating: 9
+Date: May 1, 2007 3:19 pm PT
+Review:  Watched my buddy play this when I was younger and it seemed really fun. So when I found this along 
+ with two other games in a take-three-pay-for-two old games corner, I figured it might be worth 
+ it. And it was.
+  
+  This is a great blend of strategy and action. It starts off pretty easy, but don't think this game 
+ is a walk in the park! You'll have to be at full alert if you want all of your team members through 
+ alive. And once they're dead, there's no return! They're dead forever, no 1-ups, so it pays off 
+ to get your best strategic thinking out!
+  
+  The game design is simply great. You are a commander of sorts sitting on your butt and commanding 
+ a team of mercenaries in a rebellion against a dictator queen. There's a control panel with an 
+ overview map of the Arulco country. From there you can command your mercenaries around the world 
+ to do your bidding. But don't think they'll do the dirty work for you! If you want the best results, 
+ you'll have to get right into the action and guide their every move in turn-based combat. When 
+ you're not fighting, though, you can have them practice skills or train militia, or a bunch of 
+ other stuff. Or you can surf the internet. Yeah, really! Not the real internet, though, just a 
+ select few in-game sites where you can hire mercenaries, order weapons and equipment, arrange funerals 
+ or get your mercs insured. However, in order to get that gear you ordered, you'll need the airport 
+ under your control! All those details make the game feel more alive!
+  
+  There is a **** of NPCs in the game to interact with, some might even join you if they feel like 
+ it. Others may be mercs hired by the enemy, or just plain old useless villagers. All of them have 
+ their own animated face and voice, making them so much more personal than just a blob walking about 
+ and spitting out some text when you click on them. The same goes for your mercs, all of them have 
+ their own voice, animated face, style and set of skills. Some of them are actually friends and 
+ enemies ! You figure out what happens if you put two mercs who don't like each other in the same 
+ squad.
+  
+  In order to get money for your operations, you'll need to take control of the mines in Arulco, 
+ granting you a steady income as long as you hold the mines. However, how much money you get depends 
+ on the people's belief in you. Sit around for a month and the loyalty will drop, leaving you with 
+ less money. Then you'll have to go kill some enemy soldiers or liberate a town or two to get the 
+ loyalty up again. But if you get too straightforward there's a greater risk of your mercs getting 
+ killed. You'll have to balance attack and rest if you want to be successful. And of course, if 
+ you leave your towns and mines unguarded, be assured the enemy will retake them before you even 
+ realize what happened.
+  
+  There is also a helicopter pilot to be found. He'll fly you around arulco for a fee, and if you 
+ want full freedom, you'll need to take control of the enemy SAM sites, or he'll take ten times 
+ the fee for flying through unsecured airspace. Another detail that makes the game feel more alive.
+ 
+  
+  Well, simply put, this is a pretty great game. Sure, it's pretty old now, but hey, who said old 
+ games can't be good? At least give it a try, you owe it that much. 
+::::::
+
+::::::
+UserName: Alkpaz
+Rating: 7.3
+Date: Mar 15, 2007 7:39 pm PT
+Review:  Although I did enjoy what I played of the game it took too much time to play.. I guess the game 
+ is just not my style.. and should have expected a Fallout type gameplay. I guess my mindset was 
+ just a bit off with this game.. which kinda expresses what I felt about it.. I bought this game 
+ via Steam without even playing it before. I guess you have to play the game upon release to know 
+ how revolutionary the game was. Plus games released during that period did look a far better.. 
+ If the game was released in the late to mid 90s I could understand the lack of 3D card required 
+ graphics. Heck BG2 didn't need one.. but BG didn't need one in order to look good . The sound is 
+ okay.. the value is just great.. lots of replay value in this game .. but my taste was a bit off 
+ so I have to give it a good ranking. 
+::::::
+
+::::::
+UserName: mentat76
+Rating: 9.4
+Date: Dec 21, 2006 5:37 am PT
+Review:  The sequel of the well known ancestor jagged Alliance, has surely perfected the game in every aspect 
+ of this uber-super game.
+  
+  You never say, why didnt they think about that or If that feature was added to the game it would 
+ have been better as the game offers you everything comprehensiely leaving nothing out can you desire. 
+ It is completely a fascinating game which offers more than you can ask for.
+  
+  Tons of guns, bombs, characters with their very own personality (which everyone admires with this 
+ game) Lots of options, moves, abilities including characters can throw clips to eachother in some 
+ distance, can merge items to create various tools or bombs, can climb roofs for better line of 
+ fire, can jumpin or out from windows, interact with each other, as well as fire mortars and set 
+ detonators on heavily fortified positions... and this is the least they can do!!
+  
+  Hire mercs from your ingame Laptop computer (Which i was very surprised to see Sir-tech OS on my 
+ screen) Superb musics and sound effects, increadible amount of accessories to use including gas 
+ masks, sun goggles, Night vision goggles, armor piercing ammo, mine sweepers, kevlar armors and 
+ helmets and much more. Best one is you can order such items from in-game internet site Gun's and 
+ butter Obtain a junk van to carry your mercs, destroy sam sites around to be able to carry them 
+ with a copter. Capture enemy ruled towns to gain control of silver mines and as your income flourishes, 
+ hire additional and more proffesional mercs. train militia to teach them to protect themselves 
+ and townsfolk as well as your bloody obtained mines.
+  
+  It is extremely hard to describe each and every aspect of the game as that is a very well created 
+ game, thanx to developers from here for such a masterpiece , even that is a long game to reach 
+ to its end, due to its very high relayability value, you will always keep the discs not far from 
+ your computer. 
+::::::
+
+::::::
+UserName: Neverness
+Rating: 8.9
+Date: Sep 26, 2006 6:57 am PT
+Review:  JA2
+  
+  In many ways, Jagged Alliance 2 is the paradigm of what squad-based tactical games should be. The 
+ game not only does a superb job of combat but adds an additional strategic layer with a main story 
+ and numerous side stories. The game is nearing the decade old mark, so it is certainly not the 
+ prettiest, but the gameplay more than makes up for the fact that almost everybody in the game wears 
+ wife-beaters. Sometimes art does imitate life.
+  
+  The game begins with the fictional country of Arulco having suffered a coup and the former ruler 
+ enlists you to retake the country from his evil wife (maybe that explains all the wife-beater clothes) . 
+ Fortunately, you have contact with AIM, an international mercenary organization, to provide the 
+ needed muscle for such an undertaking.
+  
+  You begin the game looking at your characters laptop and going to AIMs homepage where you peruse 
+ the mercs files and contact them via webcam to work out contract details. The mercs are easily 
+ the biggest sell of the game as they all have very distinct personalities, abilities, and surprisingly 
+ large amounts of spoken dialogue. The mercenaries are also much improved from the original game 
+ (wherein many mercs just plain sucked ability-wise) and you have the option to create your own 
+ mercenary which is quite interesting. You take a personality test to determine your mercs skills 
+ and assign your ability points, choose a face and voice and you are on your way. Other websites 
+ you can visit include Bobby-Rays which is an arms and equipment dealer, a second-rate merc recruitment 
+ website run by an alum of the original game who offers fairly lousy mercs at cheap rates, and some 
+ others that are not entirely useful but add nice atmosphere to the game.
+  
+  The game begins with your mercs dropping into the rebels city, which just got attacked by the 
+ enemy army, and making contact with the rebellion. You also fight some weak enemies to give you 
+ a taste of battle. It is here within the battles that the game really shines.
+  
+  Your characters can walk, move silently, run, crouch, go prone, and even climb on top of buildings. 
+ Finding and using cover is extremely important as your mercs can get pretty shot up if they arent 
+ crouching behind walls, lying down behind a tree, or otherwise trying to make themselves harder 
+ to hit. The enemy also uses cover pretty effectively and will actively flank you and even throw 
+ grenades to force you to move your mercs. The game also implements day/night cycles and it is much 
+ easier to sneak up on enemies at 3 am with mercs who are trained in night ops. There is even a 
+ melee combat aspect (that you dont get to use very often) and mercs can be skilled in martial 
+ arts, brawling, and use weapons such as knives, brass knuckles, and crowbars. I do miss insane 
+ Reuben from the first game who came armed with the weed-whacker he used to kill his family and 
+ the chainsaw  but you cant win them all I reckon.
+  
+  Your main goal in the game is to take the capital city and kill the evil monarch. To do this, you 
+ pretty much need to take all the other cities on the map which you can garrison with militia to 
+ prevent them from being retaken. Most cities have a mine that will provide you with daily income 
+ so you can pay your mercs and buy equipment. There are also many side-missions in the cities and 
+ the countryside that are usually fairly easy to accomplish, but add a lot of fun to the game. In 
+ one city, a characters sister has been kidnapped and taken to a whorehouse and you have to rescue 
+ her via stealth. In another, some tourists ended up in Arulco by accident and you have to escort 
+ them back to the airport. You run across a secret laboratory, find POW prison camps, a group of 
+ inbred hillbillies, bloodcat lairs, enemy SAM sites, and much more. While the graphics, as stated 
+ before, do appear dated there is a large variety of weapons and equipment you can find and purchase. 
+ Initially, you will be using mostly pistols and small SMGs but later you can find much deadlier 
+ toys such as the .50 cal sniper rifle, mortars, assault rifles, mustard gas grenades, C4 explosives, 
+ night-vision goggles, spectra vests, fully-automatic shotguns, and dozens more items. The sheer 
+ amount of things to find and do more than makes up for the dated look.
+  
+  Jagged Alliance 2 is a game that you can finish and replay again and again. Even years after its 
+ release, it still has a very large fan base who are constantly making new modules. Granted, you 
+ need the Unfinished Business expansion to enjoy and create these modules so keep that in mind should 
+ you choose to seek out those mods. JA2 is now fairly easy to find via digital download or from 
+ online dealers. Remember to get patch 1.06 to avoid bugs.
+  
+  If you are a fan of strategy games, you do not want to pass this game up. On the lowest difficulty, 
+ it should still prove a decent challenge to most gamers whereas the highest difficulty is insane 
+ and suicidal. Some modern PCs will require tweaking to run this, but it is worth your time to figure 
+ out how to get the software and hardware talking to each other. Highly recommended. 
+::::::
+
+::::::
+UserName: Daggersquad
+Rating: 8.9
+Date: Sep 20, 2006 9:08 pm PT
+Review:  Jagged Alliance 2 in many respects reminded of the fallout series, but I found JA2 to be for more 
+ entertaining and thrilling.
+  
+  I have always been a fan of modern RPGs with guns and tactics, and JA2 pretty much blew me away. 
+ From sneaking through the brush, to sniping enemy snipers, to ambushing a squad of militants, all 
+ interweave to create the unique atmosphere.
+  
+  As the story goes, you lead a group of mercenaries (elite and not so elite) through the countryside 
+ of Alruco capturing cities for resources until you finally take of the dictator herself. Almost 
+ all options at your disposal: Silenced weapons (that ACTUALLY work) , Heavy weapons, Rebel Militia, 
+ and of course a long list of varied mercenaries that you can utilize.
+  
+  I was most impressed with the little additions to the game, such as the ability to upgrade weapons 
+ with attachments, body camoflage, etc.
+  The firefights are extremely satisfying and when you have finally captured an enemy city you get 
+ to see a little vignette of the Dictator tossing in anger. Splendid.
+  
+  I found the beginning of the game fairly difficult, but as you progress a little bit and acquire 
+ some better weapons the game became very easy.
+  
+  Overall, if you love universal strategy on a grand scale you'll likely enjoy Jagged Alliance 2. 
+ 
+::::::
+
+::::::
+UserName: MrZeb
+Rating: 9.3
+Date: Mar 11, 2006 8:15 pm PT
+Review:  Some games I just can't help myself... I MUST write a review!
+  
+  JA2 Is one such game. I've played it through probably 5 or 6 times just because it's such an open-ended 
+ game with so many different characters, side-quests, weapons, secrets and choices... I played it 
+ for MONTHS!
+  
+  Graphics: 
+  Ok, even by 2002's standard the graphics were not amazing or anything. Just simple isometric 2d 
+ graphics with simple animations...
+  
+  Sound: 
+  In terms of action it was nothing spectacular either... Gun-noise and Explosion-noises + the music 
+ is pretty simple. 
+  The voice-acting on the other hand is superb IMO! The voice-actors must have had a really good 
+ time making all the stupid and funny comments that this game contains. They're just all so unique 
+ and great that this is most likely one of the highlights of this game. It makes every person under 
+ your command feel believable as individuals and really makes you grow fond of them. BIG + for sound 
+ score.
+  
+  Gameplay: 
+  YES! JA2's greatest achievment for sure! The game starts beutifully with an intro where you recieve 
+ a large amount of cash for undertaking mercenary operations in a small country called Arulco. Arulco 
+ is governed by an evil female dictator called Deidranna. So your task is clear, remove the ****
+ 
+  But the beuty of this game is how you're then free to accomplish this task precisely as you see 
+ fit! The game is composed of 2 layers, the map of Arulco for moving large distances, and the battle-maps 
+ where you're free to move each of your mercenaries and interact with it's citizens and objects!
+ 
+  You also have a laptop where you keep track of money, e-mails, online-shopping (weapons, flowers?) 
+ recruitment, insurances... the list goes on. 
+  
+  As you progress through the game, take over towns, SAM-sites and complete side-quests you'll get 
+ access to vehicles (Jeeps, helicopters... Icecream trucks?) , weapon upgrades, gadgets and more.
+ 
+  
+  There are day and night cycles so you can do covert night-ops, you train militia in towns (that 
+ gains experience) , the RPG element let's you train your mercenaries in what ever you'd like them 
+ to improve on. 
+  
+  Phew! There's just so much going for this games gameplay that I find it really hard to explain 
+ it all. JA 2's strenght lies in all the details and incredible free decisions. You really feel 
+ like you're waging guerilla warfare with kick-ass mercenaries, and doing it YOUR way!
+  
+  Value:
+  This is THE best RPG/TACTICS game ever made in my honest opinion. So if you like the 
+ genre I recommend it with all my gamer-heart! Even now, so many years since release, I still recommend 
+ it. 
+  JA2's an excellent example of how games dont need great graphics or sound to be GREAT!
+  
+  If 
+ you've by chance missed out on this great title... Then maybe there's still time for you to repent 
+ your sin. Check all the dusty shelves in your nearest game-store, get your copy of JA2 and prepare 
+ yourself for the coolest bunch of mercenaries ever! IVAN RULEZ!
+  
+  
+::::::
+
+::::::
+UserName: Chriss1987
+Rating: 9.5
+Date: Feb 20, 2006 4:10 pm PT
+Review:  Jagged Alliance 2 is one of the first game if have played on the pc, I was addicted after 1 day 
+ of playing, could not stop playing. I have played it for 3 years, every single mode and with add-ons 
+ and modifications.
+  For the time it came the game had nice graphics, and the game-play is aw-some. 
+  
+  The storyline 
+ is about a evil queen who owns a country and you will be hired and need to free the country. There 
+ are allot of dialogues you can have with people and there is allot change in the terrain. So this 
+ game is good for a lot of weeks entertainment.
+  
+  I recommend this game to all rpg/action lovers, it is unbelievable.
+  
+  Chris. 
+::::::
+
+::::::
+UserName: Maagi
+Rating: 9.3
+Date: Nov 23, 2005 3:59 pm PT
+Review:  It's amazing how there is no game rivaling the greatness of Jagged Alliance 2. Silent Storm and 
+ it's add-on, Sentinels, gave a very good try but still was left behind by Jagged Alliance. What 
+ exactly is the force that has kept me coming back over and over again to this game?
+  
+  I'm an inventory junkie. There's no way going around it, I love meddling with my MERC's inventory. 
+ Best times are in the beginning, when you don't have the best possible weapon for everyone, and 
+ sometimes even ammunition is not to be seen in a while, and you have to give most suitable weapon 
+ and gear for your men/women. Setting up the weapons, items and ammunition is half of the fun for 
+ me, and it can take literally hours sometimes.
+  
+  The game focuses on you and your team of mercenaries, who've been hired to free the land of Arulco 
+ from the grasp of tyrant Deidranna. After small resistance upon landing to the scene, you're supposed 
+ to contact the resistance, and start making your way towards the eventual climax - killing Deidranna.
+ 
+  Of course, doing such a thing, requires money. Besides upkeeping your gear, other money sinks 
+ are your mercenaries, who do not endorse charity. Thankfully there's few exceptions around, including 
+ your "home-made-mercenary", who's free after initial 3000$ price. The source for your wealth? Mines. 
+ There's 6 mines (altough I'd consider only 5 of them available) around the map of Arulco for yours 
+ to take, but first, your contact in the resistance recommends taking the control of the nearest 
+ airport, which will help you start your war more easily, and to be able to get more equipment from 
+ gunshop's, etc. And the war has begun...
+  
+  Gameplay is a mix of real-time and turn-based. As long as you do not see an enemy or they don't 
+ see you, you'll be sticking with real-time mode. As soon as either you want to shoot an enemy or 
+ theys spot you (there are some variations to this rule, though) , the game switches you to turn-based 
+ mode, where everyone does whatever they do with points. The more points you have, the quicker you 
+ are and you can do more. Balance in point spending is quite good, except for the original game's 
+ pistols, which are pretty much useless after you get an SMG to everyone. They're just way too slow 
+ to be used to get required results. However, this has been fixed in free fan-made addon's, such 
+ as 'Deidranna Lives!' and 'Urban Chaos', among others.
+  I personally do not see anything to complain about gameplay. It is sometimes bit awkward which 
+ positions the MERC's are hidden behind an object and when they're not, but that's a thing with 
+ all the turn-based games I've played so far. Only downside in the gameplay I see is the lack of 
+ hand-to-hand combat, which is pretty much nonexistent, due the seemingly impossibility to sneak 
+ up behind of someone. There are some extra moves for MERC's who have specialized to hand-to-hand 
+ combat (such as around-the-house-kick) , but they seem to become pointless quite quick.
+  
+  Eventually there is plenty of guns to go around with, but the best times were still the early days 
+ when everyone didn't yet have they assault rifles and LAW's with'em. You got your pistols, SMG's, 
+ rifle's, sniper rifle's, assault rifle's, shotgun's, machine gun's, pretty much everything you 
+ could hope for (altough maybe not all the models you'd hope for) and plenty to go with. Even when 
+ looking at the game today, I don't see much to add to weapons, except more accessories and so on. 
+ There are some, but still not enough, considering you should be taking out an army of a small country 
+ with maximum of 18 men/women. But the accessories the original game has are pretty nifty. Got an 
+ aluminum rod and spring? Give'em to decent mechanic, and you can get magnifically named 'Rod&Spring', 
+ which you can attach to a gun to make the weapon shoot faster, which means it will take less action 
+ points to shoot with. Got a steel tube and glue (might need something else too, can't actually 
+ remember) ? Add'em together, and you get more length to your gun's barrel, increasing it's range.
+ 
+  More of the accessories etc. are available in addon's I mentioned earlier, which, in my opinion, 
+ make the game much better and a tad more realistic (vest has pockets where you can put certain 
+ items, such as bottle of water, first aid kit, etc) .
+  
+  The original Jagged Alliance 2 was released in 1999, and I still go back to it time-to-time, to 
+ play especially it's remarkable addon's the fans have made for it over the years. When thinking 
+ about it, JA2 is one of the very few games that have kept me hooked over the years with it's great 
+ gameplay and somewhat interesting MERC's.
+  
+  Now if you'll excuse me, I have inventory to meddle with. 
+::::::
+
+::::::
+UserName: ultra4ever
+Rating: 9.3
+Date: Oct 26, 2005 3:17 am PT
+Review:  Jagged Alliance 2 is one of the games I was so happy with.
+  It has action, rpg, strategy and many more elements in it and it is perfectly combined.
+  The 
+ story is really good, u must free the world from a dictator, and you can interact with other mercenaries 
+ you hire and people you want to talk too.
+  
+  The missions are really good, and when you play this game it is like you are in that country you 
+ are trying to free.
+  You can free cities and when the people who live there are loyal enough, you can train them. So 
+ the enemie can't just get the city back without a fight.
+  
+  For the time the game was made, the graphics are very nice.
+  I have played this game for 2 years, 
+ on easy hard, scifi mode and more.
+  There are also alot of expansions, to say it short:
+  A great game which you should try of you love this type of game!
+  
+  Chris. 
+::::::
+
+::::::
+UserName: dryden555
+Rating: 9.5
+Date: Jul 16, 2005 3:22 am PT
+Review:  JA2 has a lot going for it: you hire a team of mercenaries that have very different personalities 
+ and then work through a series of tactical battles across many many maps. Hiding in brush, kneeling, 
+ camoflage, night-fighting and much more all actually really matter in your battle decisions. Its 
+ impressive how smart your enemies are and there's even an optional sci-fi element that will add 
+ to the types of enemies you will fight.
+  
+  There's little to complain about. The 2-D maps look good -- not amazing -- but good. You have to 
+ earn money from capturing maps that have mines on them. If you dont have enough funds, your mercenaries 
+ can't get paid and they may leave the team. Some folks didn't like this strategic level of management 
+ of the team. I must admit I much prefered staging battles and upgrading the abilities of my mercenary 
+ team than manging funds. When your team is injured you have to heal them over a period of time. 
+ This will take them out of fighting at a time when you may really need your crack sniper or grenade 
+ expert. But these are minor complaints.
+  
+  The only real issue is that it isn't always clear if you have line-of-sight with your weapons or 
+ not. Sometimes you will think you can hit a target and the game thinks there is a tree in the way 
+ no matter how many times you shoot.
+  
+  The game is long and there's plenty of reason to try this game if you aren't immedaitely turned-off 
+ by turn-based games. Its easily one of the best games of its genre. 
+::::::
+
+::::::
+UserName: Warp_2567
+Rating: 9.7
+Date: Dec 12, 2004 10:17 pm PT
+Review:  NOTE: I rate games according to the time it was released, not present-tense.
+  
+  I know Jagged Alliance 2 is an old game right now, but I just had to rate it because it's THE most 
+ realistic game I've EVER played. Even MGS3 or Morrowwind can't match up to it's details.
+  
+  I could make this review really long, but I'm lazy right now. I'll make it short.
+  You are called 
+ to save a small, poverty-stricken country from a ruthless dictator. You get on your laptop and 
+ go on the A. I. M. website to see which mercenaries you can hire. Some are costly, and others are 
+ cheap. You choose your individual mercs. You can also make your own custom mercenary by going to 
+ the I. M. P. website and answer the hilarious questions they ask you. Once you assemble your unique 
+ team, you designate their drop zone and wait for the next day...
+  
+  From then on you can liberate small towns from the ruthless army and you can train them to be town 
+ militia so they will be able to defend themselves while you are away liberating other small towns. 
+ In every town, there are NPC's you can talk to, and some of them are willing to sell/trade, or 
+ repair things for you. You can buy bullet-proof armor, pistols, gun accessories, first-aid kits, 
+ and tool kits or you can scrounge the bodies of your dead enemies, hoping to find something useful 
+ you could use.
+  
+  There are many detailed things this game has to offer, and I didn't even list half the things in 
+ it. I'd say, buy this game if you are playing no other games. Its outdated, so some people might 
+ not be that interested in it.
+  
+  I give this game a 9.7 
+::::::
+
+::::::
+UserName: askme1now
+Rating: 8.9
+Date: Jun 14, 2004 2:03 am PT
+Review:  This is the Half-Life of turn-based tactical strategy.
+  
+  Of all of the dozens of games I've played, this is the one I've replayed the most (six months solid, 
+ at one point) . Published in '99, the graphics are crap now, and the sound is nothing to write home 
+ about, but every other cylinder is here and firing great. When I play a fun RPG or strategy game 
+ today, it will inevitably occur to me at some point to compare it to JA2 (and almost nothing measures 
+ up) .
+  
+  The Gamespot review provides most of the plot and gameplay details. Below are my own summaries 
+ of some of the game's high points.
+  
+  CHARACTERS:
+  Building your own team of mercs is very well done. This isn't Ghost Recon, crunching math on a 
+ calculator to figure out which team members' stats add up to the best marksmanship+heavy weps+whatever. 
+ What you really care about is, who can you afford, and will they get along with everyone else. 
+ Once you have a team that likes each other (i. e., no fighting, climbing morale, etc.) , then you 
+ can train (in and out of battle) and equip virtually anyone into a terrific soldier. Watching that 
+ peasant you recruited on Day 4 turning slowly into one of your point men by Day 70 is a fun, challenging, 
+ painless process. Plus, and definitely one of my favorite things about JA2 (and something that 
+ is blown miserably in every other TBTS game I've played) : the character growth system is very realistic 
+ and fun. It works more like an RPG, where you actually have to use the skill/attribute to develop 
+ it (instead of, say, giving skill points away at the end of each mission) . But unlike most RPGs, 
+ there is little incentive to camp out and grind levels (e. g., by shooting cans and tree over and 
+ over again) . The difficulty of the sectors you enter grows steadily but not steeply, so you have 
+ great incentive to just learn by doing...
+  
+  WEAPONS/ITEMS:
+  There are a ton of weapons, all enthusiastically though not always entirely accurately modeled. 
+ There are also lots of items to buy, win, find, or build (e. g., weapon enhancements that increase 
+ range or rate of fire) , again adding a simple but fun RPG flavor. Weapons degrade and can be repaired. 
+ Collecting enemy equipment, repairing it, and selling them to pay for new ones is a very rewarding 
+ process. I liked how the items kept you interested in the maps and quests without disturbing the 
+ fast pace (unlike many RPGs) . I've replayed the game dozens of times and still haven't found or 
+ built all the items...
+  
+  MAPS AND QUESTS:
+  The best thing about the map is that even though the major landmarks are always the same (e. g., 
+ the army base is in the same spot, the airports, the SAM sites, etc.) , the enemy placement is randomized, 
+ giving the hot spots great replayability. There are a number of smaller side quests, a number of 
+ which have effects on how you are treated in other parts of the country (e. g., how easy it is to 
+ train militia in the towns you have captured) . One stand-out feature (and something terribly implemented 
+ by later games like Fallout Tactics and Silent Storm) , is how the enemy patrols moving through 
+ the world map give every cross-country trek a unique feel: most of the time, you can see a patrol 
+ moving (although not always how big/strong it is) , so you can arrange an ambush by getting in its 
+ path (allowing you to arrange your men in the tactical map before they arrive) , dodge it by making 
+ a potentially exhausting detour, or charge straight in. The 200+ sectors are different enough that 
+ each of these encounters feels unique. (By way of comparison, the 2004 TBTS game Silent Storm only 
+ has a few "random" encounters that wait for you in plain view in the same spot on every map and 
+ which recycle a half-dozen small maps for the battles.) The fact that you can drop from the strategic 
+ map into the tactical level on any sector, battle or not, and often find side quests or clues or 
+ items just makes for a far, far better experience than any other game in the genre, previous or 
+ since.
+  
+  SUMMARY:
+  A great turn-based squad-level tactical-strategy game with simple but well-implemented RPG-like 
+ elements. Graphics are now very dated.
+  
+  Similar games: Fallout Tactics: Brotherhood of Steel (2001) ; Silent Storm (2004) ; X-Com: UFO Defense 
+ (1995) . See my Gamespot reviews for FOT: BOS (fun) and S2 (pretty but very weak) . 
+::::::
+
+-------------------------------------------------

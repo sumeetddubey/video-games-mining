@@ -1,0 +1,110 @@
+-------------------------------------------------
+:::Game Name::: Front Page Sports: Baseball Pro '98
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sports/frontpagesportsbp98/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jul  3, 1997
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8
+Critic Score: 8.0, 7.7 Review (s)
+User Score: 7.7, 29 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Sierra Entertainment
+Genre: Baseball Sim
+Date:     May 31, 1997
+
+-------------------------------------------------
+:::Review:::
+It's obvious the company spent a lot of time and energy correcting the problemsof the '96 edition. 
+ 
+
+ Regardless of how you feel about this latest edition in Sierra's Front Page Sports: Baseball Pro 
+ series, you have to admit one thing: It's obvious the company spent a lot of time and energy correcting 
+ the problems of the '96 edition. How much you enjoy the game, though, depends on what you expect 
+ from a baseball sim. If it's on-field action that gets you pumped, you'll probably be a little 
+ disappointed with BB Pro '98 - but if you're looking to take on the role of general manager and 
+ guide your favorite team to the World Series, there's no better game in town.  
+
+ Probably the first thing you'll do when you load up BB Pro '98 is grab a joypad and fire up an arcade 
+ game (easier to hit and field) or exhibition outing (more realistic, though you can fine-tune numerous 
+ settings to make it less difficult) . But just as with Sierra's Football Pro games, arcade-style 
+ play is not this game's strong point. The graphics, at least from the batter-pitcher perspective, 
+ are certainly decent - until you notice there's no option for a pitcher-batter perspective, and 
+ that, with the exception of skin tone, all the players are generic in the way they look, the way 
+ they step up to the plate, and the way they swing.  
+
+ Sierra's CAMS system (which sets up viewing perspectives once the ball's been hit) has a powerful 
+ array of options for deciding what you'll see once you get some wood on the ball, but it's difficult 
+ to find a setting that works well all the time: The settings that look great are lousy for actually 
+ controlling players. The play-by-play commentary is minimalist in the extreme - limited to an announcer 
+ growling "Strike!," "Yer out!," and "Foul! - and you'll be left scratching your head when you see 
+ the catcher run up into the stands and over the flattened crowd to snag a pop-up foul.  
+
+ On the up side, you do have a nice variety of managerial options available in the hands-on mode, 
+ as well as extensive control over pitching (type, location, speed) and batting (type of swing and 
+ area to look for the pitch) . The game looks and feels a lot like real baseball - the animations 
+ are dead-on without looking canned and the ball physics seem to be about right.  
+
+ So controlling the on-field action is a mixed bag - but that's certainly not the case with the league 
+ management portion of the game. Whether you want to control one team as owner and GM or become 
+ commissioner of an association in which other BB Pro '98 owners take charge of their own teams, 
+ this game provides the most flexibility, power, and versatility of any baseball sim you can buy. 
+ The detail is overwhelming: If you can think it up, there's a 99 percent chance that there's a 
+ way to do it. And the best part is that you can exercise as much or as little control as you want: 
+ A computer GM can be told to handle everything from free agent signings and draft picks to actually 
+ making the calls during a game.   
+
+ Simulation results are credible, though there do seem to be an inordinate number of injuries (more 
+ on that later) . To speed sim-only games, Sierra's added a "fast sim" option (you can't view highlights 
+ after a game) and a "one pitch" option that only displays the last pitch thrown to each batter 
+ (useful if you choose to watch a game being simmed out) . A remote manager option allows you to 
+ compete with fellow BB Pro '98 owners remotely - a wonderful feature, except the lack of modem 
+ support means the only way to play head-to-head against fellow league members is at the same keyboard. 
+
+ Don't like the way players respond under computer control or the way the ball bounces and rolls 
+ on turf? There's a feature to insert a file named PB. INI in the Baseball Pro '98 directory that 
+ lets you set those factors and dozens more just the way you like them. It gives you control over 
+ how the computer GM will react in six defensive and four offensive situations, allows you to change 
+ five parameters that determine when substitutions will be made, alter ten physics factors, set 
+ the pitcher and batter AI along with fielding and running abilities - and that's not mentioning 
+ all the sub-categories that affect the overall sections.  
+
+ Some might say this is Sierra's way of letting consumers fix "bugs" - but no matter how you design 
+ a baseball sim, there will be people complaining about how players or computer managers respond 
+ in situations or how the ball behaves, and this is the closest you can come to pleasing all the 
+ people all the time. If it looks a little too complicated for you, check out the PB. INI file at 
+ the (you'll also find several other files that alter other aspects of the game such as the number 
+ of injuries or players being released into free agency.)   
+
+ There are a few more minor problems with BB Pro '98 - the Braves' Turner Field isn't included, and 
+ there's no way to set up two leagues with three divisions of five teams each to reflect the realignment 
+ of MLB teams after the arrival of next year's expansion teams - but they pretty much pale in comparison 
+ to all the things the game has to offer. For hard-core baseball fans, Baseball Pro '98 dishes up 
+ everything except World Series tickets.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: mgreen789
+Rating: 9.2
+Date: Oct 12, 2005 8:01 pm PT
+Review:  FPS: Baseball Pro '98, is a classic sports simulation game with the emphasis on the managing of 
+ all aspects of a season. The ability to trade, create, and train players, along with the simulation 
+ of injuries, player transactions and roster management, make this a game to play season after season. 
+ As a team manager, you can promote and demote players between the major league 25 man roster, the 
+ AAA roster, the DL, and the low minors. After the season is over, which you can either play or 
+ simulation games, player awards are won and realistic playoffs begin. The game keeps great career 
+ stats for players, retires players, keeps records of awards and champions for each year, and even 
+ elects hall of fame players five years after their retirement. This is a real classic, that will 
+ keep you attached for years at a time. The gameplay is not the best, neither are the graphics, 
+ but overall, this is just as good as being a true Major League General Manager. 
+::::::
+
+-------------------------------------------------

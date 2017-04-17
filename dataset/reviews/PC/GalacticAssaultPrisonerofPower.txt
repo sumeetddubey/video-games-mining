@@ -1,0 +1,291 @@
+-------------------------------------------------
+:::Game Name::: Galactic Assault: Prisoner of Power
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/galacticassault/review.html
+-------------------------------------------------
+:::The Good:::
+ Smart mission design that emphasizes brain over brawn.
+ Good campaign depth with varied mission designs.
+ Gameplay beefed up by lots of scenarios, solo deathmatch maps, and online multiplayer.
+-------------------------------------------------
+:::The Bad:::
+ Unintelligible story.
+ Dark, grainy graphics.
+ A few odd bugs.
+-------------------------------------------------
+:::Date::: Sep 21, 2007
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7
+Critic Score: 6.9, 14 Review (s)
+User Score: 5.9, 151 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Paradox Interactive
+Developer: Wargaming. net
+Genre: Sci-Fi Turn-Based...
+Date:     Sep 12, 2007 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+A good grasp of tactics along with smart, challenging missions outshine Galactic Assault's impenetrable 
+ storyline and elementary design. 
+
+  Although all of your initial impressions about Galactic Assault: Prisoner of Power lead you to 
+ believe that it's yet another cut-rate effort slapped together in a cold-water flat in a former 
+ Warsaw Pact nation, this is not the case. For starters, developer Wargaming. net is based in Louisiana. 
+ Second, this is one playable turn-based strategy game. Yes, it's based on a Russian sci-fi novel 
+ that you've never heard of. Yes, the developer is about as anonymous as a crowd on a subway platform 
+ to anyone who hasn't played its Massive Assault series. But the game itself is more polished than 
+ you would expect. It offers a great interface and enticing tactical engagements, despite miscues 
+ such as incoherent storytelling and missions that are a little too carefully constructed.  
+
+  For a game based on a novel, you would think that Galactic Assault would at least have a strong 
+ story going for it. On the contrary, the plot of the campaign is so poorly told that even an English 
+ speaker could probably make more sense out of the original, untranslated book. Either some people 
+ at Wargaming. net need to brush up on their Russian, or authors Arkady and Boris Strugatsky need 
+ to work on their storytelling skills. It's pretty hard to even figure out what's going on here 
+ because the mission briefings make nothing clear. You apparently lead Maxim Kammerer of the Land 
+ of Unknown Fathers in a war for the alien planet of Saraksh against Khontie, Insular Empire, and 
+ Southern Barbarian factions. But beyond those basics, your guesses are as good as ours. You'd be 
+ better off making up a story like you were a five-year-old playing with toy soldiers than trying 
+ to comprehend the seemingly random cutscene voice-overs.  
+
+           Combat may not be as intense as in the garden-variety RTS, although things still blow 
+ up real good on occasion.      
+
+  Thankfully, the missions themselves are smartly structured. Even though you might never know the 
+ reasons why you're fighting a war, at least you always know what you're supposed to be doing in 
+ the individual battles. Assignments are actually so masterfully laid out that even strategy-game 
+ beginners will have no problems grasping the basic concepts of warfare on Saraksh. After a brief 
+ tutorial mission to acquaint you with the interface, an advisor walks Maxim and his troops through 
+ the initial missions against the Khontie. This is a teensy bit tedious, given that you feel as 
+ if you're painting by numbers at times. Yet this measured approach does a great job of introducing 
+ the strengths of armored units as opposed to infantry, as well as how to use artillery to beef 
+ up defenses, the best way to dig in ground troops, and so on. It even covers elementary battle 
+ tactics such as flanking dug-in enemy positions.  
+
+  All of these tips get you thinking strategically from the very beginning, so you won't waste any 
+ time on frontal assaults or stupid tank rushes. This is a very good thing, in that the structure 
+ of the game makes it look more like a simplistic real-time strategy game than the turn-based wargame 
+ that it actually is. The fairly generic army-man units in three of the four factions don't do much 
+ to help this visual distinction; only the Southern Barbarians sort of stand out, with more rough-and-ready 
+ equipment and monstrous ghouls standing in for shock troops. Turns are divided into separate sections 
+ for movement, combat, and reinforcement. Circular targets spell out which spots units can go to 
+ during the movement phase of each turn. Units can't be stacked, so they must be laid out in easy-to-spot 
+ formations when attacking or defending. Warnings let you know if you're about to end a turn with 
+ a unit still being able to move or fire. Unit strength and morale is depicted with a bar and a 
+ light, respectively, both of which go from green to yellow to red. Overall, this is one of the 
+ most helpful strategy interfaces to come along in some time. Many little touches here should be 
+ emulated by rival developers.  
+
+  Everything else is based on a traditional real-time format, with the only difference being that 
+ you move units in turns, of course. Money earned for completing objectives and ka-booming the enemy 
+ is used to augment preexisting bases with depots that construct all manner of military hardware, 
+ from infantry grunts, to futuristic choppers, to engineering corps who can lay down bridges. However, 
+ production is relatively sedate. Instead of rolling hordes of troops and tanks off of production 
+ lines, fairly tight monetary limits force you to be cautious about what you're sending into the 
+ field. The pace of combat is also fairly measured. It can take a number of turns just to take out 
+ an infantry company, so there are no battles of attrition here. Yet at the same time, battles don't 
+ drag. For want of a better description, they feel right, with units that take appropriate amounts 
+ of damage before going down. Missions can stretch to an hour or so, although they generally move 
+ along quite quickly, which makes this one of the zippiest turn-based games you'll ever play.  
+
+ 
+           Ah, the eternal conflict between helicopter and battle-ghoul. It's like cats versus dogs. 
+
+  That said, there are a few flies in the ointment. Enemy artificial intelligence is relentless on 
+ the attack, although it seems to hit you with a pretty blunt frontal assault much of the time instead 
+ of carefully managing its units. Missions are overly structured at times. This is pretty refreshing 
+ in the scenario and deathmatch solo modes of play, given that the detailed objectives provide both 
+ with a sense of purpose often missing from the cheapie sandbox styles that mark skirmish play in 
+ other strategy games. But such a design is also limiting, in that missions can become awfully linear. 
+ The only way to break away from this is to go multiplayer, and all it offers is one-on-one deathmatching 
+ (not that there ever seems to be anybody on the servers, anyhow) . Bugs afflict some of the solo 
+ deathmatch maps, as well. On a regular basis, games will end suddenly after just a single turn. 
+ You get an error message that the game seems to be broken, and a bizarre prompt to fix it, followed 
+ by a quick exit to the main menu.  
+
+  The presentation values raise further gripes. Although the audio effects are acceptable during 
+ battles, and the voice acting is actually pretty good for your standard wargame, the visuals are 
+ so grainy and dark that it's hard to tell one unit from another when zoomed out even a touch. The 
+ time of day changes as well, which makes this problem even worse when the sun goes down. At night, 
+ it's awfully tough to see much of anything without scrolling right down to field level.  
+
+  Even with its flaws, Galactic Assault's great interface and emphasis on battlefield tactics make 
+ it worth a look. It could use some help when it comes to storytelling and visual design, but those 
+ missteps are largely balanced out by what this game does right.     
+-------------------------------------------------
+:::User Reviews::: (6 Reviews)
+::::::
+UserName: AvatarBlue
+Rating: 7.5
+Date: Mar 28, 2008 1:20 pm PT
+Review:  A good game. Not brilliant, but virtually bug free and worth playing. For one thing the setting 
+ makes this game unique or virtually so. I believe there are a few games that are similiar or are 
+ based on the same setting but I havent played those.
+  
+  The game is functionally designed. The campaign is a bit of disappointment, at least at the beginnng. 
+ Later on though the big units make it worthwhile. Limititations during the campaign though make 
+ some of the missions a chore, though some are challenging because of the limitations. I. e. unit 
+ limits exist to keep specific scenarions balanced. This makes the AI very good because the number 
+ of factors that must be coded for reduced. In some ways this is good, but it means that the game 
+ leave a feeling that something is missing.
+  
+  Moving on the various environments, day and night cycle does add a great element of strategising 
+ on top of the FoW. I just wish there had been a rudimentary supply model added. Yet the number 
+ of units in the game provide numerous permutations to what tactics you wish to employ. Love the 
+ aircopters that airdrop infantry units! That one unit makes the game worth getting imo. I was a 
+ little disappointed in the other air units, but not by much. Futhermore, bases and tech is somewhat 
+ limited. Maybe they planned to bring out an exp. pack. More likely, they reduced both to balance 
+ the game. In this respect I dont think they could have gotten a better balanced game.
+  
+  The game is a good addition to any collection. The number of scenarios, the campaign, the sandbox 
+ mode make it worth it. Also playing on different difficulty settings prolongs the game as you will 
+ need to amend your strategy in order to succeed w/ gameplay elements affected with each level.
+ 
+  
+  A very solid game, well constructed but lacking in a few area.
+  
+  Worth playing and definitely worth getting if you are a TBS junkie like me. 
+::::::
+
+::::::
+UserName: alejes02
+Rating: 5
+Date: Nov 25, 2007 3:30 pm PT
+Review:  Every time I play this game, all I can do is scratch my head. I'm fighting some turn-based battles 
+ over some mythical planet I've never heard of, narrated by a story that makes absolutely no sense, 
+ using weapons that are uninspiring. "Xyghwonft finds the book prompting Insogngons to invade Jnoosrung." 
+ The narrations are literally that cryptic. Ok, so you don't know WHY you're fighting, but the fun 
+ is in the fight, right? Well, not quite. The scenarios are uninspiring, the action is slow to develop, 
+ and the whole package is formulaic. At least in the designer's earlier release, Massive Assault, 
+ there was variety, a few nasty surprises, and an AI that proved challenging. None of that is present 
+ in Galactic Assault; which is a shame, because a game like this needs an interesting back story 
+ to keep you hooked -- to make you WANT to attack that enemy base. Well, there IS a story in here 
+ somewhere -- but good luck on understanding it. And, without a comprehensible story, you just shrug 
+ your shoulders when you get ordered to take just one more hill and say, "who cares?" 
+::::::
+
+::::::
+UserName: Anofalye
+Rating: 6.5
+Date: Nov 24, 2007 5:10 pm PT
+Review:  Considering Domination: Massive Assault and this title, they downgrade.
+  
+  - Random seed of damage = Distraction, which is good in a PvP setting, but in a PvE, you don't 
+ want to play with that.
+  
+  - No more maps/productions/country. Instead you have a base which produce units, but you need to 
+ buy the proper upgrade and.... Zzzzz It is more refine and more complex, but it isn't more challenging 
+ and definitely not more fun.
+  
+  - Graphics are lesser then in Domination. Not talking about the amount of pixels, but about the 
+ rendered effect. Everything appear a lot less marvelous and a lot more tern. Realism or boringness?
+ 
+  
+  - Smaller maps but bigger countries. Instead of having 20 countries/provinces/states at war as 
+ in Domination, you have 2-6... they are bigger and have less resources. So, what you have at start 
+ is a LOT more important and your strategy matter less, it is turning more tactical, less strategic.
+ 
+  
+  I would normally have given such a game a 7.5 ratio from peoples I don't know, but considering 
+ this is done by the same devs which did Domination, they have taken wrong twists and wrong paths. 
+ So I will have to consider the new direction, and this is why I have to give them a 6.5. 
+::::::
+
+::::::
+UserName: flanker145
+Rating: 9
+Date: Oct 25, 2007 11:41 am PT
+Review:  Yes, it MAY be elementary, designically speaking, but, YES, it's solid, and it 's got everything 
+ a HIGHLY SOPHISTICATED, addictive Turn-Based strategy game of 2007 needs to have. Sound emphasizes 
+ a dark, RETRO SOVIET Cold War Atmosphere, all masked a little in an interesting, just as dark, 
+ snowy and swampy SciFi Fantasy Setting. Still remember the unreached Blue Byte's Battle Isle II? 
+ Yes, stonage, for christs sake. But definitely, it helped characterize what a Turn-Based War Simulation 
+ needs to be like. Oh yes. Played it? Liked it? Spent autumns and winters on it? This One 's for 
+ YOU!
+  
+  -What? This review isn't long enough? Hey, i don't like to writee pages over pages on what can 
+ be said in a few words. Geez. 
+::::::
+
+::::::
+UserName: JcDent
+Rating: 9
+Date: Oct 19, 2007 4:56 pm PT
+Review:  Now this is one great game. I always frowned upon TBS games, because RTS felt better. Not today. 
+ First, a quick peek at the story. In the novel's (and game's) Universe, called Noon universe, Earth 
+ is ruled by commies. Well, not the really red ones: communism went so good, that Earth is now free 
+ of crime and poverty and (!) money. Knowledge is the most valuable thing and the government is 
+ ran by historians, scientists and other brainy fellows. Of course, there is a small number of individuals, 
+ who, due to the lack of intelectual capacity, do not fit into manual labour-free world. And they 
+ have to be taken care off. They can explore space! Maxim Krammer crashlands on Sakrash, a planet 
+ populated by humans with technical proves of mid tewntienth century. ANd they are suffering from 
+ the aftermath of a nuclear war. Since this is already a long peek into the story, I'll tell that 
+ Maxim saves the Land of Unknown Fathers (leave it to russians to make funky names) from mind control 
+ using dictators. And now the Land is beset by enemies from every side, so Maxim has to quickly 
+ turn into a tactical genius and defeat every opponent. Maxim innitially controls units of only 
+ the Land of Fathers. Since it was a nasty country, the most basic and never used are Penal units, 
+ which aren't more than cannon fodder. After that come the infantry, called infantry, tanks, engineers, 
+ Guards, ships, airplanes. I'll mention only the more interesting ones. Since Sakrash has a strange 
+ atmosfore, which leads people to believe that horizon is above them, airforce isn't well developed 
+ an doesn; t play a huge role in the game. Save for the Mountain Eagle tactical bomber, a leftover 
+ from when Sakrash was a one Empire. This 6 motor plane resembles an eagle and delivers powerful 
+ bombs onto the enemies. The only matching unit is khontie Storm Master 6-winged bomber. Then comes 
+ the artilery. It has two anti-infantry, two anti-tank variations and the Death Hammer cannon, which, 
+ while dealing 13 damage (toughest tank of the Land has 28 hitpoints) to both regular and armoured 
+ units, is a scary sight. Trade off is slow movement and no area damage. The Land of Fathers also 
+ has hipno ray vehicle (mobile version of towers that were used to control the populace) , witch 
+ keeps friendly unit morale at max while demoralising enemies. All Land's equipment looks sturdy 
+ and bulky, while infantry looks modern day. Rocket artilery is strange though. Khonties are a nation 
+ to the north. It's government is split in two. However, that doesn't stop them from trying to invade 
+ the former Land of Fathers. Their riflemen are good against light vehicles, but weaker against 
+ infantry. They have shock troops, but they're as useful as Penal infantry. Their Cruiser tank has 
+ amazing movement capabilities, though limited firepower. Siege cannon is a nice peace of artilery, 
+ missile launcher being even sweeter. Storm Master is a good bomber. These are the uniths that you; ll 
+ usually have at the begining of missions when you stop the Khonties in the campaign. All khontie 
+ units are sleek, blue or unpainted metal. Their troops look like Imperial officers from Star Wars. 
+ Union of Desert Sons is a band of ragtag bandints a la Mad Max. Now, replace bandits with tribal 
+ mutants and you see the picture. They have obe of the most powerfull infantry in the game, which 
+ leads to having poor vehicles. Two of the infantry units are melee focused, so they're tough. Artilery 
+ looks a bit strange, strangest being the Fire Thrower. It looks like a huge clay ball held by wood. 
+ It has short range, but decent area of effect. Mutants look like all post apocalyptic civilizations. 
+ Insular Empire are cruel amphibiuos and submarine based terror inspiring pirates. They are cruel 
+ and mercyless and most of their units are amphibious. The excel in fighting near water, because 
+ that where he powerlful subs are. Are regular person would laugh a that: what can a sub do to people 
+ on the ground? Torpedo them? Well, since Insular Empire is dominant sea power in Sakrash, their 
+ subs are fitted to deal with ground targets, providing long range artilery support. Their marines 
+ are a pretty decent peace of infantry too. Their transporter differ from other factions because 
+ they can cross rivers and seas like they would cross regular terrain. Insular Empire is white, 
+ sleek and vintage looking. This game makes you employ hard tactics. Firstly, while there is possibility 
+ to build units, the resources are very limited, so you'll have to deal with what you've. So your 
+ start entrenching infantry and vehicles, sending recon to spot for artilery, using trucks and trailers 
+ and helis to move infantry and light artilery around the field (because trailers and planes can 
+ move farther than other units) , flank the enemy, use artilery support to weaken enemy position. 
+ That means that this game is fun. Hell, I liked it more that World in Conflict. Galactic Assault 
+ has outdated graphics, but it does the part and shows a land devastated by nuclear and conventional 
+ war gloriously, while WiC is sterile and has small units. All in all, GA is enjoyable and fun to 
+ play even if you don't really know the story. 
+::::::
+
+::::::
+UserName: Kolobock
+Rating: 9.5
+Date: Sep 28, 2007 6:49 am PT
+Review:  Galactic Assault: Prisoner of Power is based on an extremely popular Russian science-fiction story 
+ written during the prosperity of the soviet sixties. Its set on the planet of Saraksh and the 
+ essentially the game is about the fight for supremacy between 4 races. The game offers you a choice 
+ of playing through a single player campaign, eleven scenarios or twelve deathmatch games. There 
+ are multiplayer options too with support for Hot seat, LAN and Internet Play. The battles in GA 
+ are actually quite good. As well as the usual fog of war, the game takes things such as camouflage, 
+ weather, terrain, fortifications and many other things into account. The ability to entrench units, 
+ camouflage them and generally use the environment to your advantage is certainly a key feature 
+ of the battle system and allows you to be quite flexible in formulating your strategies. Graphically, 
+ GA looks pretty good, one of the best TBS titles I have seen. The obvious comparison here is Heroes 
+ of Might and Magic V, which is a little too cartoony for my taste. So if you like strategy type 
+ games, there is no way you wont like GA. 
+::::::
+
+-------------------------------------------------

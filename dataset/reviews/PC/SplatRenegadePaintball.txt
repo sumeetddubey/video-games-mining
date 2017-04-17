@@ -1,0 +1,490 @@
+-------------------------------------------------
+:::Game Name::: Splat Renegade Paintball
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sports/splatrenegadepaintball/review.html
+-------------------------------------------------
+:::The Good:::
+ Decent graphics, at least when they're not moving.
+ Custom maps can be played online.
+ Duck and shoot commands taken from Greg Hastings.
+-------------------------------------------------
+:::The Bad:::
+ Terrible soundtrack.
+ Bugs, particularly in multiplayer.
+ Boring campaign mode with cheap, infallible enemies.
+ No friendly AI commands.
+ Terrible control.
+-------------------------------------------------
+:::Date::: Oct 25, 2005
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.2
+Critic Score: 4.9, 8 Review (s)
+User Score: 7.0, 124 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Take-Two Interactive
+Developer: Cat Daddy Games
+Genre: Alt. Sports
+Date:     Oct 11, 2005
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Unbalanced AI, poor shooting control, and shoddy design at every level of the experience make this 
+ extreme sports title unworthy of your $30. 
+
+  Youth hobbies are distancing themselves further and further from action these days. Yu-Gi-Oh is 
+ a game about playing a game about fighting monsters, and Splat Magazine's Renegade Paintball is 
+ about reading a publication about playing a game that simulates war. For all but the most dedicated 
+ of fans, this isn't a thrilling premise. But Renegade Paintball is better than some of its budget-bin 
+ competition. It seems like Global Star Software played Greg Hastings' Tournament Paintball and 
+ tried to incorporate as many of the features therein as possible. Its success was inconsistent. 
+
+          Even paintball enthusiasts should see the ludicrousness of a twofold separation from the 
+ thrill of warfare.     
+
+  Renegade Paintball features a difficult career mode that's essentially a tutorial for multiplayer 
+ confrontations. As in Greg Hastings, you've got elimination matches, in which you have to paint 
+ each member of the opposing team, and CTF matches, in which you either have to capture the enemy 
+ flag or a center flag between your bases, depending on the map. These levels include woodsball 
+ and speedball arenas, which give players a taste of traditional and avant-garde paintball gameplay. 
+ Woodsball takes place in large outdoor arenas with cabins and rocks as cover. Speedball is set 
+ in smaller arenas and uses artificial, inflatable cover. The latter is, as the name would imply, 
+ much quicker. As one shot kills in any paintball game, you'll be respawning a lot in speedball. 
+
+  In career mode, you'll choose from one of several paintball "greats," including an editor from 
+ sponsor Splat Magazine, Chris "IQ" Iaquinta. Enthusiasts may be familiar with some of these big 
+ ballers, but anyone else probably won't have a clue. Your character choice actually means little, 
+ as all players seem to perform equally. If you die in an elimination match, time will stop and 
+ your spirit will appear to leave your body, moving to take control of another player. Characters 
+ without licensed names are called horrible things like "N00b Bob." Of course, that's fitting for 
+ a game that exclaims "You got served!" when the computer dishes out an especially heinous beating. 
+ At the start of a particular map, the same baritone announcer voice asks, "Do you have what it 
+ takes to be king, [dramatic pause] or will you just be [another dramatic pause] a court jester?" 
+
+  The appeal of the single-player campaign is limited, due to huge gameplay imbalances. The odds 
+ seem hopelessly tilted in favor of your CPU opponent, especially on the Xbox, in which there is 
+ no auto-aim. You're simply expected to be as accurate with your thumbsticks as you would be with 
+ a high-resolution mouse. As a result, it's incredibly hard to hit anything on the Xbox, especially 
+ with the first few, lower-powered markers (guns) . Compounding the problem is slightly jerky character 
+ animation, which makes it really tough to anticipate enemy movements and to lead your shots accordingly. 
+ Consequently, pretty much the only way to score frags is by shooting dozens of paintballs in a 
+ wide spray. When the scores are tallied, having 5 percent accuracy means you performed well. This 
+ is not true of real-life paintball. Even on the PC you'll have a lot of trouble hitting the mark, 
+ although this is due mostly to jerky graphics.  
+
+  By contrast, the CPU seems to hit its mark the first time, every time -- at least on normal difficulty. 
+ If you, even for one moment, step out of cover, you'll be bombarded by a spray of enemy paintballs, 
+ regardless of your distance from hostiles. Meanwhile, your friendly artificial intelligence characters 
+ are completely useless. On capture-the-flag maps, they'll never, ever capture the flag on their 
+ own. You'll have to do everything yourself.  
+
+          Hey, kids, do you like violence?! Too bad!     
+
+  Some of these problems could have 
+ been mitigated by rudimentary team commands, like "get the flag" or "guard the base." Instead, 
+ your teammates pretty much do whatever they feel like at the time, which may be totally counterproductive. 
+ On certain maps, one of your men will invariably occupy a sniper tower, even if the gun he's wielding 
+ doesn't have the firepower to reach anyone from there, which is the case for all but the ultimate 
+ weapon, "Sweetness." You won't even realize the poor sap is holed up all by himself until you die 
+ (before which you single-handedly wasted five dudes) and spawn in his brainless body.  
+
+  Throughout the game, you'll be heavily reliant on Renegade Paintball's best tactical feature, which 
+ is borrowed directly from Greg Hastings. With the use of the left trigger, in conjunction with 
+ the left analog stick, you can snap in and out of cover and take aim at your foes. Your gun and 
+ body will lean into the open, but will snap back as soon as you release the thumbstick. You can 
+ perform snaps while standing or squatting, but not while prone, due to the obvious mobility limitations 
+ inherent in that position.     
+
+  Multiplayer sessions are much more playable, mostly because everyone is working at an equal disadvantage. 
+ On Xbox Live, players spend a lot of time accusing one another of using turbo controllers (do such 
+ things even exist anymore?!) , because you'd glean a huge advantage by having a faster firing rate. 
+ Players duck behind cover and fire off hundreds of rounds at each other, hoping one will stick. 
+ It usually doesn't. In Renegade Paintball, everyone's in the same boat, so it's all fair.  
+
+          Everyone online plays with the Sweetness marker. If you start a game with any other marker 
+ enabled, you're a noob, and no one will ever be your friend.     
+
+  Of course, you can't make baseless accusations of your fellow players in the PC version, because 
+ there's no built-in voice support. We can't foresee anyone setting up a TeamSpeak server for Renegade 
+ Paintball, either.  
+
+  The game's built-in field editor is a nice touch. You can take an existing map and tweak it to 
+ your liking, adding and removing a host of environmental features and obstacles. On PC or Xbox 
+ Live multiplayer, you can start a game based on your custom map, and joining players will automatically 
+ download it. Some players creatively place obstacles to allow for jumps to high ground.  
+
+  Unfortunately, the multiplayer sessions -- both on the Xbox and the PC -- are riddled with bugs. On 
+ the Xbox, you'll be dropped to the lobby at the end of every match. In speedball, sessions are 
+ over very quickly, compounding the problem. It's tough to get six players together at any given 
+ time at this point, so to risk losing them after every game is a terrific annoyance. An Xbox Live 
+ update is supposedly forthcoming to address this problem, but it wasn't available at press time. 
+ On the PC, you'll often be dropped from the host entirely, but you'll still be allowed to continue 
+ playing (and you'll be wondering why no one is getting fragged) . Both versions will usually repeat 
+ the end-game message twice, probably due to lag problems. As you can't sort by ping, it's impossible 
+ to anticipate server performance.  
+
+  You can also play with buddies via system link or split screen, with about equal results. Theoretically, 
+ a system link could allow you to play with 14 dudes, none of whom would have much fun. As a result, 
+ they'd never come over to your place again, and instead they'd start a club dedicated to hating 
+ you. In both single-player and multiplayer (on both consoles) , load times are far from great.  
+ 
+
+  Renegade Paintball looks much better still than it does in motion. Although the texture work is 
+ universally bland, and the marker models are clearly where the most time was spent, the overall 
+ look isn't bad. In motion, however, Renegade Paintball chops up, both on the Xbox and on a wide 
+ variety of PCs. This problem is especially apparent during the prematch flybys, where you survey 
+ your map a few painful frames at a time. Patching the game to its latest available version helped 
+ a bit, and it reduced the frequency of black-screen crashes in campaign mode.  
+
+          Seriously, paintball magazine editors in a paintball game?! Does anyone actually care about 
+ these people?     
+
+  Renegade Paintball's audio consists of two or three painfully generic rock instrumentals featuring 
+ the same tired power chords. There's also an announcer, who encourages you to "run like a sissy," 
+ and who generally assaults your manhood. This is only entertaining to 10-year-olds, some of whom 
+ mimicked the announcer over Xbox Live. Many of these chatterboxes were on the opposing team, but 
+ we could hear them anyway, because all speech in Paintball is broadcasted to everyone. This makes 
+ voice chat a party line rather than a tactical feature. Unless you develop an elaborate code, you 
+ can't broadcast your orders over the unsecured airwaves.  
+
+  Splat Magazine's Renegade Paintball is decent by the standards of bargain-bin paintball games, 
+ but it can't compete with the mainstream shooters of the past generation. Unbalanced AI, poor shooting 
+ control, and shoddy design at every level of the experience make this extreme sports title unworthy 
+ of your $30.     
+-------------------------------------------------
+:::User Reviews::: (11 Reviews)
+::::::
+UserName: NukeRider
+Rating: 7.8
+Date: Jan 11, 2007 8:15 pm PT
+Review:  Gamespot's poor score for this title seemed unfair to me, as I've found it to be a pretty fun game 
+ for my P. C.. After dozens of hours of play it is one of my favorites. It is my understanding this 
+ title is more well suited for the P. C. then for consoles -- due to an optical mouse's superior fine 
+ tuning over thumbsticks (the fairly inaccurate paintball markers will be easier to aim with.) On 
+ this matter Gamespot's reviewer considers the innacuracy of the paintball guns to be a flaw in 
+ the game, and writes having 5 percent accuracy means you performed well. This is not the case of 
+ real life paintball. The reviewer may know something about video games, but obviously not paintball -- as 
+ even PRO paintballers will carry nearly a thousand rounds into a game versus an opposing seven 
+ man team. Do the math. Shooting paint, and lots of it, besides being fun can keep opponents pinned 
+ with their heads down or tag opponents trying to move between cover. Gamespot's review goes on 
+ to whine about things like A. I. and no control over computer teammates. I find the A. I. opponents 
+ to be a worthy challenge that should keep you on your toes (if not ducking for cover and looking 
+ over your shoulder.) With so the many game types the A. I. provide a generous heaping of replayability. 
+ Being unsure what your computer teammates will do in a particular situation puts you in a situation 
+ where you'll ultimatley need to make some good moves to claim victory, what's so bad about being 
+ the star? For elimination mode matches, you'll respawn into an active teammates position if you 
+ get hit. I play a real agressive elimination game knowing this. It can be exciting Rambo-ing your 
+ opponents and knowing there is a chance you'll take one or more of them with you, and then there 
+ is always the chance you'll respawn into an area where you can immediatley add to the havoc you've 
+ just created with your last move. Elimination is one of several games you can choose from or will 
+ have to play in career mode. The career mode is fun and challengeing, but is also one area that 
+ could use improvement over the others ( skirmish and multiplayer games.) The game could have greatly 
+ benefited from a prize money for equipment upgrades feature -- found in so many competition-type 
+ games from the 16-bit and even 8-bit console era. But what there is, still outweighs what could 
+ have been. There are alot of little corners to this game, and my gameplay adapts as I discover 
+ them. The other day in an online match I noticed something from the sky on one of the fields. I 
+ got closer and noticed it was a player using a fence on the boundaries to jump from. If I feel 
+ like practicing shooting moving targets that won't shoot back, I'll set the friendly-fire mode 
+ to on, find a tower near a spawn sight for my own team and be supplied with a constant stream of 
+ CPU players heading for their objective to pick-off. For a challenge, I'll set up a match where 
+ I'm outnumbered, and am forced to make several eliminations on my own. If I had to do over, I would 
+ buy this game again -- though maybe a hard copy rather than downloading it. I'm not sure if this 
+ would prove any difference for gameplay or not. My computer just the requirements for this title 
+ and so I have to make sure there are no programs running in the background. I've found while other 
+ titles allow me to leave my anti-virus running, this is not one of them. 
+::::::
+
+::::::
+UserName: saltyidiot
+Rating: 9.6
+Date: Jul 10, 2006 8:08 am PT
+Review:  you know splat renegade paintball isn't just about war it teaches skill for pc's. it is made to 
+ be a fun game which it is. they have a good idea about paintball and they followed it so everyone 
+ that doesn't like live with it.!!!!! i have many friends that thogught they wouldn't like it i 
+ let them play it and they wouldn't let me play it anymore!!!! (LOLOLOLOLOLOLOL) it is like a halo 
+ game just no blood!! LOLOLOL. some of the maps are alot like halo!!!
+  this game rocks so buy if you don't like write something saying you don't like it. You Now what 
+ I'll Say bull s#! T 
+::::::
+
+::::::
+UserName: sourgummyworm
+Rating: 1
+Date: Apr 17, 2006 8:09 pm PT
+Review:  Awful! Horrible depiction of Paintball, a genuine, legitimate sport. This makes the game look like 
+ crap. Gun animations are almost OK, but this game really sucks. I like paintball a lot, so if you 
+ really want a good game, go for Greg Hastings'. It has much better AI and speedball tournaments. 
+ YOu can actually hit someone and the AI is waaay above this game's (comparing a human to pudding) . 
+ This game is absolutely not worth 30 dollars, in fact, I am sure it is not worth 10 dollars. You 
+ can't hit people from point-blank range, the paintball goes straight through them! The AI, again, 
+ is like a box of pudding, always staring the wrong way, shooting at walls... Awful game. 
+::::::
+
+::::::
+UserName: Paintball451
+Rating: 6.5
+Date: Feb 20, 2006 10:30 am PT
+Review:  it says i need a new update, but when i go to get an update, it says i have the latest version. 
+ helpppppppppppp. has anybody ever had this problem with theyre game? because i really need help. 
+ thats all i had to say but i have to have 100 words in this thing. so. i dont know what else to 
+ say. ill just waist all this time telling you how i dont have anything else to say. so hows life? 
+ got kids? yea me too. mine are ages 8 and 12. no just kidding i dont have kids. DANG why does this 
+ thing neeeed sooo many words??? hmm. i love cake? 
+::::::
+
+::::::
+UserName: Proflac
+Rating: 8
+Date: Jan 31, 2006 10:35 pm PT
+Review:  You can go on and on naming sports, but there are sports and then there are games. Paintball is 
+ a game. You have teammates, rules and goals. If I think back to my P'ball days in which I refereed 
+ on a weekly basis and par-
+  ticipated on numerous occasions -- including tournaments -- there are ele- ments of the game of paintball 
+ that translate well in this particular shooter.
+  Having just started playing the game I must say the sound effects -- the markers discharging, the 
+ shots that go whizzing past, the balls that break on cover and obstacles -- are instantly appreciated 
+ by this old school baller.
+  Another aspect of the game's feel I dig are the player graphics. In third person view, it's like 
+ I'm watching fierce paintball action for the first time, again! Opposing players at a distance 
+ tend to look a little on the poor side
+  and there movement a bit stiff -- but they shoot straight as hell! Also, opposing players nicknames 
+ hanging over their heads is more video game than the real deal -- it does let you know who shot you 
+ last round, though. And trust me, you won't be satisfied with letting bygones be bygones -- especially 
+ not after you've been "lit up."
+  Gameplay is good, and it's fun to use movement, obstacles and angles to your advantage -- opponents 
+ disadvantage: ( . With the different fields to choose from, you are sure to find at least one to 
+ your liking, if not a handful. The greatest pleasure I've gotten from the game is probably eliminating 
+ all opposing players single-handedly. It makes up for all the beatings you take on a regular basis 
+ in this "GAME." Unfortunatley, this may prove to be one weakspot in that the team you play with, 
+ you only play with -- there is no communicating tactics to my knowledge. But that's a realism issue, 
+ and if you're after mega realistic game play, then go do the real thing. NO NOT YOU-YOU G. T. A. 
+ BRAT!!! 
+  
+::::::
+
+::::::
+UserName: GamerPlayer914
+Rating: 3.5
+Date: Jan 1, 2006 9:04 am PT
+Review:  Certain sports will just never translate into exciting videogames. Take lawn bowling, for example. 
+ Croquet comes to mind as well. Or how about catfish grabbin'?
+  
+  You wouldn't think paintball would fit into that category, though. After all, playing paintball 
+ is like playing a live-action first-person shooter, just without the live rounds or grisly consequences. 
+ It should make the perfect videogame, right? Well, not if Global Star Software and Cat Daddy Games 
+ have anything to say about it. 
+  
+  War is Neon Hell
+  
+  Turns out realistic paintball -- which is what Splat tries to convey -- makes for a pretty boring virtual 
+ sport. The sights and sounds of all-out war that give most first-person shooters a greater sense 
+ of excitement are replaced with pings and pops as little brightly-colored projectiles make their 
+ slow arc across fields littered with a mixture of dilapidated buildings, garbage, or inflated neon 
+ bouncy castles. 
+  
+  And you know what? None of it matters. The setting and the game type you choose in Renegade Paintball 
+ is nothing but window dressing, since the gameplay never changes whether you're playing team deathmatch 
+ or king of the hill -- you're basically stuck running across a map, dueling with an enemy for four 
+ or five seconds until one of you gets off a lucky shot, and repeating. 
+  
+  Toe-to-Toe
+  
+  Yes, lucky shots are really the only way you will kill or be killed in Renegade Paintball. 
+ Again, in what seems like an attempt to make this game a bit more realistic, the shots you fire 
+ are about as accurate as George W. Bush uttering the word "nuclear." Even standing directly in 
+ front of an opponent and firing at point-blank range doesn't guarantee a hit. Paintballs careen 
+ off to the left or the right, and have very little airtime thanks to their slow velocity and the 
+ pesky forces of gravity. 
+  
+  While picking off your target from a few feet away requires more luck than skill, doing a bit of 
+ sharp shooting from cover a good distance away is almost an impossibility, which further limits 
+ Renegade Paintball's appeal, since very fight ends up being the same fight. No real strategy involved 
+ here. 
+  
+  Artificially Unintelligent
+  
+  Not that finding cover really matters that much, anyway. The A. I. in Renegade Paintball is a painful 
+ mix of never-miss sharpshooters and elementary school dropouts. It's not uncommon to find some 
+ of your computer-controlled opponents standing out in the open, reacting to nothing (even if you 
+ stand right next to them) . Oftentimes these same geniuses will be staring at a wall or something.
+ 
+  
+  On the other hand, you'll get some A. I. opponents who can pick you off with deadly accuracy from 
+ across a level. Seriously, you'll get no warning someone's even shooting at you (normally a few 
+ paintballs will splatter around you before the lucky shot actually hits) . It destroys any sort 
+ of learning curve or strategy the game might have hadwell, further destroys it. 
+  
+  Weekend Rental
+  
+  It has to be said that multiplayer Renegade Paintball is a bit more enjoyable 
+ than the single-player experience for a little while. But that's mostly because everyone else is 
+ dealing with the same control and aiming issues you are. And once everyone realizes each game mode 
+ amounts to the exact same experience, interest dies quickly. In the end, Splat Magazine Renegade 
+ Paintball is a rental at best, and that's only if all the good games are already rented. 
+  
+  
+::::::
+
+::::::
+UserName: LuckXIII
+Rating: 3.9
+Date: Nov 26, 2005 10:05 pm PT
+Review:  Looks like PC isn't going to get any form of a good paintball game such as Greg Hastings. In terms 
+ of paintball, this game has no realistic markers, gear, or even the right rules when it comes to 
+ speedball. Unless you change certain things around more than likely you'll end up in a speedball 
+ map but start somewhere totally off like the corners of the map. If you speedballed, then you know 
+ thats totally off. 
+  
+  But ok, let's move away from it as a paintball techie perspective. As a PC game its hard to put 
+ into words. There's no real other paintball game for PC that comes this close to having somewhat 
+ of a paintball game besides DPB or upcomming Unreal Tournament Paintball Mod so its hard to really 
+ compare. The graphics are fairly decent, but the markers are ugly, the gameplay can be quite boring 
+ do to very little sounds besides the normal poping of compressed air from the barrels. What your 
+ really left with is about 3 mp3 tracks worth of music, 5 or so mp3s for sound, and a lot of background 
+ flashiness but boring weapons. 
+  
+  Don't bother wasting your life on this. 
+::::::
+
+::::::
+UserName: CloudMage
+Rating: 4.9
+Date: Nov 17, 2005 5:45 pm PT
+Review:  Not a bad game i love to paintball irl so trying out the games now. the graphics were ok sounds 
+ ok game play iffyi dont know if i will buy the game though. but would play if it was free. the 
+ learning time for the game is farily short pont and click, awesome fireing rate for the guns. the 
+ reactions could be faster on the computer players, other then all of the that it was ok not the 
+ best but not the worst. why 100 words.. why not 50 i dont know what else to tell you about.... 
+ it wasent that great so how can i ahev 100 words to say about ti... 
+::::::
+
+::::::
+UserName: Zero_Burn2
+Rating: 9
+Date: Nov 9, 2005 6:23 am PT
+Review:  Hey, Why does everybody have to be so mean about this game??? it works on lower spec pcs, its great 
+ fun, and its quite realistic! be a paintball lover and play it, itl keep you occupied! Many an 
+ hour have i spent playing this game, going through the career, making my own arenas, making new 
+ challenges all the time! It is an excellent fps to play over LAN if you have a few paintball buddies 
+ to play with, try overpowering the other team, use different markers, this games great! the only 
+ downside i see is that i think that you should win money, and have to buy your guns and clothes... anyway....! 
+ just try it, you may find it a little too addictive.... 
+::::::
+
+::::::
+UserName: kennylum
+Rating: 10
+Date: Oct 23, 2005 9:19 pm PT
+Review:  Please ignore my friend's review. He is just trying to piss me off. Let me explain, this is the 
+ best game ever...
+  
+  He came to my house when I had a broken XBOX. Second of all the game that was being played was 
+ Greg Hasting's Paintball Max'd, not Splat Magazine Renegade Paintball.
+  
+  Ever since I mentioned that I was going to purchase this game with my EB Games store credit all 
+ my friends made fun of this game.
+  
+  Another reviewer remarks that dukeslinger never played the game, it's true. Greg Hasting's never 
+ loaded because my XBOX was old, so we went back to playing Halo 2. Then I got Greg Hasting's to 
+ work, except it was really laggy, and so was Splat Magazine Paintball. Splat Magazine literally 
+ had frame skips. It's almost as if the XBOX can't play newer games, if the XBOX is old.
+  
+  Getting back on track, Splat is the best game ever. The engine is sort of odd, the music may not 
+ be music from real artists, but who cares? For example, when you dive to the ground, the marker 
+ will sort of do weird things like rock left and right. I guess the game's problems are in the ground 
+ action. That's why I usually crouch.
+  
+  The real phenomenon in this game lies in the gameplay. First of all its an awesome concept. A paintball 
+ is a one hit kill. Many people call this game unrealistic, when actually, it's the most realistic 
+ game out there. The engine is actually pretty good, it won't make you dizzy, like Halo 2. You get 
+ a quick thrill when paintballs are whizzing by your head, it's sort of like the Matrix. Your body 
+ jolts when you get shot by suprise. You feel angry when you get shot. This game is absolutely phenomenol. 
+ I like it better than Greg Hasting's Max'd.
+  
+  This game really shine's in capture the flag mode. You have to walk across a field and flank your 
+ enemies and then steal the flag. This game is very hard, but very fun as opposed to being very 
+ hard and not at all fun. The graphics are very realistic and beautiful.
+  
+  If you are familiar with FPS engines, you should be able to play this very fun game. You can also 
+ peak out of corners, and reload and whatnot.
+  
+  There are 28 missions, and I'm about 1/5 done with the game, it's very hard. You have to win 2/3 
+ matches and for some reason when you play capture the flag, and neither team wins within the allotted 
+ time, you get a loss. Still that's the fun of it.
+  
+  The engine is also very good, I think better than Halo 2's. The balls arc, and you feel satisfied 
+ when you shoot someone. If you shoot enough people it say's "Your on Fire".
+  
+  This version of paintball is very different than Greg Hasting's. This version is more fast-paced 
+ and action-packed. I cannot really say this because I didn't even beat the first level of Greg 
+ Hasting's Max'd. Splat is just too much fun.
+  
+  Again as I said, this is the most realistic game ever. I mean, what kind of game is it where you 
+ get shot by a sub machine gun and can keep walking?
+  
+  In real life, if we get shot, we can't keep running and jumping, we usually stop. I have been dreaming 
+ of a videogame where there are one hit kills and the players are in a flatground area, that game 
+ happened to be paintball.
+  
+  Gameplay isn't based off what item you get like in Halo 2. Then the point of the game becomes who 
+ can get the sword, who can get the rocket launcher, not who has the best gameplay. Games are not 
+ about who can pick up medkits just so they can use it when they get shot, games are supposed to 
+ be fun. What kind of game is it where, we have to pick up other guns to replace the gun we already 
+ have? Shouldn't the programmers have programed a good default gun? Is this suggesting that programmers 
+ just can program one good gun? Or is the concept of the game to pick up guns, overshields, and 
+ medkit, just so we can get shot 50 times and then use the medkit? Where's the fun in that?
+  
+  Who even plays RPG's? Why play a game to read, and do puzzles, things we do in school. We play 
+ games to escape, escape to a world where we are judged by the skill of our gameplay, not by what 
+ items we have or have picked up, not by how many treasure chests we've found, not by how well we 
+ scourage a dungeon, not by how well we essentially "escape" a dungeon, only to find our way in 
+ yet another town or dungeon, or open plain?
+  
+  Paintball games are the epitomy of fun. And, oh yeah, you can tell that my friend, dukeslinger 
+ is just doing the review for pure spite on me, giving the game the lowest score possible. It's 
+ obvious that he never even played the game. He doesn't use the word marker, dive, or ball arc. 
+ I don't think he even uses the word paintball in it. He says the word developer is foolish for 
+ making the game, but it's obvious that anyone who bought the game would know the developers are 
+ take-two, and cat-mad or mad-cat, evilcat or something-cat or cat-something.
+  
+  He could be writing a review for any game. Look 0 of 4 people agree with him. Look dukeslinger, 
+ I'm going to report you for abuse, haha just kidding. Look all of these games got hella good scores 
+ anyway geesh.
+  
+  I plan to spend more than 100 hours playing this game. And no I don't have this game on PC but 
+ for XBOX. And neither does my friend, obviously. I should also mention the importance of getting 
+ on the high ground which is makes hills and slopes very valuable. It's a game where you MUST be 
+ sneaky to capture the flag. Usually if you go out running with guns ablazing you will get shot 
+ so fast. For example, in Halo 2, you could go sneaking around, now I'm talking about easy mode, 
+ which even for me was hard. There are no difficulty levels in Splat paintball by the way. Anyway 
+ in Halo 2, you could sneak around and do all those things, or you could charge right in and melee 
+ everyone. It really doesn't make a difference. But in Paintball, you MUST sneak around sometimes, 
+ and at other times you MUST run into the battlefield. Well, not really. But you get my point. Paintball 
+ is really tactical, not because the computer tells you to do little dumb missions, which it doesn't, 
+ but because of the brilliant design of this game. This game doesn't have a difficulty level, because 
+ it already knows it's fun. It already knows it's challenging. It doesn't have little missions or 
+ quests or rewards, because it already knows that Capture the Flag, Elimination, and all that are 
+ so fun. It doesn't make you stronger than you're allies and enemies, which is what's so awesome. 
+ Everyone's weapons are the same. Right now I'm working on a Capture the Flag with my guys versus 
+ the other guys. It's a 6 versus 6. But both Greg Hasting's Max'd and Splat Paintball support 7v7 
+ with bots. Again the fact that in this game it's actually important to secure the high ground, 
+ like in the movie Star Wars 3; remember: "Don't even think about it, I have the high ground". The 
+ reason again is that the paintballs are affected by gravity. 
+::::::
+
+::::::
+UserName: dukeslinger
+Rating: 1
+Date: Oct 20, 2005 1:01 am PT
+Review:  I can't name a crappier game than this i feel that gamers are being ripped off by this game maybe 
+ that's why it came out for so long and gamespot hasn't review this insulting game possbily the 
+ most useless game on the planet the loading time is liek ps one and graphics are like below psone 
+ the sounds are insulting the high scores are either promoters of the game or designers of the game 
+ but sorry folks you lost big bucks for producing this game!!! never seen such a crappier game in 
+ my life way better selection of shooters i think the gamespot staff doesn't even want to try this 
+ game cus it's that bad 
+::::::
+
+-------------------------------------------------

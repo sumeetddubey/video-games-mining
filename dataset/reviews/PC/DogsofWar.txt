@@ -1,0 +1,119 @@
+-------------------------------------------------
+:::Game Name::: Dogs of War
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/dogsofwar/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jul 31, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.4
+Critic Score: 6.0, 23 Review (s)
+User Score: 5.3, 26 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: TalonSoft
+Developer: Silicon Dreams
+Genre: Sci-Fi Real-Time Strategy
+Date:     Jul 30, 2000
+ESRB: Mature
+
+-------------------------------------------------
+:::Review:::
+Dogs of War seems not only unpolished, but also unfinished. 
+
+ Though it has recently delved into other genres, TalonSoft's bread and butter has always been historical, 
+ turn-based war games. In spite of excellent reviews for games such as The Operational Art of War 
+ and East Front, none of the company's games have been particularly successful commercially. That 
+ might explain why TalonSoft decided to publish Dogs of War, an action-oriented futuristic real-time 
+ strategy game first released in Britain. Originally scheduled to be titled in the States as "WarMonkeys," 
+ TalonSoft wisely changed the name to something a little grittier. Unfortunately, an even better 
+ decision probably would have been to pass altogether on publishing this underachieving and frustrating 
+ game.   
+
+  The story in Dogs of War is no more humdrum than what you'll find in any number of real-time strategy 
+ games, but what it lacks in originality it makes up for in brevity. Roughly two centuries in the 
+ future, Earth has begun colonizing planets to replace its dwindling resources, and things go so 
+ smoothly at the very first outpost on Primus IV that it's quickly recognized as the model on which 
+ all future colonies should be built. But that was before the appearance of the Mantai, a buglike 
+ species that systematically attacked both the colonists and their machinery. Although the Mantai 
+ were driven back, Earth pretty much gave up on Primus IV and its inhabitants until a scientist 
+ discovered SL-18, one of those all-purpose metals so common in real-time strategy games. The colonists 
+ get rich selling the stuff, but they haven't forgotten how the Imperial government back on Earth 
+ abandoned them. And when a new Emperor imposes a draconian tax on all off-world colonies, the Primus 
+ IV colonists decide they've had enough. They hire a mercenary group called the WarMonkeys to seize 
+ control of their planet.   
+
+  As the game begins, Imperial forces have landed an invasion force to subdue the uprising. In the 
+ single-player mode, you can embark on two eight-mission campaigns controlling either the Imperial 
+ Alliance or the WarMonkeys, and later on you can play a five-mission Mantai campaign. Like the 
+ recent fully 3D real-time strategy game Ground Control, Dogs of War eschews base production and 
+ resource management and instead gives you a supply of credits with which to purchase vehicles and 
+ troops. Furthermore, your units that survive become more effective as they gain experience. Unit- 
+ and 3D-camera control in Dogs of War is also similar to Ground Control, except that you can command 
+ individual units, as opposed to squads in Ground Control, and also command units from a behind-the 
+ back, third-person perspective.   
+
+  Dogs of War is supposed to let you buy your units before a given mission. This is a decent idea 
+ that the game doesn't use to its advantage very often. Only two of eight Imperial missions let 
+ you pick your units, while the WarMonkeys campaign lets you do so three of eight times. The Mantai 
+ campaign also provides just two scenarios featuring this option. Eventually, being able to buy 
+ units at all just seems like a waste because the feature is used so inconsistently.   
+
+  Dogs of War is fairly impressive visually, as it has lots of good special effects like smoke trails 
+ and brilliant explosions that bring the action to life, while the units themselves look good, if 
+ not great. On the other hand, the game's voice acting is grating, boorish, and at times, unnecessarily 
+ offensive. You might also be stunned to hear a British accent shouting, "Let's get those f***ers!" 
+ in the middle of a tutorial.    
+
+ Then again, you might not even notice the dialogue since you'll probably be too busy wrestling with 
+ the game's interface. You can easily pan the camera forward, backward, to the left, and to the 
+ right using the keyboard, but camera rotation and pitch using the mouse are both far too erratic. 
+ Then there is the sniper mode, which forces you to aim at targets only by using the display in 
+ the minimap. Directly controlling your units is not quite as cumbersome, but the mouse/keyboard 
+ combination used for aiming and movement is not particularly responsive. In addition, although 
+ identifying and selecting your units is fairly easy in open terrain, quickly finding and selecting 
+ them during battles fought amidst towering skyscrapers or other dense scenery results in so much 
+ awkward camera manipulation that your attention strays from the most important issue: tactical 
+ control.   
+
+  Setting waypoints is a vital aspect of real-time strategy games, but Dogs of War botches it by 
+ assigning the shift key both for setting waypoints  and  for allowing camera rotation and tilting. 
+ Whether you use the mouse or keyboard for camera control, the net effect is that you can't scroll 
+ the main display and set waypoints at the same time. A workaround is to assign waypoints on the 
+ minimap, but it doesn't provide the level of detail you might prefer.   
+
+  Many conventional real-time strategy games let you quickly switch your main display to any point 
+ on the map by left-clicking on the corresponding point in the minimap, and then let you order your 
+ selected units to the new location by right-clicking. But in Dogs of War, you have to double-click 
+ the  right  mouse button to switch the screen using the minimap. This creates a special problem: 
+ You can't select a new area on the minimap while a unit is selected, or it will start heading to 
+ this new area, because movement is also controlled with right mouseclicks. Just how cumbersome 
+ is the interface? In the climactic battle as either the Imperial Alliance or the WarMonkeys, you're 
+ allowed to control only a single unit. Apparently even the developers knew something wasn't quite 
+ right.   
+
+  It's also worth mentioning that the missions in Dogs of War are mostly scripted, as the absence 
+ of a quick skirmish option proves there really isn't any enemy artificial intelligence to speak 
+ of. There's nothing particularly wrong with scripted missions - provided that the enemy units do 
+ not get stuck at the edge of the map or that your own units do not get jammed into narrow passages 
+ in a headlong rush to reach an objective. For example, in one mission an enemy unit was basically 
+ hidden from fire because my forces couldn't target it at the side of the map. On a separate occasion 
+ I spent nearly 30 minutes trying to lob an artillery shell onto a lone enemy vehicle in order to 
+ end the mission. I finally did it - only to realize there was apparently one other enemy somewhere 
+ on the map, and without a chopper there was no way to track it down. An option to save progress 
+ mid mission would have alleviated part of the problem, but unfortunately the developers didn't 
+ include it - perhaps to offset the campaigns' short lengths.   
+
+  You can't blame TalonSoft for trying to grab a piece of the real-time strategy pie, but unfortunately 
+ the publisher settled for an uninspired and generally unsatisfying game. Dogs of War seems not 
+ only unpolished, but also unfinished - and the problems are so inherent in the design that a patch 
+ wouldn't likely salvage it.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

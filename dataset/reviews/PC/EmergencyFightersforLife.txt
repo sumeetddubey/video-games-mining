@@ -1,0 +1,169 @@
+-------------------------------------------------
+:::Game Name::: Emergency: Fighters for Life
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/emergencyfightersforlife/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Sep 17, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 4.6
+Critic Score: 5.0, 12 Review (s)
+User Score: 6.5, 67 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: WizardWorks
+Developer: TopWare
+Genre: Strategy
+Date:     Jul 31, 1998
+
+-------------------------------------------------
+:::Review:::
+The truth is that Emergency has so many faults that it could use some major rescue work itself. 
+ 
+
+ For gamers who've begun to weary of the  formula of nearly 
+ every real-time strategy game on the market, Emergency: Fighters for Life's unique premise will 
+ come as an extremely welcome change of pace. But thanks to clumsy execution and pedestrian production 
+ values, Emergency winds up smack in the middle of the "could have, should have" category.  
+
+ In Emergency, you're more or less a plenipotentiary of emergency response and disaster relief: 
+ It's up to you to dispatch and control (from the usual oblique overhead perspective) police, medical 
+ personnel, and firemen, as well as vehicles such as fire trucks, ambulances, police cars and paddy 
+ wagons, rescue helicopters, fire-fighting planes and boats, bulldozers, and more.  
+
+ Many of the situations facing you are garden-variety emergencies - fires, flooding, a football riot, 
+ a derailed roller coaster, airplane crashes, boating accidents, and sundry types of vehicular mayhem, 
+ to name a few. But others are considerably more calamitous, if not particularly original: a nuclear 
+ meltdown (Chernobyl, 1986?) , a poison-gas attack on a subway (Tokyo, 1995?) , and a crash at an 
+ air show (Ramstein, Germany, 1988?) .  
+
+ It's no biggie that some of the missions here are based on real-life tragedies, but it would have 
+ been a nice touch if the developers had shown a little imagination and turned to some more obscure 
+ and bizarre disasters like The Great Molasses Flood (Boston, 1919) or the London Beer Flood (1814) 
+ for inspiration.   
+
+ That's nit-picking, of course, and no one would give a hoot if the game's biggest shortcoming was 
+ the lack of weird accidents and emergency situations. But the truth is that Emergency has so many 
+ faults that it could use some major rescue work itself.  
+
+ One of the keys to a successful response to an emergency is recognizing the scope of the accident 
+ and identifying obstacles, especially those that could pose a threat to rescuers. Unfortunately, 
+ the graphics in Emergency's mission camera - which displays a "detailed" view of the area - are 
+ so teeny-tiny that it's almost impossible to spot many crucial objects you need to manipulate. 
+
+ In one mission, for instance, you need to flip a switch that turns on a "traffic jam warning sign" 
+ so a helicopter can land on the freeway - but the hot spot on the post housing the switch only 
+ takes up one or two pixels on the 640x480 display, and there's nothing to indicate that the post 
+ is anything other than, well, a post.  
+
+ Exacerbating the problem is the absence of a zoom function or a "tactical" map to let you jump quickly 
+ from one area of the disaster to another; instead, you must constantly scroll the main view just 
+ to look around the scene. And on some missions (not necessarily larger ones) that scroll can slow 
+ down to a herky-jerky crawl, making completing even a straightforward mission a minor ordeal.  
+ 
+
+ Then there's the issue of micromanagement. It's one thing to take control of several departments 
+ that normally wouldn't fall under the command of one person; it's another when the personnel in 
+ those departments are nothing more than zombies. Regardless of how many personnel and units you're 
+ dealing with, you have to issue orders for every single thing they do. Let's say you need to pick 
+ up tires on a race track before a race gets started. First you select a single firemen (who can't 
+ be wearing a chemical suit or oxygen mask, although I don't know why that would keep someone from 
+ picking up a tire) , then order him to pick up the tire, then tell him where to go, then order him 
+ to drop it - and start all over again for the next tire. You'd be in some pretty dire straits if 
+ all these guys had to go to the bathroom at one time.  
+
+ It's a given in any real-time strategy game that you can select several units and have them enter 
+ a vehicle - but not in Emergency. Send out six cops in a police truck to handle a crowd, and you'll 
+ have to guide them back to the vehicle one at a time. Speaking of police, I always thought that 
+ a single officer in a patrol car could handle a mundane task like directing traffic, but I must 
+ be wrong: In Emergency it takes two officers, one to drive the car (and apparently stay glued to 
+ the seat) while the other gets out to do the work. Unfortunately, the pathfinding routines for 
+ vehicles don't seem to benefit from this "dedicated driver" scheme: Send several units back to 
+ base, and five minutes later you'll find they're completely gridlocked because a vehicle that's 
+ just arrived on the scene won't get out of their way.  
+
+ Complicating matters is the linear mission tree; fail on a mission, and you've got to keep playing 
+ it until you succeed before you can take on a new challenge. It's bad enough that you automatically 
+ lose some missions when there's a fatality - after all, no rescue squad can claim to have a perfect 
+ track record. But in some cases you won't even know why you lost, because once you receive the 
+ "Mission Failed" message you don't get to look around the scene to see who died where and for what 
+ reason.  
+
+ But the real trouble with Emergency can be summed up in four words: It has no soul. Not only are 
+ the characters so small that they seem utterly insignificant, but a near-total absence of sound 
+ effects and animations adds even further to the static, lifeless atmosphere. Disaster scenes are 
+ noisy, chaotic, and frantic affairs; the accident scenes in Emergency, on the other hand, are almost 
+ serene, populated only by silent bystanders who seem hell-bent on blocking rescue vehicles or strolling 
+ casually into deadly areas that even a top-dollar stuntman wouldn't traverse. Some missions are 
+ difficult to complete, but even when you do succeed you'll rarely feel any thrill of satisfaction 
+ or accomplishment.  
+
+ Success in Emergency isn't a question of responding in a timely fashion to constantly changing circumstances. 
+ It's a boring routine of figuring out what type of units are needed, in what order they should 
+ be dispatched, and where they need to go once they arrive. It is, in short, connect-the-dots strategy 
+ gaming and delivers about as much fun and excitement as that phrase connotes.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: mtdewtag
+Rating: 5.5
+Date: Feb 1, 2006 5:04 pm PT
+Review:  Emergency: Fighters for Life is a game where you will test your managerial skills and see if you 
+ can save lives and beat the clock. Okay no real clock to go against you but if you use up to much 
+ time to complete a mission the game will take points from you.
+  
+  Gameplay: Standard point and click. Depending on how you handle the mission timewise and saving 
+ lives-wise you will get a rating percentage for each mission. One downside to this is that if you 
+ are not sure what you are looking for this can turn into a click try and error until you get the 
+ desired result you want.
+  
+  Okay time to state the good.
+  
+  The game allows you to manage a multitude of emergency equipment that is at your disposal. Not 
+ only do you get to decide where the vehicles go but the people that can ride in them.
+  
+  Now for the bad.
+  
+  The point and click gets tiring really quick. You not only have to manage 
+ the vehicles and your emergency people. You get to do crowd control in some missions. This can 
+ be a bit frustrating since the stand-byers and gawkers will walk right into danger and end up getting 
+ hurt or killed. If you lose too many people it is game over. 
+  
+  If worrying about the people who can get hurt was not enough to keep you busy. You also get to 
+ worry about your vehicles being damaged or destroyed. Nothing worse then getting a fire under control 
+ only to have a secondary explosion take out a bunch of your vehicles. Now you got to scramble more 
+ vehicles to help out.
+  
+  On some missions you have to find a switch to flip to control certain actions and make sure everything 
+ is safe. If you do not activate the switch all kinds of chaos will follow making the mission even 
+ tougher or you will just simply fail it. The switches are so tiny even if you had a magnifying 
+ glass you would be hard pressed to find them. Not only is it hard to find nearly invisible switches. 
+ The next fun thing to look for is that one suspicious person. Oh yeah they all look alike you just 
+ have to get lucky or break down and read a FAQ on those missions so you know who you are looking 
+ for in the mission.
+  
+  Back to the good.
+  
+  The game has a variety of missions to test you. Some are fairly easy and you will get through them 
+ no problem. Others are more complex and you will have to learn to prioritize.
+  
+  Graphics: For the most part they are average. It would have been nice if things like switches and 
+ the people you needed to capture were more apparent in the game. I am not saying have a huge arrow 
+ over the item saying click this but something that would make it stick out.
+  
+  Value: If you are into managing and like games like Simcity and Civilization. This game will fit 
+ in nicely with your collection. Replay will be low. But there are some missions that are fun and 
+ using the level pick cheat helps to add some replay value to this game. 
+  
+  Tilt: Overall this is a good game that has much potential. Sadly the gameplay will keep most from 
+ wanting to play it. Once you get used to the point, click and slow scroll of the game. It actually 
+ becomes enjoyable. 
+::::::
+
+-------------------------------------------------

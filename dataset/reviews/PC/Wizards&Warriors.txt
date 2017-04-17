@@ -1,0 +1,142 @@
+-------------------------------------------------
+:::Game Name::: Wizards & Warriors
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/wizardswarriors/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct  3, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.2
+Critic Score: 6.7, 31 Review (s)
+User Score: 7.4, 102 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Activision
+Developer: Heuristic Park
+Genre: Role-Playing
+Date:     Sep 27, 2000
+ESRB: Mature
+
+-------------------------------------------------
+:::Review:::
+Wizards & Warriors suffers from a handful of problems that compromise an otherwise solid role-playing 
+ game. 
+
+ Activision's Wizards &amp; Warriors is a first-person 3D role-playing game designed by D. W. Bradley, 
+ who helped create the fifth, sixth, and seventh episodes of the classic Wizardry role-playing series. 
+ According to Bradley, Wizards &amp; Warriors is intended to be something of a return to such involving, 
+ addictive first-person role-playing games, and in that regard, it succeeds for the most part. Like 
+ many role-playing games before it, Wizards &amp; Warriors lets you create a party of adventurers 
+ of different character classes and races and explore vast overland areas and dank dungeons in search 
+ of fearsome monsters, powerful weapons and items, and experience levels. Unfortunately, Wizards 
+ &amp; Warriors suffers from a handful of problems that compromise an otherwise solid game.   
+
+ 
+  The game itself is a 3D role-playing game played entirely from a first-person perspective. You 
+ can create a party of up to six different adventurers by choosing from ten different races and 
+ four basic character classes. These ten different races include stock fantasy races, like elves 
+ and dwarves, but also a number of completely original races, like the reptilian lizzords, the elephantine 
+ oomphaz, and the furry ratlings. Each race is interesting enough, and nearly every one has a distinctive 
+ special ability and a predisposition toward a specific character class; these traits and abilities 
+ will let you build a strong and balanced war party from the ground up.   
+
+  Wizards &amp; Warriors was four long years in the making, and unfortunately, it shows. The game 
+ offers two graphics settings: Direct3D acceleration and software rendering. Wizards &amp; Warriors' 
+ Direct3D performance with certain video cards (especially TNT and GeForce cards) is problematic; 
+ in such cases, the graphics and text become blurry and unclear. The only other option is to run 
+ in software mode at 640x480 resolution; the display becomes clearer but unflatteringly blocky and 
+ pixilated. And unfortunately, most of the game's graphics are indeed this pixilated - the various 
+ dungeons and open areas you explore, the special effects on magic spells, and the monsters you 
+ face all tend to look blocky and coarse.   
+
+  Wizards &amp; Warriors doesn't sound especially impressive either. For the most part, the game's 
+ music is ambient but otherwise unremarkable and largely inoffensive. Unfortunately, the same cannot 
+ be said for much of the game's prerecorded speech. Though you'll likely appreciate the articulate 
+ narrator's informative descriptions of significant locations as you find them, you'll just as likely 
+ come to dread speaking with many of the game's long-winded nonplayer characters. A few of these 
+ characters' lines are actually delivered convincingly, while others are clearly overdone - but 
+ regardless of the quality of each nonplayer characters' voice-over, most of these characters tend 
+ to drone on and on about the inane or the obvious. They'll often talk about subjects that aren't 
+ even pertinent to your characters' quest. Throughout the course of the game, you'll need to speak 
+ to many such characters and engage in conversations that will seem to last more than a little too 
+ long.   
+
+  But the most disappointing thing about Wizards &amp; Warriors is its clumsy and unintuitive interface. 
+ The game is almost entirely mouse-driven; you manipulate each of its many menus by pointing and 
+ clicking, and you use the mouse for both freelook and forward movement. While this may sound convenient, 
+ the game suffers from a lack of even the simplest keyboard shortcuts; you won't even be able to 
+ use the Escape key to exit from any of the game's many option menus. Instead, you'll have to make 
+ sure to carefully click on the correct icon to open or close the right menu; otherwise, nothing 
+ will happen, or worse, you'll end up opening a completely unrelated menu that you'll also have 
+ to close.    
+
+ Wizards &amp; Warriors also has a seemingly arbitrary save/load system. Instead of having a convenient 
+ save-anywhere/load-anywhere system, Wizards &amp; Warriors doesn't let you load games when you're 
+ out adventuring in the world (you need to quit the current game instead) , and when you're within 
+ the safe walls of the nearest town, you can't save at all. You'll probably also have trouble getting 
+ used to the game's odd character- and enemy-targeting system, which requires that you move your 
+ cursor onto your intended target (which you intend to speak with, fight, cast a spell at, or use 
+ an item on) , then click on it. It sounds simple enough, but when performing actions like trading 
+ or buying, you'll need to open up character menus, then either click on your target or click on 
+ a choice on the menu, then control-click on your target or some illogical combination thereof. 
+ The game's targeting system is at its absolute worst when your characters are doing battle with 
+ their enemies. If your enemies move about onscreen, you may have a hard time keeping them targeted, 
+ and even if they're not moving, it's often difficult to tell if they're within striking distance. 
+   
+
+  These shortcomings are all the more unfortunate when you consider the fact that Wizards &amp; Warriors 
+ is otherwise a decent role-playing game. The game's story, which dictates that you must find a 
+ powerful magical sword to defeat a newly awakened evil, is certainly trite, but along the way, 
+ your characters will find themselves involved in a tremendous number of different quests, many 
+ of which are interesting and challenging. Among the most interesting of these are the quests given 
+ by guilds - the organized groups of warriors, wizards, thieves, or priests that your characters 
+ may join based on their particular class. Joining a guild lets your characters perform the very 
+ important and very rewarding act of changing their character class. In the beginning of the game, 
+ you're only allowed to choose from four basic professions, but joining a guild will let your humble 
+ novice warriors become destructive barbarians or multitalented samurai and let your wizards and 
+ priests become powerful warlocks. When your characters join a guild, they'll also receive guild-related 
+ quests that they can perform to advance their standing in their guild. As such, while you play 
+ Wizards &amp; Warriors, if you're not stumbling around the game's occasionally convoluted dungeons, 
+ you'll rarely find yourself at a loss for something to do, as you'll often find yourself on a quest 
+ to advance one character or another within that character's own specific guild.   
+
+  And you'll find that in Wizards &amp; Warriors, there's much to do and many places to explore. 
+ Although traveling from one major area to another incurs a fairly severe loading time, each of 
+ Wizards &amp; Warriors' individual areas is large, if not huge. Some of the game's dungeons have 
+ the unfortunate tendency of bottlenecking around a single locked door (which can only be opened 
+ by a single switch halfway across the dungeon or with a key that can only be found halfway across 
+ the dungeon) , but most of the areas in the game actually allow for a great deal of fruitful exploration. 
+ Some of the larger outdoor areas feature a great many monsters to fight, hidden treasure caches 
+ to loot, and quests to undertake.   
+
+  On the surface, Wizards &amp; Warriors doesn't look like anything special. In fact, it looks and 
+ sounds unimpressive, and at first, its poorly designed interface may seem like more trouble than 
+ it's worth to master and will likely continue to seem cumbersome even after you've gotten used 
+ to it. In order to enjoy the game, you'll have to come to terms with these shortcomings - but once 
+ you do, you probably will enjoy the many hours of exploration and character building it offers. 
+    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: dryden555
+Rating: 6
+Date: Jan 27, 2005 7:11 pm PT
+Review:  This older game had very poor DirectX support. It looks better in OpenGL mode, but it still has 
+ plenty of graphical quirks and anomalies that no patch ever fixed. After you play for while you'll 
+ get the impression the game was very rushed to market.
+  
+  But there are a few dungeons within the game that are well-made and imaginitively conceived. Each 
+ dungeon has a "story" to it with NPC characters and quests. The game showed its potential here 
+ and there. Unfortunately, you can make your character so strong by he middle of the game, you will 
+ find the game far too easy. 
+  
+  One hopes their new RPG that is about to be released is better, and better play-tested. 
+::::::
+
+-------------------------------------------------

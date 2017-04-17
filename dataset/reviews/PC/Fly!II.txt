@@ -1,0 +1,155 @@
+-------------------------------------------------
+:::Game Name::: Fly! II
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/fly2/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: May 29, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6
+Critic Score: 5.6, 4 Review (s)
+User Score: 6.5, 29 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Gathering
+Developer: Terminal Reality
+Genre: Flight Simulation
+Date:     Apr 26, 2001
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+It's very disappointing that a simulation with so much potential is marred by so many problems, 
+ because Fly II is fundamentally a good game. 
+
+ A couple of years ago, fans of civilian flight sims had several high-quality products to choose 
+ from. The challengers to Microsoft's flagship Flight Simulator series included Looking Glass Studios' 
+ excellent Flight Unlimited III, as well as a newcomer from Terminal Reality called -- romantically 
+ enough -- Fly. Unfortunately, Looking Glass Studios is now defunct, leaving Fly as the only real 
+ challenger to the throne Microsoft has held for so many years. The original Fly was a very good 
+ game that did some things extremely well -- particularly cockpits and instrumentation -- though it 
+ fell short in some other areas. After last year's interim release, Fly 2K, many hoped that these 
+ shortcomings would be addressed in the real sequel, the newly available Fly II. And to some extent, 
+ they are -- but unfortunately, Fly II has a host of other problems that make it impossible to recommend 
+ to anyone but the most experienced of flight simulation enthusiasts.           Despite its problems, 
+ Fly II features a good selection of aircraft...    
+
+  Specifically, the problem with Fly II is that what's available on store shelves is not a complete 
+ game. This is immediately evident when you first open the box to find only a small pamphlet detailing 
+ how to take off. Considering the complexities of a typical civilian flight simulator and the usual 
+ size of its manual, at this point you'd probably assume that the manual is provided in electronic 
+ form on the CD-ROM. Actually, it isn't. Because it wasn't done. For the first three weeks of the 
+ game's release, a complete manual was not available to purchasers of the game. So while the game 
+ bills itself as "perfect for beginners and experts," beginners will be dead in the water with the 
+ boxed product. Even the manual that was finally released is a bit light on information -- it weighs 
+ in at a mere 53 pages and lacks an index, as well as the comprehensive instrument-by-instrument 
+ detail found in the documentation for Microsoft Flight Simulator.   
+
+  Another problem in Fly II is the scenery, or rather the lack of it. One of the real pleasures of 
+ playing a civilian flight sim is the ability to pilot your aircraft around familiar landmarks, 
+ such as the Statue of Liberty or the Transamerica building in San Francisco. The original Fly was 
+ somewhat lacking in this regard, and thus far, Fly II has detailed scenery for San Francisco, New 
+ York, and Paris -- but once again, you can't get it out of the box. Rather, to find these urban high-resolution 
+ scenery files, users will have to download them. At 157MB for the New York scenery alone, this 
+ essentially precludes users without a broadband connection from accessing part of the sim that 
+ should have been included in the retail game.           ... and highly detailed instrumentation 
+ for each of these.    
+
+  The scenery itself is superior to that of the original Fly. However, the downside to this is that 
+ the game runs sluggishly even on high-end machines, much like the latest Microsoft Flight Simulator. 
+ As a result, those without a good video card (with at least 16MB RAM) should stay away from this 
+ game. Even with a 32MB GeForce card and a decent processor, the frame rate wasn't sufficient to 
+ provide the illusion of smooth flight. The current patch (there are two presently) relieves this 
+ problem a little, but not enough, and the game suffers from severe stuttering at times, especially 
+ when loading new textures. Because of this, it's best to install the entire game on the hard drive, 
+ which requires 1.7GB of space.    
+
+ There are some other strange problems in the game, such as the need to type in your take-off and 
+ destination airport names rather than simply selecting them from a list. There's also no force 
+ feedback support in the game. All these problems further suggest that Fly II was released well 
+ before work and testing had been completed.           The scenery throughout the game is lacking. 
+    
+
+  It's very disappointing that a simulation with so much potential is marred by so many problems, 
+ because Fly II is fundamentally a good game. In two of the three areas that matter most for a civilian 
+ flight sim -- flight models and cockpit instrumentation -- Fly II is as good or better than its competition. 
+ Microsoft Flight Simulator still provides superior scenery graphics. But the instrument panels 
+ in Fly II are fully clickable and really put the panels in other sims to shame in their detail 
+ and functionality. Also, the excellent weather effects (including the ability to import METAR data 
+ into the sim to re-create actual weather conditions) and the intuitive yet powerful flight planner 
+ feature make Fly II a serious civilian flight sim. The flight models seem less forgiving (and thus 
+ probably more realistic) than in Microsoft Flight Simulator. There is a good selection of small 
+ planes to choose from, including (but not limited to) the Barracuda, Kodiak, and Pilatus, as well 
+ as the Peregrine passenger jet. The Bell 407 helicopter is also available, if you prefer rotary 
+ aircraft. There is even a downloadable float helicopter for water landings. One nice feature is 
+ the ability to simulate damage to various parts of the aircraft, meaning that you can try to land 
+ the aircraft without landing gear or with one engine dead. Fly II has a lot to offer the serious 
+ flight sim enthusiast, and the improvements on Fly 2K (which was essentially a dressed-up version 
+ of the original with some extras added) mean that owners of the first game would be well advised 
+ to upgrade to Fly II. When it's done, that is.   
+
+  While experienced sim pilots may be able to puzzle their way through the operation of the various 
+ aircraft and will be at less of a disadvantage without a manual than beginners will, the lack of 
+ detailed scenery will turn off almost everyone. To its credit, Terminal Reality is releasing various 
+ downloadable aircraft for free and doing a good job of supporting users by way of Web forums. Still, 
+ for those who simply want a functional out-of-the-box game and don't have the time or ability to 
+ work through the technical details, Fly II will be a real disappointment.           The flight 
+ planner feature is intuitive -- unfortunately, much of Fly II is not.    
+
+  The Internet seems to have emboldened publishers to release games regardless of their state of 
+ completion, in the knowledge that they can simply release downloadable files later to complete 
+ the product. Fly II is not a game -- it's an unfinished product in a cardboard box. Assigning blame 
+ is unproductive, but making people aware of what they are buying is not. To that end, unless you 
+ have a broadband connection and are willing to print out a large manual on your own, as well as 
+ apply several patches, then under no circumstances should you purchase Fly II. Perhaps GodGames 
+ will release another print run with the missing scenery, manual, and patched game files already 
+ on the CD. If not, prepare to download several hundred megabytes of files before you even get started. 
+ The Fly series has a lot of things going for it, and the improvements made for Fly II are on the 
+ right track, but the latest iteration needs some serious work before it can live up to the standard 
+ set by its predecessor.    
+-------------------------------------------------
+:::User Reviews::: (2 Reviews)
+::::::
+UserName: SqCdrVindicator
+Rating: 8.2
+Date: Dec 11, 2005 7:41 am PT
+Review:  This simulator isn't for shooter-like players, who don't know how to start the engine, and, certainly, 
+ how to fly the REAL aircraft! It is for aviation enthusiasts (as well as Flight Simulator 2002, 
+ for virtual flying) , real pilots (for training) , and for people, who are interesed, how the aircraft 
+ flies.
+  First thing, what anybody who want to feel the real aviation beauty must have, is the MINIMUM 4-axis 
+ flight controller (flight stick, throttle and, if it's possible, rudder pedals) . Without this, 
+ noone shall can pilot the virtual aircraft (maybe from keyboard?! No! Not much, that it's very 
+ hard and not real, it makes bad habits!) Looking at physics, it's quite real and every pilots say, 
+ that forces what acts on the aircraft are as true as they appears on real plane. Let everyone who 
+ thinks, that piloting (also virtual) aircraft is as simple as "get in the plane and fly", excluding 
+ physical phenomenons, ask any pilot at any airport for test flight, let the pilot give (certainly, 
+ trimmed) for this nothing-know-about-aviation computer player and he see, WHAT he said about flight 
+ simulators like Fly! II!!! Planes and helicopters are matching their real properties, scenery is 
+ not as much and detailed as in Flight Simulator 2002, but terrain and water is very good. Included 
+ scenery editor is simple, allows to place buildings at airport, improve existing and create the 
+ cities. Air traffic control is good, options better than in FS 2002. And saying quick and much, 
+ it's good simulator for unrequiring virtual pilots.
+  The ratings is my own, rated from serious pilots' point of view, and I think that time to learn 
+ is about 2-5 weeks for unexperienced aviators. 
+::::::
+
+::::::
+UserName: Sasha123456789
+Rating: 1
+Date: Aug 29, 2004 8:30 pm PT
+Review:  Make sure you do not play this game, it sucks and is extremely hard, DO NOT GET THIS GAME. The 
+ graphics really, really, suck. The onstruments in the cockpit are done very nicely and you can 
+ clikc most of them but this just makes the game evenb harder. If you want a game with which you 
+ can perform crazy stunts sure pick it up for 1$ but remeber to have a trash can next to yuor computer. 
+ Like i said the game is so difficult that i am pretty sre that REAL LIFE PILOTS would have toruble 
+ playing this game. 
+::::::
+
+-------------------------------------------------

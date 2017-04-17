@@ -1,0 +1,406 @@
+-------------------------------------------------
+:::Game Name::: Shattered Suns
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/shatteredsuns/review.html
+-------------------------------------------------
+:::The Good:::
+ One of the few 3D RTS space games on the market.
+ Good, yet crazily overwritten, script establishes the campaign story.
+-------------------------------------------------
+:::The Bad:::
+ Abysmal production values.
+ Too much of the campaign storytelling is conveyed through text.
+ Space combat is only superficially 3D.
+ Most of your toughest combat will be with the terrible camera system.
+-------------------------------------------------
+:::Date::: Aug 29, 2008
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 4
+Critic Score: 4.1, 3 Review (s)
+User Score: 4.0, 91 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Clear Crown Studios
+Genre: Sci-Fi Real-Time Strategy
+Date:     Aug 19, 2008
+ESRB: Everyone 10+
+
+-------------------------------------------------
+:::Review:::
+Shattered Suns wastes its promise with terrible presentation values and poor implementation of its 
+ 3D combat system. 
+
+  Fully 3D real-time strategy games set in space are a rare breed. Adding the third dimension seems 
+ to scare off both developers and gamers, so many games simply ignore the oft-confusing vertical 
+ plane and stick to 2D stellar battlefields. Shattered Suns is a good example of why so many people 
+ shy away. The Clear Crown Studios game is certainly adventurous enough, due to the ostensibly more 
+ realistic depiction of outer space, the mix of RTS and 4X space sim traits, and a few innovative 
+ touches when it comes to custom ship design; but the production values are bottom-drawer, and your 
+ galactic adventures are highlighted by boring resource management and simplistic combat that doesn't 
+ really utilize those three dimensions. These issues, along with some serious problems with the 
+ in-game camera, all but ruin the reasonably original game design.  
+
+           This planet's ready for its close-up.      
+
+  Originality doesn't extend to the plot, 
+ however. In the single-player campaign, you play Captain Max, a former starship commander in the 
+ Statian military who's drafted back into active duty during an invasion by the evil Qalan and Trexon 
+ Empires. So the story deals with the standard  shtick, albeit with 
+ the rather interesting addition of a love story. At the same time as Max is trying to save Statia, 
+ he's also searching star systems for his missing fiancee, a fellow officer with the much more exotic 
+ name of Seeng-Si. A fair bit of the game is spent with the hero dithering over his duty and chucking 
+ it all to search for his woman, which gives the game a bit of teen-love cheese, as nobody over 
+ 17 actually thinks like Captain Max.  
+
+  Still, much of this tale is fairly well told, regardless of the lapses into  90210  melodrama. 
+ The one huge flaw is that every plot point is described through text, as though you're playing 
+ the game via instant messenger. As the budget apparently didn't allow for any cutscene production, 
+ a single screen filled with a drab starfield map and a huge block of tiny, hard-to-read green-on-black 
+ text conveys all of the story and dialogue. Even some full missions take place here and are resolved 
+ entirely through answering questions. Many of the lines are well written, although apparently the 
+ designers realized this and allowed the writer free rein to ramble on to absurd lengths. Scenes 
+ meander for many, many minutes, and you're stuck waiting for every single line to slowly pop up 
+ onscreen because you can't skip ahead. All of this dialogue goes beyond sci-fi boilerplate to help 
+ develop realistic characters with depth and personality (like your snarky computer assistant, Citron) , 
+ although it's hard to appreciate any of it when you're screaming "Get on with it!" at your monitor. 
+ More appeal is lost due to the text scaling in lower-resolution displays. Letters are shrunk to 
+ what looks like an 8-point height and scrunched so tightly together that you soon squint your way 
+ into serious eyestrain or a king-size headache. Keep eyedrops and ibuprofen on hand.  
+
+  Shattered Suns isn't particularly easy on the eyes during missions, either. Ship design is generic, 
+ textures are plain, and the lighting and shadow effects are so primitive that there is no depth 
+ to any of the models. Star systems are just as rough and ready, with basic planet types like Earth 
+ look-alikes and lava worlds. The background is really odd looking, too, due to the inclusion of 
+ so much green nebulae gas that it overwhelms what should be a very black outer space. At times, 
+ this backdrop is so green and lush that it seems more like you're waging war in front of an English 
+ country garden than the inky darkness of space. Ship movements and explosions are nothing short 
+ of embarrassing. Vessels avoid colliding with planets by simply jerking to one side or the other, 
+ and the usual pyrotechnics of ships going ka-boom have been replaced with wimpy puffs of smoke 
+ and chunks of debris flying in all directions. And despite the game's low-rent appearance, loading 
+ times can be onerous. Initially loading the game up takes so long that you can not only safely 
+ duck out of the room to make a sandwich, you just might have time to bake the bread, too.  
+
+  Of course, really ugly games sometime boast some really stellar gameplay. But that isn't the 
+ case here, as Shattered Suns is just as unappealing within as it is without. The game sort of blends 
+ typical RTS gaming with 4X space sims, with campaign missions that are split among building fleets 
+ for combat, focusing on space-station base building, and fulfilling economic duties such as setting 
+ up a trade route or gathering resources. You generally accept an order at the beginning of the 
+ assignment to do something like juggle the game's three resources of crystals, ore, and credits 
+ in an effort to repair ships, set up a mining operation on a moon, or simply crank out ships and 
+ blast into a system to annihilate the enemy. Everything is pretty straightforward. Most resource 
+ management can be done with a couple of clicks. To mine a planet for ore, for example, all you 
+ need to do is load up a ship with miners and send it on its way. Combat is equally simplistic, 
+ with the only complication provided by the ability to rig up different ship production lines on 
+ space stations to crank out vessels for different purposes. So you can build one line of ships 
+ with huge storage capacity to serve as cargo carries, another line with serious weaponry and armor 
+ for front-line combat, and so on.  
+
+           There's a battle going on here, but you wouldn't know it to look.      
+
+  None of these 
+ actions are particularly interesting. Resource management is a dull production-line affair where 
+ you shuffle goods from one space station to another to boost ship production. Combat, in both the 
+ campaign and the skirmish mode -- which happens to be the only other way to play the game, as there 
+ is no multiplayer option -- mainly involves band-selecting fleets and then right-clicking on enemies 
+ to start lasers blasting in scraps that are just as ridiculously drawn out (20 minutes to take 
+ out a few pirates? Really?) as the interminable between-mission dialogue. Most of the challenge 
+ comes from trying to figure out exactly what you're supposed to be doing when missions start, as 
+ there are few instructions given out after the initial orders are passed along on the main map/text 
+ screen. Combat missions often dump you blind into a system and leave you aimlessly flying around 
+ until you discover the ship you're supposed to escort, the enemies you need to exterminate, or 
+ whatever else. The only serious drama during battles is provided by the drum-thumping score. Even 
+ then, the pounding is so relentless that you'll soon want to turn off the music and enjoy the silent 
+ vacuum of space.  
+
+  Worst of all, the 3D engine for space battles is just about meaningless. It doesn't add serious 
+ tactical considerations; you can essentially ignore the extra plane and click directly on enemies, 
+ space stations, and planets just as you would in a typical 2D RTS. If anything, it just gets in 
+ the way due to some annoying camera issues. For starters, everything moves all the time. Ships 
+ float randomly through space the moment that they leave space stations, which makes it tough to 
+ keep them in view. Locking the camera by left-clicking on an object like a planet or a moon helps 
+ somewhat when it comes to keeping an eye on an entire region of space, but even then every interstellar 
+ body is orbiting something else, so you still experience a lot of irritating "Stop the world, I 
+ want to get off!" moments. You can scroll way back to view an entire system at long range, but 
+ this turns ships into tiny dots and makes the game just as unmanageable as it is when you're looking 
+ at a close-up whirl of soaring vessels and rotating planets.  
+
+  If you're in the mood for a 3D RTS in space, you might be better off heading to the mall and going 
+ spelunking in the bargain bin for an old copy of Homeworld. That almost decade-old classic remains 
+ a better bet than Shattered Suns.     
+-------------------------------------------------
+:::User Reviews::: (9 Reviews)
+::::::
+UserName: 8sardinr
+Rating: 1
+Date: Aug 27, 2008 1:02 pm PT
+Review:  Game was supposed to revolutionize the genre... right it made me feel like i was playing some awful 
+ windows 95 version of home world. 
+  
+  This game is a definite avoid for horrible game play on top of horrible graphics and sound. This 
+ is a game you expect to find a freeware somewhere on the internet, not something you'd pay for. 
+ 
+  
+  The Dev's are new so I am hoping they get their act together before putting out more abysmal stuff 
+ like this and expecting to make a quick buck. Shame on you guys for falsely promoting your game 
+ as ground breaking, and getting all this hype for a game I saw touted as the next Sins of a Solar 
+ Empire. Instead you leave us with a game barely playable.
+  
+  The tutorial is mediocre at best, leaving you guessing with a large majority of the game.
+  
+ 
+  The storyline is so awful I gave up on the campaign half way thru it.
+  
+  Skirmish mode lacks the usual settings you'd expect to see nowadays.
+  
+  Overall this game is 
+ an avoid, 2/10. 
+::::::
+
+::::::
+UserName: koivex2443
+Rating: 3
+Date: Aug 23, 2008 3:26 am PT
+Review:  I was looking forward to play this game, but it was a very disappointing experience.
+  
+  Graphics 2/10
+  Let's face it, the graphics are HORRIBLE. It may have been good 5-6 Years ago 
+ but not with today's standards.
+  
+  Sound 2/10
+  The ONLY sound I heard was the annoying background music and the beeping sound of the computer 
+ between missions. I think a voice for the characters would have been easy to integrate into the 
+ game.
+  
+  Gameplay 4/10
+  It is nice to have to manage economics and a fleet at the same time but the AI messes everything 
+ up. For example: every ship you build has follow mode on. Even if you click on the enemy they want 
+ to follow it around instead of attacking. This can be very irritating during the heat of battle.
+ 
+  
+  Ideas 8/10
+  There re some nice ideas in the game. To be able to auto trade (balancing resources by buying and 
+ selling) and to make supply lines (balance resources between two stations) are nice features. 
+ 
+  It is also good to be able to make custom upgrades to each station and to customise every squad 
+ (crew, engines, weapons, etc...)
+  
+  Overall 3/10
+  I take 1 point away because the homepage said so many promising things about ths game, but failed 
+ to keep the promises.
+  
+  In the end Shattered Suns is an ugly, badly optimised game that failed to live up to the expectations 
+ of its fan.
+  
+  It is a shame... 
+::::::
+
+::::::
+UserName: URGE
+Rating: 1
+Date: Aug 22, 2008 9:47 pm PT
+Review:  I had high hopes for this game, good idea. The gfx was a bit bad, but i don't mind much about that 
+ as long as the game is good. My first let down was the mission briefing. Lines of text announced 
+ by a beep and comes every 2 sec or so, couldn't find any way to skip it. Well, to make this short, 
+ this was just the first of many let downs. It tries to measure up to homeworld, but both game play 
+ and graphic was waaaaay below what homeworld is and game play is about as bad as the graphics. 
+ Their idea of a fleet formation is ctrl+number and designing is choosing what level equipment it 
+ should have. Names apparently is a big no no, only way to see what kinda ship is flying is to select 
+ it and see the stats. I shudder to think what would happen if i had 20 ships and wanted to find 
+ one certain ship. 
+  
+  Try this game if you need something to waste time on and like to torture yourself.
+  
+  If you 
+ excuse me, i am going to do some incantations and rituals to cleanse my pc of this abomination... 
+ 
+::::::
+
+::::::
+UserName: dharma481516
+Rating: 7
+Date: Aug 22, 2008 5:02 am PT
+Review:  Picked up this one while I was looking for some cheap games to pick up. This one was on sale since 
+ it was just realeased. Tried it out and felt it has a lot to be desired in looks, but some of the 
+ things in the game were actually kind of cool.
+  
+  First off, there are a lot of items in the graphics department that need work. the engine flares 
+ are really simple looking and things like shields and stuff are pretty dodgy too. There ships look 
+ pretty cool, but they're not the typical "spacey" ships you find in games like EVE or anything. 
+ Some people will probably think they look weird but I kinda like the styles. Theres three races 
+ in the game and they all have a different look to their ships.
+  
+  The thing that I thought was fun was being able to change the ships around a lot. You can load 
+ up the thing with a ton of lasers, boost the engines, tweak the cargo, all that stuff. And it's 
+ not like other games where it's only a couple of tweaks you can make to a unit. You can all sorts 
+ of stuff to one ship, and then pump out a different ship and it looks totally different. This makes 
+ it easy to specailize the units you're using so that they don't have a lot of useless features 
+ for what you're using them for (mining, fighting, etc)
+  
+  I guess it's kind of a two faced problem with this game, because on the one hand it seems like 
+ there are some good ideas being implemented here, but those things are kinda killed by the lame 
+ graphics. I think if you can get over the whole look of it, the game has some fun concepts that 
+ make for a good strategy game. MAybe if they can upgrade this thing like it looks like they're 
+ trying to do in the forum, they can bring it more into the mainstream with the graphics.
+  
+  Overall, not too pretty, but it has some good points if you can look past all that. I guess you 
+ could say I like the game for it's personality! 
+::::::
+
+::::::
+UserName: hal9000c
+Rating: 8.5
+Date: Aug 21, 2008 11:34 am PT
+Review:  My reaction is mixed. Overall I like this game because it has things no other game has and the 
+ 3D fighting is better than any other space RTS I've played. The ships really do fight in 3D and 
+ they act more like they're really in space constantly moving instead of stopping and starting. 
+ Planets really do orbit but I don't care that much about that.
+  
+  The problem is you have to learn to control things in 3D. Easier said than done. Once you get the 
+ hang of it, it's not that hard, but it does take time to get the hang of it. That's why I say this 
+ game isn't for everyone.
+  
+  The reason I like the 3D fighting more than other games like Star Wars Empire at War and Homeworld 
+ is because there's more action. Ships fly all over the place. They don't just stop in one place 
+ and fire at each other. I also like how they keep firing instead of strafing the way they did in 
+ Homeworld. Strafing runs aren't as good because you spend half your time just turning around so 
+ you can do another strafing run. In this game the ships turn as they pass by so they can keep firing 
+ the whole time. They never let up. And the whole time they're flying all over the place while they 
+ attack.
+  
+  But if you're not into the 3D fighting as much as I am then it might not be worth the difficulty 
+ of getting used to the controls you need to fight in 3D like this.
+  
+::::::
+
+::::::
+UserName: mackey12345
+Rating: 1.5
+Date: Aug 22, 2008 12:45 pm PT
+Review:  Its hard to describe Shattered Suns, maybe cause it so bad that its hard to think where to start, 
+ every thing about this game is terrible, except maybe for one thing.
+  
+  The screenshots of the game looked promising, but when you play this game, you'll punch the nearest 
+ person to you just because of how terrible this game really is.
+  
+  The story... What the hell were they thinking, its not even a story, I couldn't get into the story 
+ just because of how terrible the gameplay was, the story is so incohesive its not even funny. Don't 
+ play the story!
+  
+  The gameplay is so pitiful it actually gives me another reason to stop playing space strategies, 
+ its like Sins of the Solar Empire, without the fun, this game is so confusing to control, all they 
+ give you on the gameplay interface is a bunch of symbols they don't even tell what they mean, the 
+ tutorial doesn't make much sense, so don't even bother with it, know what they call there ships? 
+ Ship 1, ship 2, so on, so forth, what the **** does that mean? The Controls are workable, if not 
+ confusing, its hard to figure out, again the tutorial doesn't make much sense, so don't even try 
+ to decipher them.
+  
+  The graphics are merely decent, the detail on planets are remarkable, but the ships, jesus christ 
+ they look terrible, with no shading, they look like dull pieces of plastic. The game was advertised 
+ to be able to make your own ships, and customize them, WHERE?! That is a LIE, LIE, LIE, LIE!!! 
+ TO SELL MORE, ITS A LIE, STAY AWAY FROM THIS HYPOCRITIC GAME!!!
+  
+  The sound... EVEN WORSE!! No mere words can describe how bad it is, the effects are so bad, it 
+ made me **** my pants, the music score is decent, but to bad it has been wasted on such a bad game.
+ 
+  
+  Value... NO! Its not even worth pocket change, not even worth a pirated copy, not even worth attention, 
+ not even worth burning, not even worth taking a **** on! ITS NOT EVEN WORTH PAYING SOMEONE TO PLAY!! 
+ STAY AWAY FROM THIS GAME!!!!!!
+  
+  You may be asking why my review is so short... maybe cause this game is SO LOUSY! It doesn't deserve 
+ this many words to get reviewed, it so bad, you can review it in a few words "TERRIBLE, MINDNUMBING, 
+ PEICE OF **** OF A GAME" Please, whatever you do, don't even play this game, if someone pays you 
+ to play this game, Reply with a round house kick to the face, if anyone even mentions this game 
+ to you, answer them with a kick to the nutsack, thank you.
+  
+  If you really want it me to explain the game, its a wannabe sins of a solar empire.
+  
+  Last 
+ words... STAY AWAY FROM THIS GAME!! DON'T EVEN LOOK AT THIS GAME!! Thank you for Reading. 
+::::::
+
+::::::
+UserName: Khobar
+Rating: 1
+Date: Aug 20, 2008 10:55 am PT
+Review:  "Bleh" I would say. When i first heard of that game i had big hopes. Screens cooled me down a bit 
+ but the game itself made me sick just looking at it. Graphics - horrible it's not what do we expect 
+ from space action. Old aged Homeworld had much better graphics than this. We got 2008 now, games 
+ placed in 3D world look much more better than this. Plannets looks like the were rendered on some 
+ low-end homePC. If it would have at least some action in it.
+  Sound - over and over same reaction from your unit.
+  Gameplay - maybe only thing saving it, but 
+ the rest of the game makes it just disgusting. I'm a big fun of in space-placed games but Shattered 
+ Suns was very disappointing. Installed wasted some time... un-installed it. Unfortunately it wasn't 
+ worh the time. Better get Sin's of Solar Empire, or even Homeworld (even the first part) 
+::::::
+
+::::::
+UserName: mburkart
+Rating: 3
+Date: Aug 20, 2008 10:17 am PT
+Review:  Shattered Suns was an ambitious project which could have been a shining jewel in an otherwise sparse 
+ crown of space games. But this appears to be another rushed out the door title with glaring bugs 
+ and broken gameplay.
+  
+  For example. Pause does not stop the countdown timers, Mission critical ships can be lost and the 
+ mission does not end, Accidentally docking with an allied station causes your ships to disappear, 
+ and many other glaring issues. 
+  
+  The interface is also horrible but the game is so broken you wont spend long looking at it anyhow.
+ 
+  
+  
+  Also this game is boring... Generally speaking.. any game that I can walk away from to do something 
+ fun while I am waiting for things to happen does not make for a fun experience. 
+  
+  Anyhow there were good moments to this game.... It just happened to be when I clicked uninstall 
+ and saw the space come back on my hard drive.
+  
+::::::
+
+::::::
+UserName: dddd2
+Rating: 4
+Date: Aug 19, 2008 1:05 pm PT
+Review:  Ok, ive bought the game for 40 bucks and i thought the gameplay was fun.
+  
+  Gameplay 4 : What the.... Scale is small, ship design isnt even complex, no ship classes actually, 
+ just different ships to give a name to, not really a different arsenal of weapons.
+  Uhmm.. teamwork? i just put ships together in a group.
+  The move system is hard to learn as well, 
+ and not even usefull, i moved my ships wrong all the time, untill i got the hand of it, the meaning 
+ is that you move the camera all around!
+  As for tutorials, even worse, they are unclear, bad letters and the chat in the campaign is almost 
+ impossible to read since they reply very fast without voices and sometimes the text is trough another.
+ 
+  And what the hell is with this camera?!
+  I cant command ships like this.
+  
+  
+  Graphic`s 3 : This looks even worse than homeworld from 1999, seriously, what a junk.
+  Look, 
+ we dont need crysis`s eyecandy, but this is just horrible to see for a game in 2008.
+  
+  Sound 6 : Sound is OK, not epic, but not bad eighter.
+  No furder comments.
+  
+  Storyline 3 
+ : Confusing, weird and hard to keep the text, you missed some stuff? good luck!
+  
+  
+  Overal, this game is not worth it, i suggest sins of a solar empire or homeworld 2, which are way 
+ better.
+  
+  If you like the spacestation building or empire building, get space empires.
+  
+  Avoid this game! not worth the money!!
+  
+  
+  
+  
+  
+::::::
+
+-------------------------------------------------

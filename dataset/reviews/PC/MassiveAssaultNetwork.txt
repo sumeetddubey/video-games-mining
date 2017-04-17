@@ -1,0 +1,213 @@
+-------------------------------------------------
+:::Game Name::: Massive Assault Network
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/massiveassaultnetwork/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: May  4, 2004
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7
+Critic Score: 7.8, 12 Review (s)
+User Score: 8.2, 23 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Wargaming. net
+Genre: Sci-Fi Turn-Based...
+Date:     Apr 13, 2004
+
+-------------------------------------------------
+:::Review:::
+Massive Assault Network isn't so much a step forward as it is a step sideways -- or even backward. 
+ 
+
+  Massive Assault was a game that had a lot of potential but only partially realized it. Released 
+ last October, Massive Assault looked like a 3D real-time strategy game but played like a streamlined 
+ turn-based wargame. It featured some interesting gameplay ideas and was easy to learn but challenging 
+ to master. In fact, it was often too challenging, what with its nonadjustable artificial intelligence 
+ and imbalanced scenarios that were often so tough that they made the game more punishing than fun. 
+ Fortunately, you could also play against humans via hotseat, or you could engage in play-by-e-mail-style 
+ games, thus avoiding these problems. Now, developer Wargaming. net has released an updated yet very 
+ similar version of Massive Assault called Massive Assault Network. It tries to avoid some of the 
+ problems found in the original game by simply jettisoning most of the single-player component and 
+ only slightly upgrading the multiplayer options. With these changes, Massive Assault Network isn't 
+ so much a step forward as it is a step sideways -- or even backward.  
+
+          This guide is fine, but where's the manual?     
+
+  One of the biggest differences between 
+ Massive Assault and Massive Assault Network is simply a new pricing and delivery scheme. The new 
+ game is available in a trial format as a free download and features a simple offline tutorial, 
+ three scenarios against the AI, and unlimited skirmish play versus the AI or humans on a single, 
+ small map. Paying for a monthly subscription grants you access to naval units and eight maps for 
+ online play -- and more is scheduled for later release. A subscription also lets you play in tournaments, 
+ track your online stats, and rise higher in the posted rankings than players of the trial version. 
+
+  Both the trial and full versions are compatible with the original Massive Assault, since the game 
+ engine and gameplay are essentially identical. It's a shame there are no new units or game modes 
+ in Massive Assault Network, but then again, the original Massive Assault gameplay was pretty well 
+ honed. The game is turn-based, and while you don't see hexes all over the map, Massive Assault 
+ Network is essentially a hex-based game. Whenever you select a unit, little circles light up on 
+ the map, revealing a grid of potential movement destinations. A large red circle also appears to 
+ show the extent of your selected unit's weapons range.  
+
+  During each turn, you move your units in any order, choosing from their available grid positions. 
+ The game takes on a chesslike feel, since each type of unit can only move a particular number of 
+ grid spaces each turn; also, ground units can't move through an occupied space. This makes coordinating 
+ your forces and effectively blocking enemy units quite tricky. To make things more complex, only 
+ certain units can fire over friendly units.  
+
+  After you've made your moves, you can instruct each unit to fire on the enemies of your choice, 
+ if the enemy units are in range. Then you click a button to end your turn, after which your opponent 
+ moves and attacks. You can watch the resulting animations at different speeds, or you can simply 
+ skip to the end to see the final outcome.  
+
+          It's a generic yet pretty gameworld.     
+
+  You'll get to fight with clomping mechs, 
+ sleek bombers, wheeled missile launchers and more. Vehicles break down into ground, air, sea, and 
+ amphibious units, and you also get fixed defensive towers. Each unit has just a few straightforward 
+ stats, and each side gets equivalent units that only differ cosmetically.  
+
+  Massive Assault Network is about more than just the tactics involved with moving units around. 
+ There are interesting strategic elements, too, so you'll have to decide exactly what units to purchase 
+ at what point, since you get only limited revenues from certain territories. A major strategic 
+ twist that's a Massive Assault hallmark is the way you select your starting territories from a 
+ number of possibilities and then get to reveal secret allied territories as the match progresses. 
+ Your choices can dramatically change the ebb and flow of combat on each map, and they can turn 
+ your enemy's well-made plans around. This adds a lot of strategic interest and replayability to 
+ what's otherwise a fairly simple game.     
+
+  One of the best things about the original Massive Assault was its user-friendliness, which remains 
+ more or less intact. You still get the generous undo and rewind buttons, which let you try out 
+ different tactics before choosing to end your current turn. You also still get helpful optional 
+ prompts when making key game decisions -- or when you forget to make them (as the case may be) .  
+ 
+
+          Optional play aids help you avoid dumb mistakes.     
+
+  You also get eight brief tutorial missions and three brief scenarios versus the AI. These still 
+ don't cover everything you need to know, because they focus on basic movement and combat concepts 
+ rather than on strategy. Unbelievably, the game doesn't come with a manual. As a result, you'll 
+ have to root around on the official Web site for answers, or you can search through a hard-to-read 
+ text file that's littered with html tags. You can hit F1 for help screens, but you probably wouldn't 
+ know this without having played the original Massive Assault.  
+
+  The AI now has three difficulty settings (previously added in a patch to the original game) . This 
+ makes the tutorial missions and three scenarios a breeze, but even on the easiest setting, the 
+ AI is still utterly unrelenting in the skirmish mode. Many players will likely find matches more 
+ discouraging than fun. On the bright side, Massive Assault Network lets you play online games against 
+ three official mentors. The mentor we played was friendly enough but didn't actually mentor us; 
+ he never even offered any advice or hints until we asked him if he was supposed to do so.  
+
+  You can battle these mentors or other players over the Internet with a system akin to play-by-e-mail. 
+ The game automates the process for you, letting you send and receive turns through a central server 
+ and a smooth interface. Massive Assault Network has removed the hotseat option, and there's still 
+ no way to play a truly live match, like in some other turn-based strategy games, but you will find 
+ beefed-up opponent-finding options. Now you can engage in real-time chat, send messages, and issue 
+ public challenges to any players who meet the criteria you select. Additionally, you can send out 
+ private challenges to specific players. These are nice features, but since it was easy to find 
+ numerous online matches in the original Massive Assault, it's hard to get excited about these upgrades. 
+
+  Outside of some slightly upgraded planet and sky textures, the presentation of Massive Assault 
+ Network is the same as in the original game. Once again, the game leaves a lot to be desired stylistically. 
+ There's no story, and the setting and units feel utterly anonymous and generic. Also, there's still 
+ only one voice-over artist for the whole game, and it's the same woman who did the voice work for 
+ the first game. With her very heavy Eastern European accent, "win" comes out as "ween," and "enemy" 
+ can sound like "enema." This sure ruins the mood in a hurry.  
+
+          You won't find new units or game modes.     
+
+  Despite these failings, the graphics 
+ at least look sharp and reasonably attractive. Everything is vibrantly colored, weapons fire, and 
+ explosions look dramatic. Furthermore, lots of little details, like waves lapping against beaches 
+ and trees swaying in the breeze, make for some pretty scenes. You can easily zoom, rotate, and 
+ pan the camera to get the best view of the action. The music and sound effects (outside of the 
+ voice-overs) are likewise solid, even if they fail to give the game any sort of distinctive ambience. 
+
+  Massive Assault Network is an odd release. On the one hand, the gameplay is as interesting, challenging, 
+ and addictive as ever. Strategy lovers who are looking for something different should certainly 
+ check out either the original game or the free trial version of this new one. On the other hand, 
+ Massive Assault Network is ultimately just a simple retread of the first Massive Assault -- but with 
+ very little to entice existing fans. It fixes few, if any, of the major problems found in the original 
+ and inexplicably ditches most of the single-player game. Why not improve and expand it? The new 
+ multiplayer features are nice enough, but the changes in Massive Assault Network are relatively 
+ small and would have made more sense if they had been released as a patch to the original game 
+ rather than as a separate, new release. Like the original Massive Assault, Massive Assault Network 
+ has a lot of potential but fails to fully realize it.     
+-------------------------------------------------
+:::User Reviews::: (2 Reviews)
+::::::
+UserName: britneyyy
+Rating: 10
+Date: Nov 14, 2005 8:31 am PT
+Review:  I have 20 year experience in playing games, but this is it, i must give all 10s
+  for this game though is not very good music in game but for this genre is enough. Maybe little 
+ hard in the beginning but addiction is the everlasting 
+  1 life is not enough for pleasure which game can give to you.
+  Who started once he will never 
+ stop.
+  Very soon should be release of the MAN 2, which i can't wait.
+  Graphic is very good but not cpectacular .
+  Game is combination of tetris and Riziko 2 best games 
+ ever till now
+  trial of this game is free on 1 map for lifetime.
+  one of the best online multiplayer games ever.
+  you can play 100 simultaneous games at the same 
+ time.
+  in small countries with bad connections like mine yopu can play offline than sent turns of all 
+ games.
+  There are varieties of maps from small to big ones with heavy naval clashes .
+  I am the in top 10 players in game (nick MANKO) in the world.
+  I could spent hours to describe 
+ this game but you must try it to see why i am saying that.
+  
+  
+::::::
+
+::::::
+UserName: silicor
+Rating: 9
+Date: May 29, 2004 12:21 am PT
+Review:  As a miniatures game player, I love good turn based games. Massive Assault Network is one of them. 
+ This is a good old fashioned wargame where cities provide resources and you have the option to 
+ buy units or every turn or save up for bigger units or an assault force. The game only supports 
+ 1 on 1 matches, but a league system (clan wars) allows players to work together towards a common 
+ goal. The maps and stats for the Clan Wars are not in game, but are available via the web. You 
+ can read more about this aspect on the MAN forums. 
+  
+  To me graphics and sound do not make much of a difference to me in turn based strategy games, but 
+ game play and fairness do. Game play is smooth and intuitive with a great opportunity to display 
+ both your tactical and strategic skills. The key in MAN are the secret allies. At the beginning 
+ of the game you have a fixed number of secret allies randomly distributed across the map. During 
+ your setup, you make two of these active while the rest remain hidden. Each turn you may activate 
+ one of your secret allies and place the starting allotment of troops to protect the province (or 
+ setup for an attack or setup to protect another province) . To be a consistent winner you have to 
+ manage your secret allies well and prepare for your opponent to reveal his. Another indicator of 
+ good game play is solid balance between the sides so its just not a matter of using one canned 
+ tactic or strategy to win. In MAN both players have units with the same exact stats. This may seem 
+ boring to some, but it make for perfect balance. 
+  
+  What I mean by fairness, is that the players who plays better will triumph the vast majority of 
+ the time. Obviously, balance plays a big part here, but there are two other factors that affect 
+ the fairness: initiative and secret ally distribution. I have found the secret ally distribution 
+ to play a minor part, but some setups can start you at a disadvantage. Initiative has a much greater 
+ impact. Phantom League (PL) player always moves first. This means that that the Free Nations Union 
+ (FNU) player will need to play more defensive on the first turn, especially on smaller maps. When 
+ games are setup, you can specify which side you want to play or you can let the computer pick. 
+ In tournament play, each player gets to play both sides so it is not an issue. During Clan Wars, 
+ this imbalance is taken into account by always having the attacker play FNU and the defender PL. 
+ This gives the advantage to the defender.
+  
+  In conclusion, MAN is a great value at ~$7 per month with no other initial investment. This means 
+ that you can play the full game with minimal risk (as we have all paid full retail for games that 
+ we hardly touched) . For me this game is addicting and keeps me coming back for more.
+  
+::::::
+
+-------------------------------------------------

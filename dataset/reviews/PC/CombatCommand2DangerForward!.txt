@@ -1,0 +1,125 @@
+-------------------------------------------------
+:::Game Name::: Combat Command 2: Danger Forward!
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/combatcommand2dangerforward/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jan 25, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.2
+Critic Score: 6.5, 12 Review (s)
+User Score: 4.5, 11 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Shrapnel Games
+Developer: Boku Strategy
+Genre: Historic Turn-Based...
+Date:     Dec 17, 2000
+
+-------------------------------------------------
+:::Review:::
+Combat Command 2 concentrates on taking the fundamentals of wargaming and making them easy to manipulate 
+ in a computer game. 
+
+ Last summer, the release of the innovative Combat Mission: Beyond Overlord was a major event in 
+ computer wargaming. However, outside the realm of tactical games (in which units represent single 
+ vehicles and small groups of men) there really hasn't been much deviation from the formula that 
+ has served wargamers for the past 20 years: a hex-based system derived from the traditional tabletop 
+ wargames that were most popular in the 1970s. Combat Command 2 sticks closely to this tried-and-true 
+ formula, but manages to seem like more than just another board-game port.           Click for full 
+ size image    
+
+ Combat Command 2 doesn't try to do anything revolutionary. Instead, it concentrates on taking the 
+ fundamentals of wargaming and making them easy to manipulate in a computer game. The game doesn't 
+ really introduce any new concepts, but it features the strategic decision making of a wargame without 
+ so many details that the game becomes an unplayable mess. Thus, Combat Command 2 avoids the needless 
+ complexity that plagues many computer wargames.   
+
+  The game also eschews fancy graphics and sound, to the point where those unfamiliar with the standards 
+ of wargames might think that Combat Command 2 is 5 or more years old. The unit graphics aren't 
+ actually bad as far as wargames go; they are clean and functional, though the terrain is ugly and 
+ can sometimes be difficult on the eyes. The sound isn't especially bad either; there just isn't 
+ much of it other than perfunctory gunfire and vehicle sounds that do little more than alert you 
+ to the fact that something is happening. Anyone who expects aesthetic gratification from computer 
+ games should probably pass on Combat Command 2.           Click for full size image    
+
+ Otherwise, Combat Command 2 features a robust gameplay system that concentrates on the difficulties 
+ inherent in commanding large numbers of military units in combat. The gameplay is turn-based, and 
+ it will be immediately familiar to anyone who has ever played a tabletop wargame. The game's scale 
+ is 500 meters per hex with turns the represent four real-world hours (six hours at night) and units 
+ of company size. Each of the more than 20 scenarios focuses on a battle or part of a battle and 
+ typically lasts several historical days. The scenarios tend to be Mediterranean or Western Front 
+ battles with an emphasis on amphibious landings and paratroopers. Units include American, British, 
+ Italian, and German troops, and battles range from small conflicts like the one for the Heraklion 
+ airfield in Crete, to a small portion of the Battle of the Bulge around Bastogne. Small-scale scenarios 
+ can be completed in an evening, while playing a larger battle might take several days. The game 
+ also features extensive rules for paradrops, glider landings, minefields, night combat, and all 
+ the features you'd expect from a World War II game.   
+
+  As its name implies, Combat Command 2 focuses on the problems of actually commanding troops on 
+ the battlefield and thus includes a detailed command system that rewards you for keeping formations 
+ intact instead of just spreading units around to get the optimal mix of combat factors. The printed 
+ manual spells out all the game mechanics clearly and includes all the charts and tables used in 
+ the game. There are no mystery calculations, and unlike The Operational Art of War series, Combat 
+ Command 2 doesn't feature an excessive number of overly complex calculations. The game displays 
+ the projected combat results table for each combat (dynamically, as you select units) so that you 
+ can quickly see your chances for success.    
+
+ Playing the game involves quite a bit of clicking, but because of the redundancy of the interface 
+ (unit modes can be assigned either by clicking an onscreen button or by right-clicking the mouse, 
+ for instance) the game plays significantly more smoothly than most similar computer wargames. The 
+ game conveniently lets you display different vital information on the units themselves simply by 
+ pressing the Tab key to cycle though a unit's statistics. Multiple zoom levels also help you keep 
+ track of the battle. When you click on a unit, it's easy to see where it can move and how many 
+ movement points it takes to get there. The only problem is that it's easy to accidentally move 
+ a unit instead of deselecting it, although as you get used to the game, this becomes less of a 
+ problem.           Click for full size image    
+
+ Unfortunately, the artificial intelligence in Combat Command 2 is plagued by the same problems that 
+ appear in virtually all wargames. Specifically, while the AI can manage individual units acceptably 
+ and its tactics aren't bad, it has a hard time coordinating large attacks and sometimes acts as 
+ if it can't see the forest for the trees. As with other wargames, these deficiencies are less evident 
+ when the AI is on the defensive.   
+
+  Regardless of the game's AI, Combat Command 2's solo scenarios are enjoyable enough. There is enough 
+ variety in the scenarios to give you a range of possibilities, including attacking as either the 
+ Axis or the Allies. To this end, there's a hypothetical Sealion scenario (the invasion of England) , 
+ which gives the Germans a chance to drop paratroops, make amphibious assaults, and attempt air 
+ landings.   
+
+  However, Combat Command 2 was clearly designed with play-by-e-mail (PBEM) play in mind, and it's 
+ most enjoyable when played in this manner. The computer can be told to handle up to four different 
+ phases by itself, including direct fire, assault defense, withdrawals, and advances, and assigning 
+ these functions to the computer lets you proceed at a pace of one mailing per player-turn. You 
+ can also take control of individual phases yourself, although the game has a bug that won't let 
+ you end your turn if you're using manual withdrawals but have no withdrawing to do. As such, PBEM 
+ games should be played with computer-controlled withdrawals until a patch is produced. The AI decisions 
+ in these phases are reasonable, and they won't hurt your chances of victory. The game even notifies 
+ your opponent if you reload a previously loaded turn, which helps reduce the cheating that sometimes 
+ occurs in PBEM games. The replay feature provides all the information you need from your opponent's 
+ turn, and does so quickly, so there's little delay.           Click for full size image    
+
+ The game also includes a scenario editor that lets you create other historical battles on a similar 
+ scale, and the exchange of user-made scenarios is often what gives wargames like this extended 
+ life. While would-be designers are currently limited to the terrain and unit mix in the game (and 
+ thus can't create Eastern Front or North African scenarios, because there are no Russians or desert 
+ terrain) , Shrapnel Games has plans to extend this same system to other theaters of war.   
+
+  Combat Command 2 also fills a niche between purely tactical games like Combat Mission and operational 
+ games like John Tiller's Panzer Campaigns series that depict entire campaigns on a larger scale. 
+ There hasn't been a good World War II game that portrays battles of this scale since the venerable 
+ V for Victory series. Combat Command 2 is only available by direct order through the Shrapnel Games 
+ Web site at www. shrapnelgames. com. The game comes without a box, with the CD in a paper sleeve, 
+ shrink-wrapped inside the manual. Despite its no-frills appearance, the game features enough substantial 
+ gameplay to more than justify its $39.95 price tag. While it probably won't appeal to anyone other 
+ than historical wargamers, these players will find Combat Command 2 a satisfying experience.   
+  
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

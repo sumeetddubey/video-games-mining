@@ -1,0 +1,89 @@
+-------------------------------------------------
+:::Game Name::: History of the World
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/historyoftheworld/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Sep 26, 1997
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 2.5
+Critic Score: 4.8, 1 Review (s)
+User Score: 6.7, 17 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Avalon Hill
+Developer: Colorado Computer
+Genre: Strategy
+Date:     Jul 31, 1997
+
+-------------------------------------------------
+:::Review:::
+One of the most lifeless board game conversions going. 
+
+ If you want to see how to turn a board game into a computer game, look no further than Hasbro's 
+ Risk, Scrabble, or Monopoly. If you want to see how not to turn a board game into a computer game, 
+ try History of the World.  
+
+ History of the World is a popular and entertaining board game for two to seven people. It's best 
+ when played with a large, mostly drunk group and involves carving out an empire for oneself over 
+ seven historical epochs. Think of it as Risk for the anal-retentive.   
+
+ Avalon Hill, however, has had notoriously poor results with conversions of its classic board games. 
+ Most recently, Third Reich limped to the shelves, three years out of date. Now History of the World 
+ is bunged into our hard drives with little more to recommend it. Avalon Hill is not alone in perpetrating 
+ this one. Colorado Computer Creations (of High Command fame) did the programming. Avalon Hill should 
+ have shown more care with one of its major game assets.   
+
+ You begin an epoch by drawing a card. This card represents your kingdom and any special benefits 
+ you get from it (strength points, navigation technology, and so on) . You also draw event cards 
+ that can be played at any point in the turn. These trigger specials events such as earthquakes 
+ that knock down an enemy capitol or rebels that try to overthrow a territory. Gameplay itself unfolds 
+ on a squished map of the world, highlighting the area from Japan to Western Europe as a series 
+ of lands grouped into regions. You're given an empire, you deploy army units into neighboring regions, 
+ play any special events, and then wait for your opponents to do the same. If an opponent decides 
+ to take over one of your regions, a simplified die-roll combat decides the victor. The key is to 
+ control enough landmasses to have the most victory points at the end of seven epochs.  
+
+ On the dining room table, with plenty of beer and chips at hand, this is all rather fun in a Risk 
+ sorta way. On the computer screen, however, it dies a thousand deaths. It is just about one of 
+ the most lifeless board game conversions going, with any attempt to lighten the mood or add some 
+ color merely adding to the gloom. (Try the hackneyed tutorial or look at any of the AVIs if you 
+ don't believe me.)   
+
+ The problems are many. First, it is programmed very badly, with a cumbersome, sluggish interface 
+ that is right out of Windows 3.1. The toolbar is a mystery, and the various windows are all separate 
+ rather than being integrated into a single, fluid gameplay environment. It runs like a dog despite 
+ being pretty short on chrome. None of the commands has hot text, so it's back to the manual each 
+ time you need to puzzle one out. There are two zoom modes for the game map, but the large zoom 
+ is half size and not all that useful. Not that this matters, since the map is only slightly better 
+ than the one found in Third Reich, which was only slightly better than playing lines-and-dots on 
+ notebook paper. In a word, it is a visual and technical turkey.  
+
+ Well, okay, at least those low-bandwidth visuals can be put to good use, right? Fast Internet play! 
+ Live chat! A good place for this game to come alive. Maybe so, but we'll never know, since the 
+ only multiplayer element is the dreaded e-mail game, which only five guys in the applied physics 
+ department of Kalamazoo U. still bother with.   
+
+ The implementation of Internet support may have saved HOTW. The gameplay itself, however, does not 
+ even remotely translate into a solo game. The abstract conquering of countries on the basis of 
+ drawing cards and placing chits on an ugly map does not exactly give us Civilization II or Imperialism. 
+ Military units have no special properties or skills: They are merely attackers and defenders, all 
+ with the same ratings. The tactical element is not only minor (die rolls) , but badly handled, since 
+ an enemy just attacks and if he wins, your chit just disappears. No fanfare, no combat results. 
+ At least, none I could find on the oh-so-confusing screen.  
+
+ Gameplay unfolds in a routine, predictable way no matter how many times you play. All of the joy 
+ of expansion and conquest has been sucked out of this game like the final drops out of a Slurpee 
+ cup. It is a shame that Avalon Hill, which happens to own the rights to some of the greatest board 
+ games in history, has never been able to bring those games to the computer with any degree of success 
+ (aside from the efforts of Atomic Games) . History of the World is simply the latest in a long line 
+ of disappointments.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

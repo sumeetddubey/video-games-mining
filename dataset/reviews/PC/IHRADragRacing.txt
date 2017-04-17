@@ -1,0 +1,253 @@
+-------------------------------------------------
+:::Game Name::: IHRA Drag Racing
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/driving/ihradragracing/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jan 23, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.3
+Critic Score: 5.5, 2 Review (s)
+User Score: 6.4, 22 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Bethesda Softworks
+Genre: Drag Racing
+Date:     Dec 3, 2000
+
+-------------------------------------------------
+:::Review:::
+Because of all the game's problems, it seems likely that not many players will stick with it long 
+ enough to enjoy it. 
+
+ If you carefully examine the retail packaging of Bethesda Softworks' IHRA Drag Racing, you'll probably 
+ notice something missing: the name of the game. The only instance that it's actually called IHRA 
+ Drag Racing is in the tiny text on the back of the box; everywhere else, it simply reads "IHRA 
+ Motorsports." Maybe the absence of the game's title on the box isn't necessarily that big of a 
+ deal. But in this case, the omission is emblematic of the entire game, which is too unpolished 
+ and incomplete to be suitable for anyone besides the most patient and most serious racing enthusiasts. 
+   
+
+  Bethesda Softworks promised a lot of enhancements for IHRA Drag Racing, but in the shipping version 
+ of the game, far too many of these are completely left out; or they don't work as they're supposed 
+ to. And though it's been three years since Bethesda published Burnout, the first drag racing simulation 
+ for the PC, the company's latest drag racing simulation suffers from many of the same problems 
+ that kept the first game from being entirely successful.   
+
+  Drag racing might seem like a simple sport, but there's much more to it than meets the eye. As 
+ in Burnout, the list of engine and chassis modifications in IHRA Drag Racing can be enough to make 
+ your head swim - there are so many variables that it makes tweaking an engine in a complex racing 
+ sim like Grand Prix Legends seem like child's play by comparison. With so many things to adjust, 
+ you'd expect a manual that's clearly organized - one that gives you some guidance as to which areas 
+ are most critical to optimizing performance. Instead, the IHRA Drag Racing manual throws a lot 
+ of information at you in a matter-of-fact style that's sure to leave less mechanically inclined 
+ players reeling.   
+
+  If the manual had offered a basic tutorial that explained some of the possible mechanical adjustments, 
+ it would have gone a long way toward easing the game's very steep learning curve. But all you get 
+ is four pages of generic setup information and a few tips on how to improve your chances of winning 
+ bracket races, in which the dragsters leave the start line at different times. What's most surprising 
+ of all is that the table of contents page is blank, and since there's no index either, it can be 
+ mighty difficult to find a vital piece of information, like where you set your dial-in time.   
+ 
+
+  Fine-tuning your engine, transmission, suspension, chassis, and other components makes up a large 
+ part of the challenge in drag racing - you'll probably spend more time in the garage than actually 
+ running races. Fortunately, once you figure out the major stuff, it's actually pretty fun to make 
+ changes and then head out for a practice run to see how much acceleration you've gained or if your 
+ top-end speed improved. However, in the garage, there are a couple of quirks that might leave you 
+ confused. The manual claims that you can sort chassis types with filters - so that you can choose 
+ to look only at rails, funny cars, classics, and so forth - but it doesn't work. You have to scroll 
+ through all chassis types regardless of the type you selected. Since there are more than 50 chassis 
+ types to choose from, this can be frustrating. What's even worse is that certain chassis stats, 
+ such as total weights and corner weights, don't change when you select a new chassis; instead, 
+ you have to select a new chassis and then hit a "reset all" button to see the correct information. 
+    
+
+ IHRA Drag Racing features 10 of the 11 tracks that make up the 2001 IHRA Summit Drag Racing Series, 
+ as well as the cars of 20 IHRA racers from various categories. The box claims you'll race against 
+ these IHRA luminaries, but instead you get fictional drivers sitting in the cars of the stars. 
+ Otherwise, you'd expect at least a little background info on the 20 real-life drivers whose cars 
+ are featured in the game, especially since they aren't household names - but the game just assumes 
+ you already know all about them, so it doesn't offer any biographical data.   
+
+  The game claims to model full weather dynamics at the 10 tracks, but this also doesn't work as 
+ you'd expect - namely, setting the weather conditions to "random" doesn't result in random weather. 
+ We were shocked when the random-weather option made for a 109-degree scorcher -  at night  - in 
+ Cordova, Illinois, and we were even more surprised when the weather remained unchanged when we 
+ moved on to the next event in Darlington. And once a season begins, there's no way to alter the 
+ environmental conditions. There's no point in modeling full weather dynamics if you can only change 
+ the setting before single events or single races.   
+
+  The actual racing in IHRA Drag Racing is enjoyable, though the car graphics are merely fair and 
+ the flame effects coming from the sides of the cars look terrible. The game doesn't let you do 
+ much with the appearance of your car, although you can use a third-party paint program to customize 
+ your car's appearance. But since the game doesn't give any guidance on this process, it can take 
+ a lot of work just to get your own logo on a car in a way that it can actually be read. Also, since 
+ drag racing is all about sheer power, it's only fair to expect good force feedback support from 
+ a game like this - especially since force feedback is one of the features touted on the game's 
+ Web site. However, force feedback support isn't actually available in the game, and neither is 
+ a full-screen VCR mode - you have to watch replays in a tiny box that takes up about an eighth 
+ of the screen.   
+
+  Bethesda did release a patch very soon after IHRA Drag Racing shipped. But the sheer number of 
+ issues it fixed or addressed - more than 20 bugs, along with important added features like engine 
+ damage - is enough evidence to make you suspect that the game might have been released before it 
+ was totally tested so that it would hit shelves before Christmas. One of the biggest changes the 
+ patch delivered was built-in GameSpy support for Internet play, but we found no opponents online 
+ on Bethesda's IHRA server.   
+
+  If you devote a lot of time and patience to the game, there's certainly some fun to be had in IHRA 
+ Drag Racing. Unfortunately, because of all the game's problems, it seems likely that not many players 
+ will stick with it long enough to enjoy it.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: nascarnetboggy
+Rating: 4.3
+Date: Jul 18, 2006 12:45 pm PT
+Review:  The Good - 50 Cars ranging from Classics to Pro Cars, Somewhat good physics, Graphics are okay 
+ for a game released in 2000, Neat damage model...
+  
+  The Bad - A massive array of glitches and bugs that make the game crash, No tutorial for setting 
+ up the car, Entire game feels rushed as patches fix problems that should have been addressed before 
+ the game was released...
+  
+  
+  No matter how much you try, it is darn near impossible to enjoy IHRA 2000. Bethesda Softworks, 
+ the company that brought you Burnout Championship Drag Racing makes it's fourth attempt at producing 
+ a full-simulation of the sport of drag racing. However, they failed miserably. IHRA 2000 is not 
+ only one of the worst racing games of all time, but probably the most broken game ever made. Honestly, 
+ what company releases a game while it is still in beta form???
+  
+  Upon loading up IHRA 2000, you get a very nice intro movie, followed by a very bland looking menu. 
+ A few different options are present, including Race, Shop, Options, Tracks, and VCR. Of course, 
+ if you want to pick your car, you'd head to the shop...
+  
+  After entering the shop, you get a truck-load of options. 50 different cars are available for you 
+ to drive right from start-up. The majority of these cars are street cars, such as a 1972 Barracuda, 
+ 1957 Chevy Bel-Air, all the way to a 1998 Pontiac Firebird. Once you are finished drooling at these, 
+ you'll find the Pro cars. The game has four classes of Professional cars, ranging from Top Fuel, 
+ Funny Car, Pro Stock, and Pro Mod. It also includes a handful of fictional cars based in these 
+ classes, and there is something for everyone...
+  
+  The game really starts to open up as you scroll through the different shop options. Almost everything 
+ that can be done to a real race car can be done in here. You can change everything in the engine, 
+ transmission, suspension, and chassis. A neat thing with these options, is that some adjustments 
+ can be seen on your car. If you don't want a wing, it won't appear on your car. Same with the wheelie-bar. 
+ Changing the length and height will appear on the car. It's amazing how many things you can do 
+ to your car in this game...
+  
+  After spending at least ten minutes in the shop, you can head to the track. 9 tracks are waiting 
+ to be selected in this game, and all of them are from the 2000 IHRA season. All of the tracks are 
+ designed quite well, and they look like they should. Some of the ground textures look quite ugly 
+ though, but it still looks good for an old game. You'll also be able to change the weather, to 
+ run at any time during the day, which is a nice touch. You can also pick a few preset conditions, 
+ but it's weird seeing a "Tropical" climate in Grand Bend, Ontario...
+  
+  You have a few different options of how you want to race in IHRA 2000. You have to pick your class 
+ first, and there are about 9 or 10 preset ones. You'll get your standard Bracket, and Heads-Up 
+ races, but you'll also find Top Fuel, Pro Mod, Pro Stock, and Funny Car rules. These rules don't 
+ really affect the racing, but they do affect the way you set up your engine. Some classes have 
+ a minimum weight requirement, a certain body style requirement, and other little things here and 
+ there. If you don't meet all of the standards (which you can check in the shop by hitting the "Tech 
+ Inspection" button) , you won't be able to race. For the most part, you'll want to choose Heads-Up 
+ or Bracket, since those offer the most flexibility. You can also create your own class if you want. 
+ Once you are done selecting your class, you can choose a few different race types, how many people 
+ are in the race, the difficulty, and so fourth. Practice gives you a single run, racing only yourself, 
+ Single Race puts you against a random opponent, Single Event lets you run a full event, and Season... well... lets 
+ you run a Season. All of the modes are pretty well balanced, but none of them are really in-depth, 
+ and Season mode doesn't explain how the point system works...
+  
+  The game seems pretty fun after choosing all of your settings, but the fun factor starts to crumble 
+ as soon as you're at the track behind the wheel of your car. The game doesn't instruct you to do 
+ anything, so if you're new to drag racing, you might have a hard time. You can do your burnout 
+ in several ways, and all of them work okay. After the burnout, you are told to stage your car (put 
+ it at the starting line) . The game does a good job of showing how close you are to the line, with 
+ a great "Tree" HUD. Once staged, the three amber lights come on, and its up to you to react as 
+ quickly as you can to get down the track. Leaving too early, crossing over to the other lane, and 
+ hitting the wall will disqualify you. So, where does the game fall apart?
+  
+  The answer is simple, as soon as the amber lights go out...
+  
+  The driving model in IHRA 2000 
+ is horrible. The default setups for some cars have the front wheels launch waaaaay up in the air, 
+ making the car too difficult to drive. In fact, IHRA 2000 is hard for all the wrong reasons. There 
+ is no Tire Shake (loss of traction) , no pedal-fests (trying to get back in control by going on 
+ and off the gas) , and not too many blown motors. Thats right! Unless you have the patch, it's impossible 
+ to blow the engine! The physics are okay, but it has the wrong order of driving difficulty. In 
+ real life, Top Fuel and Funny Cars are hard to drive, and the street cars are a breeze. In this 
+ game, it's almost impossible to keep the street cars straight, but you don't even need to tough 
+ the controls for the so-called "faster cars". 
+  
+  The AI cars also aren't that great. Their difficulty can be set, but they don't seem to have any 
+ problems while driving. They don't lose traction, they don't crash, and they rarely make a mistake 
+ while driving. If you have a fast setup, but it's hard to handle, the AI cars will slaughter you...
+ 
+  
+  There is an online mode, but it doesn't work as well as it should. In fact, it doesn't work at 
+ all. Clicking the online mode button will crash the game. Actually, it's a good training tool, 
+ because the game crashes a lot...
+  
+  If you plan on getting the game, the only place you can find it is www. shra. net. No, it's not illegal, 
+ because SHRA is the official partner of Bethesda. If you have this version, too, you might notice 
+ all of the bugs this game has. This is not from the online version, this was how the game was released. 
+ The patches fix most errors, but patch 1.01 has an install error, rendering it useless. Also, the 
+ game has a weird "Car Error", that when appears, will crash your game. If you see an opponent that 
+ has this in their vehicle title, exit out of the race, and restart it. This prevents having big 
+ fields of cars because of this glitch, and it gets very annoying. The VCR feature, which lets you 
+ watch your race in almost any view possible (this rivals the Papyrus replay system) only lets you 
+ watch the race in a tiny screen in the bottom left corner. Sadly, it cannot be enlarged to fit 
+ the entire monitor, so you're stuck squinting to see the awesome wreck you just had.
+  
+  After a while of playing IHRA 2000, the game just begins to get dull. Tuning your car is fun for 
+ a little while, but gets tiresome with just too many options. The Car Error bug puts you on edge 
+ for a little bit, as it's impossible to run a big field without the bug hindering your day. There's 
+ also just not much else to do between racing. Maybe it's because the cars just aren't fun to drive. 
+ You don't have to battle the car to stay in the groove for the Pro cars, but it's darn near impossible 
+ to keep the wheels on the ground with the street cars.
+  There's not a good variety in Season mode, and having to adjust the AI to match your skills just 
+ wastes time.
+  
+  - - - Score Summary - - -
+  
+  Gameplay - 4 - Tuning cars is fun, but the racing is boring, as little skill is required, and there 
+ is little difference between the nine tracks. It's frustrating to race the street cars, but if 
+ you hit the "Reset to Defaults" button in the setup screen, they go too slow, and just aren't fun 
+ to drive. Most modes are quite bland, and the weather is the exact same for all events in Season 
+ mode. A few different race options, but it's too hard to figure out how to tweak the engine so 
+ you can drive in Top Fuel. Plus, the Car Error glitch prevents you from running large fields of 
+ cars...
+  
+  Graphics - 6 - The graphics look good from far away, but they are horrible close up. The paint 
+ schemes on the cars are blurry, and there is no racing groove on the track. Most of the tracks 
+ look good, but have very bland textures. Top Alcohol Funny Cars have flames out the sides, yet 
+ in real life they don't, because they don't run on Nitromethane. Menu artwork is somewhat good...
+ 
+  
+  Sound - 4 - The in-game announcer is very dull, and has about 7 lines of commentary. You can choose 
+ the engine sound for your car, but you can only select from street car sounds. You can't actually 
+ pick from engine sounds from Top Fuel cars or anything like that. In fact, I didn't really notice 
+ the sound at all, since there was so little of it. The music in the game is horrible...
+  
+  Value - 4 - It's an okay bargain for $10.00, but it's now for free at www. shra. net, and that's 
+ okay, since this game isn't really worth the $10.00 asking price...
+  
+  Reviewers Tilt - 4 - For the few days I played it, it's merely okay. It would have gotten higher 
+ if there was a car setup tutorial, or simply more cars, more tracks, and less annoying glitches...
+ 
+  
+  Final - 4.3/10.0 - IHRA 2000 is an okay game at first, but it runs out of gas too quickly. The 
+ glitches mess up the fun factor a lot, and you'll crash to the desktop faster than it takes your 
+ car to run a quarter-mile. If you can get by all the glitches and just want to mess around with 
+ the car setup, it's actually quite an enjoyable game. But for those who want to race and have fun 
+ doing it, look in the exact opposite direction of IHRA 2000... 
+::::::
+
+-------------------------------------------------

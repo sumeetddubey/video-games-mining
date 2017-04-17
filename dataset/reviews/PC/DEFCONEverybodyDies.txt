@@ -1,0 +1,2062 @@
+-------------------------------------------------
+:::Game Name::: DEFCON: Everybody Dies
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/defcon/review.html
+-------------------------------------------------
+:::The Good:::
+ It's the <i>WarGames</i> simulation you've been waiting 20 years for.
+ straightforward objective and intuitive interface make it good for novices.
+ simple and elegant visual style.
+ online and offline games are seamless.
+ low price point makes it a bargain.
+-------------------------------------------------
+:::The Bad:::
+ No real dedicated single-player campaign.
+ no online leaderboards or tournaments.
+ computer opponent difficulty doesn't scale.
+-------------------------------------------------
+:::Date::: Oct 10, 2006
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.1
+Critic Score: 8.3, 36 Review (s)
+User Score: 8.5, 809 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Introversion
+Genre: Sci-Fi Real-Time Strategy
+Date:     Sep 29, 2006 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Though not a complex strategy game, Defcon's specific sense of style makes for a compelling and 
+ unsettling experience. 
+
+  In a sincere act of tribute, developer Introversion has taken the deadly global thermonuclear warfare 
+ simulation from the classic 1983 Cold War film  WarGames  and fleshed it out into a full game called 
+ Defcon: Everybody Dies. The game stays true to the message of its source material, which is that 
+ there are no winners in nuclear war, though it does posit that perhaps with the right strategy, 
+ you can lose  less  when it finally does happen. The game's abstract visual style is absolutely 
+ striking, presenting Armageddon with a certain cool detachment, and the simple, clear-cut objective 
+ makes it an easy game to pick up. Defcon's biggest weakness is that beyond the queasy thrill of 
+ simulating full-scale nuclear war, there's not much structure.  
+
+          Missile Command reaches adulthood.     
+
+  A big part of what makes Defcon so intriguing 
+ is its presentation. The game's interface consists almost entirely of a flat, horizontally scrolling 
+ map of the world and how it looked around 1983, which means that if you look closely at borders, 
+ you'll see that East and West Germany are still divided, countries like Czechoslovakia and Yugoslavia 
+ are still in one piece, and most importantly, the U. S. S. R. is still united. Vector-based visuals 
+ and a purposeful lack of geographical detail on the map give the game a very clean look, and the 
+ simple icons used to identify radar arrays, missile silos, airbases, and naval fleets further the 
+ game's abstract feel. It has the look and feel of a pure military simulation, and touches like 
+ the dotted lines that trail a missile's trajectory and the white blots and kill-count numbers that 
+ accompany a successful nuclear strike lend a certain sense of authenticity.  
+
+  One of the most chilling aspects of Defcon is the subtle ways it suggests that it's more than a 
+ simulation, something it does almost entirely through sound design. The sounds that accompany the 
+ action are appropriately blippy, and there's definitely something sinister about the Klaxons that 
+ sound when you reach a new Defcon level, but it's the ambient sounds that really set the mood. 
+ There's not so much music as there is a drifting, ominous instrumentation, and mingled with these 
+ dark sounds are the light hum of computers, the hollow wash of recycled air, some indistinguishable 
+ radio chatter, and the faint sound of someone coughing. Or is it crying? The ambient sounds end 
+ up looping after a while, but that doesn't lessen their effect of making you feel like you're holed 
+ up in a bunker, helping dictate how the world ends through a remote computer terminal. As a minor 
+ note, the game also features a pretty good manual, which comes off like a Cold War survival guide 
+ with explanations of what fallout is and some half-serious suggestions on building a shelter and 
+ fabricating your own fallout suit.  
+
+  As a real-time strategy game, Defcon strips away all of the economic systems that arguably make 
+ many modern RTS games impenetrable to nonveterans, so it becomes purely a matter of military might. 
+ The world is divided up into six territories -- North America, South America, Europe, Africa, Asia, 
+ and the U. S. S. R. -- and in a typical game, you'll take control of one of these territories as you 
+ attempt to dish out as much radioactive damage as you can while minimizing collateral damage. The 
+ pace of the game is dictated by the five different Defcon levels. The game starts at Defcon 5, 
+ which is when you build. There are radar stations you'll need to see enemy units, silos that can 
+ act as either antiair installations or missile launch sites, and airbases from which to launch 
+ fighters and nuclear-capable bombers, as well as fleets of battleships, nuclear submarines, and 
+ carriers stocked with fighters and bombers that you'll need to place in the waters controlled by 
+ your region.  
+
+  You can continue building into Defcon 4, which is when your radar stations will begin functioning. 
+ Once you hit Defcon 3, you lose the ability to build any more structures, but by this time you 
+ should be exploring enemy territories with your naval units and maybe attempting to engage your 
+ enemies' naval units. The setup continues in Defcon 2, but it's not until you reach Defcon 1 that 
+ you can actually start deploying nukes, which is when the game really gets interesting. Be default, 
+ every region starts out with the same number and types of units, which further simplifies the fundamental 
+ rock-paper-scissors dynamic. You'll find that it makes your job easier when you destroy your enemies' 
+ military forces, but the real goal is to make successful nuclear strikes on your enemies' cities, 
+ as the basic scoring is predicated on the number of civilian deaths you've caused.  
+
+  The first four Defcon levels are timed, while Defcon 1 lasts until a certain percentage of the 
+ world's nukes have been deployed before it goes into the final two-minute-warning-style victory 
+ timer, which gives the game a unique pace, though you can speed up or slow down the action at will. 
+ It's seamless enough to play against artificial intelligence opponents, but Defcon seems very purposefully 
+ designed as an online game -- simply choosing "new game" from the main menu puts you into a three-player 
+ game that anyone from the Internet can hop into. What's interesting, though, is how many different 
+ variables you can set before the start of a match, and what a profound impact these choices can 
+ have on the feel of the game. Simply altering the number of players can radically affect how a 
+ game plays out, since playing with the full six tends to cause players to form strategic alliances. 
+
+  There are also a number of alternate modes that you can choose from. There's the accurately named 
+ office mode, which runs in a window with no sound that can be instantly minimized by hitting the 
+ escape key, and which runs strictly in real-time, meaning that it'll take you a good six hours 
+ to play a single game. Speed defcon works almost the opposite, running the game at an accelerated 
+ rate so that a single game will last no more than 15 minutes -- not much time to go from relative 
+ tranquility to the end of the world. Diplomacy starts the match with everyone part of the same 
+ alliance, which means that everyone can see everyone else's units, creating a metagame of chicken 
+ to see who will break off from the alliance and start attacking first. BigWorld mode stretches 
+ out the length of the game by doubling the number of units but halving their size and radar range. 
+
+          Would you like to play a game?     
+
+  Beyond even these preset modes, you can choose different scoring methods that don't penalize you 
+ for the deaths of your own civilians and tweak a number of other granular options such as the number 
+ of territories each player is allowed to hold, the number of cities per territory, whether the 
+ territories are randomly assigned, whether players have a fixed number of units or if they can 
+ choose to spend "credits" to customize their resources, and more. All these options give a lot 
+ of life to a strategy game with one map and a handful of different units, much more than you might 
+ expect, and our experiences with the game online were consistently good. Unfortunately, there's 
+ no dedicated single-player scenario mode, and the AI opponents, while fairly capable, aren't scalable 
+ and don't really play on an advanced level. Even when playing online, it's just a one-off match, 
+ with nothing in place for leaderboards or tournaments or anything of the like. There is a mode 
+ called tournament, though that's a bit of a misnomer, as all it really does is prevent spectators 
+ from chatting with the players. As hypnotic as the visual style and subject matter can be, eventually 
+ the lack of a greater objective makes the game feel a bit listless.  
+
+  Even though the main source of inspiration for Defcon is more than 20 years old, and Cold War paranoia 
+ is a thing of the past, the game feels disturbingly relevant, and much like developer Introversion's 
+ past work, Uplink: Hacker Elite and Darwinia, there's truly nothing else quite like it today. It 
+ doesn't do any heavy-handed sermonizing about the price of war or the blurry lines between games 
+ and reality, but the game's matter-of-fact presentation of nuclear holocaust makes it hard not 
+ to ponder these topics anyway.     
+-------------------------------------------------
+:::User Reviews::: (58 Reviews)
+::::::
+UserName: archoniam
+Rating: 5.5
+Date: Jan 31, 2009 6:56 pm PT
+Review:  When I saw the game DEFCON on Steam, I thought it would be a masterpiece in the making. Unfortunately, 
+ its lack of multiplayer and repetitive gameplay make it a sore loser.
+  
+  The Good:
+  -Controls are RTS-style
+  -Very nice "whiteboard" option, allowing for drawing points of nuke 
+ hits/movements
+  
+  The Bad:
+  -Slow without speed-up buttons
+  -Multiplayer lacking active servers and players
+  -Hard
+  -Confusing gameplay
+  -I would expect 
+ a lot more from a free flash game.
+  -No storyline
+  -Kind of sad, if you consider what you're doing
+  
+  In my humble opinion, DEFCON was a big letdown. 
+ There's probably a similar flash game out there that is free and much better than this. For an 
+ RTS, it passes the bar for a fair game, but not enough to be in the league of top RTS games. If 
+ you want a good RTS, i would consider Dawn of War or Warcraft III. 
+::::::
+
+::::::
+UserName: gbarules2999
+Rating: 8
+Date: Jun 29, 2008 6:43 pm PT
+Review:  The chorus echoes into your brain as you push the trigger. Slowly the little icons representing 
+ large nuclear explosives soar through the European sky finally hitting their Russian target. The 
+ chorus jumps higher in anticipation as the display reads5 million dead. And slowly, you back away 
+ from the display, and the game makes you wonder: who really won?
+  
+  This is the deep, dark truth of Defcon, the game by Introversion (makers of Uplink and Darwinia) 
+ that pits you into strategic waters, where you have to create allies, expand your fleet and prepare 
+ for the inevitable, because as soon as the timer hits Defcon One, as the subtitle implies, Everybody 
+ Dies. From the atmosphere to the intricate online and offline battles, the game becomes its own 
+ genre, beyond an RTS. It's war.
+  
+  The game is eerie in this way, when it places you in such a power that you have two conflicting 
+ morals: the virtual landscape with the cold efficiency that the game tells you its death toll, 
+ and the final hour when missiles are on every side and your enemies are closing in. It's a very 
+ surreal experience, regardless that it's completely fabricated, because it feels plausible. The 
+ game is a very emotional one, because you know it could happen.
+  
+  You know that America could start launching its supply at South America, because there's the capability 
+ for it. But what if you decide that you want their aid as well? Open up a private channel and inform 
+ them of your alliance offer. Maybe they will accept. Perhaps you could offer your friendship and 
+ tell them to start launching many, many nukes at an enemy, while you go behind their back and tell 
+ the enemy that they should defend. While the nukes are in the air, blast that former friend to 
+ smithereens, all in the name of politics.
+  
+  But then after the launching is done, and nukes sail through the air and the entire continent is 
+ green with radiation: five million, six million, ten million dead. The soundtrack comes in when 
+ the smoke has cleared and everyone is over and done withthe distinct chorus sings and slow, mournful 
+ tune beneath an odd, out of key note. Then you gaze over the display and look at the war, and you 
+ realize that this isn't a game at all, no matter how simple it may seemIt's actually quite real. 
+ The plausibility has never really penetrated you before, until this. It affects you.
+  
+  The simplicity is part of it, as well. With a very straightforward set of units, there's no complexity 
+ here. The real focus is on who your friends are, and how you deal with what you have. An apt metaphor 
+ is chess, because of the balance, ebb and flow of the games you play. It's a fun game, abet simple, 
+ and it has a message.
+  
+  Defcon: Everybody Dies. 
+::::::
+
+::::::
+UserName: dgsag
+Rating: 9
+Date: Apr 25, 2008 9:25 pm PT
+Review:  Full review and score breakdown, here: 
+  http://www. poland. us/strona,33,2357,0. html
+  
+  The trend in the gaming market has been a move towards more and more sophisticated games with even 
+ more detailed and realistic graphics than have come before. While these games strive to provide 
+ the next level of immersion, they ignore the power of a more simple representation. DEFCON: Everybody 
+ Dies provides a chilling view of a modern world war through the most removed view possible in such 
+ a game.
+  
+  The premise of DEFCON is simple: you're presented a digital representation of the world and your 
+ territory and your allies. Both sides start with the same amount of forces and resources available 
+ to them, meaning that placement of forces and platforms is key to winning the game. The game moves 
+ through several stages as time progresses, called DEFCONs. As each stage expires, the game moves 
+ on and allows players to take more and more hostile actions. From DEFCON 5, where you are allowed 
+ to place your installations, silos, fleets, etc, in range of your territory; you move up the ladder 
+ through increasingly destructive stages until you reach DEFCON 1, allowing all sides to start nuclear 
+ launches. At this point, its a war of attrition, finding yourself hoping that your AA defenses 
+ will hold out long enough for your nukes to completely level an opposing continent. After the game 
+ reaches DEFCON 1, you'll have a set time in which to gain as many points as possible by nuking 
+ the enemy's population and keeping your own citizens alive. By default, the game is weighted towards 
+ killing more than protecting, so the action gets very hot very quickly.
+  
+  There's some simplistic RTS play in between these stages, where players pitch air forces and navies 
+ in order to weaken each others' defenses to open up the stage for a devastating nuclear assault. 
+ There are three types of ships, each of which is vulnerable to another in a simple rock-paper-scissors 
+ mechanic. You'll want to make sure that you don't spend too much time fighting, however, since 
+ carriers and subs are better used to launch nuclear attacks at your enemy once you reach DEFCON 
+ 1. Since they can sail right up to your enemy's coast, they'll often fire your first shots against 
+ an opponent. Knowing just where and when to launch your first strike can make or break your whole 
+ game.
+  
+  Where DEFCON truly succeeds is its representation and depiction of the worldwide battlefield. Everything 
+ is seen as if it was on a real-life tactical display screen, with little 2D icons representing 
+ forces and nuclear missiles blipping across the map. When a city is hit by a nuclear device, the 
+ computer coldly reports the amount of dead resulting from that strike. It really is chilling to 
+ see a city such as Berlin light up for a few seconds, with the words: "1.8 MILLION DEAD" appearing 
+ over it.
+  
+::::::
+
+::::::
+UserName: TheHasselhoff
+Rating: 8
+Date: Mar 8, 2008 2:10 am PT
+Review:  Though certainly not a game for everyone, who can fault the concept of CREATING nuclear war instead 
+ of the tired and formulaic good-and-evil fight against it? If anything, DEFCON goes further than 
+ any game in recent memory to show just how depersonalized and utterly possible a full-scale conflict 
+ could be. One finds themselves putting a great deal more thought into strategic planning and future 
+ hostilities than originally imagined, and the kitschy "political incorrectness" of DEFCON quickly 
+ melts into a very solid strategy and combat simulator.
+  
+  There is no reason why a gamer who finds Civilization or Age of Empires compelling would not find 
+ something to like about the nail-biting strategy and heated decision-making the player is forced 
+ into during a single play-through of DEFCON. If only it were still free. 
+::::::
+
+::::::
+UserName: More_Dakka
+Rating: 8.5
+Date: Dec 2, 2007 9:06 pm PT
+Review:  At first glance, you'll probably think DEFCON is some low budget game that you shouldn't waste 
+ your time on, as its graphics are seemingly completely old fashioned and the gameplay looks extremely 
+ simple. Do NOT judge this game by its cover dang it! DEFCON is a low budget jewel that strategy 
+ gamers of any kind should be able to enjoy.
+  
+  The premise of DEFCON is based off of old movies such as WarGames, and Fail-Safe. So in DEFCON, 
+ you play as a military commander with control over the entire nuclear assets of your chosen country. 
+ You aren't given a 3D view of the entire world however- instead, your inside a bunker, with an 
+ interface that allows you to view the entire nuclear conflict as it unfolds. Its more interesting 
+ than it sounds here, cause DEFCON has many subtle touches with its interface and sound design that 
+ make the entire theme surrounding DEFCON feel rather moody.
+  
+  In a basic match of DEFCON, your goal is determined by several DEFCON stages, numbered 1-5. The 
+ game always starts at 5, which is when you deploy your navies and buildings such as radar, silos 
+ for both nukes and defense, and airbases. When DEFCON 3 rolls in, naval and aerial combat begins 
+ between all players unless you've set up an alliance with them. And DEFCON 1? That's where the 
+ fun begins, as the nukes come out in full glory. Your ultimate goal is most commonly either to 
+ kill as many enemy civilians as possible by hitting their cities with nukes, to defend your own 
+ cities as best you can, or a combination of the two goals.
+  
+  How you go about all this dirty business is where DEFCON shines. At first glance, the variety of 
+ what you are given to work with is a little simplistic and limited. However, the aspects of where, 
+ when, and how you pull off your attacks almost never works out the same way every game. Every game 
+ will play out differently- especially online. Will you make any alliances? Will you crack first 
+ and let loose all of your nukes leaving your backside vulnerable? Will your allies betray you? 
+ Will you betray them? The number of possabilites is very impressive, and turns a seemingly simple 
+ game into a surprisingly complex experience.
+  
+  If you want to experience DEFCON in its full glory however, you'll definitely want to play online. 
+ You can of course practice against the AI, but DEFCON isn't nearly as entertaining without some 
+ other human brains working against you. The AI in DEFCON is decent, but it plays rather predictably 
+ and doesn't interact with the game's diplomacy interface in any fashion, making single player matches 
+ much less entertaining. Fortunately, online matches from my experience almost never suffer from 
+ any lag.
+  
+  Graphically, as I've already stated, DEFCON looks simple, but it has many subtle touches that help 
+ elevate its atmosphere and theme. The entire game board looks like a digital screen in some isolated 
+ bunker with all of that big white text and white blips. Sure, its simplistic, but its effective. 
+ Sound wise, DEFCON's music is heavily undertoned, but still fits the theme perfectly. The faint 
+ sounds of nukes exploding and technical blips in the game all help to support the theme DEFCON 
+ goes for.
+  
+  Ultimately, DEFCON is absolutely worth a look for any strategy gamer looking for something new. 
+ Get past the low budget look, and your in for a treat with DEFCON.
+  
+  Pros: Simple, yet deceptively complex and unpredictable gameplay. Simple, yet effective graphics 
+ that fit DEFCON's theme perfectly. Great sound design.
+  
+  Cons: Decent, but ultimately predictable AI.
+  
+  Recommendable for: DEFCON's deceptively complex 
+ gameplay should appeal to just about any strategy gamer. Those new to strategy games should also 
+ enjoy DEFCON. 
+::::::
+
+::::::
+UserName: MrAgmoore
+Rating: 8.5
+Date: Nov 19, 2007 9:51 am PT
+Review:  The Gamespot review was "right on the money" ( which is miraculous, given CNET's acquirement in 
+ 2001-ish and henceforth, usually hyperinflated or underrated reviews. )
+  
+  This game will appeal to those looking for "something different".
+  
+  I think that this game 
+ will appeal to older gamers (25+) because the game can last 1.5-3 hours ( with the longest game 
+ that I ever played being 6 hours long ) . To put it into perspective, it takes about 20-30 minutes 
+ for ICBMs ( Inter Continental Ballistic Missiles) to hit their targets due to the long distances 
+ / lengthy flight times.
+  
+  Submarines, the slowest moving vehicles in the game move at a rate of 1 pixel per minute so the 
+ game requires a lot of patience, initial pre-planning and readjustment of playing style, relative 
+ to today's RTS ( real time strategy ) games . I think that this slow-fast, stop-start combination 
+ of fighter planes and bombers versus submarines makes the game more realistic and always tactically 
+ frantic in a "who will outrange and launch ordinance first?" kind of way.
+  
+  You can speed up time but because of the stop-start, time-critical nature of the game, and the 
+ importance of defending against attacks, I found myself playing the game in real-time ( rather 
+ than using the "fast-forward time" button ) .
+  
+  The ambiance of the game is very attractive: minimalistic graphics and sound; so as an art project, 
+ this game is very successful.
+  
+  Strategically the game is not very deep because of the static nature of the world map. After figuring 
+ out the nuances of the tactical combat. You will figure out an overall winning strategy within 
+ a few games and after that, unless you play multiplayer (and even after) , you will most likely 
+ uninstall the game.
+  
+  I bought the game based on the fact that I couldn't stop laughing after reading the outside of 
+ the box ( British humour / Physics humour ) .
+  
+  Pluses:
+  
+  The cheap price point.
+  The low resource requirements ( there is a linux version on the developer website ) .
+  The art 
+ style.
+  The humour in the manual and on the box.
+  
+  
+  Minuses:
+  
+  You cannot make the game more challenging.
+  Once you figure out the rock-paper-scissors nature 
+ of the game, you won't feel the need to play it again. 
+::::::
+
+::::::
+UserName: TrickyBird
+Rating: 8.5
+Date: Nov 14, 2007 4:33 am PT
+Review:  DEFCON has a great title, really. Everybody Dies. It's fantastic, because it shows the key idea 
+ behind the game. Ever bored in the office and in need of something over than Football Manager? 
+ DEFCON is your game.
+  
+  
+  It's got a certain degree of beauty to it, whether its the wonderfully crafted visual style, like 
+ a neon sign of terror, or just the sheer giddiness you get when you destroy a city and '6.5 million 
+ dead' pops up on screen. It's such a simple strategy game, but the essence is so deep, almost like 
+ modern warfare itself, with its laser targeting and almost AI-controlled bombs, it still requires 
+ a degree of skill to know just what the hell you are doing. Playing a power-hungry genocider has 
+ never been this fun.
+  
+  There are setbacks, however. The fact that this is multiplayer focused means that single player 
+ is just not as fun, almost boring. It also seems a little confusing at first, I struggled with 
+ the general concept and took a while to understand what was going on. 
+  
+  
+  Overall, DEFCON is a great game to run in the background, it's fun, it's great to look at, and 
+ it turns you into a temporary mass murderer. What's not to like? 
+::::::
+
+::::::
+UserName: dorkclub
+Rating: 7
+Date: Nov 2, 2007 10:40 am PT
+Review:  Ever since WOPR asked Matthew Broderick shall we play a game? in 1983s Wargames, an entire video 
+ gaming generation has wanted to respond with a resounding yes! With DEFCON, the third game from 
+ independent British developer Introversion Software, we finally get that chance. The game allows 
+ you to play against up to five other opponents in a game of global thermonuclear war, a sick, perverted 
+ fantasy to be certain. Played out on a white-on-black version of Dr. Strangeloves Big Board, DEFCON 
+ is a simple but moody real-time strategy game that proves a big budget isnt a prerequisite for 
+ big accomplishment.
+  
+  Like the 1980s computer interfaces that inspired it, DEFCON is a game defined by its minimalism. 
+ Clean vector graphics represent units and structures with stylized flair  dotted vector exhaust 
+ trails stream behind fighter jets, fleets of neon-outlined ships do battle on darkly juxtaposing 
+ high seas. The soundtrack is made up of distant industrial rumbling and the beeping of unseen machinery; 
+ the sound builds and resonates to form a brooding, ominous tension. Just when you youve chewed 
+ your last fingernail to the stump from anxiety, relief comes from the punctuating blast of a nuclear 
+ detonation and the subsequent screams of the dying. Never has so much atmosphere been created with 
+ so little.
+  
+  This same overall minimalism translates to the gameplay as well, creating a very approachable real-time 
+ strategy experience. Finding human opponents is as simple as clicking a single button, and when 
+ the game begins, all players start with exactly the same number of units and structures. Because 
+ theres no resource gathering or unit building  you start the game with all your weapons ready 
+ for war  the game rewards thoughtful use of available tools over speedy reaction times or uber 
+ micromanagement. All players are locked to the same timetable, as the titular DEFCON level drops 
+ over time, from 5 to 1, with tension and hostility rising as the number lowers. At DEFCON 5, players 
+ place their structures and units  radars, missile silos, air bases, and fleets made of up various 
+ ship types. As time passes and the game reaches DEFCON 3, air and naval combat is allowed. By the 
+ time you reach DEFCON 1, the nukes are in the air.
+  
+  While this simplicity makes for an engaging first experience, unfortunately the same minimalist 
+ approach that aids the overall presentation does little to mask the shallow gameplay. Once youve 
+ mastered sending your warheads in waves to overwhelm enemy defenses  a technique that should require 
+ no more than a game or two to perfect  youve already seen the most complex the game ever becomes. 
+ With our planet as the games only map, and six continents acting as the only playable positions, 
+ the only real strategic considerations required from game to game comes from deciding when to transform 
+ your stationary anti-air defenses into death-spewing missile silos. Honestly, there just isnt 
+ much here, but then again actual nuclear warfare doesnt require much thought either.
+  
+  Pressing the big red button and watching the deathtoll rise, hoping to take as many lives as you 
+ can before your own population is decimated by nuclear holocaust, is a sickly engaging activity, 
+ but it quickly wears thin. DEFCON is essentially multiplayer only; the only offline option pits 
+ you against computer-controlled players with no scalable difficulty settings. Even the added paranoia 
+ stemming from lose online alliances isnt enough to give this game the depth or longevity of any 
+ other strategy title on the market. Thankfully, DEFCON is cheap at just $15 through Steam, but 
+ even at the low price theres barely enough meat on these bones to justify a purchase.
+  
+  With a demo that virtually includes the full experience, its hard to recommend a game with so 
+ little to offer, especially in a genre renowned for its depth and replayability. Easily activated 
+ mods offer new visual themes and maps, but still arent enough to classify DEFCON as a successful 
+ game. Still, for those first couple of matches, DEFCON instills the sort of tense fear even the 
+ best in the survival horror genre can barely imitate. While DEFCON may fail as a game, it succeeds 
+ as an artistic achievement and as a social statement. As a game where there are no winners, only 
+ degrees of losers, it manages to convey a clear message entirely through gameplay, never resorting 
+ to preachy, 30-minute cinematics. From a presentation standpoint, other developers could learn 
+ a great deal from DEFCON, but for a rewarding strategy experience, youre better off randomly selecting 
+ a game from the local bargain bin. 
+::::::
+
+::::::
+UserName: Saibot216
+Rating: 9
+Date: Oct 13, 2007 7:22 pm PT
+Review:  Today I got the game Defcon mainly because I was interested in a new innovative RTS. Believe me 
+ when I say it is. There's nothing better than coming home from a stressful day of work or school 
+ and nuking a bunch of cities, lol.
+  The game is simply put war on the entire world. You build your Silos, Radars, Hangars (ya' know 
+ for planes and bombers) , and your naval units (Battleships, Submarines, and some other ship I'm 
+ not familiar with) and after all of the creation you go out and attack your enemy players.
+  Onto the gameplay, the best part. As you build your territory of war you go through the different 
+ steps of the Defcon system until you get to Defcon 1 and you nuke every city that belongs to your 
+ enemy killing millions of Binary Bastards. The game has no story (which can be nice and relaxing) , 
+ it's skirmishes 100% of the time and it can be single player or multiplayer (co-op and free-for-all) . 
+ A miss in the game is that politics aren't involved.
+  Overall the game is definitely a refreshing, new, innovative RTS. The game came with a patch that 
+ reads Defcon, Global Nuclear Domination Game, Everybody Dies. This little piece of 'shwag' is very 
+ cool and awesome. I give Defcon a 9 out of 10! 
+::::::
+
+::::::
+UserName: RocksteadyRA
+Rating: 9
+Date: Sep 6, 2007 8:51 pm PT
+Review:  This is the game I play for pure fun...
+  It sits running on an older computer like a screen saver...
+  A darkly demented Screen saver...
+ 
+  It's easy to slide into and play.
+  Mastery is another story all together.
+  Graphics what you looking for?
+  Stay away then as this is as basic as you can get.
+  Lots of 
+ mods out there for the unit and world maps.
+  Basic concept is place your units in the field and begin preperations for the countdown to extinction.
+ 
+  Everyone gets the same type of units so no one side has the advantage.
+  Lots of replay ability aslong as you don't mind finding someone to play against but the computer 
+ AI after awhile gets easier to predict. 
+::::::
+
+::::::
+UserName: brood_aliance
+Rating: 9
+Date: Aug 23, 2007 11:53 pm PT
+Review:  Ever wanted to nuke a major city? Well in this game you can. DEFCON's objective is to destroy cities, 
+ and kill as many people with nukes. The game includes only 5 units, and 3 structures. That may 
+ seem little for a strategy game, but it keeps the game simple. The units, in my opinion, are balanced 
+ and all have important functions, unlike some units in other RTS games that can just be forgotten. 
+ I can't say much about graphics, since it is just a map of the world, with a few units and structures 
+ on the map. But the map of the world does look good. Again, I can't say much about sounds. There 
+ aren't many combat sounds in the game. The highlight of the game, is the online multiplayer. Even 
+ though there aren't many people playing this online, it is still great, especially with friends. 
+ What is more satisfying then blowing up your friend's New York, or Moscow, and watching the kill 
+ count hit 60 million. Another great thing about the game is the mods. Some are very simple, like 
+ adding the names of the cities, and some could change strategy, like playing in space. It keeps 
+ the game from getting stale.
+  
+  If you are looking for a new, different, refreshing strategy game, this is the one to get. Although, 
+ I would of hoped for more players online to nuke, this is one of those hidden gems, which sadly, 
+ nobody know of. 
+::::::
+
+::::::
+UserName: the-queen
+Rating: 9
+Date: Jul 25, 2007 2:02 am PT
+Review:  Global Thermonuclear War, we all know that this word is connected to the 1983 film WarGames, put 
+ the word in Wkipedia and WarGames is listed. And now British devolper Introversion Software, the 
+ self-proclaimed last of the bedroom progammers , is recreating the bigboard of WarGames and the 
+ scare of a global nuclear war.
+  
+  The game is most probably set in the Cold War shown by the USSR and a split Germany. When starting 
+ a game you first have to choose a territories, there are six to choose: North America, South America, 
+ Africa, Europe, the USSR and Asia. Then choose a colour, if you choose a colour that is the same 
+ of another player then you are in an alliance with that player.
+  
+  When you start the screen is a simple lit-up world map, you start by placing the three buildings: 
+ radars, airbases and missile silos, then place your fleet made up of submarines, battleships and 
+ carriers. The game uses a DEFCON system similar to the real US Military DEFCON system, first is 
+ DEFCON 5: no hostilites. Can move naval units within international waters. DEFCON 4: Radar will 
+ show enemies
+  DEFCON 3: Can no longer place units. Can engage in naval and air combat
+  DEFCON 2: Continued and more aggressive hostlites.
+  And the one we all look forward to, DEFCON 
+ 1: Nuclear attacks allowed. Launch nukes from missile silos, from bombers and submarines. Points 
+ are gained through megadeaths, 2 points for a megadeath you cause, lose 1 point for megadaeths 
+ against you, this is for default mode. Genocide mode is one point for each megadeaths and Survivor 
+ mode is 1 point for per million survivor.
+  
+  There are also other modes of play; In Diplomacy mode all players start as members of a single 
+ alliance, and attempt to stay on top as the alliance disintegrates. Score is determined not by 
+ enemy population killed, but by which territory has the highest percentage of survivors at the 
+ end of the game.
+  In Office mode the game runs in real time and cannot be sped up. The game can be quickly forced 
+ to the background making the computer available for another use, or simply to make it appear the 
+ gamer is actually working. While the game continues to run in the background, a system tray icon 
+ will notify the gamer of certain events as they occur. The office mode hotkey, sometimes referred 
+ to as the boss key, is activated by striking the escape key twice in rapid succession. A game in 
+ office mode lasts no more than six hours. In fact, the boss key is available in all game modes, 
+ but it is designed for this mode in particular.
+  
+  But nothing is crafted perfect and DEFCON does have its bad side, one is the lack of a scoreboard 
+ to show your wins, loses and your rank wich usually exists in a multiplayer game which DEFCON allows 
+ and another is the repeated gameplay, nothing is new in the next game.
+  
+  In total DEFCON is a stroke of genius which makes us paranoid and live the possibility of causing 
+ the Cold War to be more hotter 
+::::::
+
+::::::
+UserName: IvanKomarov
+Rating: 10
+Date: Jul 3, 2007 9:46 pm PT
+Review:  Even if you havent seen the classic film Wargames, nothing can beat the satisfaction you get 
+ when you push a button and moments later, seven or eight million lives end in a little white heat 
+ blossom on a beautifully-rendered wireframe map. That's right, people, it's DEFCON: Everybody Dies. 
+ Although it hasn't really been on shelves very long, and it's not exactly a frontrunner in sales 
+ or promotion, its amazing gameplay, incredible atmosphere, and simple graphics that'll run on any 
+ computer make it a purely amazing game.
+  
+  It really shines in customization - although there aren't many gametypes per se, you can change 
+ how many territories each player gets, how many cities there are, the scoring system, even the 
+ fonts, colors, and shadings used by the games engine; modding, too, is fairly prevalent amongst 
+ the very strong and supportive community. You can play real-time, and have a game last a full day 
+ - should your boss show up, double-tap the Esc key, and DEFCON will vanish to the system tray, 
+ and will show you little alerts like Enemy Subs Detected or Player 2 Launch , and doesn't bog your 
+ computer down while doing so. You can also play Speed DEFCON (by default, the game runs at the 
+ lowest speed setting requested by a player) where more often than not, the game runs at speed 4, 
+ and it's all over within minutes; the only real problem with Speed mode is that any AIs will have 
+ a serious advantage because they don't need to actually move and click a mouse, and are thereby 
+ capable of reacting to many things at once.
+  
+  So sure, it's got its downsides - non-scalable AI opponents that, when they're not annihilating 
+ you, they're just plain boring to play against; a few graphical and even fewer gameplay exploits 
+ (which are so hard to pull off it's kind of a waste to try them, especially since a new patch is 
+ about to be released) ; and the occasional times of day and night where there's simply no-one playing. 
+ Its also arguable that the game should have a campaign mode, although how this would work is beyond 
+ me.
+  
+  However, you'll most likely forget about all of the shortcomings once you immerse yourself in the 
+ atmosphere Introversion's provided in this game's spartan style  somewhat along the lines of the 
+ Harpoon series, and frighteningly realistic; your aircraft must be fuel-managed, alliances can 
+ be broken from minute to minute, and missiles take agonizing minutes to fly. And, whereas most 
+ games would go for loud explosions, flashy mushroom clouds, grinding, militant music, and general 
+ cinematics, DEFCON stays low-key. You're a general in a hidden, safe bunker somewhere, a witness 
+ to the apocalypse, and the game keeps you that way - its the kind of triumph that doesnt feel 
+ right; all you see is Cairo hit, 7.6 million dead , and there's just a faint rumble as Cairos 
+ diamond on the map dissolves into a white glow. You feel detached from the deaths, so omniscient 
+ and above it all, that theres no satisfaction here, but it's a necessity for your people to survive, 
+ and therein lies the game's motto - It's global thermonuclear war, and nobody wins. But maybe, 
+ just maybe, you can lose the least. There's a haunting soundtrack arranged by Alistair Lindsay 
+ and Michael Maidment [both worked on Introversion's Darwinia ] that manages to stay quiet and backstage, 
+ yet manages to be wholly frightening and epic; and as the missiles start arcing over the globe, 
+ you hear nothing but the submarines' sonar ringing, the hollow wind, and women and children pitifully 
+ drawing their last breaths as black rain falls from the sky. You're not sure you want to return 
+ fire anymore, but you have to if you want any of your people to survive, and that's the most eerie 
+ feeling of all - this is a game where satisfaction doesn't lie in retaliation. You might be psyched 
+ to get the missiles flying at first, but then you realize that the winning move  as in Wargames 
+  is not to make a move at all.
+  
+  It's an odd feeling, and you may shy away from the premise at first. I did, too, but this is the 
+ only game Ive ever given a ten out of ten, and its because it doesnt rely on visuals, stunning 
+ cutscenes, or dry gaming archetypes and the general hype thereof, but in teaching a lesson through 
+ its strange, detached style and gameplay  no-one really wins in nuclear war. So give DEFCON: Everybody 
+ Dies a try, and I guarantee you'll find it to be one of the most uniquely unsettling, yet tense 
+ and intriguing, gaming sensations ever. 
+::::::
+
+::::::
+UserName: aveiga1000
+Rating: 9.6
+Date: Jun 30, 2007 7:57 pm PT
+Review:  Defcon is another amazing work of art by the folks at introversion software. It breaks the mold 
+ on what an RTS should be by bringing a new concept to it, nuclear annihilation. What sets it apart 
+ is the presentation, as opposed to having a super-sleek 3d dimensional look, it gives you a 2D 
+ look to what The folks at missile command might be looking at. In addition, the dramatic mood the 
+ game sets is amazing yet simple. As opposed to a heavy metal track or epic sounding orchestra; 
+ it uses a slow droning music supplemented by background noise ranging from the occasional radio 
+ chatter to a woman crying in the background. In addition to the music, the interface also shows 
+ in big, bold lettering how many people you just killed nuking the city. The interface is easy to 
+ use and lets you play right away without worrying about gathering resources or other micromanagement. 
+ While you may enjoy playing the game, you may get so into it you might pause and think My God, 
+ what have I done? It is definitely worth playing even if your not that interested in the RTS genre. 
+ The Downside is that the AI may be too hard and you might be a little unnerved by the sheer scale 
+ of destruction, so its really not for the easily frightened or paranoid. The Game really is true 
+ to its name, 'EVERYBODY DIES'. 
+::::::
+
+::::::
+UserName: Cronjob
+Rating: 7
+Date: Jun 3, 2007 1:18 am PT
+Review:  This is a good game that could have been great. The graphics are simple, but beautiful and lend 
+ to the ominous and creepy end of the world is coming atmosphere. However, you will tire of the 
+ poor AI opponents quickly and when you go online for multiplayer, you'll find that there just aren't 
+ that many people to play against.
+  
+  It isn't a complex game, but some great games against real people would be enjoyable. Last time 
+ I checked, there were probably two dozen people online and only three or four actual games going 
+ on. This would make an excellent XBOX Live Arcade game and would draw a lot more people into the 
+ competition.
+  
+  If you have someone to play with at home, buy a copy or two and play via LAN. Otherwise, realize 
+ that you may not get a lot of gameplay out of your $20 or $30. 
+::::::
+
+::::::
+UserName: Dirk04
+Rating: 8.2
+Date: Apr 25, 2007 6:29 am PT
+Review:  I realize nothing works on Vista but I would like to see a patch released soon for this. I play 
+ at home on my XP machine but playing on my work laptop would be better and make the day go buy 
+ much faster, there's even a work mode of play! In addition to all of this It's also $10.00 cheaper 
+ if you buy a direct download from the website. Hope this review helps.
+  
+  (I'm not sure if I have 100 words yet.)
+  
+  DEFCON DEFCON DEFCON DEFCON DEFCON DEFCON DEFCON
+ 
+  
+  I realize nothing works on Vista but I would like to see a patch released soon for this. I play 
+ at home on my XP machine but playing on my work laptop would be better and make the day go buy 
+ much faster, there's even a work mode of play! In addition to all of this It's also $10.00 cheaper 
+ if you buy a direct download from the website. Hope this review helps. 
+::::::
+
+::::::
+UserName: hex_ten
+Rating: 9.2
+Date: Apr 20, 2007 11:32 am PT
+Review:  Anybody that has ever watched the film 'wargames' should be able to recognise the quote in the 
+ intro to this review, but have you ever wondered what it would be like to play 'global thermonuclear 
+ war'?
+  
+  Defcon from introversion software is a game of mutually assured destruction, the basic premise 
+ is to wipe out as much of the enemy population and reduce their capacity to cause your population 
+ harm. However protecting your own population can become difficult once the silos go live and there 
+ are tens of nukes heading your direction.
+  
+  The game starts you off in defcon 5 where you are able to place your radars, silos, airfields and 
+ fleets within the borders of your territory (which on the world map could be North America, South 
+ America, Europe, USSR, Asia or Africa) . Each territory has its own distinct advantages and disadvantages 
+ - like being spread out? Try Africa or Asia; prefer defending a smaller area with a larger concentration? 
+ Go Europe or South America.
+  
+  The game includes a few tutorials that will cover everything you need to know to competitively 
+ play the game online or with computers. The simple and easy to use interface gives you all the 
+ control you need to successfully manage to juggle a variety of complex plans and tactics on the 
+ fly.
+  
+  The one downfall of this game is the sound or lack of variety, the soundtrack is brilliant and 
+ really adds to the atmosphere and there are a few ingame sounds. I feel that there could have been 
+ a few more sound effects put in; such as countdowns or some voice overs for certain events, the 
+ sound is a very small part of the game so this is an insignificant pitfall.
+  
+  The graphics are sharp and suit the mood of the game perfectly. And because of the simplicity of 
+ all of the icons this game does not take a hard toll on your graphical or processing power. Even 
+ with 6 players launching at the same time I experience no lag on my mid range pc, the results of 
+ a 6 player total launch are eerily beautiful, the skies fill with colour and death as everyone 
+ scrambles their jets to intercept.
+  
+  The game is best played online with the tactical unpredictability of other human players to second 
+ guess. It is much like a more complicated game of chess with a set number of pieces but millions 
+ of tactical possibilities.
+  
+  Over all this game is outrageous value for money and will give avid tacticians hour after hour 
+ of enjoyable gameplay. I would recommend downloading the demo today and giving it a try. 
+::::::
+
+::::::
+UserName: TheC0m1ssar
+Rating: 7.8
+Date: Apr 6, 2007 9:23 pm PT
+Review:  DEFCON: Everybody Dies is a game of innovation, and very fast-paced gameplay, taking the meaning 
+ kill or be killed to a whole new meaning as you struggle to click fast enough to land you nukes 
+ befores your enemies do.
+  
+  Gameplay: 9/10
+  A very addictive gameplay, consisting of placing units, silos, and radars, and then attacking your 
+ enemies with your arsenal.
+  
+  Graphics: 9/10
+  The graphics here are it's very innovative interface, with customizable colors, and icons representing 
+ your units move creepingly along, until the missiles and fighters start flying.
+  
+  Sound: 6/10
+  Kind of empty on sound here, except for the melancholy music it plays while you 
+ blow stuff up.
+  
+  Value: 7/10
+  A good price of $17.95. Not good for those Internet-challenged. 
+::::::
+
+::::::
+UserName: Terrorantula
+Rating: 8.4
+Date: Mar 28, 2007 10:51 pm PT
+Review:  I was scared off at first while playing DefCon, it did seem alot to learn and soo hard to learn 
+ something new when your sooo used to the normal format of playing RTS. However afetr awhile i got 
+ the hang of the game and it ended up being pretty simple. It has quite alot i'd put into my perfect 
+ RTS game and i love using the real world and the whole world map. I also love the idea of diplomacy 
+ settings aswel altho it doesn't go as far as i'd like it to in this game.
+  
+  Only realy problem i have with this game is it gets very repetitive and you'll probaly not replace 
+ your current RTS for this game. Thats cool though cause i think the developers were just aiming 
+ for a small fun game to give you something innovative and fun.
+  
+  The graphics are very clean and nice too and really make the game soothing to play. You wont be 
+ on the edge of your seat and doesn't need you to pay attension like other RTS.
+  
+  The sounds are really nice and soothing too however theres a lack of it but i think thats just 
+ the nature of the game and i can't really fault them for what they were wanting to do.
+  
+  Overall the it's a fun and very simple side game you'll play once in awhile and it's pretty innovative 
+ and i think future RTS games may even borrow from it. For like &pound;10 it's a bargin too. 
+::::::
+
+::::::
+UserName: fecing
+Rating: 7.8
+Date: Mar 16, 2007 11:57 am PT
+Review:  To begin with, when the demo landed on my lap, i thought 'oh noes, heres another one of those crazy 
+ cheap game builds that will break every 5 minuites' However, i was pleaently surprised when the 
+ engine was very solid, albeit, basic. the idea of Defcon is to obliterate your opponent with Nukes, 
+ from carriers, subs, airfilds and your own ground based silos. against the AI, you dont have a 
+ hope. they have the massive advantage of being able to calculate strike times, and i have never 
+ beaten them. not once. on easy. so, dont play on your own. Playing with freinds on the other hand, 
+ is a totally different story. since you all have the same handycaps, you can play on a level playing 
+ field, and get really stuck in. It's especially satifying to hear towards the end of the game, 
+ ok, who has nukes left then you answer with a full scale barrage across an entire contenant while 
+ they scream like their populus into oblivion. 
+::::::
+
+::::::
+UserName: rokkuman09
+Rating: 8.7
+Date: Mar 18, 2007 3:03 pm PT
+Review:  DEFCON subtitled Everybody Dies is a real time strategy game by the indie gaming company Introversion 
+ Software. Introversion already has a good reputation for making other unique games such as Darwinia 
+ and Uplink. The game is based in the Cold War and is greatly inspired by the movie Wargames. You 
+ start each game at DEFCON 5 and eventually get down to DEFCON 1 in which the game turns into all 
+ out nuclear war. After around 80% of all the players nuclear weapons have been used a winning timer 
+ starts (45 minutes by default) and whoever has lost the least civilians and inflicted the most 
+ damage by the end of the timer wins. Really you can't win in you can only lose less (just like 
+ what it would be like a real nuclear war) . Either way you are going to lost millions upon millions 
+ of people, it's a good thing there has never been a all out nuclear war before! DEFCON really has 
+ a great atmosphere to it, it's disturbing a tense. The very clean and undetailed art style really 
+ make you feel like your controlling the the end of the world from inside a bunker deep underground. 
+ The very tense instrumental music really helps contribute to the whole end of the world type feeling 
+ the game is trying to evoke. There are some very subtle ambient sounds too you can hear someone 
+ coughing every now and then and I believe near DEFCON 1 you hear a woman crying which really evokes 
+ the seriousness of the game's whole idea. DEFCON is a good strategy game that really makes you 
+ think, even after you done playing. About how close we were to this really happening, and about 
+ how horrible nuclear weapons really are. It's really just outright disturbing the first time you 
+ see something like London 2.4 mil. dead . 
+::::::
+
+::::::
+UserName: masterpimp69
+Rating: 8.9
+Date: Feb 26, 2007 8:47 am PT
+Review:  ... hopefully a lot more than me.
+  
+  the game play mechanics are very simple, the graphics are very simple and the sound is eerie. on 
+ a morale side of view this game is instant death for flower power hippies or pacifists.
+  
+  BUT IT IS AWESOME!!!
+  
+  i never played a game this rudimentary and deep like defcon. style 
+ gets defined by this game... i mean... what does a general see when he orders the global thermonuclear 
+ first strike? i bet he would look at a greenish earth-alike screen with symbols for missile silos 
+ and ships just exactly like you do when playing defcon.
+  
+  the first time i played against human players i was totally hyped to nuke my foes into stone age 
+ and furthermore to loose less people than them. it is a long time ago i felt something like that 
+ in a computer game.
+  
+  very nice 
+::::::
+
+::::::
+UserName: cacapoopoodoodo
+Rating: 8.4
+Date: Feb 17, 2007 9:13 am PT
+Review:  defcon makes a change in game development with old school tactics with high tech weapons but it 
+ is also a incredibly difficult game if you do not know what but if you do know what to do you will 
+ have the pleasure if blowing the heck out of the Americans one my life long dreams (im not a terrorist) 
+ all in all the thrill of killing millions but the learning of where your opponent is and planning 
+ a stratigical strike in the heart of there country and defending the certain strike on your own 
+ cities high tech power and BIG explosions you can not go wrong with it. 
+::::::
+
+::::::
+UserName: bobthomas101
+Rating: 5.3
+Date: Jan 16, 2007 8:24 am PT
+Review:  Defcon: Everybody Dies is cool if you are into no graphics all strategy. I personally like more 
+ fast past games and can deal with slow paced ones if they have payoffs. This however is neither 
+ fast paced nor rewarding. I am normally into both FPS and RTS games. However this RTS is very boring 
+ and not very fun. You control a country of the world with their nuclear arsenal and have to decide 
+ which losses are necessary. There are nuclear subs and you have to place your radar and silos and 
+ strategic points, but it is still very unexciting. It is a cheap game and goes for about 15$ on 
+ steampowered. com but its still a waste. Don't purchase this game unless your having trouble sleeping. 
+ 
+::::::
+
+::::::
+UserName: pushy2
+Rating: 7.7
+Date: Jan 3, 2007 12:01 am PT
+Review:  Awesome game really....... has to be played..... the graphics are low whit a big L but in this kind 
+ og game it does'n matter..... this game is worth buying... at least for me . Hope this review will 
+ make you buy and play this game.... see  
+ as a sa as as a sa sas a s as a s as a s a sa as asaasa as asa s as as a sasa sa asa s a asasa 
+ sa sa asa sa sa sa sas as a sas asdasda asdasdasdasd. asdasdasdasd asdasda sdasd asd ad aaa a a 
+ aa a a aaa a aa a aaaaa aaaa aaaaa a aaa aaaaa aaa aa aa a aa 
+::::::
+
+::::::
+UserName: grarap
+Rating: 6.6
+Date: Dec 17, 2006 11:36 am PT
+Review:  DEFCON is based on a great idea, lets get that straight. There's nothing more satisfying than nuking 
+ a city and causing millions of innocents to evaporate. Unfortunately that situation doesnt come 
+ round much. The game is extremely hard to master and territories are inexcusably unbalanced. For 
+ instance Europe is nearly impossible to hit as all of its cities are covered by anti-missile sites. 
+ South America is usually forgotten whilst Africa is normally the first to be anhialated due to 
+ the proximity of some its major cities to borders and the sparse distribution of the rest. Learning 
+ to play each side correctly is a long task. Either you time your attack perfectly and win by miles 
+ or, as in most games, get nuke'd. You can only really stand a chance by launching either a coordinated 
+ attack (fat chance says your ally) or sending off all your nukes at once. Watching 100 missiles 
+ hit a country within a few minutes is only fun for the first few sittings; having to use brute 
+ force the whole time is hardly tactical.
+  
+  Not only that but some game modes are a nightmare to play. The first that springs to mind is Diplomacy, 
+ where all sides start off on the same team. One unlucky played will be kicked out early which consequently 
+ leads to strife amongst the rest as they waste nukes or refuse to fight. Then there's the backstabing, 
+ the constant defection, the wasting of missiles, tension: its just ARGH. It doesnt work, and considering 
+ games last +30 minutes DEFCON is a deeply unsatisfying experience.
+  Buy at your own peril. 
+::::::
+
+::::::
+UserName: the_spread
+Rating: 8.6
+Date: Dec 11, 2006 9:38 am PT
+Review:  Hunkered down in an underground bunker, you gaze at the monitor and contemplate what those symbols 
+ actually mean. Thousands of feet above you, hundreds of Inter Continental Ballistic Missiles are 
+ raining down on your country. The aggressor? Africa. Who the hell would have expected that? The 
+ first warhead glides towards the East coast, to be shot down by your air defence silos. A couple 
+ more are taken down before your defences are overcome and the bombardment hits home. The last thing 
+ you read before the screen erupts with white is NEW YORK: 14.6M DEAD.
+  
+  The scenario is simple; it is the end of the world, and you must kill as many of your enemies 
+ citizens as possible whilst trying to defend yourself from them doing the same. Global Thermonuclear 
+ war is never as clear cut as there being winners and losers, but DEFCON plays on the principal 
+ that one side can lose less. You begin a round by selecting a region which has got The Bomb, North 
+ America, South America, Europe, Africa, The USSR or Asia. Gameplay is controlled through the different 
+ DEFCON conditions, with five being peace time and one being World War Three. Every game starts 
+ during DEFCON 5, where you will place airbases, missile silos, and satellites and deploy naval 
+ infantry such as aircraft carriers and nuclear submarines in tactical areas, both offensive and 
+ defensive. This carries on throughout DEFCON 4, and DEFCON 3 is where you can send fighter jets 
+ over enemy territory for reconnaissance, and possibly begin scrapping it out in the sea, and DEFCON 
+ 2 is more of the same. But with DEFCON 1 comes the time to break out the Jammy Dodgers, nail your 
+ furniture to the wall and cower under the stairs, as its time to nuke the hell out of everything
+ 
+  
+  DEFCON is about detached as a game can get. There are no cut scenes, no voice over, and no music 
+ other than the sounds of the bunker you are sitting in; the hum of processed air, the distant sounds 
+ of a tannoy system giving orders to the bunker, garbled radio chatter, the weeping of a fellow 
+ government employee aware of what is happening outside, and the shrill interruption of a claxon, 
+ indicating the launch of a missile. It really makes the game feel more than just a computer simulation, 
+ and that you are actually dictating the final devastating actions of the modern world before it 
+ all ends with a blinding flash.
+  
+  The presentation is equally uninvolved, reporting the details of megadeaths caused and received 
+ with complete indifference. Aside from the pop up text, the only other report of a nuclear hit 
+ is the white cloud left behind a minute or so after impact. It doesnt elaborate on what has happened, 
+ leaving your mind to contemplate the destruction it signifies. The presentation is simple but undoubtedly 
+ sharp. The computer simulated world map shows the earth and key locations like cities with a cool, 
+ clinical blue interface. Coastlines outlined with jagged edges, and populated zones filled in with 
+ colours, the brighter the colour the greater the density. This is interrupted by the presence of 
+ enemies and allies missiles arcing their way across the sky. When every nation launches simultaneously, 
+ the screen becomes awash with neon confusion. When you zoom out for a moment and look at the arcs 
+ blazing across the sky, it all seems menacingly beautiful, even if it does mean your cities are 
+ about to become slightly less populated.
+  
+  To mix things up a bit, there are various different game modes available. Office mode takes a minimum 
+ of 6 hours to play, and comes with the ability to quickly minimize the action, perfect for giving 
+ the impression that you are working rather than nuking the world. Speed DEFCON by contrast takes 
+ only 15 minutes to play. Here, carefully planned strategy is pretty much thrown out the window 
+ in exchange for frantic nuking action. Then there is Alliance mode, where every player begins on 
+ the same team, but after some backstabbing and a break down of communication the coalition will 
+ eventually crumble and everybody will kill each other. These can all be played with AI players, 
+ but they fail to offer the challenge and unique fun an online match can offer. For instance, you 
+ can attempt to kick someone from your alliance, but if too few people agree with that notion then 
+ the whole group will be aware of your traitorous intentions, and you will have to think fast to 
+ worm your way out of a nuclear retribution. Or you can stick with an alliance right the way through 
+ an entire match, only to completely turn on them and unleash that silo primed with nukes on your 
+ unsuspecting friends as the victory timer begins to tick. Of course, you will have to deal with 
+ one or two jerks, and sometimes the person hosting the server will close it down, exiting the whole 
+ game, but these are normal irritations that come with online games.
+  
+  DEFCON is an immersive experience. The first couple of times I played it, I found it genuinely 
+ unsettling, and whilst that did give way after a while, it still remains one of the most memorable 
+ games Ive played in a while. You can pick it up for a steal from Steam for about &pound;10, which 
+ does reflect the lifespan; with only one map, there are only so many strategies before it starts 
+ getting repetitive. But at that bargain price, you really shouldnt care. Its a lot more interesting 
+ than a nice game of chess. 
+::::::
+
+::::::
+UserName: Jaimzl
+Rating: 8.6
+Date: Dec 9, 2006 6:25 am PT
+Review:  although this game is chilling it has a bad side to it.
+  
+  gameplay is to basic for my standards but very fun. i also find its slow paced until defcon 1 where 
+ nuclear missiles fly everywhere.
+  the graphics are basic but they fit the style of the game perfectly like your looking at radar 
+ and telling your **** where to go.
+  sound is chilling the music in the backround makes you feel as if you were one of those people 
+ that just died out of 10mil in tokyo japan when you bomb it. the one thing i dont like about the 
+ sound is the effect when a nuke hits. it doesn't make your body shake but it does suit the music.
+ 
+  Great Bargain totally worth the money
+  overall i think it is a fantastic game so im giving this an 8.6 
+::::::
+
+::::::
+UserName: andrew_ribbons
+Rating: 7.4
+Date: Dec 6, 2006 9:31 am PT
+Review:  There are few other games like this out there. It's quite an original approach to the concept of 
+ Nuclear War. It's certainly an emotional experiance to play it. You're torn between it being feeling 
+ elated at a victory... but haunted that you are simulating the genocide of MILLIONS of people in 
+ the game. The graphics are simple, but VERY effective, meaning it can run on almost any computer. 
+ The sounds is good and the music haunting. The gameplay is fun, but perhaps only for the first 
+ 10 to 15 times you play a match. After which, things get a bit samey and repetitive. Overall, a 
+ very interesting RTS game. The multiple Defcons flavour the experiance and the multiple time speeds 
+ allow for skipping boring interludes in the fight.
+  
+  Very reasonably priced, made by a good Developer: Introversion. Get it from Steam or the Introversion 
+ site. 
+::::::
+
+::::::
+UserName: AlexChec
+Rating: 8.9
+Date: Nov 26, 2006 8:13 pm PT
+Review:  Like Pac-Man, Missile Command, or any other of the great arcade games, DEFCON shows that you don't 
+ need a lot of flashy graphics, a John Williams soundtrack, or a Hollywood feature budget to make 
+ a good game.
+  
+  There is only one goal in this game: Nuke 'em all while minimizing your own casualties as much 
+ as possible - and when the s*** hits the fans, it's not going to be too possible. That's all you 
+ need to know, that's all you need to learn.
+  
+  But that's not to say there isn't any strategy involved. Do you focus on a first-strike approach, 
+ or wait for everybody to let their guard down as they launch Armageddon to slip in some of your 
+ own fireworks? How long is your ally going to be your ally before he decides that, yeah, it's time 
+ for him to win the game at your expense?
+  
+  Introversion has minimized complexity so you can focus on just playing the game; and because it 
+ only takes 22 minutes in real time for a missile to find its way from Siberia to New York City 
+ (and while you can speed up the end of the world in the game, there's something to be said for 
+ watching all 22 minutes it takes for impending doom to explode brilliantly over your city) , you 
+ can pack in a lot of games in a day, either with your friends or against a decent AI.
+  
+  Because the point of the game is basic, the graphic and sound quality has to be considered in that 
+ context. For this game, all you need are wireframe map and units with some somber music in the 
+ background; after all, you're about to watch hundreds of millions of people die. So, no, there's 
+ nothing cutting edge going on here, but there doesn't need to be, and so you don't miss it.
+  
+  DEFCON allows you to play out all those Armageddon scenarios you watched Joshua simulate in 
+ WarGames, and its simple presentation in favor of what can be a rather complicated game makes this 
+ a welcome change from the almost endless line of MMORPGs and FPS' which are flooding the market 
+ today.
+  
+  And, to be sure, the first few games you play will make you feel... odd. You will find yourself 
+ both detached from and eerily pleased by the deaths of all those people outside of your private 
+ war room just so you can play the unwinnable game.
+  
+  However, if you're the kind of person who can't stand to lose, you should avoid this game. You 
+ will be nuked, millions of your people will die, and in the end there's nothing you can do about 
+ it. You don't win in DEFCON, you lose the least - and Introversion has made that strangely satisfying.
+ 
+  
+  ~*~*~*~
+  
+  Reviewers system specs:
+  
+  Toshiba Satellite P105-S921: 1.83 GHz processor speed (Centrino Duo) , 1 GB RAM, NVIDIA GeForce 
+ Go 7900 GS. 
+::::::
+
+::::::
+UserName: airsoftmanic
+Rating: 3.8
+Date: Nov 25, 2006 10:51 am PT
+Review:  this game is an average joe.
+  the hilarity of nuking washinton can only last for a few minutes, then you move onto tokyo, then 
+ london, then egypt, iraq for kicks, then afganistan just to be sure.
+  overall, this game takes you back to the older years of gaming. the retro 'wargames' film to game 
+ is what i would of expected from a sharewre company, not introversion. look at introversion's history, 
+ uplink, the best oddball of the century. then darwinia, also the best oddball of its time. but 
+ they sort of lost it here. it seems like they just didnt know what to do.
+  its good for a few hours, then you think why the hell did i buy this game? .
+  it just doesnt 
+ feel like a proper game. i would have expected this to be better than what it is. 
+::::::
+
+::::::
+UserName: swillard888
+Rating: 8.1
+Date: Nov 15, 2006 1:44 pm PT
+Review:  I found this game extremely good, in the way that it shows that you do not need amazing graphics 
+ or 1000s of people working on a game for it to be good. It has such a simple way of playing, but 
+ as soon as you hit defcon 3 or 1 make sure your straight in there or someone will be on you!
+  
+  A good quick game, which you can set up AI in seconds to play. Also the quantiy of modes for 
+ what you get is good value. I bought my copy off steam for $14.95, which is around &pound;8. I 
+ would say that there needs to be a build up on multiplayers, most of the room s are demo players 
+ or passworded. 
+::::::
+
+::::::
+UserName: RoaDKiLLD
+Rating: 9.1
+Date: Nov 1, 2006 5:20 pm PT
+Review:  The map and the ambience really makes you feel like you are ordering a massive nuclear strike and 
+ dragging in the four horsemen before their time.
+  You start to feel queasy as the white blips engulf your cities, radars, and most importantly, silos. 
+ The strategy in this game is amazing; its simple, to the point, and easy to operate. Sure theres 
+ some micromanagement, but it wouldn't be global thermonuclear war if there wasn't. The graphics 
+ are cold and retro like they are in Wargames. A plane looks like a plane, a boat looks like a boat, 
+ and a nuke looks like a nuke. The only thing that could have been better would have been a way 
+ to manually change the defcons at certain pre-determined points in the game, or at least to have 
+ the defcons change at random intervals within a set. But all in all, it was a great game. 
+::::::
+
+::::::
+UserName: Dr4goN_PL
+Rating: 5.9
+Date: Nov 1, 2006 12:24 pm PT
+Review:  Defcon was made by Introversion Software. It's their third game (they also made Uplink and Darwinia) 
+ and first game that featured multiplayer. Although it features only multiplayer (up to 6 players 
+ +3 spectactors) it is made fairly through. Without having any storyline 'cept for overwhelming 
+ whole world it loses its potential. Defcon isn't a game that can give an excuse for no storyline 
+ because of it's gameplay. It's no Battlefield. The graphics are quite elegant but it doesn't change 
+ the fact that whole game is a mess. You would assume that Defcon is based on WarGames movie of 
+ 1983. Yes. That's right. It really does but it's a really slow and boring game. Don't touch it 
+ if you don't like games like this. 
+::::::
+
+::::::
+UserName: Trunammer
+Rating: 8.2
+Date: Oct 24, 2006 7:52 pm PT
+Review:  The game that is just like the wargames movie! This game amazes me. I can't believe how addictive 
+ this simple game can be. I love the environment! Most of the people I play with online are friendly 
+ which makes my experiences with this game that much more enjoyable. This game is similar to the 
+ game chess. I mean that it's really easy to learn and play overall, but it is difficult to actually 
+ master the game. You can do what you want and it will have an effect but you will need strategy 
+ if you want to win or lose the least as they say. You basically can't win in this game. The objective 
+ is to lose the least amount of people while killing everyone else. I know that it may sound rather 
+ unsettling when you talk about how you HAVE to kill innocent civilians to win , but you will get 
+ use to it =P
+  
+  Anyway let's just talk about the pros and cons about this game shall we?
+  
+  Pros:
+  - Easy to pick up and play! That is after the tutorial of course.
+  - Great, simple 
+ gameplay. Has incedible depth and potential.
+  - Even the graphics aren't 3d with all of these crazy effects you see in many games, it's really 
+ good for what it is. It gives you that computer simulator feel and i think that its over all good 
+ graphics.
+  - The sound does it's job well at setting the mood with the sound effects and music playing in 
+ the background. Very cold-war like!
+  - Small file size and over all good performance on my computer. This game can really bog down on 
+ low end computers even though it's 2d.
+  - Great online play and environment.
+  - Excellent interface and environment. Sets the cold-war theme/mood.
+  
+  Cons:
+  - Can bog 
+ down on low end computers which is really strange.
+  - There seems to be some connectivety issues for some users when playing this game online. Hasn't 
+ happened to me yet but it's been posted on the forum.
+  - Graphics can be bad if these things aren't you're thing.
+  - Rather limited sounds and music 
+ can be annoying somethings. There's a sound of people crying and that tends to annoy me at times.
+ 
+  
+  If I were you, I would pick this game up. For only about $20, I would say that this is a pretty 
+ good deal with the things you are getting out of it. I fyou aren't sure, then I suggest that you 
+ download the demo (only 50 megs) which gives you a good idea of what the gameplay is like. However, 
+ it restricts you to only two players in a game rather than 6 players (Which is so much more fun) . 
+ 
+::::::
+
+::::::
+UserName: raptisth
+Rating: 8.8
+Date: Oct 21, 2006 3:23 pm PT
+Review:  One of the few games that these days offer a strong experience. Kinda reminds us of our high-school 
+ days when WAR GAMES came to the movies. I almost weeped when I saw the GUI and made the connection 
+ with the 90's movie about the global thermonuclear war game between the boy and the machine... 
+ Anyways the game is as challenging as a good game of chess, bluff and intuition always playing 
+ a strong part in the multiplayer experience. A final thing I have to note is that either u win 
+ or loose the game there is always a bitter feeling in your gut that remains no matter how much 
+ you think to yourself that this is only a game... 
+::::::
+
+::::::
+UserName: blacktalon81
+Rating: 10
+Date: Oct 18, 2006 2:03 am PT
+Review:  http://www. everybody-dies. com/downloads/
+  
+  Very few games evoke such deep feelings, and do it so subtly. It is worth it to feel the sadness 
+ for the state of this world. To walk away from the game ill at ease and a little scared. It is 
+ subtle, but let it affect you. We do not have to become desensitized to this.
+  
+  The pace is radically different from most games. The real-time speed is majestic. It takes 20-30 
+ minutes for a nuclear missile to fly over the ocean. Do you think someone would tell you if one 
+ was launched? How would you spend your last half hour? 
+::::::
+
+::::::
+UserName: yeapstab
+Rating: 9.8
+Date: Oct 15, 2006 9:44 pm PT
+Review:  This game was designed from the same team as Uplink. Like Uplink they bring you awesome entertainment 
+ in the simplest game platform design possible. No big fancy computer needed to run this, great 
+ for travelers with laptops. For such a small size game this packs a punch with fantastic simulated 
+ graphics and game play. I sat here for hours playing this over COD2 or Oblivion. The sound and 
+ music is also really good but the music gets old after a while. If anything I think Introvision 
+ should add the ability to play custom mp3 tracks or have a bigger set of similar songs. Good job 
+ Introvision A+. 
+::::::
+
+::::::
+UserName: AdrenalinDragon
+Rating: 8.8
+Date: Oct 15, 2006 11:10 am PT
+Review:  DEFCON: Everybody Dies? Not a very big budget game I see? I've never even heard of it! were the 
+ many replies I got from friends and relatives about the game. Yes, you won't find DEFCON sold in 
+ the shops, but I can tell you now that this is easily the best strategy game of the year. So you've 
+ seen the screenshots and you're probably thinking Jesus Christ those graphics are rubbish! but 
+ have you ever had a second thought that graphics don't need to be top of the range in this present 
+ day to make a good game? Well, DEFCON proves that the old looking strategy games are still around 
+ today and are better than the majority of games in this current generation.
+  
+  DEFCON is a game where you control a basic world map in the sky. It's 2D and you must choose a 
+ territory to place your units. There are six to choose from: Russia, Europe, North America, South 
+ America, Asia, and Africa. Once you've chosen your territory you must place your units somewhere 
+ in your territory. You have Radars, Missile Silos, Airbases, and Fleets. The Radars are used to 
+ increase your range and accuracy. The Missile Silos are used for air defense and lauching nukes. 
+ The airbases are used to shoot down fighter aircrafts and bomb cities with nukes, and finally, 
+ the fleet are used to attack on water. Once you've done that, you have 5 DEFCON stages to strategize. 
+ You cannot rebuild or build any more units after DEFCON 3. If your units are destroyed then you 
+ can't get them back, simple as that. DEFCON 3 allows you to attack with aircrafts and fleet, but 
+ when DEFCON 1 comes up, this is where all of the fun (and disaster) begins!.
+  DEFCON 1 is truely where the game starts to play. This is where you can launch nukes and bomb cities. 
+ The trouble is, you've only got a limited amount of nukes you can launch with your silos, so you 
+ have to use the nukes on the subs and bombers as well, which requires alot of strategy. You also 
+ don't know where the opponents' units are either. However, you can see their cities, and they'll 
+ probably reach yours first. You must use fighter aircrafts and air defense to defend your territory. 
+ The game starts to get hard when they start to launch a seemingly countless amount of nukes at 
+ you at the same time. Your air defense just can't shoot them all down. However, while they are 
+ doing this they become more vunerable to attack, so there's a better opportunity for you to attack 
+ them back with nukes.
+  When the nukes and bombs hit the cities, you lose a large amount of population, usually in the 
+ millions. Each million of the population lost gives you 1 point, so if they bomb your city and 
+ take out 3 million people, they get 3 points. If you bomb one of their cities and get 15 million 
+ kills, you get 15 points. It's a good scoring system, and can be modified on how you want to score 
+ in the full game. Once you and your opponent (s) have nuked a certain amount of cities, the victory 
+ timer appears, and when that reaches zero the game ends.
+  
+  It's a pretty complex strategy game, but it's pretty fun online as well. With the demo, you are 
+ limited to only play 1 opponent and 1 game mode. You can't change the options either. While DEFCON 
+ is still fun on the demo, it's just not as great as having 5 opponents on the full game. IT'S A 
+ BLAST! is how I would describe it. Spectators are also welcome to join the game as well, however 
+ they'll miss all the fun if they do that.
+  Strangely enough, there isn't a single player mode anywhere to be found on DEFCON. There's only 
+ a Join Game or New Game option. Anytime you do the New Game option, the game always assumes you 
+ want to play against someone online, so it just goes to show that DEFCON was always supposed to 
+ be online anyway. However, you can turn online mode off in the options so it's not too much of 
+ a problem. You can choose how many computer opponents you want, but there doesn't seem to be a 
+ CPU difficulty setting, so the CPU is more balanced out on here. Also, the Join Mode lets you join 
+ an internet or LAN game online. DEFCON has many different game modes. One of them is the Office 
+ Mode, where you play a match for 6 hours and you can't pause the game at all. Even when you minimize 
+ the game it's still running because you get told what events are happening in the game. It's a 
+ great mode to use if you work in an office because you can just minimize the game by pressing the 
+ escape key. Other than that it's pretty much the same as the original mode.
+  The other mode named Speed DEFCON is almost like the original mode except you only have 15 minutes 
+ to finish the match, because the game is always at a fast speed and you can't change it. Pretty 
+ fun nevertheless. BigWorld is literally a world that's twice as big, and you get double the amount 
+ of units as well! The only catch is that the units range have halved and it makes the game harder. 
+ However, the best mode in my opinion is Diplomacy, where all of the teams are the same alliance 
+ but then they break up slowly (or fast, it depends) and the last survivor wins the game.
+  
+  The graphics in DEFCON are actually really good! They may be 2D but the sleek and flash presentation 
+ of the game makes this game look modern. Sure the units arn't detailed at all but I think it's 
+ pretty cool seeing a nuclear world map launch nukes all over the place without being too detailed. 
+ My only complaint would be that everything moves super, super slow if you don't speed the game 
+ up. Plus, the style editor lets you change the colours of the map so you could have a green map 
+ or a red map if you wanted to. You can literally customize all of the graphics in this game.
+  
+  The sound in DEFCON is probably the worst part of the game. There's only one music track and 
+ although it works pretty well it would be better if there was more music in the game. In Office 
+ Mode all of the sounds are turned off, so that's ok and in a way the game is better without the 
+ music. However, it's not too much of a problem. There's not many sounds but when you bomb a city 
+ you can hear some sort of explosion noise which is pretty cool. Other than that there's not really 
+ that much sound in the game.
+  
+  I think it's amazing to see a game like DEFCON become a huge success. The developers arn't really 
+ the biggest in the market and they've managed to pull off one of the best strategy games ever made. 
+ Having them sell this game for only 10 quid is amazing, and it's an offer you can't refuse. You 
+ won't find it in the shops, but if you go to www. everybody-dies. com you'll be able to buy this 
+ awesome game from there. I think it's funny to see how a game I've never heard of until this week 
+ became my favourite game of 2006. (so far) Just goes to show, you don't need top of the range graphics 
+ to make a good game like this. Maybe the developers will release this in the shops, but whatever 
+ happens, don't miss out on DEFCON. Best Strategy game of the year no doubt. 
+::::::
+
+::::::
+UserName: Homes225
+Rating: 8.8
+Date: Oct 13, 2006 9:00 am PT
+Review:  A first glance DEFCON may look like a nintendo 64 game or even worse. But behind its simple graphics 
+ DEFCON is a crazy fun game that will have you and your gaming friends laughing and playing for 
+ many hours. DEFCON is a very small game at 64 megabytes and rumors say that if you delete the sound 
+ files you can get the game to 2-5 megabytes! The game has realistic sounds of children crying and 
+ alerts when a nuke fires. Gameplay is loads of fun and there is nothing more exciting than watching 
+ a mass of your nukes smash into your foe's large cities killing millions. For only $15 it is worth 
+ its price. DEFCON also has a message in the end, in nuclear war no ones wins its just who survives. 
+ 
+::::::
+
+::::::
+UserName: kastanok
+Rating: 8.9
+Date: Oct 11, 2006 5:44 am PT
+Review:  Hear the one about the six super-states, the 300 nukes and 6 billion civilians? The nukes were 
+ launched; everybody died. Not very funny, is it? No, but it's a hell of a load of fun.
+  
+  Based upon the 80's film Wargames, DEFCON is Introversions third game. It's half way between chess 
+ and Risk, meaning most games are won or lost before a shot it fired. The player controls one or 
+ more regions of the world and a set number of buildings and units for the entire game. Once you've 
+ lost those units, or the civilians populating your cities, you can't get them back.
+  
+  Over the course of about half an hour (using the standard rules) , the game progresses through DEFCON 
+ levels 5 through 1. Each level allows you greater access to your units abilities. DEFCON 1 and 
+ 2 means you can only move your naval units (including destroyers, carriers and submarines) . At 
+ DEFCON 3 and 4 your navy and airforce (fighters and bombers) will engage enemy units. And at DEFCON 
+ 5, it's thermonuclear war. Anything goes as nukes fly across continents and oceans, wings of bombers 
+ bear down on cities and submarines surface off your coast to wipe out key cities and outposts.
+ 
+  
+  They key to the game is timing and placement. Spend half an hour directing your submarines to the 
+ enemy's coast and they'll be in place just in time to surface at the very moment that their missile 
+ bunkers switch from air defense to missile deployment. As is the case with most units, these missile 
+ bunkers have two states. Each has its own strengths and weaknesses and takes minutes to switch 
+ between, leaving them vunerable for an age.
+  
+  DEFCON, like Uplink and Darwinia before it, is packed full of atmosphere. Minimalism is the word 
+ with the world map displayed in simplistic, angular lines and units represented by arrow heads, 
+ boxes and hemisphere type symbols. When a nuke lands on a city, there's a white blot obscuring 
+ the map for a while, green radiation spreads across the land and plain white text which politely 
+ informs you how many million people have just died. A low rumble marks the detonation of such a 
+ missile, which brings me to the music. The music is about the only sound at all in DEFCON and it's 
+ limited to strains of something similar to Barber's Adagio for Strings and the off cough or sob. 
+ Yet this simplicity is remarkably engaging. While a singleplayer option is available, the true 
+ game is in multiplayer. Team up with friends or strangers for a tense 3 on 3 match, wondering if 
+ they'll stab you in back and whether you should stab them first, or pile in on a free for all game, 
+ where the world attempts to obliterate itself.
+  
+  There are a range of different and fully customisable rule sets for both singleplayer and multiplayer 
+ games (which both use the same menu system) and it's easy to find a random game to join. However, 
+ it's very difficult to find a particular server or friend at this point. There are no options to 
+ filter servers and the servers shown to you is intentionally restricted so Introversion's machines 
+ can cope with the massive demand. Hopefully, these niggles will be fixed in future but for the 
+ time being they do hold the score back.
+  
+  Buy it, start it, find a stranger... then blow the world to pieces. 
+::::::
+
+::::::
+UserName: TerrALtheIBLE
+Rating: 6.6
+Date: Oct 10, 2006 12:22 pm PT
+Review:  I have played DEFCON for several days now. It's a great concept and beautiful to watch unfold. 
+ However the game has one major feature that will make you Love it or Hate it.
+  
+  DEFCON was designed with micromanagement as its Primary gameplay feature. I'm not exaggerating. 
+ Here are the specifics.
+  
+  None of your mobile units move without Individual Unit orders from you.
+  
+  All orders must 
+ be given One Unit at a time.
+  **Exception in a naval group all of the same type of unit can be set to one type of mode at once**
+ 
+  
+  Each carrier and airstrip can only launch One unit at a time with a long delay between launches.
+ 
+  
+  Fighters almost invariably crash from running out of fuel unless you give them orders to land earlier.
+ 
+  
+  You cannot assign movement way-points.
+  
+  You cannot synchronize attacks using any type of in-game mechanic.
+  
+  What will the game do 
+ without being told?
+  1. Silo's will perform air defense.
+  2. Aircraft carriers will sink subs (but only in anti-submarine mode)
+  3. Submarines will sink 
+ ships (but only in active sonar mode)
+  4. Battleships will attack any surfaced ships and aircraft.
+  5. If an aircraft is inside the 
+ fighter's combat range then the fighter will engage.
+  6. If a naval unit is inside the bomber's combat range AND the bomber is in naval combat mode. 
+ The bomber will engage.
+  
+  Things you must micromanage completely:
+  
+  Launching any aircraft
+  Bomber interception using fighters
+  Making fighters land instead of 
+ crash
+  Defending specific units
+  Patrol routes
+  
+  These have all been pointed out already in the DEFCON patch request forum. And they have all been 
+ shot down by the Devs because they reduce micromanagement. Please read the forums at www. everybody-dies. com 
+ and see for yourself.
+  
+  Now for my scoring.
+  
+  Difficulty: HARD
+  You are fighting the interface to gather information and give unit orders every single moment of 
+ game-play.
+  
+  Learning Curse: 4+ hours
+  It takes 4 hours just to figure out how to orchestrate movements and attacks with multiple units. 
+ If you want to do any large strategy expect to spend more time learning how to Coordinate your 
+ mouse clicks.
+  
+  Classification: Mixed reactions
+  
+  This game is all about micromanagement. Some people like that, some people don't.
+  
+  Gameplay: 
+ 5
+  All hinges on micromanagement, that's it.
+  
+  Graphics: 8
+  The graphics are simple but well implemented.
+  
+  Sound: 6
+  Appropriate music and sound effects. 
+ Only noticed 2 songs and about 7-10 sound effects total during game-play.
+  
+  Value: 8
+  DEFCON multi-player implementation is average, but missing some features like the ability to chat 
+ after a game or play with the same group again.
+  
+  Reviewer's Tilt: 7
+  I admit not liking this game. However I know that's just because I don't like micromanagement. 
+ It's easy to see how other people may love the gameplay so I'll give a sorta average-good score 
+ of 7. 
+::::::
+
+::::::
+UserName: thelibertyjap
+Rating: 9.2
+Date: Oct 7, 2006 12:37 pm PT
+Review:  Defcon is an RTS with a unique twist. Unlike traditional RTS games, Defcon requires no laborers, 
+ resources, or population limits. At the start of each game, allowing up to 6 players playing on 
+ teams or individually, each player is given a set amount of radars, silos, airports, and naval 
+ fleets. There is a clock which countsdown from Defcon 5 to 1. With each stage in defcon, a new 
+ level of assault is allowed. Defcon 5 is peaceful, 4 allowing view of the enemy within range, 3 
+ non-nuclear combat, 2 being much like defcon 3, and finally 1 allowing for all out nuclear warfare. 
+ The gameplay is solid with no noticeable glitches and offers a variety of users to enjoy this game. 
+ The graphics, although simple, are very polished and look great even if they are 2D. The sound 
+ is on par with the graphics, simple but polished. The game offers a very in-depth and intuitive 
+ tutorial to get you into the action quickly and help you learn the controls. The downside to this 
+ game, like most RTS, is time. If you play online in a room using real-time, games can last as long 
+ as 2 hours or more. Luckily Introversion thought of this problem and added a nice speed adjustment 
+ interface at the top of every player's screen. If all players request the same time acceleration 
+ the game will comply. Game speeds include real-time, 5x, 10x, and 20x. Overall this game is very 
+ solid with a great price tag of $15. I would like to see some more variety, in the content department, 
+ released in a future patch. There are several game modes and options to help mix up gameplay but 
+ the map is always earth and it tends to become repetitive after several hours of continuous play. 
+ 
+::::::
+
+::::::
+UserName: Vorlin
+Rating: 10
+Date: Oct 7, 2006 8:17 am PT
+Review:  Defcon is Introversion's answer to the public's plea for a multiplayer game. Everyone wanted to 
+ see Uplink go MP and maybe some wanted Darwinia to do the same but neither had the network code 
+ to do so. That's fine since both of those titles are classic hits in their own right and Defcon 
+ brings to the table a very simplistic game: play online or against the computer to form alliances, 
+ break apart your enemies, break said alliance and tear down who used to be on your side before 
+ they counter-attack.
+  
+  Nobody wins at this game and that's probably the most intriguing point. In a world of WWIII, everyone 
+ is going to nuke everyone else and it's your sole goal to lose the least and by that, that means 
+ more of your cities surviving, hence your civilians survive longer. Destroy more cities of your 
+ enemies and lower his score by burning out his civilians.
+  
+  It's a bit detached the first couple of games because people really don't think about what they're 
+ doing until it starts flashing up things like Tehran hit: 1.8m dead or London hit: 2.3m dead or 
+ New York hit: 3.9m dead . I know I sat back and reflected what true nuclear holocaust would have 
+ been. Very addictive game and very light-weight, proving yet again, the bedroom programmers of 
+ Introversion can make games in this era of realism and graphics that don't require a $400 video 
+ card. Amazingly done! 
+::::::
+
+::::::
+UserName: SniperWolf9090
+Rating: 8.4
+Date: Oct 15, 2006 4:48 am PT
+Review:  Finally a good game of the end of time as we know it. This game is good in many ways. It is innovative, 
+ realistic, destructive and is still fun to play! But it has some problems with finding servers 
+ on-line. Or maybe it is only me that have that problem;-) . What can be more fun then to exterminate 
+ whole cities? It is just like the movie WarGames . But here YOU are in control of the destiny of 
+ the world! This is an instant classic... worth your money. All 10$. Too bad it is already a game 
+ that has the name WarGames. but the name DEFCON is ok but it is still not the same.... well can`t 
+ get all you ask for. The soundtrack gets annoying after some time, but all other sound effects 
+ are really exciting. Make sure to turn the bass all up! All i have to say is buy it and play it! 
+ 
+::::::
+
+::::::
+UserName: amagill116
+Rating: 9.4
+Date: Oct 4, 2006 11:42 pm PT
+Review:  When i play this i think of the movie war games . This game should be played on a 12 foot tall 
+ screen. Music is superb, and changes pitch depending if you are winning or not. Style is great, 
+ makes you feel like the president ordering full release of all nuclear weapons. Gameplay is great, 
+ different units and buildings, and how you use them can make or break you. Strategy and counter 
+ strategy. This game is a must for RTS players, its simple and satisfying. The demo is almost fully 
+ functional. Also try out another game from this developer, Darwinia. Great game there too. Totally 
+ unique stuff but still strongly rooted in strategy. RPG players stay away, this doesn't have cute 
+ little pets, or happy dwarves. The title says it all, Everyone Dies! 
+::::::
+
+::::::
+UserName: nightharvest
+Rating: 8.9
+Date: Oct 4, 2006 5:51 am PT
+Review:  The lads at Introversion are genius. They have created a game of mass destruction which for all 
+ intents and purposes should have the anti-gaming lobby up in arms. But they have created such a 
+ surreal, almost mellow gaming environment where this carnage takes place. And while DEFCON is a 
+ fast-paced and quick thinking game to play, watching DEFCON is akin to a gaming representation 
+ of Hamlet. And it works so well. Whether playing against the tough computer opponent, or online 
+ against the growing number of players, DEFCON will please to no end the majority of gamers. DEFCON 
+ puts you in the shoes of a general of a country on the brink of inevitable global thermonuclear 
+ war. It's going to happen, so don't fight it. At DEFCON 5 you are required to place installations 
+ and heavy weaponry through your territory to both attack your enemies and defend your cities. From 
+ DEFCON 3 you position, strategize, re-position, strategize and at times spa with your opponent 
+ with some aerial or naval combat. By DEFCON 1, the gloves are off and anything goes. You have an 
+ extensive nuclear arsenal at your disposal and (with a bit of thought) it's time to unleash this 
+ arsenal whilst being prepared for similar attacks or the counter-attack. Points are awarded for 
+ enemy cities (population) hit, lost for home cities that have been hit, and collateral damage is 
+ a double point loss. But in the end, it's about wiping out your enemy.
+  
+  The graphics, like all of Introversion's games, are simple, effective, haunting and beautiful. 
+ Sticking to the Tronesque style of parts of Darwinia, the world map of DEFCON glows a resonant, 
+ charming glow. Representations of cities, units, installations and nuclear explosions are simple 
+ but effective. Wait until you've seen five or so players launch a massive attack simultaneously. 
+ It's a spectacle. There's no 3D models, no HDR, no super special stuff here. Just a simple, effective 
+ and surreal interpretation of the apocalypse.
+  
+  The sound is also sparse and haunting. The music settles into the background and then unsettles 
+ with it edgy soundtrack as things really start to happen in the game. The nukes gentle sizzle and 
+ explode away and the in game bleeps and effects are a retro delight. However, the women and kids 
+ coughing is one of the few major errors of this game - the developers had done so well to make 
+ the whole experience an otherworldly and almost impersonal experience, but it does come back to 
+ earth with this effect.
+  
+  DEFCONs gameplay probably cannot be ultimately judged so soon after release, but there is no doubt 
+ there is a serious amount of strategy, tactics and gamesmanship that will keep this game ticking 
+ over both against the computer and online for some time come. There is a wealth of options to formulate 
+ your attack and there is the added factor of alliances made and destroyed which will lead to desperate, 
+ ad-hoc measures. Its going to be easy to shaft an ally, as easy as it is for an ally to shaft 
+ you. This will be a treacherous game online as you seek the right moment to turn on your erstwhile 
+ brethren that maximizes personal advantage.
+  
+  The units are well balanced and provide warfare and battles on a number of fronts. Setting up installations 
+ correctly is essential to protecting your population. Radars, silos and airstrips have both attacking 
+ and defensive qualities and in partnership they can be devastating. Silos can launch multiple 
+ nuclear missiles, but they are a defensive unit if not undertaking this task. Radars need to be 
+ maintained and well placed to give you enough warning of an enemy attack. The airstrip has the 
+ exploratory fighters and the nuclear capable bombers ready for action. There are also battleship, 
+ tankers (that can carry fighters and bombers) and nuclear capable submarines that can take the 
+ battle to the sea.
+  
+  Strategy and tactics are a must. Each team has strengths and weaknesses and this will lead to some 
+ interesting match-ups. You have no choice but to use trial and error when you start, and you 
+ wont be able to resist a full on nuclear launch on your first game. Its great fun, but you will 
+ be caned by the counter attack. Timing and positioning is everything. And ultimately, so is the 
+ score. Getting in front is hard and staying front is harder. But there will be memorable gaming 
+ moments in DEFCON. One particular example is a game where I was held at bay by my opponent, with 
+ my last resort a 15 + nuclear strike in a populated area I hadnt done any reconnaissance on. It 
+ just happens that there was only one airfield protected the surrounding cities, so the barrage 
+ led to a 50 point turnaround and a lead to be protected, which I did but only just.
+  
+  Without a doubt there are limitations to DEFCON. There is only one map with six possible team options. 
+ I am a bit disappointed I could not defend my mighty home country, but I'm going to put faith in 
+ the modding community to not only tweak the current map that is available, but also create some 
+ new ones as well. It really can be quite confusing at first, but once you've crafted a style it's 
+ an easy game to play. But it's also a hard game to master.
+  
+  However, the detached, surreal environment won me over. One should real back in horror when Lima 
+ is hit by a nuke killing 6 million innocent people. However, it occurs in almost an operatic style, 
+ with melancholic music playing in the background as the offending apparatus glides almost glacier 
+ like to its target. A white dot appears, the bass of the explosion is barely audible and the toll 
+ appears on the screen, almost matter-of-factly. And so the game glides on, an irresistibly charming 
+ alternative to the overt violence of other war and online battle games.
+  
+  I have played quite a few games against the very tough and aggressive computer AI (I am just starting 
+ to get the wood on him in a few scenarios) as well as some games online. I can see myself coming 
+ back to this on a regular basis, with the average game taking 45 minutes to one hour. It's a very 
+ good length for a single game, actually.
+  
+  I purchased DEFCON for US$9.95 on Steam. Great value for any game. At a mere 65mb it doesn't take 
+ up precious space on the hard drive and it is the sort of game to come back to every week or every 
+ month.
+  
+  DEFCON is more fresh and innovative gaming from Introversion. I was a bit apprehensive when learning 
+ this was primarily multiplayer based, but it certainly works very well for the time being. Its 
+ main limitation may have the ultimate say in the life of the game, but as it stands the game is 
+ a must play for any serious gamer. This is war. But despite the map of our humble planet, this 
+ is a very surreal, otherworldly war. 
+::::::
+
+::::::
+UserName: MrBlake
+Rating: 8.7
+Date: Oct 8, 2006 10:35 pm PT
+Review:  I first checked out the demo and was very intrigued by this game's unique strategy style, and odd... lure. 
+ Despite the fact the graphics and sound are relatively dated compared to any RTS game today, they 
+ do exactly what everyone has been saying graphics are meant to do (in most cases) ... enhance the 
+ overall game experience. And the neat looking neon blue map, with all the sharp and simple unit 
+ icons are very fitting for this type of game. Though the gameplay may seem limited at first, once 
+ you begin to dive deeper and deeper into the game, hundreds of strategic questions begin to cross 
+ your mind. How should I build my fleets? , How many subs should I group into a fleet? , Where should 
+ I place those subs? , Should I strike first at the toll of DEFCON 1, or should I hang back until 
+ he has exhausted his nukes, only to then launch an all out strike on his cities? The list of questions 
+ go on and on and on and on. So even though on the surface this game appears as simple as a game 
+ of checkers (not even chess) , you soon find it does become an intricate game of Chess. Moving the 
+ right pieces to the right spots to provide the opportunity for the ever so pleasing checkmate :-D 
+ haha.
+  
+  For some though, this game will get mundane and boring quickly if you are not patient enough to 
+ try different facets of the game, try different strategies (going from overly aggressive to more 
+ passive) , and much more. I'll admit sometimes this game might get boring. But for the most part, 
+ even in the beginning when you have to decide what to do with your units is extremely involving. 
+ You truely feel like a Cold War general who has just been handed an executive order to prepare 
+ for all out war with the Commies. And when those nukes begin to hit your cities (cause some are 
+ bound to get through) it turns into a frenzy to save as many as you can, and take down the silo's 
+ before they go back to their air defense mode.... I could go on and on, but now I shall retire. 
+ Try the demo for a while before deciding if this is the game for you. If you do decide it is, then 
+ you are in for one heck of a ride. 
+::::::
+
+::::::
+UserName: AlfaSub000
+Rating: 9.3
+Date: Oct 1, 2006 8:02 pm PT
+Review:  This is hands down the best game I have played this year. The strategy is deceptively simple: deploy 
+ your bases, maneuver your units, and when the game reaches DEFCON (defense condition) 1, nuke the 
+ holy $#!% out of everyone else. The innovation in this game results from how they perfected the 
+ gameplay, graphics, and mood of the game. You might think from the basic nature of the units in 
+ this game that it's simple and repetitive. Nothing could be farther from the truth. The nuances 
+ of base placement, unit deployment, and each of the game's seven regions can make each match feel 
+ very different. And if you want even more variety, you can experiment with the game's different 
+ play modes. These modes changes the rules in a small way, but often radically alter the strategy 
+ needed to win. For those of you who look for more than just gameplay, the graphics in this game 
+ are great too. They don't excel in the holy crap, that looks real way, but in the same sort of 
+ simplistic beauty that Darwinia, the company's previous game, captured. The world is displayed 
+ in neon wireframe sure to make you feel like you're in an underground bunker, directing the last 
+ war the world will ever see. Look at the screenshots. My description here just doesn't do the game's 
+ beauty justice. These graphics are a big part of the mood of the game, which also is perfect. The 
+ haunting soundtrack and subtle ambient cues bring the game alive. Meanwhile, the stark, white messages 
+ proclaiming New York hit, 22.8m dead convey, in a brilliantly detached way, the scope of the conflict. 
+ All of these pieces come together to make you feel like one of the last people alive on Earth. 
+ The final bonus of this game is the price. I could buy two games like this for the price of one 
+ mainstream game, and spend twice as much time playing them. If you don't have this game, go buy 
+ it. You'll never think about global thermonuclear war in the same way again. 
+::::::
+
+::::::
+UserName: Oirish_Martin
+Rating: 9.4
+Date: Oct 1, 2006 5:30 pm PT
+Review:  Yes, the boys and girls (the very small number of them) at Introversion have done it again and 
+ released yet another unique masterpiece - and they've even very kindly classifed its genre for 
+ us - DEFCON is a genocide-em-up. 
+  
+  Set in the style of the Cold War classic film Wargames, you take the role of a general in a bunker, 
+ whose only view of the outside world is a large map of Earth with all its major cities. Within 
+ a few short minutes of starting a game, the world will inevitably spiral towards a nuclear war 
+ of mutually assured destruction as DEFCON 5 becomes DEFCON 1..... or will one side come off the 
+ victor of a battered world?
+  
+  DEFCON divides the world into several territories - Europe, North America, South and Central America, 
+ Asia, the USSR (although bizarrely ex-Iron Curtain countries like Poland and the Ukraine are part 
+ of the European territory) , and Africa. Australia presumably continues having barbecues in an effort 
+ to stave off the cold of nuclear winter.
+  
+  It is your duty to defend the citizens of your territory's cities from the many horrors of nuclear 
+ attack. In a rather callous fashion, you gain one point for every million enemy citizens slain 
+ and lose two for every million of your citizens you fail to protect.
+  
+  The first two DEFCON levels (5 and 4) are relatively peaceful - this time is used to deploy all 
+ your allocated units (either from a fixed pool or a customised one) on the world map in order to 
+ attack and defend. Each unit is critical to success in its own way, and like many other games, 
+ there is a fine balance involved with all of them.
+  
+  Radar dishes are your first priority, as they have the longest line-of-sight of any unit in the 
+ game and can see almost everything coming their way . This allows you to spot incoming nukes from 
+ a long distance so they can then be shot down. Their weakness is they are totally defenceless and 
+ one nuclear attack will destroy them, so there will always be a tradeoff between how much you want 
+ to defend some of your more distant monitoring stations and how far you want to be able to see.
+ 
+  
+  The most important decision you will have to make is where to deploy your missile silos. Not only 
+ do they have a stock of 10 ICBMs capable of hitting targets anywhere on the planet, they also double 
+ as anti-aircraft defences, so you may want to place these near your population centres. Critically, 
+ they cannot fire nukes and down enemy nukes simultaneously, and transitioning from one ability 
+ to another takes several minutes. Not only that, but firing an ICBM permanently marks the silo's 
+ location on enemy maps, so picking your moment properly is essential.
+  
+  The next most important assets are your airfields. These launch both fast short-range attack fighters, 
+ good for engaging most naval and airborne targets, as well as shooting down nukes if you're lucky. 
+ If you lose some, don't worry, they are replenished at the airfield itself, albeit very slowly, 
+ so don't be too reckless with them. Each airfield also houses five slow moving bombers, which can 
+ either unleash a powerful anti-naval attack, or use their long range flight abilities to fly to 
+ enemy cities to drop short range nuclear missiles. Despite their weakness, you will resort to using 
+ bombers a lot more often than you think you will - their range and the fact that their nuke launches 
+ don't trigger huge alerts on enemy maps make them very useful.
+  
+  There are then three classes of naval unit - battleships, carriers and subs. Battleships can attack 
+ naval and airborne units but are very vulnerable for subs. Carriers are essentially mobile airfields, 
+ but without the ability to regenerate fighters. They can also depth-charge enemy subs. Subs have 
+ average anti-naval ability, which improves with their active sonar ability, but makes them vulnerable 
+ to counterattack. You will most often use subs for their onboard medium range nuclear missiles, 
+ however bear in mind this forces them to the surface where all units can attack back at them.
+ 
+  
+  All of this may sound tricky at first, but the tutorial covers all aspects of gameplay while giving 
+ you the chance to launch a lot of nukes.
+  
+  While DEFCON does not have the complexity of C&amp; C Generals, don't be fooled by the simplistic 
+ units - the balances between units and the tradeoffs you have to make in order to attack and defend 
+ properly make you consider each battle properly. If you order your bombers to repel a naval attack 
+ early on in the game and you fail, you will then have five nukes sitting uselessly in your airfield 
+ for the remainder of the game. If you are not careful with your carriers, five more nukes will 
+ sink to the bottom of the sea. Each tactical decision must be weighed up - even moving your fleets 
+ can be risky, as due to their slow movement, by the time you realise you've let a wolfpack of subs 
+ into your waters, your cities be crumbling.
+  
+  DEFCON's gameplay has an interesting dynamic in that the nuclear missiles you have are for all 
+ intents and purpose, a resource. How you deploy them can make or break you - firing missiles from 
+ your silos too early leaves you unable to defend yourself from a similar counterattack. Firing 
+ a few of your missiles too early can also illicit a panicked response from your enemies, and sometimes 
+ 50 nukes too many then rain down. The game duration also revolves around nukes - when the total 
+ number of nukes remaining is less than (usually) 20% of the original, a timer starts counting - 
+ the person with the highest score at the end of this timer is the winner. 
+  
+  Scoring is computed via a very callous system; which is just one example of how Introversion have 
+ gone out of their way to bring home how sterile warfare waged in this fashion can be. Sending your 
+ first nuke against a city and seeing NEW YORK HIT: 25M KILLED flash up on the screen gives some 
+ a chilling feeling. The one aspect of the game set up to deliberately contrast with this tone is 
+ the ambient soundtrack - a melancholic set of tracks, overlaid with the wooshing rumbles of nuclear 
+ explosions, and occasionally, the coughings and screamings of suffering human beings.
+  
+  The game is graphically very simple, but the map has some very useful overlays that depict territories, 
+ radar coverage, orders given (movement and target lines) , population density, and units with nuclear 
+ weapons. Other neat little details are the trails all units leave behind them, and the slight green 
+ tinge of radiation left behind. The sights of dozens of missiles creating arcs over the Pacific 
+ Ocean, with luminous green clouds and glowing white fireballs floating over ravaged cities is sometimes 
+ an intriguing and downright perverse beauty of game design.
+  
+  The game allows you to play against up to 5 CPU opponents, but you can also play online, with several 
+ different game modes besides the basic one described here. Most games have a couple of spectator 
+ seats, so you can watch the proceedings unfold and learn and discuss tactics as you do so. Naggingly, 
+ there seem to be no filter options in the game listings as of yet, but as this game is being supervised 
+ by the ever-more present Steam, an update can't be far away to fix this - and it's a testament 
+ to how good DEFCON is that I have to resort to this for a criticism!
+  
+  So, there you have it. Introversion game no. 3 - DEFCON. It's cheap, it's easy to obtain over Steam. 
+ Buy it, and let it blow you away. 
+::::::
+
+::::::
+UserName: gbrading
+Rating: 8.5
+Date: Sep 9, 2007 3:14 pm PT
+Review:  It can be safely assumed that it is not many peoples dream to devastate the world in a cataclysmic 
+ nuclear war. Well, Ronald Reagan and his Soviet counterpart may have been the general exception 
+ to that rule. After all, the idea is simply M. A. D. (Mutual Assured Destruction, or a lose/lose 
+ scenario) , surely? However, that is exactly the situation which the players of DEFCON must face. 
+ Inspired both by the 1986 comedy/drama WarGames, and the 1964 satire Dr. Strangelove, DEFCON 
+ delivers an experience which is both ironically good fun, and ultimately a poignant emotional experience.
+ 
+  
+  The basic premise of DEFCON is that you are a military general, or some other such leader, knuckled 
+ down in your secret underground bunker, and for some unknown reason, the diplomatic negotiations 
+ have failed, and all-out nuclear war has been declared. You are tasked with defeating your enemy 
+ by killing that largest number of civilians using your nuclear arsenal, whilst the enemy does the 
+ same. Introversion Software likes to call it loosing the least. Sounds quite cheerful, no? The 
+ overall game is very simple right from the get go, and also very small, only taking up about 60mb 
+ of hard disk space. However, this does in not in any way dampen the experience.
+  
+  Controls are easy, simple to use, and quick to learn, and the tutorial levels spell it all out 
+ very nicely. However, it is clear from the outset that this is a difficult game to truly master, 
+ requiring lots of detailed strategic thinking. In fact, strategic thinking is really the nub of 
+ the matter. Many questions will circle round your head while playing, causing constant internal 
+ debate. Should I strike first? Should I counter-strike? Should I launch the entire arsenal all 
+ in one go or keep a reserve handy? It is all up to you, and your decisions may be crucial in deciding 
+ the overall outcome of the war. It is in many respects simply a nuclear combat game of Chess.
+ 
+  
+  You are able to play as one of six continents, North or South America, Africa, Europe, and North 
+ or South Asia. There are many different options which can be adjusted to change your game to how 
+ you see fit, meaning that the game can be played in a number of different ways, including a nifty 
+ mode where the game plays in the background over six-hours; perfect for a dull day at work. Peculiarly, 
+ I experienced a quite nasty guilty pleasure when raining down the apocalypse upon the enemy. You 
+ cant help but feel some subconscious guilt whenever there is a direct hit on a major city, and 
+ writing flashes up calmly informing you that: London hit, 8.9 million killed. It really is quite 
+ unnerving at certain points, such as when you zoom back to view the entire map, with numerous missiles 
+ arching across the sky. I doubt there is another game in existence where you can exterminate more 
+ innocent virtual people. However, the game is designed purposefully so that you experience this 
+ guilt, and realise how fruitlessly useless and stupid nuclear holocaust actually is.
+  
+  Graphically, the main game window takes the view of a two dimensional map of the world, an extremely 
+ similar layout and style to the 1980s command screens used by the Pentagon in the film WarGames. 
+ It cannot be understated that the game looks wonderfully cool, feeling crisp, militaristic and 
+ clean. The blue tinge to the world and basic graphics add to the 1980s feel. There are no flashy 
+ animations whenever a bomb drops. Instead, the area whites out, just like a radar map, with an 
+ ominous dull rumbling noise. The many moving objects leave dotted trails behind them which gradually 
+ fade over time. Overall, it almost convinces you sometimes that you really are controlling a superpowers 
+ military armoury.
+  
+  The sound is really superb, and it is clear that choosing a more sombre and subtle soundtrack was 
+ a master stroke. The music is fantastically haunting, and really adds to the overall atmosphere, 
+ making me wish there was a lot more of it! All the time in the background, there is the humming 
+ of the bunker machinery, radio chatter, distant footsteps, machinery bleeps, and occasionally the 
+ quite disturbing sounds of people coughing and crying. By the sounds of it, they could be suffering 
+ from acute radiation sickness. It is mostly the sound which really gives the game its poignant 
+ side, and shows the real futility of this type of warfare in real life.
+  
+  Overall, the moral message of DEFCON is similar to both the films of Dr. Strangelove and WarGames. 
+ Global Thermonuclear War may seem like a good idea, and is fun as a game, but ultimately in real 
+ life it is just plain idiotic. Once you have learned this message, you can really experience the 
+ full value of this game. It has wonderful replayability, a genuinely classic format and excellent 
+ multiplayer. The only slight negatives are that a longer soundtrack would have been really great, 
+ and that if you wanted to play as Australia or the continent of Oceania as it is now known, forget 
+ it, as it is an ultimately redundant landmass in game. There is still the slight chance of this 
+ being resolved however, as Introversion is continually updating and perfecting the game. These 
+ really are only slight quibbles, which if included, would have made the game really superb.
+  
+  DEFCON is truly a game that shows that it is actually possible to fight in the War Room. Now, 
+ how about a nice game of Chess? 
+::::::
+
+::::::
+UserName: revolutionbr
+Rating: 8.6
+Date: Oct 1, 2006 12:43 pm PT
+Review:  This game proves that small companies can make great games. It's fun, simple and provides hours 
+ of explosive fun! A masterpiece for strategy game lovers!
+  
+  It proves that good games don't need uber-realistic 3d graphics. It's simple graphics make us feel 
+ just like a General on his underground bunker on the 80's, ready to nuke the entire western continent. 
+ The game is really simple and it's an interesting concept. It may be a bit confusing on the beginning, 
+ but you can learn it fast by following the included tutorial.
+  
+  It's a great game, small companies aren't dead and great games can be done with low budget. This 
+ game is surely worth it's price and the mix of its elements and turning out your room lights surely 
+ makes you really feel like a general sitting on his chair and ready to nuke half of the world. 
+ 
+::::::
+
+::::::
+UserName: supergamer1289
+Rating: 9.4
+Date: Oct 1, 2006 10:08 am PT
+Review:  JUST A GREAT GAME! Gameplay is simple. Sound is amazing and might bring you to tears. The graphics 
+ are great for what is needed. For $15 it feels like you are steeling. BUY THIS GAME! The gameplay 
+ is a simple click the unit then click where you want it to go. UNfortunatly there are not that 
+ many units to pick form. THe graphics are a simple 2d RTS but this game is not going for 3d supergraphics. 
+ THe backround music is nevershaking in a good way. When your nukes hit the city there is no giant 
+ explosion just a white flash and the words New York Hit 10.6 million dead depending on the city. 
+ The value is one of the best parts of this game. ONLY $15 off steam. This game is just plain SUPERB! 
+ 
+::::::
+
+::::::
+UserName: wamzip
+Rating: 9.4
+Date: Oct 1, 2006 8:04 am PT
+Review:  I read about this game a few months before it came out and downloaded it the day it was realeased. 
+ I was not dissapointed. It has everything Darwinia had and more; Great retro graphics, simple but 
+ intuitive interface, great gameplay. What it does better than Darwinia is induce a range of emotions. 
+ I don't know about you but I've played so many games over the years that involved killing so many 
+ people that it just feels plane ordinary to kill digital characters now, I don't even hesitate. 
+ Defcon does things differently, it takes killing to an all new level. There's no blood, no gore 
+ and the people you kill aren't even rendered but it's a hugely different experience than your standard 
+ game. When those nukes start flashing over the enemy cities and the body count starts coming in, 
+ there's a huge sense of satisfaction and guilt all mixed in.
+  
+  I've already had a good few hours play out of it and I haven't even gone online yet. I think I'll 
+ be getting plenty of play time for my &pound;10. My only gripes about this game are 1-it's not 
+ possible to set yields on the warheads (Although I can't see how they would have fit that in with 
+ the gameplay so It's a minor gripe) 2-There's a rather annoying sound of a crying/coughing woman 
+ in the background sometimes 3-You can get most of the game via the demo without paying the &pound;10. 
+ If I'd known that I possibly wouldn't have bothered paying for it. All in all, a great little game 
+ with some very exciting gameplay. 
+::::::
+
+::::::
+UserName: GenTom
+Rating: 7.5
+Date: Oct 1, 2006 3:46 am PT
+Review:  Despite not liking any of Introversions previous titles such as Darwinina. Defcon is innovative 
+ and fun. After only recently becoming aware of the game, i instantly pre-ordered after i saw the 
+ screenshots and video's. Perhaps it was nostalgia for the 80's movie War Games, but i just couldn't 
+ say no to world map like Defcons, the blue-ness, the.... coolness!
+  
+  Defcon, for it's price, is brilliant. Although it appears to my very simple, as you play through, 
+ you become aware of the intricate strategy that is involved. Where do i position my nuclear subs? 
+ which silo's should remain Anti-missle? All these questions, and more, plague the mind of the gamer, 
+ eager to nuke south asia to hell and back.
+  
+  Defcon looks great, the 80's style blue tinted world map is a pleasure to look at and the units 
+ suit the games style and work well with the map. The single player is varied in many ways, you 
+ can change the number of continents each team starts with, you can change the gamemode, how many 
+ players you want to go up against. The first game i played was against 5 CPU's, and after the timer 
+ reached defcon 1, well lets just say watching Star Wars Revenge of the sith was relaxing in comparison. 
+ However i really did enjoy having the traditional N. America VS. Russia conflict, and much to my 
+ distaste, Russia won.
+  
+  The multiplayer is easily accesible as when you create a new game, it automatically becomes shown 
+ on the internet server browser which enables easy access to your friends games.
+  
+  The sound featured in Defcon is very.... appropriate. Dull music with the occasion womens scream 
+ when you nuke a city, it's depressing, yet accurate. It almost makes you feel guilty for launcing 
+ 3 nukes at Paris. But then again, it is France.
+  
+  The only downside to Defcon is that after playing for a few weeks, it could be quite repetitive, 
+ and although the content is fun, there isn't all that much of it, and the strategy involved could 
+ become quite boring. However, for the &pound;10 ($15) pricetag, it's well worth it.
+  
+  So for a month of thermonuclear goodness, download and play Defcon now. It's cheap, it's simple 
+ and it's fun. Buy this game now! 
+::::::
+
+::::::
+UserName: Hmuda
+Rating: 9.5
+Date: Oct 1, 2006 3:06 am PT
+Review:  There are more than Great Multiplayer in the list that could describe Defcon. It's also Amazing 
+ , Ambitious , Highly Addictive , Innovative , Instant Classic and Just Plain Fun .
+  
+  What is Defcon all about? In short: Global Thermonuclear War. But it isn't that simple. Even if 
+ the game only features 3 land, 3 naval and 3 aerial units, Defcon still offers an amazingly deep 
+ strategy, that will make you think why does the high-budget titles require so many different kind 
+ of units.
+  
+  But lets get down to business and start reviewing the things that always need to be reviewed. First 
+ of all: graphics. I can't count how many people bashed the game because it lacks the flashy (and 
+ unnecessary) shader effects, they can't go berserk by counting the polygons on-screen and they 
+ couldn't get over the fact that you don't see and high-resolution textures all over the place. 
+ They miss the point. The graphics in this game is more than enough to do the job. The neon-glow 
+ world-map, the simplified unit icons, the simple white flashes after nuclear blasts really give 
+ the feeling of the player being in an underground bunker, commanding the region's nuclear arsenal.
+ 
+  
+  Next stop: sound. Just like the graphics, it's simply there to do its job and nothing more. The 
+ whole tone of the soundtrack really amplifies the feeling of guilt when you successfully manage 
+ to earn a simple Moscow hit, 6.7 million dead text on your screen. It gives the game an atmosphere 
+ of the slowly approaching apocalypse. The occasional background sounds like a man coughing or a 
+ woman crying allows the player to feel that he/she is inside the fallout bunker and he is not alone. 
+ Men and Women are around him handling all the required instruments needed to orchestrate a nuclear 
+ war (and women loosing their grasp occasionally) .
+  
+  The last and best thing about Defcon is: Gameplay. With a capital G . As I said in the beginning, 
+ this game is easy to learn, but hard (if not impossible) to master. The game features DEFCON (DEFense 
+ CONdition) levels ranging from 5 to 1.
+  
+  5: peace and unit placement.
+  4: still peace, but naval units can sail into enemy waters and this is the last time to place your 
+ units.
+  3: war breaks out. Naval units start shooting each other, you can start sending fighters over enemy 
+ territory to scout out where his silos and radars are or send bombers from your airfields to help 
+ win the naval engagement.
+  2: virtually same as Defcon2 but with the tension of the nearing Defcon1.
+  1: World War 3. From 
+ now on, Subs can launch their MRBMs, bombers can release their own surprises and the best thing: 
+ silos can switch from defense to launch mode and send 10 ICBMs each to any part of the wolrd.
+ 
+  
+  The very few unit types make sure that no side gets imbalanced. There are subs, who are very effective 
+ at making the first nuclear strike by parking next to the enemy coasts but are extremely vulnerable 
+ while surfaced and easily sinked by nearby battleships or even depth-charged by carriers even when 
+ underwater, there are bombers, that can harass naval fleets or in Defcon1 launch their single nukes 
+ onto enemy cities or installations, etc, etc.
+  
+  The only negative thing about the gameplay is that it features our real world-map, and it will 
+ create some advantage and disadvantage for some people fortunate or unfortunate enough to get certain 
+ regions. So conclusion: If you like deep strategies that require quick (and often hard) decisions 
+ then you shouldn't hesitate to buy this game.
+  
+  Introversion deserves it! 
+::::::
+
+::::::
+UserName: kelanismoria
+Rating: 8.5
+Date: Sep 30, 2006 11:31 pm PT
+Review:  Introversion has done it yet again with defcon, providing a game thats easy to learn with a surprizing 
+ amount of depth offered.
+  
+  Starting off with the obvious, the graphics: Yes, they are simple, but so what? Graphics should 
+ enhance gameplay, not be all that the game has to offer. The classy and sharp graphics provide 
+ an appealing and easy to look at interface, its also clear whats going on, and the sharp angles 
+ and neon colours definitley make the game appear like that of the 80's cult classic wargames that 
+ it was based off of. The music is also excellent for a game of this type, subdued, and morose, 
+ adding quite a bit of atmosphere, but is also not intrusive into the game environment, and in my 
+ opinion never distracting. The sounds are minimal, but this isnt really an issue in a game of this 
+ type.
+  
+  As for gameplay, its great, its easy to learn, but there are tons of potential strategies available, 
+ do you sneak your subs in in ones and twos to try to avoid detection and minimize losses, or do 
+ you bring them in in one group for a massive coordinated strike, should you leave your defenses 
+ active and rely on your bombers to chip away? and so forth. The only disappointment ive had so 
+ far is with the diplomatic system, and thats mainly cause at this point , though its too early 
+ to make any real judgements, feels underutilized, but hopefully that will change as more players 
+ come in, and players become more familiar with the game. 
+::::::
+
+::::::
+UserName: Sandro909
+Rating: 8.5
+Date: Oct 28, 2006 7:09 am PT
+Review:  One look at DEFCON, and you may think it's just some cheaply made freeware game. You'd be wrong. 
+ Not only is this a graphically slick looking game, it's also a blast to play.
+  
+  Gameplay is arguably the most important part of a game, and DEFCON has heaping amounts of awesome 
+ strategic action. First off, there are no loading times at all (Thank you God, and by God I mean 
+ Introversion) . You can play online or alone, although you may want to stick to MP, as the SP AI 
+ is a bit on the hard side for some people. Players can set up alliances, and break them. This creates 
+ some tense Cold-War moments, when you really fear whether or not your ally is going to turn on 
+ you, but you know they are thinking the same thing about you. Of course, you're always afraid of 
+ the enemy launching an attack on you at any time. There are only a few distinct units in DEFCON, 
+ but there is so much depth that games can last from a few minutes to a few hours. Games start with 
+ players placing their radar stations, airbases, silos, and naval fleets. Once the countdown reaches 
+ Defcon 1 status, nukes are usable. The winner is determined by whoever causes the most collateral 
+ damage. However, to get to the cities, you usually have to take out some AA units, which actually 
+ reduces your score, which is an interesting tactical desicion by the developers.
+  
+  The game takes place from a 2D top-down perspective, but the presentation and slick look of the 
+ game compensate for this. You're given a Tron-style map of the world at the beginning of each game, 
+ which shows your territorry, and the territory of your opponents in a different glowing color for 
+ each player. Watching the tiny fleets, aircraft, nukes/AA battle it out is actually really amusing 
+ to watch. I was surprised how sleek this game looked once I played it for myself.
+  
+  The game features a mellow but apocalyptic soundtrack, which gets more intense when the fighting 
+ starts. And, of course, there are the sounds of nukes exploding, and, as a nice touch to make you 
+ feel guilty, you'll hear coughing, screams and crying after nuking a city. However, there aren't 
+ any sounds when fleets or aircraft are fighting, which kind of makes sense, because it's like you're 
+ watching a radar screen.
+  
+  DEFCON may have only a few units, but games can have a great amount of depth if you know how to 
+ use them properly. It's satisfying once you master each unit's strengths and weaknesses and learn 
+ to use them against your opponents to nuke them back to the stone age. Multiplayer games are always 
+ interesting, because everyone plays a little differently, and its cool to see people make alliances 
+ and set up assaults, on a constantly evolving battlefield.
+  
+  Overall, DEFCON is a blast to play, if you don't care about uber-graphics. It's definitely one 
+ of my favorite games of the year so far, and it's a must play for those wanting to play a game 
+ for the gameplay, because in the end, it's all about great gameplay. 
+::::::
+
+-------------------------------------------------

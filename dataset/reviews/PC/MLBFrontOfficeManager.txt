@@ -1,0 +1,226 @@
+-------------------------------------------------
+:::Game Name::: MLB Front Office Manager
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sports/mlbfrontofficemanager/review.html
+-------------------------------------------------
+:::The Good:::
+ Impressive depth for a console-centric sports management sim.
+ Good presentation values.
+-------------------------------------------------
+:::The Bad:::
+ Absolutely abysmal interface.
+ Complete lack of personality when dealing with player transactions.
+ AI managers regularly make bizarre decisions.
+-------------------------------------------------
+:::Date::: Feb  3, 2009
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 4.5
+Critic Score: 4.9, 3 Review (s)
+User Score: 4.5, 35 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: 2K Sports
+Developer: Blue Castle Games
+Genre: Baseball Management
+Date:     Jan 26, 2009
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+An obtuse interface makes MLB Front Office Manager bewildering even to baseball-sim veterans.
+
+  Sports management simulations have finally hit the big time. After years of indie obscurity, at 
+ least in North America, the genre has finally been hauled into the mainstream by EA Sports and 
+ 2K Sports. But don't schedule a parade just yet. EA's NFL Head Coach series has gone through some 
+ growing pains over the past couple of years, and now 2K Sports' MLB Front Office Manager is off 
+ to a shaky start. The biggest problem with this latest attempt at taking management sims to the 
+ masses is a gamepad-oriented interface that makes even the most routine tasks about as irritating 
+ as trying to throw a curve ball while wearing oven mitts. Clunky controls and a near-total lack 
+ of feedback make it hard to feel like you're in control of anything, let alone a $150-million big-league 
+ ballclub stocked with equally extravagant egos.  
+
+           Everything looks good on the surface, but good luck digging into the nitty-gritty of the 
+ player database.      
+
+  The basic approach on display here, however, is time-tested. The game follows in the footsteps 
+ of independently developed baseball management sims like Out of the Park Baseball and Baseball 
+ Mogul by putting you in the shoes of a Major League general manager. You start off by naming your 
+ virtual head honcho, selecting from a few face and clothing options (are you Joe Suit or Johnny 
+ Polo Shirt?) , and picking a personal background that determines your skill at specific duties. 
+ If you set yourself up as an ex-manager, for instance, teams on the field get a leadership boost. 
+ If you take the low road and choose the legal profession, you receive a helping hand when it comes 
+ to contract negotiations. As time goes by and you chalk up wins in the Majors, you gain experience 
+ points that can be spent on bulking up other skills.  
+
+  There is no option to work your way up to the Show from the minors, so following this brief character 
+ creation you simply pick a Major League team and grab the reins. You have pretty much total control 
+ over your club from this point on. Budgets, lineups, pitching rotations, allocation of scouting 
+ dollars, trades, and so forth are all under your watch, although you can flip over to automatic 
+ and let the CPU take care of the more mundane jobs. The team owner sets a player budget that serves 
+ as a de facto salary cap, but beyond that you're free to do whatever you want. If you have a bad 
+ run, though, you can find yourself bounced to the curb and awaiting job offers from other clubs. 
+ Virtually all of the hardcore stuff serious baseball fans expect is present here, including the 
+ Rule 5 draft, player arbitration, and bidding on Japanese prospects.  
+
+  Careers can be played as straight single-player campaigns, as a fantasy variation that employs 
+ a rotisserie-style scoring system, or in online leagues with up to 30 players. Just about nobody 
+ seems to be playing the game online, however, and we couldn't scrounge up a single open league. 
+ It's still only the start of February, but the lack of players isn't good news considering that 
+ real pitchers and catchers are reporting to MLB training camps in just a couple of weeks. This 
+ is also the first baseball game to hit stores in 2009, so you would expect a little more online 
+ excitement around it.  
+
+           One of the few things that MLB Front Office Manager has going for it is its good-looking 
+ manager screen.      
+
+  At any rate, the foundation of MLB Front Office Manager is solid. It looks very good, as well. 
+ Because the game was designed with the Xbox 360 and PS3 in mind, the PC version has larger-than-necessary 
+ menus that give the game something of a glitzy arcade sheen. Big, bold letters and numbers splashed 
+ on the screen have a strong visual impact. This is a real plus in a genre where most of the competition 
+ comes from indie developers and looks more like spreadsheet programs for the office than something 
+ you would want to relax with at home. 2K Sports makes great use of its MLB license, loading the 
+ game up with a wealth of player photos and an attractive manager's screen where you can watch the 
+ action unfold on the diamond and make calls from the dugout.  
+
+  Implementation is where everything falls apart. A good sports management sim needs to have a database 
+ at its heart. This sounds like a dreadfully dull way to present a game, but it is an absolute necessity 
+ in this genre since you need to be able to easily sift through stats and sort players by the numbers. 
+ Yet here you're working with screens almost entirely taken up by visual chrome and player photos, 
+ save for a relatively small area filled with a couple of columns of players and the barest minimum 
+ of stats. Player lists are abbreviated so that you can see only eight names on the screen at once, 
+ forcing you to tediously scroll through multiple menus. Information is presented in an almost nonsensical 
+ manner. The player negotiation screen, for instance, covers just six core stats for batters and 
+ pitchers, like AVG and W-L. So you're forced to go rummaging around elsewhere in the rosters to 
+ dig up thorough information regarding essential data, like at-bats and hits allowed.     
+
+  Vital data, such as overall player ratings and potential ratings, is often tucked away in layered 
+ information screens, necessitating a ridiculous amount of searching whenever you take on even the 
+ most rudimentary task. It's tough just gathering the information needed when setting up pitching 
+ rotations. And it gets even worse when it's time to sort through the dozens of players who need 
+ the protection of a 40-man roster prior to the Rule 5 draft every winter. The menu screens aren't 
+ linked to one another either, meaning that you can't zip from one screen to another. When you're 
+ trying to re-sign a player, for instance, and he tells you he wants more years on his contract, 
+ you can't move directly from the e-mail telling you about this demand to his negotiation screen. 
+ Instead, you have to scroll down the main menu to Transactions, open its submenu list, scroll down 
+ to Payroll, open it up, and then scroll down that list to the player's name to pull up his contract 
+ offer page. It's the same deal with CPU-offered trades. They are a bit more user-friendly in that 
+ you at least have the ability to instantly go to a comparison screen where you can check out the 
+ players on the block. But leaving this screen strands you back at the main menu, and you have to 
+ access your e-mail again to accept or reject the deal (which, incidentally, cannot be altered) . 
+ Even the simplest roster-management tasks require five or six steps when they should necessitate 
+ just one. You spend more time chasing your tail than making baseball decisions.  
+
+           What, again?!      
+
+  A lack of feedback makes MLB Front Office Manager even more confusing. 
+ Although you have Oakland A's GM Billy Beane on tap providing tips about contracts, along with 
+ memos that keep important dates on the top of the screen so you don't forget about something like 
+ the arbitration, much of what you do takes place in a vacuum. This is a particularly huge problem 
+ when it comes to handling players. While you're kept well informed about looming deadlines, offers 
+ to free agents, to pending free agents, and to other teams during trade talks are dealt with through 
+ pretty much absolute silence. There is no back and forth with player agents or rival GMs, or any 
+ chance to counter an offer from another team. All you get is a flat acceptance or denial with an 
+ occasional personal observation, such as that the money being offered is "laughable."  
+
+  Signings aren't even properly noted in the e-mail screen that covers all league communications. 
+ You would think that losing Manny Ramirez to free agency would be enough of a big deal to the Dodgers 
+ to warrant more than an e-mail buried among all the other league news of the day. A successful 
+ signing never gets much press, either. If you ink somebody like K-Rod, you don't even receive so 
+ much as a cheesy "I'm looking forward to playing for you this year!" blurb. The only indications 
+ that your bid has been accepted are a one-line e-mail, maybe a follow-up note saying that the fans 
+ are excited, and notice that the player in question has been added to the Pending Transactions 
+ list and must be assigned within 10 days or released.  
+
+           Most other sports sims would let you click through on all of these players to access their 
+ main stat screens.      
+
+  Finally, some of the decisions made by computer GMs are beyond bizarre. Every team in the game 
+ seems to be working under the same management philosophy. Each offseason, everybody appears to 
+ go after the same big-name free agents no matter what sort of budgetary restrictions they may be 
+ operating under. So this leads to ridiculous scenarios where poorer clubs like the Kansas City 
+ Royals waste $16 million a year on a washout like Jason Giambi, or the Cincinnati Reds dish off 
+ $21 million a year on Mark Teixeira. Sometimes these single big-name signings fill up nearly a 
+ third of a team's overall payroll. Team budgets are also all over the place. The LA Dodgers start 
+ off with a budget of $111.6 million, while the cheapskate Toronto Blue Jays begin 2009 with a whopping 
+ $139.2 million. Somebody either hasn't checked the lowly value of the Canadian dollar lately or 
+ has a hate on for Dodger blue. Some trades come from the dark side of the moon. While most are 
+ nondescript affairs shuffling minor leaguers around, the game hits you with a Bizarro World blockbuster 
+ on a regular basis, like when the Red Sox trade away Jonathan Papelbon during spring training for 
+ some guy named Nate McLouth. There may be some kind of bug in the game with Papelbon though, since 
+ the Sox seem to ditch him for a lower-rated nobody in the first spring training every time you 
+ start a career.  
+
+  MLB Front Office Manager needs a lot of work to be ready for the big leagues. The game offers an 
+ impressive amount of depth and great support for online leagues, especially for management-sim-deprived 
+ consolers. But playing it is such a chore that anyone seriously interested in such simulations 
+ will quickly move on to a more serious, if PC-only, effort like Out of the Park Baseball.     
+-------------------------------------------------
+:::User Reviews::: (3 Reviews)
+::::::
+UserName: Prather32
+Rating: 3.5
+Date: Mar 15, 2009 10:11 am PT
+Review:  This was a game I was waiting to play. I'm still waiting to play the game that was advertised because 
+ what I got was nothing more than waste of effort and time. 
+  Can't use custom rosters, glitchy graphics (yes, drivers all updated) , slow loads, and a lack of 
+ real content make this game nothing more than something to remove to free up space. 
+  There is no real 'negotiation' for contracts, minor league rosters are generic, and if you start 
+ to lose everything on your team goes to heck in a hand basket.
+  In the off-season you can attempt sign / trade / re-sign people based on their current rating, 
+ and then once spring comes around all the ratings can change very dramatically, but I guess your 
+ talent appraisers and scouts are all too stupid to notice or let you know. 
+  I'm not so sure that most major leagues have accurate contracts either.
+  
+  Don't bother buy 
+ this. 
+::::::
+
+::::::
+UserName: Silverbullet
+Rating: 4
+Date: Feb 4, 2009 10:14 am PT
+Review:  The GameSpot reviewer is absolutely right on, in his assessment of this game.
+  Every statement is absolutely correct.
+  He actually played this game, which does not appear to 
+ be the case of the programmers or the Beta test team if there was any.
+  With every thing that is wrong here 2k should have never released the game in this condition.
+ 
+  The hype and expectations for this game for true sim fans was that this would be OOTP, Baseball 
+ Mogul, Pure Sim, and MVP Baseball all rolled into one great Baseball Simulation.
+  We were all terribly disappointed. 
+  I have played every Baseball sim since Earl Weaver. I put 
+ up to 100 hours in on this one, and it is unplayable. 2K should look at OOTP, and the other above 
+ mentioned Baseball sims, and work on patches to fix this fiasco. This could be a great game if 
+ and when it is repaired.
+  But it should be done on this version and not on next years. Because I for one will not bother 
+ to even look at a future version if this one is not fixed. 
+::::::
+
+::::::
+UserName: bimper
+Rating: 6
+Date: Jan 29, 2009 7:35 am PT
+Review:  I always wondered why Baseball sims and arcade sims could not merge. In other words, have the results 
+ of real statisical games like Stat-o-matic, Baseball Mogul, OOTP, actually show the outcome with 
+ real graphical deisplay to make the game more fun.
+  
+  Well, MLB: Font Office Manager tries to accomplish this. I say try because the interface is just 
+ so cumbersome that it makes the process of Managing a ML franchise so utterly tedious that it really 
+ removes any real fun factor.
+  
+  You can play a career mode, on-line, or a Fantasy league. I have only tried the career mode thus 
+ far.
+  
+  You can play the games and manage most decisions on the field and the graphics are pretty good. 
+ This has been a missking link in this type of game.
+  
+  It is challenging and deep but really misses the mark with an interface that was designed for consoles.
+ 
+  
+  
+  
+  A real shame. 
+::::::
+
+-------------------------------------------------

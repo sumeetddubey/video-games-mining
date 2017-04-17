@@ -1,0 +1,329 @@
+-------------------------------------------------
+:::Game Name::: Warrior Kings: Battles
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/warriorkingsbattles/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Sep 29, 2003
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.2
+Critic Score: 7.4, 14 Review (s)
+User Score: 7.8, 108 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Strategy First
+Developer: Black Cactus
+Genre: Real-Time Strategy
+Date:     Sep 30, 2003
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Warrior Kings: Battles fails to measure up, primarily because of maddening technical issues that 
+ impair user control. 
+
+  Warrior Kings: Battles is Black Cactus' follow-up to its 2001 real-time strategy game, Warrior 
+ Kings. The developer has addressed a number of criticisms about the first game, most notably by 
+ adding in a robust skirmish mode. But despite this new addition, and the interesting dynamic tech 
+ tree that was a hallmark of the original game, Warrior Kings: Battles fails to measure up, primarily 
+ because of maddening technical issues that impair user control.  
+
+          The Imperials construct churches, cathedrals, and other religious edifices.     
+
+  The 
+ game is set in the fantasy world of Orbis, which bears a resemblance to feudal Europe. You'll even 
+ face numerous warlords in the campaign, which requires you to conquer 22 different territories. 
+ The similarities to history end there, as the game's three factions each have their own unique 
+ units ranging from the fantasy-style monsters of the Pagans, to the religious Imperials and their 
+ clergy, and finally to the technology-minded Renaissance who can bring guns and cannons to bear 
+ in battle.  
+
+  Warrior Kings: Battles sets itself apart from other games in that you do not explicitly choose 
+ a faction at the start of the campaign. Instead, the choices you make in advancing up the tech 
+ tree ultimately decide which faction's units are available to you. For example, creating a church 
+ at the outset of a game starts you down the Imperial path. This precludes you from building the 
+ Pagan equivalent, which is the maypole. Depending on your choices, you may end up with one of two 
+ different hybrids of the three factions: Imperial Renaissance or Pagan Renaissance. These hybrids 
+ open up more strategic choices for you in terms of what type of army you can field. The variability 
+ between the factions, and the flexibility you're given from game to game, is one of the greatest 
+ strengths of Warrior Kings: Battles.  
+
+  Unfortunately the game's tutorial doesn't do a good job of explaining the dynamic tech tree, nor 
+ does it tell you much about the strengths and weaknesses of the various factions. You'll need to 
+ spend a good deal of time perusing the manual and documentation on the CD to learn the advanced 
+ functions of the game and the abilities of the various units, instead of learning about these within 
+ the context of the game's early missions.  
+
+  The economy in Warrior Kings: Battles offers more complexity than your standard RTS game. Whether 
+ or not this complexity is a good thing, however, is open to interpretation. There are three basic 
+ resources in the game: food, materials (harvested from wood or stone) , and gold. Peasants out in 
+ the field gather the resources and bring them back to a village, situated outside the walls surrounding 
+ your manor, which is the center of your base. From the village, a cart transports the stockpiled 
+ resources to the manor or to a warehouse where it is finally added to your coffers, ready for spending. 
+ It is a rather convoluted way of doing things, but it does allow the possibility (and marginal 
+ utility) of raiding and capturing a cart in transit.  
+
+          As you add to your manor, the walls are automatically expanded to fit the new structures. 
+     
+
+  Most of the buildings you create, especially the ones that create combat units, must be built within 
+ close proximity to your manor. The walls surrounding your manor are automatically torn down to 
+ create space where necessary, and new wall foundations are set up automatically for your peasants 
+ to rebuild. This means any expansion you make leaves your walls temporarily open to attack.  
+
+ 
+  Another interesting twist is that each farm you build generates food and opens up food support 
+ slots for your military. As you create military units, they not only take up food support units, 
+ but also reduce the actual amount of food your farms collectively generate. The larger your standing 
+ army, the slower your rate of food production will be, which mimics the artificial upkeep of Warcraft 
+ III. However, Warrior Kings: Battles' system lets you create an army that exceeds the number of 
+ food support units you have. The oversized army will then start draining your stockpile of food 
+ until it reaches zero -- at that point your units start taking damage.  
+
+  What it all adds up to is that the economic buildup in Warrior Kings: Battles feels rather slow 
+ compared to other RTS games these days. Creating a large army or getting up the tech tree requires 
+ a tremendous amount of time and resources invested into your economy at the outset. Also, the vastness 
+ of the maps and the travel time required to get from one end to the other make rushing tactics 
+ rather ineffective if you have more than one opponent to worry about, so you're pretty much forced 
+ to advance to the later stages instead of attacking early. Pathfinding is also poor, to the point 
+ that units will even ignore waypoints you set. Add to this the fact that only siege weapons can 
+ do significant damage to structures, and it's almost pointless to build an early strike force to 
+ trek across a map. If you decide to build one anyway, or just some troops for base defense, that 
+ slows your economy down even further. The game seems heavily slanted in favor of the defense, particularly 
+ in the early and mid game.     
+
+  Warrior Kings: Battles' 3D engine has some good points, but in other ways it isn't nearly as impressive. 
+ While it offers huge maps and varied terrain with support for hundreds of units in battle, much 
+ like the Total War games, the individual units, buildings, and terrain features don't look all 
+ that great, particularly if you're zoomed in. The game's sound effects aren't dazzling either; 
+ while the music tracks are passable enough, the voice acting is amateurish, particularly the battle 
+ yells and death cries.  
+
+          Archer units get a big advantage with elevation.     
+
+  The vastness of Warrior Kings: Battles' maps also makes it pretty easy to lose track of the position 
+ of your units as you send them all over the battlefield. For some reason, the game doesn't allow 
+ you to snap the point of view to the position of a specific control group, as you can in most other 
+ RTS games. The camera allows a large degree of zoom, full rotation, and adjustable angles, but 
+ it can be a little difficult to control at times. Jumping from one part of the map to another also 
+ feels clunky and awkward, as the camera slides rather slowly, instead of snapping your view quickly. 
+
+  On the plus side, the game does take terrain heavily into account in the battles. Archers and other 
+ missile units located on hills fire farther and hit harder than they would on level terrain. Cavalry 
+ and other troops attempting to charge up a slope are slowed down. You're also able to form groups 
+ of like units into different formations, including column, which allows them to march faster; wedge, 
+ for offensive charges; orb, for defense; and line, which is a general formation.  
+
+  That brings us to Warrior Kings: Battles' greatest failing, which is poor unit AI and control -- always 
+ a huge flaw for an RTS game. There are too many times when you order a group to attack and they 
+ simply do not move. Sometimes they do follow orders, and sometimes a small percentage of the group 
+ decides to move out and attack the target while the rest sit still and ignore orders. Once you 
+ get caught in a pitched battle, you'll lose all semblance of control. Cavalry will break formation, 
+ scattering to chase after far-flung targets when other, more-significant threats remain unharmed, 
+ standing close by. Archers and other ranged units will often stop firing once their initial targets 
+ are dead or have moved out of range, even as plenty of other targets move in and out of range. 
+ Attempting to gather and rally scattered units for a more concerted effort doesn't always work 
+ either; for some bizarre reason, individual units often become unbound from their control groups 
+ somehow as they scatter. To sum up, the poor unit AI requires you to heavily micromanage your battles, 
+ but the lack of responsiveness to your orders makes doing so an exercise in futility.  
+
+          Skirmish is this game's version of instant action.     
+
+  Warrior Kings: Battles fares 
+ a little better in its skirmish mode, which includes a special "Valhalla" setting. This mode is 
+ similar to king of the hill, where you must control several areas on the map to earn points. Before 
+ the battle, you pick different units to make up your army and start the game out with a ready group 
+ of hundreds of units, skipping the frustratingly slow economic buildup of the standard game entirely. 
+ As your troops die off, new ones respawn at your starting point, making for some fairly bloody 
+ mayhem. You can choose from dozens of different AI generals, each with a different skill level 
+ and tendencies in different areas including aggression level, predilection for infantry over cavalry, 
+ and more. However, all the frustration with unit control and AI still applies here.  
+
+  Warrior Kings: Battles supports up to eight players in multiplayer; the online aspects, however, 
+ seem a bit shaky at this point. A couple of games we tried crashed to desktop, and a couple of 
+ others lost connection from the server. Reports from European players (the game was released overseas 
+ several months ago) on the official game forums confirm stability problems while playing multiplayer 
+ matches.  
+
+  Despite its being a follow-up product, Warrior Kings: Battles is a game of unrealized potential. 
+ The underlying design is solid, but the execution, particularly the lack of control given to the 
+ player, makes the game frustrating to play. The lack of an adequate tutorial and the slow buildup 
+ of action also make the game difficult to recommend in light of so many better alternatives in 
+ the highly competitive RTS genre. The inclusion of a lengthy campaign and dozens of AI generals 
+ to skirmish against certainly gives Warrior Kings: Battles a lot of value out of the box, but whether 
+ you'll feel compelled to slog through all of it is another question.     
+-------------------------------------------------
+:::User Reviews::: (2 Reviews)
+::::::
+UserName: Dasha8su
+Rating: 8
+Date: Sep 24, 2008 9:41 am PT
+Review:  This one could have been perfect had it been polished some more, the main drawbacks are the clunky 
+ GUI and performance issues.
+  
+  To put it simply the game was coded very roughly, and the result being you won't see any performance 
+ change from using a 10 year old PC as opposed to a new one.
+  
+  Considering the rather average textures used for the game maps the game runs very slow in comparison 
+ to any new RTS titles.
+  
+  While extrememly fun to play, especially if you like defensive combat techniques and long battles, 
+ the game does get a little too easy, mainly due to overpowered unit classes like the Holy warrior 
+ which is a heavy cavalry unit that can heal, much like a palladin. add this to the rather daft 
+ AI and its very easy to to dominate in the main campaign.
+  
+  Much work needs to be done on increasing the AI armies efficiency in battle if they stand to deliver 
+ any challenge to the player. If you are playing defensively which most likely you will be unless 
+ you want the battle to last 10 minutes, the enemy will send raids into your province, the AI actually 
+ does a good job of finding weak spots in your defenses and will alter their attack paths according 
+ to where you situate your defense forces. if you heavily defend a position on the map they will 
+ learn not access that point and look for other ways into your province which is pretty neat.
+  
+  
+  However, comming back to the AI flaws, another problem is AI economy - they start off strong 
+ most of the time depending on the specific General you are up against and very quickly run out 
+ of resources resulting in very weak raids that drag out for hours, while the player could easily 
+ destroy the enemy it harms to longevity of the battle and nagates from the initially fun defensive 
+ strategies the player can use.
+  
+  After a few campaign maps and advancing in the techology tree of choice the player can easily advance 
+ to the highest level in that tree before the enemy and destroy 3 enemy provinces whithout loosing 
+ a single troop, but thats not what this game intended players to do, its much more fun to play 
+ defensive combat in WKB and although it still delivers some good elements of strategic gameplay, 
+ the AI fall well short of giving enough challenge to the player.
+  
+  Given some more work on improving performance issues and fixing the GUI and AI flaws this would 
+ have been a very strong title.
+  
+  One last thing about performance - if you are on map with more than one opposing force and you 
+ have a relatively big population the game struggles to keep all your units active resulting in 
+ units frozen and unresponsive units .. this needs to be fixed !! 
+::::::
+
+::::::
+UserName: Stabby
+Rating: 8.5
+Date: Jul 21, 2008 8:36 am PT
+Review:  In this day and age of World in Conflict, Company of Heroes and Total War, the strategy genre has 
+ been sewn up and is going is far as it can to do the two following: Come up a new mechanic and 
+ make it console friendly to. Now the later of course it another way of calling it dumbed down 
+ which I can agree with, otherwise it will be a broken version of the PC version. It can be done 
+ on a console but just not to the same level as the PC games which leads me onto the former (don't 
+ worry I am making a point that goes with the review) , which is there needs to be a new mechanic. 
+ You can't just collect resources in a real-time strategy, it has to be new and unconventional and 
+ you can't have a straight up fight in a real-time tactics, it has to be bigger and more realistic. 
+ Well of course that makes sense as nobody want to play the same things again and again (unless 
+ you're Japanese) but where are we going to turn to get the old school experience if that's no longer 
+ the focus for developers? Well here is a game, which has all that plus a unique twist of it own.
+ 
+  
+  To cut things short, this game is another Warrior Kings game, meaning if you played it you already 
+ know whether to hate it and move on or love it and buy this as well. But for those who might be 
+ just casually looking then read on. Warrior Kings: Battles (or WKB from now on) is the 2003 sequel 
+ to the 2002 Warrior Kings real-time strategy game for the PC (well duh) so the first thing going 
+ through your mind is how does it stack up given it being many years old? Personally, it's good 
+ and rationally still good, as the base management is less than conventional while still retaining 
+ much of that to.
+  
+  The game takes 100 years after the events in the first Warrior Kings and being an RTS the story 
+ is less than most games and is barely mentioned that there were even events before those in WKB. 
+ The plot unfolds in the world of Orbis, which is basically a heavily fictionalised Europe and 
+ that is an understatement. In the campaign you take the role of a general from Angland (my spell 
+ checker is quick to tell me a spelt you know what wrong) in order to reunite the Empire of Orbis 
+ that has fragmented after the thrown was usurped by a Duke Ignis Hagens. And that's all you get, 
+ there are no cut scenes (except for the battle hungry opening cut scene) or dialogue exchanges, 
+ but only the voice of an unknown narrator who may or may not be the guy who does voice-overs for 
+ UK trailers. He acts more as an adviser *cough*tutorial*cough* to your military campaign and he 
+ serves it up in an acceptable dosage and buggers off ASAP! Now of course you'd think what's the 
+ point of playing the campaign without any substance? Better yet why play if all you do each mission 
+ is just to destroy the enemy's base? Well let me explain this as I go into the gameplay as each 
+ mission is a real challenge and doesn't play out the same each time, plus each has a general with 
+ a heap of backstory if you're willing to read it all and it has non-linear Risk style map structure 
+ where certain provinces provide certain bonuses next game. Its been done before and since then 
+ but hey its a good formula still... just don't expect the Total War experience here.
+  
+  While the basic RTS mechanic of build base an harvest the usual suspects of food, gold, wood and 
+ the non-conformitist fourth resource that actually conforms given that it's a noticeable trend 
+ in the RTS genre (in WKB's case it's basically mana but called otherwise depending on your faction) . 
+ The difference here is you don't get to you the resource once you've farmed it, no first you drop 
+ it off at the nearest village, which is then transported by cart to your main base, only then is 
+ it usable. Now this might seem like a bit of a chore to get your armies up and running and I won't 
+ lie to you, it is BUT its still fun as the enhanced realism of it all makes your development, along 
+ with another gameplay aspect I will explain in the next paragraph, once you get to the warpath 
+ stage you feel a great sense of achievement as opposed to the simple assembly line of troops. This 
+ of course turns up the challenge and that's not mentioning the food consumption and most buildings 
+ requiring to be built by your starting main base. This is a hardcore gamer's game to be blunt so 
+ if you're more casual then you're now asking me why I didn't highlight this earlier like I did 
+ with the original Warrior Kings fans? Mostly because I'm writing as I go along like many reviews 
+ to be honest and so you don't feel to robbed I'll recommend you buy one of the mainstream titles 
+ and play it on the easiest difficulty (no that's not an insult so don't be offended but you should 
+ know that most hardcore gamers don't like you) .
+  
+  Anyway back to the review. The much advertised point of this game is the fact there are no default 
+ factions. Everyone starts as a basic peasant like community and through construction of certain 
+ buildings and troops you develop into a unique faction. There are three prime alignments to take 
+ along with two hybrids being Imperial, Pagan, Renaissance, Imperial Renaissance and Pagan Renaissance. 
+ The Imperial are a bunch of overly religious zealous knights while the Pagan are their obvious 
+ rivals being well Pagans but unlike the countless real world Pagans that were slaughtered in the 
+ Dark Ages, these defend themselves with black magic and demonic hordes. The Renaissance on the 
+ other hand rejects faith both ways and put instead have put their minds to science and thus harbour 
+ slow yet heavy-duty gunpowder siege weapons. The hybrids on the other hand are just like the Imperial 
+ and Pagan but with a few different unit choices. The development process is intriguing at first 
+ as there isn't much help to begin with so you might find your play style and favoured faction but 
+ accident. This calls for less than predictable games and all units are nicely designed so you aren't 
+ stuck with the super effective warrior who's great in battle but dressed like a clown. Tactics 
+ are also important as ammunition can and will run out without supply carts nearby and tree and 
+ hills need to be used to their advantage. And besides the many clashes of troops that will ensue 
+ there's also espionage like setting buildings on fire which is amusing actually as you get to see 
+ villagers run over with buckets, in most cases being feeble attempts hehehe! Magic also plays a 
+ small but important role. It can turn battles in an instant such as helping your economy, raining 
+ fire down to give you foe a bloody nose long enough to gather yourself up or even convert the next 
+ charge of opposing enemies to your side. You get a great sense of triumph when you perform this 
+ and a quick need for revenge if it happens to you. And of course due to the different play types 
+ that come with each you'll want to play as all of them throughout the campaign. There's also skirmish 
+ with custom AI generals and a Total War scale capture the flag esc game mode to boot. The multiplayer? 
+ Empty sorry about that. But hey I bet you could find someone on a forum or a friend erm nah, 
+ just plain sorry again. But the AI is so brutal at times its makes up for it, if not more so given 
+ the more generals and maps you can unlock throughout the campaign.
+  
+  Graphics are outdated, that's a given being it 2008 and the game first being released in 2003. 
+ Yet even 5 years down the line it still looks good due to its retro charm. Play Age of Empires 
+ II or any WarCraft game and you'll know what I mean. Sound on the other hand is great in terms 
+ of soldiers yelling out as swords and spears clash and where volleys of various projectiles rain 
+ down of soldier and structure alike. The voice acting on the other hand is so so not dramatic 
+ or emotive but no really cheesy. Loading times are fairly slow but not to the extent of the Sims 
+ 6th add-on or Mark of Chaos, plus it comes with an epic battle drums and horns soundtrack which 
+ comes in nicely during the larger scale fights. Until those however you get a warm light-hearted 
+ chime as you gather build. It's not epic but it fits the mood. There are patches now so any little 
+ bugs previous reviews b*tched about far less but the formation and AI path finding is still a little 
+ off. It doesn't degrade the gameplay much; it's just something I could see being easily fixed.
+ 
+  
+  All in all, WKB is a challenging experience but not an unfair one (unless on the hardest difficulty 
+ but who really plays on those?) along with the unique alignment system and variety in play, it 
+ comes together as a nice rekindle of the good old RTS days while still providing some freshness 
+ to the worn out genre and while its not perfect and far from totally unconventional, for 5 years 
+ old its holds up nicely.
+  
+  Pros:
+  - Variety in units and tactics
+  - Alignment system allows a change of pace and play
+  - Long campaign
+  - A real challenge, and 
+ a fair one
+  - Great soundtrack, both epic and calm
+  
+  Cons:
+  - Empty multiplayer
+  - Some technical issues
+  - Resource management and base development might be to slow paced for 
+ some 
+::::::
+
+-------------------------------------------------

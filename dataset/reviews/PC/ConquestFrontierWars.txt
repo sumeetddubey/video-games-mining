@@ -1,0 +1,343 @@
+-------------------------------------------------
+:::Game Name::: Conquest: Frontier Wars
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/conquestfrontierwars/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug 29, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.2
+Critic Score: 8.0, 22 Review (s)
+User Score: 8.6, 235 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Ubisoft
+Developer: Fever Pitch
+Genre: Strategy
+Date:     Aug 14, 2001
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Conquest succeeds in large part due to an epic atmosphere and a number of unique design elements 
+ that convey the complexity of waging war, from establishing supply lines to commissioning talented 
+ commanders. 
+
+ Better late than never -- that well-worn phrase has been granted new life by Conquest: Frontier Wars, 
+ a real-time strategy game set in space that spent much of this year without a home. Numerous problems 
+ turned the game from a Digital Anvil production being published by Microsoft during the 2000 holiday 
+ season into a Fever Pitch Studios production being published by Ubi Soft in August of 2001. Members 
+ of the development team, including Wing Commander guru Chris Roberts, should count themselves lucky 
+ that the game survived long enough to reach stores at all. Actually, we should all count ourselves 
+ lucky that Conquest made it to retail, since the game is a remarkably fresh look at traditional 
+ real-time strategy gaming.           Conquest has a lot of depth for a real-time strategy game. 
+    
+
+  Conquest succeeds in large part due to an epic atmosphere and a number of unique design elements 
+ that convey the complexity of waging war, from establishing supply lines to commissioning talented 
+ commanders. There is a level of depth in the game that goes well beyond what we're unfortunately 
+ accustomed to seeing in real-time games. Frantic mouse-clicking has been abandoned in favor of 
+ sober second thought. Tactical considerations govern your victory and defeat -- not hand-eye coordination. 
+   
+
+  You don't expect this sort of innovation in light of the game's plot, which places you in the role 
+ of a Terran military commander assigned to investigate an encounter with hostile aliens in unexplored 
+ space. This soon degenerates into open warfare with insectoid creatures dubbed the Mantis, and 
+ the remainder of the campaign is spent dealing with the threat that the Mantis pose to human survival. 
+ Along the way you'll meet another alien species called the Celareons. Highly intelligent beings 
+ of pure energy encased in metal shells, the Celareons are bitter enemies of the Mantis, and thus 
+ your allies.   
+
+  Neither the Mantis nor the Celareons are playable in the campaign, although this is not as big 
+ a loss as you would think. The Terran campaign alone consists of 16 huge missions, each with multiple 
+ goals spread out over large areas. Completing even the basic early assignments often requires more 
+ than three hours. Furthermore, there wouldn't be much point to playing campaigns as either the 
+ Mantis or the Celareons. Aside from some subtleties about resource gathering and the distinct look 
+ of each side, there is little to separate the three factions. The Mantis and Celareons each feature 
+ a technology tree that's remarkably similar to that of the Terrans. Units and buildings match up 
+ in nearly every way. This doesn't do much to distinguish the three different races, though their 
+ similarities are to the benefit of Conquest's quick battle (skirmish) mode and multiplayer mode. 
+ In these modes the presence of counterparts on every side balances out games and ensures that strategic 
+ concerns are paramount. Combine that with skirmish maps that can be fully customized, the ability 
+ to train cunning computer-controlled admirals to command fleets (a feature unfortunately not available 
+ in the campaign) , and the dedicated Ubi Soft game service, and Conquest has a lot to offer outside 
+ of campaign play.           Battles span across multiple star systems.    
+
+  Regardless of the limiting campaign option, it's hard to imagine anyone being disappointed with 
+ the campaign itself, which presents one of the most realistic depictions of futuristic warfare 
+ ever seen in a real-time strategy game. Most significantly, the design team has added the need 
+ to supply units. All vessels in the game, right down to stationary gun turrets, have finite sources 
+ of ammo and must be reloaded on a regular basis. Accomplishing this isn't as easy as it sounds. 
+ Because missions typically stretch across numerous planetary systems (each as large as a single 
+ mission map from a typical strategy game) connected by wormholes, you'll need to establish supply 
+ lines. An offensive from one system to another will quickly run out of steam unless you construct 
+ jumpgates around wormholes and secure new planetary bases upon which headquarters and supply platforms 
+ can be built and supply ships can be loaded. Proper planning and strategic thinking are required 
+ elements. Rushing to a mission's conclusion by massing units and sending them forth (made difficult 
+ at any rate by the strict use of command points linking unit construction to base structures) is 
+ tantamount to suicide. Careful advancement is the only way to go.   
+
+  There are a few weaknesses in this otherwise effective approach. For starters, the emphasis on 
+ supply lines can slow the game to a snail's pace. During some of the challenging later sorties, 
+ you'll spend more time twiddling your thumbs resupplying your ships in dry dock than blasting away 
+ at the enemy in a firefight. Some mission design is also a little tedious. Planets are occasionally 
+ used as mere stepping stones, requiring you to inch across a sector with too much repetitive base 
+ building and resource gathering, and too little action. Still, although you might yawn occasionally, 
+ you won't stop playing.            Conquest's pacing can be slow...    
+
+  Map design further enhances the experience. Conquest features fully 3D models on a 2D plane, meaning 
+ that the action plays out more like Command &amp; Conquer than like Homeworld. This background 
+ is anything but flat and lifeless. Every system has different types of planets, moons, nebulae, 
+ and asteroid belts that can be either hazardous or healthy. Earth-type planets are the most beneficial 
+ to the construction of bases, as they permit the most building styles. All have the same number 
+ of orbital building slots, though, so don't expect to cram more facilities into a planet just because 
+ it's a gas giant. With the construction of a refinery, Earth-type planets allow for the collection 
+ of the game's three resource types -- crew, ore, and gas. The latter two elements can also be gathered 
+ from asteroid belts and nebulae, "terrain" features that cause serious problems to vessels. Floating 
+ fields of rock force ships to slow down as they navigate through them, and nebulae wreak havoc 
+ on ship systems. This effect varies depending on the type of nebula encountered. For example, hyades 
+ cause physical damage, while celsiuses lock up your supplies and ions bring down your shields. 
+   
+
+  All of these special features have been nicely realized by the graphics engine. Planets boast moving 
+ cloud systems, asteroids tumble against a sparkling starfield, and nebulae provide a pretty, multicolored 
+ light show. Unfortunately, the rest of the visual presentation isn't nearly as satisfying. Conquest's 
+ protracted development time is obvious at a glance, as nobody is producing big-budget games that 
+ look like this in 2001. The blocky in-game interface occupies nearly a third of the screen, a serious 
+ annoyance despite the ability to remove it entirely, because you'll need it much of the time. Video 
+ resolution is limited to 1024x768. Vessels are curiously flat, failing to stand out from the starry 
+ background despite being rendered in 3D. Dark-colored Terran and Mantis ships are often hard to 
+ pick out at all without using the camera's zoom feature. There are few other reasons for going 
+ in for a closer look, as the ship models are angular and their textures are bland -- though they 
+ do allow for the display of dynamic battle damage.           ... but its focus on pure strategy 
+ is refreshing.    
+
+  The quality of the audio in Conquest is similar to that of the graphics, in that the bad aspects 
+ tend to outweigh the good. The musical score sounds like something that John Philip Sousa composed 
+ as a toddler, full of bombast that seems to be leading to a crescendo that never arrives. Weapon 
+ effects are equally irritating, thanks to bloops and beeps that would be more appropriate coming 
+ from a Sega Genesis. And it's hard to know what the designers were thinking when they popped in 
+ that siren announcing a new mission objective. The one saving grace is acceptable voice acting 
+ that balances melodrama and good humor. Terran naval radio excerpts that preface every mission 
+ briefing add a lot of color to the story, even if much of this has been freely cribbed from Paul 
+ Verhoeven's movie adaptation of  Starship Troopers .   
+
+  Minor problems aside, Conquest: Frontier Wars is akin to a cold splash of water in the face of 
+ the weary real-time strategy gamer. It's particularly welcome these days, both as a reminder that 
+ something worthwhile can still be pulled out of an archaic concept and as a notice that not all 
+ developers are making due with cookie-cutter designs. Although the game's measured pace might not 
+ be to everyone's taste, those who can remember that this isn't the typical real-time strategy game 
+ will almost certainly warm up to its unique charms.    
+-------------------------------------------------
+:::User Reviews::: (6 Reviews)
+::::::
+UserName: otomayim
+Rating: 8.5
+Date: Aug 8, 2007 11:25 am PT
+Review:  Conquest Frontier Wars innovates the sci-fi genre with game play additions rarely seen even in 
+ today's RTS titles. What still impresses is the interface that is very helpful and excellently 
+ well-thought and makes everything simple to understand and execute despite the complexity of some 
+ of these features ( like the multiple map functionality) .
+  
+  The game combines 3D graphics ( space ships, buildings and planets) on a 2D plane and allows you 
+ to rotate the camera and zoom-in or out ( that's very helpful during battles or navigation) . The 
+ game's engine can support a huge number of space-ships on screen at once ( more than in Starcraft 
+ ) and there is no frame rate drop even in the most hectic situations. In addition to that there 
+ are many small details that impress, like guns tracking their targets and recoiling, units featuring 
+ real-time battle damage ( you can easily distinguish the damaged units and send them for repair 
+ without looking at their bar indicators) , buildings and space ships supporting cool extra-ordinary 
+ detailed animations during their construction / destruction or repair phases. .
+  
+  There are a few things that don't look that much impressive though... the background of empty space 
+ and nebulae gets repetitive and boring, if you zoom-in too much on the space ships you will notice 
+ that their textures don't look as crisp as in other titles ( like let's say Homeworld) , it's difficult 
+ to distinguish your units -especially the smaller ones- in too dark or too bright areas ( your 
+ map can help you in such situations) and sometimes it' s difficult to distinguish the buildings 
+ ( they have similar design and are built on the free slots of the rings, which surround each planet 
+ or moon, so it's a bit awkward to recognise and use all of them at once -&gt; however keep in mind 
+ that there are hot keys that can help you in this task) .
+  
+  The epic music, although it sounds nice and sets the mood in this one, gets boring after the first 
+ few missions. The sound effects are average to good without enough variety to make your ears like... 
+ Yoda's and the voice acting in the single player campaign is very good most of the times. I just 
+ think that the alien voices aren't as interesting and successful or memorable like the ones found 
+ in Starcraft and other similar titles. .
+  
+  Conquest: Frontier wars is different than most of the other RTS games out there. Yes, you can adjust 
+ the behaviour of your units ( attack, patrol, idle, protect etc.) , you will have to gather resources 
+ ( ore, gas and crew) from planets and moons ( by building specific structures on their rings) or 
+ to harvest them ( by constructing specific space ships - harvesters) from nebulae and asteroids, 
+ set rally points for your new units etc. However the game isn't your casual RTS experience since 
+ it takes the game play of the genre to the next level with a few great additions.
+  
+  First of all the title takes place in a number of different maps simultaneously. Each game-session 
+ is basically broken down into different planetary systems which are connected to each other with 
+ the help of wormholes. Since each map can have more than 3 wormholes at once, it can be simultaneously 
+ connected to multiple maps and this adds a unique strategical approach to this title. At first 
+ you will have to build your base and start mining resources and creating your fleet. After a few 
+ minutes you will have to expand your power and influence into new territories and systems and to 
+ decide carefully your next step, since each map can be connected to many others at the same time 
+ ( there are different paths that you can take) and any one of these maps can also be interconnected 
+ with the rest, creating a very complicated diagram of different paths between the systems ( you 
+ can have access to this diagram through the HUD of your screen, the one that also displays the 
+ map of the current system) . .
+  
+  Another addition that changes completely the way that this game is played is the need for re-supplying 
+ your ships. Each space ship has a blue bar that indicates the unit's energy. If there is no energy 
+ left your unit won't have the power to shoot. You can either use supply - ships which can become 
+ valuable allies during the toughest situations ( you will need to occasionally re- supply AND these 
+ ships ) or built supply platforms into the different planetary systems. In order to have a functional 
+ supply or repair platform in a new system you will have to construct a new headquarters ( on one 
+ of this system's planets) or build a jumpgate atop the wormholes that connect the current system 
+ with your own previous ones, in other words you will need to establish a supply line between your 
+ home-base and the new maps / territories. So the game isn't all about mining , creating a strong 
+ fleet and conquering the world, but it's mostly about protecting your home base, reassuring the 
+ stability of your supply line and carefully progressing into new areas. Add to this the fact that 
+ most of the maps are huge in size and that you can have more than 15 maps in a single mission and 
+ you realise that you may spend more than 4 hours in order to finish just one of them ( not suitable 
+ for people who aren't patient enough and want to have the usual 30 minutes-one hour battles) .
+ 
+  
+  What's great about these features is that despite their complexity in theory, in practice the interface 
+ is really helpful and intuitive. You can use the diagram, that displays all the systems, in order 
+ to set rally points in different destinations, watch your active supply lines, notice the areas 
+ in which you are under attack or send parts of your fleet into other systems ( the good thing about 
+ this one is that the faster ships of your fleet will wait for the slower ones in order to make 
+ simultaneously the jump through the jumpgate-&gt; your fleet won't be split up while moving from 
+ one area to the other) . .
+  
+  The last really innovative feature is the addition of the Admirals, who will take command of the 
+ largest ship in your fleet, increasing the AI of your ships during battles significantly. Again 
+ using the Admirals is a very easy thing to do, since you will only have to give a general order 
+ to your fleet ( through your Admiral's simple command -interface) and never bother again ( at least 
+ for the next few minutes) .
+  
+  The single player campaign consists of 16 different missions, that are huge in size, have many 
+ different objectives and are very fun and challenging to play ( it took me more than 50 hours in 
+ order to beat the game) . There is a nice epic story that is supported by some excellent cutscenes. 
+ You will mostly be playing with the humans ( Terrans ) through the campaign but there are also 
+ two other races, the Mantis ( reminding a bit of the Zerg in Starcraft) and the Celarons ( let's 
+ say the Protoss of Frontier Wars) , that you will have to use their technologies and units ( depending 
+ on the mission) in order to succeed. There are three different training missions that let you learn 
+ the basics of each race. The problem is that despite the distinct looks and a few small differences 
+ ( as far as their development tree and their technologies is concerned) there just isn't enough 
+ variety ( there are too many similarities between the races and you will use more or less the same 
+ tactics with each one of them) .
+  
+  The multiplayer was excellent and very fun to play... and i say WAS and not IS because Conquest 
+ is one of those titles that no one almost bought. The game didn't sell at all and Ubisoft stopped 
+ supporting the title a few years ago. That's why you won't be able to find the official site of 
+ it anymore and there are no servers for you to try its online features, since there is no community 
+ and support behind it. And that's a shame imo.
+  
+  In conclusion Conquest: Frontier Wars is a must-buy, must-play for any self-respected RTS fan. 
+ It's as simple as that. Too bad for the lack of support though. It ruins the replay value of the 
+ game. 
+::::::
+
+::::::
+UserName: 1337issweet
+Rating: 9.4
+Date: Sep 11, 2006 8:55 pm PT
+Review:  if your a fan of real time strategy and you liked starcraft, i suggest conquest frontier wars. 
+ the graphics are good for the age it was made so that area isnt bad. gameplay is fun because you 
+ can have up to 8 people and if you get the patches up to 5 difficultys and 300 command points, 
+ not like starcraft or warcraft where you only get 200. the sound.... ugg sometimes i just turn 
+ my speakers off cause you will send a fleet of ships in and they will get COMPLETELY decimated 
+ sometimes and the death crys just dont stop but other then that the voices are informative and 
+ its funny to listen to the people die heheh. i have a game going, and its 4 v 4 with imposible 
+ A. I. and ive been playing the map for about 3 days now anout 4 hours a day. you can have up to 
+ 16 systems with 5 planets in each (need to build on planets) so it gets huge. the internet play 
+ is a little funked up but.... i wont even go how bad it is acctualy.... im mad at this game for 
+ one thing, they shut down the multi servers i think. tis dum. but other then that i would say this 
+ is one of the better strategy games out there............. ITS discontinued so d. l the demo first 
+ from gamespot and if your intrested buy it off of the internet. 
+::::::
+
+::::::
+UserName: Dasc00
+Rating: 9.2
+Date: Feb 27, 2006 1:40 pm PT
+Review:  Wow this is quite a game, its really fun. I find it really fun in this game taking over solar systems, 
+ and defending solar systems..... this game is really fun, buy it if you can........ now since i 
+ cant put this review down with 1000 words im gonna have to keep on repeating this review
+  Wow this is quite a game, its really fun. I find it really fun in this game taking over solar systems, 
+ and defending solar systems..... this game is really fun, buy it if you can........ now since i 
+ cant put this review down with 1000 words im gonna have to keep on repeating this review
+  Wow this is quite a game, its really fun. I find it really fun in this game taking over solar systems, 
+ and defending solar systems..... this game is really fun, buy it if you can........ now since i 
+ cant put this review down with 1000 words im gonna have to keep on repeating this review 
+::::::
+
+::::::
+UserName: iljandir
+Rating: 8.5
+Date: Feb 5, 2006 12:35 pm PT
+Review:  .. so sad that no one is playing it online anymore.
+  Well i guess thats what happens to a lot of games after awhile.
+  
+  But this is amust have for 
+ those who like space battles in old style strategy and 
+  the 2D style is very charming.
+  
+  Three fun races to play and a whole bunch of space crafts.
+  
+  One other thing is the warlords 
+ available in skirmish and multiplayer mode.
+  They make the fleet you put them in better and they actually enter one of the spacecrafts of that 
+ fleet and you can also select which spacecraft your warlord is going to sit in.
+  
+  Worth to play if you want to try something else..
+  
+  But no multiplayer unless you get some 
+ friends together on it..
+  I found not one player on gamespy arcade playing this anymore.. 
+::::::
+
+::::::
+UserName: inomyabcs
+Rating: 9.1
+Date: Jul 19, 2005 3:27 am PT
+Review:  As a fan of Chris Roberts' computer games, I completely missed that this was one when it came out. 
+ I waited two months after it came out before I realized who was behind it. You can tell right away 
+ from the opening movie that this is a game following Mr. Roberts flair for Hollywood production.
+ 
+  
+  But it is not a bad sign; in fact, this game leads you on a great tale of space exploration while 
+ bringing a great real time strategy game to the table. Keeping with the genre it kept aliens, mining, 
+ building, defense, offense, and tech trees that are all familiar components of the RTS genre of 
+ the period. It also added something unique at the time and it was the concept of supply lines, 
+ not in one space system but over many. You could only advance systems and keep supplying your armada 
+ by building gates to connect them.
+  
+  The sound was lacking but the music had the catchiness of the movie of "Starship Troopers". One 
+ track is based on the opening theme of the movie.
+  
+  I would definitely recommend finding this game and giving it a spin. It still gives a challenge 
+ and looks fresh enough to survive some of the new RTS out there. 
+::::::
+
+::::::
+UserName: Dominal
+Rating: 8.4
+Date: Feb 7, 2005 12:31 am PT
+Review:  Conquest: Frontier Wars is unique in its naval warfare. This is the only game that I have seen 
+ which does the ships justice. 
+  
+  Game play is smooth, with no bugs having come up as long as I've played. Units are all unique and 
+ easily differentiated. Although the 3 races you can play as look suspiciously like those from . 
+ You could almost call it in Space. Resources are easy to gather, and bases to maintain. Admirals 
+ and supplies add good strategy depth.
+  
+  Graphics aren't cutting edge anymore, but very good for their time. Sound is a weak point with 
+ the classic, nothing special background music, but it does have good voice overs for admirals and 
+ such. 
+::::::
+
+-------------------------------------------------

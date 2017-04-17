@@ -1,0 +1,582 @@
+-------------------------------------------------
+:::Game Name::: Chrome SpecForce
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/action/chromespecforce/review.html
+-------------------------------------------------
+:::The Good:::
+ Decent variety in mission design.
+ Interesting level design.
+-------------------------------------------------
+:::The Bad:::
+ Dated graphics.
+ Cumbersome inventory management.
+ Underpowered weapons just aren't fun to use.
+ AI ranges from cheap to moronic.
+ Useless power-ups.
+-------------------------------------------------
+:::Date::: Jan 20, 2006
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.2
+Critic Score: 6.1, 16 Review (s)
+User Score: 7.0, 259 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: TopWare
+Developer: Techland
+Genre: Sci-Fi First-Person...
+Date:     Nov 30, 2005
+ESRB: Mature
+
+-------------------------------------------------
+:::Review:::
+Chrome SpecForce manages to avoid going terribly awry, but it also avoids any sort of fun or excitement. 
+ 
+
+  Like sci-fi movies, futuristic shooters tend to be hit or miss. For every  Total Recall  there's 
+ a  Battlefield Earth , and for every Halo there's a Starship Troopers. Chrome SpecForce is neither 
+ a hit nor a miss, because while it manages to avoid going terribly awry, it also avoids any sort 
+ of fun or excitement. SpecForce falls smack in the middle of mediocrity, and it seems that every 
+ good idea or interesting gameplay mechanic is countered by an underwhelming or annoying design 
+ flaw.  
+
+          Bolt Logan is back to save the world once again in Chrome SpecForce.     
+
+  Chrome SpecForce 
+ is the follow-up to 2003's Chrome, and in SpecForce you once again play as the awesomely named 
+ Bolt Logan, who is a member of the elite SpecForce soldiers. The story is fairly transparent, and 
+ since there are no cutscenes to move it along, most of the plot information you receive comes from 
+ some brief text on the loading screen before each mission. Apparently there's some sort of conflict 
+ going down on the planet of Estrella, and the SpecForce has been commissioned to take care of it. 
+ Eventually you learn that a huge, insidious corporation is training supersoldiers and threatening 
+ the very existence of the planet. Bolt Logan and the SpecForce soldiers have to save the day by 
+ trudging through jungles and military bases to hack computers, blow up key structures, save prisoners, 
+ and so on.  
+
+  As clich as the missions are, they're at least somewhat varied. While you spend most of the game 
+ on foot, running around and shooting enemies, there are times when you have to hop on a speeder 
+ bike, pilot a huge mech, or man a turret to fend off aerial attacks. The vehicles are generic, 
+ but they work well to break up the monotony of the rest of the game. In addition to piloting vehicles 
+ and shooting, you occasionally have to hack a computer system to unlock a door, upload a crippling 
+ virus, or retrieve some information. This whole hacking thing plays out like a simple game of memory, 
+ where you reveal tiles and match like shapes to eventually clear the board. These sections are 
+ laughably easy, to the point that it makes the minigame seem like pointless busy work.  
+
+  The rest of the game is spent on foot, engaging in firefights with the same few enemies over and 
+ over. And while there's nothing especially wrong with that, the shooting in SpecForce is just boring 
+ and tedious. For one thing, the weapons are all so weak that they just aren't fun to use. They 
+ are all pretty standard: there's a 9mm pistol, an assault rifle, shotgun, rocket launcher, grenades, 
+ and a few others. The guns all feel completely anemic in terms of firepower. The weapon sounds 
+ are thin and lack some much-needed kick, they don't look particularly menacing, and it often takes 
+ an inordinate amount of shots to take down an enemy. Another problem is that there's no sense of 
+ range with any of the guns. You can snipe enemies from hundreds of yards away just using your assault 
+ rifle. As a result, you can just about play through the entire game without ever bothering to pick 
+ up any other weapons.  
+
+  And, you won't want to bother with other weapons because the inventory system is so annoying and 
+ cumbersome. SpecForce uses the same inventory system as the previous Chrome game. You can search 
+ the corpses of the people you kill to get items, and when you do so it brings up your inventory 
+ screen. The inventory screen looks a lot like one from a role-playing game, with a grid that you 
+ have to fit all of your equipment into. Your inventory space isn't very large, so it isn't practical 
+ to carry more than one gun. But, as we mentioned previously, it isn't a problem, because the standard 
+ assault rifle is about the most useful weapon in the game anyway. This inventory management just 
+ feels out of place and unnecessary in a shooter, and you'll quickly get tired of the hassle.  
+
+ 
+  Another problem with the combat in SpecOps is that the enemy artificial intelligence feels cheap. 
+ As soon as you step around a corner, regardless of how hidden you are by the surrounding foliage, 
+ you'll get hit immediately. The enemies maintain their posts behind the carefully arranged cover 
+ and wait for you to advance. Your best option is to try to snipe the enemies with your assault 
+ rifle, or take a few shots and hope the enemy goes down before you do. On the other hand, the AI 
+ of the characters on your side is completely moronic. You might be engaged in a heated exchange 
+ of firepower, only to have one of your allies walk right in front of you and get wasted immediately. 
+ Or, one of your fellow soldiers might walk right up to a dinosaur (yeah, a dinosaur) and stand 
+ there getting his skull gnawed without doing anything to defend himself. While you'll hopefully 
+ play a bit smarter than your allies, you're still just as weak. Even on medium difficulty you'll 
+ die often, because it only takes a couple shots to take you down and there's no body armor to pick 
+ up. Luckily, health packs are plentiful, and you can carry around a large stash to keep yourself 
+ healthy. You can also save at any time, so even if you do die over and over again, you can just 
+ reload your last save and try again.  
+
+  You do have a few special moves at your disposal, but they're mostly useless. Your power armor 
+ has four special functions that you can activate as long as your boost gauge is at least partially 
+ full. There are power shields, which make you take less damage; motive support, which makes you 
+ run slightly faster; camouflage, which makes you invisible; and neural boost, which acts just like 
+ slow motion. The speed boost is occasionally helpful, but for the most part these special functions 
+ are completely useless. The camouflage rarely works, because even when cloaked, enemies can usually 
+ see you and will immediately start shooting at you. The neural boost is pointless, because it just 
+ slows everything down, including you. Since the enemies shoot you with pinpoint accuracy, the improved 
+ reaction time you might get from the slow motion does nothing to help you out in a fight. The power 
+ shields might help, but health packs are more effective at keeping you alive, and they're so plentiful 
+ and quick to use that there's no reason not to use them frequently.  
+
+  This game is drawn further from the brink of fun by an outdated and underwhelming presentation. 
+ Some of the outdoor levels are quite large and full of foliage, which is great, but none of it 
+ looks very good. Ground foliage is all two dimensional, giving the plants the look of a bunch of 
+ cardboard cutouts. Textures are blurry and dull, and the weapon models are generic. As you run, 
+ the animation makes it look like you're floating along just above the ground, and Bolt's arm looks 
+ like a flimsy cutout that has been pasted to the bottom of the screen. There are also some really 
+ goofy-looking rag dolls that defy gravity and clip through walls and objects. On top of all that, 
+ we noticed some slowdown a few times when the action got heated.  
+
+  The sound is no better in SpecForce. The weapon sounds are all way too weak, and other sound effects, 
+ like explosions, do nothing to punctuate the action on the screen. There are some voices to listen 
+ to, and while they aren't the worst you'll hear, the delivery is rather lifeless most of the time. 
+ The music is almost nonexistent, and it only occasionally picks up for a few seconds before fading 
+ away again. What is there sounds good enough, but it's just too subdued to be noteworthy.  
+
+          Who needs a bulky sniper rifle when you can pick guys off from across the map using your 
+ standard assault rifle?     
+
+  Chrome SpecForce has some good ideas, and if you can get past the dated presentation and dull gunplay, 
+ you might actually enjoy its sci-fi world. If you do manage to keep playing, the game will keep 
+ you busy for 8 or 10 hours in the single-player campaign. There's also support for 16-player games 
+ via the Internet or a LAN, with a handful of maps and the standard game types, including capture 
+ the flag, deathmatch, and king of the hill. Don't get too excited, though, because chances are 
+ you'll have a hard time finding anyone to play against online. Still, if you absolutely can't get 
+ enough sci-fi action, then you might find something to enjoy in SpecForce. But those few shining 
+ moments will quickly fade away, leaving behind a generic, mediocre shooter.     
+-------------------------------------------------
+:::User Reviews::: (11 Reviews)
+::::::
+UserName: jfsebastianII
+Rating: 8
+Date: Jul 7, 2008 6:56 am PT
+Review:  just to add my voice to those saying that this is a VERY underrated game - it has a good gaming 
+ experience, good weapons, scenery and action - no bugs that i came across, and the enemy AI is 
+ pretty decent. A bit more straightforward than Chrome, but pretty much more of the same, complete 
+ with the Star-Wars type Walkers and power station designs that gave Chrome some of its interesting 
+ appeal. 
+  The game also features an early version of the nanosuit used in Crysis - you are able to switch 
+ between heavy armour/better hacking/cloak (which doesn't work at all becasue everyone seems to 
+ see you anyway) /and faster speeds
+  
+  It takes place prior to the events in Chrome, so maybe if you've not played either it's better 
+ to play this first, then Chrome afterwards - doing it that way would definitely add to what happens 
+ in the plot of Chrome...
+  
+  the game is mission-based, on several planets with some nice leafy terrain and requires a mixture 
+ of some all-out run-and-gun, stealth and sniping. It also has the same inventory system.
+  
+  another thing to mention is that on the hardest difficulty setting the enemy snipers really do 
+ just pick you off a bit easily, so to make it a bit more fun, the next level down is probably best. 
+ the first time you play, though i went for the hardest the secomd time and didn't have too many 
+ problems 
+  
+  SO if i haven't already mentioned Chrome enough ... if you enjoyed Chrome, you'll enjoy this! 
+::::::
+
+::::::
+UserName: Lightworks
+Rating: 7.2
+Date: Jul 9, 2007 10:19 am PT
+Review:  If you're into the first Chome, which I thought was a pretty underestimated and underrated breakthrough 
+ for FPS games that provided you a sense of freedom and non-linearity.
+  
+  For this pseudo-sequel, the graphics still haven't changed; and neither is anything else. This 
+ can make the game feel kinda outdated, but it still retains that good old shoot'em up fun.
+  
+  Don't let other reviews take you down. It's lacking on quite some levels, but if you're looking 
+ for another shooter, with some fun to be had, take a look at this! There are FAR worse games out 
+ there than this one.
+  
+  As I said above; it's not groundbreaking, but it's not bad either. 
+::::::
+
+::::::
+UserName: iismatthew
+Rating: 8.1
+Date: Jun 18, 2007 2:27 pm PT
+Review:  Played the first level and its a great game its missing some things but im having alot of fun with 
+ it. it's fun but not to easy and it has pretty good a. i. from what i've seen the vehicles are fun 
+ and the combat is solid. its a lil dificult to master all the comands but once you figuer it out 
+ you'll be having a blast. when i first saw the game i was worried it might not be to good (gamespot 
+ did give it a 5.2) and i respect that its definetly a game you have to want to like and its not 
+ to great but its definetly one to add to your collection if you like scifi fps 
+::::::
+
+::::::
+UserName: splintercell_75
+Rating: 7
+Date: Jun 7, 2007 6:51 am PT
+Review:  Okay this was always going to be a buy for me. By the way fellow gamers I picked this up from Gametraders 
+ Chermside for $4.00 AUD second hand. Yes they buy and sell second hand games! Free plug for Gametraders! 
+ Back to the review. Anyway as I did enjoy Chrome immensely I thought the sequel would be as good 
+ and even better. The gameplay is good. The story is not what one expects. This could be viewed 
+ as a prequel not a sequel because as we know our hero Bolt Logan and his girl made off for futther 
+ adventures at the close of Chrome. However in Specforce you are part of a special force that is 
+ sent to investigate the ongoings of a rouge organisation. In Chrome the majority of the missions 
+ were solo, however, in Specforce you are part of a crack team and you will not only have to take 
+ directions and follow orders but also watch your back and ensure the survival of your teammates. 
+ The graphics were good. The outdoor scenery is quite good but is no match for the graphics in Far 
+ Cry. Gameplay is good but I would recommend the ever useful 8mm machinegun and a 12mm sniper rifle 
+ combo especially towards the end. As far as the AI goes I guess I did see an improvement over its 
+ predecessor in that the enemy does try and take you by surprise and sometimes even tries to concentrate 
+ fire on your allies so that if they can take them out the mission is over. All in all a good game 
+ and for $4 a definite buy. :) 
+::::::
+
+::::::
+UserName: hugh000270
+Rating: 6.9
+Date: Apr 2, 2007 2:08 am PT
+Review:  Chrome SpecForce seems to have interseting things. I appreciate the character designs and the vehicles 
+ although the environment is badly detailed and only a small number of improvements are seen even 
+ in high quality.
+  
+  I haven't still manage to finish the game. Even with it, other guns like sniper rifles seems useless 
+ with the machinegun sounding powerfull but actually, it only deals a small amount of damage. The 
+ inventory has a nice design although a little hard to get to use with. The powerups are unalanced 
+ and the AI is pretty smart or as in pretty buggy on finding their way although they are a little 
+ tough. 
+::::::
+
+::::::
+UserName: xvramon
+Rating: 7.5
+Date: Aug 5, 2006 9:51 pm PT
+Review:  this game is higly fun is your are just searching for a game where you can run and kill everybody 
+ without having to sneak. The gameplay is actually pretty good i think after playing game like fear 
+ hl2 and such i have find this game gameplay pretty good as it have a lot of stuff i never seen 
+ in recent game like th e possibility to become invisible or have a shield or even run faster. It 
+ also have a good range of weapon and nice vehicle. This game combine rpg and fps style game which 
+ i really like and the graphics are alright, the inside is the not the strength of this game. The 
+ story is the classic spacial marine super equip and strong that is going to save the world again 
+ but we are never tired of this i guess good game overall 
+::::::
+
+::::::
+UserName: Kasrkin_BA
+Rating: 7.3
+Date: Apr 17, 2006 12:44 pm PT
+Review:  Gameplay 
+  
+  Lets get the negatives out of the way shall we? Most importantly about the game is that 
+ the levels were repetitive. Each one had the same old forest/swamp setting with the odd complex 
+ building. This was fine if youre into that sort of thing but a game with this much potential 
+ should have more varied environments. I understand that the setting is based around a rebellion 
+ in a local setting but hell, make it a global setting and add some deserts or some tundra. They 
+ did in the original game, why not here?
+  
+  Another problem I had was that the way the character responded to your commands was slightly different 
+ to what youd usually be used to in an FPS. This was quite frustrating until you got the 
+ hang of it but it really did effect the quality of the first few missions (probably why I enjoyed 
+ the game more second time around) .
+  
+  The missions were rather generic. Hack this. Escort that. Kill him. Blow that up. Etc. But thats 
+ not to say they werent fun to accomplish, they were just a bit uninspired.
+  
+  Another niggle was the real lack of vehicular mayhem. Sure you got to blow things up in big ol 
+ walkers but those moments were very rare. And the speeder bikes were just awful, especially the 
+ speeder bike mission.
+  
+  Onto the positives now. Once youve gotten over the issues the game throws at you, a game 
+ briming with some very exciting moments. The first thing you notice is the better than average 
+ AI. Admittedly sometimes the enemy can be boneheaded (hell, theyre grunts) but sometimes 
+ your quarry can shock you. Let me offer an example. Very first mission and youve just stolen 
+ a machine gun walker. You stumble around the corner to find three armed guards looking quite shocked 
+ at you. You open fire and all of a sudden two of the guards run in panick while the other, quite 
+ futily, fires a few shots at you before panicking and turning away. Just one of those moments where 
+ you sit back and go Wow before blowing something else up.
+  
+  Now, a lot of people have commented on the inventory system. A lot of it bad. I like it. Shocking 
+ as it may seem, I know, but I like it. The devs have taken stock of the fact that no-one can carry 
+ a whole armoury in their back pocket and have come up with quite a good system. Its something 
+ that should be appreciated and I hope to see it in games for years to come. 
+  
+  Another aspect I quite liked in the more open areas of the game was the ability to bypass enemy 
+ footsoldiers unseen using your cunning stealth. Although it was not always perfect, you could save 
+ yourself some ammo and health by avoiding unwanted battles. But it does take a lot of trial and 
+ error to get the sneaking routine down as you will find your back riddled with bullets the first 
+ few times you try. 
+  
+  
+  Graphics 
+  
+  Although not on the same level as many other shooters released at the same time, the graphics arent 
+ all bad. Considering the size of each map the devs havent done a bad job. There are obviously 
+ a lot of annoying things such as the same building found twenty times over in the same map.
+  
+  For me the best bit about the game visually are the bullet sparks. The fact that when you shoot 
+ an enemy each bullet produces sparks. I loved it. Reminded me so much of Stargate. I was very impressed 
+ each time I made a kill.
+  
+  
+  Sound 
+  
+  The sound is where the game really struggles. On the music side of things, its pretty good. 
+ As well as any generic scifi soundtrack could be to be honest.
+  
+  The weapons are again adequate. Theres not enough grunt behind them yet its not as 
+ bad as to think you were firing BBs. One good thing about the weapon sounds is that they dont 
+ sound too generic. You could actually believe they were scifi weapons.
+  
+  Voice overs. Sweet moses. Thats something that can either send shivers down your spine or 
+ make you smile at conversations youve had with characters youve never met. In Chrome, 
+ youd be glad you have never met these people. You know that if you did, they would have 
+ their shirts tucked into their underwear and will insist on wearing the most unusual hats. In short, 
+ the voices are rubbish. But what else would you expect from a game that was made in Poland?
+  
+  The redeeming quality is the ambient sounds. They absorb you into the world around you quite 
+ well. 
+  
+  
+  Value
+  
+  With a price tag of 15 brand new off the shelf, this game isnt much to sniff at. As long 
+ as youre not expecting a super high quality game youll be happy with the purchase. 
+ Consider it a standalone expansion pack to the previous Chrome and you'll be happy. 
+::::::
+
+::::::
+UserName: ChickenMcBastrd
+Rating: 7
+Date: Feb 27, 2006 6:56 pm PT
+Review:  As featured on loadedinc. com...
+  
+  A Special Forces team is on a top-secret mission to a planet far, far away. Only five people are 
+ in the know, and their objective is to take down an evil corporation that is manufacturing bio-enhancements. 
+ No, this isnt the latest Sci-Fi original picture, its SpecForce, a game that takes the first 
+ person shooter genre and gives it a giant kick back into history.
+  
+  In this game, the sequel to 2003s Chrome, you reprise your role as Bolt Logan. Instead of fighting 
+ as an elite mercenary hired by corporations, youre operating as a special forces soldier for a 
+ governing body who is investigating those same evil corporations. Gone are the planet-to-planet 
+ missions across a wide array of environments and atmospheres. Gone is the ability to win new implants 
+ through successful completion of missions. Gone is just about all the fun that the original game 
+ had. All these elements that Chrome successfully integrated into its gameplay have been substituted 
+ by mediocre replacements.
+  
+  As a member of the SpecForce military, its your job to investigate the planet of Estrella. The 
+ LoreGen Corporation has been working with performance enhancing drugs and youre sent in to investigate, 
+ and terminate, the illegal experiments. Things go awry and your transport ship, and everyone who 
+ knew about your mission, go up in flames. This leaves you and a fellow SpecForce operative alone 
+ on a hostile planet with little more than an assault rifle and a few clips between the two of you. 
+ Piece of cake, right? The proceeding adventure sees you travel across the planet to sabotage LoreGen 
+ and lead a campaign of guerilla warfare with the help of the local resistance. How a resistance 
+ movement started on a terraform planet discovered, created, governed, and regulated by an evil 
+ corporation is a mystery. I hate to yell plot hole, but its hard to think that the corporation 
+ missed rebellious dissident on the job application. Shooters are not traditionally known for their 
+ gripping storylines, but with SpecForce its just one of many problems.
+  
+  The game tries to alleviate some of the issues with the inclusion of a portion of the bio-enhancements 
+ from the original game. Four in total, youll have access to power shields, invisible camouflage, 
+ speed enhancements, and a neural-boosting unit, which essentially slows down time for a Max Payne 
+ bullet time effect. Youll find that these combat supplements, used by your suits battery power, 
+ not only help you in combat, but become the reigning factor of it. Because enemies constantly drop 
+ batteries that can recharge your system, youll always have the abilities at your disposal. You 
+ may find yourself running around, and upon engagement of the enemy, activating your neural enhancement 
+ to take them out while sustaining a minimum of damage. Repeat ad-infinitum and you have SpecForces 
+ combat nailed down.
+  
+  The game doesnt force you down this route. Indeed, it can be countered by upping the difficulty 
+ which will result in reduced supplies from fallen enemies and hyper-accurate enemy fire. Its the 
+ accuracy alone that presents the majority of challenge when dealing with the AI. Its not clumsy, 
+ but its not exactly smart either. Enemy soldiers will seek cover every now and then but most of 
+ the time theyll charge you or simply get on one knee and fire. A lot of the damage you take will 
+ come from prepared defenders when you enter rooms, or when jungle cover conceals enemies. It doesnt 
+ help that their camouflage blends seamlessly with the trees and underbrush. Sometimes spotting 
+ enemies is impossible without the assistance of your targeting implant.
+  
+  Then again, who needs accuracy when youre in a giant walking mech? One of the better points of 
+ SpecForce is the games inclusion of vehicles. Theres a small selection of land-based vehicles, 
+ bi-ped mechs, and aircraft. Zoom around the jungle base in a quick hover-bike scout or take on 
+ an entire army with a fully-armed battle mech featuring a vulcan cannon and rockets. The vehicle 
+ sequences help break up the typical smattering of objectives which include simple combat from point-a 
+ to point-b, strategic planting of bombs, and computer hacking.
+  
+  Throughout all your objectives youll need to survive, and that means raiding armories and corpses 
+ alike for the necessary hardware. Youll find several variants of assault rifles, a pistol, submachine 
+ gun, powerful single-shot rifles, rocket launcher, and a few grenades to play with. Both the weapons 
+ themselves and the ammo can be taken from storage units and bodies. Since SpecForce uses an inventory 
+ system similar to that of Deus Ex, so youll have to select your weapons wisely. Each box of ammo, 
+ health kit, and individual weapon takes up space. Most of the time you can carry two weapons, a 
+ decent amount of ammo, and sufficient health kits and battery packs to last you a while. Some ammunition 
+ isnt as plentiful, so its important to learn the advantages and disadvantages of each weapon 
+ so you dont rely too much on one gun. Sadly, grenades arent as exciting as youd probably like 
+ them to be. The throwing physics looks very odd, and the explosions are lackluster, but thats 
+ due to the extremely dated engine.
+  
+  SpecForce looks like the same game we saw two years ago in Chrome, with only a few minor tweaks 
+ here and there. Terrain textures are bland and repetitive, and the same goes for the buildings. 
+ Youll realize this after you walk into the third of many enemy bunkers and realize its the same 
+ layout of computer screens and chairs all over again. To ultimately realize the horror of the graphics, 
+ you need only look at the effects for the games electricity, which look less like energy and more 
+ like turquoise snakes writhing in pain around the floor. After seeing the graphics in action, I 
+ feel their pain.
+  
+  The sound isnt much better. The main character makes you think of a novel on tape, and even that 
+ may be an insult to recorded novels. Theres absolutely no emotion in the voice at all. Supporting 
+ characters fair a little better and actually get excited and express advanced emotions like fear 
+ and frustration. Sound effects are alright, with the exception of the shotgun. Youll see the pumping 
+ animation a good 2-3 seconds before you actually hear it.
+  
+  SpecForce does feature a multiplayer, but with so much thats already on the market theres really 
+ no reason to check it out. When we tried, we found six servers with a grand total of two players. 
+ Apparently those two guys didnt get the memo.
+  
+  SpecForce isnt a terrible game, but it isnt terribly good either. Its a competent shooter, but 
+ the absence of everything that made its predecessor interesting is mysteriously gone. The graphics 
+ are virtually the same and the gameplay has been taken down a notch. The two years it took for 
+ Techland to release this game is about 18 months too long. Hardcore shooter and sci-fi fans may 
+ find something interesting here, but it really cant compete with the rest of the market.
+  
+::::::
+
+::::::
+UserName: blitsie
+Rating: 7.8
+Date: Feb 6, 2006 8:08 am PT
+Review:  even if it is bad it is worth it gamplay is great a few of the same stuff but i like the graphics 
+ and you will to this game is really great but it really grows on you
+  very fun title frustrating at times but it is good i think buy it
+  
+  okay the story is well 
+ save the world!
+  yes he is back Bolt Logan ladies and gentlemen, Logan he is cooller than ever not too cool but 
+ he is nice with the same bad personality
+  
+  lots of guns will keep you busy so get it or rent it, I say rent it
+  but if you want it forever 
+ wait for discount
+  if you are south african not discount for you R300 or R500 and it will stay like that for south 
+ africa
+  so get it
+  
+  NOW!!!!!!!!!! 
+::::::
+
+::::::
+UserName: gamingprincess
+Rating: 7
+Date: Jan 15, 2006 5:42 pm PT
+Review:  just finished chrome and really enjoyed it. thats why i bough specforces. i am really enjoying 
+ it. especially the fly-driving i hit this one tree over and over but still like it. i was playing 
+ starship troopers which got out of hand with the over running of bugs. i like a game that they 
+ give you at least a fighting chance. i would recommend this one to anyone who likes space savior 
+ mission games. its an older game but the specis are good and the voices clear and challenging.... 
+ hopefully another one will come out. the only thing that confuses me is in Chrome which is first 
+ i killed pointer and he is back for two. 
+::::::
+
+::::::
+UserName: Jedo
+Rating: 7.6
+Date: Jan 15, 2006 5:35 pm PT
+Review:  INTRO
+  
+  Its been a while since Chrome came out. If the reader is going, Who? Im not surprised. Not 
+ many people it seems have noticed this shy thing standing in the corner. It wasnt completely undeserved 
+ as it had several serious problems with the gameplay. Now its son is out, and the apple hasnt 
+ fallen far from the tree, as Chrome SpecForce seems to be troubled by the same problems. Nevertheless, 
+ theres a lot in SpecForce to talk about. 
+  
+  GAMEPLAY
+  
+  You play as Logan (anyone gets a flashback about Syphon Filter?) , a new operative in the Federations 
+ special forces, FSB (anyone thinks about the Russian FSB?) . After a tutorial at a training camp 
+ youre sent in with a partner to investigate about a corporation that is suspected to produce a 
+ new and illegal aggression enhancing drug (sure, whenever something that makes you a lot better 
+ comes along, they outlaw it) . Things dont go as planned for the two of you though
+  
+  As a member of a futuristic super force, you have several tricks up your sleeve. Optic camouflage 
+ allows you to sneak around unseen, although either the problematic AI or the scripting of the game 
+ ensures that some enemies are magically immune to this. Theres also a strength and speed enhancing 
+ mode, and the names speak for themselves. Finally, theres a mode that slows down time. This is 
+ especially useful when sniping at several unsuspecting foes. All of the modes are temporary but 
+ powered by rechargeable batteries.
+  
+  A sufficiently large arsenal is available to your disposal. You will be forced to use each type 
+ of weapon during the main campaign since the locations you will visit vary from huge open spaces 
+ to claustrophobic corridors, and your enemies vary from people to jet fighters.
+  
+  Different machines are available for you to drive and fight around in. They range from something 
+ that resembles a bike to walkers (like in Mechwarrior) to stationary cannons. Most of these machines 
+ are really well looking, and by that I dont mean the graphics but the construction. They look 
+ like something that could actually work if it was real.
+  
+  Theres a standard shooter game set of things to do in SpecForce: chases, sneaking around (if you 
+ choose to) , sniping and close combat. The events are well scripted and flow well into one another. 
+ Missions include planting explosives, hacking into computers, assassination, ambushing enemies 
+ and generally getting from one place to another, killing everything on the way. Sounds like tasks 
+ performed in tactical shooters, dont they? Do not be fooled however, SpecForce is NOT what they 
+ call a tactical shooter. You are in a team sometimes, but you are following rather than leading, 
+ and the action is all about shooting and shooting and shooting some more, trying to penetrate the 
+ thick enemy armor. 
+  
+  Theres a little bit of puzzling in the game. Hacking into computer consoles to achieve different 
+ effects is done by playing an infamous game found widely on the internet. Its about turning over 
+ pictures one by one and remembering which of them are identical. This is rather weird to use it 
+ here but it actually works. As the game progresses, the puzzle gets more complicated, although 
+ still pretty easy to solve. Developers shouldve gone further in this.
+  
+  The first major downside in the gameplay is the enemys AI. The enemy must be on some really magic 
+ drug if he is able to hit you with the first shot from 500 meters away, the very moment any part 
+ of your body appears on his horizon for the first time. Jumping, going stealthy or running fast 
+ has no use. You WILL be shot many times in the game, and though it doesnt at all have to mean 
+ death, it can still get pretty annoying depending on ones playing style. Its especially annoying 
+ because damage is indicated by a loud sound and the screen going red. It almost starts hurting 
+ in real-life after a while. Another weird thing was happening when you shoot someone in the stealth 
+ mode, and all of his allies nearby seem to be completely oblivious to the fact that there he lies 
+ in a splatter of blood. These problems were present back in the first Chrome and Im negatively 
+ surprised to see that the mistakes werent corrected. 
+  
+  Theres another, much graver sin within SpecForces gameplay: its inexcusably short. The game 
+ can be played out in 1 day and thats a Guinness book record for me. Making enemies very bullet-resistant 
+ is not an answer to making a game longer, and even so its still too short. The game is not expensive, 
+ yes, but even for this amount of money one expects a longer game. To all of that add a multi-player 
+ mode where only about 3 servers can be seen with no one on them. The short single campaign is the 
+ games main downfall. The lack of attention results in an empty multi-player which results in even 
+ less play-time and in the further reduced value of the game. Theres a possibility for custom missions 
+ if you can make them. Theres a mission editor but its confusing and I couldnt go anywhere with 
+ it. I also doubt that anyone will make and upload a map on-line with such a poor popularity of 
+ the game.
+  
+  SOUND
+  
+  Voices are generally well done, although some of the text could be better. Here and there I heard 
+ some simplistic lines that you might approve in a really cheap action movie but not here. 
+  
+  There are proper generic sounds of animals and wind that create quite a mood for the traveler 
+ in some of the games massive environments, but some sounds are missing completely like, for example, 
+ footsteps when crawling. Im sure you make SOME noise when sneaking through the bushes (even if 
+ you are a super soldier) . Music consists of techno-orchestral compositions and is well chosen for 
+ the game.
+  
+  VISUALS
+  
+  Visuals are a controversial thing to talk about. Theres an old metal-shine effect and theres 
+ some complex Doom3-like shadowing on stones and trees, but a lot of the textures still look rather 
+ outdated. Then again, some of the environment looks detailed like the inner walls and the worn 
+ down weapons. 
+  
+  The game does succeed to be very atmospheric in some places. Now you are crawling through a dense 
+ forest with gigantic trees, and another time you are making your way on a small ledge surrounded 
+ by steep cliffs. The levels are crawling with vegetation. It doesnt all look perfect but theres 
+ a lot of it, its varied and is moving in the wind. All of it is complimented by a really long 
+ view distance. Sun isnt perfect but has the blinding effect. The sky at some point looked bad 
+ with low resolution clouds, but the clouds were varied and also moving at different rates. It's 
+ like all things in Chrome SpecForce look both bad and good
+  
+  A thing about cut-scenes: there practically aren't any. In my memory theres only one small cut-scene 
+ at the end of the game. Cut-scenes arent really necessary in any game, but many of us will go 
+ huh? at this point. And indeed it couldve been used to help the storyline a lot and maybe even 
+ fill the game's time somewhat.
+  
+  THE VERDICT
+  
+  Its hard to give Chrome SpecForce a verdict. If you can overcome the feeling sorry for the developers, 
+ due to the low attention to their game, youre left with a rather controversial game. Problematic 
+ enough when it comes to playing length and the enemy AI to spoil the gameplay, its still a worthy 
+ shooter and at least deserves to be recognized if not liked. Maybe the developers should go back 
+ to their computers, finish the game by adding a better AI, cut-scenes and more levels and then 
+ spend at least some cash for advertisement and server support. Then, release a game that is $45 
+ instead of the current $29, but has a lot to show for it. 
+  
+  MOST RELATED GAMES:
+  
+  The game resides somewhere between Vietcong, Battlefield series and Far Cry 
+  
+::::::
+
+-------------------------------------------------

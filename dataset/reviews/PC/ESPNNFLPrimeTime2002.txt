@@ -1,0 +1,116 @@
+-------------------------------------------------
+:::Game Name::: ESPN NFL PrimeTime 2002
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sports/espnnflprimetime2002/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Mar 27, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 3.6
+Critic Score: 5.5, 1 Review (s)
+User Score: 7.8, 10 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Konami
+Developer: Farsight Tech.
+Genre: Football Sim
+Date:     Mar 8, 2002
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+Feeble gameplay makes PrimeTime unappealing, and the number of serious bugs that have come along 
+ for the ride make it completely unacceptable. 
+
+ PC sports gamers have been largely ignored for a long time now. Aside from EA Sports, nearly every 
+ other major publisher of sports games has moved its efforts to the current generation of console 
+ systems. So while Xbox, PS2, and GameCube owners get to enjoy three or four different games representing 
+ each of the four big North American professional sports, computer owners have to make do with one 
+ baseball game, one football game, and so on. Such a lack of choice has caused a lot of die-hard 
+ computer-sports-game buffs to feel neglected. A cure for that feeling can be found in FarSight 
+ Studios and Konami of America's ESPN NFL PrimeTime 2002. Unfortunately, being stuck with only the 
+ Madden series depicting football on the PC doesn't seem so terrible after a bout with this game, 
+ which is every bit as awful as its release date more than a month after the Super Bowl might suggest. 
+ If having a choice means that you have to endure poorly designed, ugly, bug-ridden shovelware like 
+ this, better then to have no choice at all.           PrimeTime has some serious crash bugs and 
+ plays bad anyway.    
+
+  Actually, NFL PrimeTime 2002 isn't a choice for many of its prospective victims. Bugs have been 
+ widely reported, and our test system -- more than a match for the recommended system requirements 
+ and equipped with a GeForce3 Ti 500 -- experienced frequent crashes. Playing games in 32-bit color 
+ at video resolutions above the default 640x480 was impossible, as every attempt resulted in an 
+ immediate crash that not only shut the game down, but also rebooted our machine. Switching to 16-bit 
+ color enabled us to play above 640x480, though random drops to the desktop continued to be a problem. 
+ In all, the game probably crashed at least twice for every game that we successfully completed. 
+   
+
+  Even when you can get the game to run, playing just isn't worthwhile. While the list of available 
+ options is solid -- with the inclusion of a thorough franchise play mode offsetting the absence of 
+ an Internet multiplayer option -- the gameplay is a pastiche of everything that people complained 
+ about in computer football games a few years ago. The computer is far from astute as a coach, no 
+ matter which of the four difficulty settings you're using. Play-calling choices are often straight 
+ from the Bizarro World's Pop Warner league, complete with running the ball repeatedly in long-yardage 
+ situations and throwing repeatedly when stuck in a situation where running out the clock is advisable. 
+ Get the computer club back on its heels inside its own five-yard line, and it will do nothing but 
+ throw long, no matter how much time is left on the clock, no matter what the score. We've come 
+ back to win more than one game because the computer chose to go for an unnecessary first down instead 
+ of just letting the clock expire.   
+
+  The game also does a subpar job of general clock management. Computer plays are called instantly, 
+ leaving a minimum of 25 seconds on the play clock, meaning that you'll be able to get off many 
+ more plays than would be possible in a real NFL game. This makes it hard to keep scores close to 
+ their real-world equivalents, even when you're playing with five-minute quarters. Playing with 
+ full 15-minute quarters is impossible, unless you want to see scores in arena football territory. 
+   
+
+  The play mechanics are equally disappointing. Compensating for the second-rate artificial intelligence 
+ is the computer's uncanny ability to pull off long bombs and make interceptions at opportune times. 
+ Because of this, scores typically remain close when they shouldn't, and you begin to feel like 
+ the game is cheating. Control issues also make you feel like some cheating is going on. Players 
+ glide across the turf as if they were skating, making it hard to make precise moves and cuts. Animations 
+ appear to skip frames. Tackles happen with all the suddenness of a bolt of lightning -- one moment 
+ the defensive player is three yards away, the next he's got the ballcarrier on the ground. Additionally, 
+ there is no gray area with tackling. If an opposing player gets close, the ballcarrier is going 
+ down, no matter how well he uses the speed burst, juke, spin, stiff-arm, or other specialty moves. 
+ This works both ways, of course, though it still seems like the game is compensating for unsatisfactory 
+ AI with these magic tackles. After all, if players weren't taken down so easily, the game would 
+ be even more of a wide-open scorefest than it is already.   
+
+  The visual quality is at the same low level as everything else here. The player models are rough, 
+ with blocky faces and knees and elbows so sharp that every tackle should result in a dozen stitches 
+ for everyone involved. The models also seem incomplete. Close-ups shown between plays often let 
+ you look through players' helmets to the sky above or peer through their shoulders at the sidelines. 
+ Players also frequently shudder during play, causing a strobe-light effect that makes it difficult 
+ to keep your eyes on the screen, and they sometimes flicker when standing on the sidelines. The 
+ weather effects exacerbate the latter problem, with snowflakes and players often flashing as much 
+ as a broken neon sign. But NFL PrimeTime 2002 isn't all bad visually. The stadium art is pretty 
+ good, particularly the animated crowds and textures used for the grass and turf. Team-specific 
+ banners are used to further customize each club's home field. Also, the player models get dirty 
+ as games go on. Mud and grass stains show up on their uniforms and helmets when playing on natural 
+ turf, a subtle touch that reinforces the "down in the trenches" feeling that football is all about. 
+           The play-by-play commentary is pretty good, but that's about it.    
+
+  The audio quality is also spotty, though it is better overall than the game's visual components. 
+ Much of this edge is due to the ESPN signature voices of Chris Berman and Tom Jackson, who provide 
+ all the play-by-play and color commentary. Berman's contributions are particularly welcome, as 
+ they do a good job of describing the on-field action with a minimum of hyperbole and a good sprinkling 
+ of players' names among accounts of what's happening. Jackson isn't quite so useful. Most of his 
+ lines consist of catchphrases like, "The offensive coordinator didn't have that in mind when he 
+ drew up that play." The only saving grace is the sheer number of these bland comments. In-game 
+ effects include the standard thumps and smacks, though a number of expected effects are missing. 
+ It's odd that penalties aren't announced and that audibles are called without a peep.   
+
+  Which is in some ways fitting, because "without a peep" is exactly how ESPN NFL PrimeTime 2002 
+ should disappear. Feeble gameplay makes the game unappealing, and the number of serious bugs that 
+ have come along for the ride make it completely unacceptable. The idea of having an alternative 
+ to EA Sports' award-winning Madden series is apparently superior to the reality, at least if this 
+ is the only choice available.     
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

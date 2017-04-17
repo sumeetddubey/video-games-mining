@@ -1,0 +1,655 @@
+-------------------------------------------------
+:::Game Name::: Republic: The Revolution
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/republictherevolution/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Sep  2, 2003
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.9
+Critic Score: 6.7, 32 Review (s)
+User Score: 6.8, 406 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Eidos Interactive
+Developer: Elixir Studios
+Genre: Real-Time Strategy
+Date:     Aug 27, 2003 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Overly linear missions and noninteractive 3D action get in the way of the deep political strategizing 
+ of Republic's later levels. 
+
+  Politics abhors a vacuum, and after the fall of the Soviet Union, there were plenty of strong men 
+ willing to step up and lead newly independent republics -- like Novistrana. In this fictional state, 
+ the democratic process lasts but a single election. President Karasov shows his true colors within 
+ weeks, declaring himself president for life, instigating mass arrests, and outlawing all opposing 
+ political parties. Most wouldn't dare stand up against such a figure, but that's exactly the job 
+ you're charged with in Elixir's Republic: The Revolution. It's prime territory to move beyond the 
+ kosher politics of stately fundraisers and television issue ads and get your hands dirty with propaganda 
+ campaigns, slanderous attacks, and targeted violence. It's just too bad that overly linear missions 
+ and noninteractive 3D action get in the way of the deep political strategizing of Republic's later 
+ levels.  
+
+          The fictional republic of Novistrana has been taken over by a dictator. Will you depose 
+ him?     
+
+  The core game is quite free-form and consists of winning grassroots support, gaining political 
+ capital, and undermining opposing factions, but there's no getting around having to do missions 
+ to advance the story and, eventually, decide the fate of Novistrana. A new game kicks off with 
+ a questionnaire to determine your character's base stats and political leanings and then drops 
+ you in the small provincial city of Ekaterine, where your budding faction has some clout in a single 
+ district. There isn't a dedicated tutorial section to explain basic concepts like how the district 
+ colors (red, blue, and yellow) match up with their political leanings (force, influence, and wealth) 
+ or how gaining control over these districts earns you the game's three corresponding resources. 
+ You'll have to read the manual for that. But, accompanied by some static in-game screens to explain 
+ the interface, the early missions do guide a new player through some of the steps necessary to 
+ grow from these very humble beginnings to become a dominant force in the city.  
+
+  Republic doesn't adopt standard game conventions, so it can take some work to learn the game's 
+ interface and figure out what's involved in playing it. There are two main views: A 3D view of 
+ the large clockwork cities lets you zoom in on any of the buildings, cars, or inhabitants, while 
+ the 2D overhead view makes it easier to schedule and track actions throughout a city. Even though 
+ the 3D close-ups are clearly more visually appealing, the vast majority of the game is actually 
+ played in the overhead view, which provides essential information, such as the support levels each 
+ party enjoys in a given city district, the locations of operatives, and much more.  
+
+  The overhead screen is also the only practical way to use "actions," the selection of abilities 
+ that each faction member possesses. Actions are the very core of the game. Many come with intriguing 
+ or forceful names like "honeytrap," "easy life," "intimidate," "riot," and "crime syndicate," but 
+ the majority feature bread-and-butter political activities like leafleting, organizing rallies, 
+ or instigating passive protests. In later parts of the game, you can have up to six agents simultaneously 
+ engaged in various activities all over a city, and to keep things manageable, executing actions 
+ is a pretty hands-off process. All actions are scheduled ahead of time, in the daily planner interface 
+ that pops up at the bottom of the screen, with each day divided into three time segments (morning, 
+ afternoon, and night) . As long as you have the resources, you can queue up as many actions as you'd 
+ like, but the need to react to the changing political atmosphere can undercut long-range plans. 
+
+  At normal speed, each eight-hour phase lasts about four real-time minutes, so there's plenty of 
+ time to drop into the close-up view and take a look around the city. It's easy enough to jump right 
+ to the locations of your agents -- or even to members of opposing factions that you've identified -- and 
+ watch them execute assigned actions. Most of the time there isn't much to do, and only exceptional 
+ events are animated in an entertaining way. Some actions do provide a slider at the bottom of the 
+ screen that lets you tweak, say, the sort of rhetoric used at a rally. But this option appears 
+ for such a brief time that it's easy to miss if there's anything else going on, and, in any case, 
+ the benefits aren't terribly apparent. Fortunately, if there's not much going on in a given phase, 
+ it's possible to speed the game time up considerably. Sometimes we still wished for an end-turn 
+ button.  
+
+          The 3D scenes are mostly noninteractive, but the conversation game lets you influence the 
+ course of recruiting debates.     
+
+  The one and only critical activity to monitor in 3D is what Elixir calls the "conversation game," 
+ a minigame that plays out like a card-game duel. This duel determines the success or failure of 
+ many recruitment actions as well as a number of story-critical efforts that otherwise involve convincing 
+ someone to help the cause. The point of it all is to reach a certain threshold -- which is determined 
+ by the relative abilities and levels of the political resolve, or loyalty, of dueling characters -- and 
+ there's some basic strategy involved in figuring out how to divide up the points and play them 
+ most effectively. It's not hard to figure out the patterns the computer usually uses, but there's 
+ enough variety to keep things somewhat interesting. But it is too bad that the 3D characters speaking 
+ the game's made-up Russian-like language don't react at all to what's going on in the minigame. 
+
+  For as much challenge as the free-form side of the game can offer, it can take more time to get 
+ through the linear missions than it does to hit upon a winning strategy and gain the support in 
+ most of a city. The story unfolds with a few scripted sequences that act out the president's rise 
+ to power and his despotic acts, and there's a series of newspaper clippings and memos to explain 
+ what's really going on. But the memos from your mentor and lieutenants are not just there for some 
+ context -- mostly they throw up hoops to jump through. As major plot points, some missions sound 
+ pretty cool -- there are jail breaks, raids on rivals, rigged elections, reluctant benefactors, and 
+ plenty more. In practice, however, they just involve using the ordinary range of actions for very 
+ narrowly defined goals. To add some extra challenge, a memo doesn't always quite say what the mission 
+ is about, but fortunately there's a summary screen to spell things out more clearly.     
+
+  A number of missions will have you hunting and clicking around the 3D world for people or clues 
+ that are essential to advancing, but to succeed these missions, you'll have to have a solid grasp 
+ on how the multistep process of such investigation works. Gathering intelligence and spreading 
+ misinformation is one of the game's more interesting concepts, and cutting through the "fog of 
+ war" involves doing investigation actions that increase your general knowledge of a certain area 
+ (this level decays over time to keep investigating agents busy) . With sufficient intelligence, 
+ you'll see exactly where opponent actions are taking place and, very importantly, also be able 
+ to click around for the "dig deeper" bubbles that pop up when there's something extra to investigate. 
+ Getting the dirt can take an extra turn, since you have to have an agent investigating that very 
+ district when you click on the building. The system isn't obvious at first, but it's absolutely 
+ necessary to advance through the game.  
+
+          Gaining a solid grassroots political base means more resources to use for actions.     
+ 
+
+  Ekaterine is just the jumping-off point on the way to the president's mansion, and the later two 
+ cities are considerably larger and more interesting. At each transition, there's the choice of 
+ which lieutenants to leave behind to watch over this power base and send resources along to your 
+ operations in the next city. In the second city, you'll meet more powerful individuals to recruit. 
+ That doesn't mean longtime agents have to be cast aside, since they will also gain levels over 
+ time and earn new abilities related to their character class.  
+
+  The late-game abilities are mostly extensions on the basic actions that cost more to use, but fortunately 
+ many have a wider, even citywide, area of effect, which radically simplifies the process of gaining 
+ support -- if you have the resources. It's also possible to "dig deeper" and find hidden characters 
+ that have particularly rare abilities, like "hit man." As you'd expect, this action puts a contract 
+ on an opposing agent -- but it's surprisingly hard to use. The big hurdle is to know all the target's 
+ actions (perhaps seven or eight for a high-level target) , which means he had to use them in districts 
+ you had under close surveillance.  
+
+  This high threshold is an example of how little permanent violence the game actually has, for all 
+ the vandalism, assault, and blackmail a force-centric character might unleash. Sitting through 
+ the 3D sequences that illustrate such actions, there are plenty of instances where violence is 
+ played for comic effect, but more often the sequences feature blustering threats or menacing talk 
+ (and gibberish at that) . Overall, it's dry stuff, particularly the serious political endeavors, 
+ like having a priest get up on a soapbox to slander an opponent or having a gang stand on street 
+ corners waiting for someone -- anyone, please! -- to walk by and take a leaflet. As rare as it is that 
+ you truly influence 3D events as they unfold, it's even rarer to see characters react usefully 
+ to the success or failure of an event.  
+
+  The visuals can look quite good at any given moment. Buildings are rendered superrealistically 
+ and look equally sharp at a distance and zoomed in, where you might get close enough to see details 
+ like a variety of foods at different street vendors. The cities have a realistic scale, which makes 
+ the Soviet architecture of institutional buildings look all the more imposing. In contrast to all 
+ that detail, people have a caricatured look. But the way they move is what's really off-putting. 
+ At the beginning of a phase with an important conversation, the camera will lock on an odd pathfinding 
+ dance, with characters going out of their way on indirect paths before finally coming together 
+ for a friendly salute. Such events aren't hand-scripted -- you pick the specific location -- and it's 
+ obvious. Other story events display similarly awkward pacing, with drawn-out set-up shots of 20 
+ seconds or more just showing cars rolling up and a few peripheral people getting out. It wouldn't 
+ be quite so tedious except for the fact that the camera is locked for the least entertaining and 
+ least interactive parts of these sequences.  
+
+          Most of the 3D sequences are spoiled by glacial pacing, but there are some good moments 
+ here and there.     
+
+  For as large and complex as the city environments are, the game runs remarkably smooth -- if you 
+ have a good enough system. At the normal game speed, the game was playable on a PC near the minimum 
+ specs -- 512MB of memory and an 800MHz CPU -- but once you speed things up to end turns, the interface 
+ becomes unresponsive. But a PC with lots of memory and a fast CPU (over 2GHz) can keep the power 
+ on in Novistrana, with few performance hesitations. Still, we did encounter a minor technical issue 
+ that had us saving and restarting the game periodically -- and, unfortunately, saving takes quite 
+ a long time. As for the audio, the fake Russian often sounded as if lines from different actors 
+ were edited together, undercutting whatever dramatic interest the dialogue might convey.  
+
+  Republic is the result of lofty technical ambitions and sustained development delays. Unfortunately, 
+ the huge clockwork 3D world that took so long to construct ends up as the least involving part 
+ of the game. The core game, on the other hand, can be at times fascinating in its free-form simulation 
+ of grassroots politics and utterly frustrating with its single-mindedly linear missions. Even if 
+ the interface is a challenge to learn, the 2D presentation is as clear as could be, and gaining 
+ traction in the later cities suitably rewards those with a clear strategy in recruiting key people 
+ with complementary actions and then executing combinations of actions. Those looking for replay 
+ value may appreciate the four difficulty settings, the several branching paths in the mission structure, 
+ and the varying strategies for each of the three ideologies. But what would have been even better 
+ is an open-ended sandbox mode to focus on the political competition and havoc that gives Republic 
+ its best moments.     
+-------------------------------------------------
+:::User Reviews::: (18 Reviews)
+::::::
+UserName: Star_Wars117
+Rating: 5
+Date: Jul 19, 2008 2:27 pm PT
+Review:  Story: Your a Communist politcal activist trying to starts a revolution in your country. Your country 
+ has just got a new corrupt facist president and you try to stop him
+  
+  Missions: Split into days. Bribe people, go to there houses pretty much do anything and everything 
+ you can to get people to join your side and take down the president
+  
+  Controls: No real controls in the game. Just click where you want your friends to go and what you 
+ want them to do. 
+  
+  Features: Great Graphics for its time, New gameplay, intresting story
+  
+  AI: The ai in the game trys to help you as much as it can and its pretty smart. They know when 
+ your cause is bad they know what the president is doing is bad. They know your actions.
+  
+  Graphics: Pretty detailed graphics for its time. Detailed huge citys.. not GTA huge but still sizeable. 
+ Very detailed enviroments.
+  
+  Audio: Voice acting is great even though it is all in Russian.
+  
+  Multiplayer: None
+  
+  
+ Requirements: A little knowledge of politics and how to persuade people.
+  
+  The Good: The sound and the graphics
+  
+  The Bad: Horrible, unintresting gameplay. No real interaction 
+ with people. You send your friends to do it while you just watch.
+  
+  The Ugly: You
+  
+  Replay Ability: None
+  
+  The Bottom Line: A game that should be good with its new and intresting 
+ idea but just fails badly. 
+::::::
+
+::::::
+UserName: MichaelMorbid
+Rating: 3
+Date: Mar 26, 2008 8:26 pm PT
+Review:  we like this game. we do. then we hate it. we hate it so much.
+  
+  it's not a bad game... it's just not polished. we absolutely love the concept. the political strategy 
+ game genre is comprised of a handful of titles and remains relatively unexplored. republic had 
+ some potential that ultimately just wasn't fulfilled.
+  
+  the game play isn't too terrible, just not very fluid. it's an overly tedious process to do relatively 
+ simple tasks. the management system is similar to gangsters: organized crime. as a rising revolutionary, 
+ most of your time is spent scheduled actions in advance and doing the occasional discussion minigame. 
+ beyond that, it's being forced to sit and wait out the entire day as one long cutscene to see if 
+ the scheduled actions were successful.
+  
+  not sure what could have made it more fun. on the one hand, it's a relief that micromanaging has 
+ been scaled back so one can have the distance required in orchestrating a strategy in the bigger 
+ picture. on the other hand, there's just a lot of waiting around for the coin toss decision if 
+ an action failed or succeeded.
+  
+  we love the idea. love the music, for the first few hours. graphics are decent. difficultly is 
+ a little on the steep side exacerbated by the tedious gameplay.
+  
+  haven't beaten the game. played it for hours and hours and hours and hours and hours. one would 
+ think that to achieve a goal after spending that long working on it would be satisfying. one would 
+ be wrong. it's pretty much all guilt and no sex.
+  
+  the game may not be a 3.0... we'll concede that. it's just... it's a dirty dirty tease and we're 
+ the jilted lover left with nothing but broken promises and stale candy. we love the game more than 
+ the game loves us. it's heartbreaking... so yeah... there's probably a spite factor at work. 
+ 
+  
+  it is one of the few games that really disappoints us to the point where we don't want to write 
+ it off as just a failed game, but we continually wish it were better. we've installed and uninstalled 
+ this game a dozen times... it just promises more than it can deliver... which is a crying shame 
+ because with more work a game like republic: the revolution could easily become one of our favorite 
+ games. 
+::::::
+
+::::::
+UserName: bap122385
+Rating: 8.8
+Date: Jun 14, 2007 9:18 pm PT
+Review:  This game takes awhile to learn how to play, but once you get the hang of it, your set. There are 
+ a few bugs playing it on windows vista, but that is to be expected, cause it is designed for previous 
+ versions of windows.
+  
+  Graphics are not top notch, but considering the way the gameplay is it would be hard to put high 
+ graphics with it. Personally I enjoy them, but that is for you to decide.
+  
+  The soundtrack for this game is awsome. The voiceovers are not bad either, this is one aspect where 
+ this game truely shines.
+  
+  If you like strategy games I would recommend you try this game, because even though it has its 
+ flaws, it is a great game.
+  
+  ~Undergrond 
+::::::
+
+::::::
+UserName: hunter_44
+Rating: 7.2
+Date: Jan 20, 2007 1:46 am PT
+Review:  Republic: The Revolution, is in that category of games that you really struggle to put in, well, 
+ a category. It's truly a stand-alone game. First off, this is NOT a game for everyone. If you like 
+ DEEP political strategizing and chess on about 20 different boards, you're going to love this game. 
+ This may be the best political strategy game out there. There's been a lot of complaints about 
+ this game's controls, and i'll tell ya, they're really confusing at first. The missions aren't 
+ exactly straight forward, so you also spend a lot of time dinking around aimlessly. However, I 
+ almost wonder if it was MEANT to be that way. The deeper you go without following the missions, 
+ the more difficult the missions become. That's almost when the real fun begins. Once you get in 
+ a groove with this game, it's an absolute gas, especially if you are a strategy wonk or political 
+ junkie. You need to master local and national level strategies to do well in this game. From beating 
+ your opposition silly with a massive PR campaign, to helping local busniesses that are friendly 
+ to your cause stay open, to creating new members and brokering deals, it's all here. Even the nastiness 
+ of politics are in there with all the fun of knee breaking and bribery. You really need to be able 
+ to think about 20 things at once and even the menial decisions can end up being colossal in the 
+ end. Plan too far in advance or fail to plan for the present, you get caught behind the eight ball 
+ and scrambling to regroup is difficult, if in some situations, impossible. DIstricts change in 
+ their idealogical swings, operatives turn on you, there's a lot all happening at once. It's awesome 
+ in that respect.
+  
+  Those that pick this game as of this review (2007) , won't be blown away in the slightest with the 
+ graphics. They're adequete. The musical score is excellent and adds to the mystique of the game 
+ as well. The lay out and game play are a lot to overcome at first, but once you get used to things, 
+ you do alright for yourself. This game is truly unique and in it's own world. Much like other games 
+ like Killer 7, you really need to pick it up and try it yourself. You'll love it, or you'll hate 
+ it. Plain and simple. If you're a politico like myself, you'll get a stiffy for this one in a hurry. 
+ If not, the learning curve can be quite steep. The value of games like this are immeasureable in 
+ terms of the educational value. You really get an idea of how difficult things can be for the suits! 
+ This is a fun game once you teach yourself how to play and get used to it. Give yourself an hour 
+ or two, and you'll find it hard to put down. Right now, this is going for around $5. You can't 
+ go wrong. 
+::::::
+
+::::::
+UserName: september_basic
+Rating: 6.3
+Date: Dec 26, 2006 10:22 am PT
+Review:  I wish I could honestly give this game a higher score, but honestly I cannot tilt the game further. 
+ It is in essence more valuable than most computer games presently available in subtle ways and 
+ in the way that a book or a good old movie can be valuable. However, given the trash that is available 
+ in the computer game venues, I can only assure you that only a few games stand aside Republic the 
+ Revolution as good examples of game rendition. Warhammer 40000: Chaos Gate, Temple of Elemental 
+ Evil, Alpha Centauri, Civilization 2, Medieval Total War, Rome Total War, Marathon 2, nethack, 
+ Zork 3, Wishbringer for the Apple, The Prisoner, Ultima 4-7 -- these games are well structured 
+ and not all are flawed jewels.
+  
+  Republic the Revolution has what most games do not: an indepth diplomatic model mixed with emotional 
+ impact of harsher forms of intrigue, subterfuge, and covertion.
+  
+  Imagine if the SIms 2 were to focus an entire expansion pack on espionage and grassroots political 
+ manuevering in a clime of economic and military instability, where elections and politics are played 
+ by criminals and ruthless powerbrokers without ethic nor noble exception.
+  
+  Now, while Republic does not have the nicities of Sims 2 (but could well incorporate such interesting 
+ gameplay) , this is a far grittier and more realistic version of revolution in its inceptions and 
+ origins than shooter games can hope to portray.
+  
+  Yes, the game moves with odd sloth and the translations are bad, the muttered dialogue repeatitive 
+ and annoying, I also find computer game battlecries boring after a time. The music is gorgeous 
+ and the graphics can be pretty, but on most computers are bleak and silly.
+  
+  The worth in this game is in the gameplay to be sure, in hopes that it will be refined, but also 
+ in hopes that some of what is demonstrated within this game is uptaken into other games to create 
+ variety and realism.
+  
+  To digress, should some future developer think to combine gameplay found in Republic with gameplay 
+ in a game like Alpha Centauri with life sim such as in The Sims 2 and battle like in FPS, they'd 
+ have the makings of a wonderful MMORPG -- but sadly, the MMORPG offerings only skim the surface 
+ of this sort of depth, and those that have attempted anything near such an amalgam are still in 
+ juvenile stages of considering the latrine as fascinating because people keep walking inside it 
+ (hence Everquest style MMO still rule) .
+  
+  I can think of several game genre that would benefit from diplomatic models, be they harsh or civil 
+ (both even) , and with this in mind reconsider the use of really beautiful ideas that aren't executed 
+ quite so wel.
+  
+  A pity Elixir went under -- they were a good company. 
+::::::
+
+::::::
+UserName: djnet
+Rating: 5.5
+Date: Feb 1, 2006 12:43 pm PT
+Review:  The core game is quite free-form and consists of winning grassroots support, gaining political 
+ capital, and undermining opposing factions, but there's no getting around having to do missions 
+ to advance the story and, eventually, decide the fate of Novistrana. A new game kicks off with 
+ a questionnaire to determine your character's base stats and political leanings and then drops 
+ you in the small provincial city of Ekaterine, where your budding faction has some clout in a single 
+ district. There isn't a dedicated tutorial section to explain basic concepts like how the district 
+ colors (red, blue, and yellow) match up with their political leanings (force, influence, and wealth) 
+ or how gaining control over these districts earns you the game's three corresponding resources. 
+ You'll have to read the manual for that. But, accompanied by some static in-game screens to explain 
+ the interface, the early missions do guide a new player through some of the steps necessary to 
+ grow from these very humble beginnings to become a dominant force in the city. 
+  
+  Republic doesn't adopt standard game conventions, so it can take some work to learn the game's 
+ interface and figure out what's involved in playing it. There are two main views: A 3D view of 
+ the large clockwork cities lets you zoom in on any of the buildings, cars, or inhabitants, while 
+ the 2D overhead view makes it easier to schedule and track actions throughout a city. Even though 
+ the 3D close-ups are clearly more visually appealing, the vast majority of the game is actually 
+ played in the overhead view, which provides essential information, such as the support levels each 
+ party enjoys in a given city district, the locations of operatives, and much more.
+  
+::::::
+
+::::::
+UserName: psp-rules1992
+Rating: 5.5
+Date: Jan 3, 2006 6:12 am PT
+Review:  After the collapse of the soviet union the state of novistrana is thrown into dissaray. you play 
+ a young man trying to gain enough support to rule novistrana.
+  This game acctually takes alot of brains it is based on politics, taking differant parts of the 
+ city and bringing powerful people into your faction to help overthrow the presidant and rule novistrana.
+ 
+  It is very hard to get used to as there is no tutorial and they speak in russian, with no subtitles, so 
+ you dont know whats going on really. The game is acctually very hard and the missions are a bit 
+ boring, i didant even bother finishing this game. some people might like this game but i didant.
+ 
+  The only good point is that the graphics are great.. its just a shame the rest of the game lets 
+ them down.
+  Luckily i bought this game in the sales..... some people were'nt so lucky.. need i say any more. 
+ 
+::::::
+
+::::::
+UserName: dbrownick
+Rating: 8.2
+Date: Dec 31, 2005 7:12 pm PT
+Review:  This game was made for the more intelligent class, so if you are used to shot kill gore explosion 
+ fast paced strategy games, of course, don't buy this game. This game take critical thinking, patience, 
+ and time. Yes this game has flaws and troubles, but this game is meant for 16+ or for teens into 
+ to the whole politics and Russian Communist thing. People **** and mone because it's to hard, and 
+ true, there should have been a tutorial, a better tutorial, but the price of this game now (12/31/05) 
+ is incredible, $4.99 New and $3.99 used, incredible. Try this game and you will learn. 
+::::::
+
+::::::
+UserName: cidhighwind100
+Rating: 5.9
+Date: Dec 20, 2005 12:27 pm PT
+Review:  It takes an extemely long time to get accustomed to Republic the Revolution and even when you do 
+ the gameplay isn't that rewarding. 
+  
+  The graphics are ok and some of the landscapes are quite impressive but it doesn't make up for 
+ the linear and somewhat dreary missions that ensue. The cutscenes are quite nicely done, but the 
+ camera angle really gets on your nerves and is fiddly to work with. The conversation idea was a 
+ good one, but wait a minute...... to make sure it's realistic thy've got them speaking in Russian, 
+ supposedly, which simply doesn't work and it can be confusing to know what to do next if your a 
+ beginner to the game. 
+  
+  So basically it's a total waste of time playing this game as it takes so long to get anywhere, 
+ and when you get there it's a dissapointing result - sigh, it spent so long in production as well.......................
+ 
+  
+  At least they tried something original, but it didn't pay off and I am seriously dissapointed in 
+ something that could have been memorable - this will be forgotten, or at least I hope so, because 
+ it's not something I want to remember. 
+::::::
+
+::::::
+UserName: mankvill
+Rating: 8.3
+Date: Dec 17, 2005 1:41 pm PT
+Review:  Republic: The Revolution is a sim where you, a revengeful man who's parents were taken away from 
+ him by the secret police when he was young, try to rise through the ranks to eventually overthrow 
+ the leader of Novastrana, a fictional country that was created after the falling of the USSR. 
+ 
+  
+  This is a real-time sim where you start out with just yourself, but you can recruit members into 
+ your faction. The gist of the game is to up your faction's popularity in different districts of 
+ the current city by spreading your propaganda. Basically, you issue a command to one of your party 
+ members, and they spend a turn doing that. Some actions gain influence, some decrease other faction's 
+ influence, and there are even some special actions, such as roughing up a specific person to make 
+ them shut their yaps, or even go so far as killing them.
+  
+  What Republic lacks, though, is a training mode of some sort, or intruductory sequence. I spent 
+ a couple of days not even knowing what to do, but once you figure it out, this game is great. 
+::::::
+
+::::::
+UserName: Everclearules
+Rating: 6.8
+Date: Mar 1, 2005 1:39 am PT
+Review:  In Republic: The Revolution, you are trying to start a revolution (surprised?) with politics. Sadly, 
+ this degenerates into a waiting game (and a long one at that) which really tests your patience. 
+ 
+  
+  The graphics are great for a strategy game. Cars drive around, people are walking everywhere; all 
+ in 3D of course. The camera will give you different angles to check out what's going on in your 
+ city. Unfortunantly, this game really has no NEED for graphics. Very few times will you ever need 
+ to look at your city, since most of the time you'll be giving orders on an overview map. You can 
+ see how your citizens feel, or just watch your characters performing their given tasks, certain 
+ debates between characters can be seen as well; that consists of maybe 5% of the whole game, meaning 
+ you need a decent computer just for 5% of the game. 
+  
+  The sound/music itself is nice, but the use of it is quite boring. The music is somewhat depressing 
+ and hopeless, which shows you what the people are feeling at the time. However, the music, as with 
+ the game itself, drags on and on, and doesn't give you any excitement at all. The sound affects 
+ would be great if they sounded at the right time. Many times you'll hear a wonderful sound effect 
+ and think to yourself, "What the hell?" since nothing happens for about 5 or 10 seconds to give 
+ you an idea about what the effect was for. 
+  
+  I almost enjoyed the gameplay, but it just drags on and on for too long. Basically, you're struggling 
+ to get as many citizens to your party as possible to complete missions, etc... In order to do this, 
+ you can deploy your followers (anywhere from 0-5 + yourself, making at most 6 in all) on various 
+ missions to raise your support, lower another parties support, raise one of your follower's morale 
+ (called Resolve) , or lowering an opposing character's Resolve. Eventually you'll gain enough support 
+ to complete a mission, and then you must gather up enough support to finish another mission. 
+ 
+  
+  That roughly consists of 90% of the gameplay, the rest is having your character meet people and 
+ attempt to gain their favor (either to complete a mission or to have them join as a follower) . 
+ In order to do this, you must succesfully 'debate' them, which is basically just a dice game. At 
+ the beginning of the 'debate' you assign 4 cards a certain number based on how many points you 
+ have. Once that's finished, you and your opposer use your cards to win points untill one of you 
+ gets whatever your number is to win. To win points, the card you play must be higher than your 
+ opponents card. In case of a tie, the points are given to the defender (a. k. a. not you) . Most of 
+ the time this is just luck, since your opposer rarely has the same cards. 
+  
+  The game is turn based, but you only have a certain amount of time before the turn ends (about 
+ a minute) . Each of your followers can do one action during a turn, which must be ordered BEFORE 
+ that turn. You can give orders for all of the next turns (which can be deleted if something happens) 
+ if you know you're going to be busy that turn (debating) . Unfortunantly, this results in numerous 
+ moments where you'll be waiting a minute or so for the turn to end, often times at the beginning 
+ of the game. Other times you'll be pressed for time since you had other things to do, and 6 people 
+ to order around. It would have been much better if you could order when to end your turn, and there 
+ might have been, I just never figured it out. 
+  
+  The manual and the tutorial do little to show you how the game works, so be ready to be confused 
+ and annoyed for the first 30 or so minutes of the game. Many times throughout the game you'll be 
+ told 'look at this screen' to which you'll wonder 'where IS this screen?', which of course the 
+ game won't tell you. The manual is poorly labled which will result in you having to look through 
+ just about all the pages to find out what you want. 
+  
+  This game could very well be fun if it was designed in a better way. Unfortunantly, in its current 
+ state, you must have alot of patience and a like for games that feel like boardgames. If you do 
+ not like that sort of stuff, or don't know if you do, I'd recommend for you to skip this game since 
+ more than likely you'll just be dissapointed. 
+::::::
+
+::::::
+UserName: Hobtar
+Rating: 3.5
+Date: Oct 28, 2004 7:09 am PT
+Review:  This game was one of the biggest dissappointments for me ever. I had read many glowing previews 
+ on the game and had overly high exectations, so I was expecting great game. When I got the game 
+ however I found the game to be dull and unexciting.
+  
+  I will first go through the good points which I found very few of. The graphics are very good and 
+ are used well when they are used. Thats all I can say about the game in the way of things I liked. 
+ Now on to what I did not like.
+  
+  My first problem with the game is the lack good documentation on how to play the game, it can be 
+ a pain and half to figure out whats going on at times. Next I hated how indirectly you controled 
+ things, such as I wanted to actually play out the parts where I was supposed to hand out flyers 
+ to increase my support. Also the language the people was like listening to a bunch of gibberish.
+ 
+  
+  In all I think this was a bad game for me, but I believe that a few other people that are not like 
+ me would enjoy it.
+  
+  
+  
+::::::
+
+::::::
+UserName: thore33
+Rating: 7.6
+Date: Sep 8, 2003 7:59 pm PT
+Review:  After playing the game for a few days, I'm torn. On the one hand, I'm addicted. I spend hours playing... 
+ the graphics are great, and the game is somehow very addicting. On the other hand, I am finding 
+ that I am growing tired of its meticulousness very fast. The learning curve is very steep, and 
+ does require several restarts to fully get the hang of the game. 
+  
+  One portion that is interesting is the conversation mode, which at first seems relatively hard, 
+ but then becomes almost easy because the computer follows an obvious routine in allocating points. 
+ 
+  
+  I do feel this game could have been a lot better, and I'm not quite sure if it's money I feel well 
+ spent. 
+::::::
+
+::::::
+UserName: Chrisart
+Rating: 8.9
+Date: Sep 7, 2003 8:01 am PT
+Review:  I booted up Republic and found it very interesting, I usually like alot of different gametypes 
+ and this is one of them. Im very picky about the games I play and there are some factors in Republic 
+ that get pretty frustrating. Sometimes missions are very vauge on explaining what to do leaving 
+ you there for hours with the turnout of turning the game of because you dont really know what to 
+ do.
+  
+  Graphics of the game are really nice considering the high polycount and the massive ammount of 
+ detail in each man/woman of novistrana. Overall if you get used to the layout and have the time 
+ on your hands to use you brain alot. Then this game is definitly the computerized boardgame you 
+ should be playing. 
+::::::
+
+::::::
+UserName: dlight
+Rating: 5.5
+Date: Sep 3, 2003 11:38 am PT
+Review:  While I haven't played this game a lot, in fact it seems that Elixir wanted to make the game completely 
+ hard to use and understand, I don't like it so much. The interface is clunky, there is no interactive 
+ tutorial, the manual information has no real semblance of order. In all, this game bites! I can't 
+ believe I wasted money on the game that was supposed to be "cutting edge." Mayube if this game 
+ were released last year and had they not focused on the graphic engine, which is rarely used, and 
+ focused on sound, interaface, tutorial levels, and better polish it might have been a MUCH better 
+ game. 
+::::::
+
+::::::
+UserName: debrislide
+Rating: 8
+Date: Sep 2, 2003 9:23 pm PT
+Review:  These is not my normal arena. I'm a tried and true action fan but I'm always eager and excited 
+ about a game that open's up and exposes new territory in my favorite passtime. Republic does this. 
+ I'm not sure how i feel about it though. I saw the screen shot's on gamespot. I thought this was 
+ a third person strategy game. WRONG ( i should have read the fine print) . this is a strategy game 
+ through and through. Not like an rts where you feel really involved with the action. I mean don't 
+ get me wrong you are in control. But in control, in a let's figure this out in the ba****t while 
+ we pour over this map of the city sort of way. You are let out of the ba****t (not really a ba****t) 
+ to see things unfold. The interactivity is just too minimal. but maybe i don't understand this 
+ game. It is quite addictive though. Which I'm sure appeals to the time wasting gamer in me. I say 
+ give it a try. Why not. I did, I will, I will do your bidding. I love games. They mess with my head 
+ in the best way. If this review doesn't make any sense or help you I'm sorry blame it on republic. 
+ 
+::::::
+
+::::::
+UserName: magogian
+Rating: 8.3
+Date: Sep 2, 2003 3:29 pm PT
+Review:  Very interesting game. I have not beaten it yet, but I have gotten pretty far. First off, the graphics 
+ are pretty decent. Nice game engine; however, it was not used as fully as it could have been. The 
+ sounds are fun, I especially like how the characters speak in a Russian gibberish. They arent speaking 
+ a real language, but it sounds like a Russian derivative. 
+  
+  Gameplay is good overall. It takes a while to get a hang off, but when you do, you'll love it. 
+ The game has a very steep learning curve. It will take a few starts to get a hang of it. However, 
+ this game is not for everyone. It requires thinking in a manner that most gamers are probably not 
+ used to. Also, my one main gripe is that many actions tend to get repetitive towards the middle 
+ and end of the game. It still is fun; however, it can seem to drag on. 
+  
+  In the end, I would recommend this to serious gamers and those interested in playing out their 
+ own political thriller. Good game, I hope other developers give this relatively new genre a try. 
+ 
+::::::
+
+::::::
+UserName: jswallow
+Rating: 8.7
+Date: Aug 30, 2003 7:26 am PT
+Review:  I've managed to lose track of time completely playing Republic. Totally absorbing game which immerses 
+ you in the land of Novistrana. Plus points are the fantastic accompanying music, graphical details 
+ and the infinite combinations of characters and their actions daily (I've restarted three times 
+ while learning and the AI has been different every time) . Minus points are the very steep learning 
+ curve (the tutorial is useless, reading the manual is a must) and I've encountered one complete 
+ lockup and some dodgy mouse behaviour plus it does seem to take a while to load and save. On balance 
+ though, an excellence purchase - my favourite so far this year. 
+::::::
+
+-------------------------------------------------

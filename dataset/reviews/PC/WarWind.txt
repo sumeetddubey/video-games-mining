@@ -1,0 +1,113 @@
+-------------------------------------------------
+:::Game Name::: War Wind
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/warwind/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Dec  4, 1996
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.8
+Critic Score: 7.8, 3 Review (s)
+User Score: 8.2, 68 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: SSI
+Developer: DreamForge
+Genre: Strategy
+Date:     Sep 30, 1996
+
+-------------------------------------------------
+:::Review:::
+It's a very strong contender for strategy game of the year. 
+
+ Death, doom, and destruction - presented to you in real time. Another typical night of CNN? Think 
+ again. The culprit responsible for bringing this entertainment experience to your PC is War Wind. 
+ SSI has released a real-time, multiplayer strategy game in the style of Warcraft II and Command 
+ &amp; Conquer. War Wind adopts the best elements of these, and adds some fascinating new features 
+ of its own. It's magic, it's mayhem, and it's murder - even against your friends, if you like. 
+ Who could ask for more?  
+
+ War Wind is simply breathtaking to behold. A native Windows 95 application, it takes advantage of 
+ DirectX to provide reasonably fast cinematics and gameplay. Your installation choices can take 
+ from 5MB to 80MB of hard drive space, though the minimum leads to very long pauses during the game 
+ (usually in the middle of combat!) . Once you are up and running, you get to watch an animated introduction 
+ reminiscent of Command &amp; Conquer. After this, the regular game screens you encounter are simply 
+ stunning at 640x480 resolution.   
+
+ Once you've chosen one of four alien races to play, you can choose between a campaign mode (seven 
+ missions) or an existing scenario (one of three different missions) . A good read-through of the 
+ manual is important before jumping into the campaigns. Each race has different advantages and disadvantages 
+ that make your race selection somewhat difficult as well. The interface is mouse-driven, and many 
+ options for unit selection are like those in a previously mentioned game. Since combat occurs so 
+ rapidly, you should learn some of the Hot Keys in order to survive. Your job is to complete the 
+ mission goals - no matter what. In case you forget, the Options screen lets you review what you're 
+ supposed to be doing.  
+
+ Your basic job is to mine resources (sound familiar?) while avoiding being overrun by your opponent. 
+ Several nice touches are the presence of neutral and hostile wildlife, the ability to train and 
+ upgrade your units, and the Fog of War that closes down on areas as you leave them. Your computer 
+ opponents will seem to have two modes: PATROL and KILL. If you succeed in a mission, you can select 
+ some of your people - er, creatures - and place them in the Hall of Heroes, which will allow you 
+ to carry them forward in future missions. If you get bored with your campaign, you can use the 
+ Scenario Editor to create your own single- or multiplayer missions.  
+
+ War Wind is outstanding, but I do have a few quibbles with it. Combat is frequently hand-to-hand, 
+ and the view makes it difficult to see what's actually occurring. The Walk Through/Quick Start 
+ is not much of a walk-through (hint: look at the readme. txt file before starting a campaign) . The 
+ campaigns could also be longer. Otherwise, it's a very strong contender for strategy game of the 
+ year.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: Gelugon_baat
+Rating: 7.5
+Date: Feb 3, 2009 10:03 pm PT
+Review:  I know it has been more than a decade since this game came out, but I had longed to track down 
+ a copy and complete this game ever since I lost track of it a decade ago.
+  
+  Playing it again, I realize the reason for my attraction to it a decade ago; this game is entirely 
+ different from the many Warcraft II and C&C (Tiberium Dawn) clones around the time that I played 
+ it. Granted, training and obtaining the more powerful units was infuriating, and spamming attempts 
+ with just one type of unit was frustrating and fruitless endeavors (which caused me to drop this 
+ game and chuck it to my now incommunicado friend - the fool that I was) .
+  
+  I realize that DreamForge was one of the first few developers to actually think of of some sort 
+ of unit experience mechanics and some RPG elements for an RTS game, as well as some semblance of 
+ squad-based infantry units.
+  
+  Of course, all these ideas were unfortunately botched up with rather poor implementation. The unit 
+ experience was relegated to some unit promotion crap that uses resources, the RPG element in the 
+ form of unit level-to-level transfer is only restricted to the regulars and group-based movement 
+ is a total mess.
+  
+  Another particular flaw that has to be mentioned is the rather convoluted tech tree. All four factions 
+ practically obtain the same vehicles, yet their different methods of obtaining them are bewildering, 
+ to say the least.
+  
+  Perhaps, the more interesting and noteworthy ideas are the influence (or prestige) feature, which 
+ is earned (& lost) in battle, and is probably the forefather of Battle Realms' odd yin-and-yang 
+ thing. However, the developers realized that getting influence through battle is a double-edged 
+ sword and included a pointless resource-spending feature to bolster influence.
+  
+  War Wind's story is also surprisingly mature for RTS games of that time. Sadly, it was damaged 
+ by rather odd design decisions, such as the videos that were narrated by a character with an obviously 
+ alien language, yet by default have no subtitles displayed.
+  
+  Nevertheless, SSI, the game publisher that brought us gems like Warhammer 40K: Chaos Gate and Epic: 
+ Final Liberation (and suckers like Rites of War) , was the first publisher to recognize the value 
+ of games that are not run-of-the-mill - too bad the average so-called gamer is too dumb to consider 
+ having some diversity, and should be credited for that.
+  
+  SSI is understandably no more, but SSI always had in mind the goal to make RTS games serious affairs, 
+ unlike its many "peers" of that time who were out to milk the RTS genre. In any case, it seems 
+ that their goal has permeated to many other present-day publishers and developers, most notably 
+ Relic, and this is well indeed. 
+::::::
+
+-------------------------------------------------

@@ -1,0 +1,2798 @@
+-------------------------------------------------
+:::Game Name::: Sacred
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/sacred/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Apr  6, 2004
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.6
+Critic Score: 7.6, 42 Review (s)
+User Score: 8.1, 2,422 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Encore Software, Inc.
+Developer: Ascaron Ent. GmbH
+Genre: Action Role-Playing
+Date:     Mar 25, 2004 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Sacred is a great-looking, generally solid action RPG that provides a few interesting gameplay innovations. 
+ 
+
+  Sacred is a great-looking, generally solid action role-playing game that provides a few interesting 
+ gameplay innovations. It features an open-ended gaming world to explore, decent cooperative and 
+ competitive multiplayer options, and a good mix of goal-oriented questing and fast-paced battles. 
+ But its combat system is also somewhat finicky and unrewarding, which is a significant problem 
+ for what's fundamentally a hack-and-slash RPG.  
+
+          No cow level, but Sacred's detailed world features a good selection of ambient wildlife. 
+     
+
+  It would be artificial to describe Sacred without at least a cursory comparison to the Diablo games, 
+ since Sacred was clearly heavily inspired by that series. As in the Diablo games, each of the six 
+ character types in Sacred has a predetermined gender and a distinct selection of skills you can 
+ choose to develop. Most foes only take a few mouse clicks to dispatch, but you'll encounter hundreds 
+ of enemies, including types that will spawn more of their kin if you don't take them out. The monsters 
+ are all classic fantasy stereotypes, such as undead, dragons, and ogres; you can use the Alt key 
+ to highlight and quickly locate the seemingly endless bounties of loot they hoard. There's a huge 
+ variety of magical items, including sets of related items to collect, upgradable socketed items, 
+ and class-specific artifacts. You'll maintain a chest "stash" in towns, where you can store some 
+ of your accumulated swag, and you can hook up with companions who will provide some temporary assistance, 
+ though you don't directly control them. You can replay the storyline at progressively difficult 
+ skill levels. Those features make Sacred sound very similar to Diablo II, and in many ways it is, 
+ but Sacred also has its share of innovations.  
+
+  The most notable improvement Sacred offers over other hack-and-slash RPGs is its huge, open-ended 
+ gameworld. While other action RPGs funnel you through their settings in a linear fashion, Sacred 
+ offers largely free-form exploration. Settings are largely noninteractive, but meticulously detailed, 
+ and environments are well varied and consistently interesting to explore. Sacred's graphics are 
+ a definite strength, and they're significantly better than Diablo II's aged visuals, although they're 
+ not quite as good as Dungeon Siege's. Graphical resolution is locked at 1024x768, but Sacred lets 
+ you seamlessly zoom in the camera perspective for a more intimate look at the action. While similar 
+ features in other games have been of dubious utility, Sacred's variable perspective works exceptionally 
+ well, letting you both view your predicament from a strategic, distant vantage point and then conveniently 
+ adjust to a more rewarding ringside view of the battles. The auto-mapping function nicely complements 
+ the open-ended gaming world design by granting you a thorough overview of the areas you've explored. 
+ Sacred's interface includes convenient features, such as a circle around your character that graphically 
+ reveals current hit points, so you don't have to take your eyes off the action to steal glances 
+ at readouts further from the action.  
+
+          You're given some significant inventory space to store your plunder, and a handy hotkey 
+ automatically plucks available loot.     
+
+  Several of Sacred's other distinctive features are interesting, but they aren't entirely successful 
+ at improving gameplay. You can buy a horse to speed travel and garner an additional defensive bonus 
+ in combat, but it's difficult to effectively engage opponents from horseback, and characters (with 
+ the notable exception of the wood elf) lose access to several of their best character skills when 
+ riding. A couple of the character types are particularly novel (the vampiress and angelic seraphim) , 
+ but there is a considerable overlap of special attack skills among characters. Characters have 
+ basic attributes, skills, and special attacks/spells. Increases to attributes are largely automatically 
+ determined by character type, although you're given the nominal choice to increase one attribute 
+ stat by a single point each experience level.     
+
+  Skills are passive traits that grant characters additional proficiency in certain actions such 
+ as horse riding. The skills are universally available to all characters; however, when they initially 
+ become available is determined by character type. Instead of being allocated points to acquire 
+ new special attacks or spells when you advance character levels, you bump up those abilities through 
+ finding related icons as treasure drops or by trading in groups of other characters' icons. Improving 
+ special attacks will make them more powerful, but the improvements are largely statistical rather 
+ than visceral, and you won't be able to use upgraded abilities as frequently unless you also allocate 
+ points to related skills. Special attacks and spells aren't organized in skill trees with prerequisites, 
+ and you are never prevented from increasing those abilities, but that flexibility tends to just 
+ make characters less distinctive and ironically makes the game less replayable.  
+
+          While you control a single character, you can accumulate quite an entourage of companions 
+ while solving quests.     
+
+  Instead of allowing you to immediately hotkey your different special attacks/spells, Sacred effectively 
+ restricts the number of available hotkeys based upon your character's level. Initially, you'll 
+ be able to hotkey only a single special attack, although that number will eventually increase to 
+ five. You can also hotkey a similar number of weapons to equip. In addition, you can group special 
+ attacks into combinations, which sounds intriguing, but in practice there's little reason to do 
+ more than combine multiple incidences of your best attack. There are no fewer than five different, 
+ unstackable potion types, but the more original potions (there's one that keeps the undead you 
+ kill in the ground, for instance) tend to annoyingly clutter up your character's inventory more 
+ than they enhance gameplay. In order to ensure Sacred received a Teen ESRB rating, North American 
+ purchasers have been provided with a version of the game that strips out the gore and graphical 
+ violence that's a feature of the European version of the game. While that may not be a meaningful 
+ deletion to some purchasers, it certainly would have been preferable to provide gamers with at 
+ least the option of playing the game as the developers originally intended.  
+
+  More importantly, Sacred's combat system frequently feels finicky, and if you don't micromanage 
+ your character's individual attacks it's too easy for your character to either fail to line up 
+ an attack (particularly on horseback) or to stop attacking altogether. The game doesn't effectively 
+ convey a consistent sense that your character is hitting something, which is both dissatisfying 
+ and occasionally frustrating. It's a significant annoyance, as your character is constantly fighting 
+ and it's difficult to advance even short distances without becoming embroiled in battles with dozens 
+ of opponents. Gameplay is never as addictive or rewarding as it should be, since combat is the 
+ game's primary focus and it frequently becomes more of a tedious chore than a thrilling, fast-paced 
+ experience.  
+
+          The bigger enemy types look great and are formidable.     
+
+  Sacred has a comprehensive suite of multiplayer options, including an Internet-hosting service 
+ similar to Blizzard's Battle. net. You can team up with up to three other players to fight the game's 
+ main campaign, or you can fight in up to 16-player hack-and-slash duels. Perhaps because players 
+ are wary of the cheats that plagued Diablo II, it's difficult to find many open games at Encore's 
+ servers. Multiplayer Sacred is lacking some polish in general, as lag occurs too frequently and 
+ there isn't a decent trading interface. Sacred has a few minor bugs, such as broken subquests and 
+ placeholder dialogue text, but bugs tend to pop up more frequently in multiplayer games.  
+
+  In comparison to some of its hack-and-slash RPG peers, Sacred is in some ways definitely a deeper 
+ RPG than Dungeon Siege or Diablo, since it's less linear and quests are more frequent and varied, 
+ but its gameplay isn't as polished as in those games. Sacred is a welcome addition to the genre 
+ that distinguishes itself by incorporating a few novel gameplay tweaks. However, the game's success 
+ is ultimately limited by an unrewarding character development system and by combat that is too 
+ frequently tedious rather than engaging.     
+-------------------------------------------------
+:::User Reviews::: (75 Reviews)
+::::::
+UserName: Lovely_beauty
+Rating: 8
+Date: Mar 8, 2009 5:24 am PT
+Review:  Before Sacred, Role Playing genre had developed into two separate branches: Action and Traditional 
+ RPG, so-called. Paragons of the first type including Diablo, Dungeon Siege and Divine Divinity 
+ emphasized on combat/action over character development, therefore contrasting games which have 
+ complicated skill, attribute sets and class systems like Neverwinter Nights. Although overall Sacred 
+ did not surpass these monuments, it did contributes some new features to the genre.
+  
+  Sacred brings us to the realm of Ancaria, a fantasy world full of wonders. Once day Ancaria's peace 
+ is endangered by Shaddar, an evil and ambitious wizard when he summons Sakkara, an offspring of 
+ the Demon King Worganar from the realm of darkness. Unfortunately, the rite is interrupted by one 
+ Shaddar's servants and the demon escapes from his control. Ancaria, of course, falls into misery 
+ until the Advent of a Messiah.
+  
+  If you expect something revolutionary in this game, you should be disappointed, for Sacred still 
+ follows the regulation that earlier Action Role Playing have formed. The developers' effort is 
+ mostly spent on renewing features at detail level of game play, hence, players can not see it at 
+ once. As a result, you still start the game with a familiar procedure: creating a character which 
+ falls into one of six classes (Gladiator, Battlemage, Dark Elf, Wood Elf, Seraphim, Vampiress) 
+ with different skills and talents. One thing to notice is that this part has been considerably 
+ simplified so that it should take only one or two minutes (a striking difference from Dungeon and 
+ Dragon RPG which overwhelm its players with cumbersome class and skill systems) . Afterwards, you 
+ go straight to fighting, which actually means clicking as much as possible without any concern 
+ for complicated rules governing the game, for this type of RPG usually dismisses these rules from 
+ its game play. Unfortunately, it is here that several annoying flaws defect the quality of combat 
+ in Sacred. For example, your character's AI is so low that it usually stands still taking damage 
+ when you stop clicking; on the other hand, while there is an obstacle on the path to the target, 
+ it usually fails to find another way and gets stuck.
+  
+  For an action focused game like this, prolonged dialogues do not usually appear because their role 
+ is instead undertaken by the drag and drop feature, which allows players to get what they want 
+ as quick as possible. However, item upgrading often plays an important role. Good execution of 
+ this will make the game much more interesting. Sacred offers a plessant surprise here when players 
+ can upgrade their equipments by talking to certain smiths while rune stones are used to unlock 
+ different combat arts. One character can only use the runes of its own class, leading to the need 
+ for exchanging runes throughout the game. Furthermore, spending time collecting runes of the same 
+ class can be rewarding since you can later combine them to unlock special attacks called "Combo". 
+ Nevertheless, it is really sad that these Combos only look great but prove somewhat useless in 
+ battle. Your enemies are usually stay out of the radius of the combo you are using and once you 
+ finish it, they will come to finish you! Because you already spend all your mana on your performance, 
+ the only way to survive is running away. Therefore, my advice is to use runes separately rather 
+ than combine them.
+  
+  As for the control system, though Sacred bears striking resemblance to Diablo, it still has something 
+ of its own. The control panels consists of two areas: the left part for weapons and right part 
+ for magic and specialities. Each part contains a number of slots you can assign your favoured abilities 
+ to. The interesting point is that this number will increase up to five when your character progresses 
+ in levels and thereby allows more talents to be used at once. At high difficulty setting, you will 
+ certainly feel a great satisfaction whenever gaining a new slot, since it opens up more alternatives 
+ in combat and raise your chance to survive.
+  
+  Another strong point of Sacred is the huge world it builds up. Instead of restricting you to certain 
+ areas and gradually opening up new ones after you fulfill some quests, the game allow free travel 
+ throughout over 70% of its realm. Only 30% left is quest-restricted. Not only wide, Ancaria also 
+ contains 16 small regions each with its own terrain, climate and
+  bestiary, from boundless deserted waste land to frozen snow snow-caps... However, a large portion 
+ of the scenery is covered with the green of forests and meadows. Though all background scenes are 
+ designed in 2D, they are still beautiful and show carefully taken care in details. Contrary to 
+ the background, character models are all in 3D. Camera in game allows adjusting view angle rather 
+ freely as well as zoom in and out in its perspective, hereby makes it convenient for players to 
+ enjoy every detail of their character model, from costumes, facial features to muscles and lissome 
+ movements.
+  
+  There are several other small, intriguing features differentiating Sacred from previous Action 
+ RPG. The most remarkable is travelling part. In addition to teleporter scheme like in Diablo, the 
+ game allows you to obtain horses to ride on. On horse back, the time spent on travelling will reduce 
+ considerably. Your horse can also fight the enemies though not very effectively since they are 
+ easy to die. Hence, it is wiser to keep them away when you are engaged in battles. It is not simple 
+ to travel by horse. Not only money to buy one is required, but you also need proficient riding skills 
+ (more than level 2) . Besides, you can tame a wild horse for yourself. Supporting NPCs is another 
+ thing Sacred implements in its own way. Players can provide them with some equipments but it is 
+ not possible to buy a escort. Certain NPCs only appear during a quest and leave you afterwards, 
+ and not all of them can fight, so you become a baby-sitter sometimes.
+  
+  Though it can be compared to Diablo and Dungeon Siege in terms of originality, Sacred is a solid 
+ Action Role Playing which offers some worthy innovation in detail level of game play. 
+::::::
+
+::::::
+UserName: SacredKing
+Rating: 6.5
+Date: Dec 21, 2008 9:49 am PT
+Review:  At the beginning of the game you choose from 6 classes; Gladiator, Dark elf, Seraphim, wood elf, 
+ battle mage and vampire. They all have their own unique set of skills and weapons. There are lots 
+ of quests involving hunting down beasts or just looking for lost people. The Combat is pretty basic 
+ as you only do one type of attack unless using skills. As you venture through the world you level 
+ up spending points on strength, vitality etc. After a while it all looks familiar and gets a bit 
+ boring, but if you can find it for around 5 its worth the price. Also as you struggle to get to 
+ the next level it all seems pointless when you get there because the monsters all become too weak 
+ and the weapons and armour become ridiculously expensive like 500,000g for a full suit (bare in 
+ mind you get about 40g per kill) . Overall good game play, mediocre graphics but its a good way 
+ to kill time on a Saturday afternoon. 
+::::::
+
+::::::
+UserName: haegint
+Rating: 7
+Date: Dec 4, 2008 3:28 am PT
+Review:  I got it for free on a DVD in a game magazine. I enjoyed it for good for a few weeks but it got 
+ too repetitive quickly. I did not finish the campaign, only played through about 75% of it. The 
+ game world is actually really big, you can do a lot of exploring, even though the game is essentially 
+ linear in progression. The main campaign is very long. The game is rather easy (playing on normal 
+ setting) . With all the gadgets and weapons etc you find, you will not have much trouble winning 
+ your battles after a short while. One or two battles were more difficult, but you won't be reloading 
+ often. Eventually I just got tired of running around and killing all these creatures and drowning 
+ in their dropped stuff. You can collect and find nice items and build awesome weapons. The inventory 
+ is a bit messy and relatively small, so you need to make decisions on what to take along and what 
+ not. The graphics and effects I found fairly good considering their rather old age. Controls are 
+ good, no problems there. I quite liked the game for a while but just got bored eventually. It's 
+ good for casual gaming in between, you can play it in short spurts and you need not think a lot. 
+ Just hack and slay. The hardest decisions are how to level-up and what weapons and armor to build. 
+ So I'd say it's all solid but a bit one-dimensional. 
+::::::
+
+::::::
+UserName: FM_Kilgore
+Rating: 5
+Date: Oct 18, 2008 9:34 am PT
+Review:  The gamespot reviewer nailed it; the major problem with this game is that combat is just too tedious 
+ and isn't very satisfying.
+  
+  Combat feels slow, and you really don't feel like a hero. One problem is that mobs scale with the 
+ player so you never get that feeling of being powerful. Mob scaling is just really bad idea game 
+ design, it just makes the game feel really bland.
+  
+  Game control really could use some work. Plus there are line of sight issues where you can't see 
+ some doors and at time lose complete view of your character.
+  
+  Itemization isn't very exciting. Good items are extremely rare and hard to get. Which would be 
+ more bearable if there was the ability to buy and sell via a permanent player auction.
+  
+  There is no ability in multiplayer to start your own game. 
+  
+  One nice feature is the shared 
+ stash, which is a game feature that should be standard in all these types of games.
+  
+  Overall the game lacks rewards and combat just isn't fun.
+  
+  This game is no Diablo. 
+::::::
+
+::::::
+UserName: xDeadP00lx
+Rating: 7.5
+Date: Oct 17, 2008 2:26 am PT
+Review:  First of all, people need to get off Diablo's ass. Seriously. That was 4 years ago to the release 
+ date of Sacred. Some of you have a hard time separating yourself from old games. It's like asking 
+ what was better, your 3rd car, or your 1st car? 1st car is nostalgic, memorable, no matter how 
+ ugly it looked. Your 3rd car was newer, better, faster, but still kind of boring after a while.
+ 
+  
+  That sums up Sacred compared to Diablo. The learning curve doesn't take long to learn for the game, 
+ but the story drags to a halt after about 15 minutes of game play. I didn't even know what I was 
+ doing or who I was helping 20 minutes into the game; just running around completing pointless side 
+ quests.
+  
+  Like other people have stated the NPCs lack any personality, and you could care less whether you 
+ want to help them or not. Despite NWN's flaws, I felt at least emotional attachments or interest 
+ in the plots of the NPCs when I played it. It just had that special feel. It's devoid in Sacred.
+ 
+  
+  While the graphics are pretty good and the sound FX are great for the monsters and enemies, it's 
+ fairly linear and traveling across the game world is just incredibly tedious. Go 10 minutes to 
+ the right, 15 minutes down, 10 back up, 5 to the right. It becomes mind blowing after a while.
+ 
+  
+  The loot system is fun, but your inventory fills up QUICK. While people complain about the 5 slots 
+ for weapons, I thought it was cool because your equipped weapons in those 5 weapon slots DID NOT 
+ take up inventory space as well (a la every other RPG) . However you never get backpacks or other 
+ items/containers to store loot, so the whole game you're killing enemies and selling. W.. T... F?? 
+ Why have every enemy drop 50 items so you're full after 3 minutes? This should be called "RPG merchant".
+ 
+  
+  All in all, the combat is cool, the spells are nicely animated, and the weapons and armor switch-out 
+ is really detailed and beautiful. It seems the game was well thought out and animated, but never 
+ fully came to fruition.
+  
+  The monsters respawn in crazy record numbers, but unlike other people's reviews, the monsters are 
+ super easy after about level 18 for me. The only enemies who gave me a challenge at all were the 
+ giant dragons. It makes it hard to go from point A to B, which is already tedious, through never 
+ ending groups of monsters. Horse control is horrible, mounting/dismounting is buggy and annoying. 
+ Takes 10 minutes to get off and on. No key binds.
+  
+  All in all, this is a cool game, but defintely has its limitations. Pick it up and play, have some 
+ fun, but don't expect an epic classic or too much from this game. 
+::::::
+
+::::::
+UserName: Azghouls
+Rating: 7.5
+Date: Aug 20, 2008 10:45 pm PT
+Review:  Gameplay: 6
+  Graphics: 8
+  Sounds: 6
+  Value: 10
+  Tilt: 8
+  Actual score: 7.6
+  
+  1996 was a fantastic genre breaking year. On one hand you have Quake that revolutionised FPS as 
+ we see it today, Tomb Raider placing smooth action/adventure in 3D with the leading star a female 
+ protagonist and Diablo which brought in real-time RPG. Naturally with these successes arrives clones 
+ and these clones are still being used today. For any game to overcome this clone 
+ attribute needs to be unique enough to stand out in the crowd so in 2004, the German developer 
+ Ascaron Entertainment released the action based RPG named Sacred and within itself have some revolutionary 
+ aspects however overall still an orc-stomping, undead smashing and easy to pick up RPG.
+  
+  With any good RPG needs a good story as there will be many hours of traveling with your alter-ego 
+ throughout the lands of where they hailed from. In Sacred I feel that the storyline is a bit weak 
+ as the intro explains that Shaddar a necromancer and due to his many mishaps of trying to take 
+ control of Ancaria (the continent which Sacred takes place) got a little desperate and decided 
+ to summon a great Sakkara demon, yet all goes off beam as the protective pentagram wasnt 
+ set-up correctly. Well, like all demons I presume, get ticked off and decided to go on a rampage. 
+ Well, guess what your task is
+  
+  To start things off, Sacred has six characters to choose from however sadly these characters are 
+ static meaning you cannot choose the sex or even the looks of the character. However all is not 
+ lost as these characters will display a good blend of different styles of game play; that said 
+ the heroes-in-waiting are the Gladiator (male fighter) , Dark Elf (male poison using warrior) , Wood 
+ Elf (female archer) , Battle Mage (magic plus weapons  a nice combo to oppose that dreaded 
+ stereotypical mage) , the ever so popular Seraphim (similar to a female paladin with very revealing 
+ attire) and my character of choice the Vampiress (a female knight that can turn into a vampire 
+ with minimal penalties) . Logically these different arch-types will process different skills and 
+ combo arts (combining up to four different spells and/or maneuvers into one massive swipe) therefore 
+ considering the static character creation approach there are still many options to 
+ make things interesting.
+  
+  Another good approach to avoid this static creation is that all starting characters 
+ will have a different beginning quest and location. Even though all characters locations are in 
+ close proximity to each other, this makes the opening sequence individually tailored (e. g. my Vampiress 
+ started out in a haunted mansion whilst the other character I have played, the Gladiator started 
+ in an arena, some five minutes real time running distance away) . Yet once completed the first couple 
+ of quests it eventually merges into the single main quest. Speaking of which, you can play the 
+ game three ways: completing the main quest, completing the side quests (which can take time as 
+ I recall there are over 300) or do both (which I have done) all with three levels of difficulty 
+ being bronze, silver and gold therefore wander your heart away. There are two additional difficulties 
+ being the Platinum and Niobium levels however these needs to be unlocked by completing the previous 
+ level difficulty. Yet dont expect the quests will fall on your lap as exploration is the 
+ key with plenty of easter eggs (e. g. I saw Tristram (the town that Diablo is based on) and a Pac 
+ Man cave to name a few) . 
+  
+  Speaking of which, the continent of Ancaria is hugely detailed in every aspect of the word. All 
+ beautifully presented and logically placed (as in river flows from the mountains, deserts next 
+ to shrub lands, forests locations, towns and so forth) the attention to detail is by far the best 
+ I have seen in a very long time. This also extends to villages, towns and cities as some buildings 
+ are multistory high, impressive castle structures, fortifications and so forth (as a sidenote my 
+ favourite being Icecreek Pass and the Volcanic Planes) . Take note that all of these structures 
+ are in a well designed 2D format yet the characters and beasts are in 3D and you can zoom in three 
+ times to get close to the action. Also considering the vastness of Ancaria, Ascaron had made this 
+ simple to map via the auto-map feature and quest markers throughout by a simple click of the button.
+ 
+  
+  The developers Ascaron also made some changes to make this game a memorable experience and not 
+ just another clone. The first being the combo arts where each character possess different skills 
+ yet can combined up to four (by an approved magi) to complete one devastating blow, yet the more 
+ powerful the art the longer it takes to regenerate (yet there are stats that can assist in speeding 
+ up the process) . Another one actually stems from Diablo II is the concept of imbedding items to 
+ weapons and armour to make them more potent and lastly the notion of horseback combat. Sadly though 
+ this idea is good yet its really too cumbersome especially when collecting loot (that involves 
+ getting off the horse, collect it then hop back on  all this takes approximately three seconds 
+  now times that by killing literality ten thousand foesyou get the idea) .
+  
+  With all of these features naturally there will be problems yet Im surprised for the amount 
+ of things that can go wrong and looking at the big picture there are not so many bugs to be too 
+ concerned about. I will however discuss the more problematic ones. The first being the collision 
+ detection; on the surface it looks like you can free roam Ancaria however all is still based on 
+ an invisible hexangular grid therefore where you think you can swipe or move to a certain location 
+ youll get this pause treatment where the PC is calculating what the do next 
+ (not a biggie however can cause serious issues when encountering a boss battle like a dragon or 
+ entering a dungeon) . The next is the concept of spawning enemies where you think you cleared out 
+ a bunch of critters, in no time they are back in full vengeance. Yet to avoid all of this is to 
+ slaughter the nominated amount displayed for that region but the issue here is that humans have 
+ only seventy plus years of living time. I have cleared just one of the smaller ones and it took 
+ me an entire day (as any saving will reset the counter again) and not going to worry about clearing 
+ out the other eight plus regions.
+  
+  The sounds for Sacred are a mixed bag. Musically the tracks are professionally composed and well 
+ suited for any given situation yet considering the majority of the tracks are quite short in length 
+ and trampling through Ancaria involves plenty of fighting, expect more combat tunes 
+ than exploration ones therefore it can be quite annoying. On the other hand and this 
+ one is a major no-no is that any good RPGs needs a good story therefore voice acting is a must. 
+ Unfortunately for Sacred its a joke as it seems that the developers used their own staff 
+ to complete this (and they should be sticking to what they do best  programming) .
+  
+  In Ancaria there are literally plethoras of things to do and tinker around. As mentioned before 
+ about the free roaming, side and main quests and collecting goodies will determine the time taken 
+ to complete this monstrous game. The recommended hours are around sixty however for me Ive 
+ clocked just shy at one hundred and ten hours. Mind you I have discovered the majority of the land, 
+ side quests and naturally completed the main one but just because you finish the single player 
+ there is still the multiplayer aspect where you can play either co-op (up to four players) , hack 
+ and slash (up to sixteen players wreck havoc anywhere in Ancaria) and Player Vs Player and of course 
+ you can play the game at a higher level (which gives the player better experience and equipment) 
+ and dont worry, the online community is still strong.
+  
+  Therefore on the surface, Sacred may look like a Diablo clone however there are some aspects that 
+ makes Sacred a world on its own. The concepts of horse combat (buggy but its still there) , 
+ free roaming, beautiful scenarios, a great blend of land and dungeon combat and the simplicity 
+ of the interface certainly enriches the game play. However because of the story and voice acting 
+ is on the weak side, Sacred is really for the person who simply like plenty of action  and 
+ action is what this game is all about. 
+::::::
+
+::::::
+UserName: owl_of_minerva
+Rating: 6
+Date: Aug 21, 2008 8:02 am PT
+Review:  Sacred can only be considered a disappointment. In the not-so-proud tradition of action RPGs ripping 
+ off Diablo, Sacred comes close to being a very good game but never quite makes it. 
+  For one thing, despite having such a massive gameworld, the world in Sacred is terribly uninteresting. 
+ Morrowind had more variety, and even that only trotted out the same cities and dungeons time and 
+ again. At least it had guilds with proper quests. Sacred has moronic side-quests that go no deeper 
+ than fetching items, rescuing moronic NPCs, or attempting to herd NPC cattle back to town even 
+ though though they throw themselves at well-armed enemies like lemmings, which is deeply frustrating. 
+ The only sign of novelty in the game whatever was this weird town where the villagers lured you 
+ to a 'feast' before turning into flesh-eating zombies [edit: Azgouls has aptly pointed out that 
+ this town is a reference to Diablo. Consider the game as containing no original content whatsoever. 
+ You have been warned.] .
+  The gameplay itself is fairly enjoyable if you don't mind mowing down thousands of enemies. I liked 
+ how there were quite a few characters to choose from with significantly different skills and play 
+ styles. Similarly to Titan Quest, you have combat skills you put points in and developing the perfect 
+ mage/warrior can be amusing. But killing hordes of respawning enemies can be a real pain. Especially 
+ when you're trying to pathfind in this beast of a game: it's ridiculous how slowly the "percentage 
+ of world explored" goes up. One point of novelty was the sheer amount of statistics concerning 
+ your play experience. If you like numbers, Sacred gives them to you.
+  However, one of the crippling flaws is that the story is beyond token to the point of vacuity. 
+ It's a good thing the gameworld is massive because the main storyline is 5-10 hours at best. A 
+ necromancer has done some nasty stuff and, oh yay, you get to make amends for that idiot's mistake. 
+ This contributes to the aimlessness of the game. What is worse is that a lack of story highlights 
+ the unoriginality and repetition inherent in the gameplay. 
+  Numerous minor niggles are also frustrating. The game has stability problems, which leads to slowdown 
+ during battles. Controlling the character with the mouse is difficult to the extent that getting 
+ up stairs is a nightmare. The game itself is virtually un-navigable. Despite being large, there 
+ is usually only one correct path to get to where you want to go.
+  If you're in desperate need of an action RPG, Sacred is ok but on the basis of its numerous flaws 
+ I can't recommend it. I really despise the moral bankruptcy of the action RPG genre with its emphasis 
+ on the accumulation of goods and the 'farming' of enemies - what a waste of time. That said, fans 
+ of the genre will probably find something to like here. If you're not sold on the concept of action 
+ RPGs I would play Diablo instead. 
+::::::
+
+::::::
+UserName: ronsplace68
+Rating: 8
+Date: Jul 24, 2008 3:31 pm PT
+Review:  I happened to be burning out with Hellgate London and finished Mass Effect (a game that was way 
+ toooooo shoort, not to mention the price) and wanted a change. I saw this game in my collection 
+ and decided to give it a second try. I liked the game before but now have a Quad Core and a decent 
+ video card. I had a great time. I still thought riding the horse was a problem as you are limited 
+ in your choices of skills you can use. I was a Dark Elf and liked all the mean things he said but 
+ still helped people on side quests. The graphics were fair to good and the game kept me interested. 
+ After playing newer games with better graphics and tools to play the games, I still had a good 
+ time with the quests and characters along the way. It may be dated in many ways compared to games 
+ like Mass Effect and the Witcher but if you like RPG games, it is still fun to play. 
+::::::
+
+::::::
+UserName: hsedai
+Rating: 10
+Date: Jul 23, 2008 9:00 am PT
+Review:  The inevitable comparison to Diablo continues to this day. So I recommend you go ahead and get 
+ all the Diablo out of your system first. Then you can install this game and truly appreciate the 
+ game. 
+  
+  This was my first game really fighting a tremendous huge dragon in desert and being surrounded 
+ by dangerous blue dragons while running around trees. 
+  
+  Somehow, they pulled me out of the dungeon mentality and opened up the world. I could ride on horseback 
+ and do some romping on the spectacular maps. Notice the screenshots and see the difference now. 
+ The graphics are stunning and the music is adequate. 
+  
+  The gameplay is quick and intuitive while the loot system is okay. 
+  
+  I would certainly recommend 
+ this game for any fan of the action RPG genre. If you want to sound like you know what you're talking 
+ about when you mention Diablo, then play this one too. You won't be sorry. 
+::::::
+
+::::::
+UserName: newsygal
+Rating: 10
+Date: Jul 2, 2008 8:04 am PT
+Review:  An RPG fan from way back, I love games that let you explore, monsters that are a challenge and 
+ finding cool items in chests. This game provides all of that and much more. The world of Sacred 
+ is absolutely huge and exploring it at different difficulty levels with different characters makes 
+ the replay value of this game very high. The game also fits anyone's RPG style - hurry through 
+ completeling only the main quests or taking hours and hours to explore every nook and cranny picking 
+ up tons of loot. The game is fairly easy to learn (the in game tutorial is excellent) but mastering 
+ your character will take time and patience. I'm currently playing as the Wood Elf on bronze but 
+ may import her to silver at about level 25 and start with the Battle Mage or Gladiator again on 
+ bronze. It will be interesting working with different equipment. I only wish that equipment you 
+ cannot use would not be dropped. It's annoying and it will fill your inventory very quickly. With 
+ top-notch graphics, fairly non-linear gameplay and tons of quests, I highly recommend this game. 
+ 
+::::::
+
+::::::
+UserName: Lord_Mataeus
+Rating: 9
+Date: Jun 4, 2008 5:38 am PT
+Review:  Well, I haven't written a review on Gamespot before but as every review I've read on Sacred is 
+ written with unintelligent, broken English I thought I'd up the ante a little :)
+  
+  First thing: You can now buy this game for budget price as 'Sacred Gold'. This includes the 'Plus' 
+ pack (extra missions and areas) and the 'Underworld' expansion - a whole new plot to follow which 
+ concludes the original story. So if you ARE going to buy it, go and and get 'Sacred Gold' for the 
+ full experience. Brand new it's about ten quid. Anyway, onto the game it's self...
+  
+  I was disappointed to read Gamespot's review, especially the part about the combat being unrewarding 
+ - on the contrary, I believe Sacred's combat is very rewarding indeed, especially if you are using 
+ ranged weaponry: You never run out of arrows this being an action RPG (just like in Baldur's Gate: 
+ Dark Alliance II in fact) and I find little more satisfying in the game than sneaking up on a group 
+ of Goblins and unleashing my burning arrows upon them, each one hitting it's target with a satisfying 
+ 'Thwump'. It's very easy to fight, you simply hold your mouse button down over a character. If 
+ you have 'follow' mode on your character will continue to attack the enemy over which you originally 
+ held your button down on, so you don't have to trace the enemies around the screen you can be lining 
+ up for the next one. Blood and Gore abound when you kill enemies, critical hits causing them to 
+ explode and some kills leave the body on the ground spurting blood in the air like there's no tomorrow. 
+ On the whole I find this extremely satisfying!
+  
+  The levelling system is excellent too. The cap is set to a whopping level 250, but I think the 
+ most anyone's ever gotten to (judging by the on line leaderboards) is about 217. At first you level 
+ up thick and fast, I got to level 5 in about and hour. In combat, a cool little feature is that 
+ every time you strike an opponent the hit point damage you've done floats up above their head for 
+ a second so you can judge how well the fight is going. Also, when you kill things the experience 
+ points you get do the same thing. Quests and subquests reward you with much experience too, and 
+ then there are Oblivion-style freeform quests - in other words, there are random magical items 
+ and secret weapons and very strong opponents that you will occasionally happen across by accident 
+ with no quest script associated with them - just cool secrets that you can spend hours and hours 
+ looking for yourself.
+  
+  Making money is ridiculously easy in this game too, although some items cost tens of thousand of 
+ gold pieces so it's no hardship ;) . Nearly every creature you kill will leave some kind of weapon 
+ behind, with great names such as 'Short Bow of Oblivion' or 'Helm of Cinders'. Because of the limitations 
+ of your character (different characters can only use certain armour that's designed for their race) 
+ you are never short of things to sell, as the game will still throw items at you that you cannot 
+ use at all.
+  
+  Wandering the wonderfully looking countryside (with all manner of environments from open planes 
+ to snow covered plateaus) and finding loads of stuff to kill and freeform quests to happen upon 
+ is a great experience. And the best part of this? You can play the entire game, quests and all, 
+ on line with a mate. Oh yes indeedy. The monsters are levelled up per the number of players you 
+ have going so as to keep things well balanced, and characters are saved straight to the server 
+ so there's no need to worry about overwriting your single player game, the two are kept entirely 
+ separate.
+  
+  All in all, Sacred has great graphics, great and intuitive gameplay, lots and lots to do, it's 
+ all co-op if you want it to be, the only let down is the sound... Sparse music and too-quiet amateur 
+ sounding voice-overs (inspired by the Monty Python films by the sounds of them) let it down somewhat, 
+ but the atmosphere isn't spoiled too much... As you'll see when you obliterate an army of Orcs, 
+ with a Halberd of Flames, in a forest ,as the fog rolls in, blood everywhere, your character scream 
+ 'Vae Victis!' (or something similar at least. Sorry about that, Kane :D )
+  
+  
+::::::
+
+::::::
+UserName: Kragspire
+Rating: 3.5
+Date: May 25, 2008 9:10 am PT
+Review:  Sacred is a mixed bag. Some things make it stand out in the sea of Diablo clones, while others 
+ leave you with a sick taste. The game focuses on action/rpg gameplay while trying to present a 
+ massive world to explore. The problem is that most of this world is just the same thing with a 
+ lack of interaction. Along with a boring story, the game contains plenty of side quests which have 
+ no impact on the world. The big kicker is the lack of much needed key bindings, which make the 
+ UI horrid to say the least.
+  
+  If you just couldn't get enough of Diablo 2's gameplay, then you can expect more of it in Sacred. 
+ The game sends endless spawns of creatures at you, some reused too often and replaced with higher 
+ levels. After you clear a section of land, the game will respawn this area rather quickly which 
+ makes gameplay long and drawn out. Often times you will need to backtrack previous visited areas 
+ to partake in a quest, forcing you to kill off the area again. This is a great way to level your 
+ character, but after you become too strong for the area, monsters will still snare and force you 
+ to kill them. 
+  
+  The world in Sacred is massive and could take you days to explore. The problem is that most of 
+ the world is not worth exploring, as you will tend to see the same pattern of monsters and a limited 
+ amount of objects to open for loot. For a game that tries to steer clear of linear gameplay, it 
+ fails as you find yourself doing the same things all too often. The main storyline drags out and 
+ is hardly worth noting, as it draws on your typical fantasy fiction clichs. There is only so many 
+ times that one can save the kingdom from a power hungry villain before it all becomes stale.
+  
+  One of Sacred's major drawbacks is the lack of customizable key bindings. You are forced to 
+ use the numeric keys 1-0, which leads to frustration. The switching of weapons from 1-4 is fine, 
+ but when you constantly have to go from AQEWR to 7-0 to invoke skills, it becomes a hassle. Allowing 
+ the option to customize keys is by no means an old concept, and makes Sacred feel that much more 
+ like a failure.
+  
+  My best advice is to stay clear of Sacred. It starts out with a lot of promise, but quickly leads 
+ to a mess of repetition and poor gameplay. Diablo 2 is number one for a reason, and no matter how 
+ many times a rival company tries to come up with something better, it just makes the original more 
+ and more of a legacy. 
+::::::
+
+::::::
+UserName: guzganu2006
+Rating: 7
+Date: May 18, 2008 6:30 am PT
+Review:  First off, Sacred is not a bad game, but some of its aspects make it require a lot of patience 
+ and that lowers the rating greatly. It builds on the lines that Diablo 2 and perhaps Divine Divinity 
+ left off. It has some improvements, but even with these, it's still a diamond in the rough. When 
+ I remember Diablo 2, the first thing that comes to mind is the inability to properly save. This 
+ particular aspect ruined much of the Diablo experience for me and it was great to see it fixed 
+ here. However, along with this, I half-expected that the frustrating respawning of monsters would 
+ have also been elliminated. Sure, it gives you a chance to level up faster, but knowing that you've 
+ cleared a whole forest of orcs and goblins for example on the way to the big orc boss makes you 
+ feel safe about the journey home. Wrong, th path that you've just cleared just fills up after a 
+ short while, usually the time it takes to kill the so-called "boss". At least in Diablo you could 
+ just run flat out to the exit of an empty cave or to the safety of a city. It's good to see that 
+ riding a horse to increase speed was implemented; even so, the fact that it's harder to kill when 
+ mounted makes the riding almost absent as you'd have to dismount every time the ever-present critters 
+ jump you in large number if only to avoid getting the horse killed. I don't argue about the spatious 
+ inventory, and quick-clean of drops, but I do argue about the short life-span you can sometimes 
+ have if you're not carefull. On the whole, Sacred is worth playing, but without getting your hopes 
+ too high. It's a nice pass-time activity. 
+::::::
+
+::::::
+UserName: biggamefreak
+Rating: 10
+Date: Apr 7, 2008 11:56 am PT
+Review:  boy what a game when i first laid eyes on it i new this game will rock and it sure did everyone 
+ talks about how this is a daiblo clone but it is not it is better trust me this is the game you 
+ will like i just cant wait for sacred 2 and 3 and all the others damn i cant stop playing this 
+ game will someone help lol the way the world was made is cool and it is huge you can never search 
+ every corner of the map because it is the most large and combat system is good graphics great much 
+ better than diablos and i dont know just about everything in this game is perfect and trust me 
+ if you have not baught it yet you simply have to if you dont like it just try it and you will be 
+ sucked in its world and its charecters you have a variety of choices wich you can choose from gladiator 
+ to battle-mage you will have many skills to choose from a lot of weapons to try and many many quests 
+ to acomplish 
+::::::
+
+::::::
+UserName: dozzpot
+Rating: 6.5
+Date: Dec 10, 2007 4:38 am PT
+Review:  This game is not bad. I have had it installed on my PC for about a year but for whatever reason 
+ I only played a few days the first time and have just come back to it now. Last week I had a look 
+ at Nevewinter Nights 1 but found it very dull and overly complicated so I took it off after a few 
+ hours. Maybe I did not give it enough of a chance but anyway, I did not like the D&D rules being 
+ implemented via a computer generated dice roll for every hit and counter-hit taken in a battle. 
+ This shows as a display at the bottom of the screen; I know you can switch it off but anyway, what's 
+ that about?
+  Also the graphics were appalling, I know its an old game but I thought I would try 1 not 2 as it 
+ is supposed to be a 'classic' and has had years to have the bugs ironed out through patches. Graphics 
+ aren't everything but they were pretty poor and this brings me to my first point: so what about 
+ 3D graphics? Sacred is 2D and like other games such as the Divinity ones it looks fantastic for 
+ it; a real work of art. Rotating the camera is not always needed when a game looks this good. I 
+ could do that in NWN but the sacrifice was characters that looked like a geometry problem.
+  On the same subject, Titan Quest looked incredible as a 3D game but in that the game play involved 
+ a linear run through a valley so that got dull very quickly and I gave up half way through.
+  I had better say something about Sacred I guess. Buy this game if you want an easy to run , easy 
+ to learn RPG without all the nonsense. The characters are diverse and you can customise as you 
+ play anyway. It also offers some new ones (e. g. the Seraphim babe) and this gave you horse riding 
+ before Two Worlds was even thought of. Another good bit is that you get runes that you add to your 
+ special abilities but to keep it simple you can also use them to mod equipment and weapons. You 
+ can also use rings and amulets to mod them as well, all of which keeps it simple and keeps it fun.
+ 
+  The combo moves are also good, I am just making sense of them this time around and have learnt 
+ a move sequence that can dispatch enemies very effectively.
+  My only gripe is that the manual is not very good, which may be why I dropped the game the first 
+ time but now I am getting the hang of it a lot more.
+  Worth buying.
+  
+  UPDATE:
+  Okay, after playing for a few days I realised why I didn't complete it the first time: It is rather 
+ dull after a while. Playing as the Seraphim I discovered the Rotating Blades of Light spell can 
+ be used to pretty much kill everything you run into so there is no real combat any more. Also the 
+ much publicised idea of starting in bronze difficulty then moving up to silver when you get to 
+ level 30 or so is all very well but you should realise you have to start the game over when you 
+ export the character like that so that's pointless and add to the dullness. I therefore knock it 
+ down from 8.0 to 6.5. It's still very pretty, massive and a free-roamer so if you like Diablo there 
+ is not much to complain about (I didn't by the way, so now I am complaining...) . 
+::::::
+
+::::::
+UserName: Shatter28
+Rating: 6.5
+Date: Nov 8, 2007 3:27 pm PT
+Review:  Sacred, I haven't finished the game, and I doubt I will.... There are certainly some things to 
+ like about Sacred; it's got decent to good looking graphics, fairly good voice acting, but above 
+ all it's boring and repetitive. It's clear Sacred was professionally made, but it's bland through 
+ and through. When you start off, it's hardly clear why it is that you feel the need to be a hero, 
+ something about a loose demon... so what, that's a dime a dozen in a game where there are more 
+ magic items then normal ones, no? The game doesn't begin to try to pull you into the story. You're 
+ just sent criss-crossing the map simply so that you will encounter the different enemies that populate 
+ different regions. And guess what, turn around and voila, new cannon fodder.
+  
+  Just about every weapon and item in the game is cramped with magical properties, so much so that 
+ their descriptions fill a substantial amount of the screen. It's tedious to even look through the 
+ endless stream of loot and decide what is worth a damn. Numbers also go through the roof in this 
+ game before you know it, 3 or 4 digit statistics all over the place.
+  
+  As a battle mage I was very frustrated with the inability to access all the spells easily; the 
+ only way to cast spells is to use the slots in the interface, you start off with 1 and it looks 
+ like there are 5 at max. Firing off the most appropriate spell when you need it is therefore impossible, 
+ you are forced to stick with a handful of the most generally usable spells. You can't remap the 
+ keys and using the spell hotkeys 6-0 while holding Ctrl to prevent your mage from charging into 
+ battle, and using the right mouse button to fire spells, requires three hands, which is impossible 
+ for normal human beings.
+  
+  Once you get a little into the story and before you bore of the game it's certainly addictive, 
+ so if you just can't get enough of the same routine this may be just the game for you. 
+::::::
+
+::::::
+UserName: Old_Gooseberry
+Rating: 6.5
+Date: Oct 1, 2007 7:26 am PT
+Review:  I had some time to kill this last while so I finally got to playing this. This game is very easily 
+ comparable to Divine Divinity in its look and gameplay. Specifically the 2d backgrounds, which 
+ were mixed with simple 3d characters... actually they were mixed well and difficult to tell apart 
+ to their credit. I probably would rate divinity divinity a slight bit higher than this game... 
+ however both are very boring.
+  
+  I didn't really like the 2d backgrounds much, they chugged along far too much when running around 
+ making it painful to see. Its too bad the game ran at such a low resolution, I think it would have 
+ helped a lot more having it run at least twice as high.
+  
+  Gameplay is frustrating and lacking. Some good things, mostly not. You are constantly frozen for 
+ a second or two when trying to run to the next enemy, and a lot of enemies have cheap attacks that 
+ freeze you and force you to kill them. The combat is just boring and not fun... and theres nothing 
+ but endless enemies to fight which makes it worse. The quests aren't all that much fun either. 
+ All the characters you help are pretty nameless and as are the towns you visit. Instead of flooding 
+ the world with nameless NPCS, they could have tried to give each one a real personality.
+  
+  I wish they had made places to make keybindings for your attacks, you had to click on the very 
+ few they had.
+  
+  This game at times feels great, but when you are seeing the next mission after mission of backtracking 
+ all over the place and trying to get around the maze they have created in the linear map, its too 
+ much.
+  
+  I have a lot of confidence the sequel will beat this game and really be worth playing. Hopefully 
+ the world itself will be filled with more interesting things and easy to explore... since in this 
+ game its pretty boring and pointless to explore much of it. 
+::::::
+
+::::::
+UserName: Xaremathras
+Rating: 9.5
+Date: Sep 13, 2007 11:30 am PT
+Review:  Sacred is a great game, very similar to Diablo II. If these 2 games were combined it would be a 
+ masterpiece. Diablo II has easy combat, which makes people happy. Sacred has great optional quests 
+ and horses that you can ride. In fact, Sacred has the greatest quests in these types of games that 
+ I've ever seen. Diablo II has good optional quests too, but they are only about 2 per world. Sacred 
+ has at least 5 quests per village, and there are a lot of villages. Also, Sacred has a HUGE world 
+ to explore and conquer, with tons of monsters and items, while Diablo II only has limited small 
+ maps. Also, in Sacred, you can easily switch between spells and weapons in a mere keystroke, making 
+ it very comfortable to fight. But there is usually a long delay between attacks, so it'll take 
+ about 30 seconds to kill a monster at your level, unlike in Diablo II, it's about 5 seconds per 
+ monster. In Sacred though, you have abilities and spells which you can quickly switch trough, and 
+ kill about 10 monsters and heal yourself twice in about 20 seconds, therefore making spells and 
+ abilities more valuable than weapon combat, unlike in Diablo II, where a sorceress can easily kill 
+ a Darkling in 3 hits. Diablo II is a very fast-paced game, where overnight you can beat half of 
+ it if you are skilled, but in Sacred you can take as long as you want. The only bad thing about 
+ Sacred is the storyline. Every character starts differently and the beginning for most is interesting, 
+ but then as the story clashes and becomes the same for all classes, it is mainly Go talk to some 
+ guy on the east side of the world, after you talk to him, Go talk to some guy on the south side 
+ of the world, then Talk to the guy at the north of the world. Once again, it is an exceptionally 
+ big world in Sacred, so it takes a long time to talk to everyone, but this is only the first of 
+ 4 chapters, where the rest get a lot more interesting. Maybe Ascaron (the company that made this 
+ game) wanted you to first explore the world before really playing. Another problem that I had was 
+ with glitches. There were very many of them. Some were horse and mount/unmount glitches. It was 
+ very irritating, for example, you were in combat, about to be killed, so you wanted to retreat. 
+ You clicked on your horse, or on the mount icon, and you just couldn't get on your horse, and you 
+ got killed, which was very disencouraging. Also, if you owned a horse already, and then mounted 
+ a weaker horse (yes, the horses do vary) and got off, you couldn't get back on your stronger horse, 
+ unless the weaker horse gets killed. Another problem was if you equipped your horse with a saddle 
+ and sell it, the saddle stays on the horse, and you can't keep it. These glitches may have been 
+ fixed, since I haven't updated at all, and I'm still at version 1.0. The game gives you a mischievous 
+ feel to it, and it feels good. Also when you play it you can tell that the makers worked really 
+ hard on it. The graphics are a bit better than average, and the sound is great, other than the 
+ music, which is average. The gameplay is the best I've ever seen in these kind of games. I happily 
+ recommend Sacred to everyone. 
+::::::
+
+::::::
+UserName: ninjagaijin10k
+Rating: 5.7
+Date: May 28, 2007 5:53 pm PT
+Review:  This game had a lot of promise for me. I love large expansive worlds, and was really looking forward 
+ to a large scale open-ended Diablo clone. It's got some interesting ideas like horses. The character 
+ classes are fresh and interesting. The problem is that it is a beast to control. The game is buggy, 
+ and the controls are FRUSTRATING. This was the least responsive control system I think I've every 
+ played. The mechanics were ok, it just didn't FEEL right.
+  
+  You click on a monster to execute your special attack and.... nothing.... nothing happens, so you 
+ click again... and again.... finally after a few of these, it executes. Even when they do, it's 
+ like there is this delay between it starting, and it actually happening. JUMP ATTACK!!
+  
+  Pause....
+  
+  Prep.... Pointless animation....
+  
+  FINALLY it executes!!
+  
+  I really 
+ don't understand why they couldn't implement a more fluid control scheme. The interface is a pain 
+ too. You can't customize controls. You have to earn slots to assign power to hotkeys. But even 
+ this is lame. You eventually get five slots for weapons, and five for powers. WHY do I need five 
+ different weapons ready to go? I NEVER had enough room for my powers.
+  
+  Dumb.
+  
+  In the end what did me in WAS the huge world, even though I was looking forward to it. It's enormous. 
+ Looking at this huge map after hours of gameplay and realizing how little I've covered is scary. 
+ This is especially considering the careful pace you have to take with all the enemies that respawn 
+ WAY too fast, infrequent potion drops, and the previously mentioned interface killing you faster 
+ than the monsters, and you have a frustrating combination.
+  
+  This game could be good. It need to be FIXED, but what is there could be interesting if it didn't 
+ drive you crazy. 
+::::::
+
+::::::
+UserName: Homes225
+Rating: 6.9
+Date: Apr 11, 2007 9:09 pm PT
+Review:  Compared to most Diablo-Clones Sacred is a nice addition. But in the grand scheme of things it 
+ falls more into the category with the others rather than being better than the rest.
+  
+  Sacred starts you off with a choice of six characters. Each has there own abilities such as magic, 
+ fighting, etc. The character you pick affects your whole game by limiting the types of skills you 
+ can level up later on. If you choose a warrior don't expect to do so well in the archery tree, 
+ this is pretty obvious.
+  
+  The combat in Sacred is very easy to pick up and learn. All that you need to do is click on the 
+ enemy you want to attack and hold or repeatedly click. This happy for every single enemy in the 
+ game. While this may be simple it is amazingly tedious and annoying, so much that I had to take 
+ many breaks from playing just to let my hand rest. So the combat is pretty mindless and it all 
+ depends on your skills and feats.
+  
+  There are numerous quests in Sacred. Each has its own back story but after the 5th Go get this 
+ or Kill this person you will be wanting new types of quests. If you complete a quest you get items 
+ and experience. Though the reward items are nice you could just as easily kill an enemy for it 
+ seeing as the drops are plentiful.
+  
+  Sacred's graphics are nothing to brag about. I know the game was made in 2004 but I mean come on, 
+ Ascaron could have used a little better looking graphics engine. The environment is pretty detailed 
+ but still falls to the bad looking 2d graphics.
+  
+  Sacred is a fairly long game but throughout the experience I only want to end the game. The quests 
+ may keep you happy for a while but after a few hours of mindless clicking and drops it gets boring. 
+ Sacred may be your type of game if you like lots of clicking and good RPG elements. If not I would 
+ recommend you play something more worth while. Pros+ Lots of Quests, Drops, Character Skills
+  
+  Cons- 2d Meh Graphics, Simple but tedious Combat, Can get Boring 
+::::::
+
+::::::
+UserName: Maedhros925
+Rating: 8.6
+Date: Apr 7, 2007 12:02 pm PT
+Review:  When I say action RPG, most likely you have a good idea of what's in store. As expected, Sacred 
+ is a clickfest with the goal being to kill enemies, pick up loot they drop, and get stronger so 
+ that you can kill more enemies. If you've played Diablo or its sequel, then you've experienced 
+ the seminal game in this genre. That said, Sacred is more than just a been there, done that kind 
+ of game. While the above formula holds true, there are enough improvements in store to warrant 
+ pouring nearly as many hours into Sacred as you have into Diablo II.
+  
+  The best way to explain what makes Sacred unique in the genre is that it emphasizes its RPG elements 
+ more than most. Games like Diablo and Titan Quest are fairly linear. You follow a specific path 
+ laid out for you, going from area to area and killing everything you see. Well, in Sacred you still 
+ kill everything you see, but the linear nature has been completely removed. The world of Sacred 
+ is completely open, more similar to a world that you would find in the Elder Scrolls series: Oblivion 
+ or Morrowind. You can travel to any town you'd like in nearly any order, or even just wander the 
+ countryside. This truly gives you the feeling that you're in a world, playing a role, not just 
+ gaining ground as you progress to the next area. There are plenty of out-of-the-way caves and dungeons 
+ to explore, and even the occasional to find just by exploring.
+  
+  Of course, there's a main quest to follow, which will take you throughout the game world, but there 
+ are nearly countless additional quests to find and complete. True to the genre, quests don't have 
+ much creativity. Most quests will be along the lines of go kill this creature , but there is at 
+ least some variety. Some quests will have you collecting specific items, some dropped by specific 
+ creature classes, and others will require to provide protection to an NPC while they travel with 
+ you to a specific destination. Still, it's pretty standard action RPG fare.
+  
+  What keeps Sacred's gameplay from becoming repetitive is that it does what it does exceedingly 
+ well. The automap system is espcially tremendous. Initially covered by Fog of War, the world of 
+ Ancaria unfolds around you as you explore. Your character is a yellow dot, enemies are depicted 
+ by red dots, and NPCs are depicted by blue dots. Important quest-giving characters are designated 
+ by a white dot, and after their quest is complete they will become blue dots like everyone else. 
+ This is tremendously helpful in weeding who you need to talk to and who you can ignore - not always 
+ easy to tell in games like Oblivion and Morrowind. Once a quest has been granted, your quest destination 
+ will show up as a green map marker, or yellow for the main quest. When a quest is selected as an 
+ active quest, an arrow will appear at the edges of your map to point you in the right direction, 
+ in addition to the compass available on the HUD of your main screen.
+  
+  Another feature that Sacred executes well is the journal. Quests are clearly laid out, and easy 
+ to browse. A picture of your next destination will be provided in your journal, and just clicking 
+ on a quest is all it takes to make that your active quest. This checklist makes it easy to stay 
+ organized, and play with a goal in mind. That's not all that the journal contains, though. You 
+ can also view detailed statistics about your character, even view a graph charting your experience 
+ and gold against your time spent playing. There are even opportunities to collect scrolls and other 
+ reading material during the course of the game, which when activated will add to your collection 
+ and can be read in the journal.
+  
+  Like other action RPGs, there are several character classes to choose from. You can select either 
+ a brawling Gladiator, an angelic Seraphim, a sun-weakened Vampiress, a bow-wielding Wood Elf, a 
+ Dark Elf skilled in poison and traps, or a spell-casting Battle Mage. Each character will have 
+ some skills in common, such as a multi-hit and critical hit capability, but each character has 
+ many more skills that are exclusive to their class. For example, the Wood Elf can shoot an arrow 
+ that will circle back around and continue to strike your enemy repeatedly, or the Vampiress can 
+ leech the life from her opponent. Each skill is improved not by leveling up, but by collecting 
+ skills that are dropped by enemies. Every skill is character specific, but even skills you cannot 
+ used can be exchanged for one that suites your character. Also many of the items that you'll find 
+ throughout the game will be exclusive to specific characters, such as wings for the Seraphim or 
+ a two-handed blade for the Dark Elf that looks like something a Kilngon would wield. While the 
+ world of Sacred is always the same, the uniqueness of each character does add to the replay value.
+ 
+  
+  Of course, being an RPG game there are some shortcomings that are hard to avoid. This can truly 
+ become a clickfest, as the enemy encounter rate is quite high. As you gain levels, weaker enemies 
+ will eventually stop attacking, which is a relief, because traveling even one screen will require 
+ you to kill a handful of enemies every time. Another frustration is that your inventory will often 
+ fill up quickly. There are five different types of potions to collect, and since they don't stack 
+ each potion takes up a block in your inventory. That doesn't leave a whole lot of room for equipment, 
+ and since nearly everything you kill will drop an item that means you'll leave a lot of equipment 
+ lying around. Getting back to town every time you need to sell your stuff can also be a hassle. 
+ Sacred provides teleport portals, but these are only present within towns, and go from town to 
+ town. There are horses that you can purchase, which will allow you to cover ground much faster, 
+ though trying to fight from your horse is extremely cumbersome, and with the encounter rate so 
+ high fighting is unavoidable. There's nothing like a scroll of town portal to instantly whisk you 
+ away to a merchant, an option which can feel almost like cheating at times, but would probably 
+ be welcome when you find yourself way out in the countryside, and having to hoof it back through 
+ yet another large numbers of enemies. All things considered though, this is a tremendous addition 
+ to the action RPG genre. It's clearly a generation ahead of Diablo, and that's true for the improvements 
+ it offers, as well as the outstanding look and feel of the game. If you don't mind games that require 
+ endless use of the left mouse button, then Sacred has hours of enjoyable gameplay to offer. This 
+ game is truly underappreciated, and I'm looking forward to see what the upcoming sequel will have 
+ to offer, as well. 
+::::::
+
+::::::
+UserName: GunnyHath
+Rating: 7.8
+Date: Mar 24, 2007 10:44 am PT
+Review:  Sacred is a Diablo-esque action role-playing game, set in the world of Ancaria. The combat system 
+ is similar to the Diablo series, hack-n-slash the enemies as fast as you can, gain experience to 
+ kill the tougher boss enemies, and increase your attributes and skills until you can dominate all 
+ opposition. Having over 300 unique NPCs, 30 main quests, and 200 sub-quests, Sacred promises to 
+ be a very highly replayable, large-scale RPG.
+  
+  Overview
+  
+  You, the player, are destined to explore an expansive, lush, and diverse world, rampant with sinister 
+ trolls, ogres and fearsome dragons. You will travel across sun-baked deserts, a tropical archipelago, 
+ dense forests, and icy mountains. Sacred's single-player scenario is dauntingly large at first, 
+ but the game eases you into the role fairly gently, slowly teaching you the skills needed to progress 
+ through the rest of the game. The multi-player aspect of Sacred looked very promising at first, 
+ and proved very enjoyable, the only complaint I had was that for whatever reason, not very many 
+ people are playing Sacred online, hopefully that number will increase, as this game deserves a 
+ wider fan base. I personally (1mbps cable connection) experienced only slight lag while playing 
+ online (Closed Multi-player) , but the game remained playable and the players themselves seem very 
+ friendly and willing to help for the most-part. Sometimes the players are just too busy hacking 
+ and slashing away at the hundreds of enemies, to hear your pleas for help, and youre left to fend 
+ for your meager self. By far the most alluring multi-player aspect to me was the co-operative mode. 
+ Games with well implemented co-operative play modes are few and far between on the PC. The last 
+ enjoyable co-op game I recall had to be Quake 2, even on 33.6k I spent hours upon hours fragging 
+ with buddies. Sacred's co-op at first glance looks extremely rewarding, and for the most part it 
+ is, except the minor network lag and number of players issues. The internet multiplay aspect of 
+ Sacred takes you through the standard account creation, character creation, and login sequence 
+ familiar to Diablo 2 players. You find yourself in the lobby, which can be confusing at first. 
+ But the sections are set up to cater to beginners and veterans, a level 200 can't join a beginners 
+ game and vice versa. There is also a Local Area Network (LAN) mode for those of you with a home 
+ network.
+  
+  Graphics
+  
+  Graphically Sacred is up to par, but nothing revolutionary. The graphics are pretty, although the 
+ animation is sorely lacking at seemingly the most crucial times. One interesting feature is the 
+ ability to zoom in and out so you can see much more of the area around you. It has 3 zoom levels, 
+ the default, zoomed in (shows you and the immediate area around you) , and zoomed out, which shows 
+ more but likely will bog down slower systems. The v1.7 Patch is to be released soon and is supposedly 
+ going to address some frame rate issues. Diablo 2 only let you zoom out if you had installed the 
+ expansion pack Lord of Destruction which allowed you to use the 800x600 resolution, effectively 
+ increasing your field of view (giving an unfair advantage in multi-player as well) . I ran the game 
+ comfortably at 1024x768x32bpp on an Athlon XP 3200+ with 1,024MB Corsair XMS 2-3-2-6 DDR-400 and 
+ an ATI Radeon 9800 Pro All-In-Wonder using Catalyst v4.2. Even zoomed out the game ran smoothly, 
+ though I would expect it to run sluggish on lesser systems I cannot verify this first hand.
+  
+  Gameplay
+  
+  The control system is basic yet advanced, while remaining familiar to PC action 
+ RPG players. You left-click to attack, and right-click to use your selected special ability, but 
+ Sacred makes constant use of the hotkeys. Keys 1 through 5 are your melee or ranged weapons, 6 
+ through 0 are your spells and abilities. The equipment screen is very simple, made even easier 
+ by simply right-clicking any weapon, shield, or ability and automatically equipping, or learning 
+ it in the case of a spell or ability. Only minor complaint is the path finding is horrible, you 
+ click to walk and your horse goes in 50 different directions, yet in the correct one, which makes 
+ attacking enemies quite difficult as the screen is jerking all over the place. It is interesting 
+ to note that the Armor and otherwise worn items are shown on the right side of the Inventory screen 
+ when equipped, on their respective places, i. e.: helmet (on the head) , boots (on the feet) etc. 
+ Weapons and shields however, are put in the 5 sockets at the bottom left of your screen. You may 
+ have 1 shield and 1 weapon in a slot, or 1 two-handed weapon. At the beginning of the game you 
+ start with one weapon slot and one skill/spell slot. I played as a Battle Mage, one of 6 fairly 
+ unique character types you can choose from. You can also purchase a horse to cover great distances 
+ faster (very handy for the long walks between towns, but they seem to die too easily.) Among these 
+ classes are; Dark Elf, Gladiator, Vampiress, Seraphim, Wood Elf and the Battle Mage. As a Battle 
+ Mage you begin with a standard Staff that glows eerily and leaves a trail as you move (nice eye 
+ candy I thought) . You can whack your foes with it and it enhances some stats. You also start with 
+ a level 1 Fireball spell. You learn more spells by reading Runes which are little square pages 
+ that remind me of the spells in Dungeon Siege. As you learn the same spell repeatedly it gets stronger, 
+ instead of paying points into it you simply learn it repeatedly as you find more runes of the same 
+ type. The same goes with special abilities of other classes. The fireball you begin with does little 
+ damage, but more than you physically beating on the enemies with your staff. In the beginning you 
+ fight mainly small goblin-type enemies and wolves. By themselves they're no match for your furious 
+ thwacking of the staff and fireball combos, usually a couple whacks and a fireball takes down most 
+ enemies in the beginning, however to my initial dismay, 2 or 3 enemies at a time can easily reduce 
+ your measly hit points to zero, causing you to reload a quicksave (you did save right?) . Once you 
+ get the hang of the combat system it becomes very enjoyable. Later on as you gain levels you get 
+ up to 5 slots for weapons and spells. This becomes extremely important for spell casters, making 
+ use of your hotkeys will be the difference between failure and success, and there are many many 
+ enemies to dispatch along the way so get used to your hotkeys early on. I have it set up so 6 is 
+ healing, 7 is an ice spell that slows the enemies down plus deals some damage, and 8 is a flaming 
+ ring that burns them to cinders while they're slowly trudging through the ice towards you. One 
+ other interesting thing to note is the Combo system, while I have yet to figure out the intricacies 
+ of it, in theory you can attach up to 4 abilities or spells to one combo, one right click could 
+ cast 4 spells in succession, the possibilities are numerous.
+  
+  Sound
+  
+  The sound in Sacred is nice, rivers bubbling, horses clopping, children laughing. However (this 
+ may be due to my onboard ALC650 audio) , the voices of some people who I believe you are supposed 
+ to be able to hear, as an ambient sound, seem so faint you can barely make it out. Other than that, 
+ the combat/voice system sounds just fine. Again up to par with the genre but nothing that stands 
+ out as amazing.
+  
+  Conclusion
+  
+  To say I enjoyed the open-ended gameplay of Sacred would be an understatement. At the time of this 
+ review I have just reached Act II, which left me with a feeling of achievement, yet there is much 
+ to see and do in the world of Ancaria. Battling a dragon at level 15, that could kill me within 
+ 1 second, and succeeding put a big smile on my face. Sacred is not the best RPG of all time by 
+ far, but it is a very enjoyable and replayable game Ill keep in my collection for years. 
+::::::
+
+::::::
+UserName: KingLim
+Rating: 7.2
+Date: Mar 21, 2007 10:03 pm PT
+Review:  Technically, this is a solid hack'n'slash game meant for anyone who loved the Diablo series. It 
+ served as a visually stunning (though still retains the 2D isometric interface) and impactful sounding 
+ piece of work with a challenging gameplay formula. The characters look good too, especially theprovocatively 
+ dazzling Seraphim. As exciting as it may sound, you may get bored with the hacking and slashing 
+ eventually midway through the game.
+  
+  One problem here is that there is simply little incentive in killing everything you see. Leveling 
+ up doesn't really make a difference in your fighting prowess as the enemy gets stronger as you 
+ level up, and quite a number of unique skill abilities known as combat arts are similarly shared 
+ by all the 6 different characters, like Attack and Multi-hit, which makes these skills seem less 
+ interesting. Also, there is no really special strategy or twist in the hack'n'slash formula, just 
+ hacking and slashing. Everything is straightforward clicking of the mouse even with the use of 
+ magic combat.
+  
+  The side quests are dull too as it's either kill this or fetch that and the rewards you get for 
+ doing so are just uninspiring, for they are either gold or experience points with a few occasional 
+ random gear thrown towards you. At the end of the day, you get to amass absurd amounts of gold 
+ and experience points that you find that there is no meaning to it anymore. And when you think 
+ you finally had enough of the mindless killing thanks for the ridiculously fast spawning time and 
+ decide to just make a dash through the crowd, you meet some reeaallly nice magic dudes and dudesses 
+ who keep stalling your footsteps by casting hold spells on you, forcing you to hack'n'slash again 
+ through the surrounding mass of enemies whom you passed by. Great. Mind you too, these magic casters 
+ have some of the weirdest voice-overs to irritate you further.
+  
+  Well, enough about the **** One of the elements that I enjoyed is the map exploration. There are 
+ some interesting places to encounter upon with easter eggs here and there, making fun of the fantasy 
+ world with modern day jokes. The 2D landscape is lush with 3D lighting and detailed features which 
+ gives you a little incentive to explore as much as possible. After clocking around 100 hours of 
+ finger-hurting gameplay and finally made my Seraphim through the Silver stage, I can finally put 
+ the game box permanently on the shelf.
+  
+  KingLim 
+::::::
+
+::::::
+UserName: Alkpaz
+Rating: 8.2
+Date: Mar 20, 2007 8:28 pm PT
+Review:  When I first picked up a copy of this game upon release I was amazed to have in my hands a diablo-esk 
+ game. Sure there was Dungeon Siege and Divine Divinity.. but this game actually let you ride horses.. 
+ I was also pretty amazed about how massive the game was. It gave you free roam to explore at your 
+ own pace without restrictions. (very few like 2 restrictive areas) This, and to find respawning 
+ enemies.. no longer just beat an area and move on.. you can actually stay and level if you want.. 
+ The game also presented 4 difficulties when it was released.. (Niobium was added in a patch) with 
+ each patch the game got more interesting.. with the release of Plus and in-game improvements of 
+ weapons and quests. Plus the max level cap of 206 increased the amount of play you got from the 
+ game. The skills maxed at 255 at first and if upgraded once more would warp back to 1. This has 
+ been fixed though.
+  
+  As I enjoyed the game immensely, I finally got to Niobium and played through it.. I let the game 
+ rest for a year or two.. picking it back up to get Underworld. but when I did return the game felt 
+ sterile as if this wasn't the game I left behind loving every second of. This did not occur to 
+ me with Diablo 2.. even though I left the game for years before coming back to play once more.. 
+ I tried to go back to the world of Sacred again ... and I still felt a tug holding me back.. Maybe 
+ the game is best played through once.. in its entirety and then left to rest.. Sure it has replay 
+ value up the wazoo.. but after battling through each difficulty with one character you really tend 
+ to hesitate in creating yet another.. For the Value Sacred is a great buy.. I got hundreds of hours 
+ of play out of it.. but in the end you will find that once played through throughly there is little 
+ else than to abandon it forever. 
+::::::
+
+::::::
+UserName: dark_orb
+Rating: 6.8
+Date: Feb 7, 2007 3:27 am PT
+Review:  Sacred is a point click RPG game that was released back in 2004. It borrows heavily from games 
+ like Diablo and Dungeon Siege where the gameplay is concerned. The end product is a game that looks 
+ very good and plays very well until you've been doing the same thing over and over for a week or 
+ two.
+  
+  Visually Sacred looks very very good for a point click RPG. In fact is looks better then most of 
+ the major point click games period. It's a blend of 2d and 3d elements, the ground and characters 
+ being modeled in 3d and things like trees and buildings rendered in 2d. You can see the difference 
+ when you zoom in all the way as plants and buildings become heavily pixilated while the player 
+ character still looks quite nice. However when you are zoomed out, which is the only way to really 
+ play the game, the world of Ancaria is a pleasure to quest about. And on your travels you quest 
+ through deserts, forests, snowy mountains, swamps, and blasted wastelands. All the while with a 
+ nicely done day and night cycle and weather effects like fog, rain, and snow. It's also very noteworthy 
+ that the world of Ancaria is enormous. After my first play through i had only seen about 15% of 
+ the world map.
+  
+  As for as for what you can do in this huge world full of life, well, questing is really the only 
+ thing you can do in Sacred, which is where the game fails. There is the main quest which your free 
+ to pursue at your leisure, and then there are countless side quests that you can take on in the 
+ games massive world. All of these quests are the standard kill this, find this, escort me here, 
+ or find somebody and escort them here. Every now and then you'll get a quest that involves more 
+ then one of these but not very often. This is fine for the first twenty hours or so, but by late 
+ game your probably going to be tired of it. To explore the entire world and complete every quest 
+ would take you months and would become an almost mind numbing task. You'll be doing a lot of killing 
+ in Sacred and like any game in the genre you'll be carrying around a lot of loot. You'll sell most 
+ of it but the game does feature an interesting item customization/upgrade system that you can make 
+ use of in towns.
+  
+  You play Sacred as any one of six (eight if you have the Underworld expansion) character classes. 
+ Each plays a bit differently and are customizable through their skills as you gain levels. At any 
+ point you can export your character and use them again in a new game.
+  
+  Sacred focuses heavily on combat and you can tell as the world is covered with monsters and enemies. 
+ Outside any town you can only walk a few steps before your mobbed by whatever is populating the 
+ region. The monster count in most areas is very very high and what's worse is that they respawn 
+ once you go so far from the area. I realized this after spending some time killing what i though 
+ was everything near a town and as i came back i found the monsters had returned in force. Luckily 
+ if you are so many levels higher then the monsters in a given area they leave you alone for the 
+ most part so if you are backtracking you won't have to move across land you've already covered 
+ at the same snail pace. The combat itself is very satisfying for the first little while and after 
+ a week or so becomes something you wish you could skip like the quests. Each of the character classes 
+ play a little differently and they all have different skills to dole out death en masse. Like any 
+ point click RPG you need to click on your enemies to attack them though and this is sometimes easier 
+ said then done. Resulting in your character running around like an idiot while other enemies attack 
+ from all sides. However once you do manage to get your mouse over that retreating archer all you 
+ have to do is hold the mouse button and your character will continue to attack till they are dead. 
+ Your own death is as final as most of the monsters you slay. If you end up getting killed you'll 
+ be returned to a previous area (usually a town) full of health and just a little poorer.
+  
+  Your reasons for doing anything in the land of Ancaria are not very well presented either. The 
+ games core quests will take you across the land doing the same things like: meeting people, finding 
+ things, and the always original killing people. The story involves an evil mage that has summoned 
+ a demon and you have to destroy it. Your character never questions any of this, and in fact there 
+ there is very little role playing to be had in this RPG. Your responses are limited to Yes! I'd 
+ love to do that for you kind of responses and No, i cant do that for you at the moment responses 
+ that leave the quest open if you want to come back to it. The games main quests do feature some 
+ voice acting but it's mostly terrible and in fact you could just skip over the story entirely as 
+ your compass and map tell you where you have to go.
+  
+  The sound in Sacred is a mixed bag. The game does feature some very nice music in some places, 
+ especially in towns but you usually have to be in the town for a while for it to kick in and you 
+ seldom are. Voice acting is hit and miss across the game, some enemies sound ok while female members 
+ of a certain cult are just annoying. The sound effects are what you'd expect to find with the clang 
+ of swords, the howl of wind, and the chatter of of city life.
+  
+  After you finish the main quest you can start Sacred over, from the beginning, on either the same 
+ or a harder difficulty. The higher difficulty settings will reward you with better loot but if 
+ your already sick of the game by the time you finish it the first time through you'll be ready 
+ to move on to something else. Sacred has a multiplayer but it's not as good as battle. net and doesn't 
+ have the same community as games like Diablo II. None the less, if you have a friend to play it 
+ with there is some fun to be had.
+  
+  In the end Sacred is a good game and could have been an amazing game had it not become so repetitious 
+ and stale. And the game is recommendable to any fan of point click RPGs (especially if they havn't 
+ played one for a long time) . What it does it does very well, it just does the same thing over and 
+ over. However those looking for an engaging story or a variety of gameplay will find themselves 
+ disappointed. 
+::::::
+
+::::::
+UserName: king_devils
+Rating: 7.8
+Date: Feb 1, 2007 10:08 am PT
+Review:  An open ended rpg with several playable races including elves, vampires, and humans. Races include 
+ different playable characters. Each race has its own unique weapons, armors, skills and abilities. 
+ Along with main quest almost over 200 random npc quests which powered the sacred game play. Main 
+ quest leads you to defeat a powerful summoned demon. Sacred land is being ruled by hundred of monsters 
+ including Giants, Trolls, Wolves, Bears, Bandits and several others. For traveling over lands horses 
+ with different kinds are available to save time. Leveling system based on xp gained by killing 
+ monsters. Sacred world is big enough and a challenge to explore, including day and night cycles 
+ with cutthroat deadly enemies. Sacred proves not only an excellent single player RPG but also it 
+ is a one of the best mmo rpg. Sacred combat system includes dual weapons wielding, Daggers, Maces, 
+ Tridents, Mage Staffs, Magically enchanted weapons and much more. Graphics are not an awesome but 
+ better then Diablo, Characters/Enemies detail sounds just ok but Sound effects overall the game 
+ and Music is pretty nice with short npc dialogues. 
+::::::
+
+::::::
+UserName: BLAZZING
+Rating: 8.6
+Date: Dec 2, 2006 4:24 am PT
+Review:  Sacred is really fun for it's gameplay. I never seen this type of good gameplay system that time, 
+ now every RPG follow this type of gameplay.
+  Like Mapping system, Quest, Level up, etc. For all combination Sacred is great for all time.
+ 
+  The main thing is when playing this there are no boring things, I want's to tell that this just 
+ a plane fun for ever.
+  Another good site is Character levelup is realy very big. Max 255 level!!!
+  For this reason game 
+ is very big for playing. Lot's of quest for activate, story line is not really a great, but that's 
+ not a problem.
+  After all this RPG game is great &amp; hope Sacred 2 will be PERFECT 
+::::::
+
+::::::
+UserName: Dr4goN_PL
+Rating: 10
+Date: Nov 21, 2006 6:58 am PT
+Review:  Sacred is a typical action RPG, but it's awesomely done. The whole world is beautiful. In my opinion, 
+ everything, and absolutely everything, was made by a rule of What was dark in Diablo, it's shiny 
+ in Sacred . E. g. Diablo was full of dark corridors, dungeons and fields. In Sacred, there are 
+ dungeons too, but they are made fantastic. They might be small (not like most of those from Diablo) , 
+ but they are made with care of a detail.
+  
+  The game world is amazingly great. There are countless towns or major cities in the thriving world 
+ of Ancaria. There are tons of side quests; ones are extremely easy, ones are a bit harder, but 
+ all of them are perfectly designed.
+  
+  In Sacred, you can play as six characters: a brutal Gladiator (typical jack-of-all-trades warrior) , 
+ the Seraphim (a naked half-angel warrior with celestial spells at her disposal) , a Wood Elf (quick 
+ and agile archer/sorcerer) , a Dark Elf (brutal and quick assassin) , a Battle Mage (a spell-caster 
+ with ability to wield a sword) and the Vampiress (violent half-vampire warrior) . All of them have 
+ their unique skills and abilities (except most of the warrior-concentrated ones) .
+  
+  The main story is simple but it is two-threaded. The first one is finding new heir to the Ancarian 
+ throne (the old king Aarnum I lies on the bed of death already when you start the game) and the 
+ second one is finding the reason of strange massive Orc attacks on southern borderlands of Ancaria 
+ and defeating the master of black arts -- Shaddar, and his puppet -- the Sakkara demon.
+  
+  The game keeps good balance between its addictiveness and its linear campaign. When you have beaten 
+ up the game you can always try it from all over on higher difficulty level or start to play it 
+ with your friends on LAN or online in three game modes. Co-operative mode speaks for itself -- 
+ you play through all the story but you do it up to 4 players. You can play in unrestricted game 
+ play on Hack and Slash (up to 16 players) or test your mettle by challenging the other players in 
+ PvP mode (also up to 16 players) .
+  
+  Graphics are quite good as for a two-year old game. It might look like a pixel attack when you 
+ zoom in on max, but it's said that Germans are masters in pixel art. The animation of waterfalls 
+ is poor. It's about 4-5 FPS (but rest of the game runs smoothly on GeForce3) . Sound is good too. 
+ I recommend you place your hands on it! 
+::::::
+
+::::::
+UserName: redfox62
+Rating: 10
+Date: Oct 27, 2006 2:48 am PT
+Review:  Diablo is a great game game. It's easily one of the better games to be released and even now i 
+ believe it to be a better game than the more recent Titan Quest.
+  
+  However, it is not the greatest Hack n Slash RPG ever made, for that title belongs to Sacred, and 
+ here's why
+  
+  I believe a fantasy game with swords and sorcery should have a traditional fantasy setting. I want 
+ to see Dragons and Elves in a beautiful landscape. I want to venture into dark dungeons one moment 
+ and then walk in the sunlight the next. Don't get me wrong, i love to battle the undead, fighting 
+ skeletons and mummys (which is still possible in Sacred) but nothing beats fighting a Dragon!
+ 
+  
+  I want to go inside houses and shops unlike Diablo, Titan Quest, even Guld Wars. Why? ... because 
+ i do.
+  
+  Another thing that appeals to me is the different landscapes, mountain, forest, desert. I remember 
+ fighting some mummys in the desert thinking 'this looks so right'. Even the different types of 
+ trees just add that certain something. Sacred has beautiful art. Castles, houses, farms, even walls, 
+ they're all drawn perfectly. It's a pleasure just to travel through a town or pass a farm or enter 
+ a building.
+  
+  Sacred makes Diablo look drab.
+  
+  One thing that let Titan Quest down was the character selection. Both Diablo and Sacred are vastly 
+ superior with a good choice of character types. It's a personal thing, but i believe Sacred has 
+ the upper hand. For instance the mage in Sacred looks to me more how i imagine a mage to look. 
+ Gameplay wise Diablo and Sacred are both Hack n Slash and on the surface it would seem that all 
+ you do is left click on the enemy. Sacred has a little more to offer. For instance, nothing beats 
+ being an elf when using a bow save being an elf whilst riding a horse and using a bow!
+  
+  The skills are better and i like the fact you have to find them on your travels. It gives the game 
+ more depth. Even the spells are better. Just watch a mage in action to see how awsome spells look 
+ in the game. With the expansion playing a Dawrf in Sacred is probably the best character design 
+ i have ever seen in a game. He can fight, he can shoot and he can even pull out a flame thrower!
+ 
+  
+  Combinations of skills and weapons in Sacred is the real draw of the game and will keep avid players 
+ glued for a long time yet to come. That is until Sacred 2 is released.
+  
+  So where was i? ......... oh yes, i remember .......... why is Sacred the better game? ............. 
+ simply .......... everything in Diablo has been done better in Sacred and then some. The rest of 
+ you can stay in your dark holes trying to kill the devil, good luck to you. It's like comparing 
+ Doom to Far Cry. As Legolas once said 'Elves do not walk in the dark earth'. 
+::::::
+
+::::::
+UserName: ChristianKiss
+Rating: 8
+Date: Feb 5, 2009 5:51 pm PT
+Review:  A lot of Action RPG titles have been made throughout the years, such as Diablo and its sequel, 
+ Darkstone, Space Hack, Divine Divinity, Nox, Titan Quest etc. It's perfectly possible to compare 
+ the similar features between these games. Ascaron's Sacred doesn't stay too far from the usual, 
+ although you can easily notice its uniqueness if you play it exhaustively.
+  
+  Sacred is set in the huge world of Ancaria. Here you can choose between six classes to play: Gladiator, 
+ Dark Elf, Wood Elf, Battle Mage, Vampiress and Seraphim, each one with particular abilities. Your 
+ mission is to kill a wrongly summoned demon, but to do so you'll have visit a lot of different 
+ places to solve step-by-step the main quest. While traveling through Ancaria, you'll find cities, 
+ castles, villages etc, and each one has a respectable selection of side quests. The secondary missions 
+ are a bit generic, but it will reward your character with all the important things in this game: 
+ gold, experience, items and runes.
+  
+  The runes in Sacred are the only way to improve your special moves and spells of your character. 
+ Here is where this game really shines, because the characters don't have any kind of energy to 
+ cast them. The use of special moves and spells is limited to a regeneration time. So, if you use 
+ a hard blow (special move) or cast a Fireball (Spell) , you'll need to wait some seconds to re-use 
+ them; so it's a good idea to let your regeneration time as low as possible. To achieve that you 
+ can wear magical items (such as rings, amulets, weapons, torso armor, boots etc) that give some 
+ bonuses to the regeneration time, as well some specific Skills that also helps about that.
+  
+  The skills in Sacred are improved by leveling up your character. All classes have particular 
+ and general skills. For example, both Gladiator and Seraphim share Weapon Lore, but only the Seraphim 
+ have Heavenly Magic. There are also the attributes that will be automatically improved as your 
+ hero gain levels, although the game also allows you to put a few points and increase a particular 
+ attribute of your choice.
+  
+  The only thing that will make you feel a deja vu is that you'll pass a lot of your time killing 
+ monsters, just like any other game of the same genre. In Sacred, however, the enemies are ludicrously 
+ numerous, and your main activity here is killing the hordes of creeps, instead of spending your 
+ time with puzzles or lengthy secondary missions. The side quests are as numerous as they're fast-to-solve: 
+ defeat a beast, kill a specific number of monsters, recover an artifact, find a treasure, scout 
+ a noble or a beautiful lady etc. What makes Sacred a singular game is that it have a huge world 
+ that is free to explore. You don't have a particular way to reach your objectives, as you can travel 
+ from different paths in the Ancaria world. Only 30% of the map is locked, and you need to solve 
+ the main quest to reach these areas. So this game is grossly like this: a exaggerated version of 
+ the other regular Action RPG titles. What many other games have, Sacred has just more of it.
+  
+  The gameplay is OK; it becomes a little boring at some particular places. For example, the 
+ desert is a huge place to explore, and there is nothing cool about it, only an endless amount of 
+ sand. It would be nice to find a city or an oasis sometimes, but the lack of detail makes that 
+ region a bit boring. Nonetheless, there are a few cool features that make Sacred fast paced sometimes. 
+ For instance, the 'Collect All' button is used to pick up all items on the ground. Also, the information 
+ function is actually very intelligent and useful, which shows all the objects on screen that you 
+ can interact: people, chests, items and enemies. The shortcuts are nice too: five slots for the 
+ weapons and another five ones for the spells. I don't know why, but you start the game with only 
+ two slots of each type, and you'll receive additional slots as your character is improved (at level 
+ 30 of character you'll have already all the ten ones) .
+  
+  Sacred offers a good replay value as well. You can finish the campaign up to five times, as there 
+ are five difficulty levels: Bronze, Silver, Gold, Platinium and Neobium. You'll unlock the higher 
+ difficult levels when you beat the earlier ones. 
+  
+  Graphics are fine, but this is a very subjective concept, especially if it comes from me. I simply 
+ love 2D isometric projections in games, and Sacred is the one featuring the most beautiful engine 
+ so far. Naturally, the characters are 3D models, but they fit perfectly fine with the static scenario.
+ 
+  
+  Multiplayer mode works fine. It's possible to save and load the progress any time you want. There 
+ is also the option to play in both cooperative and competitive games, and if you have a fast connection, 
+ you'll not experience any serious lags while butchering the goons over the net.
+  
+  The real problem with Sacred is the bugs, which will force you to update the game as soon as possible 
+ after the installation. The 1.0 version is glitched as ****, and I had the unfortunate opportunity 
+ to play it when the game was released. Nevertheless, the updated game works a lot better. Don't 
+ forget to apply the free official plus version of Sacred to add more cool places in the world of 
+ Ancaria as well.
+  
+  I found this game very entertaining and it's indeed a solid Hack 'n Slash for fans of the genre. 
+ If you liked similar games such as Diablo and Dungeon Siege, you'll find almost everything you 
+ need in Sacred. 
+::::::
+
+::::::
+UserName: dvdre
+Rating: 6.7
+Date: Aug 30, 2006 2:58 pm PT
+Review:  I have played through one complete game of Sacred as a battle mage, and in many ways, it was a 
+ hoot. But it is a long game, and gameplay does not vary greatly through the game, so I am now pretty 
+ dang tired of it. Yes, I can export my battle mage to play the game on the silver level, but why? 
+ I would rather play a Dark Elf, because at least the gameplay would be different. So my level 46 
+ battle mage won't be of much use. (Sequel? Now you are talking.)
+  
+  After the first couple of hours, I don't feel like my character was seriously challenged. I died 
+ about five times the first two days, and maybe once or twice over the next month of gameplay. The 
+ end boss was ridiculously easy. The ending was disappointing. Sure, I might play the sequel, but 
+ I deserved a real ending.
+  
+  Game hint: If you can, devise a strong attack skill to kill a single opponent, but also have a 
+ strong area attack as a backup, to handle times when foes swarm in. My battle mage leveled up fireball 
+ first, then lightning strike (great area effect in higher levels) and also ghost meadow and a bit 
+ of fire spiral. Fire spiral is a hoot, but you don't need a lot of levels in it. Fireball is super 
+ wicked for long-range attack, and it packs a massive punch.
+  
+  My biggest problem in gameplay was finding the route to the next milepost. There are red dots on 
+ the map to help you, but the route is not always intuitive. I wasted a lot of time searching and 
+ doubling back for the route. 
+::::::
+
+::::::
+UserName: jean0rogue
+Rating: 7.8
+Date: Aug 20, 2006 4:25 am PT
+Review:  In "Sacred" you assume the role of one out of five pre-created characters and journey through a 
+ world that you will ultimately have to save. They would like you to think that each of the five 
+ characters has his/her own path but the only difference between their stories is the first quest. 
+ After that their path is the same. Depending on your preference, you can choose from a Gladiator, 
+ a Seraphim, a Dark Elf, a Wood Elf or a Battle Mage. Although they each have their own unique way 
+ of fighting, it basically comes down to the same thing: killing the horde of enemies that come 
+ in unlimited supply.
+  
+  Thus, the gameplay gets boring after a while, even though your gain new and more powerful abilities. 
+ Seeing as the map is huge and you will be required to walk a lot, the enemies become annoying very 
+ soon, and the battles tedious so naturally you will resume to take the fastest way to your goals, 
+ which isnt neceserally the best way.
+  
+  An interesting innovation is the use of combos to link your attacks/spells together and create 
+ a more devastating move. While this is useful for the melee characters, I saw no reason to link 
+ the magic of the battle mage together.
+  
+  Character development is satisfying, you are given a numer of points to spend each time you level 
+ up, and at certain levels you are permitted to choose another ability, like Riding, Dual Wielding, 
+ Constitution etc.
+  
+  As I previously said, the map and the world in "Sacred" is huge, which is a good thing and a bad 
+ thing. The good thing is that you are able to explore a vast ammount of land. Do not be surprised 
+ if you uncover a location bearing riches, a lost Dragon or many caves leading to secret locations. 
+ In all the time I have spend playing this game, I did not uncover everything or explore every inch 
+ of the map. The bad thing is that your quests will always be miles away from where you are, requiring 
+ you to deal with countless opponents before you arrive at your destination.
+  
+  The main quest of the game can be finished rather quickly, but there are numerous side-quests that 
+ can be aquired by talking to NPCs. They are diverse enough requiring you to either look for some 
+ missing relative, find and escort a merchant, kill bands of thiefs, rescue damsels, find missing 
+ swords/shields etc. Although the quests are optional, they provide a good ammount of experience 
+ and are a nice distraction from the main quest. Towards the end, most of them will have a time 
+ limit (usually 1 day) and you must complete it before the time runs out. Some of the quests I have 
+ seen do not work, but it is a small ammount and can be overlooked.
+  
+  The game's graphics is one of its strong points. The world looks vivid enough, with plenty of animals 
+ to populate it. The animations are also very good, especially if you are playing with a battle 
+ mage.
+  
+  "Sacred" has a beautiful soundtrack that doesn't always stand out. It is more obvious in key-moments 
+ and certain battles. Although it's not always there, when it is it manages to create some atmosphere. 
+ The voice acting isnt always satisfying and the voice of certain characters does not quite fit 
+ them. 
+  
+  What this game seriously lacks is heart. You do not feel as though you are the main character in 
+ a story of epic proportions. The characters mostly seem blank and yours will seem the dullest, 
+ with no personality at all. If you are looking for an RPG with lots to do and lots to kill, I recommend 
+ you try it. But if you want something more than just killing enemies, this may not be the best 
+ game for you. It is still a better-than-average RPG, but it just doesnt quite manage to keep you 
+ interested. 
+::::::
+
+::::::
+UserName: t3t3t3
+Rating: 9.2
+Date: Aug 7, 2006 12:27 pm PT
+Review:  Wow!!! i bought this game a week ago i thought it would be like Diablo 2 like everyone else says 
+ but Sacred is way better! There are some simalarities but Sacred took Diablo and kicked it up 5 
+ knotches in graphics and gameplay. 
+  
+  The graphics and sounds are absolutely amazing in this game and gameplay also matches up to it 
+ . The campaign is well thought out story with alot of twists and turns. At the start of the story 
+ you are placed in a huge map where you are basicially walk anything and kill anything you want. 
+ Through out the game you go through a story plot that will take you about 12 hours to figure out 
+ and complete it but with the side quest that everyone wants you perform it's about 60 hours of 
+ pure fun.
+  
+  After finishing the campaign you can go online and either kill monsters with others or pvp. Overall 
+ absolutely amazing 
+::::::
+
+::::::
+UserName: matthijstol
+Rating: 8.3
+Date: Jun 30, 2006 4:17 am PT
+Review:  This game really is a great rpg, it may lean heavily on the whole diablo concept but a lot of rpg 
+ games do that and there's nothing wrong with that because both diablo games were great. The engine 
+ from Sacred makes the game look a lot like diablo but with far better graphics. 
+  
+  The playable races in Sacred are nicely done, you can from six different classes which all have 
+ there own advantages and skills. If you like to play melee combat than you can choose the gladiator 
+ but if you like magic than you can always play as the magician.
+  
+  The world you can expore in Sacred really is HUGE, you can spend hours in a row just exploring 
+ the map and the hidden caves and bonuses hidden. The interesting thing is that you find far better 
+ equipment in hidden chests and from opponents on hidden locations so it's really worth it to check 
+ almost every place there is on the map.
+  
+  There are tons of different armor and weapon sets in the game so that there is plenty to choose 
+ from for your character. The only downpoint for me was that my mage was far weaker than my gladiator 
+ at the same level, and i'm not talking about strength but about the damage done by the skills. 
+ The gladiator easily dit 4 times more damage. 
+::::::
+
+::::::
+UserName: rmaster14145
+Rating: 7
+Date: May 27, 2006 5:56 pm PT
+Review:  if you liked diablo sacred is all that and MORE. it has a lot of little things that make it different. 
+ the horse for distance travel is nice, different scenery on the map is nice, lots of different 
+ enemies. only thing i really dont like is selling items. it is a bit slow.... you can only trade 
+ 1 item at a time... if your backpack is full it gets frustrating. i play the vampire .. at first 
+ i did not like that clas too much. when i started leveling up i put all skill points on BLOODLUST 
+ and VAMPIRISM. then this class becomes a force to be reconed with. 
+::::::
+
+::::::
+UserName: Gilillo
+Rating: 8.9
+Date: Apr 20, 2006 10:44 am PT
+Review:  Sacred is a rol game that distinguish by its very good 3D graphics. However it's impossible to 
+ avoid the comparison with the best game of this kind (Diablo: LOD) , since Sacred copy many aspects 
+ and characteristics of that game. But still Sacred is a good game and it will give you many hours 
+ of entertainment.
+  
+  The best of the game are graphics. The characters, the scenarios, the enemies, everything are well 
+ designed (especially some of the female heroines) ; Some characters are very original the scenarios 
+ are diverse, from desert, to jungle, forest or snow. The enemies are well designed, but it would 
+ be better to have a bigger variety of them.
+  
+  The sounds in the game are good, but the music results boring after a few hours, cause is almost 
+ the same in all the game, just some variations when you'll fight vs a strong enemy or many of them.
+ 
+  
+  The history is regular, but not original. There are many optional missions that doesn't affect 
+ to the principal line, but if you finish them your experience will grow up faster. The difficulty 
+ is easy, but when you finish one time the game, you can started again in a higher level that result 
+ too difficult, and you'll lost your items.
+  
+  The playmode is regular; you will find some problems trying to select some things in the screen, 
+ like a cave or some items in ground. Also some times you'll feel a little stupid your character 
+ in the middle of a battle.
+  
+::::::
+
+::::::
+UserName: Habetsas
+Rating: 8.7
+Date: Apr 13, 2006 4:47 am PT
+Review:  I've been both crying and laughing with Sacred! The dudes on Ascaron have a gigantic sense of humor. 
+ The best example is all the graves in Sacred. If you read one it could say:
+  "Here lies the guy that thought that dragons are great playmates"
+  Everyone that has played Sacred, 
+ knows that dragons are one of toughest creatures to kill in Ancaria.
+  On another stone it says:
+  "There is always room for one more"
+  In these occasions a zombie 
+ could pop up and try to kill you, so you should always be prepared. 
+  
+  A good tip:
+  Always level up as much as you can! Because your enemies spawns faster than yourself and they keep 
+ growing all the time!
+  
+  Another good tip:
+  Stay away from the quest called "Ilim Zhurag-Thar", if you're on the lower levels. The object of 
+ the quest is to kill a giganting spider. If you still decide to kill it, you should stay away from 
+ the poisonous balls it keeps shooting at you. If the spider hits you two times, you're dead!
+  
+  
+::::::
+
+::::::
+UserName: thetruekilla69
+Rating: 7.1
+Date: Mar 24, 2006 1:38 pm PT
+Review:  This game is a good game no dought but i recomend playing the demo to see if u can play it i went 
+ and spent 50 dollers on the game and played it but it was fun for about an houre then it gets old 
+ so the game gets old fast i recoment just geting the demo i get hooked on a lot of games like this 
+ but this just dident have what it takes to hook me like most others do i cant explane what it is 
+ but it just needs more filling things to do not the same stuff over and over agen makes it boreing 
+ fast. 
+::::::
+
+::::::
+UserName: wizoforb
+Rating: 8.7
+Date: Mar 20, 2006 11:53 am PT
+Review:  Like others say This game is by far way better than Diablo! Maybe I'm just tired of playing Diablo 
+ after so many years, and having this game a change from the usual helps. The graphics, and sound 
+ are ok. The game handles exactly like diablo with the inventory, and potion drinking. Equipping 
+ equipment, and buying/selling. The storyline is yet unique. It's a little more harder than Diablo 
+ which is't saying much. The dying, and having to get your body is out of this game which is great! 
+ That can get tiring after awhile. Yet again I'm not into this game far, but had to add my opinion 
+ of it so far. I'd definitely recommend this for a Diablo lover. 
+::::::
+
+::::::
+UserName: brianpoetzel
+Rating: 8.8
+Date: Mar 9, 2006 7:43 am PT
+Review:  This world is just plain beautiful. Its also HUGE! You can wander around this stunningly detailed 
+ environment for hours and still not see it all. The skill sets and weapon crafting is all very 
+ satisfying. I played for hours with each character just to try out the different skills and weapons 
+ that are unique for each. There are just so many options that it makes my head spin. The characters 
+ were all pretty well balanced to so it really just came down to preference to decide who you wanted 
+ to be.
+  
+  I really only have a couple complaints about this game. You could only choose from six pre-made 
+ characters. It would have been nice if they allowed you to take a certain gender and body type 
+ model and then choose which of the six classes you wanted to be. That wouldnt work for the dark 
+ elf class though. But all they would need to do is rename him the assassin because thats really 
+ all he is.
+  
+  The second complaint I have is that it got repetitive. The enemies pretty much all look the same. 
+ The bad guys you see in act 1 are the same through the whole game but just a bit stronger. And 
+ there are swarms of them everywhere! Any way you decide to travel has dozens of roving bands of 
+ clone marauders. I would have preferred fewer enemies but stronger and more varied.
+  
+  It is a great game. It kept me busy for about two solid months. If you like the Diablo format you 
+ need to get this game. Its the closest thing to Diablo since, well, Diablo!
+  
+::::::
+
+::::::
+UserName: Half-Vampire
+Rating: 8.9
+Date: Mar 4, 2006 8:40 am PT
+Review:  The games somewhat very demanding. But it still a great game.
+  The graphics are great. And the sounds are really cool. When you engage into combat you will hear 
+ a great sounds of combat. Sword piercing shields and so on. The storyline is simple but really 
+ cool, side quests are many and varied. 
+  You can ride a horse if you feel its just too boring to travel the road at the same time. Armor 
+ and weapons are really cool. 
+  
+  Overall the games graphics, sounds and quests are great. But its try to be Diablo II.
+  
+  If 
+ you like Diablo II and other RPG games you should own this game, period! 
+::::::
+
+::::::
+UserName: buster4
+Rating: 6
+Date: Feb 24, 2006 2:31 am PT
+Review:  Sacred the Game
+  
+  The game sacred is not where in the league of neverwinter nights and Diablo hint hint if you want 
+ a good role playing game you should go and play them but more to the point. sacred's character 
+ detail is too detailed competed to the rest of the games world it seems out of place and when you 
+ zoom in too far you can see the individual pixels (very low resolution, what you cant change) . 
+ The screenshots dont really do it justice (low res screens with low res game = bad impression) 
+ but all in all the game play is good and multiplayer is worth a few hours. like all good rpg's 
+ there are spell casters, the first spell you get is fire ball (surprise surprise who could of guessed) 
+ I really had a bad impression on the spell caster class, this coming from a person who always plays 
+ spell casters also there is an externally limited number of spells. I suggest trying the vampire 
+ class there interesting and hardly use well except from the elder scrolls series and maybe some 
+ other titles I dont know about. In conclusion the graphics are disappointing, spell classes lacking 
+ and if it was up to me I wish I did not buy it. 
+  
+  If you into RPGs and you have not tried nwn or Diablo I suggest going in that direction
+  
+::::::
+
+::::::
+UserName: DKAssasinIndy
+Rating: 8.1
+Date: Feb 15, 2006 12:38 am PT
+Review:  The Diablo started something big. Myself i like to call such games as a "RPA" (role play action) . 
+ The RPG elements are strong, but player is concentrated on the destruction of many small angry 
+ and complexed beasts.
+  Question is... what about the Sacred, it is a winner in this RPA discipline?
+  The Sacred "is" 
+ very close to the capturing of the flag "RPG drug". Still, this game could be a little better.
+ 
+  Why better? After all, the followers of "the Diablo pact" could be much moore original. Yeah, 
+ yeah - runes, combos, other classes and small upgrades on everything has been done, but I will 
+ be straigth. I was awaiting greater revolution. I mean... where is the originality of such games? 
+ The days, when the games was full of new gameplay ideas are long gone. But the most interesting 
+ thing about games is that they should entertain us. The Sacred in this works well.
+  The story is as always based on "go to the hell, there will be diablo and you should kill him". 
+ Of course, this demon has a brand new name - Sakkara's demon along with small bony type - necromancer 
+ Shaddar. But the story is not in such games the main objective of designers. But to be honest, 
+ the game is full of interesting humor and jokes, wich "is" important. That is shinig on game, like 
+ optimistic beam (just read the tombstones) .
+  The game has many interesting role playing principes and is worth of buying, if you are hungry, 
+ hungrier than 789 trolls on some quick and "role play action game". If you are hungry on some Diablo.
+ 
+  
+::::::
+
+::::::
+UserName: krondor13
+Rating: 7
+Date: Feb 6, 2006 3:58 pm PT
+Review:  I played this game all the way through and had a lot of fun with it. The up is that it has a vast 
+ land that you can travel any place you want right from the beginning. The down is the story really 
+ sucks and you repeat through a lot of the same looking armor. This game i think is great for someone 
+ who hates to read through hours of story but love's to fight hordes of monsters.
+  I believe the this game has a lot of potential to be a really good game but lacks in full customization 
+ and more in depth. The one thing i have to say i loved about this game was the monsters were pretty 
+ cool and they had huge dragons that were fun to fight. 
+::::::
+
+::::::
+UserName: viper_najem
+Rating: 8.2
+Date: Feb 3, 2006 8:13 am PT
+Review:  Sacred features a large, open-ended world. And by 'world', I mean an entire continent for you to 
+ freely explore and roam, taking side quests as you cruise the various terrains, be it grasslands, 
+ rocky landscape, snowy ridges... With an excellent assortment of realistic wildlife and natural 
+ (static) elements of nature, Sacred is indeed innovation on many levels. However, the game grows 
+ in difficulty and most of the time throws at you creatures whose levels are usually above yours. 
+ This brings to memory the first Diablo, which Sacred borrows from a lot.
+  
+  The gameplay is overall good. Like any decent RPG game, you will collect items, take quests, kill 
+ overpowering opponents and gain lots of experience to level up and add skill and ability points. 
+ The negative aspect of Sacred is that combat feels heavy and there's no real feeling that you're 
+ actually hitting someone. Also riding your horse is pointless because opponents will keep re-spawning 
+ and thus you will get caught in hordes of monsters as your poor horse gets hacked to the ground, 
+ then it's only a matter of seconds before all those monsters annihilate you where you stand. It 
+ will take you weeks if not months to finish the game, and once you do that, you can start again 
+ with any of the other 5 characters.
+  
+  Graphically, and to my amazement in this time and age, Sacred's environments are two dimensional! 
+ This only adds to the beauty of the graphics as they are excellently rendered almost like the Commandos 
+ series, and sometimes even better. The characters, however, are 3D and really look realistic and 
+ are properly drawn. You can enter almost all houses uncovering the roof and seeing all the details 
+ that the artists meticulously placed here and there. Zooming in with your mouse wheel doesn't distort 
+ the view whatsoever.
+  
+  The sound is ok in Sacred and the interactive music changes when you shift to battle, if sometimes 
+ too rapidly and queerly.
+  
+  Overall, this game is overly underrated but it a good addition to your long shelf of decent RPGs. 
+ 
+::::::
+
+::::::
+UserName: D1rty_Dawg
+Rating: 8.4
+Date: Jan 26, 2006 3:22 pm PT
+Review:  If you are lookng for a good old fashioned RPG where the aim of the game is to bash monsters, collect 
+ equipment and explore a massive continent then this may be the game for you.
+  
+  You start the game, as in all of these types of games, with nothing but your own skill and wits 
+ and embark upon a journey to make a name for yourself and a bit of cash along the way.
+  
+  First impressions are that it is a bit 'old school', the graphics look nice but are not spectacular 
+ and the game play is a bit basic. But as you begin to peel away the layers you find that there 
+ is a lot more than meets the eye to this game.
+  
+  For starters you can form parties with other computer controlled characters, you get to ride a 
+ horse and fight from the back of it, there are plenty of dungeons to explore and the loot system 
+ is great.
+  
+  As in all of these games, there are different character classes you can play. Wizards and warriors 
+ and other classes in between are all available and each has its own strengths and weaknesses.
+ 
+  
+  Gameplay, for me anyway, is a bit frustrating. To hit something you have to continually click on 
+ it, which is a pain when you are being mobbed or if you click on some dropped loot by mistake when 
+ being attacked. But you sort of get used to it and try to be a bit more careful.
+  
+  I would recommend this game to anyone who enjoyed the Diablo series of games or even the Dungeon 
+ Siege games as the gameplay is quite similar. All in all, a pretty good game and one that is keeping 
+ me entertained for quite some time. 
+::::::
+
+::::::
+UserName: Dr4goNPL
+Rating: 10
+Date: Jan 16, 2006 9:49 am PT
+Review:  In Sacred you can play as six characters: Gladiator, Seraphim, Wood and Dark Elves, Battle Mage 
+ and Vampiress. Each character has numerous of abilities and skills, both magic and melee. There 
+ are four Combo Runes, too. Gameplay in Sacred is great. Its replay-ability is HUGE. Graphics are 
+ sweet too. The looks of spells is totally stunning. Music is great. Dag Winderlich did a very good 
+ work. Value is big 'cause it's cheap and very good. Online play mode is free and it's very good. 
+ There are still not enough servers and the TinCat solution is buggy. But in Sacred sleeps very 
+ big power to blow off. And when you said: "I've got enough of it!", Ascaron Entertainment gave 
+ you expansion set called Sacred: Underworld. Definitely, a game to keep your eyes on. 
+::::::
+
+::::::
+UserName: sosman_mng
+Rating: 10
+Date: Jan 1, 2006 8:30 pm PT
+Review:  realy perfect the sacred underworld is.
+  i like this game
+  it's my easy gameplay first shooter like dat
+  ha ha i like dat
+  
+  When writing your review, 
+ remember to keep the language clean. Reviews must be 100 words minimum. We encourage you to try 
+ to get your review right the first time -- you may choose to edit it later on, but by doing so, you 
+ will lose any positive feedback associated with the review. We encourage you to write your review 
+ in a word processor or text editor, save it to your local disk, then copy and paste it into the 
+ posting box below. 
+  When writing your review, remember to keep the language clean. Reviews must be 100 words minimum. 
+ We encourage you to try to get your review right the first time -- you may choose to edit it later 
+ on, but by doing so, you will lose any positive feedback associated with the review. We encourage 
+ you to write your review in a word processor or text editor, save it to your local disk, then copy 
+ and paste it into the posting box below. 
+  When writing your review, remember to keep the language clean. Reviews must be 100 words minimum. 
+ We encourage you to try to get your review right the first time -- you may choose to edit it later 
+ on, but by doing so, you will lose any positive feedback associated with the review. We encourage 
+ you to write your review in a word processor or text editor, save it to your local disk, then copy 
+ and paste it into the posting box below. 
+::::::
+
+::::::
+UserName: godling69
+Rating: 9.7
+Date: Nov 11, 2005 11:36 am PT
+Review:  I think this game makes a valiant effort towards the genre I love so much, DIABLOesque.  . I have 
+ not played the expansion (Underworld) , and have not read any reviews for #2, but if this is any 
+ showing of the game's ability to make more versions, then I will prolly buy them as I beat them. 
+ Now building two more machines to lan from my apartment to let my friends in on the action!! If 
+ you love Diablo, and got tired of beating #1, #2, and LoD, then I would suggest SACRED to you!! 
+ Go ahead, take my word for it. 
+::::::
+
+::::::
+UserName: Mehfuz
+Rating: 9
+Date: Nov 10, 2005 4:31 pm PT
+Review:  Sacred it's just a great game, though it got only 7.6 but the game is far more
+  better than this score. If you like exploring a huge world and lots of enemy and
+  hundreds of 
+ quests it's the game for you. The graphics of the game is just 
+  superb and sound is also up to the mark. There are 6 character and each
+  posses different powers 
+ and ability to use many types of weapon. The map of
+  the game give you clear idea about your position so you don't have to spent
+  hours for just finding 
+ the correct area. The main problem of this game is some
+  bugs-it sometimes spoils the gameplay otherwise it would be one of the greatest RPG game. Last things 
+ its online play option is fantastic and i am sure you will spent hours in playing that. 
+::::::
+
+::::::
+UserName: mikeherr
+Rating: 7.5
+Date: Oct 23, 2005 5:06 pm PT
+Review:  When first playing Sacred, I found the game really fun. I liked being able to dual class my character 
+ to do a bit of fighting as well as the combat magic. Until you build up your character, the easy 
+ level monsters are a bit hard and I found it frustrating to have to continually back track and 
+ kill off about 50 monsters just to walk about .5 mile in the game. Took forever to arrive at the 
+ next destination. Also, if you like collecting items, this game has a ton of them. Got tedious 
+ though managing inventory. The combo combat skills were supposed to be a highlight of the game, 
+ but I didn't really use as it took too much time for my character to initiate the sequence of each 
+ combo move. By the time he triggered them, I had already taken a million hits from the enemies. 
+ Lots of NPCs to talk with, but their comments were so repetitive that I just by passed them all 
+ together after about the first fourth of the game. Environments looked good, even though only 2D 
+ backgrounds. But didn't like the pixelation when you zoomed in closer. The amount of gold I found 
+ during game play seemed unbalanced. I had more money than I knew what to do with - more than I 
+ could spend on items. I would recommend this game, but probably only to die hard role playing gamers. 
+ 
+::::::
+
+::::::
+UserName: jonsarik
+Rating: 8.1
+Date: Aug 6, 2005 12:06 am PT
+Review:  Great hack-and-slash game. Has an excellent interface and a huge universe to explore. Biggest gripe 
+ about the game is the constant flood of monsters who attack as you try to move between towns, especially 
+ in areas you've already explored and supposedly "cleared out." I hope this is addressed in future 
+ titles as it got to the point that I was running to avoid monsters for sake of brevity and continuation 
+ of story/gameplay. Also would have been nice to have a pause feature during battles, especially 
+ when I get swarmed and can't find the pointer! But these are just minor complaints about an otherwise 
+ immersive, fun game. Yes, it is a Diablo clone but for $20 you get a fun game, great story, and 
+ a chance to just kick some butt! 
+::::::
+
+::::::
+UserName: BlackFlower9
+Rating: 8.9
+Date: May 7, 2005 2:04 pm PT
+Review:  Nun ist es endlich soweit. "Ascaron" gab uns freund- licherweise eine Review Version zum Rollenspiel 
+ Spektakel Sacred. Nach dem der Beta Test erfolgreich zu Ende ging, war es endlich Zeit das Spiel 
+ in seiner ganzen Pracht zu genieen. Der Hoffnungstrger wird hier in Deutschland, von einem Mix 
+ aus Ascaron Mitarbeitern und ex-Mitarbeitern der Software-Schmiede "Ikarion", entwickelt. Doch 
+ worum geht es in "Sacred" ? Wie im Intro zu sehen, beschwrt ein bser Magier einen Furcht erregenden 
+ Dmonen, den er eigentlich zu eigenen Rachezgen missbrauchen wollte. Doch etwas geht schief. Und 
+ schon wird die Welt mit unzhligen Monstern und Mutanten berschwemmt. Wer kann da wohl helfen 
+ ?! Genau, IHR! 
+  
+  Charakterklassen und ihre Unterschiede: 
+  
+  Doch bevor die Welt vor dem Untergang bewahrt wird, msst ihr euch erst einmal fr einen der insgesamt 
+ sechs Charakterklassen entscheiden. Da fllt die Wahl wirklich schwer. Zur Verfgung stehen: Der 
+ typische "hau drauf" Protagonist Gladiator, die wunderhbsche aber dennoch Magisch starke Seraphim, 
+ der Kampfmagier (typischer Magier mit zustzlichen Kampftalenten) , die Waldelfin (Jgerin mit Bogen 
+ im Anschlag) , der Dunkelelf (welcher des Nahkampfes ausgebildet ist und jede Klingenwaffe bedienen 
+ kann) und zu guter letzt die geheimnisvolle Vampir-Lady (welche Tagsber heldenhaft und mutige 
+ Kmpfe bestreitet und sich Nachts in eine blutrnstige Vampirin verwandelt welche den bsen Schergen 
+ mit Kratz- und Bissattacken den Gar aus macht) . 
+  
+  Die Welt "Ancaria": 
+  
+  Habt ihr euch endlich fr einen Favoriten entscheiden knnen, geht es raus in die riesige Welt 
+ namens "Ancaria". Auf eurem Wege durch die fantastische Welt stehen euch abwechslungsreiche 16 
+ Regionen zur Verfgung. Die gesamte Spielwelt lsst sich grob in einen Nrdlichen und Sdlichen 
+ Teil aufteilen. Der Norden der Karte zeichnet sich durch grne Wiesen und Wlder aus. Stdte im 
+ Ritterstil sowohl wunderschne Straen und Grnanlagen lohnen einen Abstecher. Im Sden hingegen 
+ klaffen riesige Fellswnde aus einer heien Wste heraus. Aber auch dieser Teil ist nicht unbewohnt. 
+ Siedlungen, Bauernhfe und etliche alte Grenzfestungen zeichnen diesen Abschnitt der Karte aus. 
+ 
+  
+  Quests und Neben Quests: 
+  
+  Das Spiel zeichnet sich auch durch seinen groen Umfang aus. Neben der eigentlichen Hauptmission, 
+ die euch mit rund 30 Missionen bis ans Ende begleitet, gibt es noch zahlreiche Nebenquests die 
+ euer Interesse wecken sollten. Ob ihr nun einem kranken Mann auf der Suche nach einem Medizinmann 
+ helft oder einem Dieb sein Leben aushaucht, bleibt letztendlich euch berlassen. Wer jedoch hilfsbereit 
+ und ordentlich die Bitten der Dorfbewohner erhrt wird neben Gold und Erfahrungspunkten auch allerlei 
+ interessante Gegenstnde, Waffen, Trnke und Spruchrollen finden. 
+  
+  Die Kmpfe: 
+  
+  Auf den Fhrten des bsen Magiers stot ihr immer wieder auf massenhaft Widerstand in Form von 
+ fiesen Orks, Dieben, Magiern, Zombies, Skeletten und vielen mehr. Grund genug euch mit ein paar 
+ schlagkrftigen Argumenten zu bewaffnen. Diese findet ihr in Sacred noch und ncher. Wie wre es 
+ mit einem frisch geschliffenen, scharfen Schwert welches noch so butterweich durch jeden Ork Kopf 
+ hindurch gleitet. Oder seit ihr lieber auf der magischen Seite aktiv. Dann solltet ihr euch an 
+ eine der vielen Spruchrollen und Zauberstben probieren. Damit ihr eure Finger ein wenig schonen 
+ knnt, hat jeder Charakter bis zu 4 verschiedene Special Moves. Diese knnt ihr im Laufe des Spieles, 
+ mit gefundenen Bchern oder Schriftrollen auffllen. In den Stdten und Drfern Ancarias findet 
+ ihr mchtige Magier, die euch dabei helfen werden, die gefundenen Special Moves zu starken und 
+ effektvollen Combos zusammen zu fgen. Wem dies immer noch nicht genug sein sollte, kann sich beim 
+ Lndlichen Schmied die ein oder andere Waffe mit besseren Schutz- / Angriffswerten aufarbeiten 
+ lassen. 
+  
+  Grund genug fr uns die Welt endlich auf eigenen Beinen (Mausklicks) zu erforschen. 
+  
+  Auf 
+ unserer Reise durch Ancaria begleiten wir den starken und mutigen Gladiator welcher in Schnblick 
+ sein Abenteuer anfngt. Kaum sind wir im Spiel, erwartet uns schon ein echter Augenschmaus. Wir 
+ befinden uns mitten in einer geheimnisvollen Gladiator Arena. Unsere erste Mission soll es sein, 
+ einen Mitstreiter in der Arena zu erlegen. Ist dies geschehen, machen wir unserem (Ex) Ausbilder 
+ klar, das wir fortan auf eigenen Fen stehen wollen. Da dieser scheinbar andere Plne mit uns 
+ vorhatte und pltzlich Handgreiflich wird, muss er kurzerhand umgelegt werden. Nachdem wir uns 
+ mit einem Gleichgesinnten verbndet haben, machen wir uns auf den Weg in die Stadt Porto Vallum. 
+ 
+  
+  Auf dem Weg durch die wunderschne Welt "Ancarias" werdet ihr allerlei Ungetm antreffen. Deshalb 
+ solltet ihr euch vorerst ein kleines EXP (Erfahrungspunkte) Polster aufarbeiten. Fr jeden getteten 
+ Feind gibt es EXP die ihr (nach ausreichender Anzahl) fr ein Charakter Upgrade verwenden knnt. 
+ Egal ob ihr euch fr Strke, Widerstand, Geschick, Charisma, Physische oder Mentale Regeneration 
+ entscheidet, ihr werdet schnell merken wie viel Spa es machen kann einen "Normalo" Charakter in 
+ Top Form zu bringen. 
+  
+  Der Suchtwert: 
+  
+  Wo wir schon beim nchsten Schwerpunkt des Spiels angekommen wren. Der Suchtwert ! Mir persnlich 
+ macht es einfach Spa mit meinem Charakter durch die Welt zu schlendern, fiesen Orks, Drachen, 
+ Diebe etc. den Gar aus zu machen und mir von der verdienten Ausbeute (Gold, Items) neue Ausrstung, 
+ Waffen, Gegenstnde kaufen zu knnen. Der klare Pluspunkt in Sacred geht an die schier unerschpfliche 
+ Item-Vielfalt ! Fast jeder Gegner lsst diese zu Mengen auf dem Boden liegen. Egal ob brauchbar 
+ oder nicht. Gold bringen diese Sachen in jedem Fall ein. Und wenn man schon mal bei einem gemtlichen 
+ Stadtbummel dabei ist, kann man auch gleich noch eine neue Rstung, Helm, Schuhe, Schulterpanzer 
+ und noch zahlreiche andere anziehbare Dinge erwerben. 
+  
+  Die KI (knstliche Intelligenz) : 
+  
+  Die Gegner in Sacred verhalten sich im Groen und Ganzen 
+ annehmbar korrekt. Bei einer berdosis Schwerthieben verschwinden diese des fteren und tauchen 
+ nach kurzem verschnaufen wieder am Bildschirmrand auf. Obwohl der Teamgedanke bei kleineren Goblins 
+ und Orks kaum eine Rolle spielt, merkt man manchmal schon eine gewisse Intelligenz. Nicht nur das 
+ sich die Monster eigenstndig aus dem Kampfgeschehen zurckziehen, nein. Auch Kmpfe "Monster vs 
+ Monster" sind des fteren zu beobachten. 
+  
+  Die Gegner: 
+  
+  Wie schon im Vorfeld erwhnt, bietet die Monsterschublade in Sacred zwar nicht sehr viel Neues. 
+ Dennoch knnen sich die zahllosen, auf der Karte verteilten, Orks, Dmonen, Drachen, Wlfe, Goblins 
+ etc. sehen lassen. Doch damit noch nicht genug. Im weiteren Spielverlauf trefft ihr auch auf Menschliche 
+ sowie bermenschliche Gegner die euch mit fiesen Attacken und Magischen Kunstwerken euer Leben 
+ aushauchen wollen. Die Gegner sind alle samt gut Designt und leicht erkennbar. Leider kommt zur 
+ Halbzeit etwas Langeweile auf, da sich die Gegnervielfalt selten neue Kreaturen ausdenkt. 
+  
+  Die Steuerung: 
+  
+  Das simple "Point&Click" Verfahren ermglicht jedem Spieler eine einfache 
+ und ausgeklgelte Steuerung. Zwar fehlen dem Spiel an gewissen Ecken und Kanten ein paar Wegpunkt 
+ Finder jedoch knnt ihr diese mit gedrckter Maustaste ganz einfach manuell umgehen. Auch die Tastatur 
+ ist nicht zwingend notwendig (ich hab es ausprobiert) . Das "Klick wie wild drauf rum" Prinzip macht 
+ auch in Sacred eine gute Figur. 
+  
+  Musik / 3D Sound: 
+  
+  Kommen wir zum akustischen Unterpunkt des Spiels. Auch hier hat sich Ascaron nicht lumpen lassen 
+ und prsentiert dem Spieler eine Mischung aus verschiedensten Instrumentalen Soundkulissen. Kommt 
+ man beispielsweise, vllig geschafft vom letzten Kampf, in einer Stadt an prsentiert das Spiel 
+ einem eine wohltuende und beruhigende Musik. Geht es auf dem Schlachtfeld so richtig zur Sache 
+ kommt, durch die pltzlich ndernde hektische Musik, schnell Schlachtfeldfeeling auf. 
+  
+  Auch im Punkto 3D Sound konnte ich keine Mngel feststellen. Bei unserem getesteten 5:1 Souround 
+ System wurde jeder Kanal (FL, FR-C-HL, HR) direkt angesteuert und akustisch ohne jegliche Probleme 
+ wiedergegeben. Dieses Feature gibt dem Spiel eine erweiterte Tiefe. 
+  
+  Fazit: 
+  
+  Nach Tagelangen testen der Beta und schlussendlich der Review Version steht fr mich eins fest: 
+ Alle Rollenspiel Fans kommen um diesen Titel nicht herum. Das Spiel bietet eine farbenfrohe Palette 
+ an Gegenstnden, Gegnern und Grafik. Obwohl die Story nicht so gut gelungen ist, macht es trotzdem 
+ Spa das Spiel mit jedem Charakter anzu- oder gar durchzuspielen. Ein groes Lob auch an die RIESENGROE 
+ Spielwelt und die zu Haufen antreffenden (Neben) Missionen. Auch Spieler denen das Genre nicht 
+ gerade in die Wiege gelegt wurde, sollten einmal reinschnuppern. Neben geballter Kampf Action gibts 
+ nmlich auch noch eine ordentliche Prise Humor. 
+  
+  Positiv:
+  - Riesen Spielwelt
+  - Etliche, schier unerschpfliche Quests sowie Nebenmissionen
+  - Umfangreiche Gegenstandsvielfalt
+ 
+  - Toller Soundtrack
+  - (versteckter Humor)
+  
+  Negativ:
+  - an einigen Stellen zu leicht
+  - Gegnervielfalt nimmt ab
+  - Waypoint Finder an manchen Stellen 
+ lckenhaft
+  
+  
+  Systemvoraussetzung: 
+  Mindestens:
+  - 600MHz
+  - 256MB Ram
+  - 1,8GB Festplattenplatz
+  - Ab GeForce 2 gut spielbar
+  
+  Optimal:
+  - 1,8 Ghz
+  - 768 MB 
+ Ram
+  - 1,8 GB Festplattenplatz
+  - Radeon 9500 
+  
+  Wir wnschen uns eine Fortsetzung die uns erneut in die Welt von "Ancaria" versetzen wird. Bis 
+ dahin wnsch ich euch viel Spa beim erforschen und retten der Spielwelt.
+  
+  4,5 / 5 
+::::::
+
+::::::
+UserName: Everclearules
+Rating: 8.2
+Date: Mar 1, 2005 1:53 am PT
+Review:  Definintly a Diablo like game (of which Sacred does not deny) , though not quite up to Diablo II's 
+ quality (yes, even though it was released several years later) , so if you're looking for a game 
+ to beat out Diablo, this won't be it. Before I get started, I'd like to mention that if you absolutely 
+ hate bugs and games that feel like they're incomplete, Sacred definently falls into that category 
+ and as such may be completely unenjoyable to you. 
+  
+  The gameplay is much the same as Diablo (left-click untill it dies, or right click for some interesting 
+ effects) , though not as enjoyable/satisfying. Sacred offers a few improvements over Diablo, and 
+ as usual, a few annoyances. Floating numbers show how much damage you deal, the damage you take, 
+ the damage your allies take/deal, as well as the experience gained. 
+  
+  Many of the characters are the same as Diablo II's with only a few differences. However, the characters 
+ are not as fun to play as Diablo II's. Mainly due to the accesability of spells, and a spell/skill 
+ casting system that is slower than Diablo II's. Spells and Combat Techniques must be found, and 
+ when you use them, they become harder to find. This is extremely annoying for classes that NEED 
+ those spells. As for the system, instead of having mana to cast spells, you must wait for the spell 
+ to 'regenerate'. Unfortunantly, whenever you cast a spell, ALL other spells must be regenerated 
+ before you can cast them. 
+  
+  The world is much bigger than Diablo II's with numerous cities and locations, which are fun to 
+ explore for a while. However, after a couple of days (or hours) you realize there really isn't 
+ any point to exploring besides gaining experience and sometimes a new item now and then. Most cities 
+ have a few people who hand out quests, which give a nice experience reward, though I must say none 
+ of the quests are truly 'fun' or entertaining. 
+  
+  Other annoyances appear throughout the game, such as, instead of the health bar of your currently 
+ selected enemy appearing at the top of the screen as in Diablo, Sacred has made a circle under 
+ the opponents feet. The color changes depending on how hard the oppenent your facing is, which 
+ is somewhat nice, but often times objects and the character itself cover up the circle making it 
+ hard to tell how much you've damaged the opponent. 
+  
+  Pathfinding is also sub-par, which is really annoying considering how much running around you'll 
+ be doing. Even a change in which enemy your attacking could have your character running in the 
+ complete opposite direction. Or running through town will get you stuck behind buildings and again, 
+ running in the complete opposite direction. 
+  
+  There are some other rare bugs that are just as annoying, but for the most part the game consists 
+ mainly of humorous bugs. 
+  
+  There are many wording mistakes when talking to NPC's, and there are a few glitches with items 
+ being too powerful for their level, or the other way around. Then there are a few items that get 
+ really weird, which you'll just have to find out for yourself should you buy the game. 
+  
+  Diablo II wins in just about all aspects besides graphics and statistics (Sacred gives alot of 
+ information about your character, which is quite nice) . It comes down to: If you want a game that's 
+ better than Diablo, Sacred is not it. If you want a game that is relativly bug free, Sacred is 
+ not it. If you want a game to get addicted to, Sacred is not it. If you want a game to play every 
+ now and then that follows the same hack-and-slash as Diablo, give Sacred a try. I would suggest 
+ either playing the demo and seeing how much you like it, or waiting for the price to drop. 
+::::::
+
+::::::
+UserName: doctor_kaz
+Rating: 8.2
+Date: Feb 4, 2005 6:49 pm PT
+Review:  Sacred is a fun game. How Dungeon Siege could score higher than this game, I have no idea. Im 
+ not really much of a fan of Diablo-style games, because they are usually so repetitive and unrewarding. 
+ But Sacred manages to break out of those doldrums in a few ways.
+  
+  The first way is with the graphics. Sacred is a beautiful, and it seems highly inspired. The game 
+ looks a lot better in motion than it looks on the screenshots. The scenery is all pre-rendered 
+ 2D stuff, but its highly detailed, and there is a lot of variety to it. You never really get the 
+ feeling that you are trudging around through tilesets like you do playing Diablo 2, Dungeon Siege, 
+ or Neverwinter Nights. The running and horse riding animations dont look very good, but the fighting 
+ looks really cool. Spell effects are impressive to watch, and so are ordinary hack-and-slash animations. 
+ Some of the games bigger monsters are also very menacing. Also, your character is highly detailed 
+ and stylish. And since lots of weapons and armor have a unique look to them, your appearance changes 
+ throughout the game. Your equipment is highly detailed, and magical items glow distinctively. Sacred 
+ is the ultimate example of art direction overcoming the limitations of average technology.
+  
+  The games audio is also impressive. Battles sound very fierce. Your character has all sorts 
+ of battle cries and taunts and you hear them along with the usual variety of enemy monster sounds. 
+ The game has a pretty satisfying blade-on-flesh noise when you score a hit and youll sometimes 
+ hear monsters taunt you or scream in pain. Likewise, your character emits a variety of battle cries 
+ and taunts. When youre not in battle, your character has lots of other little comments. I played 
+ the Vampiress through the campaign and she was never lacking in a cynical remark while encountering 
+ helpless villagers or finishing off a bunch of enemies. Each class has a lot of voice-acted lines 
+ in the game, which is a pleasant surprise. The music is fairly low-key, but chances are when you 
+ notice it, youll enjoy what you hear. 
+  
+  But the best, and most important distinction, is Sacreds huge open-endedness. The world of Sacred 
+ is massive and open-ended in the same way that Divine Divinity and Morrowind were. The world feels 
+ very alive and immersive. You can generally head in any direction that you want at any time, although 
+ youll have to be careful to avoid places that are too powerful for you. In some ways, Sacred picks 
+ up where Divine Divinity left off. Its too bad that open-ended games like this have almost disappeared 
+ from the PC.
+  
+  The conventions of sword, staves, and sorcery are here, but there are some interesting additions 
+ as well. Namely, the skills system has lots of creative and unique powers. The classes are substantially 
+ different, although there are some balance issues. Overall, Sacreds character development system 
+ is average to above-average. The same can be said for the battles, which usually involve repeating 
+ your primary attack over and over again while sprinkling an occasional special ability. This is 
+ the convention for hack-and-slash RPGs nowadays though, as are the ordinary kill monster, get 
+ item quests that dominate the game.
+  
+  The game has respawning enemies, and God are they annoying -- probably the worst part of the game. 
+ Some of the games quests require you to traverse across an area more than once. Clearing the area 
+ isnt too bad the first time, but doing it a second or third time gets especially tedious. This 
+ is even worse if the level of the area is so low that it doesnt even provide you with any challenge. 
+ Sacred, actually, is too easy of a game. Even with the latest patch (version 1.7) , it is still 
+ somewhat easy to find exploits that can make you overpowered for whatever point you are at in the 
+ game. 
+  
+  Its very easy for games like this to get boring, but Sacred avoids that by giving you a huge variety 
+ of monsters to fight and environments to explore. For a game that will take you 70+ hours to play 
+ through once, thats saying a lot. This game isnt immune to the shortcomings of the genre, but 
+ it does have enough strengths to separate it from the pack. I highly recommend the game to satisfy 
+ your hack-and-slash desires. 
+::::::
+
+::::::
+UserName: underdark944
+Rating: 6.2
+Date: Nov 21, 2004 10:59 pm PT
+Review:  Sacred is a RPG that was surely a lot inspired by Diablo 2, the classic. I'll tell you that, right 
+ now, this game doesn't stand long against Diablo 2. First of all, this game is bland repetitive 
+ and there's no fun at all. Plus, the scenario is a copy of Blizzard's marvel. Even if there are 
+ things that are pretty fun and unique in this game, the fact that it is not fun overwhelms everything.
+ 
+  
+  The combat is so much repetitive, you'll want to not play again until 1 week. You advance, kill 
+ some monsters, heal yourself, and continue. Plus, the quests are not original at all, they just 
+ require you some frustration at reaching them. I went until the Act 3 of 4 then decided to stop 
+ playing this because it cause only frustration. The awful save system killed me. I never found 
+ how to do a quick-save and was then obligated to save manually after nearly every monster because 
+ I didn't wanted to go all to way back to the city, all the monsters spawned back ( grr....) In 
+ fact, you just go straight for 2 min killing monsters, then stop and go back all the way to where 
+ you came, but all monsters are spawned back, it's really bad to play.
+  
+  There are 5 classes in the game, Barbarian, Seraphim, Dark Elf, Wood Elf, Battle Mage who all have 
+ there unique spells and equipment. To gain spells, you must find them and cannot upgrade at will 
+ when changing level ( like it was in D2 ) . This could've been good. But the spells are really rare 
+ so you're caught with low-level spells which forces you to use a weapon, whichever class you are. 
+ I tell you, when you are a mage, this sucks.
+  
+  Otherwise, the skills development is okay. You can choose to put a point on a skill you already 
+ have or to choose a new one from a selection list. This is pretty normal fare, but it's okay.
+ 
+  
+  You also gain access to horses which you can buy at stables. Yes, it's every Diablo-fanboy dream 
+ but it's badder than you thought it would be. At the beginning, it's okay but later in the game, 
+ you buy a horse, it resists to like 10 minutes then it dies and you're caught to walking back to 
+ the nearest town.. which is probably not that near.. yeah happy dull combat all the way!!
+  
+  A good thing for most persons, but bad for some reasons, is that the map is huge. At the beginning 
+ you're happy cause it makes you think of Morrowind ( which i recommend very much ) . But the quests 
+ are so far from one another that it means lots of bland combat all the way there. Plus the money 
+ you get from them is totally unuseful since you can't buy anything very useful except some health 
+ potions which they don't have in big quantities.
+  
+  Sacred is a major disappointment for me and I won't buy Sacred: Underworld. You'd better go back 
+ to Morrowind, it's way better, or even Diablo2. 
+::::::
+
+::::::
+UserName: TazmanianD
+Rating: 6.3
+Date: Oct 30, 2004 9:48 pm PT
+Review:  I should start off by saying that I am not generally a big fan of action-RPG games. I have never 
+ played Diablo because it never sounded like my kind of game. I am a big fan of adventure-RPGs like 
+ Planescape: Torment, Baldur's Gate II and Wizardry 8.
+  
+  That said, Sacred is almost all about hack-and-slash. The game is geared toward fighting through 
+ armies of monsters, gaining experience points and acquiring random loot items. The game is even 
+ designed so that once you finish the game, you can play it again on increasing levels of difficulty 
+ with more powerful items and more experience points for each difficulty level.
+  
+  The graphics in the game are just fine and what one would expect from today's RPGs. One thing that 
+ does help the game stand out from other RPGs is that the world is quite large. The entire surface 
+ world of the game is one giant map with no loading zones. You are highly unlikely to explore the 
+ entire explorable area (I think I was at 30% when I finished the game) .
+  
+  In my opinion, the worst part of the game are the quests (both the main quest and the side quests) . 
+ The story of the main quest is not particularly captivating and I often found myself forgetting 
+ (and not caring) what I was trying to do. The side quests are terrible. They are obviously randomly 
+ generated and every one of them follows the same boring formula of "go here, get this thing/kill 
+ this thing, come back here". If I hear, "Time is running out. Be back in a day or it will be too 
+ late" one more time, I'm going to scream. Not only that, but the quests aren't about hunting around 
+ trying to find the solution because the map marks the location of all of the quests. When you get 
+ a quest to go kill a monster, the map is marked with the exact location of the monster. When you 
+ kill the monster, the exact location of where you have to return to claim your prize is then marked. 
+ The same is true of the main quest where the exact location you have to go is marked on the map.
+ 
+  
+  The items also aren't terribly captivating. Unlike games like Baldur's Gate where as you progress 
+ through the game, you acquire more powerful and interesting items, each with individual stories. 
+ In this game, all the items you acquire a randomly generated with random stats. No special items 
+ to be found. There's also no purpose in opening every barrel and every chest in all the towns and 
+ in the wilderness because none of them contain anything special. In fact, there's really no reason 
+ to go into any of the buildings in the towns unless the map has a merchant marked you want to visit.
+ 
+  
+  The combat is also a little frustrating in that it's repetitive and the game doesn't make it easy 
+ for you to use all of your skills. I played as a Warrior Mage and in the game, you get 16 different 
+ spells to use, but to actually use them, you have to assign them to one of (up to) five spell slots. 
+ The game doesn't make it terribly easy to quickly switch to other spells so you find that you play 
+ the game with the five you like the most.
+  
+  The magic system works a little differently than most RPGs I've played. Instead of having a fixed 
+ number of spells or mana, each spell has a regeneration period attached to it. Once you cast a 
+ spell, all your spells are reduced by the regeneration time of the spell you cast (but not below 
+ 0) and once any of them regenerate, you can cast that spell. For some spells, the times are generally 
+ sub-second and they don't usually get to more than a few seconds (unless you use combos) . This 
+ means you basically have an infinite amount of magic to use.
+  
+  I didn't really use weapon combat since I was a mage, but from what I know, it's just a matter 
+ of clicking on the enemy you want to attack and holding down the mouse button to continue attacking.
+ 
+  
+  Gold is also totally irrelevant in this game as you acquire a large amount early in the game (not 
+ there's really anything interesting to buy) and end up with an obscene amount at the end (I had 
+ 10 million) . 
+::::::
+
+::::::
+UserName: mr_elusive
+Rating: 8.8
+Date: Aug 22, 2004 2:01 pm PT
+Review:  If you are a RPG fan, you will probably like this game. It has its own feel and a unique system 
+ of combat, defense and magic, and that takes a while to get used to. However, it is fairly functional 
+ and there are alot of different components. I have been playing as a Battle Mage, so I can fight 
+ and I have quite a bit of magical powers, so that creates some diversity. I have noticed the game 
+ is a little buggy, sometimes my player will get stuck next to a object and bounce back and forth 
+ for a while. Also, sometimes you have to click on objects a few times before the unit will do something.. I 
+ downloaded that latest patch and saw no fixes for that issue. Overall a good game. 
+::::::
+
+::::::
+UserName: j-miller
+Rating: 8.5
+Date: Aug 21, 2004 8:02 pm PT
+Review:  Once again another RPG creeped up from behind me and so I bought just to see if it can run on my 
+ computer. Luckily I managed to figure out the plot, controls, graphics, ect and I was impressed 
+ for many reasons.
+  
+  Gameplay: 8 out of 10
+  Just like Diablo except costumizing your character is alot harder than in most RPGs.
+  
+  Graphics: 
+ 10 out of 10
+  More 3 dimensional than Diablo 2.
+  
+  Sound: 7 out of 10
+  Oh don't get me started with the horrible voice acting and aweful music.
+  
+  Value: Confusing 
+ at times but very addictive!
+  Score: 6 out of 10
+  
+  Reviewer's Tilt: 10 out of 10
+  Be sure to eat this one up before Guild Wars arrives.
+  
+  Overall Score: 8.5 
+  
+::::::
+
+::::::
+UserName: BeyondZork
+Rating: 6.7
+Date: Aug 16, 2004 7:07 pm PT
+Review:  Games are supposed to be fun to play. Thus the term "gameplay." WhileSacred looks good, sounds 
+ decent, and offers several features enticing to any RPGer, ultimately it is hindered by a clumsy, 
+ point and click interface and the lack of a pan / rotate camera feature.
+  
+  I've heard alot about how good Sacred looks. C'mon. It looks decent, but it is not mind-blowing. 
+ No amount of gorgeous graphics can make up for frustrating, tedious gameplay, and while I haven't 
+ spent alot of time with Sacred (so take this for what it's worth) the little time I did spend playing 
+ after my install was more than enough to demonstrate that, for me, Sacred could never be fun. The 
+ point-and-click attack feature is standard, but the problem is that, when using my Wood Elf with 
+ her Bow, I found myself frantically trying to click on approaching monsters before they closed 
+ ground, only to find that OOPS! my click was off by a hair, and instead I'd ordered my character 
+ to CHARGE! right into the midst of close combat. The lack of an auto-attack feature (ala Shift+Left 
+ Mouse) is puzzling.
+  
+  Also, any 2d/3rd person RPG with an overview of the battle field simply must have a smooth pan 
+ feature IMO. While the zoom in/out feature is nice, I found that rarely did I have a chance to 
+ zoom in and appreciate the graphics because, (since I couldn't pan the camera and look around the 
+ environment) I had to stay zoomed out to see approaching monsters, pathways, loot, etc. 
+  Where Divine Divinity had the pan feature, it was way too herky jerky to be visually calming. Sacred 
+ has NO pan feature, and that is frustrating for me to play. 
+  
+  Ultimately, for me, no amount of loot, no gorgeous armor, no amount of experience and leveling 
+ and side quests etc. could make up for poor gameplay. I'd rather have a 5-10 hour game with 5-10 
+ levels of XP and only a few quests, that plays fantastic, than 40 hours of tedious, point and click 
+ frustration. 
+::::::
+
+::::::
+UserName: aamos
+Rating: 7.9
+Date: Jul 15, 2004 9:50 am PT
+Review:  Sacred is a good action RPG. There is a story that ties it together, but mostly its hack, slash, 
+ and spell cast your way through hordes of enemies to reach your next destination. Where to go next 
+ is always clear, and if you aren't in a hurry there are plenty of side-quests to occupy your time, 
+ and help level you up. After a while the continuous grind of killing enemies, thousands by the 
+ time you finish the game, gets to be a bit much. Also re-spawn rates are very high, don't try to 
+ go back the way you came, you have to fight your way back. Fortunately "portals" are opened so 
+ that you rarely have to.
+  
+  I marked off on the graphics, they are pretty, but are locked to 1024x768. I would have liked to 
+ see more. Sound is also ok, but nothing spectacular, voice acting is also acceptable. Its a good 
+ value with a low price a long main quest completion time, and fair repeatability. I chose to move 
+ on to another game, but there were large areas of the game world I had not visited, and I could 
+ either have picked a new character type, or chosen to replay again with my old one, but starting 
+ at the level I was after completing the first run through. 
+::::::
+
+::::::
+UserName: Thornorway
+Rating: 7.9
+Date: Jul 8, 2004 12:11 am PT
+Review:  Ascaron is not one of the most well know developers of games but this one is an action packed game 
+ in the same genre as for example Diablo 2. In the beginning you can choose from 6 different playes 
+ including a gladiator, a forrest elf, night elf, battle wizard and two special characters Seraphim 
+ and Vampyr and ofcourse all the different charachters have different abilities you can use on your 
+ quest to conquer this game.
+  
+  Sacred is very good to look at. It always is nice lil details to look at from moist fog to over 
+ hundred different armour or small lil bloodspot on the clothes after a hard fight, the list is 
+ long.
+  
+  The game have some bugs both in the singleplayer and the multiplayer so be sure to patch this. 
+ 
+::::::
+
+::::::
+UserName: jdhas
+Rating: 9
+Date: Jul 7, 2004 4:28 pm PT
+Review:  I finally just finished my first game of Sacred with a Barbarian, and I can't wait to go back for 
+ more! From the level of detail put into the appearance of each and every item that you equip your 
+ character with, to the random and very funny little comments that s/he will make while venturing 
+ trhrough this remarkably huge land, Sacred is a game loaded with tons of juicy gems.
+  
+  The graphics are excellent and functional, the spell and skill system are unique if a bit limited, 
+ and the story line is no worse than any other action RPG, and better than many.
+  
+  Highly recommended. 
+::::::
+
+::::::
+UserName: evarmy98x
+Rating: 8.1
+Date: Jul 2, 2004 12:58 pm PT
+Review:  Initially Sacred looks like the kind of game Diablo II should have been years ago. It's the same 
+ isometric viewpoint cleaving-skulls-in-twain rpg/adventure game. Unfortunantely the balance seems 
+ to be way off on the first difficulty setting, Bronze. Playing as the combat-heavy Gladiator it 
+ should only take a few hours of playing before your character can cut through dozens of foes without 
+ suffering much more than a scratch. The first parts of the game are especially easy on the Bronze 
+ difficulty. The next step up, Silver, is the reverse. Enemies are -much- tougher and the vital 
+ potions that appear in abundance on the easier setting are mostly absent. 
+::::::
+
+::::::
+UserName: chaincat
+Rating: 7.6
+Date: Jun 13, 2004 9:49 pm PT
+Review:  Sacred is an entertaining Diablo-esque game. The problem is that Sacred lacks the depth of Diablo 
+ when it comes to character customization and treasure hunting. While there are uniques and set 
+ items you don't really find really cool items that get you hooked on the treasure hunting aspect 
+ like Diablo or DII does. Leveling isn't really important so that aspect of the game feels a lot 
+ like treadmilling. There isn't a whole lot of anticipation for the next level as about the only 
+ thing that happens is that you get more hit points and a little bit better stats. 
+  
+  The graphics are ok but not amazing. There isn't a whole lot of variety when it comes to the monsters 
+ that you fight. One thing that IS cool is that you do fight some truly enormous monsters but they 
+ are too few and far between.
+  
+  In my opinion the online aspect, the best part of Diablo II, is terrible in Sacred. The interface 
+ is extremely flawed, often during multiplayer games I find myself wondering what the heck the programmers/designers 
+ where thinking or if they had even played the multiplayer side. A couple examples are: In single 
+ player mode you can press 'a' to automatically pick up all of the items from recently slain foes 
+ near you. This removes a lot of tedium but that functionality is turned off in multiplayer mode, 
+ ostensibly because other people might steal your stuff (which they can do anyways...) Another half 
+ baked idea in multiplayer is riding horses and fighting on horseback. In single player this can 
+ help quite a bit adding speed and defense but in multiplayer it is completely pointless. Everytime 
+ you want to open a chest or interact with an item in the world you have to dismount, often you 
+ must do so to pick up items from the ground as well. While that makes sense it negates any benefit 
+ riding a horse may have as getting on and off your horse is time consuming and anoying.
+  
+  Finally there are fairly signifigant stability problems in multiplayer and some fairly major glitches 
+ in single player. Connecting to multiplayer games can be a pain and the games themselves tend to 
+ be laggy and overall just anoying. The single player mode is much better in my opinion. 
+::::::
+
+::::::
+UserName: gryn
+Rating: 5.6
+Date: May 28, 2004 4:53 pm PT
+Review:  This game is very promising and follows in the footsteps of games like Diablo. If you liked Diablo 
+ or Diablo 2 you will enjoy the gameplay found here. The leveling system takes a unique twist which 
+ allows the players to continually add to their skills or combat arts by using runes dropped by 
+ monsters or npcs. The more runes you use the more effective your skills/spells will be, however 
+ you will have to wait longer for them to regenerate. This game does not use MP or mana found in 
+ other games of the genre but instead your skills regenerate naturaly and you can decrease the waiting 
+ time by adding points to various attributes when your character levels up.
+  
+  You can customize some of your weapons and armor at a blacksmith using amulets or rings found in 
+ the game. You can teleport instantly to other members of your party by clicking on their names 
+ at the edge of the screen. The world is open from the begining allowing you to travel anywhere 
+ you want, and horses provide additional speed for getting around quickly.
+  
+  Sacred however is buggy. It would seem the game did not undergo extensive beta testing. Hosting 
+ a server sometimes causes your characters name to disapear permanently. Some players report exessive 
+ crashing when applying new patches, and some of the side quests cannot be completed because the 
+ NPCs don't alway acknowledge that you've finished their task. 
+  
+  This game is promising and definitely refreshing if you've enjoyed Diablo and games like it, but 
+ the bugs and current state of the game (1.66) make for a very frustrating experience. 
+::::::
+
+::::::
+UserName: Arkali
+Rating: 7
+Date: May 7, 2004 5:35 pm PT
+Review:  I really want to like Sacred. I fell in love with the demo and purchased the game, and had great 
+ fun playing it for a week or so. Then the problems started. I downloaded a patch. The patch broke 
+ things. Now the game crashes every time I go to a certain area. Hmmm.
+  
+  Firstly - character creation is very cool. You have very different, but all very enticing, character 
+ types to choose from. The gladiator, battle mage, dark elf, seraphim, vampiress, and wood elf all 
+ have beautiful graphics and their skill sets are all different. The world is very engaging - nice 
+ music, breath-taking graphics. The addition of horses is also welcome. The interface is slightly 
+ clunky, but it's workable.
+  
+  In fairness - if it weren't for this latest patch-induced bug, I'd have given the game much higher 
+ tilt and value - probably bringing the score up to a 7.9. However, in its current state, I just 
+ can't bring myself to do it. 
+  
+  Final opinion - if you like Diablo, get this game, but wait for the next patch (1.7) Right now 
+ you'd just be asking for frustration. 
+::::::
+
+::::::
+UserName: JediLord
+Rating: 9.5
+Date: Apr 7, 2004 1:04 pm PT
+Review:  Very addicting game. First of all, the world is huge. You'll spend hours upon hours and only found 
+ out that you've explored but a small portion of the world.
+  Items system is great, though the item names are sometimes stupid and repititive (probably because 
+ of the translation) . Many different modifications can be found on items, such as critical hits, 
+ percentage increase in length of day/night (particularly useful if you play a vampiress) , and a 
+ percentage chance that damage taken will reduce gold but not hit point (good if you have a lot of 
+ gold) .
+  Monsters are generally interesting, prepare to fight zillions of them. There are dragons, undead, 
+ and all sort of traditional fantasy creatures. Certain creatures can fly pass obstecles and attack 
+ from above, so be prepared!
+  Combat arts are generally interesting and fun to use. 
+  This game however does have some shortcomings. There are many bugs in the first version, though 
+ some are fixed in the patches, there are still many left.
+  The game also suffer from periodically crashes, so be prepared to get frustrated once in a while!
+ 
+  However, the developers are working hard on cranking out patches to fix all these! 
+::::::
+
+::::::
+UserName: wiggywiz
+Rating: 8
+Date: Apr 7, 2004 8:53 am PT
+Review:  Sacred is a great hack and slash RPG game, and in many ways is superior to Diablo 2
+  
+  The game is HUGE. You will spend HOURS exploring all the nooks and crannies and finding the hidden 
+ dungeons and bosses and quests. 
+  
+  Quests are random (some are borked yes but there is work being done it)
+  
+  The devs are listening. 
+ Diablo 2 had TEN PATCHES before it was done.
+  
+  And they gve it a high review because its Blizzard. This game is a ton better. The combat is better, 
+ the abilities are more fun, and the atmosphere is fantastic. Right down to kids that cahse you 
+ around in towns heckling you.
+  
+  To quote the devs on the forums:
+  
+  We are currently working on many improvements for Sacred. You can bet that we will do our homework.
+ 
+  
+  BTW.:
+  
+  Thanks to all of you for your great feedback.
+  
+  That is why this game is a FANTASTIC BUY and will continue to only get better.
+  
+  Desslock, 
+ why is he considered the King of RPG knowledge, honestly?
+  
+  The guy gets free games to review and play and that makes him a "king"?
+  
+  I hardly think so. 
+ Most of us older people have been around CRPGS way longer than him so I hardly think that qualifies 
+ him as an expert.
+  
+  Personally the review I think is a tad off on the score.
+  
+::::::
+
+::::::
+UserName: arune821
+Rating: 9
+Date: Apr 6, 2004 8:51 pm PT
+Review:  OK, I was watching out for this game since I played the demo.
+  
+  I never really cared much for the dated graphics of Diablo, so I was happy to play a game that 
+ had the game play of Diablo with MUCH better graphics.
+  
+  My only real complaint is the game is soooooooooo buggy. Especially out of the box, I had just 
+ installed Windows XP service pack 2. The insane CD verification conflicted with the new security 
+ feature of SP 2. Now Im all for companies trying to make sure their game isnt pirated, but I 
+ thought that CD verification was just a little much. The game also has a few glitches like character 
+ misplacement, a weird animation to get off of the horse when attacked, and just overall, it has 
+ way too many obvious flaws.
+  
+  The extra potions are DEFINITELY kool. And one of my favorite graphical enhancements is EVERY piece 
+ of armor show up on my character, and the graphics are all cosmetic.. not based on the level of 
+ protection. And some of the spells are very pretty to look at.
+  
+  Other than that, I pretty much agree with Gamespots review but I thought some of the scores should 
+ have been higher.
+  
+::::::
+
+::::::
+UserName: fosternicholas
+Rating: 9.5
+Date: Apr 6, 2004 7:19 pm PT
+Review:  To be honest, I never was a Diablo fan. The game was too repetitive and just down right boring, 
+ so when I heard that Sacred was going to be another Diablo clone, pretty much paid no attention 
+ to it. I ended up not spending any money on this game, in fact, I won it, so I thought that I would 
+ give it a try, and I loved it!
+  Where Diablo was repetitive, this was original. The only draw back that I have to the game is the 
+ sound. As I was playing the voice acting for my main character was a little off. He kept saying 
+ these weird statements that were supposed to be funny, but in the wierdest locations. For instance, 
+ he says "What wonderful architecture, I wonderful if I can get my tower to look like this" in the 
+ middle of a field!
+  This game has incredible reply value. It has 6 characters and each character can be developed differently 
+ eachtime.
+  I highly recommend this game. 
+::::::
+
+::::::
+UserName: KingCobraPHX
+Rating: 9.2
+Date: Apr 4, 2004 5:57 pm PT
+Review:  Addictive! This is a fun, involving game. Ascaron has blended Diablo II and Baldur's Gate with 
+ a dash of Ultima thrown in. It's a solid game with solid features. Sure there are a few glitches, 
+ but the developers have been quick to listen to the players and have corrected their errors. I'm 
+ impressed. The graphics are solid and are surprisingly beautiful to look at. I guess it's the little 
+ details that impress me most - the rabbits that run around or the deer that get startled as you 
+ ride by. The sounds are crisp and clear and the music is appropriate to the mood. The only flaw 
+ I would even hint at would be the lack of random maps - BUT, the game world is amazingly extensive 
+ and it's easy to "forget" about previous locations. The 6 character classes each offers their own 
+ unique twist, making the game playable at least 6 times. Overall, 'd say that Ascaron has once 
+ again created an in-depth, detailed, playable game. Guten Job, meinen Freunden! 
+::::::
+
+::::::
+UserName: catdoglee
+Rating: 10
+Date: Mar 30, 2004 7:36 pm PT
+Review:  Well , to start off , I am a huge RPG FAN ! And "SACRED" is one of the most enjoyable RPG's I've 
+ ever played ! The graphics ,sound, etc. , are great but not unbeliveably amazing. What makes this 
+ game so fun is all the different aspects of it and how they work together. All the different types 
+ of characters you can play , riding horses , doing all the quests ....... it all comes together 
+ to really be a blast to play ! I am referring to the single player game and if you like RPG's you 
+ need to try this game.... you won't be disappointed...... 
+::::::
+
+::::::
+UserName: Treadstone71
+Rating: 7.8
+Date: Mar 29, 2004 10:58 am PT
+Review:  After 50 hours of playing through Sacreds Multiplayer Coop with a friend, I have come to the conclusion 
+ that Sacred is akin to an abusive relationship. The defining characteristic of an abusive relationship 
+ is that its actually really good for a while before it becomes abusive  so when the abuse starts, 
+ the person on the receiving end thinks, This is really bad, but I know that if I stick through 
+ it long enough, things will be good again. And in this way, abusive relationships are a trap  
+ because if they were continuously abusive 100% of the time, it would be very easy to leave
+  
+  What does this have to do with Sacred? I will first say that Sacred is incredible. It is hands 
+ down better than Diablo or Diablo II or any other 3rd person Isometric view CRPG ever created - 
+ when everything is working the way its supposed to.
+  
+  That being said, the game is plagued with bugs. While they are not show stopper bugs, they are 
+ numerous enough and prevalent enough to be really heartbreaking. And yet, there are times when 
+ the games plays perfectly as it should and the gameplay is awesome. So as youre sitting there 
+ gritting your teeth over something that isnt working the way it should, you keep thinking to yourself, 
+ well I know the gameplay will get better if I keep playing  i. e. an abusive relationship.
+  
+  What bugs? Ill preface the answers with the fact that all of my experience is with the Multiplayer 
+ Coop LAN version of the game. I have not played single player, nor have I played Internet Online, 
+ so I cant speak for those. Also I am running version 1.5 of the game having downloaded the patch 
+ right away. 
+  
+  For starters, if you are the host for a multiplayer Coop game, after the first time you save and 
+ then reload your game, your character's name disappears. Never to be heard from again. Zippo. Nada. 
+ Nichts. Nichevo. From then on you are known as   or Dark Elf or whatever character class you 
+ chose, depending on the games mood. Not a show stopper, but mildly depressing, as (for me anyway) 
+ the creation of the character name takes up 90% of the time involved in creating a character. To 
+ have it so suddenly yanked out from under you is annoying to say the least. But I can live with 
+ it because after all, it is only a couple of 1s and 0s encoded on a disk somewhere.
+  
+  Horses. Absolutely awesome idea, really fun to ride around and just a generally cool thing. When 
+ they work. Number one: When you load a saved game  your horse is gone. Never to be heard from 
+ again. Zippo. Nada. Nichts. Nichevo. If you saved out in the middle of nowhere, youre stuck having 
+ to walk back to a town with a stable and buy a new one. Number two: whenever you come out of a 
+ house or a dungeon, or what-have-you (anything that requires the game to load an area from disk) , 
+ about 40% of the time, your horse is stuck. You get on it and it wont move. Its dead in the water. 
+ I have found that if you hop off the horse, walk off the screen and whistle for it, it will come 
+ to you. You can then hop on it and try again. But it probably still wont move. However, if you 
+ do the walk off the screen/whistle for your horse enough times, it will eventually work again. 
+ It just may take four to ten times to get it going.
+  
+  Next up: Lag. You should _never_ experience lag on a 100 megabit switched home LAN. Ever. Period. 
+ Zippo. Nada. Nichts. Nichevo. But in Sacred, you do. Quite frequently. The game will slow down 
+ to a crawl. Itll become incredibly choppy, the connection between local PCs will lose sync and 
+ the other player will start jumping all over the screen. This happens about once every ten minutes 
+ or so. Again, you think, man this is terrible, but if I just wait it out, the game will get better 
+ again... And for those wondering, I'm not running any network intensive apps in the background. 
+ I keep both boxes lean and clean for the sole purpose of having good gaming experiences.
+  
+  The developers added a nifty device for allowing your players to stay together. If you want you 
+ can CTRL-Left click on the players name at the edge of your screen and youll be instantly teleported 
+ to their location. However, due to the bug where your character name disappears after the first 
+ save/load of the game, the click space for the other player teleporting is about two pixels wide. 
+ Not a big deal but annoying. However, again, about 40% of the time when they teleport to you, they 
+ appear in the middle of their horse and theyre permanently stuck there. No amount of clicking 
+ or action will free them. You have to save and reload again to get them unstuck.
+  
+  There are other numerous little things like the other players appearing standing on their horses 
+ or standing offset from their horses but clearly the game thinks theyre riding on the horse so 
+ their standing figure is ripping around the screen with the galloping horse off to the side. Horses 
+ continuously appear with quest symbols (a ?! icon) over their heads and you cannot get rid of them. 
+ Quest characters that you have to escort to a specific place continue to follow you around even 
+ after you get them to where they need to go. The only way to get rid of them is if they die in 
+ combat and then the quest changes to incomplete. Some quests dont appear to complete correctly 
+ even when you do complete them.
+  
+  All of these issues are so minor individually but they add up as a whole to make an abusive experience, 
+ because, as I said, when the game works, when it plays the way its supposed to, its just incredible. 
+ And its so good that youre willing to overlook all the pain of these bugs to keep playing it. 
+ Because if you play long enough, you know the game will work the way it should for some unspecified 
+ period of time.
+  
+  Hopefully Ascaron will release more patches because as it is, this game is still in need of some 
+ serious patching. If they do fix the bugs, this game will become the greatest action oriented multiplayer 
+ CRPG romp ever. Nothing else would come close. Zippo. Nada. Nichts. Nichevo. 
+::::::
+
+::::::
+UserName: WilOTheWisp
+Rating: 9.7
+Date: Mar 27, 2004 9:08 pm PT
+Review:  Absolutely awesome fantasy RPG on all levels. Where to begin due to how well rounded and polished 
+ the entire game is as you progress through it.
+  
+  There are over 200 mini-quests and 30 main quests that should take at least 80+ hours to finish. 
+ 70% of the world is explorable without needing to do the main quest that slowly unlocks the other 
+ 30% of the game world. There are 6 different classes to play. I chose to play a Dark Elf. As you 
+ level you get to choose what main attributes you raise and every so many levels you get to choose 
+ a new skill to form how you want to play your character. For example, I took duel wielding at level 
+ 3 but could have chosen weapon lore to give an edge on hits with a bladed weapon/shield combo instead.
+ 
+  
+  The graphics are fantastic and barely break down when you play completely zoomed in. You have the 
+ option of zooming out which gives you about a two square city block view of the world around your 
+ character or all the way in for a close up view. The water looks particuliarly amazing. I should 
+ mention I am running ATI's 9800 Pro Card with 256MB of Ram tho. I imagine the level of detail could 
+ very if you don't have the horse power to have everything turned on and checked. 
+  
+  Gameplay is quite simply FUN. The interface is easy and quick to learn giving you shortcuts to 
+ your journal, inventory, options menu, and all potion types in game along with weapons and combo 
+ moves/spells. You can create your own combo attacks. As you progress and find new combat skills, 
+ you can then visit with a combo master. So for example, with one shortcut button push or my right 
+ mouse button I activate a combo I made. It gives me a hard hit (1 enemy) , a multi-enemy hard hit 
+ spinning attack pushing all enemies away from me, I then throw a magical trap followed by a 2nd 
+ exploding trap. Based on the level of the combo you design and your attributes dictating regeneration 
+ time will determine how often you can use your combos. Weapons and armor are random drop on statistics, 
+ a la Diablo II or Asheron's Call online. Weapons have upto 4 slots that allow you to upgrade magical 
+ stats and properites to your choosing when paying a weapon smith for the work. You can purchase 
+ a horse to use to get around the world quicker. You can even trample your enemy or dismount to 
+ engage normal. There are portals that quickly transport you around the world so you aren't spending 
+ endless hours crossing the HUGE world.
+  
+  What seems to excite most is the online aspect of the game. You can play on your local LAN with 
+ upto 4 people choosing to do the actual single player campaign together or playing in the 70% of 
+ the world unlocked by default. You can also choose to play with upto 16 people online and opt for 
+ Player vs. Player. Needless to say there will be a lot of online play that will extend the life 
+ of the game greatly.
+  
+  Overall I thoroughly enjoyed the demo and now the full game and look forward to the increased difficulty 
+ after finishing it. You can start at either bronze or silver difficulty. Only after finishing silver 
+ can you choose gold, then platinum. Each time greatly stepping up the difficulty. The silver is 
+ recommended played after you make about level 20. You can at any time import/export your character. 
+ So you can make 20 levels in bronze then export to play in silver if you find it too easy in bronze. 
+ Or simply finish each level of difficulty. The game experience is different depending on the character 
+ class you choose so there should be great repeat game play for those who thoroughly play over and 
+ over. The devs announced there is no level cap. So hopefully this will mean high level expansion 
+ packs later!
+  
+  If you enjoyed Dungeon Siege or Diablo II, then you will also enjoy Sacred. I highly recommend 
+ it. 
+::::::
+
+-------------------------------------------------

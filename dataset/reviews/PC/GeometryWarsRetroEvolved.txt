@@ -1,0 +1,522 @@
+-------------------------------------------------
+:::Game Name::: Geometry Wars: Retro Evolved
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/action/geometrywarsretroevolved/review.html
+-------------------------------------------------
+:::The Good:::
+ Nicely stylized vector graphics that look sharp at higher resolutions.
+ Hectic gameplay might be enough to keep you coming back.
+-------------------------------------------------
+:::The Bad:::
+ All but requires an Xbox 360 controller if you want to play it right.
+ Lacks online leaderboards.
+ Missing modes from the console version of the game.
+-------------------------------------------------
+:::Date::: Mar  8, 2007
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.7
+Critic Score: 7.8, 6 Review (s)
+User Score: 7.5, 198 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Bizarre Creations
+Genre: Shoot-'Em-Up
+Date:     Mar 7, 2007
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+Geometry Wars is a classy arcade-style shooter, but this PC release is missing a ton of features 
+ that would make it last longer. 
+
+  Geometry Wars is the dual-joystick shooter that launched at the same time as the Xbox 360 in 2005. 
+ It was a downloadable game for the console's Xbox Live Arcade service and went a long way in proving 
+ that digitally distributed games could work in a console environment. Of course, digital distribution 
+ and the PC go back like babies and pacifiers, so the newly released PC version of Geometry Wars: 
+ Retro Evolved isn't really breaking any new ground. It's still a quality arcade-like game that 
+ has a neat, stylized look to it, but it's also missing a lot of the bells and whistles found in 
+ the console version.  
+
+          One unstable frame rate with a side of pesky control issues -- coming right up!     
+
+ 
+  Geometry Wars is a shooter that falls in the same folder as arcade classics like Robotron: 2084 
+ and Smash TV. Both of those games used two joysticks. The left stick was for movement and the right 
+ for multidirectional firing. Geometry Wars plays the same way but benefits from analog control, 
+ letting you move and shoot in more than eight directions. You control a small ship in a box that 
+ is slightly larger than the screen. Enemies continually spawn into the box and attack you, and 
+ you must gun them down while avoiding contact with them. It starts out slow but ramps up very quickly, 
+ until new enemies are almost constantly popping up. This means the game gets hectic fast. If things 
+ get too rough, you have a limited number of smart bombs you can use to clear the screen of enemies, 
+ but that only provides you with a second or two of rest before you've got new foes to worry about. 
+ The rapid pace is what makes Geometry Wars so exciting, as you constantly feel like you're just 
+ one second away from losing it, and maintaining calm is the only way to stay alive.  
+
+  There are different enemies in the game, each with different behaviors. The geometrical shapes 
+ start out simple, with a box that heads in your basic direction. But you'll find enemies that split 
+ into smaller pieces when you shoot them, enemies that run away from you rather than attack you 
+ head-on, snakes that block your path and can only be shot in the head, and more. Each enemy makes 
+ a unique noise when it spawns, making the audio an important part of the game.  
+
+  The PC version has a surprisingly large number of strikes against it when you compare it to last 
+ year's Xbox 360 version. For starters, unless you have an Xbox 360 controller hooked up to your 
+ PC, you might have trouble playing properly. You can use the mouse and keyboard, but you lose analog 
+ control of your movement, and aiming with the mouse isn't as immediate as a good gamepad is. While 
+ you might already have a dual-joystick gamepad for your PC, it might not actually work. We tried 
+ two different such controllers with no luck, though the 360 controller worked perfectly.  
+
+  This version of the game doesn't have achievement points, which removes a reason to keep on playing 
+ Geometry Wars. The lack of online leaderboards removes another. It also doesn't have retro mode, 
+ which is a stripped-down version of the game that originally appeared as an unlockable bonus in 
+ Project Gotham Racing 2 on the original Xbox. Further limiting its appeal is the fact that you 
+ must be running Windows Vista to play.  
+
+  And lastly, the game's graphical performance can be spotty, even on machines that exceed the game's 
+ recommended requirements. Vista reports the recommended machine as 4.0 using the OS's new "Windows 
+ Experience Index," which totals up your machine's components and assigns it a score based on how 
+ much it can handle. On a 4.2 machine (3GHz CPU, 2GB of RAM, and a Radeon X850) , the game's frame 
+ rate wasn't stable 100 percent of the time, and in a game where it's difficult to make out what's 
+ even going on when things really get crazy, adding a choppy frame rate can make the game unplayable. 
+
+  With that list of caveats, anyone with the ability to play this game on an Xbox 360 should take 
+ that route, instead. MSN is charging $7.95 for the PC version of the game, which is nearly three 
+ dollars more than the 360 release, but it has far fewer features than the 2005 console game. Maybe 
+ if this one had been held off until after the rollout of Games for Windows Live, it could have 
+ had many of the missing features implemented. But as it is, it feels like a rip-off.     
+-------------------------------------------------
+:::User Reviews::: (17 Reviews)
+::::::
+UserName: scyldschefing
+Rating: 7.5
+Date: Aug 7, 2008 11:25 pm PT
+Review:  Since the Gamespot review was written, another version was released on Steam that address some, 
+ but not all, of the problems mentioned.
+  
+  First of all, the price is only $3.99, cheaper than the XBOX360 release.
+  
+  Secondly, the game 
+ runs on Windows XP and more smoothly. My computer has an inferior graphics card (NVidia GeForce 
+ 6150LE) , and otherwise my system is middle of the road to entry-level, I have seen no significant 
+ drop in frame rates at all during even the most hectic parts of the game. Everything remains smooth 
+ as silk.
+  
+  Unfortunately, some flaws remain. There still aren't unlockable achievements (which is one of the 
+ major features of Steam games!!) , no retro mode, and no world leaderboard. Also, the game simply 
+ is best suited for dual joysticks. There's no way to get around it, and that is without a doubt 
+ a part of the games retro appeal, recalling the thumb-blistering analogue sticks of arcade games 
+ (or so I've read about them -- not that I played a lot of arcade games; a bit before my time :-) 
+ ) Point being that it is hectic enough with dual sticks analogue, and with alternative control 
+ schemes it becomes hard to the point of losing fun. Still, it is fairly playable using a mouse 
+ to aim and the keyboard to move. 
+  
+  I don't have a gamepad to see if the compatibility issues have been worked out.
+  
+  If you like 
+ simple shooters with a lot of flash, I would recommend to at least give it a shot. It's good for 
+ a quick spin every so often, and at worse you're only out $3.99. 
+::::::
+
+::::::
+UserName: Orakk
+Rating: 6.5
+Date: Mar 18, 2008 2:26 am PT
+Review:  This game is almost the same as the Xbox 360 game. Same plot, same graphics just missing some things 
+ here and there and the controls are really awkward and makes the game harder than it is. Luckily 
+ there is a feature for you to put your Xbox 360 controller in your computer and play the game with 
+ that, which is good, but you dont want to go and plug it out each time and so on and so forth.
+ 
+  
+  The PC requirements are really high, when you look at the graphics, even though the graphics are 
+ good but simple, it requires a really good computer to run at highest resolution etc.
+  
+  Its also missing the leaderboard option, you cant see scores from around the world, only the ones 
+ from your computer. That was why the Xbox 360 version was made good, because of the leaderboard, 
+ but boom, nothing here.
+  
+  If you liked the Xbox 360 version and you have a controller to play it with properly and a decent 
+ computer, this game should be fun enough, but I would not recommend it!
+  
+  Graphics: 8
+  Gameplay: 6
+  Sound: 6
+  Overall: 6.5
+  
+  -Orakk
+  
+::::::
+
+::::::
+UserName: rattyocaster
+Rating: 7.5
+Date: Feb 29, 2008 12:33 pm PT
+Review:  Many years ago, there used to be arcades filled with games such as Space Invaders, Galaxian, Missile 
+ Command and Asteroids. Inspired by these games is Geometry Wars  Retro Evolved.
+  Geometry Wars began it's life as a mini-game in Project Gotham Racing 2 for the Xbox. Effectively 
+ Retro Evolved is the same game with much enhanced graphics. It's basically old-school game-play 
+ using modern graphics enhancements and the effect is profound. Of course, like games of old, the 
+ whole point is to get a high score rather than to finish the game so it's just one very long level, 
+ don't let this put you off though. It's addictive.
+  The game is really simple to control, you use your keyboard to control the direction of flight 
+ and you move the mouse towards the direction of the targets to fire. If you wish to cease fire 
+ you hold the left mouse button and you can trigger a bomb which clears the screen with the right 
+ mouse button, and that's it!
+  Another good thing about the game other than the snazzy graphics and the addictive game-play is 
+ the price. If you use Steam (which is the only way you can get it as a PC owner) it costs a mere 
+ $3.95. That's American dollars. Which means that it's about 3 after tax. If this was in an Arcade 
+ (which it isn't) you'd be looking at between 0.25 and 1.00 per game probably... so why not just 
+ go onto steam and buy it. Think about it, after 12 or so goes it's paid for itself!
+  If you don't own a PC or you'd rather get it on another platform, then you can get Retro Evolved 
+ on Xbox Live Arcade, if you have Project Gotham racing 4 for 360 then you get Geometry Wars: Waves 
+ as a mini-game. If you own a Nintendo Wii or DS you can get Geometry Wars: Galaxies which has a 
+ more complex game mechanic to accommodate it's full game media price tag. If however you own a 
+ PS3, you're out of luck with this title, however take a look on Playstation network for Super Stardust 
+ HD, I'll be doing a review on that sometime in the future.
+  All in all I thoroughly recommend this game, no matter which platform you go for! 
+::::::
+
+::::::
+UserName: TheCrapp
+Rating: 9
+Date: Jul 3, 2008 1:42 pm PT
+Review:  Well, my first time playing Geowars: Retro Evolved, was in a friend's xbox360, and then i liked 
+ very much, with its cool, explosive, colorful neon artesque graphics and its nonstop shooting action, 
+ so i made a search for internet and found that Geometry Wars: RE was also available for Windows 
+ XP (steam network) and Windows Vista. Also, i read the gamespot review, and i have to say that 
+ Jeff G. was a little more of a good console player conveyer to say that the PC version is more 
+ flawed than the xbox360 one. So i downloaded and played Geometry Wars: RE for my Windows XP via 
+ Steam (with a price of 4USD!!) , which at the same time i was worried about the game performance 
+ and gameplay, but when i gived two shots on the game, i falled in love with it. Its so extreme 
+ and fun to play, also easy to play with the keyboard and mouse, Jeff G. said that is better played 
+ with an xbox360 controller, but i think, he's wrong, and gets addictive with the hang of time. 
+ Also the performance was very smooth on a resolution of 1024x768, and the graphics quality was 
+ almost equal to the xbox360, only that the 360 have a little bit better blur effects, but the PC 
+ version is almost exactly the same as the x360 version, only without the achievments, which i don't 
+ care if they are not included in the PC version, i just only have all the fun blasting all the 
+ geometry treats that surrounds you until die.
+  
+  This game acts much like a quick boredom suppressor, but Geometry Wars: RE is much, much and much 
+ better than that, is a  shooter, that can take 
+ out the boredom that someone has sometimes, almost perfect! 
+::::::
+
+::::::
+UserName: Pwn3rDude
+Rating: 7
+Date: Oct 29, 2007 5:45 pm PT
+Review:  Geometry Wars feels like a highly addictive game for some reason, but it doesn't seem to have enough 
+ change in it. When I say change in it, I mean it's the same thing throughout the whole game. You 
+ fight little monsters or shapes or whatever you call them and then only fight more of them. Where 
+ is the unique change in the game, where new opponents appear? Very rarely you might see something 
+ new like a red pacman chasing you, but that's about it. On the great side of Geometry Wars, besides 
+ it's downfall of variaty, it is highly addictive (once more I say) and leaves you playing and playing 
+ for more points. When I play Geometry Wars, I notice that after im done, 2 hours just passed by. 
+ Or if not 2 hours, it's great for the mornings when waking up and you only have 30 minutes before 
+ heading out to work. Overall, I'm rating Geometry Wars a 7 from how I feel. 
+::::::
+
+::::::
+UserName: Rertezjui
+Rating: 9
+Date: Oct 21, 2007 1:55 pm PT
+Review:  Speaks for itself. GIve it a try if you haven't played anything like that yet! Like it or not, 
+ it's highly addictive for people who like 4$ retro challenges.
+  
+  Controls:
+  I use a Logitec Rumblepad II. It's a Playstation style gamepad and fully compatible with this title. 
+ You must use the controls menu to map right stick for shooting directions first!
+  
+  I haven't tried mouse and keyboard support yet.
+  
+  Motivation:
+  I suck at playing games like 
+ this but sometimes I feel I must shoot the hell out of some geometry stuff and this game does the 
+ job well in serving my hunger for arcade classics. A musthave... 
+::::::
+
+::::::
+UserName: mott555
+Rating: 10
+Date: Oct 12, 2007 9:45 am PT
+Review:  I don't agree with the reviewer about the PC version having far fewer features than the XBox 360 
+ version. The only differences I have noticed is that it isn't Live-capable, and it doesn't have 
+ Retro (how many people play Retro, anyway? No one I know) . Also, it has been released for Windows 
+ XP via Steam, so it is no longer Vista-only.
+  
+  Anyway, it's a great game, highly addictive, and as you get better the game gets harder. Gameplay 
+ is identical to the XBox 360 version, and I had no frame rate issues on a 3.4 GHz P4 with 2 GB 
+ RAM and a GeForce 6600 GT. You control a ship and shoot geometric figures which for some reason 
+ have a strong desire to kill you. The longer you last, the more enemies appear on the screen. By 
+ half a million points, you can no longer tell what exactly is going on, you just have to play by 
+ instinct.
+  
+  It is virtually impossible to play without an XBox 360 controller hooked up to your PC, but the 
+ game was designed for dual-analog, not keyboard and mouse. If you own a controller, buy this game. 
+ It's only $8 for Vista and $4 for XP, and it's addictively entertaining. If you have an XBox 360, 
+ don't bother since you can play there and get achievements and such, but if you don't have one, this 
+ is a good game to get for your PC. 
+::::::
+
+::::::
+UserName: whoozwah
+Rating: 8
+Date: Sep 12, 2007 10:35 pm PT
+Review:  I've been hearing about this game for a long time now. I've never really given it much of a glance. 
+ I looked at some screenshots here and there and thought, meh . Then I read into it a little more.
+ 
+  
+  Classic -style gameplay , arcade shooter , frentic , addicting . These were the words that I generally 
+ came across when someone was describing Geometry Wars. I'm inclined to have appreciation for classics 
+ and games that capture the spirit of the said classics so I decided to give it a go. Mind you I 
+ got the version that's downloadable from Steam for significantly cheaper than the price mentioned 
+ in the official review. This version works on Windows XP as well as Vista and thus far I've yet 
+ to run into any framerate issues or slowdown to speak of, contrary to the GS review of the title.
+ 
+  
+  Well I happen to have an xbox 360 controller so I plugged it in and fired up the game. I set the 
+ proper resolution and adjusted the sound to suit me. This meant turning down the effects slightly, 
+ muting the music altogether and firing up winamp and streaming some techno music from shoutcast.
+ 
+  
+  The aforementioned descriptions of the gameplay were indeed spot on, I'm finding. I tend to sit 
+ down to play this game for a few minutes and my sessions tend to last for 45 mins to an hour. Death 
+ is a common occurance during this amount of time but I believe I'm getting better.
+  
+  The core gameplay has been accurately described already for the most part. It's a dual analog shooter 
+ with different shapes having different flight patterns. It starts off slowly enough but soon it 
+ pace picks up. The game gives you better weapons at set intervals to assist your plight against 
+ the onslaught of shapes as you wouldn't survive without it. Also at set score intervals you earn 
+ extra lives and bombs to use.
+  
+  I'm not very good at the game but I'm as about addicted to it as one can get to a 5 dollar game. 
+ I've yet to break 200K but it's only a matter of time. Due to the randomness of the game it's hard 
+ to develop much of a strategy in this game but the best thing I can say is...
+  
+  1. Don't move until you need to
+  2. Don't let the green ones flip you out. Wiggle your shooting 
+ stick back and forth to get them.
+  3. Get the shapes to follow you to the red holes, let the gravity pull the shapes into it, then 
+ destroy it. You get lots of points and it gets rid of shapes quicker.
+  
+  Later,
+  Dave 
+::::::
+
+::::::
+UserName: woges
+Rating: 6.5
+Date: Dec 28, 2007 6:32 pm PT
+Review:  If you enjoyed the coin-ups of the 70's/80's then you should get a kick out of playing Geometry 
+ Wars. You play, basically, a ship inside a set grid where enemy vector like shapes spawn and attack 
+ you - as in Llamatron (just not quite as silly) . The shapes have different AI and pose different 
+ problems, generally getting harder and faster as you progress. Some shapes will explode into loads 
+ of smaller shapes if not dealt with within a time frame (circles) etc etc. The game spawns massive 
+ amounts of shapes at times that can make for some pretty hectic run and gun moments.
+  
+  Keys are used for controlling your ships direction (W, A, S, D) while you use your mouse to control 
+ the direction of fire (controller options are there for those with them) . Much like the old coin-ups 
+ two stick configuration for Robotron. This is probably going to be more instinctive on a controller 
+ than mouse/keyboard set-up.
+  
+  The sound effects and music suit the game particularly well. Retro-electronic but done in a crisp 
+ modern fashion - exactly what the game wants to be. It's a little sparse on variety though. The 
+ game is more about old fashioned game-play than anything else.
+  
+  However, much of what the Gamespot review is true on the games negative points: Performance, controls, 
+ game modes etc are all a little lacking but at the end of the day it's a fun (but simple) game. 
+ 
+::::::
+
+::::::
+UserName: DT_Maverick
+Rating: 8.5
+Date: Aug 26, 2007 1:43 am PT
+Review:  Geometry Wars: Retro Advanced for the PC is just as addicting as its original XBox 360 counterpart. 
+ What the official review failed to mention is that the game is also available on Steam, running 
+ on Windows XP, for $3.95. It's just as addicting as ever, and it looks great too. On the other 
+ hand, I have to agree that if you don't have a wired XBox 360 controller laying around, you're 
+ going to lose some of the control you had on the console version. The mouse is difficult to use 
+ and the keyboard limits you to eight directions of movement and shooting. In the end though, if 
+ you're not sure whether or not to get this game, go ahead and put down a measly four dollars on 
+ Steam to buy it. 
+::::::
+
+::::::
+UserName: dark_mask_91
+Rating: 8.5
+Date: Aug 21, 2007 3:00 pm PT
+Review:  Let me break this game out to u in sections
+  
+  Story-no story but its always fun
+  
+  Graphics-amazing graphics especially when u make an explosion
+  
+  Gameplay-shoot those damned 
+ shapes not that easy and its really fast paced Multiplayer-lacks multiplayer and online leaderboards
+ 
+  
+  Requirements- U can play only play it on a windows vista pc
+  
+  Replay Value- great replay value cuz the game never ends Sound-pew pew pew kaboosh (lasers and 
+ explosion)
+  
+  Diffuculty-easy at first but more and more enemies come out and it gets really hectic and pretty 
+ hard
+  
+  The Good-awesome gameplay, graphics, sound, u can even play with a 360 controller, and its only 3.95
+ 
+  
+  The Bad-u can only play this game on windows vista, can get really annoying when u lose and ur about 
+ to get a high score, no multiplayer
+  
+  Bottomline-good game, itll keep u glued to the screen to ur computer for hours 
+::::::
+
+::::::
+UserName: Homes225
+Rating: 7.3
+Date: Aug 2, 2007 11:26 pm PT
+Review:  Story: Uh. None.
+  
+  Graphics: Trippy explosions, awesome.
+  
+  Audio: Pew Pew Pew, Lasers.
+  
+  Missions: Kill everything on the screen. Harder than it seems.
+ 
+  
+  Controls: Fine but plays better on the 360 or a gamepad.
+  
+  Features: Arcady experience.
+  
+  A. I.: Can be difficult, fast.
+  
+  Loading Times: None.
+ 
+  
+  Multiplayer: None, Leaderboards.
+  
+  Requirements: Low, Vista : (
+  
+  Weapons: Power-Ups, Multi-Pliers, etc.
+  
+  The Good: Great gameplay that is trippy and looks 
+ cool.
+  
+  The Bad: Requires Vista.
+  
+  The Ugly: Requires Vista. See the point?
+  
+  Replay Ability: No story, so Very High replay value. Addictive at times.
+  
+  The Bottom Line: 
+ A cool, arcade port but plays better on the 360. 
+::::::
+
+::::::
+UserName: BigD
+Rating: 8
+Date: Jun 28, 2007 11:43 pm PT
+Review:  For $4 this game is more game play then you can shake a stick at. Geometry Wars, brings that great 
+ Robotron game play into the 21st century. The graphic are sharp and the music is pumping. You get 
+ better and better with each play and that encourages you too keep coming back to try and best your 
+ last score. However, be warned, you really want a gamepad to get the most out of this game, though 
+ the game controls ok with the other control schemes. It is a little disappointing that this version 
+ doesn't have online leader boards but still it's a great way to kill some time. 
+::::::
+
+::::::
+UserName: logoleptic
+Rating: 8.3
+Date: Jun 20, 2007 11:40 am PT
+Review:  When I was a kid I used to spend weekends at the arcade, pumping quarters into coin-op shooters. 
+ Geometry Wars brings a lot of what was good about those old games -- fast pace, strategic and addictive 
+ gameplay -- to the PC. It does a good job of dishing out old-school shooter action with trippy 
+ modern visuals.
+  
+  I was eager to get my hands on this game from the time I heard about its release on Xbox Live. 
+ When it appeared on Valve's Steam service recently, I snapped it up. It's only $2.50 until June 
+ 22nd -- an amazing price for this much fun. After the 22nd, the price goes up to $3.95 (the same 
+ as the current price for the Vista-only version on MSN) .
+  
+  The Gamespot review had some criticisms of the game, such as control problems and Vista exclusivity, 
+ that may no longer be valid for the Steam-based release. The copy of Geometry Wars that I downloaded 
+ over Steam not only works on Windows XP, but is also fast and gorgeous. I've experienced none of 
+ the performance problems described in the review, even though I'm running the game on a lower-spec 
+ machine than the one described. I suspect that the reviewer's problems have more to do with Windows 
+ Vista than they do with Geometry Wars. Microsoft's new OS is a resource hog straight from Hell.
+ 
+  
+  The controls for Geometry Wars also aren't as bad as the Gamespot review makes it sound. While 
+ I'm sure the game would be easier to control with a dual-stick gamepad, the keyboard-and-mouse 
+ combo works great once you get used to it. A tip for beginners: in the game's control options, 
+ switch the mouse aiming mode from orbit to target. The easier aiming helps make up for the more 
+ constrained movement options of the keyboard.
+  
+  Overall, I think the original review from Gamespot is biased by (1) too much exposure to the console 
+ original and (2) focusing on an early release of the game that only worked on Vista. If you don't 
+ have an Xbox 360, this game is a great buy and a lot of fun. To get the version for Windows XP, 
+ visit steampowered. com. If you don't yet have a Steam account, click the Get Steam Now button to 
+ sign up. 
+::::::
+
+::::::
+UserName: gerald699
+Rating: 9.5
+Date: Mar 13, 2007 8:26 am PT
+Review:  It is quite fun to play, quite arcady. however it knocks off the grid wars version 1 on the xBox. However 
+ The xBox 360 and computer version of grid wars its a big change. much better. However it is abit 
+ too arcady to be a really fun game.
+  You play it you will like you are dying. lol. anyway still not so bad. Grid Wars2 for xBox 360 and 
+ computer rocks. im not saying that Grid Wars for xBox is so bad. it is just that the xBox version 
+ is abit too boring. Abit of a game that makes you dizzy such as Canyon Duel [in Need For Speed Carbon] 
+ but this is not the music. it is the Gameplay! So Grid Wars 2 [for xBox 360 and computer represents 
+ the series. 
+::::::
+
+::::::
+UserName: Butterbemme
+Rating: 8.4
+Date: Mar 8, 2007 9:36 pm PT
+Review:  I envied 360-gamers for Geometry Wars since it's release on the XBox and was totally blown away 
+ reading the news about this game arriving on the PC!
+  
+  Some remarks on gamespot's review:
+  
+  For starters, unless you have an Xbox 360 controller 
+ hooked up to your PC, you might have trouble playing properly. 
+  --&gt; I use an original PS2-pad via USB-adapter and it works like a charm. Playing with keyboard/mouse 
+ is quite ok and still fun, but far worse than using a gamepad.
+  
+  This version of the game doesn't have achievement points, which removes a reason to keep on playing 
+ Geometry Wars. The lack of online leaderboards removes another. 
+  --&gt; Achievement points don't make much sense on the PC since there is no gamerscore (yet... 
+ wait for Live Anywhere) , but it would be nice to unlock some awards/medals, thats right.
+  Personally i don't care for online leaderboards, as the average gamer would hardly achieve much 
+ more than a five-digit placing. You got your offline highscores to keep raising your own points, 
+ thats all i need.
+  
+  the game's frame rate wasn't stable 100 percent of the time 
+  --&gt; Thats right, but it's stable and runs very smoothly 99% of the time, even on my old PC (XP2600+, 
+ R9800, 1GB RAM) . I never had the feeling that i just died due to a choppy frame rate.
+  
+  Yes, the XBox360-version might be better, Geometry Wars on the PC nevertheless kicks a** big time 
+ and is far better than Gamespot's 6.7 points suggest! ! It's so much fun, so addictive and beautiful, 
+ definitely worth 8 bucks! 
+::::::
+
+::::::
+UserName: Calcheesmo
+Rating: 8.6
+Date: Feb 21, 2007 8:25 am PT
+Review:  Geometry wars is a great game, I enjoy playing this all the time. The graphics are sweet, ESPECIALLY 
+ on an HDTV. The music is nice, goes with the mood. All around a great game. I wish I understood 
+ the game better personally. Basically the point is how many points you can get. There's a red circle 
+ that appears that if you shoot starts twirling around and sucking in enemies, it's all about strategy. 
+ They can help you out by killing enemies but if you don't shoot it before it explodes, then it 
+ shoots tons of little things at you causing some problems. My high score is around 300,000, but 
+ that took quite a few times of playing, it's not an easy game, but it's a great, replayable, well 
+ controlled game. 
+::::::
+
+-------------------------------------------------

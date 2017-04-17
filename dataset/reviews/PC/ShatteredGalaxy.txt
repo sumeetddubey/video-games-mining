@@ -1,0 +1,291 @@
+-------------------------------------------------
+:::Game Name::: Shattered Galaxy
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/shatteredgalaxy/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Sep  7, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8
+Critic Score: 8.2, 21 Review (s)
+User Score: 8.7, 123 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Nexon
+Genre: Strategy
+Date:     Aug 21, 2001
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+The battles in Shattered Galaxy can be spectacular, tense, and exciting, with one caveat: you're 
+ always limited to one small corner of the action. 
+
+ With Shattered Galaxy, the US version of Nexon's enormously popular Korean game, real-time strategy 
+ enters the realm of massively multiplayer gaming. But the question is, does it belong there? Fans 
+ of online games like EverQuest will certainly appreciate what Shattered Galaxy achieves. But if 
+ you've cut your teeth on Warcraft and Command &amp; Conquer, perfected Brawler rushes in Total 
+ Annihilation, and stayed up until 3am playing Age of Empires II, you'll find that Shattered Galaxy 
+ is, in ways, the exact opposite of what you've come to expect from the real-time strategy genre. 
+ However, if you approach Shattered Galaxy on its own terms, you'll find in it a solid, appealing, 
+ and unique new game.           It may look like Ultima Online, but it plays more like Starcraft. 
+    
+
+ When you log on to Shattered Galaxy, you're staring at what looks very much like Ultima Online. 
+ Your avatar is a hero with several attributes, and you can walk him around a little city, rubbing 
+ elbows with other heroes whose names and ranks hover overhead. The first building you'll visit 
+ is a factory, where you can buy units. Money is rarely a problem, since units and repairs are incredibly 
+ cheap. Instead, the limiting factor on what's available is your hero's influence, which is increased 
+ by fighting battles. When your influence is high enough, you can buy advanced units, customize 
+ your existing units with new components, or update them to improved models.   
+
+  This is one of the best things about Shattered Galaxy. There's an incredible amount of breadth 
+ in terms of how you advance. You have a level in each of the four divisions, each of which correspond 
+ to unit types: infantry, mobile, air, and alien organic units. You also have an honor rating, which 
+ represents how well you've served your faction and gives your units more hit points. You have prestige, 
+ a measure of how successful you've been against other players, which determines your political 
+ standing. You have improvable attributes that tweak rules, like how many units you can take into 
+ battle or how many components you can fit into a unit's chassis. Furthermore, each of your units 
+ has its own personal experience level and influence rating. Shattered Galaxy sometimes looks like 
+ an unsightly sprawl of details, but it keeps you constantly on the verge of new milestones. There's 
+ always something to improve, some new toy to buy, some reason to play just one more battle. This 
+ is one of the basic tenets of massively multiplayer online gaming: keep giving players something 
+ to look forward to, and they'll keep paying $10 a month for the service. There's no denying that 
+ Shattered Galaxy does this well.           Is it an infantry rush if you have only six units?  
+   
+
+ But then there's the issue of how it plays as a real-time strategy game. To advance, the game all 
+ but forces you into battles against other human players. This is the only way you can earn the 
+ influence you need to unlock better units. You're aligned with one of four factions vying for control 
+ of adjoining sectors, each representing a single battle map. When one side attacks another side's 
+ sector, a 20-minute battle begins. Whoever holds the most victory locations when time runs out 
+ wins the sector and, more importantly, the most experience.   
+
+  The battles can be spectacular, tense, and exciting, with one caveat: You're always limited to 
+ one small corner of the action. Initially, you can use only six units at a time (this number can 
+ increase as you gain levels) , so success relies heavily on coordinating your actions with the other 
+ combatants from your faction. By the time a battle is over, more than 20 players might have joined 
+ in. If everyone shows up with artillery or flying units, you're sunk. If no one's on defense, you're 
+ sunk. If your faction scatters after several different victory locations, you're sunk. Even more 
+ so than in team-based multiplayer shooters like Team Fortress or Tribes, Shattered Galaxy is all 
+ about playing your part in the big picture rather than running off on your own. To some players, 
+ this might seem contrary to the whole point of real-time strategy games, in which the focus is 
+ usually on letting you create and command a force of combined arms and maneuvering them across 
+ the battlefield to outsmart or overwhelm your opponent. If you expect to personally oversee every 
+ aspect of battle, then you'll be in for a rude awakening when you begin playing Shattered Galaxy 
+ and soon discover that much of the action is out of your direct control.    
+
+ Otherwise, as a real-time strategy game, Shattered Galaxy works very well. Although the battles 
+ are short, there's a lot of back-and-forth. Reinforcements continually arrive as new players join 
+ in, so there's a sense, up until the last few seconds, that a battle can go either way. The wide 
+ variety of unit types is arranged in an intricate rock-paper-scissors relationship. Then there 
+ are all the special abilities that come into play: Infiltrators, cloaking, mines (land and air) , 
+ sensors, teleporting, long-range missiles, snipers, and disabling attacks are all available once 
+ you reach the higher levels. Granted, you have to muck around with a lot of relatively less-interesting 
+ low-level technology before you get to play with these elements, but you'll still see other players 
+ using them on the battlefield.           The battle for a victory location heats up as flamethrowers 
+ join in.    
+
+ Actually, the disparity of player levels can be one of Shattered Galaxy's problems. A higher-level 
+ player with advanced units is going to bulldoze through most of his opponents. What makes this 
+ particularly troublesome is that there's no convenient indication of how powerful or how damaged 
+ an enemy unit is. Are those first-level rookies, or souped-up veterans tricked out with uber weapons? 
+ Are they almost dead or are they fresh reinforcements? Do you run for help or fight? You won't 
+ know the answers until the shooting starts. Even then, you might not know until they've killed 
+ all your units and you've failed to inflict a single casualty.   
+
+  There are plans for Shattered Galaxy to split into multiple planets geared toward different experience 
+ levels. This should help address a common problem previously seen in the game, where a handful 
+ of maximum-level characters dominate the battles, making the low-level ramping an exercise in frustration. 
+ You simply throw your units to their deaths over and over. Fortunately, destroyed units are cheaply 
+ repaired after a battle.           You can customize and rename your units to give them a personal 
+ touch.    
+
+ From a technical standpoint, Shattered Galaxy is somewhat primitive. It runs in 800x600 resolution, 
+ uses blatantly 2D graphics, and is squeezed into a cramped viewing area. Its sci-fi sound effects 
+ are generally unremarkable. Fortunately, it does give you a helpful minimap with grid coordinates, 
+ which is a great boon to communication with other players. Also, shortly after its US release, 
+ a patch added some helpful unit management features. Although the servers are surprisingly stable 
+ (the load tends to hover at a modest 400 players) , there are a few bugs yet to be addressed. For 
+ instance, the unit pathfinding is rather poor -- you'll find that one of your few units will occasionally 
+ stray from the pack because it can't figure out how to get up a crowded ramp.   
+
+  On the other hand, the ongoing and persistent nature of the game universe gives Shattered Galaxy 
+ something missing from most real-time strategy games, even those with superior technology. This 
+ isn't necessarily a better way to play real-time strategy, and it's certainly not going to replace 
+ any of your favorites. But it is new and intriguing. If you can accept your limited role in the 
+ war, if you can stomach the dated technology, and if you're willing to struggle through the tedious 
+ early hours, then you'll find Shattered Galaxy offers plenty to keep you engaged over the long 
+ run.    
+-------------------------------------------------
+:::User Reviews::: (6 Reviews)
+::::::
+UserName: frostymourne
+Rating: 9
+Date: Feb 10, 2009 6:52 am PT
+Review:  I have played Starcraft. C&C and WC3.... No matter how popular and good these RTS games are. Somehow 
+ ill always end up playing shattered galaxy and forget about the rest.
+  
+  Why? you ask...
+  
+  The great thing about this game is that it emphasizes on teamwork... solid teamwork and good 
+ gameplay. You don't work alone you work together with your team and you can make a difference to 
+ turn the tides of battle. Playing in a map with 18+ players on both sides is fun and exciting. 
+ Your regular RTS game probably pits you on 1v1 or maybe 5v5 but shattered galaxy is unique in its 
+ own way, it is a massive multiplayer strategy game anyway.
+  
+  In normal RTS games you build a massive army and macro manage your forces. In this game you use 
+ a squad. The amount of troops you send per reinforcements depends on how much points you put into 
+ tactics. You can level up 4 divisions and you can distribute the points into 4 main attributes, 
+ tactics, clout, education and mech apt.
+  
+  The beauty of this game is the customization and upgrading of your units and how you use them in 
+ the battlefield. You would be spending time in the lab fully equipping your units before sending 
+ them off to battle instead of just buying a unit and deploying them in other RTS games.
+  
+  The game is also beginner friendly in some way. As now there is the powerrating system which handicaps 
+ veterans. Allowing the less experienced enemy side in a map to have more players joining in.
+  
+  Unfortunately the tutorial for the game is rather bad. Thus increasing the learning curve of 
+ the battle and like any other RPG game there will always be veterans who picks off on less experienced 
+ ones. As the game emphasizes more on PvP, this problem is a common sight, as u enter a battle full 
+ of new players who do not know what to do.
+  
+  The problem with this game now is the lack of attention it has received by the their current owner 
+ KRU. The development of the game has slowed down tremendously.
+  
+  Despite all of that the game has always maintained a healthy population of 400 to 900 players 24/7. 
+ That's enough for constant battles and endless fun.
+  
+  Try it, its free to play now but pay for benefits for only USD$10.
+  
+  If you need help in the 
+ game visit www. sg-city. com to download the game its www. sgalaxy. com.
+  
+  
+::::::
+
+::::::
+UserName: xaldx
+Rating: 8.2
+Date: Jun 8, 2007 5:30 pm PT
+Review:  Enough accurate commentary has been made about SG, except about the learning curve. I have been 
+ playing SG for two years (since the demise of Earth &amp; Beyond) .
+  
+  Just when I think I have it all figured out, I learn something new and interesting to try out. 
+ As long as the enemy evolves, there is learning to do and changes to make. There is map-strategy, 
+ unit selection, diplomacy, balancing development vs dominating on the battle-field.
+  
+  That is why this game is an addiction: it is simple fun, but challenging at many levels. There 
+ is almost no limit to the depth and number of strategies. Battle is intense, strategy is pre-eminent, 
+ individual contribution is apparent, individual skills can always be elevated. And then there is 
+ the regiment dynamics.
+  
+  Shaping a regiment is extremely challenging, since the members need to work together and have complementary 
+ units. Some units are better than others, but every unit has some weakness that can be exploited, 
+ if you know your enemy. It takes ongoing diplomacy to keep your regiment happy, since there are 
+ so many other regiments trying to get good players. Paying the ten bucks a month is a no-brainer, 
+ if you think how much enjoyment you would get out of a six-pack of beer or two packs of cigarettes. 
+ If you are going to play the game, don't short-change your own enjoyment by handicapping yourself 
+ in game-play. One win against a powerful regiment is woth ten bucks -- you really cannot believe 
+ the morale highs and lows in this team-war game. 
+::::::
+
+::::::
+UserName: AccessApproved
+Rating: 8.7
+Date: Dec 27, 2006 10:08 pm PT
+Review:  Shattered Galaxy was built by Kru Interactive in 2001. Since then, it has improves A LOT! Gamespot 
+ has reviewed this game on 2001. I started this game since 2005, came back, and tried it again today 
+ on 2006 of 27th of December. Let me tell you about Shattered Galaxy.
+  
+  Gameplay: Shattered Galaxy has a STRONG gameplay. Kru Interactive really sat down and thought about 
+ it. This is no ordinary RTS/RPG game. Kru has made it stand-out from the rest. Shattered Galaxy 
+ is the first MMORTS game ever built in the gaming world. Gameplay involves in your units going 
+ to capture a POC (a capturing field - about 6 - 7 of them to conquer the whole land) . Sometimes 
+ it's easy, sometimes it's not. In the 2006 version, there are 3 teams that all crave for land. 
+ If one of their land is under attack, they rush to their land to protect it. The battles get so 
+ INTENSE and it's remarkable and fascinating of how many units are out there! The POC's are all 
+ crowded with units protecting them! Bombs and explosions everywhere! The fun never stops in Shattered 
+ Galaxy. Also, in the RPG aspect, the more battles you battle, you can give your hero (person that 
+ goes to lands) knowledge points. Upgrades for your units are available as well. Graphics: The graphics 
+ aren't that WOW, but it gives a clear idea that it is in the future. The game options doesn't have 
+ that much graphic advantages. The textures seem dull and primitive by using the same texture block 
+ over and over. In addition, other resolutions for this game aren't available; the game only uses 
+ - somewhat primitive - 800 x 600 resolution. I don't mind it that much, though. Sound: The sound 
+ is Shattered Galaxy is its major flaw for such a kick ass game. The sound seems dull and unattractive 
+ as it does everything repeatedly. The sound seems like below 22Khz of sound quality of the most. 
+ I truly hope the sound quality advances to 44Khz soon. Value: It's worth a try. I recommend playing 
+ at least 2 weeks until you can make a final decision whether to play it longer or come back another 
+ time. The game is totally free and well worth the try in my opinion. Thank you for reading my review. 
+ My online nickname for Shattered Galaxy is b20 if you wish to play with me at any time! :-) 
+::::::
+
+::::::
+UserName: sbm25
+Rating: 8.7
+Date: Nov 13, 2006 8:15 pm PT
+Review:  I found this game while I was looking for MMORPGs on the web. I thought it sounded cool, so I downloaded 
+ it and started playing. The tutorial is a bit confusing, but once you get the hang of it you will 
+ seriously get addicted to it. What I found most interesting about this game is that it is an RPG, 
+ RTS, and multiplayer at the same time. In the game, you control a hero, and you get to assign skill 
+ points to him as he levels up. Your hero never actually fights in the battles, and this is where 
+ the RTS bit come in. In battles, you must deploy squads of units to fight the enemy. Each unit 
+ has their drawbacks and advantages, and you have to choose which units you want to deploy at each 
+ battle. If all your units are killed, you can deploy another squad in about half a minute. Since 
+ this game is real-time, reinforcements from far away cannot help as quickly as the ones that are 
+ closer, and the enemy can block by starting a battle in the reinforcement's path. Though this game 
+ still have some glitches and some of the spelling is wrong, I really recommend this game for those 
+ of you RTS/RPG fans out there. 
+::::::
+
+::::::
+UserName: ShirohamaX
+Rating: 8.3
+Date: Mar 21, 2006 9:46 pm PT
+Review:  Gamespot covered this game in 2001. It is not 2006, and in the 5 years this game has morphed and 
+ changed drastically. An brand new interface along with free to play. However there is a catch and 
+ that is you will not get as many bonus as paying players, but hey, it is free.
+  
+  There are two planets, Relic and Morganna Prime. On these two planets are 3 different fractions 
+ on each planet. On Relic it is the Troy, Pompeii, and Helike.
+  
+  The goal is the fight for your fraction, earn uranium and kick the other fractions butt. However, 
+ this game is primarily based on team work, and without proper communication you will surely fail.
+ 
+  
+  In order to control the planet, there are different land pieces which the 3 different fractions 
+ fight for. To control a piece you must capture the POCS, which is pretty much sitting on this circle 
+ for either 0:45, 1:00, 1:15, or 1:30 to capture one POC. 
+  
+  What makes this game interesting is that you, yourself play a hero which can update in stats, (Tacts, 
+ Clout, Edu, and MA) Tacts allows you to deploy how many units in battle at one time (6 is the minimum, 
+ and 12 is the maximum) . Clout allows you to get more advanced units. Edu allows you to upgrade 
+ your units to have better weapons, and armour. And MA allows you to raise the weight limit for 
+ your units, basically allowing you to put more onto your units.
+  
+  This game requires a lot of teamwork, and if that is not possible for you then this game won't 
+ be for you. I encourage anyone who is tired of the big RTS, like WC3, and C&C to try SG, you might 
+ become hooked. 
+::::::
+
+::::::
+UserName: bolognat13
+Rating: 7.5
+Date: Aug 8, 2005 7:12 am PT
+Review:  A great game in my mind. With all the choices of online play today, this game just doesn't meet 
+ the standard anymore. This game was and still is fun to play, it's just no longer worth a fee to 
+ play. Great game to play with friends and to make new ones. Above average is the best way to describe 
+ it. Download the demo, play it for at least 2 weeks and if you're still interested sign up. Hold 
+ yourself back until you've done the demo for a short while. I think you'll find it's fun, but by 
+ the end of those 2 weeks you and your friends will have found a new game to become addicted too 
+ and in the long run you'll actually save yourself money. 
+::::::
+
+-------------------------------------------------

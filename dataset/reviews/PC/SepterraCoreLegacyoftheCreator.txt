@@ -1,0 +1,593 @@
+-------------------------------------------------
+:::Game Name::: Septerra Core: Legacy of the Creator
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/septerracorelegacyoftc/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov 23, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.7
+Critic Score: 7.5, 25 Review (s)
+User Score: 7.9, 467 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Monolith Productions
+Developer: Valkyrie Studios
+Genre: Role-Playing
+Date:     Oct 31, 1999
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+It's got some interesting characters, a user-friendly interface, and an intriguing magic system, 
+ but it gets bogged down by both minor and major problems. 
+
+ Septerra Core isn't enthralling or flashy, and for the most part, its reliance on Japanese console 
+ role-playing conventions of games like Chrono Trigger and Final Fantasy doesn't allow it to be 
+ particularly original. It's got some interesting characters, a user-friendly interface, and an 
+ intriguing magic system, but it gets bogged down by both minor and major problems.  
+
+ The game itself takes place in the anime-style sci-fi/fantasy hybrid world of Septerra; a world 
+ not unlike that of Hayao Miyazaki's anime Nausicaa: Valley of the Wind or Square's Final Fantasy 
+ VII. Septerra is a seven-layered planet across which magic spells and machine guns are equally 
+ common. The main character Maya leads the relatively peaceful life of a junk scavenger on Shell 
+ 2 until she finds herself embroiled in a plot that endangers the entire world. Maya and her friends 
+ must race down through the layers, or "shells," of the world in order to stop a power-hungry warlord 
+ from seizing the ancient power of the core. Throughout her travels, she encounters space pirates, 
+ cyborgs, magi, and giant insects and allies herself with swordsmen, gearheads, bounty hunters, 
+ a mutant, and a robotic dog.  
+
+ The story itself is fairly complex and involves a good deal of character interaction. Though the 
+ game takes place on an alien world filled with exotic creatures, locations, and people, none of 
+ it ever seems hopelessly arcane, since information is constantly laid out before you in the form 
+ of not-so-subtle dialogue hints. Each of Maya's eight companions is also fairly interesting, and 
+ in a few specific cases they'll actually attack each other, though you can eventually resolve their 
+ differences by completing optional side quests. As with Chrono Trigger, you can have a maximum 
+ of three characters in your party at a time; so at different points in the game, you'll have the 
+ option to customize your party with different characters depending on the situation.  
+
+ Septerra Core's visuals aren't nearly as good as its story. It runs at a maximum resolution of 640x480, 
+ which is a shame because the low resolution doesn't do justice to the colorful and beautifully 
+ crafted backgrounds. Though these flat 2D backdrops don't benefit from bump-mapping, lightsourcing, 
+ or other fancy technical effects, they're varied, detailed, and generally look quite nice.  
+
+ Unfortunately, the same can't be said for the poorly animated character and portrait graphics. 
+ The rendered character models suffer from a sheer lack of frames of animation; as a result, they 
+ walk, run, move, and fight with an unflatteringly jerky stiffness that clashes with the detailed 
+ backgrounds. The rendered speech portraits are similarly jarring; speaking characters' faces are 
+ fully animated in order to express emotion, and they're effective in some cases - but much of the 
+ time, they resemble nothing more than second-rate claymation.  
+
+ Fortunately, Septerra Core sounds better than it looks. For the most part, there are two instances 
+ in which music plays: on the overland map and in combat. In either case, all of it is appropriate, 
+ even if none of it is particularly memorable. However, the spoken dialogue and sound effects are 
+ far more distinct, even if they aren't uniformly good. Septerra Core's voice acting is inconsistent; 
+ at times, it's downright horrible, though much of it is passable, and some of it is truly superb. 
+ Also, sound effects like the swinging of swords and staves and the spouting of toxic chemicals 
+ from mutant monsters are subdued, while gunfire, explosions, and laser blast effects are all suitably 
+ loud and clear. Septerra Core has a few other good points. One of these is the excellent exploration 
+ interface. Moving your characters couldn't be easier: All you need to do is click once on the desired 
+ destination to send them there, and you can even double-click to make them run. You can also hold 
+ down the mouse button to lead them manually, which comes in handy for scouting unknown areas and 
+ avoiding unwanted combat. In addition, while exploring a town, a dungeon, or the overland map, 
+ all of your healing items and keys can be called up at any time simply by scrolling the mouse cursor 
+ to the bottom of the screen. And the inventory screen, which houses every important game option, 
+ like saving and loading games, examining and equipping your characters, and using items, is just 
+ one click away.  
+
+ Septerra Core's magic spell system is easily its most interesting feature. Many special abilities 
+ and all magic spells expend "core power," Septerra Core's equivalent of spell points. Each party 
+ member has a different amount of core points he contributes to the party's pool; the larger the 
+ pool, the more special abilities and magical spells available to all. Spells themselves are cast 
+ with magical "fate" cards, which can be found in treasure chests or after defeating key enemies. 
+ Each of these 22 cards can be used individually or with other cards to produce powerful effects. 
+ Most notable of these is the summon card, which when used with other cards conjures up gigantic 
+ creatures and deities to attack your enemies in an obvious homage to Final Fantasy VII's spectacularly 
+ absurd summon spells. Unfortunately, the stilted animation and low resolution of Septerra Core's 
+ summon combinations still can't hold a candle to the blocky, bloated demons and dragons of Final 
+ Fantasy VII's already-aged graphics engine.  
+
+ But for all its apparent strengths, Septerra Core's almost completely linear structure makes for 
+ a terrible weakness. Casting spells, talking to the locals, and admiring the scenery may seem fun, 
+ but this enjoyment is nearly always short-lived, as you'll eventually find yourself at an impasse. 
+ At this point, you'll be forced to wander about in search of the red key, the desert hermit, the 
+ switch that will open the graveyard gate, or some other key item or encounter that will let you 
+ progress. Even if you decide not to explore your surroundings, the structure of the story forces 
+ you to backtrack to locations you've already visited - and this invariably means fighting monsters 
+ along the way.  
+
+ And fighting monsters is without a doubt the worst thing about Septerra Core. It's true that none 
+ of the scripted encounters is especially tough to beat, and each is well paced with respect to 
+ the level of your enemies and your party members. And most other encounters aren't that tough, 
+ either; your party will rarely if ever be completely outclassed by standard monsters, and if it 
+ is, you can usually hole up in the nearest town, rest in the inn, and try to gain a few levels 
+ against easier foes before trying again. In the case of these regular encounters, it's actually 
+ sometimes possible to avoid combat altogether by guiding your party around enemies, since most 
+ enemies are clearly visible on the map.  
+
+ Unfortunately, all encounters - scripted or not - use the same thoroughly tedious interface. The 
+ actual combat uses a modified version of the Final Fantasy "timed turns" system: Each character 
+ has three time segments in his turn, which fill up slowly in real time. Characters can perform 
+ different actions depending on how many segments they decide to let fill. For the most part, only 
+ weak attacks and minor abilities may be used if a single time segment is used, though a character 
+ can use his most powerful attack if you wait long enough. The problem is that you have absolutely 
+ no control over the flow of time in combat. Combat requires absolutely nothing in the way of reflexes 
+ or hand-eye coordination and very little in the way of strategic anticipation. In addition, you 
+ can't speed it up, nor do you have the option to switch to a completely turn-based system.  
+
+ Instead, you sit and wait... and wait... and wait until your character gets his next turn. What's 
+ worse is that every single attack takes an inordinate amount of time to execute. After sitting 
+ and waiting for your character, you must then sit and wait while he makes a slow, poorly animated 
+ leap toward his opponent, then performs his slow, poorly animated attack, then makes another slow, 
+ poorly animated leap back to his place in the ranks. With the exception of projectile attacks such 
+ as rifle shots or lasers, each of your characters and nearly all monsters in the game go through 
+ this agonizingly wearisome process every single round of every single combat - and there isn't 
+ a thing you can do to change it. Even retreating from battle is slow, as each character must individually 
+ turn to flee (and must therefore wait at least one time segment in order to act) . And even then, 
+ each of your enemies will be able to launch a slow, poorly animated attack as you try to run. Don't 
+ be deceived by the ease of most of Septerra Core's fights or by the fact that you can sometimes 
+ avoid your enemies on the map. You'll be doing plenty of fighting even if you aren't out for experience 
+ points and money, since Septerra Core's linear structure inevitably forces you to return to the 
+ monster-infested maps you thought you left behind.  
+
+ Septerra Core has a number of things going for it: Some of it looks good, some of it sounds good, 
+ and some of it plays well. Unfortunately, no matter how appealing any of it may seem at any point 
+ in play, Septerra Core's rigidly linear structure and reprehensible combat system unequivocally 
+ rear their ugly heads and weaken what could have been a better game.     
+-------------------------------------------------
+:::User Reviews::: (11 Reviews)
+::::::
+UserName: Mahobudo
+Rating: 8.6
+Date: Feb 2, 2009 6:46 pm PT
+Review:  This is an older game. But a classic.
+  Graphics. 8.0
+  I am judging these graphics by the time it was released. And for the time these graphics were well 
+ done. It was like a proper mix between Final fantasy 7 and Diablo. I loved it and I'm sure you 
+ will to if you were gaming during that time and still love that style. The world is well designed 
+ giving you a feeling of exploration that many games now forget about. 
+  My only complain is that only the main characters look good.. everyone else is DOG ugly.
+  Sound 
+ 7.8
+  The sound is good....... but there isn't much of it... besides battle themes and a few tracks the 
+ game is pretty much silent minus effects.... but the effects are really well done so it makes up 
+ for it. Plus the main Character's voice acting is very good as is most of the rest of the cast.
+ 
+  Gameply. 9.0
+  Innovative. Like I said its like a mix of ff7 and Diablo. The game flows nicely with most of the 
+ adventure exploration of towns and ect unraveling like a point n click game but the battle system 
+ is very ff7 with turn based battles and limit breaks with summons and more. Did I mention I loved 
+ this game.
+  Story 9.0
+  This story is the basic cyber/steam punk spill but it feels very smooth. The world is something 
+ that you would actually want to visit and would make an even better mmo today that half of what 
+ we play. The story has a few twists and turns near the end but the characters and their interaction 
+ is what really makes the story worth it. 
+  Everyone should check this game out if you love rpg's and you can.... if you can find it..... sigh 
+ 
+::::::
+
+::::::
+UserName: Xdra
+Rating: 7
+Date: Oct 13, 2008 1:05 pm PT
+Review:  The game is a bit buggy in some places, I'll admit had a bug that stopped me progressing towards 
+ one of the final stages of the game. But ultimately I've found it a fun game. 
+  
+  The story and world which Septerra core is set in are both incredibly well written and portrayed 
+ - a definite must for any Science Fiction fans. The characters are interesting with some good dialogue 
+ between them. It's rare that a game of today took me into this world as quickly as Septerra Core 
+ has. Its a classic.
+  
+  The magic/combat system is interesting and easy to understand if not quite challenging at times. 
+ Sometimes rather infuriating but with the right amount of patience pretty much everything can be 
+ overcame.
+  
+  The puzzles are rather straight forward but you will find you will need to think of who you bring 
+ along to certain areas as they trigger different dialogue sequences or aspects of the game to advance. 
+ 
+  
+  Look out for patches, their bound to be online if you have any problems 
+::::::
+
+::::::
+UserName: Cranberry2
+Rating: 10
+Date: Oct 3, 2008 2:41 pm PT
+Review:  I played this game long ago, my first RPG or close to it and got it almost for free, from a magazine 
+ I bought. This game is incredible immersive. The atmosphere was unbeliaveble.
+  
+  I admit I never finished this game, but this was a game I wish I had, just for memory's sake. Its 
+ a special game, in a special period, so its hard to criticise it, even tough it does might have 
+ areas to be.
+  
+  There was hard times in the game where I remember getting stuck in the progress, not only one time, 
+ because you often needed to have one certain character to pass trought. I don't mind now. So, its 
+ a RPG with a little bit of good puzzle elements, something that would happen for any real adventure 
+ at some momement, were you need to find/fix something, or manage to enter some place by another 
+ method.
+  
+  First off, this game have Maya, your main character that is very charismatic, and so much, that 
+ I could compare her to characters like Sonic for exemple. She have a good visual, nice cloths and 
+ that amazingly always upgradable weapon of hers. By that time I didn't knew much english to understand 
+ all in the the intro and story, but it have a good and atmopheric intro, eveything in this game 
+ is very well done in terms of atmosphere. The intro was very misterious, with interesting characters 
+ in it that you wouldn't know but sound powerfull, and they have some discussions. This game have 
+ a unique style, really, very unique.
+  
+  I don't have exact memories of the game now, just instances. You begin in a city, where there are 
+ stores to buy weapons and cores I think, I remember the stores interiors being pretty nice. Soon 
+ you get to know a second character that is a good inventor, and have a huge robot dog. Now thinking 
+ of it today, I think Valve copied the robot dog idea from this game when making Half Life2 if they 
+ didn't had it on the first. But anyway, returning to a great game, after you leave the city to 
+ head to the investors house that was your friend seems like you help him fix the dog or something. 
+ The dog is a powerfull party member I remember. From the beggning has you advance a little, I record 
+ going trough a desert place with lots of scorpions, they were hard for me at that time. Every ambient, 
+ like crossing the scorpions in the desert, felt solid and balanced on the gameplay in a way you 
+ should be carefull, but you was always free has you could get stronger if you want to, but at some 
+ moments wasn't possible yet; maybe you should advance first to make you weapon better, maybe wait 
+ some companion or find a better place. But you were free.
+  
+  The combat mechanics are just like final fantasy if you are wondering. These old school RPG games 
+ were very enterteining, they for exemple, didn't put limits on you. Monsters could respawn, and 
+ you had the choice keep leveling if you want to and even colect itens. I remember one time I kept 
+ killing zombies till I filled my bag with the precious bread. I could do it all day if I had to, 
+ I was immersed with the game, my party, the character and their cause, even without knowing exacly 
+ what was ocurring. I could understand a bit, about the worlds and etc, but some things were confusing 
+ (not like a bad thing) and very surreal. There were these huge ships and their world was almost 
+ destroyed, many places were junky and desert. The worlds float separatelly arround the core or 
+ something.
+  
+  I remember when more characters were comming, and they were great, but maybe wasn't very well introducted 
+ because I don't remember like some of them came into play. They were great tough, and all very 
+ balanced. They came with better power already than the first characters on the beggning, but the 
+ first ones were already lvled, so you should make a choice because of the party size limit. I often 
+ just couldn't leave some old conrads behind, even though some newer was more powerfull, because 
+ of how attached I was with them. I liked them very much.
+  
+  **Minor Spoiler about some characters you encounter**
+  
+  All characters had some kind of special 
+ ability, there was a thief guy (the one I had to use in the part I was stuck has I found later) , 
+ a mechanic blond girl, the inventor (from the very beggning) with his punk hair, the dog, a blong 
+ guy with blades and even more. There were many characters, I even didin't got to see them all.
+ 
+  
+  **End Spoiler**
+  
+  This is a very catchy game with an appealing story and appealing characters. I can't even read 
+ what the people who gave it lower scores think of it. Its just magical really. I get very curious 
+ with the people who acomplish a marvel game so Ill see if they made another gem. Mind you, this 
+ an old school game not meant for anyone. It requers patience, and have foults from other times 
+ but still lesser than many games today. Its very ejoyable if you have the time to apreciete it 
+ and its dificulties. Its not a game to be harsh with on the things you consider has foults, it 
+ is about immersive atmosphere, story, characters, challenges (and some were you really might get 
+ stuck, like I was and left it for some days) and lots of battles. It is a game from 99 has you 
+ can see.
+  
+  Hope some day I can get it again somehow and finish it, but sometimes is hard to go trought old 
+ emotions, thats the only problem. Sometimes is the best to leave old thing sit still. But this 
+ one I should have finish damn. If you are someone capable of really enjoy this masterpiece, buy 
+ it and do it for me ok?
+  
+  I regard you with much love Septerra Core, it was a immeasurable pleasure to met you. Farewell 
+ Maya and companions. *cry* lol.
+  
+  Thanks for reading, see ya :) . Ill let a trully interesting story below for you. Hope you like 
+ it too as much as I do.
+  
+  -----------------------------------------------------
+  
+  A bit about one of the greatest thing in this game: Its story. The best most original and surreal 
+ story I ever saw for a game. Its official brief I only added little info in the two [ ] 's. There 
+ are no spoilers. Spoiler Free.
+  
+  "Enter a world where the laws of nature work in strange new ways allowing continents to orbit at 
+ different elevations around the planet. [These masses of land that float arround the Core at different 
+ levels, are called Shells and Layers by the inhabitants. All the world is very misterious, has 
+ the different nations (including some different races) live separatelly from each other and not 
+ much aware of eachother buzziness.] Living battleships float overhead and Junk Pirates roam the 
+ darkness. This is a world who's very Core is a living computer, quietly watching over the fruits 
+ of its master's creation.
+  
+  On the Outer Shell Layer above, the ancient society of the Chosen live an extravagant lifestyle, 
+ consuming mass amounts of energy and dumping their waste onto the Layers below. [The ones from 
+ below, long used to it, live from the technology trash always descending from the Outer Shell.] 
+ Now the Chosen have discovered secrets about the world in which they live, and begin a descent 
+ towards the inner Core, caring not who gets in their way.
+  
+  Into these events you are drawn. You take the role of Maya, a Junk Scavenger from World Shell 2, 
+ directly below the Chosen's Layer. It is here that you make your living, sifting through the trash 
+ to find useful items to sell, always wary of the giant ships that darken the skies above. As the 
+ Chosen and their fleet of battleships begin their descent to the Core, war looms over the land. 
+ The many nations of the Lower Levels, including your own, are threatened by the exodus and fear 
+ the destruction to come.
+  
+  Leaving her home behind, Maya strikes out intending to warn the Lower nations of the coming Chosen, 
+ and soon finds herself in the middle of the battle for freedom.
+  
+  Standing against Maya are the forces of Doskias, a Chosen Lord who sees himself as the savior of 
+ Septerra, a man who will stop at nothing to achieve his goals. In his desire to obtain the power 
+ of the Core he upsets the delicate clockwork of the planet ... dooming the world to destruction.
+ 
+  Maya must stand against him. Finding allies as well as enemies in the society of the Chosen, she 
+ begins to unravel what Doskias has wrought, and starts down the path to obtaining the Gift of the 
+ Creator, prophesied as the power that will save the world.
+  
+  In a world where the boundaries of good and evil are blurred, only the strong will survive to see 
+ a new dawn ... and a new era, as you solve the Legacy ... and look upon the face of the Creator." 
+ 
+::::::
+
+::::::
+UserName: malavos
+Rating: 7.5
+Date: Mar 4, 2008 9:16 am PT
+Review:  Septerra core was "born" in 1999. A good year, where the technology and investments in the game 
+ industry. There was new games, and a new way to play games and create then. Septerra core tried 
+ to fit in these new ways. Valkyrie studios tried the best possible to do this. But this is not 
+ a easy task. You can confirm that in septerra core battle style. But, let's keep easy: the game 
+ is good, you can have a lot of fun playing it.
+  
+  Now for the grades!
+  
+  Music: 10 Simply pwnsome.
+  FX: 7 - Not that good.
+  Story: 10 - Shells, cards, gods, Marduck 
+ =P And the characters and wars. Everything pwns.
+  Interactivity = 4 - 
+  Fun playing: 10. No joking!!!!!!!!!!!!! 
+ For real, it is really funny!
+  7,5 Overral no more, no less.
+  
+  Thanks God for this game o/
+  
+  Maybe a next game, a Septerra core 2. I still have faith on 
+ this, specially cause there is fallout 3, why not septerra core 2?
+  
+  Cya guys. Play septerra. 
+::::::
+
+::::::
+UserName: yoyoboyRo
+Rating: 9.1
+Date: Jun 6, 2007 7:40 am PT
+Review:  Septerra Core was the best and nicest game i played on my first Pentium I computer, i had a lame 
+ computer with 600mhz and 4MB video graphic adapter - and the amazing thing is that it worked....
+ 
+  So i started playing and the story was simply amazing.... it involved ancient figures and a legend 
+ and many interesting quests.... and battles...
+  yes it is true that sometimes... bug occured.. but that didn`t spoil the beauty of the game.
+  It 
+ was a game - the best game i played in my childhood.
+  Congratulations to the designers.
+  thanks for reading this.
+  -----------------------------------
+  Septerra Core was the best and 
+ nicest game i played on my first Pentium I computer, i had a lame computer with 600mhz and 4MB 
+ video graphic adapter - and the amazing thing is that it worked....
+  So i started playing and the story was simply amazing.... it involved ancient figures and a legend 
+ and many interesting quests.... and battles...
+  yes it is true that sometimes... bug occured.. but that didn`t spoil the beauty of the game.
+  It 
+ was a game - the best game i played in my childhood.
+  Congratulations to the designers.
+  thanks for reading this. 
+::::::
+
+::::::
+UserName: KingLim
+Rating: 6.2
+Date: Mar 23, 2007 1:13 am PT
+Review:  If you are a hardcore fan of the Final Fantasy series, you may be remotely interested in this game 
+ with the same RPG style and even the same navigation and combat system. However, given that it 
+ was developed shortly after FFVII in the late 90's, its dated graphics would have put you off by 
+ now.
+  
+  Much of the game mainly puts your characters running around maze-like rooms and outdoor areas that 
+ are quite uninspired and getting keys to reach the other side while contending with scripted enemy 
+ encounters. The battle system is actually quite slow and boring even though all the 9 main characters 
+ each has individually interesting combat skills. Not even halfway through the main game, I'm so 
+ bored with it I applied cheats all the way cos I just wanna see the endgame and leave it permanently 
+ on the shelf. Nevertheless, it does have a good save-the-world storyline to satisfy the casual 
+ RPG gamers.
+  
+  It would be fun to play Septerra Core last century when not so many RPGs are made. Now, you can 
+ just totally ignore it if you are not a serious RPG collector.
+  
+  KingLim 
+::::::
+
+::::::
+UserName: WinWalter
+Rating: 7
+Date: Jan 31, 2007 8:45 pm PT
+Review:  Role playing games for the PC are rare and so when Septerra Core came out, it was almost like a 
+ delicious prize, ready to be unwrapped. Playing the game can be quite fun but some things aren't 
+ right.
+  
+  Septerra Core is a very ambitious game for many reasons. First of all, the sound is amazing in 
+ most areas. In battles, the music can be described as moody but it can get repetitive quickly but 
+ all other sounds are fantastic. From the laser shots to the sword swings, the combat sounds fit 
+ the tone and play quite well. On top of that, every word in the game is voice acted. This may very 
+ well be the first game where that is the case and because of that, the game is so very memorable. 
+ Each character as a unique personality that anyone can remember after playing and each distinct 
+ voice pulls you more into the game than one would expect. While you're playing, you can't help 
+ but feel that you know about them and you want them to succeed because they are people who have 
+ extraordinary problems.
+  
+  On top of that, the story is so intriguing, you would have to be asleep not to get drawn in. The 
+ tale begins with the main character named Maya. She is a junker from Shell 2. The story is unique 
+ because the world is not a round planet but 7 flat shells around a rotating spine. I don't want 
+ to ruin it all for you but suffice to say, those above Maya and her companions are on route for 
+ something horrific and it is up to her to stymie their attempt.
+  
+  The graphics are basic looking and can only run at a 640x480 resolution. This is highly unfortunate 
+ because the game doesn't look sharp at times but the sprites are colourful and it does run smoothly. 
+ Though the game is quite good, the one major issue is the game has is pacing. The pacing of the 
+ story is fine, but the battle's take much too long. Each character, including enemies, have a status 
+ bar that can be used at 1,2, or 3 bars. 1 are weaker attacks, 2 are medium attacks and 3 are your 
+ strongest attacks. The main problem is that when someone goes, the bar stops for everyone while 
+ the animation goes ahead for the one sprite doing something. This is okay when there are two people 
+ on the screen but when there are three group members and six enemies, well you can guess how long 
+ it can take. Not only that, but the characters seem to have superhuman jumping ability as they 
+ jump to the target to strike them. There should have been an option to make it real time.
+  
+  There were some stability issues and some major bugs but if you download the latest patch, 
+ you probably won't have to worry about it.
+  
+  The game was a great buy at sixty dollars in 1999 and is a steal at four dollars from the internet. 
+ If you wanna try an older RPG with an awesome story, spend a few bucks and get this gem. 
+::::::
+
+::::::
+UserName: Maester-Slayer
+Rating: 9.7
+Date: Sep 18, 2006 12:50 pm PT
+Review:  This is one of my first and favorite RPG's ever.
+  
+  Let's look at the facts.
+  
+  By the end of the game, a few million people have died horrible painful deaths. I think that pretty 
+ much beats every RPG ever made. Although Sin did kill a lot of people, those killings seemed random 
+ and pointless and just to be used to convey suffering. In SC, people die because there were in 
+ the way. The world of Septerra is a world where **** die and the strong rise up. Good thing Maya 
+ is a bum whooping blue haired chick with a gun from the shell above and inadequate armor. Of course 
+ we could look at Led who had no legs but was still dressed to please. On that note, this game screams 
+ Japanese! Got to love Grubb though, I wish I had a hair cut like that. Once a friend saw me playing 
+ it and thought it was some girly game, because he saw the characters I had. I was using, Maya, 
+ Led, Corgan. Three people with long hair, and Corgan's hair does look like a girl's hair.
+  
+  But on to game play.
+  This game has unfortunately, very little replay value, unless you're 
+ like me and actually accidentally skipped a few levels and key conversations.
+  
+  How did I do that you might ask, read the end of the review.
+  
+  The story is very decent, but 
+ I never realized how similar it is to Christian religion until a super religious friend of mine 
+ pointed it out. The ancient city of Babylon, etc. Marduk, The creators only begotten son. The list 
+ goes on and on. It's like straight out of the bible.
+  
+  But that doesn't make the story any less fun.
+  
+  And the levels are beautiful. Do as I did, 
+ this game is really meant to be played without using the map feature. SO no matter what, don't 
+ use it. Thats what I did (primarily because I didn't know of the map feature the first 10 times 
+ I played the game) . There is a certain satisfaction to being anywhere in the level, and not being 
+ lost. Or finding a secrete spot hidden under some trees. Or find the perfect route though the Mold 
+ Forest (of which I know hehehehehehe) .
+  
+  If you haven't played this game, you should.
+  
+  It's too bad gamespot didn't really give this game a real good look, because it's also not 
+ stable.
+  
+  Unpatched, you have the following issues.
+  
+  You can skip the core keys mission (which is what I did the first few times I played it, its odd 
+ how you get the core keys and learn the prophecy without ever going to the core hahah. It really 
+ made the game confusing for me the first few times through)
+  
+  When fighting the mining helgak. Every time he hits you with his special attack, you gain experience. 
+ And the battle doesnt end right. To end the battle, and do some huge leveling up (assuming you 
+ spent about an hour of your time letting the thing hit you) use an item like a soul stone or core 
+ sphere and you should go up 3 or 4 levels per character. The next 2 shells will be super easy.
+ 
+  
+  Don't talk to the brown haired lady in Wind City with Corgan, it will lock the game.
+  There was another one of those but I can't remember where (goes back and plays Septerra core)
+ 
+  
+  In the prison, stay away from the upper walls in some rooms, occasionally enemies will see you 
+ through the walls and make you jump the walls. The problem here is it can take you to a place that 
+ is locked, and guess what; the key isnt on that side!
+  
+  When you beat the game. Immediately make a new one. Don't close the game, just click new game and 
+ save.
+  Your characters (except for Maya, Grubb, and Runner) will all have the same equipment they had 
+ when you beat the game. You just can't see it or unequip it in some cases. Not until you actually 
+ get the item. You can consider this like a new game + like in CT and CC. And before Grubb and Runner 
+ level up for the first time, they will have huge stats as well. But they disappear when they level 
+ up, for the other characters they do not disappear. So the trick, get Maya to a very high level, 
+ I usually stop when she has over 100 HP (I forget what level that is) . Do this by fighting the 
+ Red wolf in the middle left side of the Bad Lands. Just keep killing the wolves it summons. You 
+ will get 150 EXP every battle. You should be able to one hit kill the brown wolves on your weakest 
+ attack before you get grub and runner in your team.
+  
+  To get through most of the mold forest without a battle, run along the bottom of the level, stay 
+ hidden under trees. No enemies look down there.
+  
+  You can actually rob the armor store on shell 6 partially before the shop keep actually leaves. 
+ Go behind him and check the shelf. You can get some pretty sweet boots. You cant get the magic 
+ armor yet though.
+  
+  You can actually beat Lock, the guy with the key in the Ill Repute. I've done it, it is possible, 
+ but it really makes the game funny. And no I didn't cheat; I just beat him with summons. Not sure 
+ how I did it, I guess I was a good battler, just not a good RPG'er back then. Because I always 
+ wondered what the explosives were for.
+  
+  Well thats all I'm going to tell you. Now go out, buy and enjoy this great game. 
+::::::
+
+::::::
+UserName: Cmpunmu3
+Rating: 9.2
+Date: Jul 2, 2006 11:35 am PT
+Review:  Tons of characters, tons of enemies with a tons of magic you can combine to send upon your furious 
+ foes, tons of bosses with unique abiliies, tons of items to collect and stick to your weapons for 
+ upgrade.
+  This game's exceptional story takes you to the futuristic planet earth which was divided in several 
+ parts; your task is to find a core key and reunite these parts.
+  You'll have a lot of pleasure playng it, because of it's great storyline, all the dialogues are 
+ in audio format, difficult quests with lots of riddles, few annoying labyrinths to get out of, 
+ solvation of various mob wars in different cities of world layers, conspiration exposals.. And 
+ after getting your own aerial transport it's up to you to explore every single spot of the earth 
+ & find many hidden puzzles & quests to solve with a following success of discovering ancient artifacts 
+ for disposal.
+  Obviously i lost a track of time when started playing this great game, now it's your turn..
+  
+ 
+::::::
+
+::::::
+UserName: Boocow
+Rating: 7.8
+Date: May 6, 2006 5:06 am PT
+Review:  If you play this game you'll find to see that it is better than anyone implies. The story line 
+ is amazing. You must save the world by stopping all of the layers of the world from aligning. If 
+ they align something real bad will happen. This game is an RPG ahead of its time. Though created 
+ in 1999 do not be fooled by that fact. The sound quality isn't bad and neither are the graphics. 
+ Following these characters though the layers of the earth shows to be a real adventure. This game 
+ is should have been made as a console style RPG but the creators obviously didn't do that. It would 
+ have been better made for the playstation. The characters each have a different essence to them 
+ and together they work quite well. The different cities that you'll see will range from slums to 
+ royal kingdoms. Traveling in this world of the creator ranges from dangerous and unpredictable 
+ to easy going and without a care. If you have not bought this game I suggest you do. If you're 
+ not satisfied with the story line then you're crazy! 
+::::::
+
+::::::
+UserName: Italia_13
+Rating: 8.6
+Date: Feb 14, 2006 5:29 am PT
+Review:  This game at first may seem a little bland and repetitive, but it has interesting characters and 
+ a great story line. Which on my list are the most important things in an rpg.
+  
+  I find for its time it has very good graphics and I personally have not had any stability problems 
+ like others, but that does not mean there are none.
+  
+  this was one of the first games where I thought they pulled of the voices quite well and it added 
+ to the game instead fo taking away from it. This game is quite old now and you can possibly pick 
+ it up for very cheap so there is no reason not to try and and give it a go.
+  
+  i recommend this game for anyone who likes rpgs and a good story. 
+::::::
+
+-------------------------------------------------

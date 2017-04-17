@@ -1,0 +1,134 @@
+-------------------------------------------------
+:::Game Name::: Takeda
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/takeda/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov 29, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.5
+Critic Score: 6.2, 11 Review (s)
+User Score: 7.6, 19 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Xicat Interactive
+Developer: Magitech
+Genre: Strategy
+Date:     Nov 14, 2001
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Although Takeda is original, a combination of questionable design decisions and serious technical 
+ issues make it tough to play, let alone enjoy. 
+
+ Takeda is not a rip-off of Shogun: Total War. Magitech's real-time epic might share a setting with 
+ the reigning daimyo of medieval Japanese military sims, but it isn't a slavish copy. Unfortunately, 
+ it might have fared better if it were. For although Takeda is original, a combination of questionable 
+ design decisions and serious technical issues make it tough to play, let alone enjoy. While there 
+ are a few high points, the presence of so many rough edges makes this game one for the "could have 
+ been" bin.           Takeda's battles may run sluggishly, even if you have a fast system.    
+
+ 
+  Many of Takeda's problems stem from its unfinished state. This fact is openly acknowledged in 
+ the troubleshooting section at the back of the manual. Unbelievably, the designers admit here that 
+ the game for which you just plunked down $44.99 "is still under development" and that "current 
+ versions are not fully optimized." As a result, "slowness may be a problem on many systems." Ours 
+ is one of them. The Athlon XP 1700 used to play the game, which incidentally sports 512MB of RAM 
+ and a lightning-fast GeForce3 Ti 500 video card, had trouble running the game at all. Choppiness 
+ makes it very difficult to scroll across the battlefield. Animations are similarly afflicted, turning 
+ battles into jerky affairs more appropriate to marionettes than flesh-and-blood soldiers. Disabling 
+ the environmental effects and drifting fog speeds things up a bit, as does hitting "0" to maximize 
+ the frame rate, though stuttering remains a serious encumbrance to smooth play. Strangely, you 
+ can't change the fixed screen resolution of 1280x1024.   
+
+  Other barriers also exist. The overall presentation is devoid of extras, some of which we've come 
+ to expect in real-time strategy games. For instance, there is no way to alter the default camera 
+ angle. This setting is locked in a position that is of sufficient height to turn individual soldiers 
+ into tiny colored blobs, but not high enough to provide a complete overview of the battlefield. 
+ A lot of scrolling is required, even when dealing with the smallest conflicts. Seeing as scrolling 
+ is such a challenge, this limitation adds frustration to every battle. It can be somewhat difficult 
+ to even make it this far, as Magitech omitted both an in-game tutorial and tooltips. The manual 
+ is helpful, although some of the information about the interface has been shunted to a .pdf file 
+ included on the game disc. Such skimpy production values can also be heard in a title song that 
+ wouldn't have been out of place on the Sega Genesis. Sound effects are similarly retro, consisting 
+ of clanging steel, horses' hooves, and a lot of accent-tinged voices screaming "Arrggghhh!" One 
+ Japanese command is shouted over and over again during every battle.           You can arrange 
+ your armies in a number of complex formations.    
+
+  If you can get past these obstacles, Takeda does have a few good things to offer. Magitech has 
+ a solid grasp on Japanese history, telling the fascinating story of the nation's 16th-century civil 
+ war in a deep and involving campaign. As the title suggests, you assume control of Clan Takeda 
+ in the middle of its battle for survival. Command your forces well and you'll soon go on the offensive, 
+ eventually battling for control of the entire island. Though the campaign is scripted, how you 
+ succeed or fail on the battlefield does set up your position for subsequent combat. A victory usually 
+ places you in good shape for the next battle, while being slaughtered can be so disastrous that 
+ subsequent battles are all but unwinnable. This dynamic element lends a lot of drive and realism 
+ to the campaign, in that you can get on a roll and rip through four or five clashes without breaking 
+ a sweat, or you can screw up and find the consequences of that mistake following you around. Historical 
+ battle mode offers a further 13 authentic engagements from the civil war and three fictional ones 
+ based on "what if?" speculation. Most of the significant events of the period are available, including 
+ the siege of Katsurao and the climactic battle of Sekigahara.   
+
+  A multiplayer option is provided as well, though Magitech really missed the mark there. Instead 
+ of allowing combat between multiple clans -- a natural considering the civil war backdrop that pitted 
+ faction against faction against faction -- LAN and Internet battles are head-to-head only. GameSpy 
+ Arcade support is included, though it can't be accessed from the game itself, which features only 
+ direct IP connections. Online opponents were few and far between as of this writing, at any rate. 
+            The focus is on combat, though you'll make a few choices in the campaign.    
+
+  Gameplay is almost entirely about combat. The lone exception involves occasional events during 
+ the campaign that call for you to supply a yes-or-no answer to marriage alliances, pacts with other 
+ clans, and the like. However, it's hard to tell what effect these actions have on your forces, 
+ as feedback regarding the wisdom of your selection is limited to vague notes such as "Some of your 
+ generals are unhappy." Much of the time, you'll be free to concentrate solely on organizing your 
+ forces. This is done via a deployment screen where you look over the available divisions and slot 
+ them into center, flanking, headquarters, and reserve positions. There are also three detachment 
+ slots available if you want to hold a battalion back for either a strike mission to flank the enemy 
+ in the later stages of a battle or a delay mission to counter an enemy strike force.   
+
+  Divisions are composed of battalions featuring up to five different unit types -- spearmen, swordsmen, 
+ archers, cavalry, and (eventually) riflemen -- that are under the authority of generals and officers. 
+ These commanders are rated in terms of leadership ability, and this score trickles down to the 
+ troops in their charge in separate skill, experience, morale, and bravery stats. Battlefield results 
+ also play a part in how these numbers are calculated. Showing Magitech's respect for Japanese history, 
+ the game also builds a battalion's bravery score by tracking the number of rival flags cut down 
+ and the number of enemy officer heads that have been cut off (for display to the clan lord as a 
+ token of respect) . Once your basic lines have been set, you choose from more than a dozen formations. 
+ These include a variety of designs good for general offensive (wave, spear, and so on) and defensive 
+ (open wing, circle, and so on) purposes, as well as for specific objectives like a siege or a quick-strike 
+ assault. Formations can also be changed on the fly after the battle begins. This is occasionally 
+ necessary to deal with terrain or changing weather. Rivers, dense forests, hills, and mist all 
+ affect battlefield conditions, sometimes seriously. Giving an enemy the high ground, for example, 
+ can be suicidal.           Takeda is promising, but it's also incomplete.    
+
+  More problems emerge after the battle begins. Battalions are commanded en masse with eight orders 
+ that run the gamut from simply moving to a new position to all-out attacking, regrouping, and retreating. 
+ This list is remarkably complete, though units often don't respond the way they should. It can 
+ be very difficult to position troops effectively in large-scale battles or during sieges. Attempting 
+ to concentrate your forces on a single objective -- such as a castle gate or a vulnerable flank -- often 
+ results in confusion. Orders to smash through one gate, for example, always lead to soldiers thinning 
+ out and attempting to get through another entrance or even the supposedly impregnable wall. That 
+ this happens is noted in the manual, though why it should be taking place is left a mystery. It 
+ happens even with the most experienced, courageous men, so it seems to be a flaw in the artificial 
+ intelligence. Part of the cause could be the lack of commands for specific actions, like breaking 
+ down a gate or cutting an enemy flag to harm their morale. Such events are supposed to happen automatically 
+ whenever your soldiers are in the right area, though this obviously isn't occurring a substantial 
+ amount of the time.   
+
+  Despite these bouts with chaos, Takeda can occasionally be quite gratifying. Establishing and then 
+ operating from killer formations, with cavalry in the perfect positions to devastate the enemy, 
+ is very satisfying. Breaking into the opposition's headquarters and cutting down its flags provide 
+ an undeniable sense of achievement. Even the lofty camera angle is good at showing the devastation 
+ wrought in battle. Still, these moments just don't take place as often as they should, and technical 
+ problems shroud the entire experience with the feeling that you've paid to play a beta. And that's 
+ unforgivable, good moments or not.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

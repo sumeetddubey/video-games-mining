@@ -1,0 +1,134 @@
+-------------------------------------------------
+:::Game Name::: M.A.X. 2
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/max2/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug 21, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.3
+Critic Score: 5.7, 12 Review (s)
+User Score: 7.2, 34 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Interplay
+Developer: Flat Cat
+Genre: Strategy
+Date:     Jul 31, 1998
+
+-------------------------------------------------
+:::Review:::
+There's no denying that M. A. X.2 has all the ingredients of a great game, but strange quirks in the 
+ game engine and some downright bugs prevent it from reaching its full potential. 
+
+ It can be tough coming up with a good intro for a game review, and occasionally it's easiest to 
+ just throw up your hands and try to pawn off a rehash of the game's back story as the lead. But 
+ you'd be hard-pressed to do with that with M. A. X. 2, for one simple reason: The only place to learn 
+ the back story for M. A. X. 2 is in the original M. A. X. The game's opening sequence only shows various 
+ cities under attack by someone or something, and nowhere in the manual are you told just who you're 
+ fighting or, for that matter, who you're even supposed to be.  
+
+ Granted, some players couldn't care less about a back story, but the total absence of one in M. A. X. 
+ 2 is just one of many questionable design decisions that ultimately sabotage what could have been 
+ a strategy game of the first order. To be frank, M. A. X. 2 feels and plays as if it were released 
+ before it was completed - an impression you'd think Interplay would be eager to avoid at all costs 
+ after the Descent to Undermountain fiasco less than a year ago.  
+
+ M. A. X.2 is the sequel to what many consider the sleeper game of 1996, at least as far as strategy 
+ titles were concerned. M. A. X. had the usual combat, manufacturing, and resource-management features 
+ you'd expect in a strategy game, but on a fairly complex level - which goes a long way in explaining 
+ why the developers opted to include the choice of turn-based play or real-time action.  
+
+ M. A. X. won numerous awards, so a sequel was almost a given. Like its predecessor, M. A. X. 2 includes 
+ a real-time mode as well as turn-based and simultaneous turn-based play. Improvements include a 
+ sophisticated waypoint system, free Internet play on dedicated M. A. X. 2 servers, line of sight 
+ and fog of war, upgradable units, and eight distinct races (although the only real difference in 
+ these "races" is that specific unit stats are increased - one race has stronger tanks and armored 
+ vehicles, another has stronger turrets and mines, and so on) .  
+
+ There's no denying that M. A. X. 2 has all the ingredients of a great game, but strange quirks in 
+ the game engine and some downright bugs prevent it from reaching its full potential. Things start 
+ out weirdly enough with the choice of install sizes, which jump from the reasonable 65MB to 561MB. 
+ Yep, if you don't have more than half a gigabyte free, you'll have to opt for the teeny-tiny install 
+ - and if you've got a slower CD-ROM drive, that means nice long delays as each mission loads from 
+ the disc. Come on - couldn't Interplay have provided some compromise install size that put at least 
+ some of the missions on your hard drive?  
+
+ Gone are the tutorial missions that were so helpful in M. A. X.; instead, the manual says "Your best 
+ bet for getting into M. A. X. 2 is to run through the first campaign game." Gee, thanks a lot! And 
+ when you do hop into that first campaign game, you'll begin to encounter problem after problem, 
+ the most annoying involving commanding and controlling units - the heart and soul of any real-time 
+ strategy game.   
+
+ Take unit groupings: M. A. X. 2 allows you to group only eight units at a time, making it needlessly 
+ difficult to move and control large numbers of units. I've been told this is to prevent the dreaded 
+ tank rush, but because M. A. X. 2 features so many strong defensive units, the tank rush isn't a 
+ valid tactic anyway. Imagine Eisenhower issuing orders to individual battalions during D-Day, and 
+ you'll get an idea of how frustrating this "eight is enough" rule can be.  
+
+ Even if you can deal with that limitation, though, you'll soon discover that it doesn't even work 
+ as it's supposed to. It's easy enough to group several units together and assign them a hot-key 
+ number to quickly select the group - but if you issue a command to an individual unit in that group, 
+ it's automatically removed! If this isn't a bug, then someone at Flat Cat Studios has some strange 
+ ideas about unit control. To make matters worse, unit groupings seem to work for only very short 
+ periods of time. It's extremely frustrating to hit the "1" key expecting to control eight fast-moving 
+ assault guns, only to learn that Group 1 has been mysteriously disbanded.  
+
+ But perhaps the biggest problem with unit groupings is that hitting a group number centers the view 
+ on that group. Imagine this: You send an AWACS all the way to the other side of the map and discover 
+ mining stations and heavy-unit factories guarded by a few artillery turrets. With the enemy base 
+ onscreen, you hit the "1" key to select a group and have it attack the turrets - but now your view 
+ has shifted all the way back to the other side of the map to show the selected group. It makes 
+ coordinating a large-scale attack nearly impossible in real time and is a major annoyance even 
+ in turn-based play.  
+
+ In some missions the enemy units are identical to yours, adding even more to the confusion. (There's 
+ an option to put colored circles around your units, but it almost makes them look as if they've 
+ been selected and also clutters up the screen, particularly in large battles.) Want to load eight 
+ infantrymen into an APC? You'd think that highlighting them and clicking on the APC would do the 
+ trick, but instead you must load them one at a time.  
+
+ Nearly everywhere you look in M. A. X. 2, you'll find some evidence that this game either wasn't fully 
+ tested or someone didn't care whether it worked or not. Two missions in the retail version couldn't 
+ be completed: One crashed after a certain number of turns, and another had a time limit that made 
+ it physically impossible to achieve the mission goals. The 1.3 patch makes both missions playable, 
+ but how could a game be released without someone checking to make sure the campaign missions worked? 
+ In M. A. X. 2, "fog of war" is simply fog - toggling it off simply lightens the entire map rather 
+ than revealing the location of enemies.  
+
+ I've seen phantom constructor units flicker and shimmer onscreen, bewildering me because I wasn't 
+ sure whether it was a "ghost" or a unit I should have been able to control. The complex waypoint 
+ system is admirable, and while groups do follow the waypoints, you're not able to see the path 
+ marked onscreen. Your pilots report antiaircraft fire as enemy fighters - a big bug, since you'd 
+ naturally send either a mobile AA gun or a fighter plane to shoot down an airborne threat, instead 
+ of a ground unit or ground-attack plane to take care of a stationary threat. In one mission, the 
+ same enemy building is referred to as a "radar station" (in the briefing) , a "relay station" (the 
+ unit name during play) , and a "radar pod" (mission debriefing) . This cost me the mission, because 
+ I destroyed the relay station rather than disabling it because I didn't know it was the objective. 
+
+ I've read a lot of people saying that M. A. X. 2 was unplayable because of frequent crashes, but after 
+ installing the 1.3 patch I only experienced a couple during 10 to 15 hours of play (and at least 
+ one of those crashes might have been my own fault - I was running a screen-capture utility in the 
+ background) .  
+
+ Interplay is supporting multiplayer games of M. A. X. 2 with dedicated game servers, but in two full 
+ days of searching for opponents I only found one person online; there wasn't even anyone in the 
+ tech support chat room. I also kept trying to scare up games on Kali and IGZ, but no dice. Apparently 
+ there aren't too many people eager to play M. A. X. 2 online.  
+
+ I'd be a liar if I said that every minute I spent with M. A. X. 2 was frustrating. It's obvious that 
+ a lot of effort has gone into the basic concepts behind M. A. X. 2, so much so that from time to 
+ time I found myself truly enjoying the action - only to be jerked back to reality by another clumsy 
+ interface design. Considering how deeply embedded most of the problems are in M. A. X. 2, it's doubtful 
+ that a patch will fix everything - but if at least some of the bigger problems aren't resolved, 
+ you can bet that there won't be nearly as many strategy fans waiting for M. A. X.3 as there were 
+ waiting for this game.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

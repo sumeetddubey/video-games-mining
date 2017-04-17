@@ -1,0 +1,3362 @@
+-------------------------------------------------
+:::Game Name::: Age of Empires
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/ageofempires/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct 27, 1997
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.8
+Critic Score: 8.7, 13 Review (s)
+User Score: 7.9, 4,217 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Microsoft Game Studios
+Developer: Ensemble Studios
+Genre: Historic Real-Time...
+Date:     Sep 30, 1997
+
+-------------------------------------------------
+:::Review:::
+This is not quite the game you hoped for. Even worse, it has some definite problems. 
+
+ When you first play Age of Empires, a warm feeling develops in your gut. Warcraft meets Civilization! 
+ Real-time empire-building! And does it ever look sharp and feel right.  
+
+ But an uneasy feeling builds as you get deeper into it, a sense that all is not quite right. This 
+ is not quite the game you hoped for. Even worse, it has some definite problems. The pitfall when 
+ you review a game as anticipated and debated as this one is to make sure you criticize it for what 
+ it is, not for what you wish it was. I wish that Age of Empires was what it claimed to be - Civilization 
+ with a Warcraft twist. Instead, it is Warcraft with a hint of Civilization. That's all well and 
+ good, but it places it firmly in the action-oriented real-time combat camp, rather than in the 
+ high-minded empire-building of Civilization. The result is Warcraft in togas, with slightly more 
+ depth but a familiar feel.  
+
+ Age of Empires places you on a map in an unexplored world, provides a few starting units, and lets 
+ you begin building an empire. Each game unfolds the same way. You begin with a town center and 
+ some villagers. The villagers are the basic laborers, and the town center enables you to build 
+ more of them and expand your settlement. The villagers are central to AOE: they gather resources, 
+ build structures, and repair units and buildings. Resources come in four forms: wood, food, stone, 
+ and gold. A certain amount of each is consumed to build various units and buildings, research new 
+ technology, and advance a civ to the next age.   
+
+ There is no complex resource management or intricate economic model at work here. What you have 
+ is the same old real-time resource-gathering in period garb, with four resources instead of one 
+ or two. As your civ advances, you develop greater needs for these resources, but the way in which 
+ they are gathered and used becomes only marginally more complex (certain research can cause faster 
+ harvesting or more production) . It appears on the surface to be a complex evocation of the way 
+ early civs gathered and used materials, but beneath the hood is the same old "mine tiberium, buy 
+ more stuff than the other guys" model. It is the first hint that AOE is a simple combat game rather 
+ than a glorious empire-builder.  
+
+ There's no denying the thrill the first time a villager chucks a spear at an antelope and spends 
+ several minutes hacking meat from its flank with a stone tool. This is the level of detail that 
+ brings an empire-building game to life. If only those villagers would grow and develop over the 
+ course of the game, it would make it so much more interesting. If only they would trade in their 
+ loincloths for some britches and maybe some orange camouflage, and switch from spears to arrows 
+ and rifles. Yes, that's another game, but it could easily have been done in AOE, and why it wasn't 
+ is a mystery.  
+
+ The overall impression of AOE dips further with the prickly issue of unit control and AI. As you 
+ expand your city with new and improved buildings, you develop the ability to produce new and better 
+ military units. These fall into several categories: Infantry (Clubman, Axeman, Short Swordsman, 
+ Broad Swordsman, Long Swordsman, Legion, Hoplite, Phalanx, and Centurion) , Archers (Bowman, Improved 
+ Bowman, Composite Bowman, Chariot Archer, Elephant Archer, Horse Archer, and Heavy Horse Archer) , 
+ Cavalry (Scout, Chariot, Cavalry, Heavy Cavalry, Cataphract, and War Elephant) , and Siege Weapons 
+ (Stone Thrower, Catapult, Heavy Catapult, Ballista, and Helepolis) . With the completion of a temple, 
+ a priest becomes available that can heal friendly units and convert enemy units. Naval units come 
+ in the form of fishing, trade, transport, and war.  
+
+ The problem is that while enemy AI is savvy and aggressive (it can afford to be since it appears 
+ to cheat with resources) , your units are bone-stupid. Path-finding is appallingly botched, with 
+ units easily getting lost or stuck. There is a waypoint system, but that hardly makes up for the 
+ fact that your units have trouble moving from point A to point B if you don't utilize it. Military 
+ units will stand idly by while someone a millimeter away is hacked to pieces. They respond not 
+ at all to enemy incursion in a village and wander aimlessly in the midst of battle. Was this deliberate 
+ so that the gamer needed to spend more time in unit management? If so, it was a poor idea, since 
+ there is simply too much going on midgame to worry about whether your military is allowing itself 
+ to be butchered in one corner of the map while you are aggressively tending to a battle in another 
+ portion. There is no excusing this flaw, and it seriously diminishes AOE's enjoyability. Finally, 
+ there is the fifty unit limit that is irritating many players, but in light of the game's already 
+ troublesome play balance, it was a solid decision to force users to build units more selectively. 
+   
+
+ AOE obviously is sticking close to an early-empire motif, and there's nothing at all wrong with 
+ that. Stone, Tool, Bronze, and Iron are the four ages, and with each come new structures and military 
+ units. You don't earn these advanced ages - you buy them with resources. Advancement is a simple 
+ matter of hoarding and spending food and gold. The overall welfare of your state is irrelevant 
+ as long as it survives: happiness is not measured, trade is barely modeled, and the state exists 
+ merely to produce a military machine to crush everyone else on the map. Naval power has a woefully 
+ unbalancing effect upon gameplay, with a strong navy able to shred the competition at the expense 
+ of reality.  
+
+ Micromanagement is the name of the game in AOE. There is no unit queue, and to build five villagers, 
+ you need to build one, wait, build another, and so on. With units acting so stupidly, you should 
+ be able to set their level of aggression and the manner in which they attack (a la Dark Reign) , 
+ but that is also not an option. Diplomacy is relegated to tribute and nothing more, and alliances 
+ are hard to form. You can be allied, neutral, or at war with other civs, but if the radio button 
+ is still set to "allied" when an opponent starts firing on your units, your units will not fire 
+ back, defend themselves, or even flee. They will just be destroyed. Cues as to exactly what's happening 
+ on the map are obscure; the duty has been relegated to unrelated sound effects. Does that bugle 
+ call mean my building is finished being built, or my units are under attack? How about some help, 
+ people? Victory conditions can also be irritating. There are several campaigns that require that 
+ specific goals be met, and these quickly grow tiresome. Thankfully, there is an excellent custom 
+ generator that lets you set map size, starting tech, resources, and other features. This is the 
+ saving grace of AOE, and what kept me coming back again and again. The main reason is that it let 
+ me change some of the insane default victory requirements, such as when the victor is the first 
+ to build a "wonder" (through another massive consumption of resources) that stands for 2000 years. 
+ These 2000 years can pass in about twenty minutes of game time. That means that as soon as an opponent 
+ builds a wonder, you create a whacking huge navy to go over and blow it up. Not a very subtle way 
+ to maintain an empire. In fact, there is no strategic nuance: It is merely a brawny muscle contest. 
+ For all its historical trappings and pretensions to recreate the early progress of civilization, 
+ in the final analysis it does not even have the depth of a pure combat game like Dark Reign or 
+ Total Annihilation.  
+
+ If all these judgments seem harsh, it is only because Age of Empires looked, and pretends, to be 
+ so very much more. It still has tons of potential and a fundamental gameplay that remains entertaining 
+ enough to overcome the flaws and merit a fair rating. The system can go very far with some fine-tuning, 
+ but as it stands it seems downright schizo. Is it a simplified Civilization or a modestly beefed 
+ up Warcraft? It's almost as if the designers started out to create one game and ended up with another. 
+ With such beautiful production and the fundamentals of a vastly entertaining game, it's sad that 
+ it fell short of the mark. The disappointment is not merely with what AOE is, but with what it 
+ failed to be.    
+-------------------------------------------------
+:::User Reviews::: (130 Reviews)
+::::::
+UserName: arijit_2404
+Rating: 6.5
+Date: Mar 26, 2009 12:16 am PT
+Review:  This game supposed to be an empire-building game like, Cesar or Settlers. But it didn't feel like 
+ any of them. This game rather more action-oriented and less empire building oriented.
+  
+  It has usual resource management scheme found in many other base-building games. You were given 
+ few people to build your empire at the start of any campaign or skirmish map. But once time goes 
+ by, you'll see that combat against AI is the key point of this game. You don't need to build a 
+ gorgeous empire with many town centers lying around the map etc. Just build enough population and 
+ armies with sufficient research done, then attack and crush your enemies.
+  
+  This isn't any empire-building game. Period.
+  
+  Pros:
+  + Good graphics.
+  + Campaign story 
+ was average.
+  
+  Cons:
+  - More attack oriented and less empire building oriented.
+  - Not much strategy required to win against AI. 
+::::::
+
+::::::
+UserName: racho
+Rating: 9
+Date: Mar 21, 2009 10:18 am PT
+Review:  Well I could be biased, since this was one of the first pc games I played (I was roughly 8 back 
+ then) . Nevertheless, I would still love to play this game again! It was addictive and easy to play.
+ 
+  
+  Although there were different city building and RTS games such as civilisation and Ceasar 3, I 
+ feel that AoE is one of the most memorable games I've ever played. 
+  Different races, skrimishes, campaigns, death match? I miss them all. These offered heavy replay 
+ value, and experimental factors for a gamer, thus the 100 hours+ of gameplay. 
+  And then the humour kicked in with the cheat codes: Big Daddy, photon man, Big Bertha, peppperoni 
+ pizza? ok im starting to sound like a creepy AOE geek- but if a game aint fun, I wouldn't even 
+ remember these things. 
+  
+  The first version is truly a long lasting classic, and for a game that is made back in 1997, to 
+ me it was impressive. The healing priests' voice is funny btw. 
+::::::
+
+::::::
+UserName: tonyhawksP8
+Rating: 7.5
+Date: Feb 4, 2009 3:44 am PT
+Review:  
+  Age of Empires will be remembered for one thing... its terrible path-finding the units couldn't 
+ do anything unless you were babysitting them. My transport boat was on its way back, I thought 
+ it had made it back because it's hard to tell one dot from another on the map anyway I found it 
+ stuck on the coast figuring it could take the most direct route.
+  
+  Now I haven't beared enough terrible path-finding to find out what other atrocities lie in the 
+ game, however I do know they at least had good units anyway. The sound nothing special, unit types 
+ nothing too diverse, path-finding atrocious, military units will sit there getting owned while 
+ your babysitting your landing force, economy is terrible I mean no market or way of getting resources 
+ after you've run out and resources are to easily eaten I mean 5 secs to use up all the wood on 
+ a tree, that is the worst realism since I don't know when. So what is great about this game?
+  
+  The fact that there is none like it, that it is the first of its kind is what makes special, 
+ the civilisations are diverse but is downplayed by only having 3 or so ages to go through. The 
+ only reason why I have this game is because it came with the Collector's Edition of AoE. OK so 
+ I like my RTS, so I'll be fair to the classic and in memory of Ensemble that should be gone after 
+ Halo Wars and give this a 7.5. Yeah just get Collector's Edition, so you know what I'm talking 
+ about, compilations rock!
+  
+::::::
+
+::::::
+UserName: videogamesstink
+Rating: 10
+Date: Dec 22, 2008 7:28 pm PT
+Review:  First of all the person who reviewed this games should be shot. Secondly this game rocks. It got 
+ me into gaming, especially the rts genre and eventually battlefield 1942 got me into shooters, 
+ that is why i am currently playing far cry 2, gears 2, and company of heroes (i love this game)
+ 
+  
+  Now in espanol (don't know how to make little squiggly line above n on here)
+  
+  En primer lugar, la persona que revis este juego debe ser fusilados. En segundo lugar el juego 
+ rocas. Me consigui en los juegos de azar, especialmente el gnero RTS campo de batalla y, finalmente, 
+ en 1942 me tiradores, es por eso que estoy jugando actualmente dista mucho 2, marchas 2, de hroes 
+ y de la empresa (me encanta este juego)
+  
+  now in german
+  Vor allem die Person, berprft diese Spiele sollten erschossen. Zweitens dieses Spiel Felsen. 
+ Es hat mich in die Spiele, besonders das RTS-Genre und auch Battlefield 1942 bekam ich in Shootern, 
+ das ist der Grund, warum ich mich zur Zeit spielen weit entfernt 2, Getriebe 2 und Company of Heroes 
+ (i love this game) 
+::::::
+
+::::::
+UserName: tim_kkhanna
+Rating: 7
+Date: Oct 29, 2008 11:46 am PT
+Review:  Graphics: At the time of release I thought the buildings in the game were beautiful and the character 
+ design was cool. The maximum viewing area in-game is rather limited and so was the screen resolution.
+ 
+  
+  Gameplay: In AoE the idea is fairly simple. You gather resources as fast as you can. You build 
+ and train as fast as you can and you advance technology as fast as you can to stay ahead of the 
+ enemy. While doing this, you have to fend off attacks and try to destroy the enemy.
+  
+  Story: There isn't much of a story, it just has a historic-ish background. I can't help thinking 
+ that there are some anachronisms in it at times. I can't pick an example of it right now though. 
+ You start off in the stone age, in a nation of your choice and wage war on opposing nations while 
+ advancing your technology and architecture.
+  
+  Lifespan: If you like strategy with simple design with challenging gameplay, you could probably 
+ spend over 100 hours playing this. It also has a multiplayer option and a scenario builder.
+  
+  Sound: The sound effects are clear and informative. There is no "distant" sound so you usually 
+ won't be able to hear events that are off-camera. There is background music which can be turned 
+ off.
+  
+  Control: Here is where AoE let us down. Pathfinding in the game is poor so units would constantly 
+ get stuck on trees if there was a large enough forest directly in between them and the destination.
+ 
+  
+  Originality: You've obviously seen games like it before. AoE just has that "polished remake" feeling. 
+ 
+::::::
+
+::::::
+UserName: rohitmitra5752
+Rating: 9
+Date: Sep 24, 2008 9:22 pm PT
+Review:  I absolutely don't agree with the editor's score of Age of Empires. It was a highly ambitious game 
+ of 1997 and it conquered the RTS market at that time. A game that didn't use fantasy creatures 
+ or alien technology, but gave us the hardcore history of mankind in a nutshell.
+  
+  A few drawbacks of Age of Empires can't overshadow the fact that it also used the best AI of the 
+ time. Age of Empires is all about building an empire from the bare necessities of life, right from 
+ the scratch. You start of with a tiny village and have to make it grow and prosper into a large 
+ empire capable of fighting and fending enemies.
+  
+  It was the first game to bring an equality among the units of various civilizations. All the units 
+ of all civilizations were the same with the fact that only a few units were available to certain 
+ civilizations and that was made them different. Unlike other strategy games, no unit in AOE is supremely 
+ powerful - every unit has it's weakness and it is your duty to exploit the enemies weakness and 
+ strengthen your own.
+  
+  Also it is the first game to introduce the concept of an overall advancement. In games like warcraft, 
+ every building has it's own advancement and there is no total advancement and so you have to actually 
+ advance one building and then advance another when it become available. In AOE a concept called 
+ age advancement is used, where the entire age is changed from say The Copper Age to The Bronze 
+ Age, thus making available various other and new weapons.
+  
+  Certain glitches in AOE included poor graphics effect and single unit production. These however 
+ I feel aren't enough to overshadow AOE. So if you are planning to get an RTS for yourself get the 
+ AOE collection, or at least get the beginning of the series. 
+::::::
+
+::::::
+UserName: SentosaLiem
+Rating: 7.5
+Date: Sep 19, 2008 6:40 am PT
+Review:  Average entertainment.
+  ******** ******** ******** ******** ******** ******** ******** ******** ******** ******** ******** 
+ ******** ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** 
+ ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** 
+ ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** 
+ ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** 
+ ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** 
+ ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** 
+ ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** 
+ ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** 
+ ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** 
+ ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** ********
+  ******** ******** ******** ******** ******** 
+ ********
+  ******** ******** ******** ******** ******** ********
+  
+::::::
+
+::::::
+UserName: minimme
+Rating: 10
+Date: Aug 29, 2008 3:22 pm PT
+Review:  Age of Empires 1 Review made by minimme:
+  
+  Everyone says a game is bad because of its graphics but that is totally WRONG!!
+  
+  This game 
+ is a great game and i think that it is HEAPS better than all the other games in the age of empires 
+ series... I played this ages ago and got it out of a serial box, and i still play it! its a really 
+ great game, i even bought the 'Age of Empires: Rise of Rome Expansion Pack' for my cereal box version, 
+ AND I STILL PLAY IT! if you don't like this game even slightly, your weird. just plain weird...
+ 
+  
+  This game is a great game and i recommend anyone to buy it because it is so good! it is really 
+ cheap and i think that the only way that you could probably get it is off ebay (unless of coarse, 
+ download it...)
+  
+  It also has heaps of other cool stuff like scenario editor, multiplayer, single player AND HEAPS 
+ MORE!
+  
+  This review was made by minimme on Age of Empires 1. 
+::::::
+
+::::::
+UserName: winterwolfx
+Rating: 9
+Date: Aug 16, 2008 4:11 pm PT
+Review:  Age of Empires.......
+  
+  Well I don't really think that you guys are gonna take your time to read something on the Internet 
+ that is TOO LONG and take TOO MUCH TIME to READ IT!
+  
+  DON'T WORRY You'll like it and as you may already have realized it will NOT BE A LONG TEXT.
+  
+ 
+  Well now that i have your attention i need to say that i'm not an American so don't expect every 
+ little word to be grammatically right.
+  
+  *GETTING TO BUSINESS*
+  
+  AEO CANNOT be analyzed without considering the time that it was made. Because a game can only have 
+ limited resources in the time that it was made, for example we could not say that the game could 
+ be better if done in 3D even if in the time we had this resource, but we have to consider the resources 
+ that the game had to be built.
+  
+  #GRAPHICS
+  
+  AEO graphics are impeccable. even if repetitive, but quite real, with very good shadow techniques. 
+ So the game is SIMPLE, something that make a first game in a series quite good looking. Using very 
+ light colors that make the ambient very soft and smooth that even a kid could say what is what 
+ in the screen.
+  Each unit has it on little details that make you want to build them all or to like a single type 
+ of unit.
+  
+  #GAMEPLAY
+  
+  Easy, a diablo apprentice. Click Click Click and Click.
+  The gameplay is SIMPLE (again) , attack or build. Remember... A well designed game doesn't need TOO 
+ MUCH actions, too much buttons get the user confused and sometimes they may CRY!
+  Again... very simple, does what it can do (can't fly and go to neverland! why?! don't ask!) , no 
+ more nor less.
+  
+  
+  
+  Well guys THIS IS IT! I could do more than this and write a lot of details that after you read 
+ it you'll start to remember when playing other games, seeing in other games and then sending me 
+ a message of how cool was it. But now it's probably past midnight and you (WE) have to sleep a little.
+ 
+  
+  THANKS FOR USING YOUR VERY PRECIOUS TIME READING THIS!
+  
+  THANK YOU 
+  
+  by WinterWolf 
+::::::
+
+::::::
+UserName: NoseWeed619
+Rating: 7.5
+Date: Jul 19, 2008 1:18 pm PT
+Review:  Build an Empire to Surpass Microsoft's
+  Microsoft has decided to make a game about something that they are experts on, the rise of an empire. 
+ At first glance, Age of Empires looks sort of like a cross between Civilization 2 and Warcraft 
+ II, and that is a fairly accurate comparison. Age of Empires is a real-time strategy game set in 
+ the eras from the formation of the first civilizations to the end of the iron age. Although the 
+ time period of Age of Empires limits the technology available to the player, this is compensated 
+ for by making a very detailed game world full of historical depth. 
+  You typically start each game with a town center, a few peasants, and stone age technology. Your 
+ first priorities are building shelter and, like the good hunter/gatherer that you are, hunting 
+ and gathering food. With food and shelter, you are free to create more peasants who in turn can 
+ be sent out to chop wood, quarry stone, or mine gold. Eventually, you build more complex structures 
+ and are able to increase your technological level. Oddly, to raise your technology level, you do 
+ not assign peasants to be scientists or scribes, but instead you spend food. I have never known 
+ of a situation where food buys technological progress, perhaps the scientists won't work unless 
+ you throw a banquet. 
+  Increased technology allows you to construct more advanced units, of which there are many. There 
+ are a total of 40 units, which is actually a great amount of detail for a historical period which 
+ ends before the renaissance. There are 7 different types of archers, 9 types of infantry, and 11 
+ types of boats. All in all, the many types of units allows Age of Empires to very closely model 
+ the types of armies in use 2000 years ago. Age of Empires has 12 ancient civilizations available 
+ to the player. Each civilization has certain units not available, however they gain certain bonuses 
+ for whatever aspect that civilization excelled at. For example, the Greeks can produce advanced 
+ infantry more quickly, while the Persians are excellent hunters. Microsoft obviously did its research 
+ here, and the result is a well rounded, historically accurate product (at least for a game) . 
+ 
+  The resource model of Age of Empires wins both praise and condemnation from me. Scattered across 
+ the board are many different types of resources, including berry bushes, forests, quarries, mines, 
+ wild game, and fish stocks. It is nice to see mankind's interaction with nature when gathering 
+ resources instead of the simple 'ore harvester' or whatever. You can watch your little people pick 
+ berries, cut down trees, mine gold, and hunt and butcher wild animals. One problem I have with 
+ the resources is the lack of the bounty of nature. A typical game might last 10,000 'years' and 
+ in all that time, animals do not reproduce, and berries and forests do not regrow. This basically 
+ means that you are stuck with the amount of resources that the map comes with, leaving you with 
+ no incentive to conserve for the future generations. If you started with 10 gazelles, you will 
+ never get any new ones, you will only lose them from hunting and predation from lions. (I must 
+ admit, it's pretty neat to see a lion eat a gazelle in a computer game) 
+  Another problem with the resource model is the handling of food. No, I'm not talking about dangers 
+ from undercooked meat, I'm talking about the food supply. It takes food to create villagers and 
+ soldiers. I have no problem with that. I fail to see why it takes 30 villagers-worth of food to 
+ upgrade a catapult trireme to a juggernaut. Also, villagers don't eat. Your populace can stand 
+ around for thousands of years and never need a bite. This causes a problem with siege tactics. 
+ The tired and true strategy of destroying farms to kill of the population just doesn't work. Also, 
+ the units most useful when under siege, such as the catapult, require no food to create. 
+  Despite its flaws, Age of Empires is great fun to play. The graphics and sound effects are of high 
+ quality, and the computer plays a respectable game. In fact, there is a very large selection of 
+ AIs to choose from in the scenario editor. Ah... the scenario editor. The scenario editor allows 
+ you total control in the design of scenarios and campaigns, right down to the intro movies. Even 
+ if you don't like the full selection of scenarios included with the game you have all the tool 
+ at your disposal to create a scenario exactly to your liking. Its minor annoyances are just that, 
+ minor compared to the game as a whole. For any fan of real-time strategy or historical simulations, 
+ I would recommend Age of Empires. 
+  
+  
+::::::
+
+::::::
+UserName: galaxybrawler
+Rating: 8
+Date: Jun 4, 2008 1:40 am PT
+Review:  age of empires is a game where you play as 1 of the ancient empires such as romans, egyptians etc. 
+ you build and create soldiers to fight for your empire while in war with other com empires. there 
+ are many buildings to choose from which give you a strategic part to the game. well basically its 
+ all strategy really by knowing where to place certain buildings and what units to use in the armies. 
+ the buildings have different uses such a house which provides population space for the empire and 
+ barracks where you can train infantry. as this game came out about 10 years ago or something it 
+ is still a pretty good game nowhere near as good as the newer 1's but still very good. i like this 
+ time stage better though ( the ancient civilisations) compared to AoE3 where its like 1700- start 
+ of 1900. but the sounds for this game are pretty bad i have to say and the graphis are terrible 
+ ion this day and age. but this game is still very addicting and can be played for many hours. overall 
+ i think that this game should be remade with better graphics and better sounds and yah just done 
+ up in general and then brought again because it has the best time stage of the ancient civilisations. 
+ 
+::::::
+
+::::::
+UserName: Safor001
+Rating: 8.5
+Date: May 28, 2008 12:19 pm PT
+Review:  As I was reading through the reviews, I went on to the Age of Empires II review page. I noticed 
+ how people thought highly of the series. All three of them. As for me, I bought the collectors 
+ edition, which packaged all four of the original games. I installed the first, not expecting to 
+ play it. A few days later, what was I doing? As with all games, you get bored of the game before 
+ getting back into it in a few months. I am a huge Conquerors fan, but to tell you the truth, I 
+ got bored of it after the tenth week. The computers were too easy, and online was rather boring. 
+ So I popped in this game and found it very fun. It's a slow game, for sure, but who cares? It's 
+ a good game! The intro was long and boring, just like that of the second one. Who cares about some 
+ dead soldiers history? Anyways, it is historically accurate. And research is as well historically 
+ accurate. You have to get the wheel, writing, and things like that. All the more fun! Although, 
+ every good game has it's fair share of cons too. In this one, I consider having to blow up a wall 
+ every time you want to let a few units out a cons. And people can't walk on farms. Unless it's 
+ walled, you should be able to hike across the field. I have noticed that people call none-to-scale 
+ units a cons. What a spoiled generation we are! But think of Civilization! That has gone far in 
+ the TBS genre, as this series has. Also, naval warfare was great! It was even easier to rush someone 
+ an age or two behind you with ships! There is a lot of difference between different units, so it's 
+ best you spend it on upgrades! Although, each civilization was no different then another. I mean, 
+ one civ has this, another has that, but they all add up to equality. You will find pressing the 
+ random civ button is just as good as pressing the Greek's button. But, as you can see, if you look 
+ at the positives and not the negatives, it is a great game and worth however much you plan on buying 
+ it for. 
+::::::
+
+::::::
+UserName: swiper990099
+Rating: 7.5
+Date: May 19, 2008 9:24 am PT
+Review:  Personally, I found this game to have a very interesting strategic design. The fact that you were 
+ unable to use gates and such, was very interesting. Making it so you had to place units to defend 
+ your bases entrances, and leaving them ungaurded could be hostile to your base, and your groups 
+ survival. The gameplay was very interesting, with amazing music and awesome turtorial. Making it 
+ easy to understand and get use to the controls of the game. The problems I found about this game 
+ is in certain stages you would be "dead locked" from the action. As forced to watch building and 
+ gathering while you could not attack, defend or do anything or major interest.
+  
+  However the pro's of the game are fairly interesting. You have to build your base flawlessly. If 
+ not, you stand a high chance of having your base raided, and unable to be repaired in time before 
+ serious damage is caused. The game overall was fairly well done, with the occasional glitch then 
+ and there. 
+::::::
+
+::::::
+UserName: slitherdude
+Rating: 7
+Date: Apr 22, 2008 7:41 am PT
+Review:  Compared to the games of today, the first Age of Empires would look crude and too simplistic. Maybe 
+ that's true... but my memories of this game are nothing but fun.
+  
+  AoE started me off into the strategy genre, and I've been hooked ever since. Back then, every strike 
+ of the villager's axe against the trees was rendered with sweet, liquid animation. Simple tasks 
+ such as mining, or bringing down an elephant and gathering its meat, became a pleasure to watch.
+ 
+  
+  Gameplay is straightforward. Spawn villagers. Gather resources. Buy stuff. Dominate the world. 
+ Units are generic, and military dominance is virtually the only way to win the game.
+  
+  Despite that, for a guy just getting his toes wet in PC gaming, Age of Empires brought fun fun 
+ fun. The experience has been enjoyable enough that it made me try out Age of Empires II and III. 
+ 
+::::::
+
+::::::
+UserName: CapnQwark
+Rating: 5
+Date: Mar 23, 2008 3:44 pm PT
+Review:  Age of Empires is just the beginning of a highly successful series of computer strategy games made 
+ by Microsoft. This series is the Age of Empires series. The modern Age of Empires game are fun 
+ to play, easy to get used to, and offer a great variety of gameplay options not seen in many games 
+ of its type. This is great. However, the first one didn't start out so good. 
+  
+  First, this game has many, many problems that will cause extreme disappointment and boredom in 
+ it. I am only going to skim the surface of this game with this review just to give you an idea 
+ of how this game is.
+  
+  Age of Empires 1 is a fun game at first but quickly grows old, slow, and boring. There just isn't 
+ enough in it to keep it going. The graphics are okay considering the time this game was made and 
+ how it really doesn't matter much. All of your villagers look the same and act the same which won't 
+ really bother you too much considering how you will mostly want to build armies and take over the 
+ enemy as quickly as you can.
+  
+  The sound in the game is bad by all standards now a days and most standards of the time it was 
+ made (1997) . It comes out scratchy and muffled and just isn't good. You will often find yourselft 
+ turning the volume down or off.
+  
+  The gameplay is what makes and breaks this game. It is where the game has its highest amount of 
+ good things as well as bad things. 
+  
+  First off, in the game you have one main objective... TAKE OVER THE ENEMY'S EMPIRE!!! and other 
+ mini objectives within each battle such as find all the ruins, build the bigger/est empire, etc. 
+ You can play as a variety of civilizations but neither of them really bring much difference to 
+ the table besides different building designs. You have to fight against one or more other civilizations 
+ in the game per map. Each time you start a new map you get to choose stats such as the maximum 
+ number of units a civilization can have, what map type you want to play on, how big you want the 
+ map to be, and other basics of that sort. You have four map types to choose from... highland, coastal, 
+ inland, and one other that I can't remember. These maps are fun at first but the lack of variety 
+ of map types quickly wears down the enjoyment of these. Also, in the game your main objective is 
+ to take over the other empire (s) . In order to do that you have to build the biggest army and take 
+ over the other empire (s) . Your army can be made up of different units covering the basic cavalry 
+ units, archery units, and infantry units. This portion of the game (building your army) is the 
+ funnest but with the lack of control on how you can move your army causes the whole having to move 
+ them feel more like a chore than anything else.
+  
+  Pros of Gameplay:
+  
+  You get to build armies
+  You get to build your empires up to massive sizes with time and effort
+ 
+  
+  Cons of Gameplay:
+  
+  Everything about the gameplay, even the good things, have bad things about them that pull their 
+ "Fun" level down. Some of them are just bad (refer to my first mentioning on gameplay because the 
+ cons are so great that I don't feel like posting them again.)
+  
+  :RATINGS:
+  
+  Graphics - 6
+  Sound - 4
+  Gameplay - 6
+  Replay Value - 7
+  
+  Summary: Although this game 
+ has it's major problems... MAJOR, MAJOR problems. If you have nothing better to do and you like 
+ strategy games then you will find this game entertaining for a while. 
+  
+  OVERALL SCORE: 5.3 
+::::::
+
+::::::
+UserName: Caml10
+Rating: 5.5
+Date: Jan 19, 2009 5:49 pm PT
+Review:  The first strategy game I ever played was AoE II, then after spending an inordinate amount of my 
+ middle school years conquering as the Mongols, I moved on to other critical darlings like Rise 
+ of Nations, Age of Mythology, and Rome: Total War. I had never met a strategy game I didn't want 
+ to spend weekend after weekend mastering, until I popped this game in a few weeks ago for the first 
+ time in a few years, and was all but disgusted. Though this game may have been significant when 
+ I was in third grade, it is now obsolete in every sense of the word. The concept remains good in 
+ attempting bring a little more action to the historical RTS world, but when the original AoE can't 
+ even get its unit designations right, one has to wonder about even the accuracy of this "Historical" 
+ RTS. My beef? Infantry units, mostly. Legions were a Roman development, which came centuries after 
+ the hoplite revolution in Greece, the phalanx is misused, as it is a formation of hoplites, not 
+ an individual. I'll take this as a segway into the lack of formations, which may not have even 
+ crossed player's minds in '97, but 10 years later and having come to expect them in every RTS, 
+ I found myself wanting to hang myself with my mouse cord (maybe it's time for wireless...) after 
+ having my archers constantly march in front of my infantry, only to be mowed down by absurd numbers 
+ of enemy elephants and leave my hapless infantry with no support. The balance seemed alright, but 
+ the enemy AI is just plain murderous. 
+  Fifteen minutes into my Deathmatch I actually found myself wanting to return to my homework on 
+ German conjunctions... 
+::::::
+
+::::::
+UserName: blacksaibot
+Rating: 8
+Date: Jan 16, 2008 5:52 am PT
+Review:  Before I even played the game, I knew I fell in love with it while watching my friend play it as 
+ he introduced me to the gameplay mechanics.
+  At the time I was playing strategy games Star Craft and MechCommander; each having their own type 
+ of game play but nothing close to the style of Age of Empires.
+  
+  Sound:
+  What's great about this game is that the music does an excellent job of bringing you back to prehistory 
+ and the ancient times. I loved the soundtrack and I still adore it to this day. The sound effects 
+ were pretty good, but what stood out to be kind of crappy were the sounds of ballistas and other 
+ "giant arrow" like projectiles. 
+  
+  Graphics:
+  Back in 1997 the game's graphics were descent. Not the best compared to other RTS games, but it 
+ was good enough to keep your eyes glued to your monitor while you enjoyed playing the game.
+  
+  Here is a rule of themb when reviewing a game:
+  Game play   Graphics
+  
+  Even though the 
+ military units don't have a unique look to each civilization, for the most part, the buildings 
+ do. Another thing that sets the civilizations apart are unique technology trees and that includes 
+ the upgrading of units, buildings, economic upgrades, military upgrades, etc etc. 
+  Being the first AOE, they did a great job. 
+::::::
+
+::::::
+UserName: marktg
+Rating: 9
+Date: Nov 25, 2007 11:31 am PT
+Review:  This is one of the first of game I played when I got a modern computer and I think the score for 
+ this game on gamespot is under rated. This game starts in the eariest period of time with the Stone 
+ age and has three more ages. For it time this was a very good game and is a great joy to play and 
+ to have in your collection. There is a lot to do for the single player game and had a very good 
+ multiplayer system back when it was around. The units in the game are the same mostly for all the 
+ groups expect for a few units. 
+::::::
+
+::::::
+UserName: OlfKin
+Rating: 9
+Date: Nov 22, 2007 9:37 am PT
+Review:  This truly one of the best real time stratgies that i ever playerd. when it first cam out i was 
+ like omg this is a game that i have been looking for. Some of the things may be off.... for example 
+ that houses are smaller than the villagers but thats ok i don't mind with that. Also how you have 
+ to collect gold and food and all type of resources was awesome. This is also a very addictive game 
+ because you can spend hours on it and you wont even notice all the time you've spent on it. A single 
+ map can take up to 5 hours or more depending on how you play and good you are. 
+::::::
+
+::::::
+UserName: celentanoad
+Rating: 6
+Date: Oct 15, 2007 12:34 pm PT
+Review:  I own this game, and I've probably only played it three or four times. It gets so repetitive and 
+ boring. There are very few elements to the game, so it gets tiring fast. The tutorial is okay but 
+ after that pretty much everything seems the same. The difficulty doesn't seem especially bad; I 
+ haven't played it much but it is variable. However, it goes slow and the graphics also suck. Don't 
+ bother buying this game... there are other versions out now that are much better and are also cheap. 
+ That pretty much sums it up... Age of Empires II is better, and check out other games by the same 
+ company; they are all pretty good, aside from this piece of ----. 
+::::::
+
+::::::
+UserName: blairstheman
+Rating: 9.5
+Date: Oct 11, 2007 4:06 pm PT
+Review:  Ive had this game for 5 years and I still play it now and again. It may not have great graphics 
+ but the gameplay makes up for that. Online is extremely fun, especially with friends. Many different 
+ kinds of units such as archers, calvary, swordsmen, samurai, pikemen and many more. The campaign 
+ is addicting and takes a patient player. It is long and has alot of history in it. The cheats are 
+ fun for about 5 mins, but they ruin the game after that. I think that too many people are just 
+ looking for graphics and not gameplay, and gameplay is exactly what this game has much of. This 
+ is a great addition to any real-time strategy players games. 
+::::::
+
+::::::
+UserName: latchol1Sim
+Rating: 6.5
+Date: Oct 11, 2007 1:50 am PT
+Review:  I am not a person that gets tied up in graphical pickiness. Quite frankly, since it was 2002 when 
+ I originally got this game, I wouldn't have played Age Of Empires if I was. So I wasn't too fussed 
+ when the games graphics were, frankly, hilariously silly by today's standards. But it was when 
+ I began to play the game that I got disappointed.
+  
+  Perhaps it is just because I am looking back from the time of Age Of Empires 2, Age Of Mythology 
+ and now Age Of Empires 3, but I didn't really enjoy the game as much as I would've liked to.
+  
+  The AI was either predictable or ridiculously fast-paced, and the sound was poor, especially 
+ considering it was only made a decade ago. I had fun in some games, but the enjoyment was inconsistent 
+ for me.
+  
+  In the end, I only gave this game 6.5 because of the amazing games that came after because of it. 
+ 
+::::::
+
+::::::
+UserName: charlie837
+Rating: 9.5
+Date: Oct 10, 2007 10:20 pm PT
+Review:  age of empires has a great game play involved. the aim of the game can consist of many different 
+ categories. one mission could be as simple as destroying an enemy, or as difficult as bring an object 
+ to an area in a short time while defending your territory from seven other different teams. you 
+ can do a huge variety of different things in age of empires such as spawn different types of people 
+ i. e. swordsmen archers and Calvary. although the cheats and hints to this game can ruined it. as 
+ in, i know all the cheats but i try not to use them to make the game last longer and be more realistic. 
+ 
+::::::
+
+::::::
+UserName: afpabon
+Rating: 6.5
+Date: Sep 21, 2007 7:34 am PT
+Review:  Age of Empires is a game where I have a very particular opinion. It's a good game, and the theme 
+ is great. No one had ever put out a game set in ancient (real) history, and Ensemble did it, with 
+ mostly good results both evoking the real period and keeping it fun.
+  
+  The game, however, suffers from several issues:
+  
+  The first one is it's lack of originality. 
+ The game plays exactly as Warcraft II did 2 years before. In fact, Warcraft II visuals and responsiveness 
+ were actually better than in AoE.
+  
+  The second one (and in my opinion, bigger one) was that despite having 12 playable races , all 
+ of them played exactly the same. Not only that (Warcraft 2 had two sides with mostly equivalent 
+ units) , the units actually looked and sounded the same, no matter your side. It looks almost as 
+ if they wanted to aim for something bigger, but ended up not doing it.
+  
+  So, despite being a rather good game, it's got some serious flaws that make it feel half-baked. 
+ 
+::::::
+
+::::::
+UserName: bhaskarchatta
+Rating: 9
+Date: Sep 18, 2007 1:31 am PT
+Review:  It's the first Age Of Empires Game that I own. I got this one as a gift from one of my Teacher. 
+ But at that time I don't have a PC. After that at late 2000 I bought my PC and this was first game 
+ to install in the same... At that time it take about 4-5 hrs to understand the game... And after 
+ that it became a problem for my parents... As late night I start the game and some time I just 
+ go playing for the whole night and the next day my eyes were just red... Anyway this is just to 
+ share with all of you... I really love this game... It's toooooooo good. And this is the game which 
+ teach me to love the Strategic games. 
+::::::
+
+::::::
+UserName: M1katron
+Rating: 7.8
+Date: Aug 15, 2007 2:10 pm PT
+Review:  Good RTS games stand out well from the other rip offs on the market and offer good gameplay, units, 
+ and challenges. Age of Empires has no doubt been a revolutionary step in the genre and for the 
+ first time you are actually capable of controlling ancient civilizations in a RTS setting which 
+ is why the game should have been a little bit better than what it is now. Age of Empires delivers 
+ a unique experience with different units and buildings and strategy but then fails at providing 
+ any more than that. The gameplay is good and the units speak for the themselves, but its all rehashed 
+ sprites with almost every civilization having the same units and even having the same music and 
+ sound effects which definitely takes away from the experience of playing a historical RTS. Age 
+ of Empires is a good game but can get repetitive and boring at times 
+::::::
+
+::::::
+UserName: jsmithj14
+Rating: 10
+Date: Aug 14, 2007 6:14 am PT
+Review:  10 out of 10 for ten great years! Starcraft may be the RTS game of choice for certain people (and 
+ countries) , but in our household this is the game that has stood the test of time. It may be not 
+ as graphically pretty (though I still find them well done) or feature packed as some of it's sequels 
+ and competitors - it's AOE's lack of complexity that has made it easy to learn and difficult to 
+ master.
+  While it may not have waypoints, unit queuing, gates in the walls, mega death weapons or battle 
+ formations it is the constant need to keep a watchful eye over the battlefield that has made it 
+ so exciting. Compared to Age of Kings which seems to bog down to trench warfare once the castles 
+ and fortifications are up, Age of Empires keeps its play dynamic and varied.
+  Given myself, family and friends have also been keen Civilization fans, in it's various incarnations 
+ from the days of DOS, we liked the historical perspective of the various combatants from the Stone 
+ to the Iron Age. It's something tangible and quite interesting - when reading into the various 
+ histories of the lesser known empires.
+  We've had some brilliant multiplayer moments over the years with this game and find the various 
+ victory conditions add to the appeal - from total battlefield victory, timed or points victory, 
+ wonder victory, or grabbing all the artifacts/relics and holding them. We still talk about one 
+ game when a players wonder was destroyed with only 20 years to go (roughly 30 seconds) , only for 
+ our game to then rage on for another 3 hours before a victory was achieved. As well as the time 
+ I snuck away with two villagers as my original township was being destroyed only to rebuild in 
+ hiding and win after a major counter attack.
+  Back in the days when this was out C&amp; C, Warcraft 2 and Starcraft were all the rage, but the 
+ points for me go to Age of Empires! 
+::::::
+
+::::::
+UserName: Fouceky
+Rating: 9.7
+Date: Aug 8, 2007 3:42 pm PT
+Review:  I've been playing this game from the start. You run your own empire, gain an army and towns in the 
+ area, and take over your enemy. While it doesn't seem like much at first there is a lot of stuff 
+ you can do on this game. You can go through the campaign, create your own scenarios, or play on-line 
+ with up to eight people. And if you believe it is to hard, or just want to go through a campaign 
+ faster, you can just cheat. There are some cool cheat codes like spacemen and cars with lasers 
+ and stuff (no i don't cheat myself) . You can easily find this game for $10 in walmart, and you 
+ can get it with Age of Empires 2 , still for $10. This is definitely worth picking up. 
+::::::
+
+::::::
+UserName: agturboninja
+Rating: 8.2
+Date: Jul 25, 2007 11:11 am PT
+Review:  At 8 years old when my dad got Age of Empires. I wanted to play it. The only RTS games I played 
+ were C&amp; C. The gameplay wasn't as good neither the graphics and sound wasn't that great but 
+ it kept me happy.
+  
+  The game got me intrested and I started reading about the Egyptians, Sumerians, Babylonians, Persians, 
+ Assrians, Phoenicans (made the first alphabet) , greeks, macedonians, romans and other civilizations 
+ in the Middle East. The Yamato Shang campaign I thought didn't give enough info. Even though I'm 
+ 1/2 taiwanese so 1/4 Chinese due to most of the taiwanese people migrated form China to escape 
+ Mao Zedong's Communist Totalitarian Regime, I didn't spend that much time learning about the Ming 
+ Dynasty and other stuff.
+  
+  The thing I like most about Age of Empires and the Expansion Pack and AOE2 Age of Kings is that 
+ making you own scenarios. My favorite thing to do I make a very large map, and place 30,000 enemies 
+ on the screen. Yes it would take a lot of clicks to place that many enemies. So I would fight against 
+ outnumbered 1000 to 1 and you the cheats of photon man and bigdaddy to fight of the huge hoards 
+ of Persians to somewhat recreate the 480 B. C. Battle of Themopylae. Yes the Spartans did not have 
+ soldiers armed with laser weapondry but hey its fun to do. It's funny having modern weapondry soldiers 
+ slaughtering the Sumerians for irrigation rights.
+  
+  Age of Empires 2 Age of Kings also played an intrest in fascination for the middle ages and went 
+ one step further telling more about the histories. 
+::::::
+
+::::::
+UserName: Makhdoom82
+Rating: 8
+Date: Jul 13, 2007 11:47 pm PT
+Review:  Well RTS fans will love it ... by nature this game is all about resource gathering and base building 
+ and unit making then fighting with the enemy ... C&amp; C series was futuristic but this one goes 
+ into medieval times ... graphics are ok but not by todays standards .... Lan matches can be done 
+ but apart from that it has got some very nice single player story line .... when it came out it 
+ was a huge success don't know why gamespot gave it such a low score !! Any way if you are buying 
+ it now then it's only good for putting it into your collectgion otherwise rent it . 
+::::::
+
+::::::
+UserName: RedneckGamer87
+Rating: 8
+Date: Jul 9, 2007 12:32 pm PT
+Review:  Gameplay: Age of Empires places you on a map in an unexplored world. At the start of the game it 
+ provides a few starting units, and lets you begin building an empire. Each game unfolds the same 
+ way. You begin with a town center and some villagers. The villagers are the basic workers, and 
+ the town center enables you to build more of them and expand your settlement. Gathering Resorces 
+ are pretty simple, you gather resources such as wood and food to build up your base and army. When 
+ you built up your army and upgrade them and fight the enemy which is pretty strait forward. But 
+ this gameplay kinda reminds me of the earlier Warcraft games, so i think as a result it is Warcraft 
+ in togas, with slightly more depth but a familiar feel. Also there is a multiplayer portion of 
+ the game which you can play against other people over the internet.
+  
+  Graphics: The graphics are accually really well done for the time it came out. It's colorful and 
+ fully 3-D which most Real Time Strategy games at the time where not. My only complaint is that 
+ the building that are ment to be large seem to be the same hight or shorter then the people themselves 
+ which really puzzles me.
+  
+  Sound: The sound is quite good, the sound effects are well done which suit the game. The voices 
+ and the clash of metal on metal are also quite good and sound the way they should sound.
+  
+  Value: All in all this is a good game. I had loads of fun with it back in the day but now there 
+ are better RTS game out there to play. This game accually has quite a bit of replay value to it. 
+ There are random maps to play, make your own map to play and also a multiplayer to play against 
+ other players.
+  I give this game 8.1 out of 10. 
+::::::
+
+::::::
+UserName: rollerhero
+Rating: 8
+Date: Apr 28, 2007 3:07 am PT
+Review:  Well... its a good game... you can buid boats, houses, town center, a wonder and so many other things... 
+ you can kill animals like goats and lions and aligators and other things.. can extract gold and 
+ stone from mines and can cut trees to get wood... its a good game but when playing with the pc 
+ it not quite as good...
+  pcs will win everytime and you wont have chances..
+  another thing is that if you create your own territory youll be able to do watherever you want 
+ because you know where animals are and where mines are and everything... well...
+  i think id rent it before buying... maybe you can be dissapointed.. =// 
+::::::
+
+::::::
+UserName: woef
+Rating: 6.6
+Date: Apr 5, 2007 7:56 am PT
+Review:  Age of Empires, the first RTS i ever played, even now im still playing it.
+  It features both multiplayer and singleplayer.
+  
+  Gameplay:
+  +Nice RTS like features, collect 
+ recources, build an army, explore the lands.
+  +Features different nations
+  -Games can get boring, recource gathering is as slow as hell
+  -Multiplayer has no lag, but can 
+ get very long
+  -Bugs ruin the game
+  
+  Sounds:
+  +Features some good music that really fits the game
+  +/- The rest of the sounds are mediocre 
+ and sound very old
+  
+  Graphics:
+  +Nice colorful graphics
+  +/- Some animations like fishes and explosions
+  -No real super detai
+  
+  Value:
+  +Features 
+ both singleplayer and multiplayer
+  +Multiplayer is nice, but gets boring
+  +Overall decent AI
+  -Some massive bugs ruin the game
+  
+  Tilt:
+  +Easy interface + Controls
+ 
+  +/-No real presentation
+  
+  If you like very old RTS games and dont really care about graphics and sounds, this is your game!
+ 
+  See ya 
+::::::
+
+::::::
+UserName: kanedajjj5757
+Rating: 7.2
+Date: Apr 2, 2007 6:02 pm PT
+Review:  age of empires is one of those games to play with others on the a Local Area Network or the internet. 
+ i'm just putting it out there, but i did not find the campaign mode entertaining at all which is 
+ the primary thing that either makes or breaks the integrity of a realtime strategy game. the original 
+ impetus is unfortunately simple: you lead a civilization from the stone age all the way into the 
+ golden age of earths history through research, technological advancement, and WAR!! as i said before 
+ the main isnt much (i wasnt joking) but the head to head or multiplayer rocks. the only thing i 
+ can say bite about the whole prospect is cheat codes. it's easy to use cheats during LAN and NET 
+ games which is frustrating because the only thing you can do is fight fire with fire or just quit 
+ and play something else... 
+::::::
+
+::::::
+UserName: Haannez
+Rating: 10
+Date: Mar 19, 2007 2:17 pm PT
+Review:  Great game, don't know anyone who dosen't kile this masterpiece. We are in the year of 2007 and 
+ still this game has what it takes. Easy to learn, none-advance and a perfect start for those who 
+ are learning to play realtime strategy games. The multiplayer part is bit lagy if you play with 
+ slower game speed but who does that anyway? Finaly.... GREAT GREAT GREAT! GREAT! GREAT! &amp; GREAT!
+ 
+  
+  Age of Empires requires the player to develop a civilization, from a handful of cave men in skins 
+ to a large Iron Age civilization with weapons and technology. To assure victory, the player must 
+ gather resources in order to pay for new units, buildings and more advanced technology. While it 
+ is possible to set up the game so that winning is based on economic/technological achievements, 
+ in practice most players focus on developing military strength to conquer their opponents, before 
+ the opponents conquer them.
+  
+  Age of Empires consists of various single-player scenarios in which the player is required to complete 
+ specific objectives. These scenarios are grouped as campaigns for a certain civilization. Besides 
+ the campaigns, the other main mode of single player gameplay is the 'random map' mode (where the 
+ map is generated randomly) . These are scenarios in which the human and CPU players begin with only 
+ a small settlement and must utilize the available resources to build a powerful civilization and 
+ victor over their adversaries. The random map game is the heart of the game's gameplay, while the 
+ 'death match' game offers a variant of random map play where all players start with very large 
+ resource stockpiles.
+  
+  Age of Empires features online and network play with up to 8 players simultaneously. A mix of random 
+ map and death match games have been popular among online players, including some death match variants 
+ where players only use specific units (e. g. 'Legions') . Because the network play is less sophisticated 
+ than that of modern games, lag and disconnections often occur.
+  
+  Multiplayer gameplay has been supported by the Zone for most of the game's lifespan, but was terminated 
+ by Microsoft in June 2006 along with most other CD-ROM games like Age of Empires II. Age of Empires 
+ is commonly played on GameRanger and GameSpy today. World tournaments are played regularly to establish 
+ the best players. The graphics have become outdated, but the gameplay still attracts players.
+ 
+  
+  There is one unique aspect of Multiplayer in Age of Empires: the a player is able to create a multiplayer 
+ game without other human players, which is not possible on Age of Empires II and future Age of 
+ Empires games. 
+::::::
+
+::::::
+UserName: LordLeckie
+Rating: 8.6
+Date: Mar 9, 2007 6:08 pm PT
+Review:  When it comes to games that make me look back and smile with nostalgia its Age of Empires. It was 
+ the first PC game i ever played and in chronological order it is the 3rd game i ever played but 
+ in my heart its the original, just as a note as to how fond i am of this game is the fact that 
+ i can remember my first ever map in detail and what i did.
+  
+  The graphics for the game are ok but not great and the huge selection of races is mired by the 
+ fact that they arent all that different but the score is dramatic and inspiring.
+  
+  The gameplay can be quite addictive but due to the population limit of 50 you arent going to get 
+ any dramatic battles out of this unless its on an 8-player map with 3 allies and 4 enemies.
+  
+  The campagins have no real depth as hero units are simply renamed units that have their stats 
+ changed and the stories are pretty boring but simply jumping into a skirmish match can be a great 
+ way to pass away an hour or so.
+  
+  The game may have its faults but it will always remind me of the good old days and remains a classic 
+ in my eyes. 
+::::::
+
+::::::
+UserName: Leakybubbles
+Rating: 6.5
+Date: Dec 14, 2007 3:14 pm PT
+Review:  This game was a fantastic game and shined in its glory days and deserves it place in history but 
+ the second one is better. Thats just my opinion so whatever.. anyways I say i used to love this 
+ game. And I used to love the second but the third one lost it for me BUT ANYWAYS... back to this 
+ game..
+  
+  The graphics are/were pretty good... and I always liked the way AOE was made to play. Armies econemys... 
+ all that stuff.. This game is a game you have to buy, But don't exspect to much fun from it now.. 
+ its a shame games die like this.
+  
+  Overall 6.5
+  [- (Good) -]
+  because this game is well.. Good.
+  
+  you may disagree with me or not.
+  have a nice day.
+ 
+  
+  good memories with this game. but age of empires 2 is much much better. u will enjoy the campaigns 
+ and the game but it seems a bit sloppy. everything is pretty much fixed in age of empires 2 so 
+ don't worry aobut it. the series is good just not this particular game. 
+::::::
+
+::::::
+UserName: swsirstevealot
+Rating: 9.4
+Date: Feb 5, 2007 3:47 pm PT
+Review:  Easily one of my favorite games ever! If you've never played it you need to go out and get it. 
+ (get the expansion pack one) I don't know how it got rated so low on gamespot. I give it a 9.4 
+ out of ten. the newer ones may have better graphics and larger range of units and capabilities, 
+ but this one is still the best of the three. I probably played it first in 1999 and I can still 
+ sit down and play through a campaign or a random map. Be prepared to spend a lot of time on it 
+ if you get it and it's your first time to play any of the three. 
+::::::
+
+::::::
+UserName: goose1103
+Rating: 8.7
+Date: Feb 1, 2007 1:57 am PT
+Review:  If you like older games or don't have much grunt in your PC then its alright. I got right into 
+ it back when it was new and in it's time it was great. But I put it on recently and it was just 
+ unplayable at the pitiful resolution it runs at. It had some good innovations which have become 
+ the building blocks of the Age of Empires franchise. If you remember it fondly, don't get drawn 
+ in by nostalgia. But hey, great game in its time, and deserves a high score. But Age of Empires 
+ 2 beats it in every way possible. 
+::::::
+
+::::::
+UserName: LaWruZ
+Rating: 9.3
+Date: Jan 28, 2007 9:39 am PT
+Review:  1997 This is best game on the world .i like this game i began playing it 3 or 4 year ago . i began 
+ playing it easiest and now i play it hardest. one my favorites games.
+  age of empires 2 and 3 don t are so good than first serial .when i began playing it i think it 
+ is very boring game but when i played it over 2 hour i began like it .
+  First time when i play it with my friends then i think it is exiting but now i don t care this 
+ very much. who think age of empires 3 is better than 1 ??? I think 1 is better. 
+::::::
+
+::::::
+UserName: Herodite777
+Rating: 9.7
+Date: Jan 18, 2007 9:35 pm PT
+Review:  This game is seriously awesome. It will challenge you for at least 5 hours in single player, then 
+ once you master the AI, you go on and try and become the best in multiplayer. I really enjoyed 
+ this game. Choosing an ancient civilization, then having to master it's units and make strategies 
+ was challenging. The graphics (for that time) were amazing. They were simply nice.
+  
+  The best part of Age of Empires though was playing with people. Even during Age of Empires II's 
+ prime, you could find people. And it was nice fighting with club men and such instead of knights. 
+ All Microsoft has to do now, is remake it and update the graphics. Change nothing of course, seeing 
+ as how it is perfect as it is now. 
+::::::
+
+::::::
+UserName: NastyFreestyler
+Rating: 10
+Date: Jan 3, 2007 12:18 pm PT
+Review:  This is my first game i played on my pc! It's truly one of the best strategy games, if not the 
+ best. An instant classic that i feel like going back to it once in a while although it's so old. 
+ The gameplay concept of this game is now at the base of every strategy game that appeared since 
+ then. The game has a well-made campaign mod in which you can play as yamato, greeks and other civilizations. 
+ The campaigns are very challenging if you play them at the last difficulty. The game also has single 
+ player and multiplayer modes. I know that many will say that Starcraft is the best in this genre, 
+ but Age of Empires has a certain charm that makes you play it. Maybe it's because it's history 
+ in it. Whatever it is i like it :D As a conclusion, if you like playing strategy games, even if 
+ you aren't a fan of this genre, this is a must have. 
+::::::
+
+::::::
+UserName: Shootermaster12
+Rating: 9
+Date: Dec 18, 2006 9:09 pm PT
+Review:  This is the best game for the Runescape and WoW fans who want to control there envorment. This 
+ game has 10/10 gameplay, It suck you in to be specific. But, the graphics are a little poor. And 
+ the sound is only almost , and ooga . But the value is top notch. 5 bucks for this game is proboly 
+ the price. The originality of this game is great. But it is a little like all the other RTS's. 
+ Build and conquor, conquor-that is the purpose of Age of Empires. Age of Empires-the game of Strategy 
+ and conquor. I play it very often. It is really good, build your own worlds with the scenario builder. 
+ Trust me-you'll love this game. 
+::::::
+
+::::::
+UserName: cobrax80
+Rating: 9.2
+Date: Nov 28, 2006 12:58 pm PT
+Review:  This is the first game in the Age of Empires series. It is really fun to play and it is not terribly 
+ difficult to learn how to play. There is a good amount of strategy involved in this game which 
+ is good considering this is a RTS. The graphics are pretty good, definitely for it's time. It is 
+ surprising that this is a 2D game. This is best when played in multi-player and that is where the 
+ real fun and action starts. This is a revolutionary game that showed how RTS's are supposed to 
+ be made and this formula is carried through the entire series. 
+::::::
+
+::::::
+UserName: MarysSoldier
+Rating: 9.2
+Date: Nov 19, 2006 7:30 am PT
+Review:  Age of Empires was my first serious introduction to real-time strategy games. As such, I was pretty 
+ blown away.
+  
+  The gameplay is very cool. The player builds units such as villagers, archers, catapaults, calvary, 
+ priests, and warships with resources the villagers must collect: gold, wood, and stone. The player 
+ begins with just two villagers and eventually has about 200 units and a powerful army. Multitasking 
+ is the name of the game. You can send a group of villagers to hunt an elephant, a group of fishing 
+ boats to fish, another group of villagers to chop down a forest, another group to build an Academy, 
+ and scouts to check out the map - all at once. The main objective is to either destroy all of the 
+ opponents or to gather enough resources to build and maintain a Wonder.
+  
+  The graphics are very nice for its time. The first time I saw an elephant I was impressed and then 
+ when my villagers started throwing spears at it, my eyes widened. When the behemoth fell and the 
+ units started carrying the meat back to town, I was thoroughly stunned and amazed.
+  
+  The music is very good with a nature feel and the sound effects are very detailed and widespread. 
+ There are thousands of differedt sound clips. I will never forget the chant of the priests: oh 
+ w-oh oh 
+  
+  This game has tremendous value in that the matches take about 2 hours each, there is a large campaign 
+ mode, a freestyle mode where you set the rules, and online multiplayer. Of course now there are 
+ bigger and better Age of Empires to play.
+  
+  Assuredly, some of my high score for this game is a rating of the genre itself and its newness 
+ and splendor to me. But I can still go back to the game and enjoy a high quality match. Age of 
+ Empires is a teriffic game. 
+::::::
+
+::::::
+UserName: saumik
+Rating: 7.1
+Date: Nov 6, 2006 9:25 pm PT
+Review:  Have u ever thought yourself as an warrior? No? Ok ok ok... Now close your eyes, and think that 
+ you live in the ancient civilization, you are the commander of an army. What you will do if youre 
+ general commands you to led your army to a battle against a massive force. You have no other option. 
+ Just to guide your army to the war field.
+  
+  How are the feelings now? Not so good? Hmmm... But I can bet that you will enjoy it, if you are 
+ playing Age of Empires. Cuz only the size of an army can't decide the true power. You can set your 
+ strategy, build your own army, towns. You can be defensive or can directly attack the enemy.
+  
+  As it is a strategy game. You have to decide your style. You are the boss here. You can command 
+ your people by pressing buttons or clicking on them. You can build several structures. They come 
+ in two types, city and military structures. City structures are great help to build your economy. 
+ You can create mines to earn gold and rock, lumber mill to get wood. Remember that, you cant build 
+ any structure without villagers. They can be created in town centers. Now comes the military. Without 
+ your own armies enemies will crush you in a moment. So build barracks, archery, stables, castles, 
+ docks... to create military units. You can also create an armory, which will help you to improve 
+ the armor and attack power of military units.
+  
+  You can play campaigns. This will deliver the thrill of ancient times. Or choose to skirmish. Either 
+ way, you can play as different civilizations. Every civilization has some special units and technology. 
+ But also some weaknesses. So its too tough to decide which is the best. But actually they are all 
+ same. Its not too tough.
+  
+  Technology is on of the most vital factor to decide your power. If you have a massive army, but 
+ you are still in the Dark Age, you cant win. You have to research and upgrade your civilization 
+ too its peak. Else wise, if your opponent is advanced in technology, you can do nothing with your 
+ army. If you want to check this. Try to play in the Dark Age, and see that you can not build some 
+ heavy weapons. Now shift to the later ages, now build some ballista or ballista towers. Now see 
+ what happens if enemy comes near them. But one thing you should remember. Heavy weapons can't decide 
+ the fate. Because they are slow. So faster enemy units can crush them easily. The key to win the 
+ game is to balance. Balance your economy and army. Then attack your opponent. But You also have 
+ to defend your town.
+  
+  Its may not have a good graphics. But it can deliver you a true gaming experience. Its difficulty 
+ is medium. At lower difficulty modes enemies are less aggressive. But at higher modes, they are 
+ more ferocious.
+  
+  So, what you are waiting for? If you are new to the world of strategy. Hop in.
+  Join the world 
+ of empires, THE AGE OF EMPIRES. 
+::::::
+
+::::::
+UserName: yo_foo
+Rating: 8.2
+Date: Oct 16, 2006 1:03 am PT
+Review:  You can't argue that Age of Empires was one of the most revolutionary games in the RTS genre of 
+ gaming. You can't argue that Age of Empires was a hit and that people played it around the world. 
+ However you can argue the flaws and the faults with the game. But you can't argue with the fact 
+ that game was absolutely fun!
+  
+  If your not an RTS fan, then there's no point wasting your time with this game. You'd probably 
+ be best playing Age of Mythology as it can pretty much convert any RTS loathing gamer into a strategist 
+ in a matter of seconds, however this game may appeal to those that love hardcore RTS games or old 
+ school gamers that want to remember the good old days of RTS.
+  
+  The game lacks graphical appeal, but that's because it came out in 1997, however the gameplay the 
+ absolutely fantastic and will hook any RTS fan from the moment they lay eyes on the game. It's 
+ fast, it's action packed and at $9.95 AU it's awesome value to relive the classic RTS game of the 
+ 90s. The sound however can get terribly annoying and I think it could've really done with a rock 
+ soundtrack to bop along to! 
+::::::
+
+::::::
+UserName: Strongholdluva
+Rating: 9.4
+Date: Oct 14, 2006 7:38 pm PT
+Review:  This game is SWEET sure the graphics aren't so great but its good for a 90's game.
+  
+  Gameplay : Probably the only War Strategy were i loved the campaign mode. The game is awsome. Just 
+ plain addicting i got in trouble for playing this game for 8 and a half hours strait .It's that 
+ addicting. I like the fact you can set up your battles.
+  
+  Graphics: Not great but it was the 90's what do you expect for a PC game but this game still has 
+ some pretty good graphics. Just plain short.
+  
+  Sound: Kind of funny how they speak a mix of languages. I like the priests thing when the convert 
+ someone. The music is pretty good. 
+::::::
+
+::::::
+UserName: Cipriano18
+Rating: 8.7
+Date: Oct 14, 2006 9:25 am PT
+Review:  We got to be realistic, this game was a mark in rts game's history. Many reviewers says it has 
+ not good graphics or that the other serie's games are much more, etc.. Damn! These game was launched 
+ in 1997! The other games had access to technologies that haven't been invented when this game came 
+ out.
+  Graphics were a couple of years in advance to other games from the same year. Sound was just fine, 
+ i can't remember a previous rts game where the characters don't speak English but another language.
+ 
+  The gameplay was pretty attractive and kind of a revolutionary.
+  The lowest attribute should be it's launching price... it was a little bit expensive for a computer 
+ game at that time. 
+::::::
+
+::::::
+UserName: Moby_Kain
+Rating: 8.1
+Date: Oct 3, 2006 4:48 pm PT
+Review:  Age of Empires would be yet another knock off of a Blizzard game had it not been written in its 
+ own graphics engine with Microsoft supported DirectX support. The game-play itself however is very 
+ innovative and was the first war style game that was not bogged down in strategy turn based attacks.
+ 
+  
+  Depending on your Multiplayer style this game can be fast paced or dig in defensive which is in-line 
+ with what was promised about the game. However the single player scenarios are a too much fighting 
+ in comparison to this expectation.
+  
+  This game is addictive for its ability to be played over and over with friends, rather then an 
+ irresistible scripted story. Definitely a command and conquer idea, with a plateau forming when 
+ you reach Age 3 in the game its all about killing or be killed.
+  
+  As per many other games of this type, its hunter/gatherer attitude with a mixture of defence or 
+ attack, then the technology race, and finally complete your single player or personal objectives 
+ to win the battle.
+  
+  The classic Roman genre gives this game uniqueness to stand out and call to be repeated by hard 
+ core gamers as it has minimal variables to consider while being entertaining.
+  
+  Graphics are very HiRes and gives complement to Microsoft for their ability to command DirectX 
+ (excluding the fact that they designed it) and as such use acceptable resources. You even get some 
+ amusing glitches (or perhaps it was an attempt at a feature) as large groups of your units try 
+ to all walk in unison like zombies.
+  
+  Music and FX are high sample wave and synthesiser calls so you can expect an immersive experience, 
+ although still room for improvement which was achieved eventually by version III.
+  
+  This is one of those games that keep on going, and as such I recommend it for any collectors cupboard, 
+ for under $20.00 you can add just one more dimension to your LAN events. I believe you can get 
+ a pack of version 1 and 2 together also for $40.00 which would be even better since there are many 
+ features worth seeing in the sequel. Version III however is another tale. 
+::::::
+
+::::::
+UserName: crazycasey94
+Rating: 5.9
+Date: Sep 8, 2006 9:28 pm PT
+Review:  review? i hav no review
+  
+  Age of Empires III (PC)
+  Age of Empires III is the newest installment of the real-time strategy series Age of Empires. Continuing 
+ where Age of Empires II: Age of Kings left off, this version lets you play as a European superpower 
+ bent on exploring and conquering the New World.
+  
+  Age of Empires III: The WarChiefs (PC)
+  This Age of Empires III expansion has three playable 
+ Native American civilizations, including the Iroquois Confederation, as well as additional content 
+ for all European civilizations.
+  
+  thos r much better age of empires games than this Age of Empires Age of Empires 
+::::::
+
+::::::
+UserName: Goliath_unit
+Rating: 5.7
+Date: Aug 27, 2006 6:44 pm PT
+Review:  Many Real Time Strategy gamers love the Age of Empires Series. It is easy to learn, addictive to 
+ play, and offers a lot of value. It is arguably one of the best Real Time Strategy series ever.
+ 
+  
+  However, there is one small weakness in the Age of Empires Series that prevents this, and that 
+ is the original Age of Empires.
+  
+  Age of Empires takes place in the days before the Romans begin their conquest. This game was being 
+ highly recognized, and was expected to be great. It was said to be about vast empire building with 
+ a little war. However, Age of Empires does not bring all that it had to offer. I find that I am 
+ spending more time attacking my enemies and defending my town.
+  
+  You start off in the Stone Age, with a handful of villagers in an unexplored territory. Are you 
+ on a coastline, smack down in the middle of a continent near enemies, or are you alone on an island? 
+ That's for you to find. Your starting location can affect the game. You must use these villagers 
+ to build your empire, and gather the resources needed to build your empire. You must gather food, 
+ gold, wood and stone to build your empire. You must also build the buildings needed to make your 
+ empires more powerful, and advance to another age. Advancing to another Age takes resources and 
+ a certain building, and when you advance, you can get more buildings and millitary units to build.
+ 
+  
+  You get to choose from a selection of civilizations that were around that time. Though I have heard 
+ of some (Babylonians, Egyptians) , most of them I haven't even heard of. This makes the game more 
+ complicated than it should be. There are also many types of units you can build: Infantry (basic 
+ footsoldier that fight toe -to-toe, archers (ranged attackers) , cavalry (mounted units) , siege 
+ weapons (manmade weapons) , priests and boats.
+  
+  Even though I expected to build the grandest civilization, and sweep through the map like I did 
+ in Age of Empires II: The Age of Kings, that is impossible. You find that your in the early stages 
+ of the Tool Age, and suddenly, a wave of Catapults and Horseman in a matter of minutes, unless 
+ you've got enough Axemen to beat them! The enemy AL is a lot smarter than in most other games, 
+ which gives the game an extra challenge. I get angry at my troops many times because of their lousy 
+ attacking. Isn't it mostly you guys are smart and your enemy is lousy at attacking? There is something 
+ else that can drive a person crazy, the 50 unit limit. It limits your abilities that you need. 
+ I am used to building 70+ villagers in Age of Empires II, and now I have to share 50 unit spots 
+ with both villagers and soldiers? It makes the game far too hard.
+  
+  I also hate having to use only one unit per quene. The quene is building a unit. In most strategy 
+ games, you can often build at least five, but in this you can only get one, which makes it harder 
+ to defend.
+  
+  There are also some campaigns that you can play. They are often true tales of a civilization. You 
+ must beat a mission in order to advance to the next one. These campaigns, while challenging, can 
+ also be very fun and exciting. Age of Empires also has a scenario editor, where you can build your 
+ own maps like those in the campaigns. This feature may sound fun, but is boring and not as fun 
+ as others, like Age of Empires II or Starcraft's. Now I'll get down to some basics.
+  
+  I don't like the graphics. They don't seem well done, and the units seem too colourful for a war 
+ game. Though some really liked the graphics, it just didn't sooth me. Yea some of the graphics 
+ are impressive, but it just is not what you could hope for.
+  
+  The sound could have been worse, but it also could've been much better. The sounds that units make 
+ are unimpressive, and make the units (especially villagers) sound drunk. You should also consider 
+ that they all speak the same language. The sound effects, like explosions (some birds explode when 
+ you kill them) , sounds of swords, and the firing of arrows, also brought the mark down really low.
+ 
+  
+  Age of Empires is just not a fun game. It doesn't cash in to all of its potential. Though die hard 
+ RTS lovers may like it. That said, I wouldn't recommend it to anyone else. Though many others may 
+ like it, if you haven't got the game, and want to get it, I recommend that you don't and stick 
+ to a different Real-TIme Strategy game for now. 
+::::::
+
+::::::
+UserName: Saw100
+Rating: 8.3
+Date: Aug 14, 2006 7:10 am PT
+Review:  Age of Empires is the one that started it all. Graphics are not great, they are bit hard to make 
+ clear. Game is pretty unrealistic, since workers just do the job, they don't have to eat or anything. 
+ Computer's pretty smart which is good thing. But I think that everything happens too quickly. Buildings 
+ will be completed in a minute and developing to other age ( I hope I spelled that right) will happen 
+ very quickly. If you like this game, you won't get bored for it quickly, that's for sure. I played 
+ this game about four years and I still play it!
+  
+  Age of Empires will be great game for strategy-game fans. Sure it's not as great as Civilization 
+ or some game like that, but it's still good. 
+::::::
+
+::::::
+UserName: supersohail
+Rating: 9
+Date: Jul 28, 2006 2:42 pm PT
+Review:  The success of the most popular game, the most suprising features and the most historical-stragety 
+ game there is is age of empires!
+  
+  Age of empires is a stragety game that would also recommend you to play because this game is the 
+ one of the most addictive games ever! If you want to build an empire you need to gather resources, 
+ if you need to upgrade units you need gold! The graphics are detailes enough but keeping a small 
+ amount of space on your hard disk isn't gonna harm you. Expanding an empire isn't hard, but you 
+ will start to learn how if you play this game. There are lods of different units in this game and 
+ buildings in this game. The thing you really need to know it this game is not as good as gamespot 
+ told us but honestly this game is absolutly a masterpiece! 
+  
+  There are different types of tribes you would wanna be. Age of empires is not as perfect we thought 
+ it would be but still a great game, there are some things you might not reckonize in da game but 
+ it would not pursuade you to exit the game. Another features which is scenerio editor which allows 
+ you create maps, yes maps! This game has a few bugs when the shipment which was dissapointing. 
+ 
+  
+  
+::::::
+
+::::::
+UserName: gta11
+Rating: 9.3
+Date: Jul 22, 2006 2:54 am PT
+Review:  Age Of Empires For PC.
+  
+  Age of Empires is the first in its series of great and unique games. There have been many attempts 
+ to create a great strategy game as this but none have come close (With the exception of the Civilization 
+ series) this has started the War-Strategy franchise that most series still try and recapture today.
+ 
+  
+  Gameplay : This game simply plays amazingly, there are the standard scenarios where you can start 
+ as a little village and venture out and become the dominant ruler of the lands. My favorite; the 
+ custom maps, which allow you to create your own challenge or own unique map fit to your likings. 
+ You'll notice I took a point off; the reason being is because of the last mode which is online/network 
+ gaming. This doesn't actually capture the real feeling of what Age of Empires really is, and can 
+ be quite confusing for starting players. Starts out just like any other RTS. In this game you mine 
+ gold and stone, pick berries, farm, catch fish, kill animals for food, and chop down trees for wood. You 
+ need all these resources to get different types of buildings/units from the game. You can build 
+ various of units differing from Archers to elephant archers, Swordsmen to the next headless horsemen. To 
+ go along with the lots of units, theres also alot of buildings you can build for the different types 
+ of units or for upgrades and such. This game does require some strategy if you got some, or you can 
+ learn while playing the game. You can play with up to 8 players in game, such as you and 7 other 
+ computer players, or you can go online and play with vast amounts of people from the world. This 
+ game also has an intriging campaign which interacts with real history (which i'll talk more about 
+ later) It also has alot of different civilizations like the  
+ and persian. This game also comes with the capibilitiy of making your own level. To go along with 
+ that, there is alot of different modes you can do, such as Death matches (start out with alot of 
+ resources) Campaign mode (learn about civilazations and go back in history) Multiplay (will talk aout 
+ this later) Scenarios (which you can play and they are already set up maps, lots of fun) and more. Also 
+ this game generates maps so most likly you will never get the same map twice. (less you play it 
+ alot) There is also some good patches for you to downlaod for this game, like population 200 (which 
+ is sweet) and more.
+  
+  Graphics : Here is where this game perfects every little aspect games are missing in this type 
+ of genre. The graphics are amazing for this time period, each character has his/her/it own unique 
+ look. Every person moves so human like it's kind of scary. Now there's the background with every 
+ tree looking so much different and real than any other game out there. 
+  
+  Sound : The sounds from this game are pretty good. The mining of stone, the lamb sound of farms, the 
+ battles, this game does have very good sound effects. you can even press number 1-25 and say sayings/taunts 
+ that talk.
+  
+  Every character moves almost perfectly, the legs and arms are great and so are the attacks they 
+ make. There is a problem in this area that includes the moving of groups. While moving with a group 
+ of similar units, they will all make the same move at the same time so it looks like they're robotic 
+ soldiers moving into battle, which take some (but little) of the realness away from the game experience. 
+ Other than that it's quite easy to move your guys where you want them to go, which doesn't get 
+ them killed in battle by having them misinterpret your command and keep on running while they are 
+ being struck.
+  
+  This is a difficult thing to rate for a few reasons. When playing the regular single player, custom 
+ maps, or scenarios you'll want to start on easiest difficulty which takes a few games to finally 
+ realize This is incredibly easy and switch it to the hardest difficulty with still just a hint 
+ of a challenge. Then there's the death match mode which is insanely hard unless you are a pro, 
+ even with easiest setting this can make your eyes bulge. There are still many different settings 
+ which barely raise or lower the difficulty setting.
+  
+  Here's one of those games that just makes you want to keep coming back and back to play, or create 
+ a new and rich gaming experience. With so many units, and map items that makes it very difficult 
+ to re-create the same map twice. These are one of those games you just want to keep coming back 
+ again and again to experience.
+  
+  I strongly recommend you to buy this game, you should still be able to find this game for under 
+ $19.99, or else just try online stores like amazon, ebay, ebgames or gamestop. Be sure to read 
+ the final tips in deciding on your purchase of this game. But there is the sequel which improves 
+ on everything, so get this if you don't want the sequel. 
+::::::
+
+::::::
+UserName: chettyharish
+Rating: 7.3
+Date: Jul 16, 2006 2:38 pm PT
+Review:  A Great Game . 
+  Anybody who has a lot of time to waste can waste his time in this game. This game features Eight 
+ civilizations But they dont have anything different .
+  There is no much variation in troops in whatever civilizaton you are.
+  No civilization has any 
+ speciality.
+  Best of its time but not now.
+  All scenarios have a very good historic background.
+  There are 8 civilizations but only 2 types 
+ of buildings are there {except hut}
+  The introduction movie is so good that the game looks too less against it.
+  Games are too long.
+ 
+  There is no religion but still monotheism is prevelant i cant understand.
+  Frustrating, that priests with magic can convert enemy bldgs into their own.
+  The different types 
+ of soldiers are good enough.
+  The scenario builder is not complex.
+  The different types of scenarios are good.
+  Island skipping are Enjoyable.
+  Speciality is that 
+ it was my second game of my whole life.
+  Only for History Lovers.
+  
+  
+::::::
+
+::::::
+UserName: JoelHH
+Rating: 7.8
+Date: Jun 30, 2006 6:08 am PT
+Review:  Anyone who has played the later Age of Empires games know that they've really come a long way since 
+ the original game was released. The graphics have become better, for instance the buildings and 
+ people don't seem as odd looking anymore in the newer versions. But if we head back almost 10 years 
+ to when the game first came out, it was a very well done piece of work.
+  
+  The gameplay is basically the same as any other real time strategy game. It comes packed with ages, 
+ upgrades, and units of all different shapes and sizes. The storymode itself is pretty good, but 
+ the thing that really caught me was the multiplayer. Even on slower connections, this game will 
+ run pretty smoothly and is enjoyable. There is a pretty steep learning curve though, as more hardcore 
+ players who know the game better can easily take out new players to the game.
+  
+  Features that should have been implemented into the original game, like gates and better proportions 
+ for characters, are available in AoE II. Even though the game was really well done for its time, 
+ there was still room for improvement that could have been completed in the original Age of Empires 
+ game. 
+::::::
+
+::::::
+UserName: Knight-Blade
+Rating: 7.2
+Date: Jun 28, 2006 12:53 am PT
+Review:  Okay first of all, this game is an older RTS, its been around nearly 10 years, yet I can't say 
+ its not enjoyable or enjoyable to play anymore. So what I plan to do is do the best I can with 
+ this review, as if I just played it 9 years ago and not by today's standards, like I did with the 
+ other games. 
+  
+  1) Gameplay it is simple, you basically have your peasants, hunting, mining, and lumbering, for 
+ resources to help your empire rise to be the number one power in the overall game. You stock up 
+ on resources, build important structures, research technologies to improve your empire, Rise up 
+ an Army strong enough to defend your Empire, and strong enough to expand it, meaning destroy or 
+ convert your enemies. That basically sums up the entire gameplay. A Rise, Conquer , and/or Destroy 
+ concept game, nothing more, nothing less. The up side to this is that nothing like this, had been 
+ approached before other than the Civilization game, it was really special, because it focused on 
+ the more enjoyable concepts of the Civilization game, without having to worry about all the other 
+ nonsense in the game. It was and is a Gather Resources, Build and Army, Upgrade your Empire, and 
+ Destroy the Enemy type game. Nothing like this had been so dramaically focused on.
+  
+  Bad side to the game is its too slow, building an Army took forever, and building numerious amounts 
+ of infantry, war machines, and preists, also takes way too long, it kills the excitment level ,knowing 
+ that you and your enemy are restricted in speed to raise up an army and destroy or convert them. 
+ Also gathering resources really slows down the gameplay excitment. So this hurts the gameplay dramaically. 
+ However the concept of this type of game was and is great for its time.
+  
+  2) Graphics, Somewhat impressive for the day it was released, I remember it being very buggy and 
+ slow in certian areas, but for its day I would give them a good solid 4 stars for what they accomplenished 
+ back then in those days.
+  
+  3) Storyline Probally the most interesting part about the game other than actually playing it, 
+ its knowing that your in a time period, thousands of years before the Roman Empire, it makes you 
+ feel like you were playing in that time period. with everything being slow and steady. it makes 
+ you feel like your actually controlling the Egyptians, Babylonians, and Greeks. Very much Impressive 
+ for its time. knowing this is what drives the overall storyline in the trilogy, its cool that they 
+ started way back here, and advance through Historical periods. 
+  
+  4) Overall this I give a 7 out of 10, especially remember playing it back in the day. 
+::::::
+
+::::::
+UserName: xxgregoryxx
+Rating: 7.3
+Date: Jun 17, 2006 10:57 am PT
+Review:  this game is full of great things. it is a really fun expierence going off and killing your enemies 
+ with massive assault troops. (or whatever else u may get) the computers in this game even though 
+ pretty dumb, can pull some quick moves on u if ur not fast enough. So the graphics arent the best 
+ but there still better then some. the gameplay is simple to understand and trust me when i say 
+ this, but if i can play this game, anyone can. Its that easy.
+  
+  overall (even though i hardly said anything) this game is fufiling in making u feel supieror to 
+ ur friends if u play them online. its a Fun Expierience 
+::::::
+
+::::::
+UserName: rangofett
+Rating: 7.9
+Date: Jun 17, 2006 5:35 am PT
+Review:  This game is very fun to play though there are many flaws, but all in all it is a game worth buying 
+ considering it is now only a couple of dollars becuase of its age. My only major complaint is that 
+ often time the combat doesn't seem strategic, it meerely seems like whoever can throw the most 
+ units or replace their units the quickest is going to win. Maybe that is just me though. 
+  
+  However, as good as this game is, it is not as good as most strategy games out today. I still 
+ play it every now and then, but not as often as Hearts of Iron II, Red Alert 2, or Age of Empires 
+ 2. (Something about games ending in 2, eh) However, if you want to play a game in ancient Roman 
+ times, it seems that you would either need Empire Earth (sorry if I am wrong, I don't have Empire 
+ Earth) or this, as most strategy games deal with other time periods or settings.
+  
+  A good game if you want a solid, cheap strategy game that will run on any computer. Over the years 
+ I have played this a lot here and there, it is will probably be one of the few games that doesn't 
+ grow old after the first year or so of playing it. Good back-up game. 
+::::::
+
+::::::
+UserName: Super_smart
+Rating: 6
+Date: Jun 5, 2006 6:30 pm PT
+Review:  This game is nice, the first time i played it i loved it, and also its supports low quality and 
+ have amazing graphics. i give this game a score of 6.0 because once you play it alot you'll get 
+ bored of it but then after a long time you will want to play it again, and of course you will. 
+ this is a pc game microsoft created it, and trust me iam not a microsoft fan but i have to congradulate 
+ them for making the pc but if that was on xbox or something i would'nt be making this review.
+ 
+  
+::::::
+
+::::::
+UserName: silvercineplex
+Rating: 5.2
+Date: May 31, 2006 8:36 pm PT
+Review:  The game was supposed to be Warcraft with a Civilization twist. Too bad it wasn't either. The original 
+ Warcraft exceeds this game by a lot. Civilization will only be sampled in this game as you don't 
+ get much Civilization from it.
+  
+  The AI is way too good for you. Your units are really dumb. Almost to the point where you wonder 
+ how they could have found out how to use this technology.
+  
+  The contructing of buildings/units in this game is a little too slow for my taste. 
+  
+  The 
+ campaign is boring for me. It is too repetitive and just plain boring.
+  
+  This was a game that had potentail, but didn't live up to it.
+  
+  
+::::::
+
+::::::
+UserName: mr_nyuckles
+Rating: 8.6
+Date: May 30, 2006 3:37 pm PT
+Review:  Even though this game is pretty old now, it's still has it's strengths (and weaknesses)
+  
+  There are sequals to this game, but if you only have a few bucks, you can easily have fun with 
+ this game.
+  
+  Graphics- All right, I guess. Not the best. Your people aren't the biggest, and your buildings 
+ tend to get confusing between which one is which, but all in all, still good.
+  
+  Sounds- Pretty good. I liked the sound of this game. Maybe it's not as good as I remember, but 
+ I still like it.
+  
+  Playability- besides the fact that you have building 'trees' and different building produce different 
+ things, (just the like any other RTS) . But once you have the handle on these, all is good.
+  
+  The different stages in history really make this game shine. That's why I bought it in the 
+ first place. I liked playing the stone and iron age more than the others, but other people may 
+ have other tastes, and this game caters to them.
+  
+  Replayability- the single player missions are all right. You can choose your empire, and work through 
+ them. This adds a certain replayability.
+  
+  Muti-player is best for replayability of course. Get a few friends together and try to take out 
+ each other's empire is a fun way to waiste and evening. Just remember not to take it too seriously. 
+ 
+::::::
+
+::::::
+UserName: TheSergeant
+Rating: 7.7
+Date: May 24, 2006 10:16 pm PT
+Review:  Age of Empires may not have been the revolutionary step forward in RTS games players had been looking 
+ for in 1997, but it was a good starting point for an excellent series.
+  
+  AOE had a good base concept: to deliver a Warcraft-style game set in the early history of our planet. 
+ What I liked most about the single player campaigns (and this holds true for all the AOE games 
+ that followed) was how they taught the player a bit about how our word started off and the challenges 
+ our early civilizations faced. Granted, games like Sid Meier's Civilization covered the same territory, 
+ but something about AOE's approach made the experience more immersive to me.
+  
+  Of course, there was also the map editor. This was the first time I had ever come across a game 
+ that allowed me to build my own levels and I ended up spending countless hours making all sorts 
+ of crazy scenarios. I commend producers that offer a map editor along with their games as they 
+ tend to give the respective game far more worth in terms of gameplay possibilities as well as an 
+ extended lifespan within the gamer community.
+  
+  Now, of course, Age of Empires had its downsides. It was released with numerous bugs and minor 
+ glitches that sometimes caused the game to crash without warning if a number of them occurred at 
+ once. There were also problems with the AI, namely its inability to traverse across the map without 
+ getting stuck in nooks and crannies along the way. The enemy AI also tended to completely lack 
+ a sense of self-preservation, but I don't hold that against the game as much as that was the norm 
+ for AIs of the day.
+  
+  All in all, while Age of Empires may not have stood out as a bright star in the overall games line-up 
+ of 1997, it certainly had its own charm. I would recommend it to anyone who has some spare time 
+ to try out old-school games and especially to anyone who wants to know what got the AOE series 
+ started. 
+::::::
+
+::::::
+UserName: YelloMit
+Rating: 8.4
+Date: May 24, 2006 5:21 am PT
+Review:  Way back in 1997, the Age Of Empires series began, and I must say I am happy for that. This game 
+ is a some-what classic, but it's still fun today.
+  
+  The graphics in AOE are very good for a '97 game. Brilliant 2-D graphics and sounds make the game 
+ good by itself. The gameplay is a bit sloppy at times... Especially if say: About 5 or so of your 
+ villagers are building a Wonder and the enemy army come and destroy it when you only just started. 
+ The villagers don't do anything about and get killed afterwards. Plus your resources you used to 
+ build it don't come back.
+  
+  Apart from that, this is a very enjoyable game. Fans of Warcraft type game swill LOVE this. 
+::::::
+
+::::::
+UserName: weirdy
+Rating: 7.7
+Date: May 6, 2006 3:44 am PT
+Review:  I see many people hate this game. Why do you excactly hate it? I recently saw a review on another 
+ site that said just a few lines. Here is a line:
+  
+  Oh, age of empires craps out. It is boring and too hard 2 play. 
+  
+  Don't just insult a game 
+ because you don't know how to play it, because, that is not acting like a true gamer. And yet, 
+ how many discouraging and negative reviews does this game get? Those negative reviews for the AoE 
+ series are often undetailed and short, perhaps they don't know the true reason that AoE sucks. 
+ 
+  
+  Gameplay and Story: Age of Empires places you on a map in an unexplored world, provides a few starting 
+ units, and lets you begin building an empire. Each game unfolds the same way. You begin with a 
+ town center and some villagers. The villagers are the basic laborers, and the town center enables 
+ you to build more of them and expand your settlement. The villagers are central to AOE: they gather 
+ resources, build structures, and repair units and buildings. Resources come in four forms: wood, 
+ food, stone, and gold. A certain amount of each is consumed to build various units and buildings, 
+ research new technology, and advance a civ to the next age. But, one uneasy feeling, AoE. Why couldn't 
+ you have invented a thing called catapult towers? Or made it for RoR? Those pathetic Ballista Towers 
+ are bad. The problem is that while enemy AI is savvy and aggressive (it can afford to be since 
+ it appears to cheat with resources) , your units are bone-stupid. Path-finding is appallingly botched, 
+ with units easily getting lost or stuck. There is a waypoint system, but that hardly makes up for 
+ the fact that your units have trouble moving from point A to point B if you don't utilize it.
+ 
+  
+  There are about 4 stories/campaigns that are fun to play. You can also create your own. At the 
+ end of each campaign level completed sucsessfully, you get a history lesson out of the computer. 
+ One fact - not enough for your homework. A bad thing is, if you unsucsessfully complete a game 
+ (failure 0) , you don't get a history lesson, you get an insulting and discouraging kick up your 
+ ass. Uh, Microsoft AoE, you don't have to take a level failure 0 so seriously. It is just a game, 
+ not a real life failure big fat 0's. 
+  
+  The graphics is pretty simple and straight forward. There is some cutscenes that actually looks 
+ great and life-like. But, sometimes, when you change your game settings for your computer screen, 
+ the whole screen slowdowns and it all turns green, purple and blue.
+  
+  The audio is good. If you just hear a Broad Swordsman fight another Axeman, Long Swordsman or anything 
+ else, you can hear the clash of the sword. Another example is the Watch Tower, Sentry Tower and 
+ Guard Tower. The the sound of the arrows is simply amazing. Infact, it is not just those towers. 
+ It is also every unit from the Archery Range. The song puts you in a pretty good mood. I found 
+ myself humming it (pretty stupid to imagine) . Why did I confess it? Anyway, some unit sounds are 
+ pure bullcrappy. The Tririeme (whatever you spell it) makes a purely annoying GRR! noise and you 
+ will get pissed off in a while. Infact, it is also the Ballista, Helepolis and Ballista Tower. 
+ lol, so crappy and that is the main reason I took a point off the audio.
+  
+  Replay Value in this game is absolutely immerse and great. Some levels like Multiplayer Intruder 
+ (2-player only) is so good, you can not possibly imagine the fun I had. Or the campaign level, 
+ Holy Man. But, that was not as good as Intruder. Getting out of track here.
+  
+  *Inserts bag guy music* SO, it has come. Should you buy it or not? Depends, yet again. If you hate 
+ history, there is simply no reason of what you are doing here. No reason. And, don't get it. If 
+ you hate annoying sound, or gay graphics, there is also no reason for you to get this game, but, 
+ to simply borrow. If you like history, don't mind annoying stuff, slowdowns and all that, I think 
+ that you would be off to the stores by the next Black Friday I write this review (October 13, 2006) . 
+ 
+  
+  Overall AoE has earned its place in gaming history. It was and still is fun to play for those craving 
+ a bit of nostalgia to all the flashy 3D games out there today. A classic in its own right, AoE 
+ set its own precedents back then, maybe subsconciously, but they were set. After that the RTS flood 
+ gates were opened onto a new world in which to perpetuate themselves and become one of the most 
+ highly rated and most played genres on the PC till this day. I highly recommend this to someone 
+ just getting into the genre and who wouldn't mind playing an older game, or for those curious and 
+ want to see where the roots of RTS gaming lie. Also, for those on a not so powerful PC but don't 
+ want to be left out of the fun, even the weakest PC of today could run this game now with flying 
+ colors. 
+::::::
+
+::::::
+UserName: Dinghy_Dog
+Rating: 8
+Date: May 5, 2006 8:07 am PT
+Review:  :Good Idea:
+  Land Grab in which you try to conquer as much land as you can. That's just a great mode that's 
+ hard and well worth the accomplishment.
+  Building a Wonder actually could help you win the game, no matter how much you haven't been attacking.
+ 
+  Random map generator.
+  
+  :Bad Idea:
+  Not enough differences between ages.
+  No stat system.
+  Too tempting to cheat with the nuclear unit. Gaaa!
+  
+  :Overall:
+  A 
+ terrific game from back in the day. Any Age of Empires fan should already have played this and 
+ if not, you're just a playa. If you haven't played it and can't afford today's high priced games, 
+ this is a very entertaining game. 
+::::::
+
+::::::
+UserName: hmking04
+Rating: 7.2
+Date: Apr 19, 2006 8:08 pm PT
+Review:  This is definantly a ground breaking game. It does something that few games can. It made history 
+ fun. This game, believe it or not, got me into history. The campaigns provide interesting historical 
+ facts and lets you play as some of the greatest civilizations ever. 
+  By advancing your civilation, you can create an army and destroy all who stand in your way. One 
+ of the coolest things is that you start off as a civilization where it started and progress from 
+ there.
+  One of the game's greatest features is creating your own maps, scenarios, and campaigns. It is 
+ enough to keep every emperor occupied for hours at a time. 
+::::::
+
+::::::
+UserName: Dope999
+Rating: 7.4
+Date: Aug 3, 2006 12:45 pm PT
+Review:  Age of Empires is actually one of my first game experiences. I can still remember how hard I though 
+ it were in the start, but later I understood the game, and overall it's actually a pretty good 
+ game. But the game has its ups and downs. Like the boring sound effects and the no-point single 
+ player campaign. And don't forget the single player opportunities. Somehow that's bad. But the 
+ gameplay itself isn't so bad. Once you've started a game against the computer, it's actually quite 
+ fun. 
+  
+  The gameplay has some minor issues, but as mentioned before, quite fun. It's very exciting and 
+ entertaining to create a huge army and crush your opponent with a stunning victory. In a more detailed 
+ way, Age of Empires doesn't have so much to offer, compared to other games. But Age of Empires 
+ actually has a Map Editor and this is somehow great fun, for those who likes to create their own 
+ scenario.
+  
+  The graphics is pretty simple and straight forward. There is some cutscenes that actually looks 
+ great and life-like. But anyways there's actually not so much to say about the graphics. 
+  
+  The sound is incredible boring and totally broken. The villager and soldier voices is crappy 
+ and very stupid to hear. The only good thing about the sound is the music. It creates a good mood.
+ 
+  
+  Not that much replay value, but the single player against a computer, is something you have to 
+ play more than once.
+  
+  If you're a really big fan of real-time strategy games, then buy Age of Empires, but anyways don't. 
+ Go buy Age of Empires 2 or 3.
+  
+  Dope999
+  
+::::::
+
+::::::
+UserName: razor_bblade
+Rating: 7.3
+Date: Apr 14, 2006 10:44 am PT
+Review:  Microsofts first move into the rts genre isnt a good one. I mean they make the Pc goddammit they 
+ should make better games. The graphics arnt very good and the movie clips are crap. The 4 campains 
+ are pretty good though. I dont really reccomend this game because theres loads of others and you 
+ should pick up one like age of mythology or AOE 2 or 3. Overall the game isnt that bad but i really 
+ dont reccomend buying it (it may be cheap now though so check) get age of mythology or another 
+ age of empires instead this isnt worth your time or effort. 
+::::::
+
+::::::
+UserName: abyssion100
+Rating: 7.2
+Date: Apr 4, 2006 6:27 am PT
+Review:  now: i absolutely dont care about this game anymore! bad graphics! i got games that got better graphics! why 
+ play this? only nice about this is the music...
+  
+  
+  when i got it: this was one of my best games then! i tried to all things so i could play in the net 
+ with my friends! but i failed! whaaah! i even liked the graphics but i didint care about the music, and 
+ there where much units (centurion is my favorite) . but i didint care about the campaing then! pretty 
+ stupid i was, huh? well great game but not now ;) what? not 100 words yet? humph! sigh i think i have 
+ to improve... maybe sigh well i dont like about the aoe series about the ages! thats too little amount 
+ even in aoe 3 theres only 5! 
+::::::
+
+::::::
+UserName: wizoforb
+Rating: 8
+Date: Mar 31, 2006 10:57 am PT
+Review:  This was a great break from playing Starcraft! I enjoyed playing this one for the simple fact that 
+ the plot was in the ancient times. Using old cultures to build an empire. The graphics were in 
+ need of help, but I had tons of fun playing! I was able to sneak this into work, and play on our 
+ network with it with another co-worker. It's system requirements allowed us to... lol. Not that 
+ hard to figure out, but the game handles just like any other RTS. Upgrade weapons, and at buildings, 
+ and control mass amounts of troops to invade another race. The replay of this game lasted a long 
+ time. I wouldn't mind playing this more. I have to shake AOE 3 now though. They had some cool cheats 
+ to implement when I was tired of the same ting over, and over again. One I liked was the car!... lol 
+ 
+::::::
+
+::::::
+UserName: Kravyn81
+Rating: 8.8
+Date: May 21, 2006 2:37 am PT
+Review:  When I review a game as old as this now I will review it and score it appropriately as when I first 
+ played it. I will not score this game according to the standards of today, rather, I will score 
+ it according to the standards of ITS day when it came out. That is only fair to the game.
+  
+  Let me first start out with a most unobjective view: I love this series. I just love it. AoE 
+ is the very reason why I am a PC gamer today. This single game did double duty on me. First, it 
+ turned me on to PC gaming. And second, it made me cognizant of the RTS genre which, at this point 
+ in time, was really just being born. THIS was the game I remember I wanted. History being one of 
+ my favorite subjects this game was a perfect match. I remember reading the articles in magazines 
+ and looking at the (back then) incredible screenshots of this game. Holy crap. No game had ever 
+ made me want it so bad. I remember when I bought it, sitting in the car, turning it over in my 
+ hands and looking at the screenshots on the back box cover. Then actually opening it and seeing 
+ the enormous tech tree poster that was included. This was a totally new experience for me. Up until 
+ then all my gaming consisted of consoles, but this was new. PC gaming. I remember I bought the 
+ game not knowing (or even caring) if my 486 Pentium could even RUN it let alone play it smoothly! 
+ But I didn't care. This game held some power over me.
+  
+  The premise was unique: You start out humbly in the Stone Age and must survive all manner of dangers. 
+ From the environment to neighboring tribes. You must then build a successful civilization and guide 
+ it through the four ages of Stone, Tool, Bronze and Iron. For each age you entered brought on new 
+ technologies, buildings and wonders to discover. You could play the game however you liked. Will 
+ you be hostile and build up your military, or would you be more laid back and try a economic approach? 
+ It was all up to you.
+  
+  You built your thriving civilization on basic fundamentals such as wood, stone, food and gold. 
+ Winning the game could be done through a variety of ways. Through straight up conquest and obliteration 
+ of your enemies. Or you could amass great amounts of materials and build a wonder. If your wonder 
+ stands for 1,000 years you automatically win. You could also win through economic means and by 
+ cultivating a strong economic base. The options were suited to pretty much every type of player.
+ 
+  
+  Speaking of player, multiplayer is where the real action was. It was all right to face off against 
+ the PC AI opponents, but nothing can beat a human vs. another human, and AoE shined in spades with 
+ its multiplayer aspect. Being able to customize your maps to almost any design you wished, the 
+ replay value was enormous. Setting different parameters and restrictions for each match ensured 
+ that no two multiplayer matches would ever be the same. Up to eight players could play on-line 
+ either on teams or one for all. It was often he who clicked the fastest clicked last as he would 
+ probably be the only guy left alive after a heated match. It was definitely not for the weak hearted, 
+ as there was a lot of strategizing and thinking on your feet that would determine the winner. Being 
+ able to react at a moments notice and knowing exactly what to do if a situation turned for the 
+ worse. These were moments that defined RTS multiplayer and are the reason it is so popular today.
+ 
+  
+  With each new age brought new military units as well. Upgrade your club toting barbarian to a semi-civilized 
+ sword carrying militia. All the units of the different civilizations were balanced out well. Taking 
+ a rock-paper-scissors approach, virtually every strong unit had a weakness against another, and 
+ that unit a weakness towards another and so on. If you find yourself getting charged by cavalry 
+ train some phalanx to take them out. Likewise if you're repeatedly dying from volleys of arrow 
+ fire train up some cavalry to charge their ranks. You should experiment with the different units, 
+ and don't get trapped into using just one since a successful army contains a balance of every type 
+ of troop.
+  
+  The ancient world comes mildly to life with the sound effects. The music in AoE is nothing special, 
+ and the various sound effects you'll hear - a villager answering your beck and call to a soldier's 
+ last death throes - are serviceable. As far as graphics they were pretty impressive for their time. 
+ The 2D sprites move fluidly and all the animations of the different units in different situations 
+ are smooth. 
+  
+  Overall AoE has earned its place in gaming history. It was and still is fun to play for those craving 
+ a bit of nostalgia to all the flashy 3D games out there today. A classic in its own right, AoE 
+ set its own precedents back then, maybe subsconciously, but they were set. After that the RTS flood 
+ gates were opened onto a new world in which to perpetuate themselves and become one of the most 
+ highly rated and most played genres on the PC till this day. I highly recommend this to someone 
+ just getting into the genre and who wouldn't mind playing an older game, or for those curious and 
+ want to see where the roots of RTS gaming lie. Also, for those on a not so powerful PC but don't 
+ want to be left out of the fun, even the weakest PC of today could run this game now with flying 
+ colors. 
+::::::
+
+::::::
+UserName: CrackpotGANJ
+Rating: 7.4
+Date: Mar 23, 2006 3:17 am PT
+Review:  Over all this is a pretty nice game to play i would rather play other RTS then this one. The AI 
+ are really freakin stupid and not very hard at all. The map editor in this game would add some 
+ bonus points, but every time i make a map the AI does hardly anything. The game doesnt really have 
+ a great battle system all you have to do is take a few guys in at a time to destroy a whole city 
+ just didnt make much sense to me. The campaign mode is decent no missions that are all that difficult 
+ . Age of Empires 2 is a great game and adds alot that they forgot in this one. 
+::::::
+
+::::::
+UserName: Achilles438
+Rating: 7.9
+Date: Mar 22, 2006 6:05 am PT
+Review:  Although this gamed tended to crash alot, this game was still enjoyable to play against the computer 
+ and other people online. I was kinda disappointed in the fact on how much you could dominate people 
+ with the catapults, especially witht the Hittites. But other than that, the game is solid. It has 
+ some pretty nice music and there were a few good ideas for the first time around. Although they 
+ do eventually improve on the farming techniques in the future, I wished they could have put the 
+ farmer upgrade they have now in this game, then it would have been a way better gaming experience, 
+ because I spend way too much time taking care of the resources. And that was another issue, the 
+ resources tended to run out at the worst times. But by that time, you should have won the game 
+ by then. A personal favorite unit was the War elephant. Man those things were unstoppable at the 
+ time. Overall, A good game, decent graphics for the system it usually ran on during its time, pretty 
+ good gameplay, but dont buy this now to play it, check out age of empires 3 instead. Good for your 
+ collection or archive or whatever you want to call it. 
+::::::
+
+::::::
+UserName: smidmike
+Rating: 8.8
+Date: Mar 21, 2006 10:31 pm PT
+Review:  For the time that this came out I was greatly impressed with the game. It had good graphics, sound 
+ and AI. Also the fact that it was kinda the first in its sub-genre so to speak. Now adays there 
+ are soo many RTS that do the ancient theme and I think that the AoA series has always done the 
+ best job bar-none. In all honesty, I still have this installed in my desktop after all the years 
+ that I have had it and just thinking about it I kinda want to go through and play it again. One 
+ of the classics! 
+::::::
+
+::::::
+UserName: dilan94
+Rating: 5.8
+Date: Mar 15, 2006 12:34 pm PT
+Review:  When I first played Age of Empires. I was so surprised. I was surprised how bad it was. It was 
+ one of the worst games I have ever played. It had so bad graphics, it took me so long to understand 
+ it. It also had bad graphics! I can say that, this was the game that also had the worst sound. 
+ It would take me pages to tell, how bad this game was. However it got better in the series after 
+ a time, and Age of Empires 2 came out. Way better graphics. I would say that it was the worst game 
+ ever. I am disappointed 
+::::::
+
+::::::
+UserName: 22111993
+Rating: 7
+Date: Mar 13, 2006 2:28 am PT
+Review:  A good game that gets you hooked straight away!
+  Its very easy to play. And there's lots of ways to play it!
+  You got a good variety of quests, 
+ levels, fighters-eg, warriers, bowmen, horse men, etc and can all be upgraded to bigger and better 
+ things.
+  You can pick up how to play the game straight away in about an hour at least!
+  At first there seems like an endless amount of levels to complete, even later on you realize there 
+ were a fair few.
+  You feel in complete control of your civilisation and how you set it out. In my oppinion-its one 
+ of the best simulation games to have ever have come out-a whole unique series!
+  Graphics aren't bad for a simulation game.
+  You don't need great graphics to enjoy the build 
+ up and destroy the other civilisation thing. The graphics look like comic drawings in a way.
+  Sound isn't too bad. A bit limited though. There could have been a bit more of a variety.
+  
+ 
+  
+::::::
+
+::::::
+UserName: cars01
+Rating: 7.3
+Date: Mar 12, 2006 11:26 pm PT
+Review:  The first time I played this game I was hooked couldn't get of the computer. This game was the 
+ first pc game I played I was so exicted when I first got it. The graphics could have been better 
+ but who cares, the game was fun to play. There is a few downsides to the game its good when you 
+ first play it but it can get a little boring. Then you find out the cheats and the is easy. But 
+ after a while of not playing it you will want to try it again. I have had the game for years, and 
+ i own over 300 games but sometimes I will get the game out. if you own a pc of any kind you should 
+ this game. I recommend this game. 
+::::::
+
+::::::
+UserName: excaliburblade
+Rating: 9
+Date: Mar 8, 2006 8:18 am PT
+Review:  Age of Empires is an amazing game and series. This is the first installment in this series and 
+ it is a great start. This game made me a fan from the moment I got the hang of it. AoE always you 
+ to take your civilzation from its primative Stone Age tribe into a thriving Iron Age civilization 
+ while all the while trying to conquer the known world. Depending on the game settings you must 
+ win your chosen scenario by either building a wonder, collecting and holding artifacts/ruins or 
+ crushing your enemies with brute force and military prowess.
+  Age of Empires is a great game, but it needs to work on your allies. For some reason your allies 
+ become offended and turn on you when their troops walk into you catapult fire - duh. Other than 
+ that the game runs without any problems. Some might say the game gets monotonous when trying to 
+ conquer the world, but ever strategy game starts over with each new level. Its part of the game. 
+ I'd recommend this game to anyone. 
+::::::
+
+::::::
+UserName: theunwn
+Rating: 8.2
+Date: Mar 6, 2006 12:34 am PT
+Review:  Microsoft has decided to make a game about something that they are experts on, the rise of an empire. 
+ At first glance, Age of Empires looks sort of like a cross between Civilization 2 and Warcraft 
+ II, and that is a fairly accurate comparison. Age of Empires is a real-time strategy game set in 
+ the eras from the formation of the first civilizations to the end of the iron age. Although the 
+ time period of Age of Empires limits the technology available to the player, this is compensated 
+ for by making a very detailed game world full of historical depth. 
+  
+  You typically start each game with a town center, a few peasants, and stone age technology. Your 
+ first priorities are building shelter and, like the good hunter/gatherer that you are, hunting 
+ and gathering food. With food and shelter, you are free to create more peasants who in turn can 
+ be sent out to chop wood, quarry stone, or mine gold. Eventually, you build more complex structures 
+ and are able to increase your technological level. Oddly, to raise your technology level, you do 
+ not assign peasants to be scientists or scribes, but instead you spend food. I have never known 
+ of a situation where food buys technological progress, perhaps the scientists won't work unless 
+ you throw a banquet. 
+  
+  Increased technology allows you to construct more advanced units, of which there are many. There 
+ are a total of 40 units, which is actually a great amount of detail for a historical period which 
+ ends before the renaissance. There are 7 different types of archers, 9 types of infantry, and 11 
+ types of boats. All in all, the many types of units allows Age of Empires to very closely model 
+ the types of armies in use 2000 years ago. Age of Empires has 12 ancient civilizations available 
+ to the player. Each civilization has certain units not available, however they gain certain bonuses 
+ for whatever aspect that civilization excelled at. For example, the Greeks can produce advanced 
+ infantry more quickly, while the Persians are excellent hunters. Microsoft obviously did its research 
+ here, and the result is a well rounded, historically accurate product (at least for a game) . 
+ 
+  
+  The resource model of Age of Empires wins both praise and condemnation from me. Scattered across 
+ the board are many different types of resources, including berry bushes, forests, quarries, mines, 
+ wild game, and fish stocks. It is nice to see mankind's interaction with nature when gathering 
+ resources instead of the simple 'ore harvester' or whatever. You can watch your little people pick 
+ berries, cut down trees, mine gold, and hunt and butcher wild animals. One problem I have with 
+ the resources is the lack of the bounty of nature. A typical game might last 10,000 'years' and 
+ in all that time, animals do not reproduce, and berries and forests do not regrow. This basically 
+ means that you are stuck with the amount of resources that the map comes with, leaving you with 
+ no incentive to conserve for the future generations. If you started with 10 gazelles, you will 
+ never get any new ones, you will only lose them from hunting and predation from lions. (I must 
+ admit, it's pretty neat to see a lion eat a gazelle in a computer game) 
+  
+  Another problem with the resource model is the handling of food. No, I'm not talking about dangers 
+ from undercooked meat, I'm talking about the food supply. It takes food to create villagers and 
+ soldiers. I have no problem with that. I fail to see why it takes 30 villagers-worth of food to 
+ upgrade a catapult trireme to a juggernaut. Also, villagers don't eat. Your populace can stand 
+ around for thousands of years and never need a bite. This causes a problem with siege tactics. 
+ The tired and true strategy of destroying farms to kill of the population just doesn't work. Also, 
+ the units most useful when under siege, such as the catapult, require no food to create. 
+  
+  Despite its flaws, Age of Empires is great fun to play. The graphics and sound effects are 
+ of high quality, and the computer plays a respectable game. In fact, there is a very large selection 
+ of AIs to choose from in the scenario editor. Ah... the scenario editor. The scenario editor allows 
+ you total control in the design of scenarios and campaigns, right down to the intro movies. Even 
+ if you don't like the full selection of scenarios included with the game you have all the tool 
+ at your disposal to create a scenario exactly to your liking. Its minor annoyances are just that, 
+ minor compared to the game as a whole. For any fan of real-time strategy or historical simulations, 
+ I would recommend Age of Empires. 
+::::::
+
+::::::
+UserName: grasu
+Rating: 8.1
+Date: Mar 2, 2006 10:20 am PT
+Review:  Age of Empires was released in 1997, a year that saw Quake 2 and other future giants of gaming. 
+ It was not easy for an RTS in 1997 to distinguish itself, especially with such hard hitters as 
+ the previously mentioned Quake 2 and the RTS giants of such companies as Blizzard and Westwood. 
+ To top it all of, Blizzard's Starcraft, one of the most expected RTSes ever (and which later became 
+ the most successful RTS ever created) was coming out 4 months after AOE. However, with all these 
+ hardships AOE still managed the impossible... to be so distinct, so refreshing and well made that 
+ it spawned a genre by itself. This is the story of the first ''Age'' game ever created!
+  
+  Graphics: 8/10
+  
+  Rating the graphics of AOE is totally up to the players perception of good 
+ graphics. The game sports extremely fluid animations and superbly intricate building and unit models. 
+ The architecture of the 12 different nations is split into 4 distinct categories (Arabian, Chinese, 
+ Greek, African) . All of these architectures sport different building models and different wonders 
+ (The Hanging Gardens, Colossus, etc.) . The amount of detail that went into these buildings is still 
+ impressive to this day. As is the high resolution and amount of detail given to the menial tasks 
+ of the villagers (carrying gold, harvesting fruit, etc.) . These graphics were quite a blessing 
+ in 1997.
+  
+  However, the graphics engine is far from perfect. The terrain you get to fight on seems a bit bland. 
+ As do the building explosions and some (although very few) of the unit deaths.
+  
+  Overall though, these graphics were amazing in 1997 and are still pretty good to this day.
+  
+ 
+  Sound: 6/10
+  
+  Giving this category a 6 is being generous. The sound in Age of Empires is little more then specter 
+ of what it should be. There are hardly any spoken responses from units and the music ranges from 
+ OK at best to downright horrible at times. The sound effects, however, are well made and fit the 
+ mood pretty well.
+  
+  Gameplay: 7/10
+  
+  This is the game that invented the genre, definitely not the one that perfected it (that honor 
+ is reserved to the excellent AOE2) . As such don't expect this category to be perfect.
+  
+  The gameplay in AOE is truly basic by todays standards. You harvest a maximum of 4 types of resources, 
+ gold, food, wood, stone; with your harvested amount you build citizens, armies, buildings, wonders, 
+ etc. It's basic but at the same time it's hella' fun. The game has no barriers on how many people 
+ can harvest a resource, however, resources themselves are extremely limited. This means that you 
+ will have to fight often and as early on as possible to acquire more territory, thus more resources 
+ since with the initial gold patches you will be building 2 ''armies'' at most. This actually keeps 
+ the game moving at an unbelievably well crafted pace. You won't necessarily have 2 hour wait periods 
+ (yes EE, I'm looking at you) in which you get prepared to rush with clubmen.
+  
+  Speaking about rushing this game's military aspect is great. There are a couple of dusin units 
+ for you to chose from through the ages giving you a pretty good choice of what to use. There won't 
+ be much of a problem choosing or deciding which forces to combine since the ''Paper-Rock-Scissors'' 
+ (PRS) style of play reaches it's peak at the fact that horses are faster then archers. This leads 
+ to some problems. Mostly the fact that extremely powerful (nation based) Cataprachs and War Elephants 
+ can raze an army off the face of the earth in a matter of minutes. Which in term leads to some 
+ pretty big unit imbalances. But this is 1997 people it's not like they knew how to perfect the 
+ genre back then. And even as problems like these arise this games military component plays great. 
+ There are a plethora of strategies to choose from, units have such stances as ''Stand Guard'' (which 
+ was amazing for 1997) and better yet, groups can be made out of an almost endless pool of units. 
+ And even without PRS style the game manages to balance itself out with the fact that advanced units 
+ take a ton of gold to build and getting armies of super enhanced Cataprachs killed by catapults 
+ and archers is never, ever a pleasurable sight. Now, mind you, a good tactician can obliterate 
+ such possibilities out of the water. But, I guess what I'm trying to say is that this isn't C&Cs 
+ 50-Tank-Rush. NO! It's far more temperate.
+  
+  The tech tree in the game is pretty big. There are about 100 inventions (including military) to 
+ research. In most games you won't even get to reach ''the end'' of the Iron Age, so there certainly 
+ is no shortage of inventions to keep you busy through the game. But there is more then a reason 
+ why I gave gameplay a 7 and not a 10. The tech tree is a pretty big part of my decision. More importantly 
+ a little invention called ''Jihad''. See this little invention says that your citizens become faster, 
+ get more hp, and more attack, etc. You research it (as it would seem logical) and then come to 
+ the following conclusion: In exchange for lightning fast cities you sacrifice their carrying capacity 
+ form 13-15 to 2-5... Nowhere ever in any part of the manual is this even as much as implied. It's 
+ annoying as hell. And there are other small examples like this that you have to ''experiment'' 
+ with.
+  
+  Civilizations themselves are balanced with the exception of a few thorns in ones back side. Mostly 
+ the Chosens, Egyptians and Greeks. See each of these guys have absurd bonuses. The Chosen have 
+ such powerful priest bonuses that by combining 12-20 Priests and 10-15 Cataprachs together you 
+ will be dominating the map with a 100/50 pop limit (since priests can convert enemy units to your 
+ ranks) . Another problem with the civs is that, with the exception of their building styles, the 
+ only difference between them is the ability to purchase super upgrades such as War Elephants, or 
+ Chataprachs. This gives people like the Greeks a huge advantage since they can develop Centurions 
+ and Cataprachs while others can only develop, the relatively useless, Heleopolis (a huge super 
+ ballista that hits 1/10000000000000000000000000 times) . Theses differences and unbalances do make 
+ the game feel... well... different, for better or worse.
+  
+  Other general gameplay issues revolve around the boring as hell campaigns and the fact that wonders 
+ are just for prettying up your cities since they don't do a damn thing. There are plenty of maps 
+ to choose from, but the pop limit is way too small (50) . This was fixed in a patch, so at some 
+ extent, that's not a problem anymore. A paper-thin diplomacy option also comes included in the 
+ overall package. However, it's just about useless in anything but some campaigns and LAN matches.
+ 
+  
+  Multiplay: 10/10
+  
+  This game is a blast in multiplay. I have never experienced such superb gaming as the one found 
+ while playing this game with 8 other people in a LAN party on a small map. Everyone bumping into 
+ each other and forging alliances; switching tributes and fighting small skirmishes for 2 more food 
+ bushes. It's all superb. Even with the unbalances and problems that the engine may have.
+  
+  Overall: 8/10
+  
+  This game started a genre. It was not perfect, and it still isn't. However, 
+ it was stable, fun and a blast in multiplayer. This game won't be regarded as the pinnacle of RTS 
+ gaming by many, but it sure as hell is at least a pillar. 
+::::::
+
+::::::
+UserName: Bologa
+Rating: 7.8
+Date: Feb 22, 2006 3:02 pm PT
+Review:  This game was the first game I got for PC and the minute I started playing I got hooked. I loved 
+ the strategy style of game play because you had to think before you attacked. If you attacked too 
+ quickly then you could be beat by a stronger army. I also loved the strength's and weakness's of 
+ every unit. This made sure you had a balanced army. The only thing that I did not like in this 
+ game was that there was barely any special unit for all the tribes. The only tribes that had some 
+ were the Egyptians and Persians. Over all I was amazed by this game even if the graphics are now 
+ dated. 
+::::::
+
+::::::
+UserName: Hallasnicov
+Rating: 8.7
+Date: Feb 21, 2006 10:45 am PT
+Review:  Maybe the graphics is outdated and the features limited.
+  BUT it is just so addicting, i know people who had to throw out the game because they couldn't 
+ stop playing. No game will ever beat AoE. 
+  It is the root of all RTS-games. If anyone ever liked a RTS they should try AoE. It's pure gameplay 
+ without all the unnesecarities.
+  
+  It's not that hard to learn, but it takes forever to master the game. When to buy the men, or maybe 
+ a technology.
+  
+  It's pretty much like the later games (AoE II & III) but more simple.
+  
+  It's a classic and absolutely worth playing.
+  
+::::::
+
+::::::
+UserName: cid8807
+Rating: 6.7
+Date: Feb 17, 2006 9:35 pm PT
+Review:  This game is ok if you are into war games, but the only bad thing is that you can't advance very 
+ far into time. The worst part about the game is the low population limit that is set on all the 
+ games you play. There is also a very hard to build an army and work on keeping your other units 
+ occupied. This is due to the fact that for every unit you have being made you much wait for it 
+ to be done for you can build another. The game is based around ancient civilization times. There 
+ are many different civilizations that you may pick from. The idea of this game is to build up your 
+ civilization and conquer the world and everyone and everything that stands in your way. There are 
+ land units and water units that can be used to attack your enemies. There are villagers to whom 
+ are used to gather resources and build buildings. 
+::::::
+
+::::::
+UserName: eternal_dragon0
+Rating: 9.2
+Date: Jan 28, 2006 5:51 pm PT
+Review:  Graphics: 9/10
+  For its time in computer technology, the graphics of Age of Empires is quite reasonable already. 
+ Although units may get stuck or the game be slightly twitchy, the detail's certainly there and 
+ each unit at least looks unique. The units are a little small though.
+  Sound: 9/10
+  No problems with the sound, though it can get monotonous, since there's only 1 sound effect associated 
+ with each unit and building. The only unit where there are many sounds is the villager.
+  Gameplay: 10/10
+  Microsoft has truly broken down the barriers to RTS gaming with Age of Empires. 
+ This game excels at both single player and multiplayer, something unheard of before, and is still 
+ rare today. The replay value, as for any RTS game, is almost infinite, until you get bored of the 
+ units and sound effects themselves. But that is a small drawback to the gameplay, when you consider 
+ the dozens of hours you spend preparing armies to ambush opponenets or wage all out war. This is 
+ a true strategy game that also mixes with motor skills as players race each other to build the 
+ largest army using the most efficient means. 
+::::::
+
+::::::
+UserName: irulehexen
+Rating: 9.4
+Date: Jan 13, 2006 3:05 pm PT
+Review:  The Ice Age has ended and a population growth spurs. The abundance of food and resources such as 
+ tin, copper, bronze, and iron lead to the development of centuries, cohorts, legions, economical 
+ vexillari, and complex autarchies. However, you are one tribe out of the many, who vie also for 
+ dominion. Let your tribe rise to great heights and may you slaughter all your opponents to be imperator 
+ of all!
+  
+  Age of Empires is a game that offers a good 2-D polygonel graphics, a rich scenario campaign, an 
+ excellent innovation of logistics, theorems and stratagems. Multiplayer is top knotch with a FREE 
+ pass to MSN and a great variety of patches await your beckon and call.
+  
+  The graphics though 2-D were the 'lingua franca' during its initial release and is still good quality. 
+ The units can be seen, with intricate details such as mesh and scutums. Arrows take flight and 
+ whales jump out of the adamantine seas.
+  
+  The game provides a fine cosmopolitan taste of history. Battles such as that of Actium and Andrianople 
+ are re-enacted. Characters like Julius Caesar and Vercingetorix are available to be held in thrall 
+ to your imperium. Hoplites with their long sarissas and bronze shields as well as legionnaires 
+ with their lorica segmentatas are at your disposal. Triremes and pentekonters scale the high seas 
+ and juggernauts move at a methiodical pace. Numerous formations are available such as the phalanx- 
+ a dense formation, and the ability to spread about. You can flank your enemies and catch them in 
+ a pincer with your hastati at hand, slaughtering the opponent's legios.
+  
+  Multiplayer is FREE and offers a great contingent of players who are available at every hour of 
+ the day. You are given a connection to MSN Gaming zone which requires an account (which is also 
+ FREE) . No decadence nor boredom here.
+  
+  All in all, Age of Empires is a splendid game. A wide variety of features available are at your 
+ command. May you be the Dux Bellorum and may your reign be filled with wisdom. Splendid game!
+ 
+  
+  
+::::::
+
+::::::
+UserName: MrAbs
+Rating: 8.6
+Date: Jan 13, 2006 7:43 am PT
+Review:  This was my very first contact with a strategy game. Me and my bro sat in front of the PC trying 
+ to figure it out. And after an hour we could not even get ourselves away from the PC.
+  
+  Although the game now looks absolutely crap, this will go down in my books as one of the best original 
+ Strategy games. Before it got all confusing with all the different type of units and upgrades and 
+ weirdo game play that all development companies try to add to make their game look or feel better 
+ or different
+  
+  The game is simple. Get resources, upgrade, build the army and attack. The units are great, the 
+ buildings are great. What an absolute classic. Haha
+  
+  Yeah I know. I'm sad. But hey. First love is always the best. 
+::::::
+
+::::::
+UserName: otownshend
+Rating: 8.1
+Date: Jan 11, 2006 2:05 am PT
+Review:  The tutorial for the game was really good, it help me steadily learn the game, but as I got more 
+ into the game I noticed that the trees never regrow or expand as you play, so when you are out 
+ of wood you are out!
+  The Troops were excellent but they never were in formation or attack using the brains!
+  
+  The 
+ graphics of the game is brilliant, highly detailed but the sound could have been better, when a 
+ unit dies, they could make it a sort of gory death sound.
+  
+  I would recommend this game to other who like stragic games. 
+::::::
+
+::::::
+UserName: Yamauchirulez
+Rating: 8.3
+Date: Jan 8, 2006 10:49 am PT
+Review:  I had already tried the age of empires demo. I had problems passing the demo but i passed it. I 
+ searched for this game for three years and when i bought it, the only thing that came around my 
+ mind was that it was better than the second one! You are gonna say i am crazy, but i really believed 
+ that. Greeks, Hittites, Egyptians, Carthaginians and much more armies to control. This game should 
+ last you for a good amount of time and even the movie at the start is more war realistic than the 
+ second game's movie. With 8 campaigns, even more difficult the first one to the last one, should 
+ make you have fun for hours. 
+::::::
+
+::::::
+UserName: burninghawk
+Rating: 8.3
+Date: Feb 27, 2006 7:18 pm PT
+Review:  Age of Empires was probably one of the first games that i had tried for the real time strategy. 
+ Age of Empires was what started it all and has changed how strategy games are played.
+  
+  this game is really solid, with all the things you can do in this game, make it a good tasting 
+ surprise that will have your nose on the screen while playing it, for a long time. Whether it be 
+ doing missions, playing against the AI, or facing your friends, it's really fun.
+  
+  The graphics were decent for its time, and were above exceptional and deserve at least a little 
+ credit for '96.
+  
+  The music however, can get really boring after a while and really just can get irritating, because 
+ we kind of want music that suits more combat then peaceful waters, fick.
+  
+  Overall, strategy fans should pick this game up as well as the expansion and the other age of empire 
+ games. Doing so, will keep you busy during your free time for many months to come! 
+::::::
+
+::::::
+UserName: differentiation
+Rating: 5.8
+Date: Dec 29, 2005 2:01 pm PT
+Review:  I'm a big history buff and love the olden days, so this game caught my eye a long time ago. Looking 
+ at the screenshots suggested grand battles and the ability to command the famous hoplites in battle. 
+ Until I played this game, I realized how foolish I was for thinking I can accomplish that feat, 
+ and the back of the CD made it look so neat and organized. I have to give credit to the game since 
+ it is AOE, the first one, and launched many like it afterwards. The concept is great, pitting historical 
+ civilizations against each other and evolving through the ages. Each civ has their own attributes, 
+ but when it comes down to my archer gets to shoot his arrow a square before yours, inflicting -1 
+ damage, things like that really doesn't matter when you can just ride over my archer with your 
+ horse, or worse, kill us all with a catapult. Yes, the catapults and other artillery are very annoying, 
+ and they fire without permission. Units get lost on their way to some objective and don't try to 
+ stop the army invading you if they're not directly in their way. The AI is horrid and controls 
+ are very basic. Units are limited to 50 so battles are small. Great ambition, but fails to deliver 
+ successfully. Also, have fun with the sound FX... you will never forget the priest's "wololo"s. 
+ 
+::::::
+
+::::::
+UserName: Beardsley
+Rating: 8.3
+Date: Dec 28, 2005 6:06 am PT
+Review:  Age Of Empires has been released now for years. Literally years. It has spawned multiple expansions, 
+ sequels, spin offs, and custom levels - and has become known as one of the best RTS games ever 
+ made.
+  
+  Although this game can be said by some as having "problems" - this is only if you view it in light 
+ of other more modern RTS games. For a simple, good, fun formula of a great game, look no further 
+ than the budget bin at your local games store.
+  
+  But of course, Age Of Empires is having new life breathed into it. With the very low minimum system 
+ requirements compared to almost all computers nowadays - anybody can get this working on their 
+ pc or laptop. AoE makes for a fantastic timewaster on the train, lecture theatres, waiting rooms 
+ - wherever you have a little while to waste - why not fire up the game and spend a few minutes 
+ getting your army together, or doing that next attack on the enemy...
+  
+  If you have never played AoE, get it today, and play it. You will notice so many little elements 
+ of the game that have become standards in todays RTS games, and so many little elements of the 
+ game that have been looked over in more recent games. 
+::::::
+
+::::::
+UserName: Emperor_Falcon_
+Rating: 9.5
+Date: Dec 19, 2005 6:52 am PT
+Review:  This game is one of the Best i have seen.
+  
+  It has 12 (i think) different civs, all are very unique. Looing at the advantages, anyone may think 
+ it is very similar, but just these 2 or 3 advantages come to a great strategical variation.
+  
+  YOu can choose the style you want to play, defensive (choson) agrressive (greeks) or economic 
+ (Assryians)
+  you can employ manyy different battle tactics, or defensive tactics.
+  
+  I personally think that this game is better than empires 2 and age of kings.
+  
+  If you can 
+ bored playing single player, but you will never get bored of playing multiplayer.
+  
+  MOst of all, all civilisations are varied, but still very equal. 
+::::::
+
+::::::
+UserName: stryker5671
+Rating: 8.4
+Date: Dec 18, 2005 5:00 pm PT
+Review:  Age Of Empires, in my opinion, was a "revolutionary game".
+  
+  First, the games interactivity, is superb. The way you can upgrade your your civilization to be 
+ super strong, is in my opinion the best. There are many technical advances for its time, like in 
+ the barracks, when your can upgrade your on foot soldiers as the time periods go on. Sure the AI 
+ isn't what you would call the most intelligent. Just makes it easier to slaughter others, which 
+ is very fun! The graphics for its time, are very well processed. The one player mode isn't as great, 
+ but the multiplayer mode is sweet. But it is practical for skills needed when doing random maps 
+ or whatever. Scenario creating is a blast, as there are so many different ways you can create a 
+ unique battleground. 
+  
+  The game is a great starter into real time strategy, for beginners and experienced gamers alike. 
+ In fact I used to hate strategy games, but when I played this one, I played random maps with a 
+ cup of coffee forever. To build the biggest empire out there was my main objective. Overall, this 
+ game is great, and even with all the new games out there, I still play it. 
+::::::
+
+::::::
+UserName: aletof2000
+Rating: 9.3
+Date: Dec 18, 2005 7:30 am PT
+Review:  Age of Empires, came out in 1997, when I was just 7, I have to say I grew up with that game, the 
+ very first strategy game I played, and by the time, the graphics were wonderful. The gameplay is 
+ just great, and the difficulty level, as it is adjustable, its just right for anyone. Even though 
+ the graphics, sound and overall gameplay are surpassed by actual games such as Rise of Nations 
+ and its predecessors Age of Empires II & III and Age of Mythology, AoE keeps being an excellent 
+ game, considering the time when it was developed and all the years that have passed since then. 
+ 
+::::::
+
+::::::
+UserName: mnkyking
+Rating: 7.5
+Date: Dec 1, 2005 1:24 pm PT
+Review:  This is an ok game. Ensemble Studios put a lot of effort into it and it came out pretty good, being 
+ that it was the studio's first game. The gameplay is pretty strong, though the biggest problem 
+ is the AI of your own units and the computer player. Units often get stuck when going through different 
+ types of terrain, and they don't always take the best route around obstacles. The AI seems to have 
+ either two diffuculties: way to easy or way to hard. The graphics are pretty good, and you can 
+ see lots of details on the units and buildings. The sound effects and music are good, and give 
+ the game a sort of an "ancient" atmosphere. Overall the game is very ambitious, and Ensemble Studios 
+ is off to a great start. You can probably find this game in any bargain bin by now, usually packed 
+ with other strategy games. It's a pretty good deal, around ten bucks at most places. This game 
+ gets my reccomendation. 
+::::::
+
+::::::
+UserName: tomcrito
+Rating: 6.8
+Date: Nov 28, 2005 1:40 pm PT
+Review:  This, and Small Soldiers, were my first PC games. It was the game which basically created the RTS 
+ genre but it didn't give itself a good name until AOE 2 were it redeemed itself. The sound is mediocre 
+ at best but back then the music for PC wasn't that good anyway. The graphics were ok but even then 
+ they probaly could of been better. The gameplay is the only real good thing in this game and it 
+ was quite addictive for a while. The story mode was good for about 2 hours but starting from scratch 
+ and creating a little town over and over again gets frusrating and boring. Deathmatch is where 
+ the real fun lies. Put the cheats on, get a massive army and conquer everyone is the best (and 
+ funniest) way to play this game. If you want to get into RTS games or are looking for something 
+ old skool, look past this one because it is not a nice site. 
+::::::
+
+::::::
+UserName: DutchKing13
+Rating: 9.3
+Date: Nov 26, 2005 7:46 am PT
+Review:  To be honest I don't understand why people give this game lower than a 8 
+  but the ***** that gave it a 4 doesnt know anything about this game. 
+  It's really beautiful, 
+ fun , and every age of empires fan will love it!!!!
+  Every moment I have waited for this game they made it better.
+  Trust me if you like these games 
+ buy it if you like shooters, rpg or very tactical game don't its just fun. 
+  
+  But there are a few not perfect things. first it plays nearly the same as the first two games of 
+ age of empires and there isn't much changed. Second 
+  before you get pretty grafichs you need a very good video card.
+  But that's all that's wrong. 
+ 
+  
+  (p. s civilaisation sucks it's real bad) 
+::::::
+
+::::::
+UserName: unused83
+Rating: 6.9
+Date: Nov 20, 2005 9:13 am PT
+Review:  Age of empires is a nice game hence you get into it, yet hides very frustrating and sometimes laughable 
+ gameplay.
+  
+  The installation is barely a wait (depending on what machine u are running) , so hurray it is a 
+ saviour to laptops.
+  
+  the tutorial is somewhat boring and you will have to read alot, "This summer egypts lands are plentiful 
+ with animals" , how often do you see that ? mistakes like this are common in the tutorial, although 
+ the tutorial does a nice job on teaching you the basics and some handy tips, what i found most 
+ drap about this tutorial is how poorly detailed the maps were, i mean put in the no fog of war 
+ cheats in and bingo behold... nothin. a intresting adition is animated pixxar like movies at brief 
+ points throughh out the tutorials and campaighn.
+  
+  moving onto the games objectives etc, basicaly build an empire and blow your opponnents to somewhere 
+ unpleasent, the post game. firstly you get a few villagers at the start of each game, a town center 
+ wich makes other villagers, and you cant pile villagers up so you have to make , ..... do something 
+ while the villagers being made, like look for the villager u just lost a while back (thers no sort 
+ of out line or indication that a unit is behind something) .. realy ennoying,
+  finaly ur villagers here, set him to gather one of the few recources "gold, stone, wood, food" 
+ , u should work on food, because villagers cost 50 food, it takes ages to get food, same with any 
+ other recource, and because u take so long i bet the bots will be in the final age building a wonder 
+ ( wich will in the end defeat u after 2000 years some how , how retarded ?) . after u have conquered 
+ recources, build an army, they can help in killing big food holders like elephants (wich fight 
+ back, and hte worst thing about them is they can destroy ur entire base if there are 3 of them) , 
+ the first militery unit is the clubman (cave man ?, what on earth are elephants doing here) , there 
+ is a wide spread of upgrades to improve most militery units buildings and other stuff u might be 
+ intrested in (WARNING BIGGEST UPGRADE IS: 4000 food 5000 gold) .... balista, lethal....
+  
+  sound... quite good actualy one of the games best qualities, well yeh it sounds a bit polyphonic 
+ every so often but the atmospheric sounds are good, egs country side eagles and animals roaring 
+ when being attacked.
+  yet hte downside is the near same sounds during an attack ... egs yay my catapaults here , no wait 
+ a enemy catapault is attacking me, these things are very ennoying, and the naval units are way 
+ too powerful, look at that i swerved out of topic because of flaws.
+  the same music over and over again !!!!!!! i would shoot my self if i had to hear that weak keyboard 
+ tune once more, the units voice acting could have had a bit of variety, egyptians say "homer" (simpsons 
+ are older than i thought) and "rogan" (scoody doo har har har........ not) , the priests healing 
+ sound and converting sounds are funny, and u have to admit its very awkwards , the old man chant.
+ 
+  
+  graphical terms, yes pretty good, yet not as good as sound, some effects are jagged and basicaly 
+ poor, the water looks like its made out of play dough, some nice effects on the meches and skins 
+ of units yet its too 2d, warcraft does a better job, i think.
+  
+  after all aoe does a nice job in boredome busting , yet i wouldnt buy this game for full price, 
+ il get it as cheap as i can, not worth the money, i bet this will be a bargain buster more like 
+ it 1 , $1.78,..... srry for making this like 20 mb or soemthin
+  this will go down in history as a failed strategy, but a heck of a go.
+  
+  - moo (unused83) 
+ 
+::::::
+
+::::::
+UserName: kroloth
+Rating: 6.4
+Date: Nov 16, 2005 11:03 am PT
+Review:  Age of Empires was one of the first real time strategy games I came up across. I found it difficult 
+ at first, but it all sank in some what after a few hours of play. The graphics on it are fairly 
+ good for its time. The game itself had quite a few glitches, but being the first in their series 
+ they where presumable. Having the various civilizations was also good since other real time strategies 
+ I played where limited in that. Age of Empires is fun. If I had it on my computer Id probably 
+ still play it once in a while, if I did not have any of the newer versions of course. Its quite 
+ a step taken by Microsoft, and I think it was a winning step. 
+::::::
+
+::::::
+UserName: CBThur13
+Rating: 4
+Date: Nov 14, 2005 4:58 pm PT
+Review:  This game was a good start because Age of Empires 2 was a great game that I probably would still 
+ be playing, but I lost the disk. However, this game is really not that great. I played it for about 
+ 20 minutes and just could not get into it. The graphics are bad and the controls are so weird. 
+ If this game was remade fixing the mistakes then I would definitely buy it because the concept 
+ of the game is great. The game itself is just not good.
+  
+  I really do not recommend this game, I think everyone should get Age of Empires 2 instead. 
+::::::
+
+::::::
+UserName: Megathrowbot2
+Rating: 6.3
+Date: Nov 8, 2005 6:38 pm PT
+Review:  Age of Empires is a real-time strategy game based off of ancient civilizations. It's great to play, 
+ really, but it just doesn't measure up to greats like StarCraft and WarCraft.
+  
+  The gameplay isn't anything that hasn't been done already. You take control of a civilization such 
+ as the Egyptians or Romans and start off with a few villagers and a town center. You continue to 
+ gather rescources to build more units and buildings unitl you meet the requirements for the next 
+ age (stone, bronze, silver, gold) and then advance. Then after defending yourself from the aggressive 
+ computer you go attack them and wipe them out when you have enough units. Strategy doesn't play 
+ too huge a part in it, just make sure you have enough units to thrash the opponent (like in online 
+ play in most RTS games) . There's an okay variety of units though, I think... I'll give them that 
+ much. Oh, and a campaign editor... that's in StarCraft too.
+  
+  The graphics, they're not as good as Starcraft, though they're kinda 3D, and the music, although 
+ pretty nice, gets a little repetative.
+  
+  Overall it's not really worth getting. RTS fanatics have already seen this gameplay and newer players 
+ have better choices.
+  
+::::::
+
+::::::
+UserName: kool_zed_speaks
+Rating: 7.8
+Date: Nov 4, 2005 12:39 am PT
+Review:  So, Age Of Empires, one of the first historic-real time strategy games ( probably the first ) is 
+ an excellent game worth playing.
+  If you agree to other people about warcraft being better you deserve a kick! Warcraft and Age Of 
+ Empires have little in common. Warcraft is a fantasy strategy game, while Age Of Empires is real 
+ history. See, the civilisations in Age Of Empires actually existed eons before you were born! The 
+ game is true to its words. Believe me you will enjoy Age Of Empires.
+  Although the gameplay can definitely be improved, ( the characters get stuck behind a tree or a 
+ building sometimes! ) the game gives an overall satisfactory performance. The sound is excellent 
+ and the graphics too.
+  You have to appreciate what Microsoft has tried to do and if you are a history lover, you will 
+ definitely enjoy. 
+::::::
+
+::::::
+UserName: irknappers
+Rating: 8.2
+Date: Oct 22, 2005 5:13 am PT
+Review:  There is no on line game that comes close to Age of Empires. It is simply the best game around. 
+ Playing against the Computer all the time gets real tedious as it only has one strategy. Whereas 
+ playing on line is superb and allows you to take on different skill levels and
+  playing techniques every time you play. I normally wind up in www. zone. com which is the best 
+ place to play. The only thing that really annoys me is the amount of cheats you get Who are only 
+ out to gain an advantage in a table so they end up creating cheat units like Cars and laser firing 
+ troops when All I have are catapults and Knights!!!
+  Not fair!!! Why dont these people play fair???
+  
+::::::
+
+::::::
+UserName: ntnylion100
+Rating: 8.6
+Date: Oct 19, 2005 5:56 pm PT
+Review:  For a game developed in '97, it was extremely well-developed. Granted, the graphics were a little 
+ a behind the curve but other than that the game was ahead. The sound in the game was epic in voice 
+ which is always a plus to any creation. The controls were easy to learn and were easily accesible, 
+ which many RTSs lack. The learning-curve was slow enough that it was easy to learn, but hard enough 
+ to keep you resetting some levels, because you got smacked-down. The replay value was nigh limitless, 
+ because of the varying ways to cheat yourself into complete victory.
+  So I say, why not rate AoE to at least a 8.5. 
+::::::
+
+::::::
+UserName: FragMaster_Flex
+Rating: 7.3
+Date: Oct 14, 2005 11:22 am PT
+Review:  It may only be a few steps higher but enough steps to make me happy. Now this review is obviously 
+ new and the game old but i bought the game when it first game out and I remember having lots and 
+ lots of fun. So i reviewed this game as i would of many years ago - obviously the graphics arent 
+ as good as they should be today.
+  
+  Age of Empires feels like a Realistic RTS. The units speeds and strength qualities are perfectly 
+ balanced. Each nation in the game has its strengths and weaknesses.
+  
+  I never really touched the single player campaign, I just selected a map and an enemy and battled 
+ it out.. some games only lasted a few minutes (either me winning or losing) and some lasted a few 
+ days or even a week.
+  
+  Theres so many units and unit upgrades its hard to get bored with this game.
+  
+  The steam line 
+ easy to learn map editor adds hours and hours of replay value.
+  
+  Multiplayer is a blast.
+  
+  You could pick up this game today for probably $10 or less and it 
+ would totaly be worth it. This game is a total RTS classic. 
+::::::
+
+::::::
+UserName: dbjunior92
+Rating: 6.5
+Date: Sep 27, 2005 1:39 pm PT
+Review:  What else is there to say? This game isn't particularly colorful, the animation isn't anything 
+ to write home about, the sound effects are a little redundant, the units aren't very original/varied. 
+ STILL the game is the run-of-the-mill style we've all come to expect. Build a town center, make 
+ citizens. Work the citizens, make a military, make the military big, expand your city, advance 
+ your city, after a few defenses, send your hulking army to crush your foe once and for all, and 
+ END THIS WAR FOR GOOD! 
+  
+  Sounds like Warcraft? That's because it *IS* warcraft. Only from Microsoft, and with a less magical 
+ "hoyo oyo" aura...
+  
+  Fun, but not a cult classic like Warcraft, or even the venerable Command and Conquer, which came 
+ first.
+  
+  
+::::::
+
+::::::
+UserName: Gamerichard
+Rating: 8.5
+Date: Sep 5, 2005 6:30 pm PT
+Review:  Graphics: 9/10 
+  Sounds: 8/10 
+  Difficulty: 8/10 
+  Playability: 8/10 
+  Gameplay: 9/10 
+  
+  The graphics are very good, but it would be cruel to compare it with the 
+ newer titles such as C&C Generals, because this is an old game. The graphics have okay details 
+ and are in total 2D, which I think is just as good as the new 3D turn the camera 360 graphics! 
+ What's the point of moving the camera all the way round or zooming in and out? You'll be impressed 
+ the first time you play the game, but after a while you'll stick to the standard camera angle. 
+ 
+  
+  The sounds are good, with lot of sound effects, and some fine relaxing music. You never really 
+ bother about the music because it doesn't want that much attention, which is good. You can then 
+ focus on the actual game, and think strategic. 
+  
+  The gameplay is very good, though it's not as revolutionary as the first Red Alert, which really 
+ is the mother of all strategy games. But Age of Empires was also one of the first strategy games 
+ before everyone started making them. Now the market is filled with them: No mans land, Sudden Strike 
+ 2, Lord of the Rings: War of the Ring, Warcraft 3 and American Conquest are examples of games that 
+ are pretty new really, and many of them look much of the same. AoE is a very good strategy game, 
+ which is one of the best ever. 
+  
+  + 
+  Good graphics, and fine music. You can control the Romans! The huge battles! 
+  
+  - 
+  You 
+ can't have enough people at the same time (population limit is to low) . 
+::::::
+
+::::::
+UserName: Shawn_Watson
+Rating: 6.6
+Date: Aug 25, 2005 11:49 pm PT
+Review:  I got the demo of this game in Dec 1997 and for months me and my best friend did nothing but play 
+ it (yes, nothing but the demo) . Some months later I actually saved up enough to buy the full game 
+ and at the time it seemed so cool and interesting. I'd never played anything like AoE (I had just 
+ gotten my first Windows PC round about then) and we were both totally addicted.
+  
+  Today, it seems dated and dull. Weird isn't it? I have AoE2 and it is much better but that too 
+ already seems old hat compared with the screenshots of the forthcoming AoE3 (can't wait) . Even 
+ with all the expansion packs available for this game it will never come close to the complexity 
+ of the second sequel or even Age of Mythology. Buy it if you can find it dead cheap tho. 
+::::::
+
+::::::
+UserName: Govvy
+Rating: 7.1
+Date: Aug 18, 2005 5:46 pm PT
+Review:  History is a great topic and historical wars where something else. Now you can take part in the 
+ great civilizations that helped to shape the world as it is today. Age of Empires is all about 
+ periods of history and this is combining historical fact into a war game. You get to command the 
+ armies and take on the missions. This was a first in the way of warfare tactics and it spawned 
+ an immense amount of games. 
+  
+  The graphics isnt much for 2005 but for 1997 it was pretty good. The game interface was simple, 
+ straight forward and well made. The game itself was a piece of art. You had your pieces, like on 
+ a chess board and you could move them into position and plan your attacks. With this in mind you 
+ have strategy and the collection of different troops to gain, you had the ability. But everything 
+ has a starting point and that is the technology in the game.
+  
+  You can research specific items, advance to the next level and become a new race. But you mustnt 
+ forget one important fact and that is recourses, food, wood, metal and gold. These are the four 
+ elements you need to build any of your civilizations in this game which increases the game play.
+ 
+  
+  So far so good, but after the initial fun you have the downturn and with any game you have to look 
+ for some cons. So the first I shall pick is the sound, didnt think much of it, nothing special 
+ there then. Really you must play this game in bits otherwise you will get bored. It seems to be 
+ the same all the way through to me and it make for a rather repetitive feel.
+  
+  All in all its above standard and its a piece of art that will never be forgotten. 
+::::::
+
+::::::
+UserName: DarknessOfFate1
+Rating: 6.1
+Date: Aug 14, 2005 11:53 pm PT
+Review:  Sadly Age of Empires 1 is nowhere near as good as its sequels and is a very unbalanced and frustrating 
+ game.
+  
+  AoE's graphics are fairly average. Some animations look stupid with weird shaky walking animations 
+ for swordsmen and ships fire missiles despite having no weapons. Environments look pretty average 
+ with the basic isometric view seen in many RTS games. Units and buildings do look semi cool.
+  
+  Sound is great and very age like. Units have funny little gibberish for their speech and it 
+ sounds cool, particularly with priests that woololo sound effect is a classic that is also a taunt 
+ in aoe2. Fighting sounds are very odd with swordfighting making a loud clang sound like smashing 
+ rocks together, arrows make a weird loud whoosh sound. Dying units sound good with some suitably 
+ painful sounding screams.
+  
+  AoE's gameplay pales compared to its sequels and to other RTS games. In AoE you start with a town 
+ center and a few villagers in the Stone Age with the only solders being weak clubmen. You advance 
+ through the Tool Age the Iron Age and then reach the Bronze Age that is set around roman times. 
+ There are a lot of unit types such as siege weapons, foot solders, cavalry, archers and war elephants. 
+ Each type can be upgraded, so clubmen can be upgraded to axemen then you discover shortswordsmen, 
+ longswords then the centurion the ultimate infantry. There are lots of tech upgrades too like leather 
+ armour inventing the wheel, better walls and many, many other things.
+  
+  The main problems with this system is that siege is way, way too powerful. Siege does a huge amount 
+ of damage, able to single kill most units and fires very quickly. The projectiles seem to home 
+ in on units a bit instead of just missing a moving unit. This leads to too much boring siege and 
+ no infantry or cavalry since they will be crushed. Towers as well are hugely overpowered and once 
+ you get ballista towers they will crush anything besides catapults. When playing one player skirmish 
+ the computer always plays the same way and will just mass build towers and siege and effortlessly 
+ crush any and every attack you send their way unless you just siege them. This serves to make gameplay 
+ extremely boring and frustrating.
+  
+  Other major problems with AoE is the stupid logic units use after killing their selected target. 
+ Instead of attacking other military units in their sight, they usually target villagers or buildings 
+ ignoring the military units killing them. Also annoyingly enemies in campaigns usually team up 
+ to kill you even though they also are enemies. I know this because a brown clubman and a yellow 
+ one were fighting and the brown one died then more brown ones arrived and they teamed up with yellow 
+ to kill all my clubmen. AoE also features the worst design decision I have seen in 16 years of 
+ gaming. The dev team of AoE 1 made it so units that see other units being attacked will not help 
+ them and engage the enemy meaning your forces will die since allegedly the creators wanted to make 
+ AoE a hands on RTS and not automate anything. This is either some of the most misguided reasoning 
+ ever or an excuse to cover up a design fault. Humans cannot be everywhere at once and its unrealistic 
+ that solders wouldn't help friendly units being attacked.
+  
+  The game features online play on zone. com even though I haven't tried it and don't wish to since 
+ it will be just mass siegeing and tower whores.
+  
+  As much as I love this series I really can't recommend AoE its poor balance, hopeless AI and cheap 
+ tactics ruin it. These problems were common sense, and I fail to see how playtesting didn't highlight 
+ them.
+  
+  Fin
+  
+::::::
+
+::::::
+UserName: simfr
+Rating: 5.8
+Date: Jul 5, 2005 1:14 pm PT
+Review:  I got age of empire 2 before getting this one (as a gift) so i was expecting better than that. 
+ I was like "the second is great so the first shouldn't be that bad!" well it is that bad! 
+  
+  There's a long time i didn't play this game but i remember some things. In the game, the fact 
+ that you can choose your civilization is very useless because they all have the same troups. You 
+ can build walls but not doors!?! 
+  
+  In fact, this game is great for the start of the age of empire series, but for a game, it could 
+ have been better. 
+::::::
+
+::::::
+UserName: erickboy
+Rating: 7
+Date: Jul 1, 2005 7:14 pm PT
+Review:  --Its a good game overall, i especially liked all the different units and variations, there are 
+ a lot of upgrades and buildings, graphics are now severely outdated, its a classic if you want 
+ to play it remember that, but i think you will be disappointed, this game is oooold.
+  Campaigns are pretty much the same, and frankly AOE II has way better campaigns, the interface 
+ is a little bit different from current RTS but it doesnt feel fully playable.
+  --I personally liked this game, it came when i bought the limited edition AOE, i only played it 
+ out of curiosity but quickly turned my eyes and face AOE II and COnquerors its expansion. 
+::::::
+
+::::::
+UserName: The_Capitalist
+Rating: 7.6
+Date: Jun 25, 2005 9:22 pm PT
+Review:  Welcome to 1997. A young, fresh game studio has just released a new game. Little did they know 
+ that their game will sell over 3 million copies worldwide, and they'll be some of the most prominent 
+ game developers in the industry.
+  
+  Age of Empires pits you against of the greatest civilizations of all time. In epic battles and 
+ diplomocy, you'll lead your people to greatness. So, in order to do that, you gather resources, 
+ build buildings, train troops, and then lead your troops against your rivals and hopefully defeat 
+ them.
+  
+  That is the basic core of AoE. The strategy portion of the is game is pretty simple, and easy to 
+ understand. But, it's too simple for many gamers to explore different options to win, and overall, 
+ every game follows the same pattern: gather resources, build buildings, raise troops, etc. The 
+ strategy portion is way too light, but still, it can be interesting and entertaining at times.
+ 
+  
+  Graphics were very good, but some path-finding issues and building scale cut down the score for 
+ the graphics. Everything seems to come to life. Death animations were good, and the units were 
+ detailed with some cool animations.
+  
+  Sound is a weak factor, with a weak soundtrack, horrible voice acting and battle sounds. They don't 
+ sound extremely serious in any way, and sound cutesy for a game based on history.
+  
+  Overall, it was a good game. 
+::::::
+
+::::::
+UserName: Bubba13
+Rating: 7.9
+Date: Jun 12, 2005 11:04 pm PT
+Review:  The premise for this game was great. Start your empire from the ground up moving through the ages, 
+ unlocking technology as you go. This was the first RTS I ever played and I was addicted for a long 
+ time. However as new games came out I began to see how flawed it really was. 
+  
+  The bad: 
+  
+  Graphics- Even for its time these graphics were average. Also some glitches kinda 
+ turn me off in this department.
+  
+  Not enough variety- The campaign isnt really something you play more than once, and you arent really 
+ given choices as to how you are going to move forward in the game. Your tasks in the game... KILL 
+ KILL KILL
+  
+  The good:
+  
+  Good game for begining RTS players- This is a good on to start out on, with a simple interface 
+ and not too much to handle at once, anyone can pick it up and play.
+  
+  killing animated people with your animated people is cool- *see previous*
+  
+  with a host of 
+ expansion packs and patches the minor problems in the game are easily fixable. 
+::::::
+
+::::::
+UserName: 043030
+Rating: 9.2
+Date: Apr 21, 2005 6:31 am PT
+Review:  This is among the best RTS games to ever be released. It's fantastic.
+  
+  Graphics are nice and clean, with good attention to every unit and landscape. This will also run 
+ on almost any computer as well. Campaigns are absorbing, and quick matches are also good, with 
+ several modes of play. This wil last a long time, even if you are not an RTS fan. 
+  
+  Multiplayer is not to be overlooked as human opponents have mastered this game, and always provide 
+ a great challenge. 
+  
+  Age of Empires is a great portrayal of historical battles and events, and is a must for the collection. 
+ The pace is fast, the action is quick and brutal, and it really feels like you are buidling an 
+ empire.
+  
+  Get this game.
+  
+::::::
+
+::::::
+UserName: garhart
+Rating: 9
+Date: Mar 31, 2005 12:51 am PT
+Review:  I was out of gaming for over 10 years. A person at work had me download the trial for AoE and that 
+ is how I became addicted again. RTS games are away to create an environment that allow for people 
+ of all ages to enjoy gaming. 
+  
+  The great/bad part is the hours of time spend playing this game. The ability to play it over and 
+ over again with a new experience each time is excellent!!!
+  
+  I have continued to follow the AoE expansion packs and the 2 version. Because of the first AoE, 
+ MicroSoft has created a lifer gamer and I will continue to follow the series. I am going to be 
+ one of those people pre-ordering the next AoE release. 
+::::::
+
+::::::
+UserName: gissamuel
+Rating: 8
+Date: Mar 24, 2005 2:54 pm PT
+Review:  Age of Empires was the first game that really caught my attention. I liked the idea of watching 
+ the villigers gather resources, and actually seeing the units attack an enemy. I sat for hours 
+ just watching my units and seeing what each would do. The units get old at the lack of variance 
+ with each nation. Most units are the same from each nation including the buildings. If you like 
+ a game that offers a little history, combat, and building things then this is the game you are 
+ looking for. Even today it stands out against the others in its own category. 
+::::::
+
+::::::
+UserName: 2k_rammerizkool
+Rating: 2.3
+Date: Mar 19, 2005 12:48 am PT
+Review:  This game, well, sucks. It is fun at first because you are sooo excited and stuff about getting 
+ a new game.... then, as you play it, you realize how, pardon my french, GAY this is.
+  
+  The graphics are somewhat decent, although the water sucks and stuff. The buildings, no matter 
+ what civilization you are, are the same, and look really generic. The people talk like complete 
+ retards...."Rogan"? Every civilization's people say that. I think.
+  
+  The gameplay of this is horrible. You cant order people to "attack-move" and if you are allied 
+ toward someone while they are enemy toward you, your people wont attack back or anything. Its pretty 
+ stupid. They cant find their way around anything, and you can dodge arrows and such easily. Why 
+ should you dodge arrows in the first place...? I dunno.
+  
+  My last word is: Dont even bother buying this unless you are easily amused. If so, you will get 
+ a kick out of this game. 
+::::::
+
+::::::
+UserName: opima
+Rating: 7.8
+Date: Mar 16, 2005 7:57 pm PT
+Review:  I consider Age of Empires my introduction into computer gaming. A fellow student of mine showed 
+ me this game on his computer one night and I was so impressed I bought the game the next day. I 
+ played it for hours and hours, doing all the campaigns and then moving onto winning the game in 
+ every way possible with every civilization they offered. Of course, the game does have it's limitations 
+ as far as RTS's are concerned. However, I still come back to this game every once and a while to 
+ play a round or two, for old times sake.
+  
+  The introduction and tutorial was helpful in getting a new gamer started, I had no trouble jumping 
+ into the game after completing this.
+  
+  The campaigns are decent, they could have been a little harder, but fun to complete nonetheless. 
+ The plots were good, but could have been improved and expanded upon just a little.
+  
+  I do wish they had more civilizations to utilize in the game and the interface was a little tedious 
+ at times. It was hard keeping up with civilians when they finished work and just stood there and 
+ sometimes the military units wouldn't attack an enemy when it attacked a nearby building. Of course, 
+ these problems were dealt with perfectly in Age of Empires 2. 
+  
+  The graphics, at the time the game was created are fairly decent, though very dated now. The graphics, 
+ however, did seem a little too small and the detail could have been better.
+  
+  Overall, I did enjoy this game tremendously. 
+::::::
+
+::::::
+UserName: chosen_frozen
+Rating: 6.7
+Date: Mar 16, 2005 5:37 am PT
+Review:  When it first came out, a good RTS, but there are much better ones now. There really is no reason 
+ to go back and play it again. Gameplay is painfully slow compared to what is out there now.
+  
+  If you have never tried an RTS, this might be one to start out with, but once you understand 
+ how they work. Move on to something else.
+  Even AoE 2 Age of Kings is a much better game. 
+  I will say that it was AoE that got me interested in RTS games. I enjoyed managing a civilization 
+ and trying to guide to victory. 
+  I consider Age of Empires to be the Granddaddy of the RTS genre. 
+::::::
+
+::::::
+UserName: Dessna32
+Rating: 8.9
+Date: Mar 8, 2005 9:57 pm PT
+Review:  Few games have ever achieved such greatness as age of empires has. Few games are better then Warcraft. 
+ Few games are ever so immerse. One of these few games that have done this is Age of Empires. Suprising 
+ has Age of Empires been with a never ending game that has fun and realism packed together. Its 
+ graphics and sound, back then, were pretty good and though they still lacked could be passed for 
+ its gameplay and longness. You have probaly played other RTS's where you would pass through the 
+ ages to create certain buildings and such. Guess where it oringnated? Yep, if you said Age of Empires 
+ then you are correct! it combines everyting you want of a good RTS plus more and is part of the 
+ video-gaming RTS history. No game has been this good since. 
+::::::
+
+::::::
+UserName: Everclearules
+Rating: 7.6
+Date: Feb 28, 2005 6:11 pm PT
+Review:  At first, I was amazed with this game. Truly fun gameplay, better graphics than any of my other 
+ games, and it had multiplayer! (Of course this was years ago) However, after a few weeks it just 
+ became too repetitive. 
+  
+  I have always enjoyed learning about ancient empires, so I really enjoyed being able to actually 
+ play with those empires. There really isn't that much history involved, but it's still fun seeing 
+ the different structures. Seeing all the different types of units in action was pleasant as well. 
+ For it's time, this was a really good strategy game, but it really doesn't compare to games today. 
+ 
+  
+  After a few games, it was just dull though. Yes, you could attack with a different combination 
+ of units, but it was still the same. There really wasn't 'another way' to do something. As with 
+ just about all strategy games, there's numerous races, all of which have their own special abilities; 
+ everything else is your basic strategy game as well. 
+  
+  It is old, so it's cheap, but there's so many better strategy games today there still isn't any 
+ point in buying this game. If you like collecting old games, then this would be a great purchase, 
+ but other than that I see no reason to buy this game. 
+::::::
+
+::::::
+UserName: KRAZY_JACK
+Rating: 9.8
+Date: Feb 27, 2005 6:48 pm PT
+Review:  Let me tell you this, if I had never played this I would have...
+  never played this. But that isn't the point now is it, oh no. This is the game that got me into 
+ stradegy games as this was the first one I played. I still play it even today. Here is the breakdown:
+ 
+  
+  Gameplay: 10/10 The game was challenging but not to where I couldn't win, which I like. The controls 
+ are easy to learn, and the computer AI is pretty amazing. Thier really isn't much wrong with the 
+ gameplay and the things that are, are just minor. I will not mention them.
+  
+  Graphics: 9/10 The graphics were great. The units looked fantastic and the buildings looked great. 
+ It was all good, until you started fighting. The animation could have been a bit better. It didn't 
+ look bad at all though. 
+  
+  Sound: 9/10 The sound was fantastic. It all made the game so lively.
+  
+  Value: If I didn't 
+ have it I don't think this reveiw would exist and I would go and buy it so that I could review 
+ it. If you don't have it get it. 
+::::::
+
+::::::
+UserName: CraigH123
+Rating: 8.3
+Date: Jan 31, 2005 6:15 pm PT
+Review:  I think Gamespot was a little off on this review. This game is a little under appreciated. Like 
+ I said it's definitely not perfect but we are talking 1997 here. It spawned a bunch of similar 
+ games in the genre of RTS with a ancient world spin, including it's great sequel AOE 2. 
+  
+  One thing that I really love in this game that I don't think get's enough attention is the campaigns. 
+ You go on historic campaigns and can learn about all of the ancient civilizations you can play 
+ in the game in a section of the game itself! We need more games like this where you play a fun 
+ game and learn in the process. 
+  
+  Gameplay 6/10
+  
+  The gameplay is probably the part of the game that is really lacking all but that's it in my opinion. 
+ Like the GS reviewer said, it sucks that you can't stack actions like creating villagers and farming 
+ and so forth. But it is fun and the technologies are very interesting and make good sense.
+  
+  Graphics 10/10
+  
+  Pretty good graphics in this game. Seems very good for the time it came 
+ out. The animations are very good also.
+  
+  Value 8/10
+  
+  Good, especially to learn some history, but you should probably get Age of Empires 2 instead unless 
+ you plan on getting them both because the second one has queues.
+  
+  Reviewer's Tilt 10/10
+  
+  No regrets about buying this game. 
+::::::
+
+::::::
+UserName: looksofat
+Rating: 7.8
+Date: Dec 6, 2004 1:56 pm PT
+Review:  Gameplay: The random map which is the normal game play mode can soon get boring. You have only 
+ 50 units available (!!!!) . Thankfully the designers managed to put in a great scenario editor that 
+ really increases the games gameplay. There are no limits in the editor ( once i had a full legion 
+ - 6000 soldiers against an enemy army...) so you can put on great battles. Gameplay- 9
+  
+  
+  Graphics: The game looks good. Graphics - 8
+  
+  
+  Sound: Quite boring unless fighting 
+ a massive battle via the editor. The sound becomes great when you have hundreds of swords clashing. 
+ Sound - 7
+  
+  
+  Value: The editor is really worth yr time and money for the game. Value - 7
+  
+  Tilt - 7 
+::::::
+
+::::::
+UserName: Rattlesnake_8
+Rating: 10
+Date: Oct 11, 2004 3:45 pm PT
+Review:  It's a pity GS gave it such a low score. This game was amazing when it first game out. Sure, it 
+ doesn't have a number of features that we have in more recent titles, and the graphics are now 
+ outdated, but thats because it is such an old game. It still is a classic game. It started an incredible 
+ series, so how could it be a bad game?! Worth getting, can be bought very cheap now along with 
+ the expansion pack. Although there are more recent titles to get, so anyone buying it now would 
+ be wanting to relive through some classic moments in gaming history. Worth having to add to your 
+ collection. 
+  
+  The game is outdated now, but when first released it amazed many people and started a huge following 
+ of fans which are still following (and loving) the Age of series. 
+::::::
+
+::::::
+UserName: -Ubergeek-
+Rating: 6.8
+Date: Sep 6, 2004 4:20 pm PT
+Review:  Right, so here's Age of Empires. Here's what I think.
+  
+  Gameplay 7/10: It's fair at best. It can be very exciting, yet it can also be very boring. For 
+ instance, a large battle is thrilling, yet watching your workers mindlessly move back and forth, 
+ collecting resources, is mind-numbingly painful.
+  
+  Graphics 8/10: The graphics are OK, actually. The interface could be better, but its fine as it 
+ is. They are one of the finer points of the game, with the clean textures, and good unit mapping.
+ 
+  
+  Sound 5/10: Yech. The sound is pretty bad here-as it gets repetitive. The same sword clang heard 
+ for the 1,000,000th time is really, really damn annoying. The music is ok, though.
+  
+  Value 6/10: Id bet you could get this at a very good price somewhere. Even so, I wouldnt recommend 
+ picking it up. There are plenty more good RTS games out there-ones that you should pick up instead.
+ 
+  
+  Tilt 7/10: Meh. Once youve beaten it, theres really nothing to go back to, unfortunately. Its 
+ an OK game, just not a great one.
+  
+  So, in my final words: Let this one pass. Its sequel is so much better-get it instead of this piece 
+ of failed ambition.
+  
+::::::
+
+::::::
+UserName: AtreusGS
+Rating: 7.6
+Date: Jul 23, 2004 10:06 pm PT
+Review:  Age of Empires is a good quality RTS game that I found fairly entertaining. But in the end, the 
+ game did not provide any innovations or twists to the genre to make it stand out.
+  
+  Gameplay: 7/10
+  Like most games of its time, there is a fair amount of micromanagement. The queue 
+ system is particularly helpful so that units can end up in locations that you prefer them... rather 
+ than have them sit around doing nothing. There are many times however, that you have to keep track 
+ of every unit, causing the game to be a bit frantic in later stages.
+  
+  Graphics: 8/10
+  The graphics are rich in color and pretty detailed compared to other games released around the 
+ same time. And for Microsoft's first venture into the genre, there is pretty smooth animation without 
+ any glitches. The mapping is solid, as are the buildings and units. The most impressive are the 
+ larger units.
+  
+  Sound: 7/10
+  The sound quality is good, albiet a little repetitive. There is not a lot of variety in the ambient 
+ sounds. However, the sound is well produced... just not anything special.
+  
+  Reviewer's Tilt: 8/10
+  Overall it was a very enjoyable game. But it has finite replayability. 
+ Because there is nothing that stands out above the pack, this game losses its appeal once you have 
+ "beaten" it. Playing with other people can add some excitement. But there is too much manage, even 
+ in comparison to games of the same year. 
+::::::
+
+-------------------------------------------------

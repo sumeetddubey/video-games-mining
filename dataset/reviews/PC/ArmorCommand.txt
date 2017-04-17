@@ -1,0 +1,102 @@
+-------------------------------------------------
+:::Game Name::: Armor Command
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/armorcommand/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: May 19, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7
+Critic Score: 5.6, 2 Review (s)
+User Score: 8.2, 39 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Ripcord Games
+Developer: Ronin Ent.
+Genre: Strategy
+Date:     Mar 31, 1998
+
+-------------------------------------------------
+:::Review:::
+Because of the game's, um, different interface, the two 3D views are interesting in application 
+ but almost useless in practice. 
+
+ According to the publisher's propaganda, Armor Command breaks away from standard real-time strategy 
+ game because of the "revolutionary intuitive interface," a "new brand of information warfare," 
+ with "multi-perspective design," 3D card support, and four-player network games. Plus the game 
+ is from the codesigner of X-Wing and TIE Fighter. Sounds like a pretty appealing package, right? 
+ Unfortunately, many of these additions don't necessarily make Armor Command a better game.   
+
+ 
+ The story is pretty straightforward. Earth is at war with an alien civilization called the Vrass, 
+ intent on destruction. Fleets from each race battle for a nebula full of planets. Large fleets 
+ cannot easily maneuver this nebula, so battles for each of the resource-rich planets must take 
+ place on the ground. You can play either the United Terran Federation or the Vrass Empire, each 
+ with its own selection of training missions and Tour of Duty campaign (22 missions per side) . Full-motion 
+ cutscenes are interspersed between the various missions, forming a more coherent and interesting 
+ plot.  
+
+ First off, Armor Command is a real-time strategy game with some interesting twists and turns. It 
+ utilizes 3D acceleration through Direct3D (or other in-game software routines) and has direct support 
+ for a number of 3D cards. The graphics should be pretty familiar to you: great textures, multicolored 
+ source lighting, and so on, similar in quality to other recent Direct3D games. Unlike other real-time 
+ strategy games, Armor Command offers a "floating camera" of sorts, including four different points 
+ of view: a top-down high view (what most real-time strategy players are used to) , top-down close 
+ view (zoomed in) , main low-angle 3D view, and high-angle 3D view. The 3D views are supposed to 
+ make the game unique, offering a more down-to-earth and personal point of view. Because of the 
+ game's, um, different interface (see below) , the two 3D views are interesting in application but 
+ almost useless in practice.  
+
+ The problem is that Armor Command requires both the mouse and keyboard, and proficient use of both 
+ is required in order to do anything useful. A left-mouse click will set a path for the target to 
+ move to, a right-mouse click will select the current target. Sounds simple? Well, a control/left-click 
+ will allow you to add waypoints, a shift/right-click will select that vehicle for control, and 
+ a shift/left-click will split or join vehicles into the current group. That's not too bad, but 
+ the problem is everything you have to do with the keyboard. Controlling your resources and building 
+ strategies are done only through a bevy of keyboard commands. You can't jump to different locations 
+ on the overhead map with the mouse.   
+
+ The problem is exacerbated in the 3D view, because the camera angle is determined by the cursor 
+ that directs your vehicles. If you want to look behind you, you have to slowly scroll the view 
+ around with the mouse. If the designers had done things the other way around, say used the mouse 
+ for the interface/command functions and the keyboard for helping scroll around the map (as in Myth: 
+ the Fallen Lords) , Armor Command would have been tremendously better.   
+
+ Some of the other features work a little better; radar and vehicles provide information on targets 
+ up to a certain range - a bit beyond that range the enemy units appear as symbols so you don't 
+ know what type they are. Certain constructs like mining vehicles and fixed gun batteries can be 
+ packed up and easily moved. While the two sides look pretty different, there isn't much diversity 
+ in the types of units available, so they fight pretty similarly. The artificial intelligence is 
+ about average for a real-time strategy game.  
+
+ So let's go back to the main question: Is it all worth it? Well, yes and no. The 3D view looks nice 
+ for a few minutes but is discarded for practicality's sake. There are multiplayer modem and LAN 
+ games to add some spice to the 40-plus or so missions, but that's about it as far as replayability 
+ goes. Armor Command in many ways is no different from a generic real-time strategy game: direct 
+ troops, destroy the enemy, develop your base of operations, exploit resources, and move on to the 
+ next scenario. If you're new to the real-time genre or you're just completely addicted to them, 
+ it might be a nice distraction from the standard fare. But veteran real-time strategy players will 
+ not find much to impress them.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: Aruna_lk
+Rating: 9
+Date: Sep 25, 2007 9:20 pm PT
+Review:  This was my very first game that i played on AMD 500 processor back in those days this game had 
+ everything. Player can play both sides close to 50 missions. Can change the map to 3 views and 
+ also to a 3rd person view. As a 1998 game AI programming was extremely good. this game provides 
+ various vehicles, like air, ground attacks &amp; ground defense.
+  also units can be grouped &amp; can sell (send back to the mother-ship)
+  any unit that you dont 
+ want in the battlefield. This game also had a good story line compared to the other games back 
+ in those days. 
+::::::
+
+-------------------------------------------------

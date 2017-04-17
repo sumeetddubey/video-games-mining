@@ -1,0 +1,460 @@
+-------------------------------------------------
+:::Game Name::: Star Wars: X-Wing Alliance
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/starwarsxwingalliance/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Apr  6, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.4
+Critic Score: 8.4, 10 Review (s)
+User Score: 8.8, 912 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: LucasArts
+Developer: Totally Games
+Genre: Space Combat Sim
+Date:     Feb 28, 1999
+
+-------------------------------------------------
+:::Review:::
+With X-Wing Alliance, Totally Games and LucasArts have at last delivered the game that many players 
+ had hoped X-Wing vs. TIE Fighter would be. 
+
+ X-Wing vs. TIE Fighter was one of the most anxiously anticipated and yet ultimately most disappointing 
+ games of 1997. While the addition of multiplayer features was welcome, most players were displeased 
+ that Totally Games and LucasArts focused exclusively on providing a multiplayer dogfighting arena 
+ and completely abandoned the plot-rich gameplay that made previous games in the series so addictive. 
+ The Balance of Power expansion pack responded to most of the complaints that gamers had concerning 
+ X-Wing vs. TIE Fighter, but by the time it arrived on retail shelves, most players had already 
+ moved on to other games. With X-Wing Alliance, Totally Games and LucasArts have at last delivered 
+ the game that many players had hoped X-Wing vs. TIE Fighter would be and in the process have created 
+ a suitably epic finale to their series of space sims based upon the first trilogy of Star Wars 
+ movies.   
+
+ While the campaigns of the previous games in the series put you in the role of a relatively nondescript 
+ fighter pilot and let you participate in some of the key events depicted in the first two Star 
+ Wars movies, X-Wing Alliance features a more ambitious campaign. You play as Ace Azzameen, the 
+ youngest son in a family of merchant traders who are destined to become embroiled in the growing 
+ conflict between the Rebel Alliance and the Empire. Just as your character's family and associates 
+ have begun to embrace the cause of the Alliance, a rival trading clan, the Viraxo, has sought to 
+ ally itself with factions of the Empire. During the 53 heavily scripted missions composing the 
+ campaign, Ace Azzameen will heroically progress from being a neophyte pilot of his family's Corellian 
+ transports to playing a major role in the culminating Battle of Endor against the Empire's second 
+ Death Star. During a prologue lasting several missions, Ace will be limited to flying a couple 
+ of Corellian transports, one a kissing cousin of Han Solo's Millenium Falcon. While you'll actually 
+ get the opportunity to fly the Millenium Falcon in the game's final missions (one of X-Wing Alliance's 
+ favorite marketing jingles) , you'll spend far more time in the cockpits of the other transports. 
+   
+
+ The transports aren't quite lumbering capital ships, but they do handle quite differently from the 
+ comparatively nimble Alliance and Imperial fighters, and their formidable rotatable cannons can 
+ effectively autotarget and dispatch enemy craft, making them a refreshing addition to the series. 
+ After these prelude missions, Azzameen will join the Rebellion and have access to the usual cast 
+ of Alliance vessels: X-Wings, A-Wings, Y-Wings, B-Wings, and puny Z-95s. For the remainder of the 
+ game, you'll mainly fight military missions similar to those in prior games in the series, but 
+ occasionally you'll be called upon to hop back in the family transport to help out your kin. As 
+ in previous games in the series, the campaign is completely linear, and some of the missions are 
+ quite difficult - although not as frustratingly arduous as some of the missions in X-Wing vs. TIE 
+ Fighter were when flown by a single player - and you can get a few often-helpful hints when debriefing 
+ after a failed mission. You must successfully complete each of the "family" missions to continue 
+ the campaign, but you can skip up to three of the Alliance missions if you want to quickly pass 
+ by a few of the more challenging missions. Apparently Admiral Ackbar and crew don't always need 
+ your help after all.  
+
+ During the missions in which you control a transport, you'll be responsible for docking with and 
+ transporting various containers, but otherwise mission objectives aren't particularly original, 
+ generally requiring you to escort and defend key ships, eliminate all the fighters and other defenses 
+ in a target area, inspect all the ships in a convoy, and so on. The mission design is extremely 
+ varied and almost uniformly excellent, as almost all of the missions involve a few unique twists, 
+ and frequently your objectives will change in response to unforeseen events. Similarly, instead 
+ of inundating you with the same three or four repetitive wingmen taunts, most of the dialogue in 
+ X-Wing Alliance is uniquely scripted for each mission. Since the quality of wingmen chatter in 
+ space sims has only incrementally improved since the concept was introduced in the early Wing Commander 
+ games, X-Wing Alliance's comprehensive intramission dialogue makes each sortie a compelling experience 
+ that draws you further into the gameworld. During the course of a mission your wingmen and crew 
+ may discuss other occurrences in the Star Wars universe, including events depicted or referred 
+ to in the movies, evaluate your mission objectives, or just discuss their personal wants and needs, 
+ such as your warmongering droid companion's habit of gleefully encouraging your siblings to stomp 
+ any potential enemies in the area. Combat can occur in several different hyperspace zones in each 
+ mission, each accessible only through hyperbuoys made active in response to scripted events, requiring 
+ you to achieve your objectives in a zone in a timely fashion to avoid being overwhelmed in a subsequent 
+ mission zone. While the heavily scripted nature of the missions certainly makes them more immersive, 
+ it also occasionally causes problems within the game.   
+
+ Involuntarily triggering a scripted event too soon can render a mission unwinnable, and occasionally 
+ the mission dialogue will progress as if you've completed all of your required chores within an 
+ area, although you'll subsequently discover (by reading a "mission failure" screen, if you're not 
+ keeping a close eye on the status of your mission objectives in your HUD) that you omitted an important 
+ task. In spite of these occasional problems, the game's mission design is definitely one of its 
+ strengths, and there are some great new little touches that make the gameworld seem more alive 
+ than ever, such as the manner in which escape pods blast from heavily damaged ships, spacefaring 
+ luxury yachts and similar civilian craft flee for the nearest hyperbuoy after a battle breaks out, 
+ or the way pilots occasionally eject from doomed craft and haplessly float through space as amusing 
+ targets. Bye-bye, floaty.  
+
+ X-Wing Alliance uses a modified version of the X-Wing vs. TIE Fighter engine, and core gameplay 
+ is substantially similar in both games. Ships are more maneuverable at one-third of their maximum 
+ speed, and effectively allocating energy to your craft's weapons, shields, or engine in response 
+ to new circumstances is vital to successfully completing most missions. The game's larger battles 
+ can now involve dozens of fighters, and since fighters remain quite fragile, situational awareness 
+ is more crucial than ever. While charging haphazardly into a wing of five or six TIE fighters could 
+ be an effective strategy for accurate marksmen in previous games in the series, in X-Wing Alliance 
+ you'll occasionally run into 24 or more TIE fighters, making a direct assault a briefly exhilarating 
+ but suicidal ploy.   
+
+ The game's interface has been modified from the one used by X-Wing vs. TIE Fighter, presumably to 
+ make more information readily available to you. The horribly cartoonish cockpit artwork used by 
+ X-Wing vs. TIE Fighter has been replaced with far less intrusive semitransparent versions, but 
+ I suspect that most players will still turn the cockpit off to maximize their view of the gameworld. 
+ A padlock view has been added to let you quickly track your target's location relative to your 
+ craft, but activating the padlock view also annoyingly automatically turns your cockpit art back 
+ on, regardless of your previous setting. While X-Wing vs. TIE Fighter let you pull up a variety 
+ of heads-up displays to provide you with the status of friendly or enemy craft, your mission objectives, 
+ text of wingmen messages, or similar information, X-Wing Alliance replaces all of those HUDs with 
+ two separate multifunctional displays. You can display the same sorts of information in the new 
+ multifunctional displays, but obviously you can only use each display for one purpose at a time, 
+ which limits the quantity of information immediately accessible. Since each of the new displays 
+ is more obtrusive than any of the older versions, the redesigned interface isn't necessarily an 
+ improvement. Fortunately, you can turn off those displays you find less useful or obstructive. 
+   
+
+ Wingmen and enemy artificial intelligence remain excellent, and ships with turrets are now very 
+ capable of shooting down missiles heading towards them, forcing you to "dumb-fire" torpedoes and 
+ similar weapons to maximize their effectiveness. Wingmen are now capable of identifying objective 
+ craft, making inspection missions considerably less troublesome, although you should always independently 
+ verify that your wingmen have completed their inspection tasks. You can also specifically direct 
+ your wingmen to disable opponents or to attack a capital ship component or a particular type of 
+ enemy. Since you'll occasionally be flying with large groups of wingmen, there are also several 
+ new formation commands you can use to further organize an assault. Surprisingly, the development 
+ team failed to add hotkeys for the new wingmen commands, and the somewhat cumbersome nature of 
+ the new multifunctional displays makes the new commands considerably less helpful than they otherwise 
+ might be. But it's great to be able to order your wingmen to attack just the bombers, or enemy 
+ torpedoes, converging on a friendly task force or to disable fleeing mission-critical craft that 
+ are too far away for you to stop.  
+
+ X-Wing Alliance's 3D-accelerated graphics are impressive, even in a genre in which outstanding visuals 
+ are becoming the norm, and resolutions of 1024x768 or even higher are quite playable if you have 
+ the necessary hardware. Colored lighting and lens-flare effects have been added to the core X-Wing 
+ vs. TIE Fighter engine, and many of the ship models and textures have been redone. Ship explosions 
+ are relatively basic, but there are some good new shield and lighting effects, and the disabling 
+ effects of ion weapons are now graphically demonstrated in convincing fashion. Some of the new 
+ textured models, such as those for the A-Wing and the Y-Wing, are exceptionally well done, while 
+ others look far less detailed, making me wonder if the development team prioritized the importance 
+ of commonly seen models or just ran out of time when redoing the graphics used in X-Wing vs. TIE 
+ Fighter.   
+
+ Using an external view of a ship, you can zoom right in until you can see the pilots in considerable 
+ detail. Overall, the graphics are considerably brighter in tone, and less over the top, than those 
+ used in Descent: Freespace or Wing Commander Prophecy. 3D sound effects are also supported but 
+ are somewhat buggy in the initial release of the game, and LucasArts has indicated that it is working 
+ on a patch to fix various 3D sound issues. Competent force-feedback effects are also included, 
+ but they are not as well implemented as they are in Descent Freespace or the current version of 
+ Independence War. There are a dozen new and generally well-done animated cutscenes littered throughout 
+ the campaign, and in keeping with the more character-oriented nature of this installment in the 
+ series, these scenes occasionally depict key individuals from the game (and the movies) as opposed 
+ to those in Balance of Power, which just showed spaceships. Unfortunately, the tilted but generally 
+ unmoving heads used to portray characters are quite unconvincing, and the characters all look like 
+ clones of one another. While the introductory cutscene is particularly good, the final ones essentially 
+ just reproduce, less effectively, key scenes from the end of Return of the Jedi. The concluding 
+ scene is particularly brief and anticlimactic. Between missions you can enter a simulator to replay 
+ previous missions or to create your own skirmish engagements using the built-in mission editor. 
+ Once your character joins the Rebellion, you can also review a technical library that displays 
+ key information on all known craft, or you can prove your prowess on various training courses designed 
+ to test your flying and shooting skills. You'll earn a series of medals and promotions during the 
+ course of the campaign, and in many missions you'll also pick up mementos that will be prominently 
+ displayed in your quarters, eventually transforming your home into a junkyard of trinkets. In your 
+ quarters you can also access e-mail messages, which advance the game's plot and develop some of 
+ the characters you'll encounter, although you'll also occasionally receive useless "get rich quick"-type 
+ messages, conclusively proving that spam messages were just as popular "a long time ago in a galaxy 
+ far, far away" as they are today.  
+
+ For this concluding chapter in its series of space sims based upon the initial Star Wars trilogy, 
+ the development team has brought back all the ships featured in other games in the series, including 
+ the deadly TIE defenders and missile boats (although the latter fail to make an appearance in the 
+ campaign) , and also created a large number of new ones for the use of the myriad of smugglers and 
+ civilians that appear in the game. X-Wing Alliance lets you play skirmish or proving-ground racing 
+ missions multiplayer, but the failure to include a cooperative multiplayer mode for the campaign 
+ is inexplicable and a major disappointment, especially considering Balance of Power fully supported 
+ multiplayer campaigns. The player-ratings system is still extremely punitive for players who prefer 
+ to battle AI opponents, even on the hardest difficulty level, instead of less-predictable, but 
+ often less-adept, human adversaries. Although the skirmish mode lets you easily create dogfights 
+ using any of the ships available in the game, including the massive Super Star destroyers and the 
+ Millenium Falcon, there are only a handful of premade multiplayer missions included with the game, 
+ and they are considerably less complex than the campaign missions or those included with Balance 
+ of Power. Playing X-Wing Alliance multiplayer also lets you fly any of the Imperial fighters featured 
+ in the game, and up to four players can play the game together online at Microsoft's Gaming Zone, 
+ which is an easy forum to hook up with other would-be Imperials or Rebels.   
+
+ Unfortunately, while playing many of the missions near the end of the campaign, I couldn't help 
+ but feel that the game was rushed out to allow LucasArts adequate time to focus attention on its 
+ upcoming games based upon Episode I. Promised features, such as the ability for two players to 
+ simultaneously fly in a transport, were ultimately excluded. Similarly, a camera mode that let 
+ you replay your missions was taken out, but the concourse graphics weren't redone to remove the 
+ door that was supposed to lead to the camera room. Even though the campaign is completely linear, 
+ there are several scripting errors that result in your character prematurely receiving awards or 
+ e-mail messages for missions that haven't yet been completed. The story-driven campaign ultimately 
+ lacks meaningful closure, and even the epic Battle of Endor is somewhat unfulfilling, although 
+ the final mission is highly original and well done. In spite of these flaws, most of which are 
+ quite minor, X-Wing Alliance's huge story-driven campaign, detailed and varied missions, enhanced 
+ graphics and sound, capable mission creator, and multiplayer features collectively make it a very 
+ good game and a solid conclusion to the series.    
+-------------------------------------------------
+:::User Reviews::: (12 Reviews)
+::::::
+UserName: nintendoboy16
+Rating: 8.5
+Date: Apr 16, 2008 9:09 pm PT
+Review:  Star Wars: X-Wing Alliance is a Star Wars game that is set between episodes 5 and 6. The story 
+ starts as Tomaas Azzameen being escorted out of Hoth, but he gets ambushed by an Imperial Star 
+ Destroyer. So the 2 rebel pilots hold them off and Tomaas escapes to Twin Sun station where is 
+ brother, Anton Azzameen, works at. Tomaas asks Anton to repair his sip, the Otana (A YT-2000 Corellian 
+ Transport) , but Anton refuses so Tomaas heads home and asks his kids Aeron, Emon, and Ace Azzameen 
+ to help with his jobs. The youngest, Ace was a sensational pilot after his first chore.
+  
+  What I liked about this game is that the new ships kick serious butt. Intense space combat. Familiar 
+ characters such as Luke Skywalker and Admiral Ackbar. Familiar ships.
+  
+  What I didn't like is that the graphics are good up to a point. The Y-Wing is a pain to control. 
+ Emkay couldn't keep quiet for the next 2 minutes.
+  
+  Overall, this is a great Star Wars flight game. With the new ship called the Otana, I love it more 
+ everytime I play the game. 
+::::::
+
+::::::
+UserName: garlor
+Rating: 7
+Date: Feb 14, 2008 10:04 am PT
+Review:  if tie fighter wouldn't have come before this game would be a 9, but it's a 7 because it lacks 
+ the great missions TF had, and even more, it has some bugs and script problems, and btw, flying 
+ in a yt2000 or 1300 is nice, but flying almost only in it .... is tiresome
+  
+  what has been of the great attacks with a T/B or BW on an enemy frigate or isd?, what about the 
+ continuous dogfighting ( sometimes I still think on that mission when you fight with a T/A alone 
+ agains a 24 of them and in the middle you have to identify a corvette ) , because if there's a lack 
+ of something is about dogfighting, you take your YT transport with it's top laser and just target 
+ T/F and order the turret to shot at it, how boooooring, give me an AW or an XW and let me get into 
+ the melee, let me take energy from lasers to refill my lowered shields, make me put throttle to 
+ 33% to be able to turn fast enough to shot that T/I
+  
+  it's a pity what they could have made and finally this game, it's nice, but too much simple 
+::::::
+
+::::::
+UserName: btindall
+Rating: 9
+Date: May 21, 2007 10:20 am PT
+Review:  I really enjoyed playing this game. It's a sequel to Tie Fighter (I look past the disappointing 
+ X-Wing vs. Tie Fighter) , and Tie Fighter is one of the greatest games ever made. The fun is definitely 
+ still here and more. In addition to the rest of the ships, you get the chance to fly the Millennium 
+ Falcon, or a ship much like it, and it's fun doing that too. The story is very involving almost 
+ all the way through.
+  
+  I say almost all , because the game's biggest weakness is that the story falls apart near the end. 
+ I'm not sure what they were thinking, but I'm guessing it was something like this: that they had 
+ a great story planned similar to X-Wing's, the original game. In that game you basically flew as 
+ part of the Alliance's fighter force, and eventually were caught up in the death star battle which 
+ culminated the first movie, and got to fly through the trench like Luke Skywalker did and blow 
+ up the death star. It all tied together nicely and was very fulfilling.
+  
+  You'd think that would be the goal of X-Wing Alliance too, that you would deal with the death star 
+ in the third movie much the same way, a great story culminating in exhilarating victory.
+  
+  Not so. My guess is that someone higher up the chain at Lucas Arts said, no, you can't do that, 
+ because that's not exactly what happened in the movie. As a result the ending of the game just 
+ falls apart. Sure you get to blow up the death star, but by that time you are so confused about 
+ what happened to the story, that you're not sure if any of it makes any difference. It's goofy, 
+ and it destroys what should have been the best game of the series.
+  
+  I may be wrong about why this game got messed up, but the end result is that it IS messed up. Too 
+ bad, because the game is a lot of fun up until that point. And it's still fun to blow up the death 
+ star even after that. It's just so much of a non-sequitur!
+  
+  There's a few bugs in the game too, that they never bothered to fix, unlike the earlier games. 
+ So... really good game, but falls short of expectations which were raised by the earlier games. 
+ Talk about shooting yourself in the foot! 
+::::::
+
+::::::
+UserName: RAW666
+Rating: 8.8
+Date: Mar 25, 2007 8:28 am PT
+Review:  X-Wing Alliance is a fun game that spans multiple areas of space in a Space Simulator. I don't 
+ tell you the story besides being betrayed and you don't know who betrayed you. You play a role 
+ as a Rebel pilot and family merchant and most of your fights well be against Imperials. But you 
+ run into many others enemies.
+  Story line though needs to be added, in the last chapter you be going like what happen next for 
+ itwill leave you hanging. Obviously they wanted to make a second game on this one but never got 
+ around to it. I tell you since you can't buy the game, it is that Uncle Anton is the traitor but 
+ he leaves before you can kill him. I wonder if someone make a story on Azzameen revenge. Oh well, 
+ great game even though it's outdated graphics wise but a well thought out story that Lucas Arts 
+ need to finish and upgrade. 
+::::::
+
+::::::
+UserName: CanadaJapanTop
+Rating: 9.6
+Date: Jan 13, 2007 9:11 pm PT
+Review:  Star Wars: X-Wing Alliance is the best game developed by Totally Games until now. This game is 
+ a great success in every aspect: game play, graphics, soundtrack, length, value and excitement. 
+ The game play is great: you may choose a whole hangar of spacecrafts in the skirmish mode and fly 
+ in over 50 missions. The graphics are really good! The soundtrack is the Star Wars movies soundtrack 
+ composed by the great John Williams so the music is absolutely great. This game is totally worth 
+ it and offers a thrill of excitement. For a 1999 release, this game is way high in the standards. 
+ Buy this game as soon as you can! 
+::::::
+
+::::::
+UserName: matthewlux
+Rating: 8.6
+Date: Sep 12, 2006 7:50 am PT
+Review:  This is a good game because it makes it feel what space combat in Star Wars is like. The graphics 
+ are mostly good, the sounds are ok, the gameplay is good even though the Battle Of Endor mission 
+ is timed and cut short for some reason and that takes all of the fun out of it, the value is good, 
+ and this is a really good if even old game. I would reccomend people to buy this game and to make 
+ sure they have a joystick for it. The whole campagain is over 50 missions long so it will last 
+ awhile for you to have fun with. 
+::::::
+
+::::::
+UserName: the_godfather_1
+Rating: 9.1
+Date: Jun 20, 2006 11:36 am PT
+Review:  Star Wars x-wing alliance is simply one of the greatest space sims you can buy it has a very good 
+ storyline that is very long and keeps you interested from start to finish. And also there are many 
+ differnt spacecraft you can fly in. 
+  You start off in this game by doing a few missions for your father and uncle and eventually your 
+ buisnes get's betrayed by one of your family members and you have to take refuge to the rebel fleet 
+ where you get trained and become a pilot for the rebels. This game is hard becuase you can die eazyly 
+ however there is an option where you can have unlimited laser wich makes it a bit eazyer becuse 
+ then you can transfer your lazer recharrge power to your shield recharge power. There is also an 
+ option to make yourself invulnerable however this takes a bit of the fun out of it. The action 
+ is great with lazers and missles. One thing i dont like about it that annoyes me in alot of games 
+ is the fact you never talk and i hate it whne the main charecter never talks. All in all this is 
+ a great game with great and varied missions and good combat with one of the best stroylines i ever 
+ seen in a game i would recommend this game to anyone who would like a good space sim 
+::::::
+
+::::::
+UserName: abbismonster
+Rating: 9
+Date: Jul 1, 2006 11:35 pm PT
+Review:  X-wing Alliance is great fun for anyone who still remembers the days of X-wing and Tie-fighter. 
+ It has a fairly interesting story, and an ok campaign, but the skrimish mode is where it really 
+ shows off. Designing your own missions and flying against a huge variety of enemies is great fun 
+ for anyone. The campaign can be boring and frustrating, but it has its great moments and fun missions, 
+ and offers quite a challenge at times, although this can be very frusturating. Multiplayer is fun 
+ the few times ive played it, but they unfortunately shut down the zone, although there is an underground 
+ of multiplayer x-wing alliance players still who get together to play the great game. The graphics 
+ are adequate, pretty dam good at times in fact, and the sound is great, although the voice acting 
+ isnt perfect or anything, it's ok. It also has a fairly immersive story. Overall, although it has 
+ its flaws, X-wing Alliance is still one of the greatest space combat simulation games ever made, 
+ and i reccomend it to anyone whatsoever. 
+::::::
+
+::::::
+UserName: fmafan3030
+Rating: 10
+Date: Mar 12, 2006 8:50 pm PT
+Review:  This is a great buy [for the time] believe the hype it is probably the best star wars game ever. Great 
+ sound, great gamplay, and great great GREAT skirmish.
+  
+  The skirmish is probaly the biggest reason to buy it, even if its from 1999 it is the gamplay that 
+ counts. If you want a good game that wont get boring after a while get it. Period. From the first 
+ to last level it is a great game never believe anyone who says its not a good game. Believe me 
+ you will love it, dont be an idiot and think old games are stupid this is in my top 3 favorite 
+ games. No halo, 
+  gta, or world of warcraft will beat this...... Period
+  
+  
+  
+  
+  
+  
+::::::
+
+::::::
+UserName: MrBlake
+Rating: 9.4
+Date: Mar 7, 2006 6:45 pm PT
+Review:  This game is an ideal Star Wars space sim, or an ideal space sim for that matter.
+  
+  Everything about it is excellent. From the graphics to the sound to the endless gameplay makes 
+ this space sim a keeper for sure. The online play adds soooo much, and it really is a challenging 
+ sim, which I wanted for such a long time, but hadn't gotten. Some people don't like it being a 
+ more difficult sim, but I do.
+  
+  I can't really spot any significant flaws in the game at all. Some parts could have been fleshed 
+ out more, but for the most part this game is exactly what the combat space sim community needed.
+ 
+  
+  Overall this game is one of the best space sims I have ever played. 
+::::::
+
+::::::
+UserName: suicidalfoetus
+Rating: 7.7
+Date: Oct 27, 2005 5:05 pm PT
+Review:  X-Wing Alliance marked the 4th iteration for a series which from it's outset was hailed as a space 
+ simmers wet dream. Every kid of 1977 who's dream was to be able to fly in an X-Wing and deal the 
+ final blow to the Death Star finally got their chance with the release of Lucasarts X-Wing. The 
+ focus was changed in the sequel to fight for the bad guys in Tie-Fighter and switched to multiplayer 
+ in X-Wing vs Tie Fighter.
+  
+  X-Wing Alliance marked a shift away from the multiplayer focus of X-Wing vs Tie Fighter and a return 
+ to the single player campaign focus of the previous 2 games. This was a good decision as Lawrence 
+ Holland and the team at Totally Games were able to tell a good story, using inventive scripted 
+ mission design to immerse you in the plot of the mission.
+  
+  The story puts you in the role of Ace Azzameen. The little brother of a trading family, who through 
+ the machinations of a rival family are forced to flee their home and join with the rebellion who 
+ they have covertly aided in the opening chapter.
+  
+  This gives you the opportunity to fly two freighter craft as well as the standard Rebel fighter 
+ craft throughout the course of the campaign. In order to give reason to this, occasionally you 
+ are called on by your family to perform a mission for them outside of the standard rebel operations. 
+ But the main meat and bones still lie with the combat in the fighters of old.
+  
+  Being a long time player of the series I was impressed with the new graphics engine that was created 
+ for the game. After the disappointing graphics of the previous title, which were not as accurate 
+ in modelling some ships as I would have liked, this felt the closest to taking part in one of the 
+ movies. Little glitches spoilt the effect like the wobbly cockpit on higher resolutions when flying 
+ the YT1300 freighter (think Millenium Falcon but not as powerful) .
+  
+  The missions were as inventive as ever, but because the game added the ability to hyperspace between 
+ sectors within a mission zone it didn't feel as focussed as it should have been. The combat was 
+ as visceral as ever, and if anything the game as a whole was much tougher than before but I felt 
+ that some of the magic of the single location zones was lost.
+  
+  A welcome return was the use of imuse rather than the streaming from CD of X-Wing vs Tie meaning 
+ that the music was always changing to fit the situation, cranking up as you battle the Imperial 
+ hoards and dying down in the quiet moments.
+  
+  For me I would have to say that I preferred to play the original two games in the series over this 
+ one. 
+::::::
+
+::::::
+UserName: scorpionfish2
+Rating: 8.1
+Date: Jun 9, 2005 5:42 pm PT
+Review:  In X-Wing Alliance you play as Ace Azameen. In the campaign you start out doing missions for the 
+ family business but after a bit you join the rebellion. There are a decent amount of missions. 
+ The best part of the game is the combat simulator in which you can organise large space battles. 
+ You can have between two and eight teams and there can be up to 16 flight-groups. Not every ship 
+ is flyable, but most of the fighters are. There is a variety of ships on the game including X-Wings, 
+ Y-Wings, TIE Fighters, TIE Interceptors, Imperial Class Star Destroyers and Super Star Destroyers. 
+ The controls are good and the graphics are great. The sound is superb, and the other fighters in 
+ you flight-group tell you when they are being attacked. You can give orders to individual fighters 
+ or the whole squadron. Overall the game is great, but it could be better. If you have a PC and 
+ like Star Wars you should buy this game. 
+::::::
+
+-------------------------------------------------

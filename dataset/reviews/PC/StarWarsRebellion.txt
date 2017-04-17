@@ -1,0 +1,611 @@
+-------------------------------------------------
+:::Game Name::: Star Wars Rebellion
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/starwarsrebellion/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Apr  8, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 4.5
+Critic Score: 5.0, 8 Review (s)
+User Score: 7.5, 665 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: LucasArts
+Developer: Coolhand Int.
+Genre: Strategy
+Date:     Feb 28, 1998
+
+-------------------------------------------------
+:::Review:::
+Buried somewhere inside Rebellion is an interesting, albeit familiar, game. But along the way, things 
+ break down, and conquering the galaxy becomes an exercise in tedium. 
+
+ Star Wars Rebellion dies the death of a thousand clicks. The promise of a strategy game set in the 
+ Star Wars universe had gamers positively quivering with anticipation. Images of Master of Orion 
+ with Imperial Walkers, or maybe Red Alert with Stormtroopers, danced through the minds of Star 
+ Wars fans and gamers alike. What LucasArts and the developers at CoolHand have given us instead 
+ is Spaceward Ho! with an infinitely more confusing interface.   
+
+ Buried somewhere inside Rebellion (titled Star Wars Supremacy in the UK) is an interesting, albeit 
+ familiar, game. There is a tactical space combat mode, some resource management, diplomacy, planetary 
+ bombardment, and other common space conquest elements. Unlike games like Spaceward Ho! or Master 
+ of Orion, Rebellion runs in semi-real time (it can be paused and speeded up) , which simply adds 
+ longer periods of waiting for actions to be performed. Darth Vader, Luke, Han, those annoying droids, 
+ and the rest of the crew are all on hand to add some character to the proceedings, and the overall 
+ visual and aural style is fine. But along the way, things break down, and conquering the galaxy 
+ becomes an exercise in tedium.  
+
+ The premise and approach are boilerplate. There is a vast galaxy of variable sizes (you choose from 
+ small, medium, or large) , which is composed of sectors that contain numerous planets. The Empire 
+ and the Alliance are struggling for control of these planets in order to further the victory requirements: 
+ to occupy the headquarters and capture two important enemy functionaries (such as Darth Vadar or 
+ Luke Skywalker) . The only gameplay option aside from galaxy size is to exclude character capture 
+ from the victory requirements, otherwise the goals of every game are the same. Each game is randomized, 
+ but that just affects the disposition of resources and planets. The actual pace and format of each 
+ game remain consistent.  
+
+ To fulfill these goals, you build mines and refineries on planets, create fleets, train military 
+ units, and set about bringing new planets under your sway by either force or diplomacy. By sending 
+ diplomats to neutral planets, you have a chance to bring them to your side without force. If you 
+ have enough firepower, you can just go into orbit and bomb them into submission, then send down 
+ troops to garrison. This is all abstract: Hit a button and the planet is yours (or not) . Realizing 
+ that this was boring, the designers grafted a tactical combat interface onto the strategic game. 
+ The solution was misguided, to say the least.  
+
+ Space battles can either be decided instantly or fought in a 3D view with a certain degree of tactical 
+ control. Capital ships and fighters can be given maneuver and attack orders, including formation 
+ (left and right hooks, the anvil, etc) , stand-off attacks, and other commands that only minimally 
+ affect the outcome. No matter what orders you give to units in this mode, the battle always seems 
+ to be won by the side with more and/or better units. All the moving cameras and 3D ships can't 
+ disguise the emptiness of this mode. And, while you can rotate and zoom the view, I could find 
+ no command to simply scroll it. There is no substance or nuance to tactical warfare, making it 
+ a cumbersome appendage to a game that can little stand such baggage.  
+
+ The greatest strike against Rebellion is its utterly confusing interface. If the designers had sent 
+ out to create a more Byzantine interface, they could not possibly have done any better. It takes 
+ multiple clicks to perform the most rudimentary tasks. Want to try to sway a planet to your side? 
+ Open the specific sector, use the people finder to look at characters, go through several screens 
+ to determine their diplomacy rating, right click on them, select a mission from the drop-down menu, 
+ click on the target planet, select the mission type from the pop-up box, and confirm. Want to build 
+ a ship? Use the galactic information display to highlight sectors with ports, open that sector, 
+ find which planet has the port, click on the manufacturing icon, open the build menu, and select 
+ the ship. Your little guide can help with this process a bit, but you still have to find and select 
+ the proper place to build, which is equally time-consuming. You also can't default the little bugger 
+ - either C3P0 or SD-7 - to shut up, so he rattles on at the beginning of each game played at the 
+ easy level.  
+
+ Complicating matters is a lack of readily available information. Want to know where all your factories 
+ are and what they're building? Go find each one. Want to see all the information on a planet? Click 
+ separate icons for defenses, manufacturing, and ships in orbit. Where one screen or menu would 
+ do the trick, Rebellion has three. Since there is really very little to the game itself beyond 
+ build ships/take over planets/repeat as necessary, this hunt-and-peck method of gameplay is what 
+ stands in for actual gameplay. Finding information becomes the game.  
+
+ It's all meticulously explained in a 170-page manual complete with 40 pages of tutorial. I searched 
+ the documentation in vain for some shortcuts to some of the most fundamental tasks. When a unit 
+ is sent out on a mission, you have to wait for it to return home before you assign it to a new 
+ mission. That means recon units fly halfway across the galaxy, do their recon, and return, only 
+ to fly right back to the same sector. Worse, the game is buggy and the AI is laughable. I've watched 
+ the Empire sit back and do nothing for weeks at a clip. I've had units disappear from the roster. 
+ There is stable head-to-head play over LAN and Internet (via the Zone) , but it doesn't relieve 
+ the tedium of the actual gameplay. And why are there no single missions or scenarios? Or any option 
+ to play custom tactical skirmishes?   
+
+ This is a sloppy game that bears all the hallmarks of being shoved out the door half finished. The 
+ same fundamental gameplay can be found in a vastly more entertaining form in both Spaceward Ho! 
+ and Stars!. As for giving Master of Orion a run for its money, it's not even in the same league. 
+ The strategy genre still lacks a decent Star Wars game, and the sad part is it didn't have to be 
+ that way.    
+-------------------------------------------------
+:::User Reviews::: (20 Reviews)
+::::::
+UserName: Lebowlski
+Rating: 7
+Date: Oct 11, 2008 8:23 am PT
+Review:  This is still one of my favorite star wars games! You get the opportunity to build your own galactic 
+ empire (either as the empire or the rebellion) . Control the galaxy either through sheer force or 
+ diplomacy. It sure had a lot of different features, including a "3d-battle" screen to control the 
+ massive battles between the empire and the rebellion. 
+  
+  Set-up is in 3 different difficulties. Colonize the outer-rim planets. Confince the core systems 
+ to join your alliance by diplomatic power. Force out the other party by winning battles, but make 
+ sure to do enough research to tip over the balance of power to your side and create a massive indestructible 
+ ground force, combined with a fleet comprised of all the ships you ever saw in any movie (not including 
+ the ep.1-3 ofcourse)
+  
+  If you like 'world-builders' and star wars, this is still a pretty good game to play. Not too hard, 
+ and not too shabby (i'm still not 'tired' of the graphic lay-out ;) ) .
+  
+  Downside of the game: the rather annoying management interface through which to 'micro-control' 
+ the universe ( all the clicking-away of every window just makes it tiresome to play sometimes) . 
+ Besides the nice-looking 3d-battle screen (for its time anyways) is not always that easy to use 
+ and can be rather confusing, although using it is adviced for smaller battles to diminish your 
+ losses and inflict greater losses on the enemy. 
+::::::
+
+::::::
+UserName: HAL0030
+Rating: 8
+Date: Jun 24, 2008 9:22 pm PT
+Review:  In Star Wars Rebellion, you can go either the Empire of Rebel Alliance. You have to gather resources 
+ differently to other games. You must build 1 Refinery and 1 Ore Mine in order to get Maintenance 
+ Points. Also, you can recruit a large variety of heroes throughout the course of the game and they 
+ can be assassinated or captured. You can command ridiculously large fleets, upgrade fleets to be 
+ dominant, have transports and gunships and fighters. Also you can build defence batteries and shield 
+ batteries. You can sabotage, espionage, Incite Uprisings, etc. You can also lose favour or gain 
+ favour on an enemy controlled world gain resources from it. There are up to 200 worlds to conquer 
+ and travel time between systems is relative to the fleets slowest ship. The game was before its 
+ time because you had to maintain large control as well as trying to find enemies on your many systems 
+ who are spying, sabotaging and inciting uprisings. The game moves in days and a day is determined 
+ by the speed. The fasted speed makes 1 day go by in about a second. Everything is detailed up in 
+ stats. From batteries, ships, capital ships, troops, heroes, etc. However, the stats of your heroes 
+ can vary from game to game. You can also do death star runs and control the battle in space by 
+ telling what kind of maneuvers the space ships can do. All in all, it was pretty hard and somewhat 
+ ahead of other RTS's in terms of control over a galaxy, fleet maintenance, random natural disasters 
+ and other minor stuff. Also, there was no actual population limit. 
+::::::
+
+::::::
+UserName: decoy415
+Rating: 8
+Date: Jan 10, 2008 9:27 am PT
+Review:  This is one game I will never stop fighting for. That is not to say that it doesn't have it's problems. 
+ And since it got such bad reviews, we'll begin there.
+  
+  Ship to ship combat was terrible. We all wanted the combat to basically be what Empire at War became. 
+ But it didn't get there. In fact it got to the point where you simple assigned targets, and watched 
+ people die. It was more cinematics than anything else. And the devestating weak spots in some of 
+ the ships made fighting in multiplayer just frustrating.
+  
+  Where this game really shined was in diplomacy and espionage. In fact, the game might have been 
+ better off leaving the space combat out. Instead they could have used the same system they already 
+ used for ground combat, where a few decisions were made and the results displayed.
+  
+  The most fun was in building huge fleets of Super Star Destroyers, multiple Death Stars, or training 
+ dozens of Jedi. Against a really good player, games could last months with Jedi killing Jedi, and 
+ fleets being torn to shreds, all the while tyring to fight a desperate covert war beneath the surface.
+ 
+  
+  This game was not given nearly enough credit. Reviews focused on the less than flashy graphics, 
+ when they should have seen a complex and fun strategy game underneath. 
+::::::
+
+::::::
+UserName: Jacen_G
+Rating: 8.5
+Date: Nov 18, 2007 11:22 am PT
+Review:  This game has one of the best strategy games. It has all sides to controlling the galaxy. There 
+ are various aspects within the game such as the diplomacy affairs to the big battles of super star 
+ destroyers versus bulkward battlecruiser. I tend to like the Galactic Empire more tho. The gameplay 
+ is very good and can grow on you. The bad parts of star wars rebellion are the tilt, and graphics. 
+ The difficulty settings arent very different. Easies can turn to hards if you give them time. The 
+ difference between them are just the number of systems you control.
+  All in all, the game can become pretty addictive and can waste some spare time. 
+::::::
+
+::::::
+UserName: Kewl_guy
+Rating: 9.5
+Date: Nov 9, 2007 1:43 am PT
+Review:  First off you can't beat the setting two words. STAR WARS.
+  
+  Yeah it is old know and the graphics are crapy. But man does it suck you in.
+  
+  It is a great 
+ game that has so much to it.
+  
+  The game is devided really into three sections
+  
+  Fleet-nothing is cooler than playing as the empire (yes that is right you can play as the empire) 
+ and bringing thirty Star Destroyers and an interdictor into battle. It may not be the best engine 
+ for a game but it is still cool. The battles are grand like they should have been in the movies.
+ 
+  Agent- Agents really are the backbone of the game. One can send Han and Chewie to an enemy planet 
+ to destroy a shield generator. Or Leia to a planet to try to convince it to join your side. There 
+ are twelve different missions for the agents and they can change the course of the war.
+  Army- Really the smallest part of the game. One can invade planets and defend them.
+  
+  There 
+ is also reasource management but it is very marginal and not time consuming at all.
+  
+  Definatly a game that brings me back once a year and it is almost ten years old. 
+::::::
+
+::::::
+UserName: laurichg
+Rating: 8.3
+Date: Apr 23, 2007 10:05 pm PT
+Review:  This game allows you to play either as the Rebels or as the Empire with the goal of defeating the 
+ enemy. You can do this with brute force, diplomacy, dirty tricks or a combination of the three. 
+ Each side has it's strengths and weaknesses and learning them is half the fun. In addition, you 
+ can choose two kinds of victory, base elimination or total war. The base elimination is the easier 
+ of the two, especially if you're the empire. Merely capture the enemy capital (or destroy the rebel 
+ base) and you win. Total war is harder since you have to not only capture the opposing capital 
+ and hold it, but you must capture the major leaders as well. In the mean time you'll be researching 
+ new technology, building forces, using diplomacy to woo neutral planets and fighting battles in 
+ order to win the day. Expect to spend time learning the tricks and save often so that if you lose 
+ your best planet you can go back and try again. This is an in depth game and will take time, time 
+ well spent. 
+::::::
+
+::::::
+UserName: kingrich06
+Rating: 3.6
+Date: Jan 24, 2007 7:45 pm PT
+Review:  This game showed great promise with the list of game play options. What seems to be the downfall 
+ of this game is those options. Menus and menus of options that is needed to build and expand your 
+ empire. Good thing this is a turned based game because to keep up youll require plenty of time 
+ per turn once your in the middle of the game. Sure there are a lot of familiar characters in the 
+ game but you get a lot of them and they seem to be much stronger than a whole unit. Your droid 
+ advisor is a nag when it comes to things you need to do. The soundtrack brings you memories of 
+ the movies but thats the only good thing. If you want feel like a bad accountant by all means 
+ play this game. Its just seems like 100% work and no fun. 
+::::::
+
+::::::
+UserName: InputOverlode
+Rating: 9.6
+Date: Dec 24, 2006 4:37 pm PT
+Review:  I picked this game up back in Summer of '98, and have been playing it ever since. I was amazed 
+ by the depth of the star wars universe that was portrayed. The ships for both the Alliance, and 
+ the Empire, were true to the series, both in design and implementation. The learning curve, at 
+ first, set me way back, and the game largely sat in the drawer for the first month while I poured 
+ over the game manual multiple times. (Granted, I was 11 when I got the game, it took me a while 
+ to figure out) . But once I figured out the controls, and what to do in various situations, I played 
+ the game non-stop. The fact that no two galaxies are ever the same, even right down to attribute 
+ points for the characters, is a major draw. You *can* use the same strategy time and time again, 
+ but to truly succeed you have to be able to be flexible. About the only issue, game play wise, 
+ is the wait times. You can sit there for 5 minutes, waiting for something to happen, and then be 
+ hit with an onrush of different events all at once. While this keeps one on ones toes, it also 
+ gets tedious, and sometimes, depending on the scope of the events, downright annoying. On a whole, 
+ as far as the strategic part of the game, its a bit enveloping. Its serves well to have a strategy 
+ set early on. You can change the information displayed about each planet at will, so you can keep 
+ up with what planets have what  and how many. The game also incorporates 
+ intel gathering, making it so you have to gather intelligence on the other side, in order for the 
+ GID (the main display for the entire game) to update information for enemy planets.
+  
+  And now, onto the tactical part. You can engage enemy ships in orbit around a planet. This isn't 
+ as tedious as the strategy part of the game, although it can be a bit dis-heartening when your 
+ ISD gets run off by 3 corellian corvettes. The graphics in tactical mode are poor, compared to 
+ the rather nice detail (for a game of this era) , in the strategy mode. One of the downsides of 
+ tactical, though, is that if you want to sit through a battle, you could well be sitting through 
+ a battle for 30 minutes, if both sides have large enough fleets. Even on the Novice setting, later 
+ in the game, when the AI finally starts sending fleets that are more than 3-4 ships, you'll maybe 
+ see 5-6 ship fleets. Depending on the make-up of the fleets, the battles can go quickly, but, like 
+ said, they normally take a good long while. 
+::::::
+
+::::::
+UserName: Mad78
+Rating: 9.3
+Date: Aug 2, 2006 7:43 am PT
+Review:  They say its the inside that counts, that saying is perticularly true for Rebellion. At the begining 
+ I thought it to be an overcomplicated and difficult game and put it away in a corner. A few weeks 
+ later i reinstalled it and started trying to understand it... I played 5 hours non stop and they 
+ seemed like 30 minutes. The game has really the capacity to pull you in and make you forget what 
+ is around you. Its just a pity the learning curve is so long. But once you have understood all 
+ the menus and options you can really get into this game and admit that it wasn't all that bad. 
+ With better graphics and a remade interface it could have been a hit. 
+::::::
+
+::::::
+UserName: Advocate
+Rating: 7.1
+Date: Mar 12, 2006 2:11 pm PT
+Review:  Many game reviewers of the time gave this game a very poor rating because they were too rushed 
+ to give it a proper review. The game required a bit of dedication to learn how to play and once 
+ the time was invested to learn, the game was quire trilling. The reviews reflected by Gamespot 
+ for this game are less than fair, but in most cases the details are accurate.
+  
+  The game was a real PITA to learn, but like said, once learned it was a real fun game to play for 
+ a while. The only issues with the game that irked me was once you figured out how the AI worked, 
+ game over. The Ai was hard to follow at first but then you learn that it always does the same thing 
+ each game. Once you understood this, well game over.
+  
+  The names of the ships they came up with was also kinda silly as well as some of the designs. One 
+ can safely say that there was very little imagination put into the details of this game. 
+  
+  However, until you figured out the AI, the game offered a lot of fun. I played it and could 
+ not stop thinking about it when I was at work. Rebellion was the first game that I have ever played 
+ that made me stay up all day playing and then call in sick that night so that I could keep playing 
+ it. I really enjoyed this game a lot. It was also the first game that I bought a second copy for. 
+ 
+  
+  I really wish that LA LTD would get off their collectives ***es and make a decent Star Wars 4x 
+ game. They seem to have the RTS versions down just nice, now its time for TBS 4x. Come one guys, 
+ its been almost a decade now.... GIVE US WHAT WE WANT! For a good example of a 4x game that can 
+ offer some meat for your hunger, look at space empires IV Deluxe sold by Strategy First. The game 
+ is highly moddable and has star wars ship sets.
+  
+  If Lucas Arts will come back to Rebellion and put some thought into it, modernize it, improve the 
+ game play, and add new races, then they might have a real winner in the 4x market. Until then, 
+ Rebellion will have to do. It really is a fun game once you learn how to play. So buy it and play 
+ it. Help keep it alive. Also there are editors and such available on line that can help make the 
+ game more fun. 
+::::::
+
+::::::
+UserName: JesusandPals666
+Rating: 7.9
+Date: Feb 21, 2006 10:37 pm PT
+Review:  Graphics wise this game dose not come close to revolutionary or outstanding but the gameplay is 
+ worth a look. I felt that it was addictive at first and often felt a need to play the game often 
+ but it is hard to master and if you have a sort attention span this will just be boring. It does 
+ have a lot of selection but if your not willing to devote some time to it then dont bother. This 
+ is truly a Star Wars game b/c it has every charecter, every planet, every starship, and much more. 
+ But it is to long, hard and un creative to be a good game. 
+::::::
+
+::::::
+UserName: Talonfire
+Rating: 6.5
+Date: Feb 20, 2006 9:26 am PT
+Review:  Star Wars: Rebellion was the first Star Wars real time strategy game, and it came out in 1998. 
+ It was met with very harsh reviews, but despite being a decent game in its own right; some of the 
+ shots at Rebellion were well deserved.
+  
+  In Rebellion you play as a nameless and faceless officer (fresh out of the Academy I assume) who 
+ must decide whether he or she wants to remain loyal the Empire or join the Rebellion. After you 
+ make your choice you are taken to your new flagship (Or in the Rebellion's case, the Rebel HQ, 
+ and then your flagship) where you will get a briefing on the situation in the Galaxy from your 
+ droid assistants. The game is set after the destruction of the first Death Star, so quite a few 
+ planets have openly defected to the Rebellion, but some remain loyal to the Empire and some refuse 
+ to support either side. This is where your task begins.
+  
+  In Rebellion your primary objective is to destroy or capture the enemy HQ and capture the opposing 
+ side's two dominant figures. If you are a Rebel Commander, your objective will be to capture Coruscant 
+ and then abduct Emperor Palpatine and Darth Vader. If you're an Imperial your objective will be 
+ to find and destroy the hidden Rebel HQ which is always on the move, and capture Luke Skywalker 
+ and Mon Mothma. Along the way you'll also have to battle Rebel Fleets and get planets under your 
+ control.
+  
+  Having planets under your control is essential in Rebellion, and the nice thing about the game 
+ is that you can sway them to your side in whatever way you want. You can control a planet out of 
+ fear by bombarding and assaulting them then keeping a garrison on world, persuade them to join 
+ your cause by sending one of your agents on a diplomatic mission, or inciting an uprising on an 
+ enemy world. Once you have a world under your control it is a good idea to construct mines and 
+ refineries so you can get resources to construct more capital ships, starfighters, and troops. 
+ The problem with this freedom, is that depending on your side the Rebels or Imperials can only 
+ effectively take control of a planet in one way, for example: The Empire is horrible at diplomacy, 
+ you can of course make your agents better by sending them on a slew of diplomatic missions, but 
+ for the most part you're better off assaulting a planet. The rebels on the other hand are better 
+ off using diplomacy and inciting uprisings.
+  
+  The combat in Rebellion is a mixed bag. Space battles let you issue commands to ships in a paused 
+ format, and then you can unpause and watch your fleet engage the enemy fleet. This combat can be 
+ somewhat dry since the ships just sit there blasting away at each other and usually do not express 
+ any desire to maneuver around or above and below their opponents. Starfighters maneuver, but it's 
+ more like watching a small 2d sprite zig zag back and forth. I generally "auto-resolve" space battles 
+ since the outcome is usually the same as what you'll get if you fight it out; it's just over a 
+ lot quicker. Space battles aside, the game doesn't let you take control of the ground combat at 
+ all. If you're assaulting a planet the only thing you can do is hope your trooper stats, and numbers 
+ are enough to overcome the enemy defenses which is a shame. You can usually weaken the enemy's 
+ hero\agent resistance by abducting or assassinating agents or heroes on that world (though it's 
+ usually wise to spy on the planet first to make sure that your target is still there) , and this 
+ can aid in taking planets.
+  
+  Rebellion's biggest problem is the clunky interface. In the control room you're allowed to have 
+ two windows open at once, you can minimize some of them, but in the end it becomes a chore to keep 
+ track of everything. Sending agents on missions can also be tedious; you'll be forced to open up 
+ the planet's ground forces window (and use the tracker if you forgot where they were since their 
+ last report) , open the location or individual you want to assign them to, right click your agent, 
+ select mission, and select from the list what you want them to do with the specified target. It 
+ is as tedious as it sounds, but you may not even mind the clunky interface eventually.
+  
+  The graphics in Rebellion even for their time are mediocre. Most of the game takes place in your 
+ flagship control room so the graphics there are understandable, and usually the scenes you see 
+ in your reports are even good, but the space combat is just plain poor. Capital ships are fairly 
+ large and 3D, but they are undetailed and look like something out of the DOS versions of the X-Wing 
+ and TIE Fighter games. The Starfighters are just small 2D sprites that zig zag back and forth in 
+ combat and the lasers are just as much an eye sore.
+  
+  The audio in Rebellion is your typical Star Wars fare. The traditional John Williams score plays 
+ in the background as you make your decisions aboard your flagship, and during space combat you'll 
+ hear classic Star Wars laser fire. Oddly enough, however; there is virtually no music during the 
+ space combat sequences which only adds to the dryness of them. It would have made the space battles 
+ at least somewhat dramatic.
+  
+  Rebellion is a solid RTS set in the Star Wars universe, it's not great and could have definitely 
+ had a lot of changes made to the interface. It could also have used controllable ground combat 
+ and a more interesting space combat simulation system, but if you like Star Wars it's worth a shot 
+ because for the most part (except for some small continuity errors since it came before the prequels) 
+ it stays true to the Star Wars mythos. If you don't like Star Wars or are neutral towards Star 
+ Wars and are just looking for a great strategy game; stay far away. The interface and dry space 
+ combat ruin what is otherwise a solid RTS that had much promise. 
+::::::
+
+::::::
+UserName: tracertGMR
+Rating: 9
+Date: Feb 9, 2006 10:09 pm PT
+Review:  Star Wars Rebellion is very complicated, has many nuances, and can easily scare off the casual 
+ gamer. But if you take some time and get to know it, youll discover an amazingly deep and enthralling 
+ game. Ive spent many late nights taking over a sector in a desperate search for the rebel stronghold. 
+ Ive delicately balanced the complicated galactic political scene while at the same time carrying 
+ out campaigns against enemy fleets. The thrill of finally taking that heavily guarded enemy system 
+ or finally crushing that huge fleet thats been chewing up your systems are amazing feelings. Dont 
+ let the complicated gameplay discourage you. Youll soon find yourself drawn in and chasing down 
+ those rebels or overthrowing the Empire in no time. 
+::::::
+
+::::::
+UserName: darthmaulian
+Rating: 8.5
+Date: Jan 26, 2006 11:05 pm PT
+Review:  I don't understand why Game Spot rated this game so low. Yes, it may be old, and it may not have 
+ the best graphics, even at the time, but it is still a great game. In light of the upcoming Empire 
+ at War, we should look back on this game and thank the developers for creating it. Empire at War 
+ seems to have pulled heavily from this game as far as the space combat section is concerned. Plus, 
+ this game could be seen as a precursor to the great Total War series. While those may be ground 
+ combat, and historically based, Rebellion provided the essentials found in that series: Conquest 
+ (taking over the galaxy, or the country in the case of Total War) ; Massive combat (with both capital 
+ ships and fighters) ; and the ability to either control the combat yourself or let the computer 
+ decide who wins, so you can focus on the bigger picture. Now, I'm not saying this game is perfect, 
+ I have had my frustrations with it, as I am sure most everyone who has played it has, but that 
+ does not mean it is not a good game. Paving the way for such great games has got to mean something. 
+ But standing alone, without being viewed as a precursor, it is still a great game, giving gamers 
+ the ability to immerse themselves within the Star Wars universe and enabling them to chose their 
+ side, Empire or Rebellion. Including all the great characters from the movies, and even a few from 
+ the books can't hurt things either. Yes, I did nearly scream at the computer a few times because 
+ the Death Star too so damn long to build, but thats part of the difficulty, you have to have the 
+ resources to be able to build one, and be able to hold your own until its done. I have yet to actually 
+ beat the game, but then I have not played it in a few years. I just felt sentimental and started 
+ looking back at all the games I own (quite a collection if I say so) , and saw the score this game 
+ received. I think the score is unfair, and I believe many people agree with me, as the user rating 
+ is sitting nicely at 7.5. The people have spoken! 
+::::::
+
+::::::
+UserName: rot3k10
+Rating: 8.3
+Date: Dec 15, 2005 6:31 pm PT
+Review:  It's graphic leave much to be desired. Although many mods are out which help, there are limits 
+ to the quality of the models. Based in the early days of the Rebellion, you can choose your side. 
+ I think a major thing that makes this game different is the space combat. Many RTS games have you 
+ fighting on the ground in a map that's only so big. Play is over more than a hundred planets which 
+ can trigger space battles. The best thing for Empire nuts, the Death Star. All, in all, you have 
+ to really like Star Wars to fully appreciate the system of play. 
+::::::
+
+::::::
+UserName: SWRC
+Rating: 9.3
+Date: Nov 8, 2005 3:14 pm PT
+Review:  First off let me admit I am a huge Star Wars fan. But I think this game was terrific. I bought 
+ my first Gaming computer just so I could play this game. The strategy involved had me hooked from 
+ the get go and being able to command my own Deathstar and load it up was very fun indeed. I will 
+ admit that if you held back too much then like most turn based strategy games it would tend to 
+ bog down but you can always automate the troop building and manufacturing and just get down to 
+ the business of tracking down and destroying the enemy fleet. 
+::::::
+
+::::::
+UserName: montzag
+Rating: 7.3
+Date: Aug 12, 2005 5:31 pm PT
+Review:  This game is better than I thought. Never before has a game captured the experience of being totally 
+ in control. Well, maybe that's not right, but a star wars game has never done it before and I love 
+ controlling ships and land forces and so on. Great features here. Interface is a little needlessly 
+ complicated. This makes the game just a click show, sometimes my arm actually gets tired of clicking. 
+ Nevertheless, I was that kid that always wondered what it would have been like if the Empire had 
+ won all those battles from Star Wars, this game is a perfect guilty pleasure. Do it yourself. If 
+ you are a starwars fan that has ever had those thoughts at least pick it up, it's not very expensive. 
+ 
+  The sound it put to very good use and John William's classic music sets the tone nicely and is 
+ set up in some very well done audio queues throughout the game. You will enjoy this. Graphics are 
+ lacking, but the game is old and it has to render large battles, so graphics never were first on 
+ the list, they wanted to capture the battles in a game that people could play on a non-super computer, 
+ so I can look past this.
+  
+  Character voices are nice and there is a great system of traits that they have assigned to let 
+ people have specialties and make them capable for certain types of missions over other people. 
+ This adds unending amounts of strategy to the game and makes for a lot of ways to do things. Strategy 
+ is the key to this game and it is pretty open ended, which is great and you can accomplish things 
+ however you want to do them. You can chose diplomacy or you can just blast the planet away. 
+::::::
+
+::::::
+UserName: BWSTSW2K
+Rating: 8.1
+Date: Apr 17, 2005 3:30 pm PT
+Review:  Star Wars boffins into their RTS games are going to love Rebellion for its depth, authenticity 
+ and sheer blissfulness. The game is also highly polished and about as true to the spirit of Star 
+ Wars as you could possibly get.
+  
+  John Williams breathtaking score is put to good use in Rebellion, with a perfect use of his many 
+ fanfares and key themes that are joyfully dotted about the game. The game wields his music, integrates 
+ it seamlessly into the mix and makes the experience that much more authentic.
+  
+  You can also expect a decent amount of voice work for the game, not least the true voices of Vader, 
+ Luke, Han, Leia and such. The only thing that lets it down is the not too convincing C3PO during 
+ the 'Alliance' side.
+  
+  So what is Rebellion? Well basically it is a map of the galaxy, with loads of little dots that 
+ represents each planet. In a nutshell, that is the graphical interface. Simple; yes -- deep; absolutely! 
+ At the start of the game you choose which side you want to be affiliated with; either the Empire 
+ or the Rebel Alliance.
+  
+  Whoever you choose to side with, the game picks up right after the events of A New Hope. The Death 
+ Star has just been obliterated at Yavin and so the rebels are still collected on the planet. If 
+ you play the Alliance, then your first job is to get your people off that world and go into hiding. 
+ If you are the Empire on the other hand, your job would logically be to hunt down the Alliance 
+ and crush them once and for all.
+  
+  Of course, you can play the game how you want. You can spend all your time building up your troops, 
+ massive fleets, conquering worlds, seeking out Jedi, turning your enemy from either the dark or 
+ light side of the force - anything. You can play it tactically, vengefully or just down right silly 
+ if you really want to.
+  
+  Make no mistake, this game is huge. Which ever side you are on, you have the option to build anything 
+ in the epic universe of Star Wars. The Death Star, Corellian ships, the infamous wedge-shaped Imperial 
+ Star Destroyers, Bothan Spies  anything and everything!
+  
+  If you meet an enemy ship in battle, the game brings up an option to progress in a few different 
+ ways. You can either automatically predict the outcome of the battle (quite useful in hopeless 
+ cases) , retreat or indeed dive right into a 3D space grid and duke it out. Though the graphics 
+ are quite crude by today's standards, the visuals havent lost their unique charm. Some of these 
+ battles can be awesomely epic, but remember, if you have gone wild with your fleet building, then 
+ the battles can become quite monotonous.
+  
+  Admittedly the game is quite hard to master. It may take you hours to figure out the interface 
+ and work your way around the many menu's and such, but once you do you will find a highly poignant 
+ game stuffed to the brink of that classic Star Wars mythos. You are in control of this galaxy and 
+ its yours for the taking, do as you will, build what you want, and may the force be with you!
+ 
+  
+  8.1/10 
+::::::
+
+::::::
+UserName: Darthpathfinder
+Rating: 8
+Date: Jan 29, 2005 8:48 pm PT
+Review:  This is a game that you have to be a fan of the films to like, many people don't like this game 
+ stating that master of orion is a better game. They might be right about that but it is still a 
+ good game letting you build ships from take planets and in the case of the empire blow some planets 
+ up if you wanted to.
+  
+  This game is the type of game where you say to yourself i will play for an half hour and end up 
+ playing for most of the day. In short this game lets you play as either the rebels or the empire 
+ and is set just after the film A new hope. You get to control key players of the star wars films 
+ and the EU from luke to vader, you also get to use ships from the films and the EU. Also as a side 
+ note as the empire you do get to build the DEATH STAR.
+  
+  The game graphics are not top of the line but they still do the job of tell you what is going on, 
+ sound and music is spot on from the films. Gameplay wise if you like it you will play it many times 
+ as both sides as i have.
+  
+  To close this review i say if you are a fan of the films but have not played this yet then you 
+ should try and find it.
+  
+  Also in the uk it is not called Rebellion it is called Supremacy.
+  
+  
+::::::
+
+::::::
+UserName: harden007
+Rating: 7.7
+Date: Aug 28, 2004 11:20 am PT
+Review:  A strategy game in real-time. Has a campaign map and zooms in for battles. Has a very easy to learn 
+ resource management and economy managing system. You need ore and resources to build and maintain 
+ your ships and units. I like this game. It's a simple to learn, hard to master kind of deal. the 
+ graphics are sub-par, and the sound is uninspired, but the gameplay and concept are great. I love 
+ being able to put Darth Vader in command of a fleet and send him into battle. I love being able 
+ to bombard planets and build death stars. This game is the only strategy game I have seen for the 
+ Star Wars genre (RTS not included) , and I wasn't disappointed. Also, somewhere on the web is a 
+ free "character and ship editor" in which you can edit your character's abilities, which side they 
+ can be recruited by and how likely they are to have force abilities. Just look up the game title 
+ and hopefully you can find it. ONE THING, to have a good time playing this game you will need to 
+ survive long enough to actually build-up your empire and forces. Usually one side or the other 
+ ends up defeated after not much gameplay. 
+::::::
+
+-------------------------------------------------

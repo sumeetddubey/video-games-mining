@@ -1,0 +1,1001 @@
+-------------------------------------------------
+:::Game Name::: GTR FIA Racing
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/driving/gtr/review.html
+-------------------------------------------------
+:::The Good:::
+ The finest car physics model to date.
+ Incredible number of options and customizations.
+ Gritty, complex audio.
+ Accessible to rookies and arcade veterans.
+ Excellent attention to practical and graphical detail.
+-------------------------------------------------
+:::The Bad:::
+ Dreadfully long track loading times.
+ Requires high-end computing power.
+ Potential multiplayer pitfalls.
+ Not enough prerelease fine-tuning.
+-------------------------------------------------
+:::Date::: Jul  1, 2005
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.8
+Critic Score: 8.6, 28 Review (s)
+User Score: 8.7, 699 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: 10tacle Studios
+Developer: SimBin
+Genre: GT / Street Racing
+Date:     May 3, 2005 &raquo;  
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+Despite its blemishes, GTR is the breath of fresh air this genre so badly needed. 
+
+  Not without its quirks, 10tacle's GTR is nonetheless a supremely engrossing, painstakingly intricate 
+ sports car racing simulator that's aimed principally at the ultrahardcore simulation addict, yet 
+ it wields enough versatility and fully customizable "detuning" to thoroughly indoctrinate newcomers 
+ and even please steadfast arcade racers. Is it, as has been noted in prerelease hype, the modern 
+ manifestation of Papyrus' remarkable yet crazily challenging and PC-killing 1998 benchmark Grand 
+ Prix Legends? If played at maximum realism and graphical detail levels, perhaps. But there's so 
+ much more to GTR that the parallel must end there. Certainly the developers at 10tacle Studios 
+ have hit the ground running with this, their inaugural effort. If you have the computing speed 
+ to run it and the patience to endure its few pitfalls, you likely won't find a better, more believable 
+ non-NASCAR racer in today's market.  
+
+          Featuring fully licensed, beautifully depicted automobiles and ultra-authentic physics, 
+ GTR looks as good as it feels - if your computer is up to snuff, that is.     
+
+  Unlike so many racing games, GTR does not focus on NASCAR-type "stock" cars or Formula 1-type open-wheel 
+ cars. It instead keys on the FIA GT Championship, a European-based series featuring high-end, high-level 
+ sports cars adapted for racing conditions. One of the many nifty perks of this approach is the 
+ inherent variety. The game sports nearly 20 unique drivable racecars (the box says 70, but many 
+ are simply repainted repeats of others) , including a wide assortment of Porsches, Vipers, Ferraris, 
+ and Lotuses. Some are considerably faster than others, and that's why both the real-life series 
+ and its fully licensed digital peer offer different classes. You decide which car and/or class 
+ you drive.  
+
+  And that's just one of a multitude of decisions you'll need to make before you hit the track. Indeed, 
+ one of the most notable aspects of this, a game that gears up primarily to satisfy the yearning 
+ of drivers who accept nothing but the most demanding parameters, is its approachability. This should 
+ not be lost on disciples of games such as Need for Speed: Underground or other like-minded arcade 
+ staples. To wit, GTR is not only one of the very best racing sims out there, but also one of the 
+ best arcade racers.  
+
+  Players that select "arcade" from the main menu are presented with a stripped-down and simplified 
+ version of the game that abolishes nuisances, such as garage modifications, qualification runs, 
+ race lengths, and other event parameter decisions. Arcade mode is further subcategorized into four 
+ distinct classes, each of which delivers a slightly more authentic experience than the one before 
+ it. The racing is a bit faster and far more forgiving than you'll find in the game's semipro and 
+ simulation modes, though even at its most simplistic, arcade still manages to showcase 10tacle's 
+ glorious, road-clawing physics model. Even in the easiest subcategory of all, aptly named "Sunday 
+ driver," there's no mistaking that you're really driving a car that contacts the road at four separate 
+ points.  
+
+  10tacle does, however, enforce an engine limiter throughout arcade mode that keeps you from running 
+ away from the field. The only way to rid yourself of that limiter is to leave the arcade appetizer 
+ behind and begin sampling GTR's meat and potatoes.  
+
+  At full bore and with all its numerous driver aids removed, GTR exhibits one of the most taxing, 
+ complex, and sophisticated driving models ever concocted for a PC racing title. Floor it hard from 
+ the start and you will most probably spin out. Leave your braking just a tad too late and you will 
+ head offtrack. Hit a rumble strip or a rough stretch of pavement and you're jostled about your 
+ cockpit like that little ball in a baby rattle. Bump a competitor a bit too heavily and you'll 
+ feel the resulting handling issues as your speed increases down the next straightaway.  
+
+  What is perhaps best about GTR is its subtlety and attention to detail. Rough pavement, wet-weather 
+ handling, braking, accelerating -- it's all infused with so much intricate physics that most drivers 
+ will have a tough time even coming to grips. Indeed, the GTR physics model is so good that many 
+ may feel they need to experience the actual tactile sensations of g-forces just to be successful. 
+ This can't happen of course, so the best approach is a smooth, unerring driving style, along with 
+ total and complete concentration, particularly during the first few opening laps when your tires 
+ are cold. You'll also need to quite seriously modify your technique when moving from one car to 
+ another, because 10tacle has simply pulled out all the stops in trying to make them as distinctive 
+ as possible.  
+
+  But wait -- there are other answers, too. By pressing the "I" key, you can ask the game's artificial 
+ intelligence to temporarily assume your driving duties. You can also request that your helpful 
+ crew chief/spotter verbally describe any damage you've incurred. Or you can hit the Replay key 
+ and monitor what the other guys are doing out there. In fact, when you're sitting in your paddock 
+ during a practice or qualifying session, you can pretty much observe whatever or whomever you want 
+ to observe via the game's stylish monitoring system. With all these accommodating perks, combined 
+ with an incredible number of difficulty and realism adjustments and an ultracomprehensive garage 
+ facility -- which thankfully offers numerous predevised setups -- patient drivers who want to succeed 
+ will do so. Eventually.  
+
+  Two final weapons in your arsenal come in the form of the MoTeC advanced dash logger and the MoTeC 
+ interpreter. You'll find the former right there in the cockpit with you, spitting out essential 
+ information and data that'll help you keep your bearings while you're on the track. The latter 
+ is far more advanced and infinitely more intricate. By toggling the MOTEC button while in the paddock, 
+ you'll open the external MoTeC interpreter application, where you can analyze virtually anything 
+ to do with your last lap or any other lap you've run to that point in time. Inside, you'll see 
+ a mind-bending assortment of facts, figures, graphs, and other visuals that deliver the inside 
+ scoop on your car and driver's performance. You'll also realize that opening the interpreter sometimes 
+ destabilizes GTR, thus forcing you to restart it. Regardless, serious gearheads will find much 
+ to like here, even if the interpreter doesn't seem to interpret everything it should.  
+
+          Sporting a sophisticated MoTeC digital display and a superb view of the action, the GTR 
+ cockpit is a great place to be.     
+
+  And don't think GTR is intended only for those who like to play alone. The game's multiplayer mode 
+ permits up to 56 drivers to compete via LAN or Internet -- theoretically anyway. In practice, we 
+ found stuttering and other frame rate problems when a dozen or more cars were on the track simultaneously, 
+ particularly when grouped together. We had much more success with a six-player game, where the 
+ only serious warping and momentary screen freezes occurred at the outset of an event.  
+
+  It's worth noting that we attempted online play only after installing patch 1.4.0.0, which addressed 
+ some of the earlier multiplayer issues. Still, the current online buzz would seem to indicate that 
+ not everyone is enjoying their Internet racing. Premature disconnections, lockups, and other assorted 
+ oddities are just some of the problems being bandied about.     
+
+  If it's any consolation, 10tacle does seem interested in after-sales service. For example, ours 
+ was just the latest in a rapid series of patches released for the game since its European introduction 
+ late last year. Moreover, a freebie add-on entitled "King of the Ovals" was released just last 
+ month, allowing drivers to ply their craft on a trio of imaginary NASCAR-type roundy-rounds more 
+ familiar to stock car fans. Truth is that none of the ovals deliver the same edge-of-the-seat excitement 
+ as the game's far more complex depiction of steeped-in-history road courses, such as Donington, 
+ Monza, Spa, and Magny-Cours, especially if you're driving at a low difficulty level.  
+
+          GTR's depiction of time of day and environmental variables is nothing short of stunning, 
+ though both will heavily tax your computer's resources.     
+
+  Furthermore, oval driving further exposes one of GTR's more glaring evils -- the inability of AI 
+ drivers to effectively handle even partial track blockades. If you create an accident or merely 
+ come to a stop anywhere on an oval (or a road course, for that matter) , you can clearly see a gaggle 
+ of confused competitors slow to a crawl or stop right along with you, waiting patiently for you 
+ to extricate yourself, even though there's plenty of room to squeeze by. On a more positive note, 
+ oval racing in the Semi-Pro or Simulation levels with driver aids off can deliver some addictive 
+ bumper-to-bumper action. Certainly the constant flow of traffic is something you'll rarely see 
+ on the wonderfully rendered but somewhat limited selection of road tracks.  
+
+  When not confronted with a semiblocked track, GTR's AI drivers are otherwise shockingly authentic. 
+ They'll dip and dive and move around looking for openings in an eerie mimicry of their real-life 
+ counterparts. They'll nudge and bump you -- especially if you've set their aggression level to "psychotic" -- and 
+ they'll dice it up with you door-to-door, as if an expert human player were behind the wheel. They 
+ don't exhibit the pack mentality common to so many other racing games, and they'll occasionally 
+ hit the grass or the sand if pushed too hard.  
+
+  GTR audio is far from pretty. And in a game that professes to be "the most realistic racing simulation 
+ ever," it's a very good thing. Road noise is particularly extraordinary, barking and rumbling and 
+ effectively translating the struggle of rubber as it fights to hold your car to the track. Tire 
+ scrub is deadly authentic -- varying from moment to moment and always keeping you informed. Engine 
+ notes and gearshifts are both exclusive to the type of car you're currently driving, and they're 
+ utterly convincing. Downshifts in particular have a wonderfully grating, mechanical sound, especially 
+ in some of the more esoteric vehicles.  
+
+  Conversely, car-to-car contact is curiously subdued and certainly not in keeping with the damage 
+ you may have incurred. Your crew chief/spotter is also on the quiet side, though he and virtually 
+ every other segment of the audible landscape may be increased or decreased in the overall mix. 
+
+  In a graphical sense, the game delivers a mix of goodies and is generally not a quantum leap forward 
+ from other recent top-level sims. That's not necessarily a condemnation, because other recent top-level 
+ sims have been pretty darn credible, but one of GTR's most conspicuous troubles is its hunger for 
+ computing horsepower. This isn't just a graphical need either, as the game also gobbles up CPU 
+ and memory for its ultrasophisticated physics modeling calculations.  
+
+  Between that and what would appear to be inefficient usage of 3D acceleration resources, GTR will 
+ exhibit occasional jumpiness and frame rate slowdowns on any machine that doesn't meet the  recommended 
+  system requirements. You can forget the minimum requirements -- they surely must be someone's misguided 
+ attempt at humor.  
+
+  Moreover, antialiasing seems to activate and deactivate depending on the complexity of the current 
+ scene. So while the game looks smoothly antialiased some of the time, it seems substantially more 
+ ragged elsewhere. These graphical hassles are most evident at the start of a race, or at any other 
+ time a large number of cars are grouped together, and the resulting impact can be sincerely frustrating. 
+
+  The solution? Downgrading the number of cars into the teens or single digits is definitely one 
+ of the best things you can do to salvage a good frame rate and maintain moderately high detail 
+ levels. Or, if you have the financial wherewithal, you can upgrade your PC -- a 3.0GHz CPU, 1GB of 
+ RAM, or a graphics card with at least 256MB of dedicated video memory are all great yet pricey 
+ fixes. A substantially more cost-effective and realistic answer is to utilize GTR's massive number 
+ of graphical tweaks to achieve a happy medium between beauty and function, or you can signal for 
+ your artificially intelligent "codriver" to take the reigns during particularly jumpy segments. 
+ The good news is that even on "low" detail levels, the game looks decent.  
+
+  No matter what you do, you won't find perks, such as pooling or reflective water, lens flare, or 
+ the highly sophisticated lighting effects of, say, EA's NASCAR SimRacing 2005. You will, however, 
+ experience variable weather, which not only looks impressive, but also plays havoc on tire selection. 
+ Pay particular attention to the degree of precipitation, because moderate rain isn't nearly as 
+ dangerous as a heavy downpour. Indeed, 10tacle's modeling of wet-weather handling is downright 
+ amazing.  
+
+  Watching day turn into night and night turn into day is an equally striking event, particularly 
+ as 10tacle has effectively captured all the associated nuances. One moment you're heading west 
+ facing the gorgeous orangey hues of a setting sun, and the next you're driving into a considerably 
+ darker eastern sky. The subtle variations along the way are simply beautiful.  
+
+  Drivers who appreciate racing's inherent violence will enjoy the game's approach to breakable cars. 
+ GTR cars shed parts, and those parts then bounce about the track and react with other automobiles. 
+ This is a rarity in racing games, where detached hunks of car generally lose their physical properties 
+ or harmlessly disappear. Granted, those parts break off along predetermined seams, but that's a 
+ petty complaint. Otherwise, crashes produce enough view-obscuring thick, black smoke and bright 
+ orange flames to be truly frightening.  
+
+          Having popped his bonnet and two right side wheels after deliberately driving reverse track, 
+ this driver suffers the cruel consequences of his stupidity.     
+
+  Sadly, a far scarier proposition is waiting in GTR's interminably ponderous track-loading procedure. 
+ Indeed, it's so bad at times -- particularly if you're entering a night or rain race with a lot of 
+ competitors -- you may think your computer has stopped responding. That 10tacle couldn't somehow 
+ deal with this issue before releasing the game is, to say the least, perplexing. And hey guys, 
+ a printed manual that covers more than just the absolute basics would be nice, too.  
+
+  Already hard at work at GTR's successor, GT Legends, and certainly offering plenty of postrelease 
+ GTR-associated goodies, 10tacle would appear to be in the racing game for keeps. And that's very 
+ good news for simulation fans, many of which continue to openly weep at the departure of Papyrus 
+ Design Group from the sim landscape. Despite its blemishes, GTR is the breath of fresh air this 
+ genre so badly needed. It is a great achievement that undoubtedly required a little more lab time 
+ yet nevertheless expertly points the way to the future of realistic racing games.     
+-------------------------------------------------
+:::User Reviews::: (24 Reviews)
+::::::
+UserName: luismoreno1992
+Rating: 8.5
+Date: Dec 29, 2008 9:42 pm PT
+Review:  This one's a very good and solid game from simbin. I understand that this is one of their first 
+ games (though not the first game by Image Space) . One of the good things in the game is the racing 
+ action of course. Until they check this game out, they won't expect such a big crowded racing pack. 
+ Over 70 cars to choose from and it is possible to race around 52 of them in a particular race. 
+ The bad thing about this is that too much and lead to annoying lags. Unless your system has the 
+ capacity for that, it is best to just stick to around half the field (25 cars) .
+  
+  A nice set of tracks would keep you happy in this kind of game. 10 tracks might be few, but good 
+ enough for an action packed season. They're richly detailed as well. And the pit garages are just 
+ as cool as the tracks. You can see the team running that particular area (ex - Scuderia team in 
+ one garage, Labere Competition in the other.) Speaking of the pits, another bad thing about it 
+ is that the pit crews are missing. And also, if you speed up the fuel usage, your opponents can 
+ all pit at once and cause a pit frenzy. This can turn out bad if you make a stop and hand over 
+ the wheel to your 2nd driver. If you're in the middle of it, your driver would end up stuck because 
+ of the traffic and could put you out of the race for stalling.
+  
+  The Spa 24h is probably a good addition to the game. Taking advantage of the driver switch feature 
+ in the game along with the save system, you can complete a full 24h race without worry or overnight 
+ stress. This is what Gran Turismo 4 lacked (no offense) . Sure in GT4, there's a time acceleration 
+ feature just like in this game, but why should you sit and wait for 8 to 24 hours just to win the 
+ prize? Also, the time acceleration in GT4 is just up to x3. Here in GTR it can go faster. Why is 
+ that?
+  
+  The Good: Great racing action. Good tracks and graphics and cars.
+  
+  The Bad: Some lags with the wrong specs, pit stop frenzy on scaled fuel and tyre wear. 
+::::::
+
+::::::
+UserName: rarson
+Rating: 2.5
+Date: Dec 30, 2008 3:29 pm PT
+Review:  Did I get your attention? I'm tired of people fawning over this game.
+  
+  Does anyone remember Sports Car GT? I do. I bought it back in '99 when it was released. This is 
+ the SAME GAME. No, seriously, I bought GTR 6 years later and found out that not only were the flawed 
+ physics still COMPLETELY intact, but that the graphics engine hadn't changed much at all.
+  
+  Talk about overrated. And the best part? Simbin continues to release new "games" that consist 
+ of nothing other than content tweaks to the same old GTR engine (which was basically the same old 
+ Sports Car GT engine) .
+  
+  I got tired of Sports Car GT pretty quickly. Not because it was a sim; I love racing sims. I had 
+ the Logitech Wingman Force wheel since before SGT and that was definitely the best way to enjoy 
+ SGT, but it wasn't enough. The physics in SGT are akin to the physics of GT4, only skewed in a 
+ different direction. Whereas GT4's cars seem to handle like bricks, SGT/GTR cars seem to handle 
+ like tennis shoes on an ice rink.
+  
+  The people who fawn over these "pinnacles" of racing simulation apparently have never *actually* 
+ driven a car around a race track. Game programmers seem to think that "simulation" means "hard 
+ to drive". GTR is the most overrated piece of crap in racing simulation history, and I probably 
+ wouldn't be saying that or complaining about it so bad if it weren't for the fact that I was tricked 
+ into buying it FIVE TIMES. Yeah, see those titles to the left of my review, under "Games you may 
+ like..."? GT Legends, RACE, Sports Car GT, GTR 2, and GTR are all the same game. If you're going 
+ to buy one of them, I would suggest buying GT Legends. It has the best selection of the most interesting 
+ cars out of all of them.
+  
+  Otherwise, I would suggest actually buying a decent game, like (ironically) Test Drive Le Mans 
+ for the Dreamcast (easily one of the best handling and funnest racing sims ever made) or TOCA Race 
+ Driver 3 (I haven't played any of the more recent Codemasters games, but I have been a fan of them 
+ since TOCA Touring Car Championship... the *original* TOCA game released in 1997) . 
+::::::
+
+::::::
+UserName: angelisaac
+Rating: 5
+Date: Dec 13, 2007 12:24 pm PT
+Review:  Actually, I have no problem with devs striving for ultimate realism in games like this. What I 
+ do mind is not making it approachable for the average joe gamer. This "game" looks, sounds, and 
+ feels cool on the initial run-through. It's when you want to experience more than just the quickie 
+ practice races that it falls flat. You must meet its expectations to experience the full game (i. e. 
+ career mode) , and unless you're hardcore, you're in for an endless exercise in frustration. After 
+ a few hours behind the wheel, I walked away in disgust. This could have been an awesome game, now 
+ its back on my shelf. 
+::::::
+
+::::::
+UserName: TunerSkyline92
+Rating: 9.1
+Date: Jul 27, 2007 8:47 am PT
+Review:  This game is very difficuit, with keyboard will be worse. With wheel steering force would be better 
+ then keyboard. Anyway, this game show the same how to drive in real live. Very difficuit, really. 
+ There have different level, Acrade-Easy Level, you can play it easily. Pro-Semi- Bit hard bit easy, 
+ you can play it bit easily. Simulation-VERY hard. VERY hard BUT FUN! And CHALLENGE!
+  
+  Go to another website, another website have different skins that you can download them and install 
+ with different skins with your prefer or you can made your own, go to another website to read the 
+ instruction to design the car.
+  
+  You may ask me about why rated worst on sound, because I am deaf, I cant hear everything, so I 
+ dont know about sound.
+  
+  WORTHY TO PLAY!! DIFFICUIT BUT FUN! 
+::::::
+
+::::::
+UserName: dudezer88
+Rating: 8.9
+Date: Oct 17, 2006 4:58 pm PT
+Review:  I was amazed by this game the first time I played it. The first thing that strikes you is the authenticity 
+ of it all. The second I started playing it I was startled by how realistic the physics are. This 
+ is about as far from a Need For Speed arcade racer as you can get. The problem with this is that 
+ it takes some getting used to in order to actually win races. Race experience changes drastically 
+ based on which track you're on and what the weather is like. Grip is drastically changed with change 
+ in temperature and of course if the track is wet, you'll lose grip very quickly. Unlike other simulation 
+ racers however, GTR simulates wet weather racing physics in a much more believable way, you always 
+ feel like you're on the edge of control and you'll often drift past that edge and end up in the 
+ gravel. Again, it takes considerable time to learn all the elements of a certain track, the car 
+ you're driving, and how the weather will affect your car. The difference in the way one car drives 
+ in comparison to another is usually fairly understated in most driving games, but in GTR each car 
+ has its own feel. All the cars of each class in the game have similar rates of acceleration and 
+ top speed, but they all feel different from one another. When you step into the AWD Mid-Engine 
+ Lamborghini Murcielago you won't mistake it for a RWD Front-Engine Viper, they look, sound, and 
+ feel drastically different.
+  
+  On the technical side, GTR has some very good visuals. The game is lacking in some of the latest 
+ effects seen in games but the high quality textures and models make the cars look really good. 
+ The environments look great as well, especially with the dynamic weather the game implements. The 
+ place where the game really shines is the audio department, engine noise is the best I've heard 
+ from a game. It's loud, gritty, and realistic. Tire squeals, rain, road noise, and pit radio chatter 
+ are all equally good. This is easily one of the most uncompromising racing simulators out there, 
+ but it's still easily accessible and very fun. I really enjoyed the authenticity and realism in 
+ this game. If you want a racing simulator that doesn't make compromises, this is the game for you. 
+ 
+::::::
+
+::::::
+UserName: bigboss33
+Rating: 10
+Date: Oct 11, 2006 12:43 am PT
+Review:  gtr fia racing is a great racing sim and i think this game is good on any necessary thing. graphic 
+ ,sound ,gameplay, control system ,anything. yeah i am talking about graphic ,its really good and 
+ really satisfing but if you compare the graphic with the system requirements .i mean graphic is 
+ simply best and since i am playing the game with 128 MB video card i say its great. another thing 
+ is sound and thats something i have problem with and maybe its my soundcard's problem any way sound 
+ is really good in game and very natural. the next thing is control system and its simple and great 
+ you can control the car with ease, you can undersatnd me if you played the gran turismo. by the way 
+ its a great game but the difficulty is to highand i thing its really hard ,you know i had problem 
+ finishing the rookie cups at fisrt .game has a many kind of matchsand
+  really good practice mode so you can learn a basic rules. that's all and at the end i msut say againg 
+ if you lookin for a great racing simulator
+  you're in the right place.
+  
+  
+  
+  if you lookin for a friend i am always here 
+::::::
+
+::::::
+UserName: c_hodges
+Rating: 9.3
+Date: Sep 27, 2006 12:59 am PT
+Review:  In a nutshell, this is one of the most realistic (if not the most to date) racing sims out there. 
+ In the previous years, is sim racing was dominated by Papyrus and their NASCAR sims. SimBin stepped 
+ up and revived the market with GTR. Gameplay includes singeplayer (which includes open practice 
+ and race weekend) , replay analyzer, and multiplayer. There are 3 modes of racing to cater all racer 
+ types. You'l get about 10 tracks and if you search around the internet, there are PLENTY of add-on 
+ tracks to add to endless hours of racing. If you have a high end system, GTR will look breathtaking. 
+ For a game released almost 2 years ago from this time of this writing, maximum graphic settings 
+ look awesome. Damage modeling is quite extensive. You can see (and feel) track details such as 
+ cracks in the track, tire skid marks left on the track well after they were initially laid. Car 
+ sounds are virtually spot on. Each car has their own unique sound. Throw in a great set of 5.1 
+ speakers and you'll surround yourself with 600+ hp cars all around you as you start a race. GTR 
+ may not be for everyone. Simulation mode basically requires a decent racing wheel to run competitively. 
+ This game is primarily driven by Euros and online gameplay is very competitive. The Euros you race 
+ against are very serious about it- just dont rub them the wrong way. By now, GTR 2 is out and there 
+ are mixed feelings. Some feel GTR 2 is easier and not as good as GTR. They feel SimBin dumbed down 
+ the physics. I think it feels the same, MAYBE a tad grippier but nothing short of challenging. 
+ I had alot of fun racing GTR, but it's time for this racing sim cat to retire GTR and move on. 
+ 
+::::::
+
+::::::
+UserName: gold90435
+Rating: 9.3
+Date: May 12, 2006 3:41 am PT
+Review:  GTR FIA RACING (2005)
+  
+  Gameplay: 10/10
+  Graphics: 9/10
+  Sound: 9/10
+  ----------------
+  Moral Values: 6/7
+  Fun Element: 5/7
+  Camera: 7/7
+  Traditionality: 6/7
+ 
+  Atmosphere: 6/7
+  MPAA Rating: 7/7
+  Plot: 7/7
+  Music: 6/7
+  Originality: 7/7
+  Likeability: 7/7
+  ---------------
+  Overall: 9.3/10
+  
+  Genre: Licensed FIA GT and NGT Championship 
+ Driving Simulator
+  Classic: YES
+  Worth Buying: YES
+  Playing Frequency: Once every year
+  
+  + : licensed product with all the GT and NGT cars and drivers, all licensed tracks featuring 
+ heavily detailed graphics, unbelieveably accurate gameplay simulation, fantastic detailed graphics 
+ for cars and environment, memorable music, arcade semi-pro or simulation modes with customizable 
+ realism settings and AI aggression, full championship atmosphere with all the weekend's practice 
+ sessions and worm-ups
+  
+  - : starforce protection, no commentary, simulation is so hard that many people may give up before 
+ learning how to drive properly, no championship option in arcade mode
+  
+::::::
+
+::::::
+UserName: Lasertoffe
+Rating: 9.6
+Date: May 7, 2006 8:48 am PT
+Review:  Even if I am more into bumper to bumper racing, this is one of the best racing games I have ever 
+ played. 
+  
+  One thing that struck me was that it was so hard right out of the box. That is always a good thing. 
+ A game with a long learning curve is a game that lasts long. 
+  
+  The details in the simulation is breathtaking. If you run out in the gravel you will end up with 
+ pebbles in the tires and that will make the car unsteady for a while. You REALLY feel when the 
+ tires are hot or cold. They have gotten the angle of the pavement in the tracks right.
+  
+  I love this game. It's up there with Grand Prix Legends. If you like a simulator more than a game 
+ then this is it for you. There's no Need for Speed style of "racing" in here... Not that there's 
+ something wrong with NFS but GTR is a true racing SIM. 
+::::::
+
+::::::
+UserName: bumbay
+Rating: 7.8
+Date: Apr 17, 2006 8:16 pm PT
+Review:  ahhhh.... gtr a great game mmmmm........ anyways gtr is a o. k gameO. K lets start with da gameplay. Well 
+ it is a sim so it is goin to be hard but there is 3 modes arcade, pro and sim i do sim it is hard 
+ but if u r good atit it is fun. graphics the game is so real lookin in-carviews, daylight but there 
+ is a chath u have to have a good grphics card 4 good looks. sound is perfect. the bad u need 2 have 
+ a good graphics card 2. loading time r long 3. multi player is bad bad bad. so gtr is a GOOD game 
+ chek it out be4 u buy it. 
+::::::
+
+::::::
+UserName: il2
+Rating: 9.3
+Date: Apr 4, 2006 9:48 am PT
+Review:  Many game all claim to be a realistic but this no doubt is at the top for realism. Everything feels 
+ so detailed, the cars and the track feel accurate. The tracks have minor bumps in certain and as 
+ the track gets used the grove line, (the path the cars will always take around a corner) gets more 
+ grip as rubber is laid and down and at the side rubber balls will collect up. You can see them 
+ but if you go there you will feel the loss of grip.
+  Here is a taste how detailed and well simulated this game is. The realism of this game is on par 
+ or even better than papyrus Nascar games realism.
+  Like all these games they all these hardcore sim games they are hard at full simulation but are 
+ the most rewarding and very addictive. You'll just keep on trying to get better and when you do 
+ you'll feel great. 
+  There is an arcade mode for novices too but this isn't very long as it is aimed at sim mode. Also 
+ there is semi-pro mode which an inbetween the two which can be good if your starting off but I 
+ couldn't feel much difference and to me you better off starting straight away in sim mode because 
+ you will be just wasting time.
+  There is only one complaint and it's not to do with the game but the manual. There is nothing in 
+ it and it is big problem for begginers. You won't know how to change your setup if your a novice. 
+ It's not the only game. There seems to be a trend with games these days. I don't know if they don't 
+ want to scare novices but to me it's more scarier not having a manual. If your new just get info 
+ off the net instead.
+  The main way you play this game is you first choose the realism of the game and then what you want 
+ to do like championship, one weekend race, practice or the best bit multiplayer. I would say multiplayer 
+ is no doubt the most fun but the other modes are great too. The most important issue is the AI 
+ drivers which are really good. They will try and take over you like in TOCA but are more careful 
+ like real drivers would be. 
+  This game is a true sim as there is nothing to unlock, everything track and car can be used. Which 
+ is just like your flight sims. The game as a similar attitude which is good. As every car is unique 
+ which gives you in a way plenty of replay value.
+  Now here is what I think is one of the best things about the game and that is the multiplayer. 
+ It makes the whole experience more because your driving real people and as the game is so realistic 
+ you never know what will happen because the guy you've been chasing infront of you might be a bit 
+ quicker but he screw up and put you ahead of him. So you'll have some really exciting races. If you've 
+ just started and you're not doing well there be plenty of people at your standard so you won't 
+ feel bad at all. 
+  You connect games on the net through the game it is really well done. The lobby will have all the 
+ games showing and give you all the info you need. The ping value is actually unimportant as you'll 
+ nearly always get good connections.
+  A very useful thing about the game is that you can download other people setups which is very handy. 
+ You'll need a good setup. The ones that are given on the game or okay but you be wanting to go 
+ faster and finding a good one is easy. This is really useful for the novices who don't how to make 
+ their own setup.
+  The graphics of this game is good. It uses directx 8 only. The cars are very detailed and directx 
+ 8 does a good job with the reflections and so on. 
+  All this realism and graphics do need a good PC to run it on but if you haven't you can turn down 
+ the graphics and not miss too much.
+  The sound for this game is great. All the cars have their own sound. The engine sound powerful, 
+ the gear changing noises have this heavy duty "clank" noise, and the wheels protest when they're 
+ abused. The sound is really good and is really useful to know how you are driving your car. When 
+ you first play it you'll be turning the volume up.
+  This game as got a good fan base and you can download skins, new cars and tracks. This game will 
+ be here for a long time and if your a hardcore simmer you will be coming back to this game time 
+ and time again. 
+::::::
+
+::::::
+UserName: wasimos
+Rating: 1.1
+Date: May 7, 2006 1:48 am PT
+Review:  I heard from every possible way, online about this game being so superb and stuff. This game just 
+ not slip to make a good first impression, it keeps on dissapointing you more as u discover it further.
+ 
+  
+  Lets talk about the graphics first. According to the tech requirements of this game, expectations 
+ naturally rise before you go for buying it. The game seriously lacks 'today's' technologies of 
+ advanced graphics. 
+  The fires through the exhausts during gear shifting are 2D textures! There are no pixel shaders 
+ as well. The tracks equipped with poor details of service crew and a few branches of trees. You'll 
+ really feel like playing an ancient game like Need for Speed 2 SE or so. There's more of it. The 
+ screenshots of this game are not as bad as I may sound. The trick is there; the vehicles are med-low 
+ polygoned ones with Hi-res textures. As the environments require extremely low texture memory, 
+ the bulk goes for the vehicle.
+  
+  Movements, of the cars are not well detailed either. Talking about simulations; F1 Career Challenge 
+ is a good example. And when you turn in the curves, the cockpit view is of no use, because the 
+ hood keeps on rattling ur nerves, distracting your attention from the actual way the car behaves.
+ 
+  
+  I have played difficult games before, this is certainly not one of them. Its not a piece of good 
+ product at all.
+  
+  Still, if you think of playing the game from rather a chase cam; the camera is not well positioned 
+ either. In the whole game the only interesting thing was the TV cam mode. And surely you wont be 
+ able to play like that.
+  
+  The huge time it requires to load a track is very surprising.. because NFS 2 didnt require more 
+ than a second!
+  
+  Do not go for buying this game. It'll be a complete waste. If you still buy one... you'll agree 
+ with me then.
+  
+  
+::::::
+
+::::::
+UserName: maugt40
+Rating: 9.4
+Date: Feb 23, 2006 6:04 pm PT
+Review:  Ive been a racing simulator fan since the days of Indianapolis 500 from Sierra through Grand Prix 
+ Saga, NASCAR Series by Papyrus and Grand Prix Legends. I found this game far excellent from graphics 
+ to physics emulation to car modelling. I congratulate the GTR team for the accomplishment. I personally 
+ dont like much the situation of stepping up ladders, gaining credits and money to buy other cars, 
+ unlockables, etc. Sometimes people cant spend 8 hours of play a day to get such a dreamt car, 
+ but you would like to drive it as it is real. The hearth of a good racing simulation is that you 
+ feel that you are driving a real car and the car looks beautiful. This game is more concentrated 
+ in racing simulation itself, there are other games more biased to arcade type gaming, like GT4, 
+ Forza Motorsport, Enthusia, which are excellent, plenty of entertainment, I love them,, but... GTR 
+ is more focused on the pure spirit of GT racing, a great RACING SIMULATOR for true racing fans, 
+ the challenge is there... in true race driving, great accomplishment. Im waiting the GTR2 sequel. 
+ Also excellent job in GT Legends. Since I was a child I was a fan of Pedro Rodriguez in its Porsche 
+ 917. Itll be great a game called LeMans Legends isnt it ?. Im grateful that now several games 
+ include the legendary and adorable FordGT40, the light blue one with GULF insignias. 
+::::::
+
+::::::
+UserName: Silence_Toothy
+Rating: 8.6
+Date: Feb 13, 2006 7:05 am PT
+Review:  you can't describe it till you played it, this game is pure fun.
+  the sounds are so real, you feel like you are in the game, every sound sound so real and like it 
+ was recorded right from the real world.
+  if you don't have steering wheel don't buy this game, driving with keyboard will make you spin 
+ 1080 degrees instead of driving across the track.
+  
+  this game will allow you to compete against up to 52 in ONE track! 
+  and racing the La Mans for 
+ 24 hours it's 600 laps, it has day, dusk, dawn and night.
+  there aren't many cars in the game but every car will make you feel different
+  there are even 
+ Seat Toledo in it =0
+  try the demo first this game is very hard and requires some skills that can be earned in 2-4 hours 
+ playing the game, you need to be ready to waste time learning.
+  just for your notice there aren't any guides in the game but there are some in-game help (like 
+ braking help, steering help and more)
+  there are 3 game modes: Arcade, Semi Pro, Simulation.
+  Arcade is game made settings you just 
+ select the car and the track, there are 5 types of settings each one is more difficult.
+  the semi pro is the medium level you can choose your race setting (how many opponents, any in-game 
+ help, starting position and choose if having qualify, warm up and practice) 
+  this game could make revolution if it had bigger hype 
+::::::
+
+::::::
+UserName: ntodder
+Rating: 5.5
+Date: Feb 12, 2006 4:44 am PT
+Review:  Just a short review because I disagree with so many reviewers take on this game. Most people are 
+ so much in awe of the great physics model and graphics in the game that they overlook the fact 
+ that there is NO GAME. There is no single player game. What do I do now, what should I do next" 
+ kept popping into my head as I tried to get into this game. Every racing game should have some 
+ kind of challenge or ladder to work your way up. Because of this lack of Game, GTR sits unused 
+ on my harddrive. I play TOCA2 and NFS: MW as well.
+  
+::::::
+
+::::::
+UserName: olipog
+Rating: 8.1
+Date: Dec 30, 2005 3:01 pm PT
+Review:  if you've got the patience, this game really stands out. At first, you will find youself doing 
+ massive donuts and crashing into every wall in sight, but as you get used to it, it is fantastic 
+ controlling the cars doing controlled slides through corners. If you simply enjoy destruction derby 
+ type racing, this is also great fun, as the cars smash to bits. The only problems are the small 
+ number of tracks: no silverstone, nurburgring (old) , but this is only a minor letdown, and also, 
+ the spa 24hours: long, boring and with rather interesting lighting effects.. going straight from 
+ night to day is strange.. still a very good game, well worth getting! 
+::::::
+
+::::::
+UserName: yuyu125s
+Rating: 9.4
+Date: Dec 27, 2005 12:54 am PT
+Review:  I come from Hong Kong , please forgive my poor english
+  
+  I think the game is the best sim racing game in game world right now, since Grand prix Legend, 
+ the control and the sound is the most real simulation.
+  
+  The best element in the GTR is the sound engine, the F360 engine sound is same as Real that I heard 
+ in Car DVD, real car and TV programme
+  
+  the in-car sound is prefect, even better than perfect, but the outer sound is not quite loud enough
+ 
+  
+  About the control system, it is quite hard to drive in simulation mode and closed all assist device.
+ 
+  But you can feel the REAL
+  
+  Over all it is a SUPER racing game 
+::::::
+
+::::::
+UserName: blackbirddh
+Rating: 9.4
+Date: Dec 15, 2005 12:14 pm PT
+Review:  This game tops all race simulations I have seen (and I have seen a lot) . After Grand Prix 4, this 
+ is the first race sim, that is worth playing (I know there are some real nice arcade racers out 
+ there, but they are not sims from my understanding) . 
+  
+  When you start the game, select simulation mode, chose a car and track, and go out on the track, 
+ the first thing you are going to do is ... spin. After a while, you will be able to reach the first 
+ corner and will ... leave the track. After some serious tries you will be able to finish a lap 
+ and realize, that all the A. I. racers are far off concerning lap times and if you compare yourself 
+ to others online ... you will see, you don't stand a chance. 
+  
+  So now comes the hard part ... learn the tracks and practice them. ... get a feeling for the controls 
+ of the game. If you use a FF Wheel you soon start to feel the track, not only the bumps (that's 
+ easy) , but also when and where the car looses traction, and slowly ... very slowly, you will find 
+ the limit. The Force Feedback effects are just great. You feel the engine in the wheel, bumps, 
+ the scrubbing of the tires on the track. You fell the line and when you leave it, and just like 
+ in real racing, you will realize that off the line there is almost no grip (and you will crash 
+ again) . 
+  
+  The physics of the game are so realistic, that is just pain as hell. This is for 2 reasons: 1st 
+ ... you must understand some of the physics of a racecar, and 2nd ... you only see the consequences 
+ (the car dips and hops) , but you don't feel it, like in the real racecar. The physics in the game 
+ are as unforgiving than the real thing, but you are limited in the feedback you get by the screen 
+ and the FF wheel. So (at least from my perspective) the game appears to be much harder to race, 
+ than a real racecar. If you would sit in a real F550 in Spa, you won't crash as easily (but maybe 
+ you wouldn't be so fast either) . Whatever ... this game is the closest to real racing, that a game 
+ ever has got. 
+  
+  This game is only for race addicts who want to have something realistic. If you are willing to 
+ spend a lot of your spare time in acutally training a PC game, this is the right thing. You will 
+ improve and get faster, and step by step you will understand why. For example you have to learn, 
+ that for getting Blanchimont right in Spa, you have to understand, that you need to brake while 
+ steering in, in order to shift weight to the front wheels, so its not so much important, to brake 
+ late and hard, to get the corner, but to brake in a swift way, while steering in ... this will 
+ make you fast. 
+  All these experiences will help you improve, and you can also learn somthing by watching other 
+ racers online or talking to them in the chat. 
+  
+  The online gaming is a bit jumpy, but OK. However, on the public server the races often don't last 
+ longer than 5 laps, because the game is so unforgiving, that until then even the fast guys have 
+ crashed and are out of the race. In the leagues, this seems to be better, but I haven't tried one, 
+ because I don't have enough time. 
+  
+  Besides the racing, there is lot of realistical tuning and setup work you can do with each car. 
+ Setting up the car corretcly can approve lap times, but usually training will help more (at least 
+ at the beginning) . The standard setups, that come with the game are OK, but a bit conservative, 
+ so you can go fast, but don't crash to easily (riding height is the major factor here ... lower 
+ makes you faster, but if you hit the gas to much on a bump ... you'll spin) 
+  
+  Summary: 
+  If you are race addict and have a lot of time, this thing is right for you. If you 
+ want to play a game ... stay away ... and better game NFSMW. (I play both) . This the 1st game I 
+ bought for a very long time and it is worth the money. 
+::::::
+
+::::::
+UserName: stas29
+Rating: 9.6
+Date: Oct 28, 2005 1:10 pm PT
+Review:  FIA GTR is the most realsitc racing simmulation game made thus far. It contains ALL licenced cars 
+ and is configurable from a beginer to an advanced racer. What makes this game even more realistic 
+ is that it includes MOTEC software, yes, it is the same analysis software that is used in REAL 
+ racing. The graphcs is superb in this game, and the car physics is the most realisitc of any racing 
+ game. Well, unless you don't get bored with Nascar SimRacing where you get bored going in cirlces. 
+ This game has 3 racing modes: Arcade, Simi-Arcade, and Simmulation. In Arcade mode, most of the 
+ real life handling characterisitcs of all cars dissapear. It very similar in handling to the old 
+ racing games made by SEGA. In semi-racing mode you actualy need to slow down when turning and use 
+ brakes when needed. In Simmulation mode you actualy need to master all of the REAL life handling 
+ characteristics which are specific to every car. You need watch out not to accelerate to fast because 
+ if you do it will make your tires too hot and will considerebly decrease performance. After you 
+ master game, you will enjoy taking you skills online racing against other pros.
+  
+  This game deserves a solid 9 score!!! 
+::::::
+
+::::::
+UserName: enesjusufi
+Rating: 10
+Date: Oct 25, 2005 8:33 am PT
+Review:  If you are looking for a Car Simulator then this is it...... This is the best Car simulator that 
+ you will ever find... The simulator is tweaked and maintained by REAL Racing drivers who helped 
+ with making the Cars turn right, sound right, feel right even the game to be exactly like it is 
+ in reality!!! The Car setups is tweaked by MOTEC (which is the real Program racers use in reality!!)
+ 
+  The SOUND of the Cars makes your hair on the Neck stand when you step on the gas on that GROWLING 
+ V12 ENGINE!!! All the Tracks are 100% Accurate, like the Monza, Nurburgring, Barcelona and many 
+ more... cars like Ferrari, Lambourghini, Porsche, Salleen, Viper will bring you Joy and orgasms!! 
+ :)
+  
+  GO BUY NOW!!!!!!!!!!!!!!! 
+::::::
+
+::::::
+UserName: daniel1919
+Rating: 7.7
+Date: Oct 18, 2005 12:51 pm PT
+Review:  When I first played this game the realism of the cars was sensational and great fun. I was looking 
+ for an ultimate realistic driving sim and at first I would agree. You understand that you are driving 
+ car and going over bumps etc. 
+  Though "realism" can get annoying because the car is very sensitive which I would agree is pretty 
+ realistic but when it takes two weeks to be able to drive a car and keep on the road but then to 
+ compete with AI's lap times is very hard. If you play and game after a couple of weeks and you 
+ can't do a full race in sim mode regurally there isn't much fun in it. If wanna enjoy this game 
+ just concentrate on this game. 
+  This game is only for the hardcore driving simmer. You need a good steering wheel and play with 
+ the sensitive and other input setting as it can make a huge difference.
+  When you go online you can see how many people can't keep the car on the track for a whole lap. 
+ After racing for real life I don't agree it is that realistic but it is a step in a good direction. 
+ 
+  Except for the diffuculty the graphics are nice. The graphics only use directx 8 and you can tell 
+ but it still looks good due to car models details and using directx 8 to it's full. Though to put 
+ full settings you need a beefy system but the good side is lower settings won't be noticeable.
+ 
+  All the options for gameplay are typical and there's not much else to say about the game.
+  
+  My best advice is wait till GT Legends comes as the company is spending more money on it, the 
+ graphics will use directx 9 and it's already getting great news.
+  
+::::::
+
+::::::
+UserName: shavedman
+Rating: 9.4
+Date: Oct 13, 2005 1:45 pm PT
+Review:  GTR is simply the best racing game period. The best graphics ever in a game (2048 X 968) at 75MHZ. 
+ You will need a powerful computer to run it at full graphics. (I have a 3.4 GHZ, 3 GB RAM, 256 
+ PCI EXPRESS video card) . 
+  
+  The racing physics are incredible. It really make you beleive you are racing a car from the FIA 
+ GT Championnship. 
+  
+  You can play online or against the AI. By the way, the AI in GTR is very impressive. It reacts 
+ realisticly to your every moves. 
+  
+  I recommend downloading numerous patches or addons from different websites to race on more tracks 
+ and modify some caracteristics of the game. 
+  
+  YOU have to race the Maserati MC12. It is simply a Ferrari Enzo modified by Maserati to be even 
+ more faster. Like the Enzo isn' t fast enough!!!!!! (Not on the original version, has to be downloaded)
+ 
+  
+  Go to ---- http://www. gtrresource. com/ 
+  http://www.10tacle. com/gtr-game/en/index. php? Homepage
+  
+  
+  
+  
+::::::
+
+::::::
+UserName: crazymadtuna
+Rating: 9.3
+Date: Jun 1, 2005 9:03 pm PT
+Review:  The Game
+  
+  Man, GTR has made me look at racing games in a different way. This is by far the most realistic 
+ racing game I have ever played to date. Nothing comes close to comparison in terms of car physics, 
+ and how the car behaves. This game makes GT4 and Forza look like arcade games, and you will truely 
+ find out how forgiving GT4 and Forza are. In GTR if you do not have your assists on, GOOD LUCK, 
+ because you wont make it back to the pit lane. This game is not a racing game, this game is a simulator, 
+ its just that intense. Your not going to get behind the wheel and fly by your competitors, instead, 
+ your going to get spanked on a consistent basis until you truly learn ins and outs about your car. 
+ 
+  
+  This game is not forgiving in the slightest bit. If you push to hard in a corner, your going over 
+ the turn, if dont downshift correctly and get the revs low enough, your car is going to spin before 
+ you complete your turn. There is little room for error, infact no, let me take that back, there 
+ is NO room for error, and thats what makes this game so difficult. This is the most difficult racing 
+ game you will play, hands down, and if your not into fine tuning the car, sitting in the middle 
+ or back of a race pack, then I dont see you enjoying the experience that much. The learning curve 
+ for this game is ridiculous, it reminds me of the aliens game on the ps1 (That game was impossibe 
+ to beat) . If your not going to spend hours upon hours driving one car, then your not going to get 
+ that far, because each car handles differently.
+  
+  The Graphics
+  
+  The Graphics are much improved from the demo, with more polish, and more reflections, but the graphics 
+ leave much to be desired. The cars are beautiful in the final build, but SinBin have failed to 
+ make the environments look nice. The tracks look boring, and the backgrounds are dull when you 
+ compare them to either GT4 or Forza, and those games happen to be on consoles, hmmm. By pc standards, 
+ the graphics fail to match the depth you get out of Nascar Sim 2005 and Richard Burns rally. The 
+ graphics are far from mind blowing, but they do give a accurate representation of the tracks. It 
+ would just be nice to see the road shimmer in rain when the light hits the wet pavement, it just 
+ adds to the experience. The graphics do not take anything away from the experience, and when you 
+ start racing with +30 cars onscreen, who cares.
+  
+  Sound
+  
+  Cant complain about the sound, the cars sound good, the engine sounds seem spot on. The sound affects 
+ are on par with every other game. The sounds are exceptional when you are in the in-car view, especially 
+ those ferrari's, I need get myself one of those. The sound is definately one of the best aspects 
+ of the game. 
+  
+  Gameplay
+  
+  Gameplay is a touchy issue on this game, the reason I say thiat is because you really need a wheel 
+ of some sort to truly enjoy the game. The keyboard does not cut it, no matter which way you slice 
+ it. This game requires precise imputs to take full advantage of all the options available to you. 
+ 
+  
+  The keyboard is unplayable, and if you dont plan on getting a wheel, then I strongly suggest that 
+ you dont waste your money purchasing the game.
+  
+  An analogue stick is another option. I tested out my ps2 controller, and I was surprised how sensative 
+ the analogue stick was. The analogue stick was just as responsive as the racing wheel, but you 
+ lose the sense of feeling that your controlling a car. On the analogue stick, I noticed it was 
+ hard to play with the accelarator and brake at the same time, especially with the accelarator and 
+ brake mapped onto the right analogue axis. Theres no doubt in my mind you can get really good with 
+ an analogue stick, but I dont see people running as good times with it, simply because the feeling 
+ is not as natural as turning a wheel. That said, an analogue stick is 20 times better than using 
+ a keyboard.
+  
+  The driving wheels are the best way to go, and since I have a force-feedback and non-force-feedback 
+ wheel, I can inform you on what to expect if you plan on getting a wheel. I'll kindly start of 
+ with the non-force-feedback logitech wheel. The non-force-feedback is an excellent purchase. The 
+ logitech wheel responded with a great amount of accuracy. I felt in total control of the car, and 
+ since the wheel has very little play, I was consistently running better and better laps. The funny 
+ part is, the accelarator and brake are positioned in a more comfortable position than the DFP logitech 
+ force-feedback wheel, which was surprising since this wheel is a cheaper build. The non-force-feedback 
+ wheel to me seems like the best purchase, its cheap, I got mine brand spanking new for $15, its 
+ sturdy, the response is excellent, and the feeling of being in control of the car is irreplaceable. 
+ The only thing negative I can say about this wheel is that the centering is not so great at times 
+ because it uses springs to center itself, unlike the magnetic motor in the DFP logitech wheel.
+ 
+  
+  Onto the beast, the DFP logitech wheel. A yes, the much touted wheel. All I can say is you get 
+ what you pay for. There a plenty of reviews on this wheel, and its for a good reason. The difference 
+ here is that the DFP truely immerses you into the game. You feel every bump on the track, seriously, 
+ I never knew how bumpy race tracks were. You are constantly fighting with the wheel, and feeling 
+ is truly exhilarating, its like a work out, and I think I have shed some pounds messing around 
+ with is bad boy. If you have the cash to burn, then you wont go wrong with force feedback, its 
+ an exceptional feature, but again you wont die without it.
+  
+  As long as you have a deseant wheel, this game will be fun to play
+  
+  Internet
+  
+  Fun, 
+ fun, fun, fun. This is the most exciting part of the game. Its fun to see how much people suck 
+ on the internet, but its all in good fun. All I can say is when you have 30-40 people on one server, 
+ you have a race. This is what I have been dying for in racing games. Gone are the days of 6-8 cars 
+ on a track. I've had so much fun talking to the people online, competing for track position, fighting 
+ for that no1 spot, and as usual, theres always a few drivers who show me whats up. Its also nice 
+ that most of the servers put damage on, so you are really careful about what you do. Its fun watching 
+ 2 players go at it and crash, with the hood flying in one direction, the tire bopping in another. 
+ It really sucks if someone slams straight into you, because if your engine dies, or your starter 
+ fails, its game over buddy. Theres no other game that can match GTR's online. This is the best 
+ racing game online ever, and by far the most competitive.
+  
+  Value
+  
+  This all the game comes down to the value. If you have a wheel and the internet, this game is a 
+ must buy, who thought racing with over 30 people would be so much fun online, and the wheel as 
+ I stated before adds another dimension to the game.
+  If you dont have the internet or a wheel, I wouldnt suggest not buying the game, because its wouldnt 
+ be any fun at all.
+  
+  Things That stick out
+  
+  Weather changes-awesome
+  Night time- wow, hope I dont hit a deer
+  1 to +40cars- depending on what vid card you have, you 
+ can put a crazy amount of cars
+  Car selection- Finally i can race a lamborghini against a ferrari
+  In-car-view- Exceptional, 
+ you feel as if you driving the actual car, Amazing.
+  Online- need I say no more, ONLINE, baby
+  Full Damage- is that my wheel rolling of to the side, 
+ hey, thief!!!, come back with my wheel, arrrrr!!!!!, frigging sports fans
+  
+  
+  I hope you enjoy this game as much as I do
+  Keep racing
+  
+  Oh, and one last warning, this 
+ game is EXTREMELY DIFFICULT, and that is not an understatement.
+  
+::::::
+
+::::::
+UserName: tirreg
+Rating: 9.4
+Date: May 22, 2005 5:31 pm PT
+Review:  In 1998, Papyrus released a driving simulation by the name of Grand Prix Legends. It completely 
+ turned the driving sim community on it's head with a level of detail in the physics engine that 
+ allowed the player to experience what it was like to drive one of those unruly machines at the 
+ edge of their performance envelope. After days of mastering the techniques, it proved to be the 
+ most satisfying and truly adrenaline inducing experience for fans of auto racing. Following in 
+ the footsteps of Papyrus, 10Tacle and SimBin have released what is a stunning simulation of the 
+ FIA GT series cars: GTR.
+  
+  10Tacle has created in GTR, the most realistic simulation of race car driving thus far. If you 
+ want to experience the thrill of barreling out of parabolica at Monza in a 600+ horsepower super 
+ car - with all the tactile and audio/visual nuance of the real thing, a good force feedback wheel 
+ and GTR are your ticket to paradise.
+  
+  For the uninitiated, this program is more akin to Microsoft Flight Simulator than it is to Need 
+ For Speed in terms of it's general concept. The only things here to accomplish are to master the 
+ cars and win races against the CPU cars or against other drivers during online play. Everthing 
+ the game has to offer is immediately available to you. Just to be clear - there's no story - no 
+ unlockables - no real campaign (save the season mode, which is basically driving the courses in 
+ the correct order of the FIA GT season.)
+  
+  The game features 10 tracks out-of-the-box. They are the ten tracks for the 2003 (?) FIA season 
+ - I'm fairly certain. Also available for free download are three oval tracks for a different experience.
+ 
+  
+  Also included with the game is the actual MOTEC software that you can use to analyze the telemetry 
+ data from the race cars. No this is not a fudged simulation of the software - it is the real thing!! 
+ GTR actually creates telemetry data just as a real race car does (tweaking the car setup is a huge 
+ part of the experience) . The MOTEC software doesn't know the difference. Apparently, drivers have 
+ compared the data from real-world driving with the sim data and they are eerily similar - to the 
+ point that the drivers can use GTR to try the cars with different setups and collect useful data!!
+ 
+  
+  If you are a racing fan you've most likely dropped your mouse at this point and went out to buy 
+ GTR - which you undoubtedly should. If your not a racing fan (that's wants to experience the real 
+ thing) , you probably will find GTR an unending source of pure frustration, played on anything but 
+ "arcade mode," which eventually you would want to get past.
+  
+  For racing fans, as of this moment, this is the ultimate challenge. I bought Forza Motorsport for 
+ Xbox and I've got a 53" HDTV and great surround sound - but I can't even get myself to touch it 
+ again. GTR has ruined my appreciation of just about everything else in the genre. 
+::::::
+
+-------------------------------------------------

@@ -1,0 +1,141 @@
+-------------------------------------------------
+:::Game Name::: F/A-18 Hornet
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/fa18hornet/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct 29, 1997
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.1
+Critic Score: 6.1, 7.2 Review (s)
+User Score: 7.2, 58 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Graphic Simulations
+Genre: Jet Sim
+Date:     Apr 30, 1997
+
+-------------------------------------------------
+:::Review:::
+F/A-18 Hornet 3.0 continues the noble tradition of creating a great sim andforgetting to put a game 
+ inside of it. 
+
+ F/A-18 Hornet 3.0 continues the noble tradition of creating a great sim and forgetting to put a 
+ game inside of it. Failing to see the forest for the trees seems almost inevitable when you're 
+ busy creating an incredibly detailed avionics suite and flight model, but in the wake of Back to 
+ Baghdad (also known as "Back to Babbages") and A-10 Cuba!, it is getting a little wearisome.  
+
+ 
+ Hornet 3.0 is a PC port of the classic Mac sim (stop laughing!) from GPS, and in many ways it is 
+ a superior piece of work. The last real F/A-18 Hornet sim for the PC was Fleet Defender from MicroProse, 
+ even though the Hornet does make a guest appearance in Jetfighter III and US Navy Fighters. A frontline 
+ multirole aircraft with a shaky reputation, its role as a carrier aircraft is part of its appeal 
+ to sim fans looking for a different challenge. That is, for sim fans who like smashing into a tiny 
+ carrier deck instead of landing on a nice stable runway.  
+
+ As a pure sim, Hornet is superb. The avionics suite is meticulous, with nicely implemented HUD, 
+ MFDs, standby gauges, and digital display indicators. Air and ground radar modes are some of the 
+ best in town, with GMT, SEA, MAP, and EXP1 modes for air-to-ground, and RWS, VA, STT, and TWS for 
+ air-to-air. Scan elevation, scan azimuth, range, antenna elevations are all modeled. An air-combat 
+ maneuvering mode sets antenna scan patterns automatically for wide, vertical, gun, and boresight 
+ acquisition. This is how radar modes should be done, and there are absolutely no complaints here 
+ at all.   
+
+ The flight model is also tops, with a few quirks that seem to have been sorted out in a subsequent 
+ patch. Handling in both normal and high-G flight, fuel consumption and drag from external stores 
+ all feel about right. Damage assessment and stalls seemed a little off in the initial release: 
+ The same damage was incurred repeatedly, and stalls were either too severe during engine loss, 
+ or not severe enough during lower speeds. There was also no visual cue for missile hits (no shuddering) . 
+ These issues have all been addressed in version 3.0.1, as has the inconsistent AI. Wingmen and 
+ enemy AI are decent, with fair responsiveness and no really stupid mistakes observed.  
+
+ Graphically, Hornet is plain-Jane polygons, which is either good or bad depending on your preferences. 
+ Frame rates at resolutions up to 1024x768 are fluid and graphics are clean. For the hard-core crew, 
+ this is often preferable to the messy textures of better-looking sims, and it does make spotting 
+ targets and reading the situation easier. As for the rest of the game engine, it's a bit cumbersome. 
+ The cockpit-style main menu is a bit convoluted and hard to navigate. On the positive side, there 
+ are 90 minutes of video tutorials covering every aspect of the sim and the instruments. This is 
+ welcome since the manual is woefully insufficient, poorly laid out, and has no index.  
+
+ All of these fairly positive comments lead up to the largest failing of Hornet 3.0: missions and 
+ campaigns. There is a grand total of 28 missions in a single Persian Gulf campaign. These missions 
+ are doled out four at a time, with you selecting the one you want to fly, then going on to the 
+ next (whether you won the last one or not) . This happens seven times and culminates in a nuclear 
+ interception. You can go back and play the campaign three more times to get to the remaining 21 
+ missions. None of these missions are dynamically linked, and the structure is rather unsatisfying, 
+ with transit times that are too short and a battlefield that doesn't feel realistic at all. It's 
+ not that the missions are easy, in fact, they're often pretty tough. But you don't get that Longbow-like 
+ sense of being part of a large operation. A few Hawaiian training missions and stand-alone quick 
+ combat scenarios flesh out the action, but not enough.  
+
+ This, coupled with the paltry number of missions and no mission editor, is a crippling strike against 
+ an otherwise excellent simulation. Hornet has some real things to recommend it - certainly more 
+ than Back to Baghdad and A10 Cuba! As a pure recreation of F/A-18 flight, it is the best on the 
+ market. But as a unified, satisfying gaming experience, it needs work.    
+-------------------------------------------------
+:::User Reviews::: (2 Reviews)
+::::::
+UserName: Shane_F
+Rating: 7.1
+Date: Jan 8, 2007 9:56 am PT
+Review:  I recently pulled this game out of the closest and I installed it on my laptop. After a few tries 
+ to get back in the groove I was off and running. Playing this game was like old times, but is still 
+ great as the day I got it 10 years ago. Using the network feature game is fun because if you get 
+ really into it, you can set the AI to really hard and you and your teammates can try to break the 
+ defense with only guns.
+  
+  I only had the problem that the AI and the games play was just a tad unpredictable and that objects 
+ would register as ground items though I had air targets selected, I still had a good time. 
+::::::
+
+::::::
+UserName: jackrabbit75
+Rating: 8.7
+Date: Sep 9, 2006 5:03 pm PT
+Review:  I've owned every upgrade for this awesome title since it was first released in the mid-nineties. 
+ While it's obviously showing its age, it still remains one of my favorite games. I dig realism, 
+ variety and challenge in flight sims and this little gem's got plenty. Hornet has a high learning 
+ curve and you know you'll have your hands full when you confront the 150 page manual. I actually 
+ enjoyed the fact that it took me months to execute a decent carrier landing. But when I did, I 
+ felt a real sense of accomplishment. Big points for challenge and realism.
+  
+  The flight model is very sophisticated and takes hundreds of hours to master. Console games have 
+ their place, and there're some fantastic ones out there -- but a true flight sim needs all the power 
+ and key strokes a desk top computer can offer.
+  
+  Then there's the Mission Editor. Man, you can come up with any scenario you want. You can set all 
+ other planes, choppers, bombers, ground forces ,anti aircraft gunnery, surface to air missiles 
+ and just about every thing you want to exacting specifications. This game makes my Top Gun list 
+ for variety in a combat sim.
+  
+  And let's not forget about head-to-head play. In the days before everyone had dsl or cable, we'd 
+ haul our computers over to each others' houses and hook up manually. Live pilots! Woo-hoo! Take 
+ THAT Red Baron!
+  
+  Gameplay: Flawlessly smooth. I don't remember a crash (computer crash that is -- I've augered the 
+ plane in about a thousand times) .
+  
+  There are two down sides to this game and are the reasons I didn't give it a higher rating. The 
+ first is minor and the second is significant:
+  
+  First: Compared to what's out there now, graphically ol' Hornet's just not looking as razor sharp 
+ as say, Falcon 4.0 or Battle of Britain. Minor. Second: In my first graph I said I've owned every 
+ up-grade -- that's not true. I could not bring myself to give them money for their latest installment, 
+ "Operation Iraqi Freedom." I consider it to be a tip of the hat to U. S. jingoism and a thinly veiled 
+ attempt at propaganda. Significant.
+  
+  Outside of that she's cherry.
+  
+  I strongly recomend the the Mac version and a decent multi-button programmable flight stick.
+ 
+  
+  Hornet One's bingo, RTB.... 
+::::::
+
+-------------------------------------------------

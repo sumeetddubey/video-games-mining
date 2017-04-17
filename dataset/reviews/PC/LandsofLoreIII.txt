@@ -1,0 +1,152 @@
+-------------------------------------------------
+:::Game Name::: Lands of Lore III
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/landsoflore3/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Apr 30, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 4.3
+Critic Score: 6.2, 18 Review (s)
+User Score: 6.8, 100 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Westwood Studios
+Genre: Role-Playing
+Date:     Mar 31, 1999
+
+-------------------------------------------------
+:::Review:::
+Simplistic gameplay, barren environments, a dated graphics engine, and horrible artificial intelligence 
+ collectively make Lands of Lore III an unsatisfying experience. 
+
+ When Westwood Studios released Lands of Lore: Guardians of Destiny in 1997, many role-playing game 
+ fans were disappointed that the belated sequel cast players in the role of a single, preset character 
+ and featured extremely linear, action-oriented gameplay. In fact, aside from maintaining first-person-perspective 
+ gameplay, Guardians of Destiny bore little resemblance to its party-based predecessor, Lands of 
+ Lore: Throne of Chaos, let alone the two statistics-chomping AD&amp; D Eye of the Beholder games 
+ crafted by Westwood. By minimizing role-playing game elements and crafting an adventure/RPG/action 
+ hybrid, Westwood hoped Guardians of Destiny would appeal to a broader range of gamers.   
+
+ With RPGs now enjoying a renaissance, the aptly titled third Lands of Lore game has been released, 
+ packaged with the enticing prospect of enhanced RPG elements and character development options 
+ through the addition of class guilds and familiars. Unfortunately, simplistic gameplay, barren 
+ environments, a dated graphics engine, and horrible character artificial intelligence collectively 
+ make playing Lands of Lore III an unsatisfying experience.  
+
+ You are given the role of Copper LeGre, who, after witnessing the speedy dismemberment of his father 
+ and nasty stepbrothers by some dimension-hopping hounds, realizes that he's both become the heir 
+ to the throne and lost his soul. The departure of Gladstone's resident deity, the Draracle, results 
+ in the appearance of dimensional portals in the Gladstone woods. In addition to exploring the Gladstone 
+ area, Copper will have to travel through the portals to five strange dimensions - or "worlds" - 
+ in order to conveniently save the realm and recover his soul. Thanks to Gladstone's court mystic, 
+ lacking a soul hampers Copper less than losing a wristwatch and bears no impact on gameplay whatsoever, 
+ other than presumably giving you additional motivation in case "saving the realm" wasn't sufficient 
+ encouragement.  
+
+ While voyaging to five completely different environments may sound intriguing, gameplay is actually 
+ substantially similar, and simplistic, in each dimension. The realms completely lack scope or, 
+ with the notable exception of the Fire World's Dragon City, any sense of scale. There are only 
+ a handful of creatures in each realm and less than a dozen nonplayer characters who have more than 
+ two lines of dialogue in the entire game. Exploring a world largely consists of traveling down 
+ barren, linear, claustrophobia-inducing paths. Even most outdoor areas have enclosing "roofs" that, 
+ coupled with the narrow passageways that predominate in the game, effectively transform what should 
+ be expansive wilderness areas into narrow caves with varying texture maps.   
+
+ A 3dfx or a capable Direct3D video card will produce some nifty, but overused, colored lighting 
+ effects and some impressive high-resolution background environments. The quality of the first-person-perspective 
+ graphics varies greatly throughout the game, however, and the voxels and sprites used to depict 
+ items and characters tend to devolve into pixelated blobs at close distances. NPCs display a disturbing 
+ tendency to rapidly repeat their limited animations. Most of the dozen or so cutscenes in the game 
+ work well and look good, but others, including the introductory scene, are less compelling and 
+ also feature exaggerated character animations. Certain areas, such as the Underworld's haunted 
+ house and the Shattered Desert's military base, overcome the limits of the game's engine and produce 
+ a few memorable moments. Others, such as the forest with its canopied roof, pixelated sprite bushes, 
+ and solid walls of textured trees, look completely artificial. The forest's makeshift curtains 
+ of trees look like they belong on stage in a medieval play - I half expected Robert Goulet to step 
+ out from behind a pixelated stump and start singing Camelot.  
+
+ There is no character-generation screen in Lands of Lore III, as Copper always starts out with the 
+ same attribute scores. You are given the opportunity to customize Copper by having him join one 
+ or more of the guilds in Gladstone and by picking up a companion familiar. Each of the guilds is 
+ dedicated to one of the four core classes (fighter, mage, cleric, or thief) found in pseudo-medieval 
+ fantasy RPGs. While you could limit Copper's guild enrollment, potentially creating a variety of 
+ character classes, the game gives you little incentive to do so, since you'll just lose access 
+ to certain shops and facilities. Copper gains experience levels faster with fewer guild memberships, 
+ but levels are relatively unimportant since there's readily available equipment that'll enable 
+ neophyte characters to dish out formidable damage. Gaining experience levels is ludicrously easy 
+ in any event, as you can rack up experience by stomping pitiful training opponents in the fighters' 
+ guild. Each guild only offers a couple of quests after initiation, and later quests largely consist 
+ of returning to one of the worlds you've already thoroughly explored to grab a previously inaccessible 
+ item.  
+
+ Your familiar scurries about relatively independently, and each familiar has a distinct personality 
+ and abilities and some incredibly annoying dialogue. In fact, other than the contributions of Clancy 
+ Brown (Highlander/Starship Troopers) who reprises his role as the Draracle in a cameo, the voice 
+ acting is usually painful and often occurs at inappropriate times. During frantic moments, your 
+ familiar will invariably announce an intention to leave the area to look for trinkets. Not to be 
+ outdone in the battle for most untimely speech, Copper will usually retort that he's hungry enough 
+ to eat a horse, but doesn't think that it would make a particularly good meal without potatoes. 
+ Huh? Get in the game, Copper. Play to win.  
+
+ Copper and his familiar aren't the only characters who are oblivious to the events transpiring around 
+ them. NPC and enemy artificial intelligence is at an all-time low in Lands of Lore III, as evidenced 
+ by the thugs in lower Gladstone (none of which has a peep of dialogue) , who gleefully smash endlessly 
+ into buildings. The pathfinding of the three dozen enemy types makes combat almost always an unthreatening 
+ joke, winnable by strafing left and right and bouncing arrow after arrow off the heads of your 
+ hapless, uncoordinated foes.   
+
+ Copper proves remarkably adept at backstabbing without having to bother sneaking up on opponents, 
+ as they often, inexplicably, turn around while in the middle of an apparent charge. Since opponents 
+ are rare in many areas in the game, the environments themselves frequently challenge you with jumping 
+ and "thrilling" box-stacking puzzles. While most of these acrobatic maneuverings aren't too strenuous, 
+ they're apt to cause more character deaths (and resulting lengthy reloads) than the game's battles. 
+ It's difficult to understand the rationale behind the design decision to require you to constantly 
+ spoon-feed food to Copper or the gameplay benefits which that touch of "realism" provides - especially 
+ in a lighthearted game that features fireball-hurling flying chickens.  
+
+ The game isn't all bad. The music and sound effects are suitably varied and appropriately reflect 
+ Copper's surroundings. Several elements from past games make welcome reappearances, including the 
+ original Draracle caves from Throne of Chaos, those ever-popular bikini-wearing amazons from the 
+ White Tower, and Guardians of Destiny's protagonist, Luther. The interface provides convenient 
+ access to available items, spells, and weapons while maintaining a view of the gaming world. A 
+ comprehensive journal automaps Copper's travels and records NPC conversations and other useful 
+ information.   
+
+ But the few noteworthy features are overwhelmed by the game's flaws. The initial release of the 
+ game is unstable, frequently crashing on start-up with some video cards, and is exceptionally intolerant 
+ of certain virtual memory cache settings, Direct3D sound cards, and background programs such as 
+ Netscape's Instant Messenger. Graphics quirks such as missing textures and clipping errors occur 
+ frequently enough that I began to suspect every pit or semitransparent wall of being a graphical 
+ error. Ultimately, however, it's the simplistic and repetitive gameplay that makes Lands of Lore 
+ III more of a chore than a pleasure to play.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: verdugoRE4
+Rating: 6.5
+Date: Jun 14, 2007 2:03 pm PT
+Review:  Lands of Lore 3 has been sitting in my little corner next to my computer unopened for 5 freaken 
+ years. And now that I crack and dicide to open it up and play it, I acually realize I wasn't really 
+ missing TOO much. The game was made in 1999, that's 8 years ago. The first impressions you might 
+ get of it are acually along the lines of ''hey, this game looks kinda fun''. And once you begin 
+ your quest, you figure out that you are right, and wrong. But honestly, the game has its good moments, 
+ and a lot of its frustrating moments, plus an abundence of flaws. But the first few minutes to 
+ an hour are proably more exciting than you might expect. But don't get your hopes up, the system 
+ works rather decently, but not great. You might end up a bit muddled by the overall presentation 
+ later, and that's where you might start to hate it. But if you get past the flaws, its great fun 
+ to slay wart hogs, spiders, demons, etc. with your weapons you find around. You have a lot of stuff 
+ to use, and to find. And the game will last you a while if you take the time to fully explore it. 
+ Many enimies await you, and its usual of many RPGS to utilize this formula. BUt Lands of Lore 3 
+ does it fairly differently in just one way: IT KINDA MAKES IT NOT WORK AS WELL. Overall Lands of 
+ Lore 3 is not exactly the greatest choice for an RPG, but undereath its flaws, you have a fairly 
+ solid game. 
+::::::
+
+-------------------------------------------------

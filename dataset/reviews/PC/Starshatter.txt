@@ -1,0 +1,153 @@
+-------------------------------------------------
+:::Game Name::: Starshatter
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/starshatter/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug 24, 2004
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.4
+Critic Score: 8.4, 2 Review (s)
+User Score: 7.5, 47 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Matrix Games
+Developer: Destroyer Studios
+Genre: Space Combat Sim
+Date:     Jul 1, 2004
+
+-------------------------------------------------
+:::Review:::
+Starshatter provides a welcome dose of innovation to a genre that's been practically rendered extinct, 
+ but its originality ultimately fails to translate into a satisfying gameplay experience. 
+
+  Starshatter provides a welcome dose of innovation to a space sim genre that's been practically 
+ rendered extinct, but its originality ultimately fails to translate into a satisfying gameplay 
+ experience.  
+
+          Once committed, combat typically unfolds quickly.     
+
+  For most of the 1990s, space sims largely stuck to the formula of putting you into a small fighter 
+ craft and guiding you through a series of scripted missions. More recently, as the genre's popularity 
+ has faded, developers have attempted to rejuvenate commercial interest by aping the more open-ended, 
+ space privateer gameplay of even older classics such as Elite. Rather than copy this recent trend 
+ of focusing on exploration and trading, Starshatter sticks strictly to combat, but it provides 
+ a dynamic campaign and introduces flight sim and strategy game elements. Starshatter is essentially 
+ a rudimentary flight sim, a decent fighter-based space sim, and a simple real-time strategy game 
+ that lets you control capital ships. Each element of its hybrid gameplay package works relatively 
+ well, but none is singularly deep enough to offer a truly engaging experience.  
+
+  Despite its ambitious design, Starshatter is largely the work of a single individual (Matrix Games 
+ picked it up for distribution solely online) , and it's packed with user-friendly customization 
+ and modding options. You can opt to play the game with or without Newtonian physics, which cause 
+ your craft to indefinitely retain directional momentum, or you can have your ship automatically 
+ fire thrusters to partially compensate for those forces. You can choose to use traditional flight 
+ sim controls so that your craft will roll instead of turning when you push laterally on your controller 
+ (joystick, keyboard, or mouse) , or you can control your ship entirely with a first-person, shooter-style 
+ mouselook setup. The heads-up displays can be heavily customized. There's also a variety of viewing 
+ perspectives, including a third-person perspective that's ideal for controlling capital ships as 
+ it effectively transforms the game into a real-time strategy game that resembles Homeworld.  
+
+ 
+  Starshatter includes a mission and campaign editor, and it provides tools and instructions to 
+ let players add their own customized weapons, ships, planetary systems, and missions. While some 
+ aspects of Starshatter clearly highlight its limited production resources -- graphics are respectable 
+ but not flashy, and sound and music are perfunctory -- the game has been designed to make it relatively 
+ easy for motivated players to offer their own improvements. For instance, while the included mission 
+ briefings are displayed through text only, players designing their own campaigns can incorporate 
+ voice-recorded briefings. Starshatter deserves to be lauded for providing a comprehensive space 
+ sim toolkit in addition to an innovative game.  
+
+  Starshatter's interface is also top-notch. In addition to displaying all relevant information in 
+ an organized and accessible fashion, the HUD interface is also interactive and lets you issue commands 
+ by mouse-clicking on displayed HUD readings. You can pause the game at any time to issue commands 
+ or to alter the perspective, which gives the game a much more strategic feel than most space sims. 
+ Instead of just barreling into combat and relying upon visible radar and targeting cues as in most 
+ space sims, you can pause and analyze a static battlefield from a heavily zoomed-out perspective 
+ to obtain a comprehensive picture of what's unfolding. This way you're less likely to overlook 
+ high-priority targets such as incoming torpedoes.  
+
+          Aside from traditional space sim combat, Starshatter allows you to square off capital ships 
+ in Homeworld-style RTS battles.     
+
+  Yet these innovations belie the game's comparatively simplistic combat gameplay. Fighters are fragile 
+ since they lack shields and because missiles are extremely effective. As a result, instead of taking 
+ down enemy fighters in prolonged dogfights, you're far more likely to be successful against a group 
+ of foes if you attack with missiles at extreme range. The craft you control are just as vulnerable 
+ as those you're fighting against, which compels you to maintain modest mission goals instead of 
+ striving to heroically dispatch hordes of enemies. Once you run out of missiles, it's very difficult 
+ to survive for long against multiple opponents, so you're frequently forced to cut-and-run unless 
+ you're close enough to friendly forces to quickly obtain reinforcements.     
+
+  To consistently succeed against groups of enemy fighters, you generally have to either take them 
+ out with missiles before they're close enough to attack you with guns, or catch them unaware or 
+ while they're engaging other ships. There is also only a handful of ship and weapon types, so most 
+ battles tend to unfold very similarly. While fighter combat may be more realistic as a result of 
+ the limited capabilities of your craft, its difficulty and the relatively small number of weapon 
+ and ship types also make battles less engaging.  
+
+          As you'd expect from a game from a small developer, most of the interfaces are devoid of 
+ flash, although they are well designed.     
+
+  Your character gains experience and rank by completing missions and scoring enemy kills. Once you 
+ reach sufficient rank, you'll be able to command capital ships and eventually carriers. Instead 
+ of directly maneuvering a capital ship, you designate where you want to go and the ship's heading 
+ will gradually change. From a practical perspective, this mechanic just means that there's a control 
+ delay between when you push a button on your joystick or mouse to change direction and when your 
+ ship actually responds, but it effectively conveys the feeling that you're commanding a more colossal 
+ vessel. The third-person perspective works particularly well for commanding capital ships, as useful 
+ radial dials conveniently indicate changes to your heading and you can easily point and click on 
+ targets or friendly fleet elements.  
+
+  But capital ship combat is even duller than fighter combat, since your tactical options are even 
+ more limited. There are a variety of weapons at your disposal: you can fire missiles or torpedoes; 
+ you can use point defenses to block incoming projectiles; and you can use laser batteries that 
+ instantly hit targets in range. However, in practice you'll use all of these weapons simultaneously, 
+ and capital ship combat frequently amounts to just charging opponents and hoping that more of your 
+ torpedoes get through their point defenses than get through your own. It's virtually impossible 
+ to inflict beam weapon damage without being hammered by a similar onslaught. You can stack your 
+ success odds by trying to maneuver several of your capital ships within range of a single opposing 
+ one, and you can direct artificial intelligence-controlled fighters to join in the attack, but 
+ combat results depend far more on strategically selecting when to fight rather than tactics once 
+ engaged in combat. Since your maneuvering options in open space are fairly limited, capital ship 
+ combat just isn't very interesting.  
+
+  The flight sim aspects of Starshatter are also simplistic. Within a planet's atmosphere, fighters 
+ can engage enemy fighters or bomb stationary ground targets. Terrain features are essentially nonexistent, 
+ other than target buildings and installations, and combat is very similar to space-based skirmishes, 
+ although you are required to keep moving to avoid gradually succumbing to the forces of gravity. 
+ Planetary battles are very similar to the rudimentary atmospheric battles in Wing Commander III 
+ and IV. These battles are an interesting inclusion that somewhat varies gameplay -- however, they're 
+ too simplistic to be particularly entertaining and they're generally more frustrating than space-based 
+ combat.  
+
+  Starshatter has four separate dynamic campaigns that track the history of a war between colonies. 
+ Dynamic campaigns have become an almost mandatory feature in flight sims, but they've only rarely 
+ been features in space sims. There's no building or resource management, so campaigns require you 
+ to gradually whittle away at the enemy fleets and bases using your own limited pool of resources. 
+ It's great to be able to inflict persistent damage on enemy forces in a series of connected missions, 
+ but overall campaign performance is too easily subject to sudden reversals as a result of single 
+ battles. That's particularly frustrating prior to being able to command capital ships, since your 
+ fleets can easily lumber into disadvantageous battles against larger forces that can quickly render 
+ earlier successes moot.  
+
+          These handy radial dials let you quickly change the direction of capital ships without 
+ abandoning the strategic third-person perspective.     
+
+  Collectively, Starshatter's deficiencies overpower its innovations. It has a great interface, it's 
+ replete with customization options, and it features dynamic campaigns, planetary battles, and the 
+ ability to control both capital ships and fighters. But the actual combat is somewhat minimalist 
+ and it lacks tactical depth. That dearth is even more evident when playing the game in multiplayer. 
+ There are only four included multiplayer missions, and three of them are small skirmishes that 
+ are resolved extremely quickly. Starshatter's included editor and mod-friendliness offer additional 
+ value and may allow dedicated players to address some of its shortcomings. However, judged strictly 
+ on its own merits, Starshatter is more refreshingly novel than entertaining.     
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

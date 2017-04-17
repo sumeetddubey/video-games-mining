@@ -1,0 +1,255 @@
+-------------------------------------------------
+:::Game Name::: Wings Over Vietnam
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/wingsovervietnam/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Dec 13, 2004
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.9
+Critic Score: 7.0, 5 Review (s)
+User Score: 7.3, 124 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Bold Games
+Developer: Third Wire
+Genre: Jet Sim
+Date:     Nov 8, 2004
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Those who will only settle for the best in terms of flight model fidelity and cutting-edge graphics 
+ should let this one fly on by. 
+
+  The Vietnam War is a fascinating and underused setting for air combat simulations. Planes of the 
+ era were transitioning from subsonic and transonic fighters that relied mainly on guns to down 
+ other aircraft to extremely powerful and fast fighters like the F-4 Phantom that were built as 
+ missile-delivery platforms. These fledgling wonder weapons weren't nearly as effective as planners 
+ had anticipated, and American pilots had to face the dual threats of enemy aircraft that were designed 
+ for dogfighting and the most sophisticated network of antiaircraft defenses the world had ever 
+ seen. Wings Over Vietnam lets you experience much of the flavor of the conflict, but it's fraught 
+ with problems that can be very difficult to ignore.  
+
+          With any luck, we'll live to receive our Purple Heart.     
+
+  A number of fighters and 
+ strike planes from the period are flyable, including several variants of the versatile F-4 Phantom 
+ II, nimble A-4 Skyhawks, ponderous A-6 Intruders, and the tough F-105 Thunderchief. Players also 
+ can climb into the cockpit of the obsolescent F-100 Super Sabre, the A-7 Corsair II, and the F-8E 
+ Crusader. Planes from the other side of the conflict sadly are not flyable, and while each plane's 
+ strengths and weaknesses are represented well overall, the flight models aren't exactly cutting 
+ edge. Planes can pull off extreme maneuvers that would turn real pilots into puddles of flesh from 
+ sustaining too many Gs, and some of the planes like the F-4 and F-8 are extremely difficult to 
+ stall no matter what crazy stick inputs you use. Pulling too many Gs causes a pilot to black out, 
+ but the plane still responds to stick input, making it possible to switch to an external view and 
+ continue with your extreme maneuvers. The drawback is that the plane bleeds off a lot of energy 
+ if you keep this up, but it still makes it possible to cheat by switching to an external view just 
+ long enough to line up a tricky shot. Quirks aside, each plane still works best in its intended 
+ role, and if you don't abuse the flight model, there's plenty of entertainment value in this package. 
+
+  Three campaigns are included: Operation Rolling Thunder, Linebacker, and Linebacker II. They are 
+ dynamic, but the lack of mission variety makes it difficult to sustain interest. Each sortie begins 
+ at base, where players can arm their aircraft via an excellent loadout interface. With all of the 
+ realism settings enabled, setting up a plane so that it can properly strike its mission target, 
+ defend itself, and still have enough fuel to make it home is tricky, since it is often necessary 
+ to trade bombs for external fuel tanks. Air-to-air refueling unfortunately is not implemented. 
+
+  Mission briefings are absurdly terse, and no information is provided about what weapons are best 
+ suited for the assigned task. This won't be a problem for Vietnam buffs who know better than to 
+ take 250-pound bombs to blow up the Dragon's Jaw bridge. It's the beginners that face a steep learning 
+ curve. Most missions involve multiple flights of aircraft, with fighters providing top cover for 
+ the strike planes. However, the briefings provide no information about the other types of planes 
+ involved in the mission.  
+
+  In the air, dogfighting has its moments of intensity, but the computer-controlled pilots -- both 
+ friends and foes -- routinely make idiotic mistakes. F-4s tend to get into extended turning engagements 
+ with vastly more maneuverable MiGs, and they also tend to close to a very short range instead of 
+ engaging targets from miles away using radar-guided missiles. A few of the enemy planes we flew 
+ against were tenacious fighters, but most were glad to fly in perfectly straight lines as we fired 
+ missile after missile up their tailpipes, regardless of the difficulty settings that were chosen. 
+ Sim jockeys that are itching for a real fight will be relegated to playing in multiplayer mode, 
+ which relies on the HyperLobby matchmaking interface.  
+
+  In the simulation, as in the historical situation, fledgling heat-seeking and radar-guided air-to-air 
+ missiles rarely live up to their published specifications, and much of the excitement in air-to-air 
+ combat involves setting up perfect launch parameters for a missile attack. With the radar-guided 
+ weapons this means identifying and targeting enemies from the maximum possible distance, waiting 
+ impatiently for the system to lock onto the target, and trying everything possible to maintain 
+ that lock until the missile hits its target. In the meantime, pressure from surface-to-air missiles 
+ (SAMs) , antiaircraft fire, and other enemy aircraft make flying straight ahead and holding the 
+ lock a harrowing proposition.  
+
+  Using heat-seeking missiles effectively means getting on an enemy's tail so the missile can lock 
+ onto the hot exhaust pipe, and when faced with opponents who put up a fight, that means a lot of 
+ tricky maneuvering. The seeker head in the missile growls constantly when the weapon is selected, 
+ and you must strain over all the other cockpit noise to hear the growl intensify, signifying that 
+ the seeker has found a target. The problem is that the missile rarely works if it is launched when 
+ you are pulling too many Gs, so in an intense dogfight the opportunities to take a shot that has 
+ a reasonable chance of hitting are fleeting.  
+
+          This little A-4 is loaded for bear.     
+
+  Guns sap some of the fun out of dogfighting 
+ because they are immensely powerful. It takes only a few shells to obliterate a target, even when 
+ the guns are toned down to their most realistic setting, and even then, lining up a shot takes 
+ very little practice.  
+
+  The opposite is true during ground strikes, where limited cockpit view settings and a lack of adjustable 
+ sights combine to make bomb drops a crapshoot. It doesn't take long to become fairly proficient 
+ at dive-bombing, but that's extremely dangerous in this game since it requires popping up above 
+ targets that are usually ringed by antiaircraft guns and SAM launchers. Level bombing at low altitudes 
+ and high speeds is much safer but nearly impossible without hours of practice.     
+
+  Guns are extremely powerful during certain ground attack missions. They won't penetrate tank armor 
+ or take out a bridge, but during one mission where we were tasked with destroying a convoy of supply 
+ trucks, our trusty cannon demolished 23 of the hapless vehicles in a single firing pass. The other 
+ trucks blindly trundled on in a straight line and they were quickly finished off. This was all 
+ done without having to drop any of the cluster bombs dangling from our fuselage.  
+
+          The refueling boom on this A-6 is just for show -- there are no tankers in the game.     
+ 
+
+  The game tracks an immense number of statistics, and at the end of the mission it's possible to 
+ see the precise time that you shot a particular weapon, what that weapon hit (if anything) , and 
+ what hit you if your luck ran out. Medals also are awarded after missions if you've accomplished 
+ some appropriately heroic deeds or been unfortunate enough to earn a Purple Heart.  
+
+  If you're not up for a full campaign there is an Instant Action option, which immediately flings 
+ you into a sky filled with enemies, or use the Single Mission option to access drop-down menus 
+ that let you quickly set up a customized sortie. We spent most of our time in this mode since it 
+ spits out the same types of missions generated in the campaign, but it let us select the aircraft 
+ we wanted to fly, the date, the mission type, and other parameters to keep things interesting. 
+
+  One of the few things the campaign provides that the single missions do not is the chance to fly 
+ from and land on carriers, but it's no great loss. Carrier ops were obviously shoehorned in, as 
+ the massive ships don't move and don't have arresting wires. Instead, planes plop down on the deck 
+ and stick there as if the entire top of the ship is coated with industrial-strength flypaper.  
+ 
+
+  Wings Over Vietnam is based on the Strike Fighters: Project 1 engine, and the graphics are better 
+ than those found in its predecessor, but not by much. Plane models are excellent, packed with little 
+ details like leading-edge slats that pop out of the Skyhawk's wings, and a great deal of research 
+ obviously went into the creation of aircraft markings and camouflage patterns. Unfortunately, all 
+ of the textures in the game are low-resolution, compared to other simulations like Pacific Fighters 
+ and Lock On: Modern Air Combat, so planes and cockpits don't look particularly good up close. Cockpits 
+ look particularly dated, with only a few key instruments being crisp enough to remain legible, 
+ while the rest of the cockpit looks blotchy and blocky in comparison.  
+
+  The terrain varies a lot in elevation, ranging from undulating fields to relatively tall mountain 
+ ranges. This makes low-level strikes a blast, particularly at night when terrain-following radar 
+ must be employed. The terrain still looks extremely plain and there are no forests. Cities are 
+ represented by swaths of brown terrain dotted with small buildings, but it is impossible to collide 
+ with the structures, as planes simply pass right through them. The special effects are decent, 
+ and smoke and muzzle flashes from guns looks particularly good, but this certainly isn't the best-looking 
+ sim on the market.  
+
+  Overall the audio is decent, with good explosion, engine, and weapon sounds, but everything is 
+ overshadowed by the awful radio chatter. Having the same voice screech "SAM launch, SAM launch!" 
+ repeatedly is annoying at best, and it is completely unhelpful in the game because it is rarely 
+ possible to tell whether they're talking about you or about some other plane five miles away.  
+ 
+
+          Carriers are crudely implemented, but that F-4 sure is pretty.     
+
+  Wings Over Vietnam's difficulty scales to accommodate nearly every skill level, and those who want 
+ the ultimate in realism will have their hands full just identifying and keeping track of targets. 
+ Newcomers can add all manner of helpful information to the heads-up display, and a skip-to-the-next-event 
+ feature lets them get to the action quickly. The major drawback for those who don't know much about 
+ the period is that there is no information on the planes in the manual or in the game, and there's 
+ very little information about the weapons you can carry and the weapons you'll face. Several premade 
+ single missions are included, for example, but there is absolutely no historical context provided 
+ to help players who haven't studied the conflict. When setting up a campaign you select a squadron 
+ from a pull-down menu instead of a plane, so if you have no clue what types of aircraft each unit 
+ flew, picking the right campaign is a matter of trial and error. Some users have reported unexpected 
+ crashes, although on our test hardware the game only crashed twice during our entire testing period, 
+ and we were unable to replicate the crashes by re-creating the circumstances that led up to them. 
+ A patch is already available for the game, but it was not installed for this review.  
+
+  If you know enough or care enough to get past those shortcomings, put up with the game's various 
+ other foibles, and look past the dated graphics, there's a lot of fun to be had in this sim, particularly 
+ during ground attack missions. However, those who will only settle for the best in terms of flight 
+ model fidelity and cutting-edge graphics should let this one fly on by.     
+-------------------------------------------------
+:::User Reviews::: (4 Reviews)
+::::::
+UserName: Fighterpiliot
+Rating: 9.5
+Date: Aug 24, 2008 10:12 am PT
+Review:  If a game that really gives the experence of a combat mission better than WoV is on the market 
+ it must be a subscription for a one month time machiene excursion to Vietnam for a tour of duity. 
+ This game really takes the cake when it comes to what fighter combat in Vietnam must have been 
+ like, sure the guns are a bit too powerful for reality but with 35 air to air victories under my 
+ belt I'm not complaining. (Most of them scored on, you guessed it, guns.) It really gives Bold Games 
+ and Third Wire Productions a good name. One small hint is to read the manual, and if you have a 
+ joystick to set it to joystick mode, it really makes a difference. It has crashed three thimes 
+ in three hours but it isn't serious, the game works just fine when you restart it. The only small 
+ problem is that on multiplayer people playing with you seem to jump around on the screen. I'm installing 
+ a patch that will hopefully fix it. Even though the official review says you can't fly migs, in 
+ multiplayer mode you can.
+  
+  
+::::::
+
+::::::
+UserName: Iffy350
+Rating: 7.5
+Date: Feb 17, 2008 6:18 pm PT
+Review:  This is a great game. Its a game that you can pick up and play and in time you will grow to enjoy 
+ it. It has great sound and the graphics are nice for a game thats over three years old. The game 
+ has more of an arcade feel when it comes to control. This is not Falcon 4.0! If you want a super 
+ realistic and unforgiving flight simulator than why not pick up IL-2:1946 or Lock On: Modern Air 
+ Combat. This game does not require a joystick and is great for long trips in the car or if you 
+ are sitting in the air port waiting for your flight. Yes, I actually sat in DAB waiting for my 
+ flight while shooting down two MiG-17 Fresco A's in the process. You use the arrow keys to control 
+ the planes pitch and roll. The , and . keys control the rudder. If I might gripe about one thing 
+ is that on hard mode this game is REAL DIFFICULT where as on the normal setting I had no trouble 
+ at all shooting down enemy planes with missiles and guns. Thats also part of the problem. The missiles 
+ are more likely too shoot down the enemy so you will find that its almost way too easy to get three 
+ kills on your first mission. If you get lost you can use the 'autopilot' key (default a) and the 
+ plane will fly auto fly to your next waypoint. This is a useful feature if you are trying to get 
+ use to the games control setup. I was a bit disappointed that you could not fly a campaign for 
+ the North Vietnamese Air Force. I would bet that if your a fan of Ace Combat and have never played 
+ a true Combat Flight sim before then instead of jumping right into Falcon 4.0 or Lock On you might 
+ want to give WoV a try and see if you like it. Falcon and Lock On are very difficult for a no sim 
+ fans to pick up and play. Overall I give the game a 7.5 because a 6.9 just doesn't seem fair. This 
+ game is easy to overlook. If you want to try a game that is not hardcore like falcon 4.0 but not 
+ way unrealistic like Ace Combat then you should pick this title up. Check your bargain bin. 
+::::::
+
+::::::
+UserName: liddster
+Rating: 5
+Date: Mar 14, 2005 12:33 am PT
+Review:  So far the game has been pretty fun, easy but fun. I've had some problems with it however and I'll 
+ find out if the patch fixes it or not. Experienced a few crashes. Once after mission complete and 
+ heading back to base, once while starting up a game and a few times after a mission was completed 
+ and going on to the other mission. It just crashed as soon as the loading screen went to 100% and 
+ the game started. Booted me out to WIN XP and asked to send the error report to Microsoft. Not 
+ sure if it was my video card or what. The biggest problem with this crash was when I went back 
+ into the game, there were no enemy planes to fight in campaign mode. The only fix was to start 
+ a new campaign up and do the missions all over again. I'll see if the patch fixes this crash at 
+ all. 
+::::::
+
+::::::
+UserName: Mark4875
+Rating: 4
+Date: Dec 2, 2004 9:07 pm PT
+Review:  Is WoV a good game? Well, by today's standards of flight simulations, it's really NOT!! This is 
+ basically what Strike Fighters should have been when it was rushed out the door a year ago. It's 
+ finally set in a Vietnam setting (instaed of the imaginary mercenary war setting of Strike Fighters) . 
+ The fixes that Strike Fighters sorely needed are finally in Wings Over Vietnam.
+  
+  Overall, you will find that the only people who like this game are people who like to keep downloading 
+ new mods and putting them in game. There really isn't much of gameplay that's actually recommendable 
+ about WoV. 
+::::::
+
+-------------------------------------------------

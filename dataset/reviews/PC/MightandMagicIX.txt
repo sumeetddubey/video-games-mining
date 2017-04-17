@@ -1,0 +1,459 @@
+-------------------------------------------------
+:::Game Name::: Might and Magic IX
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/mightandmagic9/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Apr 12, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.2
+Critic Score: 5.6, 19 Review (s)
+User Score: 6.6, 365 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: 3DO
+Genre: Computer Role-Playing
+Date:     Mar 29, 2002 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Might and Magic IX is the sort of game that can't please either longtime fans or series newcomers 
+ looking to get a role-playing fix. 
+
+ Might and Magic IX is like a bubblegum pop song from a group that's been on the charts too long. 
+ It has all of the same ingredients that made the earlier releases so popular, but the excitement 
+ is gone, and what once felt new and energetic is now old and tired. Even though New World Computing 
+ built this game from the ground up with the use of Monolith's respected LithTech engine, the developer 
+ also tried to re-create the past rather than truly revitalize the Might and Magic line. This divided 
+ focus between old and new leaves us with a square-peg-in-a-round-hole sort of game that can't please 
+ either longtime fans or series newcomers looking to get a role-playing fix. Combine that with shoddy 
+ quality in everything from the monster models to the paper doll interface and a dreadfully slow 
+ start, and you've got an end product unworthy of its prestigious name.           Character creation 
+ is stripped down to the point of nonexistence.    
+
+  The early stages seem more like a chore than a game, due in part to a stripped-down character-creation 
+ process that's simple but too much so. You have only four playable races (human, elf, dwarf, and 
+ half-orc) with which to fill the four party slots, along with a handful of face and voice types 
+ and a paltry two character class options to choose from. In the beginning, you pick a path of might 
+ or magic, becoming either a fighter or an initiate. Other classes are held back until much later, 
+ when your characters have progressed high enough in level to accept promotion quests. A fighter 
+ can become a crusader and then perhaps a ranger or paladin, while an initiate can advance to the 
+ position of scholar and later maybe a mage or lich. There are a total of 12 class options, though 
+ choice is restricted based on the path of advancement that you select. Characters can be further 
+ customized with skills, though once again, there are few options at the start of the game. Just 
+ two skills can be selected from a small pool of options, while two more are predetermined by your 
+ choice of class. The same goes for spells. Choice explodes from the virtually nonexistent only 
+ long after the beginning of the game. Aside from changing race or class, there is no way to alter 
+ the default numbers for the six basic character attributes -- might, magic, endurance, accuracy, 
+ speed, and luck.   
+
+  Another major contributor to this dull opening is that you begin stranded in the land of Chedian 
+ without a clue. There is no back story, no driving force behind the beginning of the game. After 
+ an opening cinematic that comes off like  Sesame Street  doing a "best of times, worst of times" 
+ shtick and tells you precisely nothing about the game, you are dropped on what's presumably your 
+ island home. You speak to an old man whom your entire party calls "Grandpa" for no stated reason, 
+ read some scrolls about the game interface, hop on a boat for lands unknown, get shipwrecked, and 
+ meet up with a troll woman named Yrsa who anoints you the saviors of the world after you kill a 
+ few dragonflies. Seriously. Making matters even worse, you don't care about anything that Yrsa 
+ tells you because unless you've read the manual, you have no background information about the land 
+ and peoples you're about to spend 100 hours of game time saving. The whole introduction is a jumbled 
+ mess of names and events and dates that does more to confuse you than provide you with a good reason 
+ to continue playing.           Blocky monster models make melee combat a letdown.    
+
+  Expect to feel bewildered for some time after. Aspects of the game design seem to have been put 
+ in place for the sole purpose of disorienting the player. Although the main plot soon comes into 
+ focus -- you have to unite the six warring clans of Chedian so that they may face the threat of Tamur 
+ Leng and his feared Beldonian Hordes -- everything that surrounds it stays fuzzy. It shouldn't be 
+ this way, because the game consists of traveling to the capital cities of each clan and carrying 
+ out rudimentary quests that involve little more than killing a lot of monsters and picking up the 
+ sacks of gold that they leave behind (and everything leaves behind a sack in this game -- even bats) . 
+ Each town features citizens who require help finding lost objects, obtaining items that they desperately 
+ need, and so on, along with chieftains called jarls who assign slightly more interesting objectives, 
+ such as clearing out monster infestations, delivering letters to fellow jarls, and slaying particular 
+ foes. Role Playing 101, right? Not exactly. While New World never strays from this old-school format, 
+ the company has complicated matters by providing little information when quests are assigned. You 
+ often spend more time searching for the place you've been asked to visit than actually doing the 
+ job. The assignee says what he or she needs, mentions a locale that you've typically never heard 
+ of, and then leaves you on your own to explore.   
+
+  It doesn't get any easier after you stumble upon a quest location. Even though the mouse-driven 
+ interface (left-click for a melee strike, right-click for a ranged weapon or spell) makes it easy 
+ to slash through the hordes of monsters found everywhere, it is often difficult to figure out where 
+ you are when the dust settles after combat. Most quest locations have a unique look, but that unique 
+ appearance is marred by the designers' usage of the same architecture over and over again within 
+ each location. Along with mirror-image corridors that transform many buildings and dungeons into 
+ mazes, whole rooms are repeated right down to the furnishings and complement of monsters. You often 
+ find yourself wondering if you are going in circles or have activated some kind of teleportation 
+ trap.    
+
+ Things are often just as confusing in town. NPCs with the ability to provide skill training and 
+ class quests wander the streets aimlessly and don't look any different than the average commoner. 
+ So unless you share the curious logic that led New World to make a bartender the only one who can 
+ promote you from mercenary to assassin, you need to speak with everyone you meet. And you're never 
+ sure when an NPC will be around to talk to. Some pay attention to the virtual clock that tracks 
+ the time and then shut down at the end of each day, while others are ready for business all night 
+ long. Either way, the people remain present, so you get children playing in the street at three 
+ in the morning and shopkeepers offering to take your business and then telling you that they're 
+ closed when you take them up on it.           Now this is an attack of the clones.    
+
+  There is an automap function, but it does almost nothing to clear these issues up. You can't make 
+ notes on it and you can't scroll it, and extra lines make it impossible to determine where walls 
+ really are. Plus, many vital features are either missing or so poorly drawn that you can't make 
+ them out. Ladders and staircases, for example, are marked with squiggles that could mean anything, 
+ if they're marked at all. Some maps show features that aren't actually there.   
+
+  Not surprisingly, problems like these take a toll on the atmosphere. Moving through a succession 
+ of chambers that all look the same bolsters your suspension of disbelief as effectively as the 
+ painted plywood that community theater groups use for scenery. Poor graphical quality doesn't help 
+ much either. Although New World used the LithTech engine to give Might and Magic IX a true 3D world 
+ for the first time, the series doesn't look any better than it did three years ago. You might even 
+ say that it looks worse. The preceding three Might and Magic games boasted fairly good visuals, 
+ and if you forgave them for being a couple of years out of style, the current one is ugly by any 
+ standard of measurement.   
+
+  Part of the problem is the default 800x600 resolution (which can be changed by manually editing 
+ the autoexec. cfg file, although higher resolutions wreak havoc with text and menu size and location) , 
+ though much of the blame has to be laid on poor programming and artwork. Textures are dark and 
+ blurry, making it hard to locate switches and objects on walls. Rooms are either bare or sparsely 
+ furnished. Monster and NPC models seem more like roughed-in placeholders than finished products. 
+ Furthering this effect is the use of just three or four NPC face types per sex and race. You'll 
+ talk to what seems to be the same person over and over again. There isn't even a thinly veiled 
+ illusion of variety here. In one town, the side-by-side armor and weaponry shops are run by what 
+ looks to be the same bearded merchant. Move from one directly to the other, and your first thought 
+ is "How'd you get over here so fast?" This issue hits ludicrous heights in combat with human opponents, 
+ as you seem to be mobbed by gangs of clones. There is little more diversity in the monster ranks. 
+ Each quest location features just two or three enemy types that you kill again and again from the 
+ moment you enter until the moment you leave. One spot might feature dragonflies, another imps, 
+ another zombies, and so on. Regardless of the creature type, you're certain to be sick of it by 
+ the time you reach the midway point of each quest.   
+
+  The engine also does a poor job of providing feedback while adventuring. Although the first-person 
+ perspective should involve you in your surroundings more effectively than the isometric third-person 
+ angle used in most role-playing games these days, the effect is actually the reverse. Unless you're 
+ firing spells or missiles, attacks are not represented onscreen. Your only indication of making 
+ an attack is a swoosh sound and a menu box that opens in the bottom center of the screen to inform 
+ you of hits, damage totals, and misses. Blood splatter is an option, but yours is the only blood 
+ to actually do any splattering, and it seems to do so only when ranged weapons are employed against 
+ your party. Enemies show no sign of injury until they abruptly collapse to the ground. The interface 
+ is also light on feedback. The paper doll system for every character has just one picture to represent 
+ each class and sex. All male fighters, for example, are portrayed by the same drawing of a bearded 
+ dwarf. These images change only when you take up new classes during the course of the game, so 
+ you never get to see your characters in new armor or wielding new weapons.           Missing automap 
+ features will have you reaching for graph paper.    
+
+  Yet despite all these negatives, Might and Magic IX somehow builds momentum as it goes. After you 
+ get a good 15 hours into playing, the addictive acts of solving quests and leveling up take on 
+ a life of their own apart from the stillborn story and setting. Unlike in the beginning of the 
+ game, where you're presented with few options, you can finally start fine-tuning your characters 
+ by giving them specific classes and boosting them in certain skills. While the game never evolves 
+ into anything more than a straightforward dungeon crawl, it does develop an energy that can carry 
+ you along to the conclusion. Quests assume more importance as you work to unite the clans, and 
+ monsters get more interesting, as do the magical items and spells you acquire. The dreary sewer 
+ of Beet Hoven at the start of the game, for instance, is nothing at all representative of the spooky 
+ ruined temples and crypts you'll explore later. Even the musical score progresses from the dreary 
+ and repetitive to a number of atmospheric tunes that do a much better job of establishing a mood. 
+   
+
+  Of course, the catch is that you have to dedicate a lot of time to the game before the interesting 
+ stuff shows up. Which probably isn't likely, considering the slow start and number of flaws that 
+ have to be overlooked for hours in the beginning. And even if you do get caught up in playing, 
+ there is little here that's truly memorable. Unlike the way that people still rhapsodize over the 
+ likes of old pop songs, it's a safe bet that nobody will ever wax nostalgic about Might and Magic 
+ IX.    
+-------------------------------------------------
+:::User Reviews::: (12 Reviews)
+::::::
+UserName: KingLim
+Rating: 4.9
+Date: Jun 26, 2007 7:18 pm PT
+Review:  I have nothing good to say about this supposedly last installation of the Might &amp; Magic series 
+ other that it did quite a commendable effort of converting the old 2D look to a fully 3D environment. 
+ But even so, the characters look ugly. Texture mapping is very unpolished and messy which defeats 
+ the purpose of making Might and Magic 3D.
+  
+  Apart from the tech aspect, the gameplay also doesn't live up to its standard from M&amp; M 7. A 
+ lot of unique stuff like visiting shrines and finding rare training masters are gone and thus I 
+ think that's how it lost its appeal. I got so bored with it not even halfway and had to trudge 
+ through the rest using a walkthrough, and the anti-climax ending is even more blood-spewing. I 
+ don't want to spoil it, but I guess you won't even bother to play till that stage.
+  
+  KingLim 
+::::::
+
+::::::
+UserName: Talon124
+Rating: 1.8
+Date: Mar 31, 2007 10:57 am PT
+Review:  Time to get some dirt on this game. Where to start..... hmmmm..... aww i can't find any good comments 
+ for this game so lets go negative. The graphics if stared at long enough may make your eyes bleed 
+ and screw up ppl minds (makes them confuse) The sound... w8 i forgot was there even sound in this??? 
+ Gameplay.... well it would be that bad if u could c the weapon u were using and u weren't in a 
+ party but just going solo. But it wasn't like that. Gameplay= worse than watching paint dry, nah 
+ that is too harsh, watching different colours of paint is a better description. Honestly u can't 
+ call this a game, more like a pointless dream. There is no point in playing this game. Get Elder 
+ Scrolls instead!!! the Elder Scrolls r fun and detailed. 
+::::::
+
+::::::
+UserName: dmso12
+Rating: 5.8
+Date: Dec 23, 2006 1:11 pm PT
+Review:  I suppose that this game has now been relegated to the bottom of the bargain bin, and anyone who 
+ would have bought this out of expectation from the earlier series, or out of curiosity for use 
+ of a 3-d engine, has already uninstalled and tossed this lemon.
+  
+  the keyword is BORING. Very little is happening in the world, the monsters are clunky and have 
+ crappy AI, and the skill system has been stripped down of all the things that use to make the Might 
+ and Magic series fun. What made the last MM games good were the quests and palces to discover, 
+ the ability to choose sides (at least in MM 7) , as well as the goal of leveling up so you could 
+ achieve mastery of whatever disciplines (e. g. Air Magic for flying) . Might and Magic 8 was fun 
+ but things were starting to fall apart as they ditched traditional chachter classes in favor of 
+ some novel ones that worked in some cases, not in others.
+  
+  Bottom line is that with the emptiness of the game world, and the lack of a decent storyline, this 
+ game was rushed out and suffers for it.
+  
+  I really liked Might and Magic 1 - 8 - I layed and finished every one. If they would have stuck 
+ with what they knew worked, at least 3D0 wouldn't have alienated its fan base. This game felt like 
+ a sell-out for 3-D fanboys (and girls) who value graphics over gameplay.
+  
+  At least the game wasn't broken when it was shipped - the game PLAYS ok. 
+::::::
+
+::::::
+UserName: can0of0cheese
+Rating: 4.2
+Date: Nov 4, 2006 8:05 am PT
+Review:  This game is one of the worst games im sad to say ive finished.
+  First of all it is a clone war, you will meet and greet the same people over and over again. The 
+ same goes for rooms, walls, decoration, foes and ... well everything.
+  
+  Second the bugs outnumber the whole human race even though most of them are minor things like random 
+ npcs attack you for no reason whatsoever or the one where monster don't see you when you stand 
+ infront of them. The mayor bugs are not to be taken lightly, i seem to remember a keep in the beginning 
+ of the game. The mission was like den of evil in diablo only when every monster was dead the quest 
+ log didnt react. So there never came any secret stairway opening or such, i returned later when 
+ the monsters had respawned and then only then it said complete.
+  
+  Third it makes no sense, few thing in this game does. Like the time a big uber monster burst out 
+ of jail and killed the town guard the moment i entered. Or when i was upgraded to assassin by some 
+ random bartender.
+  Maybe when i rode a wooden horse through a solid stone wall and the wall exploded reveling a path 
+ full of monsters.
+  Or my absolute favorite when i walked around in a pentagram lightning it upp only to find that 
+ nothing happened, in my rage i threw myself of a cliff and died only to be find my self in some 
+ kind of path between earth and heaven full of monsters. I have more examples but it would take 
+ all day.
+  
+  But still there are lots of fun too like the leveling system (after a long while you get skill 
+ points) . The magic part is fun too, and like well some chars look really ugly thats funny i guess. 
+ It's funny how i was told i should kill a dragon to be mayor and when i killed it nobody seemed 
+ to care even though i got like a you-killed-a-dragon card. 
+::::::
+
+::::::
+UserName: mm_coady
+Rating: 4.1
+Date: Sep 24, 2006 7:55 am PT
+Review:  This game seriously dissapointed me. I bought is as I am a HUGE Fan of the series ( I actually 
+ beat six, And I'm pretty proud of that) . But this game has to make me say what were they thinking 
+ The change that bothered me the most was the character interphace. One of the funnest parts of 
+ playing MM was taking your guys from zeros to heros sooo cliche and pimpin them out baller style 
+ was great. In short, this addition to the series makes me want to sick my finger in an electrical 
+ socket. I need eight more words to post this review. There we go. 
+::::::
+
+::::::
+UserName: FriendBear
+Rating: 2.6
+Date: Sep 14, 2006 12:36 am PT
+Review:  I actually like this game even though i'm giving it a pretty harsh review, its the sort of game 
+ that when it works, its a pretty decent game and its fun too. However, once the bugs pop up it 
+ becomes a nightmare to play and quite often forced restarts become a reality, especially in certain 
+ places where there are very well known bugs, and sometimes its almost impossible to bypass since 
+ the game was never actually 'finished' as 3DO went bankrupt, some of the major bugs are the type 
+ that can literally kill the game for instance....
+  
+  I decided to re-install the game on my new computer since I haven't played it in years and needed 
+ a change of pace from more current rpgs, played up until the Anskram Keep and unfortuntely forgeting 
+ to install the patches feel to the infamous game stopping bug there with the final imp and stairwell 
+ not appearing and after upgrading to 1.2 I can't really be bothered to restart the game again, 
+ and the unofficial patch 1.3 removes my mouse cursor..... too many problems kills this game. After 
+ another restart and finally getting the patches to install properly I get past the keep problems, 
+ however I run into one of the other major bugs which even with the TELF1.3 patches can be a nightmare 
+ to pass, and thats trying to get the Capstone of order which is needed later in the game, many 
+ times the game would crash, or not give me the capstone even after completing the mini-games, without 
+ the capstone you can't continue the story slightly later in the game, so I pretty much gave up 
+ on this game, and I suggest anyone who reads this review and is for some strange reason thinking 
+ of buying MM9, I suggest you don't, well.... if its a few bucks then maybe, but I would strongly 
+ suggest getting MM6, thats one of the best in the series.
+  
+  I will console myself that I have completed it once on my older computer and this game is a pretty 
+ good game but was an unfortunate casualty of its parent companies death.
+  
+  All my hopes lie with Dark Messiah, thats going to rock. 
+::::::
+
+::::::
+UserName: scotch69
+Rating: 6
+Date: Aug 5, 2006 12:51 pm PT
+Review:  I was looking forward to playing the M&M IX despite the poor reactions from both critics and game 
+ players. I was disappointed to find out for myself that they were right. First off, you can annotate 
+ anything on the map. There is not much more that is annoying to waste time looking for a particular 
+ store or person to advance skills. The gameplay was average at best and bad at worst. The quests 
+ were okay, but I was looking forward to the end. The dumbest part was the only dragon to fight 
+ had 37000 hit points and at least for me, impossible to kill. Anyway, the music was good and varied, 
+ so this made it a little more tolerable to be lost in town for the fifth time looking to increase 
+ my magic and fighting skills. Hopefully someone else can pick up the torch and improve the game-play 
+ and make the series worth playing again. 
+::::::
+
+::::::
+UserName: Daveo1337
+Rating: 5.7
+Date: Apr 5, 2006 1:57 pm PT
+Review:  3DO had promise, back in the day. Might and Magic VI was amazing, VII was great, and VIII was pretty 
+ fun, but the engine started to show its age after its third consecutive use.
+  
+  Fans of the series were excited to hear that the LithTech engine by Monolith was being used, as 
+ it worked very well with No One Lives Forever.
+  
+  The main problem with the series after VI, moderately noticeable in VII and a little more apparent 
+ in VIII, was that the games showed signs of being rushed. IX looks like it was released halfway 
+ through development. Really. There are not many signs of polish or refinement to be found anywhere.
+ 
+  
+  The same models are recycled for humans over and over again. While that was true in previous games 
+ for humanoids, the NPCs you dealt with weren't actually part of the game world, and humanoid opponents 
+ at least had decent and distinctive artwork. A lot of models look okay but many textures are just 
+ horrible.
+  
+  In some areas the game seems to have regressed. Gone are many character development options. The 
+ inventory display has gotten worse... even MM6 showed how your new items looked on your person. 
+ 
+  
+  There are some improvements, though. The AI isn't quite as mindless as it used to be, and in some 
+ respects the interface is a little better. They attempted making a more seamless world, where shops 
+ and houses are part of the map proper, but they didn't seem to have enough time to flesh everything 
+ out or actually make them feel alive.
+  
+  However, it is very hard for me to find a silver lining on this particular cloud. MMIX is a wonderful 
+ example of what not to do in designing a game. It is a sad testament to the eventual decline of 
+ both 3DO and New World Computing, where they ran pretty much all of their franchises into the ground 
+ in a desperate grab for any financial gain that could delay their inevitable end.
+  
+  It is, however, decent at keeping rings from forming on a wooden desk or coffee table, though there 
+ are cheaper alternatives when looking for coasters. 
+::::::
+
+::::::
+UserName: Geosapient
+Rating: 7.7
+Date: Jan 11, 2006 8:01 pm PT
+Review:  Might & Magic IX is a decent game. I've gone through the game multiple times now. Each time using 
+ a different party. The classes are relatively balanced. Each time I go through the game (regardless 
+ of party) I end up at the Training Hall outside Thjorgard at the same time (beginning of May) . 
+ Mages may seem to make the game easier due to spell power but as power grows so does the cost of 
+ the spell.
+  
+  The main story is pretty good (although somewhat cliche) with even the expected plot twist being 
+ somewhat unpredicted. The main story consists of you (the standard group of heroes who don't realize 
+ it yet) uniting the clans of Chedian to battle against the force that marches from the west. After 
+ you unite the clans the story takes an interesting turn. You'll learn of the hand that the Gods 
+ play in the land of Chedian. Meet with them, quest for them and do battle against them.
+  
+  The graphics are decent, also. The people models look pretty good except their faces look like 
+ paper masks glued onto a featureless doll. The wilderness looks excellent. The arcitecture is pretty 
+ much standard with almost everything having sharp angles with hardly any texture.
+  
+  The color could have used improvement. Everything seems to be grey or brown (it may not be as severe 
+ as I make it sound because I am color blind) and just bland. I like more vivid coloring in the 
+ games that I play (even if I don't see the color intended) .
+  
+  Some of the side quests are fairly ridiculous. Imagine working your way through sewers to find 
+ a persons manuscript. How did the papers end up in the sewer? What kind of magic is it imbued with 
+ that kept the paper from disintegrating in the waste filled water that runs beneath a city? An 
+ almost better question would be, "why do they have a sewer if no one has a toilet or chamber pot?", 
+ but that's not really quest related.
+  
+  All in all the main story is pretty good and it has decent graphics. The classes are pretty well 
+ balanced. The overall experience was good but it could have been better. I feel that this game 
+ is definitly worth at least one play through. Had this game not had the Might & Magic title attached 
+ to it I'd probably have given a better score and I imagine that other fans wouldn't have judged 
+ it as harshly either. 
+::::::
+
+::::::
+UserName: Rogerwaterz
+Rating: 7.2
+Date: Dec 31, 2005 7:39 am PT
+Review:  As a hardcore Might and Magic fan, I tend to apreciate this kind of RPG that unfourtunatly, seems 
+ to be lost in time. This kind of old fashioned approach to gaming is extremely addictive, and enough 
+ so that you can work past the bad graphics. It may seem like a budget game if you just picked it 
+ up and played it, but the game playes surprisingly well. Characters and monsters are well balanced, 
+ and I never find myself short of a fight. There is a lot of action, perhaps too much at times, 
+ but the game is fun, nonetheless. This game is definitly not for people who want instant gratifacation 
+ from a game, which is unfourtunatly, alot of people, but if you want a game that you can play for 
+ hours on end, this is one for you. 
+::::::
+
+::::::
+UserName: Govvy
+Rating: 4.8
+Date: Aug 19, 2005 10:46 pm PT
+Review:  Upon loading up the game you get an intro of a scrolling scroll! With a voice over of nun other 
+ than, General MaTark from Star Trek DS9. If you didnt know, he is the Klingon with one eye! So 
+ the scrolling intro tells us absolutely nothing about the storyline. Leaving you with a, So whats 
+ going on? feel!
+  
+  Now you are in a game that has a totally new might and magic engine and graphics that seem okay 
+ for a while. Until you start to meet characters and see more square shapes than you want too.
+ 
+  
+  After doing the tutorial to help get a feel for the new look you are then shipped wrecked on the 
+ Isle of Ashes which is where you meet Yaris the Trool, who tells you to unit the six clans.
+  
+  Finding a rather pitiful sorry excuse of a storyline and then those very lame cut-scenes. I 
+ was starting to wonder how I got the game! I did how ever have to upgrade a few times to get rid 
+ of the constant crashing and loads of bugs. Because with the kind of quality that 3DO left this 
+ in on release you can half understand why they might have gone bankrupt! 
+  
+  The sound was up to scratch and the game played well when it was running, spells had their effects 
+ but I wasnt sure if they became two powerful too soon. Because it started to get really easy very 
+ quickly and my part was only at level 40! They could take on greater demons on their own! Well, 
+ my Mage could anyway, all I needed to do was select Poison Cloud and point it at the flood and 
+ it would do loads of damage. 
+  
+  Sadly there were still too many bugs and the storyline was rather lame showing lack of effort from 
+ the team that created Might and Magic 9. Cut-scenes where terrible and had no depth or class like 
+ the previous games in the series. I believe all together I played about 40 to 50 hours worth even 
+ know I had the game for a while. I have been very dissatisfied and this game can stay in my collection, 
+ but in the dust pile!
+  
+::::::
+
+::::::
+UserName: vastb005
+Rating: 4.3
+Date: Oct 21, 2004 11:41 am PT
+Review:  This was a long awaited game for Might and Magic series fans and probably for that reason doubly 
+ disappointing. Very buggy, the first and only patch published at the same time as the game failed 
+ to resolve many issues and with the demise of 3DO any chance of redeeming this game with a new 
+ patch was gone forever. 
+  Trying hard to get into the 2D market too quickly resulted in a poor graphic rendition which can 
+ only be described as wooden. 
+  There was a reasonable story line and the quests we all love to solve but I feel this was wasted. 
+ If the same story, quests etc had been incorporated into the well loved existing Might and Magic 
+ formula I feel this would have had more success.
+  Very disappointing. 
+::::::
+
+-------------------------------------------------

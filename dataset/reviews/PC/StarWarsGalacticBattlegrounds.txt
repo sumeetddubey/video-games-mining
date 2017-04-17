@@ -1,0 +1,859 @@
+-------------------------------------------------
+:::Game Name::: Star Wars: Galactic Battlegrounds
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/starwarsgalacticb/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov 20, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.2
+Critic Score: 7.7, 35 Review (s)
+User Score: 8.3, 2,000 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: LucasArts
+Genre: Sci-Fi Real-Time Strategy
+Date:     Nov 11, 2001
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+On one hand, it's a derivative real-time strategy game. But on the other, it's a tidy little bundle 
+ of escapism that's perfect for a generation of gamers raised on Star Wars. 
+
+ Star Wars Galactic Battlegrounds will send Star Wars purists into a tizzy. Tauntauns on Tatooine? 
+ Dewbacks in outer space? Naboo Fighters tussling with X-Wings that haven't been invented yet? TIE 
+ Fighters with shields? And since when do Wookiees have tanks? The Star Wars universe already requires 
+ a willing suspension of disbelief, but most fans at least expect some internal consistency.    
+        Galactic Battlegrounds uses the Age of Kings engine suitably well.    
+
+  These are hardly grounds to dismiss LucasArts' latest real-time strategy stab at the most lucrative 
+ license of them all. But they are grounds to wonder whether this is just a cheap tug at the pocketbooks 
+ of the fans or whether any thought went into this Star Wars adaptation of Ensemble's Age of Empires 
+ II engine. Although at times it seems LucasArts was being lazy, this isn't just a slapdash skin 
+ job. Rest assured that Galactic Battlegrounds has a relatively deep design with enough twists to 
+ distinguish it from Age of Empires II: The Age of Kings.   
+
+  The fundamentals of the Age of Empires II engine are so intact in Star Wars: Galactic Battlegrounds 
+ that veterans of that game can jump right in with barely a glance at the manual. So many elements 
+ are almost identical -- the interface, the resource management, the upgradeable units, and the unit 
+ balance, for starters. The four tech levels are analogous to Age of Kings' four ages. The six sides 
+ in Galactic Battlegrounds are the equivalent of the civilizations in Age of Kings, each with minor 
+ differences. For instance, in the Age of Kings, the Turks collect gold a little faster, and in 
+ Galactic Battlegrounds, the Royal Naboo collect nova crystals a little faster. In the expansion 
+ to Age of Empires II, the Huns don't have to build houses, and in Galactic Battlegrounds, the Trade 
+ Federation doesn't have to build prefab shelters. As in Age of Kings, in Battlegrounds, each side 
+ can build a unique unit. For instance, in Age of Kings, the Teutons get Teutonic knights, and in 
+ Galactic Battlegrounds, the Galactic Empire gets dark troopers. Although each side in Battlegrounds 
+ has unique graphics for its units and structures, they're all functionally the same. In Age of 
+ Kings, each side's infantry, cavalry, archers, and siege engines have the same basic stats, and 
+ in Galactic Battlegrounds, each side's troopers, mechs, heavy weapons, and aircraft have the same 
+ basic stats. All the units can be upgraded. In Age of Kings, a militia upgrades to a man-at-arms, 
+ then to a long swordsman, then to a two-handed swordsman, and finally to a champion. In Galactic 
+ Battlegrounds, a trooper recruit upgrades to a trooper, then to a heavy trooper, and finally to 
+ a repeater trooper. There are minor exceptions. In Age of Kings, the Persians don't get champions, 
+ and in Galactic Battlegrounds, the Trade Federation doesn't get repeater troopers. And so on.  
+
+  At this point, you might think Galactic Battlegrounds is just a Star Wars front end for Age of 
+ Kings. But there are some significant differences. Since Battlegrounds deals with science fiction, 
+ ranged combat is no longer just the supporting element of an army, as it was in Age of Kings. In 
+ Battlegrounds, almost all units have some sort of ranged attack, with the occasional melee fighters 
+ serving as supporting elements. One benefit of this is that unit balance is clearly visible by 
+ the color of shots. Red laser bolts are good against infantry, blue bolts are good against vehicles, 
+ and green bolts are good against buildings. In Age of Kings, it's not immediately clear that pikemen 
+ are good against cavalry, but not archers. With ranged combat, Galactic Battlegrounds has a built-in 
+ mechanism to show unit balance.   
+
+  Another important difference is the addition of aircraft (oddly enough, the game uses this term 
+ for spacecraft like Naboo Fighters, TIE Fighters, and X-Wings) . This sort of maneuverability was 
+ never part of Age of Kings, where infantry was slow, cavalry was vulnerable, and walls could be 
+ used to shut out invaders long enough to marshal your defenses. But once aircraft are developed 
+ in Galactic Battlegrounds, there are no such guarantees. Antiair units come into play one tech 
+ level earlier than air units, so there's plenty of time to anticipate an aerial threat. But this 
+ adds a whole new layer to the basic mechanics of Age of Kings.           You may not have seen 
+ Wookiee armies in the movies, but you will here.    
+
+  Another new layer that doesn't come into play as often is stealth. There are a few units, such 
+ as advanced Jedi masters and some Gungan submersible boats, that can't normally be detected. Later 
+ in the game, the tide can be turned by sending a stealthy Jedi master into a base to convert a 
+ key structure, like the power core that powers a shield generator. It should have made for some 
+ very intense moments in the manner of Obi-Wan deactivating the tractor beam on the Death Star in 
+ the original  Star Wars  film. However, stealth is easily countered. Turrets can see Jedi, and 
+ many boats can see Gungan subs. This makes stealth a feature that looks good on paper but doesn't 
+ have much impact on the game.   
+
+  However, shield generators and Jedi are additions with significant impact. The former are clever 
+ additions to the Age of Kings gameplay that add a regenerating layer of hit points onto any unit 
+ or building within a certain radius. You need a power core near your shield generators in order 
+ for them to operate, though. The Gungans actually have a portable shield generator on their unique 
+ unit. Some units have built-in shield generators, and other units can research them later in the 
+ game. Meanwhile, Jedi aren't just Age of Empires' monks. Although they can convert enemy units 
+ to their side like Age of Kings' monks, they're not as frail -- with their lightsabers, they're powerful 
+ melee fighters that can easily take on superior numbers. The game counters them with bounty hunters, 
+ whose ranged attacks are especially powerful against Jedi. Each of Galactic Battlegrounds' six 
+ sides gets Jedi and bounty hunters.    
+
+ Because each side has essentially the same forces, Galactic Battlegrounds sometimes feels like it's 
+ not doing justice to the rich potential of the Star Wars universe. Would it have killed LucasArts 
+ to make the sides substantially different? In Age of Kings, the Britons don't vary too drastically 
+ from the Celts because, well, they're both human civilizations that evolved along similar lines. 
+ But the only real excuse for the Gungans and the Galactic Empire being so similar is that this 
+ is the way Age of Kings did it.           The Gungans look especially different from the other 
+ civilizations.    
+
+  There are other areas where it feels like LucasArts isn't even trying to mask Galactic Battlegrounds' 
+ foundation. Although the resources have names like "carbon," "nova crystals," and "ore," they're 
+ clearly the counterparts to Age of Kings' wood, gold, and stone. The maps feature suitably Star 
+ Wars-sounding muja berries, banthas, and falumpsets, but these are found in environments otherwise 
+ covered by pine trees, oaks, and palms. You'll even occasionally hear Age of Empires' chirping 
+ cricket effect, which tends to break the mood when you're on the surface of a barren asteroid. 
+ Galactic Battlegrounds replaces trebuchets with cannons, but they're the same-old ponderous long-range 
+ siege engines. Whereas trebuchets had to be "unpacked" to fire (hotkey U) and "packed" to move 
+ (hotkey P) , cannons have to be deployed to fire (hotkey still U) and un-deployed to move (hotkey 
+ still P) . Instead of a town bell to call your workers to safety, you use an "alert beacon." Instead 
+ of relics that generate gold when carried into a temple, you have "holocrons."The direct similarities 
+ to Age of Kings are plentiful. LucasArts has licensed the engine -- it might as well have stirred 
+ it up a bit more.   
+
+  There are certain conventions from Age of Kings that don't carry over very well into the Star Wars 
+ universe. Instead of peasants, you use worker droids to harvest resources -- but it still costs 50 
+ units of food to build one. Food to build a droid? If you read the manual, you'll find some nonsense 
+ about having to feed ugnaughts. The way spacecraft are modeled as swarms of hovering flies feels 
+ awfully forced. The scale of units is conspicuously off, but this is nothing that doesn't also 
+ happen in Age of Kings. Most of the time, LucasArts does a good job filling out the unit roster, 
+ even though no one knows what a Wookiee tank, a Gungan bomber, or a Rebel mech looks like. But 
+ in some instances, you get the impression that the designers just ran out of ideas.   
+
+  Regardless of the problems in translation from Age of Kings, the bottom line is that Battlegrounds 
+ is a far more successful treatment of the subject matter than LucasArts' last attempt, the wretched 
+ Force Commander. One of Force Commander's biggest problems was that it was an ugly, clunky engine 
+ burdened with a bad interface. This time LucasArts should be applauded for not trying to reinvent 
+ the wheel. What a far better idea to license one of the most successful and refined RTS engines 
+ ever and just slather on a thick layer of Star Wars stuff!   
+
+  And to be fair, the developers have gone out of their way to sprinkle Galactic Battlegrounds with 
+ vivid and surprising touches. The skirmish maps can be randomly generated from generic terrain 
+ or from Star Wars locations, each with distinct features. Tatooine maps are seeded with Jawa sandcrawlers 
+ that can be captured and used in combat. You'll find Yoda's hovel on Dagobah. The scenario editor 
+ gives the game enough flexibility to go wherever you want and bring along "hero" units. Whip up 
+ a skirmish game in which Luke and Yoda square off against Darth Vader and the Emperor. Have young 
+ Obi-Wan fight old Obi-Wan. Put that annoying Anakin kid on a tiny island all by himself.       
+     Star Wars fans should particularly enjoy Battlegrounds.    
+
+  The sound is fantastic, with the exception of an occasional bad voice-over. Leia and Han Solo sound 
+ bad enough, but the actor voicing Lando Calrissian seems to think he's been hired to imitate someone 
+ from  The Sopranos --Lando sounds like a goodfella. The single-player campaigns are little stories 
+ with characters from the movies. The Empire campaign, narrated by Mara Jade, spans the gap between 
+ the destruction of the first and second Death Stars as Darth Vader hunts down Luke Skywalker. Wedge 
+ Antilles narrates the more desultory Rebel campaign, with Princess Leia enlisting the aid of Wookiees 
+ and Jedi in the pursuit of some artifact. The Wookiee campaign follows the continuing adventures 
+ of Han and Chewie after the battle of Endor. The Trade Federation campaign details their struggle 
+ against the Naboo and the Gungans. Finally, the Gungan campaign is Boss Nass' recollection of his 
+ ancestors' campaign to unite the Gungan clans, followed by his own battle against the Trade Federation. 
+ Each campaign unlocks bonus missions that let you replay events from the movies. Revise history 
+ by holding off the Empire at Hoth, saving the Death Star over Endor, or overruning the Royal Naboo 
+ at Theed. Even better, kill some Ewoks or put Jar-Jar Binks at the head of a suicidal charge.  
+
+  When it comes right down to it, the goal of any Star Wars-themed strategy game should be to re-create 
+ the epic feel of the battles in the Star Wars movies. We just want to watch AT-ATs lumber through 
+ the snow with stormtroopers swarming around their feet. We want to see Rebel soldiers holding the 
+ line with snowspeeders coming to the rescue. And we want to hear the Imperial marching theme or 
+ that splendid "Duel of the Fates" riff while we do it. When it comes right down to it, most complaints 
+ with Battlegrounds are easily forgotten when all this happens. On one hand, sure, it's a derivative 
+ real-time strategy game. But on the other hand, it's a tidy little bundle of escapism that's perfect 
+ for a generation of gamers raised on Star Wars.    
+-------------------------------------------------
+:::User Reviews::: (31 Reviews)
+::::::
+UserName: Androvinus
+Rating: 9
+Date: Jul 21, 2008 4:19 pm PT
+Review:  Get this game. It is a ton of fun when you cant think of anything to do on your computer. the graphics 
+ are good (not exactly Civ 4 tho) the classes are great, the depth is engaging and the choices are 
+ unlimited. any RTS fan or a fan of star wars should get this . Hours and hours of fun. If you get 
+ bored of it, give it a break, and when you come back you will enjoy yourself as much as the day 
+ you bought it. It should be cheap since it came out like 5 years ago, dont miss this. this was 
+ my first RTS and I have been a fan of the genre ever since. And its still just as good as all the 
+ other RTS that I have played. Dont miss out on this  
+ 
+::::::
+
+::::::
+UserName: brianguy7
+Rating: 5.5
+Date: May 10, 2008 9:35 pm PT
+Review:  Since StarCraft, fans have been wishing for a Star War RTS. Seeing big fleets of Terran Wraiths 
+ swarming over Zerg Hives, we all imagined X-Wings making attack runs on entrenched Imperials.
+ 
+  
+  Sadly, the Age of Kings engine was a poor choice with which to attempt delivering this kind of 
+ battle. 
+  
+  Let's start with the the foundation: Age of Empires is NOT remembered for the kind of epic space 
+ battles that StarCraft delivered. For that matter, there is no "space" at all! This is the game 
+ where I remember having to keep a close eye on my peasants to be sure they are picking enough berries 
+ or finishing collecting enough meat from the deer they just speared. WAY too much micromanagment 
+ in my opinion. it also used diagonal tiles to map out the terrain -- a very Sim City-like decision. 
+ It is again, more sim than battle.
+  
+  So, patch over graphics and sounds from Star Wars and the result is... mediocre at best. AT-AT's 
+ are tiny enough that you get no satisfaction unleashing them on foes. And your army will look just 
+ silly -- try the demo. You'll see an unorganized herd of Vader, droids, speeder bikes outrunning 
+ foot soldiers, stormtroopers mounted on lizards, and so on. I am sorry to say that while they tried, 
+ this game just does not work. Moreso, it is a cheap way for Lucas to grab money -- after years of 
+ fans asking for a legit RTS, he authorizes A GRAPHICS CONVERSION of ANOTHER GAME? No thanks. 
+::::::
+
+::::::
+UserName: pasirris
+Rating: 9
+Date: Mar 15, 2008 3:27 am PT
+Review:  SWGB is just an incredible game. Reviewing it now ,4 years after I had stopped playing it, brings 
+ back nostalgic memories. SWGB was an overall very fun and enjoyable game, the single-player campaign 
+ was great, you got to play as every faction available and expand it's own story. After completing 
+ all the single-player campaigns you'd thing that they would be nothing else to do. Well, thanks 
+ to the awesome support of zone. com, you could go online and with ease, find a match in an instant. 
+ The community was great, there were many clans and you could meet a whole lot of people. There 
+ were many scenario player-made maps as well. 
+  
+  An example would be Hero/Bounty/Jedi Fest, these are maps with a small base all around the centre 
+ of the map, these would be fortified with laser turrets and could be upgraded in the latter versions. 
+ In the middle of the map, would normally have super-units that could be captured if the middle 
+ was occupied by one side for a prolonged period of time. These units would be a decided factor 
+ in the match, and this normally prevented other players from base raping/camping. 
+  
+  Another would be City-Build, a brilliant scenario in which there would be plots of land that would 
+ be of different terrain and be separated by outer-space. There would be a huge area in the middle 
+ for the host of the match to control, this would normally be known as the senate and controlled 
+ the most powerful units and had admin controls. This is comparable to God & Jesus from StarCraft.
+ 
+  
+  So you put in the great engine, graphics for it's time, gameplay and wonderful community and you 
+ got yourself a great game.
+  
+  I would like to extend this message to LucasArts. Please make a next-gen sequel to this game, you 
+ would have my fullest support. I hope you already have this in the making. It's truly an awesome 
+ game. 
+::::::
+
+::::::
+UserName: aschuhart
+Rating: 8
+Date: Mar 3, 2008 8:44 am PT
+Review:  Think of Age of Empires but add in all your favorite Star Wars characters and even units from the 
+ expanded universe and you have Stars Wars Galactic Battlegrounds. The graphics are fairly nice 
+ for a game that is 7 years old and the sound effects sound great. All factions are well balanced 
+ and have their advantages. Like most other RTS games, Galactic Battlegrounds mainly consist of 
+ the same formula of capturing as many resource points as possible, build your up your defenses 
+ and army, create as many high damage top tier units as possible (ATAT for example) and then send 
+ them out after the enemy and destroy them in one sweep. It is never the less still fun and is actually 
+ one of the few RTS's that I enjoyed playing multiplayer MORE than regular single player. The multiplayer 
+ maps are just a blast and add a new level to the game that just made it that much more enjoyable. 
+ 
+::::::
+
+::::::
+UserName: El_lexacus
+Rating: 8
+Date: Feb 18, 2008 7:25 am PT
+Review:  Star Wars Galactic Battlegrounds is a great experience for those who love Star Wars and Age of 
+ Empires. The campaigns are great fun, and will have you forgetting plans you made and then you 
+ won't feel bad because you can say that you were playing Star Wars Galactic Battlegrounds. The 
+ system handles like the classic Age of Empires, but the races are as diverse as you could expect 
+ from the Star wars universe, with each of them having special abilities and drawbacks. The skirmishes 
+ are fun, you can play them for ages as each race different times, and they never get boring. The 
+ controls are easy, and you can play loads of different missions. The controls are a lot like Age 
+ of Empires, except with a few tweaks, so this doesn't make it that difficult to pick up that game 
+ and play no matter how often you play. 
+::::::
+
+::::::
+UserName: johngebreadman
+Rating: 8
+Date: Feb 15, 2008 10:48 am PT
+Review:  I first played this years ago, and i really want to play it again, but i no longer have it. I decided 
+ to write a review about a great, but not very popular Star wars RTS
+  
+  Gameplay 9/10
+  i was addicted to this game like crazy (the days before I found FF obviously) . It had everything 
+ for me. It was a RTS which involved building a civilization, while completing missions. You could 
+ play as 7 races from the SW universe. There were varying missions, such as the campaign mode, which 
+ saw you controlling a group of famous characters from SW, such as Darth Vader, Darth Maul, Obi 
+ Wan Kenobi e. t. c. Missions ranged from defeating an army, to capturing a city, to building the 
+ starters of a civilization.
+  Then there is the deeper Quick game mode (this is a joke, they took hours) , in which you pick your 
+ own objectives and civiliaztion. You also pick your enemies and ally players. Then you played the 
+ game. The best was Deathmatch. This involved building a civilization, while destroying your opponents 
+ with troopers, sith/jedi (depending on race) , mechs, assualt weaponry e. t. c. This was the most 
+ fun and time consuming as you had to destroy every single unit the enemy had including buildings, 
+ and it was hard if you set 7 civilizations to be enemies with you. This way of creating your own 
+ games led to a lot of variation.
+  
+  Graphics: 7/10
+  Great for when it was released, the units look good, and the buildings and environments are well 
+ presented. There isnt really a lot to say, just your typical RTS game really. Not Amazing, but 
+ no pushover either.
+  
+  Sound: 7/10
+  Typical star wars noises, with the Screech of TIE fighters, and the clash of lightsabers, it really 
+ immeresed you into the SW universe. However some of the noises were a bit cheesy
+  
+  lifespan: 30 hours plus.
+  What you make of it really, If you just like doing the Campaign missions 
+ dont buy it, because there is only about 10 hours here, but the Custom game settings allow you 
+ to make games that can take upto 3 hours to play, and you can save whenever you want
+  
+  Overall 8/10 
+::::::
+
+::::::
+UserName: Aquabfan
+Rating: 9
+Date: Dec 29, 2007 8:05 pm PT
+Review:  Star Wars: Galactic Battlegrounds is an awesome game filled with fun campaigns and cool options 
+ to choose from like Creating your own scenarios and story mode. You can have fun with all of these 
+ options and play for hours and hours. You start out with a Command Center and three worjers and 
+ have to build everthing up from there, workers gather Carbon, Nova, Food, and Ore which can be 
+ spent on Troop Centers, Troops, walls and more to help build your base. It is wicked fun to gather 
+ a huge army up and send them out to battle with one of your enemy's. The difficulty isn't that 
+ bad, you get to pick your own which basically just has the computer attack you or not attack you. 
+ I always like to play everything on hard and it isn't that bad, but you can't expect to win every 
+ time when playing on hard. You can choose from a countless number of maps when playing on standard 
+ game and that makes it a lot of fun you can send ships over water to attack troops by foot or aircrafts 
+ by air to try and take you enemy out. The game doesn't really have anything wrong with it but you 
+ run out of features to play after awhile and it starts to get repetitive.
+  
+  I highly recommend this game, it was a must-buy game for me and if you like Star Wars you should 
+ enjoy playing it. 
+::::::
+
+::::::
+UserName: thawitsri
+Rating: 10
+Date: Oct 8, 2007 3:45 am PT
+Review:  I like this game It very Sci-Fi Real-Time Strategy I try to fine a chat because It play very hard 
+ -*- This will be displayed on the community reviews index, so make it snappy!
+  All its new features combine and I will buy Stage 2 of this game too lots of challenges and variety 
+ for real-time strategy players of all skill levels, and it'll be particularly fun for fans of previous 
+ Star Wars: Galactic Battlegrounds Too. And this game it have many Chat ^^/ ... (~ ) ~You speak 
+ of the day we met just like speaking of scenery Here is the gateway to summer at duskBecause when 
+ you feel the windOn the slopes you dash on when flipped by the bells
+  You can laugh away even the things you worry about
+  Tomorrow will be sunny day, okay 
+::::::
+
+::::::
+UserName: ebbderelict
+Rating: 9.2
+Date: Jan 27, 2007 5:59 pm PT
+Review:  I'm not a real big fan of RTS's, but Galactic Battlegrounds was a much different experience for 
+ me. I'll admit that it's likely due to the Star Wars lincense attached to it. I found the license 
+ itself was used very well. The sound is classic Star Wars, and they've made lots of Characters 
+ and Vehicles from the universe available to the players. There are also a number of building and 
+ unit upgrades to set your sights on. The graphics are clear, and do the job. Although they still 
+ serve their purpose, they have aged well when you compare it to the RTS's that have followed it.
+ 
+  
+  As far as the gameplay goes, I found it very addictive. Not so much the main game mind you. I barely 
+ played the campaigns included in the game. It was the map creation mode that kept me up to 3am 
+ on more than one occassion. Building then playing my own maps was fun, easy, and intutive. I fought 
+ the battles I wanted to fight. I loved every minute of it. And there was an abundance of those 
+ minutes. Online play is also available to take your gameplay even further.
+  
+  Still a joy to get into, I would recommend it to RTS and Star Wars fans alike. 
+::::::
+
+::::::
+UserName: demondragon55
+Rating: 9.3
+Date: Jan 18, 2007 4:58 pm PT
+Review:  I got this game a long time ago, back when it cost $30. After all those years it is one of my favorites. 
+ Ok, first, the gameplay: Awesome, using the AoE engine was great (I've only played AoE III, but 
+ at the time I had no clue what an engine was) You get to play as a number of different side; Wookie, 
+ Trade Federation, Gun Gans, Rebel, Empire, and Naboo. What more could a Star Wars fan ask for? 
+ Graphics, at the time, I'm sure they were good. But I wouldn't compare them to any current ones. 
+ But Graphics are only icing on the cake. But, I'll give it a good graphics rating cuz of the date 
+ it was made. You can't ask for Gears of War looks on an 6 year old game.
+  
+  Sound, typical Star Wars stuff. Blasters rifles, units screaming when they die, stuff exploding, 
+ all done very well.
+  
+  Value, I played this game from the time I got it, till my little bro destroyed it only a two years 
+ ago. If they updated this game with new graphics and added a few new some of the features from 
+ Star Wars Empire at War, you'd have the ultimate Star Wars RTS. 
+::::::
+
+::::::
+UserName: monkeytoes61
+Rating: 8.8
+Date: Oct 19, 2006 7:55 pm PT
+Review:  Star Wars: Galactic Battlegrounds takes place during the 1st, 4th, 5th, and 6th episodes. This 
+ game is pretty much Age of Empires: Age of Kings with guns and tanks instead of swords and cavalry. 
+ Most units can be upgraded like the troops. They start out as recruits, then regular, then heavy, 
+ then repeater. Even though the 6 factions being quite similar there are still minor differences. 
+ For example, the Trade Federation doesn't need to build prefab shelters (houses) . But they can 
+ only upgrade their troops to heavy troopers. Despite some of the campaigns being lame there are 
+ a few fun ones. The graphics are okay but nothing to rave about. Even though this is a great SW 
+ strategy game, I am seriously looking into Empire at War. Anyways if you get this game I am sure 
+ you will enjoy it. 
+::::::
+
+::::::
+UserName: Defender_502
+Rating: 8.4
+Date: Oct 5, 2006 3:46 pm PT
+Review:  A long time ago in a galaxy far, far away...
+  
+  Star Wars Galactic Battlegrounds was a fun game on the PC. It put the player in control of all 
+ land, sea, and air assets of one of six political groups from the Star Wars universe: the Rebellion, 
+ the Empire, the Wookies, the Naboo, the Trade Federation, or the Gungans.
+  
+  Star Wars Galactic Battlegrounds was very similar to the Warcraft series of games, in that the 
+ player was required to mine various resources (nova crystals, Carbonite, and wood) which were then 
+ used to create everything from buildings, to soldiers, to ships. Just like in Warcraft, the player 
+ would use the mouse to select offensive forces, then click the map to direct the movement of the 
+ forces, or click on enemy forces to engage.
+  
+  The player could increase his level by creating specific structures. As the levels increased, the 
+ player's technological edge would also increase, allowing weapons systems to become more powerful.
+ 
+  
+  There were two primary options within the game, the player could play the story mode which would 
+ pit the player against increasingly difficult enemies in his quest to rid the galaxy of the Empire, 
+ or quell the Rebellion, dependent on who the player was playing as. The second option was an open-ended 
+ campaign where the player was given resources, and had to establish a base of operations from which 
+ war could be waged against the enemy. In this campaign mode, alliances could be established in 
+ order to overwhelm the common enemy.
+  
+  Since Star Wars Galactic Battlegrounds was a Star Wars game, favorite characters such as Luke Skywalker, 
+ Han Solo, Princess Leia, and Darth Vader were playable, among many others from across the Star 
+ Wars universe. Additionally, recognizable buildings including Jedi temples were available, as were 
+ vehicles from the series, including X-Wings, TIE Fighters, the Millennium Falcon, AT-ATs, and AT-STs 
+ among many others.
+  
+  Since Star Wars Galactic Battlegrounds was licensed through LucasArts, all the music and sound 
+ effects mirrored those from the films.
+  
+  Star Wars Galactic Battlegrounds was a fun game, which was very easy to become immersed in, providing 
+ hour after hour of enjoyment. 
+::::::
+
+::::::
+UserName: Knight-Blade
+Rating: 7
+Date: Jun 28, 2006 12:17 am PT
+Review:  Okay I got this game back when it first released, and I loved it, it was a SW RTS that used the 
+ Age of Empires II Engine, for the most part it was pretty good and fun for awhile, however, playing 
+ singleplayer and muiltplayer really have its differences. While the AI in both modes can be some 
+ what, weak, its forgiveable. 
+  
+  However, The AI Enemies if you want to play Singleplayer are just slightly too weak on the Easiest 
+ setting, Medium it gets alittle better not much, Hard is a hundred times better than Medium and 
+ even more so than easy, if you want to have some what of a challenge with AI players then you g 
+ otta have aleast 3 maybe 4 AI factions to give yourself somewhat of a challenge. However, if you 
+ truely want to enjoy this game, outside of story mode/campains, You have to play Muiltplayer with 
+ some friends/strangers and use the Map Editor for Customized Game play. 
+  
+  This is the core root of enjoyment with this game its basically the reason to purchase this product, 
+ so you can play with Die Hard SW fans across the nations of the globe. and with people who aren't 
+ the biggest SW fans. can get some enjoyment of playing this game over muiltplayer with their friends. 
+ with this experience. What saves this game from being medicore is the Muiltplayer, Map Editor, 
+ and Other Customizable atributes to this game.
+  
+  Basically its a Age of Empires game, only SW style, its got the same feel to it, the same building 
+ structure to the game. Its a huge improvement, over the dissappointing Force Commander RTS game. 
+ but its not revolutionary, its just a Okay SW game thats worth playing. Nothing too Good, Nothing 
+ too Bad, Nothing too boring.
+  
+  Its very much a Medicore game, thats it.
+  
+  Worth playing, however, If you want something better, I recommend, Empire at War, and Age of Empires 
+ II & III. 
+  
+  7.1 out of 10. good. 
+::::::
+
+::::::
+UserName: ironsoap
+Rating: 6.2
+Date: Jun 15, 2006 10:48 am PT
+Review:  Initial reports of Star Wars Galactic Battlegrounds was that it was going to use the Age of Empires 
+ II engine to create a Star Wars real time strategy game. Being that AoE II was brilliantly executed, 
+ it seemed like such a great idea. Clearly the developers thought so as well.
+  
+  The real problem is that they did exactly what they promised: They made a Star Wars RTS out of 
+ AoE II. When you really think about that, you may realize that it makes a lot less sense than it 
+ seems on the surface. What fans may have been clamoring for in fact was more along the lines of 
+ "A Star Wars RTS that is as good for that setting as AoE II was for its historical setting." That's 
+ a much less specific desire but one that may have made for a better game.
+  
+  When you play SW: GB it doesn't take long to figure out that you're playing AoE II with sprite replacement. 
+ The sense of scale introduced by lumbering AT-ATs and the scarcely controllable quickness of the 
+ Speeder Bikes are necessarily dialed back in order to both fit the engine and maintain balance 
+ and presentability. But while the technical limitations of the engine may make these shortcomings 
+ understandable, they don't make them forgivable when the end result is a bland gaming experience.
+ 
+  
+  The carefully crafted balance of the different selectable armies in AoE II is tossed aside for 
+ a short list of tacked on armies in addition to the obvious Rebellion and Imperial forces. Playing 
+ as either of the main factions has its moments of enjoyment, but trying to compete as the Trade 
+ Federation ragdolls or the bizarrely included Wookiees whose unit types are pulled from thin air 
+ rather than from any existing Star Wars fiction is pointless.
+  
+  The limitations of the AoE II to Star Wars translation becomes pretty apparent when you see how 
+ the designers struggled to include X-Wings and TIE Fighters into a primarily terrestrial-based 
+ campaign. Adding as many flying units to the game as they did unbalances a lot of games as building 
+ defenses for both ground-based and airborne attacks can be frustrating and when one lucky raid 
+ by an opponent can set you up for a long but ultimately futile fight to catch up with your enemy's 
+ progress. Other aspects like resource mining is poorly translated as well since it appears almost 
+ unchanged from the AoE II incarnation (save for some perfunctory name changes) and after a few 
+ rounds you may find yourself thinking, "Why do I need to manually mine Ore when I'm the fracking 
+ Empire for Pete's sake?" And such a question would deserve a decent answer; none is provided.
+ 
+  
+  Not to say that Star Wars: Galactic Battlegrounds is all bad. If you can forgive the rough translation 
+ issues, on its own there is a relatively decent amount of standard RTS-style fun to be had. After 
+ all, this is AoE II with Star Wars sprites so as long as you stick to Rebellion or Imperial forces 
+ you can enjoy a few rounds of AoE II without all that annoying realism. That may be worth a dozen 
+ hours or so for novelty but don't bother trying to play as Gungans or any of the other cheesy races.
+ 
+  
+  In the end the problem seems to be that the designers never got past the "It's Age of Empires... 
+ but Star Wars!" pitch line. The inspiration and dedication to the license seemingly stopped at 
+ that point as they didn't seem to try very hard to really bring a sense of the Star Wars universe 
+ into the game, thinking two proven entities melded together would equal something twice as good 
+ naturally. Unfortunately they didn't account for the limitations or the design focuses of either 
+ property and the match ended up being less than perfect. 
+::::::
+
+::::::
+UserName: MASTERDUELIST50
+Rating: 7.8
+Date: Mar 13, 2006 4:55 pm PT
+Review:  For those who are star wars fans you might notice that some of the game does not align with the 
+ story of the movies. If you have played age of empires you notice right away that there are a lot 
+ of similarities between them. Galactic Battlegrounds still uses the Age of Empires engine suitably 
+ well. It is a very amusing game especially if your going to play with your buddies online. The 
+ game takes the technology of the movies and turns it into an understandable thing. The units are 
+ quite accurate to the movies. It is a must buy game. Great Game to buy and play for a long time. 
+ 
+::::::
+
+::::::
+UserName: alizhd
+Rating: 8.6
+Date: Mar 13, 2006 4:51 pm PT
+Review:  it is a crazy game in the world. play on line is the best. If you wonna play a good strategy play 
+ this one. the game play of this game is good because the clicking is not good at all but the sound 
+ is good. the jedi's are not good at all, one time i was playing it online. i lost because of jedi. the 
+ are not good at killing people. but overall the game is fun. who those love strategy games like age 
+ of empire 3 they will love this game tooo. althought there are some stuff that are not good. i like 
+ the gameplay because how you move people is fun however the clicking is not fun at all. 
+::::::
+
+::::::
+UserName: plaguies
+Rating: 8.1
+Date: Feb 23, 2006 1:36 am PT
+Review:  When i first played this game, I said to my self "this is probably the best starwars game i ever 
+ played. I loved the gameplay, the graphics. but I specialy liked the map editor. i could just be 
+ crazy creating new maps. It really gave me the experience of creating a large and powerful empire. 
+ But sadly the sounds were just recorded and were played over and over again. There was no emotional 
+ intensity to it. And there was no uniqueness in the units. the biuldings would just follow a pattern 
+ and the units looked different bu in truth they all looked disame. i just wish they would create 
+ Galactic battle grounds II with a more unique sense. I don't want it to be another age of empire 
+ or age of mythology copy. i want it to be unique in its own sense. But still a great game. I could 
+ just play it for ever and ever and ever.......... 
+::::::
+
+::::::
+UserName: flibblewerfer
+Rating: 8.6
+Date: Feb 19, 2006 11:28 pm PT
+Review:  Fun RTS game, but exactly like the Age of Empires franchise. If you liked Age of Empires you'd 
+ like this, if you're also a Star Wars fan you'll love it. The game has plenty of factions to play 
+ as, plenty of varying maps to play on, and dozens of units, including infantry, tanks, vehicles, 
+ ships, and of course the space ships that give the franchise the name. It also has 2 story modes, 
+ where you can either play as the rebels, commanding such as Luke and CHUBACA LALALAAAAAA! Or play 
+ as the Empire commanding guys like Vader LA.... Overall the game was pretty good and offers hours 
+ of fun, though i was never able to get the multiplayer running, it was still fun. 
+::::::
+
+::::::
+UserName: Talonfire
+Rating: 6.3
+Date: Feb 16, 2006 8:29 am PT
+Review:  The previous two Star Wars RTS games Rebellion and Force Commander left a lot to be desired; so 
+ Lucasarts decided to license the game engine of one of the more popular RTS series' and create 
+ a flawless masterpiece. Did they succeed? Perhaps if you liked Age of Empires they did.
+  
+  There is no real consistant storyline in Galactic Battlegrounds to speak of. There are a few campaigns 
+ that follow certain characters through "historic campaigns" a lot like the AoE series. Each campaign 
+ features a different plot and is in no way connected to the other ones (directly anyway) .
+  
+  The gameplay in GB is exactly the same as the AoE series right down to the lack of any real 
+ difference between the factions. There are fishing ships, a form of farms, droids picking berries 
+ from bushes... it's all here. This may be a Star Wars gamer's fantasy come true if they loved Age 
+ of Empires, however; the slow paced gameplay and the utterly bizzarre fact the droids require food 
+ to be built, and that they have to chop wood is a turn off for me. GB feels more like a large AoE 
+ II mod rather than a professional Star Wars game since the developers didn't seem to try to alter 
+ any gameplay elements. In GB you're still required to advance through tech levels (known as Ages 
+ in the AoE series) to upgrade units and research new technology to advance your faction, and increase 
+ their power.
+  
+  The graphics in GB are both similar and different to those in AoE II. The unit and building art 
+ is of course more sci-fi, and more unique between factions compared to the AoE series. The forest 
+ maps look like they were taken right out of AoE II, however; fortunately most of the map tile sets 
+ seem to be somewhat original. This doesn't change the fact that GB feels more like an AoE II mod, 
+ however.
+  
+  The audio is satisfactory; there are classic Star Wars blaster sounds and explosions as well as 
+ decent voice acting (though some of the character stand ins sound lousy; especially Lando, Han 
+ and Leia) . The music is taken from both the original trilogy and Episode I, but I personally turned 
+ the music off since I got tired of hearing Duel of the Fates every time I started a new map.
+  
+  Galactic Battlegrounds is suitable for Star Wars fans or general RTS gamers who loved AoE II, 
+ but at its core it is nothing more than a glorified mod, and quite frankly the AoE II engine doesn't 
+ mix well with the Star Wars settings. At least not a version that is barely modified at all. Try 
+ the demo if you must, but if you've played Age of Empires II then there's nothing to see here. 
+ 
+::::::
+
+::::::
+UserName: dragon247uk
+Rating: 9.3
+Date: Jan 28, 2006 12:17 pm PT
+Review:  Star Wars: Galactic Battlegrounds is a great buy for anyone who loves Star Wars and is familiar 
+ to the controls of Age of Empires 2. 
+  
+  Galactic Battlegrounds gets you involved in the plot of the Star Wars saga and shows you the missions 
+ from the expanded universe that will please you no matter how much game experience you have. 
+ 
+  
+  You will be able to control favourite ships and units such as the Super battle droid and the classic 
+ Tantive IV. All of which will come in useful at one point. But what if you don't want to play the 
+ campaign? Well don't worry, they have a Skirmish mode where you can choose whatever civilisation 
+ you want and whatever map you want. Even maps that aren't even mentioned in the saga. 
+  
+  You don't even have to wait for loading sceens either. The closesed thing to a loading screen what 
+ you will get is a screen that says 'modifying map' even then it only stays on for 5 seconds. 
+ 
+  
+  Okay, the graphics are a bit outdated today but what does graphics matter when you have the classic 
+ soundtrack and great missions. 
+::::::
+
+::::::
+UserName: someotherguy654
+Rating: 8.9
+Date: Dec 10, 2005 8:50 am PT
+Review:  This game has one of the highest "addictive ratings" for me. Even though the graphics aren't top 
+ of the line, it is still fun. It's a real time strategy game (with the overhead view) it makes 
+ you feel like a general or a master strategist (that means you should get the game if you have 
+ inferiority problems) . This game has good computer AI for both your enemies and allies. The sound 
+ is STAR WARS with all the cool sound effects and music. 
+  I think there are six factions ( let's see if I can remember each one) there is the Trade Federation, 
+ the Rebels, the Empire, the Royal Naboo Army, the Gungans, and the Wookiees. Each faction has their 
+ strengths and weaknesses. There are six campaigns for the six factions with bonus missions and 
+ instant play options there are online options also. If you like Star Wars, or you like real time 
+ strategy games, or you want an addictive PC game, this is the game for you. There is an expansion 
+ pack which introduces the republic army and the confederacy of independent systems, and their campaigns. 
+ There is a combo pack which has this game AND the expansion pack. 
+  
+  I'm hungry (end of review) 
+::::::
+
+::::::
+UserName: africkinbaboon
+Rating: 9.1
+Date: Nov 25, 2005 9:17 pm PT
+Review:  I really enjoyed this game. I have played some of the age of empires games and this is a perfect 
+ fit for the series. 
+  
+  If you are a fan of the series Age of Empires and you like star wars well then this is the perfect 
+ game for you. It has all the Star Wars classic units and vehicles. 
+  
+  Gameplay: extremely fun and versatile, play as multiple factions, by yourself with friends or even 
+ against computers name your game and you can play it with this game. 
+  
+  Graphics: well lets just say they aren't the best ever but still very good and the unit movements 
+ are still very good even with 40 to 50 units on the screen.
+  
+  Sound: like all Star Wars related games or movies the soundtracks are always extremely good.
+ 
+  
+  Value: The value is admirable. if you like solo pick it up, and if you like multiplayer get your 
+ friends to get it. anyway you look at it this game is great for hours of fun and exciting battles. 
+ 
+::::::
+
+::::::
+UserName: yanks26wsw
+Rating: 7.4
+Date: Nov 19, 2005 8:04 am PT
+Review:  Pretty good game but nothing to brag about. It is Age of Empires in Star Wars form. But Age of 
+ Empires is much better. This game has a lot of different view points. Some say its great others 
+ say it is horrible. Now this is what I think. The game play is good and fun. During the campaign 
+ mode it is very fun. The graphics are kind of lousy and are the low point of this game. The sound 
+ is pretty good and accurate with the Star Wars movies. The value is also pretty good. After you 
+ beat the game there is things to do. This is a good but nothing special game. Before you buy it 
+ ask and see if any of your friends have at and ask to borough it. 
+::::::
+
+::::::
+UserName: Movieguy152
+Rating: 7.7
+Date: Nov 1, 2005 7:55 pm PT
+Review:  All right, being a huge age of empires fan and an even bigger star wars fan, I have to say I love 
+ this game. It is baisically the same thing as age of empires except with star wars resorces and 
+ units. The jedi are a really cool unit to use. I had ten hero units... all jedi... kill about 80 
+ storm troopers. It was so sick. One major difference between battlegrounds and age of empires, 
+ is that battlegrounds is based on ranged weapons were as age of empires is more about the swords 
+ and close combat. But other than that its pretty much the same. Worth while for any star wars fan 
+ or someone who doesn't have age of empires, but if you have age of empires and don't like star 
+ wars... don't bother. I personally LOVE it though. 
+::::::
+
+::::::
+UserName: scraggsy
+Rating: 6.5
+Date: Oct 22, 2005 12:45 pm PT
+Review:  This is an ok game, but every race is the same, just different skin, i mean, would it kill them 
+ to make up some names?
+  The gameplay is good enough, but there isnt any substance, i mean, beacause its all "Trooper recruit" 
+ instead of battle droid, or something, it doesnt really put you in the star wars universe, more 
+ aoe with a new look.
+  
+  Ill have to admit it is fun crushing enemies with ATAT's, but hang on, there not ATAT's, their 
+ Assault mechs, just like every other race.
+  
+  The campaign is quite good, but a little tiresome, really, its multiplayer only really. 
+::::::
+
+::::::
+UserName: jr9119
+Rating: 6.5
+Date: Oct 16, 2005 8:05 pm PT
+Review:  Good, but hi is just an "Age of Empires" with a Star Wars skin.
+  I like because the game explain more about the Star Wars universe.
+  I hope that expansion "Clone 
+ wars" have some more innovation.
+  and the force be always with you.
+  Long live for George Lucas, Master Yoda, all Skywalker family, C3-PO,  
+ 1 1 1 1 1 1 1 1 1 1 1 11 11 1 1 1 1 1 1 11 1 1 1 1 1 1 1 1 1 1 1 1 1 1 11 1 1 1 1 1 1 1 1 1 1 1 
+ 1 11 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+::::::
+
+::::::
+UserName: andrew21nz
+Rating: 8.2
+Date: Jun 12, 2005 3:54 am PT
+Review:  This games is basically Age of Empires, Star Wars syle, you build armies, attack your enemies and 
+ try and take dominance of the map, all in the normal strategy game format.
+  
+  The best part of single player though is the campaigns, where you can take control of the Galactic 
+ Empire, Naboo, Rebels, Gungans, Wookies, or droid armies and in the expansion the clones and CIS.
+ 
+  
+  But the best part of this game is the online gaming on the zone. com, where you don't play the building 
+ part, you just play the attacking with interesting games such as Jedi Fest where you control Jedi 
+ and you attack other Jedi from the other team and the more kills you get the better Jedi you receive 
+ to use to attack.
+  
+  If you are interested in a good online Star Wars game this is for you, although before you buy 
+ it check out zone. com and see how many people still play it, I haven't played for a while... 
+::::::
+
+::::::
+UserName: 043030
+Rating: 6.1
+Date: May 3, 2005 7:00 am PT
+Review:  I was very excited when I first obtained Star Wars: Battlegrounds. You could control many races 
+ and teams, such as the Empire, the Trade Federation, the Rebel Alliance and the Gungans! You could 
+ relive many great battles! You could control AT-STs and AT-ATs! The possibilities seemed endless!
+ 
+  
+  However, the game I played was not what I was expecting.
+  
+  Firstly, Star Wars: Battlegrounds is much too similar to Age of Empires 2 for a co-incidence, I 
+ think. The style of gameplay is similar, buildings are the same in principle, but with some different 
+ names, and units and combat all closely resemble Age of Empires 2, just in the Star Wars universe. 
+ The menus even have the same font and layout!!
+  
+  Campaigns were uninspired and lifeless, and they didn't thrill me as I thought they would. Combat 
+ was drab. Nothing really excited me in Star Wars: Battlegrounds. I had seen it all before, nothing 
+ was revolutionary.
+  
+  I am sure that there are many people would enjoy this game, but even I, who am an avid Star Wars 
+ fan, was disappointed. If you are looking for a great RTS game, look else where. You'll have more 
+ fun with Age of Empires 2.
+  
+  It could have been great. Too bad. 
+  
+  
+::::::
+
+::::::
+UserName: dwdrums36
+Rating: 9
+Date: Mar 24, 2005 1:07 am PT
+Review:  If you like Star Wars you'll love this RTS. It's got a lot of great features and boasts some great 
+ linear movie elements too. The ability to controly many different factions is a nice little thing 
+ too.
+  
+  Graphics: Not as great as other RTS' but still awesome. The ATAT's and the like move amazingly 
+ well with alot of stuff going on on screens so props to the developers on that one.
+  
+  Sound: Can't have a Star Wars game without the awesome dramatic music and laser sounds. And by 
+ golly, you've got as much as you could want here.
+  
+  Gameplay: Real good single player believe it or not. I find in this game that the single player 
+ is much more fun than the multiplayer. A majority of the time I set up a little LAN game for myself 
+ with computers set on hard difficulty and go for hours.
+  
+  Value: Simplay amazing. Pick it up if your a fan of STW or if your not. Either way it will hold 
+ you voer until the next Star Wars RTS comes out. Should be soon I think? 
+::::::
+
+::::::
+UserName: -Ubergeek-
+Rating: 7.4
+Date: Nov 7, 2003 3:53 pm PT
+Review:  This is a Age of Kings clone, plain and simple. It uses the same engine. The EXACT same engine. 
+ Says right there on the box. 
+  You're probably staring at my review score, saying "How can a game as good as AoK get so, well, 
+ mediocre?" I guess part of it is the universe itself. See, AoK had the perfect background. Games 
+ that are medieval probobly won't encounter any problems with the background there. But, you see, 
+ Star Wars is hard for a strategy game to use. Especially since Lucasarts tries to use the AoK engine. 
+ It falls flat. Who's heard of Wookie tanks? Gungan aircraft? People have to really use their imagination 
+ on some of these units.
+  Call me crazy, but aircraft combat SUCKS! The aircraft approach each other, appear to hover while 
+ shooting laser bolts no stronger that troopers' guns, and ALL explosions are the same.
+  Graphics: AoK style. Lasers look "just" ok.
+  Sound: Star wars sound. Tell me if that's good or 
+ bad. Don't like it? turn it down.
+  Worth it? Not really. It requires 400 something of disc space. 
+::::::
+
+::::::
+UserName: Ackbar
+Rating: 9.1
+Date: Apr 4, 2003 8:51 am PT
+Review:  Ok. This is a truly superb RTSwhich, with patience, determination and skill, is quite possibly 
+ the most addictive game you will play. Unique units, which are featured in the Films all have different 
+ strengths and weaknesses. The mixture of fighting forces is second to none. You have air units 
+ such as starfighters and x-wings. Also walkers, artillery, pummels, an array of different troops 
+ and need I say it JEDI. This game is a must for any Starwars fan. 
+  The people who have dissed this game in my opinion havent given it a chance because compared to 
+ most RTS engines its built on the best. 
+  
+  From NL_Ackbar of the Lucasforums 
+::::::
+
+-------------------------------------------------

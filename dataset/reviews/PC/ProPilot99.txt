@@ -1,0 +1,103 @@
+-------------------------------------------------
+:::Game Name::: Pro Pilot 99
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/propilot99/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov 16, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.5
+Critic Score: 6.8, 7 Review (s)
+User Score: 7.8, 24 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Sierra Entertainment
+Developer: Dynamix
+Genre: Flight Simulation
+Date:     Oct 31, 1998
+
+-------------------------------------------------
+:::Review:::
+The good news is that Pro Pilot '99 is a dramatic improvement over that first release, building 
+ on the features of that initial release and filling many of the holes. 
+
+ Sierra's initial entry into the civilian flight simulator market, Pro Pilot '98, was far from the 
+ Microsoft Flight Simulator killer it was touted as. Released in a buggy, unfinished state, the 
+ program's problems far outweighed its technical achievements. A series of patches eventually fixed 
+ the major flight model problems and got the program into a stable state, but many sim fans were 
+ left disappointed by the program's 2D-only graphics and design quirks.  
+
+ The good news is that Pro Pilot '99 is a dramatic improvement over that first release, building 
+ on the features of that initial release and filling many of the holes. Enhancements such as support 
+ for 3Dfx graphics cards, better flight models, more complete air traffic control (ATC) , and more 
+ thorough documentation make Pro Pilot '99 the program that the first version should have been. 
+ There's still plenty of room for improvement, though.  
+
+ Like the original version, Pro Pilot simulates a good cross-section of the general aviation aircraft 
+ market: the Cessna 172 Skyhawk and Beechcraft Bonanza V35 singles; the Beechcraft Baron and King 
+ Air twins; and the Cessna CitationJet 525 jet. Two models of the Skyhawk are included, the original 
+ 172P and the updated 172R. Each plane's instruments and controls are modeled in great detail, significantly 
+ better than the panels in Flight Simulator 98. All the switches are there, from fuel tank selection 
+ to working landing lights.  
+
+ Newbie pilots will appreciate the new Pop-Up Operator's Handbook feature, which includes step-by-step 
+ checklists for procedures such as starting the aircraft, takeoff, climb, descent, and landing. 
+ In addition, there are a number of flight tutorials created in cooperation with the National Association 
+ of Flight Instruction (NAFI) . If you've never flown a general aviation sim before and you want 
+ to learn how to do things properly, or if you're interested in someday getting your pilot's license, 
+ Pro Pilot '99's tutorials, its 30 AVI demonstration videos, and its thorough system simulations 
+ are an excellent introduction to how to do things properly.  
+
+ Unfortunately, "properly" is the key word here. As long as you stay within the normal flight regimes 
+ of these aircraft, their handling and performance are very close to the real planes. Takeoff, climb, 
+ approach, and so on are convincing, and the landing problems of the '98 version have been fixed. 
+ However, if your plane ends up in what's referred to in aviation as "unusual attitudes," the flight 
+ modeling falls apart. Try to do a loop in a Bonanza, and your plane's nose will freeze once it's 
+ perpendicular to the ground. Pushing the plane into a spin isn't handled properly either. While 
+ these quirks won't affect pilots who are interested in using the sim to replicate normal, real-world 
+ flight plans, many pilots and gamers like to use sims to attempt maneuvers that they wouldn't dare 
+ try in real life. Also, the planes' sometimes-docile behavior can lull inexperienced pilots into 
+ a false sense of security. It would be far better if the planes could be pushed into unusual attitudes, 
+ so future pilots could see the consequences of mishandling and learn to recover from such situations. 
+ Here's hoping that future releases of Pro Pilot replace the flight model with one that acts properly 
+ in all regimes of flight.  
+
+ Another incremental improvement is in the graphics department. The jaggy, pixelated graphics of 
+ the original release are smoothed out with bilinear filtering, transparency, MIP-mapping, improved 
+ haze, and the best clouds we've seen in any flight sim. However, these improvements are only present 
+ if your computer is equipped with a 3Dfx Voodoo, Voodoo2, or Banshee graphics card. With any other 
+ brand of 3D card, you're stuck with graphics little-improved from the original release, with the 
+ lovely cumulous clouds replaced by flying white Legos. The sim supports only 640x480 resolution 
+ in both 2D and 3D modes.  
+
+ Terrain graphics are a mixed bag. The textures are very muddy looking, especially at low altitudes. 
+ And many areas seem inappropriately textured - Sedona, Arizona, a desert environment, is rendered 
+ in a lush green. While the textures could use improvement, height modeling is very well done. Mountains 
+ are where they should be, and they don't look like polygonal pyramids dropped onto a tabletop. 
+ If you want to buzz the Grand Canyon, fly around Mt. Rainier, or make the hilly approach into Pittsburgh, 
+ you'll be met with appropriate terrain.  
+
+ In addition to accurately height-mapped terrain for the US, Canada, and Western Europe, Pro Pilot 
+ 99 includes over 3,500 airports and all the appropriate navigation aids - VORs, NDBs, and ILS equipment 
+ - for the areas modeled. There's also a very well-modeled Global Positioning System display, which 
+ is tied to the autopilot. An excellent flight-planning interface lets you create cross-country 
+ flights, complete with ATC vectoring. There's some modeling of other air traffic around airports, 
+ but for the most part you're alone in the skies. The experience here is closer to Flight Sim 98's 
+ dynamic scenery than Flight Unlimited II's crowded airspace. So even landing at Chicago O'Hare, 
+ you'll encounter only light traffic - and it's all general aviation craft, with nary a DC-9 in 
+ sight.  
+
+ Overall, Pro Pilot '99 is a dramatic improvement over its predecessor and is definitely worth picking 
+ up if you're a non-pilot interested in learning about realistic flight procedures or for pilots 
+ looking to practice instrument navigation without the expense of taking up a real plane. If you're 
+ interested in pushing the performance limits of your aircraft or flying over photo-realistic scenery, 
+ though, you'll want to check out one of the other general aviation offerings.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

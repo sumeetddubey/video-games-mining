@@ -1,0 +1,137 @@
+-------------------------------------------------
+:::Game Name::: Rising Sun
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/risingsun/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Feb 25, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.5
+Critic Score: 8.2, 13 Review (s)
+User Score: 8.3, 33 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: TalonSoft
+Genre: Strategy
+Date:     Dec 6, 2000
+
+-------------------------------------------------
+:::Review:::
+TalonSoft's Rising Sun shows that the company has continued to refine its wargames even more, and 
+ the result is very impressive. 
+
+ Back in 1998, TalonSoft lined up a host of wargaming heavy hitters like Bob McNamara, Charlie Kibler, 
+ John Tiller, and even James F. Dunnigan himself to headline what was to be a blockbuster new game 
+ called East Front. Unfortunately, the game released with a completely inadequate manual and a host 
+ of bugs that rendered it almost unplayable. But TalonSoft was undaunted by the game's poor reception, 
+ and quickly made much additional documentation available for download from its web site, just as 
+ it soon issued the first of several patches. This kind of product support and improvement has helped 
+ restore a good reputation for TalonSoft and its wargames. TalonSoft's Rising Sun shows that the 
+ company has continued to refine its wargames even more, and the result is very impressive.  
+
+ Rising Sun is the third piece of the TalonSoft tactical wargaming trilogy called the Campaign 
+ Series. After the release of East Front, the game engine underwent a significant overhaul for the 
+ subsequent West Front, and it's the West Front engine that has been improved on for Rising Sun. 
+ Because Pacific Theater combat differs so much from that in Europe, there are a lot of additional 
+ rules in the game. For instance, since it was common for Pacific Theater combat to occur at night, 
+ there are extensive night rules. Rules for caves let players re-create the bitter fighting on islands 
+ like Iwo Jima and Okinawa, while banzai attacks are a fearsome weapon unique to the Japanese arsenal. 
+ Pacific Theater terrain, such as dry and flooded rice paddies, jungle, and even kunai (elephant 
+ grass) , is also well represented in Rising Sun.  
+
+ The game mechanics will be instantly familiar to anyone who has played serious wargames in the past. 
+ Rising Sun is a platoon-level game that plays out over a hex grid. Movement and combat are carried 
+ out simultaneously, as players alternate turns. Each unit has 100 action points, which can be spent 
+ moving, firing, or a combination of the two. The number of action points required to perform a 
+ certain action depends on the type of unit involved, the terrain, and sometimes even the weather. 
+ Scenarios can combine a wide range of units, as armor, infantry, mortars, artillery, and air support 
+ all play a part in the battle. The game's database accurately models the performance of just about 
+ every weapons system in use in the Pacific from 1941-45, so if an engagement took place there in 
+ that time, it's probably possible to re-create it within the game.  
+
+ Though there's a lot of detail involved in the game mechanics, the user interface is actually very 
+ manageable. A combination of simple mouse clicks and keyboard shortcuts is enough to perform almost 
+ any game function. The map can be viewed from both 2D and 3D perspectives, and the latter can be 
+ helpful when you're trying to determine line of sight. Unfortunately, the game doesn't let you 
+ view a prospective computer-calculated path before moving a unit more than one hex. A closer 2D 
+ view, with combat values displayed directly on the units, would have been helpful as well, but 
+ for the most part the game does an excellent job of both displaying information and letting you 
+ manipulate units.  
+
+ Traditionally, wargame artificial intelligence has always had the burden of having to handle very 
+ complex situations, and thus has tended to come up short against capable human players. Given wargamers' 
+ lowered expectations, the Rising Sun AI isn't necessarily excellent, but it does manage to hold 
+ its own in most cases, and seems to understand how best it should handle Allied troops (which typically 
+ have high firepower) compared with the Japanese troops (which are better suited to close assaults) . 
+ In fact, if the AI has a specific weakness, it's the computer's reluctance to break from its patterns; 
+ the AI ought to actually assault with the Allies when the situation demands it (such as in beach 
+ landings) , rather than just sit and exchange shots in unfavorable circumstances. Playing against 
+ the computer tends to be more challenging if you stick to the suggested side in the solo scenarios. 
+ Even with the AI's occasional shortcomings, the first couple of times you play a scenario can be 
+ very intense because of the fog-of-war option, which prevents you from seeing more than your troops 
+ can see, since you'll only have the vaguest idea of what to expect from the enemy. Reinforcements 
+ can show up in unexpected places, and the enemy can appear out of nowhere. Despite the fact that 
+ it's a traditional turn-based game, Rising Sun actually exhibits much of the thrill and suspense 
+ of real-time games.  
+
+ However, players who have the luxury of a living opponent to compete against will find the game 
+ even more enjoyable. Rising Sun can be played using all sorts of connection protocols, as well 
+ as by e-mail. The e-mail game lets you view everything that happened during the opponent's turn, 
+ which makes the game progress almost as though all the players involved were sitting across from 
+ each other at a game table. The game plays fast over a network and supports up to 16 players, who 
+ can be divided up between multiple commanders for that extra element of command simulation. Wargames 
+ are a very different experience when your forces aren't all under your control.  
+
+ There are plenty of individual scenarios in Rising Sun, and they range from dense jungle encounters 
+ in Malaya to beach-busting Marine landings on rocks like Peleliu. If the scenarios are exhausted, 
+ the game also has both dynamic and linked (or fixed) campaigns, as well as a scenario editor. Because 
+ the game system has such an extensive database, it is relatively easy to design a scenario based 
+ on any historical situation after doing a little research. This flexibility has led to a proliferation 
+ of user-designed scenarios, most of which are available for free download from various web sites. 
+ The open-ended nature of the Campaign Series is a significant selling point, as it means the game 
+ has almost infinite replayability.  
+
+ While everything about it may sound too complicated for novices to master, those who take the plunge 
+ will actually find in Rising Sun one of the best sets of documentation available in any game. Those 
+ new to the series can follow along, step-by-step, through an extensive tutorial, while veteran 
+ wargamers will find all of Rising Sun's concepts and mechanics spelled out clearly and comprehensively. 
+ The manual is superbly written and indexed, and it even has extensive internal cross-referencing 
+ that makes it easy to see how various parts of the game fit together. Most importantly, the game 
+ explains clearly how combat calculations are made, which lets you get the most out of your units 
+ once you learn the game mechanics. Rising Sun isn't easy to master, as there are many layers of 
+ complexity at work that are necessary to portray tactical combat with so much detail. But for those 
+ willing to put in the time, the game is eminently accessible.  
+
+ It's very simple: If you're a fan of World War II tactical wargaming, you must own Rising Sun. In 
+ addition, if you've ever had any interest in wargaming but were afraid to give it a try because 
+ of its reputation for being overly complex, Rising Sun would be the best way to overcome that hurdle. 
+ Rising Sun accomplishes something rarely seen in gaming, as it gives the veteran gamer all he could 
+ ask for, while it stays accessible to the novice.     
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: destinys_martyr
+Rating: 8.6
+Date: May 11, 2007 7:58 am PT
+Review:  Before Rising Sun, Talonsoft had redeemed themselves with East Front 2, which some argue is still 
+ the best of the series. Possibly... but there were unique aspects to Rising Sun that I believed 
+ made it the most enjoyable IMHO.
+  
+  One aspect were the visuals, they were bright and different than the maps and terrains we saw in 
+ EF and WF. Also the uniqueness of the Japanese units are something to behold. Banzai charges are 
+ a neat addition to the game as well as others that I can't remember at this instance.
+  
+  All in all, a must have if you were or still are a talonsoft fan. And don't fret, yes the game 
+ is now old as the first EF came out in (I believe 95-96) , matrixgames. com has bought the rights 
+ to the entire line of Campaign Series and is redoing them for modern play with many enhancements. 
+ Check them out at matrixgames. com and go either to the forums section (and to the Campaign Series 
+ forum) or to the details on the game in their games list. 
+::::::
+
+-------------------------------------------------

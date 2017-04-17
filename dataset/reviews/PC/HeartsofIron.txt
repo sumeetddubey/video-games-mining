@@ -1,0 +1,384 @@
+-------------------------------------------------
+:::Game Name::: Hearts of Iron
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/heartsofiron/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov 26, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7
+Critic Score: 7.5, 17 Review (s)
+User Score: 8.0, 286 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Strategy First
+Developer: Paradox Inter.
+Genre: Historic Real-Time...
+Date:     Nov 24, 2002
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+The path to victory in Hearts of Iron can be rewarding, but it can be pretty bumpy too. 
+
+ Hearts of Iron takes the well-known conflict World War II and, rather than focusing on small-scale, 
+ tactical skirmishes like some other strategy and first-person shooter games, instead looks at the 
+ big picture. The game spans the entire globe from 1936 through 1947, roughly following the outline 
+ of the actual war but letting you fill in the details. You get to play as any nation and focus 
+ not merely on military might, but also on diplomacy, research, and economics. Hearts of Iron was 
+ developed by Sweden's Paradox Entertainment, creators of the Europa Universalis strategy series. 
+ Like those games, Hearts of Iron is big, complex, and definitely not for a casual player seeking 
+ a little light entertainment. But, if you have the time and determination to delve into the game's 
+ nuances and can look past its many faults, it can be an engaging game.           The meager tutorials 
+ don't much to ease the learn curve.    
+
+  Hearts of Iron attempts to shoehorn traditional grand strategy, which has long been the province 
+ of turn-based gaming, into a real-time format with only partial success. The game's interface can 
+ at times be clumsy, cluttered, or counterintuitive, and it often bombards you with too much information, 
+ or it doesn't give you enough. You can change the way the game displays some information, but doing 
+ so can be a chore in itself.   
+
+  Hearts of Iron doesn't seem like a complete game, since it ships with an essentially unfinished 
+ manual and its in-game tutorials are mediocre at best. Some of the pop-up tooltips in the game 
+ are either blank or are simply redundant or uninformative. Worst of all, Hearts of Iron is buggy 
+ and prone to crash. You'll need to save your game often, or you risk losing a string of hard-won 
+ victories to the game's capricious code.   
+
+  That's not to say that Hearts of Iron is all bad -- quite the opposite, in fact, since it offers 
+ lots of entertaining gameplay possibilities. While it's a real-time game, it still looks and plays 
+ like a traditional turn-based strategy game in a lot of ways. The main window features a prominent 
+ global map that you can zoom in and out on. The map is divided into countries and subdivided into 
+ smaller provinces or states that form the basic strategic building blocks of the game. Surrounding 
+ the world map, you'll find an array of status indicators, message boxes, and icons that open numerous 
+ detailed data screens.   
+
+  Beginning from 1936, 1939, or 1941, you can play as any country in the world, though playing as 
+ a tiny nation like Paraguay will likely be boring and futile, if not downright silly. There's just 
+ too little to do diplomatically, economically, and militarily for many nations. Whatever country 
+ you choose, your ultimate goal remains the same: conquer as many nations as possible for your country 
+ or your alliance.   
+
+  Given Hearts of Iron's focus on major affairs of state, long-term decision making, and the movement 
+ of whole armies of troops, it's somewhat odd and unfortunate that the game plays out in real time. 
+ It's true that you can slow the game speed and issue orders while paused. You'll really need to 
+ do both if you want any chance of making informed decisions while managing the countless factors 
+ under your control. A turn-based system likely would have made the constant flow of information 
+ more manageable and could have given more structure to the gameplay.   
+
+  One beneficial thing about Hearts of Iron's real-time gameplay is that it can reasonably simulate 
+ the coordination of military units better than a turn-based design might. One of the most unusual 
+ and interesting features of Hearts of Iron is its combat coordination box. When you engage an enemy 
+ unit, this box will appear and let you choose different tasks for your attacking units. A land 
+ unit might be able to blitz (attempt to crash through enemy lines in a high-speed armored or mechanized 
+ attack) or feint (probe to discover enemy force compositions but withdraw before the fighting gets 
+ too heavy) . Depending on their composition, air squadrons might be able to carry out tactical or 
+ strategic bombing missions, drop paratroopers, and more. Naval units also enjoy a number of different 
+ options, including patrolling to interdict enemy supply convoys (which you can also set up and 
+ manage for your own country) .           Hearts of Iron's large-scale maps help give you an overview 
+ of your forces.    
+
+  With the combat coordination box, you can actually set the desired arrival time of each friendly 
+ unit into an enemy province. This way you can, to a degree, simulate the sorts of combined-arms 
+ maneuvers that characterized World War II. For instance, you can send a Panzer division with tactical 
+ air support roaring into an enemy province a few hours before your infantry march in.   
+
+  While Hearts of Iron plays out in pausable real-time, the combat is handled internally on a round-based 
+ system, with new calculations made each game day at noon. One of the interesting things about the 
+ game is that there's a lot going on under the hood -- every unit has numerous statistics, and every 
+ combat engagement takes several factors into account -- but you don't have to busy yourself with 
+ all that if you don't want to. You can carefully consider leadership, supply, terrain, and numerous 
+ other factors before making an attack, or you can adopt a more simplistic "tank rush" approach 
+ and just try to mass troops and outnumber your enemy. You can often succeed either way.    
+
+ 
+ Unfortunately, despite the interesting possibilities that the game's combat coordination box offers, 
+ Hearts of Iron's battles actually turn out to be rather uninvolving. The game does a weak job of 
+ relaying the progress of an ongoing battle, let alone creating any drama. In essence, friendly 
+ units move into a province containing enemy units, and you wait a little while for a message to 
+ appear onscreen declaring the winner.           The game's research screens are a bit too cluttered. 
+    
+
+  The AI plays inconsistently too, sometimes pulling off sound and unexpected maneuvers but also 
+ repeatedly and unsuccessfully hammering the same province piecemeal instead of seeking a more creative 
+ or sophisticated alternative. In addition, the AI will sometimes foolishly let you sail whole armadas 
+ right up to its ports and then do nothing about it unless one side has formally declared war on 
+ the other. "Sneak attacks" were never easier. At least there's an option for LAN and Internet multiplayer 
+ if the AI doesn't suit you.   
+
+  While most of Hearts of Iron's gameplay ultimately revolves around military conquest, the game 
+ offers plenty of other things to do in support of your military aspirations. You need to manage 
+ your economy and industry, for instance. The basic unit of strategic currency in Hearts of Iron 
+ is industrial capacity, or IC. Your maximum IC will depend on the number of provinces you control 
+ and their level of industrialization.   
+
+  To put your IC to good use, you need to gather the game's four resources: coal, steel, rubber, 
+ and oil. You can find some of these within your country's borders at the start of the game, but 
+ you also need to engage in conquest and trade to acquire more of them. Unfortunately, the trade 
+ screen isn't as immediately clear and easy to use as it should be, and the game's cluttered research 
+ screen is even less easy to use.   
+
+  Along with economics, you'll get to delve into the realm of diplomacy. You automatically accrue 
+ diplomatic influence points on a regular basis. You can earn bonus points through territorial conquests, 
+ spectacular military victories, and diplomatic coups, like annexing a nation or installing a puppet 
+ regime. You can then use these points to influence the political alignment of other nations toward 
+ your own, though you unfortunately don't get to delve into the details of how that's done. It would 
+ have been fun to engage in the nuances of diplomacy, particularly when playing as some of the more 
+ characteristically ruthless nations, like Germany or the Soviet Union.   
+
+  Still, you do get plenty of general diplomatic options overall, like sending expeditionary forces, 
+ demanding territories, and sharing research. And despite its weaknesses, the diplomacy feature 
+ can be one of the more entertaining elements of the game. A protracted war of attrition between 
+ France and Germany, for example, can suddenly shift dramatically when Germany convinces Spain to 
+ join the hostilities and invade France from the south.   
+
+  Visually, Hearts of Iron is reminiscent of the Europa Universalis games and looks generally decent, 
+ but not much better than that. The map is reasonably colorful, and it's nice to see some period 
+ photos gracing some of the information screens. Your units are represented by simple icons (or 
+ optional NATO symbols) with rudimentary animations. Overall, the graphics just barely get the job 
+ done, and they offer nothing that captures and holds your attention, let alone anything that grips 
+ you emotionally.   
+
+  The audio is equally workmanlike and does comparatively little to establish any WWII ambience -- you'll 
+ hear the sound of marching boots as an infantry division moves, for example, but little more. The 
+ game's orchestral score is more interesting and entertaining, since it exclusively features pieces 
+ of European classical music. The music, which cycles unabated unless you turn it off, can lead 
+ to some unintentionally amusing coincidences, like the cannons in Tchaikovsky's "1812 Overture" 
+ sounding at the exact moment Germany declares war on Poland in the game.           You can check 
+ the diplomatic standing of each nation.    
+
+  However, the actual selection of music seems almost random. It's certainly fitting to hear bombastic 
+ orchestral excerpts from Wagner's operas, but Bach's jaunty "Badinerie" for flute seems remarkably 
+ out of place, as do quite a few other selections. The designers could have made far more appropriate 
+ choices, choosing ominous or martial-sounding pieces by Shostakovich, Prokofiev, Holst, Jancek, 
+ Bruckner, Mahler, or a host of others.   
+
+  This sort of awkwardness seems to characterize Hearts of Iron on the whole. It's a game of potential 
+ realized and potential wasted. The path to victory in Hearts of Iron can be rewarding, but it can 
+ be pretty bumpy too.     
+-------------------------------------------------
+:::User Reviews::: (10 Reviews)
+::::::
+UserName: Pundarian
+Rating: 9
+Date: Sep 18, 2008 3:51 am PT
+Review:  The game makes me a wise man since it drives your brain as hard as it can be. You think about strategy, 
+ diplomacy, intelligences... many many detailed options. It makes me addicted and I know it is detrimental 
+ to my study. LoL The game also provide abundent options of playing. To destroy a country, it doesn't 
+ offer only arms, but also some "Peaceful" methods. That is quite good that the game puts you in 
+ the post of commander in chief but not only a warlord. This is so many other strategic games cannot 
+ offer. Well done, Paradox!
+  But it is really time consuming for waiting the tech and production to become mature. This does 
+ really make it a game not suitable for a student who is taking cert. exam like me. 
+  It is , also, really a great and mind-blowing feature for the number of tech institutes and all 
+ the minister and department. What I am trying to say is that the historic photo and information. 
+ We don't see them in a history book, right? ^^ 
+::::::
+
+::::::
+UserName: solidsnake14159
+Rating: 9.4
+Date: Jun 27, 2007 7:00 pm PT
+Review:  This is the first game where you can take control of a country and shape history the way you want 
+ it to be. In my game I had America and Great Britan on my side and I was Germany. The game sticks 
+ to the historical aspect of WW2 very well. I actually learned more about WW2 playing this game 
+ than from any book I read on the subject. The gameplay is great. I have to admit it took me a while 
+ to figure out the penalties and bonuses for units and how to interact with other countries, but 
+ after you get that down, The game is very simple: Beat the crap out of every country you can. The 
+ only reason the game isn't a 10 is because the little people aren't the best graphics out there 
+ and the music isn't really listened to anymore. But just turn the volume down and play the best 
+ WW2 strategy of all time. 
+::::::
+
+::::::
+UserName: ACESandElGHTS
+Rating: 7
+Date: Feb 6, 2007 7:29 pm PT
+Review:  If, when you were a kid, you wondered what Advanced Squad Leader was all about. If, while in high 
+ school or college, you played Axis and Allies, Fortress America or Shogun. If you enjoyed playing 
+ Nobunaga's Ambition while your friends were busy playing Metroid and Punch-Out, you'll probably 
+ really like this game.
+  In an age long before real time strategy; in an era where people played RPGs on a table top instead 
+ of a laptop (because there were no laptops) ; in a time when I walked to school barefoot through 
+ fields of snow covered broken glass, this kind of game ruled the B. Dalton software shelf. That 
+ new wargame about a Soviet invasion of West Germany just dared you to try to go to sleep before 
+ midnight.
+  Same kind of thing, this game. You just can''t wait to get home to play another round as Belgium. 
+ No, wait, this time as Algeria. Don't doubt it, it's old school and anyone who's into RTS or even 
+ Civ, for that matter, may not like it that much. But if you like serious, old fashioned, turn based 
+ strategy, this is definitely the game for you. 
+::::::
+
+::::::
+UserName: mentat76
+Rating: 3.4
+Date: Jul 24, 2006 2:06 am PT
+Review:  HOI was a game i awaited eagerly since i have heard it was going to be the WW2 theater of the classic 
+ Eurapa Universalis series. EU has always have a special place in my heart then the others. So it 
+ was neutral that my expectations was high.
+  
+  When i got the game, it looked superb. Always the way a WW2 game supposed to be. Fantastic colors 
+ of maps, units etc. However, i was seriously confused with the tech. tree and research system (Which 
+ was greatly improved in HOI2) . The combat system was awful, it was nearly impossible to control 
+ units, why the organization levels drop, and what happened, why retreat or victory, everything 
+ happened out of control of user. Also supply system was complicated, ships or transports arranging 
+ was chaotic. Moreover, the explantaion of icons and systems were insufficient, a critical issue 
+ where the user needed most.
+  
+  These aspects gave me frustraton beyond patience, i removed the game in total dissapointment afterwards.
+ 
+  
+  I approached HOI2 more cautiously, but i see the issues i addressed here were all fixed and it 
+ is one of my favorites now. I recommend everyone the second sequel doubtlessly.
+  
+  
+::::::
+
+::::::
+UserName: Arcana
+Rating: 8.1
+Date: Nov 5, 2004 3:15 pm PT
+Review:  I had not played HoI before November 2004, when I received the very patched-up, somewhat expanded, 
+ up-to-date Platinum version. I had previously tried to manage EU1 & EU2, but always with much stress 
+ & distress... even though I had a platonic-love kind of fascination for the very smart softwares 
+ concocted by the brilliant Paradox engineers & coders. That's why my reviewer's tilt score, here, 
+ is a 10... although I only award a 5 for gameplay : I'm deeply in love with the geostrategic concepts 
+ & models of Paradox's softwares, but I find them much too complicated to manage to recognize them 
+ as "games".
+  
+  Most of you probably learned to "play" the EU titles and the original HoI by jumping into them 
+ and by then progressing by trial-and-error improvisation. I belong to this minority of gamers who 
+ are prudent, obsessive thinkers : we are afraid of too spontaneous & clumsy improvisations, we 
+ have to read the manual and understand the software's architecture & mechanics before "playing". 
+ 
+  
+  I usually thrive in turn-based strategy games (such as the HoM&M series, the MoO series, the AoW 
+ series, the first A&A) . For example, in the excellent Total War series, I never go on the tactical 
+ battlefield in the beautiful RTS mode : I use the automated combat-resolution feature and I limit 
+ myself to the turn-based Grand Strategy mode on the world-map. Consequently, all of Paradox's softwares 
+ stress, overpressure & oppress me. I cannot get around to manage an empire's economy & geostrategy 
+ in a real-time framework... even on the slowest setting, even with the game paused ! 
+  
+  I believe it's an emotional block, not an intellectual deficiency. I must take my time, think about 
+ the various strategic options... and then, hit the end-turn button.
+  
+  So... I have this very smart & complex HoI Platinum installed on the disk drive, I read the manual, 
+ did the tutorials... but for me, there are too much informations & variables to manage in a real-time 
+ framework. It's Platonic Love : you have a crush, you admire the object of your passion... but there's 
+ no touch, no fooling around, no fun.
+  
+  I wonder if Paradox could program an alternate turn-based mode to its future titles. I don't think 
+ it would be that difficult to code. It would expand their market. Those of us who like to take 
+ our time at Master of Orion and Civilization could enjoy the management of that complexity, without 
+ depriving the RTS crowd of its fast & furious shark-feeding frenzy. 
+::::::
+
+::::::
+UserName: harden007
+Rating: 7.4
+Date: Aug 28, 2004 9:47 am PT
+Review:  This game is great in many areas. Researching real technologies, building real units, assigning 
+ and even promoting historical generals, and conquest. Unlike "axis & allies" type games, you can 
+ take over Europe city by city and town by town. Other great features include changing the members 
+ of your government, deciding your countries elections, and being able to play the game as any country 
+ in the world (even Yemen) ! The game is easy to learn despite how complicated it may seem. The real-time 
+ aspect is also nice. Only improvements could have been in the diplomacy arena, which seems to lack. 
+ BUT!!!! The origonal version of the game is full of so many bugs that it is virtually unplayable. 
+ The AI is on vacation and armies disappear out of nowhere. I have the 1.06patch installed and like 
+ every other patch for this game it has solved a boatload of problems while creating many more. 
+ For example, the bugs are gone but the game is now extreamly difficult even on easy. This is because 
+ even the poorest countries can mass-produce units, meaning that the computer players can ignore 
+ economic aspects of the game. Also, my super-megapanzers are being totally whipped by a force of 
+ Brazillians who are outnumbered 10 to 1. Overall a great game, if you can get it to play right. 
+ I'm looking forward to the sequal to this game comming soon.
+  
+::::::
+
+::::::
+UserName: BayonetRecon
+Rating: 8.6
+Date: Aug 3, 2004 7:52 pm PT
+Review:  Paradox has made an excellent WWII strategy game. It's taken time to work out some of the bugs, 
+ but as always, Paradox shows it's dedicated to supporting it's games. This game will make you think 
+ and keep you coming back for more. Be prepared for some very long nights when you first start playing.
+ 
+  
+  As others have said, there is a learning curve. Ignore much of what's said in the book and hit 
+ the forums and read. There's a lot of good stuff there.
+  
+  The animated icons were initially cool, but afterwhile you come to ignore the cool factor. The 
+ sound is so-so. But to be honest, you don't play this type of game to be wow'd by graphics and 
+ sound. (So ignore those ratings.)
+  
+  I recommend patching this to the most current, and picking up the C. O. R. E. mod. Once you play that, 
+ you'll most likely never go back to the original game. 
+::::::
+
+::::::
+UserName: asdfpoiu
+Rating: 8.2
+Date: Apr 23, 2004 10:29 am PT
+Review:  When I first played Hearts of Iron, I was underwhelmed. The game economy for the US seemed to dwindle 
+ to nothing in a heartbeat. It took several tries to find out the ins and outs of the game. After 
+ overcoming the steep learning curve (and less-than informative game manual) I have found Hearts 
+ of Iron to be one of the best strategic WWII sime around (actually, one of the only ones) . The 
+ main drawbacks for me are the repetitive soundtrack (the '1812 Overture' is fine once or twice, 
+ but not on repetive loop) and the sound effects for selecting units and special notification alarms. 
+ It got so bad I finally just turned the sound on my computer off and had the CD player going. Also, 
+ the animated icons are fine initially, but I tend to prefer the NATO icons as better edcriptions 
+ of unit types and locations. The NATO icons are also better if you have an older computer with 
+ less graphics capability.
+  Overall, if you are a history buff and/or interested in WWII history, then get this game. If not, 
+ you might want to pass. 
+::::::
+
+::::::
+UserName: Gen_Rommel
+Rating: 9.4
+Date: Dec 19, 2003 1:32 pm PT
+Review:  Only a few drawbacks from this game no real combat occurs you see 2 pieces firing at them but the 
+ good part is the sound is great click on the two battling pieces and you hear lots of tank rolling, 
+ marching, rifles flaring, machine guns roaring and I know this isnt what people usually look for 
+ but that leaves your imagination to the game for you to decide in your mind picturing your troops 
+ moving into an enemy town peeking around corners tossing grenades into bunker doors its a great 
+ game it time consuming but its so addictive that you hardly know how much time passes I play for 
+ about 5 hours and it seems like ive only been playing for almost 1 hour its just that fun very 
+ detailed everything you research stuff for your armys and modern technology which also contributes 
+ toward you armys such as the creation of a sub machine gun increase your units attack and defense 
+ then you upgrade to improved sub machine gun then to assualt rifle and etc on and on this game 
+ is loads of fun its not your usually map game I hate map stradegy game because there so boring 
+ just moving and moving no real action but this is diffrent this game is great fun not just dullness 
+ of moving from place to place on your map its an awsome game it also allows you to create history 
+ such as being germany and actually conquering the world all because you influenced america to fasciest 
+ and allied with them and together with italy and japan conquer the world while you get europ and 
+ africa italy helps in africa where as japan conquers Asia and American conquers canada mexica and 
+ all of south america and you can also slip in troops and get your share in wherever you want this 
+ game is just simply so much fun if you get it you wont in any way be dissapointed. 
+::::::
+
+::::::
+UserName: ajojose18
+Rating: 7.8
+Date: Aug 9, 2003 5:14 pm PT
+Review:  The game is good and just like the other two reviewers have mentioned, patches have been released 
+ that address problems in the game (quite a few as of this writing actually) . The core concept in 
+ my opinion is a great idea, but it looks like the implementation part was rushed.
+  
+  As for burning the game, I don't have much to say that hasn't been said yet. My only gripe is the 
+ tutorial and manual- it exits to windows after every mission and the manual goes... da da da da 
+ STOP... too abrupt for me and it didn't even cover everything in the game.
+  
+  Don't let the bugs in the game turn you off from buying it - I'm sure that most problems will be 
+ addressed with the game patches and after that, the game should be stable enough to provide endless 
+ hours of tactical fun.
+  
+  ps. I'm a fan of details and this game does not disappoint - from the technology research to the 
+ commander names, this game has a hefty amount of details. 
+::::::
+
+-------------------------------------------------

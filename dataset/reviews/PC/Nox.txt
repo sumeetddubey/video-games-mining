@@ -1,0 +1,1094 @@
+-------------------------------------------------
+:::Game Name::: Nox
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/nox/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Feb 22, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.1
+Critic Score: 8.1, 34 Review (s)
+User Score: 8.6, 1,151 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Westwood Studios
+Genre: Role-Playing
+Date:     Jan 31, 2000
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+While few elements in Nox are entirely novel, the game provides both challenging and entertaining 
+ single-player campaigns and fast-paced multiplayer battlegrounds. 
+
+ After the remarkable commercial success of Blizzard's Diablo, it's surprising that it has taken 
+ three years for the predictable wave of similar games to arrive. Perhaps even more surprising is 
+ that, unlike the slew of real-time strategy clones that followed Warcraft II and Command &amp; 
+ Conquer, most of the Diablo clones have actually proven to be quality games, and Westwood's Nox 
+ certainly continues that trend. While few elements in Nox are entirely novel, Westwood has created 
+ a polished game that provides both challenging and entertaining single-player campaigns and fast-paced 
+ multiplayer battlegrounds.  
+
+ Nox's isometric graphical perspective and action/role-playing hybrid gameplay are unquestionably 
+ reminiscent of Diablo, but Nox provides a more action-oriented experience. Character movement is 
+ quick, and combat is very fast paced. There are no ethical codes to adhere to unlike in some traditional 
+ RPGs. You can't attack characters who aren't enemies, but if the game lets you destroy an object, 
+ slaughter a creature, or pilfer a nonplayer character's possessions, then you can rest assured 
+ that it's the right thing to do. Since causing chaos isn't penalized, action is almost constant 
+ as your character frantically runs through levels, smashing objects and dispatching monsters or 
+ other players.  
+
+ Nox provides a separate single-player campaign for each of the three distinct character classes, 
+ as well as a slew of multiplayer game options. Multiplayer Nox is a pure action game that features 
+ respawning items, quick player kills, and geographically limited arenas; it's completely devoid 
+ of character development and nonplayer characters or monsters, other than those you summon. The 
+ gameplay in multiplayer Nox is closer in style to an isometric, swords-and-sorcery version of Quake 
+ than it is to Diablo.  
+
+ The single-player campaigns feature a few additional role-playing elements, as your character will 
+ acquire experience points and solve simple quests, but the gameplay emphasis remains on action. 
+ The campaigns are linear and level-based, so there's no way to personalize your experience other 
+ than through your choice of attire and armaments. Surprisingly, there are also no difficulty settings, 
+ so you must be adept at coping with occasionally frantic action to complete the campaigns. Fortunately, 
+ Nox features a remarkably intuitive and effective interface that uses well-placed hotkeys to let 
+ you quickly change weapons or access available spells and abilities. There's never been a more 
+ efficient interface in such a game.  
+
+ Each of the single-player campaigns is different, although characters travel through most of the 
+ same areas and have the same overall quest. Since each of the three character classes has significantly 
+ different abilities, the campaigns play out differently even when you're exploring familiar territory. 
+ While a wizard character can peacefully stroll through the wizard's stronghold, a warrior character 
+ will be immediately attacked. The uninspired story involves a dislocated trailer-trash youth assembling 
+ a multicomponent artifact and stomping undead hordes led by a maniacal necromancer queen. The campaigns 
+ are saturated with brief but entertaining scripted sequences that play out using the game's engine. 
+ Westwood has a penchant for adding goofy humor into its RPGs, and the buffoonery partially compensates 
+ for the plot's lack of originality. There are even a few laugh-out-loud moments, such as an amusing 
+ scene early in one of the campaigns when an expected showdown with a formidable nemesis is prematurely 
+ cut short in comical Raiders of the Lost Ark fashion.  
+
+ Nox's most distinctive features are its method for handling line of sight and its interactive environments. 
+ The trademark TrueSight line-of-sight system blacks out areas of the gaming world behind trees 
+ or other obstacles that your character couldn't reasonably see beyond. The effect isn't revolutionary, 
+ since 1983's Ultima III featured a rudimentary version of a similar system, and the result can 
+ be more distracting than interesting. However, it definitely gives Nox its own look, and it's easy 
+ to adjust to using the onscreen automap function if you require navigational assistance. Nox's 
+ levels are also littered with moveable objects, such as bones, barrels, and furniture. Occasionally 
+ you must use those objects to solve puzzles - pushing a barrel of water to drown a fire or to press 
+ a pressure plate, for instance - but usually the objects are just there to be smashed or hurled 
+ wildly across the room as they're struck by an explosive spell effect. A lot of attention to detail 
+ went into Nox's level design, as dwellings are logically decorated with appropriate objects, and 
+ subterranean lairs look suitably homey for their troll inhabitants.  
+
+ Nox's two-dimensional, isometric graphics are highly detailed and similar in style to those in Ultima 
+ Online and Diablo. Rather than take advantage of 3D acceleration, Nox instead just relies on those 
+ mysterious, superseded MMX protocols you heard so much about in 1997 to create its impressive spell 
+ effects. The game supports three different resolutions (640x480, 800x600, and 1024x768) , but the 
+ highest resolution isn't practical for most gamers since the characters look tiny and screen scrolling 
+ gets pretty choppy even on high-end machines.  
+
+ The artificial intelligence of the monsters and nonplayer characters in Nox's campaigns is generally 
+ excellent. Occasionally, you'll meet NPCs who will ally with your character for the duration of 
+ a level. You'll have no control whatsoever over these characters, but they'll capably follow your 
+ character and engage any enemies you encounter. Conjurer characters can also summon or charm creatures 
+ that will loyally carry out basic commands until they are killed or banished. There are a couple 
+ of memorable siege levels where a town or stronghold is attacked, and you can acquire a whole flock 
+ of allies to fight the waves of intruders. Since the AI is generally so good, it's especially disappointing 
+ that there's no way to cooperatively complete Nox's campaigns with other players.  
+
+ The only notable AI flaw is that enemies at extreme visibility range won't react until they're attacked. 
+ Since there's a variety of spells and weapons that either kill enemies instantly or do massive 
+ damage, you can avoid some of the most challenging battles by advancing slowly and picking off 
+ the immobile enemies as soon as they become visible. Like Grandma used to say, nothing clears a 
+ path better than a gigantic Fist of Vengeance or death ray.  
+
+ Early in its development, Nox was designed primarily as a multiplayer game, and the multiplayer 
+ level design is excellent. Multiplayer characters possess all of their class's available abilities 
+ and spells (other than those removed for gameplay balance) , which makes the deathmatch, capture 
+ the flag, and other exotic multiplayer game types included with Nox more tactical than they typically 
+ are in first-person shooters. Still, multiplayer Nox may not experience the longevity that more 
+ visceral first-person-perspective games have enjoyed. But since each of the three character classes 
+ has such different abilities, the single-player campaigns certainly provide a lot of value, especially 
+ since they feature unique endings and quests.  
+
+ It's probably unfair to simply categorize Nox as a Diablo clone since the game had been in development 
+ limbo for years prior to its acquisition by Westwood. Westwood acquired the orphaned Nox following 
+ the dissolution of Virgin Interactive's US gaming division, and the company has done a great job 
+ finalizing the game for release. Even though the game could likely have been released several months 
+ ago, the additional attention to detail put into the game since then has resulted in a streamlined 
+ interface, solid single-player campaigns and, overall, a considerably more polished product. Even 
+ the installation program is almost as interesting as the great one that shipped with the original 
+ Command &amp; Conquer.  
+
+ Nox could easily have been a game with a few original ideas that devolved into a hastily developed, 
+ derivative, and uninteresting clone. Instead, the developers have taken the necessary time to create 
+ a unique and polished game that offers different and enjoyable single- and multiplayer experiences. 
+     
+-------------------------------------------------
+:::User Reviews::: (29 Reviews)
+::::::
+UserName: icecoldfighter
+Rating: 10
+Date: Mar 18, 2009 12:35 am PT
+Review:  When I was a little boy I only got games with some ocassions (my birthday, easter, X-mas) and when 
+ a Chirstmas day came I got this game called NoX. I rushed at my computer to install and play it. 
+ Even the interface of the installation charmed me. I knew I was going to play an awsome game. But 
+ NoX was above my every expectation. The stunning gameplay and the story slowly have become to addict 
+ me. When I was going outside with my friends we weren't playing normal games. We were playing NoX 
+ (because everyone had it's own copy) . We were chosing one class and just play it using it's spells 
+ (abilities) . This game brought us closer. We even made a contest: Who finishes NoX the first with 
+ all classes . I won that contest but when we all finished the game we started to play on multiplayer. 
+ There as well I was amazed by the stunning multiplayer. We were all playing together until that 
+ black day came. Westwood was NO MORE. Now the multiplayer is almost that (only a few people are 
+ still playing) . You won't find the game at the store anymore you will have to download it from 
+ http://noxforums. net . Believe me this is an RPG that none player should miss. I feel really sorry 
+ for NoX, it was my first RPG, I have a lot of memories with it...
+  
+  
+  Graphics: 10/10 (for a game made in that time)
+  Sound: 9/10
+  Multiplayer: -it's dead-
+  Gameplay: 
+ 10/10
+  Storyline: 10/10
+  Impressions: 10/10 
+::::::
+
+::::::
+UserName: ioanmosx
+Rating: 10
+Date: Mar 7, 2009 1:59 pm PT
+Review:  Although 9 years old, Nox is still a game that can make you forget what you've been up to and continue 
+ playing it just to see the next chapter. The story is unique (at least I haven't seen anything 
+ similar yet) and the gameplay is flawless, offering 3 different campaigns with stunning actions 
+ on their own. I would recommend this game for anyone who hasn't played it yet and I'm sure that 
+ he won't be disappointed. The quests are given with the campaign reason, the spells of each class 
+ makes the 3 campaigns a whole new adventure and the choice of which class you'd like the most will 
+ be a little bit hard because the 3 of them are simply great! The control is mainly with the mouse 
+ and in some cases you will have to use all of your energy to pass the challenge given to you, because 
+ sometimes the game can be pretty easy, and sometimes can be pretty hard. When you complete the game 
+ I'm sure you'll feel experienced and you would gladly point yourself to the next campaign :D So 
+ get your hands on Nox and plunge into the adventures! 
+::::::
+
+::::::
+UserName: Kobe_Bryant_LA
+Rating: 10
+Date: Feb 26, 2009 2:13 pm PT
+Review:  I was pretty young when I got this game and from point one I loved it. It has easily been my most 
+ played game over the years and the amazing graphics (for the time) really makes it worthwhile. 
+ If I were you, I'd get my hands on Nox when I could. Unlike other games, it really has a story 
+ and is not just senseless killing. I think, if you haven't played Nox you're not a real gamer. 
+ The great array of weapons, armor and spells make the game play fantastic! It's a revolutionary 
+ RPG and every person who owns a computer should have it. The first time I played this game I was 
+ on it for hours. I could not turn it off! I'd never played a game this amazing before. My I've 
+ played plenty of great games like from Diablo to Oblivion, but this one is the best. My final thought 
+ is, if you want the best game in the universe, buy Nox!! 
+::::::
+
+::::::
+UserName: Gamer-1024
+Rating: 10
+Date: Feb 26, 2009 4:57 am PT
+Review:  When Nox was new it would have been difficult not to rate it a solid 10, however there was a thing 
+ or two in multiplayer that I thougt was bizarre and or out of place, or was a problem in my opinion. 
+ But over the years I've come to realize that what I thought was bizarre, or out of place or a bug, 
+ or oddball feature, was gladly accepted by the Nox community at large so it was just my problem.
+ 
+  
+  As a single player game, there was little else at the time that could have touched Nox in the genre 
+ it was classified back then.
+  
+  However with all good things must come and end, and so I decided to reload up Nox on my computer 
+ with the jumbo monitor and give it another whirl into Nox.
+  
+  The opening movie played and we all laughed about bacon (we laughed because it's true!) and then 
+ i settled in to play.
+  
+  I really shouldn't have tried, I should have just left it in memory. I remembered every secret 
+ chamber and passage way, I remembered how to run the Gauntlat, I remembered pretty much everything 
+ and what I couldn't remember I dug out of the Nox strategy guide, which is truly a guide for every 
+ quest in the game and about 3 inches thick.
+  
+  Yeah, it didn't look as great as I remember it looking back then, my toon isn't very responsive 
+ I said thinking fondly of my recent Sacred II characters, and the quests seem rather obvious don't 
+ they.
+  
+  Yes, it should have just stayed in memory.
+  
+  If I were writing this review and scoring at the time NOX came out, it would surely be ranked a 
+ 10, but if I had to score NOX as if the game were just released today, it would get a paltry 2.
+ 
+  
+  Whoa, I know, what can I say. Let's face it, by todays standards, NOX is primitivve and looks like 
+ schnitzel on a hot sidewalk on the larger monitors of today. The only thing still good about NOX 
+ to this day, is having another read through the 3 or 4 inch thick strategy guide.
+  
+  A great game for it's time, but never really stood the sands of time like some others have. 
+::::::
+
+::::::
+UserName: Voldy26
+Rating: 8
+Date: Jun 19, 2008 3:50 am PT
+Review:  I don't know why they classed this game as an RPG, since it contains no roleplaying whatsoever, 
+ but that doesn't detract from it at all. It is a fast-paced, engaging and humorous fantasy action 
+ game that takes you through a wide variety of beautiful locations and has some very decent music, 
+ as well. The interface is very easy to use and won't distract you from the game proper. You have 
+ an enormous array of spells at your disposal - if you are playing as a wizard or conjurer, that 
+ is - that you can use in various creative ways (even though only a handful are really needed to 
+ get through the game) . The spell effects also look great, especially the lightning, in my opinion. 
+ There is also plenty of equipment for you to find or buy, and who doesn't like dressing up their 
+ character (this is especily important for the warrior, who compensates for his lack of spells with 
+ impressive weapons and armor) ? Throughout the game you'll have to solve some puzzles (not too difficult) , 
+ but mostly you'll be just running around killing stuff, and it'll be great fun, too. 
+  
+::::::
+
+::::::
+UserName: sagekanar
+Rating: 9
+Date: Apr 17, 2008 8:02 am PT
+Review:  If you enjoy an action / adventure RPG this is the one you should try. It is moderatly old but 
+ it is still a great game. The graphics on this game are good for the time it came out and I believe 
+ the game play is excellent. It is a top down view and I don't believe that you can change the camera 
+ angle but it really isn't necessary. It kind of reminds me of the view from Ultima Online, although 
+ I never really played that, one of my friends did and he showed it to me all the time. I do think 
+ that the game goes by relatively quickly, that could just be because I played it quite a lot. This 
+ game is very difficult to beat as a wizard, I know I beat it with some of the other classes of 
+ characters but it has been so long since playing I don't remember what they were. Anyway have fun, 
+ I'm sure you will enjoy it. 
+::::::
+
+::::::
+UserName: Xaremathras
+Rating: 10
+Date: Sep 13, 2007 10:25 am PT
+Review:  Nox is nearly perfect. It is probably the game I spent the most time on my whole life. I must've 
+ beat it about 12 times as a Conjurer, 7 as a Warrior and 3 as a Wizard. I probably know every secret 
+ in the game, it is one of the games that shaped my childhood. I've been playing it since about 
+ a month after it came out. There is no multi player anymore, due to hackers, but the multi player 
+ couldn't even compare to Single player. I love this game a lot. One of the greatest games ever 
+ made. Even in 20 years, you'll see me still playing it. 
+::::::
+
+::::::
+UserName: Electroctoo
+Rating: 9.5
+Date: Jun 23, 2007 6:55 pm PT
+Review:  Great gameplay, i don't think it's a bad game. the lovely adventures and the mystic powers makes 
+ you believe in an extraordinary world of magic and classic RPG's monsters.
+  
+  Like a previous review: if you liked diablo, you will love Nox.
+  
+  Nox it's a magic game that 
+ follows the traditional virtual Role-Playing-Game's statistics. The Wizard it's a powerful character 
+ with spells and a knowledge of God. The Conjurer it's a character with wisdom and dexterity that 
+ can charm and summon the most incredible creatures. The warrior it's a strong and fast character 
+ that defeat enemies with courage and honor.
+  
+  Nox it's very nice. A different game that sure will make you believe in magic.
+  
+  After a medium 
+ time of playing, it becomes boring, like all other games. 
+::::::
+
+::::::
+UserName: beniz008
+Rating: 9
+Date: May 23, 2007 12:34 am PT
+Review:  i hope they will get out nox 2 if thay are planning one i hope thay are if yes that will be a great 
+ game if this game was so good than if they will get out like nox 2 it will be great. i liked diablo 
+ but it was a bit disipointing in the graphics but still its a good game. but all westwood's games 
+ are just great like red alert 2 yuri's revenge very fun game its so adictive that you cant stop 
+ playing but the new c&amp; c3 so good and fun even if EAgames is now its publisher and not westwood 
+ but EAgames is very good too. 
+::::::
+
+::::::
+UserName: partytimekegs
+Rating: 9
+Date: Apr 12, 2007 12:23 am PT
+Review:  I really had my doubts about this game until I played it at a friends house a long, long time ago. 
+ At first I though, Bah, a Diablo rip off but I was way wrong. This game has great graphics for 
+ its time and the way its presented fits the environment and setting of the game. Not only was I 
+ extremely impressed about the single player, the multiplayer was even more enjoyable. Its quick, 
+ intense, and right to the point. I really liked Diablo and Neverwinter Nights.. but this game just 
+ had something about it that really had me hooked. Even in 2007, this is still a game that deserves 
+ a look at. 
+::::::
+
+::::::
+UserName: JAJW
+Rating: 9.8
+Date: Dec 3, 2006 2:43 pm PT
+Review:  This has to be one of the best PC games ever. It has excellent game play in which one can cast 
+ a multitude of spells and summon fantastic creatures. This game takes skill, real skill. A good 
+ player must have fast reflexes, decent aim, clever strategies, and determination. I know, it sounds 
+ hard, but it's worth every minute of playing. The better you are, the more powerful you become, 
+ and the more people recognize you as an excellent player. If you get really good, you will become 
+ so feared people will just run away instead of fight you. I'm talking about online play -- real people, 
+ not just CPUs. I could write a whole book about this game, but I'll keep it short. There are three 
+ classes: Warrior, Conjurer and Wizard, in that order. Warrior is the easiest, although hard against 
+ good Wizards. Wizards are extremely hard to start out with but are very rewarding in the long run, 
+ and Conjurers are a bit of both, although I think their style of fighting is harder to perfect 
+ than Wizards'. The levels are adventuresome, fun, dangerous, and intriguing. The game play is well-designed. 
+ And the spells are many and magnificent. If you want a challenge, buy this game and play it. If 
+ you want an easy-to-master but still fun game, buy something else. 
+::::::
+
+::::::
+UserName: Com_Meister32
+Rating: 8.6
+Date: Nov 25, 2006 6:16 am PT
+Review:  Nox is simply a wonderful rpg. It's been very overlooked and that may be because of Diablo and 
+ other better advertised rpgs but it truly is a great game with 3 classes ( warrior, conjuror, sorceror) 
+ and different intwining campaigns for each that will suck you in. The Nox world is huge with lots 
+ of sidequests that will keep you playing for easily 100 hours if you try to accomplish all three 
+ campaigns.
+  
+  Nox was simply ahead of its time yet poorly advertised.
+  
+  I would definitely pick this game up in a bargain bin for 5$ or less if your looking for a great 
+ game to play. 
+::::::
+
+::::::
+UserName: megafeck
+Rating: 8.2
+Date: Sep 27, 2006 5:49 pm PT
+Review:  Nox is somewhat like diablo, so if you like that you may want to give this a try.
+  
+  You start of the game as Jack (default name, you can change it) and have a choice of becoming one 
+ of three professions. You can be a conjurer, a wizard, or a warrior. Each profession is out to 
+ stop the evil necromancer that has recently returned to wreak havoc on the land.
+  
+  The conjurer doesn't actually conjure much, but what he can do is charm various enemies. Once you've 
+ charmed an enemy you can set him to do one of several things. You can set him to escort you, this 
+ means he will attack anything that gets near you. You can set him to hunt, this means he'll go 
+ out and find something to kill. You can set him to guard, this means he'll sit a guard a certain 
+ spot until he dies or you tell him otherwise. You can banish him, this kills him. In order to charm 
+ an enemy you must have his scroll. Each enemy throughout the game has a creature scroll, some are 
+ easier to get than others. Most of the time you'll find these creature scrolls scattered throughout 
+ the area in treasure chests, but you can get some from shop keepers as well. To get spells with 
+ this character you must buy or find spell books
+  
+  The wizard gets various attack spells and hardly any hp at all. Normally about 3 hits and you're 
+ dead. To counter this you get a force field spell that makes it so no one hit can kill you, and 
+ it lasts through several hits. This means even if you have one hit point you cannot die as long 
+ as the force field is up, but once it's broken you better run. You also get spells like magic missile, 
+ lightning, and fireball. Scattered around the realm are mana stones these stones hold the power 
+ of mana and by moving next to them you can recharge your mana. Each mana stone only holds so much 
+ mana and must recharge once you taken it all. As with the conjurer to get spells you must find 
+ or buy spell books. Probably the wizard's most powerful spell is invisiblity. I found myself using 
+ this all the time because once you get into the game a ways there is no way a wizard can kill all 
+ those enemies without running out of mana.
+  
+  The warrior get various attack skills. He gets no mana and a whole bunch of hp. For the warrior 
+ to get skills you must level, he gets a new skill ever time he levels. To make up for his lack 
+ of magic the warrior can use the most powerful weapons. While the wizard and the conjurer are limited 
+ to staves (the conjurer can use staves and bows) the warrior can use swords, spears, axes, etc. 
+ The warrior also gets by far the best selection of armor.
+  
+  After picking your profession the airship captain comes and tells you what to do. The airship captain 
+ is the person who takes you to all the different quests you'll be doing. Each profession has a 
+ different first quest, then after that they meet up. Each of the first quests have many signs along 
+ the way that teach you how to use your spells, skills, and weapons.
+  
+  You can get many items, but not many results from them. You can get hp restore potions and mana 
+ restore potions. Then you can get apples, steaks, cider, and other things all of which restore 
+ various amounts of hp. You can also get things like cure poison potions and mushrooms (which also 
+ cure poison but leave you walking funny for a while) Along your quest to defeat the necromancer 
+ you'll find many hidden items, spell books, weapons, and creature scrolls. This game has quite 
+ a lot of hidden stuff. The game also have many traps, sometimes when in caves the floors will fall 
+ out from under you, but if you look close enough you can see the cracks where the floor will fall 
+ through.
+  
+  The fights are much like diablo, or the legend of mana. They're different for an rpg. When you 
+ run into an enemy the game doesn't go into a seperate fighting screen. The game just keeps going 
+ and you have to kill it any way you can. You can target any enemy at any time and they can all 
+ target you.
+  
+  The graphics are pretty good in this game. I especially like the lighting. When you cast a fireball 
+ the whole room lights up and when that fireball hits its target, or a wall, it explodes into many 
+ sparks.
+  
+  The control takes a bit of getting used to but it's not that bad once you've got it down. There 
+ are many keyboard shortcuts for using items that I found to be very helpful.
+  
+  I recommend this game if you like the legend of mana or the diablo series. Obviously the story 
+ is different, but the general game play is about the same. I had no problems running this game 
+ on my system, but I hear a lot of people do so you'll want to watch out for that. I should also 
+ mention that this game does have a multi player mode which can be pretty fun. 
+::::::
+
+::::::
+UserName: zapbomb
+Rating: 8.2
+Date: Sep 13, 2006 6:32 pm PT
+Review:  Nox is an excellent role-playing game. it has three job classes - you can choose to be a warrior, 
+ a wizard or a Conjurer. All three have different powers. The wizard specializes in magical spells 
+ and staffs; the conjuror specializes in summoning spells and bows. The warrior is of course good 
+ in the basic sword and shield stuff. This game has a good length and has good gameplay. This game 
+ includes going through swamps infested with zombies, going through castles and crypts, and hunting 
+ monsters and bandits in the wild All in all I recommend this game. It is a must-play for all RPG 
+ fans. 
+::::::
+
+::::::
+UserName: insane_oblivion
+Rating: 9.5
+Date: Aug 28, 2006 4:14 pm PT
+Review:  When I first played NOX, I thought there were no finer game than this. Even now, it is still one 
+ of my favourites. The combat system, the interface, and the physics of the game are very simple, 
+ you run, you slash, you shoot, you fire magic, you summon creatures... but among the simple design, 
+ many genious details exist to make the game a wet dream. The way chain lightning sticks to enemies 
+ until every last one of them is dead, the traps, the quests, and the completion of the seemingly 
+ impossible task through careful planning and management, they all rock. Even the quests for 3 difference 
+ occupations are different because of diplomacy.
+  
+  GIVE US NOX 2! 
+::::::
+
+::::::
+UserName: Cmpunmu3
+Rating: 8.8
+Date: Aug 1, 2006 12:51 pm PT
+Review:  Beautifully designed world, lots of enemies with special abilities, lots of secrets, lots of magic 
+ and combat.
+  I chose to play with the mage and the favourite spell was lightning - i was unbeatable, though 
+ it seemed that it would be greatly difficult without it.
+  The game's mostly hack n' slash, not that many quests to solve, but the atmosphere was really inviting 
+ and pleasant, i'd like to say that game makers did really a good job.
+  Generally your targets are to defeat warlords and wizards in a fair fight, and it was quite difficult 
+ in my opinion.
+  Music is nice and graphics are good, magical spells look realistic and characters movements look 
+ realistic as well.
+  I found nothing special in this game, but liked it, and it stayed in my memory for unknown reason.
+ 
+  Better plot and more quests to solve maybe would lift my spirit to count this game as one of the 
+ best in my collection. 
+::::::
+
+::::::
+UserName: BlackGoofy
+Rating: 9.6
+Date: Jul 21, 2006 3:31 am PT
+Review:  This game is to my opinion one of the best ever made but still isn't worth a ten....
+  
+  At the beginning of the game you can choose between three "races" which one of the three you will 
+ be.... You can choose: 
+  Warrior= strong fighter, has no magic, lot's of very cool weapons, armory, swords, shuriken and what 
+ so else you can use.
+  Conjurur= An animal controler, has armory either but no swords and shuriken, although this race 
+ is able to control a bow... and even better, to control and even summon animals and monsters.
+  Wizard= Fights with nearly only magic or doesn't fights but sneaks by his enemy while he's invisible, has 
+ ton's of spells from Lightning to Fist of Vengeance.
+  
+  The game is all about smashing your way trought ten hard levels full of monsters, animals, Necromancers 
+ and the evil Hecubah herself.
+  Hecubah is the evil boss you eventually have to defeat and the Necromancers are her apprentices 
+ and bodyguards.
+  This game is an RPG so you start quite weak with just a stick and a spell or something. While you 
+ fight your way trough small spiders and Urchins you get stronger, and you get new weapons, new spells, 
+ new options. 
+  This continous througout the whole game.
+  You have to fight your way trough Orc's later in the game and infiltrate their encampent and free 
+ some captured woman, you get to stand eye before eye with stone Golums and really anoying beasts 
+ who can change into chest's... which you usually open... then you suddenly figure out that it isn't 
+ a chest but a beast with a hacking point on his chest.
+  Your mission as I already told is to kill Hecubah and free Nox, but as you start as a weak warrior/conjurur 
+ or wizard with just a stick, your mission leading to defeating Hecubah will be collecting an ultimatily 
+ strong weapon, the Heart of Nox.... this weapon excist in parts as a hellbeard, a animal, a blue 
+ stone, and some more parts.
+  Through the ten levels you collect and configure your weapon to the Heart of Nox with which you 
+ will in the end defeat Hecubah with.
+  
+  If you want the full experience of the game you should play it in all three modes, because the 
+ ten levels are all the same indeed but there are much cool differences, like when you're an wizard 
+ you will have to fight ogres in the Tower of Wizards while when you're an warrior you will have 
+ to fight wizards in there. And you start the game in three different locations.
+  
+  And finally why you should play the game in all three modes is because the eleventh level, the 
+ level in which you beat Hecubah, is different for all three modes.
+  
+  Al together this game is really a must-have for all gamers. 
+::::::
+
+::::::
+UserName: 2k_rammerizkool
+Rating: 9.4
+Date: Apr 25, 2006 4:27 pm PT
+Review:  Being blunt, his game is one of the most fun games i have ever played.
+  
+  But since i am not very good at really describing games, i'll just get on with the specs.
+  
+ 
+  Gameplay: Excellent. The controls are tight, hotkeys and spell/ability sets are easy to access 
+ (much like in Diablo 2... except this is better) . Combat is solid and intuitive, as well as a fecking 
+ blast. While sometimes i wish i could use "space" or something to attack (because running while 
+ attacking, unless you are using spells [in which case, you stop entirely] , is hard, especially 
+ when you are up against a psychotic warrior with a warhammer  _ ) .
+  
+  Graphics: A little dated, but still look great. Everything you wear, you can see on your person 
+ (including lack of clothing, which means you'll be running around in your whitey-tighteys :P ) . 
+ Spell effects are glowy and powerful, and explosions send off dozens of tiny particles that bounce 
+ everywhere. I also like how you can only see what your character can see (even if it is in a 360-degree 
+ view...) . It makes the game much more fun, especially in multiplayer, when you can hide, and where 
+ you can see is where your enemies have to be to see you. I hope i worded that right :P
+  
+  Sound: Amazing. Every character has a voice (even though some are repeated) and they are all acted 
+ out very well. Weapon sounds are very realistic, spells are, well, spelly-sounding. The music is 
+ also very good. Each track is suited to your environment, and it really sets the mood.
+  
+  Value: Well, i don't remember how much it costs. But any price is good for this kind of game. 
+::::::
+
+::::::
+UserName: woef
+Rating: 8.1
+Date: Apr 7, 2006 5:30 am PT
+Review:  Nox is a good game, because i know i used to play Nox every day in the past. (especially multiplayer, 
+ which really rockZ)
+  
+  Gameplay:
+  Lots of features in here, 3 different classes, different skills, different equipment.
+  3 different 
+ quests (all of them containing some unique subquests)
+  Cool monsters and lots of maps.
+  Online rocks too.
+  
+  Graphics:
+  Normal, not very much too say here, the game looks good.
+ 
+  
+  Sounds:
+  Dont have a clue what about the sounds, ill just give it a 7.
+  
+  Value:
+  This is one of the best features of Nox, 3 different quests, which is really cool.
+  It will take 
+ you a few weeks too finish them all.
+  
+  Online:
+  Very good, with deathmatch, ctf and team deathmatch.
+  Played this all day long in the old times.
+ 
+  
+  Nox is a good game and i hope they will make a sequel some in some years!!!!!
+  Later all 
+::::::
+
+::::::
+UserName: battousai188
+Rating: 7.3
+Date: Jan 29, 2006 4:18 pm PT
+Review:  When I bought this game a few months after it had been released I was in the middle of a Diablo 
+ II online obsession. Nox's story... well the story isn't really their a trailer trash kid gets 
+ sucked through a portal where you learn to become one of a few offered skilled jobs. Everything 
+ about this game is one step below Diablo II if that is what Westwood was trying to do they didn't 
+ quite hit the mark. The game however should provide a player with at least 15 fun hours of play. 
+ A few annoyances with the game is everytime you cast a spell you have to watch these cheesy hand 
+ movements and a crappy voice actor so some incoherant made up language, about 2 or 3 seconds of 
+ this every spell you cast... Also it will cost an insane amount of gold to repair any items you 
+ may have so if you have an awesome item, either use it seldomly or use the money cheat.
+  
+  Overall:
+  Good cheap fun, worth purchasing out of your bargin bin for a sunday of bored game 
+ play. 
+::::::
+
+::::::
+UserName: ff7cloudking
+Rating: 9.4
+Date: Dec 28, 2005 6:04 am PT
+Review:  This game may be a diablo rip-off, but it is a damn good game.
+  
+  The good:
+  Three different classes, long story, great online/mutiplayer, lots of differnt weapons/armor/spells/other 
+ stuff, cool storyline, and addictive gameplay. Also, music is great, voice overs are awesome, and 
+ sounds are great.
+  
+  The Bad:
+  Graphics could be a little better, and after your..... 5th time through as each class, it could 
+ be a little old. 
+  
+  Overveiw:
+  
+  Nox is a great, face-paced, RPG. It has many weapons, and enough secret places to give you a good 
+ reason to keep playing. 
+  The boss battles are few, but are good. They keep you on your toes and offer some greater difficulty 
+ to a somewhat easy game.
+  The levels are all very big, and contain different enemies in each. Very few enemies will ever 
+ repeat. 
+  
+  Any RPG fan, or PC owner should check this out. You don't need a very good PC to play this. I was 
+ playing it on my older, lower quality lap top, and it ran perfect.
+  
+::::::
+
+::::::
+UserName: Komprido
+Rating: 9
+Date: Dec 27, 2005 3:38 pm PT
+Review:  I have played this game a lot and a lot, and i still have fun. Nice graphics with a great isometric 
+ view. The game play its nice too. Only the spells are a little squizzy because each table only 
+ have 5 spells, and for a wizard or the conjurer its a little boring. But beside that, a great story. 
+ Not to big and not to small. The sound its no big deal, but it fit just fine. The game could have 
+ more items too. Instead , there is a big variety of spells. I recommend this game to all rpg fans, 
+ because they wont be disapointed. Ahh, the fact that each caracter start in diferente places and 
+ the story changes also in each of them is nice too. For me a great value. 
+::::::
+
+::::::
+UserName: Raider5k
+Rating: 8.4
+Date: Dec 26, 2005 12:52 pm PT
+Review:  nox is a very old pc game, but its still a very good game, you can have hours of fun playing this 
+ very adictive game
+  you can choose out of either a
+  warrior
+  mage
+  conjurer (summons beats as pets)
+  
+  during playing this game, you fight many monsters, any 
+ bosses, and you collect better armor and weapons on the way, i completed this game on all 3 classes 
+ and it was just as fun on each of them, the warrior was the best tho
+  
+  if you wanna play this game i highly recomend it, so adictive and will give you hours of fun
+ 
+  
+::::::
+
+::::::
+UserName: SZeroC
+Rating: 8.7
+Date: Dec 20, 2005 4:16 am PT
+Review:  Definition Of Progress: Hicks Can Be Heroes Too!
+  
+  Who would have thunk that a bacon lovin' auto-mechanic named Jack could end up saving a world from 
+ sticky zombie death? Sure, the old notion of an earther going off to fight in a distant, fantastic 
+ realm has been around since Ultima, but the Avatar was always a clean-shirted, educated, civilized 
+ type probably even a Harvard man. So Jack, lacking all academic preparation, shouldn't 
+ have a chance, right? Especially when this feeble brained, chitlin' eatin' fool has to contend 
+ with a Necromancer named Hecubah, who looks like a permanent fixture on every German-Dungeon-Porn 
+ producer's casting list.
+  
+  On top of that, the poor fool got sucked into that trans-dimensional vortex just because he was 
+ standing to close to his TV! [My mom always said sitting too close to the TV was bad for you ~Ed] 
+ Hell, I suppose he'll just have to get drunk and open up a can of whoop-ass on the creatures of 
+ the netherworld and show that missy dominatrix what her place is.
+  
+  If you haven't guessed yet, this is not a straight Diablo clone. Many of you might look at the 
+ screenshots, figure that Westwood Studio's new game, NOX, is a poor man's Diablo 2 and pass on 
+ it. That would be a big mistake. NOX is much more of a Gauntlet XL. It takes fast action and a 
+ focus on combat, combines them with an isometric perspective, and puts in some light RPG elements 
+ like character classes, levels, and inventory. This makes a game that might appear to be Diablo's 
+ bastardized, amphetamine-freak cousin, but has a warm, fuzzy feel all it's own.
+  
+  In NOX, you (as Jack) must journey through the land as a Wizard, Conjurer, or Warrior, slaughter 
+ thousands of critters, assemble the "staff of oblivion," and rout Hecubah. If you don't, everyone 
+ in NOX dies and you don't get to go back to your trailer where your girlfriend is cooking you some 
+ tasty pig-meat. Gameplay is almost strictly linear: You must proceed form point A to B to 
+ etc. There are some mazes along the way and some side quests in the few towns you pass through, 
+ but for the most part NOX is about as linear as Half-Life. This design focus allowed the designers 
+ to create the environments with action in mind, and the result is a fast-paced massacre of everything 
+ bad and nasty.
+  
+  The three classes actually create 3 distinctly different gaming experiences. Although most of their 
+ quests take place on the same ground and are effectively very similar, there are variations in 
+ locales and objectives that make the journeys themselves quite different. Also, the three classes 
+ have entirely different play dynamics. The Wizard mostly casts spells and lays magical traps but 
+ is extremely lacking in both weapons and armor. The Conjurer charms creatures to fight for him 
+ or uses some light spellcasting along with some light armor and mostly bow & arrow weapons. The 
+ Warrior can buff up with weapons and armor beyond any sissy magic-user's dream and kick some undead 
+ butt up close and personal.
+  
+  The difficulty of the campaigns are different, so that a progression of Warrior-Conjurer-Wizard 
+ offers the most complete easy-to-hard progression through the game (you can choose which class 
+ when you start a new quest) . The fact that each class is a very different experience, far more 
+ so than in traditional class-based RPGs, means that there is a whole lot of single-player and multi-player 
+ gameplay in NOX. Whether charming, casting, or slashing, NOX makes for a good time that will keep 
+ you coming back for a lot more than you would expect.
+  
+  Shirking modern convention, NOX is an action-oriented game created entirely with 2D sprites. Not 
+ a single polygon can be found, and in NOX's case, that is not a problem. The graphics are sharp, 
+ clean, and beautiful representations of a fantasy world that lack nothing for the non-inclusion 
+ of the Z-dimension. Nice flashy touches such as the vibrant spell effects and a cursor that trails 
+ golden fire-dust make for pleasing eye candy to round out the picture and keep you focused. There 
+ is even a unique visibility system that dynamically blocks any area not directly visible to Jack 
+ (assuming he could always see in a 360 degree circle) that keeps the mood ominous and creates some 
+ appealing shadow-like effects.
+  
+  Best of all, the 2D nature of the game makes system performance a non-issue on most systems. It 
+ has been quite a while since a good action game came out that ran well, at maximum detail, on any 
+ decent system you might have at home, and that alone is one of NOX's better achievements.
+  
+  Sound is also done well. The music is either calming or invigorating to fit the situation, 
+ well composed, and never tiresome. Effects are handled well and in a very good move, every spoken 
+ word in the game is not merely text, but also speech. Far too many RPGs can become clinical because 
+ of a lack of voice interaction and too much text, so it's nice to hear every word for yourself. 
+ It also helps that the mood of the game, overall, tends somewhat toward whimsical comedy (trailer-trash 
+ hero and all) which benefits much from spoken dialogue.
+  
+  The interface in NOX is a fairly simple affair. Most of the work is done with the mouse, though 
+ spell casting and other advanced actions are carried out on the keyboard. Inventory is a pull down 
+ screen and you always have a view of the action. It's a very easy to learn system that should have 
+ any gamer up to speed well before the training portions for the characters are completed.
+  
+  NOX is a straightforward, fun game. The action elements are fettered only by some slight RPG 
+ ingredients which effectively add the depth that is needed to keep your attention and make slashing 
+ yet another sprite-based-beasty a thrill every time. It's not revolutionary or real obsession material, 
+ but it sure is good, sweet fun. So fuel up on collared greens and just ignore that knocking noise 
+ the Pontiac is making; Jack's not going to be around to fix it for a while. 
+::::::
+
+::::::
+UserName: ck_the_assassin
+Rating: 8.2
+Date: Dec 18, 2005 11:46 am PT
+Review:  After browsing through a few online review archives, I realized that nobody has reviewed this game 
+ since Westwood released the Nox Quest add-on, and what with Westwood. com being a redirect link 
+ to a Command & Conquer site, I'm convinced that it's time for some solid information on this equally 
+ solid game.
+  
+  For those of you who love to label: Nox is a third-person action RPG, set in a fantasy world of 
+ the same name, far distant from (or possibly parallel to) our own. If you choose not to customize 
+ your character when starting a new game, you control Jack, the trailer-trash white boy who was 
+ drawn to Nox by the mystic powers of a magical artifact he used to keep on top of his TV. The game 
+ offers three distinct single-player campaigns and a host of options for multiplayer mayhem; players 
+ can compete over Westwood Online or over a local area network, if they're connected to one. I'll 
+ first discuss the game's single-player mode in detail; after that I'll shed some light on the multiplayer 
+ modes and the Quest add-on.
+  
+  Rather than forcing the player to choose between good and evil (a la Star Wars: Knights of the 
+ Old Republic) , Nox instead allows you to choose between three very differing professions. The world 
+ of Nox is divided into three separate factions: the strong, lionhearted Warriors (led by the Warlord 
+ Horrendous) ; the cunning, mystical Conjurers (represented by Master Conjurer Aldwyn) and the crafty, 
+ magically adept Wizards (taught by the Grand Wizard Horvath) . The Wizards and Warriors are opposite 
+ halves of an age-old blood feud, while the Conjurers maintain a sort of moral middle ground between 
+ them. Each of these three 'classes' has its own strengths and weaknesses; no class can be said 
+ to be 'best', but the hands-on approach often necessary when playing a Warrior may appeal to some 
+ players more than the stealthy tactics that a Wizard is most often forced to rely on, for example. 
+ 
+  
+  The single-player campaigns are divided into chapters and all follow essentially the same story; 
+ the first three chapters are unique to each class and take the player through the steps necessary 
+ to become established in the profession of their choice (for Warriors this consists of running 
+ 'The Gauntlet', a series of grueling physical tests; for Conjurers it means charming and banishing 
+ several demons from an underground mine; Wizards must locate Horvath's apprentice in addition to 
+ retrieving several artifacts for him) . From the fourth chapter, however, the story becomes the 
+ same per class: find out if the Necromancer queen Hecubah is raising the dead to do her bidding 
+ and assemble an ultimate weapon to stop her. 
+  
+  The game's mechanics are greatly reminiscent of Diablo & Diablo II in that the game sports a point-and-click 
+ interface by default, allowing you to walk, run and attack with the same button. Unfortunately, 
+ because the game assumes that you are not going to be moving and interacting with anything at the 
+ same time, it isn't possible to move & shoot, making clever 'hit-and-run' attacks on large groups 
+ of monsters with a ranged weapon or quick spell impossible. This can become frustrating when there 
+ is a huge, slow golem bearing down on you and the crossbow that could probably kill it in a few 
+ hits forces you to stand completely still after every shot, not even allowing you to cast a defensive 
+ spell, for long enough to allow said golem to catch up and pound you into the ground with a single 
+ blow.
+  
+  Something relatively ground-breaking (although by no means novel) is the game's line-of-sight system. 
+ It realistically mimics human eyesight by painting areas behind solid objects black. With the exception 
+ of magically erected walls, you won't be able to see anything coming if it's coming from behind 
+ an obstacle. 
+  
+  The player has access to up to five spells (as a Wizard or Conjurer) or abilities (as a Warrior) 
+ at a time; these can be bound to any five keys you like. I have mine set to NumPad 7, 4, 5, 1 and 
+ 2 (so I can use the up arrow to move forward and the Enter, Shift and NumPad 0 keys to jump, invert 
+ spell targets (useful for healing allies, for example, as a Wizard or Conjurer) and switch weapons 
+ respectively) , but the standard 'ASDFG' setup may work better for you. As in a lot of areas, Nox 
+ allows the player freedom to customize. In addition to his five spell/ability slots, the player 
+ has access to three quick potion/item slots that can likewise be bound to keys of your choice: 
+ a Cure Poison slot, a Health slot and (for the magic users) a Mana slot. Pressing any of these 
+ keys will consume one of the corresponding items, if the player has any.
+  
+  The game's AI is good for the time at which it was released (Q1of 2000) , but lacking in some departments. 
+ For example, most monsters have a range of vision that is just barely smaller than your screen. 
+ This equates to being able to see them (and take a shot at them) well before they can do the same 
+ to you. And even when they do take offense at being nailed from afar with various sharp objects 
+ (if the first hit doesn't kill them on the spot) , they'll be temporarily possessed by Rambo's one-man-army 
+ mentality and depart from their group (as you'll find most monsters languishing as part of a herd 
+ of their kind, with a few notable exceptions) in search of the offender, from which position you'll 
+ usually be able to slaughter them without interference. And if you're skillful or powerful enough 
+ to kill your target in one shot, the monsters left behind will not seek to avenge their dead buddy 
+ but will stand there like big gnarly sheep with swords and wait for the next blow to fall. Huh?
+ 
+  
+  The game's friendly AI could use some tweaking, too. Often on your journeys you'll encounter citizens 
+ of Nox in various predicaments; by rescuing them from their grisly fates, you'll seal the bonds 
+ of friendship between you and they will follow you around everywhere, until they die or the game 
+ dictates that it's time for them to leave. You'll find lone Wizards in Ogre cages, Conjurers being 
+ torn to shreds by ravening black wolves, Warriors flocking to your side en masse to defend their 
+ home from the Undead. While the scripting is handled quite nicely and your allies can usually take 
+ care of themselves, they're prone to airheaded feats of stupidity, such as charging a mob of skeletons 
+ single- and empty-handed, or walking over a blatantly obvious trap and getting roasted, skewered 
+ and crushed several different ways before you can coax them out of danger by walking in the opposite 
+ direction. As a Conjurer, you'll frequently experience moments when a creature you have charmed 
+ or summoned goes out of its way to hunt down a pesky little underling that isn't worth the time 
+ spent killing it, only to either fail and be mobbed by crowds of said underling, or to succeed 
+ and attempt to return to your side over spike pits, traps and whatnot.
+  
+  Under these small scabs of frustration, however, is an incredibly engaging gameplay experience. 
+ The game is an action RPG, so you'll spend more time going head-to-head with hordes of hostiles 
+ than you'll spend making careful choices concerning your character, but the role-playing aspect 
+ of the game serves its purpose well. Your character's inital appearance isn't quite as customizable 
+ as some other games (you're limited to a T-shirt, jeans and sneakers in the beginning, as well 
+ as being able to choose your skin color, hair color and hair style) , and the kinds of armor you 
+ can wear are limited by your choice of profession (Warriors can wear the heavy metal, Conjurers 
+ can don leather armor and Wizards have to make do with robes) , but you still retain a certain feeling 
+ of freedom when choosing your character's attire. 
+  
+  Interspersed throughout baddie-bashing sessions and plot-advancing cutscenes (which the game's 
+ engine handles efficiently) are several mild puzzles. Nothing so fiendish as The Legend Of Zelda 
+ or as immersive as Myst; most of the puzzles require a few simple leaps of logic and either timing, 
+ knowledge of your environment or both. They usually involve keys (of varying metals and precious 
+ gems) and switches (ones you can activate by shooting, ones you need to operate by hand or ones 
+ you can activate by placing a suitably heavy object atop them) and are necessary to advance to 
+ the next area.
+  
+  The game's level design is, in a word, brilliant. Environments come to life as remote villages, 
+ imperturbable castles and subterranean fortresses bustle with civilian activity; swamps buzz with 
+ (sometimes harmful) insect and plant life; crypts creak and groan and are rife with bones and spiderwebs 
+ (and sometimes more) . There are numerous secret areas to be found and exploited; hidden behind 
+ fragile walls or across flaming pits of magma. Some areas force you to retrace your steps after 
+ hitting a switch or grabbing a key; some areas are utterly dark and prevent you from seeing the 
+ small cross in the ground that denotes an imminent pitfall until it's too late (or until you cast 
+ a light-shedding spell) ; rocks fall from the ceiling in unstable mines and elevators (of various 
+ descriptions) grind and click as they convey you up and down.
+  
+  Westwood added a large dose of individual realism to the actors in the game; items make distinctive 
+ sounds when used or dropped (for example, the glassy clink of a bottle filled with potion as opposed 
+ to the sharp metallic clang of a sword hitting the wall or the ground) , enemies appear and are 
+ dispatched in a similar fashion (zombies fall to the ground and will get up again if not incinerated; 
+ skeletons rise from coffins and burst into a pile of bones and armor; wolves leap from hidden dens 
+ and keel over with an almost pitiful whimper; demons stride over lava flows and explode in a blaze 
+ of brimstone) . Even the civilian population of Nox is brought to life well; people in the street 
+ will make conversation when prompted; Wizard shopkeepers will respond with distaste towards a Warrior; 
+ you will even be harassed when walking as a Warrior in the Wizards' citadel of Galava (and arrested, 
+ whether or not you respond with force) . 
+  
+  The weapons you can wield are also of admirable design; they range from simple swords and staves 
+ (with or without various enchantments) to throwing stars, bows and arrows; from maces, axes and 
+ great hammers to staves with powerful spellcasting abilities (notables such as the Conjurer's Force 
+ Of Nature staff or the Wizard's Lightning staff come to mind) . Thanks to the liberal application 
+ of adjectives and enchantments, the list of items you can acquire while playing is nearly endless 
+ (items range from 'Flimsy' to 'Mighty' to 'Divine' in durability and carry enchantments such as 
+ 'of the Tick' (vampirism) , 'of Embers' (fire) and 'of Collison' (knockback) ) . As with armor, some 
+ classes restrict the use of certain weapons. Also, some weapons work better than others against 
+ certain foes: giant mechanical machines of war are immune to fire, as are certain breeds of demon; 
+ a spider or scorpion will show far better resistance to poison than a human bandit. However, barring 
+ a certain sense of logic, discovering these weaknesses and wards is largely a matter of trial and 
+ error, and often you'll waste a lot of ammunition or mana on an approach that doesn't work before 
+ getting smoked and realizing that there might be a better way to go about doing it.
+  
+  Unfortunately, going about doing it differently can be a pain sometimes, due to Nox's user-unfriendly 
+ inventory system. Rather than use a logical 'this item goes here, that one goes there' system like 
+ Diablo, Nox makes the player scroll through pages of square slots to find each item. This may actually 
+ be my greatest complaint concerning the game's mechanics; often I left myself with a sub-par weapon 
+ because I couldn't be bothered to find a better one in the labyrinthine folds of my inventory. 
+ You're allowed a single slot for a secondary weapon, which you can switch to and from at the press 
+ of a key, but even this system is flawed; you can equip a shield, for example, as a Warrior, but 
+ if you switch to a two-handed weapon like a hammer or halberd, you'll need to manually re-equip 
+ the shield after you switch back. A Conjurer's bows require slightly less maintenance; they will 
+ automatically find a quiver and equip it if you don't select one prior to firing.
+  
+  All in all, and despite several minor flaws, Nox provides an engaging, addictive single-player 
+ experience with a not-too-steep learning curve, while requiring some ingenuity to come up with 
+ effective strategies (imbuing a small, voracious creature with a stationary cloud of poison gas 
+ and a spell that forces the target to remain still remains one of my favorite tactics as a Conjurer) . 
+ However, once you've seen the three campaigns through, you'll be tired of Hecubah's menacing, lightly 
+ suggestive tones and the continual assault of exploding fireballs on your eardrums. For the game's 
+ real replay value, Nox die-hards can turn to its multiplayer functionality and the Nox Quest add-on.
+ 
+  
+  In its simplest form, multiplayer Nox is a slag-fest between two or more players; they choose a 
+ class, create a character (in a similar way to starting a single-player campaign) and jump in with 
+ a few weapons and all the skills or spells for their class available to them. Additional game modes 
+ come in the form of Capture The Flag (do I really need to explain this?) , FlagBall (like soccer, 
+ in a way, but with violence, and flags instead of goals) , Elimination (last man standing is the 
+ winner) and a game mode reminiscent of King-of-the-Hill: one player is 'It', and gains points for 
+ each second he stays 'It', the others all get points for killing him (and by doing so, become 'It' 
+ themselves) . 
+  
+  When pitted against each other (by human players) , the strengths and weaknesses of each particular 
+ class are even more easily distinguishable. Warriors, with their heavy metal armor, become easy 
+ prey to a Wizard's Lightning spells, and their general inability to mix it up successfully with 
+ large groups of opponents puts them at a disadvantage when facing a skilled Conjurer. However, 
+ they deal the greatest direct damage per attack and possess two methods of closing the gap between 
+ themselves and a fleeing spellcaster (Berserker Charge and Harpoon) , as well as a way to defend 
+ against spells in their immediate vincinity (War Cry) . Wizards have to rely on stealth and deceptive 
+ tactics to succeed over the other two classes, because face-to-face with either of them, they just 
+ don't have the raw physical prowess or armor-wearing capabilities to keep up. However, with powerful 
+ spells like Fireball and Death Ray, obstacle-creating spells like Wall and Lock, stealth spells 
+ like Invisibilty, and the ability to create deadly traps, teleport to safety or become temporarily 
+ invulnerable, an adept Wizard can be a major headache for his opponents. Conjurers, with their 
+ comparatively thin leather armor, will have to stay on their toes to avoid direct damage and fire 
+ spells (as fire does extra damage to leather armor in a way similar to electricity versus metal) 
+ and pick off their foes at range with bow and arrow while their 'pets' harrass the enemy up close 
+ and personal. 
+  
+  Finally, before I get into the technical aspects of Nox's gameplay, I'll go into what was for me, 
+ and presumably for other content-hungry Nox fans as well, a breath of fresh air: Westwood's Nox 
+ Quest add-on. This expansion pack was released together with the version 1.2 patch and was available 
+ at no cost. Since its release, however, Westwood. com has become a referral link to EA's Command 
+ & Conquer page, and the expansion executable has become rather hard to come by (I got mine from 
+ FileShack; it's presumably still out there somewhere) . 
+  
+  Nox Quest is a single- and multiplayer add-on that allows you to adventure through several entirely 
+ new but familiar maps (styled after, for example, the Temple of Ix or the Underworld from the single-player 
+ game) , alone or with up to six people at once, while facing seemingly endless hordes of monsters 
+ and some positively devious puzzles. In contrast to single-player mode, the object of Quest mode 
+ is to find the exit and advance to the next stage, destroying as many monster-summoning Obelisks 
+ as you can along the way. Level design is even more intuitive than it was in the original game, 
+ with puzzles that sometimes require skills particular to each class (for example, while adventuring 
+ as a Conjurer I came across a door that wouldn't open and a quartet of pressure panels in the floor; 
+ it was impossible to keep all four activated and walk through the door to the significant amount 
+ of treasure beyond, and I had to summon four small creatures and force one to remain still on each 
+ plate before the way forward was laid bare) . For those of you who moaned about the lack of a co-op 
+ mode for Nox when it was first released; your waiting has paid off. And it was well worth the wait, 
+ in my opinion.
+  
+  In conclusion, I'll cast a glance at the rating bars at the bottom of the 'Write a Review' page 
+ and give my reasons for the ratings I gave. Nox' gameplay receives a big, fat 9, simply because 
+ of the fun I had running through crypts and towns and dungeons in my leather duds and bow (or plate 
+ mail and sword, or robes and staff) , slaughtering hordes of monsters and saving the day (with one 
+ seriously bad mother of an ultimate weapon. But I'll leave that discovery to you) . The graphics 
+ get the lowest passing grade, a 6, because I've seen better within this genre. Not that they aren't 
+ impressive for a game from 2000, but what can I say? I'm a perfectionist. Sound gets a 7, because 
+ although it outscores a lot of games in both musical score and sound effects, the sounds get repetitive 
+ and boring after prolonged periods of gaming. As far as quality goes, though, Nox sounds top-notch. 
+ Speaking in terms of overall value, Nox scores an 8, for its combination of solid gameplay, good 
+ replay value and neglible flaws in AI, graphics and sound. 8.2 pretty much says everything that 
+ remains to be said about Nox; if you haven't already, go out and buy it!
+  
+  CK 
+::::::
+
+::::::
+UserName: RRLevering
+Rating: 7.5
+Date: Nov 23, 2005 8:55 am PT
+Review:  Diablo was an amazing game, especially for it's time. The action RPG genre, while still underrepresented 
+ and struggling to define itself in the RPG world, was even less developed in the 90s.
+  
+  Nox came along a little bit later, without nearly the same marketing hype or fanbase. However, 
+ after playing the game for even five minutes you realize that in gameplay it's almost exactly the 
+ same. It's a third-person isometric view that you navigate and click on monsters/items to interact 
+ with them.
+  
+  One of the things that in my mind really marked the first Diablo was the mood the game created. 
+ The dungeon/hell atmosphere punctuated by an amazingly eerie soundtrack really pulled the player 
+ into the game experience. Nox lacks this distinction, having a more traditional RPG atmosphere. 
+ However, the upside to that is that the world is not very repetitive.
+  
+  To say that it's a clone, however, is not really giving it full credit. It features some line-of-sight 
+ mechanics, and a separate storyline for each profession. However, in the end of the day, the single 
+ player game is still the same idea. The multiplayer is worth taking a look at on it's own, but 
+ I'm not a multiplayer fan, so I'll leave that review to some one else.
+  
+  Overall, I wouldn't advise this game to the action RPG fan of this day and age, but it served its 
+ purpose, filling in the gap until later greats, like Diablo 2 and Dungeon Siege, could improve 
+ on the genre. 
+::::::
+
+::::::
+UserName: mysour
+Rating: 9.8
+Date: Oct 17, 2005 5:42 pm PT
+Review:  At first I borrowed it at the library, and I loved it, it's so much fun, I played it alot, even 
+ my older sister got addicted to it, although she never got to finish it.
+  Although it still has some weakpoints, not many though, it still is an wonderfull game to play, 
+ with a good storyline, and a good character designer, plus the three differant order of people 
+ you could play as, Wizards, Warriors, and, uh, a mix of the both that can summon animals, each 
+ of those have there own path of the storyline, and the cutscenes are nice, especially the ending 
+ cutscenes of each class, are especially rewarding.
+  The game has many differant weapons, spells, and other equipment that you can choose from, and 
+ you'll always be going, wow a new bow or, wow new wrist guards, and some equipment, even offers 
+ magical bonuses. To top it all there are shurikins that return to you.
+  The story is about a guy named Jack who is a regular, trailer trash, type guy, with a nagging wife, 
+ hes in the middle of watching the game, and gets sucked into a mysterious globe on his tv. Mokuba, 
+ the villan of the game, is trying to collect the pieces of an ancient and very powerfull staff, 
+ you as Jack go on your own quest to collect the pieces. Very immersive, and fun, I rate it as a 
+ deffinate classic, and overall better then the Diablo games put together, go and buy the game online 
+ to play the best RPG that ever hit stores.
+  Although the graphics arn't exactly it's strong point, it more than makes up for it in its wonderfull 
+ and addicting gameplay. 
+::::::
+
+::::::
+UserName: Everclearules
+Rating: 8
+Date: Apr 12, 2005 6:05 pm PT
+Review:  Nox is a game that is somewhat similar to Diablo in gameplay, though it focuses more on the single 
+ player campaign instead of finding items and leveling. 
+  
+  I know many did not like Nox's graphics, but I really enjoyed them, especially the spell effects. 
+ Perhaps they were just 'unique' compared to other games. The grahpics are a little bright and colorful, 
+ which definintly can come off as kid like, but atleast it's not to the point of being cartoon like.
+ 
+  
+  The controls are very similar to Diablo, and thankfully, just as responsive. Left clicking attacks 
+ and moves, but spells are handled a little differently. Instead of calling up the spell and right 
+ clicking, you have a small spell set on the bottom of your screen which can hold 5 spells of your 
+ choosing. There are 5 spell sets in all that can be alternated between so you can cast just about 
+ any spell your character has with only a few button presses. To actually cast the spell though, 
+ it simply requires you to face in the direction you want to casts the spell (moving the cursor 
+ in that direction) and pressing the corresponding key.
+  
+  However, with all those keys it will take a bit of memorization on your part and quick fingers 
+ to get to the spell set and cast the spell you want. Fortunantly, that only applies to the Conjurer 
+ and Wizard since the Warrior only has 5 skills in all.
+  
+  There are only 3 characters, which disapointed me alittle, plus the warrior only has 5 skills he 
+ can use. Though I did find all 3 characters well balanced, and each could defeat the other if played 
+ right. Playing online was even better seeing as how you had to find items in the level to use, 
+ instead of using items you had already found in other games (as with alot of other RPGs) . This 
+ made playing online much more fair and depended much more on your skill and not just your items. 
+ All 3 characters also start out Multiplayer games knowing all skills and spells of their class.
+ 
+  
+  The characters are still quite unique and all require a different style of play. The Warrior doesn't 
+ require you to cast spells left and right but that means you must know how to block those spells. 
+ You also have the grappling ability which pulls another character towards you allowing you to catch 
+ up to them.
+  
+  The Conjurer, as would be obvious, conjures up creatures to help him fight. How many creatures 
+ you can summon depends on their size. You can either summon 4 small creatures or 2 medium creatures, 
+ or one large creature, or 1 medium and 2 small, you get the point. The summons are not that spectacular 
+ by themselves but they're only meant to help you fight, not be your main source. Thankfully, the 
+ conjurer also has some of the most powerful spells as well, though they are easily blocked. Still, 
+ with the right timing or set up, he can be extremely deadly.
+  
+  The Wizard is constantly casting spells, Defensive and Offensive alike. Mostly you'll be trying 
+ to trick others by teleporting around, casting spells to slow or make your enemy drop his weapons, 
+ or by setting traps. The wizard can be quite a difficult character to play since it requires you 
+ to be able to call up and cast spells very quickly, but he can also be one of the most powerful 
+ if you can do that. 
+::::::
+
+::::::
+UserName: ItchyBoots
+Rating: 8.8
+Date: Dec 12, 2004 1:23 am PT
+Review:  The highlight in this game is the multiplayer. Chaotic, fast-paced action describes it best. Three 
+ classes; warrior, mage, and the conjurer all extremely different. The conjurer was the most interesting, 
+ using nature, exotic spells, bows and arrows to dispatch your enemies. The campaign was pretty 
+ good as well, with lightly humorous cutscenes and a well done but cliche' plot. The gameplay consists 
+ of puzzles, mazes, traps, and the countless slaughter of hordes of monsters. The range of monsters 
+ was austoinding, from imps to zombies the long campaign against evil had many different faces.
+ 
+  
+  The ending was a blast, literally. I dont want to give anything away but they put you in a turkey-shoot 
+ position that is a lot of fun. 
+::::::
+
+-------------------------------------------------

@@ -1,0 +1,131 @@
+-------------------------------------------------
+:::Game Name::: NASCAR Revolution
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/driving/nascarrevolution/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Mar 19, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 4.1
+Critic Score: 5.4, 14 Review (s)
+User Score: 5.7, 30 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Electronic Arts
+Developer: Stormfront Studios
+Genre: Stock Car Racing
+Date:     Jan 31, 1999
+
+-------------------------------------------------
+:::Review:::
+NASCAR Revolution isperfect - perfectly wretched, that is. 
+
+ For NASCAR fans who found NASCAR Racing's realistic physics just a little too frustrating, NASCAR 
+ Revolution would seem to be the perfect game. It's got 17 licensed tracks (no Daytona, though) , 
+ 31 real-life drivers (37 if you count six "hidden" legends like Richard Petty and Benny Parsons) , 
+ mind-blowing car graphics, and was developed by Stormfront Studios - the same team that made IndyCar 
+ competition accessible with the  Andretti Racing.  
+
+ And NASCAR Revolution is perfect - perfectly wretched, that is. From start to finish, the experience 
+ is so unsatisfying - no, make that infuriating - that the only reasonable conclusion you can come 
+ away with is that it was booted out of the testing labs and onto store shelves so it'd be available 
+ before the Winston Cup season began. Since NASCAR Revolution first appeared on console systems 
+ last Thanksgiving it's tempting to call this a sloppy port job, but usually that just means there's 
+ no mouse support or that the save-game functions are screwy. This goes far beyond that, however: 
+ it is, to put it bluntly, all but unplayable.  
+
+ Looming mightily over NASCAR Revolution's aggravating array of flaws is the game's abysmal performance 
+ on even the fastest systems out there. On my rig (a Celeron running at 375MHz with 64MB RAM and 
+ a Voodoo 2) NASCAR Revolution ran smooth as silk during practice and qualifying sessions - provided 
+ I used the chase view or front-bumper view, that is. But the frame rate fell off noticeably when 
+ I switched to a cockpit view (which is a rather dull and ugly one at that) - certainly enough to 
+ affect the way I was driving the car.   
+
+ And things go from bad to worse when you actually get into a race. It's not so much a matter of 
+ choppy animation, although that's definitely a problem: The fact is that the action literally slows 
+ down. How bad is it? Well, judging from the way the ads on the walls crawl by on straightaways, 
+ you'd think you were driving through the infield lake at Daytona. You can switch to the chase or 
+ front-bumper views to improve the frame rate, but that robs the game of any claims to realism it 
+ might have - and things still move in slow motion.  
+
+ It's absolutely horrible on short tracks like Martinsville and Bristol, but even on super ovals 
+ it turns what should be a thrilling ride into a frustrating nightmare. True, I had all the visuals 
+ turned on, and the car graphics are admittedly eye-popping - but I was running at only 640 x 480, 
+ and my system's got more than enough power to handle all that stuff and still deliver a great frame 
+ rate. And even if you can deal with the slow movement, there's another issue involved: There's 
+ zero relationship between what you see and feel when you're practicing and qualifying and what 
+ you see and feel when you're racing. You might as well skip it and start at the back of the pack 
+ - at least then you'd know what to expect as you pass cars that look as if they're going about 
+ 45 per.  
+
+ At the heart of this problem is the game's 3D support. In an amazing stroke of programming ineptitude, 
+ Stormfront Studios managed to create the first game ever to run faster - much faster - in Direct3D 
+ mode than in Glide. All my problems listed above occurred in Direct3D mode. When I tried to play 
+ the Glide version, it ran so poorly that I spent a good two or three hours downloading new drivers 
+ - and after all that I finally realized that it wasn't my drivers but the game that was causing 
+ all the heartache. (In an interesting side note, the requirements say you need Glide 3.02, but 
+ there is no version 3.02 for Voodoo 2, Voodoo Banshee, or Voodoo Rush cards.)  
+
+ NASCAR Revolution's console roots shine throughout the game, and they aren't the sort of things 
+ to make PC racing fans happy. Cars default to automatic transmission before every race (at least 
+ you can save car setups with manual transmission for each track) , so at least 17 times you'll have 
+ to go into setup and switch it to manual. All track sessions start with a ridiculous external view 
+ - and because the computer takes control of your car for the first ten seconds or so, you must 
+ fumble around cycling through views when you should be focused on getting off to a good start. 
+ Almost as maddening as the game's bad performance is what you have to endure when retiring from 
+ a race: staring at the screen for 20 or 25 seconds as your car drives all the way around the track. 
+ And yes, that applies during practice runs, when good drivers are constantly heading to the garage 
+ to change settings.  
+
+ After all this, I couldn't endure the idea of playing NASCAR Revolution online, but this is one 
+ case where I got lucky: The game's multiplayer support is so thin I wouldn't have found an opponent 
+ anyway. Support for only IPX networks play pretty much rules out action over the Internet (unless 
+ you use Kali, and when I checked I didn't see anybody playing it) , and even if you found someone 
+ to play modem-to-modem you'd be shocked to learn that the manual recommends a total of a mere four 
+ cars in head-to-head games (even with a serial connection) .  
+
+ You've really got to hand it to Stormfront for the graphics work they did on the cars - but you've 
+ got to lambaste them for not figuring out that pretty pictures aren't worth squat if you can't 
+ make 'em move on the screen. As we say down here where NASCAR racing got started, this dog don't 
+ hunt - and if you buy it after reading this then I've got some infield tickets for next year's 
+ Daytona 500 you might be interested in.     
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: EAfan90
+Rating: 5.2
+Date: Jun 17, 2006 12:24 pm PT
+Review:  I must admit that when I was younger I enjoyed this game, but that's only because I didn't realize 
+ how many other games out there were better. Now I realize that this is a pretty lousy effort by 
+ EA. They tend to do a good job at that.
+  
+  The Good:
+  -Good graphics for its time.
+  -Day to night transition at Charlette (Lowes) made it a fun track.
+  -You can save your race when 
+ on pit road and come back to it later.
+  
+  The Bad:
+  -Dreadful audio. The only engine ever really heard is your own, and it's an ugly one at that.
+ 
+  -Physics are neither arcade or simulation. Simply awful. I bump the wall and my gets "grabbed" 
+ by the wall and spun out. At times my car randomly gets loose and I spin out. Sometimes I bump 
+ another car and I go flying and he drives away like it's nothing.
+  -No control in pit road or yellow flag. On top of that, they send you green flag racing at an extremely 
+ random time.
+  -No online racing unless you use a direct modem or IPX connection.
+  -Commentary is annoying as ever.
+  -Horrible framerate while racing which translates to worthless 
+ replays.
+  
+  If your computer is that old I would suggest getting Nascar Racing 3 or 4 by Papyrus. And if you'd 
+ like an easier, arcade experience EA's Nascar Thunder games should do the trick. 
+::::::
+
+-------------------------------------------------

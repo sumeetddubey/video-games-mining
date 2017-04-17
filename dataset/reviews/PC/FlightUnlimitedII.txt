@@ -1,0 +1,90 @@
+-------------------------------------------------
+:::Game Name::: Flight Unlimited II
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/flightunlimited2/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jan 20, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.8
+Critic Score: 8.6, 3 Review (s)
+User Score: 8.4, 59 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Eidos Interactive
+Developer: Looking Glass
+Genre: Flight Simulation
+Date:     Nov 30, 1997 &raquo;  
+
+-------------------------------------------------
+:::Review:::
+It doesn't have the globe-spanning sweep of Microsoft Flight Simulator, but it renders its own little 
+ corner of the world with admirable fidelity. 
+
+ Flight Unlimited is a tough act to follow. A detailed physical model, lavish graphics, and a selection 
+ of high-performance planes set a new standard for aviation sims. After most of the original team 
+ responsible for FU departed, Looking Glass needed to start over and reconceive its product line. 
+ It did this by moving away from the aerobatic emphasis of the original FU in order to create a 
+ thorough and exacting simulation of civil aviation in one region, with results that are as impressive 
+ as they are innovative.  
+
+ Unlike the thousands of international airports offered by MS Flight Sim (the other major civil-aviation 
+ sim) , Flight Unlimited II concentrates on 46major airports (and many minor ones) within the confined 
+ area of the San Francisco Bay area. This decision cuts two ways. Microsoft Flight Sim folk will 
+ undoubtedly be disappointed to find only one region mapped, since they are used to cross-country 
+ jaunts. But by narrowing the range, Looking Glass has been able to re-create its little spot of 
+ terra firma in exacting detail.   
+
+ Graphically, it is probably one of the most complex representations of a single region available 
+ in any sim. With its 3D-accelerated graphics, terrain and objects flow smoothly on even the higher 
+ resolutions, though things do begin to bog down once you go much over 800x600. Software acceleration 
+ is also available, providing a good show even without the hardware. The result of all this detail 
+ is to provide the pilot with true visual flight rules and terrain following. Navigation with the 
+ Mark 1 eyeball is rarely this well implemented. A full complement of locations (Golden Gate Bridge, 
+ Alcatraz) and beautiful scenery makes it all the more enjoyable.   
+
+ Graphics are only one part of the equation that creates the quite realistic feeling of FU II. Looking 
+ Glass has spent a great deal of time perfecting the physics, the instrumentation, and, most importantly, 
+ the traffic and tower AI. Instead of the high-performance stunt planes of the original, FU II models 
+ some staples of civilian flight: the Beechcraft Baron twin-engine, Piper Arrow single, de Havilland 
+ Beaver float plane, P51-D Mustang, and the "Trainer 172" (which looks like a Cessna to me) . The 
+ performance and handling are top-notch across the board, right down to the weather effects and 
+ the unique handling of the Beaver during water takeoffs and landings. These are tight, effective 
+ flight models that truly capture the feel of these planes, two of which I've actually flown. Each 
+ has a full complement of instruments for true cross-country instrument flying, unlike the simpler 
+ cockpits of the original FU.  
+
+ Adding to the sense of realism is a complex re-creation of air traffic, radio messages, and tower 
+ controls. Flight II is as much a radio and air-traffic sim as it is a flight sim, with detailed, 
+ smoothly edited cockpit chatter. Dealing with the ATCs at various airports adds greatly to the 
+ feeling of airspace restrictions, takeoff, landing, and other aspects of flight control. There 
+ are also allegedly some provisions made for restricted military airspace, but no matter how many 
+ times I buzzed Travis, I couldn't stir the hornets out of their nests.  
+
+ Gameplay is pretty open-ended, as one would expect from a pure sim. You can set up flight plans 
+ and save them, then fly point-to-point. A couple dozen special missions are also included, and 
+ they run the gamut from dropping chickens on Candlestick Park to breaking some prisoners out of 
+ Alcatraz. Creating a custom flight in any condition and at any location is very simple with the 
+ planner, and the variety of weather conditions (with the best weather effects in any sim, bar none) 
+ can make for some harrowing flights. The interface that ties all this together is easy and intuitive. 
+
+ There were some problems with the initial release that have been largely hammered out and some that 
+ are due to be. Tower AI goes daffy now and then, and the aforementioned lack of a proper response 
+ in restricted airspace comes to mind. A problem with the center trim on the elevator has been fixed 
+ (this was very annoying) . The Mustang has several bugs in it that have been mostly fixed. Control 
+ and joystick routines are overall pretty clean, and while there were some instances of graphical 
+ glitches, there were no hard crashes.  
+
+ Flight Unlimited II is a very different experience from the original. For fans of civil aviation, 
+ it offers a whole new way to look at flight without the fight. It doesn't have the globe-spanning 
+ sweep of Microsoft Flight Simulator, but it renders its own little corner of the world with admirable 
+ fidelity.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

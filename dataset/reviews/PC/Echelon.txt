@@ -1,0 +1,150 @@
+-------------------------------------------------
+:::Game Name::: Echelon
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/echelon/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: May 23, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7
+Critic Score: 7.3, 20 Review (s)
+User Score: 7.7, 67 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Bethesda Softworks
+Developer: Buka Entertainment
+Genre: Space Combat Sim
+Date:     May 16, 2001
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+In spite of its problems, Echelon does hit close enough to the mark to offer some fast and flashy, 
+ but ultimately shallow, thrills. 
+
+ Simulations with a science fiction theme haven't exactly been flying off the shelves in the last 
+ couple of years, in spite of the buzz surrounding last year's Crimson Skies and MechWarrior 4. 
+ And other than a few notable blips, hard-core flight sims have also largely disappeared off the 
+ radar in the past year or so. Echelon, a futuristic air-combat game developed by Russia's Buka 
+ Entertainment, combines elements from both science-fiction-themed games and traditional flight 
+ simulations. Instead of skirmishes in deep space, you pilot futuristic aircraft over beautiful 
+ alien worlds, battling both air and ground targets in fast-paced battles. Yet despite its promising 
+ premise, a host of problems really hurts what could have been a fine game.           Echelon features 
+ an impressive 3D engine...    
+
+  Echelon's futuristic timeline begins with a massive civil war that throws the sprawling Galactic 
+ Empire into chaos and eventual collapse. Peace is restored as the Galactic Federation is formed, 
+ giving rise to a period of prosperity and expansion. As the Federation reaches outward to ever 
+ more remote areas, it comes in contact with a race known as the Velians. When the Federation learns 
+ of the Velians' null-t (null-transport) technology, it's quickly integrated into the economic fabric 
+ of Federation life, allowing rapid transit and trade. Unbeknownst to the Federation, the null-t 
+ stations are Trojan horses that quickly become nearly invincible bases of operation for the Velians 
+ as they attack the Federation.   
+
+  In the single-player missions, you take the role of a fresh cadet out to help save the Federation 
+ from its new nemesis. That's not an uncommon scenario in a science fiction story, but when handled 
+ with skill, it can be effective. However, in Echelon, there's little sense of involvement with 
+ the story since you don't really get to know or care for any characters. Despite some beautiful 
+ cutscenes, the gameworld isn't distinctive or memorable. You don't feel like you're fighting for 
+ someone or something; you just fight because that's what the game is about.   
+
+  The missions are scripted so that they largely play the same way each time. No matter what you 
+ do, enemies will appear at the exact same time and place, or your wingmen will inexplicably rush 
+ ahead just to get killed, leaving you alone against impossible odds. Some missions are outrageously 
+ hard, while others are too easy, and a number of them include tediously long escort segments with 
+ no action. Even with the time acceleration option activated, these missions still drag on. Such 
+ flaws sharply reduce the game's overall sense of excitement and replay value.           ... and 
+ interesting ship designs.    
+
+  An anemic skirmish mode doesn't help much, though multiplayer can be exciting and offers deathmatch, 
+ team deathmatch, and a mode where you try to capture and hold ground bases. Unfortunately, the 
+ only way to join a multiplayer game is to seek out and manually enter a server's IP address. Also, 
+ the game will sometimes spawn your fighter right in front of a mountain, resulting in an unavoidable, 
+ fiery wreck.   
+
+  A series of tutorials does a good job of helping you master the numerous controls and the somewhat 
+ unusual flight model. Many of the standard trappings of modern jet combat sims are present, such 
+ as a HUD with a scrolling altimeter, an airspeed indicator, and a multifunction radar and targeting 
+ system. The 14 flyable aircraft also handle somewhat like real planes, but with some major exceptions 
+ that put the emphasis on action over realism. While some of the heavily armed ground attack craft 
+ are relatively sluggish, many of the futuristic fighters can stop and turn on a dime, changing 
+ attitude and airspeed with remarkable efficiency. Unlike a real plane, your craft's equivalent 
+ of a rudder will turn the whole ship instead of just reorienting the nose along the same flight 
+ path, resulting in even more maneuverability. At a dead stop, your ship can also hover. While you'll 
+ bleed off airspeed during some inverted or high-g maneuvers, these don't stress the craft or pilot, 
+ and stalls aren't an issue. Your fighter can be controlled with keyboard, mouse, or joystick, though 
+ a joystick probably offers the easiest, most natural control.    
+
+ What Echelon lacks in subtlety, it makes up for in action as you escort ships, engage fighter wings, 
+ and rain rockets on tank columns and gun emplacements. You can stay focused on the flashy combat 
+ thanks to the very relaxed flight model, limited damage effects, autopilot, and navigation waypoint 
+ markers. Reminiscent of StarLancer or Crimson Skies, Echelon's dogfights are fast, swirling engagements 
+ that don't require much getting used to. The emphasis is on quick, extremely low-altitude maneuvering 
+ and blazing guns over careful attention to instruments or balancing of the forces that would act 
+ on a real plane.           Some missions are much harder than others.    
+
+  The enemy artificial intelligence puts up a decent fight, though you'll sometimes see fighters 
+ blithely bouncing off cliff edges. Your wingmen will perform similar stupid stunts by smacking 
+ into the back of you as you line up in formation for a return to base. Instead of reversing or 
+ heading for cover, friendly tanks will continue directly toward known, vastly superior enemy forces -- with 
+ predictably disastrous results.   
+
+  Echelon does succeed admirably where many flight sims have had real problems: It smoothly renders 
+ ultradetailed terrain and fighter graphics during high-speed dogfights. The mottled terrain looks 
+ convincing; shimmering lakes reflect the sky; wispy clouds float by; and the sun glares off of 
+ your canopy. Weapons effects are vivid too, thanks to dynamic lighting and little details like 
+ ejecting shell casings and burning pieces of wreckage spewing from midair explosions. The ship 
+ designs aren't as attractive as the scenery, but they're certainly above average. Unfortunately, 
+ hardware compatibility problems can severely hurt the visuals. For instance, when using the popular 
+ GeForce2-based video card with the latest official drivers and hardware transform-and-lighting 
+ option enabled, you may find that the otherwise excellent graphics will become marred by horrible 
+ clipping problems. Judging by the game's official forums, problems with video card compatibility, 
+ AMD-K6 processors, and other hardware are fairly common.           Echelon can be fun in spite 
+ of its problems.    
+
+  The audio in Echelon doesn't match the quality of the visuals, but the in-mission sound effects 
+ do a decent job of putting you into the role of fighter jock. Most of the weapons sound underpowered, 
+ but the radio messages and warning voices and tones in your cockpit do manage to create a sense 
+ of tension and urgency. The radio chatter can actually get a bit annoying, as your flight computer 
+ incessantly reminds you, "Radio message received," in a robotic voice. The flood of messages can 
+ also make it hard to keep track of updates to your mission assignments while you're engaged in 
+ battle.   
+
+  Echelon appears to be rushed and is hurt by a weak story, some poorly balanced and designed missions, 
+ lack of a fully functional server browser, erratic AI, some hardware compatibility problems, and 
+ some bugs. Typos and some poorly written or translated dialogue also mar the game. Still, the gorgeous 
+ graphics are quite a sight, and the gameplay gives you a fairly enjoyableTop Gun  meets  Star 
+ Warsexperience that straddles realism and arcade-style gameplay, while emphasizing the latter. 
+ In aiming to meld the two, it doesn't quite get either right, and substance takes a backseat to 
+ style. Nevertheless, Echelon does hit close enough to the mark to offer some fast and flashy, but 
+ ultimately shallow, thrills.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: PCgamer4000BC
+Rating: 7.8
+Date: Mar 9, 2007 6:42 am PT
+Review:  this is the game that got me into flight sims. You dont have to worry about take off or land or 
+ stalling and running out of fuel. The HUD tells you were to shoot no matter where the targeted 
+ craft is flying, so you dont have to be really experienced to shoot something. Also if you take 
+ some damage but dont die, you can fly away from the battle because your ship automatically recharges 
+ health. The training missions are exelant too. (They are the first few missions of the game, where 
+ the commander tells you what buttons do what.)
+  
+  some downsides are that sometimes the enemy takes your HUD away, so that can be challanging. When 
+ I said this game was noobie freindly, that does'nt mean its not hard. You just dont have to worry 
+ about much of anything besides killing them / not getting killed. The story is a bit weak though, 
+ it invlves the universe having a nuclear cataclysm and you are fighting over the few remaining 
+ livable planets.
+  
+  A good game if you are wanting to try out flight sims, but if you play stuff like pacific fighters 
+ or IL2, this is not a great game. 
+::::::
+
+-------------------------------------------------

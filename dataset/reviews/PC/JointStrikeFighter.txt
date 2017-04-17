@@ -1,0 +1,91 @@
+-------------------------------------------------
+:::Game Name::: Joint Strike Fighter
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/jointstrikefighter/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Feb 27, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7
+Critic Score: 6.3, 2 Review (s)
+User Score: 7.4, 40 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Eidos Interactive
+Developer: Innerloop
+Genre: Jet Sim
+Date:     Dec 31, 1997
+
+-------------------------------------------------
+:::Review:::
+JSF is mighty fun and points toward a promising future for Innerloop. 
+
+ Once you pop your eyeballs back into their sockets after your first aerial tour of JSF, you begin 
+ to sense both its strengths and limitations. The prime strength is right there on the screen: the 
+ most detailed, fluid, impressive graphics of any combat simulation now available. Period. Even 
+ without a 3D card, this sucker screams. Terrain isn't a lumpy wet blanket of wiggly textures and 
+ flat horizons, but a finely contoured, artistically shaded rendition of four different regions: 
+ Afghanistan, Korea, Columbia, and the Kola Peninsula. The terrain doesn't come apart like a cheap 
+ suit once you're down in the mud: It looks as sharp at low altitude as at high. Most structures 
+ are modeled in detail and well integrated into the terrain, with the exception of city buildings, 
+ which look like cracker boxes with holes punched in them.  
+
+ So you get the main point here: JSF looks very, very nice. But what, in fact, is it? And how does 
+ it fly? Well, it's a midlevel sim of two new designs being considered for the new Joint Strike 
+ Fighter program by the DOD: the Boeing X-32 and the Lockheed X-35. These planes are not yet online 
+ (hence the "X" designation) , but one probably will be in the next century. Since we have no idea 
+ of how these birds will fly or what their avionics, weapons systems, and performance envelopes 
+ will be, any comments of the realism, or lack thereof, in JSF would be spurious.   
+
+ However, we can make educated guesses based on simple physics and the handling of similar high-performance 
+ fighters. Airframe performance varies with maneuvers, loadout, and altitude. Speed bleeding and 
+ some degree of variable fuel consumption are here, though whether they are accurate is up for grabs. 
+ The controls, however, feel touchy. Even with a welcome dead zone setting slider in the configuration, 
+ control takes some serious time to get used to. World physics also feel flaky, especially during 
+ landings.  
+
+ The dodgy control isn't helped out by a complete and utter failure to properly map important controls 
+ to the keyboard or to provide custom keyboard mapping. The instrument system, particularly in virtual 
+ cockpit mode, is right out of EF2000 but without the ease of use. In a bid to become the most cumbersome 
+ flight interface on the market, Innerloop requires the various MFD modes and submodes to be manipulated 
+ with a mouse pointer. The mouse can be engaged at all times so that you don't have to use the carpal-tunnel-inducing 
+ Shift-mouse combo, but any hopes of a HOTAS (or even HOKAS) system is shot. Considering that most 
+ of us have our stick and mouse on the right side of the keyboard, this Twister-like setup is far 
+ from ideal and needs serious work.  
+
+ Another area that needs work is the campaign system. When you start one of the four campaigns, you 
+ are dropped to a map with a set of six or so predesigned missions. Except there are no briefings 
+ to tell you the purpose of these missions or the primary targets! If the furthest waypoint is over 
+ a truck convoy, you can assume the primary is the convoy. But they don't tell you that, and in 
+ many cases several enemy targets are grouped together. Only from the cockpit can you determine 
+ primary and secondary targets. Despite this glaring flaw, the mission planner is full-featured 
+ and robust, allowing complete control over waypoints, altitude, loadout, and force composition. 
+   
+
+ The campaign system is semidynamic, with some randomizing factors and force attrition, though there 
+ is no real sense of an ongoing battle. Though there is a quick dogfight mode, single missions, 
+ training missions, and a mission creator are glaringly absent. Dogfighters have some custom features, 
+ but without the ability to practice ground attacks, you wind up learning "on the job." Not ideal. 
+ Eight-player dogfighting via IPX, TCP/IP, and MPlayer and two-player on modem and serial are also 
+ supported. Team and solo modes are available via custom configurations, but no co-op campaigning. 
+
+ How the inability to form IR locks slipped through QA is a mystery, but it has mostly been corrected, 
+ as has the vertical speed/AOA indicator for the HUD. Wingman AI is pretty sharp overall, and enemy 
+ responses are vigorous and prompt. The released version had some horrible bugs that have been partly 
+ fixed.   
+
+ The problems with JSF are not minor, but they are also not prominent enough to keep it from being 
+ an often-entertaining game. Many of them will be dismissed by the target audience: midrange simmers 
+ interested more in US Navy Fighters-style action than Longbow sophistication. Only the control 
+ issue is a major problem, but I've talked to many players who had no problem adapting to this. 
+ It all depends upon how you're used to flying and using the instruments. In the final analysis, 
+ JSF is mighty fun and points toward a promising future for Innerloop.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

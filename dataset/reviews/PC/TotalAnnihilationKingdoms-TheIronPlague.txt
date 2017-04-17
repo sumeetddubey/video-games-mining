@@ -1,0 +1,139 @@
+-------------------------------------------------
+:::Game Name::: Total Annihilation: Kingdoms - The Iron Plague
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/totalannihilationktip/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Mar  3, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.4
+Critic Score: 6.6, 8 Review (s)
+User Score: 7.9, 121 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: GT Interactive
+Developer: Cavedog Ent.
+Genre: Real-Time Strategy
+Date:     Feb 29, 2000
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+It definitely improves the original game and also reflects Cavedog's commitment to fix what needs 
+ fixing. 
+
+ Total Annihilation: Kingdoms hit the market last year and met with extremely high expectations. 
+ After all, the game was a follow-up to the immensely successful Total Annihilation, and fans of 
+ the original game couldn't wait to get their hands on what they hoped would be an even better development 
+ of Total Annihilation's design. But many played Kingdoms and came away disappointed; the game lacked 
+ both the strategic flow and the tactical niceties of its predecessor, and the fantasy setting didn't 
+ fit as well as the first game's sci-fi setting. Kingdoms was decent, and offered many hours of 
+ good strategy gameplay for a lot of people, but it never lived up to its name.  
+
+ Enter The Iron Plague, Cavedog's sub-$20 add-on for Kingdoms. The Iron Plague is merely an expansion 
+ pack for Kingdoms rather than a complete redesign, so you shouldn't expect it to change the game 
+ completely. But in a very real way it bears the burden of rescuing Kingdoms from its earlier problems, 
+ and rescuing Cavedog's good reputation with gamers. In the end, it's partly successful at both. 
+ It definitely improves the original game and also reflects Cavedog's commitment to fix what needs 
+ fixing.  
+
+ You get quite a bit for the game's $20 price tag: You get the 2.0 game-engine upgrade patch for 
+ Kingdoms itself, along with all the new units and battle maps that Cavedog made available for Kingdoms 
+ on its site since the game was released. You also get a brand-new fifth civilization to play, which 
+ brings with it all the units, strategies, and challenges of having an entirely new playable faction 
+ in the game. Along with that civilization come 25 new battle maps, and a new campaign that has 
+ 25 single-player missions tied together with another good story. The new campaign is tougher than 
+ the original campaign, even from the start. Finally, the game CD includes the code necessary to 
+ play The Darien Crusades, a cooperative multiplayer game playable over Cavedog's online Boneyards 
+ site. This review covers only the enhancements to Kingdoms and the Iron Plague expansion itself, 
+ but do yourself a favor and give The Darien Crusades a try. You don't have to buy The Iron Plague 
+ to get the software - just head on to Boneyards and download it from there.  
+
+ Actually, you don't have to buy the expansion pack for the 2.0 upgrade patch either, as it's also 
+ available on Cavedog's site. But it's worth describing since it's the engine that runs The Iron 
+ Plague, especially because the expansion requires pack the original game to be installed anyway. 
+ The game runs more smoothly in the 2.0 upgrade than in the original retail version of Kingdoms, 
+ which makes the gameplay acceptable even at 1600x1200 resolution if you have a good video card. 
+ The patch also addresses a major complaint with Kingdoms - the horrible frame rates during large 
+ battles - first by having the program automatically decrease graphic and animation detail as frame-rate 
+ problems occur, and also by including a feature called Kenny mode, which turns off unit animation 
+ completely in the interest of faster gameplay. You can also adjust the degree of shadowing in the 
+ game and the degree to which units will automatically switch to a lower resolution to maintain 
+ a decent frame rate. But to work with these options you must edit the Windows registry manually, 
+ which is a bad idea unless you know what you're doing.  
+
+ Other improvements in Kingdoms version 2.0 include two additional battle maps and tweaks to the 
+ game's balance, such as knocking Veruna's dirigible down a peg by making it smaller and less powerful, 
+ and increasing the targeting and firing capabilities of the Zhon Wisp. Cavedog also claims the 
+ patch will let the game run on a P200 with as little as 32MB of RAM, though you'll want to play 
+ it on a faster system. Still, however effective the 2.0 patch might be, the real reason for buying 
+ The Iron Plague is to add the fifth civilization to the game. As it turns out, the new kid in town 
+ is a tough kid indeed: The kingdom of Creon was founded by good old Garacaius himself, the Lear-like 
+ progenitor of the four bratty kids who kept trying to wipe each other out in the original game. 
+ Seems the old king upped and headed for some barely civilized dump where he could turn the unwashed 
+ barbarians into believers of science. Over the years the dump became an industrial machine that 
+ created flying machines and lots of advanced weaponry and the like, and the nation even went so 
+ far as to harness the power of mana using refineries rather than lodestones.  
+
+ As you'd expect from a well-balanced real-time strategy game, the scientific foundation of Creon 
+ doesn't necessarily make it any more powerful than the other civilizations, but it still adds a 
+ great deal of depth to the game. The industrial theme gives you a new perspective on the ongoing 
+ war, and the new units are a lot of fun to use. It would have been interesting if the civilization 
+ actually brought with it completely new strategies and tactics, but the Creon units essentially 
+ behave like the units in all the other civilizations. Then again, you want to jump right into an 
+ expansion pack without spending hours figuring out what to do, and The Iron Plague does let you 
+ get into the game right away. Besides, it's fun to watch primitive flying machines take on ancient 
+ flying critters, and to watch the other units meet their respective counterparts as well, even 
+ if they are evenly matched.  
+
+ Garacaius himself can actually appear in the game, as he can be summoned by the Creon leader, the 
+ Sage, with lots of mana and lots of time. But before you get to him, you'll need a wealth of other 
+ units to stay in business. The Creonian grunt is called the automoton, which is a once-dead soldier 
+ who fights with warhammers and provides the necessary fodder for enemy weapons. Replacing the mage-builder 
+ unit type is the mechanic, who can build a wide range of weapons and fortifications. And your main 
+ unit-producing facility is the smithy. The gatling crossbow rotates and fires and picks off approaching 
+ enemy troops, while the tortoise is a primitive tank with a pretty good cannon. You can set up 
+ a bomb sprinkler to rotate like a lawn sprinkler and spray little bombs into enemy ranks, and you 
+ can build a rotating mirror that fires hot light beams and works particularly well as a flak cannon. 
+ The barnstormer is Creon's flying machine, but it's used for scouting and reconnaissance, not for 
+ fighting. Add to these some new naval units such as a submersible and what's basically an ironclad, 
+ and you have some fascinating new toys to work with.  
+
+ Despite the fact that they're clearly modeled on the units from the original game, the Creon units 
+ do take some practice to use effectively. For example, a strong use of combined arms is more important 
+ for Creon than for the other sides. Managing the Creon civilization also usually means balancing 
+ naval and land forces, and in this sense it's also enjoyable to play.  
+
+ The improved game engine and the new civilization are well worth the price of the Kingdoms expansion 
+ pack. It's a very good deal if you liked the original Kingdoms. If you had technical complaints 
+ with the original but liked it fairly well otherwise, you should also consider picking up The Iron 
+ Plague. But if you liked nothing about Kingdoms, then you still won't enjoy it with The Iron Plague. 
+ That's because the essence of the game hasn't changed; resource management remains overly simplified 
+ compared with other real-time strategy games, groups of units moving together still seem to act 
+ as if they're in a Keystone Cops movie, and battles still frequently turn into exercises of mutual 
+ attrition. But the new units, the new maps, and the new campaign add a lot to the original Kingdoms, 
+ which can only be a good thing.    
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: MickeySteroid
+Rating: 7.2
+Date: Nov 22, 2006 3:39 pm PT
+Review:  This is an upgrade to Total Annihilation Kingdoms but it is basically a sequel to it. If you own 
+ Total Annihilation Kingdoms you should probabaly add this one to your collection as well. Without 
+ the 1st one you will not be able to start a new game on this one. The game is very simialer to 
+ the game other than the fact that the game's story mode has different missions and the new team 
+ known as the Creon. The Creon is a robot like team that hates all of the other teams. Garacius 
+ is on this team even though he is the father of all of the other 4 leaders. Well I don't have much 
+ to say but this makes a good upgrade to the game and if you want the 1st one to last longer than 
+ to its end point than this will take place where the other one left off. Make sure to keep the 
+ 1st one after you beat it though because you will need it to play this one. 
+::::::
+
+-------------------------------------------------

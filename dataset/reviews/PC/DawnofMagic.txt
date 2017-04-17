@@ -1,0 +1,564 @@
+-------------------------------------------------
+:::Game Name::: Dawn of Magic
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/dawnofmagic/review.html
+-------------------------------------------------
+:::The Good:::
+ Great magical variety.
+-------------------------------------------------
+:::The Bad:::
+ Buggy to the point of being unplayable.
+ Derivative plot, quests, and map structure.
+ Limited and bizarre character choices.
+-------------------------------------------------
+:::Date::: Dec  4, 2007
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 3
+Critic Score: 5.2, 14 Review (s)
+User Score: 4.8, 318 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Atari
+Developer: 1C
+Genre: Role-Playing
+Date:     Oct 23, 2007
+ESRB: Mature
+
+-------------------------------------------------
+:::Review:::
+Buggy, broken, and entirely unoriginal, Dawn of Magic is one horrible action-oriented role-playing 
+ game. 
+
+  All of the extra hocus-pocus in Dawn of Magic should have made it a cut above the typical Diablo 
+ clone. While the standard action role-playing game contents itself with nonstop hacking and slashing, 
+ this one from developer Sky Fallen Entertainment gives you all of that twitchy-fingered goodness 
+ along with a dozen magical schools that let you raise the dead, launch fireballs, and even suck 
+ the blood out of enemies. But all of this Harry Potter stuff is worthless in the end because horrific 
+ bugs make the game virtually unplayable and the lackluster game design will have you groaning or 
+ yawning before you've cut down a dozen monsters.  
+
+           At least you get the usual RPG light show, courtesy of some pretty nifty spell effects. 
+
+  Getting right into the meat of the Dawn of Magic experience, the only real standout aspect of the 
+ game is its magic system, which features what appears to be a whopping 12 schools of magic. With 
+ that said, there are only eight spells in each school, so don't get too excited over the variety 
+ on offer here. Having 96 different ways to say abracadabra is nothing to sneeze at, though this 
+ number is fairly comparable to other RPGs. Also, the schools and their spells are wholly derivative 
+ of D&amp; D spellcasting. If you've ever played as a magic user or cleric in another fantasy RPG 
+ game, chances are pretty good that you'll be familiar with the spells in schools, such as fire 
+ magic, blessing magic, light magic, and summoning magic. Spell names may be different here, but 
+ you're still casting the same old fireballs, lightning bolts, cones of cold, and blessings that 
+ have been lighting up the Forgotten Realms for what feels like forever.  
+
+  Gameplay itself sticks close to the action RPG formula. Too close, actually. The worn-out story 
+ deals with a god named Modo that has decided to destroy the Earth to take revenge on his fellow 
+ immortals for sentencing him to spend a lifetime as a mortal man. Your goal is of course to halt 
+ these evil machinations, which you do by slashing and spellcasting your way through repetitive 
+ kill, kill, kill quests faced with thousands of creepy crawlies. But nothing is noteworthy about 
+ the monsters here save their numbers because you'll battle such stock RPG beasts as giant insects, 
+ wolves, various undead, big lizards, and goblins. Every level in the game is overrun by these creatures, 
+ however, so these generic goons pose a real threat. You should expect to die early and often, as 
+ well as face opposition so strong that the only way to deal with it involves running as fast as 
+ you can. In many sections of the game, stopping to fight is almost suicidal.  
+
+  In addition to the crazy numbers of enemies here, bad guys are universally speedy and tend to jump 
+ around like frogs on hot plates. You have to keep moving constantly to keep up with them as they 
+ tear around in a seemingly random fashion and to avoid getting hammered by ranged attacks. Also, 
+ because you're a mage, you can't really stand up to heavy melee combat. This necessitates a lot 
+ of retreating from enemy mobs, only pausing briefly to launch a fireball or some similar form of 
+ magical artillery back at your pursuers. But you can't just run wild. Wandering too far afield 
+ can land you in hot water because you can readily race into a new pack of monsters while you're 
+ still busy ducking and diving through a fight with an old pack of monsters. All in all, combat 
+ is frustratingly rushed and pressured, giving you barely a moment to catch your breath amidst the 
+ chaos of it all.  
+
+  Player character features are similarly irritating for their dearth of choices. You choose from 
+ four stock adventurers at the start of the game and can only customize them by typing in a name 
+ then selecting an alignment from the usual good, neutral, or evil. Even worse, these options are 
+ some of the worst ever featured in an RPG. You're stuck with a Harry Potter clone in the Awkward 
+ Student; a carnival mystic in the Weird Gypsy; a Friar Tuck rip-off in the Fat Friar; and a  
+ in the Baker's Wife. Not that there's much separating the characters aside from the way that they 
+ look. The five core stats (strength, intellect, energy -- you know the drill) for each vary only 
+ marginally, so it's not as if you're picking between hulking brawlers and wimpy bookworms. There's 
+ also just a handful of character skills -- all utter blandness -- such as weapon mastery and crafting. 
+
+  Visuals add a layer of confusion to everything. Art design is poorly handled from a technical standpoint 
+ because of such clumsy elements as big text blurbs illustrating conversations. Towns filled with 
+ non-player characters get so muddled up with these word balloons that you can barely see the scenery, 
+ let alone make your way around. Maps are just as tough to read because of the same excess clutter. 
+ You might as well keep the minimap switched off entirely because the huge text denoting the location 
+ of NPCs and boss enemies gets all jumbled together into an alphabet soup. Only blowing up the map 
+ to full size clears the picture, but this full-screen view of course makes it impossible to see 
+ the action.  
+
+  In-game graphics are just as bewildering because of a reliance on the surreal. Glowing rocks fill 
+ caverns, alien plants sprout up all over the terrain, and you even morph into strange shapes depending 
+ on what school of magic you favor. Spells are fired off to the accompaniment of some groovy pyrotechnics, 
+ but the strange glows actually make everything appear even more bizarre. At times, it almost seems 
+ like you're hacking and slashing your way through an Hieronymus Bosch painting. But don't get excited. 
+ As cool as this sounds, the weirdness isn't pulled off very well and the whole surreal idea doesn't 
+ mesh with core gameplay pulled straight from a traditional medieval fantasy game.  
+
+           As usual in an RPG, every successful attack generates an explosion of numbers. But it 
+ sort of takes away from the immediacy of combat when you can practically see a 20-sided die being 
+ rolled on the screen.      
+
+  Audio is equally bewildering. Dialogue darts around so much (probably because of poor translation 
+ from the original Russian) that you're always asking yourself what just happened. At least the 
+ quest log keeps track of things. You always know what you need to do, even if the logic behind 
+ your actions is missing in action.  
+
+  Lastly, there are the bugs. Crashes to the desktop come so fast and furiously that the game can 
+ be all but unplayable. We tried all sorts of different video drivers and went so far as to pull 
+ out the installed audio card in the test system to go back to onboard sound to try stabilizing 
+ the game but had no luck with any approaches. Making the situation even worse, the save system 
+ only allows you to store your progress when exiting the game or at rare checkpoints. So you can't 
+ even try to compensate for the random crashes by hitting a quick-save button every couple of minutes. 
+ The only saving grace here is that not everybody seems to be having serious technical problems 
+ with the game. Judging by forum posts, it's hit and miss as to whether or not you'll encounter 
+ problems. But when you do, these issues seem to be severe enough to cause crashes or prevent you 
+ from loading the game at all. So, caveat emptor and all that.  
+
+  Dawn of Magic also features a multiplayer mode that we haven't gotten into, but really, haven't 
+ you endured enough suffering already? If you happen to see this game on a store shelf, just back 
+ away slowly.     
+-------------------------------------------------
+:::User Reviews::: (16 Reviews)
+::::::
+UserName: Alpha_Spirit
+Rating: 2
+Date: Feb 13, 2009 12:45 pm PT
+Review:  Good :
+  Intro, good for the first hours
+  
+  Bad:
+  HUD, bad storyline, not too much characters to choose from, quests, easy difficulty,...
+  
+  _________________
+ 
+  
+  Graphic 2 / 10
+  Graphics are not bad , but not up-to-date. The visual effects make it harder to pick up objects 
+ from the ground. Spell effects are not bad, but they could be a lot better!
+  
+  _________________
+  
+  Gameplay 1 / 10
+  A very difficult HUD. You cant edit your characters 
+ appearance, so you have to choose from a selection of them and even those characters are bad. Quests 
+ are really boring. Hard to pick up items from the ground, because you can hardly see them. Map is 
+ also hard and its hard to get anywhere.
+  
+  ________________
+  
+  Overall 3 / 10
+  Dawn of Magic is the most disappointing RPG ever created. If you want to play a better RPG then 
+ rather choose Oblivion, Fallout3 or if you dont have a great computer then choose FATE. 
+::::::
+
+::::::
+UserName: Oncus
+Rating: 8
+Date: Apr 14, 2009 2:40 pm PT
+Review:  I have no idea why the game has been rated so poorly. So tired of hearing the game is a another 
+ Diablo clone just because it has some shared features with it (apart from the camera I don't see 
+ a lot more shared features) . This games can bring you a lot of variety because it can offer different 
+ spell combos. Some spells can add a secondary effect to your cast spell. So you can cast fireball 
+ that on hit casts lightning. It may get repetitive, but at higher levels combat is very action 
+ demanding so it doesn't get boring. There's a lot of spell combos to be had in this game and making 
+ your own combos is fun. The downside is that there is no keyboard shortcut (for some reason) for 
+ switching between spell tollbars so it's harder to perform those spell combos. (ok it does have, 
+ but it's not a one button shortcut so it's still difficult to switch between spell bars) This isn't 
+ the first time that gamespot underrates a game. Just try the demo (it offers a lot of gameplay) 
+ and see for yourself. 
+::::::
+
+::::::
+UserName: bernardofd
+Rating: 2
+Date: Jun 19, 2008 2:33 pm PT
+Review:  Medieval RPGs will ever have their places in my heart, specially those with outstanding magic skills 
+ and presentation, but Dawn of Magic can go directly to the forgotten pages of Oblivion (pun intended) .
+ 
+  
+  First things first, the intro movies is good, although the CG pre=rendered cutscenes seems reminscent 
+ from a Diablo II movie (not that Diablo's weren't good, they were awsome, but a little too outdated) , 
+ it does well in creating an atmosphere and a context to the game.
+  
+  But the in-game is awful. For a game from 2007 with graphics fairly similar to Neverwinter Nights 
+ (a 2002 title) is not a good start, the magics choice can be a little overwhelming, the quest system 
+ is way too simple, the trading is obnoxious (for you have to begin a conversation with a trader 
+ at least to times to get to tge trading) . One note to the trade, the game doesn't stop while you're 
+ trading, so if you're in a time limited quest, do not waste your time trading, even when it's needed 
+ (no money, or potions, or overcumbered) . A way too realistic touch to this none-at-all realistic 
+ game.
+  
+  The inventory system is confusing. Although items can be splitted into tabs of common characteristcs 
+ (like, weapons, armor, scrolls, etc...) They're displayed in a horizontal row and no info at all 
+ (unless you highlight one item with the mouse pointer)
+  
+  Hence, spare your gaming time staying clear of this title. 
+::::::
+
+::::::
+UserName: DoubleWeasel
+Rating: 5
+Date: Jun 3, 2008 6:02 am PT
+Review:  Good-looking game, but the end boss is very tough depending what spells you've grown, making it 
+ a very frustrating long game to replay with better spells just to topple the boss (MODO) .
+  
+  Really liked this visually (hence the 5 rating) - character morphing based on your actions 
+ in the game as you level up was a good add-on. I've played the gypsy and the scholar, both pretty 
+ similar make-up but the movement took a while to master. Also, the level ups by EXP don't happen 
+ quick enough which limits having a fully spelled up/complete character. I like to do 'the lot' 
+ in a game and this doesn't allow for that and replaying to experience all spells would be too much. 
+ 
+  
+  I wouldn't wish to be spoon-fed but the manual should set out mandatory character areas to build 
+ up otherwise you'll have a tough time with killing MODO  perhaps the developers could post up 
+ an ideal character path and you could then choose to specialise in areas you want to  depends 
+ if they want RPG fans to buy the game or not, and develop series.
+  
+  The side quests are ok, but the re-do quests for EXP or Spell points don't always give you the 
+ EXP or Spell point you earned, and don't have much replay value after the second go, making for 
+ dull grinding play to level up.
+  
+  As you'll see there can't be many fans out there, not enough to write walkthroughs or post tips 
+ up - so with so many great games to choose from you might wish to miss this one.
+  
+  Maybe I'll return to this, whilst waiting for Gothic 4, if I finish The Witcher early.
+  
+::::::
+
+::::::
+UserName: ubeyou
+Rating: 5
+Date: Feb 24, 2008 3:25 am PT
+Review:  Good intro, i like the movies. Inside the school, I broke the chair, table, and anything I saw, 
+ then the students chasing me and hit me. I death and revive. I click the skill bar and there is 
+ a lot of attractive skills icon. This situation i really enjoyable. I like it. Then I go out of 
+ the world, the bads come. The monster just like normal online games that i played long time ago. 
+ I totally frustrated. The game just like diablo, nothing is new except the skill is different. 
+ The golds and items that monsters dropped is hard to pick it up. The level of character also not 
+ easies to increase. Playing single player and needed to farm and build in long times, no wonder 
+ all player said boring. A place to another place required long times for walking. I would recommend 
+ gamer just try the demo set, don't buy the orginal. It is really worthless, but if you first time 
+ play RPG games, you can have it. 
+::::::
+
+::::::
+UserName: Apekiller
+Rating: 1.5
+Date: Dec 28, 2007 1:27 pm PT
+Review:  What is wrong with this game you ask? Hm. How about... everything?
+  
+  The distorted cracking sound everywhere within the game make it an unpleasant experience alone, 
+ but there is more... the poorly designed and confusing in-game interface makes it worse.
+  
+  The graphics are atrocious (with everything maxed out) - it's so colorful it hurts my eyes. Difficult 
+ to distinguish the enemies between all those plants of all colors. The level of detail is great, 
+ but the environment design is terrible - weird colors and an abundance of plants and trees.
+  
+  As for the gameplay, you probably won't be able to finish the first quest since the monsters 
+ are not easy to kill, and the NPC's are invincible and do a lot more damage than you with a variety 
+ of spells might I add. Oh yes, I had a mighty broom as a weapon.
+  
+  Let me tell you what I did next: The NPC kept following me and hurting me and since he couldn't 
+ be killed I ran away; he followed me so I ran inside the starting building, guessing it was a safe 
+ place to be as customary to the RPG genre. But guess what, it's not! He followed me inside, killed 
+ me and I spawned right next to him. :)
+  
+  Another weird thing would be that the enemies' life bar fills up instead of emptying. Odd design.
+ 
+  
+  I didn't like it, my friends didn't like it, chances are you won't like it either. What is there 
+ to like, even the Gamespot reviewers gave it only a 3. 
+::::::
+
+::::::
+UserName: Skarn
+Rating: 8
+Date: Dec 12, 2007 8:48 pm PT
+Review:  I have enjoyed playing the game so far with the exception of the annoying Looter monsters that 
+ I have to track down because I can't stun them. The magic system is pretty good although it's pure 
+ dumb luck that you find someone with with the scrolls that you need to level up your magic. 
+  
+  Excellent graphics and spell effects. 
+  
+  Some quests are merely "kill 10 Termites" but 
+ others are more complex and require you to travel to a few areas before you find the widget that 
+ you are looking for. You HAVE to do the side quests to get the extra stat points to level up your 
+ character. 
+::::::
+
+::::::
+UserName: Aminal_basic
+Rating: 7.5
+Date: Dec 12, 2007 2:09 pm PT
+Review:  I guess I'm one of the Lucky ones ,I had few crashes. Outdated it may be , but the game was fun!!!
+ 
+  The game does have a few graphic and audio problems but no worse than 95 percent of the games 
+ they are rushing out long before they are really finished now-a-days. Everything needs patches 
+ it seems!
+  I wish I had a better variety to choose from but the gypsy seemed my best bet. I played it and 
+ the screens aren't half as bad as the big reviewer says. It is a hard game but if you have any 
+ game savvy you learn quick what to do and how to do it. I'm tired of games that make surviving 
+ too easy. I want to have to think about it . You can die easily especially early on but by the 
+ time I was half way through the game I was rarely dieing at all and when I did it was my own fault. 
+ 
+  Being a magic user was great and there is so many to choose from. All of them effective if used 
+ properly. Unlike Diablo where only 1 or 2 have any real effect especially on bosses. 
+  Dawn of magic is a big game, It takes quite a long time to finish and you have to stay on your 
+ toes. even the weakest of monsters can kill you if you are not careful. It has an autosave that 
+ works when you change areas so it isn't too bad if you are careful. Like I stated before I had 
+ very few crashes and I really did enjoy this game. It is one I would recommend if you just want 
+ to have some fun. 
+::::::
+
+::::::
+UserName: kakkati
+Rating: 6
+Date: Dec 5, 2007 11:43 am PT
+Review:  In my opinion, what the gamespot reviewer said was true and thats exactly it. however, i found 
+ myself enjoyng this game.. i don't know why but it has something that gets you like it.. it's like 
+ an RPG game, combined with really hard difficulty, making it like a poor rpg-action game when in 
+ fight. but yes most of the time, you'll have to run away from monsters because they gather up altogether 
+ spotaneously.. however when you keep enough distance they go back at their previous positions. 
+ You just have to walk really slowly and be careful and stuff like that or u may choose to charge 
+ in and run in circles of the map till you die (this has absolutely nothing to do with stealth) .. 
+ the gameplay of this game doesn't really give you much choice when you charge in many enemies, 
+ since you will find it really hard to defeat them all with just the use of the mouse, a few buttons 
+ and an annoying poor control of the landscape camera... but its possible however. Yes there is 
+ a limited variety of spells in each school, yet not adequate but I found them sufficient enough. 
+ 
+  
+  I personally did not like the music and sounds of this game.. i found them not atmospheric enough 
+ to please my needs. Some sounds remind me of the old japaneese video games as well as the music. 
+ The game's sounds also take off some part of the seriousness of the game i. e. they make it sound 
+ like a funny entertaining game for kids, with funky sounds like BOING! and BLUB! when you pick 
+ up potions. :)
+  
+  The game is a complete clone not unique and nothing new.. but yet its a different game and the 
+ difference is noticeable. People who like old school hard action games as well as old school RPGs 
+ like diablo 1 may find some merit within this game. Some old nintendo games were really hard and 
+ their difficulty was solely dependant on their poor gameplay. This game has something similar to 
+ it.
+  
+  Anyhow. I like it and all i want to say is that it is possible for someone to like this game no 
+ matter how ugly it is. 
+::::::
+
+::::::
+UserName: sridanu
+Rating: 3.5
+Date: Dec 4, 2007 9:35 pm PT
+Review:  The thing about RPG games is that you cant be absolutely sure about weather a game is good or not 
+ until you've played it for at least 5-6 hours. But the good thing about Dawn Of Magic is that you 
+ get a pretty good idea of how bad the game is very early on. And thats probably the only good thing 
+ i can say about this game.
+  
+  With mediocre graphics, an average interface and an absolutely horrible game play experience its 
+ not too hard to think as to why this game is not rated too highly. When compared to its competitors 
+ Dawn of War falls behind heavily on all categories. 
+  
+  With the amount of RPG games around you're better off playing something else than Dawn Of War.
+ 
+  
+  
+::::::
+
+::::::
+UserName: sardo_numspa
+Rating: 6.5
+Date: Dec 12, 2007 8:49 pm PT
+Review:  I'm not going to waste too much time and space getting into mundane details. Most of what I have 
+ to say has invariably been said in previous posts/reviews, so I'm going to keep it short and to 
+ the point. I wasn't expecting much from this game (lack of critical acclaim, barren forum (s) etc.) 
+ but seeing as how I have a penchant for Diabloesqe action RPG's I figured I'd give it a try. Well, 
+ I'm glad I did. If you are looking for a deep story driven RPG in the vein of Baldurs gate or Torment 
+ you should most definitely look elsewhere. If however you have a hankering for a hack n slash with 
+ an intriguing magic system and a phenomenal sense of style then this game is for you. Frankly I'm 
+ surprised that this game hasn't garnered more positive attention. They weren't looking to reinvent 
+ the wheel so to speak (although this game does have some deliciously unique aspects) , they set 
+ out to make a fun hack n slash - a game that keeps you glued to the screen in anticipation of that 
+ next level and/or loot drop, and to this end they have most certainly succeeded. 
+::::::
+
+::::::
+UserName: blablablamaster
+Rating: 9
+Date: Oct 25, 2007 1:04 am PT
+Review:  The main advantage of this game comparing to other same genres is skill system. There is 12 magic 
+ school and you can get a good feeling of them in just the first gaming hour. Most of them are quite 
+ useful. In fact you will probably use skills from 4 or 5 schools. The inventory screen is simple 
+ and clean. You can put pretty much all the loot you find.
+  
+  The item enchancement is probably the top of this game. Equipement can be enchanced with material 
+ and runes. The runes give bonuses and if you arrange them in proper manner you get rune word which 
+ grants even a bigger bonus.
+  
+  It has one of the best alchemy sistem i have yet to see. you can transmute anyting, items, potions, 
+ scrolls. The camera can be akward at first and i recommend you to have a mouse with a weel. with 
+ it you can easily rotate the view which will make the game much more enjoyable.
+  
+  The difficulty of combat depends on your skills set. but it is not easy. Also if you manage to 
+ kill many monster at the same time you get an bar (similar to adrenaline bar) which enables you 
+ to get more and more xp from killing monsters. 
+::::::
+
+::::::
+UserName: genmonkey
+Rating: 6.5
+Date: Jun 13, 2007 2:35 pm PT
+Review:  They say that imitation is the sincerest form of flattery, and nowhere is that more apparent than 
+ within the Action-RPG genre on the PC. Given the number of titles currently attempting to crib 
+ wholeheartedly from the Diablo playbook, you'd have thought that at least one of the pretenders 
+ to the throne might have broken through the barrier by now into an equally-revered state. Whilst 
+ Titan Quest has run Diablo close on a couple of occasions, on current form it'll be a while before 
+ anybody manages to reach the top of the pile. Is that a testament to the undisputed brilliance 
+ of the Blizzard-developed masterpiece or just a lack of strong ingenuity within the genre? A little 
+ bit of both most likely.
+  
+  Developed by Russian-based company 'Sky Fallen'; Dawn of Magic sticks firmly to the tried-and-tested 
+ traits of the point and click Action-RPG genre, whilst at the same time attempting to bring a fresh 
+ coat of paint and a little bit of innovation to the table. The focus is heavily on Magic as a primary 
+ offensive and defensive force, which lends the game a somewhat unique air if nothing else.
+  
+  Delving into the single-player meat of the game, character creation is initially somewhat limited, 
+ with a choice of only four exotic personalities: The Awkward Scholar, Weird Gypsy, Stout Friar 
+ and... the Baker's wife. (Did I mention it was a bit odd?) Each one is somewhat uniquely designed 
+ and different to most of the staple archetypes on display in other titles, but underneath the veneer 
+ of ingenuity the player attributes tell the same old story. Individual characters are suited in 
+ varying degrees to hand or magical combat, affecting whether you wish to play the game as a tank 
+ or a mage; and outside of a good or evil player alignment, that's as deep as the creation system 
+ gets. For now.
+  
+  The storyline is initially set via a lavishly-produced introductory cutscene, depicting the fall 
+ from grace of an evil and fiery character known as Modo. Shunned from the magical realm he inhabits, 
+ Modo is cast to earth to live out the rest of his days as a mortal, the ultimate punishment for 
+ those with the power of a god. Of course Modo is none too pleased at his plight and promptly sets 
+ about attempting to regain his lost skills, threatening to destroy the world in the process. As 
+ a freshly graduated scholar of a magical school, your ultimate choice here is whether to attempt 
+ to halt Modo or to join in the destructive rampage yourself.
+  
+  The focus on a dual-storyline approach to the game design is definitely one of Dawn of Magic's 
+ strengths, and is generally played up fairly well throughout. You initially align your character 
+ to good, evil or neutral, and this affects the manner in which NPC characters react to you throughout 
+ the game. Whilst this isn't a truly unique feature, and nowhere near the subtlety of a Bioware 
+ title, it's nevertheless welcome in a genre that so often funnels the player from one experience 
+ to the next without a thought of any alternative moralistic paths. Given the vast array of Magical 
+ abilities on offer, being bad is an attractive proposition.
+  
+  Once the introductory magic school lessons are over, the game throws you into a vast world with 
+ storyline and side-quests flowing thick and fast, and some expansive environments to explore. The 
+ first town you encounter is larger than some of the most overbearing maps in other titles, and 
+ initially the scale of the world can be a little overwhelming, if definitely commendable.
+  
+  Gameplay is largely traditional with character levelling, skill development and item crafting 
+ all handled with the minimum of ingenuity. The on-screen interface is par for the course, with 
+ a couple of hotbars at the bottom of the screen for frequently used skills and spells, along with 
+ all of the usual keyboard shortcuts. Anybody with any experience in a modern MMO or Action RPG 
+ in the last year or two will feel at home within minutes. Whether that's a strength or a weakness 
+ is subject to a fair amount of debate of course.
+  
+  That's not to say everything is completely bland however. One of the more innovative elements of 
+ design shows up within the first few hours of play, and continues to draw praise throughout the 
+ experience. Your characters visual appearance morphs and changes throughout the game, but not according 
+ to any pre-set path or player-imbued items. Using a combination of different spells or performing 
+ good and evil deeds effectively morphs and styles various body parts, changing your characters 
+ appearance fairly drastically. The end result of this process turns into a composite aesthetic 
+ based on your in-game playing habits and traits.
+  
+  Each school of magic also affects the player in the same manner, with unique visual aspects applied 
+ according to your alignments and prowess. It's a satisfying approach to character customisation, 
+ and explains the initial sparsity of options. Playing the game purely to morph your avatar into 
+ something wickedly nasty-looking becomes a game unto itself.
+  
+  Unfortunately for all the good design touches, Dawn of Magic is let down by a combat system firmly 
+ entrenched in the past. The game throws large amounts of enemies at the player throughout the campaign, 
+ and gameplay generally degenerates into frantic clicking around the nearest group of foes. With 
+ the vast offensive magical arsenal at your disposal, it's a shame that a more measured and tactical 
+ approach wasn't used, as you get the feeling this is where the title could have excelled itself. 
+ Of course that's a criticism that can be levelled at the genre as a whole, but is valid nonetheless.
+ 
+  
+  The atmosphere of the game can also be called into question. Whilst the developer has attempted 
+ to tie everything into a gothic-inspired fairytale universe, the lack of aesthetic cohesion throughout 
+ undermines any semblance of a strong visual footprint or a unique style. It all looks pretty, and 
+ it'll run well on even relatively low-spec machines, but given the old engine and the protracted 
+ release schedule to get this localised for the west, nothing really stands out visually. Voice 
+ acting is another casualty for this release, with a lack of personality in both dialogue and performance. 
+ It's almost worth turning the speech volume down and the subtitles on.
+  
+  Dawn of Magic contains enough deep content and a pleasing enough approach to the genre to recommend 
+ a purchase, but only if you know what's in-store and don't mind the incessantly repetitive nature 
+ of the combat. There are definitely worse examples of the genre to find, but many better ones also. 
+ Yet another also-ran to the Diablo throne then. Add it to the pile, somebody may sweep them away 
+ eventually.
+  
+  Note: This text was originally written by myself and published over at strategyinformer. com 
+::::::
+
+::::::
+UserName: ALIAN9999
+Rating: 9.6
+Date: Jun 11, 2007 8:31 am PT
+Review:  I have been playing for over 6 hours and i can truly say its been fun, the game is hard at the 
+ start but well worth playing.
+  
+  The spell system is great, you combine spells together to get even more powerful spells, the enemies 
+ are numerous, great abilities to do and worth the cash if you can get past the beginning.
+  
+  I would say give this game a chance, its all about magic, the ability to chose good evil and 
+ neutral, also the amount of crafting skills and lets not forget my favorite, walking into a village 
+ and blowing apart the villagers to bits!
+  
+  The best part about this game, your char turns into the attribute spells your focusing on, meaning 
+ if your a pure fire mage, your char will slowly turn into a fire demon, your stats will also be 
+ demonic.
+  
+  I admit the camera angles are bad, i had to configure the game controls and use the cursor for 
+ the camera. 
+::::::
+
+::::::
+UserName: eldicon
+Rating: 2.7
+Date: May 19, 2007 12:05 pm PT
+Review:  This game had potential considering it's unique take on characters, and the intro video is wicked 
+ but I say had because it sure doesn't have any potential for real. The demo is one of the worst 
+ I have ever played. Don't try this or buy it if you are over the age of 15 as it's a waste of your 
+ time. It's doubful that you will even get beyond the first quest where you have to use the crap 
+ controls and awkward camera angles to outrun 10 NPC's with better firepower than you in a wildgoose 
+ chase of who kills 10 spiders first. Bollocks, entertainment factor of 0.
+  
+  Don't believe me? Try the demo, you will delete it without a doubt in your mind after the frst 
+ time you play it. As the review says, the best thing you can do in it is destroy some furniture 
+ inside the ripoff harry potter school of magic or whatever it wants to be, and I would rather play 
+ Pong as it's about as complex as this game. 
+::::::
+
+::::::
+UserName: lenni19mle
+Rating: 6.6
+Date: May 8, 2007 3:30 am PT
+Review:  With the use of certain magic your character changes. e. g. if your a fire user then your body will 
+ slowly turn to fire giving you added fire damage and resistance. a lot of added extra's shame about 
+ the graphics and repeated missions (mostly similar to the one before) .
+  
+  There is a lot of experiance to be collected your levels are in 4 sections e. g you can get 4 points 
+ of experiance per level in either magic or your stats, mainly depending on which missions you take.
+ 
+  
+  The fact that there are so many different types of magic available and that you can mix different 
+ magic together like fire and lightning to give a fireball with an added electric after-effect is 
+ quite good.
+  
+  The main problem is levelling up your magic as you need the certain scroll to level up e. g fireball 
+ to be able to add skill points to that magic.
+  
+  worth checking out and finding out for yourself 
+::::::
+
+-------------------------------------------------

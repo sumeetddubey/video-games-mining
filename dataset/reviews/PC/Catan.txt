@@ -1,0 +1,79 @@
+-------------------------------------------------
+:::Game Name::: Catan
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/puzzle/catan/review.html
+-------------------------------------------------
+:::The Good:::
+ Incredibly deep strategy.
+ Faithful to board game's design.
+ Great artificial intelligence.
+-------------------------------------------------
+:::The Bad:::
+ No online multiplayer.
+ Looping soundtrack is irritating.
+-------------------------------------------------
+:::Date::: Jul 29, 2005
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.5
+Critic Score: 6.0, 1 Review (s)
+User Score: 7.0, 25 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Oberon Media
+Genre: Board
+Date:     Jan 1, 2005
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+This super-deep strategy game would have benefited from online multiplayer. 
+
+  Casual games are supposed to be easy, right? Not in the case of Catan, which is one of the most 
+ engrossing and complex casual games we've seen on MSN. This game is a pretty solid PC version of 
+ the popular German board game Settlers of Catan, a medieval-themed exercise in resource management 
+ for two to four players. The object of the game is to be the first to get to 10 points by building 
+ roads, towns, and cities; strategic placement of your settlements will let you get the necessary 
+ resources to win, and so can shrewd trading with your opponents. The CPU players provide adequate 
+ challenge, especially on expert mode, but the lack of online multiplayer is a serious flaw in an 
+ otherwise very recommendable game.     
+-------------------------------------------------
+:::User Reviews::: (1 Reviews)
+::::::
+UserName: bigboote
+Rating: 3.4
+Date: Jul 18, 2006 2:54 am PT
+Review:  I have played the board game "Siedler" for a number of years, and was pleased to see this version 
+ of the game come out. Unfortunately, the developers had little or no ambition at all to take advantages 
+ this platform offers. Instead, it is a rigid simalcrum of the board game on your screen. 
+  
+  The human player pits off against either 2 or 3 AIs in an attempt to settle an island. To do 
+ so, you need to accumulate enough of the 5 resources available, either by harvesting or trading. 
+ You choose initial settlments and can expand as you harvest your resources according to a simulated 
+ 2d6 die roll, exactly as in the board game. 
+  
+  The computer version does a good job of implementing the rules, which are simple, and depicts the 
+ 2d board and its dice, its cards, and its icons well enough. That is not difficiult. But unfortunately, 
+ that is all. 
+  
+  While the game prides itself in having different flavors of AI (three settings: beginner, advanced, 
+ expert, and 3 types, from friendly to aggressive) , I have not been able to notice a difference 
+ in any of them. The "expert" AI plays just as poorly as the beginner. 
+  
+  But what is really frustrating is the lack of imagination and the lack of programming. There is 
+ only ONE map, a circular island, which gets old fast, and no future developments of this ancient 
+ boardgame (and there were many) were implemented. Neither can one change any of the parameters 
+ (such as Victory Points required, handicaps, etc.) . To make matters worse, the programming is flawed 
+ and the interface exceptionally clunky: The "trade" screen is unmovable and, when open, blocks 
+ off the entire board so that you cannot see any segment of the map (the "board") whatsoever, the 
+ menu is accessible by bizarre logic and mouseclicks without use of keyboard shortcuts, there are 
+ bizarre bugs and crashes in the tiny 2mb .exe, and after long and hard searches I have STILL not 
+ been able to find out where the game stores the "save" files (even by searching my entire harddisk 
+ by "last changed") .
+  
+  This software is just really, really poor for its price. Which is too bad, since the game behind 
+ this one (Siedler) is quite decent; it must have taken a lot of effort to mess it up this badly. 
+ 
+::::::
+
+-------------------------------------------------

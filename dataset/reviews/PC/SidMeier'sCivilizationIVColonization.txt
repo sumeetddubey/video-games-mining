@@ -1,0 +1,1458 @@
+-------------------------------------------------
+:::Game Name::: Sid Meier's Civilization IV: Colonization
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/sidmeierscivilizationivcolonization/review.html
+-------------------------------------------------
+:::The Good:::
+ Makes producing and trading commodities fun.
+ You'll plumb new strategic depths on each playthrough.
+ Sweeps you up in revolutionary spirit.
+ Stirring musical score.
+-------------------------------------------------
+:::The Bad:::
+ Narrow focus makes each playthrough feel familiar.
+ Diverging from standard course is possible, not practical.
+ Trade route interface is not user-friendly.
+-------------------------------------------------
+:::Date::: Oct  3, 2008
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8
+Critic Score: 8.0, 27 Review (s)
+User Score: 7.6, 699 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: 2K Games
+Developer: Firaxis Games
+Genre: Historic Turn-Based...
+Date:     Sep 22, 2008 &raquo;  
+ESRB: Everyone 10+
+
+-------------------------------------------------
+:::Review:::
+Colonization is a more focused and linear Civilization experience that nevertheless offers the depth 
+ and rewards of the classic strategy series. 
+
+  Civilization IV is a grand strategy game in which you build an empire that spans every epoch of 
+ human society. Civilization IV: Colonization takes a much narrower approach, challenging you to 
+ found a city in the New World, grow it into an economically viable colony, and then forge a new 
+ nation by declaring independence and defeating the king's armies. However, don't mistake lack of 
+ breadth for lack of depth. Though each game of Colonization plays out in a relatively linear fashion, 
+ there are myriad facets of your colonial development and military tactics that can be tweaked and 
+ refined. As you hone your strategy, you'll discover new ways to make your colony even stronger, 
+ which in turn lets you hone your strategy even more. This positive feedback loop, along with sharp 
+ visuals and a rousing score, makes Colonization a rewarding, addictive endeavor.  
+
+           Ships and wagon trains are the veins through which your economic lifeblood flows.     
+
+  You are the scion of either the Dutch, English, French, or Spanish empire, and at the beginning 
+ of the game you choose which of the eight governors will lead your colony. Each has slightly different 
+ bonuses that draw on each civilization's colonial-era strengths: Dutch bonuses emphasize trade, 
+ whereas Spanish bonuses augment your military strength. Though these boosts cater to a number of 
+ different strategies, a few of them are much weaker than others (like attack bonuses vs. natives) 
+ because of the inviability of certain strategies (more on this later) . After your selection, you 
+ are given control of a small boat loaded with a couple of units and plopped down in the middle 
+ of the ocean. Westward ho!  
+
+  You quickly make landfall and face another important decision: Where do you found your first town? 
+ Each tile yields raw materials important to your survival and prosperity, but some regions are 
+ more productive than others. There are blue circles highlighting spots that are good candidates 
+ for settlement, which, while certainly helpful, takes much of the challenge out of site selection. 
+ Your first town must be coastal so you can trade with Europe, but later settlements can extend 
+ your colony inland to target valuable resources or occupy more defensible positions. Native settlements 
+ dot the landscape and often occupy prime real estate. Setting up shop too close to them isn't very 
+ diplomatic, especially if you don't have the gold to buy the land from them, but you can generally 
+ get up in their business without immediate repercussions. Though city placement is easier than 
+ in other Civilization games, you find more than enough challenge going forward.  
+
+  In the early going you will also send out scouts to explore and map the new world. The scattered 
+ ancient ruins and burial grounds can yield sizable treasures, but you may incur the wrath of the 
+ locals if you seek these treasures out. Visiting native villages is not nearly as risky, and will 
+ often earn you a gift of gold or unit experience. The chief will also tell you what goods his tribe 
+ is interested in buying, and will tell you of that village's particular expertise. If you send 
+ one of your units to live among the natives, it will emerge a few turns later as an expert harvester 
+ and will generate significantly more of a particular resource when assigned to work an appropriate 
+ tile. These experts are a boon to your economy, and the fact that local tribes will train them 
+ for free is one of the many reasons that warring against natives is an unappealing option.  
+
+           The city screen allows you to easily manages all aspects of your settlement's production. 
+
+  After laying your foundation, you begin to grow your colony's economy. Generating and processing 
+ commodities will be your primary concern for most of the game, and that will be eclipsed only by 
+ your revolutionary war. There are three basic categories of goods that your colony will create: 
+ resources to grow and strengthen your towns (food, lumber, ore, tools, guns) , raw materials that 
+ are the foundation of trade (furs, tobacco, sugar, cotton) , and refined goods that fetch high prices 
+ on the European market (coats, cigars, rum, cloth) . What you produce in a given city depends on 
+ how you put your colonists to work. On the city screen, you can easily drag your citizens to a 
+ map of the city's workable tiles to harvest raw materials, or place them in one of your city's 
+ buildings to refine goods. The visual interface is initially busy, but ultimately feels clean and 
+ intuitive. It's essential to balance your asset production to meet your need for colonial improvement 
+ and European gold, but it's nigh impossible to do so within each city. Therefore, as you maximize 
+ the output of your individual settlements, you must be mindful of how each piece fits into the 
+ whole.  
+
+  Once you get a few settlements up and running, the need to link them together becomes paramount. 
+ Whether you're transporting raw materials from the fledgling wilderness towns to the more populated 
+ and productive coastal ports, or sending tools to the interior to bolster construction, you'll 
+ need to construct wagon-train units to get them there. As your production volume increases, you'll 
+ want to access the governor menu in the city screen to help automate trade and streamline production. 
+ You can emphasize or deemphasize production of certain materials, and determine what goods the 
+ city imports and exports. Figuring out the optimal patterns for transport is a stimulating challenge, 
+ one that requires both micro- and macroscopic strategy.     
+
+   
+
+  To automate the flow of goods around your colony, you simply set the appropriate imports and exports, 
+ and then assign a wagon train to cover that trade route. Managing these assignments can become 
+ confusing because the domestic-advisor screen does not provide an intuitive map of your routes. 
+ This becomes more frustrating when you take a wagon train off of a route for a one-time shipment, 
+ and then have to reassign it, hoping that you don't miss a pickup or drop-off. You can name your 
+ wagon unit to help keep things straight, but it is disappointing that the interface is lacking. 
+ Nevertheless, establishing a vibrant trade network and seeing it work like a well-oiled machine 
+ is immensely satisfying, and the fact that Colonization makes you feel proud of your glorified 
+ number crunching is greatly to its credit.  
+
+  An economy is only as strong as its workers, and managing your units is another opportunity for 
+ refined strategy. Unlike in other Civilization games, you don't actively construct most of your 
+ units. Aside from the constructible wagon train and cannon, the only way your colony will generate 
+ a worker is if you have a large food surplus. As such, you'll rely on Europe to provide much of 
+ your workforce, either through free immigrants or purchased experts. Experts, as previously noted, 
+ are superproductive, and whereas native villages will train only raw-material experts, Europe offers 
+ not only raw- but also refined-goods specialists (for example, master blacksmiths, tobacconists, 
+ and weavers) . Much of your gold will go toward purchasing these valuable workers, though you can 
+ also increase the emigration of free laborers by assigning your settlement workers to the church 
+ building. Some free immigrants will have no particular specialty, and some (such as indentured 
+ servants) will actually produce slightly less than a normal colonist. Sending these chaps to school, 
+ either in your colony or in a native settlement, will help make them more productive members of 
+ society. Educating workers locally takes a while, but the rebel sentiment it bestows on your units 
+ will benefit you in the long run. Balancing your ratio of cheap European experts to time-consuming 
+ homegrown experts is yet another one of Colonization's pervasive strategic nuances.  
+
+           The Redcoats are coming! The Redcoats are coming!      
+
+  Your entire workforce, from 
+ experts to petty criminals, can be mobilized for war if you have enough guns, so as your rebel 
+ sentiment grows, so should your arms stockpile. Rebel sentiment (as well as the cultural borders 
+ of your settlements) is influenced by liberty bells, which can be generated by assigning workers 
+ to your town hall. Colony-born units get production and combat bonuses based on how rebellious 
+ your colony is, so it's important to ramp this up as your prepare for independence. Any war you 
+ fight before the revolution is likely to cost more than it is worth. Natives do have treasure stockpiles, 
+ but the benefits of their expert-worker training and spontaneous gifts are too good to give up, 
+ especially in light of their formidable combat strength. Fighting other colonies can yield resources 
+ and gold, but they are often too far away to make fighting worth it. The lack of incentive to engage 
+ in other conflicts narrows an already linear game, and it would have been fun to have a reason 
+ to mix it up. Multiplayer matches spice things up a bit, given that human colonies are feistier 
+ than AI colonies, but even if you wipe out your opponents, you still have to take on the empire. 
+
+  When you nail up your declaration of independence in the town square, you'll already be hours deep 
+ in the game. Your focus on frantic economic activity will have shifted to militaristic concerns 
+ as you prepare to reap the whirlwind. The king's forces will always outnumber you, and they are 
+ generally more powerful than your minutemen. Wave after wave of units will land on your shores, 
+ ready to get their subjugation on. Combat is a simple matter of moving your unit onto another unit's 
+ tile and watching the encounter play out. It's essential to be aware of terrain bonuses and unit 
+ upgrades when you plan your attacks, but Colonization helps you out by calculating the odds of 
+ the battle before you fight it. In this lopsided conflict, you'll find yourself naturally resorting 
+ to guerrilla tactics, striking out at imperial forces and then retreating to the safety of your 
+ inland settlements. When you realize these are tactics that were actually used in the American 
+ Revolutionary War (the age and conflict that this game was modeled on) , you'll find that each victory 
+ is infused with an invigorating jolt of revolutionary zeal.  
+
+  Civilization IV: Colonization is greatly enhanced by its ability to transport you to a specific 
+ moment in history. The lush visuals make the land a joy to work, and the mix of indigenous, American, 
+ and European music sets the perfect tone. When you are marshaling your troops to send them against 
+ the might of a European empire and Aaron Copland's stirring version of "When Johnny Comes Marching 
+ Home" begins to play, you'll be swept up in the spirit of the monumental conflict you've spent 
+ years preparing for. Preparation and execution are both intricately wrought here, stretched over 
+ a campaigns that generally last at least ten hours each. Despite being demanding and time-consuming, 
+ Colonization is a great game that benefits from its keen focus, bargain price ($29.99!) , and nuanced 
+ strategy.     
+-------------------------------------------------
+:::User Reviews::: (44 Reviews)
+::::::
+UserName: mikelward
+Rating: 3
+Date: Apr 2, 2009 5:12 pm PT
+Review:  I had long been hoping for an updated version of Colonization that provided national borders, better 
+ graphics, and streamlining of trade.
+  
+  This is not that game.
+  
+  We now have cultural influence, but it ruins the game.
+  
+  I am an accomplished Civilization 
+ IV and Colonization player, but the mechanics in Civilization IV: Colonization seem to work differently.
+ 
+  
+  For instance, I founded a colony, then some turns later the French founded a colony near mine.
+ 
+  
+  I experienced moderate growth in mine, while they experienced unrealistically rapid growth in theirs.
+ 
+  
+  This lead to my colony's resources being slowly but surely taken over to the point my colony was 
+ worthless.
+  
+  Presumably I need to play it much longer to learn the exact rules for culture, but after all the 
+ other problems I couldn't be bothered.
+  
+  Most annoying are the graphics. Everything is brown. So brown you can't tell what's what. Worst 
+ are the resource graphics, which are just a dark brown charcoal smudgy outline on a lighter brown 
+ paper. Some of the pictures bear no resemblance to the item they're supposed to portray. It takes 
+ me out of the zone when I have to stare and squint just to see what I'm looking at. Very stupid.
+ 
+  
+  The soundtrack was one of the best aspects of the original. Not so in this one. Very muted and 
+ lacking in character. I miss all the old fiddle ditties and American colonial songs.
+  
+  Lots of little things are now done in the Civilization way, and this detracts from the experience. 
+ Presumably the people writing this version didn't have time to get it right and just took some 
+ shortcuts.
+  
+  And to top it all off, it uses SecuROM copy protection, which is known to be invasive and cause 
+ problems on some computers.
+  
+  I ended up wishing I'd never installed the game, and would advise you not to either.
+  
+  Don't 
+ bother. 
+::::::
+
+::::::
+UserName: MarkGoo
+Rating: 3
+Date: Mar 5, 2009 10:29 am PT
+Review:  I love playing the game, sort of. the hours spent creating a functioning civilization is enjoyable 
+ but tedious. I have been very frustrated with the fact that if I follow the recommended buildings, 
+ and a sound thought of constructing a civilization then it is doomed to fail. Most of the hints/guides 
+ on how to win this game are all about exploiting the game mechanics. Not about how to build a viable 
+ working society and winning a revolution. So, based on that and the fact that I have played it 
+ through 3 times now with trying different but logic tactics I have failed to win lets me know this 
+ game is not for me. at least not again for a long time. I like the civ building, but it is a real 
+ buzz kill to not be able to win with the civ you built. For those who find it too easy and there 
+ for no fun, I am truly amazed, because I can't seem to come up with a way to win and keep any kind 
+ of realism in content. as far as graphic, sound, interface, ect.. it is a good game, but for me 
+ the end product was lacking because of the end result. 
+::::::
+
+::::::
+UserName: Refreshers
+Rating: 5
+Date: Feb 15, 2009 7:32 am PT
+Review:  I absolutely loved the original and I felt like I was going to love this one until I realised it's 
+ ridiculously hard and counter-intuitive. 
+  
+  As soon as you start increasing your settlement's level of independance, (which by the way is the 
+ whole idea of the game) , your not so benevolent ruler decided it is time to increase the size of 
+ his army. No matter how quickly you create and distribute your own army, his will always be bigger. 
+ This means that when you come to the games dramatic finale and declare your nation's independance, 
+ you are ridiculously outnumbered and out gunned which ruins everything.
+  
+  There are some other minor glitches with the game especially running the colonies and assigning 
+ job roles but these could be easily sorted with a relatively minor patch.
+  
+  If the developers release an update for this game to correct the one huge and several minor problems 
+ I would be happy to carry on playing as there are solid elements to the gameplay. The micromanagement 
+ aspects of the game are absorbing and challenging and the graphics and sound are entertaining. 
+ However without an update this game remains too frustrating to be fun, and therefore a huge disappointment.
+ 
+  
+  I use gamespot to decide which games I should buy as they are right so often, but they have it 
+ very wrong with this one. Having said that almost everybody who reviews it gives it a good rating. 
+ I can only assume you didn't play it through to the end or have some magic knowledge that I don't
+ 
+  
+  
+::::::
+
+::::::
+UserName: cursedskater
+Rating: 1
+Date: Jan 31, 2009 10:22 pm PT
+Review:  Being my first ever Civ game (I have played civ city Rome but that dosn't count) I had heard nothing 
+ but good reviews praising Sid Meier so I was confident I had spent my money well. But man was I 
+ wrong. I might as well have cut a $20 bill in pieces, put those pieces through a shredding machine 
+ then flushed 'em down the toilet.
+  This game was a disaster. Firstly there are only 4 different empires to choose from. France, England, 
+ Holland, and Spain. Wait a minute. That's it? What about Portugal, Germany, Italy ... etc they were 
+ all colonizing empires/countries. And why can't I play as the natives? Secondly there are no campaigns, 
+ no goals, no achievements to attain except to revolt and win. On the menu screen it says "play 
+ scenario" but that just means to play a map representing part of the western hemisphere. Another 
+ HUGE problem is that the only difference between civs is their bonuses. All their eco, troops, 
+ ships, people, names are the EXACT same. What fun is it to be the Dutch if they're exactly the 
+ same as the English? Anyways after playing the game for 4-5 minutes I got an eco going and ya ok 
+ that's pretty fun basically one of the only up sides to this game so at first the gameplay was 
+ OK, but then I had to start making an army.... wait a minute. WHERE IS VARIETY? OUT TO LUNCH? There 
+ are 4 troops... WTF dosn't matter which civ you are there are only 4 troops and they are extremely 
+ unspecific and inaccurate at points in the game. Cannon, Dragoon, Scout (just a bad dragoon) and 
+ Soldiers. For inaccuracy you can get Dragoons at any point in the game... There was no such thing 
+ as a gun light enough for horseback until the late 1700's which is when the game ends. For unspecific 
+ I mean really they could have made the soldiers look different and have different names and abilities 
+ for each civ but no they just stuck with brainlessness and did nothing. After I got an army together 
+ and both my cities are 100% supporting independence I went to the king to declare... wait a tic, 
+ I couldn't. Somehow both my city's support was 100% but the stats screen said I had only 31%????? 
+ Huge glitch that takes about 300 turns just to get to 50%.
+  In the end Colonization was a pimple on the face of Sid Meier. I don't know what he was thinking 
+ about when he decided to make this game. The only up sides of this game was the eco building and 
+ the old school soundtrack that actually make you feel like you just came out of the middle ages. 
+ In conclusion I think ill take a breather before trying out Civ IV. 
+::::::
+
+::::::
+UserName: bishopphoto
+Rating: 4
+Date: Jan 12, 2009 8:12 am PT
+Review:  This game is lame. Period.
+  
+  Take a few good things from previous incarnations, add a few new things (many with potential) and 
+ make it impossible to win. Read through many of these reviews below, I wish I had before I got 
+ this.
+  
+  This game has a new system involving bells (similar to culture) , but the usage of this system before 
+ the very last second involved the enemy (the motherland) attacking you with an army tenfold the 
+ size of yours, with "magical" attack bonuses. IE, unless you play the game one way, and one way 
+ alone (dont use the bells/culture system until late in the game to have a better, tho not great, 
+ chance at survival) , YOU WILL DIE. Period.
+  
+  So play any of the other Civs, one, two, three, four, any of the add ons, and you will have more 
+ fun replaying these old (in most cases, not 4 and beyond) classics then this current version will 
+ provide. I have played each of the previous aforementioned versions over 100 hours each and that 
+ is a VERY conservative estimate. And I would be more then happy to log more hours on any civ, EVEN 
+ one, rather then play another second of this poorly designed game. Shame on Sid Meier for putting 
+ his name on this crap. 
+::::::
+
+::::::
+UserName: dewytripp
+Rating: 2
+Date: Jan 11, 2009 6:07 pm PT
+Review:  Being my first ever Civ game (I have played civ city Rome but that dosn't count) I had heard nothing 
+ but good reviews praising Sid Meier so I was confident I had spent my money well. But man was I 
+ wrong. I might as well have cut a $20 bill in pieces, put those pieces through a shredding machine 
+ then flushed 'em down the toilet. 
+  This game was a disaster. Firstly there are only 4 different empires to choose from. France, England, 
+ Holland, and Spain. Wait a minute. That's it? What about Portugal, Germany, Italy ... etc they were 
+ all colonizing empires/countries. And why can't I play as the natives? Secondly there are no campaigns, 
+ no goals, no achievements to attain except to revolt and win. On the menu screen it says "play 
+ scenario" but that just means to play a map representing part of the western hemisphere. Another 
+ HUGE problem is that the only difference between civs is their bonuses. All their eco, troops, 
+ ships, people, names are the EXACT same. What fun is it to be the Dutch if they're exactly the 
+ same as the English? Anyways after playing the game for 4-5 minutes I got an eco going and ya ok 
+ that's pretty fun basically one of the only up sides to this game so at first the gameplay was 
+ OK, but then I had to start making an army.... wait a minute. WHERE IS VARIETY? OUT TO LUNCH? There 
+ are 4 troops... WTF dosn't matter which civ you are there are only 4 troops and they are extremely 
+ unspecific and inaccurate at points in the game. Cannon, Dragoon, Scout (just a bad dragoon) and 
+ Soldiers. For inaccuracy you can get Dragoons at any point in the game... There was no such thing 
+ as a gun light enough for horseback until the late 1700's which is when the game ends. For unspecific 
+ I mean really they could have made the soldiers look different and have different names and abilities 
+ for each civ but no they just stuck with brainlessness and did nothing. After I got an army together 
+ and both my cities are 100% supporting independence I went to the king to declare... wait a tic, 
+ I couldn't. Somehow both my city's support was 100% but the stats screen said I had only 31%????? 
+ Huge glitch that takes about 300 turns just to get to 50%. 
+  In the end Colonization was a pimple on the face of Sid Meier. I don't know what he was thinking 
+ about when he decided to make this game. The only up sides of this game was the eco building and 
+ the old school soundtrack that actually make you feel like you just came out of the middle ages. 
+ In conclusion I think ill take a breather before trying out Civ IV. 
+::::::
+
+::::::
+UserName: cuculid
+Rating: 2.5
+Date: Jan 11, 2009 9:26 am PT
+Review:  Ridiculous victory conditions mean you must either play poorly, or violate the spirit of the game 
+ in order to win. The game ends after a maximum of 300 turns. If you have declared independence, 
+ but failed to eliminate all the ground forces assembled by the mother country to crush your revolt, 
+ you lose. The problem is, you cannot go to them, you must wait for them to come to you. If they 
+ cannot, or will not come to you, you lose. If troops remain stranded in Europe because you waited 
+ too long to revolt, you deserve to lose. But if they are stranded because you eliminated their 
+ transports, you deserve to win (the manual actually suggests doing this) .
+  Another way to win is to eliminate all the cities of your European competitors and then NEVER declare 
+ independence, but this is contrary to the game's stated intention.
+  The game needed to be designed around a system of victory points rather than a single condition. 
+ 
+::::::
+
+::::::
+UserName: Margustafson
+Rating: 3.5
+Date: Jan 7, 2009 4:56 pm PT
+Review:  But for right now, I am ashamed to see the 8.0 score! It seems so wrong! This 8.0 is a potential, 
+ not the actual product!
+  
+  The strategies one has to use to win are ridiculous - like having a few settlements and let the 
+ King capture them since the Kings army has 150% attack against settlements...
+  
+  or the "0 bell strategy"
+  
+  the building buy system has a bug, since if the settlement consumes 
+ some tools, you STILL do not complete the building....
+  
+  ...
+  Immigrants pricing is ridiculous...
+  
+  I mean, a lot of things in this game are ridiculous...
+ 
+  
+  I am disappointed of gamespot reviewers to give the buggy game such score!
+  
+  At this point, without some major patches, the game is not worth at all!
+  
+  Sometimes the King 
+ bugs out and wont become happy when you give him gold that he asks for and will remain annoyed 
+ with you although the only modifier is +1 Years of peace.
+  
+  ...
+  European countries:
+  They seem more or less incapable of attacking your capitol, i left it unguarded on hardest setting 
+ and proceeded to wipe out their towns with a single unit. They had several soldiers in the vicinity 
+ of my town but did not attack.
+  
+  Your settlements:
+  Bell production sometimes doesn't increase rebel sentiment properly.
+  
+  Sometimes when a tile 
+ is improved and citizens are assigned to tasks automatically they will attempt to harvest something 
+ that cant be harvested. For instance if your pioneer clears a forest the citizen wont stop trying 
+ to get lumber in town from that square.
+  
+  Units:
+  Pioneers will sometimes do stupid improvements when set to auto, like remove the last spot of forest 
+ near your town making sure you don't get any lumber unless ship it in - and for what? 2 sugar? 
+ bah! 
+::::::
+
+::::::
+UserName: The_Corinthian
+Rating: 9
+Date: Dec 27, 2008 10:32 pm PT
+Review:  For Civ players, you're looking at a Civ game when you plug into Colonization but believe me, this 
+ is a whole new game. Patterned after Civilization, it's quite different in many ways. The most 
+ profound difference is, unlike Civilization where you land in one spot and work from there, in 
+ Colonization even though you do land in the same manner, you have a Mother country to draw from 
+ and mother is a good description.
+  
+  Civilization players will realize some strangely different aspects of Colonization where the true 
+ object isn't to overwhelm opponents and take over the world but rather to break free from the mother 
+ country that becomes more and more oppressive even after fattening its coffers. It's your objective 
+ to finally defeat her.
+  
+  Unlike Civilization where one could dominate the game through territorial expansion, that's not 
+ exactly how it works in Colonization. In fact, one can find one's self challenging the crown with 
+ only a handful of cities, sometimes just three in fact. In this installment it's ever more crucial 
+ to locate a founding city and the satellite cities in resource rich plots of land because you will 
+ only reap the benefits of whatever is in the eight patches circumnavigating your towns.
+  
+  For unlike Civilization where a strong military could dominate the world, military strikes have 
+ implications across the map. In the New World, your neighbors pay very close attention to who you 
+ attack and if you attack their allies you may find them at your doorstep. 
+  
+  Initially, a strong economy trumps all military excursions save for maybe early evictions of those 
+ European countries that encroach on your land. You see with only eight spaces counting around your 
+ entire city, it's devastating should some other country's influence overrun your own and capture 
+ any of those squares.
+  
+  It's a curious blend of resources and manufacturing that must be taken into account in Colonization. 
+ In order to increase production you need carpenters and carpenters need wood which is gathered 
+ by lumberjacks. Fabric houses need cotton, tool makers need ore, gun makers need tool makers. It's 
+ all very circular in that higher paying goods are those that require at least some form of processing. 
+ Raw materials can be sold to the mother country but eventually the king recognizes a good thing 
+ and raises your taxes. If you deny the right, you not only lose the material in the inventory of 
+ one of your cities but you are not allowed to trade that with the parent company.
+  
+  However, players can turn the relationship with their home country around to better benefit them 
+ by buying goods from the mother country and selling them directly to the natives who usually are 
+ more than willing to pay premiums for guns. But one must remember, even a tribe that is pleased 
+ with you can find themselves emboldened with a few guns in its inventory.
+  
+  A strong economy also contributes to an eventual loosening of ties with your home country because 
+ eventually you do not rely on them as much as in the beginning stages where a sound relationship 
+ with them allows you rights to purchase specialists in different fields of manufacturing and production. 
+ As time goes by you can build your own shops to supply not only to your native country but to the 
+ indigenous peoples and even to competing European rivals.
+  
+  Also with the building of schools and missionaries you can train your own specialists. Gatherers 
+ such as farmers, miners and scouts can be trained simply by living with the natives and learning 
+ their ways while manufacturing specialists can be trained in your own schools, colleges or even 
+ universities.
+  
+  This all is presented in relatively easy formats but at some point you must strive for independence 
+ and in order to do this one must lure 50% of your population to seek independence. This is done 
+ through liberty bell production with elder statesmen leading the way in concert with publishing 
+ houses and newspapers which spread the word of independence. Nevertheless this must be approached 
+ tactfully because as you increase your liberty bells, the mother country increases their military 
+ in preparation of the catastrophe independence poses to them.
+  
+  Eventually a showdown must occur. This is triggered when your rebel sentiment equals or surpasses 
+ 50% of the population and independence is declared. It is best you brace yourself and hopefully 
+ have built up a sufficient military to defend against the upcoming onslaught. 
+  This is a tricky proposition because a strong navy usually means a weak army and vice versa and 
+ should you not be able to annihilate the forces of oppression you will have lost and losing is 
+ not an option. 
+  
+  Taken as a whole, Colonization is a masterpiece of strategic planning, much more subtle and thought 
+ provoking then any Civilization previous and deserves a strong rating. I highly recommend it but 
+ only if you are adamant about micromanaging. Micromanaging can be made simpler by employing governors 
+ to handle such tasks as trade routes and such but nothing replaces good old American ingenuity.
+ 
+  
+::::::
+
+::::::
+UserName: Nailex
+Rating: 5
+Date: Dec 21, 2008 1:32 pm PT
+Review:  I'm a Civilization fan ever since the first Civ comes out. I have somehow skipped the Colonization 
+ though. So i was very existed that i'll be able to play a remake of a game I have missed. Unfortunately, 
+ the exisitment quickly went away. The interface is kinda uncomfortable. If you haven't play this 
+ game at all you will feel kinda confused what to do. The tutorials aren't helpful at all. The great 
+ CIVpedia in Colonization is screwed up too. Many links are missing and it usually take a lot of 
+ time to actually find the answer to your question. It is there, you just have to dig up a 5 feet 
+ hole to find it. 
+  
+  Anyway, after a few restarts I've managed to get a hold on this game. I've build a pretty good 
+ empire with a few nice prospering cities and a stable economy. I've played my time at the game 
+ and it was fun until i had to declare my Independence from my home colony. Then i got swarmed by 
+ an army almost 10 times mine, with 45 warships each capable of destroying 2 or 3 of mine (each 
+ ship takes 10 turns at least to be build) . I said to myself... I've messed something up this is 
+ impossible to beat. And i went to read some forums only to see that I'm not the only one facing 
+ this problem. There is like 1 way to manage to win this game - not to gain any liberty bells for 
+ a very long period, and then boost up your independence in like 10 turns so the king doesn't get 
+ enough army... This only available strategy make pointless almost all of the features of this game. 
+ You don't need to get Founding Fathers, nor build a stable and long profiting economy. The more 
+ you trade the more you lose... The more units you gain the harder you Independence is... 
+  
+  I would say - Don't play this game. At least not before a decent patch is released which balances 
+ the difficulty and leave the players with more then one option to play.
+  
+  
+::::::
+
+::::::
+UserName: andrew1969
+Rating: 6.5
+Date: Dec 19, 2008 7:25 pm PT
+Review:  After nearly 50 hours of playing this maddening game, I give up. Hours of setting up a powerful, 
+ self-sufficient economy allow you to watch your loyal citizens be utterly obliterated by the European 
+ Country from which you came. I have played countless strategy games, and this is the most frustrating 
+ one with which I have ever wasted my time.
+  
+  It just too damn hard. The more successful you are, the more powerful the force which will come 
+ and surely destroy you. A few patterns I have noticed include:
+  
+  1. The Mother Country will always have twice as many military units as you have.
+  2. Those units 
+ will always be superior to yours.
+  3. Even battles between identical units will result in you losing 90% of the time.
+  
+  To quote 
+ "War Games", "The only way to win is not to play." That is, if you do not do anything and wait, 
+ your pathetic little colony may just defeat the pathetic force sent to destroy it.
+  
+  Did they not play test this game? Honestly, I played 4 full games on the easiest setting and never 
+ came close to winning. The 5th game I did nothing, just skipping my turn 200 times, and won.
+  
+  What the ****?
+  
+::::::
+
+::::::
+UserName: jschenk
+Rating: 7
+Date: Nov 25, 2008 1:45 pm PT
+Review:  This game is a pretty good take on the original. The basic mechanics are the same, with some good 
+ additions. You have to compete for the founding fathers with the other nations, for example. 
+ 
+  
+  The main problem with this game is that the royal forces are designed to increase in number based 
+ on the size and success of your colonies. So, if you develop a large, productive colony, then the 
+ force you face during revolution is overwhelming. You quickly learn that the only way to win is 
+ with a small (2 city) colony that is relatively weak. This makes the game so much less fun. Also, 
+ conquering natives is almost completely worthless, since they give little treasure, and they will 
+ abandon their cities surrounding your colonies, if they are influential enough. There are some 
+ resources, namely silver and furs, that are almost never accessible. Others, namely bananas and 
+ deer, aren't worth it, since cutting down the forest and building a farm is just as good. There 
+ is not much interaction with the other colonies, and warships and privateers are pretty useless. 
+ 
+  
+  Luckily, the community has come up with some good mods that do the designers work for them. 
+::::::
+
+::::::
+UserName: Endovelico
+Rating: 4.5
+Date: Nov 7, 2008 10:10 am PT
+Review:  It's a remake alright, but a very poor one. No new features whatsoever were added, by the contrary, 
+ the game even lost details that we liked on the old game like the myths associated with the new 
+ world's exploration, namely the fountain of youth and the cities of Cibola. Another loss was the 
+ Customs House which allowed the player to oppose some of the king's abuse. Also trading with the 
+ indians is now more difficult and less profitable so you just end up not negotiating with them 
+ at all. The game ends up being repetitive and boring with little motives of interest. The frigate 
+ now has little or no use at all. No new professions were added, no new products, no new european 
+ factions. The list goes on and on. Firaxis went for the no work at all policy. They went straight 
+ to the pockets of die hard fans without giving anything in return, simply resting on the fame that 
+ the old game obtained. I played the old game for 14 years and I can't like this new version enough 
+ to try to win the game at least once. 
+::::::
+
+::::::
+UserName: Cleanholio
+Rating: 6.5
+Date: Nov 4, 2008 2:22 pm PT
+Review:  First off, I am stunned that the review of this game did not mention the fact that this is an almost 
+ exact copy of Sid Meier's Colonization that came out in the 1990s. Other than the obvious graphical 
+ and interface improvements over the original version that ran on Windows 95, this game is identical. 
+ The crops (sugar, wheat, tobacco, and cotton) are the same, as are the lowly petty criminals that 
+ can be obtained from the European docks. The Spanish still have a military bonus, the English a 
+ population one, and the Dutch a trade one. Colonization was a great game (still is despite its 
+ age, if you still have a spare PC old enough to drop down into DOS to run it, which I still do) . 
+ Instead of improving on it though, this obvious money grab was recycled in content and titled under 
+ the Civilization series to help it sell. That fact makes it very disappointing. What could have 
+ been a wonderful opportunity to expand a classic and entertaining concept was lost.
+  
+  As far as the game goes, if you never played the original you won't be disappointed by this version, 
+ because the game itself is a treat. The basic concept Sid Meier put together back in the day still 
+ makes for an enjoyable game. For that reason I still gave it a 6.5 rating. It would have been higher 
+ had I not known the previous history of this game.
+  
+  While this game is "linear" in some respects as the Gamespot review suggests, it is not as constrained 
+ as one might think. The various countries that you can play are unique enough to differ from the 
+ others. The interactions with the Natives can also be mixed up quite a bit, depeding on whether 
+ you want to trade, educate, or plunder. And dealing with your colonial rivals can be exciting too 
+ if you choose to hamper or even destroy their efforts.
+  
+  Colonization is fun, and I think you will enjoy it. Too bad it could have been even better had 
+ someone cared enough to make it so. 
+::::::
+
+::::::
+UserName: wljohnso
+Rating: 6.5
+Date: Oct 27, 2008 12:17 pm PT
+Review:  Colonization is a game I have tried to love, but I can not.
+  
+  It would make for a great scenario in a Civ Expansion, but as a game unto itself It misses the 
+ mark. It may as well be called Civ Railrods, because that is about the amount of choice a player 
+ has in Colonization. 
+  
+  One of the charms of Civ has always been the options in winning a game. There is basically one 
+ sweet spot in strategy to effectively win the Colonization. If you stray out of that, you are probably 
+ doomed. Getting under the covers a little more there are ample ways to win the game quick via abusing 
+ the game.
+  
+  Likewise the only change in units is experience from fighting or founding fathers. Three land units 
+ and a few naval units. In the scope of the game this is fine as it is mainly until the declaration 
+ of independence a trading game. I dislike automation, so I found micromanaging they way I like 
+ things to get a bit dull. 
+  
+  Add to this the AI is very weak, the CPU smothers the player with units not intelligence. Additionally 
+ the king is simply there to annoy the player and bleed them of money. Most of the time the King 
+ can be ignored.
+  
+  Founding fathers seems a little disjointed from the game. It would have been better to have the 
+ acquisition of them be a bigger part of the game rather than a behind the scenes spreadsheet of 
+ requirements.
+  
+  I never played the original version of this game (despite owning it) so I can not compare then 
+ to now. However it is not all bad. It is an interesting snippet of time. The graphics are gorgeous 
+ (and should have been used for the base Civ IV) . Once you get a colony going it is interesting 
+ to see if you can break away from Europe.
+  
+  I do not regret the purchase, but on the balance I have not really enjoyed Colonization. I think 
+ it could have been far more robust in game play, mechanics and scope. 
+  
+::::::
+
+::::::
+UserName: timbrom
+Rating: 9.5
+Date: Oct 20, 2008 5:37 am PT
+Review:  First up, this is a straight (pretty much) remake of the 90's classic follow up to Civilization. 
+ It's a whole lot prettier, of course, with the Civ4 engine proving perfect for displaying the differences 
+ between the classes of colonist and the land tiles. To be honest, there aren't a lot of innovations 
+ (e. g. extra crops, diplomatic options with the homeland) and some things have been left out (e. g. 
+ loyalists appearing in your less rebellious colonies, the King requiring you to fight against other 
+ European colonies) , but then again, Colonization was such a classic, why muck around with it? The 
+ terrible Meier "one more turn" curse is fully embedded in this game (three 3 o'clockers in a week!) 
+ so watch out. Others have commented that with just one ending, the game is very samey and hasn't 
+ much replayability. You could level a similar accusation at all the Civ games (after all, who actually 
+ goes for a diplomatic victory?) . The art is in the subtle variations of the landscape which demand 
+ different tactics each time and as you progress up the difficulty levels, new problems emerge. 
+ I've been trashed by the Injuns twice now because I didn't pay attention to how they were feeling 
+ about me. (n. b. the old alert system of coloured exclamation points is no longer with us) .
+  
+  In short, this is just what we old time Col fans were waiting for. A full update, as per the 
+ Civ series, can wait. Next we want SMAC brought up to date. Please. 
+::::::
+
+::::::
+UserName: rclark04
+Rating: 6.5
+Date: Oct 14, 2008 8:39 pm PT
+Review:  Civilization is my all time favorite game. I never played Colonization and knew it had a big following. 
+ To me, this stripped down version of Civ 4 is too limited in what you can do. The resource management 
+ is an interesting addition to the formula and provides some entertainment in the early game. Unfortunately 
+ it wasn't enough to keep my attention. The lack of research takes a lot of the strategy out of 
+ the game. Most of the other areas of the Civ formula have been stripped of options too (land improvement, 
+ units and war, buildings, diplomacy) .
+  
+  Another thing I didn't like was the victory condition. You must declare independence AND kill all 
+ the land forces of the mother country before time runs out. I can deal with the condition of having 
+ to declare independence by a certain date, but it doesn't seem reasonable to have to guess how 
+ quickly the mother country will send you her troops to kill. You must factor this into when you 
+ declare independence. 
+  
+  I lump this game into other Sid disappointments that lacked long term fun (Pirates and Golf) . On 
+ the surface they seem fun but after spending time with them they get boring due to lack of depth.
+ 
+  
+  Graphics and sound were both fine for this type of game. 
+::::::
+
+::::::
+UserName: Visitor_basic
+Rating: 9.5
+Date: Oct 14, 2008 2:12 pm PT
+Review:  I think right now, that playing the game more will reveal more ways to better play the game. Myself 
+ I would take the turn rate and make it twice as long, right now. A few experts are going to have 
+ to come out of training from the school. Although I am spending money right now to buy them before 
+ the King wants to be kicked instead of kissing his ring with him wanting money when he wants it, 
+ as usual for a computer game he is funny, but in a real life, he needs to be kicked hard off of 
+ his throne. Not having played the original game, I still have to learn some things for playing 
+ the game and I have no conception of how the game originally was. Every time I start up a new game, 
+ I am finding out more on how to play the game. There will be maps that are better to play on and 
+ maps that are worse to play on, like always. In the end it is not a real life but only a computer 
+ game and it can always be turned off.
+  
+  I am sure the modding community will want to eagerly respond to this game, and spend time adding 
+ all sorts of units and ideas to the game. So far as with playing this game, I find most European 
+ Civilizations annoying and the Indian Tribes friendly enough to help out. I have not gone the other 
+ route yet and tried to fight them all to increase my military's experience levels, but I am sure 
+ that it will be tried out as a strategy in this game. Right now I am thinking that I would be thrown 
+ into the ocean and never heard of again in this game.
+  
+  Fine-tuning of the colonies will help and again in that respect it may be more crucial than in 
+ Civilization IV, since this game of Colonization is in that same genre.
+  
+  I rate the game the way that I do because I am just thinking about sitting at my computer and giving 
+ political religious speeches to crank up the moral of my colonies like a Firebrand Preacher. I 
+ just like to send an expect silver miner to a silver mining spot to see how much he cranks out 
+ by the end of the game.
+  
+  Rolling, rolling, rolling! Keep those wagons rolling. Keep those wagons rolling, Rawhide! Through 
+ all kinds of weather, you better keep those wagons rolling, with something else that's rolling 
+ at their sides. Ye Haw! Something to do with the game in the end of that old idea for a TV show 
+ that was on a long long time ago in a land that nowadays seem so far far away from the Past.
+  
+  Fanagle like a King but think like a Revolutionary!
+  
+::::::
+
+::::::
+UserName: Aikman95
+Rating: 8.5
+Date: Oct 14, 2008 9:55 am PT
+Review:  Despite being a big fan of this series since 1992, I never played the original, due to a lack of 
+ interest in a narrow-focus. I have bee pleasantly surprised by this game, and in 2 weeks have cranked 
+ out nearly 40 hours played. I find the level of city-management to be more satisfying in this game 
+ than in basic Civ 4. I like the fact that I am not forced to constantly deal with pointless attacks 
+ by the AI while I peacefully build up my cities and manage my trade. Like all Civ games, it seems 
+ as if I learn something new each time, and continue to refine my skills with it. My only real complaint 
+ is that the western hemisphere map starts another Euro faction right next door to me every time, 
+ despite the fact that I play on the huge version. Because there is no real incentive to fight the 
+ other Euro faction (as would certainly be the case in Civ 4) , this simply results in that Euro 
+ faction remaining small the entire game, and generally finding itself in a losing war against the 
+ Aztecs, who have countless cities in the area. At 30$ this game is a great bargain for sure. I've 
+ already gotten my money's worth out of it. Might we get an Alpha Centauri spinoff soon as well? 
+ That is the sequel I have been craving for 8 years now. 
+::::::
+
+::::::
+UserName: wrednajasobaka
+Rating: 6.5
+Date: Oct 11, 2008 10:46 pm PT
+Review:  Civ 4: Colonization is a remake of classic game Colonization, where you establish colonies in the 
+ new world and build them into economic and military power. You start as being either Spanish, English, 
+ French or Dutch colonist and the goal to eventually grow strong enough to declare independence 
+ from your mother country.
+  
+  I'm not going to go into too much details of the game; that has been pretty well covered by other 
+ reviewers. I'd like to warn potential buyers that game's mechanics is essentially broken: declaring 
+ revolution is either too easy or too difficult, depending how you play the game. 
+  
+  If you play the game the "right" way, that is build colonies, produce goods, make your rebel sentiment 
+ grow and etc., you are going to get punished: when you declare revolution you mother country is 
+ going to send such massive force against you that you won't stand a chance. On the other hand, 
+ you can also beat the game rather quickly by almost doing nothing, but that kind of defeats the 
+ purpose of playing. If you don't want to take my word for it, visit the game fora; it's pretty 
+ well documented there how the balancing is messed up. 
+  
+  Looking at other reviews you can see that the Civ 4: Colonization got on average 8/10- I think 
+ it just shows you how many people write review without playing the game sufficiently long. When 
+ balancing of Royal Expeditionary Force is addressed this game can be easily 8 or higher. I have 
+ no doubts that eventually this is going to be a great game worthy of its predecessor. I just don't 
+ think that you should spend 30$ to be a beta tester. 
+::::::
+
+::::::
+UserName: cbazil
+Rating: 7
+Date: Oct 7, 2008 11:13 pm PT
+Review:  i am a big fan of civ series being my favorite of all games ever and played since civ 1. i hardly 
+ wait for this game but i`m really disappointed because i only see in civ4: colonization only as 
+ a cheap add-on that`s is made as a single product. i expected from a remake of an old colonization 
+ a full new product, but it`s just a graphic update. i am VERY disappointed, maybe because of big 
+ expectation from sid which is a strategy games genius. 
+  if i`ll have to take a list of 3 games on an lonely isle i choose civilization for any other 3 
+ but sure not colonization. i give a score of 7 only because it must be judged as a stand alone 
+ game and not compared with civ4 complexity and improvement.
+  on a second taught the game name is colonization and not colonization 2 ... which make sense. judging 
+ a 1995 same name with improvements only in graphic with same 1995 features when civ had a less 
+ than a quarter of today complexity. colonization is exactly the same as in 1995 except grahic.
+ 
+  before buy this game, rent it or even playing a demo is enough.
+  
+::::::
+
+::::::
+UserName: Sinclare1
+Rating: 5
+Date: Oct 7, 2008 3:00 pm PT
+Review:  I really, really wanted to enjoy this game. Being a big Civ fan, it seemed a given but the more 
+ I played the more bored I got. Something is just missing and I can't put my finger on it; the game 
+ just doesn't feel right. Sorry I can't give it a better grade but it just seems like half a game. 
+ 
+  
+  First off, the pace of the game just feels wrong. It doesn't feel personalized due to only a couple 
+ different possible starting countries to play and none of them play my style. There is also the 
+ issue of research and come to think of it.... that's really a big hit. Overall it just doesn't feel 
+ like a Civ game.
+  
+  I've played for over two weeks and all I ever find myself doing is killing even a game where I 
+ have the advantage and starting over. I'm to the point now where I'm just going to remove it from 
+ the hard drive and chalk it up as a big disappointment.
+  
+::::::
+
+::::::
+UserName: msportsfan
+Rating: 8.5
+Date: Oct 7, 2008 1:44 pm PT
+Review:  It has been a long time since I played the original version of this game in the mid-90s, but I 
+ remember spending hours playing it back then. The new version is definitely better in terms of 
+ graphics since the old one looked like it worked in DOS. The natives in the new version seem to 
+ be much more active and visit your territory quite often without doing anything.
+  In the newest version, it seems like it is more difficult to set up automated routes and to stay 
+ on top of your resources. I've played through two games now and still have not worked out how to 
+ automate my wagon trains the way I want.
+  I also remember something about having a school means your petty criminals and indentured servants 
+ eventually become free colonists through education. However, they didn't have to sit in the schoolhouse; 
+ they were out working. Now, those characters have to sit in the schoolhouse and be non-productive. 
+ 
+::::::
+
+::::::
+UserName: zimzvm
+Rating: 8.5
+Date: Oct 7, 2008 12:26 pm PT
+Review:  over than 10 years ago I spent lots of hours playing and enjoying Sid Meier's Colonization. and 
+ as an old Colonization veteran I was really delighted when I spotted the first reviews of the remake 
+ of one of my favorite game ever.
+  
+  first of all... the game is really very close to it's original version. I don't remember very much 
+ of the 'first' Colonization, but when I got to the new Colonization I was feeling kinda familiar. 
+ though knowing the game and the main mechanics took me some time. the game definitely isn't easy. 
+ the learning curve is quite steep but not frustrating.
+  
+  the main thing in the game is also the most difficult. most of the time one spends dealing with 
+ economics --- both micro and macro. I find the part of planning and executing in the right way 
+ the most challenging. one must decide in advance what to produce and in which way to develop each 
+ town. it's impossible to produce everything in each town. specialization is the key. another thing 
+ that makes it even tougher is the time that flows really fast. 300 turns isn't really that much. 
+ and one must know the answers for the basic 'what', 'where', 'when' questions ASAP. time is not 
+ ones ally. hopefully the natives and European peoples are rather pacifists. on the other hand being 
+ in state of war with any of European factions is completely useless and unprofitable.
+  
+  I really like the enhanced Civ 4 graphics. everything looks fine and I don't have even single reason 
+ to complain.
+  music is really good and lets one feel the atmosphere much faster. but on the other hand the music 
+ is very repetitious and starts to annoy with time. after couple of games I ended up listening to 
+ radio while playing Colonization.
+  
+  imho it's completely unjustified to compare Colonization to Civilization 4. both games are rather 
+ different and focus on different aspects.
+  the only thing that may be compared is replayability... Civ 4 offers more varied things thereby 
+ replayability of Colonization is unequally lower. but still the game offers lots of fun and is 
+ difficult enough not to acknowledge all aspects too fast.
+  
+  there are couple of things that bug me. the import/export menu which I don't find user friendly. 
+ and education of citizens in schools is not worth it's price.
+  
+  overall the game is very good. I don't feel disappointed. I hope that patches fix the things I 
+ don't like, and if not I won't complain. there are ways to omit one of them.
+  
+  I recommend the game to all Civ 4 lovers and old Colonization vets. go and grab the game, it's 
+ really worth spending time with that game. 
+::::::
+
+::::::
+UserName: The_Fat_Zebra
+Rating: 6
+Date: Oct 13, 2008 10:13 am PT
+Review:  As the headline says, I've also played the original colonization some 10 years ago. Played is an 
+ understatement really, I used to play it until my eyes fell out of their sockets from staring at 
+ the screen and my highschool results suffered from it. That is how addicted I was to the game, 
+ and hence loved it.
+  
+  A decade later, with albeit less time to invest in the game, I did kindof look forward to revisiting 
+ that old skool feeling. 
+  
+  Graphics - 
+  
+  Well, not much to say there, and one could easily consider it an improvement over the original. 
+ However, it is the tried and trusted CIV IV look and nothing more. I must admit that - maybe because 
+ the original icons are burnt in my soul - I had some difficulty recognizing the tradeable commodities, 
+ and even after a while I found it hard to recognize where the cigars are, or which building was 
+ the armory/blacksmith shop/etc. So in that sense I found it a step back in that it was not entirely 
+ functional.
+  
+  Sound - 
+  
+  While still sometimes repetitive, I found the music creating a very nice atmosphere. Whereas in 
+ CIV IV I used to turn it off b/c it started to annoy me, here I find myself turning it on exactly 
+ because of that nice background setting effect.
+  
+  Gameplay -
+  
+  In some ways, the CIV IV merger with colonization has changed the game, sometimes in bad ways, 
+ sometimes in good ways, and sometimes it ought to have changed things, but didn't:
+  1/ For me it was a missed opportunity that culture was built in through the liberty bells, but 
+ that - as in the original game - this did not actually increase the land which your colonists could 
+ work. Hence I say no point of introducing the culture-liberty bell link, and found this a missed 
+ opportunity.
+  2/ They have tweaked the founding father system, which is quite nice, including the working for 
+ certain points to get them faster. However, and this links to the following point:
+  3/ The game, on normal speed setting, gave me the impression that I had to be in a hurry. I did 
+ not really get time to scour the land for treasure, to take over some fellow Europeans' colonists. 
+ The game thus felt hurried in that all you should focus on from the start is building units to 
+ kick your respective kings' behind. Hence, I lost much of the charm of the original, and while 
+ having to build a military machine, found that I could not really use the founding father system 
+ much, among other things.
+  4/ Civ has some powerful mechanics such as culture, religion, deeper diplomacy. It would have been 
+ great if that had been incorporated into the old colonization, so that the shorter timespan and 
+ narrower focus had been traded for increased depth.
+  
+  In short, in the younger years I longed for a Colonization II. This game is not that, it is the 
+ original in a fresh jacket. While that certainly does not detract from the original fun, this game 
+ does nevertheless precede CIV III and CIV IV. Consequently, at that time I didn't really know better, 
+ and having played this game, and all those other games, I find myself preferring things as they 
+ were: the original colonization that made me almost fail exams, and the subsequent civilizations 
+ that had the same effect.
+  
+  Still a good game, but a missed opportunity to give the newbies a great new game, and the oldies 
+ something new to chew on.
+  
+  *UPdate*
+  
+  I have played through the game several times now, and have encountered many more problems. Firstly, 
+ I have failed to win the game up to now. Maybe I'm a retard, but I know my way around the old colonization 
+ as well as all civs, it just seems that the whole balance is off. The time it takes to build up 
+ a satisfying network of well-oiled colonies with the right experts in place, and seeing your coffers 
+ grow, is just entirely off. It just doesn't fit with seeking to declare your independence and having 
+ to fight for it.
+  
+  Other things I miss compared to the old game:
+  1/ complete loss of the sense of abundance. You used to arrive in the new world and see nice resource 
+ spots, try to pick the best ones in south and north america, and load up your ships with silver, 
+ tobacco, sugar, etc. etc. and make some serious money. As said, this doesn't fit will with having 
+ to destroy 100 units of the king.
+  2/ where is the fountain of youth? It used to be in there, but I haven't found it yet.
+  3/ Is 
+ it even an option to destroy indian villages and loot them??? Doesnt seem so to me.
+  4/ the choices of whom you played with used to matter. now it seems useless, as whomever you play 
+ with, market prices in europe stay the same if you trade in the good.
+  5/ it's a useful glitch I suppose, but a village used to train an expert only once for you. Now 
+ you can just keep sending converts in and get them to normal free colonist level immediatly
+  
+  Im deleting the game. Waste of time. play the old one, it's more fun. 
+::::::
+
+::::::
+UserName: jmw1981
+Rating: 9.5
+Date: Oct 6, 2008 8:59 pm PT
+Review:  I found the original game for $5 somewhere (like a flea market or garage sale) about 4-5 years 
+ ago and got addicted to it. The simplicity made it very fun to just jump in and do what you want! 
+ They have changed a few little things, but pretty much is an updated version of the old one... and 
+ I finally don't have to go through DOS to open it! ;-)
+  
+  Obviously, this is a sort of biased review, but I was very pleased when I spotted this on the aisle 
+ at Target for a good price. Those complaining that it's a remake..... every Civilization since 1 
+ is a remake, just like sports games. They update them with newer technology. Just like pretty much 
+ everything in pop culture nowadays. Get over it.
+  
+  If you have never played the classic, but love the typical Civ games then its a very fun addition 
+ to the collection. It's centered on a specific thing, kind of like a scenario. But with the usual 
+ option of being an invader or an explorer or just a trader, it adds a lot of fun and replay value 
+ to it. 
+::::::
+
+::::::
+UserName: andante79
+Rating: 3.5
+Date: Oct 6, 2008 11:19 am PT
+Review:  I have play all the civ-games, call to power, and also enjoyed the original colonization.
+  
+  I rember the old game quite well because I really enoyed when I was younger. Looking forward 
+ to revive old memories and experience the development of the civ-engine I was disappointed.
+  
+  First of all, the game is almost identical with the original except for improved graphics. 
+ Secondly, you just end up trying to getting all the goods shipped in a poor resource system. Thirdly, 
+ the game dont introduce anything new compared to CIVIV beside some better graphics and more diversity 
+ in units (which was already invented in the 1990s) . The CIV-engine is poor, due to the lack of 
+ beauty and flexibility. This is just another MOD combined with an update that should have been 
+ free of charge.
+  
+  The game is for children and not strategy-veterans. It also shows that CIV5 probebly wound be more 
+ than a polished version of CIV4. Sid Meier was once known for his revolutionary ideas allowing 
+ gamers to sit hours in their own new world. Now the commercialization of the series with a crippled 
+ original you have to by add-ons to and with minimal changes and more "Happy-play" attitude makes 
+ CIV less and less devoted to the hardcore strategists. CIV REVOLUTION is just an example of how 
+ badly this title has been raped in order to extract exstra bucks from people.
+  
+  Instead of CIV, Total War had managed to provide the combination between micro and macro management, 
+ being easy and complex at the same time. CIV just takes away concepts only to add them later.
+ 
+  
+  The new CIV5 should by up Microsoft Ensemble Studios allowing superior graphics of AEO into the 
+ CIV-series, aided with help from the Total War-team. CIV is fading away form its core. 
+::::::
+
+::::::
+UserName: RLJSlick
+Rating: 8
+Date: Oct 5, 2008 8:11 pm PT
+Review:  Civilization has always been one of those true classics and this add-on bring a real twist to the 
+ game. For those Civil War buffs you will really enjoy this game. There is a lot of historic reference 
+ in the game. The game is tend to be a bit more narrow in scope compared to the other Civ games, 
+ and there appear to be very little playability also, considering that the game tries to be as historical 
+ then the other game. 
+  The graphics are all well done, and are updated; the sound is very periodontal and sounds great. 
+ You do have a huge battle at the end of the game against the English, it's hard but for some reason 
+ didn't feel that rewarding, I think that the battles just aren't that interesting. There are tons 
+ of other things you can do in the game, like trading with England and the Indians, and I found 
+ that more fun than the battles. Not a bad add-on, I think I was expecting a bit more, but it is 
+ a lot of fun to play.
+  
+::::::
+
+::::::
+UserName: 10679
+Rating: 6.5
+Date: Oct 10, 2008 7:43 pm PT
+Review:  Well i have played all the civilization games on pc on consoles and even the hand held and found 
+ the game to be a lot fun but that fun can be easily destroyed due to one major flaw in the series. 
+ That major flaw is the battle calculation. The battle calculation for the series is one of the 
+ most illogical and BS system ever created. For example when i was playing the game i attacked the 
+ enemy troops with a bomber plane, cannon and machine gun people while the enemy only had barbarians 
+ for their military. The funny thing was that their barbarians with spears could take down a bomber 
+ plane while my bomber plane could do no damage to the enemy troops. That is same when i used the 
+ cannon, machine guns or any other troops which had a higher technology level than the enemy. apart 
+ from that crap the game can be fun and if that flaw was actually fixed i would say that civilization 
+ is one of the best strategy game ever :) 
+::::::
+
+::::::
+UserName: knowltz
+Rating: 9
+Date: Oct 5, 2008 2:47 pm PT
+Review:  I remember those days when we had DOS, and I remember the first game I would play back on my parent's 
+ old 386. The difference is that this game will grow on you, with it's much deeper game play. I 
+ also enjoy how you do not have to slaughter the native civilizations to receive treasure. Trade 
+ is essential in this game, in a lush civilization caravan's should be everywhere, it is enjoyable 
+ though, even the city screens look similar. The basic game play is very similar to Civilization 
+ IV, but the same options, just much deeper from the original Colonization. The military game play 
+ is also fun. I guess I am a sucker for these games. Good job Sid, a solid update of this game ! 
+ You will be pleasantly surprised, and if you've played the original Colonization, you will notice 
+ the same feel as you did back then. 9/10. Excellent game. 
+::::::
+
+::::::
+UserName: EdwinBakx
+Rating: 9
+Date: Oct 5, 2008 1:40 pm PT
+Review:  I'm addicted to the Civ series since the first Civ and Colonization. This new part of the family 
+ is a great game, with a perfect game play. The game combines the old Colonization with the new 
+ CIV IV series, but the game play is for a big part different.
+  Playing the "NEW" Colonization was in the beginning a little bit difficult, Especially working 
+ with the "Old World" (sending everything to my colonies) was in the beginning a thing that I forgot 
+ but already after a short time I remembered how it was and now it is perfect again.
+  You just have to control the ships very good then the rest of the game becomes easy. 
+  You can 
+ recognize the CIV IV engine that is used, this results in very good graphics ans it makes the game 
+ not only enjoyable to play but also enjoyable to look to (very important) I hope the CIV-Colonization 
+ community will grow in the same way as the CIV IV community. 
+::::::
+
+::::::
+UserName: skigamer
+Rating: 8
+Date: Oct 5, 2008 11:03 am PT
+Review:  This game looks like it should be really good. When you start playing it, it seems extremely difficult 
+ to win (on any setting) . However once you discover the winning strategy, the re-playability is 
+ fairly limited. Here's a couple of hints if you are finding it frustrating...1) Build a galleon 
+ early to trade in large quantities each turn (and to keep all cash from treasures) , 2) Get food 
+ skills from the natives, 3) Buy lots of guns and horses, 3) Revolt after about 200 turns and make 
+ sure you have more soldiers/dragoons than the king, 4) Attack the king's men guerrilla style one 
+ at a time - very important to get your men promoted during battle and focus attack efforts with 
+ promoted men. 
+  
+  All in all, this is a decent game but once you figure how to win, there isn't much to keep your 
+ interest. 
+::::::
+
+::::::
+UserName: gijas
+Rating: 9
+Date: Sep 30, 2008 4:08 pm PT
+Review:  This is the first Civ type game I've played and owned. Usually I'm into games like Empire Earth 
+ series (not EE3 though!) and the Total War series where there is more action gameplay but I thought 
+ i would give this a try based on a time period I find interesting. 
+  
+  Im glad I did. Wonderful graphics, animations, etc. I was really impressed was the game play especially 
+ when I took time to learn how to play this game. This is what turned me off before with these type 
+ of games is the fact I was not willing to invest the man hours to learn how to play. 
+  
+  Now with this title out of the way I can move on to games I've passed up for this very reason such 
+ as Galactic Civ Gold and the yet to be released Endless Universe where the concept is similar in 
+ that you build your civilization from ground up along with your armies, colonies and territory. 
+ 
+  
+  With this game you create a colony in the new world and expand on it by founding new settlements 
+ and trading with the Indian tribes. You have other European powers that are against you like France 
+ or Spain. You must use your ship to trade with the old world, gather supplies and immigrants of 
+ various skills. It's all balanced as with any game of this type. The key is to create a medium 
+ between food, gold, trade goods, allies and enemies and such. Tip the scale to much either way 
+ and your chances for victory decrease. 
+  
+  Really, the game is beautiful once you learn it and game be very addictive. I can see why I use 
+ to see ads for the Civ 4 games where the dad or brother was a Civ 4 nut. Great game and highly 
+ recommendable to young or old, Civ 4 vet's or newbies alike such as myself. 
+::::::
+
+::::::
+UserName: mayonaise390
+Rating: 7
+Date: Sep 30, 2008 12:38 pm PT
+Review:  For summary, this game feels like a better than average mod of civ 4.. not a $30 game release. 
+ One gets the distinct impression that this was half hearted effort to cash in on some nostalgic 
+ gamers.
+  
+  The game starts off promising enough. The graphics are good, all your favorite gameplay elements 
+ remain intact. The gameplay even feels familiar... The further you dive in, though, the uglier 
+ the details seem. The timing is completely out of whack. You feel rushed the entire game, which 
+ is the opposite of what you want in a game of this type. The AI is also quite bad, not that it 
+ matters because you will have almost no interaction with it. If you play on a huge map, you will 
+ be lucky to run into a single ship of one of the other nations. This removes a huge element of 
+ the fun in the old version. Forget about warring with them entirely. You just can't sacrifice the 
+ time and manpower. Doing so would immediately cripple any chance of winning the game. 
+  
+  The tacked on automated trade routes don't work. There are very few map selections. If you settle 
+ north america the European border is 10 turns (TEN TURNS!!) further away then if you settle south 
+ america. That is just sloppy mapmaking. (to give you an idea, it takes 3 turns to get to europe 
+ from south america, it takes 13 from NA. That is a gamebreaking difference)
+  
+  There is no gold resources. Silver resources are nonexistant on the western hemisphere map (I couldn't 
+ find any and i even went into the world builder) . The natives lack character, as do the european 
+ colonies. 
+  
+  I don't know, I enjoyed this game for a play or two, but mostly for nostalgic reasons. I truly 
+ would rather play the old version. This game needed more testing and more refinement. 
+::::::
+
+::::::
+UserName: epakille
+Rating: 6.5
+Date: Sep 30, 2008 8:43 am PT
+Review:  Ok so why is this worse then the original (from freakin long ago) ? Simply:
+  
+  The original is more fun to play, more responsive, more focused, more clean.
+  
+  This DO feel 
+ like a mod for civ4 rather then a exiting new version of colonization, and it shouldn't feel that 
+ way. Turns are slow, interface and map is unnecissarily messy. Hell, its even hard to see which 
+ squares are having hills or not (you have to hoover the mouse over and READ what the tile includes) .
+ 
+  
+  AI is even more lame then in the original and if you play on a smaller map only one opponent shows 
+ up (wtf?) Gold and economy doesnt feel very rewarding to deep into so it becomes a shore early 
+ on. Only good thing is they removed the penalty for high tory in large settlements which was kinda 
+ enoying in the orig.
+  
+  I have to admit that i didnt really like civilization 4 much either (i think civ3 was much more 
+ enjoyable) .
+  
+  Its not a bad game, its ok, but way to messy, slow and frustrating. I play the old one over this 
+ one anytime. 
+::::::
+
+::::::
+UserName: Ilthik
+Rating: 3.5
+Date: Sep 30, 2008 5:31 am PT
+Review:  You've just spent the last half hour dragging and dropping colonists and goods. And you haven't 
+ yet hit enter. I enjoy a good bit of micromanagement more than most people, but this remake of 
+ Colonization seems a bit off kilter. I've got three big gripes with it:
+  
+  1) No difficulty scaling. I'm not sure what exactly the different difficulties are supposed to 
+ do in this game. The endgame is just as difficult on all levels, the natives and other colonials 
+ are just as pathetic, and the micromanagement is just as overwhelming. 
+  
+  Furthermore, in any game that wants to claim it can scale difficulty, the first step is to have 
+ the low end beatable by anyone - even a newbie to the genre who has never read the manual and is 
+ basically just clicking random things on the interface. This couldn't be any further from the case 
+ here. Newbies will lose. Veteran Civvers will lose. Veteran Colonists (Colonizers?) will lose. 
+ This leads me to...
+  
+  2) This game is balanced in all the wrong places. There was so much care taken to make a realistic 
+ economy, which is pretty nice, that the result is completely unplayable. You will be punished at 
+ every turn and every move has a (very steep) opportunity cost. Want to manufacture goods from raw 
+ materials? The cheapest specialized harvesters produce more raw goods than the more expensive specialized 
+ manufacturers can consume. Good luck striking a balance. Every specialist or colonist you buy from 
+ Europe will cost you more. Every recruit you gain naturally will cost you more. Every time you 
+ train somebody it will take longer than before. Everything builds hideously slowly and you need 
+ lots and lots of colonists to build up a thriving colony very quickly so you can have a revolution 
+ before time runs out (which it does very, very quickly) . 
+  
+  Oh and I should also mention that you have the choice of half a dozen raw materials to try to make 
+ some money off of and they're scattered all over the new world, but if you don't specialize your 
+ cities they won't be producing enough to be worthwhile and you'll run out of time.
+  
+  3) I've hit on this already, but the lack of time in the game is a huge annoyance. Or is it the 
+ lack of resources? Or the lack of money? Or the lack of colonists? Something ought to give. Each 
+ game I've played feels so rushed that I can't even enjoy myself because I'm trying to think 50 
+ moves ahead so I don't fall behind in the race toward revolution. If it had taken the first colonists 
+ 100 years to build a lumber mill nobody would have bothered coming to the new world in the first 
+ place. Heck, nobody would have ever left their cave in the first place. 
+  
+  Bottom line: It's an addicting game, but not because it's fun. It's addicting because it seems 
+ like it should be enjoyable and very winnable and because the graphics are nifty and because dragging 
+ and dropping colonists into little colonist shaped slots is always good fun. But just like a cute 
+ little gremlin, I think I'll be putting this one back in its box and hiding it far, far away so 
+ I'm not tempted to play with it again lest it suck the life out of me some more. 
+::::::
+
+::::::
+UserName: Natria
+Rating: 6.5
+Date: Sep 29, 2008 8:51 am PT
+Review:  Having played the original for hundreds of hours, I was really excited to see a long overdue remake 
+ of Colonization.
+  
+  It's really a mystery why it took so long, but sadly the result was not worth the wait. Veterans 
+ of the original will be able to pick up where they left off in the mid 90'ties, because almost 
+ nothing has changed but the graphics.
+  
+  There have been made some very minor improvements to trade routes, the implementation of a new 
+ kind of colonist and the addition of governments. Most of these are superficial afterthoughts, 
+ and the overall impression is that of a hack copy / paste job with some better graphics.
+  
+  The UI is terrible, the difficulty completely out of whack, the AI very poor, and there's very 
+ little replay value. Colonization is also plagued with lazy bugs, that were forgivable in 1994, 
+ but frankly don't belong in a 2008 release. 
+  
+  It's possible (and you really should) to wipe out the three other nations within 10-20 turns of 
+ the game just using your starting soldier. The King will continue to demand higher taxes - even 
+ when it's already at the capped 99%. 
+  
+  The game is also rediculously hard. I've played about 10 games so far on the second easiest setting, 
+ and not once have I come close to winning. The Kings expeditionary forces usually outnumber your 
+ colonist 4 to 1.
+  
+  It's certainly not impossible to win, but it requires you amass a force of hundreds of soldiers 
+ of your own, which feels like pointless busywork.
+  
+  The overall impression of Sid Meiers Civilization 4: Colonization is that of a soulless cashgrab 
+ much like the remake of Pirates! It's only $30 though, which may be worth it for nostalgic reasons 
+ alone. Players unfamiliar with Colonization should stay clear however.
+  
+::::::
+
+::::::
+UserName: farizcleo
+Rating: 9
+Date: Sep 28, 2008 11:25 pm PT
+Review:  If you want to study history by games, this game will the best way to do this. With the easy-understanding 
+ system and fine graphic will make you fun. I think this game may help gamers who want to play turn-based 
+ game better. About me, I never play turn-based game before. But this game makes me understand and 
+ fun a lot.
+  
+  However, most people often play real-time more thn turn-based. So, they don't understand enough. New 
+ player should try to play alone before scenario mode.
+  Sometimes, that makes me feel confused. The result is my game spend about 2-4 hours per game. 
+ 
+  
+  If you want to study history by games, this game will the best way to do this. With the easy-understanding 
+ system and fine graphic will make you fun. I think this game may help gamers who want to play turn-based 
+ game better. About me, I never play turn-based game before. But this game makes me understand and 
+ fun a lot.
+  
+  However, most people often play real-time more thn turn-based. So, they don't understand enough. New 
+ player should try to play alone before scenario mode.
+  Sometimes, that makes me feel confused. The result is my game spend about 2-4 hours per game. 
+ 
+  
+  
+::::::
+
+::::::
+UserName: urchaldean
+Rating: 9
+Date: Sep 27, 2008 11:36 pm PT
+Review:  I put my hand up and say that I loved the first Colonization game and spent many hours befriending 
+ natives and beating up the British. 
+  Frankly, it's a near perfect upgrade, they have stuck to the things that worked and upgrade or 
+ introduced elements that needed changing. 
+  You are rewarded for pursuing different strategies, so the gameplay can be nicely varied. The game 
+ designers are right when they say the heart of th e game is trading, this is really about grabbing 
+ land setting up industries that will turn over a wad of cash which will allow you to outgun the 
+ king's army when they turn up.
+  The graphics are nicely realized, although some art assets have been taken from Civ IV - they don't 
+ detract.
+  My only gripe is that the music isn't the same as I remember - which is a shame for me... but irrelevant 
+ to everyone else! 
+::::::
+
+::::::
+UserName: KevlarIllumini
+Rating: 9
+Date: Sep 27, 2008 4:32 am PT
+Review:  When first I heard Firaxis Games was remaking the fantastic classic game Colonization using the 
+ Civ IV engine, I thought it was an interesting idea.
+  
+  Glad it was worth the wait, turned out fantastic.
+  
+  The classic fundamental game-play of the 
+ old colonization with welcome new additions such as unit and ship automation.
+  Another is multi-player in simultaneous turn-based, turning an already good game into a highly 
+ addictive and time consuming one, so look out.
+  
+  The new game concept of liberty points split into the four different categories (Political, Trade, 
+ Military and Exploration) which allows you to recruit founding fathers is a new twist to the original 
+ concept, along with the altered effects makes for an interesting change from the original game-mechanics.
+ 
+  
+  Another major change to the original game-play is the abandonment of the penalty for having large 
+ towns with low rebel sentiment.
+  
+  Overall the alterations are generally well done and add a bit off freshness to the old game.
+ 
+  
+  The graphics and music well suits the theme of discovery, exploration and colonization of the new 
+ world.
+  
+  An excellent tribute to a favorite classic game.
+  
+  Well worth checking out if you enjoyed the old classic PC game Colonization. 
+::::::
+
+::::::
+UserName: NomadIIIM
+Rating: 9
+Date: Oct 2, 2008 3:19 pm PT
+Review:  Civilization IV: Colonization stays true to the fundamentals of the original and has become even 
+ more enjoyable the second time around. Beyond the graphics and music, very little has been altered 
+ significantly and the game remains an experience that most veteran Colonization fans will recognize 
+ and love.
+  
+  Probably the best non-stylistic modification was the addition of the several Continental Congress 
+ progress bars that now present the player with many new goals to strive for. The soundtrack backs 
+ up the rich atmosphere of the period with 117 MP3 selections that include colonial, Native American, 
+ and classical music. The loyalist/revolutionary penalty that used to slow the growth of the colonies 
+ has been removed from the game as well.
+  
+  Unfortunately, the game shipped with some annoying bugs and accounting problems, but nothing that 
+ seems to keep a single player game from lasting over ten hours without crashing. The colony screen 
+ doesn't keep track of the buildings that have been completed but are still waiting for a shipment 
+ of tools. The adviser screen often loses track of your total horse and musket count.
+  
+  I also found it quite entertaining to see the new way that the AI handles the Indian units on the 
+ war path, as they move unpredictably throughout your countryside, individually attacking, often 
+ pillaging, and frequently scattering. Beware of the one more turn phenomenon -- it is alive and 
+ well within this game! 
+::::::
+
+::::::
+UserName: klepel
+Rating: 9
+Date: Sep 24, 2008 7:46 pm PT
+Review:  So here it finally is, the official 2008 release of the one-and-only Sid Meier Colonization game. 
+ I'll break it down real quick: if you're not a fan of turn-based-strategy then you're gonna hate 
+ this game too...
+  On the other hand, if you ARE a big fan of the genre then this may be the game worth spending your 
+ precious time. For the ones of you that have been keeping themselves busy with Colonization for 
+ Windows and opensource versions of Col, here's your final relief... you're gonna love this one.
+ 
+  
+  Now about the game, the good:
+  -it got all the great stuff from before, plus...
+  -it looks great
+  -it plays smooth and fast
+  -intuitive controls and interface 
+  -more build-options 
+ in your settlements
+  -artillery... ow. ow. ow... the artillery :P
+  -much more
+  
+  The bad:
+  -AI sometimes destroys itself by declaring indepence too early
+  -there's no beautiful 
+ view of the Europe port anymore, it's just a boring load/unload/sail screen now : (
+  -encountered a bug while loading a saved game. The game kept asking me if I wanted to upgrade a 
+ terrain tile.
+  
+  Other than that, Colonization is once again my favorite turn-based-strategy game. I believe this 
+ one may last just as long as it's predecessor... and that is a good thing. 
+::::::
+
+::::::
+UserName: meridianhawk
+Rating: 9.5
+Date: Sep 24, 2008 5:42 pm PT
+Review:  I didn't think it was possible, but they've taken one of my all-time favorite games as a kid and 
+ improved it. If you enjoyed the original, you'll enjoy this one.
+  
+  The graphics are fantastic and I love the humor. The first time I saw the English king flick his 
+ pinkie at me and tell me to kiss his ring, I laughed out loud.
+  
+  Considering that I usually turn off the music on most games when I play them, the fact that I haven't 
+ done so yet at least tells me it's not irritating. Most of the time with a game, music tends to 
+ get in the way during game play. You're trying to listen to audible clues to what's happening and 
+ all you can hear is some hokey music. So far, I haven't had this problem yet.
+  
+  I only have a couple of minor issues.... I can't find a way to control my units with arrow keys. 
+ I found the original had a good mix of mouse and keyboard that made the game flow nicely. This 
+ one is primarily mouse and it takes me a little longer to adjust. I also wasn't able to "unbuild" 
+ a town as you can in the original as long as a stockade had not been built. My seasoned scouts 
+ would not get back on their saddles and they died of starvation on the next turn forcing me to 
+ reload the last auto save. It could be possible and I just don't know exactly how to do it, but 
+ it should be more intuitive I think.
+  
+  Beyond those minor quibbles.... highly recommended for turn-based fans. 
+::::::
+
+::::::
+UserName: vedek
+Rating: 9
+Date: Sep 23, 2008 6:53 pm PT
+Review:  I was excited when I heard Sid Meier was revisting the Colonization franchise. I had no doubts 
+ it would be good, and I am not disappointed. In many ways, this version is far superior to the 
+ original. True the graphics are undoubtedly better, but the functionality of the game is much more 
+ intuitive. I was able to pickup on this version within minutes. I usually start in Easy mode so 
+ I can get an understanding of the game. I like the looks and sounds, the all around feel of the 
+ game. There have been a couple of graphic bugs so far, but I know the next patch will resolve many 
+ issue as well as improve the game experience. I think the Trade Route setup could be easier. I 
+ also think the Euorpean Screen could be changed a bit. I like the new European look, but I miss 
+ the docks and city in the background scene like in the original. My sincere thanks to Sid Meier 
+ and the team at Firaxis (and EA too) for giving us back a great game! 
+::::::
+
+-------------------------------------------------

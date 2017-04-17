@@ -1,0 +1,149 @@
+-------------------------------------------------
+:::Game Name::: WarGames
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/wargames/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug 10, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.1
+Critic Score: 6.6, 12 Review (s)
+User Score: 7.4, 70 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: MGM Interactive
+Developer: Interactive Std.
+Genre: Strategy
+Date:     Jul 31, 1998
+
+-------------------------------------------------
+:::Review:::
+WarGames is a decent real-time strategy game in the Command & Conquer vein. 
+
+ In 1983, MGM released the movie WarGames and changed my life forever. The film transformed my casual 
+ interest in computers into an obsession and actually motivated me to learn programming. So when 
+ I heard that MGM Interactive was making a game based on the movie, I was pretty psyched. After 
+ a few weeks with WarGames, however, I was pretty disappointed. This game has a nice 3D graphics 
+ engine but adds nothing else of substance to the very familiar RTS formula.  
+
+ The premise of the game is similar to that of the movie. In an attempt to play the latest video 
+ game from Protovision (run by David Lightman, Matthew Broderick's character from the movie) , you 
+ actually kick off a real-world conflict between humanity and the government's WOPR computer. Apparently, 
+ the WOPR has evolved sufficiently to develop its own armies and equipment, and it believes that 
+ it can eliminate all war by simply eliminating humanity. Problem: None of this information is ever 
+ conveyed to the player in the beginning of the game. True, there are a few pages in the manual 
+ that explain some of this, but how many of us read the manual before starting a game? The game 
+ could really have used a cutscene to set up this chain of events (instead of the useless fake commercial 
+ that kicks everything off) .  
+
+ Stepping down off my cutscene soapbox, I will say that WarGames faithfully executes all of the required 
+ elements of a Command &amp; Conquer-style RTS game. The game includes 30 missions - 15 if you play 
+ as the humans and 15 if you play as the WOPR. In each mission, the first order of business is to 
+ build a base and enhance your troop strength. WarGames allows you to keep your constructor unit 
+ after he assembles a building (which is a nice touch) and uses a pretty cool airlift sequence to 
+ animate the arrival of new vehicles. Also, you can queue production for all of your units and, 
+ although money is usually tight, most of the basic units are pretty affordable. The units themselves 
+ are well balanced, if somewhat unspectacular.  
+
+ Money is the game's only resource, and you use the hacker unit to acquire more of it. When you send 
+ the hacker into a computer center, he can acquire funds and accomplish a ton of other tasks, including 
+ upgrades to your armor and weapons. The voice of the hacker is pretty funny, as are several of 
+ the others used throughout the game. The game also uses a familiar and funny message to inform 
+ you of incoming e-mail.  
+
+ There's no denying the game's slick 3D engine, but let's not kid ourselves here: This is no Myth. 
+ The two games may both use 3D, but the WarGames engine cannot truly compete with the beautiful 
+ technology behind Bungie's stunning visuals. Still, the vehicles in WarGames are detailed and fairly 
+ well animated. The terrain is nicely done also, and the rolling 3D landscapes add some depth to 
+ the battles. The ground units, on the other hand, are pretty unappealing. The sprites used to illustrate 
+ infantry in this game look dated and decidedly out of place against the 3D environment. Not that 
+ the troops should all be 3D polygon models, but they could look a bit more realistic - the WOPR 
+ drones look like they were yanked right out of Robotron.  
+
+ The mission structure in WarGames is neither a strength nor a weakness. You won't find any Myth 
+ "Shadow of the Mountain" missions in this game, though you won't find any MechCommander-style "replay 
+ it 50 times before you win" missions either. The missions are of the puzzle variety, however, so 
+ if you're looking for an RTS game that lets you develop your own strategies for success, you probably 
+ won't enjoy WarGames very much.  
+
+ WarGames' most serious failing is the gameplay. For starters, the enemy AI is not terribly bright 
+ (despite all marketing hype to the contrary) . On nearly every mission in the game, WOPR forces 
+ will make a beeline for you and your base as soon as they discover where you are. This was highly 
+ reminiscent of Command &amp; Conquer in skirmish mode, when you played AI opponents in pseudo-multiplayer 
+ games. The computer's aggressive tactics certainly make the game challenging, but they also make 
+ it predictable. The friendly AI is decent, but is marred by atrocious unit pathing - the worst 
+ I've seen in an RTS game. When you order a group of tanks to attack, they pile up on each other 
+ so that only one can bring its gun to bear. Ground units meander all over the map when other friendly 
+ units moving towards the same destination block a narrow pass. I even saw one of my jeeps floating 
+ merrily down a river on one mission, when I had ordered it to cross at a bridge (must've been a 
+ shallow river...) .  
+
+ The difficulty stepping, which is not that bad overall, suffers from a few weak points throughout 
+ the game. For example, when you first encounter the WOPR's massive Mk IV Walker, you'd think that 
+ you would only have to fight one so that you could gauge its strength and be sufficiently warned 
+ of the danger for subsequent missions. Instead, you have to fight at least three on the same mission 
+ (while also handling the other, lesser Walkers and ground troops) .  
+
+ The final disappointment with the game comes from the near-total lack of a tie-in to the film. The 
+ name is there, the WOPR is there, as are the names of Lightman and Professor Falken. But that's 
+ about it. This game could easily be played in a vacuum, with no mention of the film at all, which 
+ makes it seem as if the WarGames license was used simply as a marketing gimmick (now that would 
+ be shocking, eh?) .  
+
+ Still, WarGames is a decent RTS game in the Command &amp; Conquer vein. If you're hoping for a game 
+ that captures the feel of the movie or that can compete with the likes of Total Annihilation, Starcraft, 
+ or Myth, you will be sorely disappointed. But if you just can't get enough of building bases and 
+ solving puzzles disguised as battlefields, you will probably get a kick out of WarGames.    
+-------------------------------------------------
+:::User Reviews::: (3 Reviews)
+::::::
+UserName: Dr4goNPL
+Rating: 9.1
+Date: Apr 28, 2006 8:33 am PT
+Review:  WarGames is a good RTS based on the MGM "man versus machine" movie. You take part as a commander 
+ of two factions: NORAD - human army armed with tanks, scout jeeps, flyers and standard infantrymen. 
+ WOPR is a robotic faction, which is similiar to NORAD in armies and structures. Those two factions 
+ fight for domination of the world in Global Thermonuclear War. Gameplay in WarGames is almost unbeatable. 
+ When I was a young kid, I always played this game. Man, I loved that one. Graphics were pretty 
+ good as far as for Intel Pentium MMX 166MHz. But without 2D graphic accelerator, it wasn't the 
+ same game. Sound is pretty good. Music was great composed. Value and Tilt has 10 because of my 
+ addiction to this game. I played it for years! 
+::::::
+
+::::::
+UserName: Dadude721
+Rating: 8.2
+Date: Jan 10, 2006 6:05 pm PT
+Review:  I got this game for 2 bucks at some bargain basement thinkin hey it probably wont work but what 
+ the heck........ i get home and put it my USED computer and boom, it works. This was right before 
+ xmas and then i end up going back 2 the store and buying 4 more 4 my friends. Then i get stuck 
+ on 1 level, all the sudden i take a new aproach and boom i fly past the level, this is just a plain 
+ old addicting game also if u really get stuck, there r easy codes 2 use and makes the game more 
+ fun 
+::::::
+
+::::::
+UserName: WarLord5000
+Rating: 8.7
+Date: Aug 27, 2005 12:11 am PT
+Review:  Ever had one of those weekends where you had nothing to do and all your RTS games were boring. 
+ Well introducing Wargames. This game you may play when your bored but once you start it may get 
+ hard to get out of. This game is the love it or hate it type. The game has good graphics and a 
+ great storyline. If you remember the movie there was the WOPR computer and the NORAD. Well these 
+ two are fighting each other in WWIII basically robots vs humans. You can choose either side each 
+ with there own unique units and each has a specialty. Each level begins with a pretty detailed 
+ briefing and if you play as the humans the general can be pretty funny. During gameplay you can 
+ hear the sounds of rockets, bullets, and your men screaming. If your lucky you may even hear one 
+ say "O my God they killed Kenny!" It is a tough game though since your recourse money is rare. 
+ Also your opponent advances way faster then you but once you master it you can goof off in the 
+ lower levels. The landscape is unique and every battle you can go with a different strategy. Overall 
+ once you learn to play this is a highly addictive game and will be hard to get out of. 
+::::::
+
+-------------------------------------------------

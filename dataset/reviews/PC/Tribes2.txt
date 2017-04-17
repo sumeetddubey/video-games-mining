@@ -1,0 +1,768 @@
+-------------------------------------------------
+:::Game Name::: Tribes 2
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/action/tribes2/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Apr  5, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.5
+Critic Score: 8.5, 38 Review (s)
+User Score: 8.6, 800 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Sierra Entertainment
+Developer: Dynamix
+Genre: Sci-Fi First-Person...
+Date:     Mar 28, 2001 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Tribes 2 isn't easy to master, and it won't play well on every gaming PC, but when you're up and 
+ running it's a tremendous amount of fun. 
+
+ When Starsiege: Tribes came out at the very end of 1998, it was the first of its kind: a retail 
+ first-person shooter designed specifically for multiplayer competition. The intervening years have 
+ seen other popular action games focused primarily on multiplayer competition, but none have had 
+ the same emphasis on teamplay in large, wide-open areas, with plenty of players participating in 
+ each match. Not until Tribes 2. Experienced Tribes players will find that the sequel makes relatively 
+ few changes to the successful core mechanics of the original but that it features substantially 
+ improved graphics, even larger network games, and more items, vehicles, and equipment to use in 
+ battle. For those new to the series, Tribes 2 also offers extensive offline training options. Unfortunately, 
+ a number of technical problems in the initial retail release have dampened some players' enthusiasm 
+ for what is otherwise an outstanding multiplayer action game.           The environments in Tribes 
+ 2 are bigger than ever.    
+
+ Tribes 2 inherits its sci-fi setting from Dynamix's series of mech games, including Earthsiege and 
+ Starsiege. Much of what distinguishes Tribes 2's style from that of other first-person shooters 
+ stems from this background, including the distinctively large outdoor settings in the game, and 
+ also the focus on high-tech equipment such as jump jets and mobile armor suits. Most of the contextual 
+ story built up in the earlier games has since fallen away, along with the "Starsiege" surname, 
+ since most players came to refer to the original simply as "Tribes" anyway. But the context of 
+ Tribes 2 still lends some coherence to the in-game taunts and the mix of harsh environments that 
+ will become your playground. You have the choice of three classes of mobile armor suits to wear 
+ in battle -- the light scout, medium assault, and heavy juggernaut -- and they differ in mobility and 
+ arsenal. All the classes have a lot of equipment choices and can carry three to five weapons, plus 
+ grenades, mines, and a special equipment pack all at once. The inventory system has been significantly 
+ streamlined in the new game, so you can set up equipment presets that go into effect when you use 
+ a base inventory station anytime during a match.   
+
+  Tribes 2's different style extends to its pacing, which is somewhat slower and more deliberate 
+ than what you'd find in some other popular shooters such as Unreal Tournament and Counter-Strike. 
+ The first thing you'll notice in comparison is the effect that the jetpack has on combat. The jetpack 
+ gives you limited upward or directional thrust, and though it takes a while to learn how to combine 
+ this with ordinary ground movement, the combination is potent, so players in light and medium suits 
+ move very quickly over rough terrain. Players jetting through the air are quite difficult to hit 
+ with the game's slow projectile weapons, so combat between aerial players often focuses on trying 
+ to lead an opponent's landing to deliver explosive splash damage. The game's direct attack weapons 
+ make it possible to fell a flying opponent, and the new heat-seeking missile launcher adds an additional 
+ threat that's hard to shake once it locks on. The net effect of the game's mobile armors suits 
+ and jetpacks is to make combat less decisive and less deadly in wide-open outdoor terrain, while 
+ the explosive heavy weapons and turret defenses tend to keep indoor brawls vicious and short. But 
+ there's room for you to play various niche roles, such as when you're equipped with the cloaking 
+ pack and the game's new melee weapon, the shocklance -- a combination that can be used to sneak up 
+ on enemies inside their own base for a fatal backstab.   
+
+  The game's designers have made it easier to "ski" in Tribes 2, a technique discovered in the original 
+ game that let you move very quickly over hillsides by jumping repeatedly while running along the 
+ surface. Now you merely hold down the jump key to maintain flight momentum when you touch the ground. 
+ Skiing has been balanced to more strongly define the mobility distinction between the player classes 
+ and ensure that heavy suits aren't as fast on the slopes as they were in the first game. Tribes 
+ 2's maps are generally quite large, so heavy suits now have to rely much more on vehicles to go 
+ on the offensive and travel to the enemy base. This is key, because most of the action occurs in 
+ and around the map's bases and towers, where the objectives for the team games -- like the eminently 
+ popular capture-the-flag mode -- can be heavily defended, requiring heavy-suited players to break 
+ through the enemy lines.           A number of new vehicles add even more depth and tactics to 
+ the game.    
+
+ The game offers a lot more than just deathmatch and capture-the-flag game modes. The free-for-all 
+ variations derived from popular Starsiege: Tribes mods are good for games with fewer players and 
+ make the most of Tribes 2's map style. Rabbit is a single-flag game where the player who carries 
+ the flag is "it." There's often a terrific scrimmage as other players try to grab the flag and 
+ make a run back to their bases. Hunters is reminiscent of the headhunter mods for other multiplayer 
+ games. As players die, they drop flags that can be collected for points at a central location. 
+ The real scramble happens when someone who's gathered a lot of flags is fragged, an event that's 
+ greeted with a jubilant "Yard sale!" voice-over as opponents gather to fight over the remains. 
+   
+
+  However, it's with the large team games that Tribes 2 is really impressive. The scale of these 
+ games is unmatched; there will often be 40 to 60 (or even more) players on a single server. The 
+ game's network code is quite good and supports these numbers well on servers with sufficient dedicated 
+ bandwidth, but some warping does occur in games containing many more than 60 players. The larger 
+ maps easily accommodate this many players and generally feature vehicle pads so that a portion 
+ of each team spends its time in the game's six vehicles.    
+
+ There are many roles you can fill during a game of Tribes 2: these include sniping, setting up defenses, 
+ and going on runs in the three-man bomber to destroy enemy structures and turrets. It's easy enough 
+ to switch roles to do whatever needs to be done to help the team, so casual matches without explicit 
+ team planning can still be quite enjoyable. The game's command map makes the chaos of the battlefield 
+ a little easier to understand. It shows the status of teammates, base facilities, and the team 
+ sensor network that ties into each player's HUD. While the command interface is cumbersome, it 
+ does give you a fairly effective system for suggesting what team tasks need to be accomplished. 
+           Each of the three types of armor has its own distinct advantages.    
+
+ While having vehicles in smaller games, those with fewer than 20 people, can dilute the action, 
+ overall they add an extra dimension to the combat in Tribes 2. There are three ground vehicles 
+ and three air vehicles, divided among scout, assault, and support craft. Half of these (the larger 
+ ones) let two or more players jump on board, which can require some coordination around a map's 
+ vehicle pad. However, the tank and bomber craft require such particular cooperation between the 
+ pilot and gunner that it can be very frustrating to pair up with someone who's less experienced. 
+ Additionally, the larger vehicles are sluggish and can be fairly difficult to control, and you 
+ may even find that the nose of the larger ground vehicles will occasionally pitch up or down unrealistically 
+ on rough but relatively level terrain, seemingly due to problems with the game's physics. It's 
+ also frustrating that a mere brush with a tree at low speeds can inflict inordinate damage to the 
+ most imposing hovertank.   
+
+  To make it easier to talk to other players in between games and organize teams, Tribes 2 has a 
+ number of online community features built right into the game. The active Starsiege: Tribes community 
+ is a strong point in favor of Tribes 2, and right from the start there have been hundreds of game 
+ servers to choose from. In fact, high loads on the central authentication and community servers 
+ since the release of Tribes 2 have made it impossible for Dynamix to run all the community services, 
+ but the game finder, news, and chat functions are up and working. The other features, like pages 
+ for team and player information as well as integrated e-mail and Web browsing, were working in 
+ the beta tests but have been temporarily disabled until the servers can be upgraded.   
+
+  Tribes 2 is primarily an online game, but it does include more solo options than its predecessor. 
+ It includes five tutorials to ease the learning curve and introduce new players to the game's unique 
+ movement, numerous items, and command options. Many of the maps can also be played against computer-controlled 
+ bot opponents, which can help you get used to the game before jumping online. The bots aren't really 
+ capable enough to make offline games very interesting, and though they do manage to carry out team 
+ functions, like setting up basic defenses and executing flag runs, they aren't particularly good 
+ at it. They also seem to stand in place more often than you'd expect.           The tactical overview 
+ can help coordinate assaults.    
+
+ The most obvious difference between Tribes and Tribes 2 is the new graphics engine in the sequel, 
+ which was completely reworked to take advantage of hardware acceleration and more powerful PCs. 
+ If you do have a high-end system, the game looks good. On the maps that aren't fogged in by design, 
+ the visible horizon is distant and sharp. The explosions are suitably impressive, and there are 
+ some nice effects like footsteps on snow maps and variable precipitation. A fractal system also 
+ produces smoothly varying terrain textures that have a surprising amount of detail up close. However, 
+ as a result of these effects and the game's large environments, many mainstream systems play the 
+ game sluggishly unless many of the effects are turned off and textures are turned down. At these 
+ lower levels of detail, the game doesn't look particularly good at all, even compared to the original 
+ Tribes. To play the game well, we'd recommend a system with at least a 600MHz Pentium III and a 
+ GeForce or Radeon graphics card. As ambitious shooters tend to, the Tribes 2 engine has room to 
+ grow as faster systems become more common. For example, one of the systems we tried the game on, 
+ a Pentium 4 1.5GHz with GeForce2 Ultra, had no trouble maintaining a very smooth frame rate at 
+ 1024x768 with maximum detail turned on.   
+
+  A lot of effort obviously went into rounding out the game, but it still has some rough edges. The 
+ game's sound is quite polished, including many prerecorded voice taunts that you can use in-game 
+ by selecting them from a series of quick chat menus. Tribes 2 includes a custom soundtrack -- an 
+ unsurprising mix of electronica and guitar that you'll probably turn down before long. But the 
+ game's biggest shortcoming is that it released with several significant technical problems, which 
+ Dynamix is progressively addressing in frequent patches. The game runs without problems on many 
+ systems, but some players have had difficulty getting it to work at all.   
+
+  Tribes 2 is an ambitious follow-up to the game that single-handedly led the charge of multiplayer-only 
+ action games into retail. The deep teamplay that you can find in large matches is incredibly addicting 
+ and offers some interesting opportunities to cobble together team strategies. The game takes advantage 
+ of skills developed in twitch shooters like Quake, but its slower pacing requires a more deliberate 
+ and diverse range of tactics. In the end, this will help give Tribes 2 tremendous longevity, especially 
+ considering that the original Tribes still rivals both Unreal Tournament and Quake III Arena as 
+ one of the most played multiplayer action games. Tribes 2 isn't easy to master, and it won't play 
+ well on every gaming PC, but when you're up and running it's a tremendous amount of fun.    
+-------------------------------------------------
+:::User Reviews::: (16 Reviews)
+::::::
+UserName: wizard90
+Rating: 10
+Date: Aug 22, 2008 11:04 am PT
+Review:  Tribes 2 was probably the best online game of its day by far, obviously this review is comming 
+ many years after its release probably like 7-8 infact. Lots of new, maybe even better games may 
+ have come out since that top it, like BF2 or Halo 3 or whatever but its still worth a play just 
+ because of the sheer awesomeness.
+  
+  And aulthough small there are still a few active servers.
+  
+  Game looks nasty by todays standards 
+ and is way outdated but I juse loved the game so much I felt like I had to make a review, even 
+ if no one is likely to read it.
+  It was the first major game of its kind and I feel like all open combat based games draw inspiration 
+ from it.
+  Not to mention the ability the community had to mod the game in all manner of ways and the easy 
+ to use ingame map editor, mods like Construction just completely changed the dynamic of the game 
+ too. 
+::::::
+
+::::::
+UserName: Agent_305
+Rating: 10
+Date: May 23, 2008 3:14 am PT
+Review:  Since Tribes 2 is an online game, an easy to use interface is needed to interact with available 
+ games and other players. This is an important feature of the game. With the community browser, 
+ you can scan for available games, chat with other players, create a clan, enter a forum, and check 
+ your e-mail. Everything you need in Tribes 2 is right at your fingertips, and it makes entering 
+ a contest that much easier. The game also automatically checks for updates whenever you login for 
+ Internet play. If need be, you can engage the bots in offline LAN games. Unfortunately, the bots 
+ cannot play on most of the levels included in the game, which is a shame, as the repetition of 
+ bot levels comes all to often. The bots come with varying skill level, so they can challenge even 
+ the most experienced Tribes player.
+  
+  Each of the maps is specialized for one of the game types in Tribes 2: bounty, capture and hold, 
+ capture the flag, deathmatch, hunters, team hunters, rabbit, and siege. About 90% of the servers 
+ will be playing capture the flag, which is a shame, since some of the other game modes are actually 
+ quite fun. We all know capture the flag and deathmatch, and most of the other modes of play are 
+ just slight variations on these two themes. In bounty, you chase after only one other player at 
+ a time. Capture and Hold is the same as Domination in Unreal Tournament, where you try to control 
+ several points around the map. In hunters, every time someone is killed, they drop a flag, and 
+ you return these flags to a common location called a Nexus: it's a combination of deathmatch and 
+ capture the flag. 
+  
+  Gameplay:
+  Gameplay is an interesting array of innovations, which result in an unmatched gaming experience. 
+ The basics of movement within the Tribes 2 universe is the same as most first person shooters, 
+ with one ed change: the jetpack. You can use the jetpack to fly through the air, albeit for short 
+ periods of time, and this adds a very interesting twist to the usual formula of team based play. 
+ The use of packs is also an important aspect of play: you can don yourself with repair packs, shield 
+ packs, and even deployable turrets. Couple this with mines and grenades, and you have yourself 
+ an interesting game. The weapons are also a very good collection of situation-based firepower. 
+ Each weapon has its own specific place and time for the most effective use, and knowing which one 
+ to choose is half the puzzle in Tribes 2. You can arm yourself with chainguns, mortars, laser rifles, 
+ missle launchers, spinfusors, and plasma rifles. There are three levels of armor, and each comes 
+ with a tradeoff: the more armor you have, the slower you can move. And, only certain levels are 
+ armor are allowed to carry certain weapons. This stresses the importance of communication and team 
+ play in Tribes 2, as a band of similar fighters will never win a game
+  
+::::::
+
+::::::
+UserName: RPGOmen
+Rating: 6
+Date: Oct 13, 2007 10:14 pm PT
+Review:  (Note: Jurassic Park for the SNES had both 3rd and 1st person shooting for those who don't remember 
+ it or weren't around) .
+  
+  Tribes 2 might be a perfectly fun and entertaining game for those who weren't devout followers 
+ of the original, but if you were...
+  
+  Welcome to Starsiege Tribes Version 1.17 ... That's right, it's not even freakin' close 1.25 much 
+ less an entirely different version of itself.
+  
+  I've been playing Starsiege Tribes since 1998, and heck, I still play it today (even have it in 
+ the lobby as I'm writing) . But this poor excuse of a sequel finally plagued my mind after all these 
+ years when I stumbled upon it while looking for the CD case of the Diablo II expansion: the Lord 
+ of the Destruction. To be honest, I don't know why none of the people I've talked to haven't written 
+ a review on this game, maybe they just want to forget about it, as the past reviews seem to have 
+ been lost and those of us who get painful reminders of it look on the boards to get a few laughs, 
+ but are shocked by the scores they see; though, this intrigued me, and I set about going to their 
+ website that was on the back of the game case (though, surprise surprise, they don't even have 
+ mention that Tribes 2 has ever existed, or at least not an obvious trail which leads to it on the 
+ offical site) .
+  
+  Deciding to give it another chance I installed it on my computer and played it for several hours, 
+ both on the poor excuse of a single player training missions (I say thing as back then it was advertised 
+ as having a single player campaign, even though people will say OMG, it's just for training noob! 
+ ) . The controls were inferior to the first, the weapons graphics were horrendous to the point I 
+ wanted to poke, and the terrain was, what a surprise, much less graphical than even the first tribes. 
+ It was barren, with no attempts to even give the terrain any diversity such as the lobs of painted 
+ grass the first had upon the soil.
+  
+  Sure, it had a few trees here and there, badly animated water (though, I suppose I won't fault 
+ it considering it's age) , and the actual characters looked like large stick figures rather than 
+ human beings as they did in the first game.
+  
+  This is all with everything on max settings, 16x Ano, Max Resolution, bloom , and whole nine yards. 
+ Playing the demo of Time Shift on all max settings may have made me slightly more biased, but I 
+ recall these emotions of me being ripped off by sequel of a great game in the past as well.
+  
+  This has got the be the absolute worst sequel in the history of any great game; Starsiege tribes 
+ offered very little new that wasn't present or vastly irrelevent that the first did not offer in 
+ spades. In addition, with the original Starsiege Tribes, of which I gave a 9.5, you are now able 
+ to download it free and play it with a hundred times more people as you will with the crappier 
+ version of Tribes 2; gee, I wonder why it has so much more people?
+  
+  The fact that it's free may be a reason that it's around a hundred times more, but even before 
+ it was downloadable it still had a vast amount of more players due to the fact that it was simply 
+ much better in every way. The Disc thrower looks like a dog swallowed and spitted it up, the blaster 
+ animations look like huge orange basketballs that merely deflect off of the poorly animated surfaces 
+ up close, the starting controls are inferior until meddled with, and the actual look of the armors 
+ looks like it was made by a student just learning how to duplicate something that was perfectly 
+ fine to begin with.
+  
+  Now, StarSiege Tribes: Vengeance is a game that is worthy of being a Tribes Successor in my opinion, 
+ and is a thousand times better than this pile of crap that was just a huge waste of money when 
+ I bought it the first day that it came out. I honestly tried to like this game, but always ended 
+ up going back to the original Starsiege Tribes like many of the people I've spoken with about this 
+ game; though, our opinions aren't necessarily the same of other people, and if you enjoyed this 
+ game then more power to you an all that.
+  
+  Though, if you've downloaded the original tribes and see this for sale somewhere, just pass it 
+ up and go for Vengeance if you must get another Tribes game, it's how Tribes 2 should have been 
+ in my opinion. 
+::::::
+
+::::::
+UserName: drew191hawk
+Rating: 9.5
+Date: Dec 15, 2006 7:20 pm PT
+Review:  Well the game is really fun and really i kinda took a break from all the computer stuff and forgot 
+ my tribes 2 password and account stuff but hey i kno it happends, there might be a patch now or 
+ something like that but wat ever from wat i remember this game was a fast paced and sometimes you 
+ get massively pwned to the point were your smashing your keybourd like that german kid (speaking 
+ of that german kid ,o kno wheres the escape key yah im not a racist but really do all kids act 
+ like that in german 0_0) well anyway you dont have 2 agree with me but that is my opinion in fact 
+ you can do anything you want i dont even really pay attention to forums but that is a whole different 
+ story....
+  
+  great multiplayer hard difficulty addictive and takes a while to learn wat to do and when but after 
+ a while you hope your internet connection does not ever cut off for the next year -_-... 
+::::::
+
+::::::
+UserName: vorlon92
+Rating: 10
+Date: Jul 24, 2006 12:33 pm PT
+Review:  Tribes 2 built upon the idea of tribes 1 and has a slew of features that tribes players are accustomed 
+ to yet these features are just now arriving in current games and being heralded as amazing and 
+ revolutionary advances. 
+  
+  Tribes has always had easy access to in game voice commands, team/global chat, command map access 
+ and functionality, large outdoor multiplayer maps, great vehicle integration, different classes, 
+ customizable character load outs with hotkey presets, numerous user created  
+ and many fully functional gameplay modes right out of the box. 
+  
+  64-120+ multiplayer? tribes has had this since 1998, yet people releasing games even now talk about 
+ how they are going to support 32-64 player games online. wow, amazing, it should be a given you 
+ are doing this... do something impressive like a couple hundred per battle and this might be worth 
+ mentioning in your promo materials.
+  
+  What's more: you get a jetpack, adding a whole different axis of play to the game. This is what 
+ makes tribes the fantastic game it is. this unfortunately is also one of the curses of the tribes 
+ games... as trying to learn how to play effectively online with a jetpack is beyond the skillset 
+ or patience of many of the quake/doom/bf crowd. If people would take a couple hours to get the 
+ hang of using the jetpack and skiing then they would find their online experience much more enjoyable.
+ 
+  
+  So what prevents tribes from having a decent amount of players online?:
+  1. difficulty, many just give up before really giving the game a chance. (this does not mean I 
+ want it nerfed in any way whatsoever, just a statement of fact)
+  
+  2. the population for tribes2 and unfortunately for tribes 1 to a large extent is just not there, 
+ which is not encouraging for those just logging on. Therefore new players have less incentive now 
+ to stay online with tribes 1 and 2.
+  3. and in the case of tribes 2, the developer seems to have been on a mission to jack the game 
+ around, currently the game won't launch and gets stuck in an authentication screen, therefore not 
+ allowing players to access the in game browser. Instead of releasing a simple patch to eliminate 
+ this part of the game launch, the issue is left hanging since Dynamix went buh bye.
+  -There is an easy work around to this, but it has no doubt deterred a number of people from logging 
+ in and playing tribes2. One way to fix this if you are having issues logging in to tribes 2 is 
+ to right click on your tribes 2 online shortcut, select properties, and in the target field paste 
+ this:  online
+  -or if you have your tribes2 in a different folder just add the final part to the end: -online 
+ 
+  
+  -Tribes 2 is one of my all time favorites and still one of the best games around (albeit with no 
+ population) , and I still log on once a week or so hoping to find a full or even semi-full pub which 
+ is sadly never available.
+  
+  When I am talking about tribes I mean tribes 1 and tribes 2, not the abomination known as Tribes 
+ Vengeance which was so abysmal all support for the game was dropped before a single patch was released, 
+ and prior to the game even being out a year.
+  
+  If you can manage to find a full pub, nothing beats having 60-120 people on a server with tanks 
+ and fighters fighting it out, while troopers jet in for flag caps and various unfortunates get 
+ blown into fragments by bombers. 
+::::::
+
+::::::
+UserName: Darkvolture
+Rating: 10
+Date: Apr 23, 2006 9:22 pm PT
+Review:  I love this game, burned about three or four years on it. If you love games like BF1 or 2 this 
+ game is a classic and a great deal if you can find it. i have seased to play this game how ever 
+ its memories will always stay in my head as i year for some thing to be made just like it. But 
+ it looks like that will never happen. If you feel like Bombing the hell out of some thing you can 
+ hop into a vehicle such as a tank or a bomber. and just bombard the enemy but your going to want 
+ to look out for the more you fire the more energy you use. and that takes away from shields. Feel 
+ like attacking some one gather a group of fighters with a transport and drive it right to the door 
+ of there base. you will distroy the enamys automative turrits and they are quite life like, and 
+ highly accurate. while in the air avoid giveing off a heat signiture or missles will lock onto 
+ you if that happens and your in a veh i hope your fast, or you can dodge it.
+  
+  If not bail out and hope your intime. with the three armers each with there own Possitives and 
+ negatives this game rocks. jugernots, with there heavey wepions are good for assalting bases, but 
+ slow. if your really good you can go out into the middle of no where and wait for scott armers 
+ to come and they will. you are a target that is easy prey for them out in the open. if your a scot 
+ you can use any veh. be an assasin or sniper, or your own bread of attacker. Medium armer is sweet. 
+ its sort of a mixs of scot and jugernot armer. So it enables you to do stuff inbetween. This game 
+ feels more like a warzone and less like a game. how ever outher mods keep you interested every 
+ time. Dont feel like fighting why not build? yes there is building and its mad cool. there are 
+ outher mods. two this game is amazeing but sadly is dieing slowly.
+  Writen by dark volture 
+::::::
+
+::::::
+UserName: theRunninGamer
+Rating: 9.8
+Date: Apr 7, 2006 11:44 am PT
+Review:  Tribes 2 is, in my opinion, just about the longest lasting FPS and multiplayer game in existence. 
+ I've played it for years, and even in competition with new games like Battlefield 2, Tribes 2 still 
+ has something of an edge, in it's own right. Nowadays, the graphics are quite dated, but it doesn't 
+ detract at all from the great feeling you get when you manage to frag an enemy in midair with the 
+ spinfusor.
+  
+  The mecahnics of the Tribes series are unrivaled in the multiplayer FPS arena. Nowhere else have 
+ jetpacks, turrets and inventory stations provided such a perfect mix of action and strategy in 
+ a game to date. The commander view was revolutionary, and even games like Battlefield 2 that advertise 
+ a strategic ""commander mode" as a major game element don't come close to the flexibility and full-featuredness 
+ of the Tribes 2 commander map.
+  
+  With unique modes like "Rabbit" and "Hunters" in addition to a slew of other multiplayer modes, 
+ Tribes 2 has more replayability than any other FPS of it's kind (except UT2004, but there are just 
+ so many modders who love that game) .
+  
+  Before you can say that you're a true FPS player, or even any bit of a hardcore gamer, you've got 
+ to have a serious appreciation for Tribes 2, because it is indeed a timeless classic. 
+::::::
+
+::::::
+UserName: Advocate
+Rating: 10
+Date: Feb 23, 2006 9:51 am PT
+Review:  I bought Tribes 2 because I played Tribes I and I have to say that I have spent the years enjoying 
+ this game to the hilt. It is one of the best multiplayer games of all time. From the server list 
+ UI to mods that are, were, available for this revolutionary game, Tribes 2 rocked. Never before, 
+ and I fear never again, will we see a game as enjoyable and as addictive as the Tribes series. 
+ From the huge maps, incredably addictive game play, to the tactics and strategies one needs to 
+ develop to play this game and get the max enjoyment out of it, Tribes 2 was perfect. If you don't 
+ get the game, no worries, it was an aquired taste that once liked grew on you to no end. I really 
+ cannot help but feel a great sense of loss over the slow demise of this game and its franchise. 
+ To the developers, those guys at dynamix, all I can say is thank you so very much for having made 
+ two of the most addicitive and enjoyable games of all time. When I die I want to be buied with 
+ my Tribes I and Tribes 2 cd's. That is how much I enjoyed these games and the time I invested in 
+ playing them. As one of the last men standing after the battle has ended, I will testify to the 
+ value of this game and Tribes I to the day I die. 
+::::::
+
+::::::
+UserName: zerkeer
+Rating: 9.6
+Date: Dec 28, 2005 9:28 am PT
+Review:  Tribes.. Heroism... honor.. courage. I probably had my best gaming time with tribes ever. The only 
+ game able to reach an almost similar importance in every day life of my school-age maybe was counter-strike 
+ beta 5.7 during a 4 week holiday being home alone. But only almost. o. O
+  
+  *Sigh*.. Man you have to treat tribes well, or it will make you eat some really disgusting dirt. 
+ (Like a GF)
+  It was fantastic being able to perform sniperkills over a distance of about 
+  5-600m with a horribly low visibility distance and average FPS of about 19 to 30 FPS. (My Reverse 
+ Sniper Script, to Release for a shot, instead of pressing was awesome. - Similar to the TFC Sniper.)
+ 
+  Although sniping becomes so easy and devastating pretty fast if you are a skilled and fast aimer. 
+ So i soon switched to other playstyles: 
+  Cloaking around in the enemy base, bashing the generators causing panical chaos and confusion.
+ 
+  Or simply flying around Equipped with Chaingun, Grenadelauncher and the old but reliable Disclauncher 
+ smashing enemy faces to rock-solid mountain sledges after multiple Mid-Air hits.
+  
+  "Woooohoooo! Is that the best you can do?!"
+  
+  "Yes!"
+  "Yes!"
+  "Yes!
+  
+  Yes. The vehicle 
+ physics were bugged and killed you often if you didnt know exactly how to fly by the enemy flag. 
+ But the game was still awesome.
+  
+  The best part about this game was probably, that for a Mid-Air Disc hit with both Parties moving 
+ in the air horizontally, you absolutely need to aim forward for about 3 or 4 centimetres to make 
+ it happen. Generally there was no way a noob could Finish you consecutively because you really 
+ need Experience and Skills for this game. (Unlike Trendy Games like Counter-Strike etc.)
+  This is also the reason why people playing crap games like Delta-Force 1+2 to DF: Extreme really 
+ stick to it. (Like a mate of mine.) Because its simply a brutal intimidation for your adversaries. 
+ ;) Muahahaha.
+  
+  The mods for Tribes 2 were absolutely GREAT! too. Team Rabbit 2 for instance. A Soccer-Like Mod 
+ with Styles, Moves, Combos etc. (Very hard to manage too.)
+  
+  And last but not least. LAK-Rabbit! WOW! My all-time Favorite Considering FPS Freakage.
+  
+  
+ Depending on your weapon, distance, angle and speed you get specially calculated points for Mid-Air 
+ Hits against the Flagcarrier (Or your "Followers") .
+  
+  What a fast-paced Modification. Its an awesome feeling flying around with about 12 Enemies all 
+ closely to your Tail with, Grenades, Discs and every possible Arsenal flying by your "Camera". 
+ Phew! "Man why is my heart pounding so hard.. how the f4ck should i be able to aim like this?!"
+ 
+  
+  No Online Multiplayer FPS will ever beat the Feeling when you hear your Co-Players Cheer after 
+ you hit the Flagcarrier flying at a height of 350m about 800m meters away from you with a MID (!!!) -AIR (!!!!!) 
+ Disc!!!!!
+  
+  Believe me the Screenshots of a 1-2 pixel big enemy in far distance looked awesome. And i even 
+ had it on a Demo-Recording. Sadly those Harddiscs are Corrupted, but maybe i will achieve to get 
+ that Data back in place some day.
+  
+  This game is a blast.
+  
+  Period.
+  
+  
+::::::
+
+::::::
+UserName: Shane_F
+Rating: 7.3
+Date: Dec 11, 2005 11:44 pm PT
+Review:  Gameplay, Gameplay, Gameplay. This is what this game turned out to be the biggest factor in my 
+ score. Lets do a little history lesson shall we? On we go...
+  
+  I was an original Beta Tester for the game (If you own the game or have the game now, you can find 
+ me under the credits as "Shane F". There is more to my last name of course.) Anyway, when I was 
+ first introduced into the game via Tribes 1, I had a hard time playing it. Over time I developed 
+ a skill which was needed to play the game perfectly. That was "skiing". Skiing comes back into 
+ play in Tribes 2. When I first got the beta CD, rushing upstrais to my dorm room missing a class 
+ in the process, I installed and played all day. From day 1 the game had major gameplay problems. 
+ The game became so buggy that it wasn't playable at all. The beta was stopped and the game was 
+ worked on and a second group of beta testers known as "Meta" players took the beta testing on. 
+ I was not on this group, but I did still have a way to know what was going on behind the scene's.
+ 
+  
+  As the game to the release date (waiting outside of EB) , I was getting anxious and more anxious 
+ bound to get the game going before anyone else. (My account is still active to this day.) As I 
+ jumped into the game, the game was finally playable to a level where I thought that this could 
+ work. Over time I had tons of fun and stuff, but in the end it again got tough to play, like the 
+ early days of Tribes 1.
+  
+  After numbers patches and upgrades of the original game, the game finally got to be perfect to 
+ a place where I had fun. Looking back know, I know how this is, the game was alright for the time 
+ and it is still 'Revolutionary' to this day, but many more games released later, this game is know 
+ old.
+  
+  As you can see from my breakdown, the highest marks where in the 9s after all, I did spend $500 
+ to buy a really nice card for this game to play and run right. Bit that cost. Sound, SHAZBOT!, 
+ and my overall tilt is good. But the money and the time I spent playing it..... not worth the value.
+ 
+  
+  Out of the Tribes franchise, which have been haunted by Dynamix's sell-off, Serria stopping patches, 
+ interacting with the community where game quality went down, and the easy exploiting of the game 
+ code brittled tthrough this game. It might be the "Game of the Year" worthy, but I bet someone 
+ paid them off.
+  
+  Oh, by the way, my Tribes 2 name is ^BuGs^.
+  
+  Overall...
+  Pro: Great game 
+  Con: Corporation got in the way of a really great game. 
+::::::
+
+::::::
+UserName: viper_najem
+Rating: 8.3
+Date: Nov 28, 2005 9:07 am PT
+Review:  They didn't stray too far from the original's game play, but there was nothing wrong with it to 
+ begin with. 
+  Like the first one everyone is divided into 2 teams. The goal is to capture the enemy's flag and 
+ return it to your flag to gain a point. There are 8 game play modes in all, including ''CTF'' (the 
+ most common game mode) , ''Siege'' (one team attacks, one team defends) , ''Rabbit'' (like playing 
+ tag with guns) , and standard deathmatch (which nobody plays) . 
+  You can also play a Lan game by yourself and battle with up to 16 bots. The bot AI is average- 
+ and you're restricted to only a few maps, why? I'm guessing they didn't take the time to program 
+ the bots to battle on the other 75% of the maps. 
+  
+  All the old guns return with some tweaks and new looks. Joining them are the shocklance and the 
+ missle launcher. The shocklance is an electrical prod like device that requires you to get right 
+ up to your victom. If you hit them in the back it's usually an instant kill to any armor class. 
+ Use the shocklance with a cloaking pack and you can go play a spy role, backstabbing enemies and 
+ destroying base structures undetected. 
+  
+  My personal favorite feature is the new vehicles: 
+  -Shrike- A fast attack scout plane with dual 
+ lasers. Used as an air-to-air response, or as light ground support. 
+  -Beowolf-An awesome looking hover tank. A seat for the driver, and another seat for the gunner. 
+ The gunner can switch between the tanks machine guns or main cannon. 
+  -Jericho-slow but sturdy, this 4 wheeled vehicle is a mobile inventory station. When deployed it 
+ also sets up a sensor jammer and missle turret for self defense. 
+  -Wildcat-A very fast hover cycle with no weapons. Can only be used by light armor. 
+  -Thundersword 
+ Bomber-You guessed it, a bomber. Carries 3 people, a pilot, a tailgunner, and a bombardier. The 
+ tailgunner's job is to shoot down enemy's in pursuit, and also release flares to confuse missles. 
+ The bombardier controls a rotating turret, and also the bomb payload. 
+  -Havoc-A 6 man transport. Carries up to 4 Juggernaut armors, a tailgunner, and a pilot. 
+  
+ 
+  The Command menu returns again, this time it has a lot more versatility. The command menu gives 
+ you a map of the battlefield with markers of buildings and players. It's suppose to be used by 
+ the ''team leader'' to command everyone in an RTS style. But It's just another teamplay feature 
+ that collects dust (alot like the targeting-laser/mortar combo that nobody ever used in tribes 1) , 
+ and when some newbie does try to use it people just ignore their commands. 
+  The vehicles were really aimed toward promoting teamplay as well, and they sound good on paper, 
+ but don't work out in practice. Unfortunately it's hard enough to find someone to be a gunner for 
+ your beowolf. But it's even more futile trying to pull together a crew for your Thundersword bomber. 
+ And good luck getting anyone to jump into your Havoc transport. That would have to be the one flaw 
+ in the gameplay of tribes... but it's really not a game design fault, the problem is you just can't 
+ force 15 strangers to organize themself's and work as a cordinated team. 
+  
+  Don't be fooled by the 7 score... The graphics are awesome. The textures and weapon models are 
+ all very good. The enviroments are huge, complete with trees, rivers, and other eye candy. A great 
+ improvement over tribes 1's bland levels. In fact, the graphics are all around top notch- But unfortunately 
+ you'll probably never see them. Tribes 2 is a huge resource cruncher. My 500 mhz PIII, 128 RAM, 
+ voodoo 5 5500 machine grinded to an unplayable mess even in single player mode. playing on a Lan 
+ is usually ok when I have the graphics at half. But I have to play with most the graphics turned 
+ all the way down to play online (I'm 56k, which doesn't help much) . I'm not the only one that has 
+ this problem either, you'll need a computer with a hell of a lot of horsepower to pull this game 
+ off with full graphics. 
+  If you see Tribes 2 in a store and have a 56k... just keep on walking by. Anything less than a 
+ DSL or Cable would be pointless considering the unplayable lag you get on 56k. You may notice on 
+ the Tribes 2 box there is one requirement missing- It doesnt tell you the required modem type. 
+ They couldn't list DSL as required because a lot of people are still on 56k, and they can't say 
+ 56k is required because they can't make promises they can't keep. 
+  
+  Cool box, cool intro, nice manual, decent tutorial (still not good enough for the difficult gameplay 
+ of tribes) , and easy to use interface. You'll be able to join into games easy and fast. 
+  
+  The music is tight, as always. But dynamix is trying to milk this cash cow a little farther by 
+ selling a Tribes 2 soundtrack that includes 5 whole tracks from T2. That's a cheap move considering 
+ Tribes 1 let you listen to the music off the game CD itself. The weapons and vehicles sounds are 
+ all as well done as the music. The voices however aren't as good as the first ones, especially 
+ the annoying bot voice. 
+  
+  Endless multiplayer fun. Hundreds of servers, and a creative mod community will make this game 
+ last a long time. 
+  
+  It's basically tribes 1 with a lot of cool new features and a HUGE makeover in graphics. It keeps 
+ everything that made tribes great and improves on it. But beware the ''minimum required specs'' 
+ on the box. If you don't have at least 128 RAM, 400 mhz, DSL or better, and a 3rd generation 3d 
+ card (Voodoo 4 or 5, or geforce 2 [geforce is best] ) then you might want to settle for the first 
+ tribes (Or wait for a tribes 2 demo to come out, and see then if your system can handle it.) 
+::::::
+
+::::::
+UserName: someone502
+Rating: 8.9
+Date: Nov 8, 2005 5:48 pm PT
+Review:  I'm walking around a store and i see a value priced game on the shelves. It's only 10 bucks so 
+ I decide to buy it. Little did I know i was buying what i now consider one of the gretest games 
+ ever. It installs quick even on my computer. When its done I started toying around with the single 
+ player missions. THe single player aspect of this game is praticaly nothing. The campaign is just 
+ a tutorial. I later figured out you can make the single player mission better by using the Editor. 
+ 
+  
+  Then I started playing online. It took no time to connect even though there were a thousand or 
+ so people playing. I join my first game and right of the bat made a friend. The game has a buddylist 
+ for keeping track of friends. It also has "Tribes" or clans to join. The whole game was centered 
+ around team work and community which brings me to my next point.
+  
+  One of the best parts of the game was the modding. There were servers running games with completly 
+ new weapons, vehicles, packs, and armors. There was even constrution mods where you could build 
+ almost anything you wanted. The community was filled with skins, maps, weapon, vehicle, armor, 
+ and pack codes.
+  
+  The graphics aren't very good but the gameplay and easy controls make up for it. All you really 
+ need to know control wise was that W was forward, S was back, A and D were strafe, and that the 
+ mouse looked, shot, and jetpacked.
+  
+  I didn't notice sound much and can't go back and check it becuase it doesn't work for me anymore 
+ but it was probably average.
+  
+  All in all I am really sad that such a great game is now gone and never to be resurrected.
+  
+ 
+  (I know this is really bad but it's my first try.) 
+::::::
+
+::::::
+UserName: fougera
+Rating: 8.9
+Date: Oct 13, 2005 9:36 pm PT
+Review:  Tribes 2 is possibly the best FPS I have played for PC yet. I bought Vengeance, but it just didn't 
+ match up to Tribes 2. The fun of playing for hours on end without even noticing the time fly by 
+ was just amazing. I was dissapointed when I couldn't find the game anywhere here in the United 
+ States, but i was able to find the game in New Zealand. Tribes has pretty good graphics for when 
+ it was made, so it was easy to run it on my older PC, and it has a file size of about 650 Mbs. 
+ Overall, great game and I recommend to anyone who likes a shoot 'em up game. 
+::::::
+
+::::::
+UserName: morpheyous
+Rating: 9.2
+Date: Jun 13, 2005 6:04 am PT
+Review:  amazing game, let me tell you, ive been playing this game for years and years, it does not get 
+ the publicity it deserves and its certainly not a game for everyone, it caters more to the harcore 
+ player who is willing to put the time in to master its weapons and armors and packs and vehicles 
+ and jetpacks and all the other things that this game is made off
+  
+  also the netcode is perfect, sometimes my internet gets really bad and i can barely surf the internet, 
+ but t2 still runs silky smooth, its amazing
+  
+  the gameplay is at first confusing and not fun, but trust me, if you stick to it and learn how 
+ everything works you will then realize how amazing this game is, AMAZING, every time i play online 
+ i see somting cool new and intiresting happening, becasue the game has so much depth there are 
+ hundreds and hunderds of things that can do, and you can think up new ways to do things and really 
+ outsmart your enemy
+  
+  the weapons seems pretty well balanced, some people think some weapons are kinda cheap but overall 
+ they are quite well designed 
+::::::
+
+::::::
+UserName: Smaqaho
+Rating: 9
+Date: Jul 13, 2004 1:57 am PT
+Review:  Tribes 2 is by far the best online competitive shooter I have ever played. There are simply too 
+ many amazing elements to mention in one review, so I will not even get to half of the things that 
+ make this game great to play online. 
+  
+  The thing that really makes this game fun is its ability to offer you an endless amount of possibilities 
+ of gameplay. The main type of play is Capture the flag. In most other games, you would choose to 
+ either capture the flag, or defend your flag. In Tribes 2, there is so much more in CTF than just 
+ the flags and they DO matter in order to get that flag back home safely. There are massive bases 
+ that contain generators that you can attack or defend. There are turrets in the field that can 
+ utilize or even put more turrets in the field to help defend you base/flag. There are 6 vehicle 
+ types that further strategy and fun, and make it easier to travel on those real large maps. Add 
+ to all of this, the selection of so many types of great weapons that you can choose to use in your 
+ loadout. Add to this, packs that further augment your character's role in helping your team win. 
+ Add to this, 3 different armor types along with 5 different grenade types. And then add to all 
+ of this, so many different kinds of maps that contain things like seneors, sub-bases, insane ski 
+ routes, and so much more. 
+  
+  I have vaguely described just a little bit of the things in Tribes 2, but do not have the time 
+ nor the patience to really type EVERYTHING out that is in this game. It is so much fun and so open 
+ ended that I have played it for the last three and a half years and am still liking every minute 
+ of it whether in a public server or in a competitive match. Best online shooter of all time is 
+ simply and understatement for this game!!! 
+::::::
+
+::::::
+UserName: Erandel
+Rating: 8
+Date: Jun 24, 2004 12:16 pm PT
+Review:  Tribes 2 contains an interesting, if not easy to understand initially, mix of strategy, first person 
+ shooting and some minor RPG elements for those who want to truely get behind thier clan and cheer 
+ people on.
+  
+  The game which is online only - there is an offline mode but its more for training purposes - pits 
+ you into the battle as a member of a guild intent on taking over a territory which has attracted 
+ another tribe who doing the same that you are and hopefully leaving you gunned down and humiliated.
+ 
+  
+  To make sure that you win you will need to plan your character and make use of weapon stations, 
+ flying and land vehicles as well as different types of armour, guns and mobile turrets.
+  
+  To play successfully you have to play as a team and this is where the fun begins - will you be 
+ the main tank heavy armour character or will you let other people do the fighting for you and remain 
+ in support?
+  
+  The game has a large variety of maps and landscapes to fight accross, all requiring different tactics 
+ and plans to make sure you succeed. With new maps and plugins the value of the game is extended 
+ further, making combat fast and furious. The sound is pitched well with some good music on various 
+ maps.
+  
+  Generally a very well balanced game, today it looks slightly dated and could put some people off. 
+ It is also very possible to be stuck with a side that does not want to play properly. This should 
+ not stop you from getting stuck into a gem of a game that deserves a chance to be played.
+  
+  
+::::::
+
+-------------------------------------------------

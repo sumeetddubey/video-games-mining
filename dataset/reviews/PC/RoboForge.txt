@@ -1,0 +1,127 @@
+-------------------------------------------------
+:::Game Name::: RoboForge
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/roboforge/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Aug 27, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.2
+Critic Score: 8.0, 6 Review (s)
+User Score: 6.9, 9 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Liquid Edge Games
+Genre: Strategy
+Date:     May 14, 2001
+
+-------------------------------------------------
+:::Review:::
+Thinking up and tweaking your robots in RoboForge offers a lot of challenge, replay value, and entertainment. 
+ 
+
+ New Zealand's Liquid Edge Games has a novel proposition for you: Instead of always having to shell 
+ out money to play computer games, how about getting paid in return, too? The company's new game, 
+ RoboForge, might let you do just that. Building on the battling robot craze popularized by shows 
+ such as Robot Wars and BattleBots, RoboForge lets you design your own mechanical warriors that 
+ compete in online gladiatorial tournaments. Win one of the advanced tournaments, and you could 
+ potentially earn around $10,000. The money won't come easily, though: RoboForge is an intellectually 
+ demanding game that calls to mind school science-fair projects more than battling anime mechs. 
+ While destruction plays its part in the game, RoboForge is really about construction.          
+  RoboForge lets you design your very own fighting robot...    
+
+  RoboForge stands at the confluence of some interesting gaming trends. Liquid Edge is one of a new 
+ breed of independent game designers that sell their offerings directly through the Internet, bypassing 
+ publishers. They've also created RoboForge with Java, the programming language behind a lot of 
+ what you see on the Web, one that more game developers are beginning to embrace. Last but hardly 
+ least, Liquid Edge is combining the pay-to-play online gaming model with professional gaming, requiring 
+ fees of around $5 to enter advanced tournaments that offer monetary prizes.   
+
+  To get to these tournaments, you'll first have to do some hard but entertaining work. RoboForge 
+ follows in the footsteps of CogniToy's acclaimed game, MindRover: The Europa Project, released 
+ a couple of years ago. Like MindRover, RoboForge is ultimately less a game in the traditional sense 
+ and more a virtual robot construction set -- and a sophisticated one at that. You'll spend the great 
+ majority of your time creating your robots, adjusting their combat moves and artificial intelligence, 
+ and then testing them offline. The actual online combat is something of a sideshow and a letdown 
+ by comparison.   
+
+  You build your robots with a graphical editor that lets you easily express your creativity. You 
+ get a number of basic component classes to work with, each with a decent selection of items to 
+ choose from. Self-recharging generators power your robot, and a controller, or CPU brain, lets 
+ it interact with its environment and enemies. Controllers are rated in computations per second, 
+ and multiple, parallel controllers allow for speedier processing. When choosing your robot's external 
+ sensors, you need to balance their range and field of view. A variety of shields and armor help 
+ decrease damage. Swivel, ball, radial, and telescopic joints let you add a range of different appendages. 
+           ... and watch it fight against computer- or player-built rivals.    
+
+  When you get to the business end of your bot, which are its weapons, you can choose from a decent 
+ range of melee armaments such as jackhammers, rams, claws, axes, and scythes. Few of these are 
+ very colorful or original, and you don't get any ranged weapons. Interestingly, a weapon's damage 
+ capability is primarily determined by its weight multiplied by striking velocity, with a bonus 
+ added for certain weapons. Physics matter more than any sci-fi wishful thinking in RoboForge.  
+
+  Each component adds to the total build cost of your robot. Since tournaments have maximum price 
+ cutoffs, you'll have to choose components carefully to stay under the limit. Adding on that deluxe 
+ radial saw you've been dreaming of will mean less money for energy or shields, for instance. Component 
+ weight affects your building decisions too: Do you pick slow-moving, energy-guzzling, heavy components 
+ with lots of hit points, or do you choose speed over armor? If all these choices sound like a bit 
+ much, the "bot wizard" feature lets you quickly throw together a robot based on provided templates -- but 
+ then you'll be skipping the heart of the game and will probably end up with a weak (and losing) 
+ creation.    
+
+ Once you've weighed your options, assembled your robot, and painted it with a few easy-to-use tools, 
+ you'll program its combat moves and AI. Moves use a "snapshot" metaphor -- here, as you would with 
+ an animator, you manipulate your 3D robot into a series of poses and take a sequence of pictures 
+ of it. The game then fills in the blanks between shots to create a smooth motion. In conjunction 
+ with your robot's sensors, you define 3D zones that determine how your creation will interact with 
+ its world and enemies: If an enemy is detected in a forward zone, for example, you can make your 
+ robot advance and perform an attack move you've recorded.           Designing your robot is a complex 
+ but streamlined process.    
+
+  To do that, you incorporate the moves into the robot's AI. You program it by using a decision tree 
+ with custom or predesigned routines that allow your robot to analyze and react to its situation. 
+ If you want to really get under the hood and tweak things, you can design more complex subroutines 
+ with a fairly robust scripting language. Designing the AI will give you a good mental workout, 
+ though RoboForge streamlines the procedure to make it fairly accessible, too. Either way, it's 
+ a lot of work to design a credible robot that can react to a wide range of threats.   
+
+  After your AI work is done, it's off to battle. First, you'll want to test your creation extensively 
+ offline against some sample bots. You'll almost certainly need to go back and tweak moves and AI. 
+ Satisfied that your robot stands a chance in a real battle, you then go online and join impromptu 
+ challenges and progressively harder tournaments, viewing the recorded matches after the fact with 
+ a VCR-like control. These fights usually last just a few minutes, as robots try to wear down each 
+ other's hit points. As in MindRover, you don't actually control anything during the fights; you 
+ just sit back and watch to see who's the better designer/programmer. RoboForge keeps the focus 
+ squarely on intellectualism instead of action.           RoboForge really puts your creativity 
+ and ingenuity to the test.    
+
+  The game's solid but hardly stunning presentation reinforces the cerebral emphasis. The menus are 
+ clean and attractive, and the provided robot parts allow varied humanoid, insectile, and machinelike 
+ designs. Apparently, these are supposed to be designed by different species with meaningless names 
+ such as Cytol and Srikar. In a failed attempt to create a cool sci-fi atmosphere, weapons carry 
+ equally weird monikers, like Myctlans Tongue. Slow and jerky animations make the combat pretty 
+ tedious to watch. Cheesy, synthesized robot voices don't give the bots any memorable personality. 
+ Bland sound effects (and pops from when they loop) do nothing for the game, either. The robots, 
+ the arenas in which they battle, and the combat itself just lack the "coolness" factor you'd really 
+ like to see in a battling robots game.   
+
+  Despite that real flaw, thinking up and tweaking your robots offers a lot of challenge, replay 
+ value, and entertainment. RoboForge certainly isn't for impatient gamers or anyone just looking 
+ to blow off steam after a long day of school or work. Get ready to invest some real time, energy, 
+ and thought into this one. Then again, the reward for your hard work may be money instead of just 
+ intellectual satisfaction. That raises the question, though, of whether gaming should become even 
+ more money-oriented than it already is. Waving a fistful of dollars in front of prospective game 
+ buyers seems a little base. Also, look at the widespread cheating in games that  don't  promise 
+ monetary rewards. It looks like there might be an enticement for abuse with this sort of system. 
+ While innovative business models might be beneficial to gaming, it's still better to lure gamers 
+ with solid gameplay instead of money. RoboForge, despite some significant weaknesses, has more 
+ than enough solid gameplay to go around.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

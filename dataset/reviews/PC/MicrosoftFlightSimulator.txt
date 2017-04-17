@@ -1,0 +1,145 @@
+-------------------------------------------------
+:::Game Name::: Microsoft Flight Simulator
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/microsoftflightsimulator/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Dec 19, 1996
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7
+Critic Score: 7.5, 1 Review (s)
+User Score: 7.4, 147 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Microsoft Game Studios
+Genre: Flight Simulation
+Date:     Oct 31, 1996
+
+-------------------------------------------------
+:::Review:::
+With play like this, who needs work? 
+
+ Microsoft Flight Simulator isn't really a game. Over a dozen years it's had five major version upgrades, 
+ ports to nearly every platform (and language) on the map, and cumulative sales that nudge the stratosphere 
+ of desktop productivity perennials. This can't be a game, can it? Maybe it's not software at all, 
+ but the first CD-ROM-based cult. Then the ever-popular cross-continent jaunts, where the most exciting 
+ things to happen are takeoff, landing, and the seven-odd meditative hours of not crashing in between, 
+ would make sense. Actually, before this latest release, a powerful mantra and finger cymbals were 
+ necessary to make the thing fly under Windows 95.  
+
+ For those not yet initiated, Microsoft Flight Simulator is as realistic an approximation of the 
+ flying experience as has ever alighted on desktops, and is not for the faint of heart (or faint 
+ of manual) . Want to take off? Wellmake sure you've completed the pre-flight check (equipment 
+ failures can be set to occur randomly) , tune your transponder to the code provided by the tower, 
+ set your COM and NAV radios to the local frequencies, check the wind direction and speed, request 
+ permission to take off from air-traffic control, taxi to the appointed runway (avoiding other taxiing 
+ aircraft, of course) , set your flaps, release the brakes, and apply the throttle. While this degree 
+ of realism may seem overly fastidious to some, it is part of the flying experience, and duly rendered. 
+ Novices may, of course, bypass much of the minutiae, and ample multimedia flight training is provided, 
+ but in the end, this is where you're working to beand sometimes, it really does feel like 
+ work.  
+
+ Before you're in the air, though, you also have to decide where you want to go today - scenery and 
+ hundreds of airports are mapped for every inhabited continent on the globe, making dramatic crashes 
+ into each of the extant Seven Wonders of the World a possibility (nay, an obligation) . You can 
+ take off from Marrakesh, refuel in Marseilles, and end the day in Malta. But first, immerse yourself 
+ in the navigational arcana of VHF Omni Range and non-directional radio beacons, VOR radials, and 
+ Instrument Landing Systems - you won't get to Paris by taking off from London and pointing your 
+ plane east. Selected navigational maps are provided, but for flights further afield you'll need 
+ to download a homebrewed chart or invest in a set of professional Jeppeson charts, and then carefully 
+ map your course beacon to beacon. With play like this, who needs work?  
+
+ This version of MSFS is Windows 95 native, and while the jury is still out on DirectX, the windowed 
+ environment is handy - you can use the in-flight autopilot cruise time to catch up on e-mail, Microsoft 
+ Office add-ins for flight planning, and navigational calculation can only be around the corner. 
+ Other additions to this version are two new aircraft - a 737 jetliner and the Extra 300S aerobat 
+ (which join the Cessna, Learjet, Sopwith Camel, and sailplane) - and a much-needed overhaul of 
+ the antiquated and confusing interface - the ordained will find it familiar enough, while novices 
+ will be able to get into the air faster, configuring weather, season, time-of-day, and realism 
+ levels more intuitively. The scenery is as rich as ever, with subtle texture-mapped geography, 
+ visual cues from accurately placed landmarks, and regional swaths of satellite-generated photorealism. 
+ Other swank features from previous versions are retained, such as the "Land Me" option, video replay 
+ of stunts and landings, multiple external views, and "slewing" (the ability to freeze action and 
+ reposition or reorient the aircraft) . Likewise, the aerodynamic realism of Microsoft's flight model 
+ is as good as ever - after seeing the punishment a 737 can take (yes, it can loop the loop) , real-life 
+ in-flight turbulence isn't nearly as disconcerting as it once was. The only notable absence is 
+ support for multiplayer flying, though Microsoft promises this in future releases via its DirectPlay 
+ technology.  
+
+ The bottom line? Whether you consider MSFS a game or not cuts to the quick of whether you'll be 
+ converted. Games have rules, a context, and a motivationa way to win. The rules in MSFS? 
+ The laws of physics. The context? You're a pilot in a plane. The motivation? Wellyou're a 
+ pilot in a plane, subject to the laws of physics. If you can suspend your disbelief and enter the 
+ reality of the simulation, then MSFS is the ultimate tool for exploring that fantasy of flight, 
+ with its moments sublime and mundane. Indeed, it's not the gameplay but the gamework - the checking 
+ of instruments, the charting of courses, the credibility of the simulation - that makes the fantasy 
+ available. That said, if you can't convince yourself that getting from A to B really matters, Microsoft's 
+ feeble "adventures" - such as "see if you can fly through the Arc de Triomphe" - will sustain your 
+ interest for all of five minutes. The great shame of this product is that it feels unfinished in 
+ this regard; if you can't buy into the realism trip, there's not much to go on. Microsoft is just 
+ a mission-disk away from transforming this product from the cult that it is into the major religion 
+ it should be.    
+-------------------------------------------------
+:::User Reviews::: (2 Reviews)
+::::::
+UserName: adders11
+Rating: 4
+Date: Apr 24, 2008 2:45 am PT
+Review:  'As real as it get's!' is what it says on the box. At the time this game probably was as realistic 
+ as Microsoft could make it I suppose. Maybe my 4/10 score isnt really fair but this game is just 
+ so unrealistic and since other flight sims like Flight Unlimited were so much better I think it 
+ deserves the mark.
+  
+  OK im not really into Flight Simulators much anyway but since I am a big PC gamer I thought I should 
+ do a flight sim review as they are only really available on PC's. There is a decent amount of planes 
+ to fly here and they all fly differently but the controls are just clumsy and if you tap the control 
+ keys the plane swerves and usually you end up crashing. Ah, crashing. When you crash on this game 
+ you see a clip from the outside of the plane and it doesnt explode, it just hits the ground and 
+ does a strange flip while staying in the same position. Nothing even falls off the plane when it 
+ crashes. What is up with that? And if you crash into a skyscraper the plane gets jammes in the 
+ side of the wall rather than hitting the building and exploding or hitting the building and falling 
+ to the ground.
+  
+  One reason why this game is so unrealistic is... get ready... you can land on the sea and take off 
+ again. Yep, with any plane (there isnt even one of those planes that can land on water) , even a 
+ huge jumbo jet you can still do it. If you crash into the sea, the plane doesnt sink, it just does 
+ exactly what it does on land and says 'Splash!'. Also, I flew over San Fransico and tries to crash 
+ into the Golden Gate bridge and Alcatraz and nothing happens! You just go straight through and 
+ carry on! The land is all 2D with a few odd 3D skyscrapers and hills.
+  
+  The only good points about the game are varied amount of planes, the huge land to fly over and 
+ the sound effects. If your looking for a Flight Simulator game then GET ONE OF THE NEW ONES! Do 
+ not bother with this old one because it sucks!
+  
+  Pros:
+  + Good amount of planes
+  + Good sound
+  
+  Cons:
+  - Extremely unrealistic in every way
+  - Clumsy handling of planes
+ 
+  - Rubbish graphics
+  - You can land on the sea! 
+::::::
+
+::::::
+UserName: IceDragon100
+Rating: 3.2
+Date: Dec 30, 2006 12:08 pm PT
+Review:  When i got this, i thought it was going to be fun with a lot of realism, the as real as it gets 
+ don't fit into this sim. If it had more planes, better graphics on the AI planes, and more AI planes 
+ than just the ones in Chicago Meigs field, this would have been much better. its also too easy 
+ physics as well. When i crashed the plane in the ground, only 2 out of the planes were able to 
+ shatter its parts on the ground, the Extra and the cessna, Could that also apply for the others? 
+ So if you ever see this game in stores still, don't buy it. Get somthing better like the Flight 
+ Simulator X. Thats much better than this. 
+::::::
+
+-------------------------------------------------

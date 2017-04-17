@@ -1,0 +1,72 @@
+-------------------------------------------------
+:::Game Name::: Flash Point Korea: AH-64D Longbow
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/flashpointkoreaah64dlongbow/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Jan 16, 1997
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 9.1
+Critic Score: 9.1, 8.8 Review (s)
+User Score: 8.8, 49 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Electronic Arts
+Developer: Jane's Combat
+Genre: Helicopter Sim
+Date:     Nov 30, 1996
+
+-------------------------------------------------
+:::Review:::
+There is no doubt that this is the finest helicopter sim ever made, and one ofthe best sims of any 
+ type. 
+
+ The first add-on disk for the outstanding Longbow sim is not just a new set of missions - though 
+ it is that, too. It's a substantial revision of the entire game system that elevates numerous aspects 
+ of play to new levels. It's required flying for anybody who owns the original.  
+
+ The core of Flash Point Korea is the 140 new missions: 100 single scenarios and 40 in a new Korea-based 
+ campaign. Set around a Second Korean War, with news clips and new animations, the new missions 
+ take place in the wonderfully rendered Korean landscape, with plenty of terrain changes and hills 
+ for masking. While the campaign is still a branching tree rather than a dynamic campaign, missions 
+ are much more complex, with a new structure that can make things very tricky. You may go out on 
+ one mission, only to be called away on a more pressing one. The enemy in the field can call in 
+ fire support, and redirect forces to deal with you. Sometimes your primary target isn't even given 
+ to you until you've gone out, and then it's radioed in. This all comes together to make Longbow 
+ missions more like those of Apaches in the real world. The result is a dangerous, challenging, 
+ constantly shifting battlefield that will keep you on your toes.  
+
+ These new features, as well as improved enemy AI, also carry over to the stand-alone missions, resulting 
+ in a huge set of scenarios with a whole new game dynamic. New enemies are also included, and new 
+ sounds have been added to many of the weapons already in Longbow. Beneath the new gameplay is a 
+ massive overhaul of the flight model and the game engine itself. The biggest changes are to avionics, 
+ which is even more complex and realistic. Performance characteristics for both TADS and FLIR are 
+ now more closely in line with the real thing. Azimuth controls have been added to both the TADS 
+ and the fire-control radar, allowing for panning left or right. You can set both FCR and TADS to 
+ either radar or laser modes to better control emissions, and narrow the scan zone for faster updates. 
+ FCR can be set to either single-sweep or continuous scan. The radar range has been reduced to eight 
+ nautical miles from 50. FLIR now has "white/hot" and "black/hot" modes to help with armor spotting. 
+
+ Beyond avionics, there are other changes, such as recoil effects when firing guns, more detailed 
+ handling of system damage, choice of seeker head type (laser or radar) on Hellfires, more realistic 
+ rotor performance, modeling of obstacles when laser designating, varying enemy armor values, new 
+ weapon launch sound effects, and other tweaks that show the attention to detail that makes for 
+ a great sim. To handle fires in the chopper, there's now a fire extinguisher. A whole new screen 
+ has been added to emulate the second seat for the co-pilot/gunner. You can lock and track targets 
+ from this view, and while there's no real new functionality, it is a new cockpit with two MFDs 
+ that are configured to make threat assessment easier.  
+
+ The 140 new missions and some new threats would have been plenty for most Longbow fans, but Andy 
+ Hollis and his team have gone ahead and honed this puppy down to a killing edge. The initial version 
+ of Longbow was realistic, playable, and finely crafted. Flash Point Korea raises it to a new level, 
+ though. There is no doubt that this is the finest helicopter sim ever made, and one of the best 
+ sims of any type.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

@@ -1,0 +1,3249 @@
+-------------------------------------------------
+:::Game Name::: Counter-Strike: Condition Zero
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/action/counterstrikeconditionzero/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Mar 23, 2004
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.8
+Critic Score: 6.6, 40 Review (s)
+User Score: 7.6, 3,740 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Sierra Entertainment
+Developer: Turtle Rock
+Genre: Modern First-Person...
+Date:     Mar 23, 2004
+ESRB: Mature
+
+-------------------------------------------------
+:::Review:::
+Condition Zero's release is overshadowed by no fewer than three new technologically advanced, highly 
+ anticipated shooters, which all cast a harsh light on what is essentially a 6-year-old game -- albeit 
+ a classic one. 
+
+  When Counter-Strike: Condition Zero was first announced three years ago, it seemed like a decent 
+ enough idea. The definitive first-person shooter mod was at the height of its popularity, so having 
+ a single-player game based on the winning formula sounded like a good way to win a new following 
+ and perhaps entice even more people to venture online. However, those who have been reading up 
+ on the game over the years know that development has been a bumpy ride. The duty of making Condition 
+ Zero has practically been passed around more than the collection basket at Easter Mass. What started 
+ internally at Valve Software quickly moved to Gearbox, then to Ritual Entertainment, and finally 
+ over to Turtle Rock Studios. Given such an unusual development path, Condition Zero is surprisingly 
+ enjoyable, thanks mostly to some remarkable artificial intelligence. Unfortunately, the game will 
+ be remembered as a victim of its own delays. While the core gameplay is timeless, Condition Zero's 
+ release is overshadowed by no fewer than three technologically advanced, highly anticipated shooters, 
+ which all cast a harsh light on what is essentially a 6-year-old game -- albeit a classic one.  
+
+ 
+          Bombing maps are one of the classic gameplay types available in Condition Zero.     
+
+ 
+  By now, most FPS fans at least know what Counter-Strike is and have likely played it or have seen 
+ it. For those of you who have recently been paroled from a lengthy incarceration or have awakened 
+ from a coma, Counter-Strike is a team-based tactical shooter that pits terrorists versus counterterrorists 
+ in round-based match play. In the game's current incarnation, there are two game types -- bombing 
+ and hostage rescue. Bombing maps require the terrorist team to plant and detonate a time bomb in 
+ one of two bombing areas while the counterterrorists guard these sites. Hostage rescue involves 
+ having the terrorists guard computer-controlled civilians while the counterterrorists try to rescue 
+ them. In practice, both game types often result in one team or the other being eliminated in bloody, 
+ fast shoot-outs.  
+
+  Players earn money based on their performances in the previous rounds, and with this money, they 
+ can buy weapons at the beginning of each subsequent round (and those who survive the last round 
+ keep their guns) . The game's arsenal is based on real-life weapons, including Desert Eagle pistols, 
+ pump-action shotguns, AK-47 assault rifles, and even some exotic equipment, like tactical shields 
+ that deflect bullets.  
+
+  Single-player Condition Zero is just like the multiplayer version of Counter-Strike that's been 
+ played for years, only your teammates and the enemies are replaced by computer-controlled bots. 
+ You assume the role of the commander of a counterterrorist force, and you choose your teammates 
+ from a menu of named bots. The bots vary in skill, aggressiveness, choice of weapon, and tendency 
+ to cooperate with the rest of the team. Those with greater skill and more-powerful weapons cost 
+ more points to hire, but you'll earn points steadily as you make your way through the game's campaign. 
+
+          You'll choose your teammates from a menu before each map.     
+
+  The campaign is divided into six "tours of duty," each of which consists of three maps, thus offering 
+ you a total of 18 maps for gameplay. Most of the maps are drawn from Counter-Strike's classic collection, 
+ so veterans will be familiar with classics such as Dust, Aztec, and Italy. Some of the maps have 
+ been tweaked greatly, however. For example, Militia is now vastly different from the map longtime 
+ CS players are familiar with. The above-land approach from the counterterrorist spawn area to the 
+ house has been shortened and adorned with additional rocks to hide behind, thus making life more 
+ difficult for terrorist snipers. A handful of new maps have also been included, like Stadium, a 
+ multilevel demolitions map that features a lot of narrow hallways and stairwells. Fastline should 
+ also be new to PC players, since it was borrowed from the Xbox version of Counter-Strike. It's 
+ a very small bombing map, set in a Tokyo subway, that encourages quick rounds and a frenetic pace. 
+
+  Beating each map requires you to win at least three rounds against the terrorists, and you must 
+ be ahead of the terrorists by at least two successive wins while also completing a number of special 
+ challenges. These challenges usually involve getting a certain total number of kills, getting kills 
+ with a specific weapon, rescuing hostages, and/or winning a round under a certain amount of time. 
+ You don't have to complete all these challenges within the three rounds, so if you're beating the 
+ terrorists 3-1 and still have a challenge left unfulfilled, the match will continue until you've 
+ satisfied all the requirements.     
+
+  The challenges vary with the difficulty level, as does the rate at which the terrorist team ramps 
+ up in skill and number. At the easiest difficulty level, you'll have few prerequisites, and the 
+ ones that are there are simple to accomplish. At the expert difficulty level, however, you'll be 
+ asked to perform some particularly tough feats, such as getting a knife kill and surviving the 
+ same round. For veterans of CS, the normal difficulty level won't be much of a challenge, but the 
+ two higher difficulty levels offer some pretty decent challenges, thanks to the surprisingly good 
+ bot AI.  
+
+          The bots are surprisingly lifelike in Condition Zero.     
+
+  The bot AI in most first-person shooters is laughably bad. Counter-Strike provides even more challenges 
+ for programmers who are attempting to design capable bots because of the relatively complex tasks 
+ these bots must perform. At any rate, we were pleasantly surprised by how clever the bots on both 
+ sides were in Condition Zero. Teammates communicate with you constantly by voice by telling you 
+ where they are, what they're doing, and if they've spotted an enemy. If the bomb carrier falls, 
+ bot CTs know to camp the dropped bomb, and the remaining terrorists are aware that they need to 
+ pick up the bomb to complete the mission. Terrorists on hostage rescue maps know that once a certain 
+ amount of time has elapsed, patrolling or camping hostage rescue points is an important strategy. 
+ They'll also plant bombs behind boxes and other defensible positions. All the bots seem to be programmed 
+ to know each map intimately and will crouch on top of good spots or will lie in wait behind strategic 
+ corners, just like an experienced human player would. Even more remarkable is that you'll see bots 
+ breaking windows and jumping down from high ledges to purposely reach other areas more quickly -- even 
+ at the expense of incurring a bit of falling damage.  
+
+  The bots aren't infallible, though. Occasionally you'll spot one getting hung up temporarily on 
+ some geometry. We've also seen the terrorist bots abandon planted bombs, thus allowing CTs to sneak 
+ in and defuse them without a fight. To be fair, we've also seen many human players make the same 
+ boneheaded mistakes over the years. Overall, the bots are remarkably human -- and varied -- in their 
+ behaviors. Some teammates will respond to your commands, while others insist on forging their own 
+ paths, which isn't terribly different from human teammates either. It's too bad there's no way 
+ to play as the terrorist side on these maps, but assuming you're willing to retry the game on higher 
+ difficulty settings after beating it on normal, there's decent value here.  
+
+  Adding to the game's aesthetic significance is the fact that a special "deleted scenes" mode has 
+ been included. These deleted scenes actually comprised the single-player campaign that Ritual was 
+ working on before game development was handed off to Turtle Rock. While the 12 missions here are 
+ pretty fleshed-out -- with scripted sequences and dense amounts of action -- the deleted scenes, as 
+ a whole, feel like clichs. To anyone who's played shooters for years, the deleted scenes 
+ seem like flashbacks to the shooters of 1999 and 2000, so you'll immediately know why Ritual's 
+ project was canceled. While it's nice to have this extra content, your decision on whether to buy 
+ Condition Zero shouldn't hinge on it.  
+
+          The deleted scenes aren't a bad way to kill time if you have nothing else to play, but 
+ they're certainly not great.     
+
+  As far as multiplayer goes, the game is the same Counter-Strike that most of us have been playing 
+ for years. There's not much else to say about it other than that it's still the world's most popular 
+ shooter for a very good reason -- it's got a classic, timeless design. However, the fact remains 
+ that it's still a freely downloadable mod for Half-Life owners, so it's difficult to say that multiplayer 
+ here is much of a value-added element.  
+
+  The highlight of Counter-Strike: Condition Zero is clearly the bot AI. The bot behavior, while 
+ not perfect, is remarkably lifelike. And at the higher difficulty settings, it will provide at 
+ least a decent challenge for most shooter fans. Unfortunately, you're limited to playing as the 
+ counterterrorist side in the tour of duty campaign. While some maps have been prettied up a bit, 
+ the graphics are still basically the same as ever, which is to say, they're dated. At least the 
+ sound has held up well and is still great. In the end, Condition Zero is a product that will appeal 
+ most to those players who haven't tried CS yet (and how many of them are there?) , those who don't 
+ want to deal with the hassles of playing the game online, and those who just want to have some 
+ offline practice. For those of you who are already playing Counter-Strike online (let alone finished 
+ with playing Counter-Strike online) , there isn't much reason for you to own Condition Zero, because 
+ it's basically the same thing you're already playing.     
+-------------------------------------------------
+:::User Reviews::: (114 Reviews)
+::::::
+UserName: goreaffection_i
+Rating: 9
+Date: Mar 31, 2009 8:41 am PT
+Review:  First of all this game is more of a world sport, like football or cricket, than a video game. I 
+ can safely say that everyone in the world has played this one with their friends. Before COD 4 
+ came along, this one was the no 1 online game. From school children to engineers, everyone would 
+ find time to slip into a cyber cafe to play cz over lan. Why would anyone in their right state 
+ of mind would rate this game so low? 
+  While Counter Strike Condition Zero does not come alive unless u play it over lan or online, the 
+ single player kind of works as an excellent tutorial. While experienced cs players will find the 
+ bots to be dumb, they will pose a serious threat to newbies. Although the graphics is not the selling 
+ point of this game, this ensures that u can play it in older computers also. But trust me, once 
+ u start playing the game, u will hardly notice the graphics as ur life will be constantly at threat. 
+ Weapons feel and sound great, and u will soon find out that each weapon has an individual role 
+ to play. For new recruits to the cs world, i would suggest they use the singleplayer to get the 
+ feel of the world and understand the scouting points of the maps. And once u conquer the singleplayer, 
+ u r ready to enter the multiplayer world of cs. 
+  As it is practically there in almost all gaming parlors around the world, u necessarily dont need 
+ to buy the game, but u can anyway buy it for practice. Once u enter the cs world, u will find out 
+ that u r giving more time to cs than ur girlfriend. 
+::::::
+
+::::::
+UserName: Shankar_461
+Rating: 4.5
+Date: Sep 24, 2008 4:16 am PT
+Review:  Hi guys, i am a gaming student and writing this review in a gaming student's point of view and 
+ not as a gamer.. This game is one of the most boring FPS when played alone.. So my review is tat 
+ as a single player game the rating is 4 and as LAN or Online it is 6.5.. Orange box's most boring 
+ game is this i think... Atleast can say borer than half life. The design concepts in this game 
+ is good.. thats it.. Weapon system is good.. props are good.. AI programming is nicely done.. But 
+ the availability of weapons is adecqate.. The texures used in this game like in walls, players 
+ hands and guns and the boxes placed in between to take covers are very nicely done.. And as a final 
+ output the game play is nothing but it is made interesting by the props and the game environments.. 
+ Enjoy playing game.. Many of my friends too like this game very much but not me.. Meet u guys in 
+ next review... "GO GAMING" 
+::::::
+
+::::::
+UserName: Toriko42
+Rating: 4
+Date: Jul 2, 2008 7:15 pm PT
+Review:  Condition Zero tried really hard, but sadly all this effort amounted to a game that simply wasn't 
+ very good and could be easily skipped. Especially when Half Life 2 was less then a year away and 
+ a much better Counter-strike game, 1.6, was already available I just don't know why Sierra had 
+ to make this game. Nothing about the multiplayer was different from the original game but instead 
+ they added in some really bad maps. One of them takes place inside a stadium, and the others are 
+ just plain forgettable. Nothing really was great about them. The community from the game isn't 
+ as large as the other counter-strike games either so essentially you lose a huge part of the appeal 
+ of the game which is the custom content and games. Luckily when I bought this game I got a much 
+ better game called Counter-Strike 1.6. Funny thing is 1.6 came out in 2000 and back then it had 
+ top of the line graphics. Sadly four years later they couldn't improve the graphics even a little 
+ bit. There are some better lighting effects but other then that there is nothing worth while that 
+ would make the graphics much better over 1.6. Four years and nothing was accomplished by Sierra, 
+ sad...
+  The single player is a joke, it's basically playing a map with bots and that is it. There is nothing 
+ special about it and this was supposed to be the selling point of the game. The Counter-Strike 
+ deleted scenes game is slightly better but there is still no story and it fails at trying to be 
+ the intense shooter. It just doesn't compare with other games to boot like Call of Duty. What Condition 
+ Zero tried to do is basically do what Battlefield did. Make the single player just a multiplayer 
+ map with bots and make no attempt at a story. At least Battlefield didn't pretend to have a story. 
+ Condition Zero sadly attempted though. 
+  There is some fun to be had with the multiplayer but why would you buy this when Counter-Strike 
+ Source was coming a year later. What a waste of development time which in the end only resulted 
+ in this poor and rushed game. Avoid at all costs unless you have friends who bought this mess and 
+ you'd like to play with them. 
+::::::
+
+::::::
+UserName: reduserisk
+Rating: 8
+Date: Jun 10, 2008 8:10 pm PT
+Review:  This game is a classic that I really enjoyed. Countless hours of my high school life were spent 
+ on this bad boy. The game is certainly dated and doesn't stand up to the fps of today, especially 
+ to it's successor CS Source. There is still a large community that plays Zero though, and it's 
+ always fun to go back and jump on for old times sake. Nonetheless, this game is still a ton of 
+ fun, and if you don't have the machine to run Source then definitely pick this one up. It runs 
+ smoothly on low end machines. For instance, I used to run it at 800X600 with a 128 Radeon and play 
+ with a ball mouse, ah memories.... :) Also, I would recommend playing Zero along with the original 
+ CS before diving into Source. I think it will help your game play and make you appreciate the franchise 
+ more. Of course part of me is saying that because I have played all three games extensively, and 
+ as a die hard CS fan, I would never be caught without all of them on my pc. :)
+  
+  Overall a good game, but inevitably its age has caught up with it. 
+::::::
+
+::::::
+UserName: leo-i
+Rating: 10
+Date: May 27, 2008 1:57 pm PT
+Review:  This game is marvelous, its simply incredible. I've tried it once and i already knew that this 
+ would be an addictive game. I have tried this game at a friends house and i simply wanted to have 
+ this game immediatly. This game is great because it is simple and you have a lot of fun when you 
+ play at it. I love this game but i got addicted and couldn't stop playing. What i prefer in this 
+ game is the online mode on steam, you a lots and lots of maps to discover and i love that, especially 
+ my favorite that i can't stop playing : pool day.
+  Now the things that i don't like in this game is : well nothing really, i think its a perfect game 
+ but still if you play to much you can be bored and quickly stop playing this game.
+  To finish this review, i have to say that it is a game you must try at least once in your life, 
+ because like i said it is a masterpiece and i will always like it. Now it depends on you ( Buy 
+ it or at least try it)
+  
+  Leo
+  
+::::::
+
+::::::
+UserName: s_awi102
+Rating: 9
+Date: Sep 29, 2008 7:33 am PT
+Review:  One of da best first person shooter i've ever played. The no. of  
+ really get u hooked up to ur comp for hrs at a stretch. u can choose from an arsenal of pistols, assault 
+ rifles, machine guns, sub mg's and the trusty sniper. Weapon physics and sounds are amazingly life 
+ like other than the campaign u can start ur own offline mission based on the classic cs maps. If 
+ u r ready for a shooting challenge cs: cz is just the game for u. Though the graphics engine show 
+ little improvement over cs1, objects of the environment and the interaction between the player 
+ and the environment is very realistic. U will realize that u will need to take cover behind walls, boxes 
+ etc more often while undergoing a head to head shootout. Play as a terrorist or a CT doesen't matter, 
+ the CTs have the M4A1 and the terrorists have the CV-47 (or better as the AK-47) which give u a 
+ heck more headshots than any other gun. For me cs: cz is a great game
+  near perfect! 
+::::::
+
+::::::
+UserName: NYuuRaKuS
+Rating: 8.5
+Date: Apr 8, 2008 12:04 am PT
+Review:  Graphics are not improved much (if at all) over CS. The missions help noobs practice a bit or experience 
+ something different. Bots are a nice addition to this game. The community for this game is small 
+ and never was that large to begin with, so youll probably play CS instead. The feel is slightly 
+ different compared to CS, seems faster perhaps, as it takes a tad bit of adjusting when u jump 
+ fro CSCZ to CS and back. Overall, this is a purchase only necessary if you dont own CS. Since CSS 
+ already came out (as I am reviewing this long afer I played it) I wouldnt recommend this purchase. 
+ But considering the time when I did play this, this game would have scored decently high, as it 
+ came with counter strike, which is a wonderful online game. Not much else to say, I just need to 
+ make more words so this review will process. Blah blah blah. Buy CSS or the half life package. 
+ Better yet, just get Team Fortress 2. 
+::::::
+
+::::::
+UserName: KrishnaB
+Rating: 8.5
+Date: Apr 1, 2008 1:05 am PT
+Review:  India's highest played Online/LAN game its been a super hit in India. According to me huh just quite 
+ good not magnificent:-Ive played CS a lot its been a good game CS 1 Anthology has many problems 
+ as compared to Condition Zero. CZ is available in many versions which makes it available to all 
+ there are many hacked and cracked versions which are excellent because we don't need steam or its 
+ heavy updates so i find it much better as compared to 1,1.6&Anthology i have not checked out source 
+ so don know much abt it all i know CZ is definitely worth buying and playing. It has a quite good 
+ single player an excellent LAN play n average at online but its definitely an fps classic .Of course 
+ the most ive ever played of fps has been doom 2 one of my best games till date highly entertaining 
+ and a nice long game. CS CZ is a good pick throughout India i think u must give it a try 
+::::::
+
+::::::
+UserName: smokedbeef
+Rating: 5.5
+Date: Mar 1, 2008 5:44 pm PT
+Review:  I am sorry but I might not be able to say much about this game so I will try to fit as many as 
+ things as possible.
+  
+  First lets start with the good things:
+  
+  Gameplay: Great original counter strike gameplay. Counter Strike finally has single player.
+  
+ 
+  Sounds: Better weapon sounds and bots have voice acting that kind of talk like players.
+  
+  Graphics: High definition half life graphics. Better weapon textures.
+  
+  Systems: Very 
+ low system requirements.
+  
+  NOw the bad things about the game:
+  
+  Gameplay: Almost no change in gameplay. Single player feels more like making a server and placing 
+ bots. Bots are too easy. AWP is still rigged (dont think AWP will ever change)
+  
+  Sounds: NOthing to say much about.
+  
+  Graphics: Scout skin looks kind of retarded. Not much 
+ difference from the original counter strike.
+  
+  Systems: Nothing to say much about.
+  
+  Overall: Not that much of a great game. I don't suggest trying this game if you have alright got 
+ counter strike (unless you cant player counter strike for some reason) . I think its better to get 
+ original counter strike becuz more ppl play and more fun servers like Zombie Mods. 
+::::::
+
+::::::
+UserName: Guitar_Tank89
+Rating: 1
+Date: Feb 19, 2008 3:30 am PT
+Review:  In Condition Zero you get to play as either a terrorist or a counter terrorist and you can use 
+ weapons such as grenades, pistols, machine guns, rifles or sniper rifles, but thats it.
+  
+  On the non-online version you can do missions where you have to kill a certain amount of people 
+ and with certain different weapons - Not at all challenging really.
+  
+  There is a limited amount of maps and all are pretty lame with too many camping spots or not enough, 
+ On online play it can be very repditive as players often tend to choose the same easy maps over 
+ and over again.
+  
+  The game also loses alot of enjoyment on online play as you pretty much start the game and get 
+ awped straight away and there is also the problem of hackers.
+  
+  The game is only fun when you start to play it and then when you have played it for about a month 
+ (not even) it just loses its "zang" and becomes very boring and repeditive.
+  
+  I advise only play this game if you feel really bored or are into these sort of games.
+  
+  -GT89 
+ 
+::::::
+
+::::::
+UserName: christheman1
+Rating: 8.5
+Date: Jan 17, 2008 9:59 am PT
+Review:  Probably one of the best first person shooter games I have ever played. It looks like Counter Strike 
+ Source is much better in terms of graphics and game play though. The bots many times are ineffective 
+ against other bots but, oddly enough, lethal to players. Multi-player was awesome and the weapon 
+ selection is great. The three levels of missions are difficult because of the requirement to kill 
+ with the worst of the arsenal. I was expecting grenades or some other kind of explosive. Instead 
+ I got frag, smoke and flash bombs. I would also prefer an easier way to communicate. The worst 
+ part of the game is running out of a clip when engaging an enemy. I try to switch over to my secondary 
+ weapon but it takes too long and I die. If you set your single player game on random map you will 
+ always play on one of the three most popular maps which gets annoying after a while. 
+::::::
+
+::::::
+UserName: ddos-attacker
+Rating: 10
+Date: Jan 11, 2008 12:44 pm PT
+Review:  counterstrike condition zero is a great game. i just play iut when i have extra time, and believe 
+ me....... i have alot of time so i play it alot cuz its really fun. i would highly reccomend this 
+ game to a freind if he likes or plays counterstrike. Well this game is almost the same as counterstrike 
+ 1.6 but has better graphics. like the ak-47 has scratches all over it. makes it have a little taste. 
+ the gameplay is good but graphics are far. maybe......... because sometimes when you die in front 
+ of any object or wall you'll just fall right through it. but still a real good game. all it is, 
+ is just better graphics, but worth playing. seriously a GOOD game. if you havent tried it yet then 
+ i think you should.  OR  
+ ever you choose =D 
+::::::
+
+::::::
+UserName: Iceman2005
+Rating: 7.5
+Date: Jan 8, 2008 4:29 pm PT
+Review:  I'm not a big fan of online games, but this is a great game to play with your buddies. I haven't 
+ played Counter-Strike for such a long time now, it's been ages since I played and I just got back 
+ into it. I don't play with other people over the internet, I just play Counter-Strike: CZ offline 
+ with bots and close friends of mine which we all have a blast.
+  
+  Counter-Strike is still the #1 online action game in the world and I would recommend this to anyone 
+ interested in FPS type games. You can get this really cheap on steam or at a local store (under 
+ 10 bucks here in Canada, I got mine for free from a friend :P ) . The game is even more fun if you 
+ have a microphone and headphones (so you know where the footsteps and gunfire is coming from) and 
+ so you can talk quickly to your team mates.
+  
+  All and all I give this a 7.5 just because I'm not active in the game anymore but if I played this 
+ non stop like before, I would give it something like an 8.5 or higher. 
+::::::
+
+::::::
+UserName: ArturiusMaxwell
+Rating: 9.5
+Date: Dec 11, 2007 3:44 am PT
+Review:  This was a new spin on pointless FPS online games. Add a loose plot and some challenging obstacles 
+ and presto this became the game to own. Not to mention the fact it was easier to mod than BF2 and 
+ more fun to play on the hundreds of custom levels and using the thousands of custom weapons. The 
+ one failing point in the whole thing. In one of the levels you are made to use a rocket launcher, 
+ now that just wet my lips to the point of tieing a tea towel to my face to stop the drool, but 
+ sadly the weapon is NOT included or even hinted at in later renditions of the game. Aside from 
+ the lacking rocket propelled flashbangs and suchlike I was and still am avidly impressed with this 
+ edition though I don't use it any more it was a mile stone and thank Valve for recognizing its 
+ potential, now all we need is that vmapire mod they have for the old halflife to come out again... 
+ hmmm 
+::::::
+
+::::::
+UserName: asswarrior
+Rating: 10
+Date: Dec 1, 2007 8:37 pm PT
+Review:  Hey guys, here is my review of Counter Strike: Condition Zero
+  
+  First off I just want to say that CS is easily the best first person shooter in the history of 
+ videogames. It is fun and although you might get owned and may never be able to be a real "pro" 
+ you will still have some great fun playing this classic, even if you suck at it (me) . The game 
+ itself is very easy to understand. If you are on the Terrorist side, you need to try to plant a 
+ bomb in the bomb area and win, if you are on Counter-Terrorist, you have to defuse or protect the 
+ bomb area. You can also win by rescuing the hosties. Another way for a team to win is by competely 
+ eliminating the other team. Which means you killed every person on the enemy team... then you win. 
+ Its all pretty basic in my opinion. Its CS's gameplay that set it apart from the rest. Counter 
+ Strike provides the best online First person shooter experiance out there, and it will keep you 
+ hooked for hours, weeks, days, monthes and even years. 
+  
+  Overall, Counter Strike is easily the best FPS ever made, and Condition Zero does a good job building 
+ on this classic game that really set the pavement down for some of the great FPS's that we enjoy 
+ today. 
+::::::
+
+::::::
+UserName: opsAllen
+Rating: 7
+Date: Nov 3, 2007 3:38 pm PT
+Review:  A very fun and addictive game. It keeps the gameplay of the older version, and the weapons of the 
+ Counter Strike: Source. Like the previous versions of the world known Counter Strike series, has 
+ a few bugs. Sometimes, your knee continues to wobble after your death, and some more. It's a great 
+ and very fun to play it on the internet with other players, and the game includes a number of great 
+ maps, like the famous cs_assault or de_dust. Other great maps can be downloaded from the internet. 
+ To conclude, a fairly easy game to play, but need a lot of practice to become a pro. A good pass 
+ time if you're bored. 
+::::::
+
+::::::
+UserName: majesticcryx
+Rating: 7.5
+Date: Aug 28, 2007 5:06 pm PT
+Review:  Americas most actively played multiplayer game can now be enjoyed by those with no desire to be 
+ slaughtered online by teenagers. Condition Zero retains the Counter-Strike model of team-based 
+ matches, but now the rounds are played alongside computer-controlled bots in a structured tier 
+ system.
+  
+  The missions are built around revamped maps from version 1.6 of Counter-Strike, as well as from 
+ newly designed scenarios. You select a team from a roster of bots, allocating points gathered from 
+ victorious rounds to buy more skilled allies. The primary objectives are taken straight from 
+ classic CS multiplay: different levels require you to defuse a planted bomb, rescue several hostages, 
+ escort a VIP to an extraction point, or kill all of the terrorists.
+  
+  Initially, I was skeptical of how the bots would compare to human players; thankfully, they play 
+ very much like actual humans, and each displays a distinct personality.
+  
+  For example, each bot has a unique rating for bravery, skill, and cooperation, so some will rush 
+ happily toward the opposing team while others prefer to stay back and provide security. Whenever 
+ I issued a command via the games hotkey-activated communication system, each bot would reply with 
+ a confirmation or denial of my order. Bots have an enormous database of scripted comments that 
+ are voiced throughout each round: hearing a teammate congratulate a kill by saying Great shot! 
+ or exclaim Yes! at the end of a victorious round gives the solo-but-like-multiplayer experience 
+ much more credibility.
+  
+  As you progress through the tiers and unlock new levels (three levels on each of the six tiers) , 
+ the skills of both the Terrorists and your teammates dramatically increase. Bots cautiously look 
+ around each room, walk to avoid being detected, and listen for footsteps. They even call out the 
+ location of enemies with lingo straight out of the multiplayer community, so youll know what it 
+ means when you hear Ts rushing the middle through double doors.
+  
+  In addition, rounds can be completed only if you meet specific tasks, all meant to improve your 
+ skill and diversify the gameplay. The earlier tiers require you to eliminate enemies using specific 
+ weapons or rescue a set number of hostages, but later challenges call for multiple headshot kills 
+ or killing someone only after blinding them. I liked that these tasks not only helped improve my 
+ skills, but forced me to use some of the less obvious weapons in the game, such as the P228 pistol 
+ or the Scout sniper rifle  challenges I found to be great fun. The tiers can be completed pretty 
+ quickly  familiar maps took around five minutes each to beat, while new maps took at most 10 minutes 
+  but the game also includes another single-player campaign from an earlier, abandoned version 
+ of Condition Zero, aptly labeled Deleted Scenes. These are completely linear missions where teamwork 
+ is scarce, the enemies just stand around, and the objectives are drab. These scenarios would be 
+ unacceptable if they made up the full game, but its interesting to see how the game couldve turned 
+ out.
+  
+  Underlying all the advances made in bot technology and the updated maps, Condition Zero is still 
+ fundamentally a five-year-old game. Location-specific damage and round-based teamplay are no longer 
+ innovative features, but this standalone package should satisfy both the Counter-Strikecurious 
+ and the broadband-impaired. 
+::::::
+
+::::::
+UserName: lilhawkkid182
+Rating: 7.9
+Date: Jun 10, 2007 6:50 am PT
+Review:  Counter Strike Condition Zero is the single player game to the multiplayer hit Counter Strike. 
+ Now the actual game Condition Zero itself is only bot matches much like the Xbox version of the 
+ game that was released around the same time as this game was. Then with this game came a game called 
+ Condition Zero Deleted Scenes which featured my favorite level from the Xbox version Miami. Sadly 
+ there are like ten deleted scenes servers so you are stuck playing the single player. The single 
+ player in this game is much better than the one that comes with the regular condition zero. This 
+ game is more like a Rainbow Six game which was all great with me. Only its a lot harder and it 
+ isnt all that you would think that it would be. For example most of the levels require you to be 
+ stealth for half of the time, which if you know the series is not something that you would see 
+ in a Counter Strike single player experience. Sadly Deleted Scenes does not feature any bot match 
+ ability which too me was a big big let down. Graphically this game looks a little bit better than 
+ the first Counter Strike it just really all depends on what you have your system set at. This is 
+ kind of pathetic since the first Counter Strike is years older than this game. It is obivious to 
+ me that they put way more effort into the Xbox version than they did this game. If you own Counter 
+ Strike 1.6 then you are pretty much set and you don't need this game. That is if you are a casual 
+ Counter Strike gamer. I would however suggest this game to people who are really into the Counter 
+ Strike series because it offers just a little bit more and the bot matches allow for lots and lots 
+ of practice for CS 1.6. This game isnt totally pointless but it is nothing compared to the original 
+ Counter Strike. If you are gonna pick up this game then do what I did, buy it over Steam where 
+ it is fifteen dollars cheaper, that or just buy one of the packs on Steam and then you will get 
+ the sequal to the game that started it all Half Life2. So if you are a Counter Strike fan that 
+ is getting a little bit bored of the multiplayer and looking for a new Counter Strike experience 
+ than pick this game up, but I would not spend more than 15 dollars on it. 
+::::::
+
+::::::
+UserName: jmaster299
+Rating: 4.3
+Date: Jun 2, 2007 9:11 pm PT
+Review:  First thing, prepare to get frustrated and angry playing this game. You will never be exposed to 
+ a more hardcore and mean spirited group of people. The entire on-line CS community is an angry 
+ and bitter lot. I have been lucky to find a close group of good friends to play with but with out 
+ them the game is a waste of time. Hackers are bad enough and there is almost nothing you can do 
+ about them, but what is worse is the people that spend their entire day trying to pick fights with 
+ people over the Internet! You can go into a random server or some one can join the one you are 
+ in and they will instantly scream and yell insults at people in the server for NO reason what so 
+ ever. These jerks will actually try to threaten your life, even though you are in no danger unless 
+ you tell them where you are! Don't waste your time or money unless you know some people who already 
+ play the game so they can guide you to good servers and good clans (groups of people that play 
+ together in dedicated servers) . All of this is on top of the frustration of playing against these 
+ jerks beyond their screaming, ranting and insults. The game play can really get to you at times 
+ so you better have a lot of patience! 
+::::::
+
+::::::
+UserName: norton158
+Rating: 9
+Date: Apr 13, 2008 10:20 am PT
+Review:  It's great, sure. The Condition Zero + Deleted Scenes are all good, thanks for the CS "normal" 
+ being a classic. The engine can be old, but this game still rocks, independent of the machine running 
+ it, it just goes smooth. Problems? Don't ask me. If there were any problems, people wouldn't be 
+ playing it, as they do with Quake 1. Now that it's an classic too, and that so many years have 
+ past since it's release, but people still play it, I consider it perfect, by the fact that this 
+ game presents what it's predecessor had (and people loved it) and some improvs.
+  
+  The Deletes Scenes part is also o. k. for me. It could've been better, but they mapped and did single 
+ player missions for a game I love, so this counts aswell. Also, the weapons used are all from Counter-Strike 
+ so even better.
+  
+  The multyplayer and singleplayer in the normal Czero are good. MP goes great, some itens from classic 
+ cs plus that Galil, shield and french rifle. The missions you find in single player can make take 
+ some time, but it depends on skill, so other than that, it can kill some time, but it's definitely 
+ not the best thing to do.
+  
+  Go for it, if you want a good game, cheap. Not the very best, but it will serve you well enough. 
+ 
+::::::
+
+::::::
+UserName: worting
+Rating: 7.8
+Date: Apr 28, 2007 3:41 pm PT
+Review:  An improvement from 1.6, but not a huge leap from it. All it is is enhanced textures and stuff. 
+ This engine is now how many years old? I can't remember. I think it's 8. That's old. this game 
+ has to be my favorite computer game of all time. it is so much fun. i stopped playing it a while 
+ ago but when i did play it i would pwn some serious ownage. now i went on like a couple of weeks 
+ ago and got the **** kicked out of me. serious ownage. but this game is awsome and would love playin 
+ deaglez and m4's. i used to pwn. the graphics werent the best but that is where CS: Source comes. 
+ sound was good and the singleplayer was a failed attemp at a campaign. either though it wasnt bad, 
+ it wasnt great. so i would just open up a easy multiplayer game with a bunch of easy bots and try 
+ to get 100 kills without dying. and how easy that sounds, your mind wonders and you start to lose 
+ focus and eventually get raped by one of the bots because you''ve been sittin somewhere to long. 
+ anyway i hope htis reveiw helped and i hope that you make the right decision. COW out!!! 
+::::::
+
+::::::
+UserName: davorg22
+Rating: 8.7
+Date: Apr 12, 2007 10:41 am PT
+Review:  It is very similar to Counter-Strike 1.6, featuring nearly identical gameplay, weapons, equipment, 
+ and maps popular in the multiplayer version. The textures are all different, as are the guns and 
+ maps. The graphics and animation are sweet. The environment is very realistic. The terrain, buildings, 
+ etc, all look very real. Offices, military bases, subways, everything has a nice touch, even close 
+ up. Special effects ranging from bullet holes to bomb explosions are nicely done. Is there a window 
+ in the way? Just blast it out with whatever weapon you have and view the shattered glass hit the 
+ ground. Want to watch TV with a gunshot hole in it? Go right ahead and pull the trigger. Whenever 
+ you shoot a wall with your weapon, the bullet holes will stay. Mostly everything will give off 
+ a graphical effect when you blast it. The blood will splatter on an object or wall next to the 
+ character if he/she is close enough. Smoke along with explosions is nice and realistic. When you 
+ run through it, it will disrupt your vision a bit. When the big bombs go off, it shows a huge explosion, 
+ almost like a mushroom. The characters themselves are a little blocky for my taste, but good enough 
+ to be happy with. Running is nice and smooth, no video jitters . The weaponry is nice and detailed 
+ as you hold it in front of you. There is snowfall which is done very nicely, but sometimes there 
+ is rain which is a little stringy. The rain drops are too long, kind of looks like straws falling 
+ from the sky. However, when the rain hits the ground, it makes a nice splash graphic. Also, a lot 
+ of shadowed areas are done really well so you can hide from your opponents and give them a nice 
+ head shot to eliminate them. All in all, the graphics are pretty hip. Not much music is in this 
+ game. Title and menu screen has music. When you complete a music, there's a little jingle at the 
+ end or between maps. Sometimes in certain maps, you will hear a little music, but only in small 
+ areas. Like, if you are playing in one of the Italy maps, you'll hear someone singing, what appears 
+ to be, opera. Even though there is not much music, the music is decent and fits the game well. 
+ The sound is excellent. Stereo or surround sound, you'll hear gunfire, explosions, even footsteps 
+ just around the corner. It had me looking around my room for terrorists at one point. The footsteps, 
+ however, mess me up a little bit. What I mean is, my footsteps sound like I have five feet. I can 
+ hear my footsteps, but sometimes I would think my team is near me, when they are not even close 
+ to me on radar. I would even check around the area to see if any baddies are near me because you 
+ can hear their footsteps as well, but nobody was around. Another thing about footsteps, when you 
+ walk in shallow water, it sounds like someone hitting a trash can with a wet towel. 
+::::::
+
+::::::
+UserName: Krakam
+Rating: 6.6
+Date: Mar 12, 2007 11:41 am PT
+Review:  Review for Counter-Strike Condition Zero by Krakam
+  -------------
+  INTRO
+  To begin with, CS: Condition Zero is a mediocre game, because it has the potential, but not any 
+ work at all was done on it. Surprisingly, however, many people seem to really like this game.
+ 
+  
+  GRAPHICS -Really Disappointing
+  The moves really look fake , definitely not real. The graphics are too plain even on the highest 
+ resolution, and only the weapons are just a bit nicely drawn. The hostages... well they are a complete 
+ failure. SOUND-WTF? There are many stupid sounds in the game, but one of the worst is the grenade 
+ explosion sound, which sounds like it was recorded by an old cell-phone and then sent to the PC 
+ via Bluetooth. Really awful. The player's recorded voice sounds weird, and it's in weird tones 
+ . MULTIPLAYER -Nice.
+  The game gives you the co-op ability, something that gives it just a bit interest. Nothing more. 
+ It's generally nice to play with other players. However that's what you also do in Call of Duty 
+ 2 Multiplayer mode but there, the graphics rock. But let's not change the subject.
+  
+  Buy / Rent?
+  BUY. Of course I would say rent, but there's no such option as this game is mostly 
+ played for its multiplayer.
+  
+  Overall:6.6 (fair) 
+::::::
+
+::::::
+UserName: Alkpaz
+Rating: 7.5
+Date: Feb 12, 2007 1:47 pm PT
+Review:  I have to say the game is quite challenging and will get any newbie ready for the challenges to 
+ be found on CS 1.6 servers. The challenges like kill 3 people using a pistol or 3 with a sniper 
+ rifle give the player opportunity to test the available weapons. True CS CZ was too much too late, 
+ but for someone who wants to get into CS and just hasn't given CS a good fair chance it is an excellent 
+ opportunity. The Deleted Scenes campaign lacks in joy . I found HL1 expansions a ton more fun than 
+ the Deleted Scenes. Maybe it's just me, but I guess a tossed in story is just that.. For a game 
+ that has dated graphics by today's standards the storyline must take the front seat. I enjoyed 
+ the old maps given in CZ.. but the campaign lowered the score of the package. I must give my tilt 
+ a 7.0 for good just not great .. I also based my score on the time it was released as well as for 
+ the claims of the game when released. 6.8 by GS was a bit too harsh.. since it does give the opportunity 
+ to those who never really got into CS.. a chance to give it a good go . 
+::::::
+
+::::::
+UserName: patno77
+Rating: 4.5
+Date: Jan 29, 2007 4:39 am PT
+Review:  WTF. Condition Zero is **** gay ass **** All it is is **** 1.6 (1.6 is awesome!) with single player 
+ and retarded bots. The only thing new about it is slightly better looking weapons, and an extremely 
+ gay single player campaign. The single player is so gay because all you do is play against retarded 
+ bots who are so dumb that if they shot the floor they would miss, and you have to pay to get guys 
+ on your team?!? wtf! Multiplayer is fine though, it is pretty much the same as 1.6, and 1.6 is 
+ awesome, but Condition Zero has like 32842095091 less players as 1.6 because its so gaii. 
+::::::
+
+::::::
+UserName: playwrite
+Rating: 8.3
+Date: Feb 4, 2007 6:15 am PT
+Review:  Now all most 10 years old, Half-life is one of the most popular and revered first person shooters 
+ of all time. Aside from the innovation and high level of immersion throughout the game itself, 
+ This comes down largely to the engine (a HEAVELY altered version of the Quake engine) and the many 
+ mods thereof. By far the most successful mod was counter-strike, a multi-player only tactical shooter 
+ which depended on terrorists and counter-terrorists fighting in short rounds. This mod was so popular 
+ that Valve bought it and released their own version of the game (CS 1.6) . They then started work 
+ on a single-player version of the game called Condition Zero.
+  
+  There are actually 2 totally different Condition Zeros. There is the newer game that was released 
+ by Turtle Rock studios and then there are the deleted scenes. While the new game (the one officially 
+ released by Valve) is just a set of goals within most of the maps made for the game (playing with 
+ and against the new bots) , the deleted scenes is more like a standard first-person shooter, with 
+ a series of unconnected missions, but with full VO and scripted events. This version was the one 
+ originally made by Ritual before the game was taken away from them. These offer a good diversion, 
+ but dont really differentiate themselves from a normal FPS. Also, the game is far less realistic. 
+ You normally play as a one man army against huge numbers of enemies, and you eventually have to 
+ defeat a helicopter with a sniper rifle on an open rooftop. Its easy to see why Valve was unhappy 
+ enough with this work to take the project away.
+  
+  Counter-strike is fairly simple, at least in concept. Terrorists and counter-terrorists (hereby 
+ known as Ts and CTs) fight each other in 5 minute rounds (which can be altered depending on the 
+ map and personal preference) . Either the Ts are trying to set a bomb in a target zone which the 
+ CTs have to defuse or prevent from being laid all together, or the Ts have hostages which need 
+ to be rescued by CTs. Players have to buy weapons when they die, using money earned by killing, 
+ planting bombs, defusing bombs, rescuing hostages or winning a round. While easy to grasp, this 
+ is easier said than done. In single player on easy mode the enemies are so dumb my brother could 
+ play (though of course, your team mates are as well) , while normal mode should offer only moderate 
+ challenge. Things change in hard and very hard mode. Of course, any online game is going to be 
+ harder, since a lot of people play this game every day. This makes CZ a better introduction than 
+ the original game, since it does include the one player mode, allowing you to train a bit before 
+ going into the big wide world. This wont train you for the huge amount of slang that the players 
+ have come up with. If you want to play, youll need to familiarise yourself with terms such as 
+ deagle, hostie noob, nub, noobie, noob cannonthe list goes on. This isnt that different from 
+ any other online game, but this game is especially popular which means that people have spent more 
+ time creating terminologies and overall culture.
+  
+  CZ is an interesting midpoint between the original and Source. It is better than CS1.6 in every 
+ way. The graphics are much better, It includes BOT AI, the maps have been tweaked slightly, as 
+ have the weapons (for the better) . It also has some advantages over source. For one, any computer 
+ should run CZ, while Source still requires a newer PC (and dont bother playing on anything that 
+ doesnt run perfectly. You want every frame you can get, and slowdown coupled with lag would be 
+ unplayable) . It is also more challenging for a few reasons that I wont go into here, which ultimately 
+ makes the game more worthwhile. In fact, unless you really want dynamic weapon buying, or a few 
+ radar tricks, there is little reason to play Source over CZ. Most features that were added to Source 
+ from 1.6. Were first tested and released in CZ, including BOTs and new map configurations, as well 
+ as a huge number of different settings.
+  
+  The online experience in CZ is probably the best of the three. This is largely because only the 
+ really dedicated ever bought it. Most of the people who would come in and start being unpleasant 
+ are either still playing 1.6 or upgraded their machines and started playing Source. Thats not 
+ to say that the game is perfect. People still swear a lot and there will usually be some guy who 
+ has to be kicked because he doesnt follow server rules. Also, unless you really like a few maps 
+ it can be hard to find players. There are a few really popular maps, and some user-created maps 
+ that exist for kicks (such as Wal-Mart or Super Mario 64) but after that its just a matter of luck 
+ whether or not there will be someone to play with on the map you want. And dont think that youll 
+ be going back to the single player, because the on-line experience is far more rewarding, especially 
+ if you have a microphone.
+  
+  Overall, counter-strike is insanely addictive and if your going to buy a copy of the game (which 
+ all gamers should at some point) , this is the one that will benefit most people. It is good to 
+ introduce yourself to the game through single-player, It has the same basic features as Source 
+ without the high system requirements, and the players are on the whole more dedicated to the game. 
+ Of course, this version has the least players of the 3 (though not a small number by any means) 
+ and odds are your friends wont have this version. Ultimately, youll have to decide for yourself 
+ what game meets your needs. 
+::::::
+
+::::::
+UserName: astroboysurya
+Rating: 9.1
+Date: Jan 23, 2007 4:56 am PT
+Review:  hay this game is really cool just like a real, we wont stay if we got a few hits, even if the world 
+ is same in all the levels, highly skilled enemies and difficult missions will make us more addictive. 
+ if we know to use the weapons we can rule the game. my favorate bullpup, powerful shot on each 
+ bullet. three ways to take out an enemy. cover, make ur shot accurate, and shoot at head. and thats 
+ it that is all we have to do to win the game, iam now in 5th tour of hard level. its a pretty tough 
+ to complete the game.
+  take a try perfect 
+::::::
+
+::::::
+UserName: brhisawsome
+Rating: 9.4
+Date: Jan 2, 2007 7:38 am PT
+Review:  
+  um... there is none... go around shoot bad guys.....
+  
+  
+ 
+  counter strike hase a very unique gameplay mechanic in that it is set up kinda like a sports game 
+ in that it gives you points and all. the object of each map is to kill all the terrorists (counter 
+ terrorists) and protect/defuse a bomb or protect/rescue hostages. this adds for some fun gameplay 
+ and equally fun maps and online
+  
+  
+  yea they suck but in its day and age im sure they were awsome
+  
+  
+ 
+  awsome sound effects and some pretty cool backround music
+  
+  in the end condition zero is a solid expansion pack to an awsome game 
+::::::
+
+::::::
+UserName: ExtremeGamespot
+Rating: 8
+Date: Dec 7, 2006 2:59 am PT
+Review:  Well counter-strike is one of those games that is played still today by many and many players all 
+ over the world. In my opinion it's new version doesen't fails to be good, just need some improvement.
+ 
+  
+  Gameplay:
+  
+  Well, it's the old same gameplay, good one by the way... if you're cops you can save hostages or defuse 
+ the bomb, if you're terrorists you can plant the bomb and kill the cops. AI is not all that great 
+ thought but for me it's enough, I think they're pretty good and only real elite players won't be 
+ satisfied with it.
+  
+  Graphics:
+  
+  Graphics are much better than the other versions, much better than even counter-strike 1.6, they've 
+ worked much more on it.
+  There's some shadow, lights and everything a default FPS game would have, but the guns are now much 
+ more realistic and have the Half-Life 2 engine thought.
+  
+  Sounds:
+  
+  Amazing sounds, everything's just too much real to describe. You can hear the sub-machineguns shooting, the 
+ computer players talk louder like as if you would with a microphone and even the hostages call 
+ for you.
+  
+  Value:
+  
+  Good value, not great but good... you won't have to pay much for it and it's worth to buy. If you 
+ have the original game you'll have much fun playing it on multiplayer.
+  
+  Concluding:
+  
+  Great game compared to it's antecessors, you won't be disappointed and will have much fun playing 
+ it on multiplayer because it's good for FPS players due to it's realistic stuff. 
+::::::
+
+::::::
+UserName: ilikemuffins000
+Rating: 7
+Date: Nov 13, 2006 3:37 pm PT
+Review:  Counter-Strike: Condition Zero is the follow-up in the Counter-Strike series to, of course, Counter 
+ Strike. CZ is basically no different than the original CS. It has some minor graphics changes, 
+ they advanced on the weapons making a little bit, but yet again, the physics suck. I don't think 
+ anytime in your life you can jump you're own height. The graphics are OK. There are some minor 
+ glitches portraying rushing of the makers. Sometimes the game lags horribly, even though you're 
+ offline. And sometimes it just shuts down unexpectedly. But, through all that, it's still really 
+ fun.
+  The gameplay, as it may seem, is the exact same thing as the original CS. The weapon mechanics, 
+ as I mentioned before, haven't really improved drastically.
+  The sound is also OK. Sometimes it lags, in correspondence with the graphics.
+  The value is excellent. 
+ Right now, you can get Counter-Strike and CZ and the CZ: Deleted Scenes (all put into a nice little 
+ package called the Counter-Strike 1: Anthology) for about $20. Rent or Buy
+  You can't really rent PC games so if you can spend $20 on a good FPS go out and buy this game. 
+ 
+::::::
+
+::::::
+UserName: BarbedBuffalo
+Rating: 9.4
+Date: Nov 6, 2006 11:35 am PT
+Review:  i didnt read the gamespot review but i saw something about this being a 6 year old game??? are 
+ you serious? can a person be that empty headed???? notice the big M for mature on the cover. ( 
+ i downloaded off steam though :D )
+  
+  it has lots of blood sperts if you shoot people in the right place. yes its like every other counter 
+ strike for the most part but i like this one the best because the graphics aren't insanely good, 
+ but they aren't terrible either.
+  you see, the original counter strike graphics are insanely pixilized and makes me dizzy just to 
+ play :S
+  and counter strike source doesn't have alot of MODS, i only play zombie mods on source and the 
+ occasional regular match.
+  but condition zero is kind of in the middle, the graphics are really good for its time. and i can 
+ at least play it without hitting giant lag spikes.
+  
+  i go on some INSANE servers... people change player models, create entire maps, weapon skins. everything 
+ seems almost completely new!
+  
+  i'ves seen players taking big craps on people! i've seen people pissing all over a dead players 
+ corpse. i've seen knifes replaced with **** still sound like a 6 year old game? infact i'm in the 
+ middle of putting together a video with a bunch of chaos in a counter strike wedding :)
+  
+  and eventually getting around to finishing the actually wedding. (btw they were really getting 
+ married)
+  
+  i'll upload them up here when i reach lvl 10 and even sooner i'll upload them on youtube. anyway 
+ its a great game. it never gets old, when theres always something new going on! :)
+  
+  how much does it cost now anyway? $10-$20? great deal! try do get a copy or download as soon as 
+ you can. 
+::::::
+
+::::::
+UserName: Dennis2845
+Rating: 10
+Date: Nov 23, 2006 11:45 pm PT
+Review:  An amazing shooter counterstrike really is. Ive spent 3 years playing this and its not old yet. 
+ The condition Zero content sux. Its poorly done, glitchy, Just Not fun to play. But CS 1.6 or Original 
+ Counterstrike is awesome. Theres endless action when you play Online. Its extremely addictive. 
+ The depth is amazing and thats why the game Is so good. Its better than any online shooter. Counterstrike 
+ is IT. Awesome guns, I mean the guns for me look like the same old eggs and bakkie after 3 years, 
+ but they still Own... if you can own. The graphics are good. You dont really notice graphics you 
+ just play. The sound is good. This game is overall SO MUCH fun to play. (\_/) [] [] W WARNING ! 
+ IF YOU BUY CONDITION ZERO WITH COUNTERSTRIKE OR COUNTERSTRIKE ANTHOLOGY YOU WILL HAVE THE CONDITION 
+ ZERO SKINS OR PLAYERS IN CS:1.6 AND TRUST ME THEY ARE UGLY. iTS BETTER TO BUY A STAND-ALONE VERSION 
+ OF THE GAME FROM STEAM, OR JUST PLAIN BUY THE HALF: LIFE PACK 4 PC WITH ALL OF THE KEWL MODS. 
+::::::
+
+::::::
+UserName: Bgrotha
+Rating: 7.3
+Date: Oct 30, 2006 6:44 pm PT
+Review:  Condition Zero, is basically the original Counter-strike with a smaller hitbox, improved graphics, 
+ and a lot of detail added to most maps. Especially the map CS_office, which originally looked like 
+ a little kids playground with some desks, computers, and a tank outside. Now it truly is an office. 
+ The level of detail added to the guns is truly marvelous. Character models haven't changed much. 
+ The sounds are all still the same. The main thing Condition Zero is for, is for challenging experienced 
+ Counter-strike players. It makes the game 10 times harder, by purposely lowing the shot registration, 
+ and shrinking the hit box. You'll have to find cover and take time to take out your opponents. 
+ Most people still dislike condition zero because it tends to irritate those who play it if they 
+ play it before the original CS which was a lot easier. The added single player campaign is mainly 
+ for practicing, and the Deleted Scenes campaign tries to bring a story to the player, but isn't 
+ very appealing, and includes several corny moments. Overall Condition Zero doesn't add much, but 
+ still is good for the experienced, and provides a decent challenge. 
+::::::
+
+::::::
+UserName: Saw100
+Rating: 5.8
+Date: Oct 18, 2006 1:31 am PT
+Review:  I played this game with one of my friends, and first it felt like a very good game. But when you 
+ get to know the game better you will notice that this game sucks. Graphics are shockingly bad, 
+ they really aren't as good as they seem at first sight. Blood looks like mashed tomatoes. Sound 
+ effects are even more terrible, all submachine guns sound like dying rat. You can play this game 
+ suprisingly long, even the whole day without getting bored of it. But in the second day, you will 
+ notice that this game is very bad. I don't like the buying-weapons-and-armour system. Allies and 
+ enemies work suprisingly wisely, but bad thing is that they don't do anything if you shoot 'em. 
+ They'll just say: Hey .
+  
+  Really a bad game. Not as god as it looks for the first sight. It's just fun for one or two nights, 
+ and after that it strts to seem pretty bad game. 
+::::::
+
+::::::
+UserName: praharsh22
+Rating: 9.3
+Date: Sep 4, 2006 1:36 pm PT
+Review:  It is a good game...... though it cannot compete with the other greats in it's own genre.
+  The graphics are not very good thiough I found the sound okay. It's great fun to play with the 
+ bots. They are quite intelligent and I sometimes feel that they can see through the walls because 
+ of the way they attack.
+  To play with friends on LAN is an absolutely great experience. One never gets bored playing the 
+ same map again and again.
+  The deleted scenes (not multiplayer) of the game are okay to  they 
+ are not very good....
+  overall the game is a great fun to play and is a must have for everyone. 
+::::::
+
+::::::
+UserName: carnsucks
+Rating: 8.5
+Date: Aug 30, 2006 11:39 pm PT
+Review:  A great shooting game, has all the makings of a generic shooting game, plus several challenges 
+ you have to complete. It's not just kill with your favorite weapon throughout. You have to rescue 
+ hostages or use special weapons. The graphics are good, though not as good as the newer shooting 
+ games, like Call of Duty 2 or Battlefield. Bots are intelligent and challenging. Bomb defusal gets 
+ repetive and boring though. Weapons are amazing realistic and recoil is accurate and what you except 
+ on a real gun. Map hard to follow though. Controls are easy to learn. Sound is great and the opening 
+ music is ominous. A challenging game overall especially on hard. Playing over LAN is fun, and competiting 
+ against friends is cool. Can't wait for the new version. 
+::::::
+
+::::::
+UserName: commandercow011
+Rating: 7
+Date: Aug 22, 2006 4:32 pm PT
+Review:  this game has to be my favorite computer game of all time. it is so much fun. i stopped playing 
+ it a while ago but when i did play it i would pwn some serious ownage. now i went on like a couple 
+ of weeks ago and got the **** kicked out of me. serious ownage. but this game is awsome and would 
+ love playin deaglez and m4's. i used to pwn. the graphics werent the best but that is where CS: 
+ Source comes. sound was good and the singleplayer was a failed attemp at a campaign. either though 
+ it wasnt bad, it wasnt great. so i would just open up a easy multiplayer game with a bunch of easy 
+ bots and try to get 100 kills without dying. and how easy that sounds, your mind wonders and you 
+ start to lose focus and eventually get raped by one of the bots because you''ve been sittin somewhere 
+ to long. anyway i hope htis reveiw helped and i hope that you make the right decision. COW out!!! 
+ 
+::::::
+
+::::::
+UserName: shuttle1
+Rating: 9.6
+Date: Aug 13, 2006 1:24 pm PT
+Review:  I HAVE HAD THIS GAME FOR AGES AND AM STILL HOKED ON IT THE AMOUNT OF MAPS IS A GOOD AND THE AMOUNT 
+ OF GUNS AND CLANS IS GOOD IF URE GOOD ENOUGH TO GET IN THEM LOL IT IS AHRD AT FIRST BUT ONCE U 
+ GET USED TO IT ITS THE ONLY GAME U WOULD NEED FOR A LONG TIME. PEOPLE ARE VERY FRIENDLY ON THE 
+ SERVERS AND THE OPTION TO PLUG A MIC IN ADDS DEPTH TO THE GAMEPLAY AS U CAN DISCUSE TACTICS WITH 
+ PEOPLE. GAMEPLAY IS GOOD AND BASIC ONCE U GET TEH HAND OF IT YOULL BE WANTING TO PLAY FOR AGES 
+ . THE GRAPHICS ARE GOOD SEEING AS THE REQUIREMENTS OF THE AGEM ARE VERY LOW 
+  A TOP CLASS GAME THAT WILL KEEP U GOIN FOR AGES A MUSTBUY FOR FPS FANS
+  
+  
+::::::
+
+::::::
+UserName: _Mr_Derp_
+Rating: 7.5
+Date: Aug 11, 2006 6:41 pm PT
+Review:  This is a hard to describe game, with it's somewhat recent release date you would think that Valve 
+ and Turtle Rock would have been able to put more content on the game than just a (somewhat) fresh 
+ coat of paint. It's still the same old counter strike, same weapons, two new classes (about the 
+ only thing that is new, except for the lackluster excuse for single player) basically same maps, 
+ with a few more props. All in all it's just a somewhat updated version of the classic counter strike.
+ 
+  
+  It comes free with the Counter Strike one anthology, so you might as well play in instead of 1.6, 
+ unless you have a preference. However as a game in itself it can't hold up to recent tiltes. 
+::::::
+
+::::::
+UserName: pwnr
+Rating: 4.2
+Date: Jul 22, 2006 3:28 pm PT
+Review:  This is the same thing as Counter-Strike 1.6, except with enhanced textures, bots and a broken 
+ singleplayer mode. 
+  
+  Gameplay:
+  The gameplay is pretty good, consistent with all the CS games. The only problem is that the AI 
+ and bots... SUCK. In singleplayer, the AI is just SO bad. Really. 
+  
+  Graphics:
+  An improvement from 1.6, but not a huge leap from it. All it is is enhanced textures and stuff. 
+ This engine is now how many years old? I can't remember. I think it's 8. That's old. 
+  
+  Sound:
+  The sound is the same exact thing as 1.6. Nuff said. 
+  
+  Value:
+  Do not play this. 
+ It's a waste of time. You could be playing CS 1.6 or Source and have a much better time than this 
+ piece of crap. 
+  
+::::::
+
+::::::
+UserName: acmilanrocks
+Rating: 8.7
+Date: Jul 21, 2006 8:34 pm PT
+Review:  I am a fan of Counter-Strike. I own them all, and have played them all. Perhaps the least talked 
+ about is quite probably the best of them. The best you might say? Let me explain.
+  
+  I have spent a lot of time listening to what CS fans like and dislike about the various titles 
+ in the series. Generally, 1.6 (the original) is the most played of them all, with well over 100,000 
+ gamers at all times of the day playing it. The problem with 1.6 they say, are the hugely outdated 
+ graphics (they are around 7 years old) . The gameplay however, is still first classm hence it's 
+ popularity.
+  
+  Next we arrive at the new Source port of 1.6 - Counter-Strike: Source. The amount of players at 
+ any one time varies. It's usually between 15,000 - 25,000. What CSS boasts are beautiful visuals, 
+ and a revamped physics engine. But it is disliked by many. The most common complaints are dodgy 
+ hitboxes, you need a hell of a machine to even think about playing it, it's riddled with bugs, 
+ are more "n00b" community - therefore requires less skill, it isn't as fun to play, and so on and 
+ so forth...
+  
+  Now we come to Condition Zero. Released shortly before CSS, according to the complaints above, 
+ it should be the ideal CS game. It has the same wicked gameplay as 1.6, and yet it has much improved 
+ visuals. It doesn't require a hell of a machine to run, it has the CS Bot which only CSS also has, 
+ it has several single player modes which exclusive only to it, and it has a very mature online 
+ community. And, unlike CSS, it has literally - no bugs. At all - 1.6 perfected this, and CZ continued 
+ it (they both use the HL1 engine, which has been developed over a period of 6 years) .
+  
+  Yet, it only has around 12,000-20,000 players playing it at any one time. The intial excuse by 
+ 1.6 users was the $40 price tag, however CZ can now be purchased for as little as $9 direct from 
+ Steam, or even less from a cheap retail store. For 1.6 users there should be no excuse. The game 
+ looks 300 times as good, way more features, and it's as cheap as. It's bug free, and for when your 
+ ISP is experiencing difficulties, there is always the single player modes to keep you busy, which 
+ they will for many days.
+  
+  It's terribly underrated, and, according to feedback by the many CS gamers, CZ should be the perfect 
+ Counter-Strike experience. Why 1.6 still continues to thrive is a question for some higher life 
+ form - it is far to puzzling to be answered by the mere human.
+  
+  What's good
+  --------------------------------------------------------
+  +Upgraded maps & models
+  +New sounds
+ 
+  +The Official Counter-Strike Bot (they chat and use the radio to!)
+  +Tour of Duty
+  +Deleted Scenes (18 missions)
+  +Upgraded weathering
+  +100% bug free basically
+  +NAV Bot system 
+ far easier to pick up than the old waypoint system
+  +Constant 14,000+ players playing - big online community
+  +It upgrades your 1.6 models if your 
+ silly enough to revert back
+  +New Hostage AI (wow, smart hostages - finally)
+  +Mature community
+  
+  What's bad
+  --------------------------------------------------------
+ 
+  +No longer receiving additonal content from Valve (stupid CSS)
+  +Need Steam to receive updated models and new Hostage AI (stupid Valve)
+  +Deleted Scenes is 1.2GB, 
+ way to much to justify download IMO 
+::::::
+
+::::::
+UserName: lilazn_boi
+Rating: 5.3
+Date: Jul 21, 2006 2:05 pm PT
+Review:  This game is the first to introduce a single player mode. Which is very uninspired.
+  Gameplay 1/10
+  The single player is very awfull. There is no story line and the expert is just 
+ too easy. Just awefull'
+  graphics 9/10
+  The graphics are pretty awesome if you turn on texture enhancement but its just like more dots 
+ on the ground which kinda suks.
+  sound 8/10
+  The bots sometimes say funny things but other times they do the same thing. But some of there chatters 
+ tell where the enemy is.
+  Value 3/10
+  This game is pretty crappy and has alot of replay value but not on the single player mode.
+  Reviewer's 
+ Tilt 8/10
+  This game is just broken and doesnt introduce much new. 
+::::::
+
+::::::
+UserName: dum_dum_626364
+Rating: 7.3
+Date: Jun 10, 2006 5:36 pm PT
+Review:  Counter-Strike: Condition Zero is essentially the same game as the original CS but with updated 
+ graphics and a single player mode that seems like it was put there just to expand the CS franchise. 
+ I'm not going to go too deep into the gameplay as I already did in my recent review of the retail 
+ version of the original Counter-Strike, but here are the things new to CS fans found in CS: CZ:
+ 
+  
+  The single player campaign of Condition Zero is pretty much just a whole bunch of matches of the 
+ original CS against bots. Each match is unique in its own way. Some for example, will pit you and 
+ a couple of team-mates against a few terrorists which you have to kill within a certain amount 
+ of time, or with a certain gun. After each match, you are rewarded with credits based upon your 
+ performance in each set of rounds which you use to buy better bots to use on your team. This portion 
+ of CS: CZ is moderately entertaining, but seeing as if you are used to playing online against real 
+ people even the hardest difficulty setting should be a breeze.
+  
+  After you are finished with the main portion of Condition Zero (or before) you can play the Condition 
+ Zero Deleted Scenes game. You take part in a number of missions (not interconnected in any way) 
+ across the world that have a distinct Rainbow 6 feel to them. These Deleted Scenes are what Ritual 
+ was working on before the game went into the hands of the Valve developers. And strangely enough, 
+ the Deleted Scenes is what kept me playing Condition Zero for a few more hours.
+  
+  There are a couple things that Valve manages to change for the better this time through. First 
+ and most importantly is the graphics. Then they also somehow managed to keep almost all hackers 
+ out of most of the CS: CZ servers.
+  
+  Closing Comments:
+  
+  If you didn't like Counter-Strike before, this game definitely isn't going to change your mind 
+ and if you already own the original CS don't bother with this game. On the other hand, if you don't 
+ own Counter-Strike yet, or if you're not very good at it , the Condition Zero single player campaign 
+ is definitely the way to go.
+  
+  Gameplay: 7/10
+  No different from the original CS.
+  
+  Graphics: 9/10
+  A definite improvement over the original.
+  
+  Sound: 10/10
+  Absolutely outstanding 
+ weapon effects and much need background music.
+  
+  Value: 7/10
+  Only $20 now but you can probably find a better game with that money.
+  
+  Lasting Appeal: 8/10
+ 
+  Single player modes won't take you long to complete, but Condition Zero still has the solid multiplayer 
+ component that made the original CS legendary.
+  
+  Overall: 7.3/10 
+::::::
+
+::::::
+UserName: fearlex
+Rating: 10
+Date: Jun 8, 2006 1:42 pm PT
+Review:  Excellent sequel to the best online shooting game of history, it takes you to a realm where the 
+ sound of bullets penetrates every part of your ears and make you feel like like the world depens 
+ on you. If you decide to be a Counter Terrorist, you will feel the need to defuse that beeping 
+ bomb or die in the act. Maybe rescuing hostage could be better for you but Terrorist are more split 
+ in the map, and will have more cover and advantages. If you are covering a VIP, TAKE CARE, they 
+ can be everywhere. If you like Terrorist, feeling the bad guy could give you a new look and power, 
+ you will try to place the bomb, and you don't care to be a Kamikaze or not, the objetive: BOMB, 
+ and BUUUUUM will be. If you take hostages, just wait for the CT, they have to come to you. You 
+ have a variety of weapons, powerful Falcons to AWPs. Sniping is one of the funniest things about 
+ CZ. The Maps are really cool, CZ_DUST, a classic, CZ_DUST_2, updated from cz_dust, another classic, 
+ cz_inferno, cz_militia, cz_aztec, cz_prodigy. Simply awesome, and yes i have been refering to the 
+ online gameplay. It have a Tour of Duty that make you create your team as you complete missions. 
+ And the Deleted Scenes feature, that let you play a whole history trought a world plagued of Terrorist. 
+ Conclusion: The Best Online Game Ever. 
+::::::
+
+::::::
+UserName: TheGrandMiG
+Rating: 9.1
+Date: Jun 5, 2006 3:55 pm PT
+Review:  now i actually never played CS before, and i play some fps games. i got CZ because i heard its 
+ good for new CS players. i must say, it really did help get the basics down. 
+  
+  the single player is more like training for when u go online. u lead ur counter-terrorist group 
+ and defuse bombs and rescue hostages. big deal. throw some high-powered guns in the mix and its 
+ highly addictive. i honestly thought the AI was great, but not excellent
+  
+  i played the game on normal the first time around and i was surprised by the shwerdness of the 
+ bots. utimately, though, the AI will do dumb things, making them easy targets for ur sniper rifle. 
+ in one such instance, a enemy bot was staring at me from a balcony for about
+  
+  5 sec before opening fire. he didnt live shall we say. still, i do like how ur friendly bots give 
+ very useful advice lie where the enemies are, and where the bomb is. very helpful. overall, the 
+ single player is quite enjoyable for those new to the CS thing
+  
+  now the techncial stuff...
+  
+  (Gameplay) gameplay is very enjoyable and highly addictive. it 
+ will make u wonder why u didnt get CS sooner.
+  
+  (Graphics) im not too big on graphics, but i will say the graphics in CZ are good. i have quite 
+ possibly the worst computer to play games on (a dell dimesion 4300) but im able to turn the settings 
+ high 
+  
+  (Sound) LOUD guns and teammates talking to u. it does sound good though
+  
+  (Value) the single player and multiplayer will keeps new CS players busy
+  
+  (Tilt) One word: 
+ fun
+  
+  CONCLUSION: good for noobs, vets stay away
+  
+  (Sorry about all the spaces. it was getting all messed up on me) 
+::::::
+
+::::::
+UserName: meweus
+Rating: 6.8
+Date: Jun 4, 2006 8:30 am PT
+Review:  THIS game is just like cs. 
+  everything about it is just like cs. 
+  except 2 things single player missions and im proved grafics. 
+  Lets start with single player..... bad 
+ all u do is stupid callenges. Like kill all the enemies within 90 sec..... stupid. 
+  cs and css have WAY more people playing online then cz. 
+  The multiplayer it self seems to be 
+ missing something.............. it doesnt feel as fun as cs. 
+  The game looks a little better but still the grafics suck!!!!! but u wont mind too much.
+  
+ 
+  but the bots are smart. REALY NICE AI. 
+  
+  nothing new, nothing great its just a fair game!!!!!!!!!!!! 
+  if u dont got cs get this game. 
+ (better yet get cs) . 
+::::::
+
+::::::
+UserName: neerajkumar_4
+Rating: 9
+Date: Sep 4, 2006 10:35 am PT
+Review:  Counter-Strike: Condition zero:-
+  
+  By, Scorpio_gamer a. k. a Neerajkumar_4
+  
+  Introduction:-
+  The game is very simple! You have 2 teams of 5 members each (CLAN matches) one 
+ is the Terrorist [T] and other is the Counter-Terrorist [CT] . The Terrorist can win rounds by detonating 
+ the bomb on the one of the two bomb sites available (bomb site A and B) or by eliminating the Counter-Terrorists. 
+ The Counter-Terrorist should just do the vice-versa; they should defuse the bomb or should kill 
+ all the Terrorists. You have different maps to be played on. I was explaining you the bomb planting 
+ maps (de_) . There are other maps like hostage rescue (CS_) , Save the VIP, Aim maps (aim_) , custom 
+ maps (fy_) , etc. there are thousands of maps available on the net for free download, there are 
+ many people who create maps.
+  
+  Few of the famous maps are de_dust2, awp_india, de_aztec, de_cbble, de_train, de_assault, de_inferno. 
+ Few maps favor a team; they should use it properly to win rounds. (A map is space where you both 
+ the teams spawn opposite to each other, it has building and other stuff, its just like a part 
+ of any normal game but the surroundings are limited to a certain amount. You cant walk out of 
+ the map)
+  
+  This game is one of the most online played games and it is one of the best FPS games ever. Actually, 
+ it was MOD of the best seller Half-Life which later became a famous online shooter and its one 
+ of the games in all gaming tournaments and the popular WCG (World Cyber Games) . You can play the 
+ game with Bots (computer players) offline and online. It can be played between different numbers 
+ of players but in tournament you play as a team of 5 members. 
+  
+  Game-Play:- 
+  The game should be played with strategy. You have to buy your weapons sensibly; you have to save 
+ your money for remaining rounds by not buying useless stuff. 
+  You have to move quickly to hold position so you must use a knife while running to that you could 
+ reach there first and camping should be minimal. Camping can be done along with moving; I mean 
+ move take a or few enemies down, then camp , the look for another and so on ; but remember to take 
+ cover at all times. Most of them try to get head shots to get one shot kill! 
+  
+  Games are played in short rounds, and when you're killed, you sit out the round as an invisible 
+ observer; there are no death match-style respawns.
+  
+  This game is similar to CS: 1.6 ; its jus with the addition of the a single player mode. There 
+ are two types to single player modes in this game one is the mission based mode and one is a story 
+ mode named deleted scenes. In the mission based mode you earn points and make your own team to 
+ beat the bots.
+  
+  Graphics:-
+  Nice graphics. Better than CS 1.6! the models look great! few environment changes can be noticed 
+ ! the smoke and flash effects are better 
+  
+  Sound:- 
+  The gun sounds are gud enough and the radio commands are decent. The game has a decent sound.
+ 
+  
+  Conclusion:- 
+  This review was review cum guide! :D This game jus rocks! The update of 1.5 is 1.6 is very famous, 
+ its obvious that every one play 1.6 not 1.5 anymore. The CS: CZ is not that popular, its jus a 
+ crap of single player mode, the single player su*ks! But the multi player is good as 1.6, there 
+ is no difference between them. My Favorite guns are M4A1, CV-47, Bull pup, Krieg., Magnum Sniper (AWP) . 
+ The shield feature in this game is not available for the tourneys coz its kinda unfair. 
+  The next version CS: Source is really fun to play. The multiplayer rocks rocks !! :)
+  
+  Graphics 
+ - 8/10
+  
+  Sound- 9/10
+  
+  Gameplay-9/10
+  
+  Replay Value: 10/10
+  
+  Overall- 9/10
+  
+  
+ 
+  Scorpio_gamer:- Remember there is NO such thing as GAME OVER!!
+  So keep GAMING.!!
+  
+::::::
+
+::::::
+UserName: _3D_Unknown
+Rating: 8
+Date: May 19, 2006 2:48 pm PT
+Review:  Since that it left Half-Life that innumerable mods has come to be facts, and each time the community 
+ is bigger that it intends to make contents for this heading. Not even the Valve could imagine the 
+ longitude of its game, that passed six years still vende, and well. Great part of the success of 
+ the game must to mod Counter-Strike, one of most famous, seno more famous than the proper Half-Life. 
+ The Valve caught in this mod and became it in a commercial version, has one years. Without great 
+ advantages in relation to the gratuitous version, the players had felt a little stolen. Exactly 
+ producing Half-Life 2, the Valve wanted to continue to capitalize profits and promised plus a Counter-Strike 
+ commercial version. It is as soon as is born this polmico Condition Zero (CZ) . Polmico because 
+ one does not know that bruxedo was put in projecto, that all the involved producers finished for 
+ leaving. Having been in production during a eternity, CZ already changed of hands some times. 
+ It started for being the Gearbox Software in the production, firms this that had made the expanses 
+ Opposing Force and Blue Shift for Half-Life. For reasons that I do not remember myself, this producer 
+ was moved away from projecto. It was followed Ritual Entertainment, responsible for games as Sin 
+ and Heavy Metal F. A. K. K. 2. The game was not to take the intended route and one more time it was 
+ moved away from projecto. However its contribution meets edited in the set of the game, as bnus 
+ of that I will speak more ahead. Finally, it was the Turtle Rock Studios to finish the game. Funniest 
+ or ridicule, if to want, is that although all the credits to have IDO to stop to this firm in software 
+ in itself, the layer of the game or the stampings had been not even changed. That is, Ritual and 
+ Gearbox for the side say all. For who never it acquired any version of Counter-Strike and it is 
+ to planear to make it, this Condition Zero corresponds to version 1.6 of the Mod. All the involved 
+ work was to add Bots to the existing maps, allowing to play the ground simulating the game in net. 
+ They will still have access to the cut version of the game and that it corresponds to the work 
+ made for the Ritual. In my opinion, this yes was the way that the game must always have followed, 
+ and that it justified this commercial version. Although if it perceives well because it was cancelled. 
+ Very bad One is about some missions of exploration of maps, with objectivos, and that it makes 
+ me to remember much Delta Forces: Black Hawk Dawn. Perhaps the intention until would be to create 
+ a campaign with history and everything, but they had probably arrived at the conclusion that this 
+ would desvirtuaria the concept of Counter-Strike all. In the main way, that one that tries to simulate 
+ all the functionalities of the original game, the player is the leader of one equips antiterrorist. 
+ We have to the all 18 missions, divided in groups of three. It starts for being the first set of 
+ available missions, having that to win them to pass thus to the next one and successively. For 
+ this they will go to count on one equips of Bots that will go to enlist in a similar way UT 2004. 
+ They will have of charisma beginning points of enlisting welded, and to each successfully exceeded 
+ mission they can enlist new elements. Each soldier has its proper attributes, and is separate for 
+ classrooms, that will go to unblock to the measure that the game advances. The soldiers of the 
+ first classroom can be acquired with a point of charisma, of second with two, and for there successively. 
+ To the measure that the missions if become more complicated they will go to have the hypothesis 
+ to choose one equips each better time. He gives to choose the difficulty where they want to play. 
+ An exceeded time all the campaign in one of the difficulties will go to gain a medal, being tried 
+ to make the same feat in a superior level. The game in itself does not have practically new features 
+ for who knows the Mod celebrity. Terrorists and against-terrorists will go to fight in itself executing 
+ the objectivos of the map. The terrorists try in some maps to place bombs, having to another one 
+ equip that to neutralize before expluda. To save prisoners also can be one of the objectivos of 
+ the map. In newness terms and that it serves to pass to the next map, the fulfilment of more complex 
+ objectivos exists. As winning a game in less of one certain time, killing at least one definitive 
+ number of adversaries, to abate an enemy with definitive weapon, and for there ahead. To join to 
+ this, we will have that to always get with an edge of asked for victory. In case that the enemies 
+ obtain to win more games and to guarantee the edge of victories without terms fulfilled the objectivos, 
+ we will have to start everything again. To the measure that we advance, the missions go being more 
+ difficult. As they know, in each abated enemy or victory of the map they gain money, as saving 
+ prisoners. With this they will go to be able to buy weapons and the ammunition for the following 
+ patrol. If they will be constantly to die run the risk not to have the intended armory to be disentangled. 
+ The game also has a system that it allows automatically to buy the weapon most adjustable to the 
+ mission, saving the player to this work. Gnero of radar that allows to see the position of the 
+ friends, useful exists one in many situations. Before leaving for the missions they also have a 
+ course of trainings so that if they can ambientar to the controls and weapons, as well as the o 
+ work in equips. If it has something of that it does not exist doubts, is of the quality of the 
+ artificial intelligence of the Bots. If they want a good challenge in the way the ground, then 
+ I can guarantee that the Turtle Rock made a good work. Also it was not for less. In a fast one 
+ it searches to its official site, I gave account that this firm does not have any games in the 
+ resume, not to be the conversion of CS for the Xbox and the official construction of the Bots of 
+ Counter-Strike. As much the enemies as the allies try to simulate some of the situations of the 
+ game. Since the attack in he equips, or one or another Bot to make of camper and hiding themselves. 
+ They are capable to pass the game to say connosco, give-in the important information, as the localization 
+ of the enemies, or informing that they are to disarm bombs or to save prisoners. For times we repair 
+ that the terrorists not only have a concern in locating and activating the bomb, as well as hide 
+ themselves in the roundnesses in order to protect it. According to Turtle Rock, the Bots is until 
+ capable to learn to recognize a new map, adaptando itself it its environment. The system allows 
+ that the Bots has attention to the barulhos and investigates the place of where they had heard 
+ shots and stepped on in noisy soalhos. These also change of weapons consonant the involved situation. 
+ As in Half-Life, these do not save the garnets! In tcticos terms, the radio of communications 
+ allows that the player gives orders to the Bots, as proteco, or aid in a shoot out, that exhaust, 
+ and other more. It is to praise that some Bots has proper personality and for times they deny in 
+ in obeying them. They can also program the Bots in order to give different challenges to the player. 
+ Clearly that Counter-Strike was drawn to play online excusing the Bots, but these serve as good 
+ trainings. The available armory will not have to walk far from what already it was seen in the 
+ previous versions. All the weapons are Real rejoinders, and all they give-in the one very efficient 
+ sensation of detonation. These vary between pistols that include Glock 18, Desert Eagle or the 
+ Beretta. Later we have the caadeiras and machine guns such as the MP5, the Mac the 10 or UMP. 
+ Later we have weighed as Colt M4A1 Carbine and the AK47 and the rifles of aiming by telescope as 
+ the SG-1 and the Steyr Scoup. We also have some types of garnet and C-3 explosives. Each weapon 
+ valley one determined value consonant its power. We now go for the heel of Aquiles - the graphical 
+ engine. However, if this game uses the engine of Half-Life, that in turn used of Quake 2, how many 
+ years will have of this? Half-Life already commemorated six years of life Therefore! Much dated. 
+ It is case for the defenders of the game/Mod to say that all the visual aspect is trod for second 
+ plain had all the realism of the game in itself. I would give reason, but if thus it the technology 
+ was all would have that to estagnar. It liked to defy the Valve to review Counter-Strike in the 
+ new Source engine, that feeds sequela of Half-Life. The community will be here for giving income 
+ to the engine. They do not think to interact with all the elements of the scene as nowadays. To 
+ see the dated one that it is the game, if to go off for a light bulb, this nor blinks, the more 
+ to leave. Exactly the doors, some are drawn in the scene, other effectively they give to open and 
+ to close. At least still we can break glasses of windows, but nothing of special. I think that 
+ valley the penalty not to continue, already it gives to have a ideia. How much to the models that 
+ give to choose, a certain limitation in the variety exists, but the few that have are well pleasant. 
+ She will not be necessary to say in the way online, therefore all the people that follow this Mod 
+ will better know of what I eat I function. But I want to say that all the bureaucracy in playing 
+ in the Steam servers alone confuses what it could be simple. She is necessary to pass for some 
+ complications of short while irritating configuration and validation. But all know that the game 
+ results well online very, and my task is to analyze what it was made to simulate an excellent sensation 
+ in the way the ground, that was effectively not reached. How much to the sound, all the prominence 
+ goes for colon. The communication between the Bots and us and the realistic sound of the weapons, 
+ as well as all the sensation that this gives to manejar. The melodies are gifts, but it does not 
+ have nothing of more designating. To finish, the final comments. It will be valid to fanatic Counter-Strike 
+ the investment in a version commercial of a game that plays the years, but increased of Bots? Clearly 
+ that not. If a player plays has years in net, because he would have to start to play the ground? 
+ He will have some newness moreover? Much little. The maps are all practically available ones in 
+ one of the last versions of this Mod. All the experience is practically equal. But the players 
+ whom they now look to start to play Counter-Strike and that they want to invest are that they will 
+ certainly go to acquire this heading. This because still search for Half-Life exists in order will 
+ use the Mod, and thus, even so investing more money they are with all the complete package. But 
+ I cannot leave to relate that we are before a heading technical dated and limited. Other actuais 
+ proposals of game in net exist. E as already I related, for what! paying for that if it finds gratuitous 
+ (legally, it is understood) to unload in the Internet? Now one note of credit for the Turtle Rock 
+ and for the excellent work in the programming of the Bots. One becomes until viciante to fight 
+ against artificial intelligence, but this for itself does not only justify the acquisition of the 
+ game. We wait that they have many invitations for future works. Ah! Excellent E marketing maneuver 
+ the inclusion of a COMPACT DISC with a set of ten of videos of Half-Life 2. Appositive that thus 
+ they will go to increase vendas 
+::::::
+
+::::::
+UserName: scotty992
+Rating: 8.4
+Date: May 7, 2006 10:32 am PT
+Review:  counter-strike is an online FPS where theres a group of terrorists and a group of counter terrorists. 
+ Theres two types of game either the cts have to save some dumb hostages or the terrorists have 
+ to blow up 1 of 2 the bomb sites. After each roud u win money what u can spend on guns, amour etc...
+ 
+  
+  GAMEPLAY: This game is a load of fun and will work on pretty low computers. Theres plenty of weapons 
+ from desert eagles (a pistol) to a ak47 (a rifle) and awps (a sniper rifle) and much more. If ur 
+ not playing online u can play player vs BOTS but thats boring and i dont do it. theres a ton of 
+ maps all well made and lots of custom maps made all the time what have some times got cars in stuff 
+ in them what is great fun. What im trying to say its fun, its crazy and at the same time u need 
+ to think. You can also make/join clans which bring things to a very tactical.
+  
+  Grahics: Not the best but there ok when they were making it they looked more 2 gameplay than grahics 
+ but its good enough.
+  
+  Sound: Its ok guns sound real and on alot of servers they have lots of different kinds of music 
+ so sounds are good. Also u can use ur mic and others will so u dont have to type stuff.
+  
+  ROUND UP: This is a great game that will give you endless hours of gmaplay in my opinion u want 
+ grahics go for source for crazy fun fights and lots of great maps go fore codition zero. Thx for 
+ reading! 
+::::::
+
+::::::
+UserName: Half-Vampire
+Rating: 9.3
+Date: Apr 30, 2006 3:02 am PT
+Review:  This game are no diffirent than Counter-strike 1.6. Only few weapons added and good AI. 
+  The AI in this game is clever and very good. Its really fun to play over and over again. All clever 
+ AI make this game really interesting and really fun to play. They will use shortcut to the place 
+ he wanna go, jump up the crates, camping and covering. 
+  This is really good for newbies who want to warm up before joining online games.
+  
+  Like the 
+ first game, the sounds and gameplay are great. Too great. Its added new weapons and maps. 
+  
+  But Counter strike deleted scene is not fun at all. I recommend dont install this along with 
+ Condition zero. 
+::::::
+
+::::::
+UserName: Unshaken
+Rating: 7.1
+Date: Apr 19, 2006 9:17 pm PT
+Review:  They could have done a better job with the single player deleted scenes. Itz just the same as cs 
+ source 1.6 exccept with some minor changes. If you own cs source, dont bother buying cs: cz, rather 
+ keep updating the game. Besides, cs source has more and better maps being created every day, unlike 
+ cs: cz which u have to wait a week for one to be released. my fav site to get mapz and add-ons 
+ is here: www. fpsbanana. com.
+  You will be able to download most of the valve games' stuff there, and ALOT of maps espically for 
+ cs source (thety have lots for other games too) .
+  itz fun if u r bored, but i'd rather not play it if i had WOW (world ov warcraft) or bf2 
+::::::
+
+::::::
+UserName: guy_arye
+Rating: 4.5
+Date: Apr 15, 2006 5:48 am PT
+Review:  When I bought this game I was thinking: "If the last game was so good the next will double the 
+ fun", but when I started to play I found out how my hope for this exciting game was unfounded. 
+ The graphics has got better from the last game but it didn't made the game good as the last. You 
+ will find out that the missions in this game are extremely boring till you will be sorry for wasting 
+ good money on game. The gameply was the same good as the last game like the sound.
+  But was made me disapointed the most was the amount of people in the multi playier game (at least 
+ in Israel) .
+  My advise: "don't do my wrong, don't buy Counter-Strike Condition Zero".
+  
+::::::
+
+::::::
+UserName: BreakdownXcore
+Rating: 9.1
+Date: Apr 11, 2006 5:35 am PT
+Review:  well.. counterstrike condition zero.. i think this game is really good and very cool.. compared 
+ to counterstrike source or the normal counterstrike.. its amazing.. its fast, and the weapons dont 
+ look ridiculous. the bombs are alrite size. (uinlike counterstrike.. there like watermelons) .. 
+ this game is easier than the other two, and its quite addictive.. i personally love this game and 
+ play it quite often. the headshots are amazing also.. graphics are fine. i think this game could 
+ do some re-work.. but overall.. it is a classic and is amazing! i think more games should be like 
+ this, counter terrorist, vs terrorist. and each team has there own set of weapons.. nice 
+::::::
+
+::::::
+UserName: Cr3sent
+Rating: 9.1
+Date: Apr 11, 2006 4:40 am PT
+Review:  Come ON 6.8? I was reading some peviews when i scrambled onto the CS: Condition Zero preview followed 
+ by noticing the should not be rated rating. It is obviously underated.
+  
+  Counter Strike is one awesome game even till now. Lan shops never stop earning from fans playing 
+ counterstrike, even now. Condition Zero is no where worse. It made great improvements and had more 
+ realistic movements. i think the sound are awesome. Graphic is not bad. I think It is pretty good. The 
+ game is still popular. Tell me which FPS gamer have never heard of CS? Man they should go back to 
+ their cave. 
+  
+  It provide abundance of fun and action to fellow FPS fans. The muliplayer/lan/online is awesome. The 
+ fun we our friends, fellow CS friends online spent and had fun together. Simply fun filling and not 
+ as bad as it is rated. Should have a better rating. 
+::::::
+
+::::::
+UserName: Tommygun141
+Rating: 9.2
+Date: Apr 2, 2006 9:37 pm PT
+Review:  Theres not much too say for CS: CZ. It is the sequel to the amazingly popular Half life mod Counter 
+ Strike, and adds a single player function.
+  
+  _________Graphics_________
+  The graphics are not spectacular, but they get the point across. They are competent and you won't 
+ be dissaproving of them.
+  
+  _________Gameplay_________
+  Spectacular. Amazing. Super fun. All good words to discribe the great gameplay in Counter Strike: 
+ Condition Zero. The game is innovative in the way the game works. If you die you wont respawn immediatly, 
+ you have to wait for one team to win before you, along with all the other dead people, respawn. 
+ You also buy guns with money you earn from killing enemies or accomplishing goals. If you are a 
+ fan of ANY First Person shooter you should get this game.
+  
+  _________Sound________
+  The sound is very nicely done, the guns sound very powerful, which is what they are. That is all 
+ I need to say.
+  
+  _________Value_________
+  There is a extensive single player campagin to train on in CS: CZ, and when you find yourself good 
+ enough, you can go to the main attraction. Multiplayer. The large array of official and player 
+ made maps are easily accesible because of Valve's simple point-and-click interface. The fun can 
+ almost never end playing online, with a great replay value.
+  
+  __________Final Verdict_________
+  This game owns. That's all you need to say. Lots of replay 
+ value, and great fun. This game is for any FPS fan.
+  
+  
+::::::
+
+::::::
+UserName: sudantha8527
+Rating: 9.6
+Date: Apr 2, 2006 8:08 pm PT
+Review:  The game is one of the best games when it comes to plying LAN.
+  
+  GOOD: The graphics have improved alot since the first Counter Strike and there are bots and a Single 
+ player campaigne, but the game is built for LAN and Online play, they also have added bots in to 
+ the game it self which is cool and the bot AI is pretty good too. The graphics are cool
+  
+  BAD: Well there si not much bad to talk about really guess the AI could have improved
+  
+  Overall 
+ it's a pretty cool game which me and my friends love playing we play it for hours on end. 
+::::::
+
+::::::
+UserName: disbadaszfool
+Rating: 9.6
+Date: Mar 25, 2006 9:08 am PT
+Review:  I picked this game up yesterday, and it is great! I just wish i woulda gotten it sooner.
+  
+  Overview:
+  
+  Gameplay - same as the other CS', 9/10.
+  
+  Graphics - smae as the other CS', 
+ 9/10.
+  
+  Sound - same as other Cs', 10/10
+  
+  Value - same as other CS's, 10/10.
+  
+  If you do not own this game, you better go pick it up. It is an amazing game, even though it is 
+ still old, it's fun! The graphics may not be that great, but the game is still playable! This is 
+ a game you must have, it's pretty good if your bored also. Good time killer too.
+  
+  
+::::::
+
+::::::
+UserName: -generic-
+Rating: 7.2
+Date: Mar 18, 2006 6:20 pm PT
+Review:  Those who would mostly appreciate this game would be those new to the Counter-Strike scene, CZ 
+ has a tutorial mode which does a good job of explaining the basics of gameplay (although being 
+ a long time CS player I can't really judge how effective it is since I already know the ropes) . 
+ CZ is also infinitely more offline friendly than CS - as it has some very human-like bots and a 
+ "Tour of Duty" campaign which are a series of matches consisting of you as a CT with a team of 
+ CT bots, against a team of Terrorist bots and there are several conditions of defeating the the 
+ enemy which you'll need to fulfill in order to progress to the next stages, such as killing an 
+ enemy with a certain weapon or winning the round within a specified time. This makes CZ almost 
+ like a whole new game and serves as great training to newbies since they'll be facing off with 
+ very experienced opponents online.
+  
+  Graphics:
+  CS: CZ has updated player models, weapons, maps and sounds which offer a much more aesthetically 
+ pleasing game and somewhat brings it closer to more recent games. But don't kid yourself - this 
+ is still the Quake engine at work and it's limitations are really becoming apparent. While in this 
+ review my rating for graphics seems abnormally high, I'm taking into account that this is based 
+ on a game engine from 1998, and the fact that is still looks somewhat decent today is quite an 
+ achievement.
+  
+  Gameplay:
+  The core gameplay is still good ol' CS - an extremely addicting yet simple fast paced team shooter. 
+ The Tour of Duty allows you to play offline or hone your skills against bots, and the included 
+ Deleted Scenes gives a mildly entertaining way to kill a few hours, but be warned - it was called 
+ Deleted Scenes for a reason, and personally I think it should have stayed deleted.
+  
+  Deleted Scenes:
+  This is the Single Player game Condition Zero was originally meant to be. Initially 
+ it was being done by Rouge Entertainment, then it switched to Gearbox Software, then it switched 
+ to Ritual Entertainment, and finally it was scrapped in favour of a heavily improved CS 1.6 with 
+ bots by Turtle Rock Studios. If you play it you'll understand why Valve decided to abandon it.
+ 
+  
+  The enemy AI is crap - I have no idea what Ritual did to Half-Life's advanced AI, but they managed 
+ to fudge it up good. The enemies all use the same static pose when shooting you, have near perfect 
+ aim and it's blatant that scripted sequences were extensively used to simulate physics. For some 
+ reason, there's also enemies who are only equipped with knives and suicidally run at you. The missions 
+ involve going from different countries as a CT and pretty much doing the same thing in different 
+ environments - hunt and kill the evil terrorist leader while slaughtering his minions on the way. 
+ Basically, Deleted Scenes was cut out for a very good reason. Only play this if you're very bored.
+ 
+  
+  Sound:
+  CZ's sounds are pretty average. They're all slightly different and higher quality sounds from CS.
+ 
+  
+  Value:
+  If you've never played CS before and want to join, CZ would be perfect since it allows you to play 
+ on existing CS and CZ servers (although to play CS, you'll be playing the original CS which is 
+ included with CZ) . The bots will also allow for offline play and the Tour of Duty mode will allow 
+ you to learn the mechanics of playing CS. However, for existing CS players, the only noteworthy 
+ feature would be the updated graphics and ability to play offline against bots, although there 
+ are just as good and better custom models that's readily available in the community.
+  
+  Bottom Line:
+  CZ is a good reason to get into CS if you haven't already, and also has better 
+ visuals and a decent tutorial mode. But the Deleted Scenes shouldn't be used to affect your decision 
+ to buy this game. Those who are already playing CS will be somewhat disappointed with CZ. 
+::::::
+
+::::::
+UserName: Doom1327
+Rating: 8.8
+Date: Mar 16, 2006 7:43 pm PT
+Review:  By now, most FPS fans at least know what Counter-Strike is and have likely played it or have seen 
+ it. For those of you who have recently been paroled from a lengthy incarceration or have awakened 
+ from a coma, Counter-Strike is a team-based tactical shooter that pits terrorists versus counterterrorists 
+ in round-based match play. In the game's current incarnation, there are two game types -- bombing 
+ and hostage rescue. Bombing maps require the terrorist team to plant and detonate a time bomb in 
+ one of two bombing areas while the counterterrorists guard these sites. Hostage rescue involves 
+ having the terrorists guard computer-controlled civilians while the counterterrorists try to rescue 
+ them. In practice, both game types often result in one team or the other being eliminated in bloody, 
+ fast shoot-outs.
+  
+  Players earn money based on their performances in the previous rounds, and with this money, they 
+ can buy weapons at the beginning of each subsequent round (and those who survive the last round 
+ keep their guns) . The game's arsenal is based on real-life weapons, including Desert Eagle pistols, 
+ pump-action shotguns, AK-47 assault rifles, and even some exotic equipment, like tactical shields 
+ that deflect bullets.
+  
+  Single-player Condition Zero is just like the multiplayer version of Counter-Strike that's been 
+ played for years, only your teammates and the enemies are replaced by computer-controlled bots. 
+ You assume the role of the commander of a counterterrorist force, and you choose your teammates 
+ from a menu of named bots. The bots vary in skill, aggressiveness, choice of weapon, and tendency 
+ to cooperate with the rest of the team. Those with greater skill and more-powerful weapons cost 
+ more points to hire, but you'll earn points steadily as you make your way through the game's campaign. 
+ 
+::::::
+
+::::::
+UserName: terryprior
+Rating: 9
+Date: Mar 16, 2006 6:56 pm PT
+Review:  has finally arrived on store shelves (and Steam servers, by the way) . And after all the delays, 
+ the final product has offered us a few new surprises -- some delightful, some dreadful. For them 
+ that don't know (and shame on you, by the way) , Counter-Strike is a wildly popular online shooter 
+ built on the original Half-Life technology. Though it wasn't everyone's cup of tea, twitchy action 
+ gamers around the world loved the title. Part of the success of the game was that it was built 
+ on one of the best shooters around; part of it was that it was free to download and play. Now Valve 
+ has now released an updated version of the game that includes some new offline modes, plenty of 
+ competent bots and pretty much nothing else. And that's the real issue -- if you can see past the 
+ "nothing else" to appreciate the new things that the game offers. Each mission requires you to 
+ defuse a bomb, rescue hostages, you know, the usual Counter-Strike stuff. You're usually up against 
+ half-a-dozen or so of terrorists but you can take along some back up. There are a number of bots 
+ here that you "buy" to take with on a mission. Those that cost one point are pretty terrible; those 
+ that cost four points are pretty damn good. Each comes rated in a number of areas: skill, bravery 
+ and teamwork, and has a preferred weapon. I'd really like to have seen an extra option that allows 
+ you to buy specific equipment for your team but there's a nice range of weapons at all point levels 
+ so you can create the team that suits you.
+  
+::::::
+
+::::::
+UserName: vufor
+Rating: 7.4
+Date: Mar 9, 2006 4:31 am PT
+Review:  Well, not bad game. However, gameplay is usual but still difference between level so hifg that 
+ you dont care about game scenario. Actually there is no scenario at all. You have missions in different 
+ places around the world, and it is need to be done. So lets go, that's fair enough for killing 
+ terrorist and passing dangerous traps or what ever. 
+  
+  During game you will not get boried at all, coz in some missions is not about shouting it has some 
+ tactical moves as well. Quietly enter the zone and eliminate the targets, which is makes game a 
+ bit serious.
+  
+  Graphic, well it is look like Counter Strike graphic, so I would not bother with that too much 
+ but however, not bad. Sound is great in game, gun shots, alarm system peoples svearing in their 
+ own language depending on mission location, Good one!
+  
+  Have a look, may be you will like it.
+  
+  Enjoy your game! 
+::::::
+
+::::::
+UserName: herviross_2
+Rating: 8.2
+Date: Mar 5, 2006 4:49 am PT
+Review:  Counter strike condition zero is arguably the best ever FPS game today. There is just so much you 
+ can do with the game and as such.. making choices is really difficult!!!!. Well that 
+ just shoes what counter strike is capable of doing. On campaign you and a team compete in various 
+ levels set out for you. Or you could just stick with LAN ( Local Area Network ) . On LAN, condition 
+ zero features dozens of maps to play with right from a mansion to a train station. Two teams are 
+ available for you, Counter terrorist ( C. T ) and Terrorists ( T ) . From there on its going 
+ to be a killing spree for you.. and hope that you are not on the receiving end of gunfire. Weapons 
+ will differ from the two teams so choose wisely. To conclude this review I would like to say that 
+ Counter strike condition zero is an amazing game for the PC and a game that will appeal to every 
+ gamer around the world. 
+::::::
+
+::::::
+UserName: CQCmasta
+Rating: 7.2
+Date: Mar 4, 2006 4:31 am PT
+Review:  everybody like CS it a good game and yes it fun but jeez if they could fix up the little probeblems 
+ it coulve got a nine like the shoddy graphics not pretty at all just average oh and there isnt 
+ much to do rather than campain and DS which also isnt that fun either though the online is great 
+ so yeah i guess its still quiet fun to play even though the little things they screwed up its overall 
+ a good game but with some polish it would be great and definalty a game that needs to be played 
+ at some point.
+  
+  GAMEPLAY
+  fun but needs substance
+  
+  GRAPHICS
+  just average
+  
+  SOUND
+  nice effects
+  
+  VALUE
+  nice but needs more 
+::::::
+
+::::::
+UserName: eolfson
+Rating: 10
+Date: Nov 22, 2006 2:09 pm PT
+Review:  Counter Strike is one of the best, if not the best, online games there is. However Condition Zero 
+ provides you with a nice getaway from some of the obnoxious guys online. Playing online is definately 
+ a great way to have fun, but sometimes it can be even more entertaining to freeze the computer 
+ BOTs and mess around with them. There is no doubt in my mind that you can enjoy Counter Strike 
+ online no matter who you are, but Condition Zero might not be for everyone. However Condition Zero 
+ still lets you play the striaght up counter strike online, so you con't go wrong buying it. Enjoy. 
+ Feel free to visit my profile and check out some of my other reviews while a make my way toward 
+ the certury mark, plus I went around to all my reviews and edited this back in, so you should just 
+ have a look anyway. Thanks. 
+::::::
+
+::::::
+UserName: Dope999
+Rating: 5
+Date: Mar 17, 2006 9:52 am PT
+Review:  It's a long time ago I played Counter-Strike and after a year I just hated the game. I got sick 
+ of it! Just suddenly, playing the game didn't make sense. Then 2 years later, i borrowed Condition 
+ Zero for a weekend, and suddenly I somehow missed the game. But not that much, I just needed to 
+ play it for a while. 
+  Condition Zero doesn't change the whole game that much. There's just a singleplayer campaign, some 
+ new weapons and maps. All of this is good, but anyway I don't liked it that much. 
+  
+  The GooD: 
+  - New weapons and maps.
+  - A new singleplayer is some fun.
+  - Counter-Strike 
+ has some gameplay in it, but I don't like it.
+  
+  The BaD: 
+  - Still the same unattractive graphics.
+  - Still the same boring voices and sound effects.
+ 
+  - Still the same boring tiresome gameplay.
+  - Still the same old me, almost hating the game.
+  
+  Condition Zero is crappy game to be honest. 
+ In the start I was too nice, man, don't buy or download this game, just stop playing Counter-Strike, 
+ your life will be so much better. I recommend you to stop playing the game!
+  Please, no Counter-Strike in the future!
+  
+  Dope999
+  
+::::::
+
+::::::
+UserName: DouglasBuffone
+Rating: 8.9
+Date: Feb 22, 2006 11:26 am PT
+Review:  I don't have a good computer. I am sorry, but I can't keep on upgrading all the time especially 
+ when it is so expensive. When Counter Strike Source came out I downloaded it through steam, but 
+ the graphics were all messed up and it just wasn't fun to play. So I downloaded this, and really 
+ experienced what all the hype was about.
+  
+  Gameplay:
+  Amazingly fast, fun and exciting. The controls are great (as expected) and the addition of a single 
+ player campaign helps new players sharpen their skills. Many weapons and many maps add to a great 
+ game.
+  
+  Graphics:
+  Although pretty old, the character models look pretty good. The environment and the weapon models 
+ are not good, but this game is pretty old. 
+  
+  Sound:
+  Pretty good sound for the actions of the weapons. No music, but who really plays this game for 
+ the music.
+  
+  Value:
+  This game probably has the best value of any game I have every played because it is so addictive. 
+ I cannot believe how the time flies when you are playing this game. So much replay value!!!
+  
+  If you are like me and want to play the game, but have a subpar computer, get this game. However, 
+ if you have a "wicked sick" computer, get source. 
+::::::
+
+::::::
+UserName: Triton71
+Rating: 9.3
+Date: Feb 22, 2006 6:27 am PT
+Review:  I know this games is not the best single player games, but it does not have to bee. Because this 
+ game can't bee rated ass an single player game. It's a online game, and the best online game ever 
+ ! ! 
+  This is the "old" counter-strike, and alot of people seems to like this best. (the hard core cs 
+ players) . I agree that cs: cz was not all that, but i promise you hours with great online gaming 
+ with the latest cs: source. 
+  If you have not played this game yet, you have been missing out alot. It's not the easiest game 
+ to learn, but when you get the hang of it, you cant stop playing. In fact it not only a game it 
+ is a religion. Loooove cs!
+  
+::::::
+
+::::::
+UserName: bwolf92
+Rating: 8.3
+Date: Feb 19, 2006 10:11 am PT
+Review:  For anyone whos ever played the original version of this game online and died a million times heres 
+ your game. Forget all those cheaters and really good players who have nothing better to do than 
+ play it all day. In this there acctually a story (gasp) and no online (double gasp) . You can tackle 
+ the story missions, which are kinda cheesy, or play the closest thing to online: the training mode. 
+ Don't expect anything mind blowing or totally new here. Acctually expect the opposite. Old graphics 
+ and same old gameplay. But its fun. I don't care about all that new crap. I just wanna shoot me 
+ some terrorists. Anyone who says this isn't a fun game has the definition of fun as playing scrabble 
+ with their grandmas. Its a good game. And you won't feel humiliated every time you die. You know 
+ you can accctually get revenge. Like I said the graphics aren't great but they get the job done. 
+ Gameplay is spot on and only slips with jumping parts. Voice acting all around sucks along with 
+ no next to no music. It may be behind the times but its still fun. 
+::::::
+
+::::::
+UserName: badgerman92
+Rating: 9
+Date: Feb 17, 2006 3:38 pm PT
+Review:  i got it with anthology. 1 thing thats just retarded is the fact that most bulletproof windows 
+ cant be killed by bullets but rathe by throwing grenades at them (when it collides, not when it 
+ explodes) 
+  gameplay: bulletproof glitch, but this was a pretty good game, i dont see why people hate it so 
+ much
+  sound: i guess it was good, i dont really say anything about sound or graphics in reviews for old 
+ games
+  graphics: (no comment)
+  
+  I didnt do good at this review. maybe ill come back to this review sometime and uptade or uptade 
+ or update. until then, im playing darwinia and am totally addicted. TRY IT! and try CSCZ! its a 
+ good game! 
+::::::
+
+::::::
+UserName: MjrMantaray
+Rating: 6.3
+Date: Feb 15, 2006 2:21 pm PT
+Review:  It's basically a revamped version of the old Counterstrike, but with the addition of better graphics, 
+ more realistic weapons, and the inclusion of fairly smart A. I. bots.
+  This game's single-play campaign is just ok, but the shining gem here is 
+  the on-line multi-play. 
+ I personally prefer CS: Source, but that game doesn't have some of the cool maps that are in CS: CZ. 
+ (like the map 747)
+  The deleted scenes are basically crap, but the missions themselves can be mildly amusing at times, 
+ it's mostly a lot of puzzles.
+  The box says this game has "A slew of new weapons and toys."
+  The only somewhat new weapons are 
+ on the deleted scenes portion of the game. The only reason to buy this game is if 
+  A. You don't own Counterstrike.
+  B. You love Counterstrike.
+  C. You need something new and 
+ cheap.
+  
+  If you chose C. I would strongly suggest buying CS: Source or 
+  Day of Defeat: Source instead. 
+::::::
+
+::::::
+UserName: eldanny
+Rating: 9.8
+Date: Feb 13, 2006 2:34 pm PT
+Review:  This game is a great advance from the previous version. The previous Version is also good but this 
+ is MUCH better than the earlier version. This game has a lot more graphics and sound than the previous 
+ version. Also the map modifications help the game a lot. For example the shades and roofs that 
+ the previous version did not include. Some extra features are that when you use the radio it specifies 
+ where you are at, and also when using voice. Finally another feature is that there is an extra 
+ character in both counter terrorists and terrorists sides. Also some details have changed such 
+ as the bomb that is now with more details. But one of the things that impresses the most is the 
+ sound. 
+::::::
+
+::::::
+UserName: Sarah-1988
+Rating: 9.8
+Date: Feb 7, 2006 5:21 pm PT
+Review:  Condition Zero is an excellent online shooter. It's plainly just Counter-strike 1.6 but better. 
+ Condition Zero adds more maps, better graphics, and more equipment. Condition Zero is a well made 
+ expansion. If you haven't tried Counter-Strike 1.6, get Condition Zero instead. Its much more fun. 
+ Condition Zero actually tells you to get steam before playing online! And its totally free! If 
+ you already have Counter-Strike 1,6, get Condition Zero too. You won't be disappointed. The new 
+ Counter-strike, Source, may have beautiful graphics too but its way to easy to kill. Condition 
+ Zero is really fun and is a must buy. 
+::::::
+
+::::::
+UserName: herviross
+Rating: 7.3
+Date: Feb 5, 2006 4:03 am PT
+Review:  Condition Zero surely is the worst counter strike game yet. The single mode is atrocious and very 
+ boring. Playing on LAN is the best that you can get out of this game. Playing with friends is just 
+ a treat. There are 2 teams, counter-terrorists and terrorists. There are a lot of maps for you to 
+ chose and the playing is intense. The weapons are superb with nearly all the weapons inflicting 
+ a high percentage of damage to your rivals. Graphics and sound is average. Accuracy and being one 
+ step ahead of your opponents is everything that you need to play the game. Nothing else to say about 
+ Condition Zero except that a little more thought (did i say little, i meant a lot) should have been 
+ given to the game. 
+::::::
+
+::::::
+UserName: joeshoe1121
+Rating: 8
+Date: Jan 26, 2006 6:54 pm PT
+Review:  When people think CS, everyone thinks Online Fraggin' and Hackin'. However. Condition Zero is not 
+ quite what most players expect
+  
+  Condition Zero is essentially CS offline. Containted within the game is the "Tour of Duty", a collection 
+ of classic and new CS maps with certain objectives and challenges to complete such as:
+  
+  Win in under 75 sec.
+  Kill 5 enemies
+  Kill someone with (weapon here)
+  get () WN3d (Jk)
+ 
+  
+  this allows a challenge to players who are experienced and allows noobs to learn the basics of 
+ counterstrike and familiarize themselves with the weapons, maps and equipment of CS. The difficulty 
+ rating you pick changes the number of challenges and difficulty of the bots. As you complete maps, 
+ you unlock "Reputation points" you can use to assemble a team of CT's.
+  
+  Condition Zero's other SP experience is Deleted Scenes. These missions are a series of story driven 
+ missions that are typical of traditional FPS games. Most of these missions are easily completeable 
+ in less than 20 minutes.
+  
+  CZ also gives CS a facelift, redoing textures and models to at least a more acceptable standard. 
+ New quipment both online and offline also adds to its replayability. All in all, Condition Zero 
+ is an excellent place to start for people getting into Counterstrike and a perfect addition for 
+ CS fans, costing about $20 or less 
+::::::
+
+::::::
+UserName: pcgaminghitman
+Rating: 9.4
+Date: Jan 6, 2006 9:20 pm PT
+Review:  Ok. I first saw the game on the shelf at wal mart and there were like five of them, so i thought, 
+ but i always heard great things about them but i never tried them, except the Xbox version which 
+ was cool but i didn't have Xboxlive which made it suck. A friend of mine let me borrow his copy 
+ of the game and man was i hooked. I played for 4 hours straight without reliezing it. The game 
+ play is smooth and the combat is intense. You first select wither u want to be the Counter terrorist 
+ team or the terrorists. You then select the skin you want to play with, then u buy what weapons 
+ you want and equipment you want. You are constatly be shot at from all sides. The greatest thing 
+ about CS is when you die u wait for the next round which can be anywhere from 10 seconds to 2 minutes. 
+ The only challenge is your skill level against the other players. It is a great game and i would 
+ recemmended it for anyone who likes FPS. 
+::::::
+
+::::::
+UserName: Hawkeye049
+Rating: 9.3
+Date: Dec 30, 2005 2:59 pm PT
+Review:  I have had this game for over several years now and they update the game like every two months 
+ making it better and better. The gameplay is excellent and you'll find online gameplay very difficult. 
+ I highly recommend this to anyone who is a fan of first person shooters. Also it has low minimum 
+ requirements so most anyone can get it. There are plenty of weapons to chose from this game has 
+ more weapons then Counter Strike Source. Hours of entertainment its one of the most played online 
+ games in the U. S. They have thousands of servers with up to 32 people in each one. Downloadable 
+ maps are made every month you'll never find a game like this. In some servers there's low gravity, 
+ superpowers, music, and special player models like Neo or Master Chief. You can ride on jeeps, 
+ helicopters, boats, and even skateboards. If your a fan of sniper rifles like i am you'll love 
+ this. 
+::::::
+
+::::::
+UserName: sk8r196
+Rating: 7.9
+Date: Dec 26, 2005 8:38 am PT
+Review:  Great value game, should but it if your lokking for another action game to add to your collection!
+ 
+  If your is fairly good buy Counter strike source instead, much better, but this is still worth 
+ playing if your into fast paced online play!
+  The sound is fairly good, grapics are fine for the time it was made, and the game play is fast, 
+ built on the halflife 1 engine, this should be a sure fire winner for any keen halflife player.
+ 
+  
+  A wide array of weapons are at your disposal, including the FAMAS, the AK-47 and the M4. 
+  
+ 
+  So if your looking for a cheap thrill, this what your looking for! Everything you need for a bit 
+ of good messy fun! But I doubt its re-play ability, this game will probably not last long if you 
+ don't put enough time into it!
+  
+  
+  
+::::::
+
+::::::
+UserName: eddiebone
+Rating: 8
+Date: Dec 21, 2005 7:49 pm PT
+Review:  When Counter-Strike: Condition Zero was first announced three years ago, it seemed like a decent 
+ enough idea. The definitive first-person shooter mod was at the height of its popularity, so having 
+ a single-player game based on the winning formula sounded like a good way to win a new following 
+ and perhaps entice even more people to venture online. However, those who have been reading up 
+ on the game over the years know that development has been a bumpy ride. The duty of making Condition 
+ Zero has practically been passed around more than the collection basket at Easter Mass. What started 
+ internally at Valve Software quickly moved to Gearbox, then to Ritual Entertainment, and finally 
+ over to Turtle Rock Studios. Given such an unusual development path, Condition Zero is surprisingly 
+ enjoyable, thanks mostly to some remarkable artificial intelligence. Unfortunately, the game will 
+ be remembered as a victim of its own delays. While the core gameplay is timeless, Condition Zero's 
+ release is overshadowed by no fewer than three technologically advanced, highly anticipated shooters, 
+ which all cast a harsh light on what is essentially a 6-year-old game -- albeit a classic one. 
+::::::
+
+::::::
+UserName: SZeroC
+Rating: 8.7
+Date: Dec 19, 2005 2:04 pm PT
+Review:  Critical condition.
+  
+  After three years in development, the long-awaited single-player follow-up to the most popular 
+ online fragfest known to gamerkind has finally been deployed. Like many, I nearly forgot all about 
+ it. Counter-Strike: Condition Zero has bounced from programmer to programmer over its development 
+ cycle, having gone through four different developers and constantly changing in focus and content. 
+ It's been hard to keep this one on the radar.
+  
+  Astonishingly, the game is now actually here, yet the question remains: for whom is this dated 
+ piece of software designed? The answer: Xbox owners. In fact, it's perfect for them. The problem 
+ is this little soldier is a PC-only title. Confused? Don't be. Just be wary and read on.
+  
+  For all three of you who have been cast away on a deserted island with your buddy Wilson for the 
+ past several years, Counter-Strike is still the most widely played first-person shooter on the 
+ market. It pits terrorists against counter-terrorists in a number of now traditional gameplay modes: 
+ bomb planting or defusal, hostage retaining or hostage rescue and VIP elimination or escorting, 
+ depending on which side you play (see the old original review for full gameplay mechanics) . The 
+ game is painstakingly well-balanced with modern day weapons and smart, realistic ballistic physics. 
+ For a few years there, CS simply ruled.
+  
+  In hopes of squeezing a few more coins from gamers before Half-Life 2 shows up and clears the slate, 
+ Counter-Strike: Condition Zero arrives with a paltry, lackluster single-player component to the 
+ tried and true multiplayer funfest now creeping into its fifth year.
+  
+  The meat of the Condition Zero's single-player is called "Tour of Duty," which pits you as a counter-terrorist 
+ against a collection of classic CS maps. In a strange twist, you proceed from one map cycle to 
+ the next by accomplishing level goals reminiscent of Tony Hawk's Pro Skater. You might have to 
+ kill 7 terrorists with a certain weapon, rescue 6 hostages, or defuse a bomb in a certain amount 
+ of time before continuing on to the next map. Completing these tasks affords you access to new 
+ player skins, maps and other weapons.
+  
+  The problem is twofold. For anyone who has already played CS, it's quite annoying having to suddenly 
+ unlock maps, especially since every one included here has been playable in CS forever. Additionally, 
+ many of the level requirements are counter-intuitive. For instance, you are often required to rescue 
+ a number of hostages, but maps end if you kill every enemy (this is, after all, a good thing) , 
+ so you'll find yourself purposefully not shooting the last guy just to lead the hostages to the 
+ extraction point to satisfy your stupid objective. Fail and you have to start over. Argh.
+  
+  Also, ghost mode is still here in the single-player game. If you die early on in a map, you'll 
+ have to sit there watching the AI go at it just like you'd do in the normal online game, except 
+ now it's single-player and you just want to achieve your objectives and move on; why still make 
+ us wait?
+  
+  The other single-player component is the "Deleted Scenes" section, which throws you around the 
+ globe on 12 very uninteresting missions. This mode was initially designed by Ritual, who were eventually 
+ dropped in favor of Turtle Rock, and it's clear that no one took the time to finish or fix what 
+ Ritual started. Each mission is rooted in dated gameplay and feels glitchy and unfinished. The 
+ firefights are pretty frantic and some of the scripting is commendable, but how this is supposed 
+ to compete with games like Battlefield Vietnam, Call of Duty and so many others is beyond me.
+ 
+  
+  Tipping my disgruntled hat, I will admit that the bot AI is very believable, albeit not perfect. 
+ They don't necessarily move like a well-trained team of terrorists or counter-terrorists, instead 
+ performing a lot like your garden-variety humans, camping a dropped bomb and strategic bomb-planting 
+ included. At times, you might almost forget you're playing offline.
+  
+  Until, that is, you remember that you spent a bunch of money on this rip-off. A $10 purchase for 
+ the offline bot software as a separate program might have carried some merit, but thanks to the 
+ half-baked thinking of some marketing nut, CS: CZ retails for a whopping $40 (it can also be downloaded 
+ by CS vets through Steam for "only" 30 bucks) . Considering what little new stuff you get, that's 
+ asking a lot. A whole lot.
+  
+  As you'd imagine, the graphics are extremely dated. Blocky models, old textures  it looks like 
+ the five year-old game that it is. This makes it scalable for just about any low-end PC, but again, 
+ who's willing to shell out the dough for this? For that matter, why were the single-player features 
+ (Tour of Duty and Deleted Scenes) not just included in the skeletal Xbox version of CS instead? 
+ And ultimately, why not just wait for the fancy new Half-Life 2 and crank out an official sequel? 
+ I loved CS as much as the next guy, but please, leave the dead horse alone!
+  
+  I suppose if you've never played CS (all 10 of you) and would like a glorified tutorial to get 
+ you going, then by all means, grab Condition Zero. The gameplay itself is still pretty fun and 
+ this package isn't bad for CS newbies, though at this point, how many of them are there? As for 
+ the millions of CS vets, as you were. This old soldier isn't worth it. 
+::::::
+
+::::::
+UserName: Xbox360willown
+Rating: 8.3
+Date: Dec 13, 2005 8:02 am PT
+Review:  Now, CZ is a real good game, but, i think you'll just find the same thing as before, Great multplayer.
+ 
+  The single player wasn't so good in my opinion but, that's only my opinion!
+  now CZ is a really good game all in all but i don't think the Artificial Intelligance is such a 
+ big deal, i mean they are great but not THAT great, know what im saying?
+  lol rofl g2g cya brb lol lol lol lol lol lol lol lol lol!! lol lol lol lol lol lol lol lol lol 
+ lol lol lol lol lol lol lol lol lol lol lol lol lol lol lol lol lol lol lol lol lol lol lol lol 
+ lol lol lol 
+::::::
+
+::::::
+UserName: mand_450
+Rating: 3.5
+Date: Dec 12, 2005 6:58 am PT
+Review:  I cant see why i wished this game so badly. A played it for a day and got bored. You simply do 
+ the same again and again. Buying your farvorite weapon, a kevlar+helmet and some grenades with 
+ your unlimited stock of cash and go out to shoot the enemy down.
+  
+  The bots are simply brain dead freaks. I ones walked next to an enemy bot without he saw me, and 
+ simply offering no challenge at all. Giving orders to friendly bots wont help that much. They will 
+ just respond and forget the order right after.
+  
+  There are just simply no fun at all in this game. Maybe for six seven years ago where it was made, 
+ but valve could have made some new features, (Others than Brain dead bots) such as better graphics 
+ which this game requires BADLY. 
+::::::
+
+::::::
+UserName: hellknightshade
+Rating: 8.6
+Date: Dec 11, 2005 6:50 pm PT
+Review:  This game is a great squad based acton game, especially online, i definetly could not get tired 
+ of this game online. Level designs are basic though offer great defense on offense positions, game 
+ never gets old and playing is always a challenege depending on the difficulty.
+  
+  There isnt a campaign which ruins this game for me, i like to play through campaigns and then play 
+ multiplayer or that, but the game simply does not offer campaign. Guns are designed well and are 
+ easy to use, you buy weapons with credits you recieve and it makes game go very easily depending 
+ how you play.
+  
+  Although not great graphics and no online it is still a great game, definetly a better first person 
+ shooter. 
+::::::
+
+::::::
+UserName: ariel_king
+Rating: 6
+Date: Nov 15, 2005 10:36 pm PT
+Review:  This game is a good shooter for the ones that want to be bored quickly!!!!
+  
+  Gameplay: you play a soldier and you need to kill all the terrorists or save all the hostages. 
+ There isn't a story line and the killings are pretty good.
+  
+  Graphics: horrible!!. This game looks like it was been made in the 90's or something like that. 
+ If you want a good shooter game with good graphics then maybe pick up killzone or halo.
+  
+  Sound: There is no sound. The only sound in this game are the shooting and the music that you finish 
+ a level or a round.
+  
+  Value: If you like these crap of game then you can play for hours and if you don't play barbie 
+ insted of this game.
+  
+  Reviewer's tilt: Overall this game one big Crap and you should never buy it or download it. 
+::::::
+
+::::::
+UserName: hittin
+Rating: 9.4
+Date: Nov 14, 2005 8:46 am PT
+Review:  When counter strike 1.6 came out, it came out as a mod, lots of people started trying it out, now 
+ its a official game.
+  But if you own counter strike 1.6 why should you get this game?
+  Well Condition zero is counter strike source mixed with counter strike 1.6.
+  Gameplay:::::::::::
+ 
+  The gameplay is improved from CS 1.6 because maps have much better graphics, and theres condition 
+ zero deleted scenes, for just some single player fun.
+  Sound::::::::::
+  Sound hasnt been much of a problem in counter strike, it hasnt been a problem because all the the 
+ weapons make proper shooting and reloading sounds. When you kill someone the sound you get is awesome.
+ 
+  When you switch teams the noise you get is absolutely realistic, and its awesome, you get the 
+ whole dying effect.
+  Graphics:::::::::
+  The graphics still use the half life 1 engine, but the textures, models, weapons and maps have 
+ got much better graphics.
+  Also lots of professional players play this game 
+::::::
+
+::::::
+UserName: elemo
+Rating: 9.5
+Date: Nov 1, 2005 4:53 pm PT
+Review:  Every mission in the game was played ( by me ) for more than 7 times .. And I am taking about every 
+ single or multi-player mission.
+  The game is just hard to tell about its effect on me..
+  Of course I played the first part of the game ( the original counter strike ) in LAN games since 
+ I think 8 years ago .. And I was deeply in love with the game from ever since .
+  I had the Counter Strike Source game b4 getting this one .. But this one has an advantage of playong 
+ offline which means alot for me.
+  I didn't finish all difficulties in the game ... But I am happy to say that I have finished more 
+ than 50 percent of the difficulty levels. 
+::::::
+
+::::::
+UserName: parkllia
+Rating: 7.8
+Date: Oct 30, 2005 9:08 am PT
+Review:  Actually im not into all this hard and crash game so much...
+  love football and others more than this but after trying the first game in 2000... suddenly i felt 
+ in love with CS.
+  with a lot of improvement for Condition Zero such as maps, models and type of weapon and level 
+ of difficulty it quite interesting...
+  The single player mode is basically playing with bots. Great practice, for a pro player it is really 
+ easy.... but for normal or amateur player sometime the bots are quite hard to beat.
+  actually it is a nice try but for a real gamers.....
+  Counter-strike is nothing without their 
+ online game...
+  and for me, singe player mode i could give 7/10 and for online mod 9/10..
+  
+  Park De'tsiwt 
+::::::
+
+::::::
+UserName: the_peasant
+Rating: 8.6
+Date: Oct 27, 2005 11:56 am PT
+Review:  thats is what i need plz tell me . i like the game to be honest i would like to play the new version 
+ ,have to save up : ) the down fall is that the graphics could be better otherwise verry good .it 
+ runs very smooth baring in mind a 6 gigabite** hard drive . the internet is good ive seen it on 
+ my freinds
+  if i had to i would put more things into the game inc. single player ,death mode and many more 
+ . given rating 8 / 9
+  if anny one disargrees tell me lol
+  this is the best game 
+::::::
+
+::::::
+UserName: anime_rulez_all
+Rating: 8.7
+Date: Oct 25, 2005 8:02 pm PT
+Review:  Incase you're wondering, I AM a first time CS player. I picked up the Anthology (CS 1/CS: CZ) because 
+ I wanted to see what's so great about it (and it was cheap lol: Only $25 Canadian) . Now I see why 
+ everyone is talking about it like it's the Holy Grail.
+  
+  First off is the gameplay: Plays pretty much like your standard FPS, except you have to BUY your 
+ weapons, ammo, and accessories at the start of each round. You earn money buy killing enemies, 
+ rescuing hostages, etc. Each weapon/accessorie costs a certain amount, and you can't buy something 
+ if you don't have enough money, so use your money wisely!
+  
+  Next up is the graphics: All I can say is WOW! They are 100% PURE IMMACULATE!! Especially seeing 
+ as you need less than 128 MB of RAM, and virtually ANY video card to run! Trust me, my PC is pretty 
+ crappy when it comes to hardware -- 256 MB of RAM, and some video card that I don't even know the 
+ name of :P.
+  
+  Sound: Standard gun sounds, zipping/loading sounds when buying weapons at the start of each round, 
+ etc. Online, the mic volume is good, too.
+  
+  
+  Single Player: Single player is OK... nothing special, just standard bot matches.... the bots suck.... they 
+ NEVER follow your orders, and even on expert, they can't aim.
+  
+  Online: WOW! EXCELLENT online! It rarely lags (I have a 100 MB/PS connection, so, yeah....) , and 
+ it's WAY more fun than single player, as you are playing against REAL PEOPLE! You die WAAAY too 
+ easily online, though....
+  
+  
+  The last thing I have to say is: If you are an FPS fan, or just a plain action fan, BUY THIS GAME 
+ (or even better: Counterstrike 1: Anthology) NOW!! It is EXTREMELY cheap! 
+::::::
+
+::::::
+UserName: mazare
+Rating: 7.3
+Date: Oct 22, 2005 1:01 am PT
+Review:  The game does have bots, which is something I've wanted in a CS related game forever, ever since 
+ CS 1.5 was upgraded. The AI on the bots is pretty real, however the Easy bots seem to be really 
+ stupid (which makes sense) and the Expert bots seem to be too good (which also makes sense) , so 
+ if you want more of a human feel I recommend Hard bots, since those seem to be the most balanced. 
+ There are missions in this game, they don't follow much of a story line, they basically just being 
+ you thru all the maps and have you complete objectives. For example on Office you may need to rescue 
+ 4 hostages, kill 6 enemies, and kill 3 enemies with the M4A1. You need to do all that and have 
+ 2 more wins over the other team to complete that map. In short, all it is is you playing on the 
+ maps  nothing too special. Something I did like about this is you get to build your own team, 
+ each time you beat a map you get a point, and with that point you can get another person on your 
+ team, the more points a person costs, the better they are. You can have 6 people on your team. 
+ 
+  
+  Now, playing thru the missions you will ask yourself, what happened to the rocket launcher? All 
+ the 'new' gun looks, 'better' graphics, sounds, etc. Well, all those were taken out of the game, 
+ who knows why, but you can get all these in a download off Steam called Condition Zero Deleted 
+ Scenes. This is where it's all at; he rocket launcher, more realistic guns and sound, real missions 
+ that remotely follow a story line. It's beyond me why they took this out of the game they released, 
+ it's so much more better, combine this with the bots, and you would have had an even better game. 
+ Unfortunately you can't have bots with all the 'cool' guns and what not, just missions. 
+  
+  You also have online play, but why play this online? It's not different from CS, and hardly anyone 
+ plays it. I only recommend it for LAN parties, where you and some friends can own some bots, but 
+ online just seems pointless to me after seeing how close it is to the regular CS. 
+  
+  Graphically this game offers little to nothing new to the CS world, they look identical to the 
+ CS graphics. The only thing that offers anything new is the Deleted Scenes, even those are spectacular, 
+ and won't be the reason you come back to play the game. I think this is where they really messed 
+ up, they hyped this to be an 'upgrade' over CS, but left many, like myself, dissatisfied with this 
+ 'upgrade'. 
+  
+  The sound, also, offers nothing new for me. The deleted scenes has some tweaks to it, like the 
+ silenced weapons sound more real, and bullets hitting certain objects sounds as they should, but 
+ nothing compared to what it should have been. 
+  
+  *Taken from my CS review and tweaked to fit this game* 
+  I am adding a new section in for this 
+ review, and that's for Steam. As most everyone may know Steam is a content distribution program 
+ and makes getting patches and games a breeze. It has all but replaced the WON network, and now 
+ players have a STEAM ID, rather then a WON ID. This has sped up the process of getting things fixed 
+ in games. Since it is so easy for people to get them since it is all automatic. 
+  
+  It also has a friends list, which works a lot like AIM. You have a buddy list and you can IM each 
+ other back and forth, even while in a game. You can also play parlor games against a friend; like 
+ checkers or chess. Now, this friends list is cool, but it is down a lot, but lately that has been 
+ changing and it has been up more. 
+  
+  There's also a nifty server browser that lets you add servers to a list, called your favorites, 
+ so you can find them fast! It also lets you filter the servers with such thing as ping, map, and 
+ game being played (i. e. Counter Strike, Day of Defeat) , even the number of players! 
+  
+  This game will only appeal to hard core CS fans, or people looking for a good FPS game they can 
+ play off easily. It won't last very long for other people, picking up a CS type game for the first 
+ time or expecting big upgrades over CS, as it doesn't do much. The missions lack a story line, 
+ and basically is just you vs. all the terrorists trying to get out of somewhere or rescue someone. 
+ 
+  
+::::::
+
+::::::
+UserName: DanM1411
+Rating: 7.6
+Date: Oct 20, 2005 8:19 pm PT
+Review:  This game is just like the regular counter-strike 1.6 gane. Except with a little improvement with 
+ the map textures, models and weapon skins. It also adds the little feature of Single Player mode 
+ and the Deleted Scenes..
+  
+  The deleted scenes mode was pretty decent, not exciting... decent.. It got kinda boring after a 
+ while.. The Single player mode is basically playing with bots. Great Practice, but gets boring 
+ after a while cause the bots are quite easy to beat.
+  
+  This game is a pretty great game if you dont feel like playing online but still want to play some 
+ counter-strike. The weapon skins looks better and sounds cooler. and the Models look nicer as well 
+ as the maps. 
+::::::
+
+::::::
+UserName: jsnx
+Rating: 8
+Date: Oct 16, 2005 12:34 pm PT
+Review:  Man i still love this game it gives you something to do so it may get a little
+  borring so what if your friends are over pull it out and play it for a bit
+  may not be as good 
+ as fear or halo 2 or half life 2, or counterstrike sorce
+  but man its totaly old school i am shure this will remain a fun game for
+  a long time to true 
+ fans of this game i wish they could of done better
+  well we will see in the next game to come out in the half life series
+  thankyou for listening 
+ bye 
+::::::
+
+::::::
+UserName: SaMuRaI_Slice
+Rating: 4.8
+Date: Sep 12, 2005 10:25 pm PT
+Review:  Counter Strike: Condition Zero is the expansion pack of Counter Strike (Although it wasn't ment 
+ to be nothing much changes) . The gameplay is the same, the graphics still suck but are minorly 
+ improved, and everyone can still kill you in 1 shot in this game. The single player I have to say 
+ in pretty good, although your AI bots don't really listen to you all the time they're not useless 
+ leaving you to do everything they can acutally win a round by themselves at times. That's the fun 
+ factor however, the looks of the game is terrible, the maps seem like they were all made on a plain 
+ texture that raps around the map and your guns don't look that great, nor do your teammates. 
+ 
+  
+  What I hated the most about this game is that it's Online based so you'll spend most of your short 
+ time playing Online. Now I beat CS on Hard mode really easily and it's still sort of challenging 
+ but I didn't have many problems, online I get killed in 1-2 hits however when I unload 50 bullets 
+ into a guys skull with perfect aim I somehow miss everytime and get killed with an easy headshot. 
+ It seems almost EVERYONE in these games can get a headshot easily except for you, unles you played 
+ the oringal CS since it was out there's no way you can get good and have fun with this game. Everyone 
+ plays the same 3 maps which are always annoying no matter what team your on, even if you switch 
+ to a Dominating team who's winnign 70-1 you always end up dying in some cheap way. Somehow everyone's 
+ bullets do more damage then yours can I can only give out 44 damage if im lucky when encountering 
+ enemies. The game is a waste of time and will just get you frustrated as you listen to 18 year 
+ olds who play the game all day laugh histerically into their mic. 
+::::::
+
+::::::
+UserName: miklifton
+Rating: 8
+Date: Sep 4, 2005 1:21 am PT
+Review:  Since I loved playing Counter-Strike online with players all around the world, I decided to test 
+ my skills in a few missions, which is why I picked up Condition Zero. All of the controls are the 
+ same as is you were playing Counter-Strike, which made me feel comfortable. This is just like any 
+ other first person shooter war game. You can select missions and when you complete them more missions 
+ are unlocked. All of the same guns are there. They dont throw anything new at you. The graphics 
+ were better than the original CS and the sound was also better. If you have spent some time playing 
+ CS then I suggest you try this game out. Like I said, its nothing new so it will grow on you. 
+::::::
+
+::::::
+UserName: -Paradox-
+Rating: 8.6
+Date: Apr 27, 2005 11:07 pm PT
+Review:  Well condition zero might not be the best game on the market, but it is very addictive. Throught 
+ the game you play as a counter-terrorist. You try to prevent the terrorists from detonating their 
+ bomb or in combat. The game actually is very fun. I enjoyed it from start to finish.
+  
+  The Gameplay of condition zero is great. Like I said. It is very addictive. I couldn't stop once 
+ I started. You begin (or most people do) on easy. Throughout the game you play through various 
+ levels. Each with their own special area. The game gets harder as you progress.
+  
+  The Graphics of condition zero are overall good. Your team looks very real. However, looking at 
+ yourself holding a gun is very blocky. Your arm holding a gun looks like a block. Overall trees 
+ and the environment looks good.
+  
+  The Sound of condition zero is great. You have to talk to your team at certain times to tell them 
+ to regroup or maintain a position. Overall the sound is good.
+  
+  The Value of condition zero is good. You mainly replay the levels on each difficulty, but with 
+ different goals. It features online multiplayer with steam and some deleted scenes, if you bought 
+ the same version I did.
+  
+  Overall condition zero is a great game for hardcore VALVe supporters and fans. I recommend it to 
+ any and all of you. New players may have a difficult time adjusting if you have never played Counter-Strike 
+ or Half-Life's series. 
+::::::
+
+::::::
+UserName: SuperDumbGuy
+Rating: 7.6
+Date: Apr 4, 2005 7:57 pm PT
+Review:  For those of you that have never played Counter-Strike (CS) before, it is an online game where 
+ you play as either terriorsts (T) or counter-terriorsts (CT) , each with different objectives on 
+ different missions. For example, when you're on a de map, your objectives as a terriost is to set-up 
+ a bomb, while the counter-terriorsts try to prevent the bomb from being set and defuse it if it 
+ was. If you like the sound of the game so far, then the chances are that you will also like Condition 
+ Zero (CZ) . 
+  CZ is basically a duplicate of CS, with a few minor tune ups and it lets you play offline for a 
+ change. You play through the game as a CT in a squad. When you first start out, your team is very 
+ pathetic and useless but as you play through the missions, you acquire "points" for which you can 
+ earn better teammates. Some of the things you have to do on these missions are stupid (knife someone) 
+ but they do get challenging, even for veterans of CS. Playing through these missions occasionally 
+ does get boring and annoying and the players may feel like they're doing a chore instead of a game. 
+ 
+  For you veterans of CS out there, this game probably isn't worth checking out, since, like i said 
+ before, it is almost EXACTLY like CS. You are able to go online with CZ, which has the same maps 
+ as CS with a slightly better looking map but it probably isn't worth spending $30-40 over.
+  About the "deleted scenes," it is probably the only thing in CZ thats different from CS. It has 
+ new weapons, etc. and is quite strategetic. Why they cancelled that and added the CZ we have now? 
+ I have no clue. 
+  The difficulty of the game depends on the player. If you have been playing CS for a long time, 
+ this should be eazy or just right. But if you have never played CS, the game is hard and you will 
+ find yourself crazy within a few hours.
+  Overall, CZ is a "fun" addition to the CS series. If you LOVED CS, this game is probably worth 
+ a play and if you have never played CS, you should probably check this game out too. Personally, 
+ i gave up on the game about 10 hours and left it. It isn't worth the frustration it game me. Having 
+ to knife super intelligent bots is something that's not on my to do list. 
+::::::
+
+::::::
+UserName: THELordGavin
+Rating: 8.6
+Date: Apr 3, 2005 10:19 pm PT
+Review:  I think this should have been cheaper mainly for the fact that it's an expansion. It had what the 
+ first counter-strike didn't; A single player campaign. The single player is quite good and the 
+ AI is very smart. This is a good way to hone your skills for online play. It is objective based 
+ and there are a few objectives per map. You might have to kill a certain amount of enemies with 
+ certain weapons. It is great for tactical skills but your team won't help as much. Your best bet 
+ is to get the best guys you can and pull a lot of the weight. The graphics are a little better 
+ and each character looks a little different. The online play is basically.... well it's exactly 
+ the same. It's still a fun game but it is more oriented to the single player offline play. 
+::::::
+
+::::::
+UserName: ridingshotgun
+Rating: 7.4
+Date: Mar 19, 2005 5:27 pm PT
+Review:  suck at cs? new to cs? this is the game for u... and only for u....
+  condition zero is just counterstrike with sum different weapon models and the maps have been slightly 
+ changed but no new dynamic chagnes. the 'single player' is just a series of 'missions' where you 
+ have to kill a certain number of people with a certain gun. all this really does is prep u up and 
+ is just a practice for online games. i heard there was a rumor about a 'story mode'...? stick that 
+ up ur ass. 
+  graphics have only marginly increased from half life counterstrike and is nothing great. 
+  for 
+ newbies this game can get pretty difficult but u will get beter over time. but watch who ur playing 
+ against online, u might get OWENDDD. 
+  weapons sound good and are well balanced, but team vo's aren't really that bad.. just annoying. 
+ after u go through the 'missions' to train u should b pretty good but really no reason to play 
+ through it again unless on a higher difficulty setting. onlne mode is 
+  addictive but a blast when playing against friends. cz seems to lag a bit more than cs so cs is 
+ perferable online. 
+  overall, this is a training tool.... 
+::::::
+
+::::::
+UserName: syx
+Rating: 9
+Date: Mar 18, 2005 6:52 pm PT
+Review:  Having not known much about this game until right before its release, I was a bit intrigued by 
+ the idea of a single player Counter-Strike. I learned that it had been in development for quite 
+ a long time under various different companies and it had been delayed quite a few times. Basically 
+ there is three parts to this game, which I will review seperately.
+  
+  First I want to talk about the visuals and technology, which seem to be a factor for the games 
+ such low score. Yes it is the same engine used in Counter-Strike, which is slightly modified from 
+ the Half-Life engine. But don't expect Counter-Strike's dated visuals, all new content has been 
+ created, player models, gun models, textures, and maps.
+  
+  Single Player (Tour of Duty) :
+  This was the official single player that made the game. It's basically Counter-Strike against bots 
+ with objectives, such as kill this many players, defuse the bomb, etc. I found it to be quite boring 
+ and was happy when it was over.
+  
+  Single Player (Deleted Scenes) :
+  This was the ORIGINAL single player developed by the geniuses at Ritual Studios, it's included 
+ in the game, but as an optional install. Deleted Scenes has all sorts of long missions in various 
+ places around the world, putting you into the eyes of everything from a SWAT Officer, to a special 
+ ops agent, doing things such as rescuing hostages and defusing nukes. It reminded me alot of Counter-Strike, 
+ but what you would expect of CS being a single player game. There are a plethora of sometimes logical 
+ yet sometimes useless puzzles, which made me feel like playing Half-Life. Also if you ever experienced 
+ nautiousness while alone in HL, you'll experience the same in this game.
+  
+  Multiplayer:
+  Ah, what makes Counter-Strike the most played game on the internet, multiplayer. It's pretty much 
+ the exact same as CS, but with major differences. Namely upgraded models and textures that were 
+ converted from the Ritual made ones in Deleted Scenes, while they are not CSSource quality, they 
+ are a nice improvement over CS 1.6. Next is the maps, all included are upgraded versions of the 
+ most popular maps, everything from dust and aztec to italy. A few extra features that don't really 
+ change the gameplay are the addition of two player models, the Russian Spetsnaz (CT) and the Midest 
+ Militia (T) . Next is the high quality hostage models along with the hostage A. I. and facial expressions. 
+ Hostage AI you say? sounds kind of silly, and it is, but it can be quite funny at times. Hostages 
+ also get scared if you fire a gun near them or log a grenade a them, they can also be blinded by 
+ flashbangs and smoke grenades, which cause them to hide in the corner and yell "I CAN'T SEE!". 
+ They're also useful if you're a terrorist camping near them, as the hostages wave their arms and 
+ scream when there's a Counter-Terrorist near by. One of the last and most nifty things in CZ is 
+ the ability to pick up grenades dropped by dead players, so it really is possible to have multiple 
+ grenades through the round without going back to spawn. A big thing I noticed was a tighter nit 
+ community of players, and very very few cheaters. It seems people didn't want to waste their $40 
+ copy of CZ and get banned.
+  
+  In conclusion, Condition Zero doesn't make an all to appealing single player experience, but it's 
+ worth buying if you're a CS fan. 
+::::::
+
+::::::
+UserName: ccooke
+Rating: 9.5
+Date: Mar 16, 2005 4:21 am PT
+Review:  this has got to be the best online shooter ever!!!!!! it is the perfect mix bettween 
+  ralistic tactics and weapons, and action makeing it an incerdibly fun game.
+  
+  I have not played 
+ the origonal counter strike so that is why i think it is so good because 
+  basicaly it is the exact same thing. If u dont own the origonal counter strike than buy it 
+  
+ but if u dont its not really worth it for the single player.
+  
+  All the single player is is a bunch of single player missions its not bad, but nothing compared 
+ to the multiplayer.
+  
+  One thing is that it is very hard to get good at this game and u will die alot before u get some 
+ kills and get really good.
+  
+  but dont let that make u not want to buy this awsome game! 
+::::::
+
+::::::
+UserName: The_Bebop
+Rating: 9.1
+Date: Mar 15, 2005 12:24 am PT
+Review:  Source was an interesting game. It has updated graphics, updated levels and sound. But once again 
+ it is an updated version of the original. Still the best thing about this game is rag doll. Rag 
+ doll is the best addition to this game, any multi player online shooter. The guns look better and 
+ the action is faster. A great buy if you have the ability to play it. Good people online and once 
+ again, with steam it is alittle difficult for some to hack. Which makes the game play even better. 
+ But I think if ou have Counter Strike, you dont need to rush out and purchase source. Its really 
+ the same game, just better graphics. 
+::::::
+
+::::::
+UserName: FireBot
+Rating: 7.3
+Date: Mar 7, 2005 10:21 pm PT
+Review:  Yes, I did pay the $30 for this game, and was slightly disappointed. My money wasn't a total waste 
+ though. The game does have bots, which is something I've wanted in a CS related game forever, ever 
+ since CS 1.5 was upgraded. The AI on the bots is pretty real, however the Easy bots seem to be 
+ really stupid (which makes sense) and the Expert bots seem to be too good (which also makes sense) , 
+ so if you want more of a human feel I recommend Hard bots, since those seem to be the most balanced. 
+ There are missions in this game, they don't follow much of a story line, they basically just being 
+ you thru all the maps and have you complete objectives. For example on Office you may need to rescue 
+ 4 hostages, kill 6 enemies, and kill 3 enemies with the M4A1. You need to do all that and have 
+ 2 more wins over the other team to complete that map. In short, all it is is you playing on the 
+ maps  nothing too special. Something I did like about this is you get to build your own team, 
+ each time you beat a map you get a point, and with that point you can get another person on your 
+ team, the more points a person costs, the better they are. You can have 6 people on your team. 
+ 
+  
+  Now, playing thru the missions you will ask yourself, what happened to the rocket launcher? All 
+ the 'new' gun looks, 'better' graphics, sounds, etc. Well, all those were taken out of the game, 
+ who knows why, but you can get all these in a download off Steam called Condition Zero Deleted 
+ Scenes. This is where it's all at; he rocket launcher, more realistic guns and sound, real missions 
+ that remotely follow a story line. It's beyond me why they took this out of the game they released, 
+ it's so much more better, combine this with the bots, and you would have had an even better game. 
+ Unfortunately you can't have bots with all the 'cool' guns and what not, just missions. 
+  
+  You also have online play, but why play this online? It's not different from CS, and hardly anyone 
+ plays it. I only recommend it for LAN parties, where you and some friends can own some bots, but 
+ online just seems pointless to me after seeing how close it is to the regular CS. 
+  
+  Graphically this game offers little to nothing new to the CS world, they look identical to the 
+ CS graphics. The only thing that offers anything new is the Deleted Scenes, even those are spectacular, 
+ and won't be the reason you come back to play the game. I think this is where they really messed 
+ up, they hyped this to be an 'upgrade' over CS, but left many, like myself, dissatisfied with this 
+ 'upgrade'. 
+  
+  The sound, also, offers nothing new for me. The deleted scenes has some tweaks to it, like the 
+ silenced weapons sound more real, and bullets hitting certain objects sounds as they should, but 
+ nothing compared to what it should have been. 
+  
+  *Taken from my CS review and tweaked to fit this game* 
+  I am adding a new section in for this 
+ review, and that's for Steam. As most everyone may know Steam is a content distribution program 
+ and makes getting patches and games a breeze. It has all but replaced the WON network, and now 
+ players have a STEAM ID, rather then a WON ID. This has sped up the process of getting things fixed 
+ in games. Since it is so easy for people to get them since it is all automatic. 
+  
+  It also has a friends list, which works a lot like AIM. You have a buddy list and you can IM each 
+ other back and forth, even while in a game. You can also play parlor games against a friend; like 
+ checkers or chess. Now, this friends list is cool, but it is down a lot, but lately that has been 
+ changing and it has been up more. 
+  
+  There's also a nifty server browser that lets you add servers to a list, called your favorites, 
+ so you can find them fast! It also lets you filter the servers with such thing as ping, map, and 
+ game being played (i. e. Counter Strike, Day of Defeat) , even the number of players! 
+  
+  This game will only appeal to hard core CS fans, or people looking for a good FPS game they can 
+ play off easily. It won't last very long for other people, picking up a CS type game for the first 
+ time or expecting big upgrades over CS, as it doesn't do much. The missions lack a story line, 
+ and basically is just you vs. all the terrorists trying to get out of somewhere or rescue someone. 
+ 
+::::::
+
+::::::
+UserName: roleplayer2004
+Rating: 8.8
+Date: Mar 5, 2005 2:11 pm PT
+Review:  Counter-Strike is well known all over the globe as the No. 1 online game of all time. Ever since 
+ Half-Life was launched in 1998. We've seen the game have a lot of different make overs but Counter-Strike 
+ is one of the most realistic games ever created. So what has everyone expected for the new Counter-Strike 
+ Condition Zero game to be like? Probably one of the best games of the year right. But sadly it 
+ hasn't achieved that goal. But the end result is a very fun well designed game. Which has heaps 
+ of different missions set all over the globe in which you have been assigned complete. 
+  
+  But this isn't the reason I gave this game such a respectable score. It's because of the new updates 
+ of all the classic maps. de_dust, de_de_dust 2, Inferno, Office and about 25 more other maps. But 
+ the artificial intelligence of the bots and the unpredictable strategies they use is simply mind 
+ boggling. This is the way that Counter-Strike was meant to be played and the end product is spectacular. 
+ Forget about Halo and it's AI. This is the new king of AI and how did the designers pull it off? 
+ I wouldn't know.
+  
+  No more of having the lengthy online connections and not being able to connect into a game. Downloading 
+ updates. Having someone on de_italy with a Magnium Sniper rifle shooting you in the head as you 
+ go around a corner and your connection is lagging out or hackers stuffing up the whole game because 
+ they can't get a kill because their too ****. You know have the luxury of playing Counter-Strike 
+ the way it was designed to be played and enjoyed. Smooth, no hassles and at your own pace. You 
+ have four difficultulty options for no matter how good you are from a beginner to expert. And expert 
+ is just like playing online, running around a corner getting a head shot from one single AK-47 
+ bullet. How brilliant is that.
+  
+  The bots are just as challenging as versing people online and a lot of the time you really can't 
+ tell the difference. It's just simply amazing and the graphics and updates for the classic maps 
+ are just spectacular.
+  
+  There's also a campaign type mode in which you get to choose your team members based on how much 
+ much credit you have which you earn from completing each stage. Then you recieve a bonus credit 
+ to put towards hiring better team members which have their advantages and disadvantages. Eg. Your 
+ team member George you hired for the cost of 2 credits has a preferred weapon choice of a shotgun 
+ and his co-operation is good, but his skill and bravery is bad. Which means yes the game is very 
+ tactical and it'll take a lot of thinking and time to pass each stage until they're all completed. 
+ Then you get a medal on the difficulty you completed the game on. Until you get all four medals.
+ 
+  
+  My recommendation to anyone who's a Half-Life/ Counter-Strike fan. This is certainly a must have 
+ for your collection. Don't be put off by the one player story mode. This game is worth getting 
+ simply because of the AI of the bots and the brilliant new update of all the classic maps like 
+ de_dust and Inferno. 
+::::::
+
+::::::
+UserName: Visi0naries
+Rating: 6.8
+Date: Jan 9, 2005 1:44 am PT
+Review:  Counter-Strike has been around for quite a while, and it is now one of the most popular online 
+ multi-player games out there. Using the same engine as Half-Life, Counter-Strike, for those who 
+ do not know what it is, is a realistic terrorist type game. You go about and defuse bombs, rescue 
+ hostages, and even try to assassinate a VIP. But since that is the original Counter-Strike, more 
+ focus will be toward the single-player counterpart, Counter-Strike: Condition Zero. After numerous 
+ delays, is Counter-Strike: Condition Zero all it's cracked up to be?
+  
+  Counter-Strike: Condition Zero obviously revolves around it's single player feature. Basically, 
+ there's actually 2 single-player games that you can play once you pop in the disc. There's a regular 
+ Counter-Strike single-player, and a "Deleted Scenes" single-player, which was scratched quite a 
+ while ago, but now it's available to play as an extra.
+  
+  Turtle Rock Studios is a new developer, and they helped develop the regular, brand-new version 
+ of the single-player. They had also created the first ever CS Bot, which was actually something 
+ very nice. But for the first entry of development for Turtle Rock, their single-player campaign 
+ is mediocre at best, but from what Turtle Rock has accomplished with their bot, they can surely 
+ do better with their single-player.
+  
+  As for the new single-player, to say, it's extremely short. If you're a veteran CS player, it is 
+ possible to get through the whole single-player in one sitting. There is really no story involved... just 
+ you and your computer controlled buddies causing havoc against the Terrorists, and from that, we 
+ move on to the A. I.
+  
+  As a good thing, the A. I. is actually quite eminent. They actually know where to shoot, and they 
+ use special techniques that online players in the original CS would never. If they hear footsteps, 
+ they try to be silent and walk around to see what's causing the noise. They'll try to run away 
+ if a gang of enemies are going after him, and they'll hide and shoot whenever necessary. It was 
+ really outstanding how they acted with my teammates and enemies, and they knew exactly what to 
+ do in that specific level. But, of course, they are not perfect. If in a de_ map (defusing bomb 
+ map) and the bomb is planted, the bots will just stand there next to the bomb waiting for you to 
+ come and defuse the bomb. Even if your next to the bomb or way across the map, the bots will not 
+ defuse the bomb. You will have to unambiguously just kill yourself, as that's the only way for 
+ them to defuse the bomb. Even at that, the A. I. is pretty much one of the few things going right 
+ for Counter-Strike: Condition Zero. They handle hostages very well, and even use them as decoys 
+ to protect their own selves.
+  
+  Counter-Strike: Condition Zero, evidently, has some pretty neat graphics. They have been updated, 
+ so they look nice. Of course, comparing it to today's game graphics, they aren't as well done. 
+ But for a game like Counter-Strike, the improvement of the graphics is quite well done. The weapon 
+ models look real nice, and you can really see the detail within them.
+  
+  Obviously, Counter-Strike has been all about sound, and definitely Counter-Strike: Condition Zero 
+ does not disappoint here. All of the sounds of the guns are as realistic as they can get, and they 
+ sound clear and manifest enough to hear over and over again. The sound of crickets, and guns blazing 
+ from far away are nice little touches that went very well.
+  
+  Of course, Counter-Strike is definitely all about it's multi-player. But for those who already 
+ have the original CS, there is no reason to really be enthralled by the multi-player in Condition 
+ Zero. There's no new stuff here, only with a few level updates such as cs_militia. Everything else 
+ in the multi-player is the same old and inveterating stuff you would find in the original CS.
+ 
+  
+  As an added bonus, you'll be able to play the Deleted Scenes single-player of Condition Zero, and 
+ for an added feature, it's extremely well done. Clear missions and extremely fun gameplay are one 
+ of the few things in Deleted Scenes. But since it's in the same game as the other weak single-player, 
+ Deleted Scenes doesn't really "balance" out the weak portions of the game good enough. If you can, 
+ you should try Deleted Scenes, because it's definitely something worth experiencing.
+  
+  In the end, Counter-Strike: Condition Zero doesn't boast anything relatively new. You got the same 
+ old maps, same old weapons, and the same old missions and objectives (excluding Deleted Scenes) . 
+ The game's graphics is good, the sound is terrific, and even the Deleted Scenes bonus is something 
+ worth checking out. But all of that combined still doesn't hold up to something that has been around 
+ for quite some time. If your new to the CS world, this is a game worth getting practice off of. 
+ But as for the CS veterans, which there are plenty of, Counter-Strike: Condition Zero will not 
+ astound you like you did when you first played CS. Simply put, Counter-Strike: Condition Zero is 
+ a game that should of been released a long time ago. 
+::::::
+
+::::::
+UserName: ProudLarry
+Rating: 1.8
+Date: Dec 6, 2004 1:09 am PT
+Review:  I'll go ahead and get my opinion on the Counter-Strike series out of the way first. Although I 
+ did enjoy this game at one point, I did grow tired of it about 3 years ago, when it was only just 
+ a mod for Half-Life. I found the gameplay just a little too repetitive for myself.
+  
+  Now for the review itself.
+  
+  This game is absolutly one of the worst gaming experiences, anyone 
+ can ever have. When it comes to the main draw, the multiplayer component, there really isn't anything 
+ that impressive or new about the game. You see, other than a few maps, and some new textures, the 
+ game is IDENTICLE to the original, free, Counter-Strike. There just simply is no logical reason 
+ for anyone to pay money for this game, just for the multiplayer. To give it some credit, the multi-player 
+ can be somewhat addictive, but is to repetitive for me.
+  
+  Now that may sound bad. But would you believe that the single-player part of the game, the "Deleted 
+ Scenes," is even worse? Well, believe it. The game actaully plays horribly. The AI is about as 
+ smart as you living room's sofa, and makes the game a breeze to play through without much effort 
+ on your part. Another annoying part with enemies is that the damage you deal to them, is horribly 
+ unrealistic. You will regularly find yourself having to put two rifle rounds into their heads just 
+ to kill them. This combined with the fact that ammo is extremely had to come by in the game, your 
+ frustration level will go through the roof.
+  
+  To summarize: Don't buy this game for the multiplayer considering that you can get it for free 
+ if you allready have Half-Life; and who doesn't at this point? Finally, don't buy this game for 
+ the single-player. There is just simply nothing of redeaming value here. 
+::::::
+
+::::::
+UserName: solidsnakeEx3
+Rating: 7.2
+Date: Nov 13, 2004 1:10 am PT
+Review:  Ok, this is the lowdown aka the summary, so sit here and read. This game is an update to the original 
+ CS, with new graphics, maps, l blah blah blah. The graphics are very much improved, but still horrible 
+ as usual. The game also now includes single player, which is hard and pointless, but is good if 
+ you don't have internet access at the time. The weapons are the same, and the new ones are only 
+ useful in single player. This game is a cheap update basically, I'm tired of these. I mean, Source 
+ was a cheap graphics update. Come one, give us new weapons! Revolvers, M16s, AKS74us, different 
+ shotguns, more pistols, those were all missing from this update. I don't know why I'm reviewing 
+ this game so late, but oh well. Anyway, the gameplay remains unchanged, actually It improves a 
+ little. 
+::::::
+
+::::::
+UserName: kanderstag
+Rating: 6.7
+Date: Sep 18, 2004 6:14 am PT
+Review:  I thought the single player was annoying in that all you do are these 'matches', over and over. 
+ There is no story line nor dialogue, for the most part. The "Deleted Scenes" has a story line but 
+ it is way too linear for my liking. The graphics pretty much suck too. At least in comparison to 
+ other games like Far Cry. (Does everything 'suck' if Far Cry is the standard?) Well the graphics 
+ are nothing to run to the store to buy this for, let me put it that way.
+  However, where this games shines is in the multiplayer. If you buy this game online from the developer's 
+ website, you get a couple of other things such as the Counter Strike Source Beta and the "Deleted 
+ Scenes". Playing online with a built-in voice system is pretty sweet. The number of servers vary 
+ from 220 all the way up to 1300 with varying amounts of players within each. Just keep an eye out 
+ on whatever server you're on, as some servers use Bots to play against the ?real? people. So when 
+ you think you're doing good or wondering why some fool keeps sqawking on the radio and carrying 
+ around a ballistic shield, all the while following you, it's probably a Bot.
+  Typically the multiplayer is just the same as the single player except now everyone fights each 
+ other and types or yells their comments or insults. Quite addicting, especially the deathmatch 
+ server where you instantly respawn after you die. Versus waiting however long till the next match 
+ start, which varies through gameplay and the clock. Usually these matches are scheduled to last 
+ three to five minutes, with a countdown clock indicating time left. 
+  Two objectives, rescue the hostages as a counter terrorist or plant the bomb as a terrorist. Naturally 
+ the other side tries to prevent both from happening. There is a really excellent home movie of 
+ this game titled "Iceworld" on another website. Bodies everywhere, all sorts of weaponry at your 
+ disposal, and the vast internet to play with folks from all over the world. The maps vary from 
+ everyone trying to knife each other in Lego Land, a western shootout, running around as mice in 
+ a kitchen (don't try to grab that sniper rifle!) ... on and on. Multiplayer is very addicting.
+ 
+  So thumbs down for single player and thumbs up for multiplayer. 
+::::::
+
+::::::
+UserName: gipper07
+Rating: 8.9
+Date: Sep 17, 2004 5:53 pm PT
+Review:  I don't know why so many people don't like Counter-Strike: Condition Zero. The only reason I can 
+ think of is that people don't want to pay $30-$40 for essentially the same game they have had for 
+ 4 years.
+  
+  There are some good things about CS: CZ though, and I will list them below.
+  
+  1) The graphics have been bumped up a little. I think they saw that nobody is still using a 
+ computer running at 133Mhz anymore, so they made it a little more demanding (although almost EVERY 
+ computer will run this game perfectly)
+  
+  2) There are a few new maps. The same maps that were made available with the XBOX version of CS, 
+ are in CS: CZ for PC.
+  
+  3) The single player isn't actually all that bad.
+  
+  4) YOU GET TO PLAY COUNTER-STRIKE: SOURCE BETA!
+  
+  5) CS: CZ Deleted Scenes is quite fun to 
+ play.
+  
+  6) It's Counter-Strike!
+  
+  I have been playing CS forever. I own Counter-Strike for PC and XBOX, Counter-Strike: Condition 
+ Zero, and Condition Zero: Deleted Scenes. I also have the beta of Counter-Strike: Source. So I 
+ am probably a little biased because I own all of these counter strike games. But I don't think 
+ you can go wrong with this game. 
+::::::
+
+::::::
+UserName: Big-Dog
+Rating: 8.2
+Date: Aug 24, 2004 8:23 am PT
+Review:  This review is based on Counter Strike: Condition Zero 1.2
+  
+  Conclusion for the lazy:
+  
+  For 15 I consider CS: CZ a decent buy and now with the promise of CS: Source Beta, the extra 
+ levels, the improved models and textures its worth the cash. But essentially you're paying for 
+ CS 1.7 and a so-so single-player experience. Strongest points are the bots and new visuals and 
+ maps.
+  
+  Gameplay:
+  
+  The 2 main things you get with CS: CZ are the "Deleted Scenes" (The Single-Player - Half Life-esque 
+ gameplay) and the standard CS gameplay. I'll do each bit seperately:
+  
+  Standard CS: CZ:
+  
+  With this there is a "Tour of Duty" mode that basically takes you through every CZ level (Remakes 
+ of the originals) playing as the CT's. This isn't as dull as it sounds as it actually pretty good 
+ fun if you set it on a higher difficulty (I opted for Hard) Its not just win a round and its over, 
+ ever map has different objectives such as "Get 5 kills without dying with the Bullpup", "Kill a 
+ flash-blinded enemy and survive the round", "Rescue all the hostages" etc. this keeps it quite 
+ fresh because you often find yourself using some of the less popular weapons or being taken down 
+ an alternate route of winning that you wouldn't normally.
+  
+  The AI is excellent and really mimics online CS play as good as I could hope. Its down to the player 
+ to complete objectives whilst they're alive, but if you die the bots will happily escourt the hostages 
+ (More on them in a minute) or disarm the bomb. They respond to commands and give feedback on how 
+ they're doing and what they see and hear. The hostages are also a lot better and will try and escape 
+ if left unatended, run from grenades, take cover, cough in smoke, use ladders.
+  
+  Deleted Scenes:
+  
+  This is the actual Single Player game. Basically, it plays out pretty much 
+ like any standard shooter, if you've played Half Life or in fact an FPS nothing here is particularly 
+ new. Some levels are a lot stronger than others. I've only played through 4 but 2 of them seemed 
+ to attempt to add a "stealth" element which really didn't work, the Russian level was excellent 
+ though and had a great atmosphere and some decent shootouts. But unfortunately this part of CS: CZ 
+ is slightly disapointing but it can keep you occupied if you want a quick and straightforward FPS 
+ to tide you over until Doom 3 and HL2.
+  
+  Graphics:
+  
+  Thanks to the update CS: CZ no longer looks like standard CS1.6 - there's a whole set of new player 
+ and weapon models that really make CS look a lot better. The Spetnatz and SAS models in particular 
+ are my favourites and all the weapon models are great improvements. The maps themselves have also 
+ recieved an overhall with lots more features that don't really effect gameplay but help add to 
+ the ambience, some also have been slightly changed such as Militia has the ladders in different 
+ places.
+  
+  Having said that, its still the HL engine and with Far Cry and UT2004 to contend with it isn't 
+ the most appealing game to look at.
+  
+  Sound:
+  
+  The sound is consistantly good, with new weapon sounds in some places and particularly the bots 
+ use of the voice com is effective and entertainging. Not much more to say in this department
+  
+  Conclusion:
+  
+  For 15 I consider CS: CZ a decent buy and now with the promise of CS: Source 
+ Beta, the extra levels, the improved models and textures its worth the cash. But essentially you're 
+ paying for CS 1.7 and a so-so single-player experience. Strongest points are the bots and new visuals 
+ and maps.
+  
+  
+::::::
+
+::::::
+UserName: giantraddish
+Rating: 7.7
+Date: Aug 24, 2004 5:35 am PT
+Review:  I bought this game only to get a early look at C. S. Source and I was pleasantly suprised (maybe 
+ due to low expectations) .
+  
+  I liked CS, but I don't play it regularly. Lately it's gotten to the point that most people still 
+ playing it are so much better than me it just irritating. For me, Condition Zero was a good way 
+ to enjoy the CS game in more controlled environment.
+  
+  If you have tried playing with other attempts at CS bots you will appreciate how good the Condition 
+ Zero bots are. They play like real players. They know their way around the maps, they charge, they 
+ camp, and they can actually complete objectives (bombing, difusing, rescuing hostage) .
+  
+  What's really cool is that the bots take different approaches each round (just like playing with 
+ live people) so you'll rarely see a map play the same way twice in a row. The replay value is as 
+ good as online play.
+  
+  The bots aren't perfect. For example: the bots spam grenades with no enemies in sight doing far 
+ more damage to your team than the enemy. But when I consider everything that's right I'm still 
+ impressed.
+  
+  The "Deleted Scenes" are pretty bad. The nice thing about seeing them is that it proves Valve has 
+ the cahones to go back to the drawing board if it sees junk. Raises my hopes for HL2. 
+::::::
+
+::::::
+UserName: Xcalibrknight
+Rating: 8.2
+Date: Jun 8, 2004 10:11 pm PT
+Review:  I give Condition Zero high marks for a number of reasons: my kids can play a challenging ladder-play 
+ style of CS without the worry of cheaters, foul-mouthed teens filling the chat window online, or 
+ "campers" extending a quick map into a 5 minute bore for those that died and are waiting for the 
+ reset. The game can be customized playing either terrorist or counter-terrorist on all the old 
+ maps any long-time CS player is familiar with. 
+  
+  My son and I played counter-strike when it first came out long ago... I ran a server at one point 
+ and downloaded all the skins & models, read online CS sites daily, ran a website ourselves, etc, 
+ etc. However, the cheaters trashed the game. It became so bad with cheaters and players talking 
+ graphically about sex that we eventually quit. Policing the server and what my kids were exposed 
+ to became a 2nd job. After a few CS-free years, we decided to give the single player version, Condition 
+ Zero, a try. As a parent, this is the game that CS is meant to be played like. Great gameplay, 
+ customization, very good AI with constant radio communication, and challenging levels make for 
+ a very good time. My son and I can play CZ, and I don't have to worry of all the "issues" online 
+ play comes with.
+  
+  If you like CS and want to relive some good times, pick up a copy of CZ (used is around $20 at 
+ many local game outlets) , and download some customized mission packs on the official Steam forums 
+ in the Condition Zero section.... you will be given a challenging time and a whole lotta fun all 
+ over again. 
+::::::
+
+::::::
+UserName: -Guitarplayer-
+Rating: 8.9
+Date: Jun 3, 2004 11:08 pm PT
+Review:  Review of Version 1.2 - Condition Zero now worth picking up! When looking at all these low scores 
+ you have to realize that people were basing the reviews on the older versions of CZ and now with 
+ the recent updates, Condition Zero is actually worth putting 20-30 dollars down and picking up 
+ a copy. I'll get right down to the chase, if you're asking yourself why pay money for a game when 
+ you can get Counter Strike for free? Well here are just a few reasons, Condition Zero has enhanced 
+ player models, including 2 more new models that you can't get in the original CS. All the models 
+ look far better and more realistic. The gun models, which are much much better looking, and sounds 
+ have all been changed, the sounds for CZ blows away CS. They've also added several new maps, including 
+ the 2 new maps from the recent CZ update, and they have modified a couple of the old maps. (including 
+ new textures) They have made maps like Militia and Office much more fun and interesting. Don't 
+ base buying this game on Gamespot's old review, they played the original version of Condition Zero 
+ which only contained map texture updates. This is the reason why it got such a low score. Also 
+ they have finished the single player CZ Deleted Scenes, which are extremely fun sp missions and 
+ last along time. Trust me you owe yourself to buy this game.
+  
+  In fact here are all the updates that you can only get in Condition Zero not CS.
+  Added new hostage 
+ models and animations
+  Added new hostage behaviors and dialogue
+  Added crosshair customization (color, size, opacity)
+  Added player location system
+  Added exponential 
+ fog in OpenGL
+  Added in-game vgui progress bar for nav mesh analysis
+  Upgraded de_inferno_cz
+  Upgraded deagle view texture
+  Updated cs_italy_cz with 32 spawns
+ 
+  Upgraded weapon UI images
+  Tweaked glock and USP sounds
+  Tweaked snow walking sound
+  Corpses fade out with cl_corpse_stay
+  Grenades are dropped on death
+  Improved player turning 
+ right hitbox behavior
+  Improved shield behavior
+  Improved brass ejection behavior
+  Bots can use silencer on m4a1
+  Improved bot_auto_vacate behavior with spectators
+  Career tasks 
+ are reset on mp_restartround
+  Improved tutor behavior
+  hud_draw 0 doesn't remove blackout
+  Scope blackout drawn in software mode
+  Flashlight sound 
+ no longer masks weapon firing sounds
+  Improved text behavior in top-right corner of observer mode
+  Round timer doesn't re-appear until 
+ the round restarts when the bomb is defused or explodes
+  Improved player model hands
+  
+::::::
+
+::::::
+UserName: beezmnet
+Rating: 5
+Date: Apr 7, 2004 4:25 pm PT
+Review:  After buying this game the day after it was released and already beating it, I can say this game 
+ is not worth $40 what so ever.
+  
+  The game play is fun at first for single player, but gets boring very quickly. It is pretty much 
+ so the same thing over and over  and well, over. You are just running around a map, you turn a 
+ corner shoot a few guys, turn another corner shoot a few more. Thats just about all you do throughout 
+ the single player mode of the game. Oh and dont forget the occasional defusing of a nuke or something 
+ such as this.
+  
+  The game has gone through minor graphical changes. The textures are better and some of the models 
+ and animations have been improved. Any smoke effects and/or fire effects in the single player mode 
+ look like animated gifs downloaded from off of the internet and could use some major tweaks.
+  
+  The sounds are just about the same as they were in CS 1.6 and earlier. Explosions and other 
+ small things have been improved, but not much to drool over.
+  
+  Overall, this game will not please veteran Counter-Strike players, it may impress new comers to 
+ the game, but anyone that has been playing for any time at all really wont find anything too impressive 
+ about Counter-Strike : Condition Zero. 
+::::::
+
+::::::
+UserName: btnheazy03
+Rating: 6.6
+Date: Mar 28, 2004 1:52 am PT
+Review:  After passing through the hands of several different developers, the used-to-be highly anticipated 
+ but now universally ridiculed single player iteration of the world's arguably most popular online 
+ multiplayer game has finally been released.
+  
+  But that doesn't necessarily mean it's a good thing. IMO, Valve finally decided to release the 
+ game just for the sake of releasing it... If it took any longer, then people might completely forget 
+ this game even existed, which would surely hurt it's sales even further, considering the fact that 
+ the developers poured so much time and effort into this title. Okay, maybe not too much effort, 
+ becuse if they did, then CS: CZ would probably have met it's originally planned release date.
+  
+  So, is this title worth buying? Well, considering the fact that if you have even the tiniest 
+ amount of interest in Counter-Strike, then you would probably already have the retail version of 
+ CS...
+  
+  My answer to that is NO.
+  
+  Paying full price for a bot and a sequence of scripted events isn't a very wise decision if you're 
+ a causal gamer. My guess is the only people who would buy this game are hardcore, die-hard CS fans, 
+ and people who don't own CS or Half-Life yet (which is like finding a needle in a haystack, pardon 
+ the cliche) .
+  
+  Go get Call of Duty instead if you already have CS. And if you have both, just save your money 
+ to buy a faster card, to preapare for the impending release of Doom 3 and Half-Life 2. 
+::::::
+
+::::::
+UserName: raiden_1012002
+Rating: 1
+Date: Mar 26, 2004 6:03 pm PT
+Review:  This game is not worth getting. It has simply everything which was on cs 1.6 plus its 50 bugs here. 
+ I really wouldnt spend 50 bugs for a piece of junk like this. Luckily i played it in one of my 
+ friends house, my friend somehow likes it (maybe is just a sad little gamer) , but i hate this game. 
+ If u r expecting anything new from this game then dont, I REPEAT, dont buy this game. Its doesn't 
+ offer anything but bordom. But if want to waste 50 bugs for a 6 years old game then go on and be 
+ dissapointed. 
+::::::
+
+-------------------------------------------------

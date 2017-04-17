@@ -1,0 +1,165 @@
+-------------------------------------------------
+:::Game Name::: Fritz 9: Play Chess
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/puzzle/fritz9/review.html
+-------------------------------------------------
+:::The Good:::
+ Powerful chess engine to challenge even the best players.
+ Countless ways to customize your game.
+ Game engine will analyze your game to point out weak spots.
+ One-year subscription to playchesscom included.
+-------------------------------------------------
+:::The Bad:::
+ Confusing, dated interface makes it difficult to take advantage of many of the features.
+ The game locks up occasionally.
+ Instructional videos are brief and aren't especially helpful.
+-------------------------------------------------
+:::Date::: Jan 24, 2006
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.9
+Critic Score: 7.2, 9 Review (s)
+User Score: 7.6, 34 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Viva Media
+Developer: ChessBase
+Genre: Board
+Date:     Dec 15, 2005
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+The strengths of Fritz 9 will likely only appeal to the most advanced chess players. 
+
+  Fritz 9 is the latest version of the superpowered chess engine that was able to defeat Garry Kasparov, 
+ one of the world's best players. If that sounds like a challenge you're up to then Fritz 9 won't 
+ disappoint. However, if you have anything less than an enthusiast's interest in chess, then you'd 
+ be better off playing online for free or picking up the much more accessible Chessmaster 10th Edition. 
+ Fritz 9 does have plenty of features that might appeal to the casual chess player, but if that's 
+ all you're looking for, then you'll end up missing out on most of what makes Fritz a remarkable 
+ program.  
+
+          Fritz 9 is a tough game of chess, but thankfully you can scale the AI to meet your level 
+ of skill.     
+
+  Fritz 9 is less a chess game and more a program that lets you meticulously analyze your own abilities 
+ as well as those of some of the elite grand masters and other notable players from the past 350 
+ years or so. If you refer to chess pieces as "material" and are familiar with opening strategies 
+ such as the Queen's Gambit or the Sicilian Defense, then you'll be at home here.  
+
+  Supposedly the Fritz 9 engine is even more "intelligent" than the previous version, although the 
+ increase is so incremental that, unless you play at the grand master level, you probably won't 
+ be able to perceive much, if any, improvement. However, even if you're unable to fully appreciate 
+ the strengths of the Fritz 9 engine's most advanced calculations, you can still scale to the artificial 
+ intelligence to match your skill level. There are several modes available, most of which simply 
+ alter the AI of your opponent. For example, in friends mode, the program analyzes your level of 
+ play and adjusts the opponent's skill to roughly match yours. You can also adjust your opponent's 
+ handicap based on a wide variety of parameters. If you want to play against an aggressive opponent 
+ who likes to move his queen early and often, you can do so. There are also preset AI opponents 
+ that play differently based on these elements. You can play against a drunk, reckless, or "fraidy-cat" 
+ opponent, each of which behaves quite differently based on the preset behavior characteristics. 
+ The problem is that lower-level opponents seem to make completely arbitrary blunders that clash 
+ with their otherwise careful strategies. The result is an opponent that seems to intentionally 
+ screw up at random moments rather than make subtly worse decisions throughout the course of a game. 
+
+  That might not make for a natural opponent if you just want a comparable match, but in sparring 
+ mode the intentional blunders offer up opportunities to improve your game. In this mode, the AI 
+ will play a strong game but will make a serious mistake at a key moment, letting you sharpen your 
+ ability to perceive and exploit weak moves that your opponent makes. In addition to sparring mode, 
+ there are several other training modes available in Fritz 9. There's an option to play with a chess 
+ coach watching, so that every time you make a potentially costly move, you'll be warned and given 
+ a hint about why that move isn't advisable. Unfortunately, about a third of the time the coach 
+ isn't able to offer any hint beyond the initial objection to your move. Other training modes include 
+ an opening-play scenario, which lets you play a game according to a specific opening theory. If 
+ you stray from the rules of the selected opening, the coach will chime in and let you know about 
+ it. For a more hands-off approach to learning chess, you can watch a series of included videos 
+ where chess masters explain the basics of the game as well as a couple of selected openings. The 
+ videos are helpful for beginners, but the lessons are a bit too obvious for anyone with even the 
+ slightest idea of how to play chess.  
+
+  If you're beyond the level of video tutorials and hand-holding coaches, you can still improve your 
+ game by utilizing the strength of the Fritz 9 game engine to analyze any game you play. You can 
+ select infinite analysis to have the program go over each and every step of a game to determine 
+ where the weakest and strongest moves occurred. In the interest of time, you can simply set the 
+ engine to analyze only the blunders that cost the losing player the game. If you prefer, you can 
+ load up one of the one million games available in the database to examine blunders, checks, and 
+ power moves from previous years. It's the database and analysis features that set Fritz 9 apart 
+ from casual chess games.  
+
+  Bear in mind that since you're basically paying for the game engine, everything else is ancillary. 
+ The interface in Fritz 9 is functional, but it does nothing to help guide you through the various 
+ features of the program. Without previous experience with advanced chess programs, you'll be lost. 
+ But, on the other hand, if you've played Fritz 8, you'll be at home here, as not much has changed 
+ in terms of presentation. Fritz 9 has several 3D chess sets to choose from, and they all look quite 
+ nice, although they also look quite similar to one another. You can play against a couple of fully 
+ rendered 3D opponents as well, including the swami Turk and the robotic Mia. The 3D boards and 
+ in-depth computer analysis do require a bit more in the way of system resources, however. The game 
+ locked up on us a few times while playing on a computer that far exceeded the recommended system 
+ requirements.  
+
+          Included with Fritz 9 is a one-year subscription to playchess. com, which is a $35 value 
+ in and of itself.     
+
+  There isn't much sound to accompany the game of chess, so in that regard Fritz 9 is spot on. The 
+ tinkling of moving pieces matches the material that they're made of, so you will hear a difference 
+ when you switch from the wooden sets to the glass. There's also a derisive voice to accompany your 
+ opponent, which sounds like a series of outtakes from a Robin Williams movie. As such, it gets 
+ annoying rather quickly, but thankfully you can turn the voices off. Also, since Fritz 9 plays 
+ in a window, you can listen to your favorite music as you play.  
+
+  Whether or not you enjoy Fritz 9 depends entirely on your level of interest in the game of chess. 
+ On the one hand, you have to be a fairly high-level chess player to appreciate Fritz 9's strengths. 
+ But, on the other hand, if you're a high-level chess player you've probably already played Fritz 
+ 8, which really isn't much different. Still, Fritz 9 comes with a one-year subscription to playchess. com, 
+ which is a $35 value, and you can play against people all over the world in friendly and ranked 
+ games, tournaments, and more. So, if you want to play against one of the strongest chess engines 
+ in the world, or if your subscription to playchess. com is just about to run out, then you should 
+ definitely pick up Fritz 9. If you just want to play chess every now and then on some novelty boards, 
+ you'd probably be better off with Chessmaster.     
+-------------------------------------------------
+:::User Reviews::: (2 Reviews)
+::::::
+UserName: Death_Dragoon
+Rating: 9.1
+Date: Jul 21, 2006 9:49 pm PT
+Review:  I have this program at home and love it. It is considered the best chess engine in the Chess Community 
+ and is use by commentators at high class USCF rated tournys. YOU WILL LEARN if you buy this program! 
+ Its ranged from a patzer, 100 to a grandmaster 2500+ so you will get owned, and learn, from picking 
+ the right players to play. I have a USCF rating of 1312 so i am knowledgeable about which programs 
+ you can learn from and which programs are complete frauds. And this program is defintlly worth 
+ buying if you are wanting to drastically improve your chess. This isn't a program for people just 
+ wanting to learn as this program can be very expensive if you buy the newer versions which come 
+ out almost every year. 
+::::::
+
+::::::
+UserName: Rambamatic
+Rating: 10
+Date: May 30, 2006 7:35 am PT
+Review:  The first thing I have to point out is that the review of this game offered by gamespot is inappropriate. 
+ It is obvious that noone who revied this game is a serious chessplayer, and this is what this game 
+ is designed for. I will make an analogy. If the average person got behind the wheel of Dale Earnhardt's 
+ car and drove it, he'd probably complain that the shifting was too difficult, the seating was uncomfortable, 
+ the handling was too stiff, the clutch was too hard, etc.... BECAUSE THAT CAR IS DESIGNED TO DO 
+ A JOB THAT 99.9% OF THE PEOPLE OUT THERE ARE NOT TRAINED TO DO. That is exactly what is going on 
+ here in this review. The reviewers have taken a highly technical piece of software designed for 
+ top-flight competitive analysis, and reviewed it within the context of your average video game. 
+ THIS PROGRAM IS NOT INTENDED FOR ANYONE OTHER THAN COMPETITIVE, HIGHLY SKILLED PEOPLE WHO TAKE 
+ THEIR CHESS VERY SERIOUSLY.... AND NOT THE AVERAGE VIDEO GAME CROWD. 
+  
+  Anyone considering purchasing the Fritz series has to understand that this program is a highly 
+ specialized, extremely technical, and very powerful piece of chess software designed for competitive 
+ players within the rating ranges of 1700 up to Grandmaster. This is not a "user friendly" program 
+ for the average player. It is, however, considered at the top levels of competetive chess, to be 
+ the best chess engine available for training and analysis. It is the "industry standard", so to 
+ speak. One of its very strong features is its compatibility with "Chess Base"; a series of software 
+ programs that analyze and train in very specific areas of study (i. e. French Defense, Sicilian 
+ Dragon, etc...)
+  
+  If you are a competition player searching for a technical training tool and dont mind a bit of 
+ a learning curve, this program will last you for the rest of your life. If you are a moderate or 
+ average player who is looking for a friendly game of chess, try Chessmaster 10th edition. 
+::::::
+
+-------------------------------------------------

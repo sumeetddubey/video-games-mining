@@ -1,0 +1,87 @@
+-------------------------------------------------
+:::Game Name::: Lander
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/lander/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov 16, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.9
+Critic Score: 5.6, 2 Review (s)
+User Score: 6.2, 12 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: SCEE
+Genre: Space Combat Sim
+Date:     Oct 31, 1999
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+The single-thruster craft, while perfect for games about landing on the moon, is wholly unsuited 
+ to the precision indoor combat maneuvers simulated in Lander. 
+
+ Games that pit a landing spacecraft against its natural enemy, gravity, have been released for virtually 
+ every manmade computing device except the abacus. However, it's been a pretty dry decade for lunar-lander 
+ simulations. Aside from a few shareware efforts and Palm Pilot programming exercises, no notable 
+ addition to the landing category has appeared since the late 1980s. Lander is Psygnosis' attempt 
+ to reinvigorate the genre by incorporating 3D-accelerated visuals and audio, multiplayer options, 
+ and even DVD support into the classic tale of descending spaceship vs. attracting celestial body. 
+ But thanks to Lander's perversely counterintuitive control scheme, Psygnosis may have killed this 
+ endangered breed of game for good.  
+
+ Lander has a story. Well, enough about Lander's story. The game is structured as a series of jobs 
+ that can be completed for payment. At times, you may have several commissions available at once, 
+ making the navigation of the game's thirty or so levels not strictly linear. You can use the fees 
+ you collect by successfully completing tasks to purchase new weapons, upgrade your ship's engines 
+ and shielding, or even procure one of five different landing vehicles. Every mission involves piloting 
+ your craft to some planetary hotspot and either extracting or delivering an object before your 
+ fuel runs out. Often there are complications, such as having to battle aggressive tanks and gun 
+ turrets. A few missions include some surprises. For example, one routine recovery job has you unexpectedly 
+ defending a besieged tank commander who radios you for help. But generally, the most notable struggle 
+ is the one to keep some semblance of control over the squirrelly hindquarters of your spaceship. 
+
+ Your landing craft is designed in the style of the famous Japanese movie monster Gamera. However, 
+ instead of a single jet sticking out of its rear, the ship's sole rocket thruster is affixed to 
+ its belly and pointed straight down. Like the giant flying turtle, your lander is in constant danger 
+ of flipping over and getting stuck on its back while its stomach-mounted engine pushes it farther 
+ into the ground. There's a keyboard command to right the craft, and you'll be using it often, since 
+ controlling the vehicle is so difficult. To move the ship, you must point it in the direction you'd 
+ like to travel then apply some thrust. The ship will shoot off in that direction, its trajectory 
+ influenced by the force of gravity. If you've applied too much throttle or simply want to go in 
+ another direction, you need to reorient the ship and fire the thrusters again. The problem is that 
+ getting the ship to point in the desired direction is much trickier than it should be. Using a 
+ combination of the mouse and keyboard, you can rotate the ship on three axes, but the rotation 
+ is inexact and especially difficult in the heat of battle.  
+
+ Once more or less mastered, the control scheme works best only when the game gives you some room 
+ to maneuver, such as when you're flying over the surface of a planet with nothing but sky above 
+ you. At these times, Lander is almost enjoyable. Unfortunately, the goal of virtually every mission 
+ rests within a maze of cramped, Descent-like tunnels. Attempting to pilot the craft through these 
+ areas is unpleasant at best. Worse yet, the camera placement is not always up to the task of providing 
+ you with a clear view of your surroundings. Often, you must attack ceiling-mounted turrets that 
+ are not actually visible, and flying up through vertical tubes is an act of faith since the default 
+ view points down. You can adjust the camera manually, but it's just too cumbersome when you're 
+ simultaneously trying to micromanage control of your ship. This extreme, unwavering difficulty 
+ combined with a lack of an in-mission save option guarantees hours of frustration.  
+
+ At least Lander's graphics are excellent. Fog, lighting, and weather effects are very well done, 
+ and if you stick with the game long enough, you'll witness some incredible vistas. The somber techno 
+ soundtrack is also good. Up to four players can participate over an IPX or TCP/IP connection in 
+ any of Lander's three multiplayer game modes - deathmatch, capture the flag, and tag. The multiplayer 
+ game is stable and relatively smooth over the Internet, but is really nothing more than a chance 
+ for you to experience the agony of controlling Lander's wacky spaceships with three of your friends. 
+
+ The single-thruster craft, while perfect for games about landing on the moon, is wholly unsuited 
+ to the precision indoor combat maneuvers simulated in Lander. It's like taking a blimp to a jet 
+ battle. Lander is ultimately a grim depiction of a future in which mankind's elite starship pilots 
+ don't even have the common sense to choose the right tool for the job.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------

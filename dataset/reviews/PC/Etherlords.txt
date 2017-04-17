@@ -1,0 +1,264 @@
+-------------------------------------------------
+:::Game Name::: Etherlords
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/etherlords/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Dec  3, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.1
+Critic Score: 7.7, 14 Review (s)
+User Score: 7.9, 121 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Fishtank Interactive
+Developer: Nival Interactive
+Genre: Strategy
+Date:     Nov 12, 2001
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Tedious strategy elements aside, Etherlords is the most successful attempt to combine the power 
+ of computer graphics with the dynamics of collectible card games. 
+
+ Etherlords is a strange concoction, shamelessly cribbing from Heroes of Might &amp; Magic for its 
+ grand strategy and Magic: The Gathering for its tactical combat. It's one of those ideas that's 
+ crazy enough it just might work. And sure enough, it does, for the most part. Although the grand 
+ strategy is a bit misguided, the tactical combat is a splendid twist on the concept of collectible 
+ card games.           Creatures and heroes are brought to life with vividly animated 3D models. 
+    
+
+  If you've never played collectible card games (CCGs) , you're probably several hundred dollars richer 
+ than those who have. The idea is that you build a deck suited to a particular strategy and use 
+ it to duel against other players. You play cards to build up a powerful force and to trump what 
+ your opponent might do. You know which cards are in your deck and how they work together. But which 
+ card will you draw next? Which cards does your opponent have? It's a combination of strategy and 
+ mystery, planning and randomness, order and chaos. Games can be exciting, and deck building can 
+ be an enjoyable hobby. Before you know it, you've laid out a nice chunk of change in pursuit of 
+ those rare powerful cards to round out your collection and improve your chances of winning. Although 
+ Etherlords misses completely the collecting aspect, it nails the dynamics of actually playing CCGs. 
+   
+
+  The mechanics of Etherlords as a CCG are almost identical to those of Magic: The Gathering. Magic 
+ players will immediately recognize concepts like mana, tapping, blocking, summoning sickness, walls, 
+ flying, trampling, first strike, regeneration, and so forth. Instead of tapping lands as in Magic, 
+ mana management (or "ether," in this case) is automatic and based on a hero character's experience 
+ level. There are a few significant twists that seem geared to prevent long standoffs. Damage between 
+ attackers and blockers isn't simultaneous, so blocking creatures won't hit back unless they survive. 
+ This means powerful attackers are much less vulnerable, and the end game is more often a bloodbath 
+ than an impasse. After ten turns, wizards start taking damage at the beginning of every turn. Waiting 
+ your opponent out and making sure you have more health will win a lot of duels.   
+
+  Since many CCGs let you play cards during your opponent's turn, there are all sorts of tricky timing 
+ issues and rule exceptions. Etherlords sidesteps these by breaking combat into discrete phases; 
+ you can never act during your opponent's phase. This streamlines the action, and it means there 
+ are fewer nasty surprise trumps ("Ha! I'm casting twiddle to untap my mountain, then I'm tapping 
+ it for one red mana and buffing my shivan dragon just enough to block and kill your serra angel 
+ with holy armor!") .   
+
+  However, the gameplay is fleshed out a bit more because each hero has a specialization that gives 
+ him or her a constant bonus effect. Some specializations work only with a specific card, some work 
+ only with specific types of creatures, and some tweak the basic rules. For instance, life web means 
+ that the hero can get double health from a healing spell called spiritual web. Kobold's cunning 
+ means that the hero's kobolds have a chance to inflict double damage. Dexterous hands means that 
+ the hero might get to draw an extra card every round. There are also skills that can be learned 
+ and improved over the course of a scenario and artifacts with limited charges that can cast powerful 
+ spells at any time in a duel. Unlike a CCG, there's more to Etherlords than the cards themselves. 
+           CCGs never looked this good.    
+
+  Also unlike in a CCG, the graphics are spectacular. Tabletop CCGs use snippets of artwork to illustrate 
+ the proceedings. There have been several computer games based on CCG dynamics, but they've taken 
+ their card motif literally. In MicroProse's computer version of Magic: The Gathering and Genetic 
+ Anomalies' Chron-X, you're actually playing with little pictures of cards. Digital Addiction's 
+ Sanctum and Activision's Star Trek: ConQuest Online went a step further with little figures moving 
+ across maps, but this was still just static artwork. Your orc fighting your opponent's giant wasp 
+ is just pictures of an orc and a wasp. But in Etherlords, they're detailed 3D models with lively 
+ animations. Creatures run, attack, and bleed. Spells are brilliant yellow explosions, crackling 
+ lightning zaps, or green healing auras. Etherlords finally harnesses the power of computer graphics 
+ to bring CCG battles to life. It's a vivid, exciting twist, and it's surprising no one thought 
+ of it before.   
+
+  The graphics are lovely, built from Nival Interactive's engine for Evil Islands, a game that at 
+ least looked good. The heroes and creatures in Etherlords have personality, from hulking dragons 
+ to gibbering gibberlings. The robotic creatures clank, the orcs grunt, and the rats squeal pitifully. 
+ There are even idle animations for the creatures, while they patiently wait for you to decide what 
+ you're going to do. The game's combination of thoughtful strategy and lively animation is like 
+ the holographic chess set in Star Wars or a latter-day souped-up version of Interplay's Battle 
+ Chess games. Also carried over from Nival's Evil Islands is some of the most embarassingly bad 
+ voiceover work you'll ever hear. From heroes' sound bites during battle to the painful narration 
+ between missions, Etherlords is a case study for why you should just use subtitles if you can't 
+ afford decent actors.    
+
+ As a clone of Magic: The Gathering, Etherlords is an inspired success. But as a clone of Heroes 
+ of Might &amp; Magic, it's a disappointing mishmash. In MicroProse's Magic: The Gathering, the 
+ strategic gameplay was all about looking for specific cards. It reflected perfectly the collecting 
+ aspect of a CCG. But Etherlords opts instead for messy resource management and puzzle-game mechanics. 
+ Although the strategy game looks great, using the same 3D engine as the tactical combat, it's tedious 
+ busywork that fills the time between duels.           Although attractive, the strategic game is 
+ tedious.    
+
+  You control heroes on the strategic map, moving them around to gather resources, capture resource-producing 
+ buildings, visit spell shops, and fight monsters and enemy heroes. The scenarios are set up like 
+ puzzle missions, with no randomness and very little freedom. There's a limited range of places 
+ you can go until you're powerful enough to defeat the monster guarding the appropriate choke point. 
+ Experience and resources are doled out methodically, and you almost always have to concentrate 
+ on powering up a single hero to beat the tougher enemies. In the single-player campaign, heroes 
+ don't carry over between missions. Bye-bye, hard-earned experience, expensive cards, and precious 
+ artifacts.   
+
+  There are two basic material resources, mandrake and black lotus. There is also ether, which each 
+ faction uses for heroes and castle maintenance. Then there are four magical gem types, one for 
+ each of the four races. Finally, there's the exceptionally rare frozen flame. You need these various 
+ resources to buy spells and upgrade buildings, but the resource requirements have no discernable 
+ pattern. You'd think the Vitals faction, which opts for healing magic, natural venoms, and woodland 
+ creatures, should only need poison emeralds, right? Wrong. Get cracking, since you'll have to find 
+ a little of everything.   
+
+  You also have to buy runes to power cards. Each time you use a card in battle, it eats up one rune, 
+ which is essentially a charge specific to that card. Heroes can carry five runes per card, so as 
+ you play, you'll run low on charges and have to visit rune shops. It's the equivalent of having 
+ to go back to town to buy arrows for your archer, and it'll have you wondering whether you should 
+ use a card in battle or save it for later. Without actually moving your hero to a rune or spell 
+ shop, there's no way to tell how much they cost. There's lots of potential for aggravating situations 
+ like gathering a bunch of resources to buy that one powerful card for your hero's deck only to 
+ find out that you need two more smoke diamonds. Or, even worse, you can afford the actual card, 
+ but two turns later you realize you forgot to gather bloody rubies to buy the runes you need to 
+ actually use the card. Instead of playing like a strategy game, Etherlords is like shopping in 
+ a foreign country where not only do you not understand the currency, but you have no idea how much 
+ stuff costs.   
+
+  The lack of accessible information about costs isn't the only problem with the interface. There's 
+ a lack of important information in the duels as well. There's no indication of how many turns have 
+ passed, which is crucial since ether disturbance starts damaging heroes on the 10th turn. There's 
+ no way to get information on a hero's specialty or skills, both of which have significant impact 
+ on the gameplay. There's lots of in-game information available by right-clicking, but this isn't 
+ always enough. The manual is thorough but poorly organized, listing spells by type and rarity. 
+ This doesn't help when all you know is that a big robot-looking guy just cast something called 
+ inconsistent reality, and you didn't see any indication of what it did. A log of all spells cast 
+ would have been helpful. More hotkeys also would have been nice.           Spell effects add to 
+ the visual splendor.    
+
+  Etherlords has multiplayer support for duels, but the strategy game is single-player only. No great 
+ loss. The duels are the main attraction, and they're very flexible outside the strategy game. You 
+ can spend points to build your own deck and hero, complete with a specialization, skills, and artifacts 
+ to complement your choice of cards. Five-minute instant skirmishes with randomly chosen heroes 
+ and decks are a great lunch-break game and an ideal way to learn the various cards. The AI makes 
+ some questionable decisions during combat, but on the whole, it knows how to use its cards, and 
+ it'll provide even experienced CCG players with a challenge.   
+
+  In the end, this is what counts. The play's the thing. It's all in the cards. Tedious strategy 
+ elements aside, Etherlords is the most successful attempt to combine the power of computer graphics 
+ with the dynamics of collectible card games. It takes its source material to the next level without 
+ compromising it. If more developers were so clearly in touch with their tabletop roots -- CCGs, board 
+ games, or RPGs -- clever games like Etherlords wouldn't be such a rarity.    
+-------------------------------------------------
+:::User Reviews::: (4 Reviews)
+::::::
+UserName: KingLim
+Rating: 7.5
+Date: Oct 21, 2007 5:14 pm PT
+Review:  I believe Magic The Gathering fans or other trading card enthusiasts may find this more appealing 
+ since the action is primarily based on a trading card game system. However, the turn-based exploration 
+ factor is borrowed heavily from Heroes of M&amp; M. The fusion of the two features in this case 
+ seems like a wet dream come true for trading card fans that yearn for the same thrill on their 
+ PC screen.
+  
+  Although I love Duels of the Planeswalker that is really a Magic card phenomenon-turned-PC game, 
+ Etherlords upped the ante by featuring lively animated creatures and effects that instead of the 
+ usual 2D card art with text. If only Duels would be like that... Anyway, Etherlords win gloriously 
+ in terms of sleek 3D visuals and lively environments. I like the fact that you actually bring your 
+ character around the map searching for better cards to put in his deck which sort of mimic the 
+ way we do it in real life, just that I don't ride on a giant scorpion to do that.
+  
+  However, I'm disappointed with the fake and awkward narration that spoils the mood of a true fantasy 
+ game. The voice actors/actresses basically read off the mission briefing like they never got paid 
+ for the job.
+  
+  Lastly, Etherlords can be overly challenging for the fact that the mission briefing is too vague 
+ for you to know what's going on and also sometimes you met strong opponents too early who outclassed 
+ you a lot and find yourself in a crappy situation. The battles can get boring too because of the 
+ slow combat animations. But it is truly a delightful experience for Magic fans like me to enjoy.
+ 
+  
+  KingLim 
+::::::
+
+::::::
+UserName: garthos2006
+Rating: 4
+Date: Nov 6, 2007 10:27 pm PT
+Review:  Unfortunately more shallow in both accounts. Although I agree with Gamespot review thats its the 
+ best of its type at its release. Magic the gathering (1997) card game elements are far better and 
+ graphically superior but its campaign mode is a joke, I recently tried to play it in 2006. Graphically 
+ I had an over blooming like contrast problem where everything was to white which I couldn't correct. 
+ With that aside not bad for 2001 game, although looking a little old now.
+  
+  I got this in a fantasy pack 2 of 6 games so I still have etherlords 2 yet to try, which is maybe 
+ why I can't get interested in the campaign. Although it did prove better than I was expecting.
+ 
+  
+  Not a bad attempt, but I wouldn't recommend it to anyone today unless you can play it on your mobile. 
+ 
+::::::
+
+::::::
+UserName: Arcana
+Rating: 9.5
+Date: Mar 9, 2005 7:19 pm PT
+Review:  If you deeply enjoy fantasy, turn-based, strategy games of the HoMM 3 and AoW 2 type, you will 
+ be disappointed by EtherLords. The latter imitates the former in a greatly simplified form.
+  
+  But EtherLords does not limit itself to be a fantasy empire-builder. It mostly offers a tactical, 
+ turn-based, fantasy card-game : both within the strategy missions and in a separate "duel" combat-mode. 
+ There, it imitates and greatly simplifies the famous Magic The Gathering (MTG) non-computer card-game. 
+ 
+  
+  So, EtherLords will not satisfy fans of the HoMM type of game and the fans of the MTG type of game. 
+ But it will enchant players who are interested in a synthesis of both types, for quick games with 
+ not too much complexity.
+  
+  EtherLords, especially in the duel combat-mode, has awesome graphics. The more recent World of 
+ WarCraft uses a similar type of visual look, but it does not go beyond the level of quality of 
+ the older EtherLords 1.
+  
+  Since EtherLords 2 does not have the HoMM-like empire-builder of the first EtherLords, I would 
+ still recommend it (in 2005) to anyone who would wish to combine a fantasy card-game (for tactical 
+ battles) with a fantasy 4X-game (for strategic development) . 
+  
+  Since the Russians who have made the EtherLords series have obtained the development contract for 
+ the upcoming HoMM 5 (UbiSoft having taken the defunct 3D0's place as publisher) , my hopes are high 
+ that this fifth edition in the classic series will be visually awesome. 
+::::::
+
+::::::
+UserName: Everclearules
+Rating: 8.2
+Date: Feb 28, 2005 7:44 pm PT
+Review:  Etherlords is a turn based strategy game that plays a bit like Disciples / Age of Wonders / Heroes, 
+ with one major difference. You can create heroes, send them out to conquer land, gather resources, 
+ etc... just like the games I listed. However, the difference is in the battles. If you are familiar 
+ with the card game Magic: The Gathering, the battles are very similar to that. 
+  
+  Basically, your hero has cards which can be played each turn (in battle) if you have the resources 
+ (gained each turn) . Effects range from direct damage to your opponent, summoning creatures and 
+ walls, to upgrading those creatures and walls. A very interesting concept for a strategy game that 
+ doesn't exactly fail, but leaves much to be desired. 
+  
+  What made Magic: The Gathering fun was the thousands and thousands of different cards to be used, 
+ and formed to make strong decks. Etherlords has too few of these 'cards' so the fun of deck building 
+ isn't there, which makes playing those cards a bit of a bore. 
+  
+  If you like Magic: The Gathering and strategy games, you'll probably enjoy Etherlords for a while. 
+ If you like strategy games and want to give a different battle system a try, Etherlords will certainly 
+ give you that. If you like the battle systems in Heroes / Age of Wonders / Disciples, and don't 
+ really want anything different, Etherlords probably won't be a game you would like. 
+::::::
+
+-------------------------------------------------

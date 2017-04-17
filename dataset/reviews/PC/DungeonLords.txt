@@ -1,0 +1,2192 @@
+-------------------------------------------------
+:::Game Name::: Dungeon Lords
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/dungeonlords/review.html
+-------------------------------------------------
+:::The Good:::
+ Pretty fun, hectic hack-and-slash combat.
+ Some charming details here and there, such as some lively bad guys.
+ Lengthy quest offers plenty to both fight and explore.
+-------------------------------------------------
+:::The Bad:::
+ Unbalanced character classes practically force you down a particular path.
+ Lots of noticeably missing features, such as an automap.
+ Simplistic quest system.
+ Messed up audio.
+-------------------------------------------------
+:::Date::: May 13, 2005
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.8
+Critic Score: 4.8, 39 Review (s)
+User Score: 6.3, 1,301 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: DreamCatcher Interactive
+Developer: Heuristic Park
+Genre: Action Role-Playing
+Date:     May 5, 2005 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Unfortunately, a slew of noticeably missing features and other problems may well end up drawing 
+ too much of your attention away from the game's good parts. 
+
+  Though today's role-playing games are often expected to be sweeping, story-driven epics, it used 
+ to be that most such games were pure dungeon crawls. You'd guide a band of adventurers through 
+ increasingly dangerous mazes filled with more and more, bigger and bigger monsters, while finding 
+ treasure, solving the occasional puzzle, and gaining experience levels. Dungeon Lords is a throwback 
+ to this style of gaming, with its emphasis on hack-and-slash combat and corridor crawls. As such, 
+ it's consistent with designer D. W. Bradley's previous works, which include some of the later titles 
+ in the classic Wizardry series. Dungeon Lords is a lengthy game that can offer a lot of the basic 
+ thrills that make role-playing games fun to play. Unfortunately, a slew of noticeably missing features 
+ and other problems may well end up drawing too much of your attention away from the game's good 
+ parts.  
+
+          Gibbering goblins and pompous elves are just some of the types of creatures you'll get 
+ to kill in droves in Dungeon Lords.     
+
+  Dungeon Lords is set in a fantasy world on the verge of ruin, thanks to the ambitions of an evil 
+ wizard. This is your prototypical fantasy story, which casts you as the hero destined to save the 
+ day. Whether you see all this as typically uninspired or traditionally archetypal probably will 
+ depend on how tolerant you are of convention. At any rate, Dungeon Lords may not seem terribly 
+ original with its cast of elves, dwarves, goblins, dragons, and whatnot, but it offers a few amusing 
+ twists in its interpretations of these sorts of icons. The game's got something akin to homegrown 
+ charm. It's not flashy, and it's not trying to turn your world upside down, but it's got kind of 
+ a goofy quality about it that can be a refreshing change of pace from the very serious tone of 
+ many role-playing games. You'll notice this early on as you hear legions of goblins gleefully cackling 
+ like a bunch of bozos as they circle and swarm around you.  
+
+  You play as a single character in Dungeon Lords and are free to choose from a variety of races 
+ and classes when you create him or her. The broad range of starting options turns out to be somewhat 
+ deceptive, but that's not really a bad thing. You can be everything from a dwarf fighter to an 
+ elf adept to a human mage, or maybe one of the game's several different "demigoth" races, like 
+ the diminutive thrall or the hulking urgoth. But these drastically different-sounding choices don't 
+ really limit how you can go on to develop your character as he or she continues gaining experience 
+ throughout the game. In fact, there are a whole bunch of advanced character classes that aren't 
+ available at first, which you'll be able to pursue later on as the adventure continues.  
+
+  The good thing about Dungeon Lords' character advancement system is that it gives you a lot of 
+ freedom to continually fine-tune your character with incremental statistical upgrades so you can 
+ gradually develop him or her however you like. The bad thing about it is that not all the different 
+ directions in which you can grow your character seem particularly viable. Specifically, melee combat 
+ skills seem to be the best, most effective area of concentration. The magic system -- featuring multiple 
+ schools of magic, each with its own spellcasting system and spells -- is interesting on paper, but 
+ it isn't terribly useful in practice. At least, it's not terribly effective for the sorts of prolonged, 
+ nonstop battles you'll be experiencing throughout Dungeon Lords.  
+
+          Combat is a total clickfest, but it can make for some good, hectic fun.     
+
+  What 
+ this game does well is swarm you with enemies. Combat plays out like a basic third-person-perspective 
+ hack-and-slash game, letting you maneuver around, slashing your foes wildly. Health running low? 
+ A healing potion can whip you right back into shape. Even death doesn't matter much, as you can 
+ revive yourself at the touch of a button, at the cost of just a small penalty to your stats. This 
+ contributes to the game's breezy sort of feel, which helps make the experience fun more than stressful, 
+ at least while you're in combat. The action is simple but reasonably responsive. Side-to-side and 
+ backward movement will feel very sluggish at first, but eventually it'll seem like more of a realistic 
+ touch, since it's naturally easiest just to keep pressing forward. You'll typically face a dozen 
+ or so individual enemies at a time, and these do a good job of surrounding you and using both ranged 
+ and close attacks to try to bring you down. One aspect of the combat that's pleasantly surprising 
+ is that enemies can hit one another in their efforts to stop you. Maneuvering in such a way so 
+ that the bad guys get in one another's line of fire is one of the basic strategies involved in 
+ surviving the tougher skirmishes in Dungeon Lords.     
+
+  Action in Dungeon Lords is fairly constant. Even when you're walking the streets of town or are 
+ wandering around in the wilderness (and we do mean wandering -- more in a bit) , it's never long before 
+ you get jumped by a throng of ne'er-do-wells and are forced to fight it out. The pretty solid, 
+ fast feel to the combat, the bright speckled spurts of blood that didn't earn this game an M rating, 
+ and the litter of gold, weapons, and other trinkets left behind in the wake of the carnage help 
+ make these random encounters generally worth looking forward to. When the dust settles, you just 
+ jam on the shift key to quickly pick up everything -- a mindless process that's still rather satisfying. 
+
+          You'll notice a lot that seems missing or otherwise unfinished in Dungeon Lords.     
+
+ 
+  So what's the problem? The problem is the game surrounding all this action isn't that good. A 
+ rudimentary quest system locks you into long-winded conversations with the occasional non-player 
+ character who might eventually tell you to go somewhere, find something, or whack somebody. And 
+ a sprawling, thinly detailed wilderness threatens to knock you off course every step of the way. 
+ Dungeon Lords isn't a short game, so you won't finish it in a weekend. But how long it ultimately 
+ takes you will greatly depend on how much time you spend getting lost.  
+
+  The printed manual, and even the in-game help system, which pops up when you first begin play, 
+ assures you that you can toggle an automap with the touch of a hotkey. But you can't. At least 
+ the game ships with a printed map of the overworld (and there's an onscreen compass) , which is 
+ better than nothing. Still, once you get into some of the more complicated dungeons, you'll need 
+ to memorize the layouts (or, may we suggest, map them out by hand on graph paper?) and keep your 
+ eyes peeled for tiny clues or items that may be critical to your progress.  
+
+  The lack of an automap would be noticeable even if the game didn't refer to the feature, though 
+ the references make the omission much more glaring and annoying than it would have been otherwise. 
+ It's probably the most serious such omission, but unfortunately, there are plenty of others. In 
+ fact, some, but not nearly all, were addressed in a downloadable patch released about a week after 
+ the game. So, if you're waiting for the durability of your armor to decrease, give it up; it ain't 
+ gonna happen. Or if you want to customize the look of your character when you first start playing, 
+ just stop clicking on those buttons, because they're not going to work. It's strange that the references 
+ to these missing features weren't simply cut from the game, along with the features themselves. 
+
+  The gaps in the design contribute to the sense that Dungeon Lords is a seriously buggy game, though 
+ for what it's worth, the game never once crashed on us on our primary test system, in this case 
+ a 2-year-old laptop. We weren't as lucky on two other, newer test systems, though. The game does 
+ perform quite well on lower-end systems, even when lots and lots of stuff is moving around and 
+ attacking onscreen. The look of it ranges from rather ugly to rather impressive. Some of the character 
+ designs look really plain and quite bad, while a lot of the enemy creatures are actually quite 
+ imaginative and fluidly animated... and are especially lively in the sorts of large groups you'll 
+ usually find them in. Meanwhile, the environments in Dungeon Lords are pretty plain. Day or night, 
+ the world of the game looks fairly drab. And you'll probably soon grow weary of how your character 
+ will often look back over his or her shoulder at you every few seconds when standing still. As 
+ for the audio, Dungeon Lords sounds about as good, and about as inconsistent, as it looks. Some 
+ nice-but-rare music and occasionally funny effects are undermined by a lot of repetition, a lot 
+ of silence, and some bad mixing that causes some sounds to play much louder or softer than others, 
+ undermining the overall impact.  
+
+          Those longing for a traditional hack-and-slash dungeon crawl should find most of what they're 
+ looking for in Dungeon Lords.     
+
+  Dungeon Lords includes a multiplayer feature, letting two or more adventurers play through simultaneously. 
+ We experienced some pretty bad lag with more than two players running around, but the cooperative 
+ play could help give the game some extra-added depth and longevity. It also possibly invites a 
+ greater variety of playing styles than can be justified when playing through solo, where you're 
+ forced to contend with your enemies alone (in most cases) . Even so, multiplayer doesn't resolve 
+ any of Dungeon Lords' gameplay issues, so you'd need to find another fairly tolerant RPG fan to 
+ appreciate the game's finer points along with you. With some more follow-through, Dungeon Lords 
+ could have been a significantly better game, making it a lot easier to recommend to fans of the 
+ genre. As it is, the game can still be worth getting into, if you aren't particularly bothered 
+ by the parts of it that aren't there.     
+-------------------------------------------------
+:::User Reviews::: (70 Reviews)
+::::::
+UserName: Wackywillpop
+Rating: 7.5
+Date: Sep 8, 2008 9:52 am PT
+Review:  as i started this game i was hoping for something new but as i played i noticed nothing really 
+ was that great to hope for.
+  
+  as you set the options you notice that it has a random encounter option to small normal or more 
+ if you pick more you will be getting monster after monster nonstop.
+  
+  when you need to heal you go into your equipment and use a potion but what's odd is that ever thing 
+ still goes on but the monsters don't hurt you while your in your equipment and half the time your 
+ armor most of the time break and give your penalty's for new armor so be sure to block a lot.
+ 
+  
+  one more bad thing about this game is you cant die really, but after while of playing the game 
+ isn't that bad more of a pass time game i like to call them look in the bargain bin and give it 
+ a try you might enjoy it. 
+::::::
+
+::::::
+UserName: AelfricRaven
+Rating: 6
+Date: Jul 21, 2008 10:39 am PT
+Review:  Some people like it, some people don't, and to be honest, I like the game, but just barely. If 
+ you can look past the glitches the game has, missing features and hard fights, you can have fun, 
+ because at it's core, it's a hack-n-slash type of game, and it plays like one, though it is a authentic 
+ click-fest. Now the worst has to be missing features. I mean, c'mon, no automap?! In a game this 
+ huge?! No way!
+  
+  
+  Gameplay: 6
+  The game to it's core is a hack-n-slash, and like I said before, it's a clickfest, so don't bash 
+ your mouse, and there are some original monsters and bosses. What pisses me off is that monsters 
+ WILL swarm you consistently if you stay in the same place for some time, and some fights can and 
+ will piss you off due to some chessyness of the monsters, like they will knock you down even when 
+ parrying. Classes are unbalanced also, so you're basically going always as a fighter rather than 
+ a mage, because you don't start with runes/crystals/scrolls to help you out in the beginning. The 
+ quests are actually pretty big, so get ready to have to spend some time in them, but the problem 
+ is (like most today RPGs) the quests are very simple. Fetch this and give it to me to have X. Kill 
+ this to be free. Search this and bring proof. Already seen, give me something new please!
+  
+  Graphics: 7
+  The graphics are actually pretty nice, it has a nice ambient and a good amount 
+ of types of terrain to fight, like houses, grass areas, dungeons, caves, etc., and the overworld 
+ is really big. Really, it is.
+  
+  Sound: 5
+  I didn't like the sound much, I thought it was kind of repetitive, and sometimes the sound won't 
+ trigger, or it will trigger too late.
+  
+  Value: 6
+  If you're into dungeon crawls and can look past the bugs, glitches and missing features of the 
+ game, you can have a good time, honestly.
+  
+  Tilt: 5
+  Not much replay value for me, because (like I said before) you can't play as a mage since you're 
+ forced to be a fighter.
+  
+  So here's my breakdown of the good and bad stuff:
+  
+  Good: fun hack-n-slash, good design of monsters and boss, huge overworld (which means a lot of 
+ exploration) , quests actually are quite big.
+  Bad: missing features, can't become a mage (or just barely) , missing sounds or delayed, quests 
+ are simple and monotonous. 
+  
+::::::
+
+::::::
+UserName: roadtoady
+Rating: 4.5
+Date: Mar 29, 2008 12:36 pm PT
+Review:  Graphics were acceptable in general, but some of the graphical glitches, even with the Collector's 
+ Edition were noticeable (smashed crates continuing to hover in mid air after being smashed...) , 
+ items stuck on the sides of walls, etc. The controls were really poor, one had no selection ability 
+ over items/chests/locks that were in close proximity to each other. Targeting of opponents was 
+ totally non-existent, you were stuck w/ the one that was selected for you. Too much random clicking 
+ and not enough though into this one. Even on the Easy setting, died way too many times, and the 
+ game reload feature was way too slow. This piece of software rapidly became a chore rather than 
+ a diversion for one's free time relaxation. Item management in the Invetory area was very iffy, 
+ as to what it was, where it was, and whether or not I was able keep/use it. I guess a nice a feature 
+ was the ability to cusomize the character as it advanced, but I sure did not see too much results 
+ of the advancement, too often the same effects occurred even though I had put advancement points 
+ into the right categories. Not recommended except for the hardcore mouse-clicker set, and then 
+ also to those perhaps with a small masochistic streak. 
+::::::
+
+::::::
+UserName: Poton
+Rating: 6
+Date: Jan 28, 2008 9:45 am PT
+Review:  Its a good game concept and if your reading char 1968 don't post bad reviews if i games not like 
+ "WoW" i'll love it even more.
+  
+  Anyway I was suprised i missed this since i used to play Dungeons siege alot, i'll sum up the good 
+ points and the bad points of the game for you.
+  
+  Good, the character development is quite unique and i grew fond of it, its a good game repetative 
+ but what can u expect its a hack and slash :)
+  
+  Bad the game had some glitches but the patch seem to sort "some" things out. Not enough people 
+ play it and i wasn't too keen on some the graphics even for the date it came out. The worlds also 
+ too under developed its a real shame cause i like the game and it had real potential maybe a better 
+ sequal? Hopefully
+  
+  Overall, i'll definately be following up the sequal and hope it has what dungeon lords currently 
+ lacks
+  its a shame i'm going to have to say its probably not worth getting, just another undeveloped game 
+ that had potiental to be much more =\ 
+::::::
+
+::::::
+UserName: char1968
+Rating: 1
+Date: Dec 27, 2007 1:15 pm PT
+Review:  ok i was at walmart when i got this i was gonna get call of duty 1 and then i saw this it looked 
+ kinda cool a little like world of warcraft.
+  boy was i wrong this is nothing like it all you do is run around with everyone wanting to rip out 
+ your gutts its so dumb sure it was in the 10 $ section but it should be in the in the 10 cent section 
+ its horrible i hate it i would recommened buying a hunk of tar you'd have tons more fun watching 
+ it decay. its dull and boring you may's well sit in front of a shut off tv. the graphics are ok 
+ not good and not bad wepons are weak like plastic swords the talking is horrible the peoples mouth 
+ dont even open!!! so dont buy you'll be happy. if you buy you'll reget it 10000000000000000000000 
+ 00000000000000000 000000000000% so stay away!!!!!!!!!!!!!!!!!!!!!! 
+::::::
+
+::::::
+UserName: Logfloater
+Rating: 9
+Date: Dec 27, 2007 11:55 am PT
+Review:  I had an absolute blast with Dungeon Lords. Although this review is based on the "Collector's Edition," 
+ it seems that many of the bugs with the intial release were worked out with a number of patches.
+ 
+  
+  It is understandable to be frustrated or downright disappointed with an unfinished release, and 
+ DL certainly falls into that category. But in my 15 or so years of game buying experience, I can 
+ without a doubt say that I have yet to play a bug-free game. In fact, even the best games require 
+ a number of patches to fix unforseen problems. If one bases their opinions of games solely on bugs, 
+ then that person must not be much of a gamer since there isn't a PC game in history without them.
+ 
+  
+  Dungeon Lords is a great amalgam of Action, Adventure, and RPG. I enjoy all three genres, but have 
+ never seen them combined so well. The story is interesting, if cliche. That really doesn't bother 
+ me, since the "save the world" formula is tried and true. Sometimes when designers try to be too 
+ original it just doesn't feel right and therefore doesn't work.
+  
+  The interface is perhaps the most unique aspect of the game, requiring two hands to play just like 
+ most Action games. The world is expansive, although "containerized" a bit, if you will, unlike 
+ games such as Morrowind. I mean, there were very distinctive boundaries. There are a number of 
+ fearsome creatures to battle, and even the peons have a tendency to swarm and do some damage if 
+ you're not careful.
+  
+  I do have a few complaints, though. The combat system is annoying at times, and some encounters 
+ can be inhumanly difficult without the right skills or equipment. The quest log is very poor and 
+ gives few details for direction. In fact, you almost need to go old school for many quests by jotting 
+ down some important points in certain NPC conversations. Some of the puzzles are difficult to figure 
+ out as well and I consulted the walkthrough guide a number of times. 
+  
+  Overall, however, this was one of the more enjoyable gaming experiences I've had in a while. I 
+ found the Collector's Edition in a resale store for $10, so I certainly got more than my money's 
+ worth. I would recommend you try to find a used copy, although it is certainly worth full retail 
+ to me.
+  
+  
+::::::
+
+::::::
+UserName: malachi_27
+Rating: 6
+Date: Nov 11, 2007 5:36 am PT
+Review:  Dungeon Lords is not the kind of game you've been saving up for and waiting FOREVER! It is the 
+ kind of game not worth 40 dollars ONLY because of its numerous amounts of glitches. Dungeon Lords 
+ is a very basic Action Role-Playing game. Nothing special. 
+  
+  There is a huge world for you to explore, which is fun, actually. The dungeons, such as the first 
+ one are very unforgiving and challenging. 
+  
+  You probably will die a lot in this game, sadly. After you die a million times, you no longer lose 
+ experience or items, your character is just some weak guy who can't beat any monster that comes 
+ up to you. By the way, monsters do suddenly pop up out of nowhere in this game, which is annoying 
+ to me.
+  
+  I' m not sure if I should recommend this game or not because I feel it was not worth the 40 dollars 
+ I paid for. If you want this game, go ahead and buy the 30 dollar Gothic and Dungeon Lords collection. 
+ Now that is worth it! 
+::::::
+
+::::::
+UserName: Olzme
+Rating: 1.5
+Date: Oct 28, 2007 2:36 pm PT
+Review:  Ok, so being the fan of RPG games, this game caught my eye. The back of the game mentioned numerous 
+ quests, weapons, dungeons, towns, and monsters.
+  
+  It however, did not mention the horrible sound, gameplay, lag, and bugs.
+  
+  When you first 
+ start the game (assuming you have Collector's Edition) , it seems as normal as an RPG can get. Decent 
+ Graphics and realistic forest sounds, but then as I got into a fight with a group of bats, I knew 
+ something was wrong. The weapons in the game are not in the slightest unique except the appearence. 
+ You click, you slash. In your stats page, you can use your exp points to add more slashes in your 
+ combo. Or, you can whip out your ranged weapon and fling daggers or shoot arrows at your monster 
+ from an edge for half an hour till it drop dead. Don't worry, you can't run out {0. o) .
+  
+  ....
+  
+  This making the combat VERY repetitive.
+  
+  The monsters in the game spawn randomly 
+ (you have an option for them to spawn EXTREMELY often, or just plain often) but they slow down 
+ your game and are really annyoing since it takes 1 minute just for them to load up, freezing your 
+ game every time they show up.
+  
+  Choosing to play as a mage or Celestrial mage is impossible, as you will need to use spells from 
+ spell books. The trouble is, once you use a spell, you will need to wait an hour before you can 
+ use it again.
+  
+  ...
+  
+  Making all aspects of combat in this game repetitive.
+  
+  But the worst part is, that is actually the best part of Dungeon Lords.
+  
+  You don't do anything 
+ in the game except talk to NPCs and fight monsters.
+  
+  Even the NPC dialogue is messed up; many of the options you choose to say aren't implanted. Many 
+ of the options that DO work sound like they were obviously recorded at different times in different 
+ places (which is, indeed true)
+  
+  Every part of this game is horrible and filled with bugs.
+  
+  Bland Storyline, no journal of 
+ some sort to keep track of quests. Empty forests that seem to run on forever.
+  
+  Even jumping in the game is poorly done. Jumping and then passing the ledge and then waiting until 
+ you start coming down is how you climb ledges (similar to Harry Potter and the Sorcerer's Stone) .
+ 
+  Also Occasionally falling through the ground and ending up in a green spaced Oblivion, forcing 
+ you to reload a previous game ( the game does not feature a auto save NOR a quicksave )
+  
+  Oh, and did I mention it takes 7 minutes for you to load a saved game?
+  
+  Save yourself the 
+ time and money. Do NOT buy this game. 
+::::::
+
+::::::
+UserName: data2161
+Rating: 10
+Date: Oct 25, 2007 9:57 pm PT
+Review:  i love the game. it is one of the best RPG's that i have ever played in my life. i love the ability 
+ to control and advance my characters skills and stats to my liking to create a more interesting 
+ and complex game. the monsters are great fun and the weapons are just out of this world. but most 
+ of all my most favorite part is visual effects and the graphics used to bring all of the action 
+ and the spells to life. the only thing that i did not like in the game is that you dont get a 
+ full list of the neither spells and what items make what. it would have been so great if dream 
+ caster could have just included that so that those of us that like to use them would not have to 
+ guess at the mixtures or look on-line and waste valuable game time. but over all it is an A+ rated 
+ game. 
+::::::
+
+::::::
+UserName: vsivertsen
+Rating: 6.5
+Date: Sep 22, 2007 5:01 am PT
+Review:  Characters have very limited dialogue. Houses are completely lacking furniture and the quests are 
+ very simple with no depth. Overall it can keep you busy for some hours, but due to lack of depth, 
+ I didn't feel the urge to play it like I do with many other role-playing games. The game also had 
+ some serious bugs that also put the game down.
+  
+  A later patch fixed some of the furniture problems, but by far not all.
+  
+  My overall feeling 
+ is that the game could have been great if the developers had spent more time fine-tuning it and 
+ making the world more alive. 
+::::::
+
+::::::
+UserName: shervinv
+Rating: 7.5
+Date: Sep 20, 2007 1:18 pm PT
+Review:  As you've read others have thrashed this game for being shipped full of bugs. I waited till the 
+ collector's edition went on sale and started really getting into it a few weeks ago. It's a really 
+ wonderful game and I'm really enjoying it. The graphics are good enough at higher resolutions. 
+ The sound isn't the best... the footsteps actually sound annoying, and the rats are way too loud 
+ and squealy, but no biggie. The character advancement system is unique, you choose to spend points 
+ upgrading various skills or character stats, and they seem well balanced and fun to play with. 
+ You have enough variety in your choices to make it worth playing through a second time with different 
+ characters. The combat system is pretty well done... one of few games that you can actually plan 
+ out offensive and defensive moves during a fight with multiple opponents. The main complaint about 
+ the game is the lack of life in the game environment... they didn't bother having realistic looking 
+ characters in the cities, and even in the collector's edition the places look dead. But again, 
+ not a big deal. There are some bugs remaining with monster moves... monsters can get stuck in areas 
+ and they'll just stand there and take a beating till you kill them, but that doesn't happen often 
+ and it doesn't hang the game. I've had to big bugs that interfere with playing. For a game that 
+ you can pick up for $10 now, I wouldn't even think about picking it up, it's well worth the price 
+ and you'll enjoy playing it. I'd like to see the game developers try again and hire some more staff 
+ next time and finish the game properly. 
+::::::
+
+::::::
+UserName: ButnMashr
+Rating: 7
+Date: Aug 31, 2007 1:28 pm PT
+Review:  D. W. Bradley who the heck is he? I never knew who he was but every time I see his name I know, 
+ he knows RPG. This is pretty hard too get into at first but than its just simple rpg something 
+ different from the rest, it also has hack n' slash game play mechanics into it, so it don't require 
+ a lot of brains. Game takes a whole lot of patience especially when it comes too running around 
+ and fighting random mobs (that pauses your computer for a few seconds before battling them) . Other 
+ than that. It has multi player but not a whole lot of community. Download v1.4 too get the best 
+ out of this game cause it's buggy from the box.
+  
+  When it comes too simple no brainier rpg this game is for you. 
+::::::
+
+::::::
+UserName: LeElohm
+Rating: 4
+Date: Aug 27, 2007 7:20 pm PT
+Review:  The first thing I noticed is there is no journal in this game to track quests. The Mooongate system 
+ requires you to go into a pretty hairy area that I haven't even gotten near, yet, because of all 
+ the dragons flying around. This means a lot of endless running back and forth between the two first 
+ towns until you realize you should just get a spiral notebook and jot the quests and directions 
+ down. Mind you, the main review is right, the directions given are usually pretty obtuse meaning 
+ you'll get lost or frustrated by the limited wildeness environments that have forced edges to guide 
+ you around but usually just wind up getting in the way when some NPC says 'You'll find this West 
+ of Arindell and they don
+  t mention to get west you have to go far north first. Oh yeah and there's another dragon waiting 
+ to nail you or a horde of twenty fire goblins and you're just level 5. Fortunately the AI on the 
+ Dragons and larger creatures suck. If you position yourself in a gateway formed by two trees and 
+ get the creature just on the other side, it'll stay there while you sidestep the fireballs and 
+ spend about 15-20 minutes killing it with throwing daggers. The reward for your grind is like 163k 
+ XP. This sort of grind makes this -not- for the casual gamer. I spent eight bucks for it at Wal 
+ Mart and after completing my Marauder quest and not being able to turn it in? It makes me wonder 
+ if it wasn't overpriced. But I'll keep slamming through it until I can grab some of the better 
+ titles soon coming out. Think of this like a beefed up Diablo2 that has a little bit of plot but 
+ doesn't quite work right and you can decide if you really want to shell out more than a fiver for 
+ this thing. I feel sorry for those folks who paid $40 on its release. After about a month I'lll 
+ do the same thing to it that I do to the free AOL disks occassionally mailed two me. I'll stick 
+ them in themicrowave for two seconds to etchs the surface and see the purple lightening (Any more 
+ than two seconds and you risk the disk exploding) and then turning them into coasters for the table. 
+ Eight bucks isn't too much to pay for some pretty cool etched techno coasters is it? 
+::::::
+
+::::::
+UserName: MassacreV
+Rating: 8.8
+Date: Jun 23, 2007 2:27 am PT
+Review:  This game is hardcore, and for hardcore gamers only. It is not a Lan Party Game i lied. It is quite 
+ a fun game , but jesus, they needed to work abit on multiplayer capabilities. And to fix the Hall 
+ of Lords. LAN IT ALL THE TIME, see how far you can get before the game glitches. i thought i would 
+ like to regen my spells at a nice fireplace, but the game insisted that the fireplace was infact, 
+ not a fireplace, but actually Frybone's House! WTF-MATE! It was worth the 10$ and is fun for single 
+ player if you are tired of Diablo 2 like i was. But sadly there are afew glitches, givei t a try 
+ though. 
+::::::
+
+::::::
+UserName: CooperTeam
+Rating: 9.4
+Date: Jun 20, 2007 11:27 am PT
+Review:  First, before I begin, the review I give is about the Collector's Edition, not the original version. 
+ Gamespot apparently hasn't played the Collector's Edition version of this game. It fixes a LOT 
+ of problems that the original had. Plus, the CE (Collector's Edition) has a lot of updated and 
+ NEW features not found in the original version, such as new skills, new abilities, new maps, and 
+ new quests. You will know it's the CE version because it comes in a tin box (Yes, I said TIN box, 
+ not a cardboard box) with the words COLLECTOR'S EDITION right on there. I do not know what the 
+ original version box looks like so I can't say what else is different.
+  
+  GRAPHICS
+  =========
+  The graphics are fantastic. The views give the idea that you really are in a forest, 
+ a town, or in a dungeon. The interface display is very well set up. Even the inventory and character 
+ display is very nicely done. The monsters are also well designed and detailed. Zombies, skeletons, 
+ worms, wolves, even living trees all look freakish and well suited. I will say, you will have tons 
+ of fun fighting fire-breathing DRAKES. The environment looks are just outstanding. Rocks, trees, 
+ grass, even building walls all look very well designed and give off every detail. And wow, you 
+ should see how they did the looks of the spells. The magical abilities are very nicely detailed. 
+ (You should see how the lightning bolt and fireball look) And lets not forget the day &amp; night 
+ simulation. the programmers even spaired no expence on the design of the weapons and armour. The 
+ only thing that might get you is that some how, water is not flat. Somehow the programmers didn't 
+ take into effect that water shouldn't have hills or plateaus. (No, the water doesn't have waves 
+ or tides, it is hills and plateau sahped) Other than that, you will be very pleased with the graphical 
+ design of the game.
+  
+  CONTROL
+  =========
+  The controls are simple to use. arrow keys control strafing and forward/backward while the mouse 
+ is used for aiming and direction and some action commands. Plus, conversation interface is very 
+ straight forward, click on your response and off you go. Even the character developement system 
+ is very easy to use. You will also love the kinds of classes and heraldries you can become, including 
+ the following...
+  
+  Battlemage
+  Deathlord
+  Knight
+  Ninja Lord
+  Overlord
+  Samurai
+  Shadow Lord (Only found in CE version)
+  Valkyrie
+  War Witch
+  Wizard
+  
+  Also, 
+ what I do like is that, instead of using general spell points, the amount of spells is based on 
+ how many arcane, runes, celestial spells you buy or find. Most magic is charged so you can regain 
+ your spells back over time after use. There is quite a number of Arcane, Rune, Celestial, &amp; 
+ Nether spells to use and master. Plus, there are tons of weapons to find or buy as well as armour, 
+ artifacts, accessories, and magical trinkets. Plus, if you love Multi-player, this game has mulit-player 
+ options to use. So you can play alone, or with friends.
+  
+  OVERALL
+  ========
+  I think you will be impressed with the CE version of this game. The only problem you might run 
+ into is when the game generates random monsters. It has to load the monsters first causing lag 
+ in the game, pretty much to a hault. It's a bit annoying at times, but it's not always that bad. 
+ in the past 100+ hours I played this game, I have yet to ever see the game crash on me. So somethikng 
+ to keep in mind when getting this game. Also, I do not recommend using the ALT-TAB to go back to 
+ windows, that's the ONLY time the game will crash on you. This game has a lot to offer for anyone 
+ who is into Adventure/RPG games. 
+::::::
+
+::::::
+UserName: Osma7
+Rating: 5.2
+Date: May 17, 2007 11:27 pm PT
+Review:  First a disclaimer: When i played Dungeon Lords, I played the Collectors Edition, which started 
+ with all the patches and then some, so many of the well known difficulties with the game (such 
+ as no mapping) had been fixed already.
+  
+  Dungeon Lords is an incredibly mixed bag. For one, the game starts out hard, and ends up stupidly 
+ easy, and even easier if you figure out a few of the little tricks to the game. In fact, to a great 
+ extent, most of the game falls down to the little tricks, the things that you were not really supposed 
+ to do, but almost have to do.
+  
+  A few examples of the broken game-play:
+  -Fire drakes (the dragons of the game) are incredibly difficult to kill without high armor, fire 
+ protection, a highly damaging weapon. Or, you could just stand off a bit and spend 20 min with 
+ a bow and arrow. If you get the dragon stuck on a terrain fixture, you can strafe back and forth 
+ to avoid his fireballs and shoot them to death with the smallest bow in the game (and the biggest 
+ bow does only a few more points of damage) .
+  -In many parts of the game, it is easier or faster to get around an area by simply finding one 
+ of the sections of unclimbable mountains and walking up the side at an angle. In fact, in one quest 
+ where there are 5-7 dragons guarding an area, the easiest way to kill them all is to walk on the 
+ mountain top and shoot them (they wont respond if you don't get too close)
+  -If you are willing to gamble your hard earned money, you can fight in an arena and kill a minotaur. 
+ This minotaur is somewhat easy early on, and after killing it about 30 times you are so strong 
+ it is a pushover, with good exp bonus every time you kill.
+  -If you need more hard earned money, train your Honor. It is basiclly your charisma and the shopkeepers 
+ will sell you at better prices. Since you get Honor for every quest, eventually you can sell for 
+ more then you buy. -And finally, when you are done with one of the last quests, you get a reward 
+ of a ok set of weapons, or a massively overpowered spell. If you sell the spell to the shop, you 
+ can buy INFINITE copies of the spell (with your infinite money) and then cast the spell in every 
+ battle for the rest of the game.
+  -With few exceptions, you can kill every boss and sub-boss with a bow and arrow without taking 
+ damage. You can be hit by a spell, but they will never hit you in melee combat because each boss 
+ area has a section where you can stand and never get hit, such as at the top of a ladder (they 
+ can't climb) or across a gap.
+  -Oh and the Gamespot review was mistaken, it is very simple to be a mage in the game. In fact, 
+ if you like, you can put away your weapon and almost never use it. All you have to do is use the 
+ above tricks and buy 100 copies of every spell with your infinite money. Between all the spells 
+ available and 50-100 copies of each spell, being a mage is a snap.
+  
+  The game is interesting, a challenge, and fun to play (once you turn the random encounters down 
+ a bit.) . But only for the first half of the game. Once you get strong enough to actually kill the 
+ monsters you are fighting, the game becomes a mindless process of getting through the next fight 
+ so you can get on with the game. While it is fun to find that next powerful magical item, often 
+ you don't have the skill to use it, or it is so strong that the monsters that were providing some 
+ danger become child's play. Half of the best classes require skills to be raised so high that it 
+ is a pain to reach, and then you get access to skills that are not worth the effort to gain the 
+ class, and half the skills in the game are either useless, or only needed at low levels to function.
+ 
+  
+  Replay Value is very low. You might try it a second time, but doubtfully a third.
+  
+  Overall, I enjoyed playing the game.... once. It is fun to encounter an army of foes that is supposed 
+ to be one of the major battles of the final chapter and kill them all in 5 castings of a spell. 
+ It is a great laugh to have the evil mastermind say You have done well to come this far, but let 
+ us see how you handle THIS! and you kill the monsters he throws in less then 10 seconds. But any 
+ game that is so broken that would put you in the final battle with equipment that makes it last 
+ less then 30 seconds is not well built, and needs quite a bit of work before being released as 
+ the 5th version. 
+::::::
+
+::::::
+UserName: Spyder_2006_04
+Rating: 6.3
+Date: May 1, 2007 12:32 pm PT
+Review:  I was very excited when i first play Dungeon Lords but after 1 hour of gaming i understood that 
+ this was an unfinished game. The game had an interesting story but the producton team was'nt able 
+ to give game that ,, charm'' of Diablo or Oblivion. It's a shame that such a good idea resulted a 
+ bad and boring game. The gameplay is just horibble and the sound is weak. The Ghraphics are prety 
+ good but the bugs are something normal in this game. The game is also to hard for ,, ocasional'' 
+ gamers. The fine thing is the customatization of the character ,there are a lot of things that you 
+ can do with your characte: you can turn him in a lizzard if you want that but i don't suggest that, you 
+ will have a lot of problem if you do that during the game. Bad game good idea. 
+::::::
+
+::::::
+UserName: jack_masters
+Rating: 9.8
+Date: Dec 30, 2006 1:31 pm PT
+Review:  I'm very disappointed of the grade this game got, sure it has bugs ,even with the patches , sure 
+ the graphics aren't like oblivions (thank ..... god or whatever) . The thing that makes this game 
+ so good is the tech. requirements , i've got a really slow computer (256 mb ram ; 256 mb video 
+ card , 1600 amd Sempron processor) looking at other RPG's with the similar tech requirements you 
+ can definitely see the difference , the only game that can compete with this game is fable (the 
+ music and the ..... fable like world give's you a great feeling , to bad it gives you that sensation 
+ only once) . Take a good look at this game because this is one of the good ones , the experience 
+ that it gives you is unique , it is in a league of it's own , nowadays games are made with graphic 
+ innovations forgetting about the content of the game , a good example is Oblivion , sure it has 
+ great ....... actually this game has fantastic graphics , but no good content to back it up , you 
+ can play for hours defeating monsters that come out of random portals but eventually you wil get 
+ bored. I give this game a 10 for gameplay a 9 for graphics a 9 for sound a 10 for value (deserves 
+ a 12) For the great experience the this game gave i can only say: Dungeon Lords OWNS the RPG class. 
+ 
+::::::
+
+::::::
+UserName: whheiman
+Rating: 5.1
+Date: Nov 27, 2006 10:10 pm PT
+Review:  I started the game playing the demo off this site, which got me hooked, so I bought the special 
+ edition with maps and such, looked great. The game was cool at first, then got very boring with 
+ the same random monsters every turn. How many scorpions can one man kill? As for the graphics they 
+ were ok, but soon I hit a bug that would not allow me to continue the game. I tried to help this 
+ guy find his flask and it's no where on the left side of the map, yet I cannot get back into town 
+ or move forward. So I quit and moved on to DDO. 
+::::::
+
+::::::
+UserName: tonykorea
+Rating: 8.2
+Date: Nov 26, 2006 5:12 am PT
+Review:  Gameplay - 8 : Very fun game with lots of stuffs and quests, but has significant bugs.
+  
+  Graphic - 10 : One of best graphic I ever saw on RPG.
+  
+  Sound - 8 : remarkable sounds and 
+ nice voiceactings. Value - 5 : Since there already is Marrowwind, this game remained to be a similar 
+ with Marrowwind.
+  
+  Reviewer's tilt - 9 : One of best action RPG game I ever played.
+  
+  I have seen many reviews of games from gamespots, but several games were underappreciated. Another 
+ example of these are :::::::
+  
+  Breed
+  Chrome Specforce
+  Driver 3
+  Bad day LA
+  Lineage 2
+  
+  I enjoyed these games very much, but gamespot doesn't listen to other people much! 
+ 
+::::::
+
+::::::
+UserName: Tay_Esh
+Rating: 8.7
+Date: Oct 5, 2006 7:39 pm PT
+Review:  u can be fighter mage archer (not recomended they suck!!!) but just follow through with it upgrade 
+ it and own tons of monsters all the while laughing with a friend beside u blasting then with lightning 
+ (personal fav) or a cataclysm (best spell in the game... DEATH TO ALL) or owning with dual swords 
+ (anouther personal fav) !!!!!!!! im presently a adept celestial stargazer theif enchantress and 
+ my friend is trying to get mage battle mage warlock enchantress warwitch we own every thing spent 
+ like 2 hours killing elves then 15 mins top killing all the dragons (not a single death) then like 
+ anougher hour on moon beasts and now we are so good that when we play a deathmatch we die at the 
+ same time witch is about .4 seconds lol!! 
+::::::
+
+::::::
+UserName: ScottAdams
+Rating: 4.5
+Date: Sep 12, 2006 12:23 pm PT
+Review:  Wow... this game is literally 75% running. Run to Fargove. Run to Ulm. Run to Arindale. Then run 
+ back to Fargrove. Repeat. It gets very tedious, very quickly.
+  
+  Running is common in RPGs, but this is tough to bear. At least in the Elderscrolls games you have 
+ things to look at or do along the way. But Dungeon Lords... it's just running.
+  
+  I can see where this may have been an interesting game in card/dice form or whatever (although 
+ I have never played that type of game) -- but it clearly did not translate well to the PC.
+  
+  Good idea... bad realization/development.
+  
+  UPDATE: I just got deeper into the "Shadow 
+ Realm" on this game, and my new advice is to not buy this thing. For some reason, this FPS has 
+ suddenly decided to add in ridiculously difficult jumping puzzles and such -- things that can take 
+ 50 or 60 attempts to complete. Being that there is not QUICK SAVE or QUICK LOAD abilities, this 
+ becomes INSANELY tedious.
+  
+  Do yourself a favor, and buy a more mature product -- something that isn't as buggy and randomly 
+ tedious. 
+::::::
+
+::::::
+UserName: ReijMan
+Rating: 5.1
+Date: Aug 25, 2006 1:18 pm PT
+Review:  Like most RPG's the game starts promissing with a nice intro-movie. Its a really catchy ambiance 
+ they give you. After creating a character you start in a forests. Withing 10 minutes you find out 
+ the [shift] key is to use objects, which is something very odd.. Since there is no reaching in-game 
+ help of setting reviewer its quiet annoying. All such bad things, in the game overrules the  
+ by far. On normal settings, respawning groups of bats and rats drive you nuts. Inventory filters 
+ don't work, minimap is useless and its almost impossible to navigate in cities. I tried to finish 
+ this game 3 times. 2 of them were multiplayer. All 3 times we got stuck due to NPC's dont dropping 
+ items, quest doors don't open or chest staying locked. I think this is a VERY bad thing. Also an 
+ irritating thing is that there is no quick-load/save buttons. The game forgets your quick-keys 
+ and map-history, so if you load and forget to reset your potionshotkeys you die within the minute. 
+ To load exit the game and restart the multiplayergame, load the savegame, select character etc 
+ :S
+  Without doubt this game has a lot of potential, but they have to hire some professional developpers 
+ for sure. This kind of releases cannt be taken seriously. Happy Gaming. 
+::::::
+
+::::::
+UserName: FriendBear
+Rating: 2.9
+Date: Aug 3, 2006 1:00 am PT
+Review:  When Dungeon Lords was first released it was a mess, and extremely unfinished and a year later 
+ with 5 patches, its still barely finished. Huge bugs and unbalances ruin what could have been a 
+ great game instead its something best to leave on the shelves.
+  
+  Fighting is a bit of swing and miss affair, sometimes its pretty interesting whilst most other 
+ times its just plain annoying with too much swinging and hope for the best. Character development 
+ at first class looks like it could be interesting but unfortuntely certain unbalances forces the 
+ player (after several game restarts) to always choose certain paths which limits the game somewhat.
+ 
+  
+  
+::::::
+
+::::::
+UserName: AlphaLeviathan
+Rating: 7.7
+Date: Jul 20, 2006 1:03 pm PT
+Review:  When first starting to play this game, It felt like the game was; in fact made solely by D. W. Bradley. 
+ But as you progress and get past the first couple of quests it begins to come together and make 
+ a good game.
+  
+  The 3d model animations tend to leave a lot to the imagination, and the fighting style is rather 
+ clumsy. But, once you get past these minor obstacles Dungeon Lords can offer you a great role playing 
+ environment. An immerse leveling up system, and plenty of quests for you to do. As well as a pretty 
+ interesting main storyline.
+  
+  I wouldn't suggest this game unless you find it in the bargain bin, as It does have a lot of bugs 
+ and issues. But if you find it for cheap and need a nice game to pass the time, i'd suggest you 
+ pick it up.
+  
+  
+::::::
+
+::::::
+UserName: deathmaster9000
+Rating: 8.8
+Date: Jul 10, 2006 5:06 pm PT
+Review:  Dungeon Lords combines RPG and fighting action in a story shrouded in mystery, surprise, and betrayal. 
+ Customize your own character from a variety of races and class specializations, and then journey 
+ through an enchanted land of ancient castles, dark forests, and dungeon lairs. In either single-player 
+ quests or multiplayer group sessions, you'll brave armies of diabolical foes in real-time combat, 
+ using an arsenal of attack and defense combo moves. Battles feature a vast selection of weaponry, 
+ magic spells, and powerful artifacts.
+  
+  Although this game had a "Rough Start" with the glitches, the v1.3 & v1.4 updates (that are free 
+ on the Official Website of Dungeon Lords) fix that. This game does have a Learning Curve of about 
+ 6-8 hours, but once you get the hang of it, you start to like it more and more. It is "Highly Addictive" 
+ 
+  
+  Graphics: 8/10
+  Sound: 8/10
+  Gameplay: 9/10
+  Value: 9/10
+  
+  ***Overall I would give it: 8.8***
+  
+  Dungeon Lords is great fun to play. By letting players 
+ customize their Characters to a high degree, the developers have given a world of possibilities 
+ to the players. The Graphics and the Sound, are both good, not outstanding, but still good. If 
+ you want a solid game that combines fun, excitement, flexibility, and fast-paced action, take a 
+ good look at Dungeon Lords. 
+::::::
+
+::::::
+UserName: OpalDragon
+Rating: 4.7
+Date: Jun 22, 2006 9:24 am PT
+Review:  I so much wanted to love this game, I bought it the week that it (originally) came out. After playing 
+ with the beta, I was certain that some of the glaring errors and missing content would have been 
+ fixed. They were not. I was even willing to over-look, these errors (the missing mini-map even 
+ mentioned in the spotty documentation, the bug in the inventory system, the fact that monsters 
+ popped to fast and aggro-ed from a fair distance away) , but when I find out that the game had been 
+ patched but was only available as a "Platinum" edition and not free to people who previously purchased 
+ the game, I thought the heck with it.
+  
+  Mr Bradley you have lost a once loyal fan. I will never buy another one of your games. And this 
+ goes for Dreamcatcher Interactive and Heuristic Park. Good bye. 
+::::::
+
+::::::
+UserName: spidi1234
+Rating: 5
+Date: May 21, 2006 10:52 am PT
+Review:  I sincerely expected more from this game when i saw the preview. I expected a good RPG that would 
+ keep me on for days like Gothic did. You can imagine the letdown.
+  
+  The graphics are not that bad, and the game does not ask really much from your computer, the sounds 
+ are decent although the music is quite inexistent. The real problem is the huuge number of bugs 
+ the game has, ranging from doors that don't open to NPC's that dont say what they should.
+  
+  Although presented with a wide number of class and race choices at the begining, don't be fooled 
+ they are only for show because you will inevitably get to hackin and slashin no matter what class 
+ you are ( spells are too ineffective and take really long to recharge)
+  
+  On the brighter side of the game is the coop multiplayer. If you have two computers in one place 
+ and a buddy to play with it will entertain you for some time. Provided you can laugh at the series 
+ of bugs and quirks that the game throws at you ( seeing your friend run around with an arrow in 
+ his behind is quite fun ) . But eaven this is not enough to keep you seated untill the end. Eventually 
+ the game will bore you with endless swarms of monsters and even more mouse clicks that hurt your 
+ ears.
+  
+  I borrowed the game from a friend and i suggest you to do the same.
+  It's not really worth the money, its too long and too boring to finish. 
+::::::
+
+::::::
+UserName: bobbygr
+Rating: 1
+Date: May 9, 2006 10:58 pm PT
+Review:  This game is absolutely horrible.
+  
+  First of all, the weapons are pathetic. I almost developed carpel tunnel syndrome from clicking 
+ my mouse thousands of times to even begin to kill enemies.
+  
+  The weapons are weak, the aiming system is pathetic. The game generates enemies - thousands of 
+ them - almost all of the time.
+  
+  There is no exploring. All you do is click the mouse madly with pathetic weapons and an unbalanced 
+ combat system only to end up dead.
+  
+  The graphics are pathetic. The quests are boring - and you need a pen and paper to write down tasks. 
+ There is no music. 
+  
+  I have the collectors edition, folks and it it absolutely abysmal. This is the worst game purchase 
+ that I've made in over 15 years of gaming.
+  
+  It is a complete rip off and I'll be glad to exchange it at ebgames towards ANYTHING else.
+  
+ 
+  Please, do yourself a favor - do NOT purchase this game. Games like this are the reason for piracy. 
+ Whoever designed this was lazy, incompetent and a complete idiot.
+  
+  I cannot say enough bad things about this trash. 
+::::::
+
+::::::
+UserName: HeidenMark
+Rating: 8
+Date: Apr 28, 2006 7:13 am PT
+Review:  Story : Ok , there is nothing stupid about it. 
+  
+  Open-ended ?? : There are choices you have to choose. ( Guild choosing , A little dialogue options) 
+ Nevertheless , It will not affect the game much. (Just a small fish in the ocean) 
+  
+  Gameplay : My score stands firmly in the gameplay. Yeah with a 1.4 patch installed , you will have 
+ a "mini map" to look at , bringing the game from 1.5 to8.0. (wandering aimlessly without map is 
+ really unbearable) 
+  
+  The game is very challenging , it is very hard in the "just right" way. 
+  It is not tradition 
+ moron Hack and Slash likes Diablo , in which you just have to "left click" and "right click" and 
+ your level goes up in 5 minutes.
+  Playing Dungeon lords , you have to use W A S D , you have to block your enemy' 's attack if you 
+ want to stay alive, you have to spend your experience points wisely because experience points are 
+ really hard to come by.
+  
+  Downward : 
+  Even with a "map" , you could still get lost even you are in town -_-" what else can you expect 
+ when you are in the world map?? hahaha
+  
+  There is no music!! ( Bug ?? , not sure) 
+  
+  Quest's information is so ambiguous that you don't know what you should do and where you should 
+ go. ( You an consult walkthrough anyway) 
+::::::
+
+::::::
+UserName: kueiyen
+Rating: 3.9
+Date: Apr 26, 2006 7:12 pm PT
+Review:  Well, I guess if you really want a big disappointment, you should tried this game. The game offers 
+ horrible graphic that looks like games made in 4 years ago. The cinema movie looks terrible like 
+ games in the 1999. The control is horrible, there is no aiming for the direction of your attack. 
+ you simply hoping to get lucky if you hit any. And most of the time you always receive cheap hit 
+ from enemies. The music.... what can I say... there are hardly any variety of scores.... so basically 
+ all you hear is the enviroment sounds. And most weird thing is that if you press space bar..... you 
+ see your character jump .... like frog. I not joking he/she does leap into the middle of the air 
+ like a frog. I never seem such ugly jump in my life. 
+  I think you might be better off if your try classic games like Elder Scroll III or fable where 
+ the 3rd person perspective and control are far more better.
+  
+  
+::::::
+
+::::::
+UserName: dhofmeister
+Rating: 1.5
+Date: Apr 24, 2006 2:07 pm PT
+Review:  First off, I choose the Very Hard Difficulty rating only because I had to pick something and I 
+ thought the fighting system is really bad.
+  
+  Having only played the demo, perhaps my opinion may be a little distorted, but I can't remember 
+ attempting to play a worse slash'n'hack game than this. The actual story line, quests, etc. may 
+ all be well and good, but the fighting system is simply the worst. Getting caught standing on top 
+ of things, not being able to move at all while fighting, getting my butt smacked by Sewer Slime 
+ of all things!! Terrible response time, no real control over targeting, having my ranged attacks 
+ be almost useless... it took over 100 arrows, shurikens and spells to kill that #%@&*# Ogre Troll 
+ thing from a safe distance. That's just ridiculous!!
+  
+  However, opening the treasure chests was fun. I enjoyed the challenge of finding the right device 
+ at the right moment. But, they ruined that by making lock picking a one-time effort, at least at 
+ the ONE door in the demo that allowed me to lock pick. One try and the door was jammed, not to 
+ be opened again anytime soon. Oh well, its only the demo...
+  
+  And, of course, there's always the chance that I just suck..... 
+::::::
+
+::::::
+UserName: dagoth2
+Rating: 4.2
+Date: Apr 24, 2006 1:01 am PT
+Review:  What was D. W Bradley thinking when they released this, did they think it would sell a lot of copys 
+ if they rushed it out into stores. I Brought from EB Games for $89.95, i shouldn't of brought cause 
+ i could of used the money to buy a way better game.
+  
+  Gameplay 5/10
+  The first time i played this, i thought it was good but i was wrong. They don't have a auto-map 
+ when you first start and the only way to get it is with the update. So i was stuck in the sewers 
+ at the start for a hour trying to find the way out. There isn't a big variety of Guild Quests. 
+ The Guild Quests are really boring. The only way to get somewhere was the Moonbridges. There were 
+ no horses to get around faster which there should of been.
+  
+  Graphics 5/10
+  The Graphics on the characters are good but then the rest of the enviroment looks plain. Did they 
+ think making the characters have good graphics make the players forget about the rest of the enviroment.
+ 
+  
+  Sound 3/10
+  The only music in this game is at the main menu and that's only 1 song. There is sounds in the 
+ enviroment like birds chirping and creatures when they attack you but thats about it.
+  
+  Value 3/10
+  Don't rent or buy unless you like every rpg game made 
+::::::
+
+::::::
+UserName: eric1000
+Rating: 4.1
+Date: Apr 15, 2006 1:54 am PT
+Review:  With Dungeon Lords Bradley has turned away from what he does best and what he is known for, old 
+ school RPG's with obscure puzzles and turn based combat ( Wizardry Series ) in favour of pretty 
+ visuals and fast paced real time combat aimed directly at the 10 year old console junkies, which 
+ pretty much is like Elvis joining a string quartet and having his mouth sown shut. Dungeon lords 
+ is disappointing from the ground up and gets no better as you progress through the game, in fact 
+ it soon becomes a chore just to load the thing up.
+  
+  If you like console games and have hands shaped through many hours into the perfect receptacles 
+ for an X-box controller then you may just enjoy this game, if however you are a fan of RPG's or 
+ other DW. Bradley games then give it a miss and spend your money elsewhere. 
+::::::
+
+::::::
+UserName: Marsp
+Rating: 8
+Date: Apr 8, 2006 4:48 pm PT
+Review:  I played the game last November. And I think I'm going to play it again. The thing I find very 
+ attractive in this game is the many hours you need to complete a simple quest. We are talking about 
+ dungeons and in this game the dungeons are huge with a lot of creatures be spawned again and again. 
+ For example you get into a dungeon in order to fulfill a quest and there you have to figure out 
+ how to recover the quest item and find a way out and to do that you have to kill many creatures 
+ (they are spawned all the time) . How to do that ?? Play the game to find it out..
+  General Dungeon Lords is an action-adventure rpg. The graphics are satisfying and it could be better 
+ (character's appearence could be better) . Moreover there not specific items in the chest and if 
+ you make a mistake and have to load back the game then it's not for sure that you would find the 
+ same things in the same chest. Something that matches better in multiplayers game (I didn't play 
+ it in multiplayer yet) . Now as far the sound was good enough. 
+  For me is a very good game. The bad is that you have to be patient and ready to spent a lot of 
+ time playing it. Morover the built up of the character when he is leveling up could be better.
+ 
+  As far the bugs I played it with the patch. Without the map the game is unplayable. 
+  Personally I believe that is a worth playing game for those that are experienced with adventure 
+ games and furthermore are fans of RPG and Action games. 
+  Something last it was the first time that a player was lef t hand (Your character will carry his 
+ sword in his left hand) :) 
+::::::
+
+::::::
+UserName: Reyveign
+Rating: 2.4
+Date: Mar 17, 2006 5:11 pm PT
+Review:  Dungeon Lords, with its initial release, was a horrible excuse of a game, with its too numerous 
+ to number bugs, and a waste of time multiplayer system... let me put it this way, if Dungeon Lords 
+ was a dart attempting to land on the center of the dart board, it would be flying across the room 
+ into the eye of the drunken fool in the corner. 
+  
+  Even now, after the release of version 1.4 for the original version, the game still bugs to the 
+ point where I'm unable to play, and multiplayer games are completelyh nonexistent. At best, the 
+ most multiplayer games I would find were two, and even then the games closed out almost right when 
+ I joined the lobby. 
+  
+  Apparently there is even a collectors edition, and by the way I hear, the only thing thats worth 
+ getting that one for is the fancy box. It seems that people that own the Collector's edition CANNOT 
+ and WILL NOT be able to play with people that own the original. Just don't play the game, don't 
+ waste time with it, its hands down not worth anybodys time. 
+::::::
+
+::::::
+UserName: Slasher9000
+Rating: 5.3
+Date: Mar 15, 2006 12:26 am PT
+Review:  When I started playing Dungeon Lords I had great expectations, diving head first into the action 
+ it wasnt too long before I discovered the first of many very, VERY annoying problems of a incomplete 
+ game. The WORST has to be the fact that theres NO MAP in Fargrove. After two days of aimlessly 
+ wandering around and completing a few city quests I just got tired of the bugs and annoying goblin 
+ giggles 
+::::::
+
+::::::
+UserName: Ribicaman
+Rating: 7.5
+Date: Mar 12, 2006 12:22 pm PT
+Review:  Very interesting. This game kept me playing for like two and a half weeks and its still quite unique 
+ in a way. The graphics are quite good but the sound need more work. Im suprised by the lack of 
+ multiplayer support. I mean come on! Once I played online and I did not kill 10 goblins and I found 
+ like 10 cheaters. But the game definetely has some good parts. Like the time when I was playing 
+ as a dwarf and I was playing online. Me 2 more dwarfs and an elf. Pretty fun if you ask me. At 
+ one moment we charge into 7 jungle spiders while the elf gives us supporting fire. Nice... The 
+ sound is most of the time more , less OK, but sometimes it sucks. Like when You engage goblins 
+ they laugh in a irritating way.
+  Anyway the game is suprising at i think it should not get a bad grade. 
+  Ribica out. 
+::::::
+
+::::::
+UserName: GuruChaz
+Rating: 8
+Date: Feb 20, 2006 12:06 pm PT
+Review:  I didn't have much fun at all playing the original 1.0 verson of Dungeon Lords when it came out 
+ in early 2005. In fact, I was disgusted by how broken the game was. I decided to give the game 
+ a 2nd chance by purchasing the Collector's Edition that was released Feb 2006. I have to say that 
+ I am glad they finally got this game together and released something that is actually fun and somewhat 
+ addicting to play. Multiplayer isn't half bad either but the only problem is that there aren't 
+ enough online players yet due to the bad press of the original 1.0 version. That unfortunate because 
+ the CE 1.5 is almost like a whole different and functional game. 
+  
+  The areas you explore have been redesigned with more detail. There are more quests, spells, items, 
+ and places to visit than there was in the original. If you didn't like the original release of 
+ this game, I highly recommend you try this new CE version... and I don't say this lightly. Remember, 
+ I'm someone who didn't like the original release at all. Now, I need to go check the multiplayer 
+ servers again... 
+::::::
+
+::::::
+UserName: saeed_lp_69
+Rating: 7
+Date: Feb 9, 2006 10:37 am PT
+Review:  Dungeon Lords is a new breed of epic Fantasy RPG, a unique combination of RPG and Fighter game 
+ action in full 3D, featuring a deep storyline shrouded in mystery, surprise, and betrayal. Dungeon 
+ Lords is loaded with quests, personal missions, extensive skills and special abilities for customizing 
+ your own character hero from a variety of races and multiple class specializations, as you journey 
+ through an enchanted land of ancient castles, dark forests, and dungeon lairs braving an army of 
+ diabolical foes in real time action packed combat to uncover the secrets lying hidden within the 
+ depths of an evolving storyline. Dungeon Lords can be played either single-player stand alone, 
+ or in multi-player group sessions.
+  
+  The great wizard, Galdryn of the Meadows, has been slain by a deadly conspiracy within the Circle 
+ of Mages. His chief ally, Lord Davenmor, now struggles to save his kingdom from the dark forces 
+ of the conspiracy and the onslaught of Lord Barrowgrim's army of marauders. Lord Davenmor has promised 
+ his daughter's hand in marriage to Lord Barrowgrim to quell the invasion, but her heart belongs 
+ to another and after learning of her father's pledge, she has vanished. Sensing treachery, Lord 
+ Barrowgrim has sent his army once more to destroy Lord Davenmor and raze the kingdom. Thus begins 
+ Dungeon Lords, Cry of the Kingdom Cracked, a tale of Love, Hate, Betrayal, Revenge, Honor, and 
+ Evil... 
+::::::
+
+::::::
+UserName: xslayerxpac2
+Rating: 6.7
+Date: Jan 31, 2006 9:11 pm PT
+Review:  Potential. Thats what this game has, and lots of it. If a lot of the things that this game is lacking 
+ in terms of features were implemented at the original 1.0 release, there would be a lot more happy 
+ gamers.
+  
+  CONS:
+  The game itself is a large 3rd person hack-and-slash action RPG which succeeds in providing hours 
+ of entertainment after you've downloaded patch 1.1, then 1.3, then the German 1.4 and finally the 
+ German to English for patch 1.4. The Demo for Dungeon Lords is what im assuming to be version 1.0, 
+ and I played the demo and now I own version 1.3 retail. So with that said, in v1.0 the game basically 
+ lacks an automap, making it frustratingly difficult to navigate throughout the game world. Aside 
+ from the random, rare encounter of a civilian or guard in the starting town of Fargrove, the towns 
+ are empty and lacking any detail that you would see in even the most bland of RPG's. Going into 
+ the armorer's shop I thought there might be a few suits of armor displayed and maybe a shield and 
+ some swords mounted on the walls or something... but no. A few random tables, which were empty 
+ might I add, were placed in the weapons and armor shop. Apparently the elves sleep on the floor 
+ or something, because I purchased an inn key from the innkeeper in the Elven village, and they 
+ don't have anything in the rooms. Nothing. There is a little fireplace looking thing inside each 
+ room, theres even a light-source in each fireplace, but no fire or logs or anything, just a little 
+ 12 foot by 12 foot room with nothing inside it but the floor. The Elven village weapons shop is 
+ worse, even though it's title is "The Hall of Weapons", making it seem like a huge emporium of 
+ weaponry and armor. You walk in and it's a huge room with some pillars inside it, and nothing inside 
+ to indicate that it's a weapon shop, with even less detail than Fargrove's weapon shop. There are 
+ loads of doors in Fargrove which seemingly do nothing, although they are labeled as "Door Plain" 
+ or something like that. The game also lacks a sufficient journal or quest log. When you open your 
+ journal, it gives you mild details as to what your current tasks are in a little transparent box 
+ at the top of the screen. On top of that, it will not update that box even after you've finished 
+ some quests. If you have a quest to talk to a certain NPC, the 'quest log' will tell you where 
+ to go and who to talk to, but after you've talked to that NPC, the log won't tell you the next 
+ step in the quest, basically forcing you to write it down with a pen and paper, or remember it 
+ yourself. This is only the case with some quests, though others actually did work. Some sort of 
+ breath bar should be implamented so you don't start to drown while your under water. There is no 
+ way to customize your character's face or hairstyle or anything else in any version from 1.0 to 
+ 1.3.
+  
+  The sound quality is crap. Most of the NPC's long monologues have a voice over, but they are extremely 
+ soft and you have to turn the volume up a lot to hear it. Most of the sound files are low quality, 
+ with a lot of static and repetition.
+  
+  As far as bugs, i havent encountered anything major. Once in a while I'd see a monster inside a 
+ wall or a tree or something, but other than that, I havent had any game-stopping issues. The game 
+ seems to pause for a quick half a second before a group of monsters spawn in a random location 
+ close to your proximity, making it easy to determine if you're about to be attacked. Also, some 
+ of the items that have PRO Fire or PRO Ice and some other PRO's don't actually do anything. For 
+ example, i found a "Shield of the Dragon" in one of the chests in the drake lair. The shield supposedly 
+ makes you immune to fire, and half immune to cold and magic, but when the shield was equipped onto 
+ my character, my resistances to those 3 elements failed to go up at all, and I could see it in 
+ battle (fire still damaged me, a lot) .
+  
+  The character advancement system seems thourough, although it only proves useful and progressive 
+ to advance your character into a melee class, making the games different types of characters extremely 
+ unbalanced. You can deal out quite a bit of damage using spells, but in the longer battles with 
+ bosses and other large creatures, spells will eventually run out and you'll have to let them recharge, 
+ leaving you no choice but to run from battle if you're a magic class. Dont even try to make an 
+ archer, because the bows do almost no damage, and it will take you forever to kill even a mediocre 
+ monster, even though you have infinate arrows.
+  
+  PROS:
+  In terms of good things about the game, there are none unless you download the version 1.4 German 
+ patch and convert it to English. This will fix the majority of the issues described above, adding 
+ character customization, and a bit more detail into the interior places of cities, as well as fixing 
+ SOME of the bugs and defects an automap was implemented in version 1.3 (finally) . The game actually 
+ has a very detailed environment. The cities are a little more detailed with v1.4, but not too much 
+ more. Not too much stuff to do outside the cities other than killing random monsters that you encounter 
+ at a pre-set interval of time, but the textures are nice and detailed, and I enjoyed exploring 
+ the outdoor environments.
+  
+  The melee combat system is excellent, more realistic than in any other RPG I've played to date. 
+ You can move around to dodge swings, you can block with your shield at the press of a button, and 
+ the shield will actually lose its durability quicker depending on what weapon it's being struck 
+ by (realistic) . If an enemy is blocking your attack, you can quickly move around him to strike 
+ him from behind, or use a slashing method while spinning around to hit him and get past his shield 
+ defenses. You can leap into combat and swing on your way down, making you do more damage. You can 
+ also do front and side rolls, as well as backflips if your athletics skill is high enough, as well 
+ as side-jumps.
+  
+  SUMMARY:
+  Basically, the game is alright after a 1.4 German to English patch. There are still those random 
+ quirks and petty annoyances, but if you're a true RPG fan you'll look past them and realize the 
+ games fine points. The game basically came out weak and ended up average. All the people who gave 
+ this game a low, low rating should install the 1.4 update in English and re-play it, as I'm sure 
+ they'll have a much better experience. All in all, those of you looking for a really good RPG to 
+ spend your future time in should wait til March 20th when Oblivion comes out. *drool*
+  
+  
+::::::
+
+::::::
+UserName: shalock
+Rating: 4.3
+Date: Jan 16, 2006 5:49 pm PT
+Review:  First of all, i hate that the game developers think that a RPG is determined because you have a 
+ character sheet, IT IS NOT THE ESENCE OF A RPG!!! The esence of a RPG its the development of a 
+ personality and the action and consequence in the taking of decitions, which of course, leaves 
+ out of the genre theis Dungeon Lords...
+  
+  In the field of action, the fact that you have to fight with never ending hordes of monsters dont 
+ qualifies for the genre, it has a very primitive combat system, once again let down the magician 
+ clase, and you have to be VERY powerful to win a combat without fleeing, which it wouldnt a bad 
+ incentive if the game was a little decent...
+  
+  It has average graphics and terrible music and sounds, and has a very bad quest system, and a large 
+ map that would be a fine entertainment if didnt feel that it have no sense...
+  
+  I would be a great game if that people wouldve finished it... 
+::::::
+
+::::::
+UserName: vampiregoat69
+Rating: 2.9
+Date: Jan 9, 2006 5:32 pm PT
+Review:  What can I say about a game that seems to have more bugs than the amazon forest. The game looks 
+ great but their seems to be many problems with it, dang where do I start? 
+  
+  1. When you gather items on the ground say 20 long swords and have them in your inventory and want 
+ to sell them to a shop. When you click on it, it gives the option to sell quantity and you can 
+ move the slider. OH but wait you have to sell each one at a time since for some stupid reason it 
+ does not bundle them. (minor problem)
+  
+  2. I entered the trials of the ancients to finish the quest I ended up locked in a room full of 
+ spirits attacking me and a mage that stood high up casting fireballs. I defeated all of them including 
+ spending an hour on the mage just to find out that their is no way out orf the room at all. The 
+ only way out is the way you come in but is blocked by a gate. MMMMM interesting bug so I decide 
+ to go to their web page for help.
+  
+  3. Seems that you can't click on support or anything but Buy Now. Interesting they come out with 
+ a game that is full of bugs, no support on web page, put out a 1.3 patch that seems to be pointless 
+ and obviously do not think it is important to play test a game before it hits the public, can we 
+ say GREED?
+  
+  4. Seems that sometimes the voices cut out and sounds like they are being muffled by a pillow over 
+ the mouth so I have to exit the game.
+  
+  I knew you boys and girls could say it. Over all this game is just not worth the money and do NOT 
+ get me started on Multi play as I think it is lamer still. 
+::::::
+
+::::::
+UserName: irpagan
+Rating: 5
+Date: Jan 9, 2006 5:04 pm PT
+Review:  As of version 1.3 The good parts of Dungeon Lords first - Decent Graphics, not great but good. 
+ A nice Character class system where a character can learn virually any skill. Interesting story-line 
+ its fluid enough to allow for side quests without detracting from the main story. 
+  
+  The Bad - Starting with character generation; You can't customize the way your character looks. 
+ Several of the races don't have female counter-parts.
+  Gameplay; The world noticably slows when ever a "random" monster is to appear, warning you your 
+ about to get ganked. Way too many "random" monster events, works out to like a check every 2 minutes. 
+ Quickly becomes a hack-n-slash. When interacting with others unless head on audio does not operate 
+ correctly. Randomly the audio will decide not play. Randomly the game crashes. No way to load a 
+ save game without quitting and restarting. Noticable abscence of world sounds - walking through 
+ the forest there should be sound not silence. walking through water and sludge there should be 
+ sound, not silence etc. 
+  
+  Dungeon Lords has great potential, if all the bad was fixed. until then it's fun to hack-n-slashonce 
+ in a while but quickly becomes annoying. If your trying to decide whether to buy Dungeon Lords 
+ or Dungeon Siege II, I'll make it easy Dungeon Siege II did it better although had Dungeon Lords 
+ performed to its capability it would have blown DS2 out of the water. 
+::::::
+
+::::::
+UserName: spongebob53186
+Rating: 2.3
+Date: Jan 8, 2006 8:43 pm PT
+Review:  this game sucks............. no npcs....... i played with the 1.4 german to english patch and it 
+ still sucks.................... no furniture.... why is that a big deal...... cause in the starting 
+ town they had some bookcases and a couple beds and stuff and then i get to arindale and apparently 
+ they elfs sleep on floors never read and never sit or eat................ no autosave........ i have 
+ to exit the game back to the main menu just to load up a game....... this game sucks so bad i cant 
+ believe it.................. and then they have the audacity to announce a collectors edition................ so 
+ now you have to buy the game twice if you want what should have been released the first time...... i 
+ hope those lazy bums lose their shirts over this pathetic excuse for a game......... if you want 
+ to see what else is wrong with the game just visit the official forums........... they have pages 
+ of crap that is wrong with this .... gggrrrr... im so mad ............. had to get this off my chest........ WASTE 
+ OF MONEY 
+::::::
+
+::::::
+UserName: jgalt
+Rating: 9.3
+Date: Nov 26, 2006 11:01 am PT
+Review:  If you like a CRPG with an old school feel (think Ultima Underworld with great new graphics and 
+ sound- showing my age!) , but fantastic graphics and sound. It has everything you want in a CRPG. 
+ A great character system with lots of skills, spells, and a total of 5 character classes (2 lvl 
+ 1, 2 lvl 2, and 1 lvl 3 class) . The story is even interesting and much of the dialogue is well 
+ done and some of the set combats and boss fights are very well done. My only complaints about this 
+ game is the large amount of time it takes to walk from place to place before you get the moonstones 
+ (allows you teleport between areas) , and the fact that the combat (especially the really tough 
+ combats) can have a very arcadish feel. This may not bother some of the younger players who like 
+ the console style arcade combat, but I still prefer old-style turn-based combat in CRPG and strategy 
+ games, however I realize that is a dying breed (although Civ4 is a nice exception) . However, even 
+ with the arcadish combat, I found the game surprisingly enjoyable from start to finish. This game 
+ may not grab you in the first 5 minutes, but for many if not most of you this game will grow on 
+ you and really grab you as you continue to play the game. I got hooked about 2 hours into the game 
+ and couldn't stop playing it until I finished it.
+  
+  For those of you who are thinking of buying the game, wait for the Collector's Edition as it will 
+ have the latest patch 1.4 plus extra content. 
+::::::
+
+::::::
+UserName: kocur
+Rating: 5.1
+Date: Dec 20, 2005 1:10 am PT
+Review:  If you are looking for an epic masterpiece like Gothic II, Neverwinter Nights or the recent Fable, 
+ with Dungeon Lords you've chosen the wrong title.
+  I played this game already fixed with the 1.4 patch, so it was not buggy after all and it ran solid 
+ and smoothly.
+  
+  The intro promises a tale of passion and betrayal, but all you experience is hacking and slashing 
+ tons of monsters. I have to admit, it made fun the first two hours and after it became too repetitive. 
+ There is no real story behind and you'll never get identified with your own character. All you 
+ have to do is to go and kill some tough opponent for plenty of experience. Because killing is (unfortunately) 
+ the only way of earning experience and the only way to advance. So if you need to level up and 
+ boost yourself first, because some of the quest opponents may be too strong just now, you have 
+ to run around the area for many hours, wait for random encounters - and kill and kill and kill...
+ 
+  
+  Like already mentioned by another reader, the RPG elements are a joke. In the whole city of Fargrove 
+ which looks everywhere the same, you meet not more than 10 people and can talk just to 5 of them. 
+ Also you'll encounter some absurdities, which could be tolerable in the early Bard's Tale series, 
+ but not in a game from 2005. For example seer Augustus is going to die durging all the game but 
+ he doesn't finally, although he is already considered as "dead", he remains alive preparing to 
+ die and whinning about all the time. Or some commander of a legion who you should meet - you find 
+ only a single person with three empty tents, of course without any signs of a legion. That lools 
+ pretty ridiculous.
+  Another annoyng fact I consider the absence of any objects you could freely (should...) interact 
+ with: flowers, roots, mushrooms, rocks, planks, coins, etc - you can find them only on dead bodies 
+ or in the crates (or buy in the stores) and they'll disappear soon, if you don't pick them quickly. 
+ But their absence makes the game feel pretty "empty" and sterile, you never see something lying 
+ around you could pick or examine.
+  
+  If you're looking for a simplicistic game in the style of early Might and Magic or Wizardry series 
+ full of random fights, runnings around and won't mess with a story, you may like it. The action 
+ may enjoy. But if you're looking for an epos with a logical tale and picturesque quests, avoid 
+ it definitely. Better get Fable or wait for Neverwinter Nights II. 
+::::::
+
+::::::
+UserName: Hydras808
+Rating: 4.3
+Date: Dec 6, 2005 9:21 am PT
+Review:  This is yet another game that isn't finished at release. There's a lot of bugs and the most outrageous 
+ one is that the devs added the option to customize your characters appearence but you can't chnage 
+ it. I mean the options are all there but you can't change anything.
+  At first this game seems alright. The combat is okay though it quickly gets repetive.
+  It's first 
+ when you get to the first "town" that you realise how much this game sucks. Seriously there's about 
+ 50 houses or somthing in the town and you can enter about 6 of them, and there are no NPC houses! 
+ Just stores and that kind of stuff. And did I mention there's about 10 people in this town. Plus 
+ the King of course.
+  And when you enter the town you'll notice this extremly annoying sound. It sounds like 10 retarded 
+ baboons are singing "Holy Night" while 10 others are strangeling cats. And it's really load.
+  After some investigation you'll find out that it's a captivated troll that's groaning and a guy 
+ tells you not upset it. Okay. Sure. But you can't get the damn thing to shut up! So after 10 minutes 
+ you've had enough and you'll have to kill it. Lol.
+  Okay and the story is lousy cliche. I personally don't have a problem with cliche but this is lousy 
+ cliche.
+  And then you get to this elf town or whatever and theres about 5 houses and bleh then you turn 
+ of the game. 
+  
+::::::
+
+::::::
+UserName: DidiCardoso
+Rating: 8.2
+Date: Dec 5, 2005 9:32 am PT
+Review:  I'm sure Dungeon Lords has had several gamers fuming ever since they purchased the game and before 
+ patch 1.3 was released. I read my share of nasty comments about it, but I was still intrigued. 
+ It looked like an interesting game with very nice graphics, and I still wanted to play it regardless 
+ of all the comments about bugs.
+  
+  The first thing I was told after receiving my copy of Dungeon Lords was "don't forget to download 
+ the latest patch". I didn't forget, but the patch seemed to have done nothing. Changing the resolution 
+ made the intro screen pull up to the top left corner of the screen leaving a black area filling 
+ the rest of the screen and the menu screens would flicker when I tried loading a game. The Junk 
+ inventory which was supposed to hold duplicate items was constantly empty and things were being 
+ discarded if I picked them up. Some character customization options weren't clickable, the map 
+ didn't work, monsters were disappearing or going through walls, NPC's weren't giving out the quest 
+ items or key conversations, and there was this Curio Shop where I could keep reselling my lockpicks 
+ for money without losing a single one. 
+  
+  As nosy as I am, I had to snoop around the game folders (this is usually how I break things, trying 
+ to fix them) and eventually found the problem. The patch downloaded to a separate folder, instead 
+ of replacing the older files like it should have. So after manually moving everything to the right 
+ folder, I tested it again and was I ever happy!
+  
+  Ok, still some character customization options wouldn't show up, I was still unable to open certain 
+ chest and some monsters still enjoyed partly hiding in walls, but the rest was fixed. The map made 
+ everything so much easier, considering that before having it, my awesome sense of direction got 
+ me lost for 25 minutes before finding the town gates. Still, it would be nice to see the map as 
+ a whole, instead of just a portion of it.
+  
+  While playing Dungeon Lords I got a similar feeling to that when I used to play Neverwinter Nights. 
+ Except this looked way better. In fact, it's a bit like playing an MMO made especially for you, 
+ if that makes sense. That's the best way I can describe it.
+  
+  The game at first has some very wacky controls, took me a while to get used to even after customizing 
+ my own keyboard settings. After a while - and some deaths - I got the hang of the combat and spell 
+ system. It's very entertaining to move around slashing things and casting magic missile or freezing 
+ goblins in place, especially because the animations for the attacks and spell effects are very 
+ well done.
+  
+  I like that I don't need to wait to level up to upgrade my stats. You do level up when your experience 
+ bar is full, but since you are accumulating experience points as you kill things, you can exchange 
+ them at any time for a skill or stat increase, assuming you have enough to "purchase" the feature 
+ you want.
+  
+  There is a lot of story to be found and an insane amount of quests to do. Several guilds will offer 
+ you tasks so that you can join them, so from each of the 4 starting classes (warrior, priest, thief 
+ and mage) there will be 2 sub-classes, with the advantage of unlocking 2 more if you play a female 
+ character, by doing the Sisterhood quest. You can advance your character by completing any four 
+ of these quests (provided you meet the stat requirements) and gain their respective attributes, 
+ and later develop them into a higher version of themselves. 
+  
+  Let's say you are an Adept and joined the Celestial Order. You get the option to become a Celestial, 
+ a Paladin or a Monk. If you become a Paladin, you will gain the Heavy Armor, Heavy Shield and Heavy 
+ Weapon skills. A Paladin can then advance by becoming a Crusader when the character's stats are 
+ high enough for the "promotion".
+  
+  Certain quests let you pick a Heraldry badge as a reward. Each piece of Heraldry becomes a permanent 
+ bonus (for example, completing the House of Dragon gives you the option to pick a 10% fire resistance 
+ bonus among others) .
+  
+  Another feature that I find the game lacks is a detailed quest log. There's a little log that shows 
+ you the basic goals, but then it either stops showing the next steps or keeps some that you have 
+ already done. Upon completion of a certain task, it won't tell you to go back to the person who 
+ gave you the quest to claim your reward. In some cases, you know enough to progress but then wander 
+ lost for a while looking for clues. 
+  
+  The environments are really beautiful. It's worth stopping to look around and check the detail 
+ on the grass, trees, wall and floor textures. It's especially worth stopping at the elven village 
+ of Arindale, which is reminiscent of Rivendell.
+  
+  The monsters are pretty cool. I mean, you have your standard giant bats, giant rats and giant spiders 
+ that happen to jump and lunge at you - and make me jump in the process - but it wouldn't be an 
+ RPG without them, would it? But then there's an amazing spectre, some huge headless guys with axes, 
+ stinky slime blobs, goblins, a sort of treants, talking rock heads, trolls, dragons, nagas and 
+ scorpions that have so much detail put into them that it was easy for me to get distracted admiring 
+ instead of killing them.
+  
+  More impressive was the dragon that snuck up on me. How exactly does a dragon sneak up on you, 
+ I'm not sure (tip-toeing?) but I turned a corner and there it was, spitting fireballs at me from 
+ behind some trees. My most exciting moment was trying to steal a dragon egg from a nest, on a mountain 
+ side populated by these fire drakes. Died a ton of times getting stuck in the rocky hills and being 
+ turned into BBQ meat, but I got out with the egg!
+  
+  Dungeon Lords has a lot to keep you entertained for a quite a while, especially when it comes to 
+ the multiplayer option. Do you have a couple of friends who play it? Schedule a day and make a 
+ LAN party, it doesn't get better than that. Well, actually, yes, it could get better, since there's 
+ no way to save the character progress for an online game.
+  
+  Dungeon Lords had me right from the intro movie and menu screen music. They're both very epic, 
+ for lack of better words. And so is the adventure. It's a shame to know that this title came out 
+ with several faults, disappointing those who purchased it at launch. But there is still time to 
+ turn it into an even better game. 
+  
+  Except for a roaming lady with a man's voice in the town of Fargrove and some minor bugs which 
+ should be addressed in future patches, Dungeon Lords is a really good hack-and-slash with a great 
+ story, lots of questing, several character advancement options and gorgeous graphics.
+  
+  Review text part of Grrlgamer. com
+  http://www. grrlgamer. com/review. php? g=dungeonlords 
+::::::
+
+::::::
+UserName: EnCahgNeetoh
+Rating: 6.7
+Date: Nov 23, 2005 7:30 am PT
+Review:  This happens to be one of those games with loads of potential that never accomplishes anything 
+ great.
+  
+  In terms of graphical capability it is pretty good. Nothing that stands out or leaves any sort 
+ of lasting impression. But the envrionments are incredibly large and vast. The first town is very 
+ large with lots of things to do while roaming around. The other two towns don't offer anything 
+ great in terms of the overall map of it.
+  
+  As for gameplay, this is pretty much a hack-n-slash title. The fighting can get rather repetative 
+ at times. But it still remains to be a bit fun. As for plot, it was pretty good for a 3rd person 
+ RPG. Although nothing that will leave you breathless as in Soul Reaver 2 or even Final Fantasy 
+ VII. 
+  
+  The exp system is quite nice. I think it offers one of the stronger points of the game, for the 
+ purpose of it being different than any of the other game I have played. Such as, levels are practically 
+ useless. You get exp points for killing something, and you just save them up and increase an attribute 
+ or a skill. For every "level" you gain, you get like 25,000 extra points. That may seem like a 
+ lot, but increasing high level skills will cost around 1.5 MILLION points and up, so it's not a 
+ huge bonus. It makes the concepts of "levels" useless, and just urges you to just keep hacking 
+ and slashing. Also, it's not like a D&D game where you get exp for completeing a quest, so this 
+ just once again MAKES you kill thigns for EXP. This makes it feel more of an action game than an 
+ actual RPG.
+  
+  The real problems with this game lie on how incomplete it is. There are locked dungeons that you 
+ just know that were meant to be a part of the game. People mention side quests that never happen. 
+ There are a whole slew of bugs that just infest this title. There are also skills that you can 
+ have that never get used in the game, and some skills are only used a little bit. Such as "dual 
+ wield medium weapons." out of the hundreds of weapons you have, you can ONLY dual wield (in terms 
+ of medium weapons) a rusty axe (think: one of the weakest weapons in the game) and then some other 
+ medium weapon regardless of how strong/weak. The best combo is one of the weakest medium weapons 
+ plus the best one. So, you can not have a say the first and second best medium weapons and hack 
+ your way to victory. These little things really bring the environment of the game down... big time.
+ 
+  
+  One thing that it seems to be lacking is a large musical score. This is a game where you don't 
+ need the disc to play, so of course I never used it. This could be like the original Half Life, 
+ you can play with no disc, but there is no soundtrack to the game this way. Since I NEVER played 
+ the game with the disc in the drive, I do NOT know if this is the case. Although when I did play 
+ it, there was hardly any music to the game. This can make the trips where you are forced to walk 
+ long distance seem even more boring than they already are. 
+  
+  This game seems to be nothing more than a Gothic wanna-be. It really does try to be this open, 
+ expanded world full of quests and adventure, but falls short on every level, even if the fall is 
+ minute. If you are seriously curious about this game, make sure to get it cheap. Also, MAKE SURE 
+ YOU INSTALL THE LATEST PATCH. If you play a version PRIOR to 1.3 the mini map feature is NOT included... this 
+ means that you will have little to no idea where you are in the world. 
+::::::
+
+::::::
+UserName: Mehfuz
+Rating: 6.3
+Date: Nov 18, 2005 11:22 am PT
+Review:  Dungeon lords is the worst RPG game i have played in this year. From beginning to the ending it's 
+ just full of bugs. There is no quick save or quick load option and you have to quit to the main 
+ manu to load a
+  game during play. But at first look it looks promising - good graphics, attibute upgrading system, lots 
+ of quest, new types of enemies all these could make this a great game. But the gameplay and the bugs 
+ let it down.
+  Even it has no map in its first realease. The area sometimes seems to be confusing. Single player 
+ campaign is large enough to play for 20+ hours. 
+::::::
+
+::::::
+UserName: dwilson32
+Rating: 3
+Date: Nov 12, 2005 9:07 am PT
+Review:  The only thing I have to say about this game, aside from it's empty and boring world, is that the 
+ publisher also published two of the worst games in gaming history. BATTLECRUISER MILLENNIUM - Gold 
+ Edition and UNIVERSAL COMBAT. If I had taken the time to research DreamCatcher and saw those two 
+ games on their list I would not have even considered buying DUNGEON LORDS. If they could continually 
+ publish games from known "bad developers" then we have no business buying games from them.
+  
+  On the bright side, as soon as I start making crap games, I know I will have a sure deal soliciting 
+ DreamCatcher to be my publisher! =D 
+::::::
+
+::::::
+UserName: serial007
+Rating: 5.1
+Date: Nov 10, 2005 7:21 am PT
+Review:  This game had me inspired to play, several playable races and character classes, potential to multi-class 
+ different schools of magic, basically all the right indigents, but it fails to make it work. (Kind 
+ of like a cake that does rise)
+  
+  The audio is ok, but the voice acting is horrible, graphics are not great but not poor either (lots 
+ of clipping) , and the game play is kind of run. 
+  
+  Lots of running from point A to point B quest. 
+  
+  The real problem is the crashes. This game 
+ crashes often. So much so that you need to save before and starting and finishing quests for fear 
+ of losing your progress. 
+  
+  Another problem is the game doesnt seem to be balanced towards any of the thief or ranger classes 
+ and seem focused on only on the Fighter/ Mage classes.
+  
+  Multiplayer is completely wrong, very laggy and tough to co-ordinate where people are and what 
+ they are doing.
+  
+  Nice try but not worth the price (or the effort) 
+  
+::::::
+
+::::::
+UserName: deralict
+Rating: 8.1
+Date: Oct 14, 2005 3:38 pm PT
+Review:  I played the game to the end once out of the box. Now I'm playing a second time through with the 
+ new patch 1.3. The play was good to start with - the patch adds the automap, fixes some quest issues, 
+ adds some spells. It still leaves the game unfinished, but not in ways that effect how fun to play 
+ this game is. 
+  I hear all those folks who are upset because the game is unfinished. It clearly is. But this is 
+ a fun playable game even with its faults. 
+  OK, so I can't change my character's hair. I don't particularly care about that. What *do* I care 
+ about with regard to my character? How it plays. 
+  For instance, you have 10 races/gender options to choose from. What race or gender you choose changes 
+ the way the game plays and how the character develops. 
+  Next, you have 4 starting class choices. You have points to spend to customize your character's 
+ attributes and skill sets. These affect the play. The play is the thing. 
+  OK, like I said, it is still obviously unfinished form the original design, so some of the spells 
+ don't work yet. Most do, and a few were added with the new patch. Even with some spells AWOL, there 
+ is a lot of remaining magic to play with: there are 4 different kinds of magic. They may be called 
+ schools but they are not like other games' "schools." Instead each features magic of entirely different 
+ kinds, which work differently, recharge or are created differently and play differently. Each magic 
+ is unique - the spells are not duplicated between magic types. Mastering one kind is fun. But wait! 
+ there are 3 more (now what would you pay?) . This diversity of magic systems makes for the most 
+ satisfying and complex magic play I have yet encountered in a CRPG. It also makes for great tactical 
+ spell-combat. Honestly, I would like to have the few promised-but-undelivered spells, but I don't 
+ miss them. 
+  I read a review where someone said the dungeons did not get put in. Sorry, but wrong!! There are 
+ great big beautiful multilevel multi-themed dungeons, including one that takes days to get through. 
+ Much, maybe most, of the game is dungeon based, if you count towers, castles, sewers and mazes 
+ as "dungeons." 
+  The chest trap puzzles are fun, and they scale with difficulty in an interesting way. It is possible 
+ to untrap a chest above your current skill level, but it is hard and requires concentration and 
+ dexterity. 
+  The classes have three tiers. Where you might be a warrior to start and a warrior to finish in 
+ another game, in this one you get to be five classes by the end of the game. 2 base classes, 2 
+ elite classes and one super-elite class. There are literally dozens of combinations. My new character, 
+ this second time, is pursuing a battlemage ninja style career. That means he is a heavily armored 
+ magic specialist that in melee combat fights hand to hand, martial arts style, and uses thrown 
+ weapons (shurikin) . This second game plays a lot differently than it did my first time through. 
+ A new, previously unknown, area opened up, there are new quests, new skills, new combat choices. 
+ I love that! There are so many possible combinations - I'm already thinking about how I might develop 
+ a character to play through again after I finish this game.
+  The inventory is fixed now and you can hold and sell the excess equipment that you acquire. Speaking 
+ of equipment there is a ton of it - armor, swords, bows, shuriken, spears, knives, axes, rings, 
+ belts, necklaces, on and on with this or that variation or magic effect. 
+  Most role-playing games when you get to a level you get some points to spend on skills or attributes. 
+ In this game, you earn points from winning each combat encounter and you can spend your points 
+ whenever you want. Immediately, if you like. It's like hundreds of mini-level-ups. 
+  In addition to the combat related points you also get extra points when crossing to a new level. 
+ There are plenty of "regular" level-ups too. By the end of the game my character was level 46 and 
+ just as tough and powerful as you would expect.
+  What about skills? There are a lot of them. 30 or so are available to an individual player-character, 
+ which ones are available depend primarily on class choices. There are almost 50 overall in the 
+ game. Some open up when you win your way into an elite class. Some open up when you get to a certain 
+ point in other skills. 
+::::::
+
+::::::
+UserName: astr0creep
+Rating: 6.5
+Date: Oct 12, 2005 7:25 am PT
+Review:  Dungeon Lords has received some of the nastiest reviews I have ever seen. However it does have 
+ some things going for it like, strangely, lasting appeal.
+  I played the demo. Well, I tried. It was unplayable with bad controls and LOTS of bugs. I gave 
+ it about 5-10 minutes tops. I figured it was bad marketing but I did not notice this game was coming 
+ out of Dreamcatcher Interactive, one if not THE worst game publisher EVER! 
+  Since Painkiller was pretty good though, I gave Dungeon Lords a shot but not before fully patching 
+ it. There is just too great a shortage of RPGs lately to miss any of them, even one from Dreamcatcher.
+ 
+  
+  I was pleasantly surprised. At first, flashbacks from the demo scared me a bit but I continued 
+ playing. Exploring the wilderness a little, bashing goblin and undead skulls was fun and I did 
+ not mind the flawed combat too much. I gained one or two levels and headed for Fargrove, cleared 
+ the sewers and entered the city, explored it and I am now ready to continue with the first quest 
+ of the main story. 
+  
+  I find Dungeon Lords addictive. The XP bar filling up slowly just pushes me to make more kills, 
+ like Diablo or Dungeon Siege. The character gains points and the player can upgrade him/her at 
+ any time which I think is great. The more points the player uses to upgrade a certain skill, the 
+ more skills are unlocked and the leveling system seems quite deep and customizability also seems 
+ infinite, at least for character development. Thats the kind of RPG D. W. Bradley makes, deep on 
+ character developement, something every RPG should be filled to the gills with. 
+  
+  Gameplay basically comes down to making your way through dungeons and forests, killing almost everything 
+ that moves. There are some puzzles involved but not much. The combat, which makes up most of the 
+ gameplay, is difficult to get used to with the controls being the culprit here. The character turns 
+ around too slowly and some of the moves advertised do not work. The best thing to do is stay in 
+ a corner or doorway and block-attack. A real click-fest.
+  
+  Graphically, well, textures are very flat and there is a specular effect on everything, even my 
+ Dwarf's hair. Weird. Like most people, I find the environment very empty, devoid of charm or personality. 
+ The devs should've taken some lessons from Bethesda to add more furniture and decorations to the 
+ houses and buildings, more people in the streets, etc. Dungeon Lords looks incomplete but everything 
+ that is there works, once patched... 
+  
+  Sounds will be familliar to anyone who has played Wizards & Warriors. Because they are the same, 
+ reused. Music is nowhere to be found and the voice-overs are not very good either, although I have 
+ heard much worse in better high profile games. 
+  
+  Dungeon Lords gives me the impression that Heuristic Park simply reused the engine from Wizards 
+ & Warriors with updated textures. Anyone who actually finished W&W will be happy to read these 
+ words and by continuing to play this game, I am hoping similar feelings will surface. W&W is one 
+ of my favorites, despite its bugs...
+  
+  Dungeon Lords is obviously unfinished, with some severe lack of polish. I can only assume Heuristic 
+ park was rushed by it's demon worshipping publisher, since beneath its rusty hood lies a very good 
+ RPG worth patching ASAP. Although Dungeon Lords' severe flaws cannot garner it the score it deserves, 
+ I must still recommend it in these times of RTS and MMO overloaded gaming, especially if you are 
+ a fan of D. W. Bradley (Wizards and Warriors) . Wait for a major price drop though... 
+::::::
+
+::::::
+UserName: DeadlyRamon
+Rating: 7.1
+Date: Jul 27, 2005 6:43 pm PT
+Review:  I just finished the game after about 2 weeks of playing, and I must say that it wasn't quite as 
+ bad as what many others had reported. 
+  Granted, I began the game using the 1.3 patch, and couldn't conceive of possessing enough patience 
+ to play it without version 1.3's indispensable automap feature. I was disappointed by the not-yet-included-but-promised 
+ character customization features for the face and hairstyle, but for the most part that wasn't 
+ too bad, as my character wore a helmet most of the time anyway, and you never see his face except 
+ when he turns around to jeer at you, an automatic process that occurs way too frequently.
+  I bought the game spontaneously as I noticed D. W. Bradley's name on the box while browsing the 
+ software aisle at Walmart, and I've loved previous games of his, but it turns out that this game 
+ was rather underinspired in light of Bradley's Wizards & Warriors and Wizardry 7. Dungeon Lords's 
+ storyline seems like an afterthought to the game, something communicated in patience-trying and 
+ longwinded NPC lectures, but fortunately the action more than compensates for the tedious text. 
+ 
+  Early in the game, it seems like the way you move your mouse as you attack affects the way you 
+ swing your melee weapon, but after an hour or two it seems like that made little to no difference 
+ in the outcome of my fights, so I simply paid no attention to how I swung my weapon and instead 
+ just crazily clicked like I was reliving a 1997 Diablo fest. Investing points into the applicable 
+ combat skills is far more relevant to combat proficiency than is choosing to thrust, swing, or 
+ hack your melee weapon.
+  I'm playing on a soon to be upgraded Geforce FX 5200 card, and despite that the game had consistently 
+ smooth frame rates booth outdoors and especially indoors. I found the graphics aesthetically pleasing, 
+ if not particularly extraordinary, but they certainly got the point across without requiring any 
+ infusion of imagination to supplement them, except in the sparsely furnished hotel rooms and shops 
+ of course. 
+  Given how many people are quite vocal in their condemnation of the game, I had apprehension concerning 
+ the game's stability, yet I'm happy to report that only once did the game crash on me, and never 
+ did I end up getting stuck in any of the dungeons despite worries when I seemed hopelessly lost 
+ in some maze and was on the brink of restoring an hours-old savegame. A little Googling for some 
+ clue or walkthrough eventually set be back on the right track, so while the game gets very linear 
+ at times in that respect, at least such seemingly hopeless predicaments can in fact be successfully 
+ navigated through. There are also a few arcade puzzles that require you to jump at precisely the 
+ right moment onto a series of moving and stationary platforms, and while those were certainly frustrating 
+ for this 33 year-old armchair veteran, they weren't exceedingly so. 
+  Altogether, I'd say the game, however unfinished it remains, is a satisfying action/CRPG hybrid. 
+ I don't really miss the disabled identify and repair features, especially since that means that 
+ all items are already identified and all of them suffer at most just superficial damage that doesn't 
+ seem to affect their effectiveness in the least. The ending was a bit disappointing, but at least 
+ it spared us the boredom of another excessively verbose NPC congratulation. I look forward to any 
+ expansion scenarios that might crop up should the game's fortunes improve. 
+::::::
+
+::::::
+UserName: falco1029
+Rating: 8.6
+Date: Jul 9, 2005 12:14 am PT
+Review:  Before I begin, I am going to say that I am reviewing version 1.3. So lack of "the bugs ruin it" 
+ comments are justified, since many bugs are fixed in this version. I suppose the bets way to review 
+ this is to break it down into the categories:
+  
+  
+  Gameplay- By version 1.3, most game hurting bugs are fixed, a mapping feature is added (so you 
+ dont have to constantly loo kat the paper map) , and the quests are fixed (as far as I can tell) . 
+ So thus, gameplay isnt hurt at all by bugs anymore. Because of this, you can enjoy the great gameplay 
+ with no problems. Basically, the plot behind the game isnt very original, an evil empire is out 
+ to destroy a weaker one, and only you can save him. But it does go a bit deeper. You need to play 
+ it to see what I mean. 
+  
+  The combat system is great, catering to both button mashers and skilled users. Several different 
+ melee attacks, ability to switch between melee, magic, and ranged, plus easy blocking, and other 
+ such things make a well balanced easy to use interface. And that's good, considering you'll not 
+ take 5 steps before being swarmed by enemies. If you dont want to fight, just run, most enemies 
+ wont be able to catch up, and if you get to a town, guards will make quick work of them. 
+  
+  The quest system is ok, but the journal really hurts it. Basically, you get a quick glance 
+ at what you need to know, and that isnt always enough. Thankfully, it tells you who gave the quest 
+ to you so you can go ask them about it again (in most cases) . One bad thing is that there are very 
+ few people around towns and such, and the few that there are arent very friendly. Basically, only 
+ quest-involved characters interact with you. Or bandits, but that's a very different interaction.
+ 
+  
+  The difficulty system is kind of onn the hard side. If you dont want to be swarmed, you can move 
+ the counter in options to the left, and set it on less encounters, but then you wont have the experience 
+ for a boss. Likewise, if you try moving it to the right for more experience, unless you carry a 
+ plethora of healing potions or spells, you'll die and lose some stat points instead of gaining 
+ them.
+  
+  Graphics- At first glance, you'll think they are wonderful. The character models are very well 
+ done, though armor is mostly textured on. The weapons are beautiful, and the spell effects are 
+ spectacular. But then, you enter a magic shop, and see a TEXTURED book shelf, with a TEXTURED candle 
+ on it. It makes you want to be sick. if they had taken a few more months to work on levels instead 
+ of just pasting on a drawing, I could easily see myself giving the graphics a ten.
+  
+  Sound- Not much to say. It was very good. Spells, weapon clashes, monster sounds, talking, and 
+ the like are all very well done, with very few shortcomings. 
+  
+  Value-Nice long game, with some guild side quests, and a couple others, and it's a nice long main 
+ quest if you go through at a steady pace. Though you cant just kill everyone if you're bored, which 
+ hurts realism, so that loses pints. There are also some boring points, or times where you can get 
+ stuck easily, and might need a walk-through.
+  
+  Tilt- Very actiony and fun, which would get it a ten, but the lack of realism and the lackluster 
+ towns make it lose a point.
+  
+  Bottom line is, this game is perfect for action-rpg lovers, though not something that everyone 
+ will find appealing. 
+::::::
+
+::::::
+UserName: Gon2Long
+Rating: 7
+Date: Jun 13, 2005 12:50 am PT
+Review:  I don't know about anyone else butt, I have had nothing but trouble out of this game. I would not 
+ reccomend this game to anyone. I bought the game, it would not load. I contacted Dreamcatcher, 
+ they said that they had not heard of a simular problem and to return the game, I did. I get the 
+ game home and it has the same problem. I give up. If you buy an R. P. G. this year make sure it is 
+ not this one. This is the problem as i see it. First off you go spend your hard earned money purchasing 
+ a game. You get home, open it up and find out it don't work. Now because you opened it, the store 
+ will not do anything but exchange it for the same title. So of course that's what you do. Only 
+ to get it home and find out you pretty much have been ripped off (once again) for 40.00 Bucks. 
+ Thievery I think so. but apperantly legal. 
+::::::
+
+::::::
+UserName: wrednajasobaka
+Rating: 5.7
+Date: Jun 8, 2005 5:14 am PT
+Review:  Games released these days are rarely finished product. Most of the times developers release patches 
+ and fixes long after the game is released and sold in stores. This is more or less acceptable practice 
+ in the industry but in case of Dungeon Lords there are simply too many bugs and missing features 
+ to pass it as acceptable. While missing features like lack of furniture in the buildings or certain 
+ skills not working might cause some annoyance, the quest bugs can significantly hamper your play, 
+ or even grind it to a complete halt.
+  At one point if you save the game you'll get stuck in a room. In another, NPC character necessary 
+ for progression with main quest is disappears. Those are the major bugs I encountered, there are 
+ few more in the side quests.
+  Yet despite those shortcomings I found fun in fighting hordes of creatures in dark dungeons. In 
+ it's basic goal to be dungeon-crawl RPG this game delivers. I also enjoyed solving dungeon puzzles, 
+ they provide nice break from very intense battles with numerous foes.
+  
+  The graphics are nice but nothing extraordinary. It would have been if this game was released last 
+ year, as I suspect was the developer's plan. 
+  There are some people on the forums that reported stability issues with this game, but I never 
+ experienced any on my system. In fact, while playing this game for over 20 hours I never had one 
+ instance of crash or significant deterioration in performance. 
+  
+  Overall, I'd recommend this game only to most hard-core RPG fans, who don't mind some serious bugs. 
+ 
+::::::
+
+::::::
+UserName: chetwebb
+Rating: 6.9
+Date: Jun 4, 2005 7:08 pm PT
+Review:  First and foremost, the game was released before it was ready. It alludes to maps that aren't there, 
+ equipment repair for equipment that never breaks, and custom character enhancements that simply 
+ do not exist. In short Dreamcather misrepresents what the game will do. Dreamcatcher is a dishonest 
+ publisher that gamers should be wary of. I for one will be cautious about all future releases.
+ 
+  
+  Nonetheless, the game has it's moments. It is a big game with much to do. The quests are a solid 
+ part of the back story and while not overly innovative they feel like something the character might 
+ be confronted with in a real situation. Building your character is fun. The system is unique although 
+ it is poorly explained in the documentation. Some missions are short and others are long enhancing 
+ the variety of the gameplay. Sometimes you can accomplish multiple objective at the same time. 
+ This of course depends on how patient you have been in your explorations.
+  
+  On occasion, if you are smart enough, you can take out a monster that far exceeds your ability 
+ to do so. When this happens you will get a mass of experience points that can quantum leap the 
+ growth of your character. There is much satisfaction when you accomplish such a feat. I did this 
+ fairly early in the game with a dragon and as a result had a significant advantage over the regular 
+ monsters in that section of the game.
+  
+  The combat can be fun, particularly when you begin to develop your skills. The thieving system 
+ is a kick and occasionally you can open a difficult chest that far exceeds your ability. The magic 
+ system seems a bit complex but does have it's moments. 
+  
+  You have a lot of different choices for character development and you get to make those choices 
+ often. The more you kill things the quicker you can grow your character. In the end you can produce 
+ a totally unique individual that suits your style of play.
+  
+  Basically, Dungeon Lords could have been a great game but is not. The ideas behind the game are 
+ good but the development of the game is incomplete. Dreamcatcher is not an ethical company and 
+ should be treated according. If your willing to put up with the described shortcomings the game 
+ can be fun. However, do not attempt to play it without downloading the patch. 
+::::::
+
+::::::
+UserName: royboy2100
+Rating: 2.2
+Date: Jun 2, 2005 5:01 pm PT
+Review:  If Blizzard would have made a remake of Diablo, they may do something like Dungeon Lords. I have 
+ to admitt, Dungeon Lord was fun, but that was about it. The storyline and characters were just 
+ flat boring but thats not the whole issue here. The issue is, the game is pretty much an early 
+ beta of the supposed final version all of us were supposed to get. Loads of missing features such 
+ as charactor customization, auto map, and a map. Even in the help tip box where it says to press 
+ M for map, there is nothing there. Game bugs add more problem which ranges from poor AI, bugged 
+ objective like meeting this person and doesn't progress, and missions that even though you completed, 
+ the game still thinks you haven't completed it yet. Another poor feature is the graphics and models 
+ in the game. Character would stand there like a tree, waters look like an ice rink, and enviroment 
+ would just be so empty. An example of that is going into a hotel room and seeing nothing in there. 
+ Uhh, wheres the bed then. Calling this game an uncomplete game is just an insult to any incomplete 
+ game. Other then that, don't touch it. Leave it at the store shelf and get Diablo 1 and 2 instead. 
+ Believe me, you'll be happy with it more. 
+::::::
+
+::::::
+UserName: eliasgames
+Rating: 4.8
+Date: May 27, 2005 11:34 pm PT
+Review:  Graphically this game would have been very good 3 years ago. The physics of the game is awful. 
+ The sound effects are simplistic. Gameplay is good and intuitive.
+  
+  The storyline is incomplete. There are no in game logs so have a pencil and paper at hand. You 
+ may want to keep some graph paper on hand to draw a map as there is no automap even though the 
+ option exists in the keyboard options. Add to the mix some bugs as far as npcs, doors and gates 
+ being stuck make this game a true displeasure to play. Considering the fact that this is not freeware 
+ a class action law suit might be on hand for the publishers. 
+::::::
+
+::::::
+UserName: seneardon
+Rating: 7
+Date: May 11, 2005 4:17 am PT
+Review:  Although there is a glimmer of something good in this lump, the game bears the hallmark of a promising 
+ title that was starved for funds and shoveled into a box to entrap the unwarry. What the hell is 
+ wrong with Dreamcatcher? Every game I have bought that they have handled bears the stunted features 
+ of a whipped and abused puppy. No matter how promising a title, or sound the underlying mechanics, 
+ once dreamcatcher is involved the project goes to feces. This game bears the tell-tale sighns of 
+ this shovelware publishers abuse. 1. Game isnt finished shoveled out the door in a beta state. 
+ Dreamcatcher is building quite a reputation for forcing games out before they are done, for violating 
+ contracts, and for not giving a poopy for the consumers. 2. ... well most of the horrible problems 
+ any dreamcatcher game suffers can be explained by #1. 
+  
+  This publisher seriously needs to be investigated under the RICO act, for fraud on the consumer. 
+ And no matter how desperate for money, no small devs should sighn with this bandit outfit. Unless 
+ you Derik Smart, then you just deserve each other lol. 
+::::::
+
+::::::
+UserName: Guapsrocks
+Rating: 6.8
+Date: May 10, 2005 2:43 pm PT
+Review:  So after playing the demo I posted a message in the forums about how bad the demo was and I got 
+ poked at because I said the game was just 'ok". 
+  
+  I recommend you read the forums about the numerous bugs before you decide to buy.
+  1. No character 
+ features
+  2. Broken map features (yes I know its a skill but its still broken)
+  3. Memory Leaks when NPCs are loading in other areas. You almost always know when your going to 
+ be attacked because your system will pause a few mins before they actually attack you.
+  4. Voice over problems. 
+  5. Quests dont update in your journal.
+  6. Basically you can only 
+ play in 800x600. When you change resolutions and reload from a saved game you get a shrunken screen. 
+ Someone previously described as a picture in a picture effect. 
+  .... just to name a few...
+  
+  Aside from the bugs I have had fun playing the game. I really 
+ havent hit any game stopping bugs, but I have read reviews of many other users that have. I guess 
+ game play bugs are like Russian Roulette, you take your chances.
+  
+  The graphics are not that bad, aside from the bugs i mentioned, but there is a huge lack of content. 
+ The cities are almost barren of people.
+  
+  I did however like the character advancement system. You have alot of flexability on where you 
+ put your stats as you gain levels... 
+  There are lots of items in the game to feed your inventory, but opening chests is rather scripted 
+ because almost everytime I open a chest I get attached by a random NPC mob.
+  
+  This game is in serious need of a patch to not only fix broken features but FINISH some of them 
+ as well.
+  
+  Hopefully if they survive the flurry of software returns .... and we'll get an expansion pack adding 
+ more content which should have been included in the first release.
+  
+  
+  
+  
+  
+::::::
+
+::::::
+UserName: scottchen
+Rating: 7.3
+Date: May 9, 2005 8:30 pm PT
+Review:  This game at first seems... kinda bad because changing resolution requires restarting of the game, 
+ and then the menu is still stuck at 800x600 resolution. Character creation is pretty simple, but 
+ too bad you cannot customize your character's appearance at all.
+  
+  Okay so you get to the game, first a help menu pops up which is really helpful. Then time for the 
+ random encounters... endless random encounters... and in the beginning your character really sucks. 
+ Then comes my biggest complaint about this game, NO MAP! NO MAP! NO MAP! NO MAP! You don't get 
+ a map!! in an HUGE RPG game, and NO MAP! It's too easy to get lost even in cities, not to mention 
+ the countryside, i get so afraid when i have to leave the trail, which you have to do once in a 
+ while.
+  
+  The combat systems in this game is decent, controls are very good and easy to remember. Another 
+ huge problem is collision detection, it's so f*cking annoying to get stuck behind a coffin or just 
+ in the middle of a bridge. The quest log isn't detailed enough, and finished quests don't go away.
+ 
+  
+  So this game could be fun if you could go through all the frustrations without going insane, this 
+ game isn't finished, a 100mb+ patch is needed to fix ALL the problems. 
+::::::
+
+::::::
+UserName: Targzissian
+Rating: 7.5
+Date: May 9, 2005 2:18 pm PT
+Review:  This is an early review as I have only been playing for a couple of days so far. I havent yet 
+ tried multiplayer. The game version is 1.0.
+  
+  Pro: The game is playable in up to 2048 x 1536, and runs smoothly at that resolution (using a 256 
+ MB ATI Radeon 9800 XT from late 2003) , although the menu screens do not display correctly in such 
+ high resolutions. Combat is enjoyable with a decent variety of well-rendered monsters and weapons. 
+ The graphics are good with fairly detailed models and textures. The variety of races to choose 
+ from include human, dwarf, elf, zaur (reptilian humanoid fantasy archetype) , urgoth (basically 
+ an orc) and a couple of others unique to the game. There are appropriate environmental sound effects. 
+ Exploration is nonlinear like a true RPG (not merely a Dungeon Siege style "follow the yellow brick 
+ road") . There are suitable quests and dialog with townsfolk. The voice acting for voiced dialog 
+ is better than many RPGs. Character advancement is enjoyable. One earns advancement points as one 
+ kills monsters and does not have to wait to level up in order to spend them on attributes and combat 
+ abilities. The game seems to be stable. I have yet to see it crash or lock up.
+  
+  Con: The game lacks polish. Interaction between the character and objects in the environment is 
+ limited (ability to walk through solid objects like stacks of crates in some cases) . One cannot 
+ move or manipulate objects such as pieces of broken crates. There are situations in which the character 
+ should be splashing through water on the dungeon floor, but instead is kicking up dust as he goes, 
+ with the sound of footsteps on dry ground. The problem of visible mismatches between the position 
+ of the character and that of walls and floors is worse than in most modern RPGs, with frequent 
+ examples of weapons and limbs passing through walls, or the character appearing to hover above 
+ the ground as he walks along the side of a dungeon corridor. Camera controls are limited (Ultima 
+ 9 allowed one to view the action from more different perspectives, and to zoom in and out further 
+ and examine ones character model and his environment more freely) . Boring skies for a modern RPG. 
+ There are only a few nondescript clouds to see in the sky. I have yet to see any stars at night 
+ or real sunlight during the day. In fact, I havent noticed any real day-night cycle or weather 
+ in the game. Whereas many other modern RPGs have beautiful sunrises and sunsets, this game seems 
+ to be set in perpetual twilight. Death consists of merely collapsing to the ground, at which point 
+ one is still free to rotate ones corpse 360 degrees. In order to continue after dying one simply 
+ reloads a saved game. Inventory management is fairly simple and streamlined, but could be better 
+ (for example, your character should automatically replace a damaged shield with a new shield of 
+ the same type when he finds it on the corpse of a fallen enemy) . The navigational AI for NPCs is 
+ imperfect, as I saw one character get momentarily stuck on a piece of furniture while he was trying 
+ to lead me somewhere, and I had to give him a push to get him going in the right direction.
+  
+  Overall the game is fairly enjoyable. Combat is its strong point. But the game lacks polish 
+ and detailed interaction with the environment. I think D. W. Bradley did a good job given an obviously 
+ limited budget and development team. In retrospect Im glad the game was delayed from its previously 
+ scheduled 2004 release date. But I would have preferred more polish. Hopefully if the game does 
+ well they will have a bigger budget and larger development team to do a more polished sequel in 
+ a couple of years, as this game does have a number of shortcomings. The game is worth playing, 
+ but not as good as I had hoped it would be. 
+::::::
+
+::::::
+UserName: Larenel
+Rating: 5.5
+Date: May 8, 2005 11:48 pm PT
+Review:  DreamCatcher!
+  
+  You morons.
+  
+  First you release an "Official Demo" that is so bad that the fans label it "Only a pre-alpha" and 
+ hope that the endless criticism will be deflected. Then you follow it up with a retail release 
+ that confirms every intelligent gamer's worst fears - it really WAS 'Official'. 
+  
+  Fact: you have released this game in a seriously unfinished state. It doesn't even measure up to 
+ the claims of your own manual! (No customisation of characters; no auto-map; no .... Oh, I can't 
+ be bothered to go on) . You are a business that promotes a promise of interactive entertainment. 
+ In this case you simply lied to make money. Sure, there will be patches. But you've sold a lie. 
+ On this I judge your integrity. My respects go to those who conceived the ideas and worked hard 
+ to implement them. 
+  
+  There is a myth that, due to the complexity of designing computer games (and crpg's in particular) , 
+ they cannot be produced without significant bugs. Tell that to the mechanical engineers who designed 
+ the latest gorge-spanning bridge upon whose calculations your life depends. 
+  
+  DreamCatcher - to you this whole process is a money-making game, not a profession.
+  
+  PS 
+ 
+  I have a 'Four-seasons' pizza for sale. The base is sorted but you'll need to give me the cash 
+ to find out if I've added all the toppings I promised. 
+  Interested?
+  
+  PPS
+  Your employees have produced something potentially special. Are you professional enough to see 
+ it through?
+  
+  
+::::::
+
+::::::
+UserName: omino
+Rating: 1.9
+Date: May 8, 2005 7:19 pm PT
+Review:  I will not waste more time on this review then was obviously put in this game. NOT A COMPLETED 
+ PRODUCT. Shame on them for releasing this. The beginning character setup program does not even 
+ work all the way. You can not physically alter your characters appearance. Now considering that 
+ this is one of the first things that you have to do how did this get overlooked. Obviously it was 
+ not overlooked they just did not take the time to get it to work. In the short time that I played 
+ this (more like fought with this) My computer crashed three times, my character actually got stuck 
+ on a rock, and all the sound just stopped. Completed quests aren't even deleted from your to do 
+ list. 
+::::::
+
+::::::
+UserName: Oni
+Rating: 4
+Date: May 8, 2005 11:22 am PT
+Review:  Amazing. Simply amazing how game companies can get away with releasing products that obviously 
+ arent ready. Okay let me get my rants out of the way. The game comes with a CD key, but you dont 
+ even use it when installing it. Whats the point? Oh yeah did I forget to mention you wont need 
+ the CD to play this game? So no worries if you need to make a copy of the game :p 
+  
+  Okay so Im at the Character Creation" screen right? I see buttons that say Face "Hair Color 
+ Skin Tone etc  but guess what, you cant even do that. So forget trying to use any of the extra 
+ features, because its all grayed out in game. Another one of my fav is when the Quest Log doesnt 
+ update after youve completed a quest. Gee thanks.
+  
+  Well, theres more stuff butt I have a headache from playing/dealing with it so Ill move on. This 
+ game is in dire need of an update/patch.
+  
+  Bugs, Bugs and More Bugs! I could go on all night from all the bugs IVE found .. For example the 
+ one where the Game crashes when attacking a large group of enemies in the slums. The game starts 
+ acting as if it was tabbed out and then I get a Windows crash dialog with a "don't send" button. 
+ Greeeeat! From sound cutting in and out to system locks when creating a character or just trying 
+ to quit the game, Dungeon Lords is one big MESS! 
+  
+  Ive beta tested games that ran smoother then this. So I pretty much consider this a Beta that 
+ Im lucky to participate in and it only cost me 40 bucks.
+  
+  Im not even going to justify this review with my opinions about game play, graphics, sound and 
+ performance because this game is a BETA. Do you hear me Dream Catcher? Your game is not read for 
+ distribution into the masses.
+  
+  I apologize if Im hard on this game. Its just that this has happened so many times. I buy a game, 
+ it needs a patch. Its pretty frustrating and I feel like a big imbecile for dolling out the cash 
+ for things that are supposed to bring me enjoyment, not unbridled stress.
+  
+  Until this game gets a HUGE update and everything, and I mean everything gets fixed, my score will 
+ not change.
+  
+::::::
+
+::::::
+UserName: hercufles
+Rating: 7
+Date: Apr 29, 2005 3:21 pm PT
+Review:  First thing i want to say, that i am a big rpg fan on paper and on computer and i always dreamed 
+ of a crpg to be just like prpg till i came to the area scrolls serie but that is another story, 
+ dungeon lords on paper is a very good idea. I was fasinated by its big envioment and the fantasy 
+ setting came up i stood there defending from random attacks wich is good you keep on battlin minions 
+ and even the character generattion process was good, but then the horror came i slewed a couple 
+ of monsters i saw they dropped stuff then the first question came how do i pick this up i tried 
+ all and a feeling of frustration came up a lot of healing potions lying around, but i wanted to 
+ give another try when id did i saw that i had to use the shift key so i went on playing after a 
+ while i saw you can cast spellens but the next frustation comes out how do i cancel it, 
+  
+  I hope they chang it in the full version the controls are very fraustrated and it made me to quit 
+ the demo version. 
+::::::
+
+-------------------------------------------------

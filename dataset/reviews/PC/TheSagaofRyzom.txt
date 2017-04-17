@@ -1,0 +1,570 @@
+-------------------------------------------------
+:::Game Name::: The Saga of Ryzom
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/sagaryzom/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct 26, 2004
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.6
+Critic Score: 6.7, 17 Review (s)
+User Score: 7.1, 142 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Nevrax
+Genre: Fantasy Online...
+Date:     Sep 20, 2004 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+The Saga of Ryzom is another unfinished massively multiplayer role-playing game to be inflicted 
+ upon gamers. 
+
+  The Saga of Ryzom is the latest unfinished massively multiplayer role-playing game to be inflicted 
+ upon gamers. Its unrefined gameplay is too simplistic to have enduring appeal and yet, paradoxically, 
+ its character-development system is needlessly complex. While Ryzom may eventually evolve into 
+ a more interesting game, right now most of its novel features have yet to be fully implemented, 
+ so its gameplay consists almost exclusively of tediously improving character attributes.  
+
+          There's some graphical eye candy in Ryzom, including the convincing water effects.     
+ 
+
+  Ryzom was released earlier this year in Europe, so it's surprising that the game is still missing 
+ so many promised features. It's set in a colorful, original setting that's thankfully devoid of 
+ typical fantasy-world creatures and characters. The setting has an intriguing background plot that 
+ involves the humanoid races recovering from being overrun by a horde of marauding  Starship Troopers 
+ -ish insects called the Kitin. There are four playable humanoid races to choose from, and instead 
+ of offering a rigid class-development system, the game allows characters to develop skills in four 
+ basic skill groups (combat, magic, harvesting, and crafting) . Once your character attains a rudimentary 
+ degree of competence in a basic skill group, you gain access to more-specialized and more-powerful 
+ skills to develop. For instance, after gaining 20 levels of skill in basic crafting, your character 
+ can then develop an additional 30 levels of more-specialized armor crafting or melee-weapon crafting. 
+ Choosing to develop one group of skills does not limit your ability to learn the others, so devoted 
+ players could eventually develop a character who has fully mastered all available skills. As a 
+ result, players tend to develop jack-of-all-trades characters, and there's little incentive to 
+ create more than one character, although the developers intend to introduce further differentiation 
+ between races.  
+
+  Ryzom's biggest problem is that there really isn't anything to do in the game other than work on 
+ improving character stats, and doing so is far more monotonous than engaging. The melee combat 
+ looks dull and consists of only simplistic animations and uninspired special attacks such as "increase 
+ accuracy 3." Magic combat is more involved, and eventually features some massively damaging area-of-effect 
+ spells that are atypical in an MMORPG, but it's initially so badly underpowered that the developers 
+ are planning some significant rebalancing. Once engaged in combat, it's generally impossible to 
+ retreat, since character movement is slow and angry creatures will pursue you indefinitely unless 
+ you trap them on landmarks or lure them to NPC guards. Harvesting is extremely time-consuming and 
+ dull, generally taking over a minute to obtain a single resource item, and the special abilities 
+ you can acquire to improve your efforts are poorly explained.  
+
+  Crafting is similarly dreary, since you have to acquire a new skill plan for each item you want 
+ to craft, and each plan costs three levels' worth of crafting experience points. In other words, 
+ after acquiring 10 levels in crafting, your character will likely be able to craft only a couple 
+ of pieces of armor and a basic weapon. Player-crafted goods are far superior to any available for 
+ purchase from NPCs, but there's no auction or marketplace feature, so you're forced to spam the 
+ chat system to buy or sell goods. Characters also have an extremely limited inventory capacity, 
+ so it's generally impossible to carry enough resources or crafted items to maintain a decent mercantile 
+ lifestyle.  
+
+          There's a rudimentary ecology at work, as predators will attack herbivores they run across. 
+     
+
+  The developers plan to introduce a quest system, but right now you're limited to taking on simplistic 
+ tasks, such as killing a particular number of a type of creature or finding a specific resource, 
+ and these tasks offer only monetary rewards. Many of the tasks in the tutorial area can't actually 
+ be accomplished, since the items you're asked to locate aren't available, or the tasks themselves 
+ have broken or buggy scripting. There's actually a disincentive to teaming up with other players 
+ to take on tasks, since only the player who lands the killing blow gets credit, even if other team 
+ members have the same objective. Even worse, there's no proportionate allocation of experience 
+ points in recognition of a character's contribution to a kill. That doesn't matter if all the characters 
+ are on the same team, since they'll share the experience-point reward equally, but if they're not 
+ teamed up, only the character who ultimately kills the creature gets experience points, which encourages 
+ kill stealing.  
+
+  There are other features mentioned in the manual that would help distinguish Ryzom and deepen its 
+ gameplay, but they haven't been fully implemented yet. Character mounts are mentioned, but are 
+ so far absent. The manual also describes guilds using immense siege weapons to conquer outposts, 
+ but those sorts of battles haven't made it into the game yet. To acquire the best resources, characters 
+ can team up and protect resource nodes that would otherwise be damaged during harvesting. Aggressively 
+ harvesting the best resources is supposed to be discouraged by the risk that the Kami, a magical 
+ race, will directly or indirectly intervene to punish such actions. But the Kami don't seem to 
+ be able to intervene yet.  
+
+  Probably the most interesting feature of Ryzom is the promise that the insectlike Kitin will likely 
+ return in huge raids, and during the first month of the game's North American release the Kitin 
+ did attack one race's primary settlement. But such events aren't frequent enough to ensure that 
+ players can participate in them, and although Ryzom was designed to facilitate them, the game still 
+ suffers from lag issues when a lot is happening onscreen. While it's cool that creatures tend flock 
+ together in giant packs, it causes performance issues, as creatures frequently "slingshot" around 
+ the environment.  
+
+  Ryzom features a colorful array of creatures and environments and some great water effects, but 
+ its production values generally seem substandard. The animations are simplistic and choppy, and 
+ there are only cursory music and sound effects. Characters are effectively glued to the ground, 
+ so they can't pass seemingly minor variations in terrain. The con system -- which assesses the relative 
+ strength of other creatures -- doesn't properly indicate whether a creature is aggressive or not, 
+ and gives you only a very broad indication of its difficulty level. You can't practically use the 
+ "take all" function when looting beasts because their hides ridiculously contain a whole range 
+ of pointless items that you can't sell or craft with, and that will quickly encumber your character. 
+ There's only a single, sparsely populated North American server, and once you create a profile 
+ you can't access the European servers. There are very few character-customization options, and 
+ each tweak seems designed to inevitably transform your character into a doppelgnger of Gerard 
+ Depardieu.  
+
+          Major towns are large and confusing, but there's a decent automap to help you navigate. 
+     
+
+  The game is also incredibly inaccessible to new players. Aside from referencing missing features, 
+ the manual inaccurately describes character attributes and doesn't explain skill functionality 
+ at all. In addition to buying special abilities with skill points, you can buy individual components 
+ of special abilities, called "stanzas." You can then mix and match positive and negative stanzas 
+ to create additional special abilities. While it's a novel mechanic, in practice the functionality 
+ variations are quickly adopted by seasoned players, but effectively make it more difficult for 
+ less-motivated players to be successful in the game. You're forced to spend an extensive amount 
+ of time in the tutorial area to be able to have a reasonable prospect of surviving on the mainland, 
+ but the game gives no indication that such is the case. It's extremely difficult to effectively 
+ solo on the mainland, particularly as a predominately magic-using character, since the abilities 
+ are badly unbalanced and creatures have a tendency to attack in groups. There are also hardware 
+ issues with Linksys routers and older ATI video cards, and a persistent bug traps players in the 
+ tutorial training areas, requiring you to endure a lengthy reboot.  
+
+  The friendly player community partially compensates for these flaws, and can help new players adjust 
+ to the game, but it's difficult to justify enduring Ryzom when there are currently so many better 
+ alternatives. In many ways Ryzom seems like a throwback to the first generation of MMORPGs, since 
+ it seems to have more in common with the first Asheron's Call than, say, this year's City of Heroes. 
+ If some of its more innovative features, such as the Kitin raids and guild quests, ultimately figure 
+ more prominently in the gameplay, then Ryzom may merit another look, but currently it's a disappointment. 
+     
+-------------------------------------------------
+:::User Reviews::: (13 Reviews)
+::::::
+UserName: esiaz1
+Rating: 5.5
+Date: Mar 16, 2009 5:03 pm PT
+Review:  When I first read about The Saga Of Ryzom I was interested in it because of it's quasi-sci-fi plot 
+ and original backdrops and characters however the interest started to wane fast once I started 
+ to get into the game.
+  
+  The first thing I noticed about the game was the absence of any gamers! - It is a barren world 
+ full of NPC's and maybe a few human players, and I mean a FEW maximum 4 or 5 and that's at a good 
+ playing hour like after school where servers should be packed. 
+  
+  Seeing that the MMO part of the game was pretty much non-existent I decided to go at it as if I 
+ was playing a single player game and try out the RPG aspect of it. --- I was disappointed. 
+  
+  Although the points and skills system is something that more MMO's may benefit from it sort 
+ of loses it's appeal when your 'custom character' is playing by himself. 
+  
+  customization of a character really only matters in a world where a lof of players can battle it 
+ out or cooperate --- using their customizations to win together...
+  
+  If you're playing alone (which is all of the time.) running back to the trainer just gets annoying.
+ 
+  
+  
+  That's right folks -- you can't update your character on site -- you have to run back to a trainer 
+ and do it... if you don't you stay as weak as you were when you left and therefore cannot go kill 
+ more monsters.
+  
+  So all of this running back and forth in a barren world.. full of NPC's simply gets tedious and 
+ boring... 
+  
+  
+  The game also has bad lag and frequent disconnects occur .. which I can't understand since there 
+ are almost no players..
+  
+  
+  It's too bad because Ryzom could have been a great game... - bad business and marketing killed 
+ what could have been.
+  
+  
+::::::
+
+::::::
+UserName: pheotazo
+Rating: 9.5
+Date: Oct 14, 2008 4:08 am PT
+Review:  Ryzom has a great community, with some of the most friendly and helpful people I have ever met. 
+ The skill system is easy to master and allows you to customize your actions.
+  The game performs well and lag is minimal. The graphics are amazing and the game is full of interesting 
+ visual effects. There is also an impressive weather system which not only looks good, but also 
+ affects what materials a harvester can gather where and when!
+  Many of the bugs mentioned in earlier reviews were ironed out ages ago and the game is not 'unfinished' 
+ but simply evolving, as the developers experiment with different things, many of which are suggested 
+ by the players themselves.
+  The AI is great and animals will travel in herds, be docile or aggressive, and fight in groups 
+ or alone. The seasons in Ryzom change and with them the animals migrate to different areas.
+  Ryzom is the BEST online game I've ever played and I recommend it to anyone seeking a fun and original 
+ online game with a great community!
+  Currently you can create a free account and play for free so check it out at www. Ryzom. com 
+::::::
+
+::::::
+UserName: Anofalye
+Rating: 7.5
+Date: Dec 24, 2007 8:10 am PT
+Review:  I play this MMO for about a month, and it was sometimes ago... and when I see the 5.6 review it 
+ get here, I was... well, this game is nice and doing great things:
+  
+  - Progression system is more developped then any other MMO. Think of Oblivion/Morrowind, but linked 
+ to the XP you gain while using skills rather then just using them in the void... you gain 200 xp 
+ while doing 50 points of melee damage and 150 points with spells, well 150 XP go to spells and 
+ 50 to melee skills.
+  
+  - The skills... they remind me of Rolemaster. No it is not Rolemaster, but it remind me of it. They 
+ just twist it in another way, but still... (as you progress in them, you will see)
+  
+  - Hardest MMO on the market. I rarely leave a game because I feel it was too hard, and it was the 
+ case here... many players crave for this harsh world however.
+  
+  - Unique world, races, setting.
+  
+  If for any reason you like either Rolemaster, or Oblivion/Morrowind... you 
+ really should gives this game a second glance before discarding it. 
+::::::
+
+::::::
+UserName: torak101
+Rating: 8.1
+Date: Apr 3, 2007 4:36 am PT
+Review:  A lot has changed in Ryzom in the last six months, heck a lot has changed in Ryzom since its launch 
+ in 2004, unfortunately not much else has changed in MMORPG's in the last 5 years. Why is it a good 
+ time to take another look at Ryzom? Because in todays MMO market there is nothing but EQ type games 
+ with the standard features like Elves, Dwarves and linear level based progression with raids and 
+ capture the flag at the endgame.
+  Ryzom offers an alternative to this. It is not class based players can freely choose skills, it 
+ is open ended and NON-linear. It has a unique take on a theme, a strange fantasy/sci-fi blend, 
+ some interesting and unique races to choose from and the graphics are very good.
+  
+  Additionally, there is the new Ryzom ring which allows players to create their own content! So 
+ if you are closet/garage game designer, here is a chance to show off your talent.
+  
+  It is an excellent value on top of it. First, the trial does NOT require a credit card. Next, the 
+ trial is unlimited in time but keeps you on a starter island. If you deside to subscribe the software 
+ is basically free and all you do is start a monthly billing. Can't get much better then that.
+ 
+  
+  So if you are tied of the same old fantasy garbage with elves and dwarves killing orcs and 10 rats, 
+ give this game a try, the community adds the RPG back into the MMO title. 
+::::::
+
+::::::
+UserName: Arrowsun
+Rating: 4.5
+Date: Dec 29, 2006 8:58 pm PT
+Review:  I started my free trial of this game because I was looking for something to take my mind of WoW 
+ for a week or so. I liked the first few hours of the game. I was able to level to 20 pretty quickly, 
+ so I bought a months worth of gametime. I regret that because after level 20 it gets hard. I can't 
+ navigate the areas very well. The missions are a seriously underdeveloped aspect of a game that 
+ is based on missions. I played AC and I am now getting those flashbacks to the early grinding days.
+ 
+  
+  I love the water effect in this game. I like the idea of being able to manipulate the environment 
+ in a MMORPG. However, I am often the only person in sight in any of the cities I visited. Compare 
+ the to overcrowded Iron Forge in WoW, and you begin to see the extremes of participation. I get 
+ so lost trying to explore around the map, no cities to run to and no people to talk to. Missions 
+ are not helpful on the mainland. Overall this is a game with a different concept, but so many flaws 
+ as to not even try it. I am sad that I can't find a good second game to WoW. I need something new 
+ but Ryzon is not it. 
+::::::
+
+::::::
+UserName: Vendayn
+Rating: 8.6
+Date: Nov 7, 2006 7:31 pm PT
+Review:  The game isn't for everyone, as it doesn't guide you through the whole game like World of Warcraft 
+ or EverQuest2. Its more like Eve as its open ended. PVP is consensual and if you don't like it 
+ you don't have to do it.
+  
+  There are four main skills, crafting, fighting, magic and gathering. Crafting is great as different 
+ quality of items and different kinds of items will make the item be unique and different from all 
+ the other items. Just about each piece of armor is different from another piece and there is great 
+ variety. Crafting is confusing at first but is easily learned.
+  
+  Whats surprised me the most is how nice the community is and how helpful they are and the Game 
+ Masters actually talk to players in game (mostly answering questions or if there is a problem with 
+ the server then they keep the players updated in game) . Another thing that surprised me was the 
+ carnivores attacked other animals like other herbivores. Also herbivores can travel in great herds 
+ of hundreds of animals to migrate to other places if they get scared away or hunted too much.
+ 
+  
+  Great game and worth trying out. 
+::::::
+
+::::::
+UserName: PyscoJuggalo
+Rating: 8.4
+Date: Aug 4, 2006 8:08 pm PT
+Review:  SoR is a good MMORPG.
+  
+  The positives+
+  
+  1- It is skill based, meaning you are not defined by a preset class. You select what skills you 
+ want to learn, and develop your own character's traits. You also litterally can learn every skill 
+ in the game, so you achiever types will never grow bored.
+  
+  2- You can create custom specials, so if you want to make a special with accuracy and damage bonuses, 
+ then do so.
+  
+  3- It is a player based economy, so none of that boring loot crap that games like WoW and EQ beat 
+ to a painful boring death.
+  
+  4- Unlimted time free trial at the newbie Island. So play it for free and check it out yourself. 
+ (Note: There are no NPC quests on the mainland like there is on the Newbie Island. So don't think 
+ your hand is going to be held throughout this game, it wont.)
+  
+  5- Soon will be able to create your own quests.
+  
+  6- Good RP community.
+  
+  
+  
+  The 
+ Negatives -
+  
+  All the Negatives are things that I think are lacking. My MMORPG philosophy is that a MMORPG should 
+ be an actual world where you do what you want, here is where SoR fails to meet that.
+  
+  1- No player cities.
+  
+  2- No pet taming.
+  
+  3- Very linear even though it is a skill based 
+ game. Your health, Action, stamina, ect Stats can be increased with each level. This creates linear 
+ game play in my book. Lots of skills are just improvments on previous skills, that is very linear.
+ 
+  
+  4- No purely social skills like SWG had (Dancers/musicians)
+  
+  
+  
+  If your into WoW type games this one is most likely too complex for you. If you like complexity, 
+ it's probably gonna be good for ya.
+  
+  Overall I say, try it. You may like it. 
+::::::
+
+::::::
+UserName: Coronatus
+Rating: 5.9
+Date: Jul 22, 2006 4:13 pm PT
+Review:  Ryzom simulates a vast jungle with interesting and exotic but also alien fauna and flora. This 
+ world is ruled by a nature goddess called Jena. She got two kinds of gardians: magical wood spirits 
+ called Kami and a highly technologically advanced species called Karavan flying in big space vessels, 
+ minding their own mysterious (but peaceful) business for as long as they remain on the world (where 
+ they never leave the vicinity of their vessels) .
+  
+  Sounds nice? So where do the players come in?
+  
+  The players take on the role of a member of 
+ one of the worlds four primitive tribes, hunting in the woods, having fun building stuff, outfitting 
+ their character, and worshipping either of the goddess' servants. So much to the backstory in a 
+ nutshell.
+  
+  So what's wrong with the game?
+  
+  First of all, it is an old generation online game. Which means there are no quests or instances, 
+ and 95% of gameplay are tradeskilling or grinding your way through the planets flora and fauna.
+ 
+  
+  Second of all is the roleplaying aspect. Let's be cocky. Playing some tribesman who worships a 
+ mysterious bullet slinging device as a gun is fun, but only to a small lot of people, and only 
+ for a short while, then it gets boring.
+  
+  And what remains?
+  
+  A grindfest with limited opportunities for roleplaying. Hence the rating. It's not a bad game, 
+ for a short while, but it isn't really good either. It's old fashioned, and since World of Warcraft 
+ has been released those flaws can be noticed even more. 
+::::::
+
+::::::
+UserName: Ake_Gamer
+Rating: 9
+Date: Jun 27, 2006 9:45 am PT
+Review:  I first looked at this game during the final beta before launch and it was sorely lacking. No tutorial, 
+ no help from the community. Didn't look that pretty. It was easy to get lost with no npc direction 
+ and it made you ask yourself, "Why am I hear?" Once a player says that, they move on.
+  
+  Turn the clock forward now to the summer 2006 and it appears to be a wholely different game. Current 
+ trial is an unlimited trial on the starter island, which is a very comprehensive tutorial environment.
+ 
+  
+  Although the population of players is relatively small, they are the most mature and helpful crowd 
+ I've ever witnessed.
+  
+  Customer service is rediculously light years ahead of any other game team. Response time is in 
+ minutes with a GM popping up next to you, if need be to solve a problem. When I got stuck in a 
+ quest due to my poor handling of a quest item, the GM responded in under 2 minutes., asked me to 
+ fill out a ticket and then responded to the ticket within another 2 minutes. I've never seen such 
+ responsiveness. This is definitely a differentiator when looking at the MMO genre and a welcome 
+ one at that.
+  
+  Graphics rival any of the current games with excellent char, npc and mob models. Textures at high 
+ settings are extremely pleasing to the eye. Water, and flora are some of the best I have seen.
+ 
+  
+  Sound is different. Rather than the pulsing music of most games, Nevraxm has adopted a naturalist 
+ point of view. Carnivore howls, herbivore munching on grass, bees buzzing, birds chirping, etc 
+ oll in EAX if your sound card can support that. It's incredibly immersive.
+  
+  Gameplay is very good. Like the father of the genre, UO, this game features skill development through 
+ a series of 4 trees: fight, magic, harvetsting, crafting. Each can be levelled up to a maximum 
+ of 250. I've read that that corresponds to 11k total levels if you wanted to max each subtree. 
+ Incredible value for the monthly fee.
+  
+  The actual effort to do any of the four areas takes on a very unique approach. Each "action" is 
+ made up of components called Stanzas. Each stanza can be combined to create custom attacks, for 
+ example. It's simple but elaborate approach makes for some very interesting PvE and PvP tactics 
+ whether solo or in groups.
+  
+  Mob AI is quite advanced. Herbivores travel in herds and migrate. Carnivores pack hunt the herd 
+ stragglers and you! Passive mobs will approach you with curiosity and look you over. Some plants 
+ and animals have symbiotic relationships and will defend each other when attacked.
+  
+  The PvE game is rich and the PvP game has meaning. Outposts are nodes of critical harvesting. Guilds 
+ desire to craft the best gear for their members and fight for control of the Outposts. These are 
+ real time battles, not some scheduled "event". Territory is important in SoR and will even become 
+ more important with the Spires patch expected in the not too distant future. PvP is group balanced 
+ and tactics are important due to the skill trees. A "warrior" could be a maxed magician as well. 
+ Whether they attack as a fighter or magic-user is a preference and can make for some very interesting 
+ PvP battles.
+  
+  All in all, I am surprised as to how this game advanced. Too many of us were left with a sour first 
+ impression, but SoR deserves another look. If you are tired of the kiddie games, looking for a 
+ solid RPG online and enjoy a tight community, check it out. 
+::::::
+
+::::::
+UserName: Spaaz69
+Rating: 5.2
+Date: Oct 27, 2004 8:20 pm PT
+Review:  SoR, has some innovative ideas and definitly breaks away from the typical Fantasy MMO. The problem 
+ is either they released it too soon or no matter how much they patch the game, it just won't be 
+ a contender amongst the bigger titles comming out this year (EQII, WoW, CoH) . 
+  
+  I really wanted to like this game and gave it a fair shot, but lack of a decent tutorial and lack 
+ of content that is not in game, but included in the manual just hurt the launch of the game. The 
+ community is one of the best and very helpful for any new players that decide to pick the game 
+ up, but saddly to me the game just fell short of what I think could have been a great adventure.
+ 
+  
+  At least give it a couple of months for it to workt he kinks out and get a couple of patches in. 
+ Maybe by that time they will have the game up and going like they had hoped it would be at launch. 
+ I mean hey, CoH was far from polished when it came out and 7 months later and a couple of patches 
+ and it's finally getting to the point that the developers wanted it. 
+::::::
+
+::::::
+UserName: Tekkor
+Rating: 5.8
+Date: Oct 27, 2004 1:44 am PT
+Review:  I went into Saga of Ryzom with a very positive attitude. I have played practically every mmorpg 
+ under the sun so far. In fact i think the only ones I havent played since UO were NeoCron (saw 
+ plenty on beta to avoid it) and Lineage 2 (read about 50 bad opinions to every 1 good opinion prior 
+ to its full release) .
+  
+  I had been playing City of Heroes but finally got burnt out on the endless repition of the game 
+ and was ready to go back to the roots of mmorpg game playing with real loot, items, quests and 
+ perhaps even some crafting. Ryzom seemed to have this all in spades form the previews and things 
+ I read about it. The graphics looked good enough from screen shots and I decided to give it a go 
+ after thinking about it for 3 or 4 days.
+  
+  I will say at first the game gave me a pretty good impression. The graphics are pretty nice although 
+ I hated the interface of countless windows. The creatures in the game seemed to be somewhat creative 
+ and had nice ai that causes them to migrate to different areas and the more predatory animals actually 
+ attack the more docile ones. Nice touch.
+  
+  The skill based system seemed pretty nice at first but after you play a while it proves to be a 
+ bit to.... limited in truth. The game has a nice harvesting sytem where you can actually go out 
+ and find spots to harvest amterials that you can then in turn use to craft items like weapons, 
+ armor and even jewlery. It's a bit tedious and buggy in some regards but it actually works pretty 
+ good overall. Too bad the crafting is not as good.
+  
+  Crafting is once again just a mindless sleep inducing system of clicking a thousand times to use 
+ ingredients on a chance system of them combining and making something. The actual crafting interface 
+ is nicely done and tells oyu what sort of items you need to make a certain object. But its still 
+ just a bit too click and repeat dependent for me to enjoy it much.
+  
+  The infamous "Stanza" system that seemed like such a cool feature when I first started playign 
+ acutally became too complicated and limiting once i really got into the game and figured it out. 
+ Combat is done ok but still is not anythign you havent seen before. Yeah it may seem cool to make 
+ your own attacks but in truth its not as freeform and the makers would lead you to believe.
+  
+  The game has some good points and for it coming from such a small developer it is in many ways 
+ quite remarkable. However.... I think this game is yet one more that proves that perhaps small developers 
+ should not be creating games in this genre. MMORPG's are a complicated beast. The huge companies 
+ with endless resources cant get it even 80% right and the small companies that make games like 
+ Neocron, Horizons and Ryzom only get it about 50% right. 
+  
+  Anyway.... the game has some nice features like creature ai and some nice spell effects and an interesting 
+ harvesting setup. But there are just too many things that dont work right or that dont exisit (like 
+ vendors to sell player goods ala FFXI and they still dont even have music or promised mounts in 
+ the game yet) to really justify playing. 
+  
+  Right now I still feel the best mmorpgs on the market are Anarchy Online and FFXI. Both of those 
+ I have grown tired of and quit while waiting for something new. I recommend you do the same.
+  
+  
+  
+  
+  
+  
+::::::
+
+::::::
+UserName: Amok
+Rating: 4
+Date: Oct 23, 2004 5:37 pm PT
+Review:  Unfortunately plaqued by weak content and numerous crashes, this potentially interesting MMO falls 
+ flat on it's face when trying to make a niche for itself in a cut-throat market.
+  
+  Certainly, Saga of Ryzom impresses with it's high-frame rate play and well-done graphics, but these 
+ come at a price of stability, and all the bells and whistles in the world won't save patchwork 
+ coding.
+  
+  Another pro is the classless system employed in the game, but this again is overshadowed by the 
+ con of very little content to support a potentally diverse economy/society.
+  
+  I believe that, in time, this game may come together, but I fear that, by the time it gets 'all 
+ it's ducks in a row', the big boys will have come into the neighborhood and set up shop (EQ2, WOW, 
+ et al) and a, by then, not-so-new, not-so-fresh face just won't have what it takes to muscle up 
+ to the (high) bar.
+  
+  Note: the game, as of this writing, is rife with crashes/lock-ups if one is running any combination 
+ of a) ATI graphics, b) AMD chip and/or c) Linksys router.
+  
+  Good luck if you try this game. I hope you fair better or have more patience than I. 
+::::::
+
+::::::
+UserName: Foxbat44
+Rating: 2
+Date: Sep 22, 2004 5:22 pm PT
+Review:  I played this game in beta all the way up to lvl 25 in alll four classes. 
+  
+  The biggest problem is a shortage of good equipment. There is no auction system at all. And gathering 
+ resources takes way too long so after lvl 20 you will not be getting new weapons armor or anything 
+ verry easilly. 
+  
+  Also the combat system is rather crazzy. The mobs have huge amounts of hit points and you can't 
+ escape them. So a typical battle may last 4-6 minutes. If you have an add durring that time you 
+ are dead. You can't run you can't escape. period. you are dead.
+  
+  I suggested fixes to all this but he devs said that the AI was working as planned and I should 
+ run till I got to a city gaurd. All mobs can outrun you and hit you on the run quite well.
+  
+  Oh and the quest system is devoid of anything interesting. go kill four of these thats about 
+ it. 
+  
+  This game is about 3 months from completion and they are releasing it now. I suggest waiting for 
+ EQ2 or WoW even Matrix online. Don't spend your money on this!!! 
+::::::
+
+-------------------------------------------------

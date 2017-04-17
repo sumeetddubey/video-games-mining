@@ -1,0 +1,1792 @@
+-------------------------------------------------
+:::Game Name::: FreeSpace 2
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/freespace2/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct 15, 1999
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 9.4
+Critic Score: 9.2, 19 Review (s)
+User Score: 9.3, 1,877 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Interplay
+Developer: Volition Inc.
+Genre: Space Combat Sim
+Date:     Sep 30, 1999 &raquo;  
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+FreeSpace 2 is one of the best space sims ever made and is a solid candidate for game of the year. 
+ 
+
+ Since the early 1990s, Totally Games' X-Wing series and Origin Systems' Wing Commander series have 
+ maintained a stranglehold on the space-sim genre. Until last year, the space sims released by other 
+ companies were derivative of those two series yet generally had less impressive graphics, substandard 
+ gameplay, and dull plots. But some worthy challengers finally appeared in 1998 when Particle Systems 
+ unveiled Independence War and Volition released Descent: Freespace.  
+
+ Of those two contenders, Independence War was more original, as it featured a complex physics-modeling 
+ system and put you in charge of a large capital ship. Descent: Freespace was more of a traditional 
+ space sim, as it effectively cannibalized the best elements of the genre's classics in addition 
+ to providing an outstanding interface and several other refreshing innovations. But while Particle 
+ Systems' follow-up game, Independence War Deluxe, was a mild disappointment, Volition's FreeSpace 
+ 2 is an outstanding sequel that significantly improves upon its enjoyable predecessor. Even if 
+ Totally Games had not effectively abandoned its X-Wing franchise earlier this year, and Origin 
+ had not decided to focus solely on multiplayer games, there's no doubt there's a new king in town. 
+ FreeSpace 2 is one of the best space sims ever made and is a solid candidate for game of the year. 
+
+ FreeSpace 2 picks up 32 years after the events of the original game. In Descent: Freespace, a 14-year 
+ war between Terrans and Vasudans was rudely interrupted by the appearance of an ominous and technologically 
+ superior race, dubbed the Shivans. To avoid extinction, the Terrans and Vasudans were forced to 
+ set aside their differences and forge a desperate alliance. Even though Descent: Freespace concentrated 
+ most of its plot developments into the first third of the game, the story ended effectively, granting 
+ the isolated remnants of the Terran and Vasudan civilizations a Pyrrhic victory.  
+
+ The plot of FreeSpace 2 ties deeply into the events of the original game, but new players can quickly 
+ learn what they missed through the game's comprehensive and interesting database. The Terrans and 
+ Vasudans remain allied and have rebuilt their societies, but their harmony is disrupted when a 
+ rogue group of Terrans secedes from the alliance because of its apparent distrust of the Vasudans. 
+ When the Shivans burst back into alliance space, the Terrans and Vasudans are suddenly faced with 
+ war on two fronts. But the alliance has had a generation to prepare for the reappearance of the 
+ Shivans and has spent that time developing formidable weaponry. Has the alliance now surpassed 
+ the mysterious Shivans? What are the real motivations of the xenophobic, secessionist Terrans? 
+ Will the alliance discover a way to reestablish contact with Earth, which was lost after the events 
+ of the original game? The complex plot of FreeSpace 2 is often surprising and consistently captivating. 
+
+ There have been great stories in space sims before - some gamers prefer the plots in the Wing Commander 
+ games to the actual gameplay, and TIE Fighter's story kept Star Wars fans enthralled for its duration 
+ - but FreeSpace 2's plot feels both deeper and darker. Some gamers may be disappointed that the 
+ game ultimately doesn't wrap up all the story's loose ends, but I felt that FreeSpace 2's ending 
+ worked exceptionally well. To Volition's credit, both Descent: Freespace and FreeSpace 2 effectively 
+ establish seemingly invincible foes and yet find plausible ways to permit you to seize victory 
+ from apparent defeat without diminishing the stature of those enemies. Far too often in games, 
+ a previously deadly antagonist is quickly dispatched with the assistance of a conveniently, and 
+ improbably, discovered weapon/weakness/bauble. Volition has now avoided that trap for two successive 
+ games, and, in spite of the lack of closure, the ending to FreeSpace 2 is as intriguing as the 
+ events that transpired before it.  
+
+ As in the original, the story unfolds in FreeSpace 2 through a combination of mission and command 
+ briefings, sporadic cutscenes, and, most effectively, through events depicted within actual missions. 
+ Gameplay in FreeSpace 2 will be very familiar to Freespace veterans, but there are several significant 
+ improvements. You'll still pilot fighters and bombers, but the capital ships in the game have been 
+ made considerably more dangerous. The cruisers and destroyers weren't exactly puny in the first 
+ game, but they're positively gigantic in FreeSpace 2, and unlike in many space sims, the capital 
+ ships are as deadly as their ominous size suggests. Almost all the capital ships in the game are 
+ now equipped with powerful beam weapons similar to those that were on the Shivan dreadnought, the 
+ Lucifer, in the original game. The main beam weapons are primarily used in battles between capital 
+ ships, but most of the larger ships are also stocked with smaller, anti-fighter beam weapons. Capital 
+ ships have been decked out in flak cannons as well, which let them make quick work of bombers and 
+ fighters foolish enough to wander in range. They are also still equipped with laser turrets and 
+ missile silos as in the original game, collectively making capital ships flying fortresses you'll 
+ learn to fear.  
+
+ But best of all, the capital ships in FreeSpace 2 aren't relegated to being exotic targets for your 
+ bombing runs. Too often in space sims there's very little contact between opposing capital ships. 
+ However, in almost every FreeSpace 2 mission capital ships will end up clashing with each other, 
+ adding an epic feel to the overall conflict and the individual battles. It's highly entertaining 
+ just to sit back and watch these titans pound away at each other, ripping through each other with 
+ their tremendous beam weapons. FreeSpace 2 is the first space sim to depict epic capital-ship battles 
+ in a manner that both plausibly reflects their importance and demonstrates their raw power in an 
+ entertaining fashion.  
+
+ Space-sim sequels will often either just rehash the same ships that were used in previous games 
+ (the X-Wing series is obligated to do so because of the Star Wars license) or completely abandon 
+ previous models in favor of original designs (as in several of the Wing Commander games) . Neither 
+ approach is entirely satisfying. Replaying battles against the same ships you've seen dozens of 
+ times before isn't an entertaining prospect, but it also seems difficult to believe that an entire 
+ fleet would be redesigned and replaced during the supposedly brief span of time that passes between 
+ any two games in a series. After all, our modern navies and air forces are still using craft more 
+ than a generation old. FreeSpace 2 takes a credible approach by adding dozens of newer craft without 
+ completely abandoning older designs. Older capital ships are still in service, and although they've 
+ been retrofitted with modern weaponry, such as beam weapons, they're understandably less effective 
+ than newer capital ships that have been designed from the outset to accommodate the latest technology. 
+ Fighter and bomber designs have realistically proven to have less longevity, but several of the 
+ better ships from the first Freespace do return, at least in some capacity.  
+
+ It would be even less plausible if the Shivans, a race that has effectively stalked through galaxies 
+ for thousands of years, redesigned its forces every few years. Accordingly, almost all the Shivan 
+ ships encountered in the original game return in FreeSpace 2. But there's no shortage of new Shivan 
+ ships either, and their existence is easily justified on the basis that the Terrans and Vasudans 
+ only encountered a small portion of the Shivan forces in the original game. Ship design is just 
+ another example of how Volition has carefully crafted a believable and constantly engaging gameworld. Another 
+ notable addition is the nebula in which you initially encounter the Shivans. The nebula is beautifully 
+ depicted and envelops the entire screen, limiting your line of sight and making navigation difficult. 
+ Certain areas of the nebula are subject to entertaining but harmless energy flashes, and other 
+ areas are prone to EMP pulses that completely disrupt your HUD. The graphics in Descent: Freespace 
+ garnered plenty of well-deserved accolades even though they were limited to 640x480 resolution 
+ and were consistently quite dark, but FreeSpace 2's graphics are fantastic. A new high-resolution 
+ 1024x768 option has been added, and 32-bit color depth is supported if you have a capable video 
+ card. The game requires 3D acceleration, but it's used to good effect to depict the nebula, beam 
+ weapons, flak bursts, and the most impressive explosions yet seen in a space sim.   
+
+ I was concerned that the beam-weapon effects would look incongruous with the other graphics (in 
+ the same way that many of the 1970s Star Wars movie rip-offs featured laser-blast effects that 
+ looked like they'd been scratched onto finished film prints) , but they look great and blend perfectly 
+ with the 3D ship models. Battlefields are reminiscent of some of the more impressive Babylon 5 
+ conflicts or scenes from Japanese anime space battles; huge goliaths blast away at each other and 
+ hammer at the fighters and bombers that are scrambling in between. Fighters and bombers explode 
+ in different ways depending on the instrument that caused their destruction - shattering into small 
+ fragments as a result of a direct hit from a flak cannon, being incinerated by a beam weapon, or 
+ just colorfully exploding from a hail of missiles. There's plenty of attention to detail in FreeSpace 
+ 2.  
+
+ Mission design is varied and almost uniformly excellent throughout the game. Objectives change in 
+ response to scripted events, and there's plenty of wingmen chatter to further develop the plot 
+ and give context to mission events. There are very few missions in the game that are as simple 
+ as the "kill all the enemies you encounter" type commonly encountered in space sims. There's almost 
+ always a twist or two in each mission, but the missions are beatable and almost never feel puzzle-like 
+ as they do in some other games with heavily scripted missions, such as Independence War. FreeSpace 
+ 2's campaign is linear, but rather than having to play each mission until you succeed, you can 
+ skip the ones you've failed five times or more, which should appease gamers who are easily frustrated. 
+
+ The game's interface is virtually unchanged from Descent: Freespace, but if there was ever an appropriate 
+ use for the clich&amp; eacute; "if it ain't broke, don't fix it," it's to describe Freespace's outstanding 
+ interface. Valuable information that is rarely displayed in space sims, such as the status of craft 
+ being escorted, is accessible at a glance. The HUD lets you instantly identify craft that are targeting 
+ your ship, the heading of missiles homing in on your ship, and your current target's relative orientation 
+ to your ship. The interface used by the Freespace games was clearly designed by experienced space-sim 
+ players, and as a result, it's just about perfect. As in the original game, the interface is also 
+ completely customizable, and you can even useyour own pilot picture for multiplayer opponents to 
+ grow to detest. And force-feedback joystick support gives afterburner thrusts a tangible feel and 
+ physically rebukes you for colliding with other craft.  
+
+ While Descent: Freespace promised a plethora of multiplayer features, its multiplayer aspects didn't 
+ work well, at least not in the game's initial release. Online lag was a real problem, and Volition 
+ was exceedingly optimistic in contemplating 12-player conflicts. But lag is now handled much more 
+ effectively, making multiplayer battles a lot more fun, especially if you're fortunate enough to 
+ have a high-speed Internet connection. You can find plenty of games to join on the free Parallax 
+ Online servers, which also maintain comprehensive pilot statistics records. (Volition actually 
+ threw a couple of the pilots who had racked up the most impressive records with Descent: Freespace 
+ into one FreeSpace 2 campaign mission.) Even more interesting is the addition of Squad War, another 
+ free multiplayer service that lets squads of pilots conquer other squads' territories, ultimately 
+ giving you the opportunity to dynamically change the gameworld in a way that massively multiplayer 
+ games have yet to permit. Finally, in addition to a lengthy campaign and the multiplayer options, 
+ FreeSpace 2 is also packaged with the latest edition of Volition's mission editor, which lets you 
+ craft and trade your own missions and campaigns. Very few games offer as much inherent value as 
+ FreeSpace 2.  
+
+ All my complaints with the game are relatively minor. Wingmen and enemy AI have improved since Descent: 
+ Freespace, but they're still occasionally disappointing, as ships tend to collide with each other 
+ too frequently and then seem to become unable to accomplish their objectives. Capital-ship explosions 
+ aren't just eye candy and can be deadly to nearby fighters and bombers, but wingmen and enemies 
+ seem incapable of effectively dodging such effects. There's also no 800x600 resolution option, 
+ which will disappoint Voodoo2 owners in particular. If you don't have a powerful system and a capable 
+ video card, you'll have to play at 640x480 resolution, but even that resolution boasts graphics 
+ more impressive than those in Wing Commander: Prophecy or Descent: Freespace. The music and sound 
+ effects in FreeSpace 2 are both excellent, and 3D sound is well supported, although the game shipped 
+ with a bug in the A3D support. Fortunately, DirectSound can be chosen as a viable alternative. 
+ FreeSpace 2 is an outstanding game. It retains the outstanding customizability and interface of 
+ the original game and presents a more involving story and the best graphics seen in the genre to 
+ date. FreeSpace 2 also retains all the gameplay features that worked well in the original game 
+ and adds formidable new weapons, 32-bit color effects, and improved mission design. The inclusion 
+ of a variety of multiplayer options and a mission editor should also ensure that the game has plenty 
+ of longevity. Descent: Freespace was a solid game with the potential to be even greater, and that 
+ potential has been fully realized with FreeSpace 2. FreeSpace 2 is a true classic of the genre 
+ and one of the best games to be released this year.    
+-------------------------------------------------
+:::User Reviews::: (52 Reviews)
+::::::
+UserName: CloudZ1116
+Rating: 10
+Date: Jan 26, 2009 10:25 am PT
+Review:  Let's face it, the space sim genre is dead. Freespace 2, originally released back in 1999, could 
+ in a way be viewed as the swan song of the genre, with pretty much everything one could ask for 
+ in a game. The controls are complicated, as is expected for a space sim, but the game more than 
+ makes up for that through a series of tutorials that are very useful for beginning players. Difficulty 
+ is adjustable, ranging from the utterly pathetic "very easy" to "insane", which IMO should only 
+ be attempted in online coop where your wingmates are actual people. Gameplay is varied, as there 
+ is no "standard" mission format. Sometimes it is not possible to complete the mission as originally 
+ intended, simply because it fits in the storyline, which is amazing in its own right.
+  Any fans of the this game should definitely install the Freespace 2_Open patch, which is freely 
+ available from a variety of sources. This open source patch adds souped up graphics that will make 
+ full use of your latest GeForce GTX 200 series graphics card, and includes several extremely well 
+ made user campaigns, some of which are fully voice acted. Online and LAN multiplayer is also fully 
+ supported, with many servers available for play.
+  Granted, this game is rather hard to find these days, but if you ever have a chance, get it, because 
+ only then can you experience gaming perfection. 
+::::::
+
+::::::
+UserName: doomsoth
+Rating: 9.5
+Date: Sep 23, 2008 2:39 pm PT
+Review:  I am not new to the Descent world, in fact, I originally owned both Descent and Descent 2, but, 
+ unfortunately, I missed out on the Freespace portion of the series. This game was recently released 
+ on gog. com and it's worth the $6 price tag. The story is pretty simple, but that can be overlooked 
+ by the great customizable control scheme and hud display; although, I would recommend leaving the 
+ majority of the control scheme as given; it's as if the developers had most of the right controls 
+ in mind.
+  
+  There are only a few flukes in this game. Obviously, since this game is old, it's not the best 
+ looking game out on the market, but it has withstood the test of time in my eyes. The single player 
+ portion of the game is pretty short; I beat it within a week, off and on between 30 to 40 minutes 
+ at a time. The last major fluke in this game is the lack of multiplayer; if you only download the 
+ game and nothing else, then the multiplayer will not work. There are some patches to get it to 
+ work, but you may have to dig around on the internet to find them.
+  
+  This game is still a classic after all of these years and old-school gamers will get a kick out 
+ Freespace 2. 
+::::::
+
+::::::
+UserName: ZanarkandTidus
+Rating: 9.5
+Date: Aug 27, 2008 4:15 am PT
+Review:  
+  
+  The game was incredible when it came out, you play the role of a pilot of a fighter ship and humanity 
+ is at war with a race of aliens called the Shivans, and there is a lot of story to unfold before 
+ you and the gameplay is terrific. Besides the shoot all enemies type missions, sometimes you have 
+ to destroy HUGE battle cruisers and dodge their powerful energy beams which destroy your fighter 
+ ship very quickly and the maneuverability of your fighter ship works so well and makes dogfights 
+ against enemy ships so exciting.
+  
+  There is also escort missions, and missions you have to make it through long journeys through space 
+ with a group of allies and survive constant attacks from the Shivans.
+  
+  You use a boost to make your fighter go faster when you want to catch up to enemies or out maneuver 
+ them but you need to be careful as if you collide with another ship it does a lot of damageto your 
+ shields, and you can automatically set up your fighter speed to match the speed of another fighter, adjust 
+ shield strength to different parts of the fighter and the fact your also out there with allies 
+ makes missions feel more fun and realistic (they communicate with you for more realism)
+  
+  The story is about humanity (terrans) were originally fighting an alien race called the Vasudans 
+ but another more advanced race called the Shivans showed up who had been conquering entire galaxies 
+ for thousands of years and the terrans and Vasudans had to team up to defeat the Shivans.
+  
+  The terran/Vasudan alliance began to fall apart but the Shivans returned once again so they 
+ have to re establish their alliance and and once again fight off the Shivan threat. But there is 
+ more to it then that, as you can select optional missions which change how some parts of the story 
+ turn out, and there is twists in the story.
+  
+  The graphics were incredible, the allies ships looked detailed, and the Shivan ships were colorful 
+ and highly advanced. The energy weapons you fired looked like they came from a highly advanced energy 
+ source, the enemy battle cruisers were absolutely huge and as you flew through space there was beautiful 
+ colorful regions of gas clouds too.
+  
+  The voice acting gave the game a lot of atmosphere, the other pilots communicated with you so you 
+ felt like you were on a real mission and during mission briefings you heard a superior speaking 
+ to you in a real military tone.
+  
+  Some of the weapon sounds from the Shivans sounded terrifying but incredible as if you're fighting 
+ a race with highly developed, but different technology and the weapon fire sound from your own fighter 
+ was clear and explosions and voices of your allies were so loud you felt like you were there.
+ 
+  
+  The only thing I didn't like about the game was it's a bit hard sometimes, and very easy for your 
+ fighter ship to get destroyed by big battle cruisers and you have to re do the mission and do a 
+ lot of work all over again.
+  
+  But still, if you want to feel what it's like to be a fighter pilot in space here is the game to 
+ do it.
+  
+  
+::::::
+
+::::::
+UserName: spunkybob123
+Rating: 10
+Date: Aug 20, 2008 3:29 am PT
+Review:  Well well well......
+  
+  After finally getting bored with GTA4 (ill plays it again soon) I decided to go thru my cupboard 
+ for some old games and what do I find.... FS2.
+  
+  After praying that it will work on vista... which it does, perfectly, I booted it up for the first 
+ time in 4 years.
+  
+  This game is amazing, once you past the first training missions. Battles are EPIC, action is always 
+ fast paced and you don't have to wait for 20 mins travelling to waypoints or hyperspace for a battle.
+ 
+  
+  Ships are fun to use and look awesome, and the ability to call in support makes for some good moments 
+ when you waiting for those last few missiles to load and there are 20 enemies coming towards you.
+ 
+  
+  Capital ships are sufficiently scary to fight but there not impossible to kill, and the way the 
+ story unfolds is great.
+  
+  Graphics wise FS2 still looks great and if you look hard enough there are some mods on the net 
+ to give it higher rez textures.
+  
+  All in all this game is perfect and if you have not played it before, or in a long time, install 
+ it and relive some of the greatest moments in game history. 
+::::::
+
+::::::
+UserName: darkpiggy17
+Rating: 10
+Date: Jul 2, 2008 11:28 am PT
+Review:  This is, without a doubt, the best space sim ever made. i haven't even finished the game yet, and 
+ i already know that. Its predecessor, (The Great War) was a phenomenal game, and kept my interest 
+ for 10 years. It wasnt until a few months ago that i even found out a sequel had been made. I wanted 
+ it, but it goes for up to $160 bucks for a brand new copy on ebay or amazon. Luckily, i found a 
+ guy that apparently didnt know that and bought it for $20. Anyways, i put it in, started it up, 
+ and it was awesome. It reminds me a lot of the first game, but there are plenty of improvements. 
+ For example, the ability to shoot 2 secondary weapons at once really adds to the gameplay. Especially 
+ during bombing runs when you launch 2 ginormous bombs at a destroyer and it makes this unbelievably 
+ satisfying explosion. The graphics are updated, and though the game is nearly 9 years old at this 
+ point, they are still pretty impressive. I love pretty much every part of this game. The only thing 
+ i dont really like is how you change divisions every few missions. I cant keep track of whether 
+ im a suicide king or a hammerhead or what. Oh well. I'm definitely looking forward to going through 
+ the rest of this game this summer. If you can get your hands on a copy, do so. 
+::::::
+
+::::::
+UserName: No_256
+Rating: 10
+Date: Jun 19, 2008 7:51 pm PT
+Review:  The score for FreeSpace 2 alone is no more than 9.5, but any one who played FreeSpace 1 prion to 
+ FS2, will give nothing less than 10.
+  
+  That extra +0.5 comes from a long, detailed, and very exiting story line. You begin in FS1 as a 
+ brand new fighter pilot, you get to fly real junk fighters on partol missions with barely any action.
+ 
+  In fact the beginning of the game is kinda like US Shuttle vs Russian Sozuj. No shelds, barely 
+ any armor, primitive weapons. Slow and quiet missions. And only when you discover the aliens, the 
+ game starts progressing in panic mode.
+  All in all, FS1 is about two fighting interstellar civilizations uniting in the face of total anihilation 
+ by an alien fleet consisting of a single destroyer and its escort.
+  
+  FS2 picks up decades later after FS1's happy end. You begin your carier in a fight agains human 
+ dicidents that are condemed by the alliance for their hateful actions agains the Vasudan people 
+ (ally alien race from FS1) .
+  As the civil war progresses, so does the entangaling story line. In fact the story is so deep and 
+ complex, that you feel that you understand what is happening right now, but have no clue of what 
+ is about to happen. It's games like this that keep people playing for 16 hours every day.
+  
+  The technological advances in space ship building are now at par what a Space sim player would 
+ expect from a game like that.
+  
+  In FS1 for example, capital ships served merely as massive defenceless targets that would serve 
+ as fighter carriers. Naturally, most missions were about deffending them. 
+  In FS2 capital ships are so mean and powerfull that a lot of missions are designed in such a way 
+ that when you are done with your objectives you can sit back, relax, and enjoy the scenery as capital 
+ ships rip each other appart with super heavy guns.
+  
+  As you progress the game, you begin to apreciate the realism of the story. As you gain ranks and 
+ clearance levels you find out that the alliance spent every day since the end of FS1 in preparation 
+ for the return of the aliens. On and on and on. When you though that the mission you just finished 
+ was freking awesome, the next mission turns out even more awesome.
+  
+  Havent played the game in years, but after writing the review, I think Im gona reinstal that bad 
+ boy. Peace! 
+::::::
+
+::::::
+UserName: _EXCON_
+Rating: 9
+Date: Apr 13, 2008 8:53 am PT
+Review:  The game is just an The tutorial is just great, where all the basic controls are taught, with both 
+ text and audio, then you get a hands-on approach. The tutorials last ---say 10 minutes. 
+  The first missions are pretty basic. Escort refugees against small numbers of enemy fighters, but 
+ after a few missions, you'll encounter Shivans, and their ships will just make you think "What 
+ the hell?" (Certainly that was what a pilot thought during a cutscene, and by the way, the cutscenes 
+ are beautiful) . 
+  Combat in the game is great. The controls are quick to learn, and layed out extremely well (e. g 
+ to increase rear shield ---press down! To 'command' press C!) Dogfights are quick, and later in 
+ the game you will participate in huge battles involving nimble fighters, slower bombers and BEHEMOTH 
+ sized Cruisers and Flagships. The latter are just huge, and when two approach eachother, prepare 
+ yourself for some eye-candy. Flak pour from their guns... hundreds of flak fragments fying everywhere, 
+ huge more damaging beams cut through the chips, whilst small beams fire off at fighters. It is 
+ just all so amazing. There is little to no battle scripting, so anything can happen. The enemy 
+ may destroy one of your ships, and you may have to destroy the cruiser by yourself.
+  The graphics are excellent, and a huge modding community can improve visual and gameplay. THe sound 
+ is great, and realistic (the aliens speak in their own language, and a robotic translator decifers 
+ their message, so you can hear both at the same time. 
+  But I still need to mention negative things... all I can mention is the fact that sometimes ships 
+ collide very often, even when they are allies and nothing is going on, but that is very minimal. 
+ 
+  Overrall, the game is the best space combat sim I have ever played, and I am sure you will think 
+ that too, even if you don't like space sims. 
+  
+::::::
+
+::::::
+UserName: titanic100
+Rating: 9.5
+Date: Mar 27, 2008 3:57 am PT
+Review:  Freespace 2 
+  
+  Freespace 2 is a very addictive game 
+  
+  Free space is a very good game and I really enjoy this game a lot I have completed it 4 times and 
+ I never get bored of it. 
+  
+  The game play you are a fighter pilot and you have to destroy the enemy craft that jumps in to 
+ the system you are in and destroy them until further orders form command. 
+  
+  There are very good parts e. g. if you get too close to one of the cruse ship and get to close to 
+ the engines it will say engine wash and you ship will shake around and the hull will decrease in 
+ strength and you will blow up if you don't get out of the engine wash. 
+  
+  
+  The graphics are very good but if they went back to this game they would improve the graphics even 
+ more but I think they are good for the age of this game, the ships are realistic, the weapons systems 
+ are very good and you can see the rockets being fired at the enemy. 
+  
+  The sound quality is very good but you can not hear your engines until you use the high boost button 
+ that will get you to your target faster and the only other time you can hear them is when you power 
+ up and shut down the engines, 
+  
+  The weapons sounds are very good and I am happy with this game. 
+  
+  This game is very addictive 
+ and if you don't believe me get this game it is very good 
+  
+::::::
+
+::::::
+UserName: loki_rj
+Rating: 9.5
+Date: Jan 17, 2008 9:12 pm PT
+Review:  I have to say, I've never been a die-hard fan of space combat sims. My previous gaming experience 
+ in the genre can be narrowed down to 'Freelancer' and a few Star Wars games. 'Freespace 2' is the 
+ game that 'turned me'...
+  
+  You start out as a rookie pilot, joining the combat fleet of the GTVA - Galactic Terran-Vasudan 
+ Alliance, and your initial goal is to defeat the rebel forces of the NTF, the Neo Terran Front, 
+ a faction that refuses to accept the so called Beta Aquilae convention, a series of directives 
+ that formed the main pillar of the alliance between the Humans and the Vasudans.
+  
+  Every aspect of space combat is there - shields, beam weapons, laser cannons, mass drive weapons... 
+ All ship aspects are yours to command. You will handle energy distribution, shield equalizing, 
+ rate of fire, targeting friendly or hostile units, targeting different SUBSYSTEMS of such units. 
+ All that, in all fairness, can overwhelm the casual gamer. Don't get me wrong, they'll become natural 
+ to you as you progress (you'll instinctively divert energy to your rear shields after a bombing 
+ run, for example) , but the different button asignments are, at first, just plain confusing. Thankfully, 
+ you'll get plenty of time to get used to them, as the first true difficulties you'll face are from 
+ the Shivan campaign forward.
+  
+  The graphics are pretty convincing, from the beautiful colorful clouds of a supernova, to the blinding 
+ light of a nearby sun; from the small explosions of a dumb fire missile, to the huge cataclysm 
+ of a Sathanas Juggernaut; all is done in a way that the player trully feels as a pawn in this massive 
+ interstellar war. The ship designs are absolutely amazing, especially the massive flagships. Words 
+ cannot describe the terror (yes, terror) you feel upon facing the Shivan Sathanas for the first 
+ time, and you can almost hear yourself saying "Ha-ha, you're spacetrash now!" upon seeing the Terran-Vasudan 
+ Colossus for the first time.
+  
+  The plot does pretty damned well to immerse you in an 'eternal war' feeling. At first, there's 
+ a strange blandness to each mission, as the rebel menace isn't that much of a, well, menace. But 
+ later, as the Shivans advance and more and more you get the feeling that the fate of the war is 
+ in the wings of your squadron, the game goes into a 'rush-desperation' pace, so much that at times 
+ you'll feel absolutely exhausted after a mission, if not frustrated.
+  
+  ( ***SPOILERS HERE***)
+  
+  I punched my desk at the outcome of the Knossos portal destruction. 
+ There you are, breathing hard after a tiresome mission, thinking the human race is finally safe, 
+ only to witness in absolute desperation a Sathanas Juggernaut jumping into the system, not 1000m 
+ from your position. Your only hope of surviving this thing is hitting your afterburners and getting 
+ the hell out of the way, running back to your base with your tail between your legs. All your work, 
+ for nothing... It hits you pretty hard that one.
+  
+  
+  (***END OF SPOILERS***)
+  
+  My only let down is that there isn't a single character you can relate to. Not a single war buddy 
+ that you will miss in case of death, not a single romantic involvement, no human relation to make 
+ you feel anything other than a killing machine. Though perhaps that is what the developers wanted 
+ it.
+  
+  The audio is near perfect. Each laser shot sounds unique, each missile sounds unique... There are 
+ hundreds of blips, clicks and screeches that further immerse you into a state of 'electronic slavery', 
+ in a way. Your get the feeling your life depends on all those bleeps and screeches, and if you 
+ ever find yourself without a sound: get smart, something's wrong.
+  
+  'Freespace 2' is unique in a certain way... It is one of the few games of the genre that makes 
+ you forget you're sitting at your home staring at a computer screen. It immerses you in a plot 
+ that, despite lacking a bit of substance, does well enough to keep you at the edge of your seat 
+ until the final movie.
+  
+  So go get yourself a copy, put a pillow at your seat, leave a bottle of water next to your monitor 
+ and don't stop playing until you've saved all of man-kind. 
+::::::
+
+::::::
+UserName: DemonOfloom
+Rating: 9.5
+Date: Dec 16, 2007 1:27 pm PT
+Review:  Get a joystick and play this game, its great to fight between two massive ships shooting huge lasers 
+ against each other, weaving in and out of the laser fire while fighting your own battles against 
+ enemy ships!
+  Then you get hit by a small anti-fighter laser and your ship spins out of control, you've seen 
+ this happen to other ships and they normally blow up soon after! Sometimes you get hit by another 
+ one, then another and your died, but if your lucky you might dodge them and live to fight on, heavily 
+ damaged.
+  
+  As a bomber you'll head to your target, flank shacking your ship with lasers skiming by, you get 
+ close and release your bombs, pull up and scrape along the ship, the flak is close now and you 
+ need to burn thruster yourself away to surive, only to turn around and head back into the fray.
+ 
+  
+  I really loved playing this game! 
+::::::
+
+::::::
+UserName: BlindLookout86
+Rating: 9.5
+Date: Oct 11, 2007 9:54 pm PT
+Review:  Freespace 2 is not just a space sim. It is not just about blasting ships out of space. Actually 
+ it is but so much more.
+  
+  Fisrt thing that strikes you are the complicated controls. The controls literally use almost the 
+ entire keyboard.
+  
+  This is a game with incredible depth. You can match target speed, accelerate, use afterburners, 
+ bank, adjust shields, guns and engine power, switch weapon fire rate etc.
+  
+  Freespace 2 also allows you to issue commands to not just 1 wing (4 pilots) but up to 4 wings of 
+ pilots (I think) .
+  
+  You can order them to attack targets, disable it, rearm your weapons, guard an important target 
+ etc.
+  
+  Each ship has specific subsystems (nav, comm, engine etc.) while larger ships such as Destroyers 
+ have mutiple turrets as well. Disabling subsystems/turrets will weaken the ship realistically. 
+ E. g. Disabling the engines would mean that ship becomes a sitting duck.
+  
+  This may all sound a little overwhelming and it did frustrate me a few times but this is a game 
+ you need to practice to master. This is definatey not a brainless turkeyshoot.
+  
+  I recommend remapping the keys to suit you best.
+  
+  The graphics look dated, obviously compared 
+ to newer, shiner games. However, with the open source project comstantly upgrading the FS2 source 
+ code, the graphics have improved radically.
+  
+  Storywise it is the most engaging I have ever experienced. The exposition is relatively light, 
+ but the minimal dialouge actually enhances the sense of urgency as in a real battle.
+  
+  The main plot is not complex but what stands out are the surprises that occur during missions. 
+ I will not spoil anything but expect the unexpected in FS2.
+  
+  Freespace 2 is a masterpiece from IMO the golden age of gaming (Late 90s) . Refreshing to play, 
+ it reminds us of how games used to be fun yet challenging instead of the loads of crap we are spoon 
+ fed now (by the media i. e. HYPE) 
+::::::
+
+::::::
+UserName: Venek
+Rating: 10
+Date: Sep 19, 2007 7:47 pm PT
+Review:  Without question, this game is the absolute best when it comes to the sci-fi sim genre, and also 
+ it's final crowning achievement (sadly) . Everything about this game, the graphics, the atmosphere, 
+ moody music, gameplay, and the story all combines to make for one truly enjoyable gaming experience.
+ 
+  
+  Let's start with the graphics. To this day, Freespace 2's graphics are still pretty to look at, 
+ despite its datedness. The massive capital ships are a sight to behold, and when they shoot their 
+ beam weapons, well gee, you just squeal in delight like a little girl. Oh and the explosions! What 
+ colors and how satisfying it is. Even better is when a capital ship blows and you can see the shimmering 
+ shockwave expanding outwards, and towards you. You do NOT want to be caught in one of those.
+  
+  Controls: As I have a force feedback joystick, I get to feel the thrill of blasting away at 
+ the baddies, feel the knock of a missile slamming into my tail, and the juddering afterburner. 
+ The controls are very smooth and intuitive, at least on a joystick that's already has a Freespace 
+ 2 scheme built in. The keyboard controls can be a bit daunting at first, as there's much to learn. 
+ After time, however, it becomes second nature.
+  
+  Sound &amp; Music: Voice acting is top-notch as is the music which fits the atmosphere of the game 
+ perfectly. It really helps to have a sound system with a subwoofer to bring out the explosions 
+ and various weapons sounds. You can tell they put a lot of work into this due to the massive amounts 
+ of diverse sounds in this game.
+  
+  Gameplay: The best thing about this game, period. Sure you got the usual search and destroy missions 
+ along with protect this escort and other standard missions, but it's HOW these missions are carried 
+ out that this game sets itself apart from the others. There are unexpected twists and environments 
+ (the famous nebula missions come to mind) that always keep you on your toes. One of my favorite 
+ moments is when, at the beginning of the mission, upon exiting subspace (method of long-distance 
+ travel in this game) , I am immediately nose-to-nose with a capital ship coming right at me and 
+ my squad leader screaming at me to dive. THAT was just so cool. Another great and fun aspect of 
+ this game is fighting amongst the capital ships. These guys have teeth, and they use it well. If 
+ you're going to bring down one of these boys, you better be packing a lot of firepower, shields, 
+ and armor, otherwise you're toast in their flak cannons, anti-ship beam weapons (deadly accurate 
+ too) and too many cannon and missile banks for you to keep track of. In general, this game will 
+ not bore you, it will frustrate you at times, but most of all, it will entertain you.
+  
+  In short, there's just not enough good things I can say about this game. Just to give you some 
+ idea, I still own the game (and I was extremely lucky to find it in a bargain bin for just $5 before 
+ it went out of print) and I'm playing it again now for the umpteenth time.
+  
+  There's a dedicated group of people out there who have been using the Freespace 2 source code to 
+ create their own improvements to the game as well as creating whole new ones. I haven't really 
+ looked into it too much as programming and modding is a bit beyond me. This is their website: http://www. hard-light. net/
+ 
+  
+  If you're lucky, you might be able to find a legit copy at the Amazon Marketplace or on eBay, but 
+ beware of scam artists on eBay. Not sure? Just look at the item location, if it seems bogus... it 
+ IS bogus. 
+::::::
+
+::::::
+UserName: linkingfire
+Rating: 10
+Date: Sep 17, 2007 7:58 pm PT
+Review:  Freespace 2 is, in a word, awesome.
+  
+  Even now. Ill admit, I didnt play the game when it first came out, but downloaded it now that 
+ the source code has been released to the community (you can download the entire game for free) . 
+ Not only that, there is a mod community backing it that is really overhauling all the graphics 
+ and campaigns, which is refreshing. The game is incredibly enjoyable, from the first encounter 
+ with the shivans to the first time you play a bonus mission that involves you penetrating alien 
+ space. You wont forget the DIVE! DIVE! Hit your afterburners, pilot!
+  
+  There are a wide range of difficulties, from easy, in which you brush off flak without even damaging 
+ your shields, to hard, where anti-fighter beams are a real danger. The graphics are enjoyable, 
+ though I recommend changing the HUD color in the nebulae missions (its in the options) .
+  
+  The gameplay is great, its free, and theres a mod community making it even better. Play it. 
+::::::
+
+::::::
+UserName: hyym
+Rating: 10
+Date: Aug 26, 2007 5:49 pm PT
+Review:  I have tried to find another game like it. No other game can match how much I enjoyed playing Free 
+ Space 2. The controls are great. I can play it with the worst space craft in the game and take 
+ 1 or 2 hits on very hard difficulty. Free Space was easy once I got the hang of it. If I needed 
+ I would replayed the training missions. Most of Free space I didnt have time to think about what 
+ I was doing. The main thing was not to panic when I was getting swarmed. I keep on playing it over 
+ and over again. 
+::::::
+
+::::::
+UserName: lazychazman
+Rating: 9.9
+Date: May 13, 2007 12:47 am PT
+Review:  First off this game is the best game i've seen in years. It has the right amount of difficulty 
+ and is like the first keyboard friendly. This may be a sequel but it beats the first game. The 
+ gamesplay is much improved from the first. The HUD has been revamped and is sleeker than the HUD 
+ in the first. The wingmen are more intelligent and so are the enemies. The weapons in this game 
+ are amazing especially the beam cannons. The ships number to 60 which gives this game diversity. 
+ The capital ships are more deadly to fighters and the sheild effects are amazing. The music in 
+ this game are better than in the first. The story is easy to get into and the missions are amazingly 
+ fun to play. Overall this a great game and the developers should pat themselves on the back for 
+ making a superb game. 
+::::::
+
+::::::
+UserName: pigonthewing
+Rating: 9.6
+Date: May 3, 2007 5:03 pm PT
+Review:  I recently grabbed the Open Freespace game since its free now and it is hard to explain just how 
+ much work went into this. Fully redone graphics including AA and new textures along with improved 
+ resolution .
+  
+  You can get a good idea on how much of a great game this is by gamespots review but it still is 
+ the best space sim of all time. My score is based on games of today so I can only give it a 8 for 
+ graphics but they are still great because of the mod improvements.
+  
+  The game play is the same as before which is perfect because honestly it was perfect. Sounds have 
+ been improved and are still some of the best. This includes everything. Weapons, explosions and 
+ even the voice acting is done very well.
+  
+  The story is one of the best in a game of this type. Its intriguing and would be great for a tv 
+ series. And for value well its free and its like 5 games rolled into one so its value is unmatched.
+ 
+  
+  This is one of the best games of all time and to have it remade like this is a dream come true. 
+ 
+::::::
+
+::::::
+UserName: wtj87
+Rating: 9.6
+Date: Feb 6, 2007 5:02 am PT
+Review:  In order to really appreciate this game you should probably play the first Freespace. Otherwise, 
+ some things just wont make any sense. The graphics have definitely improved and the skill required 
+ to play is way higher than in the first one. You are a human fighting against the alien race that 
+ nearly destroyed your planet 30 years ago, but this time you have a weapon thats strong enough 
+ to help hold them off and counter their advance, but this time there's more than one major vessel 
+ to destroy. Eventually it comes down to these major battles and the chaos is evident with them. 
+ One of the downsides to this game is that many of the missions are similar to the ones in the first 
+ one, but they go a little more in depth and require you to do a bit more. Other than that this 
+ game is great, and definitely the best space fighting sim that you'll be able to find anywhere. 
+ 
+::::::
+
+::::::
+UserName: Bozanimal
+Rating: 9.6
+Date: Jan 25, 2007 9:20 am PT
+Review:  This is unquestionably the best space flight sim I have ever played. If you can find a copy in 
+ the used bin, but it. This is to the space flight sim genre what Final Fantasy is to RPGs. There's 
+ just no money to be made in space sims. The game has everything necessary for a great space sim: 
+ different alient vessels, customizable weapons, immersing story, difficult missions, in-mission 
+ objective changes and plot-twists, excellent acting, great graphics (at the time) , massive (REALLY 
+ massive) capital ships, and intuitive controls. I felt like I actually accomplished something after 
+ and during each mission, which is tough to do in a video game. Buy it if you can find it. 
+::::::
+
+::::::
+UserName: sythex
+Rating: 9.4
+Date: Dec 16, 2006 1:53 pm PT
+Review:  The first Freespace was bundled with my PC when I bought it an (extremely) long time ago. I found 
+ Freespace 2 and I was nothing short of thrilled with the gripping gameplay and the all-around playability. 
+ Even in the midst of the next-gen era, this game is simply the most fun game anyone could imagine. 
+ I was truly impressed by campaign and it ran along quite a while. I get bored with games very easily 
+ and quite often, but I played this game into the late hours of night. It's an obsessive game and 
+ even though it is a little dated, you will have the greatest experience with it. It's free now, 
+ so give it a try! You won't regret it! 
+::::::
+
+::::::
+UserName: gsaito
+Rating: 9.8
+Date: Sep 28, 2006 6:58 pm PT
+Review:  Every now and then a great title is released that really stands apart from the crowd. Freespace 
+ cannot be praised for reinventing the space sim genre, but definetely brings it to perfection.
+ 
+  
+  I've reached my 30s and still remember the old days of Wing Commander, which I played from I to 
+ V with all special missions. I had never until now found anything close to the WC series when it 
+ comes to creating a rich and involving plot with perfect gameplay. Freespace overcomes WC by inhering 
+ all the good elements while getting rid of the annoyances.
+  
+  When Descent Freespace launched in 1998 I didn't pay attention to the launch because I though it 
+ was a sequel to the original Descent, which is not my kind of game. Only recently, 8 years afterwards, 
+ I've come to realize that Descent Freespace was actually a highly praised space sim.
+  
+  I then played Freespace 1 (The Great War) , which is great by itself, but I really played it in 
+ order to follow the plot that leads into Freespace 2. Freespace 1 is very nice and still highly 
+ recommended but Freespace 2 is the one that really shines. Whereas 1 looks rather outdated by today's 
+ graphics standards, 2 looks reasonably updated even today. The game shines in all relevant aspects 
+ of the genre, including a rich, deep and consistent storyline with a great plot, fantastic voice 
+ acting, great ship and weapon designs, near scientific ship and weapon descriptions, articulate 
+ dialogs, and of course, excellent graphics, sound effects, physics and overall gameplay. Missions 
+ are particularly well conceived and perfectly adeheres to the main plot.
+  
+  Of special remark are the capital ships action throughout the missions, which makes simply standing 
+ by and watching the scene evolve a particular enjoyment in its own.
+  
+  Highly recommended for anyone that appreciates the genre or anyone that appreciates a game built 
+ to perfection with excellency in every detail. 
+::::::
+
+::::::
+UserName: Treelor
+Rating: 9.4
+Date: Aug 31, 2006 5:30 pm PT
+Review:  (It's been a while since I've played through the whole game so bear with me, but I'm still playing 
+ custom missions so it shouldn't be a problem) .
+  
+  When I was younger, I remember my dad getting a demo disc with the first Freespace game on it. 
+ He was so impressed with it, later that day he picked up the full game. That's what got me into 
+ this series. Descent Freespace 2, the sequel to the ground breaking Descent Freespace: The Great 
+ War, was even better than the first, even though it has absolutely nothing to do with the original 
+ Descent games. With the addition of beam cannons for terran warships, improved graphics and weapon 
+ choice, as well as firepower, I have to say the only thing I'm truely disappointed in this game 
+ is that Volition didn't bring in a new species, only reintroduced our old foe. Then again, even 
+ the Shivians are fun to fight twice in a row.
+  
+  The graphics for this game were great for it's time, and still are fairly good today, seven or 
+ so years later. With the addition of the Source Code Project, by the guys over at Indie Games, 
+ the graphics are improved again, with higher poly ships, improved engine effects, lighting, and 
+ in the Inferno mod, new beam cannon effects. You can even choose to use cell-shading if you so 
+ wish. The weapon effects are great, and you really couldn't tell that the missile poly count is 
+ a lot lower than you'd expect untill you see them in 3D on the weapon select screen (3D view only 
+ availble in FSOpen as an option) , and even without FSOpen the game is still fairly pretty to look 
+ at.
+  
+  The story of this game is one that once you've played it, you'll remember it forever, especially 
+ if you've played the first game. I don't want to give away too much, but all I can say is that 
+ you're going to go "Oh crap, we're done. We're done, guys, we're dead." once you get word the Shivians 
+ are back, provided you know who they are. The ending is especially brilliant, with a race to the 
+ node with the only prize being your life. Even if you don't make it, you've "beaten" the game, 
+ with a nice ending cutscene. Speaking of which, if you hate cutscenes in most games, you'll love 
+ them after you've played this game.
+  
+  They even included a mission editor, named FReespace mission EDitor (affectionately dubbed FRED2) , 
+ with high functionality, but also a high learning curve, so I recomend only intermediate to advanced 
+ users take a look at it, but you've seen great user-made fun such as the Just Another Day 2 campaign, 
+ in which you literally battle FRED. Look it up on ModDB. FRED is located in the root FS2 directory.
+ 
+  
+  The multiplayer is also very nice, even though it's impossible to play it anymore. Still, relatively 
+ no lag. Not much to say anymore though.
+  
+  As with every review, I feel obligated to find something bad about the game. If you don't like 
+ space-sims, steer clear of this one. It takes space games to a whole new level. Also, if you're 
+ an original Descent lover, and try to think of Freespace as one of those games, good luck loving 
+ this one. Apart from that.. I really can't think of anything wrong with this game. Highly reccomended. 
+ 
+::::::
+
+::::::
+UserName: vorlon92
+Rating: 9.6
+Date: Jul 24, 2006 10:56 am PT
+Review:  Freespace 2 surpasses its predecessor and is simply amazing. My only complaint about the game is 
+ that my wingmen were too good sometimes, and took out some targets I was looking forward to eliminating. 
+ This is my only complaint about the entire game. Otherwise the single player experience was simply 
+ amazing. 
+  
+  Great sound, immersive flight, playing this thing at night with headphones on was a huge waste 
+ of of my sleeping hours. Even more impressive is that this game was released in 1999. 
+  
+  I sadly have not tried multiplayer so I can't comment as of yet. 
+  
+  Buy it if you see it!!! 
+ Although if you most likely already own it. This game still surppasses many of the newer games, 
+ the few that have been released. We need more space sim games!!!
+  
+::::::
+
+::::::
+UserName: saltank
+Rating: 10
+Date: Jul 23, 2006 3:54 am PT
+Review:  I have played this game through several times and still love it. It has a perfect balance of gameplay, 
+ visuals (still good even now) , enveloping sound and a very epic and memorable storyline.
+  
+  Any fan would want the sequel but as it stands now, sometimes you just can't make a sequel to something 
+ you've made to perfection. An update to the series would be a dream for many people and hopefully 
+ the people that will work on it will not botch it up, a lot of people would depend on them and 
+ the results they bring.
+  
+  Freespace 2 is probably my favourite game ever. 
+::::::
+
+::::::
+UserName: Fire_Zealot
+Rating: 10
+Date: Jul 2, 2006 8:45 am PT
+Review:  Freespace 2 is in a nutshell, a Freespace 1 with all its faults fixed. If you dont like flight 
+ sims, you wont like Freespace. But, if youve ever enjoyed X-wing, Ace Combat, Wing Commander, 
+ or anything to do with fighter planes, this is for you.
+  
+  Freespace 2 starts off several years after Descent Freespace. Over the years, technology has improved, 
+ and Volition accurately shows that. The GTVA fleet is made up of new fighters, though the best 
+ of the last gen fighters are still being used. (Though they too, are being phased out)
+  
+  Volition does a great job of showing the traits of the different factions. The NTF uses older fighter 
+ designs, and generally does massed attacks. NTF pilots seem to be more aggressive than GTVA counterparts. 
+ Terran fighters continue to be more all-purpose, and their mission styles reflect that. The Vasudans 
+ however, have more single purpose ships, normally having lighter armor and increased speed over 
+ Terran ships. 
+  
+  One other enhancement is the beam canons and flack guns on Capital Ships. No longer are they just 
+ gunboats with a tendency to miss. The huge, Lucifer like Beam Canons look and feel powerful and 
+ great. Its fun to just sit and watch a duel of destroyers. Flack canons are also a welcome addition. 
+ Theyre pretty much anti fighter canons, and theyre deadly in this aspect. They can take down 
+ flights of bombers with ease, and they also shoot down incoming bombs. These make destroyers rightfully 
+ feared of, and the huge battles look majestic overall. It reminds of Star Wars battles, and it 
+ never disappoints.
+  
+  The campaign itself is wonderful, with branching missions and a great plot, which leaves you wondering 
+ about the end of the conflict until the conclusion. There are now some new optional missions too, 
+ and these grant you elite materials for use later in the game. There is also a more difficult extra 
+ campaign, called Templar, which shows the destruction of the Hammer of Light.
+  
+  Whats also included is an enhanced FRED editor, so you now truly have a great mission editor. 
+ The instructions are fairly easy to understand, so its possible to make great single player (or 
+ multi player) missions or even campaigns.
+  
+  One other enhancement is the beam canons and flack guns on Capital Ships. No longer are they just 
+ gunboats with a tendency to miss. The huge, Lucifer like Beam Canons look and feel powerful and 
+ great. Its fun to just sit and watch a duel of destroyers. Flack canons are also a welcome addition. 
+ Theyre pretty much anti fighter canons, and theyre deadly in this aspect. They can take down 
+ flights of bombers with ease, and they also shoot down incoming bombs. These make destroyers rightfully 
+ feared of, and the huge battles look majestic overall. It reminds of Star Wars battles, and it 
+ never disappoints
+  
+  This is my favorite flight sims of all time, and it rightfully deserves its flight sim of the year.
+ 
+  
+::::::
+
+::::::
+UserName: HunterBruno
+Rating: 10
+Date: Jun 27, 2006 3:13 am PT
+Review:  I had this game with my Joystick software bundle. It was only Freespace 2 Colossus. What a great 
+ game. The best space sim ever made and that's very the truth. I had the change to purchase this 
+ game via a friend and I'm so excited to have in my collection. I will play it on my old system 
+ too because the specs for the system are way below of the new gen. games. 
+  I like the sounds, the graphics and above the game-play. Love it!!!
+  Why will there not be a 
+ game like this on the market? A shame, Freelancer is good but in no way so good like this. 
+::::::
+
+::::::
+UserName: EdwardLau
+Rating: 9
+Date: May 7, 2006 9:04 am PT
+Review:  Once I entered the main menu, I thought "Woah, now that is an animated menu". Men used elevators, 
+ fighters flew outside, and when I hover my mouse over a section, it would animate e. g operator 
+ turns around.
+  
+  OK, enough with the menu. The game is just an The tutorial is just great, where all the basic controls 
+ are taught, with both text and audio, then you get a hands-on approach. The tutorials last ---say 
+ 10 minutes. 
+  The first missions are pretty basic. Escort refugees against small numbers of enemy fighters, but 
+ after a few missions, you'll encounter Shivans, and their ships will just make you think "What 
+ the hell?" (Certainly that was what a pilot thought during a cutscene, and by the way, the cutscenes 
+ are beautiful) . 
+  Combat in the game is great. The controls are quick to learn, and layed out extremely well (e. g 
+ to increase rear shield ---press down! To 'command' press C!) Dogfights are quick, and later in 
+ the game you will participate in huge battles involving nimble fighters, slower bombers and BEHEMOTH 
+ sized Cruisers and Flagships. The latter are just huge, and when two approach eachother, prepare 
+ yourself for some eye-candy. Flak pour from their guns... hundreds of flak fragments fying everywhere, 
+ huge more damaging beams cut through the chips, whilst small beams fire off at fighters. It is 
+ just all so amazing. There is little to no battle scripting, so anything can happen. The enemy 
+ may destroy one of your ships, and you may have to destroy the cruiser by yourself.
+  The graphics are excellent, and a huge modding community can improve visual and gameplay. THe sound 
+ is great, and realistic (the aliens speak in their own language, and a robotic translator decifers 
+ their message, so you can hear both at the same time. 
+  But I still need to mention negative things... all I can mention is the fact that sometimes ships 
+ collide very often, even when they are allies and nothing is going on, but that is very minimal. 
+ 
+  Overrall, the game is the best space combat sim I have ever played, and I am sure you will think 
+ that too, even if you don't like space sims. 
+::::::
+
+::::::
+UserName: phazon78
+Rating: 10
+Date: Apr 17, 2006 3:38 pm PT
+Review:  Masterpiece
+  Pronunciation: 'mas-t&r-"pEs
+  Function: noun
+  Definition: A work done with extraordinary skill.
+  
+  Webster has basically summed up what I 
+ had trouble with. Freespace 2 is the followup to Descent Freespace. It is also a primary example 
+ of the correct way to make a game.
+  
+  Gameplay: 10
+  Freespace to has everything to immerse you in its story and more. This is the kind of game you 
+ stay up until the God-awful hours of the morning playing. The controls, though difficult to learn, 
+ are smooth as butter once you get used to them and customize them for yourself.
+  
+  Graphics:10
+  Incredible. Though dated, Freespace 2 put out the kind of graphical quality that 
+ keeps people coming back for more. With capital ships the size of city blocks with the graphical 
+ quality to see each individual window, it amazes me that this game is older than 7 years.
+  
+  Sound: 10
+  Volition took the time to custom create sound FX for Freespace. I'd say it paid 
+ off pretty well. Each engine of each ship has a custom sound to it. From the high scream of an 
+ interceptor, to the faint hum of a recon, to the bass growl of a heavy bomber. Simply amazing.
+ 
+  
+  Value: 10
+  I've had this game for 6 years. I still play it don't I?
+  
+  Freespace is a tremendous game that deserves respect and recognition. Unfortunately, it just couldn't 
+ muster up any of those things. That is why it will go down as a forgotten gem of a game. And that's 
+ a damn shame. 
+::::::
+
+::::::
+UserName: Indigo_Blues
+Rating: 9.4
+Date: Apr 5, 2006 7:09 pm PT
+Review:  There are so many things that I could say about Freespace 2, but I'll try to make it short. 
+  
+  Freespace 2 is just great. Set three decades after the first Freespace, this took it to the 
+ next and last level of the series. 
+  
+  Gameplay was absoluetly awesome. Starting out as a rookie like pilot, doing your training, and 
+ going all the way up to destroying capital ships, and taking on huge squadrons of Shivan fighters. 
+ You had a arsenal of fighter/bombers to choose from, and handfuls of weapons to load them out with. 
+ 
+  
+  The storyline was in-depth and epic. It was presented very professionally and clean. Always a briefing 
+ before most of the missions, never leaving you in the dark on what is going on in the game.
+  
+  Graphics and sounds were top-notch for it's time, and still is. Awesomely detailed ships. From 
+ fighters to capital ships with individual turrets, missile launchers, lights and whatever else 
+ you could throw in. Backgrounds with nebulae, stars and planets made it that much better. Great 
+ sound effects from ship engines, capital ship beam cannons, explosions and others wer all great.
+ 
+  
+  I have to say there were some flaws. Campaign was a bit straight line and long, only being a couple 
+ places to take special missions or off storyline missions. AI wingmen collisions would get irritating 
+ when commanding them. Logging in to the PXO lobbies to play online was a bit tedius, sometimes 
+ taking a while to get in.
+  
+  All in all this game was great. My all time favorite over any game I have played so far, and none 
+ so far have come close to it. If you like Sci-FI or space sims that are straight action with great 
+ stories, this is for you. It is a game that has aged greatly since it's release. And with the Open-Source 
+ revamp that has made everything look/sound even better, it is great to play again and again. 
+::::::
+
+::::::
+UserName: sharkyforce
+Rating: 9.8
+Date: Apr 4, 2006 9:06 am PT
+Review:  with the "SCP" mod the game keep being in the groove, and the "battlestar galactica" mod that its 
+ meant to be even better that the official game of the TV series.
+  
+  I've played since volition released Descent Freespace. First I was impressed by the amazing graphics 
+ and surrounding atmosphere, it was a very playable game too. The storyline made it one of the best 
+ games I ever played. The Sequel was even better: another outstanding storyline and a smart planning 
+ of the campaign made this game worth of playing all the hours that it takes to complete, beyond 
+ the great graphics, sounds and go on...
+  
+  The fact it's that some of those players couldn't help to rescue this masterpiece from the past, 
+ and make one of the most worked mods ever made, SCP. 
+  
+  Freespace 2, it's not a classic it's almost a release!!
+  
+  
+  Simply Flawless. 
+::::::
+
+::::::
+UserName: smbius
+Rating: 9.7
+Date: Apr 3, 2006 2:20 am PT
+Review:  I have played many space simulators before but this game takes the cake and eats it right in front 
+ of their faces.
+  
+  Freespace 2 (FS2) , even after these many years, still plays as good as it looks. In this game, 
+ you'll find some of the most coolest and most functional looking fighter craft you will ever see. 
+ Freespace 2 also has brought back the friendly training grounds from Freespace 1 (FS1) . Freespace 
+ 2 also expands on the your typical training and the interface and HUD returns from Freespace 1. 
+ Everything comes together in a nice package for you armchair pilots. Also new are the fighter weapons 
+ and missles for the nice new shiny ships. In FS1, the missles were nice to look at but in FS2 the 
+ new ships takes multiple swarming missles to the next level. Same goes for the lasers and other 
+ weapons. FS2 also upgraded their capital ships - big time. So far, I haven't seen any game that 
+ has had larger capital ships than FS2. However, we all know that bigger sometimes isn't necessarily 
+ better so this time around, FS2 brings in the big guns with the capitol ships in the form of flak 
+ cannons.
+  
+  Whoever developed FS2 has been watching alot of Robotech and Macross. There are many other games 
+ of this type that try to convey what it is like to attack a real capitol ship but FS2 redefines 
+ this meaning. It makes you feel the adrenaline rush of attacking a ship that is not only enormous 
+ in size but enormous in firepower making Star Destroyers look like toys in comparison. When your 
+ fighter goes head-to-head with a capitol ship, you'll realize how much harder and scarier it is 
+ trying to drop your torpedos in a thick cloud of flak and never seems to run out of patrol fighters 
+ from its bay. And it doesn't stop there. The real beauty comes out when more than one capitol ship 
+ goes head-to-head and you first realize some of the most craziest firepower you will witness happens 
+ between two super-class ships by releasing grand cannon beams thicker than a squad of ships. It 
+ is frightening yet thrilling to see these fatal beams obliterate waves of ships just a few yards 
+ next to you. After playing for only an hour, I thought Freespace 1 should no longer be called the 
+ "Great War". Freespace 2 outdoes its predecessor in every way possible and making other games of 
+ this type look stupid in comparison especially when comparing the dogfighting experiences. FS2 
+ also has missions that branch into other missions at some limited level but the missions themselves 
+ are very well designed and flow well with the game. Some of the missions are nerve racking but 
+ thrilling. There is even a mission (if played right) where you are undercover and your wingmen 
+ discover your background and they actually become enemies. The story is well written and the cutscenes 
+ are a joy to behold... but not as much as observing and closing in on swarms of ships and destroyers 
+ going at it from afar.
+  
+  Wait. There's more.
+  
+  FS2 has the ability to create your own missions. This time the mission tools are much easier to 
+ use. The triggers are also much easier to create especially when using scripted sequences in a 
+ mission. FS2 also has a very stable multiplayer that is even more fun when playing with 2 or more 
+ players. You can try your hand at creating a mission and have your friends try to challenge it. 
+ FS2 has great replayability and because the graphics and art direction seem timeless, the game 
+ doesn't seem like a game that was created back in '99.
+  
+  If you're into Wing Commander, X-Wing, or anything slightly related to space sims. You owe to yourself 
+ to buy this game and add it to your collection. For those who've bought Thrustmasters, Flight Sticks, 
+ and other joysticks that have 500 buttons on them, it makes use off all the geeky stuff and thensome. 
+ If you're a real PC gamer that likes games like X2 and X3. Buy this game. 
+  
+  radcastro. com 
+::::::
+
+::::::
+UserName: Sir_Ice
+Rating: 10
+Date: Mar 19, 2006 10:54 am PT
+Review:  It is very rare that a sequel arrives at the same level of its predecessor... but Freespace 2 is 
+ something that almost never ever happens: its better than the first game!
+  It has higher resolution, better graphics, more intense fighting, greater variation of ships, excellent 
+ plot twists, very good voice acting, different endings, excellent sound effects - even though technically 
+ in space there is no sound...
+  I have the gold edition, which has a few extras, nothing really ground shaterring but is nice to 
+ have it all in one package.
+  Loved the open ending, because the story isn't over yet. We still don't know if the shivans are 
+ sentient beings or just tools in a greater design.
+  I hope there will be a Freespace 3 at some point. 
+::::::
+
+::::::
+UserName: uchitha
+Rating: 9.7
+Date: Mar 11, 2006 5:46 am PT
+Review:  One awesome game I have ever played. Haven't played many outer space games like this and there 
+ isn't many also. But this is one is absolutely superb. Once again I love the story of this game 
+ the first one was good as well the graphics remain the same in both the games. The weapons and 
+ ships are also well designed and they all are related thats the best part about this game. Volition 
+ release Red Faction and some other games after releasing this but this is the best comparing to 
+ all of those. I really don't know why did they stopped developing the third game of this since 
+ they can continue the story easily and this time with more graphics. Best games Ever. 
+::::::
+
+::::::
+UserName: joeshoe1121
+Rating: 9.7
+Date: Feb 24, 2006 8:51 pm PT
+Review:  Freespace has been one of the best series in creating scripted events. Easily comparable to those 
+ from Call of Duty or Brothers in Arms, this game redfines the genre. Offering many different crafts 
+ and weapons, players can easily find this game enjoyable.
+  
+  Many elements from Freespace 1 have been left unchanged, but many have been changed as well. While 
+ many ships from the first game have survived, there area plethora of new capital ships and fighters, 
+ giving players a fresh new look to see. Capital ships are even deadlier now, carrying beam weapons, 
+ flak guns, and a variety of other weapons that make them flying fortresses that are not so easily 
+ destroyed any more. 
+::::::
+
+::::::
+UserName: alzikar
+Rating: 9.6
+Date: Feb 14, 2006 9:45 pm PT
+Review:  Dated? I don't think so... Just played it again (Feb 2006) on a top notch gaming rig and it still 
+ looks great and plays great. Top Notch voice acting, story, and game play. It's like a Hollywood 
+ production instead of a game. Makes me want to play the Wing Commander series all over again. 
+ 
+  
+  Absolutely a first class game that makes me which a developer would the title up and continue the 
+ tale. I want to see them make it back to Earth... they found the gate stabilizing technology to 
+ re-open a portal in FS2... There really needs to be a FS3 to finish this story. 
+::::::
+
+::::::
+UserName: adrian1480
+Rating: 9.7
+Date: Feb 12, 2006 2:52 pm PT
+Review:  Descent Freespace 2 does what most games never successfully do. Follow up a brilliant game with 
+ an even more brilliant sophomore offering.
+  
+  THE GOOD:
+  -Everything. And I mean that. Everything that Descent: Freespace - The Great War did well, it does 
+ it even better. The controls are tight, the sounds are just as good, the graphics are sharper, 
+ cleaner and crisper, the fighting is more intense, the situation even more perilous. 
+  
+  THE BAD:
+  -No multiplayer. Other than that, i can find no fault with this game.
+  
+  This game 
+ is the standard to which I measure all future flying games. It is that good. It's a shame the breed 
+ is dying. 
+::::::
+
+::::::
+UserName: God-Dragon
+Rating: 10
+Date: Mar 6, 2006 7:43 pm PT
+Review:  too bad that freespace 2 is the only one left they should try to make a freespace 3 that way people 
+ could get back into the game. i miss not being able to play the game with out having a older computer 
+ but this is so a worth wild game to play. becasue i need a game like this to play. this game is 
+ too much to explain and i did find a demo to play so far i am still downloading it but i am so 
+ hoping to get it up and running. people should band to gether and get the company to make another 
+ freespace get the shevens back or even another bigger threat.
+  
+  over all they so need another FREESPACE game and i vote that the rateing of 9.4 be changed to a 
+ perfect 10 
+::::::
+
+::::::
+UserName: CyReNiUsX
+Rating: 10
+Date: Dec 31, 2005 11:20 am PT
+Review:  Literally. If you haven't played it, your life is worth considerably less. Greatest game ever? 
+ Possibly. Greatest space sim? Bring it on.
+  
+  Now... to fulfil the 100 word minimum rule, I will further elucidate the extent to which this game 
+ owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  
+ Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  
+ Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  
+ Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  Freespace owns.
+  
+  Thank you. 
+::::::
+
+::::::
+UserName: selbie
+Rating: 9.7
+Date: Dec 28, 2005 1:12 am PT
+Review:  Wow... just wow. I managed to find a place to download Freespace 2. I loved this game when I played 
+ it several years ago and I was so overwhelmed when I found out that a bunch of modders have updated 
+ the graphics in what is called the Freespace 2 "Source Code Project".
+  This game would have to be the most exhilerating combat sim to ever be released (and i'm talking 
+ about up to the present day here) . After a quick briefing on your mission objectives, you are immediately 
+ sent into the fray. Now imagine yourself warping into the emptiness of space with beautiful nebulas 
+ and planets surrounding you. A missile-lock sensor starts blaring and you snap out of your daze 
+ and back into reality. You blast your engines at full throttle, swing your ship hard right, and 
+ eject a few countermeasures to distract the oncoming warheads. This maneuvre succeeds and you line 
+ yourself up with the enemy and unleash the wrath of your cannons on his hull. As you weave through 
+ the shards and flaming wreckage of his ship you encounter a truly amazing sight. Two five-kilometre 
+ long capital ships are ploughing full-speed towards each other with plasma and flak cannons streaming 
+ from their hardpoints. As soon as they are in range you see energy gathering at several points 
+ on each ship. All of a sudden, gigantic beams tear through space and into the hulls of the opposing 
+ ships, inflicting massive damage on each other. Initially it would appear that these two behemoths 
+ were playing chicken with each other if it was not for the sudden evasive maneuvres they take. 
+ They glide elegantly alongside each other and begin to unleash even more 'law and order' on each 
+ others hulls.
+  Meanwhile, you are just sitting there thinking "****!!! why aren't I getting some of this action!" 
+ and you ignite your afterburners and join the orgy of the fragging and the dying and the kung-fu-fighting 
+ mGRAAVen!!
+  Don't be fooled however, this is not some spoiler for the eclectic finale to the game, this is 
+ only the BEGINNING of ONE mission and there are around thirty more which goes to show how much 
+ pure pwnage this game dishes out.
+  
+  The game is playable with a mouse but is so much more with a joystick in hand. While this game 
+ is a sim and, consequently, has an innumerable amount of button commands, this adds to the overall 
+ depth and detail of the game. You can do anything from control the power levels of your shield, 
+ engine and weapons systems to managing the tactics of your fellow wingmen.
+  
+  The plot of Freespace 2 does follow military-style campaigns, but don't let that scare you. The 
+ brilliant voice acting and the general 'flow' of the missions is enough to keep you enticed for 
+ "just a little bit longer" (a mental phrase familiar to many gamers... Civ 4 anyone?) . On a side 
+ note, some of the voices are from well known actors such as Ronny Cox (Stargate SG1) , Robert Loggia 
+ (Independence Day, Scarface) and Kurtwood Smith (Deep Impact) .
+  
+  The original graphics of this game were never anything revolutionary, and rightly so because this 
+ game, compared to many games of the present era, does not rely on  
+ graphics to give you an extra thrill. Thanks to the Source Code Project, this game has had a refreshing 
+ makeover which includes hi-res textures for all ships so now there is no excuse to scoff at ancient, 
+ pixelated graphics.
+  
+  The sounds of Freespace 2 are nothing short of spectacular and, when combined with the huge scale 
+ of the space battles and the frenetic action that just keeps going and going, you know you're playing 
+ a game that was designed with quality as the highest priority (instead of money) . It's such a pity 
+ that this game was not given more advertising promotion because it is easily one of the greatest 
+ classics that have graced the 1's and 0's of PC hard drives around the world.
+  Now, enough of my emphatic fanboyisms. GET THIS GAME NOW!! 
+::::::
+
+::::::
+UserName: maxdemobster
+Rating: 9.7
+Date: Feb 22, 2006 4:04 am PT
+Review:  OVERALL: This is the game, I wanted it from its mention and I still enjoy it playing. Completely 
+ different from other similar games and very innovative in many ways.
+  
+  GAME PLAY: One of the reasons, why is this game so good, is in fact that psychics are quite real 
+ here. For example: in other games, where you are near the huge ship, that was about to explode, 
+ nothing happened to you; but in this game, when ship explodes, you better stay clear of it - because 
+ there will be shock wave and blast wave, that will damage your ship, which is quite logical (nuclear 
+ reactor + weapons fire = huge nuclear reaction; it depends on the size of ship) ; it will also shake 
+ your ship: but that can also occur, if the enemy ship fires on you. Next thing is, that when you 
+ will be in nebula, there will be EMP storms, which are particularly annoying.
+  
+  The story itself is again the war between humans, Shivans (bad guys) and Vasudans, that are allies 
+ of the humans (Terrans) . Of course, there will be an    internal war   boost you with courage  
+  sticky situation 
+::::::
+
+::::::
+UserName: saKhan_McInn
+Rating: 9.7
+Date: Dec 8, 2005 8:56 pm PT
+Review:  Freespace 2 is one a great game of any standard and is the elite in the space simulator world. 
+ Even the best in the X-Wing series ever came close to making such a great game. The great variety 
+ of ships and armaments offers a vast array of different battles to keep any player satisfied.
+ 
+  
+  The graphics are spectacular for its era and even today it could stand up to the latest games in 
+ stores. Freespace 2 does a great job in making you, the pilot in your fighter a small, insignificant 
+ whelp compared to the massive destroyers seen in the game. Some are as long as 6km (3.73 miles) . 
+ The lighting and detail quality on the ships is also the best of the best for its era that is only 
+ matched by the detail on the many lasers and missiles available. One of the highlights of this 
+ game is when two or more large ships battle it out. Theres laser and missiles being thrown back 
+ and forth but what packs a punch are turbolaser like turrets that shoots a giant constant beam 
+ to rip through an enemy ship. The destruction of a giant ship feels nearly cinematic as debris 
+ flies everywhere not to mention the giant explosion that cause everything near it to go critical. 
+ Sound quality is top notch with great voice acting, engaging fight sounds (lasers pewing, missiles 
+ exploding) .
+  
+  Freespace 2 has one of the most original and in-depth stories any game has or could offer. 
+  
+ The story is so good that at times you just want to finish a mission just to see what happens next. 
+ There are many twists and surprises along the way to keep you on the edge of your seat and help 
+ make the game more enjoyable.
+  
+  There is much variety of combat in this great game. Whether youre flying through a nebula or an 
+ asteroid field, conducting a raid or assaulting a huge destroyer you always feel that youre doing 
+ something new each mission. The main thing I enjoy of this game is that there is always a bigger 
+ ship to protect or destroy you and your wingman. Theres always the sense of being part of a bigger 
+ objective. This is help achieved by the in depth briefing prior to every mission that informs the 
+ player of the importance and the damage it will do to your vile enemies as well as your objectives.
+ 
+  
+  Freespace 2 deserves its place in Gamespots Greatest Games of All Time. This is the game that 
+ you buy a joystick for. If youre a space sim fan who hasnt bought Freespace 2 yet what are you 
+ waiting for? 
+::::::
+
+::::::
+UserName: camcanr
+Rating: 10
+Date: Dec 1, 2005 7:22 pm PT
+Review:  Overall this is the best game i've ever played in my life. When ever my computer breaks its the 
+ only reason i wana fix it. I'm quite suprised It was made in 1999. The graphics and the sound f-x 
+ are so stunning. And once you think about the engine, like how each and every fighter knows what 
+ to do and the game never has to take a pause during game play to load and catch up, I'm givin it 
+ a total 10.0 on graphics. And one thing I hate in some games, wich game doesent have, is missions 
+ that take an hour and a half and those little in game (or somtimes not to little) movies. And the 
+ real, not in game movies, Are fantastic!!! 
+  The best are the Intro, The Bastions Sacrifice and End Game, The Cappella Catastrthy. And another 
+ good thing is time it takes to play. It takes 23 hours in total but it is intresing because the 
+ story keeps unravling. I can't wait till #3!!! 
+::::::
+
+::::::
+UserName: richard_price47
+Rating: 9.7
+Date: Nov 21, 2005 2:32 pm PT
+Review:  First thing i must say is that this game would have got 10/10 from me, but because i love Final 
+ Fantasy 7 so much i couldn't EVER give a game the same score as that perfect piece of RPG gaming. 
+ 
+  
+  If there is but one thing to say about this game it's that it is unique and absolutely brilliant 
+ compared to everything else in its genre. Every aspect of the game just fits so well with the others 
+ that it's hard to believe that it's a sequel. Even if you owned the original you will not be disappointed. 
+ The combat is spot on, striking just the right balance between arcade fun and realism (in a sense, 
+ it IS in space after all) . The graphics are astounding. Watching two capital ships going at it 
+ with the immensely powerful beam cannons is simply awe-inspiring and also terrifying to watch. 
+ You really do get a sense of scale in this game, as the capital ships are absolutely massive compared 
+ to your miniscule fighter. Not only is the gameplay perfect, Freespace 2 does something few in 
+ its genre manage. It actually has a credible story to back up all the shooting. A space sim with 
+ no back story just becomes a series of inconsequential and repetitive dogfights. However, not so 
+ in this game. The immersive and thrilling tale of the struggle of the Terrans and Vasudans aginst 
+ the seemingly unstoppable Shivans is so brilliantly told, that every battle becomes significant, 
+ every comrade lost a terrible tradgedy. This twisting and compelling story will have you gripped 
+ right until its thrilling, and somewhat surprising (yet brilliantly realised) ending. It is this 
+ more than anything else that propels Freespace 2 beyond the realms of a decent space sim into the 
+ masterpiece of gaming that it surely should be recognised as. It may be old now, but in my opinion 
+ it is the best PC game money can buy. If nothing else, this game revolutionised its genre and set 
+ the bar about a million miles higher than anything foolish enough to follow in its perfectly blasted 
+ footsteps. 
+::::::
+
+::::::
+UserName: RandallFlagg
+Rating: 9.8
+Date: Nov 15, 2005 8:29 pm PT
+Review:  I used to build models of Star Wars spacecraft in my youth. And every now and then, I'd come across 
+ someone looking at what I'd built and say, "THAT doesn't look like the real thing."
+  I'd just back away slowly, smiling.
+  
+  Freespace 2 is a space combat simulator in the best 
+ sense of the genre. The physics aren't exact like they are on the Independence War series -although 
+ that was a really good game as well. But this oversight will be rendered moot when you begin this 
+ adventure. 
+  
+  The storyline has been covered in the GS review and subsequent ravings about the game. The most 
+ recent is by Matthew Rorie in his, "Greatest Games of All Time," editorial. However, let me add 
+ that the timing of the missions combined with outstanding voice acting by veteran actors Robert 
+ Loggia (Independence Day (1996) .... General William Grey) , Ronny Cox (Total Recall (1990) .... 
+ Vilos Cohaagen) , Kurtwood Smith ("That '70s Show" (1998) TV Series .... Reginald "Red" Forman) , 
+ Stephen Baldwin, and others make it an even more dramatic game that I originally thought. There's 
+ also the fact that if you do some things different in certain missions, the future missions will 
+ change. Dynamic plot direction is another addition to the already fun game.
+  
+  The visuals are top of the line for the era that this game was released. That said, they still 
+ look pretty darn sharp. The one thing that the creators did was use the concept of the vastness 
+ of space to their advantage. The capital ships are big. Really big. Almost the size of a small 
+ moon in comparison to your little fighter as you're running from multiple enemy ships. These big 
+ ships have bite as well. The addition of enormous beam and flak cannons makes you well aware of 
+ how deadly they are -and compel you to hit your boosters to get out of Dodge! Also, the ship's 
+ architecture differences when compared to the races that built them shows the mighty separation 
+ of the cultures. The human ships look blocky and functional, but not very showy. The Vasudan vessels 
+ look sleek and serene as they travel across the stars. The Shivan ships look sharp, dark and menacing; 
+ almost hungry for combat.
+  
+  The audio also is a wonder to behold. When a flak cannon opens up on you, you hear the flak eject 
+ from the guns, then you hear a thunderous booming as the projectiles slam into your shields. When 
+ a capital ship exits from a hyperjump near your ship, it sounds like an enormous windstorm just 
+ arrived on your shoulders. And when you gain upgrades to your weaponry, your guns and missiles 
+ sound eager to wipe out every object in their way. 
+  
+  The control setups are easy to learn and the AI isn't too shabby, either. However, my personal 
+ preference is with a flight stick (Saitek Cyborg) . Targeting friendlies, enemies, primary and secondary 
+ objectives are done with ease.
+  
+  Then, there's FRED. A mission creator that is so easy to use. As easy as MS Paint. Almost.
+  Then, 
+ there's the cutscenes. The nebula battles. The covert missions in captured enemy ships.
+  I could go on, but I'm going to play this again. Get this game. They don't make them like this 
+ anymore.
+  
+::::::
+
+::::::
+UserName: WoolieWool
+Rating: 9.9
+Date: Sep 27, 2005 9:22 pm PT
+Review:  It's only very rarely that a game like FreeSpace 2 comes out -- a game so where everything clicks 
+ so well that it's hard to imagine a better game. This 3-disc behemoth (more than 1.2 gigs all up) 
+ is the best space sim game ever, the zenith of a sadly dying breed. FreeSpace 2 is, simply put, 
+ a truly awesome game that is still the game to beat in the space sim genre six years later. It 
+ is also a sad illustration of how lack of publicity can doom not only an otherwise great game, 
+ but an entire genre of games.
+  
+  FreeSpace 2 is the sequel to the 1998 space sim Descent: FreeSpace: The Great War, and is set more 
+ than thirty years later, in the year 2367. You are a fighter pilot with the Galactic Terran-Vasudan 
+ Alliance. The Terrans (humans) and Vasudans have solidified the tentative alliance they formed 
+ in the first game to fight the xenocidal Shivans, and are slowly picking up the pieces from the 
+ loss of both the loss of both races' homeworlds to the Shivans. In the game, you will fight the 
+ Neo-Terran Front, a Terran-supremacist separatist group, and the Shivans, who have returned to 
+ finish the GTVA off. The plot is deep and complex, and a pseudo-alliance between the NTF and the 
+ Shivans is slowly revealed as the game progresses, culminating in the Shivans abducting NTF leader 
+ Admiral Aken Bosch and taking him away as a GTVA strike force attempts to arrest Bosch and capture 
+ his ship.
+  
+  FreeSpace 2's gameplay is brilliant. The framerates are smooth, the physics are refined if completely 
+ unrealistic, and the balance spot-on. The Shivans, while technologically superior to the other 
+ forces and difficult to defeat, never have an unfair advantage, and the allied forces likewise 
+ never have it too easy for them, except in the ridiculously easy first mission (protect the heavily 
+ armed Vasudan freighters against outdated NTF rustbucket fighters) .
+  
+  The game has more than 90 ships and a dazzling array of weapons, and every ship or weapons has 
+ its own strengths, weaknesses, and uses. You'll invariably develop a preference for a certain ship, 
+ be it the nimble GVF Serapis or the gun-heavy GTF Erinyes. The game's missions present a huge variety 
+ of scenarios, so you'll have to get the hang of almost all the tools at your disposal -- using the 
+ same loadout every time is a recipe for death.
+  
+  The missions are all fun, except for a couple of "proving grounds" missions where you test a largely 
+ useless stealth fighter and a "TAG missile" that makes nearby capships shoot at the whatever it 
+ hits. Particularly memorable are the second set of SOC spy missions, a pair of missions that put 
+ you behind Shivan lines. The SOC missions are difficult, harrowing, and sometimes terrifying. If 
+ you're not man enough to play them, you can always decline the missions and continue with the main 
+ story.
+  
+  Multiplayer is now only available on LAN, as the Parallax Online network that supported the internet 
+ play is dead. The FreeSpace 2 Source Code project (www.3dap. com/hlp/fsscp) has created a new network 
+ for its FS2_Open freshening of FreeSpace 2, available free from their website. Be warned that the 
+ engine and redone content are a hefty download.
+  
+  The graphics were top-notch in 1999 and still look good. Your tiny fighter is dwarfed by monstrous 
+ capital ships that can be several miles long. Unlike capships in other sims, FS2's caps have a 
+ bite to match their bark, packing monstrous beam cannons that can instantly disintegrate your ship. 
+ If you don't take advantage of your fighter escort during a bombing run on a capship, you WILL 
+ die. The weapon effects are beautiful, especially the huge beams thrown around by the capital ships. 
+ The scenes of capital ships shredding each other with their main beams are so dramatic that you'll 
+ gape in awe of the ships' terrible power.
+  
+  The sounds are uniformly excellent, especially the sounds of the beam cannons, which sound every 
+ bit as destructive as they are. The voice acting is of high quality, using some actors you may 
+ recognize from movies and TV. Especially good are Admiral Bosch's monologues, which paint him as 
+ a believable, very human nemesis who really believes what he's doing is right. The music is also 
+ great, especially the tracks with choir vocals in them. The music sets the mood of each mission 
+ well and never grows stale.
+  
+  Alas, FreeSpace 2 is not easy to find nowadays. The game had virtually zero publicity, and didn't 
+ sell well because hardly anyone heard about it. FreeSpace 2 barely broke even, and probably doomed 
+ the space sim genre to obscurity. In recent years, it has developed a thriving fanbase and a project 
+ to revamp the game's source code to current-day standards. The "Collector's Edition" rerelease 
+ costs about 30 dollars, but original copies of the game are highly sought after and sell for upwards 
+ of $150, three times the game's original price.
+  
+  FreeSpace 2 remains the pinnacle of the space sim genre. Although it never received the publicity 
+ and success it deserved, it has belatedly become a classic. If you like the idea of flying a starfighter 
+ like in Star Wars, you must get this game. FreeSpace 2 just plain rocks.
+  
+  What's Hot: Brilliant graphics, gameplay, sounds everything
+  What's Not: Multiplayer system is 
+ now dead, can be hard to find
+  Also Try: Descent: FreeSpace, Wing Commander Prophecy, Freelancer 
+::::::
+
+::::::
+UserName: amalgamation
+Rating: 9
+Date: Jan 30, 2005 6:02 am PT
+Review:  When you look at the entire Descent series, each game is legitimately great on many different levels. 
+ Descent was practically the first true-3D game to hit the market and was a milestone in gaming 
+ history; Descent 2 took the concept with more enemies, items, options, and better audio/video; 
+ Descent 3 was like a Doom 3 for its series, overhauled graphics, more intense action, basic overkill 
+ on everything; Descent FreeSpace took the series into wide open space, introducing space combat 
+ that never ceases to please the average person, along with some great graphic and sound effects; 
+ and now, the latest evolution of the Descent series, FreeSpace 2. Expanding upon the original in 
+ almost every way, FreeSpace 2 continues the story about the Terrans, Vasudans, and Shivans in an 
+ epic story rife with space gunplay and a good variety of ships and weapons. Graphics are amazing, 
+ with capital ships here and there, smaller ships fighting against each other, it all too great 
+ to watch. The sounds are perfect too, nice and loud depending on the situation. This is just an 
+ astounding game, a definite keeper. And possibly the greatest thing? For poor people like us, we 
+ can run it on the maximum graphic detail setting on our crap computers and it'll still run quite 
+ perfectly. Bravo. 
+::::::
+
+::::::
+UserName: xts3
+Rating: 8.4
+Date: Dec 25, 2004 12:21 pm PT
+Review:  This game is the best space sim ever made, even though the plot is pretty thin but it's enough 
+ to push the game forward, plus with the excellent voiceovers and breifings in between it gives 
+ you a real almost movie-esque feeling to the game.
+  
+  But what matters is the gameplay. Is the game well designed and fun to play? Do you get thrills 
+ from flying the space ships, firing your missles and hunting down the enemy and is it well designed 
+ and balanced? The answer of course is: Yes. Everything in this game truly reeks of professionalism 
+ in the design of the game mechanics and rules of the game. Freespace doesn't really pretend to 
+ be overlty a "Space sim", many space sims take the simulation aspects of the game much too far 
+ and leave out the important parts: The action. If you like action in your games, and to be constantly 
+ engaged with the enemy, then you will enjoy freespace. 
+  
+  What sets Freespace apart is the way the missions are delivered, you're always given interesting 
+ missions by the "good guys", the GTVA and thrown into interesting situations. The voice acting 
+ in this game is pretty good, you'll recognize some of the voices in the briefings as one of the 
+ generals / army personel from Independence day. I forget his real name, but you'll know right away 
+ when you hear his voice.
+  
+  Also some of the missions can get a little boring while you are on patrol and waiting for a set 
+ period of time for things to occur, but the game accounted for this and the game has an option 
+ to accelerate time from twice as fast up to 8x or 16 times as fast! So that if you're replaying 
+ a mission you can skip the uneventful parts of it in an instant. This is a feature you *should* 
+ acquaint yourself with.
+  
+  I wont ruin the game for you, but if you've played Descent or Rogue Squadron line of games for 
+ the gamecube and liked the flying the snow speeder then you should definitely check out Freespace 
+ 2. 
+  
+  It's an old game but it's still one of the best ever made. It's too bad the genre is all but dead 
+ on the PC. 
+::::::
+
+::::::
+UserName: dryden555
+Rating: 8.6
+Date: Nov 14, 2005 8:31 pm PT
+Review:  FreeSpace 2 has yet to be matched for its impressive battle scenes, where you fight around hhhhuuuuuge 
+ capital ships that are fighting other capital ships. It is compelling stuff. The battle sounds 
+ are excellent, movie-quality sounds. The feeling of immersion while in battle is impressive. When 
+ a capital ship cuts through another, you are glad you are in your fighter.
+  
+  The only issue I have is the same issue I have with all space combat games: success in combat is 
+ often dependent upon being able to get on the "6" of the enemy so that you can blast him without 
+ him blasting you. This strategy, for me at least, got old.
+  
+  But there is no denying that this is a great game for those who like 3D space combat. The graphics 
+ and sound continue to hold up 5 years after its release, which is really saying something.
+  
+  so what's with the 7 people not liking this review? Weird.
+  
+::::::
+
+::::::
+UserName: hybrid17
+Rating: 9.6
+Date: Sep 30, 2004 7:51 pm PT
+Review:  I think Freespace 2 is definetely one of the best spacesims I've ever played. This game has almost 
+ everything what a real spacesim require: huge dreadnoughts and very lethal weapons ( like infamous 
+ bean cannons and flak turrets) , very impressive graphics & sound and ofcourse a great plot!!! Though 
+ Freespace: The Great War was more concentrated on the gameplay than on story, Freespace 2 has it 
+ both!! You play as a pilot, who is only know as Alpha 1, fighting for The Galactic Terran-Vasudan 
+ Alliance against a rasict faction The Neo-Terran Front, when suddenly your greatest nemesis, The 
+ Shivans return! Is this a coincidense???? You will find the answers through a number of very challenging 
+ missions!!
+  My only small complain about this game is your wingmen! In each mission you get the same wingmen, 
+ which like you, don't have a name or a callsign! I'm sure the guys from Interplay could have done 
+ better!! But it's a great game and I certainly recommend it too all fans of Wing Commander and 
+ Starlancer!! 
+::::::
+
+::::::
+UserName: Equals42
+Rating: 7.9
+Date: Sep 1, 2004 1:31 am PT
+Review:  Maybe its just me. Maybe I have become jaded and maybe I expect too much for my entertainment 
+ dollar. When I purchased Interplay Productions Freespace I was filled with anticipation. The trade 
+ press was raving about this game. They were raving about its beauty, its artistry. They marveled 
+ at the game engine technology and the ingenious simulation of space physics. All important considerations 
+ to be sure, but now I realize that there was one important aspect missing from their praise  the 
+ story. What about the story?
+  
+  The story that accompanies any space simulation is what gives that simulation its soul. When I 
+ play a space simulation without a compelling story, a soul, I feel oddly empty. Its the same feeling 
+ I get when I hear Michael Bolton or Celine Dion sing. All the notes are in the right key, so technically 
+ its good singing, but its hollow and empty. Freespace 2 fulfills its technical promise admirably, 
+ but the game lacks heart. It is hollow and very disappointing.
+  Stop Me If Youve Heard This One
+  The premise of Freespace 2 is your basic fighter-pilot-goes-to-war 
+ plot. You are a nameless fresh recruit sent to the front lines to combat an unknown enemy of unknown 
+ capability. As a rookie pilot, you are presumably (predictably) cocky, and you have to learn the 
+ ropes of flying and fighting in the frontier of space. As you complete the usual missions of escort 
+ that, reconnaissance there, destroy this, you are well aware that eventually you will have to watch 
+ your new friend die and you further know you will ultimately have to save the universe from destruction. 
+ The standard, win one for the Gipper plot. The plot methodically moves in its predictable methodical 
+ way to the open-ended conclusion that leads to a third installment of the series.
+  All is not lost
+  In contrast, the game play in Freespace 2 is truly a technical marvel. The game 
+ universe is exquisitely manifested in a tapestry of color and light. I found myself wishing there 
+ was no enemy breathing down my neck and no mission to complete so I could just fly around and sight-see. 
+ The huge capital ships are painstakingly detailed and project a looming, ominous presence to every 
+ frenetic battle that takes place around them.
+  
+  Sound is very important in this game, especially if you have a 3D sound card. The pilot chatter, 
+ the sound of energy weapons depleting your ships shields, and the nerve-racking missile-lock warnings 
+ that trumpet your eminent destruction are very engrossing, especially with the enhancement of 3D 
+ positioning audio.
+  
+  The game interface is fairly typical space simulation fare, but it is nonetheless well executed. 
+ Keyboard, mouse and joystick commands can all be programmed to meet your particular needs and game-playing 
+ style. The campaign can be played at several levels of difficulty, giving the game the flexibility 
+ to be enjoyed by players at many levels of expertise. These settings are well balanced, which means 
+ that the very easy setting makes Freespace 2 accessible to first time neophytes, while hard core 
+ space simulation buffs will be have all the action they can handle at the highest difficulty level.
+ 
+  Bottom Line
+  Like I said, maybe it is just me and my jaded, hard-core gamer attitudes, but Freespace 2 just 
+ left me wanting. In terms of technical excellence, Freespace 2 is unsurpassed. If that is all you 
+ require of your space simulation games, then Freespace 2 is worth the money. If you prefer a more 
+ meaningful and engrossing story, then one of the Wing Commander games may be more to your liking. 
+ As for me, when I finished Freespace 2, I deleted it off my hard drive and loaded Wing Commander 
+ IV.
+  
+::::::
+
+::::::
+UserName: Swamination
+Rating: 9.4
+Date: Jul 10, 2004 8:21 pm PT
+Review:  Space flight sims have a bad rap in the history of gaming. In the "Best Games of All Time" list, 
+ you see a score of RTS, FPS, and RPG games. Very few flight sims have entered the lineup or been 
+ given the nod they deserve. Freespace 2 deserves such a nod.
+  
+  This review is done in 2004, yet the game came out in 1999. I STILL play this game. The single 
+ player missions are fun, yet confusing at times. I find that the multiplayer is where this game 
+ shines the most. I keep trying to convert my LAN friends into FS2 players, but have yet to succeed. 
+ They are missing out on several modes of play, including dogfight deathmatches, team dogfights, 
+ last man standing (limit respawns) , co-op play (work together to take down dreadnoughts or waves 
+ of fighters) , and player-created missions (FS2 comes with FRED2, the mission creator) . This gameplay 
+ had a solid following, but I suppose not large enough to draw the online crowd away from the other 
+ ever-popular genres.
+  
+  This game Freespace 2 builds upon the original game, finally realizing the potential where Freespace 
+ 1 left off. New weapon types, beam cannons mounted on capital starships (think Death Star laser 
+ on a smaller scale) , and fully customizeable ship control make this a fast-paced game for any level 
+ of user.
+  
+  I purchased a Saitek x45 flight stick set, and mapped EVERY button to a DIFFERENT control within 
+ the game (not counting Saitek's mode switching) . At the same time, a beginner can still play and 
+ do well with basic controls. I'd still pwn you with my x45, though. ; ) The full joystick support 
+ allows some amazing tactics and maneuvers that makes dogfighting in space even more fun than most 
+ atmosphere-based games.
+  
+  The graphics engine is dated, of course (DirectX 6, I believe) , yet looks gorgeous when played 
+ on my ATI 9600 Pro. THIS GAME HAS NEVER CRASHED ON ME. I have never been kicked to the desktop, 
+ BSOD'd, locked up, or glitched. I've run it in EVERY Microsoft OS, 95 and later. It simply looks 
+ great with simple polygon models combined with unique weapon and shield effects. The space backdrop 
+ is great eye-candy, with beautiful nebulas and planets. Just throw the detail settings up to their 
+ highest, try out antialiasing, and enjoy the ride. This one works great for a LAN, since the reqirements 
+ work on just about anybody's PC nowadays.
+  
+  The sound is the one area that I think could have been improved upon, but still holds good worth. 
+ The sounds DO match with the devices they originate from. I most enjoyed the sound of flak cannons 
+ decimating my ship. The in-game music is fair, yet I played with my own music player running in 
+ the background.
+  
+  I will play this game until it no longer works on the PC, or until someone takes the lead and tops 
+ this game. I have yet to see it. The closest I have ever seen a game score is Microsoft's abandoned 
+ project Allegiance. Microsoft released the code for the game, and it is apparenlty freeware on 
+ the web now, with persistent gaming content.
+  
+  It is hard to find this game anymore, and ever since the Digital Millenium Copyright Act had a 
+ ruling passed over it by the Library of Congress stating that software no longer available from 
+ the manufacturer is open for certain forms of duplication and free distribution, game makers have 
+ revisted former money makers to protect their assets. Interplay followed suit and offered a re-release 
+ of the the game (at original release price of about 50 bucks) , but their web site has since gone 
+ down. Check out this Gamespot article regarding their possible demise: http://www. gamespot. com/pc/rpg/fallout3/news_6099678. html 
+ .
+  
+  If you can locate the game and also enjoy space flight sims, try to pick it up. Some value packs 
+ have surfaced, giving you FS1 and 2 for $10. If your LAN is suffering for a solid new game to play, 
+ this is a great competitive choice. Check out the-underdogs. org for more detailed information and 
+ a link to a FS2 demo. Depending on the state of the company, FS2 may even be available for free 
+ download there. Don't quote me on that one. : )
+  
+  In the lost list of great games forgotten, I give Frespace 2 a 9.4 as king of the space shooters.
+ 
+  
+  Swamination 
+::::::
+
+::::::
+UserName: Alpha__13
+Rating: 10
+Date: May 29, 2004 9:13 am PT
+Review:  Gameplay: Even better than the first, better story, faster, and more twists than ever. The game 
+ once again puts you in the seat of a space fighter but this time you're not battling Vasudans, 
+ you're battling the Neo-Terran Front, led by Admiral Bosch. The main difference in this game from 
+ it's previous is the capitol ships, they don't just have laser turrets, now they have flak guns 
+ that will rip you to shreds and beam cannons you definently don't want to be in front of.
+  
+  Graphics: This game was made in 1999, but the graphics are still incredible even by today's 
+ standards.
+  
+  Sound: Better voice acting, better music, better weapons sounds. It feels like you're actually 
+ there. The voices I have to say more about, the way you hear them really makes you want to do what 
+ they're saying, and when you see hysterical pilots they'll actually make you scared "COMMAND, GET 
+ THE AQUATAINE OUT OF THE NEBULA NOW!! WE CAN'T STOP THEM THIS TIME!!".
+  
+  Value: you'll play this game for a long time, the campain is very long, and the multiplayer action 
+ takes even longer to get bored of.
+  
+  Overall: This is the best Space Flight Simulator... ever. 
+::::::
+
+::::::
+UserName: Acepace
+Rating: 10
+Date: Sep 28, 2003 10:17 am PT
+Review:  I cannot say this enough, FS2 is one of those great games, this game is the jewel among the space 
+ genre, and the release of the source code, with the acompanying community project is amazing.
+ 
+  
+  the graphics hold up to today, and the explosions eclipse some of freelancers, sound however is 
+ its ideal companion, with everything fitting together.
+  
+  storywise could be better, but the game play is still first class, with no par. the controls are 
+ simple enough, but don't need extra keys, and work enough for blasting things out of the sky, while 
+ jumping out of your skin at some of the HUGE ships in the sky, litterly some ships take MINUTES 
+ to cross, being over 6KM in leght.
+  
+  well the game is about combat, and that is where the game shines, simply put, why cant every space 
+ sim, just copy this! 
+::::::
+
+-------------------------------------------------

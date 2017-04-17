@@ -1,0 +1,2072 @@
+-------------------------------------------------
+:::Game Name::: Darwinia
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/darwinia/review.html
+-------------------------------------------------
+:::The Good:::
+ Unique, abstract art style.
+ Simple, fun, and challenging gameplay.
+ Excellent and varied soundtrack.
+ Doesn't require a beefy system to run smoothly.
+-------------------------------------------------
+:::The Bad:::
+ Controls take some getting used to.
+ The pace of the game slows way down as missions get more complex.
+-------------------------------------------------
+:::Date::: Aug 25, 2005
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.5
+Critic Score: 8.5, 55 Review (s)
+User Score: 8.3, 1,257 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Valve Software
+Developer: Introversion
+Genre: Sci-Fi Real-Time Strategy
+Date:     Dec 14, 2005 &raquo;  
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+Darwinia is a brilliant and addictive experience that's unlike anything you've played before.
+
+  Introversion Software brings another uniquely retro-virtual experience to the PC with Darwinia. 
+ If you follow obscure basement-budget PC games, you're probably familiar with Introversion's first 
+ title, Uplink: Hacker Elite, a computer-hacking game released in 2001. Uplink developed a bit of 
+ a cult following and provided the guys at Introversion with the funds to develop Darwinia, which 
+ maintains the same low-fi, indie feel that makes these kinds of games so endearing. Darwinia is 
+ a deceptively simple, poignant real-time strategy game wrapped in an abstract, minimalist veneer 
+ that somehow manages to make perfect sense within the context of the game. It's a brilliant and 
+ addictive experience that's unlike anything you've played before.  
+
+          Welcome to Darwinia, a virtual theme park inhabited by sentient, digital beings that have 
+ evolved over thousands of generations... Neat!     
+
+  The first thing you'll notice about Darwinia is the odd art design. The game features a mix of 
+ 2D and 3D characters moving about a fully 3D environment. There are no textures in the game, and 
+ everything has a sharp, geometric look to it. The vector graphics fit perfectly here though, since 
+ the game takes place in a virtual theme park populated by digital inhabitants. Even though everything 
+ is flat and undetailed, Introversion manages to pull off some pretty nice effects. For example, 
+ when you blow up some of the larger enemies, they'll flake apart into hundreds of small, paper-thin 
+ triangles that float away into nothingness. Another nice touch is the digital spirits that are 
+ left behind when a creature dies. These spirits are represented by tiny, colored, semitransparent 
+ squares that slowly float into the sky and fade away. It's oddly entrancing to watch a cloud of 
+ spirits rise almost indiscernibly skyward after a battle. The game is full of these ethereal moments, 
+ and it's easy to lose yourself in the landscape.  
+
+  Once you get past the initial novelty of the art design, you'll find that the world of Darwinia 
+ has a pretty interesting story behind it. The world of Darwinia is a virtual theme park, created 
+ by computer engineer Dr. Sepulveda. The world is inhabited by virtual life-forms known as Darwinians. 
+ These little green lemming-like creatures have lived peacefully for thousands of generations, but 
+ now a deadly virus has infected the world of Darwinia. It's up to you to eliminate all signs of 
+ infection and save the Darwinians from extinction. You'll learn everything there is to know about 
+ Darwinia from Dr. Sepulveda himself; he'll occasionally transmit helpful messages to let you know 
+ what you need to do to clear each level. He also provides a bit of context at the beginning of 
+ each level by explaining the purpose of the mission and why it's essential to the survival of the 
+ Darwinians. The story seems minimal, but it's presented clearly; and somehow, it does a great job 
+ of making you feel a certain fondness for the tiny green blips that are the Darwinians.  
+
+  The gameplay is solid here as well, and it offers a good mix of strategy, action, and even a bit 
+ of puzzle-solving. You can't directly control the Darwinians, but you can create different programs 
+ that you can use to fight enemies, collect spirits, or herd and transport Darwinians. By holding 
+ the Alt key, you'll bring up the task manager, which is the simple menu system that you can use 
+ to create and modify units and check the level objectives. To create a program, you simply draw 
+ a gesture with the mouse. For example, to create a squad, which you need for fighting enemies, 
+ you have to draw a triangle. The controls do take a bit of getting used to, but it's worth it to 
+ leave the play screen free of the usual clutter of RTS games.  
+
+  In the beginning, the task manager can only hold up to three programs at a time; but as you progress, 
+ you can ask Dr. Sepulveda to improve it to hold more programs. So, rather than being limited by 
+ resources, you're limited by space. If one of your programs is terminated, you can simply draw 
+ a quick gesture to spawn a new one. There are only a handful of different programs in the game, 
+ but each one plays an integral part in the game. Also, the lack of variety adds to the challenge, 
+ because you have to figure out how to best use each program to complete your objectives. You can't 
+ simply amass resources for an hour and then send a massive army out to crush everything in its 
+ path. This type of strategy is a bit more methodical.  
+
+  Make no mistake, though -- there's plenty of combat in Darwinia. You fight with squads, which are 
+ small groups of fighters who fire lasers, toss grenades, and shoot rockets. Enemies include all 
+ kinds of wispy little virii, spiders, huge centipedes, and floating egg-laying creatures. Eliminating 
+ these things is pretty straightforward: You move your squad within range and hold the right mouse 
+ button to start firing. There are no target locks in Darwinia -- you simply aim with the mouse. It 
+ sounds easy, but some of the enemies can get pretty challenging, especially when they start swarming 
+ by the hundreds, all the while laying eggs to keep their numbers up. Some of the level objectives 
+ require you to herd Darwinians to specific points on the map to get them out of harm's way or to 
+ operate various kinds of machinery. This is accomplished with a Lemmings-style checkpoint system, 
+ in which you elect one Darwinian to be an officer. You can select a point on a map, and any Darwinian 
+ that comes close to the officer will automatically move to that point.  
+
+           Darwinia looks so interesting, you'll spend as much time gawking at it as you will playing 
+ it.     
+
+  The mix of combat and puzzle-solving is quick and challenging at first, but later in the game, 
+ as the missions get more complex, the pace does slow down significantly. Some of the objectives 
+ in later levels can take well over an hour to complete. Most of this stems from the fact that the 
+ environments are quite large, and all the creatures move slowly. It's not too bad, though, and 
+ if you're used to complex RTS games, you won't have a problem here.  
+
+  The music and sound effects in Darwinia fit the theme perfectly. The soundtrack runs the gamut 
+ from catchy 8-bit tunes to subdued piano arrangements, and each song cues at just the right time. 
+ The only disappointment is that the music is only present during the intros. For the most part, 
+ there's no music to be heard while you're playing the game. It's not all quiet, though; you'll 
+ hear plenty of battle noises as lasers fly and grenades explode. You'll also hear tiny squeals 
+ from dying creatures, which is about the only discernible emotive response you'll get from any 
+ of the creatures in the game.  
+
+  From the unique visual style to the simple but intelligent gameplay, Darwinia will have you hooked. 
+ You can blow through the game in eight or 10 hours, but you'll want to linger a bit longer just 
+ to see what else there is to do in this virtual world. If you think you've seen everything, give 
+ Darwinia a try; at the very least, it's a nice change of pace.     
+-------------------------------------------------
+:::User Reviews::: (58 Reviews)
+::::::
+UserName: Aberinkulas
+Rating: 9
+Date: Oct 26, 2008 11:05 am PT
+Review:  I wasn't expecting much. It was in the shovelware rack at a shovelware price in shovelware clothing. 
+ I went to my purchase only through the knowledge that the indie-games websites were singing its 
+ praises, and I was looking for something a little different for my computer that could barely run 
+ Quake II without collapsing into a coughing, heaving fit. It was six dollars, and one of the best 
+ six dollars I spent that summer. I wasn't expecting much, but heck, even with high expectations 
+ and with a game like this, you can't go wrong.
+  
+  Darwinia is one of those games that has no definition in the dictionary. Its gameplay is like nothing 
+ that has ever come before it, only showing very fleeting glimpses of old and new game design. From 
+ within its compact shell  the game itself is only a measly, anorexic thirty megabytes, twenty-eight 
+ of which is music  there are a few ideas taken from classics from the olden arcade days, melded 
+ with the new, strategic layer of real time strategy that populates the PC platform. It's a new 
+ experience.
+  
+  The game is proposed as a hack into a remote network that soon reveals itself as more than just 
+ another server, and opens into a new land. The hacker's identity is never revealed, but playing 
+ as them shows a world filled with odd, blocky visuals and pixelated creatures. The new world's 
+ creator and caretaker, Dr. Sepulveda, has allowed things to go horribly wrong within his little 
+ virtual playland, known as Darwinia, and now viruses and all things bad and sinister will plan 
+ and plot against the poor Darwinians and their landscape. It's a Jurassic Park without the dinosaurs, 
+ with Tron monsters replacing the Tyrannosaurus Rex.
+  
+  So now, playing as God in this digital, stylized landscape, the hacker plunges into a world of 
+ strategy and technology. Every function, it seems, has a purpose; the game works much like a real 
+ computer, abet more like Windows 95 than a new, Rick-Rolling multicore rig. A task manager controls 
+ the units and their squads. Menus from ten years ago pop up with every mouse click. The good Doctor's 
+ assistance spills onto the screen as a messenger program might, showing his befuddled expression 
+ at all times. Even the landscape shows evidence of this, with buildings, structures, enemies and 
+ friends, all designed as to show a world that is entirely new, fresh, and made by a computer geek 
+ in his dark basement. It's Tron Remixed, a nerd's dream creation, and a reflection of how far games 
+ have come since the days of Disney-created, four-color CGI.
+  
+  With all this flair and style comes a functional strategy element that feels more involving than 
+ any other RTS before it. As the units take their places in the task manager (because each little 
+ Darwinian is a process on the processor) , the game throws enemies at the player. Snake-like bugs, 
+ covering the landscape in their writhing, blinking forms. Destroy their evil ways! The Darwinians 
+ do not fight on their own; they must be selected as a group, and the player can aim and fire with 
+ the mouse. It's less like StarCraft and more like Geometry Wars, because the units do not really 
+ do much on their own (especially in combat) .
+  
+  To add to this the game slowly gives little gadgets and units for the player to try. Bases that 
+ power the computer's resources. Satellites that shoot units across the map, once activated. More 
+ advanced units; ones that fly, build, and attack. But never does this seem too fast for the hacker 
+ and his newfound objectives; the game throws only what is necessary for, on the lowest level, an 
+ enjoyment of Darwinia's basic gameplay. The game knows it's fun. It doesn't need to complicate 
+ things until it gets boring again. 
+  
+  The game's irreplaceable charm highlights the depth of it. As the chaos becomes stronger and the 
+ demands of the player are fully met, it's hard not to just sit back and laugh at the silly looking 
+ things doing battle. It looks like a bowl of chicken-noodle soup with 3D glasses on. The colors 
+ are muted and everything looks very flat, and yet bright and digital only in a way that a computer 
+ world can convey. Meanwhile, computer bloops and bleeps echo out of the speakers that accompany 
+ the monitor; it evokes a sensation of wonder and beauty that only chiptunes can revive, along with 
+ a few select arranged tunes that complement the entire game. It's as iconic as the green Matrix 
+ text, raining down the screen (which of course Darwinia includes a parody of, in one of its many 
+ start-up sequences) .
+  
+  I can do all I want to build Darwinia up. It's a great piece of work, and I enjoyed it, as you 
+ could possibly tell from my tone. But at the end of the day, it's just a great game made by some 
+ great developers, and while it's hard to make it more than that, there's nothing wrong there. To 
+ be perfectly blunt, it's just plain fun. The game is different, offbeat, sometimes funny, and gloriously 
+ independent; it's an indie game to the very core, and a shining beacon for the next wave of video 
+ game developers. If they're all as clever as Darwinia's masterminds, well, then we've got quite 
+ the future to look forward to, don't we?
+  
+  Do not hesitate to pick up this game as soon as you can, especially with Multiwinia, the multiplayer 
+ expansion, currently out. Darwinia is accessible, cheap, and compact. No gamer should go without. 
+ 
+::::::
+
+::::::
+UserName: Gelugon_baat
+Rating: 8
+Date: Oct 1, 2008 9:56 pm PT
+Review:  I know this review is probably more than a little late, now that the sequel to this game is out. 
+ But hey, I am getting points to advance my account level in GameSpot, so...
+  
+  Sometimes, a games developer doesn't need massive funding to make a good game. The right idea and 
+ programming just suffice. Darwinia is one such game.
+  
+  The odd, seemingly vector-based graphics come as off-putting at first, though I realized later 
+ that it was intended, as shown by some non-vector graphics such as some much prettier glittering 
+ trees present in some of the earlier levels.
+  
+  The storyline isn't very new of course; it's like a cross between Tron's and Lemmings' story, though 
+ it is quite well propped up by Dr. Sepuldeva's text messages and narration (too bad they aren't 
+ voiced) . Even so, it's hard not to find the simple-looking but actually complex Darwinians quite 
+ endearing. Their viral enemies are quite remarkable too, despite being made of simple jaggy polygons.
+ 
+  
+  Another attraction of the game is the obvious pop-culture references, such as some of the viral 
+ enemies that resemble the Snake in Snake games, and the Airstrike vessels that are clearly a rip-off 
+ of Space Invaders (though they are very impressive rip-offs) .
+  
+  The controls of the initial retail version is plain bad. However, the developers go the extra mile 
+ in revamping the controls with subsequent patches, which goes to show their dedication to making 
+ a good game.
+  
+  Overall, Darwinia is a very enchanting game, and have much greater worth than its low price tag 
+ and small hard disk space requirement suggest. 
+::::::
+
+::::::
+UserName: Devvy01
+Rating: 8
+Date: Apr 9, 2008 2:19 am PT
+Review:  Your main objective in this very different game, is to release the little green men from the evil 
+ viruses that lurk over the network of levels.
+  You begin by overlooking the plain of levels with lots of colours and light overhead, later you'll 
+ find out what that is for. You then click on your started level and your taken down to the landscape 
+ to begin ...
+  Using a fairly basic interface of mouse and some keys, you move around and accomplish simple task 
+ by moving you infantry into areas to kill the viruses, spiders, egg-layers etc, or build your engineers 
+ to collect the little red lights that are left behind and reprogram the different facilities around 
+ the land. You may even find a hidden blue cube that will give you something to add to your arsenal 
+ of weapons. Meanwhile the man in the white suit keeps telling you want to do and that he's researching 
+ different technologies to help fight the cause. Some levels with be just blasting, others will 
+ be control of the little green men to activate the machines.
+  But watch out the spiders, plants ,egg-layers like the little green men ... for lunch and your 
+ population will soon disappear, so you must keep an eye on your whole level. Commission new soldiers, 
+ make more engineers and gain control of the whole world. Plenty of levels to work through and I 
+ found it to be quite alot of fun. You won't find anything here that challenges your graphics cards 
+ but the fighting between the red and green men can tax your CPU sometimes. The music and sound 
+ effects are adequant for a game of the genre. Long Live the Little Green Men..
+  
+::::::
+
+::::::
+UserName: penguinboy95
+Rating: 9
+Date: Jan 23, 2008 2:48 pm PT
+Review:  Like i said in the name of the review the graphics look vary old fashioned but don't let that confuse 
+ you. The light and explosions are better than in most games. The name also says it's a new gaming 
+ style and that's true. Instead of clicking the enemy you want to fire at, you hold down the right 
+ mouse button which unleashes a barrage of laser blasts and by clicking you throw a grenade, air 
+ strike marker, or a rocket depending on what you selected. By now you're probably wondering why 
+ I didn't give it a higher score right now and that's because of a few minor problems like the Darwinins 
+ (intelligent AI that you have to protect) don't have any useful weapons to start with and a very 
+ movable camera that can some times confuse you. if you're looking to buy this game i suggest that 
+ you use some internet store because you aren't going to see it in most stores that sell it any 
+ time soon. 
+::::::
+
+::::::
+UserName: thiefGarrett
+Rating: 8
+Date: Jan 9, 2008 9:11 pm PT
+Review:  It could be argued that independent works, be they in the medium of games, music, or film, should 
+ be judged on a different scale than their counterparts with corporate backing. I think this argument 
+ is nonsense. Works of utter garbage and works of pure genius have in common the fact they don't 
+ know how much money was spent on them. In that same vein don't expect this review to pull any punches 
+ when criticizing Darwinia; it will be pitted against other games of its generation, regardless 
+ of how much, or little, money went into it. That being said, as small as the development team was 
+ for Darwinia there is nothing quite like it on the market today. Even though it does make a few 
+ mistakes, its presentation, along with its mix of different gameplay styles, is anything but derivative.
+ 
+  
+  Everything about this game feels like a throwback to 80's computer and video game technology. The 
+ graphics alone are enough to convey that feeling. All terrain is visibly constructed from triangles, 
+ and the main characters, the Darwinians, are simple green stick figures. The enemies and buildings 
+ also have a blocky look to them. Although this sounds low-tech when compared to today's multi-million 
+ dollar titles, the developers have managed to make Darwinia (the location, not the game) feel like 
+ it's inside a computer. That said, everything from the colouring of the landscape to the way the 
+ Darwinians move make the game feel alive.
+  
+  The whole story revolves around a virtual world, Darwinia, which was initially a staging ground 
+ for Dr. Sepulveda's experiments into digital life forms. As time passed, the Darwinians evolved 
+ and advanced into a society. Unfortunately a virus has broken out that threatens to destroy everything 
+ they have achieved. The player is tasked with cleaning up the virus and helping the Darwinians 
+ take back their land.
+  
+  The premise of this game raises a lot of questions about the nature of life, evolution, and even 
+ the role god plays in a society. Unfortunately the game merely touches on these points, such as 
+ the mention that the Darwinians believe Dr. Sepulveda to be a deity. There is nothing in the course 
+ of the game that even attempts to answer these questions, although the manual contains a nice article 
+ on whether the Darwinians are alive or not. All told the story is just an excuse to immerse yourself 
+ in the game, which is fine. Why the story raises questions it doesn't even attempt to answer is 
+ anyone's guess, and quite frustrating when you realise there's no payoff.
+  
+  Luckily the gameplay is much more solid than the story that drives it. Darwinia plays as a cross 
+ between a real-time strategy game and a classic arcade shooter, and has a minimal amount of unit 
+ types. In keeping with the computer theme there is a task bar with which you create new units. 
+ Any current units take up a slot in the task bar so the number of active units is limited. However, 
+ all units are free to create, so even if you lose a unit in combat you can create a new one at 
+ a spawn point. You can even terminate programs (units) to free up room. The only exception to this 
+ rule is Darwinians must be spawned from incubators, which need to be supplied with souls from fallen 
+ units. Also, Darwinians can't be controlled directly. Instead an officer, who can issue orders 
+ to the Darwinians, must be created in the task bar.
+  
+  Every stage in this game consists of clearing out viruses from an area, and then moving Darwinians 
+ to an objective, be it a safe house or a building which they need to control. To keep this from 
+ becoming too repetitive, the developers have made each level important to the story somehow. For 
+ example, one level requires you to mine a certain amount of material, then in a following level 
+ that material is used to construct something useful. Confusingly though there is one level that 
+ has no influence on the rest of the plot, and it doesn't even confer an upgrade like some other 
+ maps do.
+  
+  While the simplicity of the game is attractive it leads to too much micromanagement. Often times 
+ the Darwinians will be under attack, but you won't know it unless you are viewing that part of 
+ the map or hear them shout (if it can be called that) . Annoyingly this shout is also the same sound 
+ the Darwinians make when they're celebrating, so you can imagine how annoying those false alarms 
+ get. Also, there is no way to zoom to a unit, so often times you find yourself scrolling back and 
+ forth across the map. Even the interface has issues, as Alt-Tab is supposed to be a valid command 
+ in game, but instead pressing those keys took me out of full screen mode.
+  
+  Even with the problems it has Darwinia is a fun, immersive game. The gameplay may have its limitations 
+ and the campaign is fairly short (around 10 hours) , but this game presents a world that feels alive 
+ and enemies that actually feel viral. With all the powerful hardware flooding the market these 
+ days it's nice to see a game that isn't based on photo quality graphics and fully destructible 
+ environments. Darwinia is simple, engaging, and probably unlike anything you've played. 
+::::::
+
+::::::
+UserName: Kanakha
+Rating: 7
+Date: Jan 4, 2008 5:20 pm PT
+Review:  One word: Addicting. That pretty much explains the game. Many levels of fun gameplay that is sure 
+ to keep you occupied for a long time. I at first thought it wouldn't be that great, but when I 
+ started playing nobody could pry me from the computer! The object is to safely guide these creatures, 
+ called Darwinians, through their environment, that has been infested by nasty computer viruses. 
+ Darwinians are 'born' when you collect the 'souls' from defeated viruses and convert them into 
+ Darwinians in an incubator. Certain parts of the game require a specific number of Darwinians to 
+ operate machinery to get across landscape to other parts of the environment where they can battle 
+ the virus and free their land from it's rule. It's definitely not a boring game. BUT, at some points 
+ it can be difficult to get past a level. I myself am stuck on a level. But I'm sure I can get past 
+ it using the right strategy. 
+::::::
+
+::::::
+UserName: _MaFiOuS_
+Rating: 8.5
+Date: Nov 13, 2007 4:27 pm PT
+Review:  Sincerely i played darwinia some time ago, i got it at the release but i think now i should devote 
+ some time to give it a great review. First off, the graphics aren't that pretty to the eyes even 
+ though they give that warm, fuzzy feeling of trying new stuff, they look like the old arcade games, 
+ except now its 3D. it suits the gameplay perfectly since were going into an virtual world. Now 
+ that i've talked about world, i must go on and say that the story in darwinia is very well executed 
+ and catchy, after all, who wont get touched by the poor little green dudes getting owned by the 
+ red viri, the enemies are very variated, they range from a lot of triangles to giant-headed snakes (or 
+ whatever those guys are) Gameplay is just plain awesomeness, the gesture interface rocks its that 
+ "new stuff" feeling again, but it will get kinda complicated once you get the airstrike (its a kinda 
+ hard gesture to put in a tight situation) , so you better stick with the button interface, and in 
+ no time you will see the space invaders blowing the virii to smithereens. Sound is kinda retro, 
+ like the ones from arcade machines, sometimes theyre weird, and sometimes they fit the theme perfectly. 
+ sound is one thing in darwinia that i must say "could have been better" So, all in all, darwinia 
+ is a must if you like that old catchy and fast paced gameplay but with entirely new graphics.
+ 
+  ~Maf
+  
+  Like its been said "darwinia will remind you why you love gaming so much" 
+::::::
+
+::::::
+UserName: TonicBH
+Rating: 8.5
+Date: Jun 28, 2007 8:09 am PT
+Review:  Ahh, Steam. Most of us know it as a fantastic program that brings Valve games and games from other 
+ publishers together in perfect harmony. Often imitated, but never duplicated.
+  
+  But until 2006, Steam was a dark program indeed. Crashes, bugs, rumors of being spyware... Ah well, 
+ not everything is perfect from the get-go. Steam was also made to show off games from independent 
+ developers, which were sold for about $20 or less. The first game to be released this way was Rag 
+ Doll Kung Fu, a complex fighting game developed by former Lionhead Studios lackey Mark Healey.
+ 
+  
+  The other was a strategy action hybrid game called Darwinia. This was developer Introversion Software's 
+ second game effort (their first being Uplink, a game about a hacker's lifestyle) , and like their 
+ first game, it's a fantastic game that blends genres together into a fun and enjoyable experience.
+ 
+  
+  Like Uplink, The story about Darwinia is related to computers in some way: Darwinia itself is a 
+ massive network system that has been running on 1980's computers for about a decade. Dr. Sepulveda 
+ was working on Darwinia all this time until he found out that a virus had infected the system. 
+ Lucky enough, you pop in at just the right time to remove the virus and save Darwinia. Darwinia 
+ itself revolves around one-dimensional green characters called Darwinians . They're small, sentient 
+ lifeforms that roam around the various lands of Darwinia.
+  
+  Darwinia blends the real time strategy genre with a small pinch of action for extra flavor. The 
+ objective of each level is to eliminate the viral threat and find/activate other vital items to 
+ complete the level. When you begin the game for the first time, you're given a limited amount of 
+ help: a squad (or squaddies as the game's fans affectionately call them) , which is primarily for 
+ assault purposes; and an engineer, which is used for gathering souls, researching items to improve 
+ characters and reprogramming things like trunk ports and satellite dishes. Also as you progress, 
+ you can also make a Darwinian an Officer to guide other Darwinians, and even receive an Armour 
+ tank for defense. These helpers are needed to complete the level's objectives, and you activate 
+ these helpers by running them in the task manager like a program. You're given a maximum of three 
+ programs to run when you begin the game, but you can upgrade this to 5 as the game progresses.
+ 
+  
+  Speaking of upgrades, you can upgrade the majority of every aspect of the characters. From upgrading 
+ your squad (more members) to your engineer (increasing carrying capacity) to the weapons Squaddies 
+ and Darwinians can hold. Squaddies can receive three explosive weapons: a grenade, a rocket, and 
+ an airstrike marker (and the airstrikes themselves, amusingly, look like characters from Space 
+ Invaders) . It's all up to the player to decide how they wish to upgrade each aspect, but all of 
+ them are important in some way.
+  
+  Darwinia makes controlling units simple: You choose a program in the task manager, left-click to 
+ move them around, right click to fire weapons (if you're moving a squad) . Despite the task manager 
+ being relatively easy to use, it can cause problems where programs in the task manager are erroneously 
+ told to go somewhere when pressing TAB. For instance, I want to click on task 3, which contains 
+ an engineer, to make him go to a satellite dish. I accidentally click on terrain and I had task 
+ 2, a bunch of squaddies on another island; selected. So instead of sending my engineer to where 
+ I wanted it to go, the squaddies start bumping around the island they're on because I told them 
+ to go somewhere they cannot normally reach. This, however, can be partially averted by using the 
+ number keys to choose tasks, with this; it's also faster to do as opposed to quickly holding Tab 
+ and clicking on the task, which can lead to mistakes like these.
+  
+  When a character of any sort is killed, they leave a diamond-shaped item called a soul. Eventually 
+ the souls will go up into the sky, leading to them being placed in a suppository, which can be 
+ recycled into new characters in a later level. Souls are one of the major aspects of an engineer 
+ as they can acquire them, take them to an incubator, and spawn more Darwinians. Of course, the 
+ more Darwinians you have, the better your chances at completing the level. There's a little quirk 
+ you can see with Darwinians and souls: If they grab one before it floats away, they can cradle 
+ it, put it in a box and give it a more proper send-off. It's a cute little touch.
+  
+  All ten levels take place on very complex terrain that resembles vector graphics from the late 
+ 1980s and early 1990s. These levels' geometries are very abstract, leading to problems where characters 
+ can get stuck on the level while climbing up areas, or on the edges of islands near water. Speaking 
+ of other strange abnormalities, I've seen occurrences where officers keep walking around the edges 
+ of islands because they apparently were misled on where to go, where engineers would be gathering 
+ souls, see something to reprogram and go to that instead of doing what they're told (and sometimes 
+ these are in territories where viruses are, so they tend to die quickly) , even times where Darwinians 
+ would emit cries of fear, but to find that there's nothing dangerous around them. These are very 
+ minor quirks, and don't destroy the game immensely, But with engineers, you can't specifically 
+ tell them what to do and where to go, which can lead to having you make multiple engineers to do 
+ the same task, and even then you could still have the same problem.
+  
+  When this game came out in 2005, it wasn't really going to push next generation graphics or anything 
+ like that. But Darwinia is not a game that requires a powerful computer either. The recommended 
+ specifications (1.6GHZ processor, 256 MB of RAM, and a GeForce 4 or higher) are enough for even 
+ low-end PCs to run everything at maximum settings. And trust me, this game really goes for the 
+ nostalgia 80s vector graphics look, complete with pixelated characters and bloom-like effects, 
+ so having everything on is a must. For a game of this style, it's perfect enough and you wouldn't 
+ want to see anything that's going for realism in Darwinia.
+  
+  Darwinia uses a strange myriad of sounds to represent characters. Sounds from a cat represent the 
+ voice of Darwinians, while sounds from a freight train are used when you kill snake-like enemies. 
+ You can even hear computer noises from Squaddies. It's a strange eclectic group of sounds, and 
+ it works for the most part. However, problems arose where certain sounds would be very loud, leading 
+ to popping noises on my computer. Darwinia also features music from Timothy Trash80 Lamb, which 
+ is used during certain parts of the game. This music varies from upbeat techno music to somber 
+ piano music, and every time it's used, it fits perfectly.
+  
+  Oh yeah, I need to mention this. When you boot up the game every time, you'll see an interesting 
+ introduction screen that appears before the game begins. Most of them are references to computer 
+ culture in the 1980s, such as a mock bootup screen from the ZX Spectrum, to a fake demo screen 
+ from old cracked software, to an homage to Cannon Fodder with a message saying This game is not 
+ in any way endorsed by Sensible Software .
+  
+  Each of the levels in Darwinia can take up to an hour and a half, which depends on your efficiency, 
+ and how you approach each level. Every level can be beaten by using rush tactics, a commonplace 
+ strategy in many real-time strategy games; but it's not always that easy, as some levels can get 
+ relatively heavy on causalities, leaving souls everywhere and possibly bogging the game down a 
+ small tad. This is especially true if there are items in the levels where the Darwinians can respawn. 
+ This game will require your time and dedication to beat each and every level, but if you have to 
+ stop partway, you can end the game and resume where you left off at any time, which is a nice convenience. 
+ And you don't even have to use save systems or anything like that.
+  
+  Darwinia is one of those awesome cult underground games. It's a game that's very good, and I wouldn't 
+ have heard of it thanks to Valve and Steam for giving it loads of publicity when it came out. If 
+ you're not on the online purchasing bandwagon, the game is available in the United States in boxed 
+ form. And since Darwinia takes up little space (about 30MB, about 140MB when you factor in the 
+ 110MB 15 second video file publisher Cinemaware Marquee tacked in that you never see) , isn't a 
+ powerhouse technology-wise, and it's relatively easy to play, you can't go wrong with this. One 
+ thing to note is that Darwinia is singleplayer only; there is no multiplayer element as of this 
+ writing, yet a Multiwinia is supposedly in the works.
+  
+  (Note: Copies published by Cinemaware Marquee boxed the original v1.0 of Darwinia. The differences 
+ between that version and later versions, including the version reviewed here; is that originally 
+ you had to draw shapes to create tasks. This was later removed in a patch. I recommend that you 
+ patch the game before playing it.)
+  
+  Pros: Great art style, creative hybrid of strategy and action, exceptional music, nice references 
+ to computers and other pop culture references.
+  Cons: The user interface for the task manager is a little clunky, units such as squaddies and engineers 
+ can't really think for themselves. 
+::::::
+
+::::::
+UserName: VivaNOLA
+Rating: 8.8
+Date: Apr 5, 2007 3:59 pm PT
+Review:  This is probably one of the most gratifying games I've ever played. The primitive polygonal style 
+ is evocative of Tron and somehow it doesn't feel cheap, just beautiful. The only problem I had 
+ with it is that just when I decided that I wanted to become a Darwinia ninja, to dedicate untold 
+ hours of my life to mastering techniques that I had just started to explore, it was over. I was 
+ so ready for more. These guys need to keep cranking out new levels like the Times cranks out crossword 
+ puzzles - I NEED MORE! Yes, there is a level editor, so some community content is out there, but 
+ I have found it to be lacking - none of it really scratches the itch. 
+::::::
+
+::::::
+UserName: wildbilly7
+Rating: 6.9
+Date: Jan 17, 2007 12:02 pm PT
+Review:  When I initially finished the demo for this I loved the game... so much so that I immediately bought 
+ it. The quasi-retro feel to the music and graphics makes the world very immersive and unique. It 
+ is a cool twist on the RTS formula, in that you control a small squad of troops and only control 
+ your 'peons' indirectly. After getting further into the game however its shortcomings become apparent. 
+ As many have stated, the path finding is terrible. It could be argued that it is intentionally 
+ so, but you'd think at least your troops would be able to not get stuck on mountains/water when 
+ directing them to reasonably close targets. This wasn't an issue initially, but as the battles 
+ get bigger and more complex it really becomes annoying. It is also impossible to select larger 
+ groups of varied units, so unless you're handy with the hotkey's movements of more than 5 units 
+ is cumbersome. Finally, the weapons are difficult to target at times, and eliminating larger groups 
+ of enemies or some of the tougher ones gets to be a tedious and repetitive 'trial and error' exercise 
+ while aiming grenades and rockets.
+  For the money it's not a bad game, but when compared to the likes of Warcraft it's hard not to 
+ be bothered by the lack of polish. Sure, Blizzard is a large studio who obsesses for years on each 
+ title they release, but even the original Warcraft had decent pathfinding and MUCH less bugs. Once 
+ you get past the initial WOW factor at the cool graphics, the shortcomings eclipse any of the positive 
+ aspects of the game. Honestly I would have happily paid twice the amount for a more polished version 
+ of the game, as the concept and style is excellent. It's just too bad the final product is marred 
+ by significant gameplay issues. 
+::::::
+
+::::::
+UserName: epressman617
+Rating: 9.7
+Date: Oct 23, 2006 3:59 am PT
+Review:  If you haven't heard of this sleeper hit, get yourself a copy. It's downloadable on steam (www. steampowered. com) 
+ with a free demo available, so there's no excuse for not trying it.
+  
+  Darwinia is a virtual world populated by sentient programs, which you have to save from an invading 
+ virus. The whole world looks like Tron, which makes sense, as it takes place inside a computer. 
+ Everything has a very retro feel to it, but not at all in a bad way. Normally, pixelization or 
+ obvious geometry would be a downside, but this game justifies it and revels in it, which gives 
+ it a wonderfully distinctive feel.
+  
+  The gameplay is RTS based, but doesn't play like a lot of other RTS games. There are no compilcated 
+ research trees, building types required to build more buildings and units, etc. Instead, there 
+ are simple research fields to choose from, a few structures around the map that can be captured 
+ for spawn points and transportation, and only one resource - souls. The Darwinians, as intelligent 
+ creatures, have souls. Killing viruses releases souls which can then be gathered by non-combatant 
+ engineers and returned to buildings which will spawn darwinians. They, in turn, are needed to complete 
+ various objectives, usually involving restoring various systems. The Darwinians, however, cannot 
+ fight at all at first, and even when upgraded, are relatively weak. Fortunately, Squads have some 
+ firepower available. Squads are the basic fighting unit you will use, and are armed with lasers 
+ and either grenades, rockets, or airstrike beacons, once these become available. Later, armoured 
+ transports become available, and they can convert into turrets, which must be manned by darwinians 
+ (and can be captured by the enemy. argh.) Only two fighting units in a RTS game is unusual, but 
+ not at all a problem. The different strategies required for the different squad weapons, and the 
+ handling of turrets, which auto-fire at any enemy in range and will mow down any friendlies in 
+ the way (stupid little darwinians) , combined with the varied challenges and terrain, give plenty 
+ of variety. Speaking of terrain, it plays a much more substantial role than many games. Often, 
+ the illusion of height is given just for visual interest. Here, if you take a hill you can almost 
+ double your grenade range; if you're firing rockets over uneven ground, they make hit too close 
+ and hurt you, etc. Essentially, take the high ground. The only issue I had with gameplay (and it's 
+ minor) was that the AI was not very good. Squads give only minimal firepower when not directly 
+ controlled, engineers completely ignore enemies and tend to put themselves in harm's way, and these 
+ I don't mind, b/c it makes you fight tactically. However, the armor acted up a bit. Sometimes it 
+ would loop 330 degrees around one way instead of 30 the other when going somewhere, and sometimes 
+ it would ignore directions. Still, very minor complaint
+  
+  The graphics are siple but very effective. The retro look is well thought out and completely appropriate 
+ for the game. Enemies wil shatter into many 2D shards when killed and everything is made of simple, 
+ obvious polygons, and it complements the setting perfectly. The sound was pretty well done, if 
+ a little limited. There are combat effects and basic screams when things die, but it does get a 
+ bit repetitive. I would have liked speech instead of subtitles from the Darwinians' creator, Dr. 
+ Sepulveda, as well as a bit more variety in the effects, but it was still well done.
+  
+  Darwinia is an excellent value for the money. I think it was $19.95, and I got lots of playing 
+ time out of it trying different strategies. There is also a map editor, although I haven't gotten 
+ to it yet. Plenty of bang for your buck...
+  
+  Tilt is where this game shines, though. Introversion Software is a tiny company (4 people) and 
+ this is one of the finest game sI've played this year. It is original, addictive (you've been warned. 
+ seriously.) and simply a lot of fun. I doubt I'll see anything else like it, and it's a damn shame. 
+ Long story short, whether you like it for the strategy, the combat, the novelty, or just have had 
+ your computer infected before and like the idea of targeting viruses with airstrikes, PLAY THIS 
+ GAME. 
+::::::
+
+::::::
+UserName: Shatilov
+Rating: 8.6
+Date: Jan 27, 2007 11:13 pm PT
+Review:  The Good : Never ever seen a Gamplay that is such unique that makes u addictive to it . Simple 
+ Gameplay also a hard one too , u get to plan what u have to do because the Virus inffection is 
+ everywere . Different Looks/Graphics that make the game collorfull althought that there is only 
+ around 5 --- 7 collors in the intire game , yet the looks of the game make u comfortable with these 
+ features . The Sound is just great &amp; perfect , u can hear the Darwinians affraid &amp; screamming 
+ when a Virus attack them , u can hear their voices althought that they aren't understandable yet 
+ they gives u the right feeling about it . The Soundtrack on the otherhand is even better . + Each 
+ time u play the game , a new intro is seen , no intro is the same !!!  
+ Bad : It doesnt have many bad things , other than that it's addictivness can sometimes cause to 
+ take a break from it !!! Were u'll feel enough &amp; it is time to stop but yet u cant , cause 
+ ur addicted to it , so it's kinda hard to stop playing it , but also u'll get this urge that u 
+ need to stop . I know it is complicated right I think that those who played it understand me well 
+ .  
+ Notes On The Game  
+ - Some Missions aren't hard but rather complex in there looking , since there is many Islands to 
+ conquer &amp; each one have one entrace to it so it takes time  
+ 2 - U'll get addictive to it that u might feel in quiting , yet u know u dont want to quit .  
+ - It's requirements aren't many , as long as u have a PC with a DX9.0c Graphic Card , then u can 
+ play the game  
+ - It is a Mixture of 2D &amp; 3D technology .  
+ - It's the game of it's kind so give it a try  
+ At the end I would say thast this game is totally worth playing &amp; getting it , because missing 
+ out this game , will make u miss a great game in the Strategy Games Universe , &amp; it would be 
+ ashame that a Strategy Gamer doesn't get it . 
+::::::
+
+::::::
+UserName: wokisan
+Rating: 9.1
+Date: Sep 5, 2006 10:16 pm PT
+Review:  I saw a review for Darwinia a few months ago but was very skeptical. I noticed it in Best Buy the 
+ other day for $9.99 and figured 'what the heck'..... why not try it out. I am SO glad I did. This 
+ game is innovative and an instant classic.
+  
+  The closest 'experience' to this game I can think of is Geometry Wars. It's one of those games 
+ you don't think you will like but once you actually play it, you can not stop. It's premise is 
+ simple yet addictive. Your job is to rid Darwinia (a virtual world) of a nasty virus and save it's 
+ inhabitants named appropriately.... the Darwinians. You are able to 'call up' various programs (you 
+ can even do so by making specific gestures with your mouse) and then must strategize how to rid 
+ the virus from a particular area. The virtual world's creator works along with you upgrading your 
+ programs abilities as you progress through the game.
+  
+  It's is so hard to describe but for what you can pick this title up for ($10 in my case) it is 
+ well worth it for a different, innovative, and enjoyable experience. 
+::::::
+
+::::::
+UserName: Melted_UFO
+Rating: 9.6
+Date: Jul 26, 2006 11:55 pm PT
+Review:  I am not even kidding. This seriously is one of the most fun games I've played this year. It is 
+ very different than anything I've ever played. You not just attacking enemies like other real time 
+ strategy games. You are actually commanding your troops and controlling their shots. You also can't 
+ just gather a ton of resources and build up a huge army and dominate. There are no resources. Tropps 
+ are free, but you cant have a ton of troops out at once. It sounds like a bad thing but it makes 
+ the game much more interesting when you trying to save the Darwinians and fend off viruses all 
+ at once. I gave the gameplay a 10 for the reasons above. I gave the Graphics a 9 because they are 
+ not hyper-realistic but they are stylized at fit great into the game. The sound got a 7because 
+ there isn't much of it.
+  The value got a 10 because at $20 it can't be beat.
+  The tilt got a 10 because I haven't seen anything like it before.
+  I totallly recommend this 
+ interesting game! 
+::::::
+
+::::::
+UserName: pwnr
+Rating: 8
+Date: Jun 16, 2006 8:16 am PT
+Review:  Highly addictive. The 3D engine looks great. The story is addicting. This is what I call a "3D 
+ Sidescroller." If you haven't already, download Steam (http://www. steampowered. com/) and try out 
+ the demo. I wouldn't say buy the full game because it sort of gets repetitive. This runs very smoothly 
+ on my machine, at around 50 frames per second on a GeForce FX 5200. Things that I would change 
+ are the movement and stuff. There are many ways of killing multiple types of enemies. This also 
+ has many puzzle elements, like solving things. Download steam and get the demo. It will suck you 
+ in the moment you fire it up. 
+::::::
+
+::::::
+UserName: Alkpaz
+Rating: 9.2
+Date: May 29, 2006 7:30 pm PT
+Review:  Darwinina is a game that is very innovative and breathes a breath of fresh air into the RTS genre. 
+ First off the gfx are intentionally 80's style retro. Thus they are bright and very polygonal with 
+ nice pixelated images. This expresses the brunt of the graphics in Darwinia.. The Sound/Music also 
+ reflects this "retro" style. The gameplay is nothing more but innovative.. With a taks managager 
+ pull up menu and and option to use "gestures" to create units. A difficulty scale from 1-10, which 
+ makes for vaiable difficulty for every player. This game stands out from the rest of the RTS genre 
+ in the sense that it there is no "base" or "resources" to collect, but control stations to "activate". 
+ The replay value of the game is lackin in that if played at difficulty of 10.. you will find no 
+ more gameplay unless you download mods. Some of which are quite fun. There is not a multiplayer 
+ aspect.. which could be quite interesting if it would have been implemented. This thus hurts the 
+ longevity of the game. Yet, the retro style of the game does make it last through the years in 
+ terms of graphical presentation and music/sound. 
+::::::
+
+::::::
+UserName: ajwall4
+Rating: 9.2
+Date: May 26, 2006 8:57 am PT
+Review:  Darwinia should be noticed by the real-time strategy genre and copied for all its worth. Generally, 
+ the genre has moved into greater and greater building complexity and flashier graphics, yet never 
+ improved the depth or storytelling of a games. Darwinia, is a tiny install, and a budget price, 
+ but it provided hours of enraptured entertainment. 
+  
+  You begin the game with the an introduction to a digital world created by a programmer to study 
+ artificial intelligence. He created the Darwinians, simple, green men reminiscent of 1980's era 
+ video games. He also created in them free will. Then we learn that their world has been invaded 
+ by viruses, and it becomes your task to restore Darwinia to its former glory by eradicating the 
+ virus and restoring the entire ecosystem.
+  
+  You start out the game with only one or two types of units, which are called "programs." In the 
+ beginning you can only run three programs at once on your task manager. This is an interesting 
+ take on an RTS because you don't use resources, except for your ability to manage a limited number 
+ of programs at once. 
+  
+  One particularly entertaining unit is the squad, which you can ask the programmer to work on upgrading 
+ as the game progresses, which simply takes time. The squad is a line of 3 to 6 soldiers that you 
+ direct around the field with clicks of the mouse. You can fire their guns in unison at a virus 
+ by right clicking on an area of the map and they will immediately start spraying that area if it 
+ is within range. While firing you can click the other button, which will lob in a grenade, fire 
+ rockets, or call in an "air-strike" depending upon what you are doing. The reason why this is so 
+ entertaining, is that in RTS you never get that visceral arcade game feeling from just watching 
+ the little units fight, in Darwinia you actually make them shoot, and you lob every grenade with 
+ every click. I loved hurling rockets into nests of virii and listening to them scream and explode 
+ into little digital chunks.
+  
+  There are also engineers, who take over buildings, such as incubators. There are armored units 
+ that carry darwinians whom you can arm with lasers and grenades. The armored units transform into 
+ gun emplacements at the destination and are manned by Darwinians, and can be taken over by evil 
+ red Darwinians who are infected with the virus. That are other units as well.
+  
+  The imagination that went into the game is impressive, because as you take back the "land" from 
+ the evil red virus, you activate the ecosystem. There is an entire cycle of life in Darwinia. For 
+ instance, when you kill virii, which are made of out corrupted Darwinian souls, you use engineers, 
+ to deposit them into an incubator, and watch as the building processes the red souls, into new 
+ Darwinians that can then be used to operate systems, buildings, or fight! You can also recycle 
+ dead good green Darwinians souls in the same way. If you don't gather the souls in time, they sort 
+ of float up into the ether.
+  
+  Later, you learn that everything floating into the ether gets recycled as well, because the souls 
+ precipitate back down to the digital ground and settle on collectors that you need to get up and 
+ running again. The programmer comments to you about the history of his world at key times as the 
+ story unfolds. I won't spoil the whole thing for you, but the point is, more thought went into 
+ the world of Darwinia than went into 90 percent of the games on the market.
+  
+  On a design note, I was very pleased to find that this game runs every screen resolution you can 
+ think of, including widescreen resolutions, and the animation, and camera movement are very, very 
+ smooth. I really appreciated an innovative take on camera movement, which is the most intuitive 
+ I have ever seen in a game.
+  
+  I hope more people play this game, because it really captures what gaming is all about... fun.
+ 
+  
+  
+::::::
+
+::::::
+UserName: KipKiparis
+Rating: 10
+Date: May 18, 2006 1:00 am PT
+Review:  I cannot talk about this game as I talk about any other. To simply divide it into graphics, sound, 
+ gameplay, design. It's just this unique experience for the player. It holds within it the meaning 
+ of playing games in the first place, it has the Gameplay. And in the same time, it's not played 
+ like a game. You have to feel it. Just like Shadow of the Colossus or Okami. It's retro, such a sweet 
+ retro feeling, such an immersive emotion you can only feel if you've been in the game industry 
+ from Pong and Packman to Nintendo Wii. This game is the history of video games itself. It's past, 
+ it's present and it's future. You will ask yourself on the meaning of existence as you play Darwinia. You 
+ will begin to question yourself. You won't only enter the matrix - you will break it. You will be 
+ the shock of the system. You feel so real, so full of emotions in its quite, cold, digital rhytm 
+ of life...
+  This game is for real players. Players who think and feel., who know why are they playing. 
+::::::
+
+::::::
+UserName: Shub-Niggurath
+Rating: 9
+Date: May 15, 2006 12:32 am PT
+Review:  Darwinia is an action packed real time strategy game with a simple, straight-forward concept and 
+ a painfully simple interface. But dont let any of that fool you. This game is bursting at the 
+ seams with action, entertainment, challenge, and strategy. This game is absolutely brilliant.
+ 
+  
+  You play the role of a person who has somehow logged into Darwinia, an experiment in artificial 
+ intelligence. These little creatures called Darwinians are the creation of one computer geek in 
+ an experiment in artificial intelligence over a decade old. These little creatures are supposed 
+ to be self-reliant, intelligent, artificial beings capable of learning and reproduction. They inhabit 
+ their own computer-generated world and, by making use of the means they are provided, have grown 
+ and prospered into a fully functioning society. However, their land has been ravaged by a virus 
+ which the Darwinians themselves managed to download from their Creators email. You showed up just 
+ in time. Instead of resetting the whole thing the creator has now decided that the two of you can 
+ fight to save his little, virtual world.
+  
+  This plot is actually fairly nice and they use it to help you develop an attachment to these little, 
+ simplistic creatures. It works.
+  
+  The interface is simple. You hold a single button which brings up a menu screen in real time (the 
+ game is still progressing as you do this) and pick to create various things from here which are 
+ necessary to defeat this scourge of virus. Pressing up (or clicking towards the top of the menu 
+ screen) displays a list of these things and their research. This is a status bar showing progress. 
+ You can prioritize these items and let your ally know which programs he should develop further 
+ and faster. Pressing (or clicking) down brings up your current objectives...
+  
+  Easy, yes? No. The interface is simple but the action is fast paced and demanding.
+  
+  Along 
+ the way you learn how the Darwinians perpetuate their line through the use of soul reviving Incubators 
+ and even a full re-birthing system. This is great but the virus infected the Darwinians and changed 
+ them to suit itself. It, too, can perpetuate itself by using these same resources to develop more 
+ infected evil Darwinians. You must take back Darwinia location by location form the virus which 
+ plagues it. This starts off fairly simple since the virus manifests itself in the early stages 
+ as monsters of sorts who cannot use the equipment. However, eventually you meet the infected 
+ Darwinians and the task gets much harder as they use the machines to replenish their numbers. Each 
+ location begins with the virus running everything and with control of one station... enough to form 
+ a squad or two and start kicking arse. Welcome to the hard part.
+  
+  This games graphics are a sort of throw-back to 80's classics with the Darwinians being simplistic, 
+ 8-bit type, 2 dimensional stick figures who move but have no animation. Most viral monsters consist 
+ of simple polygons, too. The world itself may have very elaborate terrain but the whole thing is 
+ covered with a grid for that retro feel. This simplistic style is a nice touch since its creator 
+ states that the project is over a decade old. 
+  
+  The sound is a nice touch. Explosions are good and clear and zooming in or out from the battlefield 
+ produces a nice change in volume without you ever truly losing the ability to hear your own units 
+ anywhere. When zoomed out you can hear any laser or cannon shot on the battlefield which helps 
+ you to monitor any left over villains who may have hidden somewhere.
+  
+  The opponent AI is fairly simple at times and never seems to employ much strategy. It defends itself 
+ adequately, especially when you make use of the games transportation means and the virus begins 
+ to group near it... thus complicating your efforts to attack. The only things that employ any real 
+ strategy are the red Darwinians... and even that seems to be limited to the mentality Strike as 
+ a group. This may sound fairly simple and easy to conquer but be warned: it is not. The AI puts 
+ up an amazing fight and makes sure you earn every inch you take. At times you get pinned up against 
+ almost impossible odds, but some good, strategic thinking and decisive action ensure that it may 
+ look impossible but it never really is. Even if you get yourself stuck you have a reset location 
+ option in the games main menu. I only used this once and it is a great help. RTS fans will certainly 
+ find much in this game to enjoy while the more action oriented among you will get a major kick 
+ out of it as well.
+  
+  The game isnt too long by current game standards but it isnt what Id call short either. What 
+ I feel compensates for this short-coming is the amount of sheer gaming goodness theyve managed 
+ to just CRAM into the length of game they give you. However, it has a longer element to it because 
+ completing the game heralds a little speech (all text) from the creator of Darwinia first going 
+ on about the fate of his beloved creation and then granting you full access to every location in 
+ the world of Darwinia because he can no longer do it alone. I dont want to truly spoil the ending 
+ for you but I will leave you by saying this: this game has, hands down, the most satisfying and 
+ simple ending I have seen in a PC game a while.
+  
+  Overall, I TRULY recommend this game to anyone who has the scant few bucks they want for it. They 
+ grab hold of the TSS philosophy (Think Simple, Stupid) and never let it go. This is a great game 
+ with much to offer the world at large. I cannot help but once again praise this game for its uniqueness, 
+ style, and depth. 
+::::::
+
+::::::
+UserName: andrew_ribbons
+Rating: 8.8
+Date: Apr 22, 2006 3:58 pm PT
+Review:  Like Lionhead, Introversion are a British game developer studio, consisting mainly of one guy. 
+ They made games for the Spectrum, one of the first gaming computer's.
+  
+  Darwinia is a fresh, albeit, bizzar game with clarity and innovation fused with its new genre. 
+ The game shows that graphics don't really make a game, however, Darwinia's graphics do look somehow 
+ mellow, creative and weird.
+  
+  The sounds are good, and there is some interesting and further strange music to go along with it. 
+ 
+  
+  There are several intro movies, some are v interesting and clever.
+  
+  The genre has potential, and the developer has won so many cash rewards and prizes, that another 
+ creation will undoubtably come our way with this style of Indie gaming.
+  
+  A brillient release! 
+::::::
+
+::::::
+UserName: Skathe08
+Rating: 8.4
+Date: Apr 5, 2006 1:50 pm PT
+Review:  great RTS can be difficult. story is rather short but many add-ons have been made and can be downloaded 
+ for extended campaigns. this is definitely one my favorite recent games. very addictive game. this 
+ game is very versatile for user add-ons. Only real thing i didnt like about the game was the graphics. 
+ i just wasnt too impressed with the graphics, everything was too geometric and not smooth 3d animation. 
+ Darwinia's 3D environment is very impressive besides character models. Also, Darwinia's use of 
+ programs that requires special commands in order to run and control each character or object. a 
+ a a a a a a a a a a aa a a a a a a a aa a a a a a a aa a a a a a a a a a a 
+::::::
+
+::::::
+UserName: aggies11
+Rating: 9.2
+Date: Apr 3, 2006 9:09 am PT
+Review:  At first glance, this game's graphics might look dated, but they aren't.
+  
+  There is definitely a "retro" look about Darwinia, but once you start to pay attention you notice 
+ that it looks damn good.
+  
+  For reference, when cranked to max detail, this game can make your rig start to chug (I can get 
+ 90fps on HL2, and even play Oblivion and Fear on High Quality) . Thats because great effort has 
+ gone into making this "simple geometry world" look highly detailed/realistic. You don't feel like 
+ you are looking at a crappy game from the 80's, instead it's as if they took one of those games 
+ and made it look *real*. If reality was all simple polygons, then this is how it would look. Beautifull.
+ 
+  
+  The gameplay is simple, straightforward, easy to learn but difficult to master. The first few missions 
+ get you acquainted to the system, but it really starts to ramp up after that. While simple, it 
+ ain't easy, there is a good deal of strategy involved.
+  
+  The story is impressively compelling. You really start to feel a part of this world, and the little 
+ darwinians start to feel like they are actually alive.
+  
+  Ultimately, this game is a pure pleasure to play. Although the world appears terribly simple, it 
+ is incredibly immersive, challenging and fun.
+  
+  Darwinia captures the pure essence of video gaming. 
+::::::
+
+::::::
+UserName: nightharvest
+Rating: 9.3
+Date: Apr 1, 2006 11:04 pm PT
+Review:  Darwinia is gaming at its best. It is one of the most original releases in recent years and is 
+ a wonderfully presented and executed piece of entertainment. Its a glimpse of the games of old, 
+ where gameplay and originality was king. Its a game with soul.
+  
+  For us older folk, the graphics and presentation will bring back memories. Yes they are retro in 
+ nature and maybe not 'cutting edge'  but they are quite amazing. The colour schemes and the landscapes 
+ presented come to life in way that hasnt been seen on a PC game for some time. It is a trip down 
+ memory lane.
+  
+  The story starts with Dr Sepulveda saying What the hell are you doing here? and is suitably progressed 
+ through cut scenes and information from level to level. The story is superb. You wait for the game 
+ to run out of ideas, but it doesnt. Without going into too much detail, Darwinia is an electronic 
+ world inhabited by Darwinians (essentially they are little green stick men) , but the world has 
+ been attacked by a virus and it is up to you the clean out the virus by what ever means necessary, 
+ while helping the Darwinian population flourish once again. By cleaning out the virus (from simple 
+ virii to the ghastly soul-destroyers) you also get infrastructure working in Darwinia again, 
+ which occurs through some original and clever level designs and some seriously intense combat.
+ 
+  
+  This game is part everything  a bit of RTS here, a bit of Third Person shooter there, a bit of 
+ Lemmings, a bit of Cannon Fodder, a bit Centipede but the game rolls all of its original parts 
+ and its influences into a truly fluid and unique experience. Trust me, youll be caring a lot for 
+ these little green men by the time you get to The Battle of the Biosphere  which may just be one 
+ of the best levels of gaming ever conceived and executed.
+  
+  Theres so much ingenuity going on harvesting the souls of fallen enemies and incubating them 
+ into Darwinians, the glorious air-strike  with the space invaders coming from across the skyline 
+ to launch the offensive, the ants, the upgrade system. This is just so fresh.
+  
+  At times this game moves at a cracking pace, but you can find yourself a quiet spot or moment to 
+ prepare you next move. If you fail  its not game over  you recreate your units and start again. 
+ Suicide missions are sometimes part of the game  with limited amounts of units available at 
+ any one time - by the time one has completed its task, you may need to terminate it to create a 
+ new unit to do something else. You dont really lose in Darwinia (though I did have to restart 
+ a level once) , rather you re-think what you are doing and try again. It will take some time, but 
+ youll grow to like your squads, who drive a lot of the combat action, as well.
+  
+  Darwinia is probably not an easy game to like. Its not commercial, its not a big-budget affair 
+ and they way it is set up, it doesnt provide the instant action or the hook other titles have. 
+ This is a slow burner and you may need to invest some time and thought at the beginning. But as 
+ each level progresses and new tasks and challenges arise with new landscapes open up for you to 
+ go WOW at, you find yourself dragged further in to this game. 
+  
+  The sound is simplistic, the hum of the worlds, the drone of the engineers, the coarse sounds of 
+ the combat, the weird sound of the Darwinians (apparently a distorted recording of Introversions 
+ resident feline)  it all fits. There is some suitably retro music during cut scenes and mission 
+ completion stages and the variety of Title Screens is just another wonderful touch.
+  
+  The game is over fairly quickly  ten levels amounting to ten to fifteen hours of gaming, but there 
+ is a devoted community putting out some very interesting mods. But then again, I've played it through 
+ twice - and I don't replay games all that often. To be honest, I was a bit disappointed with the 
+ final level  but it was one amazing trip getting there.
+  
+  Its available on Steam now for $19.95 or thereabouts, but the boxed version, with the Darwinians 
+ spelling out SAVE US is priceless. A quality game of style and substance rather than style or 
+ substance.
+  
+  Play Darwinia.
+  
+::::::
+
+::::::
+UserName: 2o35
+Rating: 8.3
+Date: Mar 19, 2006 10:50 pm PT
+Review:  Great, unique game; bad value.
+  Darwinia is an amazing RTS game that is unlike any other. The most noticeably unique thing about 
+ it is the obviously portrayed 3-D graphics that give you the feeling you're in some virtual 3-D 
+ world. The shading and lighting effects bring out the fact that the graphic engine is actually 
+ quite well done and that the squarish land appears that way for the reason of setting an atmosphere 
+ of the game.
+  
+  The gameplay is also unique and very fun. Although the amount of things you can actually do is 
+ rather limited, it's still quite immersive and doesn't leave you bored. You can command your little 
+ programs to destroy the viruses and free the Darwinians. Sounds kind of corny but it is really 
+ quite fun.
+  
+  The only problem that I had with this game was how short it was. I only found out after I bought 
+ it, that it was only a single player game. So I found myself having completed the entire game under 
+ 10 hours of playing, so that pretty much sums up the entire time I ever played it because really 
+ once you've beaten the game it's quite useless. There is no replay value at all unless you're a 
+ very patient person who can somehow manage to enjoy beating the simple levels again.
+  
+  Twenty dollars isn't so bad I guess but I was really quite disappointed. If you have 20 dollars, 
+ and you don't mind spending it for about 10 hours of fun then definitely get this game because 
+ it's definitely very fun and unlike any other game you've played, but if you could spend your money 
+ on a game that you could play more, you should probably go for that. 
+::::::
+
+::::::
+UserName: soc1ety
+Rating: 9
+Date: Mar 19, 2006 2:25 pm PT
+Review:  Beautifly composed. Ive played this game for 2 days and was late to a sweet 16 because I HAD to 
+ get the generator going strong. Its graphics are just right for the game. Essentialy your an anti 
+ virus program and this virtual world created by a professor had evolved to the point where it connected 
+ to the internet. And as we know, the internet is hell for your PC. The virtual Earth was quickly 
+ infested as the virus duplicated itself and corrupted everything it could get its hands on. You 
+ come in after the doctor has locked down the PC and at your disposal is squads of infantry with 
+ rockets and grenades, engineers to hack buildings and collect data from the virus to be changed 
+ back to darwinians, weapons platforms run by darwinians, and air strikes. Best of all, its not 
+ a game of ammo or micro managing units. You have 3 spots (you can upgrade it to 4 then 5) to fill 
+ with any unit you want. If it dies, you just recode another and place it in your controlled zone. 
+ The hard part is adapting to the virus and figuring out how your going to clean the area of the 
+ infestation. Its not a shoot em up, though it does contain tons of action. You will get to kill 
+ thousands of units by the end but theres a strong tactical presence aswell. Its a very immersive 
+ story and you will find yourself fighting for the little green dudes till the sun rises. 
+::::::
+
+::::::
+UserName: megawavez
+Rating: 8.6
+Date: Mar 9, 2006 1:39 pm PT
+Review:  I downloaded the trial just for the hell of it and was hooked pretty quickly. Everything is simple, 
+ the graphics, sounds, the basic premise, the story, but for some reason it was a hell of a lot 
+ of fun - kind of harks back to the days of the old arcade games.
+  
+  What really is the clincher with this game is the gameplay - you have these little darwinians to 
+ run around the map, and although it's 2d, its still silly fun. They scream when threatened which 
+ was a little hair raising, but had me laughing afterawhile. It was fun creating commanders and 
+ forcing dozens of darwinians to march off to some distant destination.
+  
+  The big kick for me was getting the bombing run enhancement. Although the graphics are not the 
+ most inspiring, it was really thrilling calling in a bombing runs to dust off spiders and the little 
+ worms that run around.
+  
+  If your looking for huge production value you'll probably want to look elsewhere, but for simple 
+ fun gameplay - this is a good choice. 
+::::::
+
+::::::
+UserName: ConJay
+Rating: 8.8
+Date: Mar 9, 2006 8:02 am PT
+Review:  When I got this game I was thrilled with the uniqueness and perfectness of the game, the graphics, 
+ are not, GOOD, but they aren't BAD, which is what makes it so unique, having the people and enemies 
+ pixelated gives it such a good atmosphere, like you really are inside a computer program, having 
+ "The Doctor" there to help you all the way through is great, and the concept is amazing, once you 
+ havge completed the game, the in-game edito is brilliant, and perfect for makign yuor own maps 
+ to play on, or let a friend play on your created map, the RTS feel is great, and being able to 
+ click where you want your men to go BUT also shooting where YOU want is great, it's a nice feature 
+ that you have to pick up research items to get new weapons, people, and so forth, not only do i 
+ recommend this unique game, I'm TELLING you, buy it. Now. ^^ 
+::::::
+
+::::::
+UserName: alvarinho
+Rating: 9.2
+Date: Feb 23, 2006 3:20 pm PT
+Review:  Awesome. How can a game surprise me and be different? Ive been playing games for 15 years, and 
+ a lot of them. There was even a period where i was extremely jaded and though that most of the 
+ games coming out sucked. Now im ok and get to play games like Darwinia, which seems like a RTS 
+ but with some things going on that are a tad different. It happens real time, and some of the shock 
+ points are frenzy mad, but you allways have time to think of a way to do things and then go crazy. 
+ Everything is great on this game - sound, graphics, story, gameplay. The only nag being its lenght. 
+ It feals short. Really short. When i was on the last level, i hoped it would last a few more, as 
+ i was getting even more excited playing this game! Thats its only flaw really, i dont count the 
+ multyplayer since the gameplay would change quite a lot - the part where you plan with calm and 
+ the charge - would have to go, since you would need to plan faster that youre adversary. Sooo, 
+ sum it up - go buy it! its on Steam! Just load up that steam thingy and download it already. 
+::::::
+
+::::::
+UserName: Axsuul
+Rating: 8.3
+Date: Feb 21, 2006 4:23 pm PT
+Review:  Darwinia is a bit slow paced in the beginning but it catches up farily quickly. With a unique story 
+ line that ties into the game perfectly, this game should keep you interested up to the very end. 
+ This singleplayer game is fun and requires alot of multitasking. The graphics appear to be outdated 
+ but were meant to be outdated because everything takes place in a digital world. I highly recommend 
+ this game!
+  
+  The game is a bit short but after you beat the game
+  *** SPOILER***
+  
+  you receive modification tools that you can use to grow out the Darwinia world, but in my opinion 
+ it doesn't add to the replay value. 
+::::::
+
+::::::
+UserName: JBiker51
+Rating: 7.7
+Date: Feb 19, 2006 6:02 pm PT
+Review:  When I first saw this on Steam, I was interested at what exactly the hell this was. As it turns 
+ out, this was a very complicated RTS, with a cool vibe and storyline put in it. What I thought 
+ at first was going to be simple, though, became very tough. I don't know; in some ways, I wish 
+ this was more like Age of Empires. That was always easy enough for me.
+  
+  My opinion probably doesn't count, since Civ III is way too hard for me. But, for the people like 
+ me who can only handle Age of Empires, this isn't too great. Others might like it, but I didn't 
+ too much. I really wanted to like it though. 
+::::::
+
+::::::
+UserName: fable_fodder
+Rating: 5.6
+Date: Feb 8, 2006 5:21 pm PT
+Review:  This was indeed a very unique game when I first started playing it. You first start playing and 
+ you think, wow, this game is pretty cool! An hour goes by and you wonder what will happen next. 
+ Two hours later you are so bored you wanna cry. O my gosh, it was sooooooo boring. The first bit 
+ is fun, you get ur little men, make an army, and attack the bad guys, but then, it's the same thing 
+ over and over again and it's soooo easy. If the game wasn't as easy as it was it might have been 
+ more fun but this was an "everyone" game which defines it as very very easy. Don't waste your precious 
+ money on the terrible game. Buy another game like Fable, or CSS or DoD. You'll definitly be thanking 
+ me if you listen to me and don't buy this game... 
+::::::
+
+::::::
+UserName: scottwilkins
+Rating: 9.7
+Date: Feb 8, 2006 10:40 am PT
+Review:  Simple 3D interface that get's it high rating from playability, not visuals. The visuals are just 
+ enough to get the job done, which is more than plenty. the game survives off a simple "you against 
+ the machine" idea where you are the savior for a bunch of AI beings. Easy to grasp, and fun to 
+ play. My only complaint is that the game was much too short. I hope to see home-built levels coming 
+ out for this game soon, but that will take away from the story a bit. The sounds were very fitting 
+ to the game, and the story did hold you into the game some. 
+::::::
+
+::::::
+UserName: badgerman92
+Rating: 9.9
+Date: Feb 7, 2006 3:05 pm PT
+Review:  what a great aftermath to my last review! (Midway Arcade Treasures: Extended Play) The tears have 
+ dried up. and i found the perfect game: Darwinia! 
+  
+  Gameplay: The controls are a bit harder to adapt, This game apologizes with good everything else. 
+ The plot of Darwinia is great! As you go through the levels, you actually learn about Darwinian 
+ culture, beliefs, and life. Inovative! eventually, i cared a lot about these guys, whenever one 
+ died: NOOOO poor guy! Fantastic A. I. includes
+  -Darwinians scream and cower in fear at an enemy
+  -Darwinians create kites to honor dead darwinians
+ 
+  -Darwinians can follow commands given by officers
+  
+  Sound: Impressive soundtrack make me happy! other sounds are cat "meow"ing. but i dont hear a winde 
+ variety of music or sound...
+  
+  Graphics: Innovative old-school!
+  
+  value: a 20$ game thats GREAT! Sure, ill take it 
+::::::
+
+::::::
+UserName: doomsoth
+Rating: 7.8
+Date: Jan 24, 2006 4:16 pm PT
+Review:  Gameplay: Overall this game is down right fun. There are very few menus to deal with and is pretty 
+ easy to pick up and play. It offers some challenging strategies in an unique style.
+  
+  Graphics: By modern standers of techology, this is one of its draw backs. Artistically it's great, 
+ by all means, but it offers nothing new to the standards of amazing graphics.
+  
+  Sound: There's not much to really listen out for. Everything is written in subtitles. There are 
+ noises from the "creatures" in the game, but nothing really stands out.
+  
+  Value: Being that it is only $20, it offers a lot, but it also offers very little too. Seeing that 
+ the campaign is very short and it crashes pretty often.
+  
+  Tilt: I've enjoyed the game, but as I said there are a few drawbacks. It's definately fun and original. 
+ This small budget game definately mocks the many big budget failures with in the last few years. 
+ 
+::::::
+
+::::::
+UserName: tboy1990
+Rating: 9
+Date: Jan 21, 2006 11:45 am PT
+Review:  Darwinia is possibly one of the most pleasantly unique games I've ever had the opportunity to play. 
+ It's almost in a genre by itself, a sort of RTS tied to automatic AI with base-building elements 
+ and objective-focused gameplay. It's both simple, intuitive, and yet complex at the same time. 
+ Unlike many games, where victory is your reward, Darwinia's reward is the experience itself. The 
+ sights, the sounds, the appealing graphics, suprisingly good storyline, and simplistic design makes 
+ Darwinia a modern classic. The only downside is it's length; this game requires a lot of your time. 
+ On the flipside, it has no problem with making that time all worth your while. If you enjoy RTS', 
+ but would like a fresh experience in the genre, you should get Darwinia right away. 
+::::::
+
+::::::
+UserName: fleetdoc23
+Rating: 7.4
+Date: Jan 20, 2006 10:28 am PT
+Review:  Very good game! Hard to believe it hasn't been made yet. Starts off a little slow, but once your 
+ research gets up there it becomes very fun! I obtained this off of the steam network, the very 
+ same distributor of Half-Life. 
+  
+  Sort of a mix between a strategy game, and a shooter. Really hard to generalize it. Don't take 
+ my word for it, download the demo from steam. Good to see some independent game creators get a 
+ shot at getting their product out there. I get tired of all the big money hype that some games 
+ get, and then they don't deliever! By that time, they have your 50 bucks, and that's all they care 
+ about. 
+::::::
+
+::::::
+UserName: Cereo1
+Rating: 8
+Date: Jan 18, 2006 9:19 am PT
+Review:  I played this game for two days and I loved every minute of it. It has interesting graphics, new 
+ and stimulating game play, and it is just plain addictive. I would recommend that everyone try 
+ this game but the problem is they expect you to pay for it. After one day I was done with the game 
+ and there is really not much replay value. They let you unlock the editor after you beat the game 
+ but only certain people are interesting in making their own game. I paid to play the game, not 
+ make the levels myself.
+  
+  So overall, a great game but if you play the demo you are getting enough out of it. If you have 
+ $20 to waste then go ahead, but if you want to make the most out of your money then I would consider 
+ something else. 
+::::::
+
+::::::
+UserName: metagnome
+Rating: 8.5
+Date: Feb 5, 2006 10:14 pm PT
+Review:  There seems to be a lot of complaining these days about the sameness of games (you know, the good 
+ old "oh, another WWII shooter? Great" kind of complaints. If you've heard anything about Darwinia, 
+ it's probably that this a game with fresh new gameplay, a distinctive visual style and produced 
+ by an independent developer to boot. This is all pretty much true.
+  
+  Although there are bits and pieces of gameplay that you may be familiar with, such as the gesture 
+ system similar to Black & White's spellcasting, for the most part Darwinia feels like a game that 
+ you haven't played before.
+  You play the role of a computer user forced to defend the artificial world of a researcher from 
+ a nasty virus. At your disposal are a single attack unit (which gets supplemented a bit later in 
+ the game with a tank/turret unit) which can be upgraded to carry various weapons, engineers to 
+ capture buildings, and the mostly useless but remarkably endearing Darwinians, who behave much 
+ like lemmings with the death wish turned down a notch.
+  
+  Although your engineers will automatically pick up souls from destroyed viruses, which can then 
+ be used to create more Darwinians, and your soldiers fire their basic weapons at nearby foes, the 
+ creatures of Darwinia are not a bright bunch. They require constant attention and cannot be relied 
+ upon to win the day without you, which is just fine because you can have at most five units created 
+ at a time, and there are no resources required to build the units anyway. As a result, the gameplay 
+ in Darwinia focuses heavily on tactical combat, and I rarely found it useful to have more than 
+ a single unit of soldiers under close control with another sitting idle nearby as backup should 
+ the first unit be destroyed.
+  
+  Sadly, like most strategy games, the gameplay does tend to grind somewhat after a while and because 
+ it is impossible to run out of resources, victory is always a matter of time which makes the game 
+ feel far too easy. While you may never feel that boiling rage of not being able to finish a mission, 
+ nor is there any huge sense of accomplishment when a mission is completed.
+  
+  The graphics in Darwinia are something of a highlight, rendered as they are in a mix of ridiculously 
+ low polygon models without texturing and simple 2D sprites. The sound is similarly retro, as if 
+ 32-bit sound were being used to reproduce the PC speaker sounds of old. The game manages to look 
+ and sound exactly as you would expect a digital world under attack from a computer virus to look 
+ and sound, and serves as an example that bump-mapping isn't the only way to make a good-looking 
+ game.
+  
+  If you like strategy games, think back wistfully to Sacrifice (and all strategy gamers should) , 
+ or just want to take a break from killing Nazis, then Darwinia should hit the spot. Especially 
+ considering it's available over Steam and at a budget price. 
+::::::
+
+::::::
+UserName: Dr4goNPL
+Rating: 8.9
+Date: Jan 13, 2006 9:32 am PT
+Review:  Darwinia is an old-school RTS, Introversion Software's follow-up title (IV also made Uplink - a 
+ hacking game) .
+  Darwinia is a digital theme park populated by a native AI script called Darwinians. Most of Darwinia 
+ was completely overrun by Viral Infection. Dr Sepulveda - creator of Darwinia, is trying to clean 
+ the world. The story is poorly told but the game is pretty addictive. The music is great, graphics 
+ are definately STUNNING! Graphics are a mix of 2D models and 3D enviroment. The very big plus is 
+ modding abilities. Developers gave everything substantial to make a killing modification for Darwinia. 
+ You can change everything: models, textures, make and script your own maps, and even provide translations 
+ or add custom strings! That's amazing aspect of the game. It's an RTS you must have. 
+::::::
+
+::::::
+UserName: crofty13
+Rating: 2.5
+Date: Jan 10, 2006 1:05 pm PT
+Review:  Its always funny to see when a half decent game comes out from an independant developer it instantly 
+ adds gets amazing reviews. 
+  Darwinia is a good game in principal, it plays alot like the usual RTS but with a few twists to 
+ keep things interesting.
+  
+  For instance you do not have a base, instead you take over buildings that are on the map which 
+ generate little workers called Darwinians. you can only build 3 units to start off with which you 
+ can upgrade to 5 later.
+  
+  The MASSIVE problem is the games AI or lack of it. Your soliders cannot do anything without your 
+ direct involvement. If they are attacked whilst you are not directly controlling them they will 
+ die. If they have to walk around an object to get somewhere they will get stuck and if thats object 
+ is water they die. Luckily to build units is free so this could be worse.
+  
+  The deal breaker is when your soldiers have to go into battle. The enermy are not very smart but 
+ theres alot of them, they can also respawn quicker then you can. This is where the game falls apart. 
+ You attack them and you loose. The enermy respawn in higher numbers. You attack again and loose 
+ and it keps repeating till you eventually give up.
+  
+  The controls are for the most part good, the camera control is excellent and ordering around your 
+ units is a breeze. The graphics are just UGLY. It was intentionally designed to look ugly! I suppose 
+ as an independant developer or bedroom coder you have to make ugly looking games.
+  
+  At the end of the day they guys who made the game had a good idea they didn't have the talent or 
+ skill to make, The game quickly gets dull and its horrid looks don't help you warm to it. You will 
+ enjoy the first hour but after that its more of the same and the usless AI leaves you heading to 
+ the unistall button.
+  
+::::::
+
+::::::
+UserName: dcosio82
+Rating: 7.7
+Date: Jan 3, 2006 10:26 pm PT
+Review:  Love playing darwinia. Lots of commanding squads and such, wish tutorial would have reminded me 
+ that I could select research priorities. Oh well... Even though I'm finding a nasty glitch on, 
+ hmmmm... forget map name; you know where darwiniangs are born and theres lots of Darwinians running 
+ around. Yeah that map is freezing up on me at this one spot. Other than that had fun up to there. 
+ Please send me an update. Let's face it, this game is a great attempt at creating a game that visually 
+ takes you out of the norm. Combined with low intensity, spawn at your pleasure FUN. Don't expect 
+ a bi challenge from this one but definately worth the price and some of your time. 
+::::::
+
+::::::
+UserName: ksyme99
+Rating: 8.5
+Date: Dec 31, 2005 4:12 am PT
+Review:  I first heard of Darwinia when it was released in steam a few weeks ago, and I got and played the 
+ demo soon after. I knew after that that I would be buying this game. It is somewhat harsh having 
+ to give it only one genre, as you can almost play this as a third person action game... but to do 
+ well and to enjoy it to its full you need to think, at least a wee bit.
+  
+  First off, the graphics are meant to be like that! My friend just installed the demo and said he 
+ deleted it because the graphics weren't working, the sky was all blocky! I had to laugh at this. 
+ This game is set inside a digital world which was created by a doctor over many years. You come 
+ along just as a red virus is about to wipe out the darwinians. Your job is simple - save Darwinia.
+ 
+  
+  Before I go any further I should say I am now using v1.2, which changes the one thing I didn't 
+ like in the unpatched version, the control system. The control system was very awkward, as it involved 
+ drawing shapes with the mouse in order to spawn entities... which was very cumbersome in the heat 
+ of battle. Now they have changed to a nice list which you can just click click click.
+  
+  The story unfolds fast enough that you don't feel it dragging, but slow enough that you learn everything 
+ you need to know before the challenging last few levels. One of my only annoyances is it was far 
+ too short, but hopefully some good extra maps and campaigns will be released by Introversion and 
+ other modders.
+  
+  There is nothing quite like seeing hundreds of your little Darwinians marching across a map under 
+ orders to attack, or see them leap for joy when you win, and mourn a comrade when he falls. You 
+ get very attached to your little friends, and the ending is quite emotional. This is a highly addictive 
+ and very fun and unique strategy game, which I recommend everyone should get through steam, as 
+ it is very cheap! 
+::::::
+
+::::::
+UserName: Daymar_Thrax
+Rating: 6.1
+Date: Dec 26, 2005 2:08 pm PT
+Review:  Let me start out by saying that Darwinia has many refreshing elements to it. The visuals are unusual 
+ and striking for one, and the setting has a quirky charm to it. But there are many other reviews 
+ extolling these and other virtues. So I am going to concentrate on a few items that I considered 
+ less than stellar in the hopes that readers will get a more balanced view.
+  
+  Perhaps the biggest criticism I have of the game can be summed up in the words of my 11-year old 
+ son after spending 15 minutes watching me play...
+  
+  How do you loose?
+  
+  And in fact I could not come up with a good answer. Troops are infinitely spawnable with no economic 
+ penalty for creating as many as you like. Now there *is* a limit on the number you can have going 
+ at one time. But I never ever felt as though I was in danger of "losing" a level. In fact the only 
+ level I can think of where loosing might be possible is the "save X number of Darwinians", but 
+ I was well within the safety margin on this one without changing my standard play strategy.
+  
+  My second biggest complaint: Enemy AI
+  
+  There is no AI to speak of. The bulk of all your 
+ enemies consist of swarms of viruses or swarms of evil darwinians. They do exhibit swarming behavior 
+ and each type of enemy (perhaps a half dozen in all) does seem to exhibit its own autonomic behaviour, 
+ but there is very little evidence of the types of emergent behavior you might hope from such a 
+ system. In fact, there were several instances where I felt more like I was playing an old game 
+ of centipede then a modern RTS. In short, there was exactly one point in the entire game where 
+ I was forced to rethink my approach.
+  
+  Strategy in the last half of the short campaign consisted almost entirely of "tower walking" which 
+ has been around since the original C&C. Towers (turrets) are in fact the only structure you can 
+ build in this game, and like everything else, there is no economic cost to building them other 
+ than the cost to man them with Darwinians. These towers blast away friend and foe alike in a continuous 
+ rain of fire, so it's not uncommon to see 20 friendlies die while towers try to get at one hidden 
+ enemy. 
+  
+  Pathfinding is similarly painful. Units will regularly get stuck on a small terrian feature rather 
+ than taking an easier path around.
+  
+  There are only 4 types of units. They have been discussed elsewhere, so I'll skip the descriptions 
+ except to say that this seemed weak given the fact that there is no economy to speak of (other 
+ than soul gathering) and no buildings can be built (other than turrets) . Give me something new 
+ to do please, or at least a new way to kill badies if thats all there is.
+  
+  Finally, it should be mentioned that I crashed about a dozen times in less than 12 hours play, 
+ typically when the screen got very busy (which it does) .
+  
+  Scoring Synopsis:
+  
+  Gameplay: 5
+  
+  This game is revolutionary to RTS in the same way Tron 2.0 was revolutionary 
+ to the FPS market... which is to say it *isn't*. It's an RTS stripped of an economy, building management, 
+ large scale troop management, and for the most part strategy. What's left has certainly been done 
+ before. The one feature I found to be innovative was using the civilian population to man the pre-existing 
+ buildings and player-created turrets.
+  
+  Graphics: 9
+  
+  The graphics are cool and stylish. Easily then best feature of the game. Missed the 10 spot for 
+ me by not capitalizing on all the cool gee-whiz effects they could have done in a computer simulated 
+ environment. View-dependent lighting on the landscape would have been nice as well.
+  
+  Sound: 4
+  
+  Big booms and digitized screaming. Ouch. Vintage demo music is the only reason 
+ this isn't a 2 or 3.
+  
+  Value: 5
+  
+  This would have been a lot lower if it weren't only $20. 10-12 hours play for me, 2 of which were 
+ crash recovery replays. It would have been even shorter except I didn't discover that troops were 
+ upgradable via the "task manager" until the second to last mission. I'd hate to think how short 
+ the game would have been if I had played through with upgraded gear. (I finished the game only 
+ being able to summon 3 units. The demo had 5, so I was wondering for the longest time.)
+  
+  Tilt: 7
+  
+  Despite the negatives, I applaud the effort. I *really* loved elements of this game 
+ and want to see more indie effort. Thi sis 80% of a *great* game. I hope we figure out a way to 
+ get developers like this funded better so we can see a complete product. Maybe Valve can channel 
+ some of there profits from this game to that effect. I have high hopes for systems like Steam, 
+ but they have got to deliver better than this.
+  
+  In short: PLAY THE DEMO
+  
+  If its cool enough that you'd consider replaying the demo, then buy the game. If replaying the 
+ demo does not sound appealing, then think twice, as what you'll be getting it 10-12 hours of more 
+ of the same (less if you are smarter than me and discover the upgrade menu earlier on) . 
+::::::
+
+::::::
+UserName: Perth68
+Rating: 9.5
+Date: Dec 24, 2005 10:19 pm PT
+Review:  This game is fairly simple at heart. Really 4 options of units slightly limited by how many active 
+ things you can have running at once. Squad based action-warfare where you combat a virus inside 
+ the first ever virtual themepark, darwinia. The theme park is inhabited by darwinians, little green 
+ stick figures that have they're own ai-ness. They really grow on you.
+  
+  The game is really interesting just because of the interactions between the darwinians, their creator, 
+ and their world. It has a very cool reincarnation cycle and everything in the game has a soul. 
+ As the story develops it gets quite poignant.
+  
+  The gameplay itself is quite fun, and is a lot more difficult and deep then it would appear at 
+ first glance. Limited attacks still offer quite abit of options unlike other games where they're 
+ are tons but its quite limited.
+  
+  The environment is interesting itself. It has retro graphic that at first I found myself thinking 
+ they we're dated. But it is actually quite gorgeous at portions of the game. The sound itself is 
+ fun, interesting, cute and cool.
+  
+  All in all I would heavily suggest this game for anyone looking to try something different. 
+::::::
+
+::::::
+UserName: xyriel
+Rating: 9
+Date: Dec 20, 2005 12:56 pm PT
+Review:  I've been looking for a game that pushed the limits of what had been done, that brought a new gaming 
+ experience and had originality. I really wasn't expecting this from a ordinary looking game like 
+ Darwinia. 
+  
+  I saw it popup in my Steam interface, saw a few good reviews and tried the demo. The first shock 
+ is to go beyond the graphics and sounds. Honestly, this game looks 10 years old or more. However, 
+ once you get into the game, the originality of the story, the gameplay, you'll get hooked.
+  
+  Darwinia is somewhat like the lemmings meet starcraft. It's not quite a RTS, it's not quite 
+ a puzzle game. It's way more than an adventure game. I loved the demo so much I finally bought 
+ the game. At 19.99 on Steam, I think you get A LOT for your money. This game has many many hours 
+ of gameplay.
+  
+  Highs: Original, addictive, strategic
+  
+  Lows: graphics, sounds, no save game (it saves gamestate in a profile at the end of a level) , no 
+ pause (only way to pause is to alt+tab to desktop)
+  
+  
+::::::
+
+::::::
+UserName: peterfg
+Rating: 8.6
+Date: Dec 19, 2005 9:21 am PT
+Review:  Darwinia is a highly addictive game that makes you keep wanting to play more. The interface is 
+ simple and easy to use once you get the hang of it. One of the disappointments is that there is 
+ less to do than I thought there would be to do. The game always rewards you with upgrades of your 
+ choice every now and then, so it doesn't get boring. You also find some research items that give 
+ you new weapons and upgrades. The best unit is by far the 'Armour', which is transport for darwinians 
+ and can turn into a cannon. The graphics combine 2D with 3D, giving it a great effect.
+  I recommend that you buy the game from Steam. You won't be disappointed. 
+::::::
+
+::::::
+UserName: zaethro
+Rating: 8.3
+Date: Dec 18, 2005 7:19 pm PT
+Review:  I expected to buy Darwinia at some point. I had heard about it over the '05 summer and figured 
+ that I would do the society of small developers a good deed, seeing as how nothing much of note 
+ was on the horizon (at least in the strategy genre) . The novel concept of the three-dimensional 
+ 8-bit world was intriguing to say the least. The little green darwinians would seem to be the basic 
+ selling point of the game. After all, how could you not like a game based around little green stick 
+ figures that move around in a 3d world?
+  
+  The only catch came after I started playing the game, at which point I realized that this was far 
+ from being a simple novelty, but the darwinians were in fact just the cornerstones of an amusing 
+ game that surpassed my expectations on multiple levels.
+  
+  Darwinia is not truly a strategy game, but then neither is it anything else. Part of the game's 
+ ingenuity spawns from its colorful hybrid form. There is no reason you cannot turn it into a strategy 
+ game, but then neither is there a reason it can't be a third-person shooter game. The same goes 
+ being an adventure game; Darwinia does not seem to try and walk a line between these different 
+ ideals, but instead appears to ignore them entirely and treads on its own path. The result is surprisingly 
+ effective. It forms the basis for a game that is simple but nevertheless blooms in complexity and 
+ depth.
+  
+  Darwinia was quite apparently designed for an eccentric audience. Hardcore strategy gamers, stat-builders, 
+ and most FPS players will be deterred by this game's artistic feel, and agreeably so; the kind 
+ of story and gameplay, not even to mention graphics, that can be expected out of Darwinia are very 
+ whimsical and fantastic and won't be enjoyed too much by the above-mentioned kinds of gamers.
+ 
+  
+  Outside of those just referred to, I would easily recommend this game to anyone who needs a cheap 
+ game to play for a couple of hours. For $20, the game does not disappoint. The action is intense, 
+ the amusement to be had is quite extensive, and the replay value is definitely there. The only 
+ thing that could bar from liking this game is that to get something out of Darwinia you have to 
+ put something in. You must have an interest before you start; observing the game at face value 
+ will avail you nothing, but delve in with the desire to have fun and you will not be turned away.
+ 
+  
+  The graphic design of this game surpasses most any other game I have ever played. Let me finish. 
+ This is one of the only good games out there that will run on a standard laptop with a stable framerate. 
+ Coupled with the fact that the artistic combination of two dimensional and three dimensional effects 
+ is nothing less than outstanding in appearance, I have to concede that Introversion's graphic design 
+ is truly superior to that of many other much larger corporations. No game on the market can give 
+ you highly intense explosive combat with as stable a performance as Darwinia, and that is the shameful 
+ truth.
+  
+  Recommended for:
+  -Half-life 2 owners (go Steam!)
+  -Gamers that don't have much cash to spend
+  -Strategy gamers (who are tired of all these stupid 
+ / disappointing sequels; i. e. Age of Empires 3)
+  -Laptop Gamers
+  
+  NOT Recommended for:
+  -Half-life 2 owners that bought it so they could play Counterstrike: Source
+ 
+  -PvP MMO players
+  -Most anyone that already owns an X360 (be sure to note the date of post) 
+::::::
+
+::::::
+UserName: Dagget0101
+Rating: 8.9
+Date: Dec 17, 2005 3:43 pm PT
+Review:  When I first saw the screenshots for Darwinia, I was very skeptical. It seemed it would be doomed 
+ to the same fate of mediocre reviews as countless other budget titles. Then, the reviews came pouring 
+ in; not one of them a negative one. The critics loved the game. Apparently, it was worth my $20.
+ 
+  
+  They couldn't have been more right. From the moment the loading screen appears you are fully immersed 
+ in what can only be called the "Darwinia personality." I've seen several different start up screens 
+ for Darwinia; some were even interactive. 
+  
+  However, it is not just the personality of the game, which is magnificently complemented by the 
+ graphics and text, that makes it a classic. The gameplay is possibly the most addicting I've played 
+ in some time. The premise is simple: a virus has overrun the virtual world of Darwinia, and the 
+ population of Darwinians is fading. Your task is to save them. Fighting the virus is quite arcade-like, 
+ though in a good way. It's been quite some time since I last played a game where zapping bad guys 
+ was so much fun.
+  
+  Aside from the addictive gameplay is a story that I never thought I could get attached to. The 
+ pieces of the puzzle slowly fall into place as the levels unfold, revealing the true nature as 
+ to how the virus got in. The story is quirky, funny, moving, but still well pieced together. I 
+ never thought I'd feel so much emotion for tiny green stick men.
+  
+  If there are any downfalls to the game, it would be it's length. The game is quite short. However, 
+ that's to be expected from a $20 title. It definitely left me wanting more. And, after hours of 
+ virus slaying, the motions can get slightly repetitious, making the game a victim of it's own addictive 
+ gameplay in some ways.
+  
+  All in all, Darwinia is a truly fun, moving, and unique game. It is a gaming experience you've 
+ never experienced, and for $20, it's one you certainly won't want to miss. 
+::::::
+
+::::::
+UserName: boompixel
+Rating: 9
+Date: Dec 17, 2005 10:30 am PT
+Review:  Well in short I looked at this game and thought to myself "this looks stupid", but curiosity got 
+ the best of me and I downloaded the demo via steam. I ran through a nicely laid out demo and after 
+ I was done with it last night I said to myself "wow this is totally fun and addictive". I ended 
+ up purchasing the game through steam today for 20 bucks and let me tell you guys it was the best 
+ 20 bucks I ever spent. I'm sure it's not a game for everybody but if you run through the demo you 
+ will find yourself wanting to purchase it pretty quick. It's very different from most of the cookie 
+ cutter type games you find coming out day after day these days. Different is good and I give this 
+ game a 9.0 out of 10. The only thing that makes is a 9 would be the graphics are not wicked cutting 
+ edge but they compliment the gameplay very well so don't take my word for it grab steam @ www. steampowered. com 
+ and get the demo to see for yourself. 
+  
+   
+::::::
+
+::::::
+UserName: JohnnyCastaway
+Rating: 9.8
+Date: Dec 16, 2005 7:45 pm PT
+Review:  Darwinia is an amazing game. The gameplay is like none other. It's a real-time strategy third-person 
+ shooter. In the game you control programs. In the demo there are 3 programs you control. First 
+ there is a squad. The Squad is your strong arm. You tell them where to go and they'll go there 
+ and shoot anything that comes near them. Although they don't achieve their full potential until 
+ you take control of them. Then you can control their full-auto lasers and grenades. These guys 
+ alone make the game fun. Then comes the Engineers. These little guys go wherever you tell them 
+ and get all of your cool upgrades. You can tell them to go to infected "buildings" and reprogram 
+ to be on your side. An example of this is where you tell them to take control of a radar dish, 
+ where you then take control of the dish and line it up with an enemy one to transport your squads 
+ to the next area. Also, the engineer can get research from little cubes floating around to make 
+ your programs and the Darwinans more powerful. More on the Darwinians in a bit. Finally you can 
+ use the engineer to collect little squares from infected things you kill with your squads. The 
+ engineers in turn take them back to a special building which then converts these squares into good 
+ Darwinians. The Darwinians are the core of the game. They are what you are fighting for. They are 
+ highly advanced AI which live inside of a 3D world in a super-computer. They have their own free-will, 
+ culture, beliefs, and weapons. They can fight for you, but aren't particularly affective unless 
+ you need something to slow down your enemies. They can do such things as take over little Darwinian 
+ breeding buildings that spit out Darwinians without an input. And they can run solar powered panels 
+ to create electricity. But, they can't do much unless you lead them. But since they have a free-will 
+ you have to convert a few of then into leaders. Leaders are part program, part Darwinian. You can 
+ tell them where to go and tell them to tell the Darwinians where to go. This allows you to effectively 
+ control the Darwinians without taking away their freedom. Now one of the great things of this game 
+ is the interface. You use a combo of WASD and mouse for almost everything. You use the standard 
+ Left Shift to move extra fast across the screen. And if you need to run an extra program you just 
+ press TAB. Holding TAB brings up the control panel allowing you to create new programs (like Squads) 
+ and delete ones you aren't using. Also, you can view your objective and stats by pressing either 
+ W or S. The graphics of the game are mediocre with a special affect that makes things look pix 
+ elated and old school. If you like either FPS or RTS you should get this game. It is only $20 through 
+ Steam (from Valve) or you can play the demo for free. Everything in this game makes it a must play 
+ and the best game since Half-Life 2. 
+::::::
+
+::::::
+UserName: pixel-alchemist
+Rating: 7.3
+Date: Dec 16, 2005 12:26 am PT
+Review:  It's hard to put a finger on exactly what it is about Darwinia that makes it seem out of place. 
+ Not to say that the feeling is necessarily bad, or disruptive to gameplay and other mechanics, 
+ just that you should be warned immediately that Darwinia is rather ambitious in nature, and yet 
+ somehow reluctant. What I mean is that they tried very hard to keep it original and fun, but it 
+ seems like they missed something... perhaps that something is purely cosmetic, but either way the 
+ gameplay is still enjoyable. Darwinia puts you into the role of a man who can control the stylized 
+ world visually paraphrased into a living ecosystem, with beings existing in cyberspace completely 
+ aware of themselves and living lives. This creates an interesting dilemma, because it does indeed 
+ create a very unique storyline, but it seriously bombs graphically due to the plot-line. I should 
+ point out, however, that the graphics are not poor, they are just far too pretentious in my opinion. 
+ That aside, the game let's you take command of various creatures within the virtual world to manipulate 
+ at your will, in a constant goal to perpetuate the existence of the Darwinian inhabitants. Truly 
+ the gameplay is addictive, but also shy and could have been elaborated upon slightly more. The 
+ control/camera angels are spot on, they did a great job of allowing visual manipulation so that 
+ the player can view their world from many different angles.
+  Polished off with some quirky substance, this game would have simply been a smile in a sea of decent 
+ games, but the catch is this; It is only 19.95$ right from launch. This is why I bought Darwinia, 
+ and this is why I advise all people interested in a gaming change of pace to get a copy of Darwinia 
+ and play the hell out of it this holiday season. 
+::::::
+
+::::::
+UserName: Darcek
+Rating: 9.6
+Date: Dec 15, 2005 7:30 am PT
+Review:  This game rocks!!
+  want a simple review... remember first time you ever played civilization?
+  Playing the game has 
+ been the same experiance for me in terms of addictivity.
+  The charm is like you try the game.. it first doesn't look much.. after awhile you order your meals 
+ from infusion. Its so addicting its scary!!!!!
+  
+  Say goodbye to your loved ones and plunge into darwinia... it only gets better and better.
+  
+ 
+  When i was playing the game it feels like a combination of the best simple games.. with a twist. Just 
+ shows that a game dosent need graphics to be good... its nice but playability is FIRST!
+  
+  Don't miss on this one... let yourself get blown away... not many games hade the same affect as this 
+ one. Hook me on some more Darwinia.. yours truly 
+  
+  a darwinia addict. 
+::::::
+
+::::::
+UserName: supamunky
+Rating: 8.8
+Date: Dec 3, 2005 6:37 am PT
+Review:  Darwinia is the second game produced by Introversion software. Their first game: Uplink allowed 
+ the player to take the role of a hacker and accomplishing missions for clients that gradually got 
+ harder as the game progressed. Darwinia keeps up the tradition of being a game that isnt like 
+ the usual sort. It is however, a Real Time Strategy game.
+  
+  The story of Darwinia is that the game is set in the worlds first digital theme park. But it isnt 
+ fun at the fair like you would expect, there has been a virus that has created monsters of sorts 
+ that have put the inhabitants of Darwinia: the Darwinians to the brink of extinction. But you arrive 
+ by luck as the doctor who made the world is trying to save the remaining Darwinians and put things 
+ right. Its also your job to save the Darwinians and destroy the virus that has spread across Darwinia.
+ 
+  
+  Although this game is a RTS game, it doesnt follow the rule of building a base at the beginning 
+ of the level or creating armies and sending them out. All you have got at your disposal is the 
+ Darwinians. They are not directly controllable as they are controlled by AI and they will do things 
+ by themselves if you dont give them orders to carry out. They also need to be created with souls 
+ that are collected by Engineers. There are some programs, which you can make use of yourself. To 
+ begin with these are the Squad and Engineer programs. The squad is a few soldiers that you have 
+ control of you can also get hold of the research to arm them with different secondary weapons, 
+ such as grenades, air strikes (you place a beacon for aircraft to bomb that point and rockets. 
+ The engineers are your work horse of reprogramming buildings so you can use them and to collect 
+ souls to create Darwinians. As Darwinians are the most important things you will need as they can 
+ use buildings to aid you and when they are able to fight for themselves, it means some work is 
+ lifted from you.
+  
+  To run programs you have to create a gesture in the program window. If you have played the original 
+ Black and White game, it would come easily to you to create a gesture. Personally I find it a bit 
+ of a pain. As you have to be careful when making a gesture as if you get it wrong, you get a syntax 
+ error and have to do the gesture again. I only have trouble with making gestures to change a squads 
+ secondary weapon, but when you have made a gesture almost identical to how you are shown it. You 
+ get a little miffed and some words will be said Especially when you make a very half baked attempt 
+ at running a different program and it's accepted. The gestures are a nice idea as I don't see it 
+ very often in a game, but I just wished they had an alternative.
+  
+  The game isnt a game to push your newest hardware as the game is designed to look like a virtual 
+ world. But by virtual you always think a few years ago before 3D accelerated games or VR games 
+ that you heard of and saw but never got a chance to play with yourself. So for me I was able to 
+ run the game with the settings all on with it only going down to 30 frames per second when I was 
+ looking at an entire area when there was virus completely dominating it and that is with a Geforce 
+ 4. The only other thing that may push old hardware a bit is making loads of explosions at once 
+ on your enemies as the explosions look pretty funky with the old VR style and they seem a little 
+ more satisfying than some explosions I've seen in RTS games as well ^__^. Another interesting touch 
+ is how the programs you run as well as the enemies can be in sprite mode for that old look as the 
+ sprites are really low resolution and kinda messes with my head when I play the game on 1280x1024 
+ resolution. Or you can have a full 3D version of the programs and monsters, I prefer that to be 
+ honest as its just easier for me to tell where they are when looking at them from an angle.
+  
+  The controls are also simple but good except like I said earlier; when trying to run certain 
+ programs. The direction keys are used to move the camera around an area, whilst the mouse is used 
+ for looking around, selecting programs and making them do stuff. Its that easy. But it may take 
+ some getting used to not using the mouse to scroll around the map and that moving the mouse turns 
+ the camera.
+  
+  The audio is strange as the games sounds are all just beeps, boops and various other electronic 
+ noises. You never hear any English speech as the Darwinians and the programs have their own voices 
+ that to us dont make a great deal of sense. The music however is usually slow and somewhat sad 
+ to me, it kinda goes with how Darwinia is almost completely wasted because of the viral outbreak. 
+ It is nice to listen to though. But there isn't really much else to say about the game's audio 
+ other than that.
+  
+  Personally I enjoyed playing through this game as you were given new problems and challenges as 
+ you made progress. It also got me into the habit of playing this in the style of 'let's eliminate 
+ one more island of virus!' The game itself is only a single player, but dont let it stop you from 
+ getting this if you just like to play against people on-line in RTS games. It has its charm of 
+ being not like your usual game. Plus it isnt a demanding game in terms of requirements either. 
+ So I would recommend it to anyone who likes something different in their game and to RTS fans. 
+ Also Steam users will soon be able to purchase this on-line through the Steam service. 
+::::::
+
+::::::
+UserName: Varsity_UK
+Rating: 8.1
+Date: Oct 17, 2005 12:56 pm PT
+Review:  Do you think Half-Life 2s finale was rubbish? Do you use scripts, and win games through one strategy 
+ that you spend all your time practicing? Do you think Max Payne is too short? Perhaps you get bored 
+ during the meat grinder section of a Total War campaign game? If you answered yes to all of those 
+ then you can leave right now, because you have precisely none of the qualities needed to appreciate 
+ Darwinia and you arent going to get them any time soon. To see Darwinia for what it really is 
+ you need to be able to adapt to new ideas, have an active imagination, understand the meaning of 
+ restraint, and be able to go out and make entertainment instead of always waiting for it to be 
+ delivered. This is because Darwinia is not an ordinary game  in fact its about as far from ordinary 
+ as you can get.
+  
+  The basic premise is that of a virtual theme park populated by innocent AI beings known as Darwinians. 
+ A virus has infected this world of visualised code and it is now up to you (the player  there 
+ is no character or name) to clear it away by retro-fitting programs originally intended for harmless 
+ minigames visitors might play.
+  
+  These include the Squad, which starts out as a group of three polygonal floating tin soldiers wielding 
+ lasers and a selectable explosive weapon each. They are controlled in a similar manner to your 
+ men from Cannon Fodder, the first of many feature cameos, but with several important differences 
+ down both to the story and the games development team totalling two: they have next to no AI or 
+ pathfinding, cost nothing to produce instantly, and havent got to worry about ammunition, morale, 
+ fatigue, or any other such weaknesses of the flesh.
+  
+  And by and large this works, but  and its a big but  only if you are able to shake off the clich 
+ of controlling little men and adapt to the new idea of your units being not sentient beings but 
+ tools. They, like computers, can only do what you tell them to do. But when you order your squads 
+ a short distance and they then plunge down a steep ravine instead of taking the easy-but-slightly-curved 
+ route avoiding it, and must then spend two minutes climbing out, you will find yourself tearing 
+ hairs out.
+  Darwinians, who you can only control indirectly by promoting one to a General and issuing orders 
+ with him, follow the same pattern. As well as suffering from the same pathfinding issues as Squads 
+ (making herding them around extra irritating) , once you have issued them an order they will ignore 
+ all others until they are at their destination. When your tiny charges get stuck in an endless 
+ loop of running into water and retreating only to run into it again trying to get to a location, 
+ your only choice is to leave the game running for half and hour as they edge along the shore or 
+ reset the location. Twenty-thousand generations my arse.
+  
+  It is also ironic that in a game where almost every slope is climbable (albeit slowly) , the slightest 
+ bump in the landscape can spell death. If there is any form of rise before one of your squads and 
+ you fire an explosive it will usually hit it and travel in an unpredictable path or, in the case 
+ of rockets, explode there and then and turn your Squad into polygon fragments. This isnt so bad 
+ in the earlier stages but by the time you get to the penultimate island you simply dont have the 
+ time to angle the camera around and check.
+  
+  What you actually do with the Squads would in a mortal game be the core of the gameplay. In Darwinia 
+ they are used to blast Viral infection. Yes, thats it. There is very little strategy involved 
+ besides basic positioning . Its because Darwinia is not a strategy game. It is an action game 
+ that you just so happen to control with an RTS-like interface and a scattering of RTS-like ideas, 
+ ideas like a Ground Control-esque camera, C&C-like controls, and Black and White-styled interface.
+ 
+  
+  Darwinia is all about the action. And what action.
+  
+  Simply laying down laser fire at tens of virus worms bearing down on a squad is a hypnotic experience. 
+ Add the gloriously stylised explosions and its almost overwhelming. Dont even get me started 
+ on the audio. Smoke, in fact a stream of polygons, gushes from the rear of your rockets before 
+ they impact, sending up a shower of translucent squares and the squeals of dying viruses. The flare 
+ from an airstrike marker sends red-tinged diamonds, again translucent, drifting across the fractal 
+ landscape until a swarm of invaders arrives at it to deposit high explosives to blinding, deafening, 
+ and deadly effect. The games visual design makes an interesting contrast to Doom 3: one offered 
+ astonishing technology with quite frankly crap art, whereas the other has a ridiculously basic 
+ partly sprite-based programmatic engine serving up crisp, bold and unforgettable vistas.
+  
+  The more attentive of you will have noticed a very swift digression from gameplay to graphics over 
+ the last few paragraphs. Let me assure you, it is not in error. A large part of Darwinias fun 
+ is found in its visual power and the way you interact with it. You cant use realistic graphics 
+ alone to entertain  why not go out and see the real thing?  but Darwinias unique style is truly 
+ mesmerising. Youll sometimes catch yourself simply staring at the islands with their milling infection 
+ and beautifully haunting fractal trees. The ability to then go and blow it all up in a similarly 
+ trippy style feels like a bonus on a bonus.
+  
+  Yet another blasphemous departure from the standard game template in Darwinia is the fact that 
+ you cant lose. You could theoretically run out of souls to convert into Darwinians needed to complete 
+ an objective, true, but other than that rare event there isnt any way to fail. When you play Darwinia 
+ it isnt a question of IF you can complete it, but HOW you do so. And when you realise that you 
+ realise that the challenge hasnt gone: it has moved. It has moved into the real world. The penalty 
+ for losing Darwinia isnt having to stare at a loading screen, but to miss out on nearly everything 
+ the game offers. It is a bold step and one that will lose the game any last vestige of mass-market 
+ appeal it may once have had but pays of dividends for those who overcome it.
+  
+  Darwinia has a story to it but as you might by now be weary of hearing, it doesnt take an orthodox 
+ form. Theres Dr. Sepulveda with the trials and tribulations of his virtual universe but thats 
+ a token for people who cant see what the story is really about: Darwinia, the Darwinians, and 
+ the way their world and society works. The plot is merely an excuse to tell you the story and let 
+ you experience the game. A weak excuse, it must be said, for the plot is boring and predictable, 
+ but an excuse nonetheless. The story itself will likely draw you in to the game world and leave 
+ you interested to hear more until it ends. Which is as much as you can ask for from such a title.
+ 
+  
+  Ultimately, Darwinia is a game whose major flaw and greatest triumph is its dependence on the user. 
+ Darwinia is a sandbox with direction, and artists palette of entertainment with the hand of a 
+ master guiding you. There is some pleasure to be had barrelling through to get to the end but to 
+ really get the most out of Darwinia youve got to give a little too. Be generous today. 
+::::::
+
+::::::
+UserName: Mikkle
+Rating: 9
+Date: Apr 30, 2005 1:14 pm PT
+Review:  (This is a spoiler-free review!)
+  
+  Darwinia is the life work of Dr. Sepulveda. It is his experiment, a digital landscape he created 
+ to study AI patterns and behaviors. It is inhabited by the Darwinians, a simple lifeform whose 
+ intelligence has slowly evolved over hundreds of generations. But a glitch in the system has recently 
+ allowed a deadly virus to infect the digital world. The virus has now spread to every subsytem, 
+ and tremendous damage has been done... And this is where you come in!
+  
+  In Darwinia, you play the role of a System Administrator in charge of getting rid of the nasty 
+ virus. The game takes you through each of the subsystems in Darwinia, where you must accomplish 
+ a series of objectives. These mission objectives are diverse: clearing the virus threat, rescuing 
+ Darwinians, restoring power to other subsystems, etc.
+  
+  You accomplish these objectives by running Tasks via the Task Manager. This is done by performing 
+ a mouse gesture that corresponds to the Task you want to run. For example, to create a virus attack 
+ Squad, you "draw" a triangle with your mouse on the Task Manager, and a Squad unit is created in 
+ the digital world. Each Task is initiated by a different mouse gesture. You can run many types 
+ of Tasks, each with a specific purpose. The trick is that you can only run a limited number of 
+ tasks at the same time. Additionally, you can only issue orders to one Task at a time (you switch 
+ between tasks using Alt+Tab) . This forces you to use your head and manage your resources carefully 
+ to complete a given mission. If this sounds complicated in theory, don't worry: It is all very 
+ intuitive in practice, as the game does a fine job of introducing gameplay elements gradually.
+ 
+  
+  The first Task you will learn is the Squad task. When you create a Squad, you control an armed 
+ unit that can attack the virus. This is the main action element of the game. The squad members 
+ shoot lasers as their primary weapon, and they also have access to a number of destructive secondary 
+ weapons. The controls are simple and responsive, yet it takes a good amount of skill to truly control 
+ a Squad unit effectively. Although the enemy AI is relatively simple, many of the virus units you 
+ face will prove challenging, if only because of their sheer numbers. I do not want to spoil anything, 
+ so I will let you find out about the other Tasks... and how the Darwinians themselves play into 
+ all of this.
+  
+  At the beginning of the game there are only a small number of Tasks available to you, but as the 
+ game progresses you will learn additional (and more powerful) Tasks. The game also features a Research 
+ element. As you go through the missions, Dr. Sepulveda will research enhancements to existing Tasks, 
+ such as faster or higher capacity units, more powerful weapons, etc. There are four versions of 
+ each Task, v1.0 to v4.0. Because there is no way to research everything, what you decide to focus 
+ on has a direct impact on how you play the game. There are different ways to complete specific 
+ objectives, so you will want to concentrate research on areas that enhance your own tactics.
+  
+  Artistically speaking, Darwinia is really something to behold. As you can see from the screenshots, 
+ none of the 3D models are textured, in fact they are all flat-shaded. This gives the game a very 
+ distinctive, old-school look that is reminiscent of video games from the 1980's. Unfortunately 
+ the screenshots do not do the game justice. An added bonus due to the simplicity of the models: 
+ the game can display a *very* large number of units... As you will soon find out :) Although the 
+ graphics are simple, they are very polished. The game contains some neat lighting and particle 
+ effects. It also features a dozen or so easter-egg "loaders" -- an obvious wink to the author's 
+ computer hacking days -- that are fun to watch when the game starts up, and add to the immersiveness 
+ factor.
+  
+  I wish I could share more with you about Darwinia, but I would not want to spoil anything for you. 
+ It is a journey you must make yourself. Darwinia is part strategy game, part action game, part 
+ god-game, and pure addictive fun throughout. Darwinia is one of the few games that manages to draw 
+ inspiration from different game genres to create something totally new, and actually pull it off. 
+ My hat goes off to Introversion UK for creating a truly refreshing, innovating experience. This 
+ game is exceptional. 
+::::::
+
+::::::
+UserName: f00
+Rating: 9.7
+Date: Apr 29, 2005 8:16 pm PT
+Review:  This is the type of game that I play games for. It is absolutely unique in its presentation. it 
+ really feels like a cohesive whole - not something that thirty people put together. 
+  
+  The storyline is as good as any science fiction story, though it is presented very simply. 
+  
+ 
+  The graphics are old school taken in its parts, but put together, they are gorgeous. The interface 
+ is unique and yet totally accessible.
+  
+  If you like simplicity, uniqueness, and elegance in your game design, this game is an excellent 
+ way to go.
+  
+  The music is sparse, but put exactly where it needs to be. I despise a soundtrack that blankets 
+ an entire movie or game and this game knows where it belongs.
+  
+  My only complaint is that it slows down at parts - especially at the later levels. I had not updated 
+ the program nor did I take the advice the official site offers before I finished the game. If I 
+ had done these, not to mention, upgraded my Athlon 1900+, I may not even have this complaint.
+ 
+  
+  
+::::::
+
+::::::
+UserName: Cyberpixie
+Rating: 9.5
+Date: Apr 12, 2005 10:56 pm PT
+Review:  Ive been playing computer games since I was six. I dont know how many games I have played. More 
+ than I can remember anyway, but Ive never played anything like Darwinia. From the eye-catching 
+ box and amusing manual to the 60Mb install (really!) everything about Darwinia intrigues. What 
+ kind of game is it you ask? Ill tell you.
+  
+  This game is fun. Remember that? When games were fun? Not just about flashy graphics? It really 
+ is a joy to play. Playing the game is rewarding and exciting, and levels can be completed in many 
+ different ways (check out the official forums to get an idea) . Not to say that its non-linear, 
+ but that you can play it by your style. At heart, it's kind of a puzzle game. Normally you have 
+ to save Darwinians (little green A. I. guys) and complete an objective, killing the invading Virus 
+ on the way. However, a fair amount of strategy has to be used, but its not an RTS. There is no 
+ resource gathering or building bases or tank rushes. Its done in a more, well, retro arcade way. 
+ You control a squad (you get other units to use later) by clicking where you want the to go, 
+ and firing with the right mouse button. Sound familiar? Yip, there is a fair bit of retro goodness 
+ in here, this arcade shooting gives a fairly large nod in the direction of Syndicate and Cannon 
+ Fodder as well as a couple of fantastic references to the Spectrum. But dont be put off! This 
+ game is not just for geeks. There is a lot of barefaced good fun in its artificial soul. Believe 
+ me, you will start thinking that the game is really happening and these poor little guys are dying. 
+ Once you get into it, you never want to leave. Its simple graphical beauty and sound suck you in, 
+ emotional attachments to the Darwinians themselves is unavoidable. You will franticly try to save 
+ every last one of them and then rain your wrath down on the Virus for its evil.
+  
+  Some may complain about the graphics and that it lacks the nitty-gritty realistic look that we 
+ come to expect these days. I feel this would be unfair as this is not what its trying to achieve. 
+ Darwinia is set inside a computer (ala. Tron) and therefore has little connection with the world 
+ we see. The graphics engine is well polished and does a fantastic job with the landscapes as well 
+ as the game worlds creatures. Everything about it had this wonderful, lovely glowing warmth to 
+ it. The way objectives get lit up, the light emitted from trees, the nasty insect like Viri and 
+ the little Darwinians themselves are all beautifully displayed. 
+  
+  Its control system is also very interesting. It uses the keyboard to move the camera (viewpoint) 
+ and the mouse for direction and selection of programs etc, sounds normal no? However, a gesture 
+ system is used to create new units, which is fun, requires skill and can make things pretty intense 
+ during big battles. The game doesnt have a specific training area, but the first couple of levels 
+ get you used to the controls and slowly give you hints to ease you in. 
+  
+  Sound and music are also very very good. Music is only really used during the intro and after all 
+ objectives have been met, but when they kick in, youll want to just sit back and listen. Warming 
+ and sometimes touching tracks with a more retro electronic beat (Spectrum style) add a lot to the 
+ atmosphere. The ambient sound is fantastic too, compromising mainly of the Darwinians and the Viri. 
+ The Darwinians make funny, cute little noises and are especially lovable after a sector has been 
+ cleared when they start jumping/dancing around making chirping guinea pig like sounds. The viri 
+ on the other hand make nasty insect like sounds, scratching and wriggling their way around the 
+ landscape. When flying about the landscape expect to hear many more sounds individual to the 
+ area, mining carts creaking around, and electricity cracking down power lines, all adding to the 
+ joy of exploring this amazing world. 
+  
+  Its makes me smile this game. A lot. To think that id and other huge companies now spend millions 
+ making games, only to produce something just like everything else. Technically amazing, but cold 
+ and devoid of any emotion or warmth. 
+  
+  I feel that there is something very human about Darwinia. I bow down before it, both for its form, 
+ and its wonderfully quirky soul.
+  
+::::::
+
+::::::
+UserName: Blue_Tomato
+Rating: 7.2
+Date: Mar 20, 2005 1:57 pm PT
+Review:  Interesting game, however it makes me wonder wether they chose the simple pixelated graphics design 
+ for artistic reasons (which many reviewers seem to think) or to save money and time doing real 
+ graphics. :)
+  
+  I am pretty convinced it is the latter, the game has the word BUDGET written all over it.
+  
+ 
+  It truly does remind me of something some college geeks would throw together, no bomb this game 
+ supports Linux to put it that way. It has the trademark of geek all over the design, and might 
+ therefore also appeal only to those, yet it maintains a quite polished feel of it and manage to 
+ raise itself to an acceptable level for a retail game.
+  
+  It can be a fresh wind in the RTS game market, but is nowhere near to come up to par with the current 
+ base of RTS games like Age of Mythology or Warhammer 2000. It has a completely different angle 
+ though, so you might still appreciate it for it's unique style, and if nothing else, it's low price 
+ tag.
+  
+  Personally I think it is good that small game companies come up with new ideas, it would be sad 
+ to see the big corporations take the whole game market and flushing out games with no new ideas 
+ whatsoever, just making money investing in safe and tried formulas.
+  
+  If you do not mind a game that is a bit retro, and a bit rough in the edges, then give it a try. 
+ It has some interesting and new ideas. 
+::::::
+
+-------------------------------------------------

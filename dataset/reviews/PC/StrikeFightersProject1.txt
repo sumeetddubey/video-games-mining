@@ -1,0 +1,209 @@
+-------------------------------------------------
+:::Game Name::: Strike Fighters: Project 1
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/strikefightersproject1/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov  1, 2002
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 6.6
+Critic Score: 6.3, 7 Review (s)
+User Score: 7.6, 52 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Strategy First
+Developer: Third Wire
+Genre: Jet Sim
+Date:     Oct 27, 2002
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Strike Fighters might be the only game that has ever been released twice in an unfinished state. 
+ 
+
+ Strike Fighters: Project 1 has already been released once, in a fiasco in which an early version 
+ was put in a box and sold at the retail chain Wal-Mart to meet a shipping deadline and then withdrawn 
+ just as quickly. Three months later, the game is back as an "official release." And unfortunately, 
+ Strike Fighters might be the only game that has ever been released twice in an unfinished state. 
+           The aircraft models are probably the best ever in a sim.    
+
+  The idea behind the game itself is great: Take a period in aviation history that hasn't gotten 
+ a lot of attention in flight simulator games and build an expandable simulation that revolves around 
+ some of the most interesting and beloved aircraft of the time. In true survey-sim fashion, Strike 
+ Fighters avoids turning into a gadget show that requires you to fiddle with a thousand knobs and 
+ buttons on your planes' control panels, and this approach is actually pretty realistic, since the 
+ avionics in the real-world aircraft featured in Strike Fighters were fairly primitive in the first 
+ place. And development of the game involved Tsuyoshi Kawahito, the designer of the classic European 
+ Air War and the programmer of the even more highly esteemed Longbow 2, so Strike Fighters had the 
+ potential to be an absolutely essential game for all computer pilots. If the game had actually 
+ been finished by the time it was shipped, this might have been the case.   
+
+  Currently, Strike Fighters lets you fly four standard aircraft: the A-5 Skyhawk, the F-100 Super 
+ Sabre, the F-104 Starfighter, and the F-4 Phantom II (though in multiplayer, you can also fly Soviet-built 
+ MiG jets) . The Phantom II is really the centerpiece of the sim, as it has a truly unique flight 
+ model: It has a lot of power, but it handles like a brick. If you played EA's 1999 simulation Jane's 
+ USAF, you may remember the physics on the Phantom II in that game -- and as it turns out, Strike 
+ Fighters does a better job of conveying the way this powerful fighter jet handles. In fact, Strike 
+ Fighters does a great job of modeling just about all the aircraft it features, and you really have 
+ to learn how to handle these early jets much differently than you would a modern F-22. These jets 
+ bleed airspeed like crazy, even in relatively shallow turns, and this is exacerbated by the fact 
+ that the Soviet-built planes generally have much more horizontal maneuverability than the other 
+ jets, so you have to play to your strengths.   
+
+  Strike Fighters' modeling of air-to-air missiles gives you a good idea of how unreliable and difficult 
+ to use the early models were. Additionally, the realistic difficulty in using missiles in air-to-air 
+ battles leads to a lot of intense dogfights in which a missile launch rarely means an automatic 
+ kill, and in which guns are your most reliable asset. The challenges in the game aren't technical 
+ but a matter of flying skill, so you might compare it to Rowan Software's 1999 MiG Alley, since 
+ both games offer a new flight experience that hasn't been featured in a flight sim in a while. 
+   
+
+  Strike Fighters' graphics range from incredible, especially its aircraft models, to serviceable, 
+ especially its terrain. The realism of the game's flight model also scales nicely, so Strike Fighters 
+ gets off to a good start. Unfortunately, once you really start playing the game, you'll notice 
+ Strike Fighters' problems, as well as some of its conspicuously missing features. One of the biggest 
+ is the complete lack of any surface-to-air missiles (SAMs) or antiaircraft artillery (AAA) . In 
+ a game in which you spend a fair amount of time flying ground-attack missions, this is a big problem. 
+ Also, the game's terrain textures sometimes go missing, especially over water. Strike Fighters' 
+ collision detection with the ground is also unreliable, and the game simply doesn't have ground 
+ explosions for weapons. The game's planning map is essentially useless, since it has no zoom levels. 
+ And while we were able to play the game without experiencing severe problems, other users have 
+ reported technical problems that include frequent crashes of the game to their computers' desktops. 
+           Incredibly, there are no ground explosions for bombs.    
+
+  Strike Fighters was designed to be an expandable game that could easily support both official and 
+ user-made add-ons. There are certainly plenty of aircraft to choose from as candidates for future 
+ inclusion (the F-8 Crusader and F-105 Thunderchief are notable examples) , but since the game doesn't 
+ have a compelling campaign, it doesn't seem like adding these missing planes would help much. The 
+ dynamic campaign included in the game is set in a fictional desert war circa 1959 between two fictional 
+ countries, one with Soviet weapons and one with arms that are US-built. A simulation like this 
+ is crying out for a Vietnam theme, and while the desert setting is a way to get around having to 
+ build a terrain engine that can model large numbers of trees, it seems a bit sterile.   
+
+  It's hard to recommend Strike Fighters as it is. The core gameplay is actually quite good, and 
+ it's tempting to just overlook the bugs and missing features and focus on the game's strengths. 
+ Unfortunately, there are too many of these bugs and missing features to ignore. A stable version 
+ of Strike Fighters with fully functional ground-to-air defenses, ground-collision detection, a 
+ bigger theater of war, and a steady stream of new flyable aircraft would have been a terrific flight 
+ simulation. Developer Third Wire has promised to support and fully patch the game, but there probably 
+ isn't much reason to pick up the game in its current state. Considering the fact that many flight 
+ sims really took off after their retail release (and after numerous patches and updates) , it's 
+ possible that the game could improve in the future, but out of the box, Strike Fighters is more 
+ than a little disappointing. Then again, the war isn't going anywhere.    
+-------------------------------------------------
+:::User Reviews::: (3 Reviews)
+::::::
+UserName: Vsem_Pizdetz
+Rating: 3
+Date: Jul 23, 2008 10:22 am PT
+Review:  Well, not only were my 35 dollars snatched out of my pocket by means of the game's propaganda but 
+ I have also literally gave the game away to a companion the third day of my purchase, who also 
+ did not keep the game for long. First of all, on the box, it clearly states you can fly up to 16 
+ aircraft in the game, both US and Russian. Turns out you can fly four different american aircraft 
+ in the Singe player with a couple of variants. As with the multiplayer, you fly highly undetailed 
+ versions of some of the planes mentioned on the back of the box, all sharing the same cockpit as 
+ the F-4. Second, the AI of enemies is terrible. 95% of the times I have died was either from crash 
+ or bugs while the other 5% was from enemy missiles and gunfire. I spent my time engaging five Mig17's 
+ whose pilots seemed were uncappable of passing 2nd grade. Aircraft would loop around you, fly low 
+ and simply rather fly away from you then actually fire a missile even if difficulty is on maximum. 
+ The plane you control has the ability to perfectly land anywhere in the game including mountains 
+ and slopes as well as fly through buildings. 
+  
+  This game is terrible. Just get Lock-On. 
+::::::
+
+::::::
+UserName: rjcruzejr
+Rating: 9.2
+Date: Jun 21, 2007 4:43 pm PT
+Review:  Strike Fighters: Project 1 has had a very checkered past. First, there was the Wal-Mart Fiasco, 
+ when the publisher gave in to pressure from Wal-Mart to release the game several months before 
+ it was ready -- they shipped a beta version of the game. To put it mildly, it was not very well 
+ received. Then the game was officially released to lackluster reviews. If it was any other game, 
+ it probably would have withered and died, joining the graveyard with dozens of other forgettable 
+ flight sims.
+  
+  However...
+  
+  SF: P1 had two things going for it. First, it has a mod-friendly architecture -- like MS Flight 
+ Simulator. Over the past five years since it's release, a very talented, very active, and very 
+ dedicated third-party mod community has developed for this game. The community has produced dozens, 
+ if not hundreds of add-on aircraft for the game. In addition they've produced terrains, objects 
+ (ships, vehicles, etc.) weapons, skins, missions and campaigns, utilities, and countless tweaks. 
+ And practically all of it is freeware. These hard-working developers, who do this as a labor of 
+ love, have made Strike Fighters: Project 1 a far superior game to what it was back in 2002, when 
+ it was first released. In fact it was the addons and the community that convinced me to give the 
+ game a second chance -- I was one of those unfortunates who was burned by the Wal-Mart Fiasco :- (
+ 
+  
+  The other thing SF: P1 has going for it is that it's developer, ThirdWire is still supporting the 
+ game and providing patches for it. And each subsequent patch has expanded the game to allow even 
+ more modding, hence, more add-ons. ThirdWire has also developed other games using the same engine: 
+ Wings Over Vietnam, Wings Over Europe, and First Eagles. By using the same engine, this means that 
+ many of the mods for SF: P1 will work with the others -- though, like anything, your mileage may 
+ vary.
+  
+  If you just want to install it out of the box, patch it, and play it, that's fine. Even without 
+ the add-ons it's a decent game, especially patched to the latest-and-greatest revision. However, 
+ that's just scratching the surface of the game's true potential. If you want to truly do this game 
+ justice, you'll definitely want to start downloading and installing some add-ons. Be warned: once 
+ you start, you'll find it extremely hard to stop because there is so much out there.
+  
+  One caveat: if you're looking for a hardcore sim where you have to practically check the tire pressure 
+ and do a FOD walkdown, look elsewhere. Strike Fighters and its cousins are casual sims, meant for 
+ gamers who just want to kick the tires and light the fires and have an enjoyable gaming experience. 
+ (Note: if you cringed every time I used the word game, SF is definitely not up your alley) . You 
+ won't have to thumb through a thousand page manual for this one.
+  
+  A few good places to start in the SF: P1 community:
+  
+  The Unofficial Strike Fighters FAQ at 
+ column5. us -- which does a far better job of explaining this stuff than I can :-D
+  http://www. column5. us/faq. htm
+  
+  CombatAce -- a *huge* news, download, and forum site. A good 
+ starting point for those interested in obtaining some of these third-party addons.
+  http://www. combatace. com/
+  
+  The Strike Fighters: Project 1 Information Directory -- an excellent 
+ source of links to the who's who in the community, along with many other download sites. The site 
+ also covers the other ThirdWire sims as well.
+  http://ca. geocities. com/saganuay820/
+  
+  And these are just the tip of the iceberg.
+  
+  I've been playing Strike Fighters for a few years 
+ now, and it's just getting better and better. I highly recommend the game -- and the community! 
+ 
+::::::
+
+::::::
+UserName: 1599510
+Rating: 7.8
+Date: Jul 13, 2006 6:08 pm PT
+Review:  Good game. As i said, models are amazing. And the idea.....
+  if u go into instant action u can blow the brains out of some MIG's. But in the normal levels or 
+ just the mission maker........ sometimes u are just flying around...... and it gets somewat boring..... so 
+ u start doing tricks... and u black out...... run out of fuel........... and go crashing into kingdom 
+ come. I enjoy flying small planes....... but this doesnt transmit that HUGE amount of fun that amasingly. 
+ But u can still play it though if ur in the mood...... watch tv at the same time maybe...?
+  
+  
+  Overall could be some more enemies for one......... and enemies that shoot u and engage 
+ u more......
+  
+  if u want to try flying a fighter plane....... and dont want to spend alot of money
+  
+  try getting 
+ on a plane toor....... lots of fun, very excilarating, while here............. u will just trun on 
+ the tv while u wait to get to ur objective..... in half an hour... 
+::::::
+
+-------------------------------------------------

@@ -1,0 +1,227 @@
+-------------------------------------------------
+:::Game Name::: Real War
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/realwar/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Oct 12, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 3.7
+Critic Score: 5.0, 13 Review (s)
+User Score: 5.7, 195 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Simon & Schuster
+Developer: Rival Interactive
+Genre: Strategy
+Date:     Sep 24, 2001
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Real War is a throwback to the days of those horrible real-time strategy clones that followed the 
+ success of Westwood's Command & Conquer series. 
+
+ Real War is a throwback to the days of those horrible real-time strategy clones that followed the 
+ success of Westwood's Command &amp; Conquer series. Like most of the games that tried to ride Westwood's 
+ coattails, this is an example of amateurish game design at its worst. And considering its subject 
+ matter -- the US military going abroad to battle terrorists -- it's also an example of colossally bad 
+ timing.           Dropping leaflets on enemies can actually make them flee.    
+
+  Real War is entirely conventional in many ways. It's a typical real-time strategy game featuring 
+ modern weaponry rather than fictitious sci-fi or fantasy armaments. The two sides are the US military 
+ and the generically named terrorist organization, the Independent Liberation Army (which begs the 
+ question, "If they're independent, from whom do they want to be liberated?") . You can choose the 
+ single-player campaign of 12 linear missions or a skirmish game. The campaign missions tend to 
+ have specific objectives, while the skirmish games are last-man-standing slugfests to the finish. 
+ You start with a headquarters and then build land, air, and sea command centers to unlock the basic 
+ units. You can upgrade your buildings to unlock new units. Power generators give you the energy 
+ your buildings need to function, and supply depots give you the resources you need to build units. 
+ Near the end of the build tree, you'll find weapons of nuclear, biological, and psychological warfare. 
+   
+
+  There are a few interesting angles Real War takes from the traditional real-time strategy conventions. 
+ There's a limit to the number of each type of unit and structure you can build. This puts a limit 
+ on the size of your army and how much you can expand across the map. It also forces you to use 
+ a combined-arms approach, since you can't focus solely on one type of unit. Instead of harvesting 
+ resources like gold or ore, your "supply" is automatically generated when you build supply depots. 
+ For each depot, a helicopter periodically flies in from the map edge and unloads "supply" into 
+ your reserves, which can then be used for building units and structures. Theoretically, you have 
+ to protect your helicopters from enemy attack, but they're invulnerable if you simply build your 
+ depots against the map edge. However, because the number of depots you can build is limited, Real 
+ War minimizes economic micromanagement and lets you focus on your military units.   
+
+  And you'll definitely need to focus on your military units, because Real War's interface, artwork, 
+ and unit AI are an utter nightmare. Useful hotkeys are AWOL. There is no speed adjustment, and 
+ the game moves so quickly that your army can quickly scurry out of control. The basic idea behind 
+ the interface is admirable; at the bottom of the screen, there's a button for every unit and building. 
+ This means you won't have to scroll around the map to find something. But the buttons are tiny 
+ pictures about 25 pixels wide crammed into a small box. They're hard enough to make out because 
+ they're so small, but even the artwork is indistinguishable; there are vague drawings of trucks, 
+ buildings, lumpy colors, and other less-than-helpful stuff that doesn't look like anything on the 
+ map. Topware Interactive's 3D real-time strategy game Earth 2150 took a similar approach with more 
+ success because the buttons were bigger and they used the same 3D models from the game engine. 
+           Even at the closest zoom level, infantry units seem tiny.    
+
+  Many of Real War's units are virtually impossible to distinguish, especially when they're selected 
+ and a thick cloud of health bars and experience icons obscures them. Vehicles tend to be the boxy 
+ generic equivalents of plastic army-men toys. Even at the tightest zoom, infantry units are little 
+ more than dots. Many of the ship models look similar. Only aircraft fare well in this game because 
+ they're modeled after distinct real-world airframes. The engine is strictly 2D, but the animation 
+ allows units to move as if they were polygonal: They're not fixed to specific directions, and they 
+ can even turn over or fly through the air when they explode. But when traveling, they slide across 
+ the terrain as if they were skidding on ice, often moving at weird angles. It's odd to see an aircraft 
+ carrier moving sideways, but this is what happens in Real War when it's trying to scoot out of 
+ the way of another unit.   
+
+  However, units more often shuffle over and through each other, clustering themselves into chaotic 
+ blobs. There are formations in the game, but they don't have any significant effect. Neither do 
+ the orders for units to launch simultaneous attacks. For some reason, Real War's putative formations 
+ aren't even included in multiplayer games. This certainly isn't because the CPU is working overtime 
+ on unit AI. These are some of the most helpless units you'll ever have the displeasure of herding. 
+ Real War features pathfinding that's incapable of going around a forest, much less navigating a 
+ gap in a defensive wall.            The game's poor pathfinding makes battles a chore.    
+
+ 
+  If Real War had worked better, the unit variety and build tree might have been interesting. Units 
+ like destroyers and subs can build a store of long-range cruise missiles. Carriers can build their 
+ own custom squadrons. Aircraft can be defended with flares and jamming equipment to shut down antiair 
+ weapons. Satellites can be positioned over parts of the map to keep a constant line of sight. Planes 
+ drop leaflets onto enemy units to demoralize them. The terrorists can use transport vehicles for 
+ suicide missions. There's the basis for a decent game here, but it seems the developers weren't 
+ quite up to the task.   
+
+  However, Real War isn't just a bad game. It's also an exercise in horrible timing. It was released 
+ exactly two weeks after the September 11th attacks. It includes language in the terrorist campaign 
+ about causing the loss of American lives and hitting civilian targets. There are rendered cutscenes 
+ of burning cities. The US campaign ends with a view of the Pentagon, minus the dark gash cut into 
+ its west side. If ever there was a candidate for being retooled in light of recent events, it was 
+ Real War. And if there's any subject matter that's currently inappropriate for this sort of frivolous 
+ treatment, it's a war conducted against terrorists overseas. This isn't to accuse the game of poor 
+ taste so much as fortuitous timing. But if Westwood had the presence of mind to alter the artwork 
+ on Red Alert 2's boxes, Simon &amp; Schuster looks insensitive in comparison when it lets Real 
+ War wend its way to retail shelves in its current state.           Tanks and other vehicles seem 
+ like nothing more than generic-looking toys.    
+
+  The developer, Rival Interactive, created the game as a commercial version of Joint Force Employment, 
+ a "multimedia CD-ROM" it's been trying to sell to the military. Because Real War was based on a 
+ training tool that some poor slob in the military might have been duped into requisitioning, you'll 
+ find claims of "realism" and "authenticity" stuck all over Real War. "Based On The Official Joint 
+ Chiefs Of Staff Training Game Developed For The U. S. Military," the front of the box reads. But 
+ this game's very name is patently absurd. There's minimal realism in the design, much less in the 
+ execution. Even if the tanks weren't stupidly driving around like drunken bumper cars, they wouldn't 
+ be engaging each other at these ranges. A tactical nuke will destroy more than a single building. 
+ Submarines don't launch cruise missiles a stone's throw from the shore. And it's not just the scale 
+ that's hopelessly fudged. Infantry don't stand out in the open and wait for vehicles to squash 
+ them. Propaganda leaflets dropped on an army don't cause them to run away. Helicopters and jet 
+ aircraft don't fly in formation with each other. Red Alert 2 has just as much claim to authenticity 
+ as Real War. By boasting that they've included authentic military units and realistic tactics, 
+ Rival Interactive and Simon &amp; Schuster are insulting not only their audience, but their subject 
+ matter as well.   
+
+  One of the saddest things about this Johnny-come-lately to the real-time scene is that actor R. 
+ Lee Ermey was hired to do the voice-over for the US campaign. By his voice, you'll instantly recognize 
+ Ermey as the ill-fated drill sergeant in Full Metal Jacket or the commander of the plastic army 
+ men in the Toy Story movies. Ermey's voice is full of force and personality, but they have him 
+ narrate Real War's campaign with the steady insistent drumbeat of a drill sergeant. As each mission 
+ loads, he barks embarrassing slogans like, "Semper fi, do or die, gung ho, gung ho, gung ho!" Has 
+ he fallen so far that it's come to this? At least when you exit Real War, he barks, "Oh boy, oh 
+ boy, isn't that sweet? You're givin' up!" Thank you, R. Lee Ermey, for making it that much more 
+ enjoyable to exit Real War.    
+-------------------------------------------------
+:::User Reviews::: (5 Reviews)
+::::::
+UserName: blackrat92
+Rating: 2.5
+Date: Jun 12, 2008 1:22 am PT
+Review:  well... when i first noticed the game in a search i did, it looked great but when i started to look 
+ at images and read reviews, i had to try it for my self because you cant always judge by what the 
+ systems say. so... i wont waste time saying thousands of words no one will ever read but ill sum 
+ it up by saying, age of empires wanabes, if they would have spent alittle more time drawing better 
+ and learning the programming languages, then they may have had a classic on therye hands. but ive 
+ played the best of the best games so i expect more and more from game creaters every game so dont 
+ listen to me for everything. but if your graphics suck and you need a good game that has a demo 
+ for you then try out the age of empires saga. they go from ancient rome and the mediteranean civilizations 
+ to the asian dynasties and the warcheifs. if you got good graphics i suggest you try asian dynasties. 
+ tush ut aclia menton 
+::::::
+
+::::::
+UserName: phazon78
+Rating: 4.3
+Date: Apr 21, 2006 4:06 pm PT
+Review:  Oh geez. I really don't like to talk sh*t about a game with so much potential. It's just something 
+ I have to do so that nobody else wastes any of their hard-earned (or otherwise.) money on an abysmal 
+ piece of crap like this.
+  
+  Gameplay: 4
+  I'm being generous with this. The only reason I gave this a four, was because at least you could 
+ control the units. Just, not ver well... AT ALL! I've seen retarded bricks with better pathfinding 
+ than your fresh-out-of-special-education troops you control in this game.
+  
+  Graphics: 4
+  Sure, the screenshots may look nice, but when you see them in action any thought of enjoyment that 
+ may have run through your mind dribbles out like milk in a two year old's mouth. The foot soldiers 
+ don't look so much as people as they do some sort of vermin you would find in the devoid-of-anything 
+ environments you see in this game.
+  
+  Sound: 6
+  Just enough so that you can tell what's going on.
+  
+  Value: 7
+  Easily the high point of the 
+ game. With selectable options on the skirmish mode, this gives you plenty of options to play with... not 
+ that you would want to.
+  
+  This is a classic example of a game with potential smashed to bits by a developer who wanted to 
+ make a buck off somebody else's error. For that, they can burn in hell. 
+::::::
+
+::::::
+UserName: blazethe1
+Rating: 8
+Date: Jan 2, 2006 1:20 pm PT
+Review:  ive played command and conquer since the playstation was popular, and my dads friend recommended 
+ this game to us. we played it online with him once or twice, and over all i do believe this game 
+ is worth alot more than what gamespot gave it. just think, command and conquer red alert, but: 
+ less "cartoony" and more realistic weaponary. a few of the sounds, like the beep type buzz that 
+ is suppost to mean "holy crap theres a nuke coming" can get kind of annoying. this game was acctually 
+ much better than given credit. unlike command and conquer, when a unit is destroyed, the body, 
+ or exploded car sits there in ruin.... until you scroll off screen, then they dissapear. 
+::::::
+
+::::::
+UserName: Breadcleaner
+Rating: 2.4
+Date: Nov 9, 2005 5:46 pm PT
+Review:  This game sucks. Under no circumstances, shall you even CONSIDER buying this game. Got it? Good. 
+ I mean, its only positive point was that it featured the voice of The gunny. I love the gunny, 
+ and just thought "Hey, if its good enough for the gunny, its good enough for me!". WRONG! Oh well, 
+ at least I had some fun watching it explode in my microwave. I hate this game. Although it was 
+ kind of fun to drop nukes on civillian buildings. He he he he... God, I hated this game. I pray 
+ that who ever thought this game was a good idea to make, be struck in the head by a flying ninja 
+ star. And then the ninja would kill him and do his secret ninja teleportation dance, and get the 
+ hell out of their. And then this mystical ninja would give me a Dr. Pepper and we would wail on 
+ our guitars and totally sound freak'in awsome. Period. 
+::::::
+
+::::::
+UserName: the_GUNN_man
+Rating: 1
+Date: Sep 23, 2004 12:46 am PT
+Review:  This game just flat out sucks. The cd case that is holding it is worth more then this hunk of garabge. 
+ I mainly bought it because of R. Lee Ermey was on it. He didn't help at all. I can't even come 
+ with enough to get my minumum word quota. I didn't get any kinda od guide with mine. Don't think 
+ that would help though. Rather then buy this game I would go give your money to a bum on the street. 
+ At least you would feel better about where your money went. This game is just so akward I could 
+ not get the hang of how everything was supposed to work. I need to go take my blood pressure medicine 
+ because thinking of the money I wasted on this is making me dizzy. 
+::::::
+
+-------------------------------------------------

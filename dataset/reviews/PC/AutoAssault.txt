@@ -1,0 +1,1613 @@
+-------------------------------------------------
+:::Game Name::: Auto Assault
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/autoassault/review.html
+-------------------------------------------------
+:::The Good:::
+ Interesting setting for an MMO.
+ Combat is more interesting than typical MMO combat.
+ Features low-riding thugz that use bass as a weapon.
+-------------------------------------------------
+:::The Bad:::
+ Lack of players makes forming groups tough.
+ Lack of a death penalty means never having to care if you're going to live or die.
+ Cookie-cutter quest design gets old fast.
+ Technical glitches really get in the way.
+-------------------------------------------------
+:::Date::: Apr 27, 2006
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.2
+Critic Score: 7.2, 37 Review (s)
+User Score: 7.3, 569 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: NCsoft
+Developer: NetDevil
+Genre: Sci-Fi Online...
+Date:     Apr 13, 2006 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Auto Assault has potential, but that potential is buried under layers and layers of problems.
+
+  On the surface, Auto Assault seems like an entirely different type of massively multiplayer online 
+ role-playing game. Instead of running around with swords or laser pistols, you're a postapocalyptic 
+ car, armed to the teeth and armored for protection from all sorts of mutants, scavengers, rogue 
+ militiamen, and so on. As you get deeper into it, though, Auto Assault reveals itself as a pretty 
+ standard MMORPG. Like most games in the genre, it's addictive. And the tweaks and the setting itself 
+ help make it feel different. But it also has a series of problems that really hold it back.  
+
+ 
+          Auto Assault is a slightly different take on the MMORPG genre.     
+
+  The biggest change that Auto Assault makes to the genre's typical formula is its combat. Rather 
+ than just press an attack button and watch the fun while firing off the occasional spell or special 
+ skill, Auto Assault makes you think more about your car's position while you're fighting. That's 
+ because your main methods of attack are a front-mounted weapon and a turret that rotates atop your 
+ vehicle. And you don't just hit an attack button and watch the shots fly back and forth. Instead, 
+ you actually hold down a fire button to start firing your weapons. The game draws a few arcs on 
+ the screen that represent the range of your weapons, and when you get an enemy in those arcs and 
+ hold down the fire button, the game starts rolling a ton of theoretical dice against your stats 
+ to determine if your shots miss or hit, and how much damage is done. There's a bit of skill involved 
+ in keeping your enemies in front of you when you're engaging in direct combat, though not all of 
+ the classes in the game specialize in such direct methods.  
+
+  There are three different races here. The humans have only recently resurfaced onto the contamination-covered 
+ planet after locking themselves in massive arks and bombarding the planet in an attempt to cleanse 
+ it. The mutant race is very spiritual about things, and it uses the contamination to heal itself. 
+ The biomeks were once the human race's front line of combat against the mutants, but after all 
+ the pure humans locked themselves away and left these cyborgs to die, the two factions don't really 
+ get along very well. That leads to player-versus-player conflict in the middle of the world map, 
+ but you don't really get to see that until you've reached the upper end of the level cap.  
+
+  Each of the three races has four classes. They all have different names, but the four classes 
+ fill similar roles for each group. There's a warrior-style class designed for direct frontal combat. 
+ You tend to have a ton of hit points and plenty of skills focused on dealing damage, as well as 
+ skills focused on taunting enemies to attack you instead of any weaker allies in your convoy. The 
+ engineer (or constructor or shaman, depending on your race) class serves as a healer and is also 
+ able to resurrect broken vehicles. The mastermind (or archon or lieutenant) class is your pet-handling 
+ class that engages in combat indirectly by sending various robots or creatures out to do battle. 
+ The fourth class is a stealth class. As you might expect, all of the various classes have their 
+ ups and downs, and some of them seem better suited to survive than others, though survival isn't 
+ actually too important in the grand scheme of things.  
+
+          Why buy a mount? Auto Assault gives you a car right at level one.     
+
+  There's no 
+ real death penalty in Auto Assault. When you run out of hit points, your car blasts apart and you 
+ can either wait to be healed by another player or get an airlift back to the last repair station 
+ you visited in that zone, which more often than not, isn't really very far. This encourages exploration, 
+ but at the same time, you never really feel any tension from the battles. Win or lose, it almost 
+ doesn't matter. If you have enough hit points, you can complete many quests by driving into a cluster 
+ of enemies, ignoring all of them except for the ones you need to eliminate for the quest, and killing 
+ them until you die yourself. Then just get an airlift out, repair for free at any of the healing 
+ pads placed around the repair stations, and drive back out there to kill a few more, if you have 
+ to. We spent most of our time as a human commando and rarely had any trouble taking care of quests 
+ without help from other players. Only a few of the game's boss-type characters required some extra 
+ help.     
+
+  Even though there are some benefits to be had from teamwork, it's a good thing that you don't always 
+ have to rely on help from others in Auto Assault, because the servers really aren't very populated. 
+ The game's four servers are usually listed as "very low" population, though one of them occasionally 
+ gets up to "low." Even still, outside of the main low-level city area where people are always trying 
+ to sell crafting materials, seeing other players can be something of a rarity, which helps to give 
+ the game its barren, postapocalyptic feel. In fact, each one of the zones is instanced to prevent 
+ any one of them from getting overpopulated. But considering how little of the game feels "massive" 
+ or "multiplayer," the monthly fee to continue playing beyond your first 30 days seems awfully hard 
+ to justify. Save for the large player-versus-player area that you can get into after grinding your 
+ way to the top, this game could have easily worked under the Guild Wars model of strictly instanced 
+ areas and no monthly fee.  
+
+          Overlapping quest goals means that you might have two or three quests at the same time 
+ that ask you to kill the same type of enemy.     
+
+  The quest design doesn't help shake this feeling too much. While you'll encounter handfuls of different 
+ factions out there to fight against, almost every quest seems to boil down to killing a specific 
+ number of a certain type of enemy, killing specific enemies until they drop a specific number of 
+ items, driving around a series of waypoints, or running around town to deliver items. The towns 
+ in the game are awfully dull, and you're taken out of your car when you're there. Since you don't 
+ really customize the look of your player after creation, all of the players look roughly the same 
+ in town, and they don't look very good. Aside from going there to get quests or craft items at 
+ a crafting station, there's very little reason to remain in a town for very long. But since questing 
+ is still the best way to earn experience points (despite a few spots where there didn't seem to 
+ be many quests available for players of our level) , you'll quest like crazy.  
+
+  You'll often get rewards for completing quests. The most common reward is money, but there's also 
+ equipment to earn. You outfit your vehicle with a handful of different items. In addition to the 
+ turret and front weapons, you can also get a rear weapon, like an oil slick or a land-mine dropper. 
+ Armor protects you and raises your defense. Your power plant determines how much power you'll have 
+ for your skills and how much heat your weapons can take before they overheat and stop firing. An 
+ ornament slot acts much like a slot for an enchanted necklace would in a fantasy-themed RPG. Tires 
+ determine your handling on different surfaces. And your hazard kit is used at higher levels as 
+ a sort of super-move that's different for every race.  
+
+  Though much of Auto Assault puts you in a car, this game doesn't really control like a driving 
+ game. You'll use the typical set of MMO game controls to drive around, and they work well for controlling 
+ the action. The car movement is good enough, but it's not very exciting on its own. The cars bounce 
+ around, some of them flip over more frequently than others, and so on. But you're never going to 
+ mistake the driving in this game for the control you'd get in an actual driving game. The physics 
+ in the game are reasonably good, and you'll spend a lot of time blowing apart abandoned buildings 
+ and watching parts of them fall as you scavenge for crafting materials.  
+
+  The crafting in Auto Assault is interesting, though it also seems like it's awfully extraneous 
+ through much of the game, as you're constantly earning and finding new and better equipment as 
+ you quest. Instead of actually making items from scratch, crafting starts with you repairing broken 
+ equipment using items like duct tape, polymers, rubber, radioactive material, and tons of other 
+ salvaged material that drops off of enemies or pops out when you shoot up abandoned buildings. 
+ When you fix an item, you have a chance to memorize that item, which lets you make another dozen 
+ or so of them before you "forget" how to build them from scratch. It's not very intuitive, but 
+ once you get the hang of it, it's pretty easy. You'll have to choose which crafting disciplines 
+ to become proficient in and work your way down a crafting tree until you choose a master discipline. 
+ Other aspects of the crafting let you improve the items you create via experiementation, and if 
+ you can't find the proper broken items to fix, well, you can break the items you have with the 
+ reverse engineering skill. The crafting seems like the sort of side project that would become more 
+ useful in the end-game, but along the way it doesn't come off as a very key part of the game.  
+ 
+
+  The game also has its share of technical glitches that impact its looks. This is unfortunate, because 
+ the car models and the environments generally look great. Granted, it's mostly a series of postapocalyptic 
+ areas with a lot of burned-out buildings, but they all look great, especially in higher resolutions 
+ with antialiasing enabled. Unfortunately, the game seems to have some sort of memory-leak issue 
+ that causes frame rates to sink over time. If you spend a long time playing the game in one sitting, 
+ it seems like your frame rate eventually sinks into single digits, making the game barely playable 
+ until you quit and restart to fix it. Things like weapon effects and explosions are all done pretty 
+ well, but with the problematic frame rate, the whole game is a little hard to look at.  
+
+          With some extra time spent on fixing its technical issues and providing more varied quests, 
+ Auto Assault could have been much more.     
+
+  The sound has similar problems. Sometimes sound effects seem to randomly cut out or just not play 
+ at all. Motor noises are extremely subdued, and you never really get a good sound of your tires 
+ driving on different surfaces, so there aren't any squealing tires, loud skids, or anything like 
+ that. Also, the game would have definitely benefited from a little speech. Without it, your time 
+ spent in the towns is practically silent. Just some sort of "oh, hello there" when you activate 
+ a quest-giver would have really gone a long way to giving the towns a little more personality. 
+ Also, the music in the game is often quite good.  
+
+  Auto Assault certainly has a lot of potential. But in its current form, that potential is squandered 
+ with repetitive quests, technical glitches, and a complete lack of challenge from most of the environment. 
+ It still has the same addictive nature that most good MMOs have, though, so if you're an MMO player 
+ looking for something new that you'll only really need to play during the first free month before 
+ moving on to something else, Auto Assault will scratch your itch.     
+-------------------------------------------------
+:::User Reviews::: (50 Reviews)
+::::::
+UserName: dustout
+Rating: 7.3
+Date: Mar 13, 2007 4:25 pm PT
+Review:  I picked up auto assault for cheap at EBgames, and very much enjoyed my time playing. Then my time 
+ ended and i just didnt feel like it was worth paying $15 every month, i would much sooner play 
+ WoW for that much money. Ultimately i think that if they lowered the price to $5 a month then i 
+ would be willing to continue my membership... but definatly not $15 a month.
+  
+  Ascide from that i had no issues with anything about the game, i had many good times killing bosses 
+ and such. Ohh and you should become an enginner if your a clan person, and if your more of an independant 
+ type of person then i'd reccamend going for commando. Those are both human race classes, but they 
+ should have similar names in the other races. 
+::::::
+
+::::::
+UserName: Grinch123456
+Rating: 8.4
+Date: Feb 14, 2007 10:46 am PT
+Review:  ==Synopsis==
+  The very first thing I thought when I first heard about this game is The MMO people are running 
+ out of ideas. This can't possibly good. Boy was I wrong!
+  
+  The graphics are quite good. The gameplay is very fun. The music in the game is some of the best 
+ I've ever heard. However, the game should not be 15 dollars a month (officially) . Luckily, it's 
+ being pennied out (price cut, essentially) across the nation. The collector's edition is roughly 
+ 10 dollars depending on where you look (Best Buy I believe has it for around that price) . 2 month 
+ timecards are also hovering around 15 in retail stores. All in all, an extremely fun game that's 
+ certainly worth the price in regular brick-and-mortar stores.
+  
+  ==Gameplay==
+  Gameplay is a extremely similar to Interstate 76 and 82 (much older games from the 90's) . Race 
+ around, fire your weapons, boom. You have several mounting points: A Front Weapon, a Turret Weapon, 
+ a Rear Weapon (mine droppers, etc) , a Melee Weapon (blades to ram with) , a Power Plant, Ignition 
+ (the keys to your car) , Armor, and an Ornament (hood thing, like on Jaguars except gives buffs) . 
+ It's mostly point, click, and hold down the firing button. Simple, but suprisingly fun.
+  
+  You can buy new cars as time progresses, from motorcycles to buggies to vans to semis and even 
+ tanks, this game has tons of chasses (cars) . Cars can furthermore be tricked out with glowing scoops 
+ and spoilers so you can rice your tank if need be. All in all, what can be customized has a great 
+ depth to it.
+  
+  Skills are things that, once used, can damage your enemy, heal/buff you, or passively buff you. 
+ They are gained with levels.
+  
+  ==Graphics==
+  Graphics are simplistic but effective. A moderately powerful computer is needed to run this game 
+ (9800 Pro/GeForce 6600 or better) . The only problem is the inclusion of PhysX. It absolutely demolishes 
+ lower end computers. Havoc Physics would have been a much better choice.
+  
+  ==Sound==
+  Absolutely stunning. The music is one of the greatest scores ever crafted. The sounds of the machine 
+ clanking away are meaty and crisp. Absolutely stunning.
+  
+  ==Value==
+  Auto Assault is a fine game, but surely not worth the 15 dollars per month NCSoft wants for it. 
+ Luckily, retail stores have it for pennies on the dollar. I would go there and pick up lots of 
+ timecards while still possible. The Collector's edition is roughly 10-15 dollars and comes with 
+ a fine headset and some other things. A great buy for something that was once 80 dollars.
+  
+  ==Conclusion==
+  One of the best MMO's I've played, Auto Assault is surely worth your hard 
+ earned cash. Addicting but entertaining, you never once feel like you're grinding to level 80. 
+ It's all fun all the way through.
+  Maybe I'll see you there! 
+::::::
+
+::::::
+UserName: usshaddon
+Rating: 7.7
+Date: Jan 29, 2007 1:36 pm PT
+Review:  This is actually a good mmorpg, its that after playing it for hours you will kinda of get tired 
+ of driving. Now im a big fan of mmorpgs, but not really much into racing games, so thats why i 
+ gave this game a semi-bad review for it. The graphics are pretty good just like the sound quality 
+ that it has too. The gameplay is fun, but not too adictive like a regular mmorpg. This is a good 
+ game to buy because its really cheap, lol, you can buy it at bestbuy for at least 10 dollars, at 
+ gamestop it might be like 20 or 30 though. This is a good mmorpg, but if you don't like driving 
+ cars around for long periods of time then this game isn't for you. 
+::::::
+
+::::::
+UserName: Blue_GundamRX78
+Rating: 6.3
+Date: Jan 16, 2007 10:56 pm PT
+Review:  While leveling from 1-80 Auto Assault is a blast. Truely Auto Assault continues to deliver through 
+ each and every quest. The game is a ton of fun. Up until level 80, that is. Once you hit level 
+ 80 the fun of this game comes to a crashing hault. Now you no longer have anything to do. You can 
+ PvP constantly, but that gets boring after awhile and if you're like me and hate PvP in pretty 
+ much every MMO then you have absolutely nothing at all to do. I played AA for over a year in beta 
+ and over six months after launch. I had a ton of fun leveling up, there's no doubt about that, 
+ but then I hit level 80... and I had nothing left to do. When I did log on I simply drove around 
+ and shot at a few random NPCs that logged off again shortly after. Soon I stopped logging in altogether, 
+ and soon after that I simply quit. I've been reading the coming updates for AA but I have yet to 
+ see any worthwhile level 80 PvE content added into the game. I truely want to get back into this 
+ game, I truely want to enjoy it again, but it's just not possible... There's nothing to enjoy past 
+ level 80.
+  
+  AA is one of those few games that's actually a blast to level up through. Through that point the 
+ game is amazing, truely a masterpiece. But once you hit level 80, well, you may as well quit the 
+ game. There is truely an end game here because once you hit level 80 that's it; there's no more. 
+ No more fun to be had, no more adventures, no more danger or action. Nothing. I truely hope that 
+ AA has some wonderful level 80 PvE content added into it to make this game great. There's no doubt 
+ that, with a little work, this game could be one of the best MMORPGs on the market. It just needs 
+ work. But I don't see the Devs willing to do this work. They really don't seem to know what to 
+ do anymore. They clearly had big dreams, but those dreams fell through and now they're lost. If 
+ you want a change of pace from the normal MMO Auto Assault is a great game, it's totally unique 
+ from any other MMO that I've played combat-wise, and even leveling-wise. But don't expect to be 
+ able to play this game for a long time, AA has no long-term gameplay value. I'm afraid it doesn't 
+ have much of a long lifespan at all.
+  This game needs help desperately if it's going to survive to see its first birthday. 
+::::::
+
+::::::
+UserName: torq2112
+Rating: 8.3
+Date: Nov 4, 2006 7:32 pm PT
+Review:  I picked this game up thinking it would be so-so. I figured I would get about 20-30 hours of fun 
+ out of it. Boy was i wrong! I've been playing this game for over 4 months now and I find it very 
+ addictive. Not WOW or Everquest addictive, but fun nonetheless. The only gripe I have is that yu 
+ seem to plateau around level 20-25 and again at 40-45. seems to take a loooong time to get to level 
+ 30 from 20. nearly twice as long as 10 to 20. But overall a good game. I wish ncsoft would drop 
+ the monthly to $10 instead of $15. But that's just my opinion.... 
+::::::
+
+::::::
+UserName: cartmanstein
+Rating: 7.7
+Date: Jul 2, 2006 8:01 pm PT
+Review:  My hopes were once high for autoassault. Over the last 2 years, the game always looked like it 
+ could grow into something amazing, for this is actually an MMO thats not an RPG. Sadly, the makers 
+ of this game takes all that potential that I thought it once had, and was overlooked and kinda 
+ broke it in half I guess. Both the super-duper action combat and the RPG elements manage to very 
+ mediocre, and theres just not really a whole lot that compelled me to this game. Autoassault is 
+ built almost exactly as an MMORPG, except you spend most of the time in your car. You'll accept 
+ quests from miscellaneous NPCs, hunt for enemies to gain EXP points and various loot in the wilderness, 
+ and get new skittles and powers when you lvl up. Whats makes this game unique is that instead of 
+ riding a mount or some dat medieval crap, you're in a car. About damn time somebody did somthing 
+ wit cars that didn't suck COMPLETELY. Even though it SOUNDS pretty cool, (who wouldn't want to 
+ play an MMO version of Twisted Metal?) the doesn't really draw the gamer anywhere close to the 
+ ZONE, which is when you haven't seen daylight for a LONG time because of games. The thing with 
+ the action side of this is that the whole strategy is targeting an enemy and holding down right-click 
+ to keep on firing while using yer skittles to keep on truckin. I know what alls yalls be thinkin. 
+ "This is the same goddamn thing that MMORPGs use!" Well, unlike most MMORPGs, it gets very very 
+ very very very very very boring after about an hour. There is a customizable character option, 
+ but thats kinda pointless cause your in your car the whole friggin time. Certain areas and encounters 
+ look pretty darn good if you have a decent graphics system on your computer. The whole RPG side 
+ is perfection with a fairly coolass crafting system and extensive playa vs playa framework. On 
+ the bad side, you won't be able to stop and talk with your friends cause your always gonna be moving 
+ or doin sh! t. If you stop to flirt with some chick playa, than your gonna be an easy target, and 
+ people will kill you before you have the chance to ask her out. Sooooooooooo when somebody kills 
+ you, a helicopter comes by to pick you up to take you to the garage to get you fixed. Even still, 
+ theres nothing actually broken about Autoassault, it just gets boring at times. Although what really 
+ turned me off to this game was that there was none to play with!!!!!!!! Except of course higher 
+ lvl people than me that I can never beat, so I can never lvl up. Overall, its okay its just not 
+ worth $15 bucks a month. 
+::::::
+
+::::::
+UserName: RebelILL
+Rating: 9.3
+Date: Jun 25, 2006 9:26 am PT
+Review:  This game is NOT the same as your typical MMO! If your into games like Guild Wars where the action 
+ is slowed down and you sit and watch it this is not your game. But if you like a bit of RPG flavor 
+ and fast-paced intense action this game will take your soul
+  
+  Difficulty: Due to the lack of a death penalty it really does not matter if you die or not because 
+ a plane will come and drop you off at a repair facility. It does suck however when your so involved 
+ in combat that you dont realize that your are about to die and then a popup appears saying that 
+ you crashed! Also when your almost dead and you use health power ups that SUCK! Seriously who needs 
+ a 5% health increase that takes two minutes to use?
+  
+  Learning Curve: The driving controls take a while to get used to, and the game has a complicated 
+ craft system that takes a while to get used to
+  
+  Gameplay: Imagine if you will the game Mercenaries in its level of chaos, Twisted Metal in controls 
+ and weapons, and Diablo 2 in the number of enemies huddled up into towns. This game plays amazingly 
+ 
+  
+  Graphics: The graphics look bad when you start playing but as you play, you start to get used to 
+ the look and feel of the game
+  
+  Sound: The music is o. k for a MMO but Auto Assault lacks in this department. The sound effects 
+ tend to be weaker than what you would have wanted them to be and NPCs have no voices. This makes 
+ the towns feel barren, but thats ok thanks to the games post-apocalyptic setting
+  
+  Value: This is a great game yes but, a monthly fee!? If this game was in the field of World of 
+ War Craft that would be ok
+  
+  Overall I give this game a 9.4/10 
+::::::
+
+::::::
+UserName: THEBUDDHAMAN
+Rating: 8.8
+Date: Jun 20, 2006 4:51 pm PT
+Review:  When I first saw Auto Assault, I thought, wow a car combat mmorpg. And I decided then and there 
+ I was going to buy it. Now, I just got it 2 days ago because funding was off, but wow am i suprised. 
+ After all the terrible reviews I read about it, i thought about not getting it. But I did and i 
+ love it. I love the combat, and the fact that the havok physics engine is used. I'm using a weapon 
+ now that is basically a flak cannon from unreal tournament. I absolutetly reccommend this game 
+ to anyone whose tired of all the regular mmorpgs out there and want something different. Anyways, 
+ go get this game if you like combat, plus most of the bugs have been fixed thanks to daily patches 
+ and updates to the game. 
+::::::
+
+::::::
+UserName: JoelHH
+Rating: 5.2
+Date: Jun 13, 2006 2:46 pm PT
+Review:  The first thing that caught my eye when I saw auto assault was being able to drive around in cars 
+ and shoot stuff. This puts together two of my favorite gaming genres: Racing & Shooters. So I decided 
+ to give this game a go.
+  
+  Getting into the game takes some time. Having played games with stellar graphics and superb menus, 
+ it took awhile before I was fully use to the layout of the game. Once that was overcome, it was 
+ still hard to fully enjoy this game. The driving was pretty good, but there was no real sense of 
+ amazing speeds and some of the jumps were a little too unrealistic. The sounds that the vehicles 
+ make are pretty weak as well.
+  
+  Something that was entertaining was the amount of enemies that would spawn. In any given location, 
+ there would usually be tons of enemies to attack. This made the game fun, but sometimes this was 
+ a little too overwhelming and it made it too hard to know where everything is.
+  
+  The quests in the game were, for the most part, simple shoot 'em up style quests. When you talk 
+ to someone, they would normally want you to go and take something out or to go talk to someone 
+ else about something. These sorts of quests were fun at first, but start to lose their flair once 
+ you've done around 100 of these.
+  
+  There is also content where you can exit you vehicle in towns. The graphics here aren't that great, 
+ and are especially awful on the character running animations. Even trying to move the character 
+ is somewhat of a chore since the character does not always seem to more in a flowing sort of motion. 
+ If done properly, this aspect could have really added to the gaming experience.
+  
+  Auto Assault looked like a good game from the box cover, but once you sit down and play it there 
+ really isn't much to it. It could have been put together so much better and made it at least worth 
+ the monthly fee. If you like cars and you enjoy blowing stuff up your satisfaction will not be 
+ quenched by this game. 
+::::::
+
+::::::
+UserName: ministerpaul
+Rating: 1
+Date: Jun 11, 2006 6:15 pm PT
+Review:  Unfortunately a sucker is born everyday and surely one was born on March 5th, 1971 after purchasing 
+ Auto Assault. Having not played Auto Assault yet I question the deceptive packaging which fails 
+ to notify the buyer just how expensive playing this game would be. The idea of pay per play does 
+ not fancy most gamers who already pay enormous fees for high speed internet among other monthly 
+ bills.
+  
+  Hearing that there is few players is now surprise as I read the dissapointing reviews pointing 
+ out the many bugs in this game. Auto Assault should rethink the expensive fees it charges monthly 
+ for player to simply play the subpar game. I would understand if this game was in the same arena 
+ as World of Warcraft. But this game has been an Assault on my intelligence and all serious gamers 
+ on a budget. 
+::::::
+
+::::::
+UserName: Mutly
+Rating: 4
+Date: May 28, 2006 12:31 pm PT
+Review:  Okay, when i first stumbled onto the Auto Assualt website in a drunken stupor i looked at all the 
+ details and thought "wow! thats gonna be a brilliant game"..... deary dear me.....
+  
+  So, a while later (once more in a drunken stupor) i stumbled onto the website and thought "Aha! 
+ a free trial" much rubbing of hands in a gleeful manner and all that. logged on, created my rather 
+ ininspiring character (having played CoH, this wasn't the best i'd ever seen) and jumped straight 
+ into the training area. Now, bearing in mind its a DRIVING game, you'd think there'd be at least 
+ a half decent control system right? wrong. It was very clunky and felt, to be perfectly honest, 
+ like one of miniclip's latest games. 
+  
+  The sound fares no better, and even with the full graphics pack downloaded and installed, the graphics 
+ are uninspiring to say the least. 
+  Please, if you have a holiday or a weekend with nothing to do, download the free trial and have 
+ a bit of fun bashing a car around at a high speed, but don't pay for the game. It could of been 
+ great, and maybe some major changes to the whole **** will make it the good game it could be but 
+ when will developers stop doing a lucasarts with their games ?
+  
+  Aaah well, it was a fun few hours, but thats all. 
+::::::
+
+::::::
+UserName: Coronatus
+Rating: 7.8
+Date: May 25, 2006 1:13 pm PT
+Review:  Auto Assault can be pretty much described as City of Heroes in fast, pimped out cars. Basically 
+ you race through a devastated landscape shooting everything you encounter along the way or just 
+ try to escape it by driving as fast as you can if you don't feel like fighting. However, in most 
+ cases you will fight since the game does a good job at teasing that blood thirsty little beast 
+ dwelling inside of each of us.
+  
+  You progress through the game the same way you do in World of Warcraft, by solving missions. In 
+ fact, that will be your one and only way of gaining experience at all. The XP dished out as mission 
+ awards is huge compared to the puny XP you get for killing. However, as I already said, the game 
+ does a good job at teasing your inner blood hound, so you'll just find yourself rampaging through 
+ outcast trash settlements just for the sake of it more often than you think.
+  
+  The roleplaying part suffers though. Roleplaying while sitting in a car is dorky at best, plus 
+ the game is far too fast paced to give people even a chance to put any thinking into deploying 
+ roleplaying speech. There are towns which you explore as your avatar, outside of your vehicle, 
+ but due to a complete and utter lack of /emotes you'll find it hard to roleplay there.
+  
+  The servers are quite empty and a /who * rarely shows a number consisting of three digits. Perhaps 
+ wait some more time until you join. However on the other hand people who sign up for a longer time 
+ period by subscribing using a 6 month recurring payment method automatically get rewarded by better 
+ item drop chances.
+  
+  All in all Auto Assault is a nice game for people who like it fast, furious and don't care about 
+ a story or reading at all that much. Login, destroy everything you see, maybe solve a few missions, 
+ then logout again with your thirst for destruction quenched. That's what Auto Assault does... nothing 
+ less. And nothing more. 
+::::::
+
+::::::
+UserName: snackdaddy
+Rating: 4.8
+Date: May 18, 2006 9:38 am PT
+Review:  I played beta MANY MANY months ago and I couldn't stand it. I was hoping, as it got closer to gold, 
+ it would prove to be far less buggy. Sadly retail appears to be just as problematic. The game felt 
+ chunky overall graphical issues also plagued my ATI card. I was looking for something special, 
+ something with a nice new edge and some innovation. All this title did was fall short, very short.
+ 
+  Maybe NC Soft can score with Tabula Rasa. Auto Assault was a BIG miss for me. Don't buy it; I'd 
+ even skip over in the used game bin. Bad NCSoft bad!
+  
+::::::
+
+::::::
+UserName: joblinger
+Rating: 8.4
+Date: May 6, 2006 9:13 am PT
+Review:  I spent my first night reading the fictional backstory posted on the autoassault website -- totally 
+ got into it and went out and bought the game the next day. I love the post-apocalyptic setting, 
+ role-playing and drving around in a car blowing everything up with my machine gun. Just love that 
+ idea.
+  
+  On the other hand, I didn't particularly like that you could never run out of fuel or ammo (in 
+ most cases) . The explanation was brief -- in the future, nobody needs fossil fuels any more. It 
+ feels like I'm missing out on all the Road Warrior-type quests that this could have created in 
+ the game. 
+  
+  In addition, a lot of the vehicles do not look like what would be left after an apocalypse. It 
+ feels like some of the rust, grittiness and similiar look to today's vehicles is missing. I guess 
+ I'm just fixated on the idea of Mad Max and "... the last of the V8-Interceptor's." To be fair though, 
+ once I actually started trying a few out, they did have the sound, look and controls that felt 
+ right.
+  
+  In a slight bit of a tangent, one area of puzzlement is where exactly, in what's left of the United 
+ States, is the setting. Perhaps that is revealed later in the game, but it would've been more immersive 
+ I think to get a sense of that from the battered street signs or rusted billboards.
+  
+  Other than that I had an absolute blast blowing through some derelict town and cutting down some 
+ Pike rebels, upgrading my vehicle and just discovering all the areas in the game. I'm now 10-12 
+ hours into it, and I think I'll probably being playing for another month; beyond that I'm not sure 
+ the game will keep me hooked via a monthly subscription fee.
+  
+  
+::::::
+
+::::::
+UserName: Darcius
+Rating: 5.3
+Date: May 6, 2006 12:39 am PT
+Review:  I didnt have the pleasure of playing the full beta or paying to join the beta. 
+  but i did get a chance to join in on the weekend event they held which was a total of about 4 or 
+ so days.
+  
+  i fould the story line quite catching and enjoyable. and the game it self fun . but thats all i 
+ really enjoyed. 
+  
+  for a game that boasts about being one of the best mmogs due out, its suprising lacking in many 
+ areas 
+  
+  the few i did find are. the graphics are justplain bad. for a game using newer graphics it was 
+ like loading up a game from the early 1990s the textures sucked. and there are many little bugs 
+ still in the game. 
+  
+  as well for a game which puts you in a car about 99.9% of the time there is no ingame music. no 
+ radios to blare while driving or anything, just the wind rushing by and the sounds of weapons going 
+ off
+  
+  though the map (s) are very large and inticing they lack really any ambiant the trees dont move 
+ "when you find some non-mutated trees" as well the monsters dont really make any noise or idle 
+ action besides walking around
+  
+  i had hoped for more customizations on cars and people, but there is really not alot to do. you 
+ can paint your car fancy colours and put metal plates on it but they dont do any thing. 
+  
+  you would think having tire gaurds and tail fins your car would get more speed or defence but it 
+ doesnt
+  
+  over all its not that bad. if you like a grinder with meh graphics
+  
+  the monthly cost seems alittle steep for it though, but thats just my opionon
+  
+  if you didnt 
+ like CoH/CoV your not going to like this one. as its a clone of CoV only altered to be cars instead 
+ of super heros.
+  
+  all i can say this game has going for it. is the 80% totally destroyable terran and the fact you 
+ get to speed around in wicked looking cars 
+::::::
+
+::::::
+UserName: AlexWade
+Rating: 7.5
+Date: May 5, 2006 3:28 pm PT
+Review:  Was Tina Turner the only thing you didn't like in Mad Max? Ever wanted to blow stuff up? Ever wanted 
+ a MMORPG where you never had to worry about dying, just worried about having fun? Ever wanted to 
+ ram your car into a building just to watch it fall down? Then Auto Assault is for you.
+  
+  Of all the MMORPG's that I've played (not many) , AA is the most fun. Some MMORPG's are long and 
+ drawn out, hard to level, and worse emphasize not dying over having fun. Really, I could spend 
+ all day just driving through the neighborhood running over stuff and blowing it up. Since it always 
+ respawns, you can do it again and again. If you die, well you had fun and that is all that matters!
+ 
+  
+  AA does have its glitches. When travel to a new area on the map, the whole scene changes and there 
+ is ALWAYS a delay. Unless you seriously dial down the graphics. For that, my graphics score is 
+ very low.
+  
+  It is a little hard to get in, but that isn't too bad as it makes the reward more worth it. It 
+ has a lot of depth overall, though the mission and story lines are shallow. 
+::::::
+
+::::::
+UserName: FrostyGoat
+Rating: 9.3
+Date: May 4, 2006 1:27 pm PT
+Review:  I'm going to take some time to actually make the Gamespot review a bit more accurate, along with 
+ a few of my own thoughts.
+  
+  [QUOTE="Jeff Gerstmann"] The Good: Interesting setting for an MMO; combat is more interesting than 
+ typical mmo combat; features low-riding thugz that use bass as a weapon. [/QUOTE]
+  
+  Wheres the metion of a prettty dang deep crafting system most MMORPG's dont offer? Wheres the thought 
+ of the fact that this game has some of the if not the best written storylines (Humans are the exception 
+ needing some work not much though) .
+  
+  [QUOTE="Jeff Gerstmann"] Each of the three races has four classes. They all have different names, 
+ but the four classes fill similar roles for each group. [/QUOTE]
+  
+  Basically it sounds alot like to me that he says they are all the same thing basically. Or at least 
+ he dosn't state the fact that they aren't. Sure each race may have a Healer type class, thing is 
+ they all play fairly different. Sure all of them get three different pets, and a few other skills 
+ that are similar to others. However they will all play alot differently, as alot of skills aren't 
+ like the other races.
+  
+  [QUOTE="Jeff Gerstmann"] Win or lose, it almost doesn't matter. [/QUOTE]
+  
+  Here Jeff was talking 
+ about the DP (Death penalty) . Reason for this being is because the game isn't meant to feel like 
+ a grind. Which is what happens when you get XP Debt in like City of Heroes & Villains. Or in WoW 
+ how you are weakened and alot of times cant some close to killing guys you were before you died.
+ 
+  
+  [QUOTE="Jeff Gerstmann"] almost every quest seems to boil down to killing a specific number of a 
+ certain type of enemy, killing specific enemies until they drop a specific number of items, driving 
+ around a series of waypoints, or running around town to deliver items. [/QUOTE]
+  
+  What freaking MMORPG isn't like that!?! Thats basically all the others have. However there are 
+ Escort missions also, and one or two not in other games. Also the funny thing is, if you "Read" 
+ the quests they are interseting and typically make them fun to do. The Biomeks and the Mutants 
+ have very superbly written out quests you will find, and even better are the Story Arcs.
+  
+  [QUOTE="Jeff Gerstmann"] The crafting in Auto Assault is interesting, though it also seems like 
+ it's awfully extraneous through much of the game, as you're constantly earning and finding new 
+ and better equipment as you quest. (Goes on to more about it till concluding with this. "The crafting 
+ seems like the sort of side project that would become more useful in the end-game, but along the 
+ way it doesn't come off as a very key part of the game. " [/QUOTE] 
+  
+  This here shows how little time he spent trying this. The crafting is the deepest you will find 
+ in just about any MMORPG. The fact that its not all useless like in WoW when I was playing that, 
+ its better. Unlike WoW how you can't make anything usefull for yourself, thats not true here. If 
+ you spend a decent amount of time tinkering around with building your craft, and repairing broken 
+ items, you will find yourself with very usefull armor. The fact that you can also break your stuff 
+ down and add enchaments/and or gadets (gadgets come with the item or they dont) allows you the chance 
+ to make it even better. Though Jeff at least knew this bit. Simply put the crafting rules.
+  
+  [QUOTE="Jeff Gerstmann"] We spent most of our time as a human commando [/QUOTE] 
+  
+  If he 
+ actually went out and played with the other factions a whee bit more then he did, assuming he did 
+ try the others even a slight bit he outta know half the stuff he dosn't. Also if you bother checking 
+ out the forums or just talking to others on the game you would know that basically everyone else 
+ knows Humans are basically the newbie class. They are the easiest, and the race most lacking in 
+ gameplay from the others. The terrian is all the same basically, not that entertaining storys, 
+ etc. Not saying they suck or anything however.
+  
+  ------------------------
+  
+  Anyways at the current time being yes the population is really low. You won't find much more then 
+ 80ish to a hundred tops guys on a server during high times, except Breakdown who gets a little 
+ more and will read as "low" population. However those that do play the game are all very helpful 
+ for the most part and a great deal of fun to convoy (term for teams) with. Being in a good clan 
+ however is key to really enjoying this game I feel. Clans add alot of fun and X number of buddys 
+ whom will all have your back. I've seen this in every clan I tried out.
+  
+  Graphics and the havoc engine rules! If Jeff thinks the graphics and sound are choppy, he needs 
+ a dang new laptop/computer. I don't get any of that stuff here, sorry pal. 
+  
+  Another key point of this game is PvP, which may be a little rough but its also very addicating 
+ and fun. Well from what I hear all the newbie humans own Ground Zero (the middle place of the map 
+ where factions fight in the open) , however there are the OCD guys in town whom you speak to, to 
+ use a arena. Here you can randomly join a match or a tournament. Head on head, or teams it your 
+ pick. PvP here even lets you face those on different servers, not just your own. 
+  
+  The game is a very new and fresh hold on the MMORPG genre. Ya sure it may be like any other MMORPG 
+ at the core, but its crust is done in some very fun and unquie new ways. Most notiacble is the 
+ combat system. This acutally requires skill and a bit of thinking if you want to prevail to the 
+ top. The medals you can earn for doing crazy stuff like getting so much air/hang time off jumps 
+ is sweet, and theres alot! of medals to get. Killing 100 to 1000 or more certain type of enemys, 
+ completing story arcs, etc.
+  
+  The only thing this game needs is the Auction house and Respecs we should be getting by the end 
+ of May. Some of the bugs in it to be ironed out too would help. The bugs are nothing more then 
+ little annoying, nothing game altering by any means. the Devs have let us know there are alot of 
+ features coming out trailing in behind the finish line that didn't make it to launch. However as 
+ they get some bugs ironed out we will be seeing alot of new context, and this game shall shine 
+ brighter then it did before. Its also a very smooth launch game, as I've been playing it since 
+ two days after launch. Alot of MMORPGs were unplayable with daily long roll backs for a month or 
+ two after launch.
+  
+  Strap on that seat belt, and hit those roads mofo!!!
+  
+::::::
+
+::::::
+UserName: Turbo2076
+Rating: 8
+Date: May 3, 2006 9:56 am PT
+Review:  I'm gonna keep this short and sweet. This game is very good, and VERY addtictive!
+  
+  I have to disagree with the GS review about it not being a big deal if you die because there is 
+ no death penalty. It IS a pain in the butt when you are in the middle of trying to kill a certain 
+ NPC to finish a mission and you die and have to go back to the last repair station that you used. 
+ And if that happens to be on the otherside of the map, then you have to hike it ALL the way back 
+ to the mission area!
+  
+  Other than that, the game is a real blast ( no pun intended) ! 
+::::::
+
+::::::
+UserName: ZafoPL
+Rating: 5
+Date: May 3, 2006 7:15 am PT
+Review:  I gat excited at this game first hoping to get "Twisted Metal" MMORPG style.
+  After painful installation (i had to have 10 gig of free space when game takes only 5) i got to 
+ creating character.3 races to choose but only difference is how they look and name of the classes 
+ rest is pretymuch the same. There ar 4 standard classes: typical fighter , typical crafter , typical 
+ mage and typical stealth type guy. Look of the chars is one off the ugliest i ever seen in mmo 
+ so i just chose random (car design ar nice thou) and went to game play. After short tutorial (short 
+ is good) i started to kill thigs which was fun for first hour then i went to look for some quests.90% 
+ of them ar "go there and kill 10 of those" type wich is not to exiting. Only thing i liked about 
+ that game is that half of battle depends on your aim and driving skills so you can take on enemys 
+ whit higher lvl if you feal up for it.
+  Point for originality for this game but to bad the good ide was so horribly wasted After Guild 
+ Wars and Lineage 2 i was expecting much more from NC soft.
+  Waste of money and time if you ask me , ther ar beter games out there. 
+::::::
+
+::::::
+UserName: garanz
+Rating: 8.1
+Date: May 2, 2006 5:37 pm PT
+Review:  Definate change from the same old dragons and goblin mmo, which is sooo played out. game runs great, graphics 
+ are excellent. my opinion people are turned off by this game is because it is NOT a dragons and 
+ goblin smashing game. the game has sum issues but it was just released. in my opinion this game has 
+ huge potential and if they stick with it and add new content regularly, patches etc. it has the chance 
+ to be a great game, also i beleive people are turned off by this game because they cant get used 
+ to being in a vehicle and not seeing your character often like so many other mmos do, but i give 
+ NCsoft props for always jumping in and trying sumin totally different then the same old thing 
+::::::
+
+::::::
+UserName: blkshp1
+Rating: 5.2
+Date: May 2, 2006 9:20 am PT
+Review:  I played this for a while and have to agree with that other guy, the missions got old thying to 
+ complete an area, and having to do missions way under powered so you dont have to go back was not 
+ good. The grafix were a bit glichy and I have a wicked machine. Over all some of the space type 
+ mmo's are way more advanced in game setup, and there should almost be some trade involved so when 
+ you are cookin across country you can earn some more cash. Most of the stuff you pick up is worthless 
+ and then the stuff you build isnt much better. But driving around causing total carnage is always 
+ fun. 
+::::::
+
+::::::
+UserName: eaglesoft
+Rating: 8.1
+Date: Apr 30, 2006 9:03 pm PT
+Review:  Yeah call me sick and disturbed, like many other posts on this forum, I went into the game saying 
+ I am going to regret it, I wanted to say to the people out there in mmorpg. com, dont waste your 
+ time on this one (hell I even bought the collectors edition so I could get really pissed at myself) .
+ 
+  
+  Guess What?
+  
+  I Like It I cant believe it!!!?!?!?!
+  
+  There must be something wrong with me to like this game. It goes to show you, you can never tell 
+ till you try. In the 1st 15 minutes of the game, I said, yep, this game sucks, but for some reason 
+ I kept pressing on and found out, I started liking it. 
+  
+  Anyways, just thought I share my results as well.
+  
+  My mmorpgs now consists of DAoC, Anarchy 
+ Online, Eve and now Auto Assault! LOL
+  
+  I still cant believe I like this game... ROFL
+  
+  This game might noy be for everyone, but if your skeptical about the game. Find a friend with 
+ a Trial Key. Then you will know.
+  
+  PS. Running over NPC Mobs and smacking them into buildings is excellent, especially when you hit 
+ a NPC Character (not vechicle) they go flying in the air. Buildings collapsing and vechicles on 
+ fire.. ROFL woohoo.. ok.. enuff of that.. nvm
+  
+  Blood and all sorts of **** all over the place, no wonder why it got a TEEN rating.
+  
+  Reminds 
+ me of Grand Theft Auto Online. I still havent figured out the crafting, so I got a **** load of 
+ upgrades and cant even figure how to equip them.
+  
+::::::
+
+::::::
+UserName: zethcarn22
+Rating: 2.8
+Date: Apr 30, 2006 3:55 am PT
+Review:  NCSoft rushes another project for a quick cash-in. They have proven time and again that they care 
+ more about bringing in loads of cash then providing a high quality game. This company is utter 
+ crap!! 
+  
+  The game is fun for about 2 hours then it's the same mission-crap that maybe 3% of the people will 
+ bother to read over and over and over again, just like City of Heroes. This game is actually a 
+ great idea but HORRIBLY executed. I was hoping it would be the next Eve Online... but what a joke. 
+ 
+  It's really like you are playing and paying for a beta, this game is so unfinished. 
+  
+  If people keep buying this crap they will keep making it, unfortunately. 
+::::::
+
+::::::
+UserName: vishisluv7
+Rating: 8.3
+Date: Apr 29, 2006 8:42 pm PT
+Review:  
+  Rank: 60/100 Rank: 60/100 Rank: 60/100 Rank: 60/100 Rank: 60/100
+  
+  Registered: 1/08/06
+  Posts: 55
+  
+  I said to heck with it and went to the store and bought 
+ AA. I loaded it up ready to be dissappointed, since I've been jaded, and felt ripped off by all 
+ but a few MMOs in my day.
+  
+  Let me tell you, AA is the first MMO I have actually had FUN playing. I mean real fun. The physics 
+ are great, the cars and graphics are nice (as long as you have anti-aliasing) , and g-dammit, this 
+ is just plain ol blast 'em, blow stuff up fun!
+  
+  I unlike some, really like the no death penalty set up, since some classes would be screwed with 
+ an xp loss. I made a bounty hunter (my fav) , a Commando, and a Constructor so far. All are really 
+ fun. i died many times on my non-warrior type toons, but like I said, no biggie, you heal up, and 
+ head back out.
+  
+  The controls are great, very intuitive.
+  I like how you have so many options on how to be set up. for example, you can choose emphisis on 
+ speed, defence, or offence. Then you can also choose between three settings like faster firing/less 
+ accuracy, vice versa, or more defense, greater crits.
+  
+  Lots of huge, and I mean, huge jumps, variety of mobs, and weapons.
+  
+  The loot; My god the 
+ loot! This game is a crafters dream. It does have a pretty high learning curve as far as crafting 
+ goes, I was completely lost for a while (still not 100% sure) . But its really fun to learn.
+  
+  I know I haven't gone in much depth for some who may be considering AA, but as a jaded MMO'er (I'm 
+ looking at you DDO, thats right, hang your head in shame Turbine) , this is just a good time, fun 
+ as hell. Explosions, gunfire, 100MPH speeds, jumps, super deep crafting, heat shimmers, I could 
+ go on..
+  
+  If you are on the fence, my advice is buy this game, and spread the word. NCSoft has done a crummy 
+ job advertising it, because the population is low. But AA blows many current games out of the water 
+ fun-wise, and I want this game to make it. Buy it, love it, blow sh1t up, and have a blast!
+  
+  7 Thumbs up! 
+::::::
+
+::::::
+UserName: wiggywiz
+Rating: 7
+Date: Apr 28, 2006 11:05 am PT
+Review:  This game is growing on me, but it does have a load of technical issues that to this day I cant 
+ see how developers of these games leave out
+  
+  First off, the chat and party interface is circa 1997. No options to move the windows apart, set 
+ colors for incoming messages, change the fade in and fade out of the boxes. Its terrible and this 
+ goes back to most NC Soft games where they spend little time on the interface.
+  
+  Right click hold down is shooting, so in order to rotate the camera you have to use the middle 
+ mouse button. 
+  
+  Thank god the game auto aims
+  
+  The graphics are sub par, but thats ok. Movement and combat is clunky, but its passable. 
+  
+ 
+  The quests are alright, but the worst think about this game is the lack of community. The towns 
+ are instanced, and it would have been better to be able to leave your vehicle in OUTDOOR towns 
+ to talk to people and trade.
+  
+  Housing is grossly unexplained, and much the game still feels like a beta test. Crafting is a mess, 
+ but can be learned if you go online to read about it.
+  
+  Still it has a draw to it much like Earth and Beyond did. But hte loot itemization and the way 
+ drops work is really too random and makes no sense. The sound in this game is TERRIBLE. Some sounds 
+ are too muted, others are too loud. Very clunky. Weapons are sub par and boring to listen to
+  
+  many people have come here to inflate the review and honestly have an agenda because they either 
+ hate other MMORPG's or they havent played that many to compare. But this game is a very run of 
+ the mill quest game that you have to pay a monthly fee for with very little payback. Guild Wars 
+ Factions has much more to offer right now if you want a new NC Soft title.
+  
+::::::
+
+::::::
+UserName: reidn
+Rating: 9.3
+Date: Apr 28, 2006 8:25 am PT
+Review:  I was a beta-tester for AA, and this review is based on my experience of the beta just before release.
+ 
+  
+  Basically, this game is the anti-WoW. WoW is about social interaction, long drawn out fights, and 
+ basically just running around in a pretty world while chatting with your buddies. This is fine 
+ if this is what you want. Personally, I found the whole experience extremely tedious.
+  
+  Enter AA. 
+  No travel times between cities: Just click a button and you are there.
+  Fast movement 
+ outside of cities: I never spent more than 5 or 10 minutes trying to get anywhere.
+  Diablo-style item system: Some ex-Diablo designers worked on this game, and it shows. If you liked 
+ the item system (which was castrated in WoW) , you will love the item system in AA.
+  Deep and interesting crafting system: The crafting system works in part because the item system 
+ is so great. This is the best crafting system I've seen in a game yet.
+  Deep and interesting fast-paced combat: Enough said.
+  
+  So basically, this is an MMO that is 
+ all about the gameplay. I've been waiting for a diablo-style MMO for a while, and this is the closest 
+ thing I've found yet. If you want a game that is more about interesting combat and character customization 
+ and less about tedium and forced social interaction, this game deserves a look. 
+::::::
+
+::::::
+UserName: zankine
+Rating: 9.3
+Date: Apr 28, 2006 1:14 am PT
+Review:  This MMO has is one of victims of the large selection of games out there. It is a fabulous game 
+ that is one of the smoothest games I have played this close to release. 
+  
+  I'm not into cars, but this game is good enough to make that unimportant, it's great to customise 
+ your vehicle so that you can run over people better, and shoot at a greater distance. The game 
+ is smooth, the graphics are phenominal. There are some bugs that have yet to be worked out. if 
+ you pick it up and like playing with other people keep an eye open for a more populated server. 
+ 
+  
+  I give this game my highest recommendation. It's worth playing. As a wise man once told me, "if 
+ it gets old after a month of game-play that's still better than most of the console games I'd buy 
+ this month." So definitely worth checking out. 
+::::::
+
+::::::
+UserName: eddt
+Rating: 10
+Date: Apr 27, 2006 12:41 pm PT
+Review:  I know that a lot of people don't like the game, and have issues with the gameplay and lots of 
+ other things. Don't get me wrong, it does have problems and glitches and bugs that need fixing 
+ - I can't imagine any game that has ever been released that didn't have those things. But looking 
+ beyond that, once in a blue moon a game will effect you, as a player, and will infect you to keep 
+ playing it. For me, this is that game.
+  
+  It's a lot like a really stupid movie that, despite your better judgement, and despite what everyone 
+ else says, you really like. And so you will continue to watch it on your director's cut DVD, regardless 
+ of how many of your friends think you're a dork for doing so. For me, that movie is "Krull", and 
+ the game that fits into the model is AutoAssault. 
+  
+  It's just FUN. I like driving around and blasting the crap out of the environment and mobs. I like 
+ getting missions to drive around and blast the crap out of specific things for some semblance of 
+ "purpose". I like the complicated crafting. 
+  
+  This game just feels good when I rub it on my limbic brain. I am hardwired to play it, always have 
+ been. So I will do so until they switch off the last server and call it quits. 
+::::::
+
+::::::
+UserName: smurth
+Rating: 4.2
+Date: Apr 26, 2006 10:16 pm PT
+Review:  Like any recent MMORPG, Auto Assault seems to be about kill, kill, kill and then get better equipment, 
+ repeat. There is no death penalty so dying is just an easy way to get back to HQ. Unlike most MMORPG, 
+ the combat requires you to constantly attempt to aim and shoot .. this gets pretty frustrating. 
+ I did not see any point in grouping, nor did I easily see a way to even do so. However, I am not 
+ a FPS fan and do like EQ2, so this may just not be the game for me. I am sure there are fans of 
+ worlds set in post-apocolyptic times that love to immerse themselves in the Mad Max world that 
+ may like it. 
+::::::
+
+::::::
+UserName: Zzyn
+Rating: 9.2
+Date: Apr 26, 2006 8:28 pm PT
+Review:  Great new taste for an MMORPG! Many things to do, deep creafting system, TONS of quests, blowing 
+ things up, PvP.. Its all there. There are a number of features that didn't make it right at release, 
+ but based on the posts from the devs many great things are on the way. It completely normal for 
+ an MMORPG to release with a number of features still 'in the pipe' and I look forward to seeing 
+ them!
+  
+  The loot drops are extremely varied. You never what what you'll get, and even better, you always 
+ know that there is very little chance that anyone else will ever have the exact same thing. The 
+ loot variance alone makes this a keeper for those that love that kind of thing. 
+::::::
+
+::::::
+UserName: jayman291
+Rating: 2.9
+Date: Apr 25, 2006 10:20 pm PT
+Review:  There is nothing new or revolutionary about this game, just a bunch of old and tired concepts thrown 
+ together in a crappy MMO. The graphics are nothing new and very blah. The UI is very awkward and 
+ combat is just awful (not even close to Twisted Metal if you were expecting that) . Sound bugs reminiscent 
+ of the MxO helicopter sound bug (remember how annoying that was?) and the overall sound and music 
+ is just plain terrible. There's pretty much no character/car customization. The car designs are 
+ boring and bland. I think that's about it. If you like this game, umm why? 
+::::::
+
+::::::
+UserName: Ghost777
+Rating: 8.4
+Date: Apr 26, 2006 9:54 am PT
+Review:  This game is one of those conundrums for me. As a MMORPG it is not very good. The content and feature 
+ set are not rich enough to warrant spending 15 a month and yet I have no problems doing so. As 
+ a player that has played this genre since UO came out I have come to expect certain things in modern 
+ games. WoW specifically has blown it for me in terms of what I look for in a modern MMorpg. 
+  
+  First lets tackle my two main gripes one of which has been confirmed to be in the works. There 
+ are no auction houses in the game but this will be implemented or so I heard. That isn't that big 
+ of an issue for me. My main true gripe is no way to mule in the game save trusting someone big 
+ time or getting a second account set up as your transferee or mule in general. There is no way 
+ to mail your alts any money or items. Some may say that is good as some view twinking as an evil 
+ deed. I'll concede to your point on twinking in general but a lack of mailbox also prevents you 
+ from sending a friend an item they can use. 
+  
+  A good example that I agreed with on their forums was a guy that found an item and had to go on 
+ vacation. His buddy was not on at the time of his last outing so he was never able to send him 
+ the item. When he got back his friend had outgrown the item but could have really used it. It would 
+ have saved his buddy an hour or so of game time because of faster kills do to greater accuracy 
+ and higher dps.
+  
+  Those are in terms of me wanting to play very minor gripes. Even though I do not want to if they 
+ never implement a mailing system I may just plop down for another account. Thankfully I can afford 
+ it but alot of people are not as privileged as me. I am currently spending a hundred bucks a month 
+ to game with friends when they log into their appropriate MMorpg. My actual time is split between 
+ Dual Boxing Wow and AA. When friends log on I'll start up my Stormreach, EQ2, SWG or RF Online 
+ account but those only get played maybe 10 hours a month at most. It's a small price to pay though 
+ if it lets me chat with friends and have fun when they are halfway across the world or on the other 
+ side of the states. I'm in Cali btw.
+  
+  Now for why I can't stop playing this game. It's one of my favorite movies of all time in game 
+ form. MAD MAX BABY YEAH!!!!!!
+  
+  No other game allows such wanton destruction. Drive around, run people over, blow up buildings, 
+ ram cars it does not get more fun. Add on top of the giddy factor a rich and deep profession structure 
+ and you have what can be a very good game. Unfortunately what is there seems more akin to a single 
+ player / LAN capable game than a mmorpg. This game is Interstate 76 for the modern masses. Unfortunately 
+ for this game comparison wise, 76 was a single player game with multiplayer capabilities. And even 
+ as mmorpg lite as it is I still don't mind paying for 6 month lots of game time. Grrrr what gives 
+ is there mind control beams coming out of my monitor for this game?
+  
+  Another great aspect of this game is its loot. I love the loot in this game. The loot is what brings 
+ me back to my original gripes. You WILL get loot you cannot use on the current chassis/class. The 
+ only way to sell it to others is to go to each major hub and spam its sale or just vendor it for 
+ far less money. Unless you get lucky and sell it quick you actually make more clink faster by playing 
+ not by selling to other players. Also there will be times you have multiple toons just to try each 
+ class/race out. They are all fun when played the way they are supposed to be played with some minor 
+ variances. You can play any class like a warrior class but they will no be as effective.
+  
+  Well I gotta get my AA fix in. Dang this game. I do not want to play but I love it at the same 
+ time. This is one of those games that truly does grow on you. Unfortunately there are no free trials 
+ and the beta is over. Unless you can play on a friends account I really don't know if I can recommend 
+ this. If you don't mind gambling 50 bucks then please try this out. If you do plop down for the 
+ LE and find a presell box. COMPUSA is selling them for 20 cents I think it was. EB may be handing 
+ em out and Bestbuy sells it for 10 bucks but then you can just use that 10 bucks towards actual 
+ purchase of the game.
+  
+  This game has a lot of potential but I know not all can afford a gamble on if they like it or not. 
+ 
+::::::
+
+::::::
+UserName: yongja
+Rating: 7.7
+Date: Apr 25, 2006 7:49 am PT
+Review:  The games setting makes it stand out of the recent mmo games, with the post apocalyptic world reminding 
+ me of Mad Max. The gameplay is fast paced, enjoyable and relatively easy to pick up. It seems to 
+ be geared much more to the casual gamer rather than the hardcore ones and so far there has been 
+ little need to team with any other plays at all. 
+  
+  Whether there is enough content to hold a player's long term interest remains to be seen. Several 
+ key elements seem to be missing, such as a way to sell items to other players in an organised way. 
+ Which is a great loss considering how involved the crafting system actually is. There also seems 
+ to be gaps in content and bugs that stop players from completing certain quests. Luckily as an 
+ online game most of these can be sorted out. How quickly these fixes and extra content appears 
+ will decide whether this game goes down as a great game or one that had great potential but went 
+ no where 
+::::::
+
+::::::
+UserName: Paraclete
+Rating: 9.4
+Date: Apr 24, 2006 12:53 pm PT
+Review:  As you can see from the other reviews, this is one that hits the heights or depending on your personality 
+ the rocks pretty quickly. If you are the type of person who wants a Solo friendly game, one that 
+ has fast driving skills and also a very in depth crafting system this is the game for you.
+  
+  I'm the WOW type who enjoys the PVE environment and Auto Assault deliverers an outstanding 
+ mission based solo playing experience. Not to say you can't group, because you can. You can also 
+ though take on PVP if you so inclined as well.
+  
+  The crafting experience is great fun, allowing you to customize your vehicle to suit your personality. 
+ Frankly the game so far has all the right "fun" things that the great MMORPG's have. I couldn't 
+ help but to reflect back to my first experience with DAOC, it feels the same. You can chart your 
+ own path, customize as you like, explore some fairly big zones and it passes the fun test. It's 
+ one of those games that you think about at work. :)
+  
+  If you're expecting just a twich shoot, fire and forget game you probably won't like it, but give 
+ time to get adjusted to I think you'll have this on your hard drive for awhile. 
+::::::
+
+::::::
+UserName: emoslayer
+Rating: 8.4
+Date: Apr 23, 2006 10:27 pm PT
+Review:  Recently I contracted a virus which causes me to become obssessed with MMORPGs. This was given 
+ to me through WoW. When I bought, installed, and played Auto Assault, it got even worse! 
+  
+  Cheesiness aside, Auto Assault is a joy from the start. Graphics are better than expected from 
+ an MMORPG, and the sound is superb. Gameplay is great, especially with friends. The greatest addition 
+ to the MMORPG genre is Auto Assault's built-in voice chat. It makes communtication a lot easier, 
+ as typing can become a bore. *yawn*
+  
+  Overall, Auto Assault is a great game, and if anyone says it sucks, they can go play Guild Wars! 
+ 
+::::::
+
+::::::
+UserName: g0dsd3vil
+Rating: 8.7
+Date: Apr 23, 2006 3:07 pm PT
+Review:  Auto Assault is the newest MMO on the list, and is supposedly the "fastest and most destrcutive 
+ MMO ever". Fortunately this is the fastes MMO ever played as well as the most destructive. However, 
+ at its current state, there are a LOT of minor bugs that need to be repaired, but as we can see 
+ from experience, all MMOs start off with many bugs that eventually get patched up. The graphics, 
+ are astounding if you have a very high end video card and Motherboard/CPU. The car detail is amazing 
+ as well as rag-doll effect and shading/lighting makes this the most visually advanced MMO up to 
+ date. The sound, is perhaps the weakest point in the game. The starting theme of the game is rather 
+ dull and boring. The menu sounds fit in nicely, but the lack of depth in weapons sound and the 
+ like bring the overall sound quality of the game. 
+  
+  Lets start off with gameplay. As we know Auto Assault is an Massive Multiplayer Online game. However, 
+ this is the first game to take a different approach and actually use cars as your main form of 
+ combat in the game. Presumabely, first timer games usually ... well they usually suck. However, 
+ this game actually brings in the grim twisted car combat of Twisted Metal, and mixes it with its 
+ own MMO quests and cities etc, to bring you one f**cking hell of a game. Right when you begin the 
+ game you are given fun quests to drive around and kill mobs etc. The firing and whatnot are simplified 
+ to let even MMO newbies work things out on their own accord. In fact, the most difficult thing 
+ about Auto Assault is the crafting. 
+  Crafting is the process of taking broken items (armor, weapons) and using raw material to fix them 
+ to use on your car. Most items you will obtain will be broken, and crafting is a necessity. At 
+ first, you will be creating low level items, mostly repair kits et cetera and after levelling your 
+ crafting, you will soon be able to experiment by adding unique parts to your weapons that would 
+ help you in PVP. Crafting may sound difficult at first but, sooner or later everyone will get the 
+ hang of it
+  Next comes the levelling. Each time you level (which is not as often as most MMOs) , you will be 
+ given attribute points and skill points. There are four attributes you can upgrade: Combat, Tech, 
+ Theory, and Perception. Each will help you in a specific area. Skill points are basically used 
+ for helping you achieve what you need. For example, some skills improve your accuracy et cetera. 
+ 
+  There are three races and 4 classes for each race in Auto Assault. Biomek, Mutants and Humans are 
+ the three races. Each race consists of a tanker, a buffer/debuffer, a stealth and a PET. 
+  And now, is where the problems begin. Firstly, the quests are usually too easy for anyone to think 
+ of making a group to quest together. That is a problem because that takes the whole multiplayer 
+ portion from an MMO. However, eventually quests do start to get difficult, but even then it seems 
+ to take a while before finding a suitable convoy (group) to quest with. Most people will be busy 
+ playing in the PVP arenas where all the races fight to death.
+  Overall the gameplay is extremely fun, but many bugs and the lack of having a buddy to help you 
+ on quests, knocks it back.
+  
+  Next is the graphics. This is the first MMO to use dynamic shadowing as well as lighting. As well 
+ as the car detail and the destructible environments are dazzling. You can literally run and blow 
+ down buildings and cars just for pure entertainment purposes. Ofcourse to be able to achieve the 
+ best visual standards, your graphics card must be extremely high end. Fortunately the developers 
+ of the game let even people with decent computers run the game on low/medium settings. Therefore 
+ even us who have rather crappy computers will be able to run it fine on a lower setting. Overall 
+ graphics are top-notch
+  
+  Sound is the least attractive of the 3 with some really good pros, but also some cons. Firstly, 
+ the ambience is a turn down as it can get boring as well as repetitive. The weapon sounds are amazing, 
+ but the lack of variety makes it seem boring after a while. The actual driving and destructive 
+ sounds are the best in the game, and just having the feeling of hearing a building being blown 
+ to pieces by your slug cannon can make your day. Sound is good, but can be impoved on by far. Sometimes 
+ you may realize that sounds are mssing in places.
+  
+  In conclusion, Auto Assault is a great game with tons of fun to be had. For 59.99 (canadian) as 
+ well at 14.99 per month, (first month free) it is hard not to pick this one up and just give it 
+ a try. Definately worth you rmoney if you would like to have a great mix between an MMO and a driving/shooting 
+ game like Twisted Metal 
+::::::
+
+::::::
+UserName: D1rty_Dawg
+Rating: 9
+Date: Apr 21, 2006 3:10 pm PT
+Review:  I have been playing this since the first beta a year and a bit ago. It made a very nice change 
+ from the normal 'fantasy' themed MMO's that have been around since EQ started.
+  
+  The first thing that grabs you when you start to play is that the enitre world is destructable. 
+ You can damage and destroy absolutely anything and everything. It does make the whole experience 
+ a lot more realistic.
+  
+  The look and feel of the game is very nice. Turn up the detail and it all looks lovely and is very 
+ pleasing on the eye. The sound is atmospheric as well and helps a lot with the overall ambience 
+ of the game.
+  
+  From here on though this is just another MMO where you have to work your way through missions, 
+ killing and collecting stuff all the while levelling up and buying better stuff for your car.
+ 
+  
+  There is a nice break from the driving around and bashing stuff, you can go to the town areas and 
+ meet and chat and buy and sell stuff etc in a FP view where you wander around on your own tow feet.
+ 
+  
+  So in closing, this is nothing extra-ordinary that is going to blow you away but if you like playing 
+ MMO's and want a refreshing change from the norm then it could be well worth checking out. 
+::::::
+
+::::::
+UserName: DimitreusX
+Rating: 6.5
+Date: Apr 19, 2006 9:29 pm PT
+Review:  Pros:
+  -Fun to drive the vehicles around. Great physics engine helps with that.
+  -Environments are nice enough looking for the designed pacing of the game. Things being destructable 
+ helps make travelling more fun.
+  -The ability to change where you place your 'power.' You can choose a portion of speed, defense, 
+ or offense depending on your situation.
+  
+  Cons:
+  -There is a distinct lack of customizability to the weapons and armor. There are only 3 weapons 
+ slots along with a few slots for wheels, armor, and such. It just feels like there could have been 
+ more customizability, particularly in weapons.
+  -All the pros get old after about a week of playing
+  -The crafting doesn't have anything particularly 
+ interesting about it. It's desirable to do only because it allows you to get weapons and armor 
+ you can't normally get. 
+::::::
+
+::::::
+UserName: Mada_Nniuq
+Rating: 8.7
+Date: Apr 19, 2006 5:04 pm PT
+Review:  Pros:
+  Lots of vehicle and character customization options
+  Many weapons and upgrades
+  No penalty for death other than going to a repair station
+  3 Races and 4 Classes to choose from
+ 
+  Fast-paced MMO with surprisingly no lag
+  Reliable Server Status, unlike WoW
+  Clans
+  Well-designed characters, vehicles, and plot
+  Good vehicle control, isn't too arcady but it isnt 
+ Forza Motorsport either.
+  Battles are fun, keep you entertained
+  Decent PvP system (similar to City of Heroes/Villains but a little better, more people go to the 
+ Arenas and PvP areas)
+  
+  
+  Cons:
+  Complicated Crafting System
+  Many technical problems, but you can get past those
+  $15 a month
+  First levels and areas are 
+ boring
+  Not a whole lot of players unless you're on the Human race. 
+::::::
+
+::::::
+UserName: Shadow-Phax
+Rating: 5.8
+Date: Apr 19, 2006 12:29 am PT
+Review:  I played Auto Assault and it is fun for a couple of weeks. Maybe it can entertain for a month. 
+ I mean it's just driving and shooting. I can do that in GTA: San Andreas plus I can get out of 
+ the car and do a lot of things. It's a major disappointment.
+  
+  When you do get out of the vehicle, theres a limited amount you can do. You can buy, sell, train 
+ and modify hardware with tech skills. You can get lessons on these skills at different garages. 
+ Thats all well and good but its pretty boring after a while. 
+  
+  Another boring thing is there is no single player campaign. What the developers call single player 
+ isnt really single player. They say single player is not joining a group or interacting with other 
+ online players. But there is no true single player. You have to be logged in to play the game in 
+ the first place. Thats a pure rip off. 
+  
+  They could have made a better game if you didnt have to log in to play the single player mode. 
+ They could have simply let the player get the game and go against the games AI opponents. But 
+ no they want their monthly fee. Its a major rip-off for an action game. Most action games have 
+ single player as the main component and optional online play.
+  
+  Recently Ive been playing GTA San Andreas and it shows that a single player game can give you 
+ so much to do, you dont need multiplayer.
+  
+  
+  
+  
+::::::
+
+::::::
+UserName: krow_xxvii
+Rating: 7.7
+Date: Apr 17, 2006 8:08 pm PT
+Review:  I beta tested this game for quite a while. I really enjoyed the first 15-20 hours that I played 
+ it. It's a good feeling when you have a weapon turret on top of your car and you drive around blowing 
+ stuff up. Was really fun.
+  
+  The basis of this game: you are stuck in a vehicle during nearly the whole duration of the game. 
+ Almost every quest you do you are inside your vehicle.
+  
+  I like the story-line and enjoyed a lot of the things I did in the game. After the 10 levels, though, 
+ I got sick of questing. I got bored. The only motivation to continue playing the game was to get 
+ enough "clink" to buy a new vehicle, and even then, after I did get a new vehicle, I was bored 
+ immediately afterwards.
+  
+  I must say that I felt this game was a welcomed change from FFXi and WoW, but I ran into the same 
+ problem in Auto Assault that I ran into with WoW.... too much questing for my taste.
+  
+  When you get a little ways into the game and you get to your first city, as soon as you enter the 
+ city, you notice a very ugly character model with sticky and limited movement. Reminded me of old-school 
+ 2D games. Bad camera movement in city.
+  
+  The graphics outside of the cities are acceptional to great, and the sound effects are pretty good.
+ 
+  
+  This game offers something that I have never experienced in other MMOs: I get to drive a car and 
+ blow stuff up. So if you enjoy questing and driving a cool looking car that packs a punch, then 
+ give this game a try. 
+::::::
+
+::::::
+UserName: Kaladon
+Rating: 8.8
+Date: Apr 17, 2006 9:42 am PT
+Review:  Auto Assault is for the individual who wants to come home from a hard days work, and feels like 
+ letting his/her agression out, yet still wants the feel of developing a character (or in this case 
+ a car) from the very humbling beginnings to a very exciting endgame.
+  
+  Auto Assault has many things going for it, and few against. In the world of post World of Warcraft, 
+ it is very difficult for an MMO game developer to compete. The inevitable comparisons arise, but 
+ lack because people do not realise games are different. 
+  
+  This is no exception with Auto Assault. This game takes the MMO and breaks it! With the emphasis 
+ on car combat, this game breathes new life into the market. Now the alternate for Fantasy MMO's 
+ isnt just sci-fi gun shooting games. The market now has one more choice. 
+  
+  This game is just a blast to play. Despite the ordinary bugs every launch mmo has, this game is 
+ surprisingly solid. Most MMO games dont even allow you to play the first few days because of issues. 
+ The game steady increases in fun as you play. the first 9 lvls are somewhat of a bore, but after 
+ ten, more of the game opens up, and more options become available to your car. I think people should 
+ give more time to this game, and give it a chance. after getting into a clan, and grouping with 
+ voice chat, the game is very entertaining.
+  
+  All in all i really hope this game takes off and survives. I feel after a month or two the inital 
+ small issues will be worked out, and then they can consentrate on the things really needed. Like 
+ a auction house! ;)
+  
+  So if you in the mood for something different and/or just want a game where you can start out fresh 
+ and be involved with something new really give this a try. 
+::::::
+
+::::::
+UserName: silpherx
+Rating: 8.8
+Date: Apr 16, 2006 8:57 pm PT
+Review:  THis game is fun and addictive. The gameplay is original. unlike other mmorpgs, you actually have 
+ to move around and aim for combat. storyline is soso- but there are many quests to do and little 
+ to no grinding involved (unlike L2, RFO, etc) . If you're looking for a mmorpg that involves more 
+ than a few clicks here and there for combat, auto assault is for you. Anyone remember interstate 
+ 76? this is the updated version, online style. Some things like arena and pvp needs more work, 
+ but they should be better by the time people top out levels. CHeck this game out! 
+::::::
+
+::::::
+UserName: sastra1978
+Rating: 9.4
+Date: Apr 16, 2006 7:30 pm PT
+Review:  What a rush! Just played through a 3 hour session of AA. 
+  
+  A very refreshing change to a stagnant stable of MMOGs... I started to hear about this game last 
+ year. I was little worried with feedback from the beta testing. But after playing the game for 
+ the past 2 days, I can say that I am glad I bought it.
+  
+  Fully destructive environments, deep crafting, skill based systems are some of the features of 
+ the game. That coupled with a weather generation system, great graphics and the Mad Max experience 
+ I could not ask for more.
+  
+  After playing many MMOGs this game is actually fun. The learning curve is about 30-60 minutes. 
+ 
+::::::
+
+::::::
+UserName: _Margulis_
+Rating: 4.8
+Date: Apr 15, 2006 11:48 pm PT
+Review:  Its fun for about 2 weeks then you'll find the gameplay will get way to repetitive even for an 
+ MMoRPG. If you thought other MMorpgs where repetitive stop reading here because this thing basically 
+ is the same from level 1-80 with a few changes to gameplay. About level 5 you get a front weapon 
+ which will make you aim the front of the car towards the bad guys and about level 12 you can get 
+ a melee weapon which you can use to ram bad guys with, also there are rear weapons that you'll 
+ probly never use. Whats supposed to be the big carrot is the level 40 hazard mode but it takes 
+ so long to charge you probly won't use it often inless you just want to pwn a boss or kill some 
+ one quickly in the arena. Thats about the only diffrences from level 1-80 besides that you can 
+ pick from fast firing or slow firing, multi shot or single shot guns only thing is is that everyone 
+ knows fast firing multi shot weapons are the best. Questing is probably the most repetitive aspect 
+ of the game since basicaly there is only 1 type of mission which is the "kill this many and collect 
+ this many from them and deliver them to that guy" kind of missions and since they developed the 
+ game so that questing was the fastest way to level it gets boring fast, plus all the quest text 
+ is about the same anyway so if your looking for a good story just go to the AA website and read 
+ the Lore because none of its in the game.
+  
+  Crafting is pretty deep but there is no in game economy yet so your pretty much crafting for yourself 
+ or your clan, plus crafting is very time consuming and isn't something stays about equal to your 
+ level so alot of the time you find your self crafting things lower than your level. Random loot 
+ generation is about the only addictive aspect of the game, its pretty fun to find the same guns 
+ but with diffrent stats (just not fun enough to stick around) . Car and character customization 
+ is near zero (you will look like everyone else from you class you just might be blue and they'll 
+ be red) , plus cars look about the equivalent of hotwheels. The hazok 2 physics engine could have 
+ been used better, cars drive like they where taken from some budget racer for little kids, Ragdolls 
+ just slump instead of flying way or getting stuck on the front of your car when you run over infantry 
+ (mostly because when you hit them it doesn't register as a hit and they just phantom threw your 
+ car) , and you can't even smash threw buildings if you try to your cars just going to bounce off 
+ in less you fire at a building and drive thew it as its falling.
+  
+  Plus this games so easy its mindless, there's absolutely zero challenge here. You can get from 
+ level 1-80 with very little to no challenge. Combats basicaly pushing 1 button on your mouse and 
+ keeping the bad guys within range and in your sights and maybe hitting a skill or 2, its not very 
+ hard and requires no skill sometimes it gets frusterating. You can solo all the way up and experience 
+ about 99% of the content without grouping (which isn't exactly a bad thing) .
+  
+  Basicaly its something diffrent with a few good ideas but thats about it. 
+::::::
+
+::::::
+UserName: DismasX
+Rating: 8.7
+Date: Apr 15, 2006 6:36 am PT
+Review:  Ive been looking forward to this release more than any other so far this year and so far the game 
+ looks and feels great. The controls prove to be a steep but short learning curve and the game soon 
+ feels smooth and fast.
+  
+  The destructible environment adds something extra to the game offering a certain satisfaction when 
+ the structure before you crumbles to reveal an item drop.
+  
+  After only a few hours play, I have already bolted on air scoops, spoilers, rocket launchers and 
+ more to my car giving it a really personal feel.
+  
+  BUT and this is the major problem, I have an ATI X600 graphics card and although the game looks 
+ great and is fast and smooth, the game appears to cause the latest driver to crash with alarming 
+ regularity. Tech support is looking at the problem but based on the forums, Im not the only one 
+ with this issue which appears to be linked to ATI cards.
+  
+  So in summary potentially an excellent game (if you dont have an ATI X600 graphics card)
+  
+::::::
+
+::::::
+UserName: BloodreaverSlut
+Rating: 8.9
+Date: Apr 14, 2006 7:21 am PT
+Review:  Auto Assault is new kind of MMORPG. It's based in a post-apocalyptic world where just wandering 
+ around is no longer possible due certain circumstances. The solution to the problem? Vehicles!
+ 
+  
+  Auto Assault (AA) is a MMORPG you've never played. Some major differences compared to the traditional 
+ MMORPG:
+  - Vehicle Combat
+  - Destroyable world
+  - Use of Physics on all most everything
+  - Unique gameplay
+  
+  It might sound boring: cruising 
+ around in a armored vehicle and shooting everything you find. But the opposite is true: AA is a 
+ challenging and fun MMORPG, set in a never before shown world with unique gameplay.
+  
+  The gameplay:
+  In AA your vehicle has "hard points" basicly spots on your car where you can put 
+ equipment in. You can have a maximum of 4 weapons on your car: front weapon, turret weapon, rear 
+ weapon and melee weapon. Other hard points on your car differ from species, but i played as Human 
+ and it had the following: Hazard kit, ornament, tires, armor, power plant and key.
+  Items to put in those slots can be found and bought almost everywhere and there tons (and I mean 
+ tons) of items for you to find.
+  The combat system is also something really different, there is no such thing as auto-attack. In 
+ AA YOU must aim your weapons (for best result, auto targeting is possible but less effective) , 
+ steer your vehicle and use skills. The only way to be effective is by lining up your weapons, which 
+ means turret weapon, front weapon and melee weapon all attack the target. This means you will have 
+ to drive up to the enemy, lining up your front and turret weapon, then smashing into the enemy 
+ using the melee weapon to deal great amounts of damage. Ofcourse this is not always possible, so 
+ just driving around might turn a good result as well, depending on how strong you are compared 
+ to the enemy.
+  
+  The combat is intense, you shoot, drive, smash and destroy all at the same time. Stuff around you 
+ blows up as you hit them (with either guns or your vehicle) . It looks awesome and gives the game 
+ the perfect feeling.
+  
+  The graphics:
+  The graphics are pretty good, though you will need a high-end system to fully enjoy everything. 
+ With the destructable environment and shadows, it might cause some slowing down in framerate, but 
+ usually it's stable. Also low-end PC's can play this game, since textures can be set REALLY low 
+ and all shadow can be turned off.
+  Recommended for this game is atleast having 1GB of memory, because i play it with 512 and it causes 
+ some annoying freezing during heavy combat or entering new areas.
+  
+  The Sound:
+  is awesome! Every gun has his own sound, hundred of environment sounds, combined with good music 
+ gives the game a great feel.
+  
+  Value:
+  The game will keep you going for quite some times, there are literaly 1000s of missions (quests) 
+ for you to do PER RACE. You'll spend lots of hours doing them and all of them are fun to do.
+  
+  I highly recommend this game to anyone that likes MMO's, like driving and shooting or just 
+ blowing stuff sky high, but still enjoy a very solid RPG.
+  
+  - Bloodreaver 
+::::::
+
+::::::
+UserName: autumnsun1
+Rating: 4.3
+Date: Apr 13, 2006 12:36 pm PT
+Review:  Ive been playing AA since beta and Ive seen it grow in unique ways but unfortunately, the game 
+ is still plagued by numerous bugs and requires some serious tinkering. In the one day since the 
+ game went live, I re-recorded over 80 issues that any player will encounter in the game. This issues 
+ plus hundreds more have been given to the dev team many times but they are havent given us the 
+ slightest sign that they are aware of the issues or are going to address them.
+  
+  Like other players that Ive talked to, they are also disappointed with the performance of the 
+ game and the frequent lag that youll experience while driving and especially in any town. I will 
+ continue to play the game for the first month as its free but after that, if theres no improvement 
+ then my friends and I are leaving. 
+::::::
+
+::::::
+UserName: VirginFingers
+Rating: 7
+Date: Aug 19, 2006 9:16 am PT
+Review:  This game was a pretty original idea, and a risky idea. I'm impressed with this game thus far, 
+ I got the pre-order and have played since the 9th. I missed out on the beta because I didn't even 
+ know about it. A guy I work with at gamestop handed me the free pre-order package that all employees 
+ where getting, so I took it home and tested it out.
+  
+  The game is just very good overall. There's alot to learn at first, it may be confusing. It was 
+ for me because I had no manual. But once you get the basic idea it all seems alot clearer. There 
+ are so many skills, it's very impressive. You can pick your stats to put up, something all MMO's 
+ are missing mostly, yet this is a fundamental part of character building.
+  
+  There's alot of items, and the crafting system is very very deep and interesting. Not only that, 
+ but it's actually useful, unlike in WoW, the early stages of any trade was pretty much useless. 
+ This game you can buy a weapon like a rocket launcher, that is broken for very cheap. Then you 
+ can refine the components to make it and end up having a weapon that you could not afford buying 
+ from an NPC.
+  
+  The enhancements also are great, the same with gadgets. Overall the item system is a Diablo2 type 
+ more than the average MMO type. Items make a huge difference on you your character is, and the 
+ items can be enhanced alot. Items don't bind when you pick them up, but do bind when you equip 
+ them. So quest reward items you get but don't need, you can trade away.
+  
+  You can have multiple vehicles, I have found one chassis so far. The quests mainly involve killing 
+ stuff to collect mission loot. It's pretty easy using the arrow pointer in the screen, or blue 
+ dots on the map. The quest rewards are useful for a change, unlike alot of games. You also level 
+ up fast if you stay on track with missions.
+  
+  Destroying stuff gives you lots of crafting commodity items, which are useful if you intend to 
+ make items. There's just a tun of options on this game for how you want to play. My mutant champion 
+ can put up his offense by 20% but lose defense and speed, and then turn on siege mode and just 
+ plow through stuff. Or he can put of defense and then go into the mode that boosts defense.
+  
+  The camera is changeable, use the middle moue button or wheel to do so. You can zoom in and 
+ out, or rotate the camera and view from above or side, etc.
+  
+  Overall it's just an awesome game I'd really suggest looking into it. 
+::::::
+
+::::::
+UserName: JephirDromulus
+Rating: 8.8
+Date: Apr 13, 2006 5:09 am PT
+Review:  I've been playing Auto Assault in the beta for quite a while now. I must say I am very impressed. 
+ Auto Assault features a lot of new game ideas, like fully destructible environments and global 
+ PvP ladder rankings. But what really makes this game shine is that they pull it off perfectly, 
+ creating a special game that's worth playing.
+  
+  The idea in the game is that aliens sent some sort of biological "contamination" down to Earth, 
+ mutating thousands of people and creating war between the pure Humans and the Mutants. The Humans 
+ create the Biomeks - near perfect soldiers that are designed to fight the Mutants. However, war 
+ goes on, with neither side taking the lead. The Humans, now branded together in the Hestia Company, 
+ build massive underground Arks to hide in. They try to cleanse the planet by unleashing massive 
+ biological/chemical/nuclear weapons on the surface of the Earth, creating a wasteland out of what 
+ used to be a great civilization.
+  
+  As the name says, Auto Assault is a car combat game. You start out customizing every inch of your 
+ character and your car. After a brief but fun tutorial, you are able to explore the Auto Assault 
+ universe, traveling between Highways and completing missions. The nice thing is that you never 
+ have to "grind" to get XP. There are thousands of different missions, with different objectives, 
+ and they give much more XP then if you would be grinding.
+  
+  The fully-destructible environment is a very nice feature. Everything from the buildings to the 
+ cars can be destroyed. The physics engine is amazing, and the graphics are pretty good too. What 
+ I really like is the music - it fits the Auto Assault universe perfectly. 
+  
+  There are only a few problems with the game, mostly with balance issues since the game is just 
+ released today. The interface doesn't feel very "snappy" and sometimes gets in your way in combat. 
+ Unfortunately, most other reviewers might give a low score because they didn't play the game very 
+ long. Believe me, the game starts out pretty boring, but as you near the end-game content, it is 
+ the best experience you could ever get. Don't believe people who give a bad score unless they have 
+ played for a long time.
+  
+  Overall, Auto Assault stacks up among one of the top games. With new features and redefined concepts, 
+ Auto Assault is the game to get. 
+::::::
+
+-------------------------------------------------

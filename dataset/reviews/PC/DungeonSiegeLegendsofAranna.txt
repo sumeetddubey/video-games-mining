@@ -1,0 +1,867 @@
+-------------------------------------------------
+:::Game Name::: Dungeon Siege: Legends of Aranna
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/rpg/dungeonsiegelegendsofaranna/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov 13, 2003
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.4
+Critic Score: 7.4, 37 Review (s)
+User Score: 7.6, 1,026 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Microsoft Game Studios
+Developer: Mad Doc Software
+Genre: Action Role-Playing
+Date:     Nov 11, 2003 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Legends is a 15- to 20-hour long expansion that packs more of the same type of dungeon-crawling 
+ gameplay from the original -- with an emphasis on the "crawling" part. 
+
+  More than a year and a half after its release, Dungeon Siege is still a game that provokes a mixed 
+ response from gamers. Microsoft's highly anticipated 3D Diablo-killer met with completely different 
+ reactions from different players, some of whom were highly impressed by the game's visuals and 
+ advanced artificial intelligence, and some of whom felt the game went overboard with the AI -- which 
+ ended up doing most of work without direct involvement from the player. At any rate, clearly the 
+ game had some room for improvement, and one would hope that the significant time that elapsed between 
+ the original release and the release of the game's first expansion pack would have been spent addressing 
+ some of these issues. However, if you were expecting Dungeon Siege: Legends of Aranna to shatter 
+ the status quo, you're going to be disappointed. Legends is a 15- to 20-hour long expansion that 
+ packs more of the same type of dungeon-crawling gameplay from the original -- with an emphasis on 
+ the "crawling" part.  
+
+          Welcome back to the world of Aranna.     
+
+  Some of the grumbling about Dungeon Siege stemmed from the fact that, while it's hardly a bad game, 
+ it is one that can get old quickly, depending on how much control you hand over to the AI. Since 
+ the AI handles most of the combat, by default, it's easy to feel like you're not doing much... in 
+ terms of actually doing anything. It didn't help that the levels were designed in a way that limited 
+ any sense of exploration or adventure, as most of them were just narrow, linear paths that you 
+ couldn't stray from. In essence, Dungeon Siege basically felt like the rail shooter of Diablo clones, 
+ with the added disadvantage that you weren't really doing anything besides watching your characters 
+ do all the cool stuff while you were left to smash ton of crates. And we mean a  ton  of them! 
+
+  Since Gas Powered Games and creator Chris Taylor are busy working on Dungeon Siege II, Mad Doc 
+ Software (Star Trek: Armada II and Empire Earth: The Art of Conquest) handled the yeoman's work 
+ on Legends of Aranna. Mad Doc played it safe with the expansion by sticking to the original formula 
+ and offering the obligatory new campaign, creatures, and items that are expected in an add-on. 
+ You still control a party of characters, slay monsters left and right, pick up lots of loot and 
+ gear, and then repeat the process over and over again.  
+
+  The campaign story in Legends should sound familiar to PC role-playing fans: An ancient evil has 
+ reawakened and seized the McGuffin it needs to take over the world. Naturally, your job is to neutralize 
+ this threat, and along the way you must discover whatever happened to your parents, who left you 
+ behind years ago. It's a fairly standard setup that quickly sets up the game, but it provides little 
+ motivation to keep you churning through the dungeons. As Legends was designed for beginning characters, 
+ you can't import your existing high-powered Dungeon Siege character, so you're basically starting 
+ from scratch once again. This will probably annoy Dungeon Siege fans who were hoping for an add-on 
+ campaign that would challenge their 40th- and 50th-level characters.  
+
+          It's a beholder-like creature but with laser beams!     
+
+  The level design remains 
+ true to the original; it still feels like you're being guided through the world with the designer 
+ holding your hand, as opposed to actually getting to explore the world on your own. It's somewhat 
+ frustrating because there are times when you'll feel that this could be a great engine if it actually 
+ presented you with a world that gave you choices on where you'd like to go, as in most other role-playing 
+ games.     
+
+  As you travel down the path, you'll run into groups of monsters every 50 yards or so. This is a 
+ Diablo clone, after all, so you'll cut through about a regiment or two's worth of monsters every 
+ hour, and though there's a huge variety of monsters in the game, it tends to throw waves of the 
+ same type of monsters at you at one time. The enemy AI in Legends remains as it was in Dungeon 
+ Siege; monsters will ignore you until you trigger them. Then they'll charge at you. There's no 
+ sense of actual intelligence or tactics by the enemy -- or even awareness, for that matter. Combat 
+ only gets difficult when it overwhelms you with numbers, but the system is so easily manipulated 
+ that all you have to do is just trigger a small group of monsters and take care of them while the 
+ rest of their buddies stand idly by.  
+
+          After every battle, there's a ton of stuff on the ground to sort through.     
+
+  The 
+ party system is one of the strengths of Dungeon Siege versus Diablo, especially since Dungeon Siege 
+ is capable of creating a large and varied team. Of course, this can be a double-edged sword because 
+ it's possible to create a huge and powerful combat team that simply bulldozes through the entire 
+ game. You can pause the game during combat to give orders to your units, but, once your party is 
+ powerful enough, it's easier to let them hack-and-slash on their own. Your only real role during 
+ combat is deciding when to hit the healing potion button. The only time that pausing and giving 
+ orders actually plays a role is during the final boss fight and a few other boss engagements.  
+ 
+
+  Once again, the game throws a gazillion different items and weapons at you, each with its own unique 
+ characteristics. Unfortunately, it just feels like overload. In the overall scheme of things, does 
+ it really matter that one sword does 420 points of damage every 90 seconds while another does 425? 
+ There's no palpable sense of difference between a character with a melee skill of 14 and a melee 
+ skill of 15, so does it matter that this sword adds a plus-one to melee attacks? The sheer amount 
+ of detail is bound to please statistics hounds, but it doesn't make that much of a difference in 
+ gameplay for the rest of us.  
+
+  Multiplayer remains pretty much the same as the original Dungeon Siege, and players can set up 
+ a cooperative multiplayer server that they can explore as a group or separately. Legends plays 
+ relatively smoothly over the Internet, though we did notice a slight little stutter over a network 
+ game.  
+
+  The once-remarkable graphics still look rather impressive, and the combat retains that fluid and 
+ chaotic feel that reminds you why people loved the original game early on. The sound effects and 
+ music also remain top-notch. We were stunned, though, by some of the technical issues in the game. 
+ Legends refused to load properly on three different computers, and we used both Nvidia and ATI 
+ cards. With the Nvidia system, Legends loaded up to a blank screen. Meanwhile, on two separate 
+ ATI systems, it actually rebooted the computers! We managed to fix that by upgrading to the newest 
+ ATI drivers. However, we couldn't fix the problem we had with the Nvidia system -- even with the 
+ latest drivers. If you somehow manage to get past these glaring problems, though, the rest of the 
+ game is stable and appears relatively bug-free. This is a serious problem, however, given that 
+ Nvidia and ATI are pretty much the only two brands that gamers use.  
+
+          A gigantic tentacle, or, "When Plants Attack."     
+
+  Put it all together, and Legends 
+ turns out to be an exercise in tedium. There are whole stretches of the game when you're just steamrolling 
+ through monsters, smashing boxes, and then moving on to the next room so you can kill more of the 
+ same monsters and smash even more boxes. Repeat this about 20 or 30 times per chapter, and it begins 
+ to feel more like Dungeon Crawl rather than Dungeon Siege. Couple this with the game's frustrating 
+ hardware problems, and this is an expansion that you're better off skipping. Instead, we recommend 
+ that you wait for some of the promising mods that are being developed by the Dungeon Siege community, 
+ or you can just wait for Dungeon Siege II and hope that the next time around the gameplay will 
+ have more to offer.     
+-------------------------------------------------
+:::User Reviews::: (31 Reviews)
+::::::
+UserName: ssta
+Rating: 1.5
+Date: Jul 12, 2008 6:33 am PT
+Review:  We have waited long for this expansion. I have played Dungeon Siege 2 for quite long time (100+ 
+ hrs) , and I thought I would see something new, something different, but in any case - I expected 
+ better.
+  I bought the game the summer it came out, I got it first in my town, maybe my country. I went in 
+ the shop on 45 degrees Celsius!
+  When I installed it, I cannot find my character in the conversion list. Conversion option without 
+ conversion? I had level 69 fighter, outstanding equipment, and completed the Dungeon Siege 2 (original) 
+ on the three difficulties.
+  "All right" I said, "I'll take some of the pre-made characters". So I took the dwarf.
+  Played 
+ for a few minutes, and when I saw the character sheet, on what "the game makers" spent their skills.... OH, 
+ They know how to MESS UP the character just to show the new skills which are complete DISASTER 
+ and something unnessesary!
+  Items enchanted with spell on a hit? Oh please! That was supposed to be in the original game!
+ 
+  I've waited for a patch, and never found one, internet connection problems I suppose.
+  I never converted my character, and never played this game for more than 10 minutes.
+  
+  If 
+ you played DS 2, don't buy this one! Stick to the original!
+  
+  Complete disaster! Can't find worst words to describe this game, so I chose "Total Letdown". 
+::::::
+
+::::::
+UserName: El_Justiciero
+Rating: 6.5
+Date: Jan 13, 2008 3:04 am PT
+Review:  When i realise i will not play again Dungeon Siege after playing only three times i saw this one. 
+ I thought it was a expansion with new features but it was all the same. The history doesn't matter 
+ here, it's only click and fight and then walk to the next point.
+  
+  There are new monsters and i think it has new behabiours but it's not enough to add replayability 
+ to the game.
+  
+  Well, it has really good graphics, and the engine is great, but it is like playing Diablo again 
+ and again without a reason, yes, is a good game, but it bored me to hell. And there are other games 
+ better than this one.
+  
+  And there is something than angried me. It has a new "complete armor" system. If you find all the 
+ pieces of special armors the separate powers of each one increase when you wear the other parts, 
+ so the complete armor has more power than the sum of the pieces' power. The bad news is that none 
+ of them were the best armor of the game, i ended selling all pieces and using the best armor i 
+ had in that moment. 
+::::::
+
+::::::
+UserName: Wolf-Man2006
+Rating: 7.5
+Date: Sep 15, 2007 12:50 pm PT
+Review:  So what if its been a few years since the DS series came out, I can say that LoA is your average 
+ expansion pack to a great game. Basically, you fight monsters with a group of teammates while using 
+ swords, spells, and axes. Make no mistake that LoA is an expansion pack with nothing new or challenging. 
+ Fortunately, you might forget all that with the new monsters and weapons (The new pack-animal is 
+ cool by the way) . However, like DS, you play Diablo-on-Steroids. Like old-school DS do you hack-and-slash 
+ anything that comes your way. Like DS do you encounter abysmal voice acting. So, you can tell that 
+ if you want something challenging from this expansion pack, don't bother. However, if you are a 
+ DS fan that'll like new things, buy this.
+  
+  P. S If you are looking foward to playing DS for the first time, pick the expansion pack first because 
+ I think you get both the original game and the expansion pack. All for about $10-$15. 
+::::::
+
+::::::
+UserName: MrsZato
+Rating: 9.4
+Date: Jul 16, 2007 9:08 pm PT
+Review:  The second game that I started playing as a gamer. Now I can clearly see why many people are addicted 
+ to this game. My guy got me into this game as a way to keep me from being bored out of my mind. 
+ Well it worked. Now we have something that we are mutually in agreement over. This game is great. 
+ Also, very good for those just beginning in the gaming world. I am a much older person myself and 
+ am amazed at myself and my interest in this game. The character builder is very easy to use and 
+ very easy to create your characters. My suggestion to you is once you have reached mid part of 
+ the first level of success is that you find Chicken World or Chicken Warrens so that you can master 
+ your skills at Melee, Range, Nature Skills, and/or Combat Skills. Now if you are into doing magic 
+ then I suggest you use more than one Spell Book and get the higher end ones when available or if 
+ you have the funds for the item of purchase. Then get involved within the community there. There 
+ are a lot of people that will help you out along the way and are there to assist you with your 
+ gaming experience. Watch out for MODS . Some are rather nice and great to have on hand but there 
+ are others that will mess up your gaming experience. Take it from me, I just experienced that. 
+ So, with that in mind, let me know what you think. 
+::::::
+
+::::::
+UserName: KingLim
+Rating: 5.2
+Date: May 24, 2007 6:45 am PT
+Review:  Like any other expansions, it includes a new class (the half-giant) , new creatures to fight, new 
+ equipment and spells to fight with, and a new story campaign. But even so, it isn't interesting 
+ enough to put your money into this unless you get the budget bundled version (re-packaged recently) .
+ 
+  
+  Just because Legends of Aranna retains so much of the original Dungeon Siege, it becomes just the 
+ same old chore of hacking your one-way route to the last boss, period. I practically yawn every 
+ now and then throughout my game since nothing really stood out in this expansion compared to the 
+ first game. Being an action RPG fan, my only reason for playing this is just to add this to my 
+ 'I-completed-this-before' archive.
+  
+  KingLim 
+::::::
+
+::::::
+UserName: wackys
+Rating: 9.8
+Date: Dec 28, 2006 5:36 am PT
+Review:  Ok.... Another of my favorite hack and slash is back in a expansion let's see how it fairs
+  
+  Pluses: inclusion of Sets is a very good ideea; the same old graphics are getting a little lame 
+ but not very; Multiplayer; great sounds as allways; incredible replay ability (i played it 3 times 
+ and finished it) ; Many new items spells and all that; cool side quests
+  
+  Minuses: somewhat lacking story; graphics are getting a little lame; the world is a little small
+ 
+  
+  Well maybe i am overrating it but i love the game. All of those new items are very cool and the 
+ special abilities of the sets are cool. Anyway this game is a must cause not only cause it contains 
+ Legends of Arrana it also contains the original Dungeon Siege so it's great 
+::::::
+
+::::::
+UserName: LoJo10
+Rating: 7.2
+Date: Nov 4, 2006 6:53 pm PT
+Review:  This is a Diablo clone. I've actually never played Diablo - but having read nearly every review 
+ of every game ever made, I have a lot gaming knowledge.
+  
+  The game is kind of addictive to play, I mean it's got that addicitive quality about it. Maybe 
+ it's because it's really simple to play - there are only four things you can do, melee weapons, 
+ bow and arrows, healing magic, and offensive magic. And you have a party and pick up characters 
+ along the way. However, these characters don't really have a backstory behind them; this game is 
+ like Icewind Dale if you've played that, that in the way it's story is: the story is really about 
+ the whole group of hero's, and not really just you.
+  
+  Story is cliche - there's an evil force that's been unleashed - you have to save the world, blah 
+ blah blah. There are some side quests, they're okay.
+  
+  The leveling up system is pretty cool - as you use an ability, melee weapons, bow and arrow, defensive 
+ or offensive magic, it levels up and you get better at it.
+  
+  The armor and weapons are cool too. You can upgrade all your weapons and armor - you find a ton 
+ of goodies on the ground that you can sell for better equipment; it's cool.
+  
+  Is this game better than the 5.4 than gamespot gave it? Yes - but then again, they were just reviewing 
+ the expansion pack. The main quest is very good, and the expansion is good too - I guess they just 
+ got bored with more of the repetitive gameplay that was exactly the same as the first - and the 
+ developers didn't fix the spell problem (you can only have one of each spell in your shortcut keys) , 
+ which is a problem, but a relatively minor problem.
+  
+  So if you want a good hack-and-slash, grind it out kind of game, this game is it. It's worth the 
+ $20, or $10 I think they're charging for it.
+  
+  So if you want an okay RPG, go out and buy this game. 
+::::::
+
+::::::
+UserName: rynn21
+Rating: 8.5
+Date: Aug 29, 2006 7:01 pm PT
+Review:  The campaign story in Legends should sound familiar to PC role-playing fans: An ancient evil has 
+ reawakened and seized the McGuffin it needs to take over the world. Naturally, your job is to neutralize 
+ this threat, and along the way you must discover whatever happened to your parents, who left you 
+ behind years ago. It's a fairly standard setup that quickly sets up the game, but it provides a 
+ huge amount of motivation to keep you churning through the dungeons. As Legends was designed for 
+ beginning characters, you can't import your existing high-powered Dungeon Siege character, so you're 
+ basically starting from scratch once again. This will probably annoy Dungeon Siege fans who were 
+ hoping for an add-on campaign that would challenge their 40th- and 50th-level characters. However, 
+ you can coustomize your character to look the same as before, and if you really loved the first 
+ game then you will probably love this 15-20 hour expansion pack that includes the original game 
+ within its contents. I'd advise you to play the original before the expansion so you might not 
+ be so confused when you start playing teh expansion pact. 
+::::::
+
+::::::
+UserName: RebelILL
+Rating: 6.5
+Date: Aug 9, 2006 12:43 pm PT
+Review:  
+  Dungeon Siege: Legends Of Aranna is the expansion to the original dungeon siege. However it is 
+ not like the original dungeon siege and is far less enjoyable than the first. 
+  
+  Gameplay: Just like the original dungeon siege, in fact not really that different at all. There 
+ is a new pack animal that you can have like the pack mule in the first game, new races, new spells, 
+ new levels, new characters, new items, and a new story. But the gameplay has not changed a bit. 
+ This game's story is also not as good as the original. It happens after the first game with the 
+ Seck defeated, but now there is a bigger, stronger enemy trying to take over the world even more 
+ powerful than Gom. It all has just been done before. 
+  
+  Graphics: Again, same as before. But after a while the levels just feel over used and dont look 
+ appealing anymore. There is a new feature where you can see a map of the entire world of DS: LOA. 
+ It serves to remind you, how freaking huge the world is that you have to pass through before you 
+ finish the game.
+  
+  Sound: Some of same tracks from before are here and a variety of new ones. But the music is so 
+ similar to the first that a lot of people would hardly notice.
+  
+  In the end DS: LOA try's to expand on Dungeon Siege by adding more to the first but fails to make 
+ it as fun as it was originally. 
+::::::
+
+::::::
+UserName: SgtJcoo
+Rating: 8.2
+Date: Aug 8, 2006 10:28 am PT
+Review:  Dungeon Siege: Legends of Aranna is the 'expansion' pack to one of the greatest hack and slash 
+ RPG's of 2002. Yes, Legends of Aranna (LoA) is supposed to expand upon the already awesome game 
+ of Dungeon Siege, but therein lies the rub on which I have mixed feelings.
+  
+  LoA is not an expansion pack in my opinion. It is a completely new game, and should have been called 
+ Dungeon Siege II: Legends of Aranna. But I guess then people would then expect something new, and 
+ LoA is not really new in aspects such as graphics and gameplay, so all they could do is market 
+ it as an expansion pack. There is no connection between the original and the expansion however, 
+ so that is why I don't think its an expansion. It does add new spells, armor, weapons, and a new 
+ playable race (Half-Giants) , and the inclusion of sets was a great idea, if not a late one. Gameplay 
+ has not changed, but that is not necessarily a bad thing. Why fix what isn't broken?
+  
+  The graphics are just as good too, and the new world you adventure through does not lack anywhere 
+ in the graphics department. It is a visually stunning game, with lots of smooth textures, well 
+ rendered shadows, lots of colours, and no loading screens. Of course, this hasn't changed much 
+ from the original, but again, the original exceeded in the first place. LoA simply lives up to 
+ it.
+  
+  As for sound, the music score is great, with some new pieces thrown into the mix. The sound effects 
+ are awesome, and the voice acting is exceptional. You can't get much better sound than this!
+  
+  As for value, however, because LoA does not add much to the game, it is not worth buying if 
+ you have already played Dungeon Siege through. If you haven't, though, the LoA is perfect for you, 
+ because it is packaged with the original, for a cheap price. That is the only reason I didn't give 
+ the value rating a lower score.
+  
+  Overall, I think this game should have been released by GPG as an official mod for Dungeon Siege, 
+ instead of an in-stores expansion pack. You can download its equivalent for free through mods made 
+ by amatuer game designers and such. Try Lands of Hyperborea, or The Circle of Lorent for example, 
+ or if you want an even more heavily modified game, try Ultima V: Lazarus, or Copperhead: Retaliation! 
+ All in all, it was a fun to play 'mod' and lives up to Dungeon Siege, but I don't think you should 
+ have to pay for it. 
+::::::
+
+::::::
+UserName: limewolf
+Rating: 9.7
+Date: May 19, 2006 3:04 am PT
+Review:  
+  This is a great expansion for a super hack and slash RPG. If you liked dungeon siege I would recommend 
+ this to you. It is basically more of the same, but adds some news features that will please hard 
+ core players (back packs and item sets for example) . I would say they could have done even more 
+ with it (more item sets perhaps) , but it is still well worth getting. Like dungeon siege it is 
+ very easy to get into and not very difficult to play in general. If you buy this expansion it includes 
+ the original game which is handy if you don't have it, so I think it's well worth getting. 
+::::::
+
+::::::
+UserName: Dinghy_Dog
+Rating: 9.3
+Date: May 6, 2006 7:42 pm PT
+Review:  :Good Idea:
+  A ton of multiplayer tweaks which makes it a ton easier to save your quest while playing co-op.
+ 
+  The Player Vs. Player (or PVP) is some of the best.
+  Some of the best dungeon sounds in any game.
+  
+  :Bad Idea:
+  The game requires a heavyly 
+ loaded computer.
+  No feature for anti-hacking unless you download one on a website such as Dungeon Siege Haven.
+ 
+  Joining a game that says "no hacks, no drops" and upon entering, a hacked character kills you 
+ and all your crap drops.
+  
+  :Overall:
+  This game is seriously like $5 these days. It includes the original Dungeon Siege and it well 
+ worth the money. This was my Diablo killer and trust me, I was a huge Diablo fan. A must for any 
+ fan of the hack-n-slashers. 
+::::::
+
+::::::
+UserName: saeed_lp_69
+Rating: 8
+Date: Feb 16, 2006 2:34 pm PT
+Review:  Players return to the world of Aranna and start an all-new adventure in the Dungeon Siege expansion 
+ pack, an addition to the popular Dungeon Siege PC title. Players are drawn outside the original 
+ Kingdom of Ehb into the wilds of Aranna to solve an ancient mystery. 
+  
+  The adventure reveals the origins, lives and eventual downfall of the ancient Utraean civilization. 
+ Building on the critically acclaimed gameplay found in Dungeon Siege, the expansion pack features 
+ a new part of the world to explore, fantastic creatures to battle, treasures to loot, mysteries 
+ to unlock, weapons to wield, armor for protection and unique items sets.
+  
+  All-new campaign. Journey through nine spectacular areas, including an all-new jungle region, as 
+ you unravel the rich history and mystery of the world of Aranna. 
+  
+  Additional spells. Mages wield dozens of new magic spells including Diminution, Animal Rage, Zorkon's 
+ Bonecrusher, and the Orb of Fire.
+  
+  Half-giant player character. Standing over nine feet tall, the new half-giant player character 
+ towers above the rest of the characters and attacks with a primal ferocity. 
+  
+  Even more intense battles. As you adventure through Aranna, you'll encounter previously unseen 
+ creatures to battle, including the reptilian Zaurask and the catlike Hassat.
+  
+  Cooler treasures. Discover rare and powerful treasure sets among the spoils of battle that, when 
+ combined, grant the owner new and wondrous abilities.
+  
+  New pack animal. This pack animal fights back, defending the player's treasure to the death if 
+ necessary.
+  
+::::::
+
+::::::
+UserName: phoenixan_akrau
+Rating: 7
+Date: Dec 23, 2005 8:43 pm PT
+Review:  Really, I went straight from having the demo to this expansion. It's great to have as long as you've 
+ never played the full original first. Else, then it must be crap. Really, comparing the two, I 
+ find the story and system of the expansion game to be a great improvement to the original game.
+ 
+  
+  The graphics aren't really improved from the original, but they aren't bad at all, though, your 
+ character actually looks kind of ugly close up. At least it's nearly impossible to play the game 
+ that way most of the time.
+  
+  The game-play gets rather boring and repetitive after a while though, and originally, what only 
+ kept me going was just seeing what all the spells did and how the story was going to progress. 
+ The game allows you to dig through the story yourself, with all the writings left behind, rather 
+ then just making you sit through a bunch of long cinimatics. Eventually though, everything narrowed 
+ down to:
+  *click*
+  "KILL HIM!!!"
+  *guys gang up on one enemy and soon, the enemy is laying dead on the ground*
+  *click click click*
+ 
+  "KILL THEM!"
+  *guys run around and attack all the multiple enemies on the screen, you need to use health potions 
+ or healing spells, and soon all is over again*
+  *click*
+  "RUN THERE!!"
+  *guys run over there and encounter more enemies*
+  ... and so on and so on and so forth.
+  
+ 
+  The sound effects to all the spells are pretty unique to just the spells, and the sound ads a 
+ great amount of suspense as you hear spiders and things crawling along the walls, or zaurask hiding 
+ somewhere plotting your demise. Muahahaha. The music though is very nice to listen to, and I never 
+ get tired of it; however, in LOA, the music is often recycled from the original, so if you've played 
+ the original, it's going to be rather boring.
+  
+  Some annoyances do occur, such as your characters running unnecessary lengths when you click somewhere, 
+ or just sit there, jiggle, and don't attack anything. Also, items can get stuck in unreachable 
+ areas. Oh, and another feature in the expansion are the armor sets you can collect, which are actually 
+ entirely pointless just because you can build something better yourself.
+  
+  All-in-all, this game does get boring after a while, and I especially don't recommend it to people 
+ who have the original already. If you haven't played the original though, this is really worth 
+ a try, and I find it to be a very engaging story, and for some time, you will get fun out of it. 
+ 
+::::::
+
+::::::
+UserName: SZeroC
+Rating: 10
+Date: Dec 19, 2005 2:19 pm PT
+Review:  Your right to party.
+  
+  Ever since the very first days of role-playing, there has been a fundamental split between the 
+ single character games, like Ultima, and those where you had a party, like Wizardry. By and large, 
+ it was always less complicated to play and in turn to design the single-player RPGs, which often 
+ left the party out in the cold. Managing eight characters simultaneously is exponentially harder, 
+ but it's always a little disappointing when you find that Mighty Battleaxe of Smiting and just 
+ throw it away because youre a wizard.
+  
+  Then Dungeon Siege showed up and streamlined the RPG party system so gracefully, you barely noticed 
+ it was there. Your characters would so smart things, like heal each other or attack monsters even 
+ if you didnt tell them to. Press the healing potion icon, and everyone who needed to would automatically 
+ drink a potion. How are you feeling, Stig The Barbarian? Fine? Great!
+  
+  Baldurs Gate micro-managers, who were always pausing the action to consider all possible spell-and-sword 
+ combinations, might have felt that Dungeon Siege was a little distant, but I was thrilled. It was 
+ great to see all my little guys taking some initiative for a change.
+  
+  Fans of the original should be pleased that the expansion is here, but its not really an expansion, 
+ because you dont need to have the original Dungeon Siege to play. Thats because the entire first 
+ game is included with Legends of Aranna, making it an especially good deal for people who have 
+ never played Dungeon Siege before.
+  
+  So whats new in Legends of Aranna? How about a new single player campaign? Venture out of the 
+ Kingdom of Ehb and into the wilds of Aranna to try and unravel an ancient mystery. Like the first 
+ one, this campaign is for new characters and is about the same length. And while its a good, classic 
+ dungeon crawl, its also disappointingly linear, again, just like the first one. Of the three worlds 
+ available to explore in Legends of Aranna, its the more open-ended, multiplayer Utraean Peninsula 
+ that is my favorite.
+  
+  Of course, theres plenty of new stuff inside the Aranna campaign: new spells, monsters, weapons 
+ and armor. A notable addition are magical sets of items, which become more powerful with every 
+ part of the outfit you find. There's also a new half-giant race that can join your party. Towering 
+ over all the others, it looks as if Shaquille ONeil has joined the team.
+  
+  Legends of Aranna has fine-tuned the slick interface ever further, with smarter inventory management, 
+ a button for distributing potions and lots of other little tweaks. Unfortunately, whats still 
+ not included is a toolset for making your own adventures. Giving the tools to the fans is like 
+ throwing gasoline on a fire. Youre practically guaranteed unlimited new content and creativity.
+ 
+  
+  Everything else is exactly the same as the original. The graphics hold up surprisingly well for 
+ a year-and-a-half old game. The sound is still great, with a good score, plenty of clanging metal 
+ and fighters that dont shout their battle-cries too often. The most impressive part of Dungeon 
+ Sieges technology is still very cool: no loading. Once you start playing, youll never see a loading 
+ screen, ever. Very nice.
+  
+  However, Legends of Arannas best selling point might be how much of a bargain it is, at least 
+ if you never bought the original game. Since its priced as an expansion at $30 but actually has 
+ two full games, it's one of the best PC deals this year. So go buy yourself an early Christmas 
+ gift and get this party started.
+  
+::::::
+
+::::::
+UserName: sskkmiller
+Rating: 8.2
+Date: Nov 28, 2005 12:22 pm PT
+Review:  This expansion pack is a fairly long game that I think deserves a better score than it recieved. 
+ I liked the new additions to the game and also enjoyed seeing the world of Arrana. The graphics 
+ weren't tuned up to much which disappointed me but thats okay because underneath all of the new 
+ features and the mediocre graphics, it is still Dungeon Seige and that is what counts. If you like 
+ heated battles between your party and thousands of enemies, this is a game that you should definatley 
+ look at. It is exciting and will keep you hanging on until the end. I still like the original better 
+ though. 
+::::::
+
+::::::
+UserName: ariel_king
+Rating: 9.2
+Date: Nov 13, 2005 9:49 am PT
+Review:  This game is an awsome game!!!!!!!!!!!!!!!!!!!!!!!
+  
+  Gameplay: this is and awsome game. You keep playing until you reach the highest level in the game. 
+ there are really cool areas to play in and the enemies are taugh and great.
+  
+  Graphics: The graphics are great for a role playing game. The players look fantastic and the enemies 
+ look cool.
+  
+  Sound: The sound is a really disappointment. It isn't bad but it isn't good ether.
+  
+  Value: 
+ In this game you have a great multiplayer experience and the enemies on the internet are great.
+ 
+  
+  Reviewer's tilt: overall this game is awsome and you should really make it you first choise of 
+ buying. 
+::::::
+
+::::::
+UserName: Gideon89
+Rating: 6.3
+Date: Oct 29, 2005 5:28 pm PT
+Review:  After I went over to a Friends house to play this game, I fell in love with it, (not really "IN 
+ LOVE") so I went home got some money went to the story an bought it. I got home and Popped it in, 
+ I must have played 8-10 hours strait, almost beating the game. This game is addicting, almost as 
+ addicting as Crack (not that I would know) . I finally went to bed, and woke up the next morning 
+ with a hammering Migrain, probably worse than any Hangover. the point is of this, Don't play this 
+ game or any game for that matter any longer than 2 hours strait, even if it is really addicting, 
+ you can force yourself off the computer to get outside and be active. 
+  
+  The gameplay was a little slow at times, and sometimes the game would freeze up after 3 or so hours 
+ of play.
+  The Graphics (IMO) are fine for the type of game and considering when it was made, they could have 
+ possibly done better on the Graphics.
+  Sound is sometimes sketchy, Delayed sometimes, but over all has good sound quality. 
+  It will 
+ be good on a machine with great VidCards and SoundCards. 
+  Overall I loved the Game and still do. 
+::::::
+
+::::::
+UserName: ncdiablo108
+Rating: 10
+Date: Oct 22, 2005 11:21 am PT
+Review:  a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+ a a a a a a a a a a a a a a a a a a a a a a a a a 
+::::::
+
+::::::
+UserName: Smokes1984
+Rating: 8.9
+Date: Oct 20, 2005 2:26 am PT
+Review:  I need more people to play this game with online. 
+  If you like to use codes then I dont want you to play the game with me or my friends. 
+  If you 
+ have a true love for gaming in games like this amazing one then drop me a line.
+  As always love this game and many others.
+  If you are looking for a game to sit down and play 
+ for a long time then this is the game for you.
+  I play as a mage.
+  We have 2 archers.
+  We need a warrior. 
+::::::
+
+::::::
+UserName: gnoel809
+Rating: 8
+Date: Oct 15, 2005 7:33 am PT
+Review:  I really enjoyed the original Dungeon Siege. To get ready for DS 2, I decided to play LOA, since 
+ I'd bought it but never got around to playing it.
+  
+  I thought the expansion was good, with enough of a story to keep things interesting. One of the 
+ bad things was there were not enough merchants around. My party would get bogged down with goods 
+ and have to leave stuff behind. A minor thing, however.
+  
+  As expansion packs go, this is one of the better ones I've played. 
+  
+  One last note. My wife 
+ and I enjoyed playing Dungeon Siege cooperative multiplayer (even though you couldn't save your 
+ progress, it was still fun) . I wish more games had that capability. Recently we've been playing 
+ co-op with various games on our X-Box, but even the numbers of games there is limited.
+  
+  I've played the demo for DS 2, it seems like it will be good. A lot of people griped about Dungeon 
+ Siege "playing itself," especially in combat. I like the auto-combat, that way you don't have to 
+ take care of every little thing. We'll see how DS 2 is.
+  
+  
+::::::
+
+::::::
+UserName: HunterBruno
+Rating: 7.7
+Date: Jul 16, 2005 3:18 pm PT
+Review:  The original was great, this one was good. I love the style and graphics but maybe is the next 
+ generation of role-playing games much more demanding of your nerves. Dungeon Siege 2 perhaps?
+ 
+  The sound is fine and you can upgrade your character to full strength in either ways. like archers, 
+ sorcerer's and swordsmen. You can have other characters in your party to make your quests less 
+ hard. I'm scared of spiders, specially the great ones and after playing this game it's not over. 
+ So for a good therapy will this game not do it well.. Just joking around. Worth playing but the 
+ original is better. 
+::::::
+
+::::::
+UserName: StormRaider31
+Rating: 3.4
+Date: Feb 10, 2005 11:54 pm PT
+Review:  I did not like this game at all. It was way too easy even on hard. It has a nasty demonic feel, 
+ understandable coming out of the Mad Doc shop. The vocalizations added nothing but annoyance to 
+ the game. It felt like a rush job lets get something out quick and make some money. There was 
+ little to no logic for what you were doing or why you were doing it. You knew what your over all 
+ goals were (to become a hero and to vanquish the Shadow Lord before he destroys everything) but 
+ the getting there (you know the fun part) is muddled, half baked, and down right stupid. As much 
+ as I enjoy the original; I loath the expansion which I have not finished because I just cant see 
+ it getting any better. However, the graphics and special effects from spells are once again gorgeous. 
+ The patches are well appreciated, especial for the original. And I like the new weapon & armor 
+ stats and combos. I pray they keep Mad Doc as far away from Dungeon Siege II as possible. 
+::::::
+
+::::::
+UserName: dryden555
+Rating: 6
+Date: Oct 8, 2004 11:01 pm PT
+Review:  Dungeon Siege attempts to be a Diablo2 with 3D graphics but the gameplay is so simplified it insults 
+ the intelligence of anyone who plays it. 
+  
+  Diablo 2 (with the add-on) at least allowed for levels of difficulty to challenge just about anyone. 
+ Here with Dungeon Siege one almost feels the game is playing itself and you are just watching.
+ 
+  
+  Leveling up isn't as fun as it could be because everything is done for you. 
+  
+  The graphic engine is surprisingly blurry and low-res even at the highest resolution settings. 
+ Blurry bitmaps are everywhere and there just aren't anough polygons to any object or enemy to make 
+ the game feel immersive. Everything is too blocky for a game made in 2003.
+  
+  Whoever made this game for Microsoft should not be allowed to make more PC games. It defines what 
+ a "mediocre game" is. 
+  
+  Gamers would do best to play something better like Knights of the Republic. That game isn't perfect, 
+ but the combat is fun and the story-line is often good. Baldur's Gate is 2D but again, it blows 
+ Dungeon Siege out of the water.
+  
+  This game is a stinker. 
+  
+::::::
+
+::::::
+UserName: SkullLeader00
+Rating: 7
+Date: Sep 13, 2004 2:05 am PT
+Review:  Like I said nothing new ... but its fun and I am playing it waiting as patient as I can possibly 
+ be for Dungeon Siege 2.
+  I love this game, but the expansion could have been a little better but its the same as original.
+ 
+  Same graphics, but now its a little outdated
+  Story is adequate at best
+  Sounds are nice
+  Bottom line if you love the first game get this one just for fun in preparation 
+ for the second dungeon siege
+  
+  
+  I give it a 7.0 because there is nothing special to give it anything more, but it is a fun game. 
+ 
+::::::
+
+::::::
+UserName: Epicsoldier
+Rating: 10
+Date: Aug 25, 2004 9:46 pm PT
+Review:  I loved the series, i love this game, i duno why gamespot reviewers hate it!, it's a real great 
+ game!!!!!!. THe story is great, and makes you wanna play more and more of it, you can play this 
+ game for hours and hours and still wanna play more. The actual engine of the game is great!. the 
+ graphics are nicely polished and are great!. The original dungeon siege also comes with this expansion!!, 
+ and both games are well worth playing. The multiplayer is fun!, i've played this game with my friends 
+ online for hours and hours, The characters are great. I'm not much of a RPG fan, but this game 
+ made me one. It is simply one of the best!. 
+::::::
+
+::::::
+UserName: BJ1947
+Rating: 9.9
+Date: May 26, 2004 3:38 pm PT
+Review:  Dungeon Siege: LoA was a more interesting and satisfying game to play, perhaps because I had the 
+ previous experience of Dungeon Siege. The quests were interesting, and the pack animal options 
+ were good, particularly since one was a fighter type. However, having a virtually uncontrollable 
+ animal to worry about in a major battle sequence became something of a hassle. I worried all the 
+ time about keeping the pack animal alive, at the cost of my other party members! The use of backpacks 
+ made having a pack animal redundant, so it was more sensible to add another fighter in place of 
+ a pack animal. I found fighting the Hassat cat people a morally disturbing issue. I'm sure a dog 
+ lover would feel similarly if dogs were protrayed as advanced, but hostile species. The game was 
+ thoroughly engrossing, however, and the scenery was great. The final Big Boss was tough, but less 
+ so than the previous Big Boss in DS. I'm really anticipating a great game in Dungeon Siege II. 
+ 
+::::::
+
+::::::
+UserName: daifu
+Rating: 8.6
+Date: Nov 25, 2003 5:09 pm PT
+Review:  As some other reviewers have stated, this game is very much like Dungeon Siege, except with some 
+ additional gameplay features that only work to flesh out the experience. The backpack is a very 
+ useful feature, that would be better if you could sell to a vendor from it instead of having to 
+ empty it first - but as far as carrying more goods it is indispensable. The Traag is a nice feature, 
+ not exactly a tank by any means, but nor is it supposed to be. The Item sets that are to be collected 
+ are very potent and all have back stories that are well developed. They are pretty difficult to 
+ find for the casual dungeon crawler also. On my first run through the game I only managed to find 
+ one complete set out of four that I had attempted to. Transportation is aided by mechanical/magical 
+ clockwork technology/wizardry that only helps the player get to and from necessary points and points 
+ of interest more easily. The over-arcing story of the Utreaens and their island's history is told 
+ throughout the game and is well done, though not as well as in the original Dungeon Siege.
+  
+  All in all, this is an entertaining game that has the same low learning curve as its predecessor, 
+ the same basic gameplay with some nice tweaks and the same enjoyable, low maintenance gaming experience. 
+ And, packaged with the original, it is an exceptional value. 
+::::::
+
+::::::
+UserName: danzig148
+Rating: 5
+Date: Nov 22, 2003 7:37 am PT
+Review:  The original Dungeon Siege is one of my favorite games, but Im extremely disappointed with the 
+ expansion pack. While the games share the strength of the Dungeon Siege engine, poor play balancing 
+ and dull level design in the expansion creates a repetitive and boring experience.
+  Having played the original twice, I began Legends of Aranna on the hardest difficulty. By simply 
+ having the patience to break open all the crates and sift through all the treasure, my party was 
+ near invincible in comparison to my enemies after only about 30 minutes of play. As my characters 
+ grew in experience and found even more magical and powerful armaments, they stayed several steps 
+ ahead of the increasingly powerful enemy. This allowed my small party to slice through monster 
+ after monster, rarely using healing spells and even more rarely using healing potions. With gameplay 
+ this unbalanced, the strategic points of the original Dungeon Siege are completely lost, as you 
+ really dont need to pay attention to kill wave after wave of inferior monsters.
+  Level design is also lacking compared to the original. The original game packed a variety of interesting, 
+ challenging monsters into a detailed world. Legends of Aranna contains only sparsely populated 
+ monsters scattered throughout a long trek of indistinguishable underground caverns and forests. 
+ The original Dungeon Siege combined a variety of monsters in a large group to create tactical challenges, 
+ while the expansion places small groups of similar monsters that can be easily disbanded.
+  While crate smashing was an annoying task even in the original, crates contained much needed 
+ supplies or hard earned treasure. In Legends of Aranna, I honestly believe I encountered more crates 
+ than monsters. These crates and vases are scattered randomly around the map in dense clusters, 
+ and the repetitive clicks to smash through them all is truly a test of patience. The game provides 
+ a large amount of treasure for very little work, causing much more time spent smashing crates and 
+ viewing treasure than in actual combat. 
+  The new monsters encountered in the game are completely unoriginal. Cat people, Lizard people, 
+ and uncreative variations of some previous ideas arent as captivating as the wide variety of new 
+ creatures encountered in the original.
+  Another disappointment was the selection of items found at the shops. The magical items found during 
+ questing were far more powerful than anything sold in the shops. This takes away from the RPG formula 
+ of slaying monsters, selling loot, and purchasing more powerful items. In fact, with so many great 
+ armaments lying around in unguarded crates, youre left to wonder why your enemies cant put up 
+ a better fight. Maybe they would rather die than have to break open any more crates
+  
+::::::
+
+::::::
+UserName: Exman
+Rating: 10
+Date: Nov 17, 2003 10:41 am PT
+Review:  What makes me laugh is the same people that rated the original Dungeon Siege an 8.4, have now rated 
+ the expansion pack a 5.4. What makes this so ironic is that in their review of LOA, they said it's 
+ the same game! So, my obvious question here is, if it's the same game, how do you explain giving 
+ one an 8.4 and the other a 5.4? Makes no sense at all.
+  
+  On a positive note, and what they should have said in their review of LOA is that if you liked 
+ Dungeon Siege, you'll love Legends of Aranna!! It's simply more of what the original gave us with 
+ some nice additions like the backpack, the Traag (a mule that fights) and more weapons and armor 
+ that you could possibly imagine. Excellent add on to an excellent game. Nuff said. 
+::::::
+
+::::::
+UserName: irish27
+Rating: 8.8
+Date: Nov 16, 2003 9:15 am PT
+Review:  I'm not sure why Gamespot reviewers don't like these games. They may not be as deep as some other 
+ RPG offerings but they are a lot of fun. This is a game I can get in and out of quickly when I 
+ don't have a lot of time to play. Other RPGs require you to really be into the game and remember 
+ what happened from one section to the next to follow the quests. Dungeon Siege is just a lot of 
+ fun to play. It reminds me most of the Diablo games in it's simplicity, and every reviewer out 
+ there falls all over themselves to give Blizzard games a great review. 
+::::::
+
+-------------------------------------------------

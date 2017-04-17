@@ -1,0 +1,213 @@
+-------------------------------------------------
+:::Game Name::: Allegiance
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/allegiance/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Apr 26, 2000
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.7
+Critic Score: 8.4, 25 Review (s)
+User Score: 8.4, 75 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Microsoft Game Studios
+Genre: Space Combat Sim
+Date:     Mar 31, 2000
+ESRB: Everyone
+
+-------------------------------------------------
+:::Review:::
+Its real-time strategy elements and its focus on cooperative piloting tactics are so central to 
+ its gameplay that Allegiance can be very challenging to learn, but it's well worth the effort. 
+ 
+
+ Allegiance is an impressive online game that fuses space combat simulation with elements of strategic 
+ military planning and command. It's exclusively playable online, and while it has an interesting 
+ premise, there's no real context to the actual battles you'll participate in. If anything, its 
+ lack of a single-player campaign merely clarifies the distinction between Allegiance and all other 
+ space combat sims - its real-time strategy elements and its focus on cooperative piloting tactics 
+ are so central to its gameplay that Allegiance can be very challenging to learn, but it's well 
+ worth the effort.  
+
+ Allegiance's depth and complexity are veiled by its clean, effective graphics. At most times during 
+ play, you'll be looking at your ship's first-person heads-up display, which depicts all pertinent 
+ information regarding your ship and your surroundings. Like many aspects of Allegiance's interface, 
+ the various readouts on your HUD aren't particularly intuitive - it'll take some time to be able 
+ to distinguish all the onscreen indicators. However, after you spend some time flying around in 
+ the game, you'll find that the initially overwhelming amount of information on the HUD is actually 
+ presented very well. Allegiance's minimal HUD graphics leave plenty of room for all the dozens 
+ of different indicators you might see onscreen at any given time, which point to all friendly and 
+ enemy ships, as well as miscellaneous space objects, missiles, stations, and more. There's a small 
+ space left up top for communications between players, and a floating minimap, which you can toggle 
+ off, that shows you where you are relative to the rest of the battle. It's a lot to take in, but 
+ Allegiance's graphics do a great job of presenting all the relevant information you need without 
+ actually cluttering the screen, which leaves you with a perfect view of the game's impressive 3D 
+ space combat.  
+
+ Allegiance's 3D engine is surprisingly good. The various ship designs are attractive and original, 
+ and Allegiance's version of outer space is filled with bright-colored gasses, plenty of stars in 
+ the distance, lens-flare-casting suns, gigantic tumbling asteroids, and more. The ships are highly 
+ detailed and have pulsing warning lights on their wingtips. They leave long, colored contrails 
+ in their wake, which provide a useful visual cue in the heat of battle. They burst into big, bright 
+ explosions but don't leave a lot of debris behind. In fact there's very little visual excess in 
+ Allegiance - the game's weapon effects look fairly simple, while the game's special effects for 
+ wormholes and such are attractive but never gaudy. Allegiance can sometimes look a little sterile 
+ as a result, especially since all the ships look similar from the inside. But it's all worthwhile 
+ when you get dozens of ships flying around all at once with a smooth frame rate and typically without 
+ much lag.  
+
+ The game's no-nonsense graphics are complemented by its clear but generally forgettable audio, which 
+ provides spoken cues for important events on the battlefield. You're able to issue preset verbal 
+ cues yourself with just a couple of keystrokes so that you can quickly request assistance, give 
+ orders, or even taunt your opponents. Some of the sound bites are pretty funny and thus inconsistent 
+ with the game's generally serious tone, but you can toggle off the speech if it bothers you. In 
+ contrast, the game's symphony-and-techno musical score is suitably intense and dramatic.  
+
+ Although Allegiance looks about as good as the latest space combat sims, it doesn't look better, 
+ and it really doesn't look all that different. However, the game does have a distinguishing mark: 
+ It isn't so much that Allegiance is an online-only simulation of space combat, but rather that 
+ it's also a fully realized simulation of strategic space combat. The strategic elements of Allegiance 
+ are every bit as complex as those in the latest popular real-time strategy games - your team needs 
+ to gather resources in order to expand its territory and improve its technology. You'll need to 
+ defend your mining ships as they harvest resources from special asteroids, and you'll need to deploy 
+ probes to detect enemy incursion. You'll have scouts to gather reconnaissance, fighters to gain 
+ space superiority, interceptors to defend your installations, and bombers to destroy the enemy's 
+ base. What's more, the action takes place in a number of large, interconnected sections of space 
+ that you can jump between using swirling wormhole-like portals, referred to in-game as alephs. 
+ You also have a fairly extensive technology tree that you can research, and it has several viable 
+ branching paths that will make all the difference in the long run. You'll need to become familiar 
+ with all the game's technology in order to understand how best to breach your enemies' defenses 
+ and how to counter his attacks. You can play Allegiance as a plain deathmatch game, but hardly 
+ anyone ever does, because the strategic elements lend so many different options to you and so much 
+ variety to the game. You can assume any role in an Allegiance battle. Ultimately, someone will 
+ need to coordinate the war effort and play commander. The commander sees the action take place 
+ on a top-down tactical map, which is actually generated using the game's 3D engine. He can zoom 
+ in on individual ships or jump into the fray at any time, but his essential role as commander is 
+ to oversee the battle, to issue orders to his pilots, and to make strategic decisions. The commander 
+ can easily order ships to defend miners and stations, to mount an attack against an enemy installation, 
+ and more; meanwhile, the pilots in those ships need only push a button to toggle the autopilot 
+ that takes them to the allocated destination. Pilots can opt to ignore orders, but their teammates 
+ probably won't appreciate a loose cannon; at the same time, if the commander's doing a bad job, 
+ he can easily be ignored and promptly replaced. For the player in the commander's position, Allegiance 
+ plays out much like other real-time strategy games, only with the very notable difference that 
+ all his units are being controlled by other human players. As such, a good pilot will do a lot 
+ of good for your team, but your chances of actually winning an Allegiance match are slim without 
+ a capable commander calling the shots.  
+
+ While one player can choose to become the commander, another player can opt to become the team's 
+ investor and to oversee resource allocation for new weapons and technology. But most often, you'll 
+ inevitably end up piloting the various combat spacecraft in Allegiance, from lithe scouts all the 
+ way up to lumbering capital ships. As if the game's underlying strategic elements weren't sophisticated 
+ enough on their own, Allegiance also features a fairly unconventional spaceflight physics model. 
+ The game simulates deep space inertia, so any change to your velocity will be more or less gradual, 
+ depending on your ship. It feels like you're sliding on ice, but as you get more accustomed to 
+ the game, you'll be able to use the inertia to your benefit and learn key strafing maneuvers and 
+ evasive tactics. It isn't easy to get used to Allegiance's flight model, and the game's long-winded, 
+ semi-interactive tutorials are at least as intimidating as they are beneficial, but you'll gain 
+ all the experience and teaching you need out in space flying alongside veteran pilots who'll be 
+ happy to lend you a hand. Allegiance is a complicated game that's attractive for its sophistication 
+ as well as for its action, which means you'll likely find yourself playing in games with more of 
+ an upper-crust kind of crowd than you might be used to in online action games or online role-playing 
+ games. On the other hand, you won't find as many people playing Allegiance overall.  
+
+ If you host the game, you can customize an Allegiance match however you choose. You can opt to play 
+ with just a few or many dozens of players simultaneously, set the maximum number of lives for participating 
+ pilots, set the number of teams, and also restrict the game to players of a particular skill level. 
+ You can play Allegiance as a strategic space combat game, but you can also opt for capture-the-flag 
+ rules, pure deathmatch, and other variants that encourage you to gather more resources or find 
+ more artifacts. The game rules are highly flexible, and there's a lot of variety within each game, 
+ from all the different ships you can fly to the different miscellaneous roles you can assume. Allegiance 
+ lets you play over a network or the Microsoft Gaming Zone and also lets you join the Allegiance 
+ Zone for a nominal monthly fee, which keeps a record of your stats and offers unique game types 
+ and scenarios and more. It's an evolving service that's well suited for hard-core Allegiance players 
+ but not necessary for all of them. In general, you can jump into an Allegiance game with just a 
+ couple of clicks, whether the game has just started or is already in progress.  
+
+ Allegiance is at the forefront of an increasingly popular type of online game that encourages cooperative 
+ competitive play. Although the game features all of the excitement of a first-rate space combat 
+ sim, thanks to its great graphics and its variety of spacecraft, what really sets the game apart 
+ is how it meshes real-time strategy elements and various support roles together with the dogfighting 
+ to create an original experience. It takes a while to get the hang of Allegiance, but the payoff 
+ for mastering all its nuances and applying those time-honed skills alongside a contingent of likewise 
+ seasoned pilots and strategists is suitably rewarding.     
+-------------------------------------------------
+:::User Reviews::: (3 Reviews)
+::::::
+UserName: vaskaville
+Rating: 4
+Date: Mar 2, 2009 7:55 am PT
+Review:  The Bad: Terrible voice acting, tutorial, boring gameplay, graphics, minor crashing and or glitches 
+ and bugs.
+  
+  This is one of those games that you enjoy for the first few minuets then you get tired of and rather 
+ get rammed by a goat than play it some more. To be honest I didn't enjoy Alligence at all. Hardly 
+ anyone ever plays Alligence why does Microsoft still keep it online? Pitiful voice acting it sounded 
+ like someone was talking to you on the other side of a vast cave, I couldn't understand the instructors 
+ in the tutorials with that echo, which brings us to tutorials, half of the time the tutorials were 
+ not quite clear because it told me to do something that I have never done before in the game and 
+ it didn't say how it just said to do it. The gameplay is real bland, there are no missions except 
+ for the tutorial missions. There are far better games in this genre that I would rather play than 
+ this. 
+::::::
+
+::::::
+UserName: Nintendokid891
+Rating: 9.4
+Date: Jun 26, 2006 10:14 am PT
+Review:  I downloaded this game a while ago and I still love it! This game is amazing. It counts on a lot 
+ of team worrk. What really is amazing is that you can be a commander and command around 5-50 people! 
+ Here's my review.
+  
+  GAMEPLAY- The gameplay is great. Its an amazing game because of the way it is layed out. It's simple 
+ also. You load your ship with weapons. You go out. You blow the braind out of everything and everyone! 
+ Very fun.
+  
+  9 out of 10
+  
+  GRAPHICS- The graphics re amazing! These are some of the best computing gaming I have ever seen! 
+ I was so amazed by the graphics!
+  
+  10 out of 10
+  
+  SOUND- Good sound effects, but little music. I like when you switch on auto pilot though because 
+ that computer (female) voice comes up and says "Auto Pilot Engaged".
+  
+  7 out of 10
+  
+  LEARNING CURVE- This game is just right to learn. Just try it! There is basicly a 30 minute learning 
+ curve. The tutorials are good. But you should read all og the info in the help menu.
+  
+  0-30 Minutes
+  
+::::::
+
+::::::
+UserName: chrbje
+Rating: 9.1
+Date: Jun 8, 2006 4:53 am PT
+Review:  This is no an old game no doubt about it, and old games despite good qualities usually dont hold 
+ water for most player after 7 years, but i would argue this one does,, big time!.
+  
+  I started this game way back in beta stages and stayed with it until it was dying. It was one of 
+ the first true online only games, and a good one at that, it has loads of gameplay qualities that 
+ are blatantly missing from many of todays titles.
+  
+  So whats all the brewhahaha about this dead old forgotten title then?, well this is not some old 
+ fart remembering how much better things where,, this game is alive again, for free!. A while back 
+ MS made the source for the game public and a handfull of brave souls set about releasing the game, 
+ for free and has the ambition of further development.
+  
+  I recon this is the best free game out there today. Sure it might be a little hard to get into 
+ and the graphics are clunky, but the game is revarding on so many levels that you wont regret investing 
+ some time into it and make due with the graphics. Check it out its a small download and you will 
+ be off in no time. 
+::::::
+
+-------------------------------------------------

@@ -1,0 +1,713 @@
+-------------------------------------------------
+:::Game Name::: Battle Realms
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/strategy/battlerealms/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Nov 12, 2001
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 8.7
+Critic Score: 8.2, 28 Review (s)
+User Score: 8.5, 1,024 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Crave
+Developer: Liquid Ent.
+Genre: Real-Time Strategy
+Date:     Nov 7, 2001 &raquo;  
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Battle Realms has style in spades -- everything about it is slick, and it's noteworthy for that reason 
+ alone, as well as for many others. 
+
+ Battle Realms, the first product from Liquid Entertainment, has style in spades -- everything about 
+ it is slick, and it's noteworthy for that reason alone, as well as for many others. It's a martial-arts-themed 
+ real-time strategy game featuring dozens of great-looking units from four unique factions, impressive 
+ graphical effects, and an innovative resource model. It has a polished, attractive presentation, 
+ an open-ended campaign, and several good multiplayer modes. Battle Realms does have a few gameplay 
+ issues that diminish some of its strategic appeal, as the action can prove to be difficult to manage. 
+ But it's still a very worthwhile experience despite these things and should provide many hours 
+ of enjoyment for all kinds of real-time strategy players.           Incredible-looking martial 
+ arts battles are common in Battle Realms.    
+
+  The setting and characters of the game are clearly inspired by some of Hong Kong's most spectacular 
+ martial arts films -- particularly the work of director/choreographer Tsui Hark -- as well as some 
+ of Japan's action-packed comics and animated films, like the gory and stylish  Ninja Scroll . The 
+ incredible fight sequences featured in last year's film  Crouching Tiger, Hidden Dragon  are also 
+ a good frame of reference for what you can expect from the battles in Battle Realms. Nothing is 
+ mundane in the game's fictional Far East-like world -- even simple peasants can fight as trained 
+ martial artists should the need arise. All the game's various units and characters don't just stand 
+ adjacent to each other and hack away, as in most other real-time strategy games. Instead, they'll 
+ attack with a variety of moves and techniques and put on quite a show in the process. Thanks to 
+ the game's beautifully animated fully 3D units, not to mention the attractive terrain graphics 
+ and the overall detail found in the game, Battle Realms certainly looks impressive.   
+
+  True to its source of inspiration, combat in Battle Realms can be quite chaotic. You actually have 
+ little control over your units besides being able to move them about (you can make them run by 
+ double-clicking) , order them to attack, and initiate their special abilities if they have any. 
+ It's surprising that you can't do more with your units. They're very autonomous -- they'll automatically 
+ rush to attack nearby foes, prioritize threats properly, and even switch between ranged and melee 
+ attacks as necessary. The pathfinding in the game is great -- tell your units to go somewhere, and 
+ they will, stopping to fight any enemies along the way. But you can't set your units in formations 
+ and must instead move them as a rabble (though the rabble moves at the speed of the slowest unit 
+ in the group) ; and the pacing of the combat can be so fast that you'll just have to wait and see 
+ whether your forces survive. It can be very difficult to pull units out of battle, as they will 
+ seem to keep trying to lurch back into the fray. Also, since the game's units are large and tend 
+ to spread out when they fight, it can be all the more difficult to keep track of everything that's 
+ happening in a big battle, since it won't all fit onscreen.   
+
+  Micromanaging the combat is necessary to sway the odds in your favor -- individual units can have 
+ special abilities or equipment that can be used in battle to debilitate their foes, bolster their 
+ allies, and much more. Still, the breakneck pacing of the combat will often force you to simply 
+ use all of your special powers and abilities all at once, hoping for the best. But not all of the 
+ game is this fast-paced -- it can take a while to bring enemy structures to the ground, during which 
+ time the enemy can flee with a few peasants and set up a new base of operations elsewhere, making 
+ the battle drag on.           The four different clans play almost as different as they look.  
+   
+
+  The peasant, your basic unit, is automatically produced from peasant huts it can build. The more 
+ peasant huts you have, the faster peasants are generated. But the more units you have, the slower 
+ peasant generation becomes, until you reach your maximum unit limit -- up to 50. Peasants can build 
+ other structures and can also gather the game's two resources, rice and water. New buildings cost 
+ a surplus of rice and water. Training new units costs rice and water too.   
+
+  The resource model is slightly more complex than that -- rice grows back slowly, but it'll grow back 
+ faster if you have peasants water it. And you don't just buy military units as you do in most real-time 
+ strategy games -- your peasants train themselves into them. Thus, the resource gathering in Battle 
+ Realms becomes a challenging proposition. The more peasants you have, the more resources you can 
+ gather -- but unless you upgrade peasants by training them to be troops, you'll be defenseless. It's 
+ an interesting system, especially once you factor in some of the finer details, like rains suddenly 
+ replenishing all your rice paddies or having to use water to put out buildings that have caught 
+ fire. Fortunately, the building process moves quite briskly in Battle Realms, and since there are 
+ fairly strict upper limits on how much rice and water can be stored, you'll have a good sense of 
+ when your economy is well underway and be able to commit to military training.    
+
+ Still, you'll have to pay a lot of attention to your economy at all times. Though peasants ordered 
+ to harvest rice, fetch water, or water rice will continue to do so, as more peasants become available, 
+ you'll need to deal with them individually. You'll need to send them into basic training facilities 
+ to produce your basic fighting units -- for instance, the cruel Serpent Clan can produce swordsmen 
+ by sending peasants to the tavern (in an amusing touch, you see things like "@*!#?" spewing forth 
+ from the tavern, which signifies that it's occupied by an apparently none-too-pleased swordsman 
+ in training) . To create more-powerful units, you then send your new fighters into other training 
+ facilities. The swordsman can then be upgraded by training him to be a bandit (who can loot the 
+ corpses of his foes for some rice and water) by sending him to the sharpshooter's guild.       
+     Aggressive tactics are rewarded, but so is a thriving economy.    
+
+  You'll need to go through three, four, or even five steps to produce some of the more advanced 
+ combat units. The bandit can then become a ronin, who fights with two huge blades; and four ronin 
+ can then be sacrificed to form a powerful necromancer, whose mere presence causes all the fresh 
+ corpses around him to rise up as zombies under his command. Unlike in other real-time strategy 
+ games that let you build high-end production facilities to produce your strongest forces directly, 
+ in Battle Realms, you must go through the same incremental process each time you want to train 
+ one of your stronger units. So you can't just make a bunch of ronin from scratch. Fortunately, 
+ what you can do is set rally points from one training facility to another just by right-clicking 
+ to create a sort of production line. You can even set rally points from peasant huts straight to 
+ resource patches or training facilities. This way, you can leave your town be for a while -- but 
+ your peasants will still make themselves useful and automatically train up to whatever unit you 
+ desire.   
+
+  The rally points are a good thing, but of course, you'll often want to pick and choose which units 
+ to make, as well as when to make them. This can be a bit of a hassle since the minimap on the interface 
+ doesn't distinguish between buildings, units, peasants, or much of anything. You'll just see a 
+ big, colored blotch to indicate the concentration of your forces. In reality, your buildings are 
+ huge and spread out. Once you've built up your town, expect to have to manually scroll around it 
+ a lot, looking for stray units. Fortunately, there's a prominent button on the interface for zeroing 
+ in on idle peasants (and also on battles underway or on buildings caught on fire) . And you can 
+ queue up peasants or other units for training at particular structures. Only one unit at a time 
+ can train in each structure, but the rest will wait their turns.           Kenji and his closest 
+ allies are shown here, all on horseback.    
+
+  Battle Realms' resource model is mostly very well designed, and the game has a lot of other great 
+ concepts as well. One is that virtually any unit can ride on horseback (though the Wolf Clan prefers 
+ to use horses for food) . Peasants have a few additional roles, including repairing damaged buildings, 
+ putting out fires, and taming horses, which can be found out in the wild. These can then be brought 
+ back to a stable you've built, and any of your units can then use them as a steed. The animation 
+ of units on horseback looks simply outstanding. Units can fight with increased effectiveness from 
+ the mount, and the horse itself can even use a trample attack against nearby enemies. Horses also 
+ effectively give your units extra hit points (your units don't take damage until the steed is killed) 
+ and of course help you cover more ground quickly, but they aren't strictly necessary in battle. 
+   
+
+  Another option you have is to build certain structures that can outfit your troops with special 
+ limited-use equipment. This lets you upgrade units individually, but for an individual fee. It 
+ can give you a surprise advantage against an opponent unaware of the trick you have up your sleeve. 
+ For instance, the swordsman can purchase an enchanted glass sword that can kill a foe outright, 
+ but it shatters in the process, damaging the swordsman himself. Archers and other long-range fighters 
+ can purchase specialty arrows and darts. This equipment necessitates still more micromanagement. 
+ Not only do you have to individually equip your troops, but you also must keep track of who has 
+ what and when to use it, and there's no clear visual indication of which troop has battle gear. 
+ Still, using the appropriate battle gear is what will separate an advanced Battle Realms player 
+ from another, and this feature definitely adds some depth and a long-term learning curve to the 
+ game.    
+-------------------------------------------------
+:::User Reviews::: (18 Reviews)
+::::::
+UserName: om3ga_storm
+Rating: 9.5
+Date: Jul 28, 2008 3:57 pm PT
+Review:  This is my first review and how appropriate it is for one of my all time fav. games!
+  
+  Alright, so I bought Battle Realms when it first came out at my friend's suggestion. At first I 
+ was a little reluctant but after playing it for a few hours I really got into it.
+  
+  The game is based in a fictional Asian setting. You've got four clans which are pretty unique to 
+ each other in terms of unit types but the overall playing mechanics are similar. i. e. similar resource 
+ gathering.
+  
+  Talking about mechanics, the way units are trained is very unique and I loved it. After you build 
+ a hut, or a house (usually the first building you construct) , you automatically start generating 
+ peasants at a fixed rate. (more houses increase that time but not too dramatically) . The rate actually 
+ is that of exponential decay in that as your pop. grows your rate decreases. The fact that the 
+ pop. limit of this game is 40 should give you an idea of how fast paced this game is (should be 
+ anyway) . I've actually never reached that limit. The closest I got to was around the mid 30s, but 
+ ideally both of you would have done a lot of fighting by then.
+  
+  This leads to the training of units. The way units are trained is quite innovative as well. You 
+ send your peasants that have been generated into various buildings and there they get trained. 
+ Suffice to say it is a nice change from all the other RTSs where you simply train units out of 
+ literally nothing. Here you actually send peasants to get trained. If you don't want to micromanage 
+ individual peasants, you can of course make waypoints. 
+  
+  The battles are fun to watch. The graphics are very colorful and bright, and the combat plays out 
+ well. You've got the blasts, fire, slashing, each unit making noise, so it feels like how a real 
+ battle would be. One of my fav things about combat was how ranged units adjusted when being attacked 
+ by a melee unit. For example, the dragon clan has archers. When a wolf clan brawler closed in on 
+ the archer, the archer didn't just keep shooting at point blank range like in many other RTSs. 
+ Instead, more realistically, the archer starts wacking the brawler with the bow. Things like this 
+ made the fights very enjoyable to watch and more believable. 
+  
+  Each unit is also quite unique and memorable, much like how Team Fortress 2 has divided their classes 
+ into unique ones. I still remember the loyal samurai of the dragon clan to the thievish ways of 
+ the serpent clan sharpshooters, to the savage wolf clan berserkers, and the disgusting lotus clan 
+ Diseased ones. Add to those characteristics the individual abilities which they can learn that 
+ add more flair to the battles and you've got a very fun RTS game that will appeal to those looking 
+ for a different type of experience.
+  
+::::::
+
+::::::
+UserName: hellish_eye
+Rating: 7.5
+Date: Jul 8, 2008 4:56 am PT
+Review:  well i think its too late to talk about this Game cause i think this game released like 2001 mean 
+ 7 years ago, but honestly the game is amazing, well if you are wondering why its amazing, briefly 
+ the game have different way of playing, i mean by that the age you play in and the way you build 
+ the buildings and the way you train your citizen to make them armies , well its not like other 
+ games you just build barracks and click on the army you would like to build then here is my army!.
+ 
+  Also there is weakness for each army, and spells and they are useful for wining a battle not just 
+ spells with no effect , and you wont win the game that easy just by collecting a lot of armies, 
+ so i think really the only way to figure out how much the game is nice just by playing it, and 
+ you wont get bored fast from it . 
+::::::
+
+::::::
+UserName: infinite_venom
+Rating: 7.5
+Date: Dec 8, 2007 5:41 pm PT
+Review:  Battle Realms is a game created by Crave and Liquid Ent.. The game has some potential which is 
+ nice but is somewhat ruined a little by some problems. The battles though can be fun and entertaining. 
+ The campaign is also good though it can be frustrating if you have to build a town from the start 
+ while being attacked by numerous forces, or if you have to clear all enemies on the mission. This 
+ is somewhat bad and makes most missions time-consuming and frustrating. The number of maps looks 
+ nice though some of them almost look alike. Building in Battle Realms can be fun but can be frustrating 
+ as it takes time to build a large settlement. The visuals though are nice even though its pretty 
+ much a little old. The trees, grass, building, and other things looks nice. The frame rate is stable 
+ especially if you have a fast computer. The sounds are pretty much good. The music may not be that 
+ great but it should still be enjoyable.
+  
+  While the game has a lot potential, its problems keeps it from being a better game. Overall, the 
+ game is fun especially if you don't mind those problems. 
+::::::
+
+::::::
+UserName: woodchip50
+Rating: 9.1
+Date: Apr 6, 2007 4:27 am PT
+Review:  I am shocked and dismayed by the fact that I havent already written a review on this outstandingly 
+ masterful and brilliant game! I find that with most games that they will be on the top of my to-do 
+ list for about 1-3 weeks, and then, once they bore me, I dont go back to them for a good solid 
+ period ranging from 6-18 months. So
+  
+  Q) What do I do when I am tired of all my games? A) All I have to do is get out my copy of battle 
+ realms and BANG I am no longer bored brainless.
+  
+  Anyway onto the main review:
+  Context:
+  O. k this game is set in Japan I believe, and is evidently from before world travel/exploration/etc. 
+ There are four clans (dragon, serpent, lotus and wolf) each following attributes of their chosen 
+ creature or flower. The dragons are honourable warriors, the serpents are much slyer (if that 
+ is a word) and are actually a band of thieves effectively, the lotus for some reason feel they 
+ should make themselves ill (they are practically black magicians) , and the wolves are generally 
+ large people with the muscle force of giants but the mind set of four year olds, meaning they prefer 
+ brawl over brainsand actually come to think of it the lotus generally oppose this preferring brains 
+ over brawl, oooh revelations readers, just realised they may be trying to prove the will of the 
+ mind stronger than the physical reality by making themselves ill! Yes. That must be it. Be it that 
+ or else they are just a tad oddor a bit of bothhmmm
+  
+  .. ANYWAY:
+  This game is a kind of RTS thing. Basically you can first choose a clan to play with (each different 
+ in their own special ways) , then you build you settlement and build up an army, then go out and 
+ try to beat everyone else before they beat you. You can however do loads of other things. There 
+ are heroes to summon, upgrades to learn and a unique hierarchy for each clan to go through. Part 
+ of the beauty of this game is that it is just that simple, there are no extra complex things to 
+ understand, just three resources (rice, water, and yin/yang) .
+  This game has a skirmish option for quick battles, a tutorial mode to teach you the gameplay rules 
+ (surprising that!) and like most RTS games it also has a story mode: this is the hard bit to the 
+ game, it is in essence a set of skirmishes with several limitations and options for you to choose 
+ from that affect the rest of the story mode (e. g. do you take path a or path b?) . Now an analysis 
+ of each review feature:
+  Lets start with the negatives.
+  
+  Graphics:
+  The graphics unfortunately leave much to be desired. The game uses basic 3D shapes to build the 
+ characters and is merely coloured accordingly. But this does lead to a mega positive: it does reduce 
+ the in-game loading time (this is on my rubbishy computer upstairs) , and so consequently gameplay 
+ is greatly improved which lets you get on with the important bitplaying! Other than that I have 
+ little else to say in this area And now the positives-
+  
+  Gameplay:
+  GREAT, occasionally this will slow when there is an entire army on screen but apart from that there 
+ is nothing wrong here. Sound:
+  Battle Realms has a wide selection of different backing pieces that play throughout, each is relative 
+ to something, some relate to clans whilst others inform you of battles etc. Naturally it is all 
+ in context. Lovely. Value:
+  Oh it is indubitably immensely superbly amazingly spectacularly good value! I got my copy for &pound;3.99 
+  what a bargain! I will however stress that this is one of the features that make it so brilliant, 
+ as it is cheap I am very pleased with it, and even for the hours upon hours of fun I have on it 
+ I wouldnt recommend paying more than &pound;20 (think thats about $35-ish) for it : ( WHY? Because 
+ when I pay the extra &pound;10+ for a game I am really doing so for the graphics as I expect the 
+ fun to be packed into that first 20 quid
+  
+  Reviewers tilt:
+  I scored this at full to achieve that 9/10 score as truly this game is quite brilliant!
+  
+  
+ Hope that helped
+  
+  Woodchip50 
+::::::
+
+::::::
+UserName: Bozanimal
+Rating: 9.2
+Date: Jan 25, 2007 9:57 am PT
+Review:  Summary: A highly enjoyable RTS game with quirky units (in the form of 4 clans) , an interesting 
+ unit upgrade system, and surprising depth.
+  Gameplay: Excellent RTS execution. There are nuances to the gameplay, with certain characters better 
+ at particular tasks than others. For example, only Spearmen from the Dragon Clan are unaffected 
+ by their elevation when in battle (anyone else who is below a target gets a penalty) . Other nuances 
+ are how only the crossbowmen from the Serpent Clan regenerate to full health after they have been 
+ hurt. These subtle differences in characters make for a game that you can explore and replay over 
+ and over.
+  Graphics: Great for the time, but dated now. The battle maps are a bit bland and repetitive. However, 
+ the character design and movement are top-notch.
+  Sound: Fantastic voice acting, believable sound effects, moody music. Everything about the sound 
+ is top-notch.
+  Value: Cheap, buy it. 
+::::::
+
+::::::
+UserName: p99007
+Rating: 8.8
+Date: Jan 18, 2007 11:38 am PT
+Review:  This game is an extremely compotent as it seta a high goal and easily completes it.
+  
+  The Graphics are great and the water effects are really cool and the rocks are nice. In addition 
+ the grass and trees are very detailed and are a joy to play on. In addition, there are a ton of 
+ maps. There are around 24 maps to play on and all of them are cool. Online this game is dead, but 
+ the AI are great and alot of fun to play. In addition, the sound in this game is well done.
+  
+  Gameplay is key in this game. it is alot of fun and I highly reccomend the campaign, its some 
+ of the best ive played. However, its reealy reeally tough. but if oyu can overcome it, it is great. 
+ Overall, Just check this game out. It was worth it in 2001, its still worth it now. 
+::::::
+
+::::::
+UserName: Com_Meister32
+Rating: 9.2
+Date: Dec 3, 2006 5:26 pm PT
+Review:  Battle Realms was a game that i picked up very cheaply. I wasnt expecting alot from it, I just 
+ wanted a game that could tide me over for a bit until i saved up enough for a good game. But man 
+ i got alot more then i bargained for! Its one of those overlooked but great games. It is a very 
+ well-balance game with a long campaign that lets you choose your path. It will satisfy you for 
+ hours because the quick battle option makes it highly replayable and fun. Its graphics are quite 
+ stunning for its time too! There are just so many options with this game and it is very easy to 
+ get used to. Definitely pick this one up in your nearest bargain bin if you're looking for some 
+ good gameplay!! 
+::::::
+
+::::::
+UserName: PunkAss007
+Rating: 10
+Date: Nov 5, 2006 8:31 am PT
+Review:  One of the greatest games I've ever played... I started playing it when it was realesed, so till 
+ now I have a couple of years of expirience in it... It is on of my favourites... OK, the game is 
+ old and the graphics is bad, but so what? The games itself is great! Now, in 2006/2007 we can say 
+ that the graphics is pretty bad, but in the time it was made, it was amazing... The nature is done 
+ nicely, just the quality of troops is bad... especially their arms... Anyway, I'll give the graphics 
+ a 10 cuz I'll look from the old point of view (I'll look at it as it was 2001st year...) . For that 
+ period, it is great! The sound is perfect... No complains about that... Anyway, I think that the 
+ game is Worht to try for everyone and Masterpiece for me.... 10 out of 10 = perfect... :) 
+::::::
+
+::::::
+UserName: Rysing_Furi
+Rating: 9
+Date: Sep 21, 2006 10:20 pm PT
+Review:  The game has an excellent story that really reels you in, you'll want to see it through to the 
+ end just because its so cool. You'd think a japanese samurai martial arts and swords kind of game 
+ would bore you to tears, but its such a welcome change from lasers and nuclear missles etc that 
+ you don't even notice it. There is nothing like seeing 12+ archers reign fire down on a village 
+ or army. The game simply has that man that is so cool factor about it. You'll soon see awesome 
+ fights on the battlefield, and this is helped by the exceptional animation of the characters. Whether 
+ using swords, fists, arrows, or even distraction, the game always looks good. Gameplay is great, 
+ any RTS player will pick it up easily. The units are all well done, and you'll soon get the hang 
+ of the peasant system the game uses. The sound is well done, although your units will repeat phrases 
+ a bit often. Where the sound really shines is in its music. The music fits perfectly, and sounds 
+ distinctly japanese/chinese along with having a full orchestra to boot. The only thing that could 
+ have been done better in the game is the cinematics. The game uses the in-game engine zoomed up 
+ on your heroes/units, which ends up being rather fuzzy and it just seems like an oversight on the 
+ creator's part. It would have been far better with anime style cinematics but I guess its all money 
+ money money. All up however, this is a great game and any RTS fan should have a go simply because 
+ its just so cool! 
+::::::
+
+::::::
+UserName: sith_slayer
+Rating: 9.2
+Date: Jun 23, 2006 10:24 am PT
+Review:  When I first got this game I was expecting a pretty ordinary strategy game ala C&C or warcraft. 
+ But after I finished the tutorials (its a must that u do them) I was blown away with all the new 
+ stuff this game has to offer. Theres so much new ground covered here that even the most veteran 
+ strategy players will find something new to fiddle around with. The comic approach to the model 
+ design is reminiscent of warcraft but the gameplay is all its own. With almost 30 units to a faction 
+ and 4 factions, this game has enough to keep you busy for months. Surprising its still one of a 
+ kind. 
+::::::
+
+::::::
+UserName: cloudstrife145
+Rating: 9
+Date: Apr 6, 2006 3:20 pm PT
+Review:  This game is another wonderful strategy game. There are 4 clans that fight each other for land 
+ and victory. There is the Wolf, the Lotus, the Serpent, and the Dragons. 
+  
+  The graphics are good, the music is good, the story is good, and the gameplay is good. All is good, 
+ making the game a great game. Liquid Entertainment has given a wonderful game that is not easily 
+ to be forgotten.
+  
+  The game is just plain fun.... it's similar to Red Alert/Yuri's Revenge. There are lots of "soldiers" 
+ in each clan. First, the one main thing in a the beginning of a game is to build houses, barracks, 
+ and other more by using your parents. Just play it and you'll know. 
+  
+  This game is a must buy game! Buy it now or else you'll regret it! 
+::::::
+
+::::::
+UserName: Bologa
+Rating: 8.4
+Date: Feb 24, 2006 12:47 pm PT
+Review:  When I got this game I was not sure if it was going to be good. I started playing and I got addicted 
+ to it. The game gives you four or five tribes that you can choose from and each of them has their 
+ unique units. The only units you produce are peasants in your town hall. With these peasants you 
+ got to make them harvest rice and bring water to your town hall. Once you have the necessary resources 
+ (rice, water and faith points that you get randomly) you can build barracks and other buildings 
+ like that. Once the buildings are completed then you must take one of your peasants and make him 
+ train in the barracks. Once the training time is over then you get yourself a melee unit. I suggest 
+ you try it first though because it is a little different compared to the other games of the genre 
+ like AOE. This is a great game that I suggest to anybody who like the RTS genre. 
+::::::
+
+::::::
+UserName: Zaryus
+Rating: 8.6
+Date: Feb 1, 2006 9:51 pm PT
+Review:  Even though this review is almost 5 years late, the time I spent playing Battle Realms was fun 
+ enough for me to want to write a review now.
+  
+  On the Presentation scale it was good.... for 2001, even though 5 years doesn't sound that long 
+ for some of us old people ,graphics have come along way so the graphics are pretty darn good for 
+ it's time. The sound is still passable by today's standards. The gameplay was simple and familiar, 
+ yet interesting and different. Some as simple as getting peasants trained in buildings instead 
+ of a barracks spontaneously giving birth to a soldier was engaging at first glace. I also liked 
+ how each faction was very different an had their own flavour, I was a big fan of the Wolf Clan. 
+ I liked their ingenuity mixed in with some good old fashion clubbin'.
+  
+  RTS fans would enjoy a nice change of pace in this game. Definatly worth checking out. 
+  
+::::::
+
+::::::
+UserName: jacksonfdam
+Rating: 7
+Date: Nov 28, 2005 10:15 am PT
+Review:  Battle realms  um dos melhores games de estrategia que j joguei. O sistema de inteligencia dele 
+  otimo. Em algumas fases ele  fodastico. Muito dificil... mas em algumas ele  bem calmo... A Liquid 
+ Entertainment
+  mandou muito bem nos graficos e na jogabilidade...
+  
+  Fora o sistema de aproveitamento e tranformao dos personagens, este foi um ponto muito bem explorado, 
+ que faltava nos games do genero...
+  
+  Alem do mais os especiais, a qualidade dos graficos e as taticas agressivas do jogo incrementam 
+ ainda mais a vontade do jogador prosseguir na historia.
+  
+  Simplesmente  um jogo que eu recomento a qualquer gamer...
+  A expansao dele ficou otima...
+ 
+  
+::::::
+
+::::::
+UserName: rebel_punk34
+Rating: 9
+Date: Sep 24, 2005 5:33 am PT
+Review:  Battle Realms has a unique game-play style. For story mode you can choose the Path of the Dragon 
+ or the Serpant. Each side has its own plot and enemies. The Skirmish or online has its own strong 
+ points too. For example, you can choose which clan you can be. Also, you can learn what there strengths 
+ and weaknesses are from playing skirmish, which can come in very handy when playing story mode. 
+ I hope they make more Battle Realms games in the future like The Winter Of The Wolf, also I hope 
+ thay can make more of the BR games based on the clans. 
+::::::
+
+::::::
+UserName: agefreak
+Rating: 8.8
+Date: Jul 29, 2005 3:27 pm PT
+Review:  Battle Realms, the first of Liquid Entertainments impressive line of offerings, comes along as 
+ a RTS game with subtle touches that form the essence of its immensely appealing presentation and 
+ execution. Released at a time when the likes of Age of Mythology and Warcraft III ruled the genre, 
+ the game carved itself a niche in the competitive genre, and provided RTS fans with a breath of 
+ fresh air in the form of the innovative ideas it implemented so well. The game might be mistaken 
+ as another run-of-the-mill RTS by a relatively unknown developer, but in reality, it has plenty 
+ of depth and variations to keep even the most hardcore RTS fan engrossed.
+  
+  The setting of the game is entirely in a fictional Far-Eastern themed land, and its oriental inspiration 
+ is pretty much apparent. The game sports a slick interface with an attractive presentation and 
+ subtle finishing touches here and there, which might be minor but are quite noticeable. The game 
+ throws at you the usual options of a Campaign and a Skirmish mode. The Campaign follows the journey 
+ of Kenji, a swordsman returning to his land after a period of exile (apparently for murdering his 
+ father) . The campaign makes you choose your fate as the leader of the noble Dragon Clan or the 
+ not-so-noble Serpent Clan early on in the story. The story branches out at several instances, requiring 
+ you to make choices between the territories you want to capture, thus making the revelation of 
+ the plot all the more enjoyable. The plot, in itself, is quite well written and implemented.
+  
+  The basic resource management and combat models of the game are where the game stands out from 
+ the rest of the RTSs. Your basic resource gathering unit is the Peasant, and the basic resources 
+ are rice and water. Peasants are not trained; they get spawned from Peasant Huts. The more huts 
+ and lesser population you have, the greater is the rate of spawning. Of course, there is an upper 
+ limit to the no. of peasants youre allowed to have (depending upon the population limit) . Rice 
+ is gathered from rice fields and water from ponds and wells. Rice, once gathered, diminishes from 
+ the field, but grows back over time. If the fields are watered regularly (by your peasants, of 
+ course) , the rice grows back at a faster rate. But as an additional twist, both kinds of resources 
+ have an upper limit. Heres where the player has to have a tradeoff between various tasks performed 
+ by various peasants. 
+  
+  Another function of the peasants is in training of military units. Your units are not simply created 
+ by spending resources at the required building.. Your peasants must be sent into the building 
+ for a short period of time, after which he emerges as a trained combat unit. Thats not all 
+ units, once trained, may be sent into other military structures for further training, which helps 
+ you produce other specialized units. For example, a Spearman may be trained into a Dragon Warrior, 
+ which may be further trained into a Samurai, all at different structures. In many cases, youll 
+ have your units do at least 3 to 4 rounds of training, before you have the desired units. This 
+ unique system offers plenty of depth as well as scope for experimentation, which results in greater 
+ replay value. Its plain that the peasants form the bedrock of any clan, and thus, their efficient 
+ management is of prime importance. 
+  
+  The combat system is also drastically different. While the Click-and-Move system still remains 
+ the same, the way your units react in combat is very much different. Units do not move in formations 
+ rather, they move as a bunch at a common speed. While in combat, they exhibit skills which are 
+ straight out of a martial arts movie, with magnificent slashes, leaps and other maneuvers. Your 
+ units pretty much take control of combat in their hands. They rush to attack the enemy, switch 
+ automatically between melee and ranged attacks, and are quite aware of the situation around them. 
+ This neat system allows you to avoid micromanagement of units during combat, except when you want 
+ to use a units special abilities, if any. In the end, you just have to select the appropriate 
+ units for battle, group them up, move them towards their foe and sit back and watch the spectacle, 
+ all the while throwing in a special power or two. 
+  
+  Another great addition to the combat system is the use of horses. Virtually all of your military 
+ units (and even peasants) can mount a horse. Horses are scattered over the map, and must be tamed 
+ and brought to the stables by the peasants before they can be used in combat. Even peasants harvesting 
+ resources can mount horses to speed up things a bit. Your steeds give you a definite advantage 
+ in the battlefield, not only of speed, but of extra hitpoints, as your units do not take any damage 
+ while their horses still alive. All these aspects of combat make it move at a breakneck pace, 
+ and in most cases, a sight to gape at in wonder!!!
+  
+  Your units can be upgraded in different ways. They may purchase special upgrades at certain buildings, 
+ or they may receive upgrades in strength and attack points through research at their respective 
+ buildings. These upgrades require you to spend Yin or Yang points, depending upon the faction you 
+ command. These points basically represent energy you gain while in battle, and their accumulation 
+ heavily depends on your success. The more yin/yang points you have, the lesser is the rate of accumulation 
+ of these points. This is another feature which throws in an element of challenge for the gamer. 
+ And of course, units with upgrades outclass their vanilla counterparts by quite a bit, thus making 
+ efficient usage of these points important. 
+  
+  Coming to the clans there are 4 of them  The noble Dragon Clan, the evil Serpent Clan, the twisted 
+ Lotus Clan and the mysterious Wolf Clan. Each clan has a distinctive look and feel about it, and 
+ also plays almost as differently, which is another plus towards the games refreshing nature. The 
+ unit categories might be the same, but the units in themselves offer plenty of variations. For 
+ instance, youll instantly recognize the clean but menacing look of the Dragon Clans Kabuki Warrior 
+ and the dominating, humongous frame of the Sledger from the Wolf Clan, each suited for its own 
+ purpose. Besides all the regular units, each faction has a number of what are called Zen Masters, 
+ which are mighty hero units that can be summoned from each faction's keep for a price. These powerful 
+ warriors look absolutely stunning, with their awesome weapons, remarkable combat moves and special 
+ abilities.
+  
+  It has been quite evident throughout the review that the game looks quite stunning. All unit models 
+ look great and have a neat oriental touch to them. The environments, though limited, also look 
+ superb; with neat touches like birds flying out of canopies as your units pass through, clouds 
+ throwing faint shadows on the ground and little animals scurrying here and there. The character 
+ animations have also been superbly handled. Each unit has its own distinct combat style, which, 
+ by the way, is nothing short of amazing. The movement of all units, their varied actions, like 
+ peasants trying to fend off an overly exuberant horse, all count as finishing touches to the spectacular 
+ presentation of the game. The game runs surprisingly smoothly, even with plenty of units on the 
+ screen. This just shows the scalability of its engine.
+  
+  Sound effects are absolutely splendid, and complement the theme of the game perfectly. The sounds 
+ of leaves getting crushed, birds flying suddenly out of a cluster of trees, and splashing of water 
+ as your units move through it  all add to the exceptional in-game environment. The combat sounds 
+ are at par with the rest, with great blade slashing effects and war cries. The background score, 
+ consisting of light eastern themes, is meant to complement the games environment without actually 
+ causing a diversion, and needless to say, it does its job well. 
+  
+  The single player campaign is quite engrossing, with its storyline and replayabiltity, and the 
+ AI is smart enough to keep gamers engrossed in the single player skirmishes. Apart from this, the 
+ game also offers Multiplayer gaming through its integrated GameSpy player-matching service. The 
+ multiplayer is riddled with a few bugs, but most of them have been fixed by the subsequent battle 
+ packs released by Liquid. Both in multiplayer and in the skirmish mode, there are plenty of maps 
+ of all sizes to choose from and there are also a few discreet modes of play available. For instance, 
+ in one mode, all you have to do to win is raze the enemy keep. In the Famine mode, you are given 
+ a large amount of rice and water to amass your army. You can never earn more resources, so this 
+ becomes an exercise in careful spending and battle micromanagement and thus can make for a good 
+ diversion from the core gameplay. However, the game lacks a Scenario Editor, which could have provided 
+ some additional pluses in itself. 
+  
+  The game does well by giving itself a feel completely different from traditional RTSs. However, 
+ in some cases, it does stray a bit too far. For instance, the game does not incorporate a statistical 
+ management system for any of the units. Fans of the Age Of Empires series and the like might remember 
+ judging their units by the no. of hitpoints, attack points and armor they have. This usually 
+ helped in creating the perfectly balanced army. But in Battle realms, due to the lack of such information 
+ (rather, the non-disclosure of such information) , players are generally forced to create a good 
+ mix of all available unit types and throw them in combat  a system that tends to get a bit mundane, 
+ despite the varying levels of complexity. The single player scenario is based on an intriguing 
+ storyline and offers plenty of twists and turns, but most of the scenarios sometimes simply boil 
+ down to creating a base from scratch, and hunt down every single enemy unit, thus making the gameplay 
+ slightly linear, although you may use different tactics in different scenarios. The campaign story 
+ is put forward through cutscenes a la AoM. While the voice acting is pretty decent, the cutscenes 
+ in themselves are nothing spectacular. In fact, in some cases, the irregular zooming in and out 
+ makes them downright ugly. 
+  
+  
+  All said and done, theres no doubt that Battle Realms is a must play for any RTS fan. While gamers 
+ new to this genre might prefer a taste of traditional RTSs like Age of Mythology, a twist in gameplay 
+ for the good does no harm. The game might be riddled with a few shortcomings, especially in the 
+ multiplayer and micromanagement departments, but all that is well made up by the exhilarating graphics 
+ and animations, the terrific sound effects and the impeccable presentation of the game. All in 
+ all, a top notch effort by Liquid Entertainment in a genre chock full of competition.
+  
+  
+  Highs
+  
+   Great Graphics and Sound
+   Unique Gameplay
+   Intriguing campaign storyline
+ 
+   Superb resource and combat modeling
+   Overall excellent presentation
+  
+  
+  Lows
+  
+   Few multiplayer bugs
+   Very little micromanagement, especially in combat
+   No scenario 
+ editor
+  
+  
+  
+::::::
+
+::::::
+UserName: randar23rhenn
+Rating: 6.8
+Date: Apr 21, 2005 5:15 am PT
+Review:  Battle Realms looked like it should have had everything, from the awesome characterization to a 
+ sweet setting, Battle Realms seemed like the ultimate RTS to play before Warcraft 3. Sadly, it 
+ didn't live up to expectations, repetitive and too easy, the lasting appeal of Battle Realms is 
+ very low. That is not to say it doesn't have good points, however.
+  
+  Gameplay: Battle Realms attempts to give you many choices when you play as the different factions. 
+ These factions include the Wolf Clan, the Lotus, the Snake, and the Dragon Clans. They are all 
+ rather different, which is certainly a good thing, but unfortunately, even while the units are 
+ different, it all plays the same. 
+  
+  The premise for Battle Realms is genious, something game developers should have thought up years 
+ ago- use the peasants to turn into troops, and continue upgrading. This was something I had really 
+ wanted to see in games for a while, but once I saw how it worked for Battle Realms, I'm not sure 
+ I ever want to see it again. What the system ammounts to is creating buildings to mass produce 
+ peasants, send the peasants to random buildings to upgrade them as needed, and repeat.
+  
+  This causes for massive lines and long wait times as you sit and wait for your more useful units 
+ to get trained, and it also turns the skirmishes into needlessly long outings.
+  
+  Another issue with Battle Realms is the horrifying lack of balance. Whilst at first it seems rather 
+ balanced, once you discover the secret of the Wolf Clan, that is, to mass produce wolves (just 
+ about every one of your soldiers can traveil with 1-3 wolves) , you can easily overrun even experts 
+ of the other clans. This lack of balance is disturbing, and a massive flaw for an RTS game to have.
+ 
+  
+  The campaign is also dull and exceedingly, painfully long. While it doesnt involve all that many 
+ missions, the gameplay is so tedious you will want it to end as soon as possible.
+  
+  This is not to say Battle Realms does not have many interesting innovations. These include the 
+ ability for most of your units to upgrade individually to suit your needs, helping combat certain 
+ opponents, as well as the abillity to get into towers and use various attacks from them.
+  
+  Graphics: Graphically, Battle Realms was beautiful for its time, and is still rather appealing 
+ today. The units all look unique, and have their own unique fighting styles. Sadly, there aren't 
+ enough battle animations, and you will soon grow tired of seeing one attack animation over and 
+ over.
+  
+  Sound: The music is as forgettable as the sound effects, but it is not horrible, just... average.
+ 
+  
+  Value: The game will keep you entertained for a good period of time if you decide not to exploit 
+ the balancing weaknesses, but once you have played games like Warcraft, Starcraft, the Total War 
+ series, etc, all better RTS games, you won't be coming back.
+  
+  Tilt: Battle Realms could have been so much more. It should have been so much more, but it is not. 
+ With some more time put into development and the smoothing out of balance issues, Battle Realms 
+ could have been great, but as is, it's a diamond in the rough.
+  
+::::::
+
+::::::
+UserName: Nealok
+Rating: 5.1
+Date: Feb 7, 2005 12:00 pm PT
+Review:  This is an example of a great game idea that just didn't make it all the way through the execution 
+ stage with all that inspiration intact. 
+  
+  The graphics capture the setting with easy-to-miss nuances and the world feels like it's really 
+ alive. While the story and backstory aren't anything new or breathtaking, they do provide a good 
+ reason to care about what side you pick and what their M. O. is. 
+  
+  But besides the mechanics of how you build your army -- which is pretty damned innovative, I think -- 
+ the combat itself is slow and uninspired, and IT doesn't bring anything new to the table per se. 
+ I gave up on this game's multiplayer for a weekend, which is just slightly shorter than the single-player 
+ component lasted. 
+  
+  Don't let the pretty graphics and cool setting fool you. This game is only for people who just 
+ NEED to play every RTS they can get their hands on. NEED IT. Are there any such people? 
+::::::
+
+-------------------------------------------------

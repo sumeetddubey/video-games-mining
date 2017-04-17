@@ -1,0 +1,130 @@
+-------------------------------------------------
+:::Game Name::: Spearhead
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/pc/sim/spearhead/review.html
+-------------------------------------------------
+:::The Good:::
+
+-------------------------------------------------
+:::The Bad:::
+
+-------------------------------------------------
+:::Date::: Sep 14, 1998
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.4
+Critic Score: 6.2, 8 Review (s)
+User Score: 7.6, 15 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Interactive Magic
+Developer: MAK Technologies
+Genre: Tank Sim
+Date:     Jul 31, 1998
+
+-------------------------------------------------
+:::Review:::
+The game offers a handful of features and elements that seem ideal forhard-core sim fans, but the 
+ mission designs and the general feel of gameplayseem more appropriate for an action game. 
+
+ 
+ A long time ago, MicroProse released M1 Tank Platoon. Then for a while nothing happened - until 
+ now. It seems as though this is the year of the tank sim, with iM1A2 Abrams, Armored Fist 2, and 
+ M1 Tank Platoon II all hitting store shelves within the past 12 months. Well, Interactive Magic 
+ is at it again with Spearhead, an Abrams sim codeveloped by Mak Technologies and Zombie.  
+
+ Spearhead is a difficult bird to describe. The game offers a handful of features and elements that 
+ seem ideal for hard-core sim fans, but the mission designs and the general feel of gameplay seem 
+ more appropriate for an action game than a serious sim.  
+
+ The game includes 20 stand-alone missions as well as a 23-mission campaign. The setting is Tunisia, 
+ where Libyan and renegade Tunisian forces have rolled over the countryside in a massive attack. 
+ Our friendly Libyan leader thinks that the Tunisian president plotted to assassinate him, hence 
+ the military action and the Tunisian plea for assistance from the United States. The goal, as you 
+ might guess, is to sweep all invading forces out of Tunisia.  
+
+ Unlike M1 Tank Platoon II, Spearhead uses a linear campaign, so you must complete your mission goals 
+ to move on. Also unlike MicroProse's tank sim, the secondary results in one mission have no direct 
+ bearing on the next. In other words, so long as you accomplish your goals, it doesn't matter how 
+ many tanks and support vehicles you lose along the way - as long as you don't lose your own. In 
+ Spearhead, you can issue orders to other friendly forces, but you can't directly control them, 
+ so if your tank gets destroyed, the mission is over.  
+
+ This wouldn't be so bad if only the interface for commanding other units was decent. Unfortunately, 
+ Spearhead's IVIS screen is an exercise in clutter and counterintuitive design. For starters, unit 
+ symbols on the overhead map often overlap at the default zoom level - which is the best one for 
+ spotting enemy forces and for plotting destinations for computer-controlled friendlies. With the 
+ symbols overlapped, it is nearly impossible to select the unit you want, let alone issue an order 
+ to it. And to zoom in or out you have to pull up a completely different set of interface buttons, 
+ which wastes precious seconds when a wave of T-72s is pouring over the next ridge. For some reason, 
+ the game does not include a keyboard shortcut for zooming in and out on the map screen. At the 
+ very least, I-Magic could have reduced the size of some of the buttons in order to fit more on 
+ the IVIS screen at a time (a la M1 Tank Platoon II's strategic map screen) .  
+
+ The IVIS also uses a somewhat odd selection system, whereby you must first select the order you 
+ want to issue, then select the unit to carry out that order, then select the destination/target 
+ where applicable. Why not just click on a unit to activate it, then pick the order and the destination/target? 
+ Finally, the IVIS only allows a limited number of orders to be given: Move To, Engage, Do As I 
+ Do (which doesn't strike me as a legitimate military directive, but perhaps I'm wrong) , Weapons 
+ Tight/Free, and Orientation. There's also a recon button, but the manual says that this has no 
+ purpose (so why is it in the game?) . Note that there is no waypoint system in Spearhead, which 
+ can make navigating a huge pain, especially on large maps.   
+
+ Another problem: You cannot order your tank platoon into a formation of any kind. They must be ordered 
+ to move as individuals or else follow your lead via the Do As I Do command (though that seldom 
+ delivers the desired effect, as your vehicles often go rolling full-bore over the ridgeline you're 
+ using for a stealthy hull-down position) . Then again, you don't always have a full platoon to command. 
+ Some of the missions have you driving solo, usually escorting IFVs to some nav point.  
+
+ The mission design is pretty good throughout the game, except for one real stinker early on. In 
+ the second mission, you must defend a pair of Bradleys as they make a sweep of nav points - which 
+ are completely unknown to you. Instead of following a preset plan of some kind, you have to watch 
+ the Bradleys and turn when they turn, while scanning the horizon for those half-dozen or so T-72s 
+ waiting in ambush. This scenario struck more as a Wing Commander sortie than a sim mission. Also, 
+ this ill-fated mission has a huge bug: If you simply drive your tank a short distance south from 
+ your starting point (which is also where you must end the mission after a successful patrol) , you'll 
+ accomplish the mission objective in about ten seconds.  
+
+ By this point you're probably wondering if I liked anything about the game, right? Well I actually 
+ liked a lot about the game and think it could have been a truly great title, which may be why the 
+ bizarre flaws mentioned above angered me so much.  
+
+ The graphics engine, while not quite up to M1 Tank Platoon II's standards, is quite good. All of 
+ the internal viewpoints use an "invisible HUD"-style interface, rather than the detailed interior 
+ shots you'll see in iM1A2 Abrams and M1 Tank Platoon II. This may not be realistic, but it certainly 
+ enhances visibility. Terrain is well rendered, and it's easy to identify the location and size 
+ of hills in the game's desert maps (an all-important aspect in any tank sim) . The distance fogging 
+ in 3D-accelerated mode is among the best I've seen, as you can see enemy vehicles come slowly into 
+ view out of the distant haze - they don't just pop into view as if coming from behind a big gray 
+ curtain. All of the vehicles are well modeled and animated to move in realistic fashion. I especially 
+ like the way the turrets on computer-controlled tanks scan the landscape for threats. Some nice 
+ effects include dead and burning vehicles that cook off their ammo and missile shots that are often 
+ hard to identify as anything other than a small gray puff on the horizon - when you do realize 
+ what they are, it's often too late to do anything about them. The sound effects are also quite 
+ impressive and well worth mentioning.  
+
+ The enemy AI seems quite good, even on the lower difficulty settings (which are only available for 
+ single missions - the campaign runs at a predetermined difficulty level) . Enemy tank platoons often 
+ maneuver quickly to surround your forces, and there is almost always a distant BMP sniping your 
+ guys with rocket shots. Also, since you have to replay a mission if you lose, the game does a good 
+ job of randomizing enemy locations and attack postures to keep things interesting and challenging. 
+
+ Spearhead also comes with an impressive mission editor, which allows you to craft some fairly intricate 
+ scenarios of your own. This utility allows you to place vehicles, buildings, and other items on 
+ any of the game maps and also lets you script unit behavior and adjust the randomization factor 
+ for each enemy (for replays, as mentioned above) . My only complaint about the editor is that it 
+ crashed a few times.  
+
+ The game's multiplayer options are pretty good and - as far as I could tell - relatively stable. 
+ Spearhead supports competitive and cooperative play for up to eight players over LAN and Internet 
+ links. Two players can go at it over modem links.  
+
+ As I said, Spearhead is a tough bird to describe. I enjoyed playing it and got a kick out of the 
+ crafty AI and the fairly fast-moving action of the missions. Unfortunately the cumbersome IVIS, 
+ the lack of waypoints and formations, and the rest of the game's baffling oversights make this 
+ a second-tier product at best. If I-Magic can correct some of these elements with a patch, you 
+ may want to keep your eyes on this one. Otherwise, M1 Tank Platoon II (version 1.2, of course) 
+ is the way to go for a great modern tank sim.    
+-------------------------------------------------
+:::User Reviews::: (0 Reviews)
+-------------------------------------------------
