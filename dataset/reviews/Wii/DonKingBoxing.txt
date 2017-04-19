@@ -1,0 +1,137 @@
+-------------------------------------------------
+:::Game Name::: Don King Boxing
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/wii/sports/donkingpresentsprizefighter/review.html
+-------------------------------------------------
+:::The Good:::
+ Solid presentation.
+ Good motion controls.
+-------------------------------------------------
+:::The Bad:::
+ Fights lack impact.
+ Judging distance is a pain.
+ Training program is too separate from the career mode.
+-------------------------------------------------
+:::Date::: Apr  3, 2009
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5.5
+Critic Score: 6.1, 7 Review (s)
+User Score: 6.9, 18 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: 2K Sports
+Developer: 2K Shanghai
+Genre: Boxing
+Date: Mar 31, 2009
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+Good controls can't cover up for the boring, lifeless fights. 
+
+  With Don King's multisyllabic faux-cabulary and towering hairdo, it often seems like he's not a 
+ real person. The video game that his name adorns, though, tries very hard to offer a realistic 
+ depiction of the sport. There are licensed boxers from both this era and years long past, as well 
+ as famous arenas where classic fights were held. The slow-paced, defensive-oriented matches also 
+ mirror the real sport, rewarding well-timed blows rather than chaotic punches. However, this realism 
+ is marred by a severe lack of impact. Punching someone in the face should fuel the uncouth barbarian 
+ buried far below the average person's surface, but in Don King Boxing, it carries no weight. This 
+ sanitization makes the matches feel sluggish and bland, and even with a bevy of classic boxers 
+ to control, the game gets knocked out in the first round.  
+
+  The controls in Don King Boxing are entirely motion based, and for the most part, they work well. 
+ You can throw three different types of punches -- jabs, hooks, and uppercuts -- by swinging your arms 
+ in the appropriate direction, and the game does a good job of differentiating between your movements. 
+ There are times when it will mistake your attempted hook for an uppercut, but it doesn't affect 
+ the in-ring action, so it's not much of a detriment. The defensive controls also work admirably. 
+ You hold A to put up your gloves, and then tilt the controller to dodge and duck. Timing your feints 
+ can be difficult when a heavyweight is bearing down on you, but usually it's only your dull reflexes 
+ that will be exposed.  
+
+  However, even though the controls in Don King Boxing do a fine job of replicating the sport, their 
+ success is quickly forgotten because the action lacks intensity. You view matches directly behind 
+ your silhouetted boxer, and initially this does a good job of sucking you into the battle. But 
+ the advantage of being in the middle of the action quickly dissipates as the harsh reality sets 
+ in. You have no depth perception. It's incredibly difficult to know how far away your opponent 
+ is, so you'll often swing wildly and miss when he's a hair out of reach or take a shot to the chin 
+ when you thought he was too far away to do damage. Because you can't properly judge your distance, 
+ the controls are also severely compromised, making it difficult to plan a strategic combo or sway 
+ away from a punch.  
+
+  People who want their legs to be as active as their arms during matches can use the balance board, 
+ but it doesn't make the fighting any more impactful. You can stand on the board to sway away from 
+ attacks, and though it does respond well to your movement, it's a little too sensitive. You have 
+ to hold yourself poised and motionless if you want to stay still; if you accidentally shift your 
+ weight at any point, your boxer will mirror your movement, so it actually makes the fighting worse 
+ than it normally is. The balance board is also used during the training program, letting you perform 
+ an impromptu dance-off with your trainer. It works well enough, but the training routine lacks 
+ energy, making it feel flat before the first session has ended.  
+
+  Like the matches, the training mode controls well but lacks the impact that would make it compelling. 
+ You can punch bags and jump rope with ease, but there is a severe feeling of disconnect. The training 
+ menu is separate from the story mode, so you can't easily mix in a bit of exercise between matches. 
+ With only four different training programs to choose from, the modes quickly get repetitive. Even 
+ if you do get sucked into the regimen, the game presents an artificial barrier that prevents you 
+ from enjoying it. You are limited to partaking in just one of the minigames per calendar day. Although 
+ you can jump into free mode whenever you feel like it, if you want to get credit for your hard 
+ work, you have to wait a full 24 hours or artificially move your Wii clock a day forward.  
+
+           If you ever wanted to send Andrew Golota back to the 1930s, now's your chance.      
+ 
+
+  The action may quickly become monotonous, but the story is really well told. Don King and his boxing 
+ pals narrate the career of your character, dubbed The Kid, as he rises from ordinary gym rat to 
+ world champion. The live-action footage has these boxing fans recounting your career, which adds 
+ a bit of personality to the otherwise bland experience. In between their tales of your conquests 
+ are teary-eyed memories of real bouts long since past. These forays into the past recount the heartbreak 
+ of many classic fights, and in a novel twist, you can go back to relive history or change it. The 
+ gameplay doesn't change much in these flashbacks compared to your current brawls other than a black 
+ and white filter that makes everything harder to see, but it is an interesting diversion from the 
+ predictable quest to become champion.  
+
+  With a bunch of real fighters and motion controls that accurately replicate real-life boxing, it 
+ seems as though Don King Boxing would be a smashing success. But the action is just too dull. The 
+ punches lack any impact, making it seem like you're punching through a cloud instead of an angry 
+ man's face, and the close-up view makes it difficult to judge the distance to your opponent. Even 
+ the addition of the balance board can't make the fights engaging, because it's just too sensitive 
+ to be a worthwhile alternative to the standard control scheme. If Don King Boxing had the energy 
+ of its outrageous spokesman, it could have been a contender, but in its sluggish current form, 
+ it's just another glass-jawed bum.     
+-------------------------------------------------
+:::User Reviews::: (2 Reviews)
+::::::
+UserName: dweber31
+Rating: 0
+Date: Apr 4, 2009 4:18 pm PT
+Review: C//DTD HTML 4.01//EN"        Don King Boxing User Reviews 
+ for Wii - GameSpot                                   function do_rbx_ctrk_netxp1 (aElem, iTrkId, 
+ cTrkPrefix) { var imgElem =  if (! imgElem) { return true; } if 
+ (! aElem. rbxCPrefixed) { aElem. rbxCPrefixed = true; var destUri =  
+ var newUri = cTrkPrefix + destUri; aElem. href = newUri; } return true; } function do_rbx_itrk_netxp1 
+ (parentId, iTrkId, iTrkUri) { if (! document. images) { return false; } var imgId = iTrkId; var imgElem 
+ =  if (! imgElem) { var parentElem =  
+ if (! parentElem) { return false; } var imgElem = document. createElement ('img') ; if (! imgElem) { 
+ return false; } imgElem. id = imgId; imgElem. src = iTrkUri; imgElem. alt = ''; imgElem. width = '1'; 
+ imgElem. height = '1';  } return true; }   ON   GameFAQs :  The 
+ top 10 most tiring games    //    
+::::::
+
+::::::
+UserName: roryrozza
+Rating: 0
+Date: Apr 2, 2009 5:06 am PT
+Review: C//DTD HTML 4.01//EN"        Don King Boxing User Reviews 
+ for Wii - GameSpot                                   function do_rbx_ctrk_netxp1 (aElem, iTrkId, 
+ cTrkPrefix) { var imgElem =  if (! imgElem) { return true; } if 
+ (! aElem. rbxCPrefixed) { aElem. rbxCPrefixed = true; var destUri =  
+ var newUri = cTrkPrefix + destUri; aElem. href = newUri; } return true; } function do_rbx_itrk_netxp1 
+ (parentId, iTrkId, iTrkUri) { if (! document. images) { return false; } var imgId = iTrkId; var imgElem 
+ =  if (! imgElem) { var parentElem =  
+ if (! parentElem) { return false; } var imgElem = document. createElement ('img') ; if (! imgElem) { 
+ return false; } imgElem. id = imgId; imgElem. src = iTrkUri; imgElem. alt = ''; imgElem. width = '1'; 
+ imgElem. height = '1';  } return true; }   ON   TechRepublic :  
+ Do goodbye e-mails pose a risk?    //    
+::::::
+
+-------------------------------------------------

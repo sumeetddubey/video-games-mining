@@ -1,0 +1,292 @@
+-------------------------------------------------
+:::Game Name::: Onechanbara: Bikini Zombie Slayers
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/wii/action/oanechanbararkyouranenmai2007/review.html
+-------------------------------------------------
+:::The Good:::
+ You can dismember zombies.
+-------------------------------------------------
+:::The Bad:::
+ Combat is mindless and repetitive.
+ Every level feels exactly the same.
+ Story does not make any sense.
+ Little difference between the playable characters.
+ Boring.
+-------------------------------------------------
+:::Date::: Feb 18, 2009
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 3
+Critic Score: 5.5, 18 Review (s)
+User Score: 6.6, 105 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: D3
+Developer: Tamsoft
+Genre: Beat-'Em-Up
+Date: Feb 10, 2009
+ESRB: Mature
+
+-------------------------------------------------
+:::Review:::
+Onechanbara makes zombie-slaying women boring. 
+
+  As you may have been able to figure out from the title, Onechanbara: Bikini Zombie Slayers is more 
+ concerned with parading an endless stream of undead monsters and women in revealing clothing than 
+ delivering a meaty and thought-provoking experience. And that is not necessarily a bad thing. But 
+ Onechanbara is so mindless, the combat so repetitive, the levels so monotonous, that even the inherent 
+ joy of dicing legions of zombies into tiny cubes does not conjure even a tiny flash of excitement. 
+ You might think that an array of scantily clad heroines dismembering an endless horde of creatures 
+ would elicit some thrill, possibly on a primal level, but you would be mistaken. The excessive 
+ gore and extreme objectification in Onechanbara are not able to mask the simple gameplay for even 
+ a few minutes, which makes this a boring and repetitive hack-and-slash with no redeeming qualities. 
+
+           What a precious prom photo.      
+
+  A story is buried beneath the layers of zombie blood, but it is so inexpertly told that it's impossible 
+ to make out what is actually happening. Before each level, a wall of text against a darkened background 
+ will attempt to convey your motivations for chopping up hundreds of enemies, but it serves only 
+ to muddle what should be a basic quest fueled by bloodlust. Instead of using a conventional narrative 
+ to reveal the tale, the story segments resemble poorly composed poems with a choppy structure that 
+ makes it extremely difficult to understand the purpose of your journey. Obviously, people should 
+ not expect the story of a zombie-murder simulator to change their worldview, but these interludes 
+ in Onechanbara suck the personality from an already boring action game.  
+
+  However, the action is the real source for your boredom. You will be able to plow through the vast 
+ majority of the game by lazily shaking the Wii Remote to unleash your sword strike. Without exaggeration, 
+ you can tear through wave after wave of enemies by walking around the levels and shaking your arm 
+ like a madman as you cut a legion of zombies into tiny bits. A couple of enemy types will require 
+ a more restrained approach, but the level of strategy needed to conquer even these higher-level 
+ foes is insultingly low. For example, mudmen require a more rhythmic method, forcing you to time 
+ three consecutive attacks to rip their hearts from their filthy bodies. Zombie cops will hold up 
+ their hands to block, making you wait a beat before you can cut them apart. And that is the extent 
+ of the resistance that you'll face from your apathetic attackers.  
+
+  The levels are just as bland as the combat. You'll travel from sparse city streets to indistinct 
+ office buildings without any landmarks to make these locations memorable. When you complete the 
+ story mode (which takes not much longer than an hour) , you'll unlock one of the four characters 
+ and have the option to play through the same set of levels with a different persona. These characters 
+ have slightly different attacks -- Misery has an extendable sword and Saki can throw her foes -- but 
+ your strategy will never vary. Even the option to upgrade your abilities at the end of each section 
+ does nothing to make this game more compelling. Putting more points into your strength or weapon 
+ reach has little effect on the action, so the combat feels identical from the moment you first 
+ start playing until you're finished and throw down the controller in disgust. There isn't any gameplay 
+ variety thrown in to mix things up, either. Every level has you walking around, chopping up zombies 
+ indiscriminately, until you mercifully reach the end.  
+
+           That zombie cop sure is indifferent to his impending demise.      
+
+  You'll encounter 
+ bosses from time to time, but while these enemies offer more challenge than the standard swarm, 
+ the battles are still excruciatingly bland. There are four heroines total in the game, and the 
+ bosses are whichever three characters you are not controlling. They have the same attacks as you 
+ do and will employ the same strategy as well. Get ready for thrilling battles between two barely 
+ clothed women mindlessly swinging their oversized swords until one of them dies. Given that your 
+ counterpart will slash away with her sword as if the Wii is frantically shaking a controller of 
+ its own, you'll have to use defensive rolls to win these battles. There isn't much depth to these 
+ encounters, but having to employ a few defensive techniques in addition to rapidly swinging the 
+ remote makes them slightly more tolerable than the usual combat.  
+
+  Onechanbara: Bikini Zombie Slayers is a lousy game. It isn't aggravating or frustrating, it's just 
+ boring. The story is incomprehensible, the levels all feel the same, and the simplistic combat 
+ never evolves. With so much wanton dismemberment onscreen, it's hard to imagine that it could be 
+ so utterly bland, but Onechanbara is never able to make this exceedingly simple experience the 
+ least bit engaging. Even at a budget price, Onechanbara is not worth your money or time.     
+-------------------------------------------------
+:::User Reviews::: (8 Reviews)
+::::::
+UserName: mibukin
+Rating: 0
+Date: Mar 28, 2009 7:30 pm PT
+Review: C//DTD HTML 4.01//EN"        Onechanbara: Bikini Zombie Slayers 
+ User Reviews for Wii - GameSpot                                   function do_rbx_ctrk_netxp1 (aElem, 
+ iTrkId, cTrkPrefix) { var imgElem =  if (! imgElem) { return true; 
+ } if (! aElem. rbxCPrefixed) { aElem. rbxCPrefixed = true; var destUri =  
+ var newUri = cTrkPrefix + destUri; aElem. href = newUri; } return true; } function do_rbx_itrk_netxp1 
+ (parentId, iTrkId, iTrkUri) { if (! document. images) { return false; } var imgId = iTrkId; var imgElem 
+ =  if (! imgElem) { var parentElem =  
+ if (! parentElem) { return false; } var imgElem = document. createElement ('img') ; if (! imgElem) { 
+ return false; } imgElem. id = imgId; imgElem. src = iTrkUri; imgElem. alt = ''; imgElem. width = '1'; 
+ imgElem. height = '1';  } return true; }   ON   CNET :  Top 5 deadliest 
+ computer viruses    //    
+::::::
+
+::::::
+UserName: child_of_lileth
+Rating: 0
+Date: Mar 14, 2009 4:13 pm PT
+Review: C//DTD HTML 4.01//EN"        Onechanbara: Bikini Zombie Slayers 
+ User Reviews for Wii - GameSpot                                   function do_rbx_ctrk_netxp1 (aElem, 
+ iTrkId, cTrkPrefix) { var imgElem =  if (! imgElem) { return true; 
+ } if (! aElem. rbxCPrefixed) { aElem. rbxCPrefixed = true; var destUri =  
+ var newUri = cTrkPrefix + destUri; aElem. href = newUri; } return true; } function do_rbx_itrk_netxp1 
+ (parentId, iTrkId, iTrkUri) { if (! document. images) { return false; } var imgId = iTrkId; var imgElem 
+ =  if (! imgElem) { var parentElem =  
+ if (! parentElem) { return false; } var imgElem = document. createElement ('img') ; if (! imgElem) { 
+ return false; } imgElem. id = imgId; imgElem. src = iTrkUri; imgElem. alt = ''; imgElem. width = '1'; 
+ imgElem. height = '1';  } return true; }   ON   MovieTome :  Best 
+ TV edit ever! SNAKES ON A PLANE!    //    
+::::::
+
+::::::
+UserName: BronzeK
+Rating: 0
+Date: Feb 25, 2009 7:51 pm PT
+Review: C//DTD HTML 4.01//EN"        Onechanbara: Bikini Zombie Slayers 
+ User Reviews for Wii - GameSpot                                   function do_rbx_ctrk_netxp1 (aElem, 
+ iTrkId, cTrkPrefix) { var imgElem =  if (! imgElem) { return true; 
+ } if (! aElem. rbxCPrefixed) { aElem. rbxCPrefixed = true; var destUri =  
+ var newUri = cTrkPrefix + destUri; aElem. href = newUri; } return true; } function do_rbx_itrk_netxp1 
+ (parentId, iTrkId, iTrkUri) { if (! document. images) { return false; } var imgId = iTrkId; var imgElem 
+ =  if (! imgElem) { var parentElem =  
+ if (! parentElem) { return false; } var imgElem = document. createElement ('img') ; if (! imgElem) { 
+ return false; } imgElem. id = imgId; imgElem. src = iTrkUri; imgElem. alt = ''; imgElem. width = '1'; 
+ imgElem. height = '1';  } return true; }   ON   MovieTome :  How 
+ bad was STREET FIGHTER?    //    
+::::::
+
+::::::
+UserName: GeekyDad
+Rating: 8
+Date: Feb 20, 2009 7:04 am PT
+Review:  I've written about this game elsewhere and have been participating in the discussion taking place 
+ within the game's associated forums, but I feel compelled to do a little, reader review. It's not 
+ at all surprising to see the game receive less-than-stellar reviews from professional sites. It's 
+ definitely a low-budget production, and it speaks to gamers' basest urges. That said, the fact 
+ of the matter is the Wii version of Onechanbara is undeniably fun. And there's just no getting 
+ around that.
+  
+  When I was first faced with the prospect of having to play a game that featured full-on waggle 
+ combat, I was none too enthusiastic. I've played other games that attempted that -- Soul Calibur 
+ Legends for one -- and none of them were fun or satisfying. So, I was greatly surprised when I 
+ started playing Bikini Zombie Slayers.
+  
+  There are two main components that make Onechanbara successful in my eyes. One, the feedback you 
+ receive when attacking enemies. Rather than hearing a swooshing sound when waving your sword, you 
+ instead get a hard-hitting, slashing sound whenever your weapon impacts with an enemy. A slight 
+ difference perhaps, but it greatly affects the level of satisfaction you get out of the game's 
+ combat.
+  
+  The most important element, however -- that which makes the combat here enjoyable -- is that you 
+ don't have to swing the Wii Remote with great force. Basic combos are performed by simple up-and-down 
+ gestures, and when matched with the forced feedback coming from the controller, it makes for combat 
+ that's so incredibly satisfying on a visceral level.
+  
+  The Nunchuk, too, plays into combat (aside from the obvious character movement with the analog 
+ stick) , but it's simple and makes sense. If enemies guard, you can shake the Nunchuk to kick, which 
+ will break them out of their stance and then allow you to complete your combo. It's also used for 
+ Saki (one of the four playable characters) to perform her Beat Mode techniques, which are amazingly 
+ fun to pull off and watch.
+  
+  Here's the thing, though -- Onechanbara doesn't do much outside of offering mindless hack-n-slash. 
+ But it doesn't really have to, either. The game is modeled after arcade action games of the past, 
+ and to that end, it really is a wonderful diversion. You're not going to get even a decent story 
+ from the game; there are only a couple of bosses, and they're very easy; there are no puzzles, 
+ no platforming... it's just straight-up zombie killing. 
+  
+  Here's the other thing, though -- it's so damn fun! It's sexy, it's stupid, and it's almost everything 
+ you want when what you want is instant gratification. It's also a pretty fat package, with four 
+ separate story modes; a survival mode and free play; cooperative, split-screen multiplayer; and 
+ tons of quests and unlockables.
+  
+  Don't let others decide for you if you're contemplating getting this game. For $30, you get what 
+ you pay for. It's a good value if you're in the mood for shameless exploits, but no, it's not Devil 
+ May Cry. It's an arcade game for Wii, and so long as you don't attach high expectations to it, 
+ you should have a great time with the game. 
+::::::
+
+::::::
+UserName: aura_enchanted
+Rating: 8.5
+Date: Feb 19, 2009 8:19 am PT
+Review:  this game has all the elements of a 16 year olds favourite game. weapon scantily clad with 2 sets 
+ of big guns, and enough targets for them to kill to put dead rising to shame. Its gameplay is challenging 
+ and requires time to get decent at. but once u have it mastered this game is worth all you pay 
+ for it. the 3.0 from gamespot is bunk and they know it. 
+  If you come here expecting stereotypes you will find this game to be worth its 3.0 but if you come 
+ here expecting too see an anime style slash/shoot -em up you will find solid gold. its replay is 
+ good, its story is solid if a little along the side of cheesy. and you will probably go take a 
+ cold shower regularly after playing this game.
+  im not one to ruin stories so i wont but its worth every second of it. its pure uncensored fun 
+ with lots of unique gameplay. its one flaw is rehashed environments. but if i needed to have background 
+ to play a good game i guess crysis is worth is 9.0 or better . 
+::::::
+
+::::::
+UserName: lirilith_malach
+Rating: 7.5
+Date: Feb 18, 2009 9:32 pm PT
+Review:  First off you are going to see seriously mixed reviews on this title everywhere you look and honestly 
+ the most accurate I've been able to find, that fit my opinions most mind you, was from "Play" magazine 
+ and can be viewed on thier site currently. This game is truly a fun game to play and requires less 
+ hardcore swinging of your Wii-mote than expected from a hack and slash title but the fact that 
+ pulling off some of the insanely elaborate combo moves takes above the norm skills is going to 
+ frustrate alot of players. The story can be more passe' than you may want from the hack and slash 
+ survival horror genre but that comes primarilly because it is a direct sequel to the Xbox "Onechanbara: 
+ Samurai Squad" game that holds the original chapter to these characters stories and introductions. 
+ Basically you WILL feel lost when the main character starts talking about her past and events may 
+ even seem out of place but that is seriously the main flaw in this games story telling and otherwise 
+ it's a basicly rudementary, straight forward story of characters who gain powers and use those 
+ powers to slay the undead while searching for answers to the unravelling events. I honestly do 
+ agree that the game is shorter than I would have preferred but at the same time my choice to agree 
+ is because I would have enjoyed continuing my zombie slashing. The thing is though that you also 
+ do get to restart and go through again w/ newly strengthened abilities or you choose another character 
+ and learn thier story arc and not spend immense ammounts of time going over and over through the 
+ game. It's relatively easy to level a characterm easy to distribute skill points, and once you 
+ start getting into it the controls will grow on you and by the end of your first run through you 
+ will be able to pull off some pretty sweet moves and decimate entire hordes of the undead. So in 
+ my honest opinion I do recommend this game to someone looking for a very cool, indepth zombie slasher 
+ w/ a high ammount of replay and reward value.... oh and on the Wii the ability to co-op play is 
+ such a sweet feature because you and your zombie killer partner will be an unstoppable duo and 
+ it will definitely push the game value way up. Have fun, play like a true samurai, and always, 
+ always aim for the head people!! 
+::::::
+
+::::::
+UserName: elbert_b_23
+Rating: 8
+Date: Feb 11, 2009 7:40 pm PT
+Review:  First thing is that i bought that game expecting an average game with zombies but ended up falling 
+ in love with a deep game
+  
+  gameplay
+  yes there is wiggle controls but with learning the cool combination attack then theres less waggle 
+ and more timing your attacks for better damage, and with blood sword/ rage it also has different 
+ gameplay, i love the blood sword idea the more zombies you kill the more blood gets on it and if 
+ you don't wipe the blood off after a while the sword will start to stick in the zombies.
+  
+  Graphics
+  i find them damn impressive the model's of zombies and good and all the different kind 
+ of enemy's and the stages look really good then theres the blood spots that come on the screen 
+ when you are cutting at a group of zombies.
+  
+  Music
+  i find it really good and setting perfect with the mood of the game.
+  
+  replay
+  the main 
+ game is around 5 hours or more for one of the main storys and with 4 girls that's just 20 hours 
+ for main story then theirs the quests 160 in all and the hidden rings to find i am sure theres 
+ at least 40 hours of gameplay if not more.
+  
+  
+::::::
+
+::::::
+UserName: everlong12
+Rating: 0
+Date: Feb 11, 2009 2:32 pm PT
+Review: C//DTD HTML 4.01//EN"        Onechanbara: Bikini Zombie Slayers 
+ User Reviews for Wii - GameSpot                                   function do_rbx_ctrk_netxp1 (aElem, 
+ iTrkId, cTrkPrefix) { var imgElem =  if (! imgElem) { return true; 
+ } if (! aElem. rbxCPrefixed) { aElem. rbxCPrefixed = true; var destUri =  
+ var newUri = cTrkPrefix + destUri; aElem. href = newUri; } return true; } function do_rbx_itrk_netxp1 
+ (parentId, iTrkId, iTrkUri) { if (! document. images) { return false; } var imgId = iTrkId; var imgElem 
+ =  if (! imgElem) { var parentElem =  
+ if (! parentElem) { return false; } var imgElem = document. createElement ('img') ; if (! imgElem) { 
+ return false; } imgElem. id = imgId; imgElem. src = iTrkUri; imgElem. alt = ''; imgElem. width = '1'; 
+ imgElem. height = '1';  } return true; }   ON   GameFAQs :  The 
+ top 10 cel-shaded video games    //    
+::::::
+
+-------------------------------------------------
