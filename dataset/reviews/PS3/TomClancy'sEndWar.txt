@@ -1,0 +1,785 @@
+-------------------------------------------------
+:::Game Name::: Tom Clancy's EndWar
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/ps3/strategy/tomclancysendwar/review.html
+-------------------------------------------------
+:::The Good:::
+ Innovative voice command mechanic makes you feel powerful.
+ Fantastic audio and visuals put you in the thick of the action.
+ Persistent online campaign makes matches feel meaningful.
+ Different match types make good use of uplink capture mechanic.
+-------------------------------------------------
+:::The Bad:::
+ Single-player campaign has no story to speak of.
+ All three factions play the same way.
+ Limited unit types make for simple rock-paper-scissors skirmishes.
+-------------------------------------------------
+:::Date::: Nov  5, 2008
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.5
+Critic Score: 7.8, 27 Review (s)
+User Score: 7.6, 456 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Ubisoft
+Developer: Ubisoft Shanghai
+Genre: Real-Time Strategy
+Date: Nov 4, 2008
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+At its core, EndWar is a bit too simple, but it does offer a unique voice command system and terrific 
+ production values. 
+
+  Many games put you in the role of a commander; few do it with the kind of immediacy that Tom Clancy's 
+ EndWar delivers. In this innovative real-time strategy game, you don a headset and issue commands 
+ to your units by speaking your wishes to your squads. Sound like a gimmick? Perhaps -- but when combined 
+ with an explosive cinematic presentation that tosses you into the thick of the action, it imparts 
+ a unique feeling of hi-tech sovereignty that's anything but a gimmick. Were this mechanic not implemented, 
+ EndWar's core simplicity would be more obvious. Its three near-future factions all play the same 
+ way, the rock-paper-scissors relationships between units are incredibly straightforward, and the 
+ single-player campaign doesn't tell any story to speak of, which is a blatant missed opportunity. 
+ Nevertheless, a novel multiplayer mode and persistent units that carry from one mission to the 
+ next keep things interesting, and on the whole, EndWar is a fun RTS that will hopefully start a 
+ refreshing new trend: console strategy games that feel tailor-made for their platforms.  
+
+           Using the headset to issue commands is a breeze.      
+
+  Your headset has an enormous 
+ impact on the experience. To order your units about, you issue a series of preset commands by holding 
+ a trigger and speaking your directive into the microphone. This runs the gamut from attacking enemy 
+ squads ("Unit two, attack hostile four") and bringing in reinforcements when they are available 
+ ("Deploy gunships") to centering your view on a particular group ("Unit three, camera") and ordering 
+ special attacks ("Air strike, hostile six") . There are limited possibilities, so don't expect to 
+ plan out multiple waypoints or set up tank patrols. Nor can you rely completely on the microphone -- at 
+ least, not if you intend to be competitive. Actions like garrisoning infantry into a building or 
+ ordering your units to unleash special attacks require some button presses, so there is a bit of 
+ light micromanagement in this regard. Additionally, if you don't have a microphone or just don't 
+ want to use one, you can use just the controller, though given the uniqueness of the voice commands, 
+ that isn't ideal. Using the headset is cool, and it works well: While there were some exceptions 
+ (the game misinterpreting "alpha" for "delta," for example) , EndWar easily recognized the huge 
+ majority of our voice commands. This included a standard Xbox Live headset, as well as USB and 
+ Bluetooth headsets on the PlayStation 3.  
+
+  The units themselves are products of EndWar's World War III setting. In the game's version of near-future 
+ events, The United States, Russia, and a unified Europe have each become superpowers, and the US 
+ plans the launch of a military space station to tip the worldwide balance of power in its favor. 
+ Unfortunately, terrorists destroy the station upon lift-off, thereby igniting global conflict. 
+ Yet as interesting and far-fetched as the setting is, it's mostly backdrop. The campaign is just 
+ a series of battles versus the AI that emulates EndWar's main multiplayer mode, so don't expect 
+ much exposition, larger-than-life personalities, or political intricacies. You can play as any 
+ of the three factions, but while your own commander (and his or her blatant accent) will change, 
+ there's no story to involve you, aside from mission updates and news blurbs. Thus, there's no reason 
+ to play the campaign with another faction if you've finished it once already. This lack of narrative 
+ is a big disappointment, given Tom Clancy's pedigree of political potboilers.  
+
+  Nevertheless, EndWar has a way of drawing you in, not just because of the unique control mechanism, 
+ but because it lets you closely follow your squads into battle. Regardless of your faction, the 
+ basic units are the same: Infantry comprises riflemen and engineers; tanks and artillery have the 
+ armored advantage; gunships take to the skies; and transports not only whisk your infantry about 
+ the battlefield, but offer necessary antiair support. Most of the time, you'll be switching your 
+ view from squad to squad, and the camera's close-up vantage point has quite an impact when you're 
+ engaged in combat. Bullets fly, gunships fall from the sky, and artillery fire rains from above, 
+ and some visual glitches aside, it's all quite exciting and cinematic in a way that most other 
+ strategy games just can't accomplish. If you prefer a more traditional overhead view, you can enter 
+ "sitrep" view, assuming that your command vehicle hasn't been blown to smithereens. Here, you can 
+ get a quick overview of the battlefield, which is useful but not particularly dramatic. The rapid 
+ zoom of the camera when you move in and out of this mode and from one unit to the next, however, 
+ is incredibly slick.  
+
+           Sitrep view gives you some perspective.      
+
+  While having so few unit types and no striking difference between factions may be authentic -- and 
+ relatively simple to balance -- given the setting, it doesn't make any side worth playing more than 
+ another. The relationship between units is always the same: tanks beat transports, gunships beat 
+ tanks, and so on, so there's little subtlety. Instead, strategy is delivered on a broader level, 
+ starting with the mission objectives. There are four main mission types: assault, conquest, siege, 
+ and raid. Assault is the simplest (kill your enemy) , while in Raid, you must either destroy or 
+ defend certain buildings on the map to achieve victory. Conquest, however, is the most interesting 
+ mode, taking its cues from the Battlefield titles in addition to EndWar's closest RTS cousin, World 
+ in Conflict. Here, you must use infantry to capture control points called uplinks scattered across 
+ the map while fending off the enemy and sabotaging their attempts to do the same. Siege battles 
+ are much less common than the others, and involve an assaulting player attempting to capture a 
+ critical uplink while the defending player struggles to maintain control of it.  
+
+  Tactics are generally obvious in all of these situations, but they can still generate a tense tug 
+ of war between players as each jockeys for position. Uplinks are present in all modes, and they 
+ are a critical part of the gameplay. Most importantly, they help you earn command points, which 
+ you need to call in reinforcements and perform other actions. However, uplinks can only be taken 
+ by infantry, so even if you aren't playing a conquest map, you'll still want some riflemen or engineers 
+ in the field. Uplinks also hold a second key to victory: upgrades that allow you to engage support 
+ powers like air strikes and electronic attacks. These powers are invaluable in a sticky situation 
+ but also cost command points, so you'll need to weigh the advantage of bringing in another transport 
+ to defeat your gunship-heavy opponent against a quick strike that could do immediate damage. There 
+ are even short-range nukes to deploy in certain circumstances that can immediately turn the tide 
+ of battle, and produce a properly spectacular explosion.     
+
+   
+
+  All of these battles are given context within a larger turn-based map called the Theater of War. 
+ The offline theater is good for practice, but it's the online theater that provides the meat of 
+ the experience. This semiglobal map is persistent, so as opposing players engage one another, the 
+ results of an entire day's matches represent a single turn within the theater. Once the day's turn 
+ is complete, new battles open up as each faction spreads its dominion. This is a great idea that 
+ may remind you of a similar mode in the mech action game Chromehounds. But while the sameness of 
+ each faction makes it hard to feel particularly loyal, it's involving to watch your faction's color 
+ spread across the map, whether that means establishing your presence in Florida or burning Paris 
+ to the ground.  
+
+           Varied mission types help make up for some missing complexity.      
+
+  So your battle 
+ prowess has global consequences, but success brings more than a victory for your faction. You'll 
+ also earn a supply of credits after each battle that you can then spend on upgrades for your units. 
+ Surviving units gain levels, which gives them access to purchased enhancements, which could mean 
+ faster movement speed, new support powers (being able to designate a new drop point for reinforcements 
+ is ever so helpful) , or additional attacks that can be triggered with a button when you are following 
+ the unit that can perform them. Like the Theater of War, this feature seems like its supposed 
+ to make you feel more emotionally attached to your faction's success, and it works to an extent, 
+ giving you an incentive that works on a more personal level. While new attacks open up some minor 
+ micromanagement options, they don't bring drastic changes, because most battles are still won or 
+ lost with quick uplink securing and basic understanding of rock-beats-scissors dynamics.  
+
+  But while EndWar's tactics were designed on a broader scale, its presentation throws you into the 
+ midst of battle. When firefights get heavy, the screen fills with units and explosions, and nothing 
+ beats watching the destruction on the ground from the vantage point of a gunship squad firing at 
+ tanks or engineers from above. Even the smaller touches make an impact, such as the authentic-looking 
+ behavior of engineer squads as they enter a building or a transport. Upon closer inspection, you 
+ can see that explosions don't look all that grand, and you'll find plenty of clipping issues and 
+ other minor quibbles. Yet on the whole, EndWar offers a terrific visual impression, thanks to fantastic 
+ unit animations and a smooth frame rate. If you're intent on purchasing the best-looking version, 
+ better color saturation gives the PlayStation 3 the slight upper hand, though both versions look 
+ and perform great.  
+
+           The standard view lets you get up close and personal with your units.      
+
+  The sound 
+ design does an even better job of immersing you in battle. This is partially due to the din of 
+ combat, which is loud and violent, perfectly appropriate for World War III. However, it's the constant 
+ radio chatter and responses of your units that have the greatest impact, making you feel as though 
+ you really are in the role of a military commander. It isn't just for show, either: EndWar's constant 
+ feedback is an important tactical tool, letting you make split-second decisions that could mean 
+ life or death for your squad. Unfortunately, there are too many times when crucial feedback ("Check 
+ unit nine") comes far too late for it to do any good.  
+
+  EndWar's unique voice command mechanic makes it wholly unique among strategy games, and it's this 
+ innovation that stands out above all of its other features. Strip it away, and you'll find a RTS 
+ game that can be fun and satisfying, but is ultimately just a bit too simplistic. But even if strategy 
+ veterans won't find all the complexities they'd expect, there's something to be said for EndWar's 
+ smart match types and cinematic presentation, which will hopefully keep the game's servers populated 
+ for some time to come.     
+-------------------------------------------------
+:::User Reviews::: (21 Reviews)
+::::::
+UserName: Detroit421
+Rating: 4
+Date: Apr 6, 2009 6:37 am PT
+Review:  Great idea on this game. I give them props on the direction that this is going. The only problem 
+ is the technology has not been perfected yet. Maybe it is just the fact that my voice is too low 
+ pitched. The game cannot seem to understand anything I say. I try to dispatch a certain unit and 
+ the command system does something completely different. This game is basically unplayable for me. 
+ I could suck on helium balloons and try playing it that way. 
+  Well I think this game might be great just not for me. I am curious if any other people with deep 
+ voices are having the same problem. I can tell a lot of people do love this game. I don't hate 
+ it I just can't play it the way it was meant to be played. If they tweak the technology a little 
+ on the sequel, and the game actually does what I am commanding it to do I might very well enjoy 
+ it? At least I only spent $15 on it.
+  
+::::::
+
+::::::
+UserName: jacko-147
+Rating: 6.5
+Date: Apr 5, 2009 12:19 pm PT
+Review:  as a gamer i like strategy games like command and conquer and i was exited to here tom clancy was 
+ giving it a go.
+  
+  the mic control system actually works pretty well and only rarelly gets ure commands mixed up how 
+ ever in the later missions can get hard to say all you need to so fast.
+  
+  campaigne got very repetitive after the first couple of missions which ment for a crap replay value 
+ and graphics at times got a bit crap. the good things were that you have a wide range of wepons 
+ and that you can pic what side you are out og america england and russia.
+  
+  online play was rubbish and never really offered anything new to keep you playing
+  
+  not a 
+ game i would strongly reccomend its more of a 1 week rental.
+  
+  in my opinion it was a let down to the clancy franchise which has great game like rainbow 6 , ghost 
+ recon and my new favourite hawx atleast they did not muk up that one 
+::::::
+
+::::::
+UserName: MagicHat1
+Rating: 7.5
+Date: Mar 8, 2009 10:53 am PT
+Review:  The PS3 hasn't had many RTS games so far, something that will change in 2009 with the likes of 
+ Stormrise or Command and Conquer. Tom Clancy's End War, released in 2008 had a chance to establish 
+ early popularity and a standard for others to follow, using Voice Control as it's main draw but 
+ I played without and suffered no problems for it.
+  
+  The battles themselves are good, while the rock-scissors-paper system isn't original, it works 
+ well. The battles force you to adapt your forces to what is going on and makes you think. I find 
+ the infantry or engineers are the most powerful units if you can get them in cover, they they become 
+ very hard to kill, making them ideal for defense. Of course lack of mobility means leaning too 
+ heavily towards your foot soldiers means you can end up handing the initiative in the battle and 
+ in some maps, no cover means they get exposed and destroyed quickly. It is a case for all unit 
+ types, if used properly by using conditions and working with others units, they will be invaluable, 
+ used poorly and you will lose. No lag during single-player during the battles, good graphics and 
+ it is a pleasure watching the units fight, listening to them respond or give warnings. One of my 
+ favorite moments was when someone one my marching engineers talked about her grandfather's 60th 
+ birthday the week before and how she had to miss it, a touching moment before the fighting started. 
+ The need to respond, readjust and think your way through the hectic battles makes for a good, enjoyable 
+ game once you get down to that part.
+  
+  Outside of battle, the brought upgrades for the troops makes a noticeable improvement in battle. 
+ The prologue is good, an entertaining story with some humor, though choice of villains is rather 
+ stereotypical. It should probably should teach about use of WMD's, grouping the troops, artillery 
+ and command jeeps rather then leave it to the loading screens but it does give you plenty of information 
+ over why the war started and how to play the game. The campaign mode merely gives a minor news 
+ item but your aide can give useful pre-battle information and your commander gives useful information 
+ on your objective, the opposing commander and a nice little speech. If there is any replayability 
+ of campaign mode (other then if you really like the game) , it is to sample the different commander 
+ each faction has.
+  
+  There are problems that mean the game is not as good as it could have been. Once you get beyond 
+ the prologue, there is no storyline at all, which after the entertainment of the prologue, is a 
+ comedown. A story for each faction would have added some replay value to the campaign mode and 
+ you would be nice to feel more involved in how the war goes. In the briefing screen before battle, 
+ the Generals can be erratic when deciding if war goes well or war goes badly which is a little 
+ confusing. During same briefing, it only shows uplink points for certain battles which is not very 
+ helpful. Without that information, I once put infantry in a precious early slot to discover we 
+ controlled two of the four uplinks, very frustrating. The difficulty mode starts off as normal, 
+ having played it it seems like they made an easy mode and called it normal, why the need to do 
+ that? There are relatively minor things that don't detract too much from the fun of battles but 
+ there are some things that do hurt the game considerably.
+  
+  At the end of battles, when it says press x to continue, it won't be ready for quite some time 
+ due to the considerable loading times. This can be rather disconcerting and made me feel it had 
+ crashed but eventually, after waiting a few minutes and pressing x then waiting again, it worked. 
+ The music during that wait is load and more then once overshadowed voices set at max which had 
+ slight effect on my understanding of the prologue story (which contains no subtitles) . Then there 
+ are the WMD's, might be fun with a friend but absolutely frustrating during single-player as the 
+ enemy wipes out a lot of my force as I am on brink of victory. All this does is stop me pushing 
+ on after capturing the required amount of uplinks and simply go onto the defensive to wait for 
+ the timer to end. Nothing wrong with being forced to defend, it is great when the opposing commander 
+ is good enough to do that. However it is needlessly annoying when forced to do it because the game 
+ punishes aggressive commanders by throwing in a devastating WMD for the losing side.
+  
+  The game works and is fun because the battles work well thanks too good graphics, excellent small 
+ touches and a good system but it is too short and too lacking in storyline for me to call it a 
+ classic. 
+::::::
+
+::::::
+UserName: the-don123
+Rating: 9.5
+Date: Feb 21, 2009 5:07 am PT
+Review:  The game is great and has lots of detail. It actually feels like you are in charge. If you like 
+ strategy games then you'll love it. If you don't like strategy games, you may still love it. It 
+ amazing online too. There are territories in different countries and just like real life, everyone 
+ online has to choose who they fight for, Russia, USA, or Europe. Say you choose USA then there 
+ will also be other USA guys online then in a game you and a guy from your country will control 
+ a army's of battalions against another 2 online people. You don't need a mic but it can make things 
+ a bit easier for example instead of clicking you say to your mic, 'advance' or 'move out' for example. 
+ You can also dicuss what to do with your team mate. You fight for territories in different countries 
+ and aim for world domination. There are helpful tips during loadings. It is confusing at first 
+ but you will definately get the hang of it after a few goes.
+  Anyway, Amazing game. 
+::::::
+
+::::::
+UserName: ps3wizard45
+Rating: 7.5
+Date: Feb 12, 2009 12:13 pm PT
+Review:  Endwar, I must admit, does an excellent job of bringing RTS, a usually PC only type of game, to 
+ console. And for a new series its not all to bad. The games visuals are decent and its story is 
+ pretty typical Tom Clancy, but where it really sticks out is in the voice command system, which 
+ I must admit works quite well. The unit factions are all varied and work well when organized together. 
+ The game, although decent, has a considerable amount of flaws. The first most noticeable is how 
+ slow everything goes at first. A battle takes forever to really get going. Second thing I had a 
+ problem with was the lack of variety. It all gets very bland after a while. Multiplayer is decent 
+ but definitely not the games strong point. Overall rent it and see if you like but I cant blame 
+ you if you hate it........ 
+::::::
+
+::::::
+UserName: Holy_Terra
+Rating: 2
+Date: Jan 16, 2009 10:24 am PT
+Review:  Right first off you end up buying this game with loads of hyped up reviews and a very new thing 
+ voice command truly magnificent.
+  
+  that is what I thought when I saw gameplay reviews and when I bought it and opened it for Christmas...
+ 
+  
+  I was WRONG. Open it and mic is fidgity and guess what 14.99 spent on it wasted as it doesnt work. 
+ Ok I can cope with that besides The game itself is said to be amazing world war 3 atmosphere thought 
+ many games focus on that kinda thing this one has all new gear yet realistic at same time. However 
+ I start the game's single player and asked to make my mic work this is when i realise that it doesnt 
+ work and p***es me off. Then I end up having to use the controller. Then you get no story all you 
+ know is oil is out Russia has pissed off to go play with itself the EU is finally the EU and europe 
+ is actually in it not everyone who is near the mediterranian and the USA is advanced more than 
+ any other is. So you start off killing loads of terrorists because they are a threat to peace (no 
+ surprise there, there is no such thing as a tom clancy game with no terrorists) . It gives you basics 
+ and I learnt to handle the game fairly well. Then after all the terrorist bit you have to chose 
+ your faction that you join spetsnaz guard green (russia) EU enforcers corp (EU=rubbish) and JSF 
+ (USA unfortunatley counter balances all the rest) . Right when you do instead of having the magnificent 
+ maps that I saw in gameplay you end up having to attack where the computer wants you to. So as 
+ Russia i attack EU and win because the fight was very one sided. Then somehow EU attacks Moscow 
+ without going through any territory... Ok small problem strategically and pretty unrealistic you 
+ have to defend moscow in an uplink game pretty fun infantry are main component and take uplinks 
+ for your side against european fools. However defcon happens when i start winning and all my troops 
+ are destroyed. Ok fine I may have sworn a bit but I was still in the match and wait for reinforcements 
+ and order them and rejoice in the fact that I can launch my vacuum bomb at them... no kills by 
+ it... somehow it kill no one and enemy take all uplinks... I repeat this many times so i give up 
+ on single player which is bollocks.
+  
+  Right multiplayer things improve but still a rock paper scissor thing happens with vehicles ie. 
+ helis beat tanks, tanks beat transports, transports beat helis.
+  kinda lowsey and unless you have headset you can talk with the other player on your side making 
+ your attacks uncoordinated and usually failing... Then you have destruction battles one side defends 
+ key installations and other defends basically just load up with tanks and they cant kill enough 
+ of your troops to win. Right so far I have been criticising it... So I will keep going...
+  It screws up yet again with which army you join I think 52% of all players last time I checked 
+ were JSF and 28% spetsnaz (like me) and 22% EU (spases)
+  EU always loses there attacks are a lot weaker than the others every troop is weaker than JSF and 
+ Spetsnaz. Oh EU has electromagnetic warfare= crap it does same thing that airstrike does ruin tanks 
+ and disable stuff so why not just use airstrike? SO EU is rubbish luckily Spetsnaz are good and 
+ do look fairly cool as do JSF but Spetsnaz get pwned by JSF because they are better.
+  
+  Only thing that does some good for the game is 2 vs 2 battles they are fairly fun but only when 
+ you win it goes boring if you lose because your units keep drawing on dying and if you leave game 
+ you look like a **** It makes you feel special when you call in more gunships and stuff but the 
+ way they come into the battle is a little unrealistic 4 heavy tanks in a helicopter... Even I dont 
+ think it will fit let alone fly same with transports infantry rapple down... Why not just land 
+ the heli they arent in a hotzone? (unless you a retard and let the enemy get there) . WHat is good 
+ though is the scenery and graphics they are very good and I was surprised by tem I hadnt seen graphics 
+ that good since MGS4 (apart from MGS4 actually has a storyline and is fun) .
+  
+  In conclusion I was a retard to buy this game the mic doesnt work and I wont complain to Sony (because 
+ I aint French) . So this game will collect dust on the shelf because it is not a classic. If you 
+ want a strategy game buy world in conflict old but alot better than this. Ok last this games single 
+ player is rubbish and so is the multiplayer but not to the same extent and as for keeping troops 
+ being upgraded and being made better that is just annoying and they usually die anyway. Also last 
+ but not least the scenery is good and really fun to blow up on Defcon ^^ especially in Capitals.
+ 
+  
+  Game=Rubbish that is why I have given it this very low score I expected better from a Tom clancy 
+ game but recently they have been graphics and no fun anyway I know many of you wont agree but if 
+ you bought the LTD pack for $44.99 you would probably cry too. Anyway crap game and I probably 
+ wont buy another Tom Clancy game unless they actually start handing them out for free. Btw I havent 
+ given a review this bad ever. 
+::::::
+
+::::::
+UserName: ps3eyerock
+Rating: 10
+Date: Dec 29, 2008 1:51 pm PT
+Review:  this is one of the best games ever. why isn't the game on the the top ten. gamespot there is an 
+ error tom clancys end war isnt on the top ten games. if i open the games i will start playing until 
+ my new headset's battery dies then when it charges i will do it agian. i dont beleive the games 
+ isnt on the top tens. i think this game is close to resistence 2 and call of duty. when i get a new 
+ game that is good i will play the game without cheats and beat it. then i will play it agian with 
+ cheats until i get bored. then it's time to buy a new game. this is the game that i will play forever 
+ becuase it has story mode schirmish and online. ubisoft siad that they will keep updating the game 
+ until is more than perfect. the game is already perfect just poeple need to know how to play. my 
+ cousin played a game and siad it sucks. then when i played it i liked it and i know how to play 
+ unlike poeple who like to play for 5 seconds and say its bad. 
+::::::
+
+::::::
+UserName: snakept69
+Rating: 8.5
+Date: Dec 11, 2008 3:13 am PT
+Review:  End War is a RTS game designed for consoles. The inovation here is not the headset. You can play 
+ the game well even without it. All that talk about if you don't have and headset you will lose 
+ because your slow is nothing but trash.
+  
+  End wars inovation comes by making it a "slow" RTS. This can be either good or bad. After you order 
+ a unit to move it takes them 1-2 seconds to respond and so on. This makes the game move more slowly 
+ so even with a controler that is slow you can play well.
+  
+  Another thing that is diferent is the micro management. In games like Company of Heroes micro is 
+ a must. Here the strategy takes a diferent turn, flanking a tank unit with another tank unit won't 
+ give you much of an advantage. However going in with tanks to draw atention and then use gunships 
+ for the real damage will work wonders.
+  
+  Another thing to notice is the life of your units. Here units are hard to kill, and they have shields. 
+ This means that if you just atack retreat and atack, you won't be doing any real damage. So to 
+ actualy kill an enemy you have to use the combat chain, and keep the pressure.
+  
+  This is not really new, in other RTS spearman allways beat cavalry. This is also valid in End War. 
+ However some units may be good or bad depending on where they stand, infantry must make use of 
+ cover.
+  One thing to notice is the AI. If you order your units up, they will automaticaly atack any enemy 
+ they have advantage agaisnt. For example if you move your gunships and tanks up and encounter one 
+ enemy tank and one trasport unit, your tanks will automaticaly engage the transport while your 
+ gunships will atack the enemy tanks.
+  
+  One thing to take notice is that this game is online. If you won't be playing online it is only 
+ worth half. Its like playing COD4 offline only. If you get this game, do yourself a favor and play 
+ online.
+  
+  Graphics: 9.0 - Some minor quirks prevent the 10.0
+  Gameplay: 8.7 - Much better than you would expect.
+  Sound: 7.8 - "Bang", "boom", everythings 
+ here. Nice chat too.
+  Online: 9.4 - Unless you play online you never played it.
+  Overall: 8.8 - May not appeal to everyone. Others will love it. 
+::::::
+
+::::::
+UserName: blackjack652
+Rating: 9
+Date: Dec 6, 2008 5:01 pm PT
+Review:  This game was overlooked way too much. This is a great game and any person that likes strategy 
+ games should at least rent this game. I like the way that it is in real time because that is what 
+ keeps you into the game. The fact that you cant walk away from because something might happen and 
+ you miss it. You also have a decent variety of units that you can choose from and I really like 
+ that because there are some games out there that you only have 2 or 3 units that you can use and 
+ I hate that so good job to you on that one Ubisoft. Another thing that people are griping about 
+ that is really making me mad is that the story mode SUCKS!!!.... What, who cares youve got online 
+ and you can play against the COM all day so stop your whining.
+  Only if Ubisoft would have used the voice command idea just a little bit sooner and some of the 
+ games like the vegas series could have been 5 times better. I like the different terains and different 
+ maps that you can battle at like paris. Nothing sounds better than waking up on saturday and visiting 
+ and destroying Paris at the same time. HAHA . But all in all I really wish the critics could have 
+ given this one just a little more thought than they did because they rated a really good game lets 
+ face it not so good. 
+::::::
+
+::::::
+UserName: sksk3
+Rating: 9.5
+Date: Dec 5, 2008 2:05 pm PT
+Review:  i dont get why people claim that its too simple. well maybe the concept is simple, but the battles 
+ are intense and extremely complex. the main objective of most battle is to capture uplinks, simmilar 
+ to command posts in other games. you have to capture them, and so does the enemy. you have a few 
+ different uits to chose from, and you must manage all of them, or you will lose them. if they are 
+ listed as "incapacitated," a evac helicopter will be sent out to save that unit for repair for 
+ another battle. the regular infanrtry will get destroed without proper support, and its amazing 
+ that they can take cover in buildings, behind a wall, etc. these units in cover can do some serious 
+ damage to enemy units, especially the engineers. you can get command points by killing enemy units 
+ or taking uplinks, which allows you to call in reserves, airstrikes, nukes, etc. you can only command 
+ a brigade of men, so reserves are limited. if too many of your units die, you will go through your 
+ reserves quickly. the voice command is great for very fast unit movement and command. with just 
+ a simple phrase, the unit will understand and perform your command. if you reach the "defcon" phase 
+ of the battle, usually near the end, you can destroy the uplink so that i cannot be owned. you 
+ can also launch a nuke if you are about to lose, but it must count because then the other side 
+ can launch a nuke. 
+  the bottom line is that you must have some sort of stratagy to capturing the uplinks, as well as 
+ defending them. if you still don't understand how the game works after the prologue, return the 
+ game to the store immediately. 
+::::::
+
+::::::
+UserName: PSgeek
+Rating: 6.5
+Date: Dec 2, 2008 5:50 pm PT
+Review:  EndWar's ambitious, but it doesn't deliver the fun gameplay that you would imagine. Graphics:8.5/10
+ 
+  Theme:9/10
+  Gameplay:6/10
+  Overall:7.5/10
+  It had everything, but the game just didn't live up to the substance. I sit here righting this, 
+ a sad gamer whose every "unit one go to alpha" is understood as "unit one go to delta". I might 
+ have liked it if the game had a shorter "Prelude to War" story but it just seemed to go on and 
+ on and on. I chose. Russia because of their good looks and power, U. S. just to (don't know just 
+ didn't want to) , and Europe was just so (Third Reich, no offense to anyone reading this) . So my 
+ advice is to buy the game but don't expect to make the world bow down to you as quick as you hoped, 
+ at least 10 hours of frustrating game play. Some thing I liked was that there are some Scott Mitchell 
+ being General, That's working up the ladder all the way from Captain, Third Echleon giving the 
+ info to him and so on and so forth. Excelsior! 
+::::::
+
+::::::
+UserName: Killerofall167
+Rating: 9
+Date: Nov 30, 2008 2:25 am PT
+Review:  A great game that is overlooked. It has many innovative ideas. The game is fun in both single and 
+ multi player. There are very few flaws. One being that the factions are to similar and so picking 
+ one really doesn't make a difference. Hopefully when End War 2 comes out Sega implement different 
+ soldier's abilities and types. I have enjoyed the game and community as most of the individuals 
+ that play this game are adults. The single player is almost impossible to beat at hardcore and 
+ so making it a challenge. The multiplayer is limited by their ranking system, as a level 12 player 
+ can play a level 1 in certain matches. This is frustrating when you first out, but after awhile 
+ revenge takes place. Overall a great game that will be probably have a loyal following of the series 
+ for awhile. This game is a gem to should not be passed up. 
+::::::
+
+::::::
+UserName: gummy_joe
+Rating: 8
+Date: Nov 14, 2008 10:29 pm PT
+Review:  The Tom Clancy games have been around for just over 10 years now and have covered the first person/ 
+ third person type of game and the stealth games with the splinter cell game. But this is a game 
+ that jumps out of the box and tries to be different.
+  
+  The idea for the game is to make a realistic real time stratergy (lets just refer to it as RRTS 
+ to make it easier on my fingers) . There are 3 playable factions, there aren't very many characteristics 
+ that set them apart from the rest, namely the fact that all the units are similar except for the 
+ sprite they use, if there is one thing that sets them apart it would be the super weapons, these 
+ monstrosities set a large portion of the battle field to chaos and destruction often killing one 
+ or 2 of your own units, these only come into play when you either loose the battle or the so called 
+ "re-enforcement clock" hits zero. 
+  
+  The campaigne in the game is basically just a tutorial of the online mode theater of war, you choose 
+ one of 3 factions and try to dominate the world before your enemies wipe you out, the probleme 
+ is that the battles seem repedative, you have 4 game modes on 40 maps, there are a large variety 
+ in the map layout, from arid regions, to suburban areas and a military base. Once you have played 
+ single player you can play the online theater of war which is online campaigne mode that pits you 
+ against several other players, you get one move every day and you got to either attack or defend 
+ the enemy.
+  
+  In both the theater of war and single player you get access to the unit upgrade screen that will 
+ allow you to make units in your army faster stronger and even give them a secondary attack, which 
+ gives you a good feel that there is variety in the game, to earn credits either win or loose a 
+ game, with the scale tipping both ways you won't feel cheated.
+  
+  All in all, despite the under welming single player and the identicle factions it is a great game 
+ 
+::::::
+
+::::::
+UserName: LHSleadtrumpet
+Rating: 7.5
+Date: Mar 26, 2009 4:02 pm PT
+Review:  EndWar is a truly fantastic game that is all innovation. However, it's disappointing how the multiplayer 
+ is. You can literally do nothing but air strike your opponent to win... that must change. I also 
+ wish there would be more voice options such as "Garrison that building". I hope that if the publisher, 
+ Ubisoft (under the Tom Clancy umbrella) decides to undergo a similar project, the multiplayer will 
+ be more intense and straight forward like Call of Duty 4's multiplayer. It's pretty easy and simple 
+ to learn how to play, and the plot truly represents Tom Clancy's creativity. It's good. Graphics 
+ could be better but they are still pretty good. It's pretty cool how the Theater of War feature 
+ works, but it takes too long sometimes to find a game. As for the maps, they are pretty big for 
+ an RTS. The combat mechanics (gunship beats tank, tank beats transport, transport beats gunship) 
+ is fair but unrealistic. And there is no defense for an air strike... a big turn off. But don't 
+ get me wrong, this is a GOOD game, but if the would polish these flaws, it would be near perfect.
+ 
+  /The lack of a single player story mode aside from the "World in Flames" mode was my biggest concern.
+ 
+  
+  
+  
+  Overall, it is extremely fun and addicting. Good job Ubisoft. 
+::::::
+
+::::::
+UserName: oflow
+Rating: 8.5
+Date: Nov 11, 2008 8:01 am PT
+Review:  
+  While the game seems very simple since its a basic paper, rock, scissors format (just like World 
+ in Conflict) the game play actually gets more advanced when you go online and join the global campaign. 
+ The thing that makes the game is the ability to join in this campaign where all the players are 
+ actually contributing to a real-time WWIII campaign. When you play, your units can actually survive 
+ from battle to battle and they gain experience and you gain money to purchase upgrades for these 
+ units. 
+  
+  The game really shines when you get the upgrades like air strikes, snipers, electronic warfare 
+ and WMDs. So what seems simple at first does require some degree on microing just like other RTS 
+ games.
+  
+  If you liked World in Conflict, I would definitely pick up this game. Its basically like WiC but 
+ better, and its tailor made for consoles another plus. 
+::::::
+
+::::::
+UserName: Red_Dawn345
+Rating: 6.5
+Date: Nov 10, 2008 4:32 pm PT
+Review:  Hear is a quick rundown of the pros and cons of the game if you don't want to read my review completely 
+ 
+  
+  PROS: the whole idea of voice command in an rts has been an ambition of many titles like End War 
+ and it works considerably well.
+  an elaborate upgrading system for your troops is a nice feature. thats about all I can say is good 
+ about this game. 
+  
+  CONS: For being on the Unreal graphics engine, it looks pretty bad (if that matters in you) The animations 
+ on things like destroyed vehicals are are terrible. it just expoldes in a pile of chard. They use 
+ the same animations over and over again. Story has no point and is very boring. Statagy in the game 
+ is not very complex which it should be in a REAL TIME STRATEGY!!! Battles are very repetitive.
+ 
+  
+  Ok, if you are still reading you really must like long reviews lol. Back to my review. I got hyped 
+ about End War when I saw it at E308 (from gamespot of course) As always stage demos make you think 
+ that the game is the best thing ever; boy was I wrong. From the moment it put it in my ps3 I stated 
+ to fell bored. I urged myself to keep playing thinking it will get better just wait. News for you 
+ it didn't. I played until I couldn't take it anymore and I just traded it in to get my money back. You 
+ may be thinking to yourself,"why did this guy give this game a 6.5 and not a 0.1? Being the generaly 
+ nice guy I am I will tell you. I havn't played a good rts on a consle in years and this is Not 
+ perfect but if you don't care about the stuff I mentioned in this review than you will like it. 
+ But you won't love it to the point where your review of this game give sit a 9.0. This is my opinion, 
+ hope this review helped! email: red_dawn345@yahoo. com PSN: Altairian 
+  
+::::::
+
+::::::
+UserName: osmifura
+Rating: 6
+Date: Nov 8, 2008 2:23 pm PT
+Review:  When I first saw a preview of this game I was like... WOWWWWW!! I really thought it was going to 
+ be a kickas game, regular first person shooting game.
+  I added to my tracked list and time passed by and new stuff started to come out, new videos, iterview 
+ and all that kind of things.
+  Finally the demo came out no too log before the video game, so every1 can have a little taste of 
+ the game.
+  Noooo, noo, no this is like playing those little green little soldier that i had when I was little. 
+ I personally thought it was a little hard to control your squad. Some people might like it but 
+ this is a totally off the real first person shooting type of game.
+  I will say rent it first....
+  I am just simply not getting it and neather renting it, the demo 
+ was enough to see what a crapy game this ended like.
+  The promo videos are amazing but anyways.. 
+::::::
+
+::::::
+UserName: dutch777
+Rating: 8
+Date: Nov 7, 2008 9:51 pm PT
+Review:  The end of oil may be bad news for motorists, but it's been solid fuel for game developers, who 
+ seem to agree that the result will be superpowers jabbing nuclear fingers at one another. THQ's 
+ Frontlines toyed with the idea earlier this year, and now it's Ubisoft's turn to speculate on what 
+ might happen if Russia, Europe and the USA find themselves squabbling over diminishing natural 
+ resources.
+  
+  If that's well within the Clancy comfort zone, however, EndWar itself is not. It's a console real-time 
+ strategy game, attempting to get around the issues that have dogged the genre outside of its PC 
+ home for years.
+  
+  Developer Ubisoft Shanghai goes about this in two ways. The first is an intuitive two-pronged control 
+ system, ideally suited to the demands of the armchair strategist, designed to overcome the relative 
+ limitations of the control pad. Players command their forces with a superbly implemented voice-recognition 
+ system, in conjunction with a refined context-sensitive set of pad controls, and both elements 
+ are precise and fast. The lack of mouse control is no longer something to curse in the heat of 
+ battle.
+  
+  The second part of the plan is to change the focus of the battle altogether, and zone in on small-scale 
+ skirmishes rather than traditional resource-gathering and research. Instead of zoomed-out overhead 
+ views and landscapes shrouded by the fog of war, the action is presented relatively close up, from 
+ a crisply detailed albeit somewhat bland 3D viewpoint just above and behind whichever unit you've 
+ selected. You can move and rotate with the left and right sticks, flick between units with the 
+ d-pad, and issue basic context-sensitive commands by moving a cursor over your target or location 
+ and clicking on it.
+  
+  The actual combat, meanwhile, operates on an easy-to-follow rock-paper-scissors principle, where 
+ transports beat choppers, choppers beat tanks, and tanks beat transports. With just seven unit 
+ types to worry about (riflemen, engineers, artillery, command vehicles, tanks, transports and gunships) , 
+ tactics are intuitive. You may well discover that riflemen, for example, are effective placed inside 
+ buildings first rather than fighting in the open, and good use of cover and sensible unit placement 
+ becomes important once you understand each unit's weaknesses, and the demands of certain mission 
+ types.
+  
+  On the whole, EndWar is at its best when it keeps things simple with clearly defined roles and 
+ abilities. By the time you're dealing with 12 units and multiple abilities, however, the slick, 
+ streamlined feeling of the early game is lost among fiddly nannying, and the player AI doesn't 
+ help with a few dim choices, like infantry units unable to stand on the right side of cover or 
+ take up new positions when theirs is blown. Pathfinding can be more than a little irritating, with 
+ units prone to blunder into danger when an evidently safer and equally swift route exists, and 
+ units regularly slide around trees and get in each other's way. When this happens in a combat situation, 
+ it often means a suicidal ceasefire while they untangle themselves. And having to dictate to a 
+ unit to use their special ability every single time is a waste of time, and can be exasperating 
+ when you feel like you ought to be focusing on more important matters.
+  
+  Making a genuinely accessible real-time strategy game for console owners is definitely a worthy 
+ aim though, and EndWar gets a lot of things right: a beautifully slick interface, stripped down 
+ mechanics, and the best voice-recognition system of any game we've played. It's got plenty to offer 
+ armchair strategists, but balancing issues, pathfinding and AI niggles and a disappointing lack 
+ of variety in factions stop it just short of its obvious potential. It's lacking a bit of Clancy 
+ magic, then, although we'll be interested to see where Ubisoft takes it from here.
+  
+  
+::::::
+
+::::::
+UserName: alcari
+Rating: 6
+Date: Nov 6, 2008 8:42 am PT
+Review:  Endwar creates mixed emotions. At first, the feeling that you're actually in command, giving voice 
+ commands to your troops, commanding them to attack from off-camera. The graphics are smooth and 
+ shiny and the effects are great. The voice commands work remarkably well, even when you get over 
+ the exitement and realise that you don't have to shout every order (though it is more fun that 
+ way) .
+  
+  Then, the realization sinks in that all this eye-candy and gimmicky-goodness is only used to hide 
+ the fact that the game has all the depth found in 90's era budget RTS games. 
+  
+  The number of tactical option is extremely limited, and the only decisions that have to be made 
+ is when to send in which unit. After that, all you can do is cross your fingers and hope for the 
+ best. In the end, battles are not decided based on tactical insight or skill, but on who can command 
+ the fastest and which units are the highest level.
+  
+  This shows a problem with the game. Traditionally, RTS and FPS have always been a level playing 
+ field, where victory was decided by who had the most skill. This is not the case in Endwar, where 
+ victory goes to whoever has put the time in levelling up their units. The learning curve is so 
+ shallow that someone with two hours of experience knows just as much as someone with 200. 
+  
+  However, the major problem with Endwar is that you still need the controller to give advanced 
+ orders. You can't order an infantry group to garrison by microphone, for example. This brings us 
+ to the most obvious shortcoming of Endwar: it's clunky, annoying controls. As soon as I tried commanding 
+ ith the controller, I started longing for my mouse. Where C&C3 found a good approach to ordering 
+ units around, Endwar just frustrates you with it's slowness and poor interface. 
+  
+  Now, I'm not saying that Endwar is not a good RTS, because that depends on your perspective, it's 
+ easily in the top-5 of console-RTS games. Unfortunately, that's not because it's so good, but because 
+ the console RTS market it tiny. 
+  
+  The rating is based on comparison with the whole RTS market, which is mainly PC based. In that 
+ field, Endwar is an average, run-of-the-mill RTS, not worth getting overly exited about. With the 
+ console RTS genre in it's infancy, Endwar is king of the pre-school, but it can't compete with 
+ the big boys of the PC RTS market. 
+::::::
+
+::::::
+UserName: Jaxon_Ro
+Rating: 9.5
+Date: Nov 6, 2008 7:04 am PT
+Review:  I think the Gamespot reviewer was disenfranchised regarding the story. Other than the lack of story, 
+ it's perfect.
+  
+  Paper-Rock-Scissors game play is there, but intended. Show me a worthwhile tactical strategy without 
+ the system. This is not a bad thing.
+  
+  They do play similar. This is not only an intended aspect, but ideal. Were it a single-player focused 
+ game, then yes, I would want greater diversity. This, however provides excellent balance in its 
+ multiplayer.
+  
+  The voice command system is amazing and rarely misinterperates a command and, if you understand 
+ how to employ your voice, you need only touch the trigger and the stick when playing. 
+  
+  The backdrop is an eerily plausible one that you could easily see as being the real stage of WW3. 
+ The amazing multiplayer provides a fun escaped to this pseudo-reality.
+  
+  The only real beef one could have is the lack of story line given it being a Tom Clancy game. If 
+ you are like me, however, this will be far from a deal breaker as you can imagine your own war 
+ while you decimate the enemy in multiplayer.
+  
+  9.5/10.
+  
+  A must play, if not own... 
+::::::
+
+::::::
+UserName: clankwise
+Rating: 9
+Date: Nov 5, 2008 4:44 pm PT
+Review:  This game is good and as I mentioned if you know what it is then it wont disappoint. The voice command 
+ is better then the demos voice command so don't let the demo turn you down. Action is amazing which 
+ depends if you are using binocular or not because without you will just see your people shooting 
+ still it is a strategy game and you should focus on strategy. A sense of pride comes with every 
+ battle and the difficulty will vary. Some missions might be easy others hard but it has good difficulty 
+ settings which can be changed during the theater of war.
+  Either way this game is high on strategy and fun. So if you want strategy and have a crappy computer 
+ get this it is awesome. Unfortunately voice command will rarely (Only a couple times) mess up sending 
+ units to their death hopefully you will notice it and fix. People is where the fun is at unlike 
+ ai people wont hesitate to flank you and attack your un defend base as well as air strike you to 
+ death. This isn't bad just annoying as lvl 3 air strike kills units with one blow but it adds to 
+ the fun. Its not perfect but still worth playing you might actually like it. 
+::::::
+
+-------------------------------------------------

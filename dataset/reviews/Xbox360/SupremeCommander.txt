@@ -1,0 +1,674 @@
+-------------------------------------------------
+:::Game Name::: Supreme Commander
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/xbox360/strategy/supremecommander/review.html
+-------------------------------------------------
+:::The Good:::
+ Deep, massive gameplay.
+ Awesome sense of scale.
+ Decent control scheme.
+-------------------------------------------------
+:::The Bad:::
+ Awful, indefensible technical issues pervade every aspect of the game.
+ Broken artificial intelligence.
+ Underwhelming visuals and weird sound issues.
+-------------------------------------------------
+:::Date::: Jun 25, 2008
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 5
+Critic Score: 5.9, 22 Review (s)
+User Score: 6.9, 151 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Aspyr
+Developer: Gas Powered Games
+Genre: Sci-Fi Real-Time Strategy
+Date: Jun 23, 2008
+ESRB: Everyone 10+
+
+-------------------------------------------------
+:::Review:::
+Great strategic gameplay is dwarfed by embarrassing technical issues. 
+
+  It's hard to guess how a game like Supreme Commander for the Xbox 360 gets approved for a retail 
+ release. It's a technical disaster, prone to frequent lockups, constant stuttering, and plenty 
+ of buggy behavior. These issues are maddening, because at its core, Supreme Commander is a great 
+ real-time strategy game, filled with tactical intricacies that function on a massive scale. On 
+ the PC, it worked brilliantly. Here, it isn't just rough around the edges -- it's just plain rough. 
+ Fantastic strategic gameplay deserves better, and it's astonishing that it was allowed on store 
+ shelves in its current state.  
+
+           Supreme Commander is strategy on a massive scale.      
+
+  The game's frame rate and 
+ general performance are absolutely atrocious. The game engine hitches every few seconds, and standard 
+ tasks like zooming in and out cause it to stutter. Explosions will cause the frame rate to drop 
+ to a crawl, which makes Supreme Commander's famous nuclear blasts more annoying than exciting. 
+ Whenever a superior's talking-head portrait is about to appear onscreen during the campaign, you 
+ can tell because the game will pause for a couple of seconds. Saving a game or reaching the end 
+ of a mission might cause a complete game crash or system freeze -- an issue that occurred close to 
+ a dozen times during our play-testing, on multiple machines. Just moving around the menus results 
+ in weird, unexplainable slowdown. One mission can be easily broken in at least two different ways, 
+ so you could potentially find yourself reloading a saved game after you find your efforts have 
+ been wasted. It's apparent that either the Xbox 360 version of Supreme Commander needed more time 
+ in development, or that it is simply not a good fit for the hardware.  
+
+  Supreme Commander's story isn't terribly involving, but it sets the stage for battles that feel 
+ truly consequential. Three factions with human roots -- the United Earth Federation, the AI-infused 
+ Cybran Nation, and the spiritually enlightened Aeon Illuminate -- fight for their rightful place 
+ in the galactic landscape. The storytelling isn't particularly noteworthy on its own; missions 
+ are doled out by your superiors, and they'll occasionally appear in pop-up windows during the campaign. 
+ What makes the proceedings so interesting is that there is no clear bad guy: Each faction fights 
+ for seemingly rational values. Whether or not the plot is meant to parallel real-world politics 
+ is up for debate, but it's striking that these different factional philosophies are functionally 
+ quite similar to one another. Even on a universal scale, humanity's splinter cells have more in 
+ common than they think.  
+
+  Each of the three campaigns features six missions, which doesn't seem like many. However, these 
+ levels can last for two or three hours, and maps that look relatively small will continually expand 
+ over the course of the mission until the battlefield seems impossibly huge. To help you keep these 
+ gigantic playfields under control, Supreme Commander features the most impressive zoom function 
+ yet seen, allowing you to pull the camera right up to your units, and pull out to see the entire 
+ battlefield at once. These gargantuan maps hold hundreds and hundreds of units at any given time, 
+ so it's not uncommon to have multiple battles raging at once, while smaller skirmishes take place 
+ around the perimeter. Thankfully, a number of automated functions help you streamline the process 
+ so you can concentrate on the bigger picture. For example, you can queue up multiple tasks for 
+ engineers (your primary construction units) and set multipoint patrol routes, a very handy way 
+ to keep your flying units constantly engaged with the enemy.  
+
+           Spiderbots are always an imposing sight.      
+
+  The sheer number of units and tech 
+ levels open up endless strategic possibilities. Your central unit is the Armored Command Unit (ACU) , 
+ which can perform standard building tasks, and is upgradeable in a number of different ways, depending 
+ on whether you want to use it in battle or as engineer support. There are an insane number of structures 
+ and units to consider, from mass storage units and shield generators, to radar installations, to 
+ hulking units like the imposing galactic colossus that lumber across the land. If you like to turtle 
+ up and play the waiting game, there are tons of defensive options, like antiair installations and 
+ stealth generators. If you're the aggressive type, you can take to the air, use the land to your 
+ advantage, or bring the battles to sea, where attack submarines and battleships can lay waste to 
+ your foe's unprotected coasts. Options exist whether you like to creep toward your enemy's base 
+ and let artillery pound on it, lay back while you build up technology, or use transport aircraft 
+ to keep a constant rush of attack bots streaming toward your opponent. There are many viable ways 
+ to play Supreme Commander, and they are all balanced well.  
+
+  The control scheme and interface, always a potential worry in a console RTS, is generally up to 
+ the task of keeping battlefields under control. The busy heads-up display elements of the PC version 
+ have been stripped away, replaced with two simple bars that represent your two basic resources: 
+ mass and power. The D pad is your gateway to command and building queues. Selecting a unit and 
+ pressing up will bring up a radial wheel, where you can choose simple commands like attack or stop, 
+ or more unit-specific commands, such as powering down a shield generator or building a nuke. Pressing 
+ right produces a build and upgrade wheel, where you can level up your structures or produce units. 
+ You bring up your grouping wheel by pressing down on the pad. Here, you can select all units of 
+ a certain type, or create and select custom control groups.     
+
+  The scheme works fine and isn't too cumbersome, and there are some nice touches that strategy enthusiasts 
+ will appreciate. For example, when queuing up units, you can hold a bumper to produce five at a 
+ time, rather than pressing A repeatedly. Setting up order queues for your engineers and ACU is 
+ automatic, so you can easily get your engineers on a set of tasks and leave them be. The downside 
+ is that you have to manually issue a stop command if you want them to do something different, which 
+ isn't usually too much of an inconvenience. However, even a unit's automated journey to a rally 
+ point is considered as a queued activity; if you want to issue an order and have the unit begin 
+ before it has arrived at the rally point, you have to issue a stop order and issue the new command, 
+ which is annoying and should not be the case.  
+
+           The game engine has a hard time rendering even the simplest visuals.      
+
+  Some technical 
+ issues get in the way of the scheme. For example, if you use the grouping wheel to choose all available 
+ engineers, the option may not work. The wheel may indicate a number of idle engineers, but selecting 
+ the grouping may not do anything, so you'll have to search for them manually. It also appears that 
+ the friendly artificial intelligence is broken. Occasionally, units that should be performing a 
+ patrol will stop for no apparent reason. Other times, your engineers will stop midqueue and sit 
+ idly, and you will have to issue a stop command and reissue orders from scratch. These occasions 
+ aren't frequent, but they are common enough to be annoying.  
+
+  Outside of the campaign, you can play stand-alone skirmishes, or you can take the fight to Xbox 
+ Live, where up to four players can compete. While there aren't as many options as in the PC version, 
+ there are an insane number of ways to customize your games, along with two new modes: King of the 
+ Hill and Command Point. In King of the Hill, you must send your units to a designated area on the 
+ map to earn points, while Command Point is a Battlefield-type game where you must capture all of 
+ the designated locations on the map. The latter is easily the better of the two modes, and games 
+ can last for quite some time, as the constant tug of war will keep you engaged across the entire 
+ map at once. In every case, the large maps (though not as large as the biggest ones in the PC version) 
+ lend themselves to a variety of tactics, and the resulting complexity requires flexible thinking. 
+ The game's terrible performance doesn't seem to contribute to any online lag, and we didn't experience 
+ any disconnects, though the visual slowdown can get so severe that it's hard to tell one way or 
+ another. You can play ranked or unranked games, and leaderboards track the best of the ranked bunch. 
+
+  The best visual aspect of Supreme Commander is its scale, since you can zoom in close to the action, 
+ or zoom out to see the entire enormous battlefield, where every unit is represented by simple geometry. 
+ Because you spend so much time playing Supreme Commander with the camera pulled all the way back, 
+ you'll get used to that graphical simplicity. Up close, however, the game isn't much of a looker, 
+ either. Textures are bland, units lack detail, and environments are fairly devoid of anything interesting 
+ to see. Some loss of visual fidelity, in light of the game's massive scope, is understandable -- but 
+ not to this extent.  
+
+           Blowing things up is fun. The resulting frame rate drop is not.      
+
+  The scaling 
+ of the audio is even worse, and doesn't translate a sense of aural distance very well. If you are 
+ using headphones or standard television speakers, you will get an earful of explosions and audio 
+ effects that sound harsh and tinny. A better speaker setup will yield somewhat better results, 
+ but even then, the sound is abrasive, as if the game is trying to squeeze out more sound than it 
+ should. As before, the highlight of the game's sound design is the aggressive symphonic soundtrack, 
+ which never gets in the way but sets the proper warlike tone for the colossal battles raging onscreen. 
+
+  The PC version of Supreme Commander is one of the best strategy games in recent years, and is rightfully 
+ beloved for its complex tapestry of economic control and massive battles spread across sprawling 
+ maps. The Xbox 360 release attempts to deliver that great gameplay, but completely disrespects 
+ it by stuffing it into a shamefully buggy package that should never have been released in its current 
+ form.     
+-------------------------------------------------
+:::User Reviews::: (17 Reviews)
+::::::
+UserName: brentredinger
+Rating: 7.5
+Date: Apr 1, 2009 6:45 pm PT
+Review:  I originally rented this game and was disappointed by the stuttering graphics and frequent crashes. 
+ 
+  
+  However, I recently bought it for $12 and put it on my Xbox 360 hard drive. Its a whole new game!!! 
+ The frame rate is way smoother. It still crashed once after I saved but that is nothing compared 
+ to how it used to be. The only remaining bug is that if you zoom out fully it gets obnoxiously 
+ loud. In conclusion if you can get this game for under $20 bucks and you have 4.7 GB of hard drive 
+ space then you will have a good time.
+  
+  Gamefly is selling them for around $14 right now so thats a good option. I hear the main problem 
+ with multi-player right now is that not enough people are playing it. I'm hoping to get the word 
+ out that the performance issues are mostly put to rest when you install it to the hard drive. 
+::::::
+
+::::::
+UserName: RMorris101
+Rating: 8
+Date: Jan 31, 2009 9:58 am PT
+Review:  This game is the best RTS on any console. It may not be the best looking game out there (even though 
+ I think it looks great) but it has plenty of deep strategy. There are not many games out there 
+ that let you build up huge armies So what do you get then Well lets see We have Ground units, 
+ air units, naval units, nukes, robots, huge special weapons, and much more. I should also mention 
+ the great control system that allows you to manage everything. It has been reported that the game 
+ has a few issues with slow down. I did notice this when I was zoomed right into the action. However, 
+ it was not game breaking. I have since loaded the game onto my Xbox hard drive. This has improved 
+ the game performance to a large degree.
+  
+  If you like RTS games but don't have a PC then you owe it to yourself to buy this game.
+  
+::::::
+
+::::::
+UserName: xboxlive1000
+Rating: 7.5
+Date: Dec 22, 2008 9:08 pm PT
+Review:  supreme commander for the xbox 360 is a very under rated game and is really not such i bad game 
+ and if you like stategy games alot and you want some for that sexy hd tv if you got one you should 
+ by this game. 
+  
+  or you could always get red alert 3 and c&c or c&c kanes wrath and many more.
+  
+  but it does 
+ have some probemlys and some very wield sound problems and the controls or desent enough (if you 
+ live in the uk go to game its on sale for 10 new from 40 thats where i got my one from :) december 
+ 22nd 2008
+  
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+::::::
+
+::::::
+UserName: picklesrocks
+Rating: 6
+Date: Dec 19, 2008 3:27 am PT
+Review:  Supreme commander is a game that i loved on the PC and i thought i might buy it on xbox because 
+ i loved it so much and i wont lie to you its not like its a bad game in fact it would have been 
+ a great game but technical issues flaw the game and dumb AI are really annoying too.
+  
+  The game: The actual game for supreme commander is great, you get a grat sense of scale when commanding 
+ giant armies and titanic experimental units, but be warned this game will take up time
+  
+  Audio: the audio in supreme commander is quite poor as you hear a crackling sound every time you 
+ save and when the big battles pick up (if you ever get to one) the sound starts to lose time and 
+ it chugs out sounds that happened five seconds ago and when you zoom fully out the sound actually 
+ gets louder, yes it gets louder as you zoom out.
+  
+  Controls: the control scheme is very good for such a complex game but sometimes because you que 
+ up orders you troops are supposed to be attacking but they are running to a point you set ages 
+ ago.
+  
+  bugs: this game is full of them, its ridiculous like it freezes every so oftern and the framerate 
+ drops so much its litterally like the game is set to slow-mo and half of the time when you set 
+ the game speed up so you can build your base faster it does nothing.
+  
+  extras: The game has few extras but the only really cool revolutionary feature is the strategic 
+ zoom where you can zoom all the way out into the mini-map but thats about it.
+  
+  Online: the online is quite poor with bad service and laggy connections.
+  
+  Overall: supreme 
+ commander is so deeply flawed that you wonder if they actually did bug testing but a lengthly campaign 
+ and fun skirmishes leave a lot of fun to be had. 
+::::::
+
+::::::
+UserName: X_ROMAN_VI_X
+Rating: 7.5
+Date: Oct 7, 2008 8:41 pm PT
+Review:  I have to confess that my favorite genre of games has been strategy. I love strategy board games, 
+ computer games, and just strategy in general. I've played all the good RTS's and TBS's (AOE2, Civilization, 
+ etc) and I still do. Until recently my PC has never had the hardware requirements to play modern 
+ games, and still has problems with a lot. So I turned to the Xbox 360 for a solution for more complex 
+ strategy games. To be frank, they mostly suck. C&C was ok, UAW: EA had a ton of weird bugs, Civilization 
+ Revolution was to repetitive and simple. 
+  
+  When I heard that SupCom was being ported, I eagarly anticipated and bought it. And I was generally 
+ pleased, while it did have some bugs.
+  
+  The real great thing about SupCom for the 360 is the controls, you don't need to do anything funky 
+ or spend time memorizing them. D-pad is groups and orders, left stick moves, right stick zooms 
+ out to the strategic map and back in. Right bumper makes 5 units at a time/removes 5 units. Etc, 
+ etc.
+  
+  While the campaign is a snore, the skrimish battles are what really makes the game stand out. The 
+ AI has multiple modes (they have different names but there are Easy, Medium, Hard, variants of 
+ hard that focus on one area in particular (ex: tech ai focuses on getting high tech before attacking) ) 
+ and generally works well. The maps are well thought of and the game modes are your typical as you 
+ would expect.
+  
+  What really stops this game from being a 9 or 10 is the bugs. The nukes reduce the frame rate on 
+ some maps to 7 fps (for about 35 seconds) , zooming in and out quickly causes a hiccup, large battles 
+ cause an unstable frame rate for a while. But the frame rate stabalizes after 5-60 seconds. While 
+ it's not as bad as some bugs in other games (broken ai, etc) it is annoying. The devs haven't provided 
+ a patch yet (as of Oct. 7th)
+  
+  If you have a 360 and are a RTS fan that wants a good game that'll last you quite a while Supreme 
+ Commander is the way to go. It's only about $20 at most shops now.
+  
+  RTS Scores:
+  AI: 9/10
+  Sounds: 7/10 (some hiccups)
+  Graphics: 8/10
+  Stability 6/10
+  Campaign: Mostly 
+ easy, has good voice acting (mostly)
+  Tutorial: It's ok, gotta play the first few missions to figure out some specialties.
+  Overall: 
+ 7.5/10 
+::::::
+
+::::::
+UserName: Raistlarn
+Rating: 9.5
+Date: Oct 4, 2008 6:24 pm PT
+Review:  I feel that Supreme Commander is very under-appreciated mainly because it has "problems" such as 
+ lag, freezing, poor A. I., etc
+  So far I have only seen some lagging and when you switch to build a building how your mouse freezes 
+ and that's pretty much it.
+  
+  The gameplay can be how you set it up literally you can spend a few hours building and tweaking 
+ your base as I have doneonce. Or you can run over your enemies within half an hour of the start. 
+ I personally skip the running over part and destroy everything with bombers in the first few minutes 
+ just because a learned the hard way that you better have a hard shell if you are going to turtle 
+ especially when your enemies start throwing experimentals at you.
+  
+  The control wheel is very well done better so than the command bar used in C&C 3
+  
+  There's 
+ not really much to the graphics in this game the main focus is on gameplay.
+  
+  The only way to get better that this is to spend $ 1k+ on a good comp with dual core + a good GPU 
+ and so on and so forth.
+  
+  So here is how I would rate this game
+  
+  Gameplay 9/10
+  Graphics 7/10
+  Sound 6/10
+  
+  My overall rating 9.5/10
+  
+  If you don't know if you'll 
+ like this game I say rent it first.
+  
+::::::
+
+::::::
+UserName: amozarte
+Rating: 4.5
+Date: Aug 9, 2008 5:26 pm PT
+Review:  Supreme Commander is an RTS with an epic scale. The PC version met with rave reviews and the console 
+ port brought with it much anticipation. But rather than give us hope that the RTS genre would finally 
+ succeed on consoles, it instead gave us one more reason to cower in fear. The epic scale of the 
+ game must have been simply too much because the game is riddled with bugs, bad AI, and just plain 
+ poor execution.
+  
+  The game had a number of positive attributes, including the ability to create dozens of different 
+ unit types and massive quantities of each. From a control perspective, you have the ability to 
+ zoom to a Wayne's World-esque "Extreme Close-Up" or view the commotion from a high-level overview 
+ encompassing the entire map. This all sounded great on paper, but in practise you'll encounter 
+ pitiful frame rates once you reach, say, six units. And changing from one zoom level to another 
+ causes slow downs that will eventually force you to just stay zoomed out completely.
+  
+  The control scheme was capable, assigning rotary command menus to the D-pad and using the analog 
+ stick to make your selection. However, the shoddy AI often left you wondering if you had hit the 
+ right button. The slow-down mentioned previously also led to rare occasions where the interface 
+ failed to register your selections for several seconds and then suddenly executed each and every 
+ button press that had been queued. You'll find yourself fighting the interface more often than 
+ the enemy.
+  
+  The game also has a splendid concept of a command queue. Each unit and building has it's own order 
+ queue, which allows you to set up strings of activities for your units. This came in particularly 
+ handy for engineers and buildings but became a fatal flaw for offensive units because movement 
+ orders were queued as well. So if you made a mistake after creating several waypoints, you found 
+ yourself canceling the entire queue and starting from scratch. This got old pretty quickly.
+  
+  Even when you did manage to get your orders issued, the nonsensical AI would often prove to 
+ be your undoing. More than once, upon issuing commands to a group of units, one or two would simply 
+ sit still as though rebelling against the order. Sometimes they would respond after a little cajoling 
+ but in a few cases I actually had to force them to self destruct lest they sit there useless, consuming 
+ resources.
+  
+  My favourite bug of all had to do with the audio for the game. Mind you the soundtrack was pretty 
+ compelling, if it could be heard. You see, the game attempted to alter the sound effects for realism, 
+ depending on your zoom level. In other words, when zoomed out you would hear distant sounds of 
+ the battle, just as though you were really hovering some 30,000 feet over the action. On the other 
+ hand, when you put the camera right up close and personal, the effects were amplified accordingly. 
+ This worked great until the game became confused and amplified everything over and over to the 
+ point of distortion. No amount of fiddling with the audio options would provide any relief so I 
+ finally had to turn the sound off entirely, lest I wreck my speakers.
+  
+  Considering how excellent the PC version was, it's amazing that this port shipped with so many 
+ issues. Supreme Commander has a lot going for it and I highly recommend checking it out- just don't 
+ do it on the console! 
+::::::
+
+::::::
+UserName: Jake9123
+Rating: 8.5
+Date: Jul 14, 2008 9:00 am PT
+Review:  the gamplay its the same as on PC which is great 10/10 so simpley its awsome
+  
+  sound AHHH ZOMING OUT SUCKS ITLL BE ALL QUIET BECUSE YOUR BULDING A BUILDING THEN WHEN YOU ZOOM 
+ OUT YOUR LITERALY HEAR EVERY LITTLE NOISE ON THE WHOLE MAP 6/10 MANILY FOR THIS REASON GREAFIX- 
+ 360 is really sucking it up (badly) this is hey antoher game that 360 cant match up to my pc the 
+ buildings have such bloby like texures it almosy makes you want to play the game zoomed out lol 
+ and the exploions look like random white sparks with back chunks of nothing there is NO orange 
+ or anything in expltion even some times the nukes are all white 2/10 for the horible FX
+  
+  so the game is good afer you pretend its for the PS2 old Xbox lol
+  
+  all i love to do is VS 
+ the Tech and hord aI its so fun!!!! expecially when there is masive expermiantal units battleing 
+ it out good game but if you have a good pc get it for that instead. 
+::::::
+
+::::::
+UserName: Busfulloftatuhs
+Rating: 9.5
+Date: Jul 12, 2008 12:13 am PT
+Review:  Srry this is so long. (You wont regret reading though)
+  
+  SupCom is an AMAZING GAME!!!!!!!!!! After waiting and waiting and waiting for the highly anticipated, 
+ revolutionary SupCom (PC) 2 come to 360 I only fell 2 disappointment like many others after reading 
+ the critic reviews claiming the game had poor frame rate, bugs, glitches, blah blah, etc.
+  
+  Then I thought it cant be that bad??
+  So I look at the player reviews, AHHHHHHHHHHHHH what 
+ stress and confusion!!! Some people had no problems at all... and some did.. I was like... wtf's 
+ goin on How come it's either you hate it or love, I mean all I see are in reviews are people claiming 
+ they have no bugs- few bugs (no biggy) but still love it or people claiming the game's TERRIBLE ( 
+ freezing when saving, poor frame rate, millions of bugs, and crappy stuff on top of crap)
+  
+  
+  But the game is overall awesome..... The scale of the game in every field such as features, 
+ tactics, map size, and unit cap is EPIC (pleasing graphics) !!!!!!! If your more of a rts gamer who's 
+ into the REAL* concept of rts games which actually require thinking* like making strategic moves, 
+ taking time to build all your stuff, and blah blah... this is the game for you!!!! On the other 
+ hand if you like getting owned 5 minutes into the game by nubby tactics such as rushing and other 
+ gay tactics by any1 with the capablity of clicking a mouse then there are plenty of other rt's 
+ out there on console for you such as the overated Command and Conquer series. Come on it gets boring 
+ after a while when you play several games over the years of the same franchise with the same old 
+ same old, but wait!!! LETS KEEP THE SAME CONCEPT BUT LETS JUST MAKE THE GRAPHICS BETTER BIT BY 
+ BIT FOR THE YEARS 2 COME!!!! The graphics are actually really good (lol) in alot of the rts type 
+ games I bashed earlier. lol im a hypocrite.
+  
+  But w/e I dont want to type 2 much more since it's 1:30 when I typed this. 
+  
+  Overall, SupCom 
+ is a revolutionary game. It took alot of guts for Aspyr to port a game like SupCom to the 360, 
+ sure there is alot of glitches for some people but for others there aren't I still dont see why 
+ that is but they aren't 2 big of a problem for me ( im sure they'll fix em) .
+  
+  
+  In my research I found alot of ways 2 decrease probs if not stop them
+  
+  1. put console graphics 
+ in a lower resolution mode in turn which will help stop lag
+  
+  2. clear cache, helps ALOT with freezing and bugs
+  
+  3. When big *** battles happen on 20x20 
+ maps with crap flying everywhere I heard from a few people that if you turn the game speed to high 
+ it should look normal during the battle
+  
+  But that's that, PEACE.
+  
+  
+::::::
+
+::::::
+UserName: RaiderNic99
+Rating: 10
+Date: Jul 6, 2008 2:32 pm PT
+Review:  Well from what I have read in all of the other reviews on Gamespot many people have experienced 
+ some technical issues with the game. After reading these I wonder what wrongs with these people's 
+ Xbox 360's? To date I have yet to run into and bad AI or path-finding. The controls are excellent 
+ from the get go. Yes some of the tech and stuff is a bit overwhelming but that's good. It makes 
+ you have to really learn the games strategies.
+  
+  So far I can say after three solid days of playing Supreme Commander I have not run into any lag, 
+ frame rate issues, or any idiotic AI. Yes the graphics are a bit unimpressive up close but that's 
+ because this is a massive game. They want you to have to back away a bit to see your entire army 
+ not fit it all on one screen.
+  
+  Until I run into these same problems, which I doubt I will, this game gets a perfect 10 from me. 
+ If you love RTS's then it's a buy. If your not to big on them then it's definitely a rental just 
+ to get you hooked. 
+::::::
+
+::::::
+UserName: jimmlb42
+Rating: 7.5
+Date: Jul 1, 2008 5:00 pm PT
+Review:  supreme commander is a really cool game for the strategist who loves to waste time. in this game 
+ building massive armies is freakin awesome with all the big robots and nukes it is really fun, 
+ but this game is far from perfect it controls can take some gettin used to and there are a few 
+ lockups but i feel that a patch can easily fix these problems, but heres a funny thing lockups 
+ only occur on the 20 by 20 km levels with a 350 population cap so hold the horses and knockdown 
+ the pop and play the 15 by 15 levels and u will be fine
+  
+  
+  this game is a love it or hate it so i would recomend renting it
+  
+  p. s. in one of the other 
+ reviews some guy played for 17 hrs , the only thing i hav to say is wow 
+::::::
+
+::::::
+UserName: mrvincent
+Rating: 6.5
+Date: Jun 29, 2008 11:00 am PT
+Review:  Supreme Commander (SC) is a Real Time Strategy (RTS) game that ups the anti in all aspects relative 
+ to other RTS offerings for the console. It's control scheme, scope and utter complexity is a  
+ dream come true. Too bad that technical issues get in the way of all this. Did the port people 
+ lazily and quickly put this on the 360 to make a quick buck, or is it possible that the hardware 
+ just isn't ready for this massive game yet? Until a patch is released, or not, to fix the lag/sound/program 
+ bugs etc, we will never know.
+  
+  Gameplay & Story: You build your own personal army of structures and weapons and have it out with 
+ someone else who does the same. This army can also include an Air Force and a Navy. 
+  
+  Your army is powered by Mass and Power plants and you can create more Power/Mass output as you 
+ "tech up".
+  
+  The factions are well balanced and there is a counter action for every attack. Those players who 
+ like to "Turtle" now have a game to call their own. You can spend hours tweaking your defenses 
+ to repel almost any attack, although, in the long run, those who branch out and expand will have 
+ an advantage. Speaking of "Hours", make sure you visit the bathroom before playing because some 
+ battles CAN take hours.
+  
+  In regards to the story or campaign, I mean, come on  playing an RTS game campaign is mainly for 
+ training purposes. The meat of an RTS is skirmish either locally or online. SC does a good job 
+ of allowing you to set up the game type of your choosing and provides a nice variety of maps. 
+ 
+  
+  Controls: The control scheme for SC has now made every other RTS control scheme obsolete. The way 
+ you build your army has taken "set it and forget it" to new heights, and I am saying this in a 
+ good way. 
+  
+  Sound: Some of the sound effects are good, and others are very odd. When you zoom out of the battlefield, 
+ your speakers might get blown out from the noise.
+  
+  Graphics: Acceptable. In fact, I would call them above average for a game with this scale.
+  
+ 
+  Conclusion: This game is for those who like to build massive forces and manage them over a longer 
+ period of time. If you have a case of Halo-itis and like quicker battles like those that occur 
+ in Command & Conquer, then this game may not be for you.
+  
+  Despite the great concepts presented in this game, as it stands now, be prepared for plenty of 
+ lag and occasional buggy play. There is a lot of debate about this issue at this time. Some are 
+ having more trouble than others. When all is said and done I cannot recommend this game at this 
+ time. Its too bad really  almost like someone put a nice lobster dinner in front of us, but we 
+ can't eat it. 
+  
+::::::
+
+::::::
+UserName: console-deity
+Rating: 10
+Date: Jun 29, 2008 8:05 am PT
+Review:  Graphics: They are good, not the greatest ever but they are still quite decent. When you zoom in 
+ you get a decent amount of detail and the textures are decent. 
+  Sound: The voice overs are really good and the voices fit quite well for the characters. Sound 
+ effects are what you'd expect from an RTS, nothing super unique here but all fit well.
+  Controls: Some bloody brilliant work went into this, if you've played a console RTS it will take 
+ you little time to pick them up but a total novice will need a little more time. Though they seem 
+ complex at first within an hour or two you'll be zooming in and out and command almost like second 
+ nature. 
+  Game Play: With the epic scale of the maps and the well built units Supreme Commander for 360 is 
+ a solid RTS. Sure many have built armies and waged war against others but not on maps this big 
+ with armies this huge.
+  Conclusion: to honest in this review I've had some small lag here and there but for the most part 
+ it's not an issue, the easiest way to avoid it is don't zoom into any big battles and you'll hardly 
+ notices. Still all and all this is a brilliant RTS and if you love the genre you should pick this 
+ one up. 
+  
+::::::
+
+::::::
+UserName: dstryngAngl85
+Rating: 1.5
+Date: Jun 28, 2008 2:31 pm PT
+Review:  This is a great game when it works (on a powerful pc) . However, it doesn't work well, if at all 
+ on 360. The games frame rates drop disturbingly low. Even starting out the frame rate is so bad 
+ that the screen jumps and it is difficult to control what you are doing. By the time a big battle 
+ begins you have to zoom way out so the game doesn't freeze. The control scheme is not too bad but 
+ mixed with the sorry performance it can be quite annoying. 
+  
+  This game is a complete waste of money and an extremely sorry excuse of a port. Save yourself the 
+ time and money and stay away from this game as it should be illegal for developers to sell a game 
+ with this kind of poor performance, just as it is illegal to pirate games for free from the developers. 
+ In the case of this game, the consumers are being robbed by buying a half assed excuse of a game.
+ 
+  
+::::::
+
+::::::
+UserName: wstargardt
+Rating: 9.5
+Date: Jun 27, 2008 1:17 pm PT
+Review:  I am not much of a reviewer, but i do like the SC to the fullest. As a big player of RTS i can 
+ say that SC was a good intense feeling game that got me hyped up when i heard that it was coming 
+ to Xbox. With the three very enjoyable factions of SC all are very balanced and contain a unique 
+ storyline. The many maps of SC gives the player a chance to change of game play, such as on a island 
+ you would choose to be more defensive as for a map where the resources are in the middle drives 
+ the player to act aggressively. I do note however there is a bit of lag issues and some mechanics 
+ that involve unit selections but other than those it is a well ranked game. As most PC-Console 
+ games its not quite as good as the PC version but it gives you the right image of the game so even 
+ tho if you own the PC version you may choose to stay with it. As always please RENT BEFORE YOU 
+ BUY the best way to find out about the game is hands-on experience. 
+::::::
+
+::::::
+UserName: Zero_exe1
+Rating: 9
+Date: Jun 26, 2008 11:30 am PT
+Review:  This game is grand. A simple system allows new players or seasoned veterans a simple fast way into 
+ the game. You gather mass and energy to create structures. To create energy, you build power plants, 
+ but to build structures you require mass, which you can either build mass fabricators which create 
+ mass and require alot of energy to run, or you can build mass exctractors over mass deposits on 
+ the map.
+  
+  The resource system is simple. The combat is very intense and immersive as well. Ground battles 
+ are interesting and cool to watch but once aircraft gets involved the game goes to a whole different 
+ level.
+  
+  Alot of reviews claim to have game breaking technical problems. I havent had any. When theres alot 
+ of units on the map, there gets to be a slight, maybe .1 second delay between commands, but nothing 
+ game breaking. Alot of claims of freezes and lock ups. I played the game nonstop for 17 hours yesterday, 
+ on hard in the campaign mode and the game never froze or failed on me. I played for 3 hours in 
+ a skirmish pretty close to the unit cap for each player, but the lag was minimal, nothing more 
+ than you would get with 1 player making 60 scrin assault carriers standing over a base with 3 armies 
+ attacking. The lag hasn't been bad at all for me.
+  
+  The game is very hard, and can take hours to complete a single mission or skirmish. Players may 
+ take time upgrading their base, or creating abunch of units to attempt to crush an enemy player. 
+ Each action takes alot of time and resources, but the time flies.
+  
+  All in all, its a great RTS game that I believe everyone should play. Dont listen to the reviews 
+ and get a bad image in your head for a game you havent even played yet. If you dont buy it at least 
+ go rent it.
+  
+  The only annoying thing about the game that I could find was the 'snap' aim cursor that automatically 
+ centers on nearby units, which can be disabled. And the fact that when you zoom out you can hear 
+ every single sound in your line of sight, which is weird. 
+::::::
+
+::::::
+UserName: Nec0Machina
+Rating: 3
+Date: Jun 25, 2008 7:31 pm PT
+Review:  The gamespot review has it pretty much right on. The controls translated over to a console really 
+ well. But unfortunately the game lags like crazy, even when you've first started and only have 
+ about 40-50 units and buildings. 
+  
+  When I first popped in the game I went right to skirmish mode and played on a 20km x 20km map with 
+ one AI opponent and the max unit amout of 500. About 30 minutes in the game locked up on me. I 
+ thought to myself "OK, well I did have the biggest map size and highest number of units setting, 
+ but it was only 2 players instead of the max of 4. 
+  
+  So I tried the first mission of the campaign. Very small map on this mission, and I didn't have 
+ very many units built (maybe 100 at most) . I was able to get through the mission (despite the horrible 
+ lag every couple of seconds) , and when it got to the mission review screen at the end, I hit A 
+ to contnue and it locked up again.
+  
+  I also experienced the thing the Gamespot reviewer mentioned about it showing idle engineers, but 
+ you cant always select them unless you go and manually find them and click on them. Sometimes it 
+ worked and sometimes it didn't. Also, there is no way to select all idle engineers. You can double-click 
+ a unit to select all units of that type, but it doesn't work for idle engineers for some reason.
+ 
+  
+  In short, the game has serious potential. The control scheme works great - much better than I ever 
+ imagined a console controller could handle an RTS game. The graphics weren't very good at all - 
+ even the screenshots for the 360 version look much better than the actual game does - makes me 
+ wonder if they used the PC version and tried to pass them off as Xbox360 screenshots. The crappy 
+ graphics didn't really bother me much though, as this kind of game is more about good gameplay, 
+ but the absolutely horrid framerate DID bother me. Every few seconds it pauses for about a half 
+ a second or so. And of course, 2 system lockups in 1 hour is not acceptable to me.
+  
+  I give this game a 3.0 in it's current state. Maybe it will be patched up at some point, who knows. 
+ I do know that my copy will be going back to the store tomorrow for a refund though. 
+::::::
+
+-------------------------------------------------

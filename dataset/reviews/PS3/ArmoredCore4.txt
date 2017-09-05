@@ -1,0 +1,1726 @@
+-------------------------------------------------
+:::Game Name::: Armored Core 4
+-------------------------------------------------
+:::GAME URL::: http://www.gamespot.com/ps3/sim/armoredcore4/review.html
+-------------------------------------------------
+:::The Good:::
+ Heavier emphasis on fast-paced mech combat.
+ Streamlined assembly interface makes game far more approachable.
+ Great voice acting and soundtrack.
+ Robots + Explosions = Win.
+-------------------------------------------------
+:::The Bad:::
+ Missions are too short.
+ Some environments are pretty bland.
+ Lackluster online multiplayer.
+ Series vets may be disappointed by reduced complexity.
+-------------------------------------------------
+:::Date::: Mar 20, 2007
+-------------------------------------------------
+:::Scores::: 
+GameSpot Score: 7.7
+Critic Score: 6.7, 38 Review (s)
+User Score: 7.9, 795 Vote (s)
+-------------------------------------------------
+:::Addition:::
+Publisher: Sega
+Developer: From Software
+Genre: Mech Sim
+Date: Mar 20, 2007
+ESRB: Teen
+
+-------------------------------------------------
+:::Review:::
+It looks nicer, it plays faster, and with its lower barrier to entry, Armored Core 4 should appeal 
+ to more than just the series' faithful gearheads. 
+
+  Mech games come in two varieties. You've got the West's MechWarrior tradition, characterized by 
+ hulking, barbaric monstrosities, and the East's Gundam or Macross tradition, characterized by lithe 
+ and agile bots. With the release of Chromehounds last year, From Software seems to want to corner 
+ the mech market, offering the best of the East and the West. And with Chromehounds accommodating 
+ the grognard sect, it seems only natural that Armored Core's already booster-engine-friendly action 
+ would transition out of that market in favor of the fast-paced arcade-style experience. In many 
+ ways, Armored Core 4 trims the fat from the series, removing or toning down some of the interesting 
+ but not particularly well-executed aspects of the game. But to compensate, the developers layered 
+ on a heaping helping of butter by ramping up the intensity and action, as well as simplifying the 
+ mech-building process. However you cook it, Armored Core 4 offers a delightfully unhealthy amount 
+ of mech-busting fun.  
+
+          The combat is fast and the explosions are impressive.     
+
+  For six-and-a-half years 
+ and seven games, the Armored Core faithful have been pining for a graphical update. That update 
+ has now arrived. From an artistic standpoint, AC4 looks as you'd expect from a world exposed to 
+ one ecologically obliterating war after another. The whole game has an overexposed, grainy aesthetic 
+ that really immerses you in the foul state the world has deteriorated into. Depth of field is heavily 
+ relied upon to blur out distant objects, which further adds a hazy and surreal quality to the game's 
+ appearance. AC4 also shines from a technical standpoint. Lighting, in particular, is phenomenally 
+ well done, from the way your boosters illuminate your mech in the night to the way billowing clouds 
+ of dark, oily smoke blot out the sun and darken the environment. Particle effects look really good, 
+ and in a first for the series, the game's environments are fairly destructible, as buildings will 
+ partially collapse under heavy fire and certain environments break apart. Further, the frame rate 
+ is for the most part rock steady, but it does drop to a crawl if you're given a rocket-barrage 
+ sandwich. And this will occasionally happen, as there's definitely a lot more ordnance flying every 
+ which way than before.  
+
+  Armored Core 4's graphics do have a few notable faults, however. Namely, though collision detection 
+ is spot-on when it comes to enemies, your mech's lower extremities and weapons will occasionally 
+ clip through particularly hilly areas of the environments. Also, destroyed mechs and other debris 
+ pretty much disappear as soon as they're destroyed, which means you can't take pride in your wake 
+ of carnage after the fact. Lastly, this game is meant to be played in high definition, as it's 
+ here that the lighting and detail on the mechs really pop. In standard def, the graphics are still 
+ decent, but their impact is greatly diminished. The Xbox 360 version and PS3 version are functionally 
+ the same in nearly every respect, but you will find that, surprisingly, the Xbox 360 version will 
+ look a tad better, particularly in atmospheric particle effects. Otherwise, the only real difference 
+ between the two is the 360's achievement points.  
+
+  Overall, AC4 is a much faster, more visceral experience than previous games in the series. The 
+ foremost reason behind this is the completely redesigned boost mechanic. In the past, you were 
+ given a fairly limited amount of energy that quickly drained every time you engaged your boost, 
+ and if you weren't careful, it would bottom out and you'd be left to plod along as you waited for 
+ it to recharge. In AC4, that design has pretty much been tossed out the window, because now if 
+ you aren't boosting, you're either dead or soon will be. Your energy now drops only when you go 
+ vertical or when you activate the game's new boost option, the quick boost. Quick boost eats up 
+ a chunk of energy in exchange for a burst of speed in whichever direction you indicate, and it 
+ acts as an evasive maneuver or as a way to cover a lot of ground quickly. Even better, you no longer 
+ need to worry about overheating or bottoming out your energy meter, as the coolant mechanic has 
+ been removed.  
+
+  With those shiny new boosters, you're going to want space to really cut loose, and Armored Core 
+ 4 accommodates. In the past, you were limited by a fairly rigid boundary limit, where you could 
+ go only so high or so far before warning lights flashed and you were charged with dereliction. 
+ While those limits still exist, they're not anywhere near as confining as they were. So you can 
+ now fly to the top of towering structures and rain death down below, engage in prolonged aerial 
+ combat with helicopters or other zippy mechs, or speed through a sprawling city, pausing only to 
+ bust up a cadre of simpletons who have a mind to bring you down -- as if.  
+
+  The logical progression of 'roiding up the graphics and opening up the environments to accommodate 
+ for the faster and more furious gameplay is to design missions that speak directly to these assets. 
+ The storyline plays out over the course of 37 missions, and these are kept fresh and varied by 
+ giving you objectives other than just kill-'em-all, though you'll occasionally do that, too. Whether 
+ it's blasting out of the sky waves and waves of self-guided missiles, working your way through 
+ pitch-black night to destroy an experimental weapon, or just going one-on-one with a highly skilled 
+ enemy merc, the action is intense and satisfying. Strategy is more heavily emphasized, as well, 
+ and if you fail on your first attempt, you'll typically have a good idea on which weapons loadout 
+ to try on your next attempt. And really, it's often just as fun to fail as it is to succeed. This 
+ is because From Software has done a significantly better job of reducing the frustration level 
+ of many missions by making failures feel less arbitrary. There's always a sense that when you fail, 
+ it is your fault, not that of the game being cheap.  
+
+          Prolonged airborne excursions are just one of the new ways to explode enemy robots.    
+
+  An unfortunate holdover from previous AC games is that missions are still entirely too short, lasting 
+ no longer than five minutes and occasionally less than 60 seconds. It can be absurdly unsatisfying 
+ to find that you've accomplished your mission just as the action was heating up. What's worse is 
+ that you're often still in quite a precarious situation when many missions end, so it seems as 
+ though a good many of them could have been quite naturally extended by requiring you to escape 
+ after you've infiltrated. As it is, they end with an abrupt invulnerability and an accompanying 
+ "Please return to base" message once you complete your objective.  
+
+  Aside from revamping the boost mechanic and opening up the environments, the other significant 
+ alteration to the Armored Core formula is primal armor. Cores now come equipped with PA, which 
+ is a force field of sorts and is fueled by that which fuels many an ardent Metal Gear Solid devotee, 
+ Kojima. In AC4, Kojima is a recently developed technology that acts essentially like nuclear radiation, 
+ as it decimates the environment and kills anyone not insulated from it. But, it is highly effective 
+ as a military instrument, so in true-to-life fashion, it's been implemented on a wide scale. The 
+ primal armor system works quite well, and it adds an interesting dynamic, especially to fights 
+ against enemy Nexts, which are the advanced mech suits that you and the other skilled mercenaries 
+ pilot. Weapons now have a PA piercing and PA reduction stat, and these significantly play into 
+ your loadout choices when you square off against one of your fellow mechanized killers.     
+ 
+
+   
+
+  If one thing can be said about the AC series, it's that From Software has no qualms with tweaking 
+ the assembly interface. Throwing together a mech and seeing how it runs has traditionally been 
+ the meat of the Armored Core experience, and to the potential dismay of series vets and the unbridled 
+ glee of everyone else, this aspect of the game has been slightly deemphasized. To begin with, you're 
+ no longer given a stock mech and a fistful of cash and then left to your own devices. Schematics 
+ are the name of the game this time around, and they're essentially prebuilt mechs that have their 
+ attack, mobility, defense, and armor points rating numerically represented. This means you can 
+ jump right into a fully functional mech that is already well on its way to matching your play style. 
+ The tweaking process has subsequently been streamlined by combining the shopping and assembly interfaces. 
+ Initially, this can be quite confusing because you don't automatically equip an item once you buy 
+ it, and items that you sell aren't automatically unequipped. So if you leave the garage with an 
+ item you no longer own equipped, you'll be prompted to purchase that item (or items) without being 
+ told what it is, exactly, you're about to buy. This can be especially frustrating if you don't 
+ have enough cash for the purchase, because you then have to go back through each item to see what 
+ it is you forgot to equip. You quickly learn to keep better track of what you're doing, but initially 
+ it can cause a serious headache.  
+
+          Armored Core 4 doesn't skimp on the massive explosions.     
+
+  But on the whole, customization 
+ has been made more transparent to newcomers. Unlike the baffling 20-odd helmets and 50 or more 
+ weapons that were immediately thrown at you in the last installment of this series, equipment is 
+ now slowly unlocked as you progress through the game's chapters. Your choices, then, are fairly 
+ limited in the beginning, which makes it significantly easier to compute how the various parts 
+ fit together. It is a bit of a drag, though, that while there is a good number of new types of 
+ weapons that eventually become available, what are unlocked are mostly just upgraded versions of 
+ what you already have. Also, AC4 still relies too heavily on ambiguous abbreviations for certain 
+ stats. Between your EN, KP, PA, FCS, and FRS, it can get pretty confusing. A lot of the finer tuning 
+ can now be done automatically, which also helps. For instance, instead of being awarded points 
+ to individually tune parts, you are now allocated fractional regulation system (FRS) points by 
+ completing the game's chapters, as well as completing the game's data packs. Giving the CPU control 
+ here won't be as efficient as fine-tuning everything yourself, but it certainly simplifies the 
+ process and makes the whole system more approachable.  
+
+  A coherent storyline has never factored into the Armored Core equation, and such is also the case 
+ in AC4. The world is once again under the totalitarian control of a group of superpower companies, 
+ and humanity is subjugated to the group's will. Some folks aren't keen on this type of existence, 
+ so you're hired by a small colony and allied with an antiquated company to essentially wage guerrilla 
+ warfare on the major companies and take them out. It's pretty much a mess, but whatever -- you're 
+ a mercenary. It's your job to shut your mouth, do what you're told, and get paid if you survive. 
+ As it pertains to the game, the story justifies your globetrotting because events transpire on 
+ a global level and your missions aren't limited to a specific region. In fact, you'll regularly 
+ bounce from America's verdant fields to Antarctica's frigid ice caps to the sea-swallowed former 
+ Shanghai. The story is told with the same aloof and chilling tone that characterizes the series, 
+ where neutralizing equates to slaughtering and casualties are rated on an acceptable versus unacceptable 
+ scale. The actors voicing the story do a uniformly excellent job, with an erudite-sounding narrator 
+ between chapter cutscenes and an emotive mission debriefer whose tone gradually shifts from professional 
+ to emotionally invested.  
+
+  The soundtrack has also gotten some much-needed attention this time around, as it sloughs off the 
+ techno-heavy beats of many of the prior games and replaces them with some really standout tunes, 
+ including a truly epic chanting-chorus ensemble with a wailing guitar and heavy drum beats. It's 
+ also nice that it accompanies rather than trumps the action, and plays at a subdued din as the 
+ sound effects from the environment and your weapons scream to the forefront. Given how well the 
+ soundtrack is integrated into the game, and because it just rocks, it's a shame there isn't much 
+ variety to it, as there only seem to be four or five different tracks.  
+
+          Explosions? Here, have another.     
+
+  Aside from the storyline, you've got data packs 
+ and online multiplayer to flesh out the experience. Data packs are unlocked over the course of 
+ the game, and they essentially replace the arena from past games. They pit you against top-ranked 
+ Nexts, and when you defeat these pilots, you're rewarded with their schematic, emblem, and FRS, 
+ as well as achievement points in the Xbox 360 version. These fights can be extremely challenging, 
+ and you'll probably need to do extensive customization to hold your ground against these opponents. 
+ Online battling has been a much-anticipated feature for longtime AC followers. After all, what's 
+ the point of spending hours upon hours devising color schemes and weapon loadouts for your mech 
+ if you can't blow the mind of some easily impressionable youth in Xenia, Ohio? Unfortunately, online 
+ play doesn't offer much to get excited about. There are only a few different maps, and the ones 
+ available are tantamount to open, featureless fields. Your gameplay options are also severely limited, 
+ as you'll have access to only the bare-bones one-on-one to four-on-four matches, as well as a four- 
+ or eight-player battle royal. The action itself holds up quite nicely, however, and it can be a 
+ lot of fun to humiliate your friends by reducing their pride and joy to a flaming heap of scrap. 
+ You're also able to trade schematics online, but there doesn't seem to be away to check out other 
+ people's schematics without freeing up your FRS to accommodate the other person's settings, which 
+ is a massive hassle. All in all, the online functionality is a fairly lackluster effort, but at 
+ least it lays the groundwork for future installments.  
+
+  Between the streamlined assembly process, the retooled control scheme, and the junking of the cooling 
+ system and other mechanics that slowed down the action, Armored Core 4 is far more approachable 
+ game than previous installments in the series. Its heavier emphasis on arcade-style mech-on-mech 
+ action also means that its enhanced fast-paced action will appeal to a more mainstream audience. 
+ And even though it isn't as complex as it once was, there's still plenty to obsess over for the 
+ hardcore lot. Suffice it to say, yes, really, this is a very good mech combat game.     
+-------------------------------------------------
+:::User Reviews::: (58 Reviews)
+::::::
+UserName: fish0
+Rating: 2
+Date: Apr 20, 2009 3:46 am PT
+Review:  When i picked this game up, itt looked as if it would be alright so i thought i would give it a 
+ go. As soon as i entered the game, I was amazed by the spectacular cutscene at the begining. As 
+ soon as i started playing i was let down. The contorls were confusing everything was moving to 
+ fast and i had no clue about what was going on. When i finally got to add mods and etc to my mech, 
+ it was way to confusing. There was nothing to tell me what i needed to do, what was recommended 
+ and wat the differences between the stuff i could buy was. The money system was weird and everything 
+ about the game felt as if it was rushed.
+  
+  The bottom line is that i wish i could get my 120 dollars back when i bought the game, and im never 
+ planning on buying another mech based game ever again. If your a big fan of watching the same cutscene 
+ over and over again be my guest and get the game, but seriously now, i would never suggest renting 
+ it. 
+::::::
+
+::::::
+UserName: novarelf
+Rating: 1
+Date: Sep 18, 2008 7:53 pm PT
+Review:  no wonder Sega failed on epic proportions.
+  Confusing money and buy system. Lots of load screens. Bad translation from japanese to english 
+ or just plain hard to follow.
+  
+  Rental at best, save your money.
+  user hud hard to follow, health, ammo, energy, shield, lots to learn if you never played a game 
+ like this before and definately not worth the effort to learn it.
+  got stuck in menu's not knowing what parts to buy, wouldnt tell you what was needed or even let 
+ me back a few screens to "undo" whatever it was I did to mod the mech, eventually never figured 
+ it out had to reset the power on the system which lost out because the game didnt auto save the 
+ first missions that I completed. Had to start all over. finally gave up, pushing eject disc was 
+ the funnest part of this game.
+  ... to each his own 
+::::::
+
+::::::
+UserName: muffins47
+Rating: 8
+Date: Aug 24, 2008 7:57 am PT
+Review:  Well one of the greatest about armored core 4 is the custimization you could have a quick alige 
+ ninja robot or a giant robot with grenade launchers, laser cannons and more. but along with custimization 
+ comes alot of rules like weight or energy use. also the paint jobs can be quite cool since you 
+ have a variet of colors to choose from. then there is emblems which i have fun designing a nice 
+ fluer de li with spears. now for some of the bad things about armored core 4 it's missions are 
+ way to short they are fun but it could use some more content. but don't get me wrong some are hard. 
+ for example there is mission where you have to desytory some forces in the dark when out of no 
+ where a flying fortess comes out a attacks you. the missions do have a hard mode which includes 
+ some more emenies. one where you have to fight four nexts at the same time. also the story is not 
+ good it is like a political war story which is very confusing. all and all this a great game for 
+ those who like seeing things blow up to the moon. 
+::::::
+
+::::::
+UserName: hameedox2
+Rating: 7
+Date: Aug 16, 2008 3:13 am PT
+Review:  Hi dears.....
+  
+  Armored core 4 has variety of great features and some of bad thins besides.
+  
+  First of all 
+ this game was designed to be like a machines war, that is you are playing like a machine and not 
+ a human. Some of players may find it pooring since it play style is not usual to other games. Also, 
+ some players may face difficultties with control at the beginning of the game.
+  
+  
+  Talking about weapons, this game provides lots of weapons that can be used to take down your enemies. 
+ There is a regular gun (machine gun) which can fire rapid bullets in a second. Moreover, there 
+ are different kind of rockets available for more exciting killing. Beside these two weapons there 
+ are different ones and you can switch and test them by using L1 or R1.
+  
+  
+  What I really hate about this game is the graphics. They are not very clear. When I played this 
+ game for the first time, I thought that I am playing PS2. Sound effects are great especially when 
+ you are firing rockets you will notice the sound very clear. 
+  
+  
+  Graphics machines were very great, but the environment where you are playing in not that much good. 
+ Talking about machines, you will notice when you fire a rocket it is clear and great till it hit 
+ the enemy.
+  
+  
+  For new players, they will have to spend more time to learn the full control of the game. Also, 
+ you need to be patient since there is switching from one weapon to another. 
+  
+  
+  
+  Overal this game is good. I rated it to 7 out of 10.
+  
+  
+  
+  cheers... 
+::::::
+
+::::::
+UserName: bl4ckh34rt
+Rating: 8
+Date: Jul 23, 2008 3:15 pm PT
+Review:  The latest installment of the Armored Core series marries the lightning-fast action of the Zone 
+ of the Enders games with the customization and sheer explosiveness of the Armored Core's. It's 
+ always fun to blow things up at high speed in my opinion. The host of intense new weapons makes 
+ that possible. The voice acting, unlike previous AC's, is on  point and believable. The soundtrack 
+ fits the action pretty well too. Finally, the enemies are new and improved, giving the player a 
+ fair challenge.
+  
+  As a veteran, however, I can say that the bare mechanics of the game take a little getting used 
+ to. As I've said before, the action is fast  paced, a first for the series. The new setup is more 
+ streamlined than in the past games, so while it may be easier to navigate, again it takes a while 
+ to get used to it. While veterans of the series might not feel entirely comfortable with the new 
+ engine, it quickly grows on you and you familiarize yourself with the gameplay pretty quickly. 
+ For a newcomer into the AC mythology, it's only that much easier. 
+  
+  This game also has a replay value consistent with the series. After the first playthrough, you've 
+ only completed about 60% of the game. There's still the "hard mode" that needs to be beaten and 
+ a bunch of parts and weapons that you need to get. It will be a long time before your completion 
+ rate is 100%.
+  
+  To reiterate, AC4 is definitely the best game in the series, and one of the best in the genre. 
+ It's definitely worth having in your repertoire. 
+  
+::::::
+
+::::::
+UserName: SlayerX980
+Rating: 7
+Date: Jun 19, 2008 5:14 pm PT
+Review:  Armored Core 4 is the latest mech game to land on next-gen systems, and after the mixed fortunes 
+ of stable mates Chrome Hounds and Gundam Target in Sight we're in need of a good one. Mechs, for 
+ the uninitiated, are in essence huge robots. Usually taking a vaguely human form and operated by 
+ a pilot in their head or at the centre of their body, they are mostly bipedal, and always covered 
+ in huge armoured plates and enough firepower to make an Apache attack helicopter look like a crop 
+ duster.
+  
+  In-game, Armored Core 4 is an action title, far closer to the likes of Zone of the Enders than 
+ Front Mission 3. Consisting of a linear series of missions that mostly fall into the 'kill everything 
+ that moves' category, an easily learnt control system means most levels start with you in the thick 
+ of the action, unleashing weapons from your shoulders and hands as you lose yourself in a blizzard 
+ of dust and explosions.
+  
+  As well as your lumbering, hydraulic-powered walk, you are equipped with a standard of fantastical 
+ mech technology: the jetpack. This allows you to skate over land and water like the robot in the 
+ infamous Citron adverts, hover and turn through the air - where you'll spend around half of your 
+ time, raining down hell on the mechanical fiends below.
+  
+  The missions are rather short, but their brevity means you can jump from location to location quickly, 
+ even if this only makes for an aesthetic change. The learning curve is a fairly steep one, but 
+ Armored Core 4 is rarely punishing, and is nowhere near as difficult or fiddly as Steel Battalion.
+ 
+  
+  In general the action is enjoyable and lively, if a little repetitive, but is nicely broken up 
+ by the strategic sections between missions, which see you spending your payment for completing 
+ a level on customising your mechs for the next battle. A huge range of parts become available as 
+ you progress, from an array of bulky weapons, legs, arms, heads, and circuitry, all of which affect 
+ your armour strength, agility, speed and a host of other specs.
+  
+  It must be said that this is a fairly number-heavy tool, but it is still simple enough to use at 
+ a level that will get you through the game with a sense that you have created and adapted your 
+ selection of mechs off your own back.
+  
+  However, for the mech obsessive, the customisation options have a great deal of depth, which easily 
+ rivals the intricacy of Gran Turismo 4's engine tinkering fanaticism. From minute adjustments to 
+ the stability of each limb of your hulking robot to the intimate tuning of each weapon, everything 
+ can be fiddled with almost infinitely. Thankfully, auto-tune options exist for the more casual 
+ player.
+  
+  Even the most slap-dash mech pilot, though, will find it hard to resist the aesthetic meddling 
+ that is available. From giving your robot a neon pink and green camouflaged coating with bright 
+ blue mechanisms and yellow joints, to placing logos carefully over your Wii-white war walker, a 
+ plethora of skin customisation is on offer. There are also dozens of limbs and body parts available, 
+ from slender, futuristic arms, through to steam-punk, Victoriana torsos.
+  
+  Of course, different body parts affect the functionality of your mech, but you soon gather enough 
+ pieces to allow plenty of scope for diehard mech fans to sit creating their own mechanical flights 
+ of fantasy to toy with in the game's testing mode.
+  
+  Over and above all the options available, what is really important is that any in-game garage adds 
+ something to the gameplay experience, and in Armored Core 4 this is certainly the case. Simply 
+ choosing a weighty pair of legs for an air-bound mission, or an ill choice of bazooka over sniper 
+ rifle, can dramatically alter the way your mech behaves, meaning you really must build the robot 
+ you need for each mission.
+  
+  A cursory multiplayer mode is included, with a focus on death matches and online battles, meaning 
+ you can test the worth of your hand-built mech against international pilots. There is little exciting 
+ or new here, but there is the option to trade match data, emblems, and even entire motorised monstrosities, 
+ which adds some longevity to the game.
+  
+  Though far from revolutionary or innovative, Armored Core 4 is without doubt a playable title, 
+ but it isn't without its faults. Though the animation and detail on the mechs themselves is beautiful, 
+ each level is as barren and soulless as it is jagged and rough. The story too, is a let down, and 
+ despite some hilariously well-spoken English accents in the vein of Patrick Stewart performing 
+ Shakespeare, the convoluted plot is both badly written and uninteresting, and filled with stereotypical 
+ tales of capitalism, terrorism and politics.
+  
+  The game's biggest fault though, is the way it cancels any missions instantly if you veer too far 
+ from the marked battlefield. On the ground this is easy to avoid, but high in the air, amidst a 
+ colossal dogfight, it is too easy to slip from a level without noticing until the moment the screen 
+ fades to black.
+  
+  Ultimately, Armored Core 4 offers nothing we haven't seen in Mech Warrior or Zone of the Enders, 
+ aside from a little next-gen polish that is of mixed success. However, it is still a very enjoyable 
+ action romp, which also contains plenty of accessible customisation and strategy, and has a feel 
+ about it that screams hardcore, without demanding players trade in their social life for Achievement 
+ points and a monitor-kissed, pale skin tone.
+  
+  
+  Gameplay: 7
+  Graphics: 7
+  Sound: 8
+  Overall: 7
+  
+  
+  The good:
+  
+  - The genre's most accessible title in years.
+ 
+  - Great customisation that affects gameplay.
+  
+  
+  The bad:
+  
+  - Some rather bland graphics
+  - Too easy to auto-quit a mission 
+::::::
+
+::::::
+UserName: socomsniper226
+Rating: 9
+Date: Jun 12, 2008 11:00 am PT
+Review:  This game, when it first started out. Was slow, and felt repetitive. But the from software people 
+ finally came together and made a mech game that should be for everyone that likes fast paced heavy 
+ metal warfare. The customization is endless, even if it does cost a little too much using credits.. 
+ but hey, they let you pick between quite a few mechs to start out with.
+  the new quick boost (IS AWESOME) And that's where this game really shines. You can overboost like 
+ in previous games though. as I write this review on my portable alien pc, at wal-mart. ( I hope 
+ they have mgs4) 
+  I am ready to buy it. I just took the time to write a review about a game that I have been playing 
+ since 10 years ago. Man it brings back memories... And this game is really great, I'm sorry I don't 
+ have much time to write the review. I have 11 minutes till it's time to buy. But this game is great 
+ overall:
+  graphics: 9/10
+  gameplay: 10/10
+  tilt: 8/10
+  value: 10/10
+  
+  Hope you all have a good one! 
+::::::
+
+::::::
+UserName: unknown37
+Rating: 8
+Date: Jun 10, 2008 11:32 pm PT
+Review:  Armore core 4 improves greatly over its predescessors, and in every way, though it does have a 
+ few problems that keep it from being a must buy for people not into the mecha genre
+  
+  Graphics- This game is simply amazing looking. The ac's are very sharp, the backgrounds are detailed, 
+ and the particle effects are stunning. The colors are very bright and vivid, and its just an overall 
+ pretty game
+  
+  Sound- The games sound is not as solid as the graphics. While the sound effects are average, the 
+ sound track is just terrible IMO, and is far worse than previous ac games, still this is just my 
+ opinion
+  
+  Gameplay- this is where the game shines. The gameplay has been completely overhauled from previous 
+ AC games and is much funner. It no longer takes energy to boost (some exceptions) and the heat 
+ has been completely taken out, plus the quick boost is an excellent addition. The controls take 
+ a while to get used to, but it is completely customizable.
+  
+  Multiplayer-this is another not so great part of ac 4. while fun, the multiplayer is not put together 
+ very well. its hard to find matches unless you know the people your playing with, and the "texting" 
+ feature is very limited to hello and Im changing acs.
+  
+  Overall this game is a very good first try for next gen platforms. The game is solid except for 
+ some occasional lag issues and the bad soundtrack and multiplayer. But 1 or 2 more games from now 
+ after everything is fixed and refined, this franchise should shine and possibly be a must buy 
+::::::
+
+::::::
+UserName: differentiation
+Rating: 7
+Date: May 20, 2008 9:44 pm PT
+Review:  Ah, Armoured Core 4, I remember seeing comparison shots of this game on the 360 and PS3 before 
+ I got either consoles.
+  
+  This is not a bad game for several reasons. One, it combines the best of the West (clunky) and 
+ the East (agile) mechs, just like the Gamespot review mentioned. The soundtrack is great, it is 
+ catchy and by default, at the right volume. It's not drowning out the action but it's not too tiny 
+ as to you can't hear it. The buildings in the game, after enough has bombarded them, they will 
+ go down, nice destructible environment.
+  
+  The argument can be made that this isn't a true mech game. The last mech game that I played was 
+ Mechwarrior 2: Mercenaries, yep, back in the day when 200 MHz was a big deal. So compared to that, 
+ I can see why. In AC4, you can't customize your mech as much, for example, you can't add heatsinks 
+ and the HUD isn't extremely detailed. Missions are also longer, so when you complete a mission 
+ and survive, even if it's after countless tries, there's a feeling of great accomplishment. You 
+ also have access to different mechs in the early stages of the game, that opens up new avenues 
+ for you to fight, compared to you having to buy mechs yourself. Hardcore mech fans should take 
+ note of this, that it's much more arcade like.
+  
+  The graphics on this game is blurry. To me that means the graphics suck, but supposedly it plays 
+ into how the world has deteriorated after countless wars. Even if this was the case, the set the 
+ mood, the graphics were still a letdown for me. The missions in the game is very short, almost 
+ like a series of quick-missions stringed together. You can see the damage that you've done, but 
+ after a minute it disappears. 
+  
+  All in all, good arcade-like fun (something you can jump into right away without too much work) , 
+ but if you're big on story-lines, graphics, or realism, then you're better off passing up this 
+ one. 
+::::::
+
+::::::
+UserName: Bumfinator
+Rating: 8.5
+Date: Apr 2, 2008 12:56 am PT
+Review:  Armored Core 4, the most recent incarnation of the niche mecha-action game series Armored Core, 
+ has quite a few changes to the traditional formula that AC games are known for. 
+  
+  First things first, the graphics have of course been updated quite a bit from the previous AC games 
+ on the PS2, the mechs themselves look amazing on a HD TV/Monitor, but the environments can be underwhelming 
+ at times, with a bit too many re-used terrain textures. The sound quality seemed decent to fairly 
+ good, though that has never been a issue with AC games, and hopefully will never become one. 
+ 
+  
+  On to more important matters, Armored Core 4 takes a big step forward for the series in terms of 
+ improving and giving a face-lift to the various Menu's and sub-menu's that consist of things such 
+ as the Garage, Assembly, etc. In layman's terms, it's much easier to buy parts and equip them, 
+ and several features of past AC games were removed to make this installment have a lower learning 
+ curve. This was done most likely in hopes of a surge of "new gamers" buying the game. Unfortunately 
+ what they did was in all probability anger some of the die hard AC fans with these changes to gameplay, 
+ Boosters are of less importance in this game, and their seems to be a reduced number of parts in 
+ total as well, allowing for less overall diversity. 
+  
+  As far as the single-player campaign goes, it is fairly straightforward, in each Chapter, there 
+ are multiple missions listed that you can accept, it's usually recommended you go in the order 
+ they are listed, but you can do them in whatever order you want. This game, like most other AC 
+ games, still doesn't give much advice on what types of equipment/parts would be the best choice, 
+ it leaves you to find out for yourself, so it's basically a guess and check system. The missions 
+ vary dramatically in difficulty, some being easy as pie, and some being crazy hard. 
+  
+  Unfortunately the Multiplayer, however awesome as the idea of AC online is, is a letdown in many 
+ ways, yes you can fight against multiple players, but for one, there aren't that many playing online 
+ at any one time, and 2. most of the people your going to go up against are DIE hard, fans of the 
+ series and have been playing one AC game or another for years, and you will probably find that 
+ they already have all the best combinations for parts and equipment, + are extremely skilled in 
+ AC4's combat. This all meaning that us normal players don't stand a chance in in Hell. 
+  
+  Overall, this game is a worthy title, if for nothing other than you can battle with giant mech's 
+ in High Def with a friend or two, and enjoy the great customizability. 
+::::::
+
+::::::
+UserName: ShadowSasuke08
+Rating: 7
+Date: Mar 12, 2008 2:00 pm PT
+Review:  You can tell as soon as you start the game that 505 went to alot of trouble making this game so 
+ detailed i have played the earlier in the series of armoured core this one is deffinatly the best 
+ so far the graphics are next generation graphics the areas are very detailed althoug has soon as 
+ you destroy a part of a wall or something it changes back to normal as soon as you walk near it. 
+ the missions were too easy but when you fight other AC's it brightens up the game.
+  
+  Once i had completed it i figured it was time to prove myself to the world how good i was (been 
+ excited that you could finally battle online) online to be let down because of were i lived. Apparently 
+ 505 Games has messed something up along the line and a few people in England get it online but 
+ i was one of the unfortunate ones. 
+::::::
+
+::::::
+UserName: crimped
+Rating: 5
+Date: Mar 1, 2008 3:35 pm PT
+Review:  Ok, 1st off let me say that I have been playing AC since the ps1. there are some changes to this 
+ game from the past games in the series. i wont bore you with that, what i have to say is that this 
+ is NOT what AC4 should have been. the menus are confusing, the missions are way to short and timed! 
+ 150 seconds?! I hate timers in ANY game! but in AC4 thats just plain bad and sad. it's so far out 
+ of whack on balance of levels newbies are going to be put off and vets are going to be pissed off! 
+ In the second mission "sharpshooter" you can be killed in under 30 seconds. This isn't right! There 
+ should be a gradual increase in difficulty and navigating the build menus could and should have 
+ been much easier. In some games you can forgive the little stuff if it's fun to play but this one 
+ has way to many problems. I'm guessing it was rushed out to make a buck. If your a fan of AC then 
+ get the demo 1st if your a newbie then just pass on this unless you find my copy in the bargain 
+ bin.
+  "one used turd, $10 bucks" 
+::::::
+
+::::::
+UserName: azadiscool
+Rating: 6
+Date: Feb 26, 2008 2:58 pm PT
+Review:  Well, I know that this game was expected to be great and all, but its not even close to the hype.
+ 
+  
+  Since I have no positives that come to mind I'll just start off with the negatives.
+  
+  This game is extremely hard, not to mention boring. I could get to level 3 or so but after the 
+ short and repetitive missions of levels 1 and 2, I couldn't stand this game and stopped playing 
+ as abruptly as I started, also it has no Dualshock 3 support, which is a huge disappointment. Also 
+ the multiplayer is stupid because one on one is boring, and learning/teaching how to play is so 
+ hard it isn't funny, its pretty unfunny, really. I have tried time and time again, but I have never 
+ played online because no one is ever online, which is sad.
+  
+  The customization is nice though, but it wasn't until I was 5 hours into the game that I figured 
+ out that I could sell my parts to get new ones. Also changing colors is time consuming as one has 
+ to choose a primary and secondary color for every part, and there are, like, 40 parts. And no six-axis 
+ use is also kind of disappointing.
+  
+  So all in all, this game is horrible, and, unlike in my FIFA 08 review, I was not exaggerating 
+ or being critical at all. So at this point in the review, one would say that AC4 is only for hardcore 
+ AC fans, but, no, I can't suggest it to them either. 
+::::::
+
+::::::
+UserName: Baron_Kenobi
+Rating: 6
+Date: Feb 19, 2008 7:16 pm PT
+Review:  This game is a huge disappointment to me. I have played Armored Core 2 and 3, and liked them, but 
+ was incredible disappointed with 4. It has good graphics, which the previous titles never had, 
+ but all you ever see is buildings in the distance, and your own mech. Little red boxes pop up around 
+ enemy mechs, and then you hit the fire missile button and the little red boxes disappear. Eventually 
+ you earn a ton of cash, and even though the game is still easy, you go to upgrade it and see if 
+ you can get some cool stuff. It is nice that it only shows parts that you have unlocked, and not 
+ the overwhelming numbers from the last games, but now there are not actual limits to weight of 
+ heat, but bad things happen if you become unbalanced, but it doesn't tell you that, it just leaves 
+ you to go into combat to figure it out. I still don't quite understand what is going on with the 
+ upgrade system. Anyways, that crucial flaw makes the game fun for the first hour or two and then 
+ it becomes stale and incredibly boring. 
+::::::
+
+::::::
+UserName: Tknuth55
+Rating: 6.5
+Date: Feb 5, 2008 7:19 pm PT
+Review:  As my first Armored Core game I wasn't sure what to expect, but it seemed like a cool idea, and 
+ it still is, however, the game doesn't live up to it.
+  
+  During the missions you'll soon notice something, you never really see the other "ACs" for more 
+ than a second before a series of rockets and machine gun fire makes your shield light up the whole 
+ screen while you just lock on and hope to kill it before it kills you, because, seriously, who 
+ likes to lose? One down side, the robot's shattered remains won't even be there so that you can 
+ look and imagine what the robot MIGHT have looked, unless that is it was the big one you were after, 
+ then you'll just fade out and go back to the game's hub screen.
+  
+  The graphics to me seemed pretty smooth, though not on the level of some of the front-line games 
+ today. That's all there really is to say about that.
+  
+  One other pet peeve of mine was that the game boasted letting you loose inside of a city, well... kinda. 
+ You get about half of a New York neighborhood to romp around in. A major plus for the game would 
+ come if they let you play in massively open areas.
+  
+  I'm giving this one a definite rent, and buy if big robot is your thing. 
+::::::
+
+::::::
+UserName: Jaren4355
+Rating: 5.5
+Date: Jan 31, 2008 9:04 pm PT
+Review:  One player seems pretty solid. Not much change except graphics from the old ones and split screen 
+ is crap.
+  Crazy Dan says "Very disappointed with multi player. Also second player cannot use mechs that player 
+ 1 has unlocked. Huge disappointment."
+  The menu was confusing at best and lacked the options of a game this new. This game was only slightly 
+ better than Castlevania 64 would be if released now still for the same system and same graphics. 
+ All in all, Armored Core 4 seemed like a good game til I got it home. Me and my buddy were quite 
+ disappointed in the overall presentation of the game on what is an amazing system with enough power 
+ to do much more than this game has done with it. Armored Core 4, although I only rented it (thank 
+ god) , makes me glad I didn't waste more money and makes me wish I'd stuck with Duke Nukem 3d on 
+ my old Pentium 75.
+  P. S. - Megaman 2 rocks! 
+::::::
+
+::::::
+UserName: Knightrise
+Rating: 6.5
+Date: Dec 9, 2007 7:08 pm PT
+Review:  I really can't say much about this title is that to me Armored Core 2 is possibly the best and 
+ only Armored Core I've played and hopefully the last. This time the graphics are nice since its 
+ next gen and you do ALOT of changes to your mech over time. The bad thing is that missions are 
+ boring and all you do is protect something or defeat a target or two.
+  The controls to newcomers may seem confusing and difficult to work with but with practice they 
+ tend to be fair. Enviroments are blanned and not pretty to look at. Unless you are a true Armored 
+ Core fan you might want to take a look at this but if this is your first time playing the series 
+ start of with a different one because the others are pretty cheap nowadays. 
+::::::
+
+::::::
+UserName: Doublesunday
+Rating: 7
+Date: Dec 8, 2007 8:56 pm PT
+Review:  Don't get me wrong, this was a fun game. And if you like mech games then this is the way to go. 
+ But it just seems like they took Armored Core 1 and put new skin on it to make it look pretty. 
+ I mean literally nothing has changed about it since its birth on the first playstation system. 
+ That was my only problem with it and I think that alone is enough to take 3 points off my score 
+ for this game. As for the game itself, yes you get to build your own robot. And I'm not just talking 
+ about picking out parts for it, you literally get to select nearly every detail about its design. 
+ There are plenty of parts to choose from as well as premade mechs so you can make whatever fits 
+ your taste. If you like bulky powerful mechs, you can do that. If you like light but fast mechs, 
+ you can do that. If you like a balance both ways, you can do that. The missions do seem overly 
+ short, but nonetheless are still fun. Combat is just what you'd expect in a giant robot fight scene 
+ at the movies. You can fly circles around your enemy on the ground, or take the battle onto a rooftop. 
+ It's difficult, but possible, to fight in the air also. I'd say rent this game if I were you. Play 
+ it for a few days until it wears itself out, and then return it so your only 8 bucs or so short 
+ (better than 60) 
+::::::
+
+::::::
+UserName: Dohboymaddness
+Rating: 10
+Date: Dec 3, 2007 8:19 am PT
+Review:  You do a mission, fight some ACs, and end up doing something very big in the end. For us who have 
+ played AC sinc ethe begining, this was a shock and had to get used to it. Sound is good. Not much 
+ soudn to think up of. Its guns and stuff. Bang boom ya know. Graphics are pretty good too. Yeah 
+ there are some places where it could be inproved but pretty good otherwise. Other than that it 
+ is a pretty good game. Oh yea if have dis game n u think your're good dem my PS3 id online is AceTheProblem09
+ 
+  
+::::::
+
+::::::
+UserName: xcocacolax
+Rating: 8
+Date: Nov 27, 2007 5:20 pm PT
+Review:  I found this to be another siquel to some of the sucky armoured core games. But thats wat i thought! 
+ this one is kinda different from the rest the graphics are better explosions are better Mobile 
+ suits look better i dont know the real name of em but yah alot graphice updates have been threw 
+ the game. Just like the rest there is a story mode going round doing missions earning some cash 
+ some of em can be fun some can be plan old %$&@. But overall i enjoed it for about 20 hrs i beat 
+ it in a day to tell the honest truth but yah can fight in some arena bussiness and stuff so yah 
+ keeeps yah running for a bit. If you looking for a robot game to hack or slash or blow moblie suits 
+ up i reccamed this game cause i dident really like chrome hounds and all of its training SH*$ so 
+ yah go with this instade of chrome hounds . 
+::::::
+
+::::::
+UserName: Chaotic-Soul
+Rating: 7.5
+Date: Nov 24, 2007 1:07 pm PT
+Review:  Armored Core 4 is a game that can be either really good or really bad in people's eyes. The single 
+ player campaign starts off easy, but then gets nearly impossible Also, each mission is never more 
+ than 5 or 7 minutes long. The objectives are can really all be classified in a few groups: kill 
+ a boss; kill all enemies; kill a specific target; or protect something until help arrives. Armored 
+ Core makes up for this however with blazing fast action that never stops. This is mostly do to 
+ the fact that theres multiple boosts for what ever you need; over boosts for covering long distances 
+ quickly; quick boosts for avoiding attacks; and some other boost for flying. The customization 
+ is really deep, but in a way, a little too deep. Theres so many to choose from, and little indication 
+ whether theyre actually stronger, that it is hard to choose what weapon you want. It is usually 
+ easier to choose a weapon and just get a better weapon when the upgrade for it becomes available.
+ 
+  
+  The multiplayer was a huge letdown for me. I thought it would be great fun with 4v4 online. However, 
+ when i tried to join a match, i kept getting a screen that said "no games found" The odd time you 
+ can get a game going, usually 1v1 and it is fun while it lasts, which usually isnt a long time. 
+ Overall, Armored Core 4 is a game that you shouldn't spend $60 on unless a) u either like the Armored 
+ Core series and mech fighting games in general or b) you dont know what else to buy. 
+::::::
+
+::::::
+UserName: LordMaceX
+Rating: 7
+Date: Sep 1, 2007 6:59 pm PT
+Review:  Armored Core 4 is the newest installation of the Armored Core series and is also the first Armored 
+ Core to come to the Playstation 3. Being the first onto the new consoles gives 2 different expectations 
+ to most people one being amazing graphics and visual effects and the other being relatively mild 
+ gameplay due to them being new to this system and arent used to making games for it. Now not everyone 
+ has these opinions for the first games that come out on new consoles and defiantly not all games 
+ follow these guidelines that I see appear in many next-gen new games. The reason I brought this 
+ up is because it is the first next-gen review I have made and this one fits it like a glove.
+  
+  The reason Armored Core 4 fits is because it lacks customization and gameplay two important 
+ functions in a game. Although the game does have customization in fact more than some games but 
+ half of the Armored Core games were customization and with the limited amount that 4 provides it 
+ dampers the fun that customizing your core and fighting your friends and enemies provides. Most 
+ Armored Cores have a very large library of parts, weapons, and other items to pick from when building 
+ and advancing through the game to customize your core to your specific play style from reverse-joint 
+ legs and dual swords to tank treads and a million missiles. This one however had a limited amount 
+ of weapons and a very limited amount of parts I literally used almost all of my original parts 
+ that I started with throughout the entire game. Also the gameplay of this game was lacking for 
+ the most part although the gameplay was fun and it was entertaining it didnt hold you like more 
+ good games do the lack of storyline and the short amount of time it takes to complete the game 
+ takes a large amount of fun out of the game it is rather depressing. No matter how fun a game is 
+ if you only play it for 10-15 hours there isnt all that much that you can do to save it.
+  
+  The other reason it fits so well to my cookie cutter next-gen game build is that the graphics 
+ although barely using any of the Playstation 3s capabilities it looks fantastic and beautiful. 
+ The visual effects in Armored Core 4 were nothing less than great from the explosions to shadows 
+ to your cores everything looked great and was well deserving of the title of next-gen. Although 
+ amazing graphics cannot make a game excel it requires a lot more than that to accomplish a great 
+ game in the video game industry these days. The graphics and sound quality of the game make it 
+ great to watch and play but it isnt enough to turn this story-less game to greatness. Big fans 
+ of the Armored Core series might still think it to be a great game but in reality it was an upset 
+ and it proved that it had the potential to be a lot better even though it didnt achieve the potential.
+ 
+  
+  Although I hate to rate an Armored Core game so low especially one with such amazing graphics but 
+ it fell quite short of expectations. I would rate the first next-gen Armored Core, Armored Core 
+ 4 a 7.2 out of 10 for the lackluster customization, short gameplay, and its non-existent storyline 
+ although it had the graphics and potential to be a great game it fell short of expectations or 
+ the average gamer and the hardcore Armored Core fans.
+  
+  This review will show up as a 7.0 due to Gamespot unfortunately not allowing a 7.2 to be selected. 
+ 
+::::::
+
+::::::
+UserName: puablo
+Rating: 7.5
+Date: Aug 17, 2007 7:56 pm PT
+Review:  I played the AC4 demo on the PSN and enjoyed it, so I rented it and thought I may buy it. Now having 
+ played it for several hours I'm not sure I want to go past a rental.
+  
+  A very basic explanation of the missions is that pretty much all of them last 2 to 5 minutes, about 
+ 60% are ultra-easy, about 30% are challenging enough to warrant multiple tries, and maybe up to 
+ 10% are really hard. Unfortunately there is a wayward mission here and there that has improperly 
+ explained mission objectives, and you'll find yourself failing repeatedly and never understanding 
+ why. Thankfully this is infrequent.
+  
+  The story doesn't make any sense at all, whatsoever, I think they just made up a bunch of awful 
+ names and said yeah, they're at war . It makes the otherwise decent quality voice work almost painful 
+ to listen to when the narrators seem overacting about a concept you have no idea about.
+  
+  The biggest shame is the mech reconstructing - they give you all these options to work with but 
+ each option is 1. poorly described (for the most part) , and 2. extremely expensive. So it's very 
+ difficult to know what it is you're buying and also not feasible to buy enough parts to really 
+ have fun with the mech building. I think I would enjoy this game a lot more if I had more rebuilding 
+ options opened to me, and it's not like they don't have the interface for it. You can make extensive 
+ changes and save favorite loadouts to stored schematics, which would be awesome if I could actually 
+ afford more than a few new parts.
+  
+  Ultimately I gave this a 7.5 as a throwback to GameSpot's old review guidelines that stated a 9+ 
+ game should be played by everybody, an 8+ game should be played by anybody interested, and a 7+ 
+ game only would appeal to fans of the genre. For fans of hot mech on mech action, you'll probably 
+ love this one. Anyone else, definitely worth a rental because it IS fun, but not worth buying. 
+ 
+::::::
+
+::::::
+UserName: LordSchmee
+Rating: 9
+Date: Aug 12, 2007 5:36 am PT
+Review:  Ok... While the gameplay is short... its not too short but could have had alot more...
+  The graphics are where this masterpiece really exists.
+  If it wasnt a game you would think it 
+ were real.
+  the Basic storyline is great but some of the missions arent that good... and some are near impossible 
+ to complete...
+  But besides that i think bringing armoured core 4 to next gen was a great move...
+  they just 
+ need a little more story and it would get that extra gold star...
+  hope theres gonna be a better sequel...
+  
+  I dont think mecha could look any better than this... 
+ 
+::::::
+
+::::::
+UserName: hbkkyle12
+Rating: 8.5
+Date: Aug 3, 2007 1:52 pm PT
+Review:  i advise any mech fans or people who have a ps3 to get this game it would be a fine addition. but 
+ there really isn't much to be said about this game and to some people that may be a problem. gg 
+ gg gg gg gg gg gg gg gg ggggg g g g g g g g g g g g g g g g gg g gg g g g gg gg g g g g g g g g 
+ g g g gg g g g gg g gggggggggggggggg ggggggggggggggggg g g g gg g g g g g gg g g g g g g g g g 
+ g g g g g g g g g g g g g gg g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g 
+ g g g g g g g gg g g g g g g g g gg gg g g g g g g g g g g g g g g g g g gg g g 
+::::::
+
+::::::
+UserName: ToxicInferno
+Rating: 7.6
+Date: Aug 3, 2007 9:43 am PT
+Review:  I played the demo of this game. I thought, hmm, this looks pretty good. So I played it some more. 
+ Eventually, I decided that buying it wouldn't be too bad.
+  
+  Well, basically, I'd never played on these game before, but was instantly engrossed in it! It's 
+ got very easy controls, and the game is really quite fun.
+  
+  I would say that if they'd made the new Transfomers game more like this, it could have been the 
+ best movie tie in ever. The game is just so developed and involved.
+  
+  So, to start with, the controls:
+  
+  They feel firm, and at the same time, easy. You can just 
+ leap into the game, and play it as you want.
+  
+  Graphics:
+  
+  Again, excellent, with very beautiful (for want of a better word) looking images, and a fantastic 
+ frame rate.
+  
+  Gameplay:
+  
+  Very solid, with only a few draw backs. The levels are too short, but the gameplay does make up 
+ for that, in that you have a lot of ways to complete each mission.
+  
+  Multiplayer:
+  
+  Again, excellent. You can be in a multiplayer game within seconds, and play for hours without getting 
+ bored.
+  
+  Basically, this game is fantastic. And a great addition to any PLAYSTATION 3 owner's collection. 
+ 
+::::::
+
+::::::
+UserName: DuhQbnSiLo
+Rating: 8.5
+Date: Jul 17, 2007 11:14 am PT
+Review:  Gameplay: AC4 controls and moves great, the mechs run smooth and are easy to control. Building 
+ your mech has never been funner, with smooth transitioning through the menus and specs. The Missions 
+ could have been a little longer, they tend to end very quickly and cut short. Online is great, 
+ with easy pick-up game style, you can jump into a battle very quickly. As far as Gameplay goes 
+ i give AC4 a 8, it would have been 9 if the missions were longer.
+  
+  Graphics: Next-gen AC does not disapoint in the graphics department. The game looks great, and 
+ very detailed. The mechs look stunning and detailed at ever point. The game just looks great in 
+ motion, still shoots don't give this game justice. I give it a 9 Sound: Your AC blasting through 
+ the enemy has never sounded better. The Boosters, Guns, Lasers.. you can hear everything. When 
+ your AC is floating in the water you hear the water getting pushed out and you can here as your 
+ AC glides through the streets. If an explosion happened around you, you'll hear it. It gets a 8 
+ in this department as well.
+  
+  Value: Buy it used at Gamestop and try it out, if you like keep and if you don't return it. I liked 
+ it and and enjoy the game very well. So go pick it up you have nothing to lose. Tilt: I enjoyed 
+ it, it made me a fan of the AC series again. Well worth buying, its a keeper. and has re-play value. 
+ You can build mechs for hours upon hours and enjoy yourself. 
+::::::
+
+::::::
+UserName: Dentyne
+Rating: 6.7
+Date: Jul 12, 2007 8:46 am PT
+Review:  Armored Core 4 is a game for hardcore gamers. The dificulty of controlling these machines is quite 
+ high. Gameplay: THe gameplay is fun but controlling your robot while airborne can get frustrating. 
+ Camera angles can easily get in the way of the fun. firing guns and missiles is always great.
+ 
+  
+  Graphics: Great graphics. Level design looks crisp and clear, although each stage is very limited.
+ 
+  
+  Sound: Average, wat you would expect in an explosive game
+  
+  Replay value: go online (very lackluster) or play with a friend; thats about it
+  
+  Overall: 
+ its ok, but i was sad after experiencing it. Unfortunately, i haven't touched this game in the 
+ longest time, and its probably collecting dust in my basement. Missions are WAY too short (avg 
+ of 2-4 mins/mission) . Storyline is all over the place (confusing) . I recommend renting this game 
+ first. 
+::::::
+
+::::::
+UserName: matnaami
+Rating: 8.6
+Date: Jul 8, 2007 6:09 pm PT
+Review:  After watching the Transformers movie i wanted a robot and after checking that my car did not turn 
+ into one I rented this game and was not disappointed. Graphics are great, sound is great, missions 
+ have varied difficulties but most I found were pretty easy. get very repetitive after the chick 
+ said after a mission: Get home soon or something. Other than that i would recommend this game to 
+ someone who has never played any in the series (like myself) or someone who wants to build a kick 
+ @ss robot. but rent it first or get the demo from the Playstation Store. It appeals to some but 
+ not to all. 
+::::::
+
+::::::
+UserName: SumerianDaemon
+Rating: 8.3
+Date: Jun 30, 2007 6:38 pm PT
+Review:  As a true Armored Core fan i bought the game as soon as it was launched and quickly ended the missions 
+ in normal mode and after a while in hard mode.
+  
+  Even for a series veteran like me who has played almost every Armored Core of the past, the missions 
+ are ridiculously short. Thats propably the worst aspect of the game.
+  
+  Other than that, technically the game is above average but not in any way impressive. One important 
+ change is that of the sound of gunfire which definately satisfies.
+  
+  The big challenge was evolution in gameplay which is thankfuly successful. The absense of heat limitations 
+ is more than sweet and the whole speed-up of the game doesnt affect the piloting experience in 
+ a negative way but in fact improves it.
+  
+  My big dissapointment until now is the lack of users to play online with.
+  Costumization gives 
+ this game some endurance but its value would be much more if the online multiplayer servers where 
+ crowded, since the missions are practically useless.
+  
+  I think that this game will bring more people to the series and that it'll raise the expectations 
+ for the next one. Potential is there but we need more depth. 
+::::::
+
+::::::
+UserName: Arcanum
+Rating: 8.7
+Date: Jun 29, 2007 2:47 pm PT
+Review:  As GameSpot says, it looks better and it plays faster and those are very accurate words to describe 
+ Armored Core 4. I was a bit surprised to see its rating in the low 7s though.
+  
+  For non AC fans.... If you have a PS3 and are looking to play a Mech Sim game, this is a great 
+ game to start with. This latest version of From Software is far better that the rest, and I have 
+ all of them. This game is much easier to just get into and play. Once you get interested there 
+ is a lot of tweaking you can and will need to do to be successful.
+  
+  For AC fans... We have waited for this for a long time, its better all around. Yes there is room 
+ for improvement, but this is by far the best From Software has put out for us in the Armored Core 
+ universe. If you have the other AC games and were let down, do not let that stop you from picking 
+ up this game!
+  
+  The Good: Graphics are much better, the garage is much better, the whole mission experience feels 
+ better to me. The improvements in the graphics lead me to believe that the entire game is better 
+ overall. At this point I'm on Chapter 3 and in the fourth mission of that chapter and the missions 
+ have seemed pretty intense. They also seem to be larger in area also, a nice plus.
+  
+  The Bad: The stock controls have you aiming with the right stick, and firing with the right keypad, 
+ thats been awkward for me to adjust to and I have not come up with a custom configuration that 
+ I like better. A complaint of GameSpot is that many missions are too short. Yes some are very short, 
+ but as I have had to repeat some dozens of times (Chap3 Aerial Interdiction) I'm not so sure I 
+ would really want them to last much longer anyway. So the short mission time, I'm not sure is really 
+ a negative.. Lastly, there isn't much information for new players to the series that they may need 
+ to tweak their chosen AC to be successful at a mission.
+  
+  to be pithy.... Armored Core 4, big Mech, big weapons = big fun, go buy it. 
+::::::
+
+::::::
+UserName: burge999
+Rating: 9.5
+Date: Jun 23, 2007 7:37 am PT
+Review:  what a game. The campaign although quite short is challenging so it will last a long time and now 
+ your able to edit the AC rocks. Thereis so may combinations you can have with coulours weapons 
+ etc and they all look awesome on the ps3. The gameplay is fast and furious with shooting and explosions 
+ after every corner and ive only done 4of the mssions at the moment. The multiplayer is good with 
+ a few different modes and battleroyal is the best. The only problem i would say is that hardly 
+ anyone is playing the online multiplayer. I have to search through every single region and game 
+ mode before i can find a game. But overall a great game for those who like the series and forthse 
+ who havent played it.
+  
+  Xbox 360 and PS3 gamertag: burge999 
+::::::
+
+::::::
+UserName: BigBerserk
+Rating: 6.7
+Date: Jun 17, 2007 10:40 pm PT
+Review:  great offline aspect of the game but the online is horible. . . . . . . . . . . . . . . . . . . 
+ . . . . . . . . . . . . . . . . . ........... . . . . .. . . . . . . . . . . . . . . . . . . . 
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ . . . . .5 . . . . . . . . . . 23. . . . . . 9.8 6.556 .56 .6
+  5 6.5 6.56 5.6 5.6 5.65 .6 5.6 5.65. 56 56 56 5 3 3 1 13 65 4 847 56b 1 48 456 3 564 86 54 896558 
+ . . .. . . . . .. . .
+  .
+  .
+  .
+  .
+  .
+  ..
+  .
+  .. 
+::::::
+
+::::::
+UserName: Rhen_Var
+Rating: 8.7
+Date: Jun 12, 2007 5:42 am PT
+Review:  Armored Core! More and More! What happened to Last Raven the supposed last? well screw that we 
+ got some more Armored Core!
+  
+  Lots of good stuff! Awesome Graphics and Fast Gameplay! Makes it have that mech smell over it! 
+ Gameplay is loyal to old Armored Core games and true to the rest. Multiplayer could have had some 
+ Different modes or something. Its a simple Deathmatch and Team Deathmatch (4 vs 4 or 8 Royal Rumble.) 
+ Missions could use a REAL length. I've seen some of the missions beaten in 2 Minutes More or less 
+ in hard mode! Customization is quite well... Impressive. Somewhat as good as Virtua Fighter 5. Oh 
+ though Online and the Campaign may not have much this game is highly Addictive in its own yet simple 
+ way which of course made it the awesome game it is!
+  
+  Armored Core Fan? Then Buy this baby! Its worth your Cash! Not a fan? Rent it its not really long 
+ so you might now play it for long. 
+::::::
+
+::::::
+UserName: Lyle311
+Rating: 8.7
+Date: Jun 5, 2007 12:48 pm PT
+Review:  Armored Core 4 is very innovative in the series, as one of many installments, it seems that Sega 
+ finally got the job done. With high speed combat and your finger always on the quick boost button, 
+ this game will keep you riding the tide of constant explosions and constant rigorous challenges 
+ that make it so fun. I haven't played Armored Core since the second game back on the Playstation 
+ One which looked decent for those days' graphics. However, with the next gen leap it seems the 
+ Armored Core games have progressed with the massive graphics upgrade. The game is beautiful, the 
+ detail is astonishing in many ways, and I've yet to see anything seem unchecked. More so, I can't 
+ remember the last time the game lagged, even when fighting what I would expect to be sixty different 
+ enemies. Playing this game will rock your world, as land blurs under your massive mech and you 
+ truly feel that your in a several story tall robotic beast. And that is just one part of the game, 
+ the other being dealt through menus which are very well organized. With seemingly countless options 
+ and combinations, this game may stupefy even some of the most well educated rpg game players. The 
+ story behind the game is told after every chapter you complete and appears quite hidden, and from 
+ what I understand, this game does not share much of the story line from other games. It never the 
+ less is a perfect installment for the series, bringing in both those who have been life long fans 
+ of the series and those who are looking for a quick burst of action. The depth at which one can 
+ play this game is unlike any. Multiplayer is truly where the game may finally catch players. Though 
+ at times hard to find others playing, it is quite exerting, building something to your best ability 
+ and then testing it against another's. 
+::::::
+
+::::::
+UserName: LordKane100
+Rating: 8.4
+Date: May 26, 2007 1:33 pm PT
+Review:  Gamplay - All the missions are fun yet challenging. You definitly wont finish every mission on 
+ the first try. Plus, each mission briefing is cool, and really makes you feel like a Class-A mercenary. 
+ The environments are life-like, the missions are fun and cool to do. Being a mercenary who's paid 
+ to sit in a huge robot and blow other mechs up is the theme in AC4.
+  
+  Graphics - Like I said, the environments are a feast for the eye. And when you spend countless 
+ hours customizing your mech, you get a sense of satisfaction when you sit back and marvel it.
+ 
+  
+  Story - Some missions are too short. I would have enjoyed some really cool missions for longer 
+ than like a minute, but thats only a minor issue in a few missions.
+  
+  Overall - You definitely don't have to be a mech enthusiast to love this game. Its well worth your 
+ money, in terms of story, graphics, fun, and time spent. 
+::::::
+
+::::::
+UserName: chipoltle
+Rating: 9.5
+Date: May 25, 2007 11:58 am PT
+Review:  Not much to complain about. Pretty much the same storyline as all the rest. You do a mission, fight 
+ some ACs, and end up doing something very big in the end. Probally the only thing i got to complain 
+ about is that the controlls are very different. For us who have played AC sinc ethe begining, this 
+ was a shock and had to get used to it. Sound is good i guess. Not much soudn to think up of. Its 
+ guns and stuff. Bang boom ya know. Graphics are pretty good too. Yeah there are some places where 
+ it could be inproved but pretty good otherwise. Other than that it is a pretty good game. 
+::::::
+
+::::::
+UserName: ice-vanilla
+Rating: 9.5
+Date: May 21, 2007 10:03 pm PT
+Review:  My first Mech game and I LOVE IT!!! In fact Im gonna label it as one of THE best games for the 
+ PS3. Say all you like but thats what I think. The graphics in this game are a huge leap from what 
+ Ive seen in the previous installments. Of course that is to be expected. It is a next-gen game 
+ after all!!! Destructible environments, great particle effects, a steady frame rate. what more could 
+ you ask for??? It didnt take long to understand the games control scheme either. So newbies wont 
+ find that hard. The Mech customizing tools are great. You can spend hours upon hours creating your 
+ perfect war machine. However this game is not without its faults. After you destroy the surroundings 
+ and Mechsit would have been cool if you could just take a look at the havoc you caused. But unfortunatelydestroyed 
+ Mechs and buildings disappear soon after theyre destroyed. The levels arent so huge either and 
+ missions finish real fast. But overall Armored Core 4 is a faster and more thrilling than most 
+ games of the same genre. To me its a must have game for hardcore Mech fans!! 
+::::::
+
+::::::
+UserName: UTIxxx50
+Rating: 7.6
+Date: May 19, 2007 11:03 pm PT
+Review:  The graphics in Armored Core 4 has been improved. the game has destructible environments, impressive 
+ explosions, better particle effects and better lighting but it has its flaws: some bland textures, clipping 
+ problems and debris that dissappear. The sound has also been improved. You can hear what your mech 
+ is doing and the music is now better than the previous games but there are only a few of them. 
+ It is now more accessible when you are customizing your mechs. Too bad most of the parts are just 
+ upgraded versions of other weapons. Missions are short and few. Some are easy and some are hard and 
+ fortunately, many of the missions are action-packed. The game sucks when it comes to online and 
+ offline multiplayer. There are few maps and battles only come in two flavors: team battles and free-for-all 
+ fights. Most of the maps are just open areas. Armored Core 4 is a good but flawed game. Buy this game 
+ if you're a fan of the series, if you like mechs or if you like customizing things. 
+::::::
+
+::::::
+UserName: gunboyx
+Rating: 7.8
+Date: May 8, 2007 11:07 am PT
+Review:  I have been a hard core fan of the armored core series and I was happy that it made its way on 
+ to the ps3. However I can say this is not the best in the series.
+  
+  first off :Graphics well looking at the opening video and the game play I am a bit disapointed. 
+ Im sure they could have made the game look a lot better and more closer to the vid if they had 
+ tried. When you look at your ac in side its garage the detail and Graphics look as sharp as they 
+ do in the video yet when you are in game play its toned down and looks only a bit better they the 
+ ps2 games.
+  
+  next: Game play this one I was happy with. its much faster, easy to get in to and very fun. by 
+ far the best controls for the series. The new energy system takes away the pain of loseing power 
+ or over heating and finaly you can do a mission on water and not sink. however this kills the fact 
+ that hover legs are no longer needed to do water levels.
+  
+  Game modes: story mode is ok. There are videos and a guy who tells you whats going on that gives 
+ you an idea of the plot. foronce in armored core you know whats going on to some extent. the missons 
+ are very short and theres few missions. this kinda kills. You would think that the online feture 
+ would fix this... it does not. Infact online is the most disapointing thing. It feels slap on . 
+ You have a choice of ranked and none. you can creat a game or look for one.... simple yes but its 
+ nearly inposibale to get in to a game. Theres no list of games so you canrt see whats open and 
+ when you hit search its rare to find a game. There is no messager, heck there is noo way to realy 
+ chat. You get to choose a few already made frases that you can not edit. you would think if they 
+ was not goinmg to give us voice chat they could have game us an online keybord but no. very disapointing. 
+ the game play online atlest holds up. there is a few minor lags but its not to noticeable
+  
+  Ac custom: as in all armored cores. there is a lot to do to buld your own ac. agin though here 
+ it feels rushed. This is by far the first ac game to have very few main body parts. There is only 
+ two reverce legs, one tank and one hover. pluss many other parts. but there still is a good amont 
+ to choose.
+  
+  The emble system has been turned in to more of a stencle process. Im not to mad at this as its 
+ understandibal that this keeps people from makeing inopropiot embles for others to see online. 
+ You can still make a lot of cool embles. this is just a personaly of mine but Im a biit suprised 
+ that in their animal stencles theres no raven O_o odd huh?.
+  
+  Another nice feature that is a plus is that you can not only make embles but you can mke decalls. 
+ this is a great feature to painting your ac.
+  
+  Sound: you got your basice weapon sonds. nothing to exciteing there. The exciteing part is the 
+ new music score. unlike the old armored cores this one rocks. lots of good rock music that keep 
+ you pumped, theres many that fit the game.
+  
+  All in all its a good game but not the best. next time I hope they put more efort in to the online 
+ part. 
+::::::
+
+::::::
+UserName: Gamer443
+Rating: 8.4
+Date: May 3, 2007 2:13 pm PT
+Review:  This is my first time playing a Mech game. I have to say that this game is pretty cool and fun. 
+ what i relly liked about this game was the fact you can customize your very own mech and use it 
+ on online matches. There are a lot of mission that are either very easy or very hard. What i didnt 
+ like about this game was the lack of multiplayer maps, but i do hope they add more in the coming 
+ updates. The online is great and all but if you realy a first timer on this game and jion online 
+ mode at the strat you can get pwned very easily. But overall this game is the best mech game i 
+ have ever played. 
+::::::
+
+::::::
+UserName: Rizer
+Rating: 7.5
+Date: Oct 8, 2007 9:08 am PT
+Review:  Armored Core 4.... well... actually ANY Armored Core game, is a complex followthrough on a simple 
+ idea; build a robot then go out and blow things apart with it. As time went on, however, the features 
+ grew and grew until, at last, the options involved with creating a prized war machine seemed nearly 
+ endless and players found themselves more enthralled with constantly overhauling then most everything 
+ else. It's fun, and is still basically about trashing gaint robots for cash, but the serise itself 
+ has seemed to evolve to appeal to the type of people who simply like to create, test and compete 
+ much in the way a streetracing junkie can't stop messing with cars. So while the idea may seem 
+ like it's simple, if a player is new to the serise, he or she may find themselves getting deeper 
+ into the limitless options as time goes on.
+  
+  STORYLINE:
+  
+  The story, believe it or not, is quite unique among scifi tales. It's about the shifting of power 
+ in a future where companys fight (more often literally than not) for domination over entire planets 
+ while small liberation sects try to rid themselves from their absolute rule. You, the player, are 
+ what is known as a raven, a mercinary, that makes a living doing freelance dirty work for whoever 
+ pays the most and for a while, you and your manager are okay with that, until events unfold that 
+ reveal a terrible truth.
+  
+  Personally, I would have like to see the story go more in depth as it has a lot of potential, but 
+ I've wanted this since the first armored core game I've ever played and nothing has really changed 
+ too much. GAMEPLAY:
+  
+  The gameplay in this game can be a little misleading at first. It seems to be simple; you hop in 
+ a robot and blow everything up. At first, it IS that simple, but shortly after you got one or two 
+ solid missions under your belt you dive headfirst in molding your AC (amored core / giant robot) 
+ to fit your playing style. Interestingly enough, while you mold your machine to fit your needs 
+ the stances you must take on some of your missions require you to adapt as well. Some mission require 
+ mass amount of fire power, while some require speed, others edurance, still others accuracy and 
+ so on. Because the AC is treat as an accual vehicle would, a constant game of give and take involving 
+ overhauling and using spacific parts takes place. Add and almost limitless supply of parts and 
+ combination of AC tactics (both AI and online players opponites) and chances are you be spending 
+ a LOT of times twiking your 3,000 ton ride then watching blow up and blow other things up.
+  
+  GRAPHICS:
+  
+  Awsome. Like, crazy awsome. The detail of the machines and what it can do 
+ to it's surroundings is eye popping. The only real downside in the graphics department is that 
+ the missions can go by so fast and the levels aren't that huge.
+  
+  SOUND:
+  
+  The sound is good, but it's the techno track of this game that I really like. 
+::::::
+
+::::::
+UserName: Rigyabliss
+Rating: 7.9
+Date: Apr 19, 2007 10:48 am PT
+Review:  Upon first loading up the game, I was surprised to see how familiar the game was having played 
+ AC3 years ago. The game begins by running you through a series of tedius tutorials which are helpful 
+ but move at a snails pace. Fortunately, you have the option of skipping these. When choosing your 
+ first armored core the game is helpful in explaining the differences and average difficulty of 
+ that particular style.
+  
+  The main screen is similar but an overall upgrade from the last game. All of the features are back 
+ such as customizing ac's with alarming depth, and being able to make tweaks and test before making 
+ any purchases. 1 vs. 1 ac fights are also back with multiple battlegrounds to choose from based 
+ on your style. Single player missions are limited to a handful of objectives like defending a target, 
+ destroying a single target, destroying a handful of targets, and destroying all enemies on screen. 
+ The missions become tiresome eventually but hold their value for a good deal of the games length. 
+ AC4 is not without its imperfections however. Customizing ac's is very deep and involved, however, 
+ many of the statistics on parts are not self explanatory and its hard to ever find 100% upgrades. 
+ Even when replacing stock parts with much superior ones, you won't find any that improve every 
+ stat. Some single player missions also seem to be biased towards a particular ac style and are 
+ almost impossible to do with others.
+  
+  Overall, AC4 is a very well designed game which will give hours of exciting mech combat. Single 
+ player missions are fun if not repetitive, and customizing your ac is as involved as ever. For 
+ fans of mech combat this is a must buy, for any others, its worth a play through. 
+::::::
+
+::::::
+UserName: fatcowbob
+Rating: 9
+Date: Apr 12, 2007 11:26 pm PT
+Review:  To bad the afore mentioned group is few in numbers, but I am one of them.
+  
+  I love a good game where when I crank up the difficulty I don't pass the mission on my fist try 
+ nor the 10th. I love Armored Core. Why? because you get your moneys worth. I play though a game 
+ on easy fist then the highest difficulty, then get all the extras. By that time (depending on the 
+ game) I've max out my dollar unless there's online then I play untell the next cool game comes 
+ out then sell it to buy the new one (I'm not made of money) . If the game is good then it stays. 
+ Armored Core 4 will be one of the keepers. EASY
+  
+  AC AI is kinda dumb the fist time though, they randomly stop moving just so you can hit them. they'll 
+ stop shooting even though your wide open. And rarely fly up to avoid splash damage from your rockets. 
+ Now that doesn't mean it's a walk in the park your first time though and even though some missions 
+ are easy does mean you'll get a S ranking at the end. Even the easy missions are difficult if your 
+ going for the S ranking. (The driving force to get S ranks is you get unlocks.) S ranks are given 
+ if you complete the level within a certain time AND conserve you ammo AND you have to complete 
+ the level with the level with a certain amount of health remaining. You now what that means: hours 
+ of frustration coupled with the mass rush of adrenalin every time you get close and the final weight 
+ being lifted off you shoulders high when you beat it. on easy I beat the game in 8 hours. Went 
+ back to get all S ranks took me additional 4.
+  
+  HARD
+  
+  The second time though AC steps up the game play. The game becomes even faster paced along with 
+ smart AI that: hides, fly often and gets to you back side, all the while taking precise shots and 
+ using the appropriate weapon base on the circumstances (EX. the bot has a laser and a cannon, if 
+ your above it, it will use the laser which has plenty of ammo while if it is above you it will 
+ use the cannon because even if you dodge it will still have some splash damage) , AND is dodging 
+ your shots. On top of that when you first play a mission on hard you can't use your old battle 
+ strategy because every level changes. It might be you cant use your force field call primal armor 
+ and there's more enemies. But thats not all the fun; most of them have a plot twist you could say. 
+ After what you think is the end of the level you'll hear some thing like more NEXT spotted or what's 
+ that and have to get ready fore another bout of mechs. The characters also say different things 
+ and events change ( EX. one mission your suppose to protect a plane untell take off you also can't 
+ use your PA untell it leaves. On easy this is well easy your able to kill the 3 incoming waves 
+ of enemies before the plane warms up. On hard every thing looks normal at first then after the 
+ 2nd wave a NEXT appears then you hope the plane is ready so you use your PA, but then the the plot 
+ twist the plane has a malfunction and you got to kill the guy infront of you before the 3rd wave 
+ makes it to you plane and you don't have PA.) This was a really cool touch that haven't seen done 
+ before many times, definitely adds replay value. hard took me about 15 hours to get all S.
+  
+  GRAPHICS
+  
+  Madders what your looking at and at what speed. No madder what speed your mechs 
+ still look awesome the detail is insane and the buildings included. Basically if you can blow it 
+ up then is looks great. On the other hand the ground, walls, sky box, etc. all look like they were 
+ riped out of a repeating texture catalog from 2001. Thats when your standing still if your playing 
+ and moving like mad then the games background becomes a useless blur that you don't pay any attention 
+ to because your in a roaring battle. EXPLOSIONS there's a lot of them and the biggest I've seen 
+ in a game coupled with destructible environments makes for a good show. Some frame rate issues, 
+ though it only happened when 40 some missiles met 80 missile mid air with a mech in between. Dynamic 
+ shadows KICK ASS!!
+  
+  SOUND
+  
+  One of the best I've heard. Explosions coupled with epic BG sound just make the game feel kick 
+ ass. Voice acting is kick ass. The quality of audio is also astounding.
+  
+  POOR POINTS
+  
+  Why can't I listen to every song from like a song selection menu. I also want to view videos 
+ section the opening, credits, maybe 2 expert pilots duking it out. fix auto balance on the heaver 
+ corrections it just ignores them and dose nothing. Let me unlock more frs than about 300 I want 
+ to max things out and not have a crap core because every thing is focused on one thing. There are 
+ only two good shoulder options an both come at the end of the game. Overboost is over rated no 
+ one uses it it drains your PA. Why does the game have to go into pitch black lighting FOR THE FINAL 
+ BATTLE. The coolest mech in the game and you can't see him. OVERVIEW
+  
+  Fun game fast and hard. NOT for games who all balls out rush every thing you will never see the 
+ end of this game. 
+::::::
+
+::::::
+UserName: pigsybum
+Rating: 7.6
+Date: Apr 12, 2007 9:11 am PT
+Review:  Armored core 4 is out, and is available on xbox360 and ps3, this will be a review by me on the 
+ ps3 as well as xbox360 since they play the same.
+  Firstly, this is a very complicated, begineers might find the missions incredibly hard and impossible 
+ to complete, thats what i felt too when i first touch the game. This game is by far, one of the 
+ better mech game, it's customisation is really deep. Parts are seperated for customisation, mainly 
+ Head, Body, Arms, Legs. These compartments are vital for ur Weight and EN (energy) usage. Having 
+ a too heavy would land you a really slow moving AC.
+  Further customisation, we have weapons, having Both on the Hands, Shoulder, there's also other 
+ compartments like the hangar or something storing a backup weapon when ur current weapon go ammo-less.
+ 
+  more into customisation, there's the design of ur AC, you can put decays, do paint job as well, 
+ these are pretty interesting but dun make ur AC look too attractive to get spotted.
+  
+  Overall: This game is great if you're info mech or is a AC fan, if you're not i suggest you better 
+ dun touch it cause the difficulty would turn you off. i wouldn't exactly say it's very difficult, 
+ because if you've done enough customisation to your robots, game should be pretty okay, for me, 
+ i've already played though every mission and is trying the hard mode. mentioning hard mode, there's 
+ the:
+  FRS, it's a system that adds points to ur attributes, such as ur Primal Armor, boost, quick boost 
+ etc.
+  take note there isn't a life system, all they're using are armor system and PA is ur main armor, 
+ you have that deplete then it's mission failure for you.
+  
+  really, if ur a new player, u needa be forgiving to this game, i recommand you get double granade 
+ launch on ur shoulder or thing would go really hard for you, guide in gamefaq/ gamespot would help 
+ too, can pm me if ur stuck.
+  Since there's only the US version now, which is why i ask interested but not a fan to AC series 
+ not to touch this, it's expensive and the joy you get won't be worth the dollar. i myself wasn't 
+ a fan, so i understand, but i did struggle hard to like this game, now that i find it more interesting. 
+ after all you might end up like me, who grew to find this game nicer.
+  
+  However on the other side, if ur a fan, this game is a great add-on, enough parts to keep you busy. 
+ Can take ur AC online to battle other players.
+  
+  A newcomer might give it a 4/10 but a fan would probably give it a 8/10 
+::::::
+
+::::::
+UserName: KainTomonari
+Rating: 9
+Date: Apr 7, 2007 4:26 pm PT
+Review:  I rented Armored Core 4 for the PS3 and I must say it is a nice improvement of the series. The 
+ removal of the radiators and heat index is a nice change. Also flight is near limitless with proper 
+ energy management, a feat that has been difficult to pull off since Silent Line. The customization 
+ was nice, however there are slightly less parts than I would have liked. The New emblem maker is 
+ a nice upgrade of the old system. I also liked the new decal system, which lets you customize your 
+ AC with decals like in Midnight Club Dub Edition. The upgraded tuning and the addition of the stabilizer 
+ part gives the game a little more depth for gear heads, or you can just let the game decide how 
+ best to tune and stabilize. Also the stabilizers add additional flare to your AC. I also enjoyed 
+ the narrative as it was much more in depth than previous installments. Over all the difficulty 
+ was a little easier than the PS2 games however there were a few missions that were inconsistently 
+ hard. The new control scheme was alright, it is a little different for a fan of the classic scheme 
+ like myself. However the lack of the ability to invert the axis is a little frustrating but once 
+ I got used to it, it was fine. Overall a great game for fans of the old series as well as newcomers. 
+ I am going to give AC4 a 9 out of 10, but of course that is a little bias as I am a fan of the 
+ Series :P. Kain Signing Off. Peace. 
+::::::
+
+::::::
+UserName: BerserkFury1989
+Rating: 8.6
+Date: Apr 4, 2007 5:46 am PT
+Review:  Well, the only Armored Core I have played before this one was the one on PSP, and man, was that 
+ game bad. After this, my friend got AC4 for his 360, and he gave me good feedback on it, so I got 
+ it for my PS3, and I'm happy that I did. Starting the game off was pretty annoying. Just like most 
+ people, I was too lazy to read the manual, so I didn't know what each symbol meant. It was only 
+ thanks to my friend explaining everything to me, that I was able to enjoy the game. Getting the 
+ right parts on your Next is as important (if not more important) than actual combat skills. In 
+ the start levels you can pretty much use any weapons without a problem, but as the game progresses, 
+ you start running out of ammo, and getting killed really fast unless you got some powerful ammunition 
+ and armor set up. Once you get this down, you can really start enjoying yourself.
+  
+  Multiplayer was a real let down on the PS3. When my friend told me about his 360 version, he told 
+ me how much fun he had. On the PS3 there were only about 4 - 6 people on at a time of the whole 
+ North America region. That is somewhat pathetic. Another problem is the the PS3 version lacks voice 
+ communication. Now the graphics. When you start the game up, you must watch the intro movie, its 
+ probably one of the greatest animations of mechs you will ever see. Then when you start playing 
+ the game, the environment might appear to be a little bland, but actually, it is not. Everything 
+ that looks small/weak can be destroyed, either by firepower, or by bursting through it with your 
+ Next. Shooting walls on indoor battles always leaves some kind of a mark, missiles leave huge craters, 
+ laser rifles leave glowing impact points. On some missions when you have to protect a building, 
+ it sometimes seems that you do more damage it it yourself.
+  
+  Finally, this is a great game to get. It is really fast paced and fun to play. I would definitely 
+ recommend it to any mech fans, as long as you don't expect great online play. For that, I would 
+ recommend the 360 version. 
+::::::
+
+::::::
+UserName: Broken_Mind
+Rating: 7.9
+Date: Mar 29, 2007 10:56 am PT
+Review:  The 12th installment of the Armored Core franchise, it delivers where many other Armored Core games 
+ have fallen short. Filled with customizable parts and a simplified control scheme and building 
+ process, it has made itself a bit more accessible to the more casual gamer than others of the series. 
+ As always, it is difficult to describe such a customizable game in a single term. The combat can 
+ be quick-paced and frantic, calm and collected long-range sniping, or it could be an all out slugfest 
+ with heavy weapons and armor depending on how you build your AC. The mission are challenging, if 
+ a bit short. Several of the rough, awkwardly worked aspects of the previous games have been either 
+ tweaked or removed entirely, and the rest have been polished well. Armored Core 4 has at last delivered 
+ the graphical update its fans have been asking about for many years, and the level of detail is 
+ astounding, particulary in the department of lighting. From the shadows cast by your death machine 
+ to the small illumination of your boosters, the lighting is well done. Armored Core 4 is a well-built, 
+ solid addition to the genre and is worth playing through for any fans of mech games. 
+::::::
+
+::::::
+UserName: mechwar2000
+Rating: 9.3
+Date: Mar 26, 2007 8:05 pm PT
+Review:  Armored Core 4 is worth playing for people who have enjoyed the MechWarrior Series. I like the 
+ game's fast movement and overall graphics quality. I agree that the missions are quite short, but 
+ makes it up by making the missions a bit harder. The movement of your mech is pretty simple and 
+ by playing for 60 minutes or less you could pretty much use the boosters efficiently. Mechwarrior 
+ fans who liked chromehounds will like Armored Core 4, but the game is really fast and if you are 
+ a camper then its harder to beat. Armored Core 4 is a good game to have in your playstation 3 game 
+ collection. 
+::::::
+
+::::::
+UserName: venomousmonkey
+Rating: 8.7
+Date: Mar 26, 2007 12:15 pm PT
+Review:  I, as an armored core fan, was hopeing for a little more. I love the new fast pace mech action, 
+ and the details on the mechs and weapons are great (especialy watching the missles launch) . The 
+ major problem is the lack of detail in the environment. Most of the maps are kinda plain, something 
+ i would expect from ps2. Especially the multiplayer maps. basicly theres a desert, a few digital 
+ maps and some inside building maps. In the whole intire map of the desert, it is just sand. no 
+ rocks, no cactuses, just sand. And the rest are simalar with a exception of a few walls or buildings. 
+ Now for the missions. I havent gone through them all, but what ive seen soo far is very short missions, 
+ your looking at 2-3 minute missions. But they are hard, which means your repeat them alot which 
+ can get boreing as well. And from what i hear, there isnt too many of them.
+  
+  Now for the gameplay. the gameplay is amazing. In the previous amored cores useing R2 and L2 for 
+ aiming was very annoying and tedious. And the boosting would always run dry very quick, which made 
+ the game kinda slow. But since nine breaker they replaced the vertical aim by being able to use 
+ the R 3 stick they still have it but better. The boost lasts alot longer which is also a relief 
+ and makes the game alot more fast pace and exciteing.
+  
+  Over all the game has alot more improvement, but still needs more work on the hopefully upcoming 
+ armored cores. 
+::::::
+
+::::::
+UserName: TriangleHard
+Rating: 7.3
+Date: Mar 25, 2007 1:52 pm PT
+Review:  It is very difficult to think Armored Core 4 is the result of 10 year evolution. The controls, 
+ level design, minor technical problems like loading time, and graphics all say they are just entering 
+ gaming industry. Well 10 years ago, I picked up this little game called Armored Core. I was blown 
+ away with unique aspect of the game, which allowed me to put together a robot. Not just put it 
+ together but to think how to make it in so many aspects I never thought about like radar, generator, 
+ etc etc etc. 10 years later... here it is. The large difference from the very original is practically 
+ analog controls, updated graphics, and more types of booster functions. Graphically, this game 
+ is unimpressive. Bland background, no anti-aliasing, and lack of texture quality on it's setting. 
+ Robot animation and graphic is good though, but still no anti-aliasing ruins it. Well, I guess 
+ the old saying is true. If it ain't broken, then don't fix it. Armored Core 4 control isn't the 
+ best you can find, mostly due to slow camera, especially when you try to face sides, but it does 
+ give unique feel of control as if you are controlling a robot, not another muscular hero with big 
+ guns. Well that's good, but why make some aspect of the game worse? The game has serious lack of 
+ depth when it comes down to level design. This was one of the biggest strengths in Armored Core 
+ series. Huge number of missions, variety of of the missions, and length of the missions. Only thing 
+ left now is variety of the missions. The missions are VERY short and there are much less of them 
+ now. The difficulty of the missions are still not easy, but when a mission lasts shorter than opening 
+ sequence and loading time combined, then there is some problem with game design. No matter how 
+ good the gameplay is, if you don't have proper level to experiance that gameplay fully, then what's 
+ the point? Well there is a point, because now there is online mode! Well good thing to have, but 
+ executed very poorly. Unlike many shooting games, Armored Core online is very fixed. You can't 
+ join a room that is already running. Very much like Starcraft, you must make a room, wait for people 
+ to join and then launch the game. This wasn't a problem in Starcraft because the length of the 
+ matches can be very long so waiting didn't seem big problem. However, Armored Core 4 has time limit 
+ and max is 15 minutes. As of now the online community doesn't seem populated enough and making 
+ a room and launching the game takes well over 15 minutes. It's like going to a theme park. You 
+ have to wait long lines just for quick fun. In the end it makes you feel like it just wasn't worth 
+ it. That isn't the only problem in online mode. You might create a room but it seems like you join 
+ any room automatically. This means you can't choose who you want to play with. Well so far that 
+ hasn't been a problem for me because there seems to be only one room when I try to join, so I didn't 
+ have trouble playing the game with my friend, but I can see potential of serious problem if the 
+ game indeed does get populated. On the positive note, the game still provides huge depth when it 
+ comes to mixing and matching your robots. huge number of parts to choose from and huge number of 
+ specs to look at and all the paint job you can give. No other game gives you this much of options 
+ of what you can do with your vehicle. Overall, the fans of the series will love the game for more 
+ responsive control and online mode. However they will be disappointed with lack of levels and the 
+ depth of missions. For casual players, the game's control and bland online mode and level design 
+ could be immediate turn off. In the end this game is for people who just loves giant robots, because 
+ no other games can provide you robots like this one. 
+::::::
+
+::::::
+UserName: devilcallum
+Rating: 8.6
+Date: Mar 25, 2007 10:59 am PT
+Review:  Well, I had never really played an Armored Core game... ever. Infact, i normally hate mech games 
+ do to their slow-ness.
+  
+  But i decided to pick this up-
+  And boy is it fun.
+  
+  If you, like me, dont like mech games do to their slow, repetitive, all-out boringness. You wont 
+ find any of that here.
+  
+  Your mechs zoom past buildings faster than a plane. There's explosions everywhere. Buildings falling, 
+ Mech Arms flying off, etc.
+  All with no lag! (Well, on the PS3 version. My friends 360 version lagged a little) .
+  
+  All 
+ in all, Armored Core 4 isnt just for the EXTREME armored core fans out there. Its for everyone.
+ 
+  
+  Go pick it up. You wont be dissapointed. (Unless you suck at games... cause this game is hard as 
+ hell.) 
+::::::
+
+::::::
+UserName: darksdowdo
+Rating: 9.6
+Date: Mar 24, 2007 4:40 pm PT
+Review:  So lets Frist say its been awhile since the last Armored core game 3or 4 years. And know Armored 
+ Core is Back and hard as ever and Insane Graphics.
+  
+  Gameplay - It ur standard armored core game Mish Mish Mish Boss Mish Mish Boss. And over and not 
+ to say thats a bad thing thats actulay a very interesting part. though mish can sometimes only 
+ last about 2-5mins they are sure worth them all that action there is involved in it is crazy... 
+ So Also this game no difficulty settings which is a BAD THING...... the early mish so From the 
+ 1 - 2 Completeing all mish are pretty easy but 3s mish are crazy hard. so this game is not for 
+ those people who get mad very often.
+  
+  Graphics - They are Very well done Graphics and every thing show up nice. The Lighting, Shader, terrain, Models 
+ everything look So good. Ont the models the lighting is so good on theme and u can see every aspect 
+ of the mech ur using..
+  mostly the Xbox 360 vs PS3 I prefer PS3 just cause the lighting in the 360 is dark. Sound = Exolentay 
+ Online = Ehhhh its alright its fun but the real problem is getting in to a game theres no lobby 
+ to show games so its hard all there is is search. but once u get into a game its Alsome. Though 
+ play single player frist and get ur good stuff on ur mech or u will get shank real badly... So 
+ most of u are asking is it worth it id say yes if ur into customizing ur mech ( and who isnt ) 
+ Super fast gameplay. Ther game just doing mission can clock ur time in about 10 hours do to almost 
+ spending hours in the customization aspect of it. 
+::::::
+
+::::::
+UserName: matricks
+Rating: 9.3
+Date: Mar 24, 2007 11:06 am PT
+Review:  Let's cut to the chase. The next gen graphics are awesome. The style of the game represent a post 
+ apocalyptic earth. Missions are scattered across the globe where you will experience multiple environment 
+ effects, for example a desert sand storm impedes your visibility and will make you be thankful 
+ you are in your cool ass mech and not outside getting pounded by the violent sand. City scape's 
+ are true to form and buildings are destructible. There is nothing like boosting your way down city 
+ streets to engage the enemy. There are a wide variety of mech's and weapons to choose from allowing 
+ you to customize your mech to your hearts content. Everything from weapon placement to customizing 
+ your paint scheme is here and the ability to create your own emblems is a nice touch. Multi-player 
+ is a no frills experience with nothing but mech combat goodness. You can choose 1 vs. 1 or join 
+ teams of 4 or 8 other mechs and their ranking system is simple yet effective. Defeating the enemy 
+ ups your rank and losing brings down your rank. Simple as that. Now the game isn't perfect but 
+ if you're looking for anime style mech action found in Gundam and Macross then look no further. 
+ This game will satisfy. 
+::::::
+
+::::::
+UserName: Divine_Sword
+Rating: 9.7
+Date: Mar 23, 2007 5:21 pm PT
+Review:  I have play previews Armored Core games and they were good but this game has taken everything to 
+ the next level with fun gameplay, great graphics, sound, online and just about everything. I have 
+ play this game for countless of hours and its fun. don't let other poor reviews given by other 
+ sites stop you from buying this game. most of my hours i spend in this game was customization, 
+ just making the Mech appearance is just awesome. if you haven't play previews armored core game 
+ i suggest you start with this one and you won't regret it one bit. 
+::::::
+
+::::::
+UserName: ForlonHope
+Rating: 9.5
+Date: Mar 22, 2007 7:40 pm PT
+Review:  It's hard to start. The game is all over the place. Compared to the past AC, this by far is one 
+ of the best. The graphics are phenomenal. The buildings are destructive and look life like compared 
+ to From Software's Chromehounds. The mechs are highly detailed to a fine crisp point where I am 
+ able to see fine patterns on the mechs chasis.
+  
+  Gameplay is fast paced and extremely action packed. I love how the boosters actually benefit the 
+ player in this edition rather than hinder. The missiles that other mechs shoot out are able to 
+ be shoo down (wow) . Customization of a mech is a key element in winning.
+  
+  The sound, compared to Chromehounds, was definetly a bit of a let down. They seemed quite softer 
+ and the blasts and impact damage on the mechs didn't make the gamer aware of what was happening 
+ till it was too late. This was my only complaint about the game.
+  
+  Overall, a must have. Worth every stinking dollar out of your pocket. I choose this game over Virtua 
+ Tennis 3. I am definetly not regretting my decision. Gamespot highly rated this lower than what 
+ it should have gotten.
+  
+  Your PS3 is a waste if you haven't even tried this out. 
+::::::
+
+::::::
+UserName: 9thwardice
+Rating: 9.9
+Date: Mar 22, 2007 12:38 am PT
+Review:  just when i thought this game series couldn't get any better it looks great, it plays great, its 
+ really a next gen game all da way! They have some great new features in it, like the new online 
+ intense battles with up to eight players. The looks are beautiful, compared to the last couple 
+ of armored core games that have been released on to the ps2. But what else would you expect from 
+ a next gen system. I love the new destructible stages it makes you experience the whole realistic 
+ combatty kind of feeling u no. They have some great weapons. Not to mention the new boost powers, 
+ also thebrand new shields that i find fun to use and let my opponents hit me on purpose just to 
+ see the sparks come from the surrounding shield. Overall, i dont think i'll stop playing this game 
+ until a new one comes out 
+::::::
+
+::::::
+UserName: milkweed989
+Rating: 9.6
+Date: Mar 21, 2007 2:36 pm PT
+Review:  Great if you are looking for a robot game which includes speed, power and customization. The weaponry 
+ is vast and fits any combatants style the armor can be personalized along with the weapons and 
+ so far this Armored Core is the best, graphics fit in very nicely the sound matches with the weapons 
+ and Game Spot should be ashamed to give it such a low ranking! Even though the storyline is somewhat 
+ boring as usual the game play for anyone who has played the Armored Core series before hand will 
+ love this one even though it is fun for veterans it still has a welcoming feel for beginners too. 
+ 
+::::::
+
+-------------------------------------------------
